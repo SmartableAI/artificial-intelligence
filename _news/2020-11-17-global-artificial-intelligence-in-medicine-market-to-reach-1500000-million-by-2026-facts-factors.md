@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-to-reach-1500000-million-by-2026---facts-factors-2020-11-17"
 type: article
 quality: 51
-heat: 61
+heat: -1
 published: false
 
 provider:
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026 - Industry News"
-    excerpt: "Global artificial intelligence market Size, Share is estimated to amass around US $54 billion by the year 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market Analysis,"
-    publishedDateTime: 2020-11-17T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-reach-around-us-54-bn-by-2026---industry-news-2020-11-17"
+  - title: "Artificial Intelligence Chip Market CAGR to Reach 35% During 2019 to 2027"
+    excerpt: "Research Dive :The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with a CAGR growth rate of 35.0% in the forecast period from 2019 to 2027."
+    publishedDateTime: 2020-11-18T12:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-sports-corporate-news-fantasy-sports-8016c6c163f7684582ff98388fe4d3e3"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Associated Press
+      domain: apnews.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "CO4E6P962w7ZeIW4bW1SgHgS2VtdpbSl5P1EnMyJwK2RzfpRK8cgqsHqi+igoF3J9pMv6dFbYBbxaqwgdLiS56FjvNzX4JVqqvnmA/ELZwPR5oYz3X8hI48UFcrVil/a7xGV4YTQ5W+Mc2c+vA+vrNa/f4bR9IcmCCJO/9o78pNovIxjeZPklBLVtOZj2MXrdkRdSpm8wAK6Xx0KCxKxaw0t68AcMdw6VWn4R14iHCxuRMp8zv6IKssb1uIGHbRz1leaQZ/FWL97yZw3HGqkQojxyrHetRdFt5/6YQsEOAogSAsZDwuFDLdWSga8Y9GdTjj+Wl6CZQEiIurZHwiBHT2tzTuZhoQE1KajJDwO8jw=;HGDIDbTdQrIKWsedd8pL7w=="

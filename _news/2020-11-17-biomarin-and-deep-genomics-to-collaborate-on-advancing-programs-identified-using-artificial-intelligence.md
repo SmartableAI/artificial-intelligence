@@ -1,21 +1,27 @@
 ---
 category: news
 title: "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence"
-excerpt: "BioMarin will receive an exclusive option to obtain Deep Genomics' rights to each program for development and commercialization. In the collaboration, Deep Genomics will use its AI Workbench to identify and validate target mechanisms and lead candidates,"
-publishedDateTime: 2020-11-17T13:29:00Z
-originalUrl: "https://www.nasdaq.com/press-release/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using"
-webUrl: "https://www.nasdaq.com/press-release/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using"
+excerpt: "PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) and Deep Genomics today announced that the companies have entered into a preclinical"
+publishedDateTime: 2020-11-17T12:29:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-301174203.html"
+webUrl: "https://www.prnewswire.com/news-releases/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-301174203.html"
 type: article
-quality: 30
+quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/534018/BioMarin_Pharmaceutical_Inc_Logo.jpg?p=facebook"
+    width: 1493
+    height: 785
+    isCached: true
 
 related:
   - title: "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence"
@@ -44,6 +50,6 @@ related:
         height: 1280
         isCached: true
 
-secured: "z/pSG9xth4MoyUsZ7f8WWxoBjlfZSDi3uqVzEb7B1eG51Kpt4b+vqpbEQWHSytkAW/0wcfJPTHXsxPUNMDYiyDRZ44mDquQUwbHKhF66nIjx4QPJplBf3rl5mWlEwtPhfgIYacTIEdhLujNoNbseyB4fS/glTcUgIMmRcR3JN9gCCLWEPQQhW1f04e05THCxaPL7FDmnb9MhTi9UzyiOsLlTKJb9BpG1EQNbXjYLRItMwYG0gkcYOjvNl/vw6nGlRoTedKTTQyvi9SPOcVj+ACCbyapVmNg4pKipW4UFbzNOUjZMOlrJKGnvqpB9+a9bHuRUpFjt/sJr9qQ7vJz5r8nUQik95e3thtWruKKZAD4=;G1FgQLZewLYj4oKus9S0Vw=="
+secured: "Io+O6nWGGsDNblTKasJyIHb9aZGo21qSTt/z3pXw6L1GOkk0ZGFzSskmboLaWQauDwMFovtLWa9KGEFshAd/WScQPzAWeIn7UBgkKQ5QnAUdscMVQGer7/Tq6RTjEwLBLble855My0hthQvqTaZYPJkEZEQN0UiSb/xKuBGX6LFENrbeIJYr0AexTKzitdKC6ZIbXXzLHmGRH9taNNoVGW/h4Mm3JN2298wb/HJjGswsMM1wIHeK3OfJl05+6V4SYikdd226OujMlsCek3KLY1hNvogtM8zpjw93BjtRBBSpH5LGqMv2p7Yw21tbh9MNluzNxraMKPOup78zZ8eXxFZxSYGAeadOJ6pwe4Auc0I=;mrzpMpkNBpmAP98Q9beZbg=="
 ---
 

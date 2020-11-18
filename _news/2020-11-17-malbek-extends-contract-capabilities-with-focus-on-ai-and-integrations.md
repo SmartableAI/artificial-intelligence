@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Next-Generation Industrial Robotic Capabilities Advanced by Artificial Intelligence"
-    excerpt: "As barriers between human activities and robotic capabilities diminish — moving beyond the fenced activities of last-generation industrial robots — new collaboration and workflow models are bringing humans and robots together in industry."
-    publishedDateTime: 2020-11-17T12:03:00Z
-    webUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-industrial-robotic-capabilities-advanced-by-artificial-intelligence/15914"
+  - title: "Riverbed upgrades cloud and AI capabilities with product refresh"
+    excerpt: "Riverbed Technology Inc. is upgrading several of its software products with new artificial intelligence features and other enhancements that will give enterprises deeper visibility into their networks."
+    publishedDateTime: 2020-11-16T14:42:00Z
+    webUrl: "https://siliconangle.com/2020/11/16/riverbed-upgrades-cloud-ai-capabilities-product-refresh/"
     type: article
     provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 48
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
     images:
-      - url: "https://www.roboticstomorrow.com/images/articles/15914.jpg"
-        width: 720
-        height: 300
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/riverbed.png"
+        width: 847
+        height: 475
+        isCached: true
+  - title: "Riverbed Unified Network Performance Management Takes Center Stage at Global User Conference With New Cloud and AI Capabilities That Deliver Greater Visibility Into Hybrid ..."
+    excerpt: "New visibility solutions and Riverbed’s NPM portfolio to be featured during free virtual Riverbed Global User Conference on November 17, focused on helping organizations maximize performance and visibility for any user,"
+    publishedDateTime: 2020-11-16T13:52:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201116005100/en/Riverbed-Unified-Network-Performance-Management-Takes-Center-Stage-at-Global-User-Conference-With-New-Cloud-and-AI-Capabilities-That-Deliver-Greater-Visibility-Into-Hybrid-Networks-and-Remote-Workforces"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
+    images:
+      - url: "https://mms.businesswire.com/media/20201116005100/en/647525/23/RVBD-Q118-OrangeLogo-RGB.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "0Bg0BMDGanRAd6XKIlBY8bcf3Ap3MjWXcBVsWHon5cwxPBTNZDuDW1GNRWPip1EMADm0ok68wkMeQ2wuyVcMidko6fGm74Gy1Y0rctjmvxp5ZHx4rvByAk2BVimj/MJ9Jpo/lJ+ktn8+RdU1pIYinqEYtFGfECa/nedjGROst5aFtw3IcEliXUVDAl78TXibr+1APyFJWxRE/zVo2Da7DaWGS5h5pQjft+Ec7z/8SDO2FuSKHJ/pMN6YavQQVqHVv1+qBuXF8SyFt4KzZsJvcf9sYs7kolRw7L8aAcOuOSdpdZbwhJCQ1097pOoUN+YENSmTRjvq1JpJLoJy3FoncskyX/avJISYz1sD/xHLDjU=;iq0GFs1BJjs3LO+kHGXf9w=="

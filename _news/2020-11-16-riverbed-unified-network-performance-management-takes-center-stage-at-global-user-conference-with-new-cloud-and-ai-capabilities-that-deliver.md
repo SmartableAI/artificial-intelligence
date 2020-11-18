@@ -39,6 +39,20 @@ related:
         width: 847
         height: 475
         isCached: true
+  - title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
+    excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
+    publishedDateTime: 2020-11-17T11:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "G1ACkcYyb/zlqlHRvWT/OmoHkM8Wn3+aDiZF4eny0WSWP8SKS4/x9zL7MyWrOHtnE5sThEZsre0jKqld0lFuWtcyabuspOOFjYT0UHhTluP30cd//LuVqclZQoIwuNwOmwzcVN/93J8IxjZyB0MPs3alYxszWmUgbn6l8NpbvP33EwslAOpLfxHGGorxm7lIKDdvaP2dcMy+4Kt+G6qrEbKVOqWBPa4oXB+v1SiLg6OE15j9iOqUHwLPTsyP9+KyXc0+gZQeMJTU65pA9B35BYzznJEfXKAW+QOujGiBhhIW2OXVs2whQr4tlvGxdEfrYmNJKzpgZhWvliOQ0add0/mE7buITJIiZOlmu3YSh2A=;tytH1AuHuFMZ+lEyaanu6g=="
 ---

@@ -25,44 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Corsight AI launches real-time facial recognition that identifies masked faces"
-    excerpt: "Corsight AI has launched a facial recognition solution that has the ability to speedily and accurately identify persons, bypassing obstructions to clear facial view such as face coverings and bad"
-    publishedDateTime: 2020-11-17T23:14:00Z
-    webUrl: "https://www.biometricupdate.com/202011/corsight-ai-launches-real-time-facial-recognition-that-identifies-masked-faces"
+  - title: "Los Angeles Police Department bans the use of third-party facial recognition technology"
+    excerpt: "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ..."
+    publishedDateTime: 2020-11-18T18:44:00Z
+    webUrl: "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 50
+      name: TechSpot
+      domain: techspot.com
+    quality: 81
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/12142443/mask-detection.png"
-        width: 1024
-        height: 512
-        isCached: true
-  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
-    publishedDateTime: 2020-11-17T21:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
-  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
-    publishedDateTime: 2020-11-17T13:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lung-disease-industrial-products-and-services-transportation-infrastructure-f598a33d5865b03d04e0e68cfb4897d6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-18-image-22.jpg"
+        width: 1680
+        height: 793
         isCached: true
 
 secured: "aOAjYWvwYG/L+OywXQoXtWyTS6SlNHqNAg8THI9zweLjT9mn4GCkn1cp77+IZZPM17qtHv45PxS65Zlo7MyC/7ijFfH2FfWiPOnkcPgfpUTROiIkCelN+/oqCk4Yy+yHubWJ/tYsUAGodJMdhZdJhsapzOv+lE4n2oJoytRlHqs6g2z+yj8Y0LA62CifW+5vOQuieezYUVbrWC1xBOSG9Aqel3KPA1ZSyTL10V/hrEJbjxCVXMxDNQ/rIVY9EnXBH8EMREF5FO1J7Wo2YMAnEfw8RmfT+xlZ8le7CtklqcwhTyo0yp212r3CBM+dL+8JgxvbEVee7Ht2dBuKdfIqBpgqnhcAY+RLxstmJoGBjZxunYgaNr3QLKfVuASvuVYA/KwbHx+Wk6fq1zs7ozxjHIVFl8DSL58ws4JHi2+nuNyy5V6NQ1rBd+ptPDwzv660uSMH4aH2sgtDzd0AULjTgGky3EtTFQm1sQSQCHbdd3W1YwZU3dVwr4c73gBrEPbaVlx6C8/IeaxdXLnJM/t5Fg==;38ETn/ShdZtPx3pKS5cdsA=="

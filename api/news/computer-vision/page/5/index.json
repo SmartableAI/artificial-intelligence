@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-06-uidai-npci-piloting-face-authentication-for-aadhaar.md",
+      "title": "UIDAI, NPCI piloting face authentication for Aadhaar",
+      "excerpt": "Facial recognition-based authentication could soon be coming to Aadhaar. The Unique Identification Authority of India (UIDAI) is running a pilot project to test out its functionality for financial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medianama.com/2020/10/223-aadhaar-facial-recognition/",
+      "originalUrl": "https://www.medianama.com/2020/10/223-aadhaar-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.medianama.com/wp-content/uploads/facial-recognition-face-recognition.jpg?fit=910%2C561&#038;ssl=1",
+          "width": 910,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-06T02:56:39-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MediaNama",
+        "domain": "medianama.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-06-crown-point-will-not-install-facial-recognition-cameras-to-help-in-covid-19-contact-tracing.md",
       "title": "Crown Point will not install facial recognition cameras to help in COVID-19 contact tracing",
       "excerpt": "Crown Point, Indiana will not be installing a facial recognition network camera system to fight COVID-19, the city announced Sunday.",

@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 1118
         isCached: true
+  - title: "How Is Ethical AI Different From Fair AI"
+    excerpt: "Ethical AI & fair AI are used interchangeably, but there are differences. To understand the challenges of AI system, we must understand these differences"
+    publishedDateTime: 2020-11-18T11:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-is-ethical-ai-different-from-fair-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Ethical_AIM.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "VQsN4PE9LQ8TBm2m/73VhH6y6HFpSbN+hQXZ6n+gHfTUfGVrM2TsSTORNroW3zWVMyV78hFiWBrtWxAzIRUxCUY9ImJMPZZqUTb1RIJvgBCMq/qLSLiRRVs2v0VSp1o6RjNgOmyylznnFd0NpQnHxD20EdjpNTs0PXQSOY6xgdiN4VOVAy8ZcGQkkBvzR5GFgHs8dd5372gco3ryIspRoGtkngPxCE/sccKIQPTiIMhOjq46mjyo7sNsuXUSa46fQDfPGiRRN3WKmdYfOPNSbb61m+rsWxXey3uuHrG0JpCLhsZqYbCNCU5EWEAMiqSPCwq9O4zvr6/J3A0mh9GWP8fta6DY+ca6EsMDUvl5oFw=;gtJECYFuskdVnqLLJXZctQ=="
 ---

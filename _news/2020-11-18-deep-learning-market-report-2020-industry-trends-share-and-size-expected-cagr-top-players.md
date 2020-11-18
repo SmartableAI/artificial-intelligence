@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-18T15:38:00Z
 originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-industry-trends-share-and-size-expected-cagr-top-players-2020-11-18"
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-industry-trends-share-and-size-expected-cagr-top-players-2020-11-18"
 type: article
-quality: 60
+quality: 62
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Finance
+  - Microsoft AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

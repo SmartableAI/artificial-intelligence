@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "EY India acquires AI startup"
-    excerpt: "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, up-skilling and re-skilling talent."
-    publishedDateTime: 2020-11-14T02:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
-        width: 412
-        height: 255
-        isCached: true
   - title: "EY India acquires IIT alumni backed AI startup Spotmentor Technologies"
     excerpt: "EY India has acquired an artificial intelligence backed human resource technology startup Spotmentor Technologies. The company, however, did not disclose the financial transaction involved in the deal."
     publishedDateTime: 2020-11-14T11:33:00Z

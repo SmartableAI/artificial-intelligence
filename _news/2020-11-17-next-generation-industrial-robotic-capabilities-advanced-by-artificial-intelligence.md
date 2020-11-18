@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-i
 webUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-industrial-robotic-capabilities-advanced-by-artificial-intelligence/15914"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
-    excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
-    publishedDateTime: 2020-11-17T11:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
+  - title: "Boba Tea and Advanced AI, Automation and Robotics"
+    excerpt: "A new start-up called Bobacino plans to deliver the boba tea experience through advanced AI, automation and robotics."
+    publishedDateTime: 2020-11-18T18:02:00Z
+    webUrl: "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: World Tea News
+      domain: worldteanews.com
+    quality: 69
+    images:
+      - url: "https://qtxasset.com/worldteanews/uploads/2020/11/Bobacino-3-1024x734.jpg"
+        width: 1024
+        height: 734
+        isCached: true
+  - title: "Advanced AI to manage your home appliances soon"
+    excerpt: "Deep learning -- advanced Artificial Intelligence (AI) which is involved with heavy-duty tasks like ... networks to new -- and much smaller -- places, like the tiny computer chips in wearable medical devices, household appliances, and the 250 billion ..."
+    publishedDateTime: 2020-11-16T14:53:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/advanced-ai-to-manage-your-home-appliances-soon-170648"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
     quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1462618600.jpg"
+        width: 810
+        height: 431
         isCached: true
 
 secured: "uN9ESBiOd+OI+VKph5E+somi1+ns5vQa4hbpXY2cB4Ng6qmBHaLVWIvHFoIK00PmepzxCWmhq8mih4W/7oBbNcf149ZYQH5k5Ct0codYkdXs+vV53WbDwmh7VhlW6iatogM1ECyKVhSCuFuAvJZFi6X/Ukp35O9r1O3LSehzJFf9RtpLivA6XWDaX/nqjYYnXV8Lfyy6w5EPwJx80FFhMMtHWtzrcBszqzYp9oM0RkSYHrfJQDIfZAOyGhXhsGwsPOg6Tiebm5DfjJbU8KFPN4CdYcLwyzLDL8olRLk6W5yczUQJY455tmQyfEgdsO7xp0dzeaLTA6EHjh5XZV/svAdizPsSXx/3NF5VunIc/vY=;20yRZB+evRqcGvaMMUL6/g=="

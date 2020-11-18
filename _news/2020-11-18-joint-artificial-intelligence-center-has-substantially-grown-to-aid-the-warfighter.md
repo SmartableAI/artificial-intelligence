@@ -3,8 +3,8 @@ category: news
 title: "Joint Artificial Intelligence Center Has Substantially Grown To Aid The Warfighter"
 excerpt: "Two years ago the Joint Artificial Intelligence Center was created to grab the transformative potential of artificial intelligence technology for the benefit of America's national security, and it has"
 publishedDateTime: 2020-11-18T13:56:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/source/GovDelivery/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/source/GovDelivery/"
 type: article
 quality: 46
 heat: 46
@@ -23,6 +23,6 @@ images:
     height: 854
     isCached: true
 
-secured: "qxkffrAe8Nyaxy/pWX+vqjW/IgVbEPTVSuerYLCjN4IxuukY65TwngqbSnZbLCGL6xXiQHhmMhw8RoMtcuLWg8H91Xii4RvBGHCZeN6kz9ZMSlbC51O4iYuXWRlcDWd5iumX7YooIcMhdlkOnzeXyjrao41L+dmaD+3liM9Us1vXQtiUBfKIabWl2Y/DkfWwc+WUbXlVrW6LehsF595DTt4C83qBStF+07nP7Ycdls21+ZLHFjc3li2jwa61pD8L2YrjucWo3KkcvhYQzWCZDWNjiq2rXYMI3trm5c3/rz1c6Ysv00oTKq6rMzTgVjkzgnRDR5WLrrZGvdYujqBSVMKFo4iY+4kne/rOFzplaCboYjFLTMTHnDkIgVnmQKk1yZMlVfeHwpSAghUezZwOS2hlY3BiXo0mgbw6uUzO49vIJmHRze62I9Sn62zhCgglIWF28O+s4RXt46x4pTIXqM/2/+pK5bHekBo20ntGJhhX9HrC5fXuBYExdIv/cL1rKbC34utN2ronAD4ZvDgRNw==;SD/eMUFFRqcvGJWoHo/b2A=="
+secured: "E+0CY+dzSFPfUG7KH8i8lWPJ4vpIaxEfRYh7hUIzO1WCK+DMskZDE9Fql7DlSzAYJ8Vp+ywnIfshTtNHPdAY/N++ROb+vDusuQYTjjQFQkdS+K8kAF85NQUrdMAFrAwra++1Z7SZhf1WgIh+83S4Ms6xdPNMNK6ttF6JxkUiU1aPW9FmSOjChxJhcm19Cb4MpC6Esms/CxqZzHdVWFMOKx+VFBQvQxVi8/KBm6WHBhpdfvKAcCyqxgFdJ2MzS/FOGTVpfHbNYb3jKiJsQf/Y/3qKJduz08Z1INQZF0nW+k60G2gIKjUo3/UGkkblegj+neBuM6X4939+/KRLpcIkHS0MXqXqU5YVJGIx0+T0pdk=;tJX7wtKII6/OwXEhrrFxiA=="
 ---
 

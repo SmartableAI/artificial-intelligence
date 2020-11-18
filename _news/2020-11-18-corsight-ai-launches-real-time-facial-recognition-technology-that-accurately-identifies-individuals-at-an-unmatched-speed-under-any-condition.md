@@ -39,20 +39,6 @@ related:
         width: 1024
         height: 512
         isCached: true
-  - title: "How regulators can get facial recognition technology right"
-    excerpt: "As facial recognition technology spreads, regulators have tools to ensure that this technology does not result in inaccurate or biased outcomes."
-    publishedDateTime: 2020-11-17T14:27:00Z
-    webUrl: "https://www.brookings.edu/techstream/how-regulators-can-get-facial-recognition-technology-right/"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 39
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/Ho_Facial-Recognition.jpg"
-        width: 3600
-        height: 2400
-        isCached: true
   - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
     excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
     publishedDateTime: 2020-11-17T13:10:00Z

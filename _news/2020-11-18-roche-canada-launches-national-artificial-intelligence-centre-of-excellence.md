@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/roche-canada-launches-n
 ampWebUrl: "https://markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950"
 type: article
-quality: 65
-heat: 75
+quality: 67
+heat: 77
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "A|I: The AI Times – Regulating AI in Canada"

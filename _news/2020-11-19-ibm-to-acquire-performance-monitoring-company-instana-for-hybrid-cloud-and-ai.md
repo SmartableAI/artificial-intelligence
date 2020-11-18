@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "IBM acquires Instana for its AI-powered app performance monitoring"
+    excerpt: "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues."
+    publishedDateTime: 2020-11-18T17:27:00Z
+    webUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/"
+    ampWebUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "IBM acquires Instana, builds out application monitoring tools"
     excerpt: "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform."
     publishedDateTime: 2020-11-18T06:00:00Z
@@ -73,19 +89,35 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "ClearBlade Integrates IBM Edge Application Manager for IoT Asset Monitoring at the Edge"
-    excerpt: "ClearBlade, an industrial IoT platform and edge computing software company, plans to collaborate with IBM to deliver Edge IoT asset monitoring for near-real time asset management."
-    publishedDateTime: 2020-11-16T13:03:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/ClearBlade-Integrates-IBM-Edge-Application-Manager-for-IoT-Asset-Monitoring-at-the-Edge-143770.aspx"
+  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
+    excerpt: "IBM announced that it is acquiring Chicago-based cloud performance monitoring firm Instana. Terms of the deal were not revealed, but IBM said it expects the transaction to close in the next few months."
+    publishedDateTime: 2020-11-18T16:45:00Z
+    webUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
+    ampWebUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 16
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 37
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "IBM to Buy Software Company Instana"
+    excerpt: "The deal comes days after IBM announced it was buying the IT services and consulting partner TruQua Enterprises. It also recently acquired WDG Automation."
+    publishedDateTime: 2020-11-18T18:07:00Z
+    webUrl: "https://www.cfo.com/the-cloud/2020/11/ibm-to-buy-software-company-instana/"
+    type: article
+    provider:
+      name: CFO
+      domain: cfo.com
+    quality: 24
+    images:
+      - url: "https://cdn.cfo.com/content/uploads/2020/11/GettyImages-1229047327.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "6B+iILc7rFqE7wXF6KbrKnl5prugZLXsJkPEqn0/ydg0BR9cKastBawiFO5y/+9lNPFao/CxKASUSo8F1iggzUzrXg1C6LpwYE1nWlZxzFpwCRn6N3Zv2sAX0NjqJ4jjLu84C2qIhhvBTUkLKiED6d/g4CvhBD6eICDohbngJ/D0ffA+g42FW/USGiAyu5+uo9KjPTP9B6V82glfPM95RpBf5ia6dm6sqIMdZshjERQwZo+nrPzzaZ7B24DdkCd90sJmtZP1C7jqkI9RD6sGIEJk81uw7kY6jltBqDWszRrGNHOw6iUzapAm05e39tjmHvaXkejmZLjpMJb33yNF8FPt3CcaMCS8ai9fqE+m91Y=;7ysealm9YtjDsTVnzxJTWQ=="

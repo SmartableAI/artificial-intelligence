@@ -9,8 +9,8 @@ ampWebUrl: "https://m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-b
 cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html"
 type: article
 quality: 57
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: Business Today
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "EY India acquires AI startup"
-    excerpt: "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, up-skilling and re-skilling talent."
-    publishedDateTime: 2020-11-14T02:34:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/ey-india-acquires-ai-startup/articleshow/79218623.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/ey-india-acquires-ai-startup/amp_articleshow/79218623.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-140439,msid-78635250/apple-could-be-launching-the-iphone-12-today-heres-whats-expected.jpg"
-        width: 412
-        height: 255
-        isCached: true
   - title: "EY India acquires AI-based startup Spotmentor Technologies"
     excerpt: "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, upskilling and reskilling talent at scale"
     publishedDateTime: 2020-11-16T09:16:00Z

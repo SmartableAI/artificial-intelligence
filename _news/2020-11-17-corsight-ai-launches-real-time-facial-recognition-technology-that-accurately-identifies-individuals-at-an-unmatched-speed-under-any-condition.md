@@ -50,20 +50,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "How regulators can get facial recognition technology right"
-    excerpt: "As facial recognition technology spreads, regulators have tools to ensure that this technology does not result in inaccurate or biased outcomes."
-    publishedDateTime: 2020-11-17T14:27:00Z
-    webUrl: "https://www.brookings.edu/techstream/how-regulators-can-get-facial-recognition-technology-right/"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 39
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/Ho_Facial-Recognition.jpg"
-        width: 3600
-        height: 2400
-        isCached: true
 
 secured: "aK2uJRediK8gCmty0oisFAhEuB9ycZu3IKMN2Fm01XAZ2iUM1ci/blfX8xKnQBc/I7D8mT1XXRADXNPeNh0rtJbKpWZ8lPe16O1m1rla0P+ZztQfK/qCA3J96wSzH3G32Sou75IydGuOB+lZDP3nKbKPYNbPRn+NvzOnoep9BsvqDg9i2k5Xnk+pi3WkLchaZU1yGRSPraHTsvjsiyc7GS/G2eantvzP4IxaNaVgMBU8t6K/bXbhzE/L0U5jQIHRwPMX8zA55kBxTu0j7wAQWuSjhn9Wu9/oHXsOZKb5EpddBkj5xE8xmgIIThvliJxSqCXIvJ7R0yIlBglAatHzTEOpNug5kzFFbikGuIrpswg=;wM4KQWrmKKXb3iPgwJR6Jw=="
 ---

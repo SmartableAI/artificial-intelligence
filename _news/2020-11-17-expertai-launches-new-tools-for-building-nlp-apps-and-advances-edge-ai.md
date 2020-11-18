@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Abacus.AI raises another $22M and launches new AI modules"
+    excerpt: "AI startup RealityEngines.AI changed its name to Abacus.AI in July. At the same time, it announced a $13 million Series A round. Today, only a few months later, it is not changing its name again, but it is announcing a $22 million Series B round,"
+    publishedDateTime: 2020-11-18T17:13:00Z
+    webUrl: "https://techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/"
+    ampWebUrl: "https://techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Founder-Collage2.jpg"
+        width: 2048
+        height: 2048
+        isCached: true
   - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
     excerpt: "Expert.ai Studio leverages expert.ai natural language understanding (NLU) abilities to streamline the development of NLP applications. Users can take advantage of core AI features for categorization,"
     publishedDateTime: 2020-11-17T22:16:00Z

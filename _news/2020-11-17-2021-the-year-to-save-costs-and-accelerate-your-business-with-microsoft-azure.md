@@ -57,6 +57,22 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Microsoft wants to partner, not compete, with operators on 5G"
+    excerpt: "Microsoft isn't looking to bypass carriers in delivering 5G services; the cloud and technology giant sees operators and NEPs as partners."
+    publishedDateTime: 2020-11-18T17:04:00Z
+    webUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g"
+    ampWebUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 59
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-18-at-10.49.00-AM.png"
+        width: 2048
+        height: 2048
+        isCached: true
   - title: "Key layers for developing a Smarter SOC with CyberProof-managed Microsoft Azure security services"
     excerpt: "This blog post is part of the Microsoft Intelligent Security Association (MISA) guest blog series. Learn more about MISA here.   Security teams are struggling to reduce the time to detect and respond to threats due to the complexity and volume of alerts being generated from multiple security technologies."
     publishedDateTime: 2020-11-17T16:00:00Z

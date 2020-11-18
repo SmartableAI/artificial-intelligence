@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb408e73c1268fb22c618cb%2F0x0.jpg"
         width: 1200
         height: 1118
+        isCached: true
+  - title: "How Is Ethical AI Different From Fair AI"
+    excerpt: "Ethical AI & fair AI are used interchangeably, but there are differences. To understand the challenges of AI system, we must understand these differences"
+    publishedDateTime: 2020-11-18T11:31:00Z
+    webUrl: "https://analyticsindiamag.com/how-is-ethical-ai-different-from-fair-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 54
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Ethical_AIM.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "How to Make Artificial Intelligence Less Biased"
     excerpt: "As artificial intelligence spreads into more areas of public and private life, one thing has become abundantly clear: It can be just as biased as we are. AI systems have been shown to be less accurate at identifying the faces of dark-skinned women,"
