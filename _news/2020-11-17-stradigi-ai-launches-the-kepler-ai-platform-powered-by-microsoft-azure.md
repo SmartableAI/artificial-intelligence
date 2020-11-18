@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
-publishedDateTime: 2020-11-17T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
+excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
+publishedDateTime: 2020-11-17T14:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
 type: article
 quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -63,22 +63,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
-  - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers"
-    publishedDateTime: 2020-11-13T13:02:00Z
-    webUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 89
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb13885641_g.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
     excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
     publishedDateTime: 2020-11-16T08:17:00Z
@@ -160,6 +144,6 @@ related:
         height: 368
         isCached: true
 
-secured: "Y3BqjZplFhavBKVVJH41OiaViiMK3ZdyEA+L7Wt1xEk7zC35KXpl+btESZHAhHNPTB4urIyccDTWeoEs8cHr9pRo6DYslvbRZ8Ev5qHoqBwvQJD++8c0n3omaYYX22j4hmpg1HxSmdXD7ZysCm4PXBHi9XyP3ujJ9QOQnNa5+wlshZ1EQC2/cdZf5ZbdaUZvqGyzC3RTRgOAYOBlLdl6z2+4/P1L3w7AntsF0tDAOlyDU9uHoCqgJ7xU9gdcjZ/mgUO9ylAaCnO+2PQyFKFfD6YrY1tlVbHwRmPnJveMkQAKrkuPapsl/XGilda2WZeHbJrZ/JW9KIF4GsNzS1Xqi5Mt8PPtb6okZV5mexBIdwo=;0nu/O3VZrnIeqJtAkGFT1Q=="
+secured: "sH2Rk76c6+2Z7hA9EfcnwGP6nOu5Cda2+DUB3h1DdT+LME5mAst4Gki+ci91XGo40cs3afnnkPMxrNY4y5wS9Si7h4t/b6sikXh11SEYOOVqSmiFbAyFUVWWOLYOGlVZV15Ar1jMJb7tOf1JhRpsMbmNZ+c8uDqVicbTL0aFAuJL8mQK2PBwLyrGbsI5avEY5UWdTN1YYBbJfnL4QazL8h7CS3txKP23N4yEhCeYbXTwPACG067DpKHql1JinKUGl99waQA1pioYFe2Bb3F1w7aDpO2HwyYtsG2bieap83R0ra9HJWMvU32w2o2rLkwgfVEe+u66OopO6n/qeYImx3W0a6OrhT45iPU6c93OyKo=;4Sr7F+ejOY1ESHjXOot13A=="
 ---
 

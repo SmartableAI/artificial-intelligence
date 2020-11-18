@@ -1,27 +1,27 @@
 ---
 category: news
 title: "SYSTRAN Translation Widget Provides SMBs Simple Solution to Globalizing Websites"
-excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping small-and-midsize businesses (SMBs)"
-publishedDateTime: 2020-11-17T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-301174643.html"
-webUrl: "https://www.prnewswire.com/news-releases/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-301174643.html"
+excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping small-and-midsize businesses (SMBs) become global business leaders. SYSTRAN Translation Widget allows SMBs to quickly and easily translate their website to reach global audiences."
+publishedDateTime: 2020-11-17T15:03:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/1dc5ba6f98b381b6232d81666547b7f7"
+webUrl: "https://apnews.com/press-release/pr-newswire/1dc5ba6f98b381b6232d81666547b7f7"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook"
-    width: 2700
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -37,6 +37,6 @@ related:
       domain: businessinsider.com
     quality: 49
 
-secured: "RaKFnMhTTEg0lLXaXIWxscmPNwRP4MsFwz1jGsffUEejDtVuO+yVIqmdOxU4hbZgjO8FCLHT+rsv+JSVeR8bUPmjn+PgyOE3BzHR2GEH6YO6z8X0AqtS906LaL3OgRNyN78yt0PQCwP9dycBwZ++Ll1qHoyjjWrPZ6HNPGKC8rjDB8TiMhyDTWydhNvKrH3lM4HYmey3KTrwFQ1wz0ixQSM/1DwUy30ue9seb90VRg4GQnzioLlxd2aH4nYWg8YFczXrVw6kEA0BzvRSzdU+D8nhe9GP6rnCIrdADuvBrqZVpymM1PB4zqQX9YxLxcgPXL61h2GqK5SFwu5yYp3NH+k4ILd4892ZzVGxqjj2qOI=;6m/JWiglTmGFveWKfZ4uOQ=="
+secured: "PZ32DZue3XDhsKhqrTiHpJ1M0riZiKNFoIju74QerRsLjlqGmzDpGfdd/Ulek/aGAEExYu/gTgUNbDsloVaPs2LK0W0EnXcTtOnfdpEhVbyWkgdDBCnKFx0DT4wsjh0/L0hoXv6jn9/Fb5wVxLARi3z2Pe0+/KFVlZ95z1uPEI6yZvUIggoxW3vCapz8TITAWPXhWgQNWzJsJFRo39b1z9RGBFJjg7NVo9n0dEp8DGmKlvNehxxdeslekbRqnD8vBeJ3BsjoaGD9U3Onu/JhS25eH2kgtsEiSzd6ZdYU0lNNR0aMJI5EjrxulBsB3aGa46Qo87WqOmB23u8NZwFVsvpu9FMl2CPnE+7Lgtpn/C8=;0002hUgwQP9JNVJohftOEQ=="
 ---
 

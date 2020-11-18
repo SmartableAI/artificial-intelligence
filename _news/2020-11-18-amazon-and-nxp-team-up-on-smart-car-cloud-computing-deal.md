@@ -3,13 +3,13 @@ category: news
 title: "Amazon and NXP team up on smart car cloud computing deal"
 excerpt: "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,"
 publishedDateTime: 2020-11-18T00:00:00Z
-originalUrl: "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-webUrl: "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+originalUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+webUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -42,7 +42,16 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "NXP collaborates with AWS on connected vehicle services"
+    excerpt: "NXP Semiconductors announced a partnership with Amazon Web Services (AWS) focused on extending the opportunities of connected vehicles. The collaboration aims to deliver an edge-to-cloud compute platform for next-generation vehicles that can enable new cloud-powered services."
+    publishedDateTime: 2020-11-17T14:47:00Z
+    webUrl: "https://www.telecompaper.com/news/nxp-collaborates-with-aws-on-connected-vehicle-services--1362201"
+    type: article
+    provider:
+      name: Telecompaper
+      domain: telecompaper.com
+    quality: 19
 
-secured: "9ZepI83rDXDWygm5peKVFmyePixg0sb8sLZNOBn1EtIFF1h/bl9vtAWX9pfJZGfyU3y2It8AUWYzvaVG1DGxWI61OvS+AJYOsjGAy1XWLPmSt+FQUGZtyeboTkoLHDzC3usxXSWPRuUfHunTuHgtGzNo4y9fz5cl5+U5xafIXpOOOal7bAjrDB8eoSP58MjLN8Tr2uixxQ6DkLNiqHaW20zJHOR5pZediyIo/7zX+qPY5GOsfGv7pWR8prpflDfc0rfuYLy5biGOiafrhgA70n96aRHzG5Ul7tmEDv5Afplddo62A5bB5dcwabrsFI1wIaPjLiDiUhBwgIgMFC/QXH9uf6YXUUMLkgGiqR++b/BJdCGYAZ+ggPxphDpAY8st89UMtVPZ6NM5sTzuM9JL4EW445RsyyGBFgrGLIwnTVS5I3S/rbejjUMOrhVVMdCBMgT8zpgbgseZo08aP7uVWSTChv+cOqqN0vcrlDJ23/rGwlL3dzgX6VicPqsRLr43hZnsA8O/BUXDTPcHT/GJdQ==;7n9HrqvWGL0W5pjiGh4/Ow=="
+secured: "cznU6dt8WX2jHwOVguCzCcFrgnrOG9vdxsMepvGNCRVQesv9IekC2mkRWYAgVuW9TGFhwEjBUou3MifL9Lqmnn1pDbkwQViCcQvYtOjWA8XvyOBa1avQ1KUuzZRfYS5jDBn/VKxYHicOPLjNWhxchs3uoKhopXY5xmpvpoJsi8QrP+a7IVMlXvIew/q7v738wT90rYDphUHGhZUb0DldFt9NFz8c3NIrFnJOx66D1KAMhLV9DkuZeWo+uZ5jpVkNW2W3hRQ+3i/4IHupuxp77a4QPla/9clJHD6zmv3vvUyXqVPotR0l0tQcBqmkde5R4/KLxAZThDO4MhByGjTooDUMctLh8N7HBel1z8VIXis=;k7Wf8W6xjwkfphvLCrJ87Q=="
 ---
 

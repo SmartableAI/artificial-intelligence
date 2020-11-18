@@ -3,8 +3,8 @@ category: news
 title: "IBM, Microsoft, and the Future of Healthcare"
 excerpt: "IBM focused its Watson AI on providing medical professionals with diagnostic tools allowing them to diagnose even the most mysterious illnesses more accurately. Simultaneously, Microsoft recently ..."
 publishedDateTime: 2020-11-09T13:34:00Z
-originalUrl: "https://www.technewsworld.com/story/IBM-Microsoft-and-the-Future-of-Healthcare-86911.html"
-webUrl: "https://www.technewsworld.com/story/IBM-Microsoft-and-the-Future-of-Healthcare-86911.html"
+originalUrl: "https://www.technewsworld.com/story/86911.html"
+webUrl: "https://www.technewsworld.com/story/86911.html"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 360
     isCached: true
 
-secured: "cjo8q+s9UHJRPqF4D3GxvIDOEhJP4+mZOjvsMrIr+CsqPx3uRdH1EHJTIm5WPpbK96N1RnlBCuJBJ3c3oq51h1ummZqwPqbEnlPwQPdb1y0LzAiJ4lOpf8axOy3phPuU0CDKmlw6RtW7yAvWAs3gK1gZVXAUGDXF4cobYFGEeyiuVefj7Useuq4DZCdaWktkTWuoVAyy+3dE5K9+yv/vHIMvDhHKjJXvq3GbOkKZ+gCvPszCvQX2a+WnsuCCk43xnBzPZc9RyoZzQcyC7bc9SDK9UQNWT5rIbS4+muQM20KKpY1RNAPghnLAL7krmilI5Vhl7khTxHlo8NZfA52c4acDRwCJ+DphHrGYBBQQO4o=;KGCTGvx8xCfM5TBjfIO9Aw=="
+secured: "pIihlVNmqYhtFf66AUsZqlzczf/8zB2YTSRb5Q7Cd4z6SndrrieKVon5MHtD9qYJXqleUWqKQ4ue1jGxCWrS8mPmVZwZtazhi4g8Mv9RlxD5fc+DtuYQ/+wzV2+ZcN5bAqxHs3zlJ5Ar0mc5x52IZkc8wmr7dqVt4g69F41GrufK9UWBr+EvkHMcpLVZljfscrsJlKlPGJVF/wHixa0WhchxdqIlMnt5o1PChduvgxYTLxHFL+D+MZmCjsBsL/BkWgJXm4uCGS2CapLUtrMwyh8XPhHA5g7i5AUv7IISRtEG8ZaFzkRVVBntqiuzq68KrOeyMocPVtCLi2IA8fxGwYojJd2etSxfYCEOFDUizd4=;E/iYx/g0hNNCjI8UMWPc1w=="
 ---
 

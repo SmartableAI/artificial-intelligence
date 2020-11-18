@@ -68,17 +68,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "Velodyne targets sub-$500 price point for self-driving car sensor"
-    excerpt: "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
-    publishedDateTime: 2020-11-13T13:19:00Z
-    webUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
 
 secured: "GFdN742UiSJZFWqThVn2eVdDZ2wU8a2VViNjd3KiHjpkxhJHS4wMCA4GlEmzQ4WJmqAPqdXEUbfBEgTDajuXTTQX5cXW7avE1vxg4cdjV/iLZy0MNlD4eUxQkKuHt0nU00GHqJ3hISluTmXV2jUI9+HFfS/YEIVyJyJ5OHoVgbFjeTpmHUmzRHwib9Lcji0LVhEdhfkhrooey4zHor3tOQ9Zks0OnGLl3zmmH5eSv1zlWN3L35mZk9KgTqVJpEAJTw3RJT638R1cKc3LaESihJ6HalspXZqX7pseCkD4rUkNHJzEc0hdA6+jamBnghZ+Q5MxNqL5b0HUikhWVtNhCl7r15VczaOojewfkwpHQ08=;qO2lGVhDzltu2ORwUkZq3A=="
 ---

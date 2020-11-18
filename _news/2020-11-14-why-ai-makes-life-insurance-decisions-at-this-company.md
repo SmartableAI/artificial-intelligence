@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 718
         isCached: true
-  - title: "How to put AI to work in your company"
-    excerpt: "AI is now prevalent in major companies and services that we use every day. From product recommendations to personalized ads, from voice assistants to image recognition, AI helps us in hundreds of ways."
-    publishedDateTime: 2020-11-13T14:19:00Z
-    webUrl: "https://dataconomy.com/2020/11/how-to-put-ai-to-work-in-your-company/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 37
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2020/11/science-in-hd-7mAYDCamwrQ-unsplash-620x373.jpg"
-        width: 620
-        height: 373
-        isCached: true
 
 secured: "OVr0Ja+udWBsGgs5ltfRbn19qzDmpYE5TwISAHUqK7NqFTcQIt7tJcuAjibaCQcO5QNxR99t/c8ltmpbQWBzGulkiW1LvWYulEEBb4AEvtmtKnDyi9JAwOZW2FqrKSDbefYG3J5piJGiCI4TrC6i3WNdmTo6rfF/JRdjo3uU3lPqba9D3R1o1uaBvo8cE/OVQKKJCYozf7rm+c7PbdU1amtoJS2ODuPs9NR4GGNYQDZWI/KbtiP6i9expEOQDTrRCckKNmOrM0ELR6LvC2z6yj8axUI8kpMRkxwtLsxXbrNZkWlNwD2QATfpMBPji0sfcmtwwiOLNgek9/UcyUgPHbbGsWD9tSMdDI7z8E8ln7BmUzRYiGoDRDLvvq7cP9w/QOD48fCKd/odqOU9pfhkpCqOxVbkFB4z0T0YVEAGUO/ptECIZCr2Gn1nQvRQUevk8Z+qz3m66CSZ+Em5pW04H0bBvlglY6IrL6bDgGK4fgWxbvHfQcbooKadeHd3FNH38anlTZA9DmVTpeE4MN2nCA==;3TOBzfmW4nFywmaNf+MnJg=="
 ---

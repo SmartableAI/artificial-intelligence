@@ -71,6 +71,20 @@ related:
         width: 470
         height: 352
         isCached: true
+  - title: "FRAM startup raises $20m series B"
+    excerpt: "Ferroelectric Memory GmbH (FMC), the ferroelectric hafnium oxide technology specialist, has completed a $20 million Series B funding. The round of financin"
+    publishedDateTime: 2020-11-18T06:57:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/761410-2020-11/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 37
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/05/29112104/EW-Bright-Sparks-114-all-the-winners-steph-400.jpg"
+        width: 300
+        height: 249
+        isCached: true
 
 secured: "mSYG9EiA6KSZs/QwV7zuyE1qjZFonHZm4IdzccKbjV8eWTvZPs55/ijsG2vujTagGYI2eNxJb66nJdeznc6Qmaw2Z0yyO/qpSbLsAuaVgJ6M18dONeNjfweH+Q8S9M/ym69fIYdWbjzwvHRcPQ3lBJN6oKAf727abQXMwjloGpMkjf6G03CuXD3CYZCqlaqx3uRhN+gNOwxGQDwV2UDFAWy9ZOld1kWdB5bpt/uu7i9M9xnOEjjLeukMrEE2Hlw5SK/o5/4igoTkJFScKmJH7QlVSayew489U+B9DIxF0hBsEzPMpithLErIwUioqBj3XrS0TTay2OyPpGXtTEHX7X5+4ZE5Bci5c9Ig6tOy9Bs=;r1ONcdbj9jbip/etmUrqYw=="
 ---

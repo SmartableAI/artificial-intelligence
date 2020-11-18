@@ -6,9 +6,9 @@ publishedDateTime: 2020-11-18T02:03:00Z
 originalUrl: "https://siliconangle.com/2020/11/17/machine-learning-automation-startup-datarobot-raises-270m-ahead-likely-ipo/"
 webUrl: "https://siliconangle.com/2020/11/17/machine-learning-automation-startup-datarobot-raises-270m-ahead-likely-ipo/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 66
+heat: 76
+published: true
 
 provider:
   name: SiliconANGLE
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Robotics
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg"

@@ -32,20 +32,20 @@ images:
 
 related:
   - title: "New electronic chip delivers smarter, light-powered AI"
-    excerpt: "Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning and memory in one"
-    publishedDateTime: 2020-11-17T22:02:00Z
-    webUrl: "https://www.miragenews.com/new-electronic-chip-delivers-smarter-light-powered-ai/"
+    excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
+    publishedDateTime: 2020-11-18T05:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
     type: article
     provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 54
     images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-        width: 700
-        height: 417
+      - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+        width: 1440
+        height: 960
         isCached: true
 
-secured: "2b1n61COYNdisgl2Zv98VQT6NHZpcx2v7qv2tX80oJrnYOEuxLe/EyJb//Or8bInAiLe7wvr5ytbkNyznIE8hwphsw+6q6GhPNAO/R8BhRJvJr5dspjTGXbPp69NHX9D/G23FTU1COmEAZFftYjL+QR4QxNODbFfSbX7Tc400G5jmVk/sW4uaXoREHrikKp9CWT3FQrYFy6tLqz5hI9vdwyfWCB1y1gHhcGA4S/ThtnJe8Ype00fJV5YfoLRZ1A5GFcT6NR1Ynn+m/2LlM3sQibo+M3EvpQGza5z4U+xredh0QAJXZ/z362iUCBVbPoEDfKz5dvFD5aKIT0LNK/2r/4DdphvUawfMrbtdFdqh0M=;d6287UTy7E84Y+5qRq+fXw=="
+secured: "JPJinDRI+l7Dn7pRw4tC1D+cffSpyRfoacAoWRgG0FFP0jde+EmDEpgUWvjy/vOerqcWkarWhxZkul+MGswPRQ2tw8gc1hrrt4Vh1M4YAFMQ3AkVjWaK2IPTjka8Q+1kREBa9etoQxRB3KEHqYZPDtklQnu/zaWvauyRxRe9MealBFYa9MeCy4E1YLYRaE0Gd6qzbCQkrHWlr9y4oLyLlFGPYpAmWmuUYQmZuGv5eOP3jVfgNpiHVtA8EgwI+60dMQBbldVEitEk36vtkXRrB1byAthT6whbLE5iDAMKsoiKBc4zI9Pb0MSKzW7hnPhHwp5DxrcvQDOZC7XtxWLKrvHYN6cmUv+nvAps3hkSeQg=;eoqlS4XWYabyWjWm9ik77g=="
 ---
 

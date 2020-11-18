@@ -1,27 +1,27 @@
 ---
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
-excerpt: "Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning and memory in one"
-publishedDateTime: 2020-11-17T22:02:00Z
-originalUrl: "https://www.miragenews.com/new-electronic-chip-delivers-smarter-light-powered-ai/"
-webUrl: "https://www.miragenews.com/new-electronic-chip-delivers-smarter-light-powered-ai/"
+excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
+publishedDateTime: 2020-11-18T05:04:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://cdn1.miragenews.com/wp-content/uploads/2017/11/news-developments-e1509835949106.jpg"
-    width: 700
-    height: 417
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 1865
         isCached: true
 
-secured: "p9fydlQcEMjkekmLi+CEpG2hUCfhvQ10R7+yP9N5ppIQgn3wmmm3ZG33ThHhMZMQyliWDmH3o0Kv+HNLPX92mo6WjsUFN7xHflwt+EvaioADkK2IMqg1EKj8cQ3Z0q9QIwAn9PlLMY3w8ONjeqL20aAJkCvEVjk+gm1GCynsSjwmz5sQjWmzbJz5RycW9xwM8yZhsyFaRW6/A3YsX2wAw04MHOagIPW2/WjVGK/b5nJae/tilfxT7RAQCUBEZIA19fLPLU+RBYqddT6QISpzLim5QjAhXofZwyOTndEQ1DaCcKaKF7MLTIDj8pTsV6fP0O3psMv/iVKFm4HI/HVNbJh86TuYYUrCNcOPhHrEEsA=;6BPzlvvJs7OOjnqkeOVwgw=="
+secured: "Ju94yeX7Md9HOQssHz8mtedo1BtsjYsMkTw0zE21ffrmeiji7UztB3cx2K6+HnVBsqsY8u0aEvyonSrSudk3HCvloPbLmB6HJj8lQmzTuckJkjpaw4e5s34wiAZpKiLj9ytUMa6k7gzG6Dd2OE5EIpbEyRowkrJ+Bja0c2Jm/QlrRxXDGBKfOi9PjCSCx+P4WlTatEpbYWQs8/UgvkrgMZfr5iROTVdpP0eUxT07gKbJHokqZQTJdgD1vuHriCCBv4ZzWe2/u3fZ9dNAWaeZgJzMgtthCFIQpuh3/A/3EhmUzriA+jzbHScz1WpARc44pLEPV7SSXyl76StP1aj9X87fCegazfyQIoGAQhldX5A=;CDRR/lFbKctYXrMnH6bMQw=="
 ---
 

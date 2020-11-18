@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "FRAM startup raises $20m series B"
+    excerpt: "Ferroelectric Memory GmbH (FMC), the ferroelectric hafnium oxide technology specialist, has completed a $20 million Series B funding. The round of financin"
+    publishedDateTime: 2020-11-18T06:57:00Z
+    webUrl: "https://www.electronicsweekly.com/news/business/761410-2020-11/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 37
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2019/05/29112104/EW-Bright-Sparks-114-all-the-winners-steph-400.jpg"
+        width: 300
+        height: 249
         isCached: true
 
 secured: "XfbhyQ6B9up2CPf0OkHAhm+x1O3vnf5Zn6f780QuSzUaEjYfnRExFzR5qKp8yhDT3z/vERA7WqqwWxLWNbXIjIA9VyXPo8VXbwHBbygHKYx0mP8NRRMhojYOFqMTmXS1OwwnOfjJHa+37Z5lDeuNqbWlkLICWTyyFt02LnrA5idMFFQFnhXQO0nakGWreqKpSr6BEaQwu3TtOOWKDoMg8JBYdx1nOLg60TISkF9Y15KDEeTjypCsCjh/PrGAWeDb9z9UPFsadNmW8Lzj/vXLXv9Ld6nkGc761amR5l0IgP2SjniS2fEhfDXciGHggq6WfIuUGHXqE3iPZMzGZIQrqGklPPcM9VVhRtRGIZk1tl7tBH0V0TRoyPySTy4pN1ct1PycOE0YOSC2bgouJEVDJ4oAoJOer8tOz4wtUIYzIDbGruDau2kgdLRrCo/BoCe168CHUwmQBzIGIpWshXZzbpAVJ6NjCg2Ik+G/sSDDod/a6IN/m63cSMJ7DCj3UBSP9HoRR2e6AE4AvzwQkN1hmA==;ECrKkntpqCvCyObhFS/oUw=="

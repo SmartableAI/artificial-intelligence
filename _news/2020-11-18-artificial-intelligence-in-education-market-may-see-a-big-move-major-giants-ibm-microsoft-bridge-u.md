@@ -67,22 +67,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
-  - title: "Passport 360 Now Available in the Microsoft Azure Marketplace"
-    excerpt: "JOHANNEBSURG Gauteng South Africa November 13 2020 Passport 360 today announced the availability of its product of the same name in the Microsoft Azure Marketplace an online store providing applications and services for use on Microsoft Azure Passport 360 customers"
-    publishedDateTime: 2020-11-13T13:02:00Z
-    webUrl: "https://www.openpr.com/news/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    ampWebUrl: "https://www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187373/passport-360-now-available-in-the-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 89
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb13885641_g.jpg"
-        width: 800
-        height: 800
-        isCached: true
   - title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
     excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
     publishedDateTime: 2020-11-16T08:17:00Z
@@ -95,18 +79,18 @@ related:
       domain: businessinsider.com
     quality: 86
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-    excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
+    excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
+    publishedDateTime: 2020-11-17T14:27:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 69
     images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Key layers for developing a Smarter SOC with CyberProof-managed Microsoft Azure security services"
     excerpt: "This blog post is part of the Microsoft Intelligent Security Association (MISA) guest blog series. Learn more about MISA here.   Security teams are struggling to reduce the time to detect and respond to threats due to the complexity and volume of alerts being generated from multiple security technologies."
@@ -162,6 +146,6 @@ related:
         height: 368
         isCached: true
 
-secured: "1BiBHk1a5/CU6GcD0srAeWe/TUk0MZRJIRaQoGstLtdLacsn4LVuyCDurWHNF8GmZhlXxR14CL2PQhliHioGJ6kmJdwsMZBaTMoWUKcRLg4PXfhXmSFS7z0VmsKouS2llFVGGBna91TdQXx3lzSm5yFoW8BNCKkHk9CVeg4KPfkTmkTQpFyhA9KjWN0PpL0BTI3BqRuwRf+AxSllbQ2lnJ2c383EalhTklSG7j8vtRtjQxw0GkMp+0zyByumb+C1+SA8MbwHVNsxyWeRaAem91KPToEWKx41l1k/lUz8w5nz/auiAjSm9//fil+P6c6e8MvTmJek9BmEvaEENgZeBCo2gamjzlWCFkZ7N2jla+8=;aehsPaqR2wnVvjBkR20DYA=="
+secured: "aNecM016Tpw4akbjrHHeMXaN/5QOZWb2kdu7TN4YZxHvbFdVhcJPnX+H+mTGPHor3lYQ4vnEM6nf0UUkdJMANQSrPEyO+yBBDALzkrv/bWF3HWH8C+haIfEsvWcAlEUpcijT7XXYPrEDSfDQjdutNILnmdsXryi7RThiEO6BiExlyqszTk2/2KkHJdp7Ff7VpsZtrfo9tmd0duztyXKyG03MXy62p4eGfl8x4t4jAaOs59sms4QHZFLHrPY0gIhHQebQxXvhiqgUyh6ygNY5yN62IShKkBANn2/vrfeRbCqwfv7LFuKjW8S0T+umMXfVB/PKBN/TLyjZy+PfY5gXj7UT2UNYTDRpbi0JtN/jgYeMnFjsg+UgZ3m6t48cv28ENIk8An4ZwwHgwE0WxL0mPg2ukt+rPII1PIAGliPWirbZzz1IZXCv8X9k44c7BR7jqdCMAW0Bg30mAQGbPKJygSduWR6fQp11mgJDzkfTBlt2WLdfCvScfwJ10fOLUrFogo11KNCJHhjeP58rnujF1g==;jCmmqv4GAiKrMNeDo1ZQJA=="
 ---
 

@@ -6,11 +6,11 @@
       "title": "Amazon and NXP team up on smart car cloud computing deal",
       "excerpt": "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "originalUrl": "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "webUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "originalUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
       "publishedDateTime": "2020-11-17T16:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -106,29 +106,38 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities.md",
-      "title": "NXP Collaborates with Amazon Web Services (AWS) to Extend Connected Vehicle Opportunities",
-      "excerpt": "Vehicle edge-to-cloud compute solution aims to enable new automotive industry revenue opportunities Sets foundation for data-driven services and",
+      "path": "_news/2020-11-14-predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix.md",
+      "title": "Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix",
+      "excerpt": "If you’re a Formula 1 (F1) fan, have you ever wondered why F1 teams have very different performances between qualifying and practice sessions? Why do they have multiple practice sessions in the first place? Can practice session results actually tell something about the upcoming qualifying race? In this",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nxp-collaborates-with-amazon-web-services-aws-to-extend-connected-vehicle-opportunities-1029809200",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 72,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/F1-WHITE.png",
+          "width": 800,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/NXP-Collaborates-with-Amazon-Web-Services-AWS-to-Extend-Connected-Vehicle-Opportunities-1029809200",
-      "publishedDateTime": "2020-11-16T23:20:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T18:10:11-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -144,8 +153,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -157,7 +166,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {

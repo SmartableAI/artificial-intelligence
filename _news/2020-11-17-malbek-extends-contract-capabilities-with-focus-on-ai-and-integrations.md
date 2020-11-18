@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
-excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that"
-publishedDateTime: 2020-11-17T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-301174055.html"
-webUrl: "https://www.prnewswire.com/news-releases/malbek-extends-contract-capabilities-with-focus-on-ai-and-integrations-301174055.html"
+excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
+publishedDateTime: 2020-11-17T11:07:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1166716/Malbek_CMR_logo_Logo.jpg?p=facebook"
-    width: 2696
-    height: 1414
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 300
         isCached: true
 
-secured: "9pgjgf0DGRzvYpKcnAlLZcc17VMaXwzXlBkEwSAykszOFc2/n9qZ+rQRzSF5QgNb5pOO6UsyV0C8VqCxAAp+Lhx8iggTpckG2EFHN0Om5uUjFAbv69rWNPBcW0kJ5zQT+ggmHDXROhIrAZaHqSlYlbVKTTyGU9K0seTGDSHcfUyeWL+Qbz4bjOTLWiFiEuuR/LzAY5VXx7823ex3CaQ2tbtXhxUPWhKd+nYjXOMpZJ0xc29E4lmfr7Gwcfs4DtutNUX0254L9vtHecMf16Y/Av7teVoW3jTag44AY1yVcPJkRnxC/P428O1GASRwnqHe7HLv0jqNdsM6dXqiNHMsx4Yb0YwKfG1veNO1jcewzqs=;i3GUn0kBIIp8GRmnxik9dQ=="
+secured: "0Bg0BMDGanRAd6XKIlBY8bcf3Ap3MjWXcBVsWHon5cwxPBTNZDuDW1GNRWPip1EMADm0ok68wkMeQ2wuyVcMidko6fGm74Gy1Y0rctjmvxp5ZHx4rvByAk2BVimj/MJ9Jpo/lJ+ktn8+RdU1pIYinqEYtFGfECa/nedjGROst5aFtw3IcEliXUVDAl78TXibr+1APyFJWxRE/zVo2Da7DaWGS5h5pQjft+Ec7z/8SDO2FuSKHJ/pMN6YavQQVqHVv1+qBuXF8SyFt4KzZsJvcf9sYs7kolRw7L8aAcOuOSdpdZbwhJCQ1097pOoUN+YENSmTRjvq1JpJLoJy3FoncskyX/avJISYz1sD/xHLDjU=;iq0GFs1BJjs3LO+kHGXf9w=="
 ---
 

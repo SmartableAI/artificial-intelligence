@@ -41,20 +41,6 @@ related:
         width: 415
         height: 215
         isCached: true
-  - title: "Fujitsu to Supply ‘AI Bridging Green Cloud Infrastructure’ Supercomputer System to AIST"
-    excerpt: "Fujitsu has received an order from Japan's National Institute of Advanced Industrial Science and Technology (AIST) for the \"AI"
-    publishedDateTime: 2020-11-13T14:06:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/fujitsu-to-supply-ai-bridging-green-cloud-infrastructure-supercomputer-system-to-aist/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 31
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/shutterstock_co2_carbon_emissions-405x228.jpg"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "Bfa7QM0ScYaW+6kaDmyWNSEQZQCh0UNrvZ57MqBOyFpGh9Xa9FksIASC4lxwxZSwpP61IkA+/GtxZ7xxFf/yHcx8FXJy6nJgVZmfmcgo8xO9GnSi78HNBcLCD7o/5LjDQgOnDQXcLKRY10opgrpkfvqw/XC5QuNiErJZc2IiTAlTe1pidpBSdBGhgeFkoA7xW1bBo2yDQwPl9kNJreV9n1SfcmNB0ya9OrnxSnw3iktT9eP2B6XDcQRLqIhhX2CdKkJIkyKxEO6ZZ0+KkFp8rjEsqS9Z+U8t/W5B5qgznQyYumdbx6Zp585srrd7QBCQP0JwjjlP0IFc0lUvcdoWkwg3FPuHHr57TFEuKAfrSvfiNyKVbVuXYuDT/lBuR0TRAJX4bMcMH/I2DhpdXR6ZmcrdD/tAR6Jl3Ox3trYGVZiZUMj4dSUtix5MpiNfTlnWWvcPEIXugjhggS/KxIhsGkMlH34gOHrNfd3nb4Sf+u7pnwz256yCu4BD7eF2vxR+Dy2YqYZP7THvJVTJov1Ucg==;WkK34iLqQqHLyDZ9s1IsJQ=="
 ---

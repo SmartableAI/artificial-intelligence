@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/this-company-is-allo
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg"
         width: 1200
         height: 718
-        isCached: true
-  - title: "How to put AI to work in your company"
-    excerpt: "AI is now prevalent in major companies and services that we use every day. From product recommendations to personalized ads, from voice assistants to image recognition, AI helps us in hundreds of ways."
-    publishedDateTime: 2020-11-13T14:19:00Z
-    webUrl: "https://dataconomy.com/2020/11/how-to-put-ai-to-work-in-your-company/"
-    type: article
-    provider:
-      name: dataconomy.com
-      domain: dataconomy.com
-    quality: 37
-    images:
-      - url: "https://dataconomy.com/wp-content/uploads/2020/11/science-in-hd-7mAYDCamwrQ-unsplash-620x373.jpg"
-        width: 620
-        height: 373
         isCached: true
 
 secured: "ooB56dPqKJFblrOEuhrgD/yf57x5Uo2HDj1mtF1hFYY+yrPa3NMNhdw1KpDbfCkq/zz8uIl+lwMckMdYZC0wA248van9XX3eJ5LEcPA6mUPW/T+AMxxqXoFvtINDhpAJYDDucz9JmMoR1BySh241azFfCOMo9xhBQ6wKjf/12daUODyBB6ZdfaRbNTusBBw7U7xB3Uo1qp5r/NBlIF6z79aKV0es4g6gyONj2DUaVtJEykOQlvEDFD9leAkL8B6DRCfZnFIMGqg31RpfY2X0CDgauq7xKDdFl8U3p3SHfRXXI+gSzn4HIOdnSFnNU09Jczb/uD2wDkC1aWRLdmFT7AgWJ5/tDRy6F/IEOrAMLGo7D/CoArPNIXv+lItfEH2pd53xLDEx/eihhnBAm96keWOS4y7hEKqRapNpOnLF4fQrnBUa4LpitTVVuPBpS7EhA4sLg6cOgIEjsgykefIbHe1UFH/4bg6f8fDWoaw7ZvDocdgZiOXhuzydX5OY1riBnF2hCyaDvKR6vCClb5u0TA==;L4B+9EYeDtKAkQW0jIqmSA=="

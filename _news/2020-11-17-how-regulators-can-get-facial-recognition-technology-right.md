@@ -51,18 +51,18 @@ related:
       domain: businessinsider.com
     quality: 49
   - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The"
-    publishedDateTime: 2020-11-17T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-301174218.html"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
+    publishedDateTime: 2020-11-17T13:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lung-disease-industrial-products-and-services-transportation-infrastructure-f598a33d5865b03d04e0e68cfb4897d6"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 19
     images:
-      - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
-        width: 1569
-        height: 824
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "aOAjYWvwYG/L+OywXQoXtWyTS6SlNHqNAg8THI9zweLjT9mn4GCkn1cp77+IZZPM17qtHv45PxS65Zlo7MyC/7ijFfH2FfWiPOnkcPgfpUTROiIkCelN+/oqCk4Yy+yHubWJ/tYsUAGodJMdhZdJhsapzOv+lE4n2oJoytRlHqs6g2z+yj8Y0LA62CifW+5vOQuieezYUVbrWC1xBOSG9Aqel3KPA1ZSyTL10V/hrEJbjxCVXMxDNQ/rIVY9EnXBH8EMREF5FO1J7Wo2YMAnEfw8RmfT+xlZ8le7CtklqcwhTyo0yp212r3CBM+dL+8JgxvbEVee7Ht2dBuKdfIqBpgqnhcAY+RLxstmJoGBjZxunYgaNr3QLKfVuASvuVYA/KwbHx+Wk6fq1zs7ozxjHIVFl8DSL58ws4JHi2+nuNyy5V6NQ1rBd+ptPDwzv660uSMH4aH2sgtDzd0AULjTgGky3EtTFQm1sQSQCHbdd3W1YwZU3dVwr4c73gBrEPbaVlx6C8/IeaxdXLnJM/t5Fg==;38ETn/ShdZtPx3pKS5cdsA=="

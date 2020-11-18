@@ -33,20 +33,6 @@ related:
         width: 770
         height: 500
         isCached: true
-  - title: "Lantheus Holdings Announces FDA Clearance for AI-Enabled Automated Bone Scan Index (aBSI) in Prostate Cancer on GE Healthcare’s Xeleris Platform"
-    excerpt: "Lantheus Holdings, Inc. (the “Company”) (NASDAQ: LNTH), the parent company of Lantheus Medical Imaging, Inc., Progenics Pharmaceuticals, Inc., and EXINI Diagnostics AB, and a global leader in the development,"
-    publishedDateTime: 2020-11-13T13:30:00Z
-    webUrl: "https://apnews.com/article/business-technology-products-and-services-diagnosis-and-treatment-diagnostic-imaging-88ec43eadc5141bab776124fc8dbdcaa"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "YEZ4jMjul7lPoy9+90BBuCTE6Zvws1B4hBwvyW+K9jTN/QtdTOAcbHEDaF2+7SWvHHjuFVpKSe1yEcO14n8N5TKKasNcblUyI0KrltRAPzpwevySAfx4wpbNWgx++KsXip+XIICh1CC4BLfe2vxaCY6+XLyq1nBmqnFdZEokbR5wwK8RZYO63k0vqmF06/c3B5RpbBMUwt6gxEdSr9jCRoC+CyYwnRu36vVxUl+1R8QepWJ9isK0Etnxckvob+XkQaKLB/IUMJbx4K0S3VXfAOH0qI1J2Hm/b4A8zGX0049l1mv3JRezr/WnUUQqpM2OO01dMOc0WQEXQunBH2RxzbkVKtFdm6qK9smgwJiGjn4=;EuyK9Kq7drkJ3bTp5l8oKg=="
 ---

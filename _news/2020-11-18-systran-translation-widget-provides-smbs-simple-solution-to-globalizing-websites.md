@@ -26,18 +26,18 @@ topics:
 
 related:
   - title: "SYSTRAN Translation Widget Provides SMBs Simple Solution to Globalizing Websites"
-    excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping small-and-midsize businesses (SMBs)"
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-301174643.html"
+    excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping small-and-midsize businesses (SMBs) become global business leaders. SYSTRAN Translation Widget allows SMBs to quickly and easily translate their website to reach global audiences."
+    publishedDateTime: 2020-11-17T15:03:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/1dc5ba6f98b381b6232d81666547b7f7"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 19
     images:
-      - url: "https://mma.prnewswire.com/media/1227311/LOGO_SYSTRAN_VERTICAL_RVB_4K.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "u0JePxkfNmaweThVyc2H/G6fgewOD+oMi9oxv9ANapJnu7HrYmQqZXW8MR6MlZRxSWv9rNBOz7WrBLeiiAHKnTxiRLgpHIRViLB/D9npmkKVdkwII/gnput/Z5bnByg6hB2F5v9a7qm0fDN/S6jKGWuG9iGazCOahhCLol9XoKvmF7m1/198ae16T8f/CB1i2tcQ+UgKq7pjV83UR+mP2c5lQyMEvPos8XpCxmG8IHhaxAS5gmPKoEGooDscpA6UKMJ37JML+ZMxXWzKByn4fTxQ8dAi5MzKtBB6uPFBbmF/T7PxKklOAaWj/uh2B1lFV8Ds6hQnJNrq0T/L9MdBeUrGkjau6ChO8Ojne1/tbSQ=;0BSIuNEyV5PJuKyE7f0QbA=="

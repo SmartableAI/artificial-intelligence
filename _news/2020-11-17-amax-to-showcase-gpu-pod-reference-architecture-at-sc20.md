@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AMAX to Showcase GPU POD Reference Architecture at SC20"
-excerpt: "AMAX's HPC and AI Solutions Group announced it is showcasing an all-new GPU POD Reference Architecture at SC20 from Nov. 17 to 19. AMAX's"
-publishedDateTime: 2020-11-17T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/amax-to-showcase-gpu-pod-reference-architecture-at-sc20-301174790.html"
-webUrl: "https://www.prnewswire.com/news-releases/amax-to-showcase-gpu-pod-reference-architecture-at-sc20-301174790.html"
+excerpt: "AMAX ’s HPC and AI Solutions Group announced it is showcasing an all-new GPU POD Reference Architecture at SC20 from Nov. 17 to 19. AMAX’s GPU POD Reference Architecture incorporates best-of-breed compute,"
+publishedDateTime: 2020-11-17T14:24:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-e5ea832549140b8ac22c6522a3e1d1ea"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-e5ea832549140b8ac22c6522a3e1d1ea"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1336135/AMAX_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 336
         isCached: true
 
-secured: "+qebHECcaoDrabvWLi+DwL8J+1TJyvci2F94Dx+DfNKh4SY1ZTPEvJStlj4goRGlfS5aACpo/6wCLQ/gNrVJsN/uQ8pY3iamok82q0gk1CML9JlF1ad/+oSeKJdQgnRPMc9sZwAE7UuejM76jaKdGS3Go9cBd6tofcHbp3kaQ+BO2TPFmzamTz7X3JMQemuL5HEIDX56CaMviBwB3KV5Rf0TxKyEKHb7IugKNELmVm3op6VwSf9wp8AZ2Wav/7flPLGx8/MjLHfUMe3vRYWFa4u84za698XFbh4Ym2WSQpxkj6dCQ37AI31zB4o68z4cjpWG3xPONE59BECEKT/ehZ20blFJEzxT59LsCxhUtQA=;zSHfCO510REwMMG5E59+RA=="
+secured: "YugNitHmWxGvvpSJFfVWONtY/Sq3dDqvxGlC7jgxqU2Hwp4MRK+AfydrqBixkXhq4DvHUMRnqY3zq2YhGKcpxdrS5OvFNVE75nt7oV83WCvfYbmdFS8MgWpnhu9SMXXHZjXLZHnG/B/Gly59ViqylHhTJhirGTPARymfwVxWUEijqJqDff9DCogofBeIsoPIYAn0c+tOnRh8Keir/iD6MR9wFFtlFpWrujIZuW7PO9A2Zkh63xm74EuRbh8gX4KKjIEHn8NrrGbzjxEJDseMnShb95nZLYt9EXYqkgn8IWzX1XPjPh3fQuZiS86LCxjhwjG06YlELfpCTYsST2mmxEC4MbMTq1+SJ4yvZVHULxw=;8wO2DtoXb6HVzzEJjcPWxQ=="
 ---
 

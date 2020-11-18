@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-qualifica
 webUrl: "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/"
 type: article
 quality: 62
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: AWS
@@ -27,6 +27,22 @@ images:
     width: 800
     height: 267
     isCached: true
+
+related:
+  - title: "Prima-Temp Awarded Groundbreaking Patent Using Artificial Intelligence For Ovulation Prediction"
+    excerpt: "Temp, Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its"
+    publishedDateTime: 2020-11-17T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/881405/Prima_Temp_Logo.jpg?p=facebook"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "aOps+d1LOeBIyuCSzvARIMv2huzF5BfUbr/fQxvPf9qbAH7lD90WOoWUGDPe5KRLrjfxlCIVYsnL00lksMVmD8ZqPgtd+5H+RPrPtAo0GXp5IIpcg9xn2P6v1y4v2eYld8aXuvovQe1ke3veghGNJTyJzLzyseFCM6TGRJxEuJD6eD7oKZOU9YC/XqkoGhDzAIuoW0I5iiC8+QUM8/XHLL9Rs1XcoZOQ4RdfOH8I6cJWbBRdk8ritnEbGxeQxVa4usuLtZNN6/5C6YbPccNoe4aQGVnAFk7iYVlnQypIcK57hjtdujs5UkF8dcsXyggUPC48uraZEOIcs8+0V3cWRT9YUS4xwapCbFsU0Xv96NI=;CZ4t421dYVDKJwUUS6Ky0Q=="
 ---

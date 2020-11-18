@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
 type: article
 quality: 89
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -58,17 +58,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 69
-  - title: "Velodyne targets sub-$500 price point for self-driving car sensor"
-    excerpt: "Velodyne Lidar Inc <VLDR.O> said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
-    publishedDateTime: 2020-11-13T13:19:00Z
-    webUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/velodyne-targets-sub-500-price-point-for-self-driving-car-sensor-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
   - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
     excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
     publishedDateTime: 2020-11-17T14:04:00Z

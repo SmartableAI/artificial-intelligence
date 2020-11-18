@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The"
-publishedDateTime: 2020-11-17T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-301174218.html"
-webUrl: "https://www.prnewswire.com/news-releases/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-301174218.html"
+excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
+publishedDateTime: 2020-11-17T13:10:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lung-disease-industrial-products-and-services-transportation-infrastructure-f598a33d5865b03d04e0e68cfb4897d6"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lung-disease-industrial-products-and-services-transportation-infrastructure-f598a33d5865b03d04e0e68cfb4897d6"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1335631/Corsight_AI_Logo.jpg?p=facebook"
-    width: 1569
-    height: 824
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -65,6 +65,6 @@ related:
         height: 2400
         isCached: true
 
-secured: "E1oQv9Iqq3gPyLB+bkWnn4XJDDrLA4ixnRlBIcA+plMlzNgyjSyi1eiuEeun6tWvN8+VAHgs5eyw7bGv/qOtRuR5eIwdxe16XidQFpWKj/4b9Z0bLHQROcBR7f5Uj2BfOk9WNnK5S6Jyv54AnY2NR8kTggMrACK4YpAYu8m+rA5byfWW5XCluF8gZ3N6kT2vJzrB4Qfj2sKExmjGXPWeP/coUHmO/SnCRIuqk1Bcz9XI9gPrEyVI68hDjIfDdJnx0pM2XOJnofpOocBufhFpCgBihBgxPGEdVY54u3rOaDQUQe9r14lPfwsR7UrNPbr4ZUZsnOIu8EQokCPDjJMDnk/cD9YYslrA06+ZFcKR1nY=;DuaRj+qr/IoMmj9noGLxZw=="
+secured: "aK2uJRediK8gCmty0oisFAhEuB9ycZu3IKMN2Fm01XAZ2iUM1ci/blfX8xKnQBc/I7D8mT1XXRADXNPeNh0rtJbKpWZ8lPe16O1m1rla0P+ZztQfK/qCA3J96wSzH3G32Sou75IydGuOB+lZDP3nKbKPYNbPRn+NvzOnoep9BsvqDg9i2k5Xnk+pi3WkLchaZU1yGRSPraHTsvjsiyc7GS/G2eantvzP4IxaNaVgMBU8t6K/bXbhzE/L0U5jQIHRwPMX8zA55kBxTu0j7wAQWuSjhn9Wu9/oHXsOZKb5EpddBkj5xE8xmgIIThvliJxSqCXIvJ7R0yIlBglAatHzTEOpNug5kzFFbikGuIrpswg=;wM4KQWrmKKXb3iPgwJR6Jw=="
 ---
 
