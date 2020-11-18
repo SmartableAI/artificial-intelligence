@@ -69,12 +69,44 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "LAPD bars detectives’ use of Clearview AI facial recognition system"
+    excerpt: "Critics say facial-recognition systems that use images from outside the criminal justice system are racially biased."
+    publishedDateTime: 2020-11-18T16:51:00Z
+    webUrl: "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/"
+    ampWebUrl: "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/"
+    cdnAmpWebUrl: "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/"
+    type: article
+    provider:
+      name: Daily Breeze
+      domain: dailybreeze.com
+    quality: 74
+    images:
+      - url: "https://www.dailybreeze.com/wp-content/uploads/2020/11/LDN-Z-CLEARVIEW-AI-1.jpg?w=1024&h=446"
+        width: 1024
+        height: 446
+        isCached: true
   - title: "New Orleans PD Using Facial Recognition Despite Earlier Denials"
     excerpt: "Despite earlier claims by officials that the New Orleans Police Department was not using facial recognition, it appears the agency has been leveraging the technology through state and federal partners."
     publishedDateTime: 2020-11-17T22:37:00Z
     webUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html"
     ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
     cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
+  - title: "Los Angeles Police Ban Use of Third-Party Facial Recognition"
+    excerpt: "The Los Angeles Police Department halted the use of outside facial recognition platforms in investigations after uncovering that detectives had used a powerful commercial software known as Clearview AI without permission."
+    publishedDateTime: 2020-11-18T16:20:00Z
+    webUrl: "https://www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Los-Angeles-Police-Ban-Use-of-Third-Party-Facial-Recognition.html?AMP"
     type: article
     provider:
       name: Government Technology
@@ -144,6 +176,20 @@ related:
       - url: "https://ktla.com/wp-content/uploads/sites/4/2020/06/download-1-13.jpeg?w=1280"
         width: 840
         height: 560
+        isCached: true
+  - title: "LAPD Bars Use of Unauthorized Facial Recognition Platforms"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission,"
+    publishedDateTime: 2020-11-18T13:42:00Z
+    webUrl: "https://mynewsla.com/crime/2020/11/18/lapd-bars-use-of-unauthorized-facial-recognition-platforms/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+        width: 583
+        height: 300
         isCached: true
 
 secured: "r0YfRNDKwOAYTAx7Vz0XfmRGzwqd8vNR1fXP56RaxllFV2WR43KVrwdCclsNt7AbJKrZD0NK7tFAjTHmIZxyxjqSA2EDkeAcbWeFKOG5JxAqpvdL/qzYzXe/1wzIVwEXARSRrvJ1Nso1VI+4z5NMmLTZ1kt3fR1XLMdl39vuSH89Qqvf0JsJoB54RnO1jH+seaoP3nzTYXceG70zXJPmWTzQzFzocKRd+PVvnub8V8ampNAB9K+4ASrZnZ8DZiqpo+WeDBRMfYNDyXmUsLlrCF/Xee5k52VfGy5OWEcuQADe1IO3PRTFE0thtk0hG3GTtl/0maZn0/j5cP0s1I7iiRt+9Qoj+h2LHLy3WSGIVk0=;pEW2qVzne4nkZiWw+fAvHg=="

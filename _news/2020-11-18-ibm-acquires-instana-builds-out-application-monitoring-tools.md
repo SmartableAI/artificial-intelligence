@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -32,18 +32,31 @@ images:
 
 related:
   - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "Acquisition to help businesses use AI to better m"
-    publishedDateTime: 2020-11-18T14:01:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-18/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-khnh50en"
+    excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
+    publishedDateTime: 2020-11-18T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "IBM sharpens its hybrid cloud, AI focus with Instana buy"
+    excerpt: "IBM has announced a definitive agreement to acquire Instana, an application performance monitoring firm. Financial details were not disclosed. Once the acquisition closes, Instana's technology will be incorporated into IBM's hybrid cloud and artificial intelligence portfolios – two markets IBM leadership has targeted for high growth in the coming years."
+    publishedDateTime: 2020-11-18T15:24:00Z
+    webUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.html"
+    ampWebUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 59
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg"
         width: 1200
-        height: 630
+        height: 633
         isCached: true
   - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
     excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
@@ -70,7 +83,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
+    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
+    publishedDateTime: 2020-11-18T16:46:00Z
+    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
-secured: "RMf1Wn+lomNdb88qdJxi2GL8KVo+YEsAVFFNnRF+fxzxSMm7CTc+ZgIgBSxZl6MkrWUPll0rNuER906y61nxlNce467+XyXlxiWzbHCNWOJY61yq7Nrh0jFuTKr9HZbWuG1zCQgY3qXdRyV6FjVNI7nY5jm5yoL22xDwJEzrzg8LVqhAmHt++kQGfy3M4JJd5xu3w5a/fpdbUc43klNXKwZqFxsoxPSteWMqtDBHyYjQyEN+GlHOy+lCxZ59ezzI/DwCjsm/b9rvBoWTA3Y1j2n9iCdaSqn8yV33/NA2epa2I+lGeOJn/7PPmhs+F+dcZ0Vxz23Lxlp7FPz3J3r/e1IZLWutEw681iiscF7CeY8=;qIkrB/x1VLPpfBJBfYxVZQ=="
+secured: "tfhNP6l43V43Gg+ejgfvbA/Nqmot7Muk3NdxfLeQ8rwUHSlWH6pOeudFiMI2gIBrC9dZwMJxJ1BpZ9pB9Du/TGp5O7ywbb5YCkfyzAolwT7nOS99mCT0crjmU/anWb5Esu6ZNYFXNamtYkHHjzi8QZl4BNKZ/jR0JHOre5A6XDOgmzGL6+OLjUsx3zw0bvmHHHSrAd0zrN5OkXGV55O1psf8ojYDLXFMIIyb8HaRZAuH2IxDRDLTtx/NSbA7G7n+nRXWE+OAPlePn9kT/Uvm97MXf5ll67+VegxpR/TKvIjboK9chc8dWgmLIo4Pux84bouWuKbe2GTO7o7eV3ODBsH4UVTQ1GTQusSkQ+PvMhwSrOWkIyXuEPF/whAYW8f3S6S4l4bcxLtSDxm4PaES2fHbIcQTvODvxciJUYBpl8OooVSvObVnDtYhyAYplgIFYhh3sBEgBgMj3xZUXE1HinGaJuMKwQp9Wi9vjYo5D3EL5APyM9IrTj1aMuQCEUODtS6yBHI15ku9o7WqcRcW7g==;Rlrlw0a3dNFzFmZM0bllpQ=="
 ---
 

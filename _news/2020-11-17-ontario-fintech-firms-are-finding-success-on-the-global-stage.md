@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 762
         isCached: true
+  - title: "What China’s fintech market can teach the world"
+    excerpt: "Take the cover photo of this article: At Alibaba, facial recognition software identifies customers at the employee cafeteria, while visual AI identifies ... in China’s fintech market and what ..."
+    publishedDateTime: 2020-11-18T16:08:00Z
+    webUrl: "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/"
+    ampWebUrl: "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1011643134.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
     excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, has attracted £1.2 million from Saviu Ventures, a French investment holding company which focuses on African startups;"
     publishedDateTime: 2020-11-17T11:09:00Z

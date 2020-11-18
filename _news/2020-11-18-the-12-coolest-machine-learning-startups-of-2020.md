@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-18T14:57:00Z
 originalUrl: "https://www.crn.com/news/cloud/the-12-coolest-machine-learning-startups-of-2020"
 webUrl: "https://www.crn.com/news/cloud/the-12-coolest-machine-learning-startups-of-2020"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.crn.com/resources/0263-10e24538a932-582b1d7f148d-1000/ai-artificial-intelligence-mind.jpg"
@@ -24,6 +25,6 @@ images:
     height: 457
     isCached: true
 
-secured: "P71ZeAXs6qPz9EjvrIJZjtJd0Dn+orbSuGbdxCdMgQsp7SrO+qkWq3F83RMmHTjJCLUR3OJCN76ZadayuRwdx8yPyi0MVzeb5UiA48x7AP0cLS/kxUA55jZOorJMmK/Pmjcl0Ik5jRSJDKtknXs1mB+CrChRcg3cAENlHxzH5FRNHLliOrKPKAAeDGEx0EFPKUQXU/It1LDxBQqb+WOK3v2e8AumGKO0tk7jaGbJj/6ZFeaw2orVkU6Ju69OAMt5NdR/AV/IWtj/7GKk2zvbMqsOOMRkFE/nz/fx9vKckx84/SJSYpd/x/cX+BzwCWPzP6/oUsM4pBBsSUJ8UUWgw1piOobNMYTbpI5/FfMI1f8=;GYv78rKBOrnBDzlLvsPtNA=="
+secured: "YdPX7JoQtsgKK1lccQswRswuWz4ibslJ9eWq4qlaazoF/73R1Gmym3lnicyhIBVbwUS5pViDVCkFpEzsvv4iomUhsuYMfQTXFPU/nD6s18FAbpbGusKSYwI3y0TdYX61ThgOQDotnsfi9cHEajuiOpWHqpEz7MMMG1qO65gF9YLgmhczdn2ke9B+xEX6QXqIBl53Z2ssrn7W68QpOeZoFgCwtNtVh2ACm1+eQrW9wkA9mn85IY2i7ccmX1PJ2xoq2t2Y8Zfwv+5skvoc8ReFHBHVsTfyG7JQ0E2WtAkao/CrXPU4ZlcSKNrO+rAaUKxJtm+lH+LWy7R+PmGWikZmN32wujFWF1/IiSrdLQxiNsT8+E6DOrMcK1rVc7VUJfO522oZILVzrz2TM8oEHzqxyvwHKtelcajqsdmwv+eCIJc039TsRIlwtcHfQtDeF8qLA5OCqcDwGr5RTUxO42oae/sjQCZ5DL33doNDhvNgFi3E5nkjxvk8fUDGaPeoIvOofKL/sYlzxCgYaq5hgYjtLw==;welR6Ewk7hIWEDDhRG1UbQ=="
 ---
 

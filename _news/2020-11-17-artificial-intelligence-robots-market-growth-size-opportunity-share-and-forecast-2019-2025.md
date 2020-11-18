@@ -9,8 +9,8 @@ ampWebUrl: "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-ma
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: openpr.com
@@ -25,6 +25,22 @@ images:
     width: 800
     height: 571
     isCached: true
+
+related:
+  - title: "Deep Learning Market Report 2020 Industry Trends, Share and Size, Expected CAGR, Top players"
+    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
+    publishedDateTime: 2020-11-18T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-industry-trends-share-and-size-expected-cagr-top-players-2020-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9J6ewrQyLlRrTyZ4Hwa+/qv4h8kVIf7UVSIo9NVIH0PBcnShFPnSO1FUDIpDyOM0JbkNk/DYQ5gDqSjTiq/O2SvnzNSuofqSKUJ62j6v/tD1SiV5Hmu7YYKV1AcIPr1NAZJ6FPeTJ+lAH996Q02uXjJkLuBVipuPTEOPXzFuC/bvJCbFmjZ1WHacL26GPKZPNxD4ksoKrJnjcPglUdQqCt+O3X3KNZx21YKZ1I25Kx10E66UYV4YjOBCwwfbjM8rGgRkMaYbO+MsYPghWXqq44ufhmrw7Vef3mzChH6CRjsNGMd5HON0wGU1mXvw9i4geAR0aF+AF5M1QVk9D7Rd1rl1h41NaJrBiEx/ndVWYfc4NWid8mnfm8AHKoUhpBv+SZ35U37B8aWXIKOdzj1LmRkDGCYYx2wDgfYeIOl6qHAVIs+qb1oArF49P+4OTmTbhJUwGawG5NVKq1EMPIH+rJSSYLXlGkvCfNHo2OMdtQalt8cQ59S6kF7E86xte+pOGqa+2NEG2s+/5Q7UU5wncg==;9M7WjMvyu/C88V6CbNZiOA=="
 ---

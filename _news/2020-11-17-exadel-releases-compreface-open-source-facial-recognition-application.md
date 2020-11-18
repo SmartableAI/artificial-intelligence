@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
-excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace, an open-source facial recognition application. CompreFace can be integrated as a standalone service or deployed via the cloud."
-publishedDateTime: 2020-11-17T15:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/exadel-releases-compreface-open-source-facial-recognition-application-1029812123"
-webUrl: "https://markets.businessinsider.com/news/stocks/exadel-releases-compreface-open-source-facial-recognition-application-1029812123"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/exadel-releases-compreface-open-source-facial-recognition-application-1029812123"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exadel-releases-compreface-open-source-facial-recognition-application-1029812123"
+excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"
+publishedDateTime: 2020-11-17T14:20:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/exadel-releases-compreface-open-source-facial-recognition-application-301174985.html"
+webUrl: "https://www.prnewswire.com/news-releases/exadel-releases-compreface-open-source-facial-recognition-application-301174985.html"
 type: article
-quality: 69
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://mma.prnewswire.com/media/524661/Exadel_Inc_Logo.jpg?p=facebook"
+    width: 597
+    height: 315
+    isCached: true
 
 related:
   - title: "Facial recognition system at airport still not operational"
@@ -56,6 +56,6 @@ related:
         height: 1384
         isCached: true
 
-secured: "BcQPk9GKT1oTPbevcQi2dd+W2AKccIcybPL9KFXU2DnNTJ02oA05IQRSNPPQAyO4/GWIo3ERsZX1y5ktKGNtA2b1FdedCX/H81w69ZCVlYHoj2E9h2ZYhqYq3N1+2l7eAdhgc1YDx/wSYzpredfINVgsPo4Fn3EVWpJbzDRUEgHkemnH59+Lz6fTJ0+po4zCilNWZoTqowYzcdbuWld/VdWlf6sgCQ3BjUNADJkk8w5Ruf/rLW/q7e07SJuKXrw35qZ274NzpxbHtOKUw7OiTEfsX0uwwCCdoJiRl2wMGPTivMNXUW38+7WyhLzoeLgkwmUBBX+KE7gA/6MXKB+OX+S7H3IRgJxC7v+1XF+6jcg=;8p25KkadjBPHx1OlmmC9pw=="
+secured: "wLMMfltGkXjyyJrBafkLo6OkmQdJTGBifEDPpOCAK66JRKFu12H40l6DWHu15NxNlrPzx7gL1YECcdwy3wcWGYkeQybkzmik9CiSs3UuDJL1izgUbRI7Arz2r8JKF/hDBjjF7IJpvJVimzaZuA510aGr+mvVLJmxCZPubMLyXnJ34TuaUV0BoZxKXNpRLn6zdysFHPN4sU27Jn7QZng7+7yeUvpsIut47yrFFI0lFUzqyElgJAjazyU8u0K50kg2IXJ1x6g2OXUtQZCZa3Yr101FS16luQizGTEu/EZ+N2MRSIi11qDrssREZBep7Nn7DU4rfsLuQZj9GHmLRMYuRBVk0chRcLN5Zo/7tgTKEUg=;71jJUEM0KrEpXEyya2pHrg=="
 ---
 

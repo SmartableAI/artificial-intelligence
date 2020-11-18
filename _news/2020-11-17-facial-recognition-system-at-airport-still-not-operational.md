@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
-    excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace, an open-source facial recognition application. CompreFace can be integrated as a standalone service or deployed via the cloud."
-    publishedDateTime: 2020-11-17T15:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/exadel-releases-compreface-open-source-facial-recognition-application-1029812123"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/exadel-releases-compreface-open-source-facial-recognition-application-1029812123"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/exadel-releases-compreface-open-source-facial-recognition-application-1029812123"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Air Force bases look to facial recognition to secure entry"
     excerpt: "The pandemic has been good for the facial recognition industry, with a company inking two new contracts to install the technology at Air Force bases."
     publishedDateTime: 2020-11-16T19:29:00Z
@@ -51,6 +40,20 @@ related:
       - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/382821.jpg"
         width: 2080
         height: 1384
+        isCached: true
+  - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
+    excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"
+    publishedDateTime: 2020-11-17T14:20:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/exadel-releases-compreface-open-source-facial-recognition-application-301174985.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/524661/Exadel_Inc_Logo.jpg?p=facebook"
+        width: 597
+        height: 315
         isCached: true
 
 secured: "hdUXrQcGtxmOlbQq91Ed6ozugroiaJcoeJKm9MUdOhf2a4KWS6CndEpd/uvxGy911KAvDpN2I+iwwOAGifH9fqQMQ9xZ++r9SJ9DciNbxJm6LI6QNsg8O2juaBEj9ns5b1eIgy/VMafO0OcDYjDCws9VbpYWq/4FsWp5a+4GP7qKojaQkgmLVb2uRPEXuZzOKGYxna4e40tsWfXqmtXYuZZOv9qTg+OnqZ+11dMnKPL8+8j3rIAoXkspiiI5cU+NVEiassVgK20T8qvAGR/EKvWL2CKlklW8Onoansic8F+bjiHZ0ojuRV/QgX31lkle6EpRb3S6WvJetwN/ZVBc0J2A56jjwn0tCo7cuINKdMUmDQP7d1AvvZPx0tq6HZnNkcsWdBlCQf2yLA4Li6cR8ksZxW8vZp5yzgdBKRmZB+wxcEuOZNz3dr4MQuH2AR8ZiRyRO2uj0G7TxDsjHR14cfawZjRLl50jhONONdvgQI6sm3rHRxh0Px/FRK15ybWr4HbE5mNozK5aFfJfYrmyVA==;yQ3naP0PqVciz2iWeiWZ/Q=="

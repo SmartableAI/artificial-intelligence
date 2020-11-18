@@ -66,6 +66,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Aisera's Conservational AI for Microsoft Teams Will Change the Future of Work"
+    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk"
+    publishedDateTime: 2020-11-18T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiseras-conservational-ai-for-microsoft-teams-will-change-the-future-of-work-301174185.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1335577/Aisera_Logo.jpg?p=facebook"
+        width: 1500
+        height: 784
+        isCached: true
   - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
     excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."
     publishedDateTime: 2020-11-17T05:19:00Z
@@ -87,6 +101,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "ohaARqIHz79GWlJ792dnVzGqopPUElwR2qirrgGWIv+RZTeVxFE6lQup870KtI8eKQaf6fLmeVkOhCQq0OytAUeMZ2iccUHUmNkggKwfww0O5PhjxlufsfnTO9ulwfboNozvNIG/HhuKm1VWIYBdOqr3EReS31oGVPqBETwkHEM3cudpmJNrcPea/utQadfUQyA4ckSpsYM9/ha0VtpvEkhUq26xCTlLE4NSfXronxMUR3/EDEAXBU8+nkGYaZW4iSOE8Q5EYSRCXg3LnFQphYMOsw6Xw1Dln2V8oQsjZW7kR8SKYk0LklgeAmHtBZw7p7Qcg4T3uLsOjH5RjP3AmL8EAAsXpGrpj00CrTiGviI=;C7xvCGJBJjs7XCElJB3d9g=="
+secured: "aIiG7XqL31MI1UI5Awl6yJxB3vrIDCGDKO8+Hjqmzf+SOBhe+7ZvFZLneBHAbWQ7v+eRzPF6rQTOnACINuHTwLN9fUIsC+32aiDG4S4vgiuJp4xD+v9Iz9iZQbr8xK5gnhldQcinOzqJGPV0/nnUgORw841lube7WE3C/VblotSgYZkdAu5LQbfewzugFBupxC0A0eAq3nSKEo1mPAJLy+ccfVm8oxIGWSVxKDtTxTEb6OFuJpWBGxwVi3ojeQAJ845qG5HszoHnvzjH8GlG40oD1lvWf5G7U+2b62v8NxfUBKhAqjV5GjYWPZXhbsoLQDCQMo2JWwqPjtjdIlno45iIRLzJkKdKMinAFhRc/X1uvl3Kc1/VLC8/eMnfHnZNyyCfX8glxAX6OHE6mpdLqxoPvWr4ibjoiJpIBfreF0XeGvVPFLKMhVHC70REtS4bp+AYGNgYfFCwUTSaX5rXkruAhKrWCMc3h0meDEsaNAzQgDQfNS4AKYhTC4A1m//7k+jy+fQhGTewdzrjKCqRNQ==;ZWeb06wNfb8eNQuDzjroCg=="
 ---
 

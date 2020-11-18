@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 762
         isCached: true
+  - title: "What China’s fintech market can teach the world"
+    excerpt: "Take the cover photo of this article: At Alibaba, facial recognition software identifies customers at the employee cafeteria, while visual AI identifies ... in China’s fintech market and what ..."
+    publishedDateTime: 2020-11-18T16:08:00Z
+    webUrl: "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/"
+    ampWebUrl: "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1011643134.jpg?w=1024"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Ontario Fintech Firms are Finding Success on the Global Stage"
     excerpt: "From mobile payments to cybersecurity, trading analytics to blockchain, Ontario is a global leader in fintech."
     publishedDateTime: 2020-11-16T16:23:00Z

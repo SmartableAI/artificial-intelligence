@@ -38,18 +38,31 @@ related:
         height: 675
         isCached: true
   - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "Acquisition to help businesses use AI to better m"
-    publishedDateTime: 2020-11-18T14:01:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-18/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-khnh50en"
+    excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
+    publishedDateTime: 2020-11-18T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "IBM sharpens its hybrid cloud, AI focus with Instana buy"
+    excerpt: "IBM has announced a definitive agreement to acquire Instana, an application performance monitoring firm. Financial details were not disclosed. Once the acquisition closes, Instana's technology will be incorporated into IBM's hybrid cloud and artificial intelligence portfolios – two markets IBM leadership has targeted for high growth in the coming years."
+    publishedDateTime: 2020-11-18T15:24:00Z
+    webUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.html"
+    ampWebUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 59
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg"
         width: 1200
-        height: 630
+        height: 633
         isCached: true
   - title: "ClearBlade Integrates IBM Edge Application Manager for IoT Asset Monitoring at the Edge"
     excerpt: "ClearBlade, an industrial IoT platform and edge computing software company, plans to collaborate with IBM to deliver Edge IoT asset monitoring for near-real time asset management."
@@ -65,6 +78,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
+    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
+    publishedDateTime: 2020-11-18T16:46:00Z
+    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
 secured: "8hfoBBnXRA23OKJmb9rl+QPRKUDI63sYMzUgPH36Aic4j+iaLOhHE/m7VUjuZuy1zyxbl8uKtn0WhfTH9IgMrUXUnpH/hlhPTjA9ywZMTDV2Wxx9oxf+hU5eebSX1nABF8sc9HDOXJwOp1H5MLIzzAv6PR88/uS+2/OTgqk0ExFrUlAj5kbjy8+cO6U3ETQb/VWWDRqJnZswexba7+QEhgEJPOIR9dOnTCR9KxaZJ8J8IdH/LPwbefnfJwByaompfB8cFBtmgLZrZqql/vrv3vTUJfWblWSkriSJ9L1VaufTyWHrbF1fNGwqkRXr/A93I8bAJWlqH8GO1+rKuQC1GKrp70Qn5Nxs17KT42Z9+44=;CoMTvEUD6QSxGUFmLzTYlg=="
 ---

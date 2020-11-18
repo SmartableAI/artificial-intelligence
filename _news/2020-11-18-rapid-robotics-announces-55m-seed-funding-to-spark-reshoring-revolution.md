@@ -3,8 +3,8 @@ category: news
 title: "Rapid Robotics announces $5.5M seed funding to spark reshoring revolution"
 excerpt: "Rapid Robotics, creator of the first ready-to-work robotic machine operator, today announced $5.5M in seed funding from Greycroft and Bee Partners. With the first affordable robotics solution for executing simple machine operator tasks,"
 publishedDateTime: 2020-11-18T13:04:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2020/11/18/rapid-robotics-announces-55m-seed-funding-to-spark-reshoring-revolution/15933/"
-webUrl: "https://www.roboticstomorrow.com/news/2020/11/18/rapid-robotics-announces-55m-seed-funding-to-spark-reshoring-revolution/15933/"
+originalUrl: "https://www.roboticstomorrow.com/content.php?post=15933"
+webUrl: "https://www.roboticstomorrow.com/content.php?post=15933"
 type: article
 quality: 33
 heat: -1
@@ -36,6 +36,6 @@ related:
         height: 765
         isCached: true
 
-secured: "a1Cunw5Sg2szvuZaHijzJ6W8Kl3nV4qDzaEJAqBjBp4GP1VSEaOEulWAdz3kmgtO/5Q7dYfP4ajffXCZT6wi1Jx/p18b2w3baBlq8fmj5D0xZy3V6nL3PdvPD54qkX/2iwqzh4wVZH6guzEs0i0YNmC7tP+KSaqqqP5irps9gPJd2fwhwsZ3yRR3SfeHLhbxADg39JP8u7kw0k2cnXuTE3SaOPIcCTlQE4XfsaGQND/TvuxAsNWhOvr/22Wt5umg9lyry7z/lGYJGVyjtLX+CbXa4E74jbQiCPqX2SKnws7C3nbh8kigpsts1Y77LqJZ6+sTxn0ppQGaCik0DG+mFkYL3Jml7FGgIBhCBcrzqfw=;B2RJ4WnaRA9+1NWX4JVnZg=="
+secured: "s5bAZuIfCycQ7z4ht92ubihe8/hroxDXQ4LRDHvb81mHapTREeUQRivSD/YoAC/webPSwDbOj/fYRcwRsxHu+YwVLXbJ7HT6EV2/rQt1VXkCg3pQpuXW1KeUR2B90N2LSNcKy+4g2mTaxENRzd26Fb9A8bHLAuL7h9FRq1fnCWxIFqzvcj4JYNxM3c0bJsbB0vKsXeIH/TQj9TmO9Nnx0VcoiWZx0imrk+ghbiYr26soC9NjQFnHQ8UOJc8OUI1AkXyMJSpJBs0vCpFKZRksnhIJCC00NfJjHH1d1FAGQHpgCICtgYLiHIwkew4Ict5F0ty3/nvab1L2Pyw7krg/sK4518wHP2KgRxsAdJ87nFI=;ePQnWKbbDOvOzYGZQg2j1Q=="
 ---
 

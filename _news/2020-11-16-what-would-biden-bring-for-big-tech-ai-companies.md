@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/what-would-biden-bring-for-big-tech-
 webUrl: "https://analyticsindiamag.com/what-would-biden-bring-for-big-tech-ai-companies/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 512
     height: 341
     isCached: true
-
-related:
-  - title: "AI Weekly: Tech, power, and building the Biden administration"
-    excerpt: "The Biden campaign platform committed to increases in federal research and development spending in areas like AI and 5G up to ... on Big Tech companies like Facebook. Gene Kimmelman, who ..."
-    publishedDateTime: 2020-11-14T00:05:00Z
-    webUrl: "https://venturebeat.com/2020/11/13/ai-weekly-tech-power-and-building-the-biden-administration/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 49
 
 secured: "uaZu3qUxqSUgPwD9kPPMF9d2rmhC5LyUyUrB+llYc/kCiDexh28CfJba9DP60HgxYOAZCgfQomUPflEeLX004J3cRrp5TiNLt06ux4ef1SZyCv7T//DQnKpD7TDdTTJ/gxP1QrvWK7iewZ/v9+PdWc/2uPto+U2LcMbOphRFyHjmUHfJjtKnbPykMTH+ZaQYnquIzvf3YqRDgELZGIl/j4OqY6lALstSwSdvJkL2fetDoLDAh4/xZ3a2AAzu0KTlVNLwJU1EqH0Qy3aHotbJisY3r+Zvpvc4OlIroNq7Ktc2AqToJ9GilIZxK01w4dZ2iyw2Q/iblR+Xw/8vY9M7rM586A/sOBkQXU7TbPNAZ4jwpdm7d7zZ1M2246DngnJ9s7jYRyus/UjxDDXtwZjR+xuFhXTaLyq8NeoY65MdMtdYPmv2inRD+eOJIdq7+EUzjut9uoH7kUPxT5oUjdzwGMfu9FOHcDx/mxixzfC1fRjhrkBG6B0UjKsglWly8/lzosbh8Aiez8KrvOPuWp3fIg==;DxLPQEULYrOkyuNxhqoQlg=="
 ---

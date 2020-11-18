@@ -1,31 +1,28 @@
 ---
 category: news
 title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-excerpt: "Acquisition to help businesses use AI to better m"
-publishedDateTime: 2020-11-18T14:01:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-11-18/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-khnh50en"
-webUrl: "https://www.bloomberg.com/press-releases/2020-11-18/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-khnh50en"
+excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
+publishedDateTime: 2020-11-18T14:33:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
+  - IBM AI
   - AI
-
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "IBM acquires Instana, builds out application monitoring tools"
@@ -43,6 +40,22 @@ related:
       - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "IBM sharpens its hybrid cloud, AI focus with Instana buy"
+    excerpt: "IBM has announced a definitive agreement to acquire Instana, an application performance monitoring firm. Financial details were not disclosed. Once the acquisition closes, Instana's technology will be incorporated into IBM's hybrid cloud and artificial intelligence portfolios – two markets IBM leadership has targeted for high growth in the coming years."
+    publishedDateTime: 2020-11-18T15:24:00Z
+    webUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.html"
+    ampWebUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 59
+    images:
+      - url: "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg"
+        width: 1200
+        height: 633
         isCached: true
   - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
     excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
@@ -69,7 +82,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
+    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
+    publishedDateTime: 2020-11-18T16:46:00Z
+    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
-secured: "0jO1GrFlOra4nPDyxMjN/iBrakaCneGq3b6S+lbVqVeOhgQgp9s175lQW4Nn1urGGQrMpDCo0/+pAyDk7N/Edx4/vsnuoWmqqrFV3kJ1dOzrRJqmaW3+R1SUphkliu32XVjSzJ+rL9DghIm2oDXb7EaBHQilehviT81LKibdKndO305gIBNBArVRk3aoCJ0WkFGtW/kYMHP5d8KDbw3L9I9qrvPK/QKzSFcFNvt+OzVYxEolJuIE3qPX3A5cOpzzEpO+cWPK7rV/qdWjkXI3O+XmuxHaqUMJV5UP3F/ujgd/F3ys7ynzQn3y/+WvhCxjtKN2y/vk0IP0eTriGVK7jBU5cQbO+QyR+3oJaoJuXLo=;BNg4fO0g74930yN+wouYPQ=="
+secured: "9DlOtJ4l4pSKWqOmJKa9rUo/gTJrB8B26asi0w8Co8WYa2SsDkUXtY+yBHRRHj21d1evPhXgkaf4yK7fklAeOXklpo6UZY1KW62SYN/xaA3PAJSqnKy1I8iSXzn6BcYII70ENIxg+RRfYz3UEd3JcVLE/C0UTb4fpHVwgMh8tMYhp4akWaOKta6wnpAlDYPMu/9wJ9s3quMOTjGJZqR8NFZuomH77p6BxaO/uNKOXFedL7OBvWTZCdLeuOGm4iRkY0rYOZglRdKdYr8pi+OK+fJRVSIHAaWBI5Wbnf8JgL9879ShIuaTM0+9BdCNunct2LnvyWbXtLmdbtYA6pgOGtCTQee7vpbMGKYOXLEs4r0=;T60g2lf9gGgSMUp2p0+s+w=="
 ---
 

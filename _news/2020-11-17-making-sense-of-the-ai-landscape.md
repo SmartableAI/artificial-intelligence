@@ -8,7 +8,7 @@ webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
 ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"

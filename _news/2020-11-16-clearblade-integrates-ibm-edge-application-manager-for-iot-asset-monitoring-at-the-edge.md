@@ -42,18 +42,31 @@ related:
         height: 675
         isCached: true
   - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "Acquisition to help businesses use AI to better m"
-    publishedDateTime: 2020-11-18T14:01:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-11-18/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-khnh50en"
+    excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
+    publishedDateTime: 2020-11-18T14:33:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
+  - title: "IBM sharpens its hybrid cloud, AI focus with Instana buy"
+    excerpt: "IBM has announced a definitive agreement to acquire Instana, an application performance monitoring firm. Financial details were not disclosed. Once the acquisition closes, Instana's technology will be incorporated into IBM's hybrid cloud and artificial intelligence portfolios – two markets IBM leadership has targeted for high growth in the coming years."
+    publishedDateTime: 2020-11-18T15:24:00Z
+    webUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.html"
+    ampWebUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
     quality: 59
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+      - url: "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg"
         width: 1200
-        height: 630
+        height: 633
         isCached: true
   - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
     excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
@@ -66,6 +79,15 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
+    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
+    publishedDateTime: 2020-11-18T16:46:00Z
+    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
 secured: "7SEbh2HPbuPKlKS50rJIxmqBfJK+2I0kRTW7D8nSl0D+6LHfsUudk5ZuccErkt+CWC24A2kVjd0e1+wsEdgCi71Agq6y0AVYyyeSySifuwjcFutGUzqTiWLc/3P6SQqw4di8Xiuh9WUKV+tSElbIhLPe56b5UfzPRO+h1WAEfjd/A2n6r8Gl0e/aGBgsASyOvNO8xKcm9yQRzUz5xiiXfUFdYf3YFNX4TWKC05KK4SsNnc7/eIk2G9csx/NTiHzXkx6YG1sXmLnkttUEPg5QQt3/PbSnSfkNQZiEmOf6Basu3gBPHUZ/z76sV33Z+yx7QTXqqmiyUt+isJgzLltXJs+JiNLlNb8NTlf7jy/ZRF0=;/k7bs/apDDm7LaD43qs5oA=="
 ---

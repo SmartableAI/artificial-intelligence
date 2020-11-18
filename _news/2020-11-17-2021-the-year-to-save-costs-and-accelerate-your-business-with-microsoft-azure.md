@@ -71,6 +71,20 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Aisera's Conservational AI for Microsoft Teams Will Change the Future of Work"
+    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk"
+    publishedDateTime: 2020-11-18T15:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiseras-conservational-ai-for-microsoft-teams-will-change-the-future-of-work-301174185.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 51
+    images:
+      - url: "https://mma.prnewswire.com/media/1335577/Aisera_Logo.jpg?p=facebook"
+        width: 1500
+        height: 784
+        isCached: true
   - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
     publishedDateTime: 2020-11-18T09:53:00Z

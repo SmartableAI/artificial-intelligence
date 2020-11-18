@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/hacking-hu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/18/hacking-humans-how-neuralink-may-give-ai-the-keys-to-our-brains/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:
