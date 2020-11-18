@@ -71,6 +71,17 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
+    excerpt: "FinChatBot is opening up offices in the UK to assist British banks and insurers FinChatBot, a creator of conversational AI solutions for the financial services industry,"
+    publishedDateTime: 2020-11-18T04:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18421085/ai-fintech-finchatbot-lands-1-2m-investment-to-expand-into-the-uk"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18421085"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18421085"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "Lepx1uVYwCcEQuNVzuTXmcxZF8vI2dMx11eQmdPnhnojUUJyG5Exp5DbV7ujsu0jGPlgoyAsfiosjbHNUDKCZ33VPnoQ2I6+bf1dPHekIdldP/gK1ibNdeZDsefwpposDKthOLuHSMUM7DHyRxLVqbrhEQcYdpTPgZniOBESAYNc/L9t1EM4+qC/0c51YSKsVg6Cd7ZMmMArL+BsyCerPyKMshPyxHdMYeQ58bI7lr8uy/bvkS2RTbBkVc5bJJKMRk4WJ7RzBv1MYLGFZ717rDpEcYu8wx9stD4C6lAAjBHK/NTZKF1xbSzcFUcq7/8WSK6saDFC8S9My70h5iGh3bt0eLgHcyKSyUYC5/H+jOCTU+Jb7PjCKcms9qyFprL40P61k1p9zCSd/nSuujPm0ozEm7fKiO4+izotqCgyv8fz+mCBdQmU5/PNNONnlMxPPV4Ua9sqM8FMsTkNAMSUH7iFnufFgOL93gy4/H8VfvIQRr4k5NK43LFiwNr5egbQlZRjgBIAm67Saj2ec4lVvA==;bJNG0gipm1ItoSOvlCozgw=="
 ---

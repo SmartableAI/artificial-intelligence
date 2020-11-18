@@ -39,6 +39,15 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "At SC20: AMD Says New GPU Surpasses 10TFLOPS for HPC Acceleration"
+    excerpt: "AMD today announced the new Instinct MI100 accelerator, which the company said is the first x86 server GPU to surpass 10 teraflops (FP64) performance. Built on the new AMD CDNA architecture, the Instinct MI100 “enables a new class of accelerated systems for HPC and AI when paired with 2nd Gen AMD Epyc processors,"
+    publishedDateTime: 2020-11-18T07:07:00Z
+    webUrl: "https://insidehpc.com/2020/11/amd-says-new-gpu-surpasses-10tflops-for-hpc-acceleration/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 21
 
 secured: "YugNitHmWxGvvpSJFfVWONtY/Sq3dDqvxGlC7jgxqU2Hwp4MRK+AfydrqBixkXhq4DvHUMRnqY3zq2YhGKcpxdrS5OvFNVE75nt7oV83WCvfYbmdFS8MgWpnhu9SMXXHZjXLZHnG/B/Gly59ViqylHhTJhirGTPARymfwVxWUEijqJqDff9DCogofBeIsoPIYAn0c+tOnRh8Keir/iD6MR9wFFtlFpWrujIZuW7PO9A2Zkh63xm74EuRbh8gX4KKjIEHn8NrrGbzjxEJDseMnShb95nZLYt9EXYqkgn8IWzX1XPjPh3fQuZiS86LCxjhwjG06YlELfpCTYsST2mmxEC4MbMTq1+SJ4yvZVHULxw=;8wO2DtoXb6HVzzEJjcPWxQ=="
 ---

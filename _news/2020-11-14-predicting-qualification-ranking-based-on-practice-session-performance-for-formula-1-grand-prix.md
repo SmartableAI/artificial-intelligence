@@ -37,7 +37,7 @@ related:
     provider:
       name: PR Newswire
       domain: prnewswire.com
-    quality: 25
+    quality: 27
     images:
       - url: "https://mma.prnewswire.com/media/881405/Prima_Temp_Logo.jpg?p=facebook"
         width: 600

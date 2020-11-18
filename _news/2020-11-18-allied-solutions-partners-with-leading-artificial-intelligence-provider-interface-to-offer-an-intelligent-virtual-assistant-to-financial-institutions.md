@@ -24,19 +24,19 @@ topics:
   - AI
 
 related:
-  - title: "Former Intel CTO of Enterprise joins AI Startup Censia"
-    excerpt: "Burges Karkaria, former Chief Technology Officer of Enterprise at Intel Corporation, has joined Bay Area startup Censia–a leading provider of talent intelligence, recruiting and workforce management technology–as CTO."
-    publishedDateTime: 2020-11-17T09:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-executive-changes-corporate-news-personnel-corporate-management-abfa214a75253161b94c5f8293508b36"
+  - title: "Is AI finally closing in on human intelligence?"
+    excerpt: "Computer scientists have become far better at instructing machines to play the imitation game. Some say it is a glimpse of the future; others, a dangerous bomb."
+    publishedDateTime: 2020-11-17T21:59:00Z
+    webUrl: "https://www.afr.com/technology/is-ai-finally-closing-in-on-human-intelligence-20201117-p56f7g"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 39
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://static.ffx.io/images/$zoom_0.1576%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_27/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_no_label_no_age_social_wm/fde0a0560d5493d0fecf88551110dd1ab0a6340f"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
     excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"

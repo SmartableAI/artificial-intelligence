@@ -2,17 +2,17 @@
 category: news
 title: "US Army’s heavy ground robot reaches full-rate production"
 excerpt: "The U.S. Army’s heavy common ground robot has reached full-rate production, less than a year after FLIR Systems won the contract to deliver the system, the company’s vice president in charge of unmanned ground systems told Defense News in an interview this month."
-publishedDateTime: 2020-11-17T21:13:00Z
-originalUrl: "https://www.defensenews.com/land/2020/11/16/us-armys-heavy-ground-robot-reaches-full-rate-production/"
-webUrl: "https://www.defensenews.com/land/2020/11/16/us-armys-heavy-ground-robot-reaches-full-rate-production/"
+publishedDateTime: 2020-11-18T08:50:00Z
+originalUrl: "https://www.airforcetimes.com/land/2020/11/16/us-armys-heavy-ground-robot-reaches-full-rate-production/"
+webUrl: "https://www.airforcetimes.com/land/2020/11/16/us-armys-heavy-ground-robot-reaches-full-rate-production/"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: Air Force Times
+  domain: airforcetimes.com
 
 topics:
   - AI in Robotics
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "TTbO3hxRi1+nFnmetnfIAyoVrHgEYeUFTsYlQ0wMGZlS9LsGWnTTjgZ0LVuwzGzgR5w11lCbOsaasONk4RiqyhIFHYFSPIsPYmbZRg2LZ1Ulotb747qaokFMosLZIeBEcOJMpyonSYqNu5eCC7CB8TRRjYxi0v5znx++RPgjrRR0c/qep7azBH1obW0/fy+zwvrHoRzQj8W6QIGwdkICoVuqwOeYryDI23vZ+OyPq+DtWgk7txr6qvvo47Kx9a8Nc95hIPQn+/DXS230Man9T0lQEMmy9JpLfyDebLbOCn/ud6Z/Yt4WVkd1NNSnOGPjvTnoRoOo/DvLMLJ9CwB8+g1rpvYUSy2+hNiPZu9AeJtoygqLmICOKlf+HYsXeuNgqwMHZNtNsv1Ikm6K59Ry9Vc9pwi+0ShinCZNtdNM55nlilONY0niqVFFTznoE9tFdbrto3WtPww4uF/4mzXNTK2zg2kAVJjT3mvGSHwhbo+Qn4+cbV05hk59HZHE2lOj5o+AcZcIHDoMITcTHNFutw==;bqZjqIYzbk+G18Gq6+RYag=="
+secured: "nDe97DTH1R5ypcglaegGjmSAHtrhgCICd6Qu9BNmlR1SxBoLBgIeYt3JNEc1mpHHWbPMLUeZRXqE8Vc0anBfydjL4LAEL/IHvtHdF24NvqxgkkZwbJkTlsHdoLoypZ3gN/BSKbSHL2rg068Fv0o5mK2qeoJst6Mw+bDjjhh3mdvQ57tTysGBAFafZ6q5HLjWSLPpQvpYjWUwVAH1FU9BYCQt7fpoK+NucUsDK7QkrMLMg2N98dAvLQq4d04FnXw7eFu0yTlzF2KkVPZ9jTabASxLDJqDvXD23SVBU2DuVAICG1eZD8KURTh9K9w/0URRbm2T1cXH8ElIn565MuO5njhBeUjRFW30LL0mu1VG2so=;cKVEQ/NIn/7or4Ag+jrJRQ=="
 ---
 

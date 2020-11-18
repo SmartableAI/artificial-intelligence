@@ -43,20 +43,6 @@ related:
         width: 600
         height: 402
         isCached: true
-  - title: "Nigeria gets Artificial Intelligence, Robotics Centre"
-    excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
-    publishedDateTime: 2020-11-13T15:09:00Z
-    webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
-    type: article
-    provider:
-      name: The Guardian Nigeria
-      domain: guardian.ng
-    quality: 69
-    images:
-      - url: "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Robot-centred healthcare systems become a reality"
     excerpt: "Artificial intelligence has already had an impact on healthcare data, but the next steps will be taken in the physical world"
     publishedDateTime: 2020-11-15T08:43:00Z

@@ -91,6 +91,20 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "New Orleans police admit to using facial recognition software"
+    excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn't employing the technology. The agency doesn't own facial recognition software,"
+    publishedDateTime: 2020-11-16T20:43:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21162854/new-orleans-police-admit-to-using-facial-recognition-software"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/bigstock_Face_Recognition_Technology_Co_317555179.5fb2e19ba8940.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 790
+        isCached: true
   - title: "New Orleans Police Dept. Admits to Facial Recognition Use"
     excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
     publishedDateTime: 2020-11-17T21:42:00Z

@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 414
         isCached: true
+  - title: "NVIDIA's new DGX Station A100: 4 x GPUs with 320GB of HBM2e total"
+    excerpt: "NVIDIA announces new DGX Station A100 can pack 4 x GPUs with 80GB HBM2e each... 320GB of HBM2e memory with 1.53TB/sec bandwidth."
+    publishedDateTime: 2020-11-18T07:44:00Z
+    webUrl: "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/index.html"
+    ampWebUrl: "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html"
+    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 59
+    images:
+      - url: "https://static.tweaktown.com/news/7/6/76262_07_nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-memory.png"
+        width: 620
+        height: 348
+        isCached: true
   - title: "NVIDIA Announces A100 80GB GPU for AI Supercomputing"
     excerpt: "SC20—NVIDIA today unveiled the NVIDIA A100 80GB GPU — the latest innovation powering the NVIDIA HGX AI supercomputing platform — with"
     publishedDateTime: 2020-11-16T14:42:00Z

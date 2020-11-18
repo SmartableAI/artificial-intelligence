@@ -7,8 +7,8 @@ originalUrl: "https://www.healthleadersmedia.com/innovation/opinion-healthcare-a
 webUrl: "https://www.healthleadersmedia.com/innovation/opinion-healthcare-ai-systems-are-biased"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: HealthLeaders Media
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is reshaping health care"
-    excerpt: "After years of hype about the impact artificial intelligence (AI) could have on health care, many experts believe that we are now on a cusp of a revolution in which AI will reshape various aspects"
-    publishedDateTime: 2020-11-13T16:03:00Z
-    webUrl: "https://www.hsph.harvard.edu/news/hsph-in-the-news/how-artificial-intelligence-is-reshaping-health-care/"
-    type: article
-    provider:
-      name: Harvard Medical School
-      domain: harvard.edu
-    quality: 39
-    images:
-      - url: "https://cdn1.sph.harvard.edu/social-share.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Health Care AI Systems Are Biased"
     excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer systems can now diagnose skin cancer like a dermatologist would, pick out a stroke on a CT scan like a radiologist, and even detect potential cancers on a colonoscopy like a ..."
     publishedDateTime: 2020-11-17T12:14:00Z

@@ -27,12 +27,12 @@ images:
 related:
   - title: "US Army’s heavy ground robot reaches full-rate production"
     excerpt: "The U.S. Army’s heavy common ground robot has reached full-rate production, less than a year after FLIR Systems won the contract to deliver the system, the company’s vice president in charge of unmanned ground systems told Defense News in an interview this month."
-    publishedDateTime: 2020-11-17T21:13:00Z
-    webUrl: "https://www.defensenews.com/land/2020/11/16/us-armys-heavy-ground-robot-reaches-full-rate-production/"
+    publishedDateTime: 2020-11-18T08:50:00Z
+    webUrl: "https://www.airforcetimes.com/land/2020/11/16/us-armys-heavy-ground-robot-reaches-full-rate-production/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
+      name: Air Force Times
+      domain: airforcetimes.com
     quality: 39
     images:
       - url: "https://www.armytimes.com/resizer/ioI1psCpE8eBMKwshi4Kx5z7DxM=/1200x630/filters:quality(100)/cloudfront-us-east-1.images.arcpublishing.com/mco/RFBRZZMKN5DJTG2DUJBSWCSACQ.jpg"

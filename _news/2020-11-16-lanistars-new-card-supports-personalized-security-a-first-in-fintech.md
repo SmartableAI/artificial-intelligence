@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -62,6 +62,17 @@ related:
         width: 360
         height: 270
         isCached: true
+  - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
+    excerpt: "FinChatBot is opening up offices in the UK to assist British banks and insurers FinChatBot, a creator of conversational AI solutions for the financial services industry,"
+    publishedDateTime: 2020-11-18T04:56:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18421085/ai-fintech-finchatbot-lands-1-2m-investment-to-expand-into-the-uk"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18421085"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18421085"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Singapore FinTech Festival 2020"
     excerpt: "The Singapore FinTech Festival (SFF) is the world’s largest and most inclusive FinTech event that brings together heads of state, financial and technology leaders, FinTech founders, policy makers, investors and multilateral agencies."
     publishedDateTime: 2020-11-16T06:49:00Z
