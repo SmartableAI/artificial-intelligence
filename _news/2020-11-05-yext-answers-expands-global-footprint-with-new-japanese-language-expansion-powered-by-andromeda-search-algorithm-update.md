@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Yext Answers Expands Global Footprint with New Japanese Language Expansion, Powered by \"Andromeda\" Search Algorithm Update"
-excerpt: "Yext, Inc., the Search Experience Cloud company, today announced that Yext Answers, its revolutionary site search product, is now available in Japanese. The product's latest language expansion, which is part of Yext's Answers algorithm update \"Andromeda,"
-publishedDateTime: 2020-11-05T12:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by"
-webUrl: "https://www.nasdaq.com/press-release/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by"
+excerpt: "PRNewswire/ -- Yext, Inc. (NYSE: YEXT), the Search Experience Cloud company, today announced that Yext Answers, its revolutionary site search product, is"
+publishedDateTime: 2020-11-05T11:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html"
+webUrl: "https://www.prnewswire.com/news-releases/yext-answers-expands-global-footprint-with-new-japanese-language-expansion-powered-by-andromeda-search-algorithm-update-301166864.html"
 type: article
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "Eu6v8Om4pnG0fqmn6IHH8IoqVe2y5zGB+FNwLXI3r0zxyg3bz7Vc/qIkb6ZUizegeu6fBtTbUOyoS28ATfzw6yXhrjdAvnCsolG2ecwB9+FavSo4enRYXHHNAsFyKZ0eV90t4+6fC06r3/uYi3tp781a5suJBOlZaXpxNVq3SWBc4816V1EcU/JrIgIKU7DWzqQ8tZ8XeZUJPI5VyAlDClPHmPNBRak+exCWEf38JePsgLm6gyOtrKA5gCxl/JgK4Du64HvZ/w8jFck+Fe2as1QrDLvM2+wssr8eioTUo9I745YydIQjDr9YHNqpUwK6guxvZvx+2XgYXeRmvLtOYPkjr6dxyl2aC/NYgRtA6j8=;z73rKyMUquojEcrxu8bZ+w=="
+images:
+  - url: "https://mma.prnewswire.com/media/1327269/Yext_Blog.jpg?p=facebook"
+    width: 1560
+    height: 817
+    isCached: true
+
+secured: "LEGTsw+XJtJCkwxdFtzJBksRLXGOhCQvRHlgT6YEC5+iwa5zJvHO2zKastffmhsoKFSCLVHE0qwTF1Q/U9T0aqAmzXl6udDMljO3TMD6cguqbP+VjG9jxONuH8vMUJH0e6We8bQs2vjhUpwxUmuw8RgeYTXMEfl8YfSx0Glhj35CgE57fJEquujr0U/4U4XIcEcJRup49q1LhqctUH1vcea0MT4Vc1ozYFAbFMHtgH7meXCc/BuhVOQlvFW1O2p9tzXIR4hganXaJZd1OjXIGu2klpfriz/k4tnBsx9xiadw+uTtNOn+lO5o7fU7w2+xdlOkjA3PoxRfCZHP3ov8+lNkXBRgKwTnxBHMw+Sdo08=;RvVfPexjSJNa7OlFSir+9A=="
 ---
 

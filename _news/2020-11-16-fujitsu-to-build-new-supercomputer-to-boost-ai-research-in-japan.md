@@ -41,6 +41,20 @@ related:
         width: 415
         height: 215
         isCached: true
+  - title: "Advancing artificial intelligence research"
+    excerpt: "MIT Schwarzman College of Computing and the Singapore Defense Science and Technology Agency award funding to 13 AI-focused projects led by researchers within the college."
+    publishedDateTime: 2020-11-18T20:17:00Z
+    webUrl: "https://news.mit.edu/2020/advancing-artificial-intelligence-research-1118"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 67
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202011/artificial-intelligence.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "Bfa7QM0ScYaW+6kaDmyWNSEQZQCh0UNrvZ57MqBOyFpGh9Xa9FksIASC4lxwxZSwpP61IkA+/GtxZ7xxFf/yHcx8FXJy6nJgVZmfmcgo8xO9GnSi78HNBcLCD7o/5LjDQgOnDQXcLKRY10opgrpkfvqw/XC5QuNiErJZc2IiTAlTe1pidpBSdBGhgeFkoA7xW1bBo2yDQwPl9kNJreV9n1SfcmNB0ya9OrnxSnw3iktT9eP2B6XDcQRLqIhhX2CdKkJIkyKxEO6ZZ0+KkFp8rjEsqS9Z+U8t/W5B5qgznQyYumdbx6Zp585srrd7QBCQP0JwjjlP0IFc0lUvcdoWkwg3FPuHHr57TFEuKAfrSvfiNyKVbVuXYuDT/lBuR0TRAJX4bMcMH/I2DhpdXR6ZmcrdD/tAR6Jl3Ox3trYGVZiZUMj4dSUtix5MpiNfTlnWWvcPEIXugjhggS/KxIhsGkMlH34gOHrNfd3nb4Sf+u7pnwz256yCu4BD7eF2vxR+Dy2YqYZP7THvJVTJov1Ucg==;WkK34iLqQqHLyDZ9s1IsJQ=="
 ---

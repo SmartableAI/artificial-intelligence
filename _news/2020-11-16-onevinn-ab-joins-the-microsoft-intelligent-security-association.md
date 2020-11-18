@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-mi
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
 type: article
 quality: 86
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Microsoft adds Hindi to its Text Analytics service"
-    excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
-    publishedDateTime: 2020-11-14T05:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
-        width: 600
-        height: 368
         isCached: true
 
 secured: "NGu0l2jSAiADk50s126oB69MVd0UiP4nVsnt335KALbsm0W/GW0erCKf2BBiF9eCuR06ZOsnAa3IUxVknqTd9dEHJCcdFJISBA2fWazlMHDKckhM16YHvSKxU3DpzieP2zVRtyC+ddRvzMp+nE23k6zkErxsvuJsq9cQZrjz154S/bGiicZQdgWp05RgNQV8vEQatpuzQnSg/tjvtGK+ZDZefMHzqQCj1/4tv1c92NCTniCj0rS2hDBVozp2ej8uZufnrHj5Pp/T+km9Kn5U5cLPl0fMp8cLHFUP+x1B3qY9EPHAXYYrAsr7eEZYq03M2hfKE8bg5/ELVjYE4A9RXVKUNCpHdbk00+ghGhLUtHg=;maVKrP/+1PMiJ8/DhRdOXw=="

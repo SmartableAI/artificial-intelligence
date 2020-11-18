@@ -27,50 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "How The Department Of The Air Force Is Driving Forward With AI"
-    excerpt: "Leaders such as Ms. Eileen Vidrine, who is the Chief Data Officer at the Department of the Air Force understand the importance of adopting tools such as advanced data analytics, AI, and ML to help in the increasingly disruptive battlefield."
-    publishedDateTime: 2020-11-14T16:36:00Z
-    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/amp/"
+  - title: "4 AI Trends Set To Accelerate In 2020"
+    excerpt: "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021."
+    publishedDateTime: 2020-11-18T19:03:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Women In AI To Watch"
+    excerpt: "It comes as no surprise that women are woefully underrepresented in all STEM fields. Only a quarter of all STEM workers are female, and even fewer are in positions of leadership. Despite a slight increase in the amount of women in STEM in recent years,"
+    publishedDateTime: 2020-11-17T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb006cb2a83bcf1dfaaf465%2F0x0.jpg"
-        width: 500
-        height: 500
-        isCached: true
-  - title: "This AI-powered parking garage rewards you for not driving"
-    excerpt: "The smart city of the future is materializing in the parking garage of an office building in Munich. With a new test program powered by artificial intelligence, or AI, the parking garage can communicate with the drivers who use it."
-    publishedDateTime: 2020-11-17T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90575914/this-ai-powered-parking-garage-rewards-you-for-not-driving"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 37
-    images:
-      - url: "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2020/11/p-1-90575914-using-ai-to-put-the-right-price-on-parking.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Air Force asks Descartes Labs for sensor fusion technology for targeting with artificial intelligence (AI)"
-    excerpt: "Descartes Labs offers geospatial analytics technology, which uses AI and computer vision to fuse sensor data like satellite imagery for tactical use."
-    publishedDateTime: 2020-11-16T07:41:00Z
-    webUrl: "https://www.militaryaerospace.com/computers/article/14187346/targeting-artificial-intelligence-ai-sensor"
-    type: article
-    provider:
-      name: Military
-      domain: militaryaerospace.com
-    quality: 36
-    images:
-      - url: "https://img.militaryaerospace.com/files/base/ebm/mae/image/2020/11/moving_targets_16_Nov_2020.5faec9237d002.png?auto=format&fit=max&w=1200"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb408e73c1268fb22c618cb%2F0x0.jpg"
         width: 1200
-        height: 750
+        height: 1118
         isCached: true
+  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
+    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
+    publishedDateTime: 2020-11-18T16:46:00Z
+    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
 secured: "bgz4Cofl4OjbUSEGrzRiRShqm4HUEKD7qsY6wXhFEzcEy3VBXYQTcjOXYvLP/w0StKvUT1+bVmrGYZYDRzo36+By4woQ79uOgs49OM12PjCBsvxAtlEe9M1woTdo6w9kBV26iebwPN3uCjOAw4WWHkj5rBjvMVCufGFyGNFKelqabNU0lm+8G6tG2ARR/WZLMk3RSN9/QTj9pzhE2gkzZ9IWRihGDJAtO2lQetYwOzi3xgWlOvm5+MltZLiTaa06Kn14a7D+wA9ESVr7iNT0rUojsFkPcm6nYrnP55cavlVUd+9x9nc2BjFhcHsnwU54z7LciQHoIm+pNLqxImsQ9wTPoxT9JEABgaAh1WG7UuQ=;D4CFTpYecAsMH6KJb8p4EQ=="
 ---

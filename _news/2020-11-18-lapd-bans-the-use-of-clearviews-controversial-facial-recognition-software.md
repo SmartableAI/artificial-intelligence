@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
 type: article
 quality: 87
-heat: 197
+heat: 217
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 939
         height: 630
         isCached: true
+  - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
+    excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
+    publishedDateTime: 2020-11-18T19:32:00Z
+    webUrl: "https://hothardware.com/news/lapd-facial-recognition-ban"
+    ampWebUrl: "https://amp.hothardware.com/news/lapd-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
+        width: 708
+        height: 470
+        isCached: true
   - title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
     excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
     publishedDateTime: 2020-11-18T03:50:00Z
@@ -196,6 +212,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
+    excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
+    publishedDateTime: 2020-11-18T19:58:00Z
+    webUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/161364/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/18145456/LAPD.jpg"
+        width: 780
+        height: 438
+        isCached: true
 
 secured: "CByFbvHfPlGV2r/UfFwKIClF1HzwxlwOCz1NktERkTeFcWUzz/4htQuE4mjAD+EagMBBfKlO/M+JbZMFqNfXlBdw7XQkKYiGyqomg+WhC90Vd+djlsCm773c54T8Z4Kg3fNqg5RFmp+EbK4jG5vD4x3xkeOAGDZbi/yYfm7NOUjYIZO4Bc4Qfk5TVLVw34+CbRDKNZQYQIfvDknKh4bIis096GirtL+APkigVtLLMa4qdxfZAh5uWwe+gx4O8d3qrCCWYr/JNdo6M1CCul8y0HGSr9ZxIF16qEhgSyAzl1lgNEHFs5mfqSVlOCM0Dm57OP+FJF4y41qiH/XIDt/wPWA+vbc6b3c6cbnCz4hy6nuNBka063iNaWUysZDUAzgePylVJ03HX9tZb2H57zYqBZEzBUucc+2ZhEuA7EbLgnrXCj/l34LFIJtwutPeMskW+3zqDHhFxeLhe+XnMFsT+YMV5UPeYTzCQq8eSrkLUvkuk/vFxMym5CX7DLUYCO8x/0ofcRJzOLdgQWjZXFOzJA==;c+eQPcXnrH/ZQvRWjfQ0Vg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-18T12:43:00Z
 originalUrl: "https://apnews.com/press-release/wired-release/technology-business-sports-corporate-news-fantasy-sports-8016c6c163f7684582ff98388fe4d3e3"
 webUrl: "https://apnews.com/press-release/wired-release/technology-business-sports-corporate-news-fantasy-sports-8016c6c163f7684582ff98388fe4d3e3"
 type: article
-quality: 53
-heat: 63
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

@@ -49,6 +49,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Free Webinar on the Booming Global AI-based Learning Market"
+    excerpt: "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash."
+    publishedDateTime: 2020-11-18T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18433265/free-webinar-on-the-booming-global-ai-based-learning-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18433265"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433265"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
   - title: "Applying machine learning to making mechanical parts"
     excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
     publishedDateTime: 2020-11-16T14:11:00Z

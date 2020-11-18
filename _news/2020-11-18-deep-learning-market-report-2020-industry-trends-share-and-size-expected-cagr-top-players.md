@@ -47,6 +47,20 @@ related:
         width: 800
         height: 571
         isCached: true
+  - title: "Conversational System Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "The conversational system is a cognitive computing tool, which can process a simple and bidirectional text/voice"
+    publishedDateTime: 2020-11-18T19:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-system-market-growth-analysis-by-size-share-news-demand-opportunity-2020-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "+yXUd4uGrxPkGdrNhvhnu4sOnbzenEqgxB8fjo/fbh5/iifVKgYqi9vkPvcx1TQOavaKcsZV3O7HLSZqu/GNSIwC8oyV1VRkVUFJzLh2J8bJMIUER3KU8agJSfRtHkLlLkdqQh0OAVozrgF09e/I6pA7XmpqBQkTKHLYupZ+wVheKyqOIhWk6plJjoDhZlQFnCUxl5n7wl2O+1Omqkd1OZFm9ECRQYg/RuyA+RIuZleUzvlCOE11hCO1tnnLQwGJoeHa+yzVBUmhkyJs7fA/slgcodtPw1G4X6KgqLOP6MJOde3/V+NeV6y4xfCPDfFayMtoZSAWMDYeIp/4YfMTDRYCeSRgWFn51hR/C+rkEys=;WkohMH6B2pDSsFWZNDVy1w=="
 ---

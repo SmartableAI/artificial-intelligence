@@ -30,50 +30,47 @@ images:
     isCached: true
 
 related:
-  - title: "How to tell the difference between AI and BS"
-    excerpt: "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,"
-    publishedDateTime: 2020-11-16T20:44:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
+  - title: "4 AI Trends Set To Accelerate In 2020"
+    excerpt: "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021."
+    publishedDateTime: 2020-11-18T19:03:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg"
-        width: 796
-        height: 417
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "How Is Ethical AI Different From Fair AI"
-    excerpt: "Ethical AI & fair AI are used interchangeably, but there are differences. To understand the challenges of AI system, we must understand these differences"
-    publishedDateTime: 2020-11-18T11:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-is-ethical-ai-different-from-fair-ai/"
+  - title: "How to make money with AI in 2030"
+    excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    ampWebUrl: "https://amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
     type: article
     provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 59
     images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Ethical_AIM.jpg"
-        width: 1600
-        height: 900
+      - url: "https://www.dw.com/image/54879435_403.jpg"
+        width: 940
+        height: 529
         isCached: true
-  - title: "How to Make Artificial Intelligence Less Biased"
-    excerpt: "As artificial intelligence spreads into more areas of public and private life, one thing has become abundantly clear: It can be just as biased as we are. AI systems have been shown to be less accurate at identifying the faces of dark-skinned women,"
-    publishedDateTime: 2020-11-18T14:51:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-to-make-artificial-intelligence-less-biased/11857/"
+  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
+    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
+    publishedDateTime: 2020-11-18T16:46:00Z
+    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
     type: article
     provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 16
 
 secured: "0azCPlpmFJ9QZ6MogfD0OSwUsCVXai0+6qUAuLlzp5x0C469dkRQrtBPh0Eie/5BdUWeyn80EwZUlT2+AVKaAZLn1XwD3j4kvu+toNjL6VGk3NRTQL25XzU9R7z2AlXYuvcYrowtqWsh1yxgtWFfaj2xPckbk5QixN9k7ota6Cd3chozi858oU+QLTiVKNm0dSi87lbaMG3Pc7ZJEnU/xJN92r70/dYGQtdlT/iSmEgjCyjuQBMVZYqXBLN5JbqOGHU4JFYeGwQl/NO4NCiHJo52zPiKTCMv3MdKYpmwWFIOGAJsRfY0exNF3iHmngFBAGy4HvKR19zL/a7/kDLSKuOEdPPOuu/k0wg67xiZ7u0=;1TkJCLaWKMRIJXoE8oczaQ=="
 ---

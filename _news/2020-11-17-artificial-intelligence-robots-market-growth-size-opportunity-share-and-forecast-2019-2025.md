@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-ma
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Conversational System Market Growth Analysis By Size, Share, News, Demand, Opportunity"
+    excerpt: "The conversational system is a cognitive computing tool, which can process a simple and bidirectional text/voice"
+    publishedDateTime: 2020-11-18T19:19:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-system-market-growth-analysis-by-size-share-news-demand-opportunity-2020-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

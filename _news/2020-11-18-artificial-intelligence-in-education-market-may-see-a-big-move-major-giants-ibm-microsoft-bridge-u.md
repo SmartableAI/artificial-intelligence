@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft adds Hindi to its Text Analytics service"
-    excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
-    publishedDateTime: 2020-11-14T05:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
-        width: 600
-        height: 368
-        isCached: true
 
 secured: "aNecM016Tpw4akbjrHHeMXaN/5QOZWb2kdu7TN4YZxHvbFdVhcJPnX+H+mTGPHor3lYQ4vnEM6nf0UUkdJMANQSrPEyO+yBBDALzkrv/bWF3HWH8C+haIfEsvWcAlEUpcijT7XXYPrEDSfDQjdutNILnmdsXryi7RThiEO6BiExlyqszTk2/2KkHJdp7Ff7VpsZtrfo9tmd0duztyXKyG03MXy62p4eGfl8x4t4jAaOs59sms4QHZFLHrPY0gIhHQebQxXvhiqgUyh6ygNY5yN62IShKkBANn2/vrfeRbCqwfv7LFuKjW8S0T+umMXfVB/PKBN/TLyjZy+PfY5gXj7UT2UNYTDRpbi0JtN/jgYeMnFjsg+UgZ3m6t48cv28ENIk8An4ZwwHgwE0WxL0mPg2ukt+rPII1PIAGliPWirbZzz1IZXCv8X9k44c7BR7jqdCMAW0Bg30mAQGbPKJygSduWR6fQp11mgJDzkfTBlt2WLdfCvScfwJ10fOLUrFogo11KNCJHhjeP58rnujF1g==;jCmmqv4GAiKrMNeDo1ZQJA=="
 ---

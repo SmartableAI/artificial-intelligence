@@ -24,19 +24,19 @@ topics:
   - AI
 
 related:
-  - title: "InterVenn Biosciences raises $34 million to accelerate cancer test development with AI"
-    excerpt: "InterVenn Biosciences, a company developing an AI-imbued platform for diagnostic cancer test design, raised $34 million."
-    publishedDateTime: 2020-11-16T16:40:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/"
+  - title: "ControlUp raises $27 million to apply AI to remote machine monitoring"
+    excerpt: "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding."
+    publishedDateTime: 2020-11-18T20:38:00Z
+    webUrl: "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/"
+    ampWebUrl: "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 79
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true

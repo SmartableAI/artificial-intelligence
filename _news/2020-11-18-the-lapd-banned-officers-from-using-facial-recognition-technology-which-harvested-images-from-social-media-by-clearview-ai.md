@@ -112,6 +112,22 @@ related:
         width: 939
         height: 630
         isCached: true
+  - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
+    excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
+    publishedDateTime: 2020-11-18T19:32:00Z
+    webUrl: "https://hothardware.com/news/lapd-facial-recognition-ban"
+    ampWebUrl: "https://amp.hothardware.com/news/lapd-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
+        width: 708
+        height: 470
+        isCached: true
   - title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
     excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
     publishedDateTime: 2020-11-18T03:50:00Z
@@ -197,6 +213,20 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
+  - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
+    excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
+    publishedDateTime: 2020-11-18T19:58:00Z
+    webUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/161364/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/18145456/LAPD.jpg"
+        width: 780
+        height: 438
+        isCached: true
 
 secured: "YTECq16vp0P57bD3Y93NHJgnRUt4oQHHJ47gpo9P+4g9AZFymTdpxARJnkGLBFpeQBoupQQwcxVwku+bFgTZZIZiOurqMDFtH0vNFg4RuWFDt7RkaGYIggPIz3pa0D8PXgJedo7ZQImhCadoYLewSCYYfhl0ka31yXORZX1jCNvbBUP+OD4WmfJKnIxEOYOf4trN0ANjIgnwk7Xi+Kl6t4+2uDdsV27v5VL8uWCSHP5yjmkW2I7i3kInw4WadzoMFpwKwY09TFVZV/IwJzLZcEhkz0r+FDsABNPjEvBRqxawV3ajYrDQba9oO24THhTU2jT7EKXsKxggXY+jU7VGNxXwlgN4PVmHHTxF+IOMFng7ONF070qv3Hezj3pBzOrr6rtJYVeE54ztp4L1GXbivw3XjTz2ux9AryQlQbhzI+yHOj1f6M4Q6Eh+sXEe/PboVgF4ZHCZyXGHh7VByth/B1kHvC0k20T/2nRVc5yi3lM4tKHKz1fsIEq5dgETFf9aygwGP/W0GtU2czopjvK9ew==;fR7NcsLZPEmo9+LSwhJYIw=="
 ---

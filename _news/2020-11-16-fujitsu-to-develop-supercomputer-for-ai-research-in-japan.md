@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercom
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Advancing artificial intelligence research"
+    excerpt: "MIT Schwarzman College of Computing and the Singapore Defense Science and Technology Agency award funding to 13 AI-focused projects led by researchers within the college."
+    publishedDateTime: 2020-11-18T20:17:00Z
+    webUrl: "https://news.mit.edu/2020/advancing-artificial-intelligence-research-1118"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 67
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202011/artificial-intelligence.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "Fujitsu to build new supercomputer to boost AI research in Japan"
     excerpt: "Fujitsu is developing a new supercomputer that Japanese industry, government, and academic institutions will be able to use to assist in AI research and development. It is expected that the supercomputer will be ready to use before the end of the next year."
     publishedDateTime: 2020-11-16T09:23:00Z

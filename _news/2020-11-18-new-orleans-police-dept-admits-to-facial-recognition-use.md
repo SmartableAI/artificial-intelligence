@@ -117,6 +117,22 @@ related:
         width: 939
         height: 630
         isCached: true
+  - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
+    excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
+    publishedDateTime: 2020-11-18T19:32:00Z
+    webUrl: "https://hothardware.com/news/lapd-facial-recognition-ban"
+    ampWebUrl: "https://amp.hothardware.com/news/lapd-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
+        width: 708
+        height: 470
+        isCached: true
   - title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
     excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
     publishedDateTime: 2020-11-18T03:50:00Z
@@ -190,6 +206,20 @@ related:
       - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
         width: 583
         height: 300
+        isCached: true
+  - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
+    excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
+    publishedDateTime: 2020-11-18T19:58:00Z
+    webUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/161364/"
+    type: article
+    provider:
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
+    images:
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/18145456/LAPD.jpg"
+        width: 780
+        height: 438
         isCached: true
 
 secured: "r0YfRNDKwOAYTAx7Vz0XfmRGzwqd8vNR1fXP56RaxllFV2WR43KVrwdCclsNt7AbJKrZD0NK7tFAjTHmIZxyxjqSA2EDkeAcbWeFKOG5JxAqpvdL/qzYzXe/1wzIVwEXARSRrvJ1Nso1VI+4z5NMmLTZ1kt3fR1XLMdl39vuSH89Qqvf0JsJoB54RnO1jH+seaoP3nzTYXceG70zXJPmWTzQzFzocKRd+PVvnub8V8ampNAB9K+4ASrZnZ8DZiqpo+WeDBRMfYNDyXmUsLlrCF/Xee5k52VfGy5OWEcuQADe1IO3PRTFE0thtk0hG3GTtl/0maZn0/j5cP0s1I7iiRt+9Qoj+h2LHLy3WSGIVk0=;pEW2qVzne4nkZiWw+fAvHg=="

@@ -2,25 +2,27 @@
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
 excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-publishedDateTime: 2020-11-18T15:15:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+publishedDateTime: 2020-11-18T05:04:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "The human brain inspires RMIT researchers to develop a light-powered AI chip"
@@ -54,6 +56,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "YNzrRFVz4NThai7mjwHIsYQsik8YTZ7siof/SodU/uyE1QbXcW/Xw9039YEIt23iKRc77jFvjzu4UHpBVszgrJIw6+rL6Hi7f9ndzvlc9O+f6BiOo2LxRo1qZMDswNEYgbeyf5qo9HWi/MUeTpgfh+gd3WOZdLvunaC7NL+tO+b80/4ZNZ+38U7XHy/4LKp1IheMDF7FUzss/+YTHWBu8+E3LpBs6x7nDgk4nY2MxyrSO/dVOsdW6Cj0mUAHBTejxbO6ku1Dw/GS6OskZRCfZ63I+RqQBtJzYkKG/mVSK0r+JXtBzFT3MfJfDR3COll7ogBhIJIYXnEU1ai0EqiqP42vULGTckduAYgWQneVPBA=;tT4FuavOhOYxoBHXiYpHnw=="
+secured: "y/0uwvwI4Y+Nxkm36DfiODr5M586Og2b6+UGsHZB4nrlr14Vaw0IJFSCiGwTAvM6ElfF4eV3cZEXX1xhoBgg+f+l+JDoJrSIvxgsBj6Pra+t7t+Q3faI/ISRrHLoYIbTk3weipE5QZjCYe0hnNPsHJGg/4o/zZc93m2qnQ8YaMJX7yPk0fep53c1im4asu68WIEoEM9xfho3hFXgXQp9mo1GH69j8eklzWmCRtZpEKFS05igTK9WYPo1XBH0TUhbRW7phAljGfwhy2zpAMim0Ltkk4u0bYgaJmIiUcNvvzQVe56SyoxLDf6YGRsdneugEanfxwkCTsffAoCOtzNRnGLxw0KnWCn23E2IDhce/1w=;GVmK1e/s6rhyTHDjri4cTw=="
 ---
 

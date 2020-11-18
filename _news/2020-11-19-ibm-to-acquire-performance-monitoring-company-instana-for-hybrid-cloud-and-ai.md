@@ -19,105 +19,53 @@ topics:
   - AI
 
 related:
-  - title: "IBM acquires Instana for its AI-powered app performance monitoring"
-    excerpt: "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues."
-    publishedDateTime: 2020-11-18T17:27:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
+  - title: "4 AI Trends Set To Accelerate In 2020"
+    excerpt: "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021."
+    publishedDateTime: 2020-11-18T19:03:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "IBM acquires Instana, builds out application monitoring tools"
-    excerpt: "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform."
-    publishedDateTime: 2020-11-18T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
-    publishedDateTime: 2020-11-18T14:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
+  - title: "Women In AI To Watch"
+    excerpt: "It comes as no surprise that women are woefully underrepresented in all STEM fields. Only a quarter of all STEM workers are female, and even fewer are in positions of leadership. Despite a slight increase in the amount of women in STEM in recent years,"
+    publishedDateTime: 2020-11-17T19:01:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
-  - title: "IBM sharpens its hybrid cloud, AI focus with Instana buy"
-    excerpt: "IBM has announced a definitive agreement to acquire Instana, an application performance monitoring firm. Financial details were not disclosed. Once the acquisition closes, Instana's technology will be incorporated into IBM's hybrid cloud and artificial intelligence portfolios – two markets IBM leadership has targeted for high growth in the coming years."
-    publishedDateTime: 2020-11-18T15:24:00Z
-    webUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.html"
-    ampWebUrl: "https://www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3596902/ibm-sharpens-its-hybrid-cloud-ai-focus-with-instana-buy.amp.html"
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb408e73c1268fb22c618cb%2F0x0.jpg"
+        width: 1200
+        height: 1118
+        isCached: true
+  - title: "How to make money with AI in 2030"
+    excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    ampWebUrl: "https://amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
     type: article
     provider:
-      name: Network World
-      domain: networkworld.com
+      name: Deutsche Welle
+      domain: dw.com
     quality: 59
     images:
-      - url: "https://images.idgesg.net/images/article/2020/03/ibm-cloud-native-100836782-large.jpg"
-        width: 1200
-        height: 633
-        isCached: true
-  - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
-    excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
-    publishedDateTime: 2020-11-18T14:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
-    excerpt: "IBM announced that it is acquiring Chicago-based cloud performance monitoring firm Instana. Terms of the deal were not revealed, but IBM said it expects the transaction to close in the next few months."
-    publishedDateTime: 2020-11-18T16:45:00Z
-    webUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
-    ampWebUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
-    type: article
-    provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 37
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "IBM to Buy Software Company Instana"
-    excerpt: "The deal comes days after IBM announced it was buying the IT services and consulting partner TruQua Enterprises. It also recently acquired WDG Automation."
-    publishedDateTime: 2020-11-18T18:07:00Z
-    webUrl: "https://www.cfo.com/the-cloud/2020/11/ibm-to-buy-software-company-instana/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 24
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/11/GettyImages-1229047327.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.dw.com/image/54879435_403.jpg"
+        width: 940
+        height: 529
         isCached: true
 
 secured: "6B+iILc7rFqE7wXF6KbrKnl5prugZLXsJkPEqn0/ydg0BR9cKastBawiFO5y/+9lNPFao/CxKASUSo8F1iggzUzrXg1C6LpwYE1nWlZxzFpwCRn6N3Zv2sAX0NjqJ4jjLu84C2qIhhvBTUkLKiED6d/g4CvhBD6eICDohbngJ/D0ffA+g42FW/USGiAyu5+uo9KjPTP9B6V82glfPM95RpBf5ia6dm6sqIMdZshjERQwZo+nrPzzaZ7B24DdkCd90sJmtZP1C7jqkI9RD6sGIEJk81uw7kY6jltBqDWszRrGNHOw6iUzapAm05e39tjmHvaXkejmZLjpMJb33yNF8FPt3CcaMCS8ai9fqE+m91Y=;7ysealm9YtjDsTVnzxJTWQ=="

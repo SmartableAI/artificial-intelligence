@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber in talks to sell its ATG self-driving unit to Aurora - source"
-    excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group (ATG), to self-driving car startup Aurora, a source familiar with the matter told Reuters."
-    publishedDateTime: 2020-11-14T04:45:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-aurora-idUSKBN27T30K"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30K"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30K"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
-        width: 816
-        height: 545
-        isCached: true
-  - title: "Uber in talks to sell its ATG self-driving unit to Aurora - TechCrunch"
-    excerpt: "Uber Technologies Inc <UBER.N> is in talks to sell its autonomous driving unit, Uber Advanced Technologies Group, to self-driving car startup Aurora, TechCrunch reported on Friday, citing people familiar with the matter."
-    publishedDateTime: 2020-11-14T03:38:00Z
-    webUrl: "https://www.reuters.com/article/uber-aurora/uber-in-talks-to-sell-its-atg-self-driving-unit-to-aurora-techcrunch-idUSL4N2HZ43V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T30O"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T30O"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201113&t=2&i=1541170142&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAC1RR"
-        width: 816
-        height: 545
-        isCached: true
   - title: "Uber reportedly may sell its self-driving car division to rival Aurora"
     excerpt: "Uber is in talks to sell its autonomous vehicle unit to startup competitor Aurora Innovation, TechCrunch reported. If it comes to pass, the sale of Uber Advanced Technologies Group (UberATG), would mark the end of a bumpy road for a division of Uber that was valued at $7."
     publishedDateTime: 2020-11-14T15:41:00Z
@@ -93,6 +61,22 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541671697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1MH"
         width: 822
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-Uber looks to partner with other self-driving companies -CEO"
+    excerpt: "Uber Technologies Inc's self-driving unit is looking to partner with other companies working on autonomous driving, the company's chief executive officer said on Wednesday."
+    publishedDateTime: 2020-11-18T19:25:00Z
+    webUrl: "https://www.reuters.com/article/uber-autonomous-idUSL1N2I42FE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541676648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1NQ"
+        width: 818
         height: 545
         isCached: true
   - title: "Uber (UBER) is Reportedly Looking to Sell Self-Driving Unit"
@@ -153,6 +137,22 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/uber-selling-self-driving-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-18T08:55:00Z
+    webUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.html"
+    ampWebUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/upgradedrada.jpg"
+        width: 849
+        height: 1872
         isCached: true
   - title: "Uber in talks to sell its self-driving car division: Report"
     excerpt: "According to a report in TechCrunch, the sale of Uber Advanced Technologies Group (UberATG) would mark the end of a bumpy road as the venture has been suffering fr"
