@@ -1,0 +1,157 @@
+---
+category: news
+title: "The LAPD banned officers from using facial recognition technology which harvested images from social media by Clearview AI"
+excerpt: "A leading-edge research firm focused on digital transformation ... technology in response to inquiries from BuzzFeed News about its officers' use of Clearview AI, the outlet reported Tuesday. \"Department personnel shall not use third-party commercial ..."
+publishedDateTime: 2020-11-18T06:39:00Z
+originalUrl: "https://www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11"
+webUrl: "https://www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11"
+ampWebUrl: "https://www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11?amp"
+type: article
+quality: 80
+heat: -1
+published: false
+
+provider:
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Facebook AI
+  - AI
+  - Computer Vision
+
+images:
+  - url: "https://i.insider.com/5fb496c0e74fa70018b83107?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+related:
+  - title: "LAPD bans the use of Clearview's controversial facial recognition software"
+    excerpt: "After Buzzfeed News showed leaders evidence of unauthorized searchers, officials issued a new ban on using the controversial platform,."
+    publishedDateTime: 2020-11-18T12:43:00Z
+    webUrl: "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
+    ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F8ce2b190-2988-11eb-b799-db52f3a364a9&client=amp-blogside-v2&signature=ab3d0352f05229713f671a991cfa2339559582b8"
+        width: 600
+        height: 350
+        isCached: true
+  - title: "The LAPD Just Banned Its Officers From Using Third-Party Facial Recognition Software"
+    excerpt: "The Los Angeles Police Department issued a moratorium on the use of commercial facial recognition software on Tuesday"
+    publishedDateTime: 2020-11-18T02:41:00Z
+    webUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878"
+    ampWebUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 82
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ej9yggro63jbjpp2rbbz.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "New Orleans PD Using Facial Recognition Despite Earlier Denials"
+    excerpt: "Despite earlier claims by officials that the New Orleans Police Department was not using facial recognition, it appears the agency has been leveraging the technology through state and federal partners."
+    publishedDateTime: 2020-11-17T22:37:00Z
+    webUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
+  - title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
+    excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
+    publishedDateTime: 2020-11-18T03:50:00Z
+    webUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation"
+    ampWebUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 47
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b867d52/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F72%2F2e3c57de4ac19ff232b6ef52212f%2Fnewsom-presser-11-16-la-thmb.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Resisting the rise of facial recognition"
+    excerpt: "Researchers, as well as civil-liberties advocates and legal scholars, are among those disturbed by facial recognition’s rise. They are tracking its use, exposing its harms and campaigning for safeguards or outright bans."
+    publishedDateTime: 2020-11-18T11:28:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-03188-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 41
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03188-2/d41586-020-03188-2_18584500.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "New Orleans police admit to using facial recognition software"
+    excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn't employing the technology. The agency doesn't own facial recognition software,"
+    publishedDateTime: 2020-11-16T20:43:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21162854/new-orleans-police-admit-to-using-facial-recognition-software"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/bigstock_Face_Recognition_Technology_Co_317555179.5fb2e19ba8940.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 790
+        isCached: true
+  - title: "LAPD bans using third-party facial recognition software after discovering detectives did so without permission"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a"
+    publishedDateTime: 2020-11-18T03:17:00Z
+    webUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/"
+    ampWebUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
+    type: article
+    provider:
+      name: KTLA
+      domain: ktla.com
+    quality: 39
+    images:
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/06/download-1-13.jpeg?w=1280"
+        width: 840
+        height: 560
+        isCached: true
+  - title: "New Orleans Police Dept. Admits to Facial Recognition Use"
+    excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
+    publishedDateTime: 2020-11-17T21:42:00Z
+    webUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
+    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
+
+secured: "kv9Cei/yv/iM3iMEx7jeNFFMTazGfmRgy2ZO6qpIl+JT1gdB+KJPCsFU14r0uWH2HArnU/8BRZ6dBpGjX+yMIyMrSqGYUVG9fv9x8uANuQ3kk5thhIAMIqv/W1f25QkwvDiFV23IE1gDzzqbrzP79eUnn42626K6tqrBcSG1uoPkvcWIyjuSAkEOenwFyCktEjsCEkm3IUaswyaHz19NRCsEW/7KtwHkJi08kOW00mOSqa8PTCXKMEu9VKWq8KErS+NgZajh4D/dyAG4fJfo45mZqOaaHiTchaLIOLvkxvTptID1t2tXtll2MfVHFjpJbdGPDbY2NqX+VP2NDLIFoegfZsm5pahWzpsqze0BaIY=;9njmtlhP+QB87NgzthwlsA=="
+---
+

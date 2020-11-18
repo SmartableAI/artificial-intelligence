@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-repor
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -52,7 +52,7 @@ related:
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 50
+    quality: 52
     images:
       - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
         width: 1500

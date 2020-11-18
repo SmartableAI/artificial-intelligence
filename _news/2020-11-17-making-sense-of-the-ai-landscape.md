@@ -2,13 +2,13 @@
 category: news
 title: "Making Sense of the AI Landscape"
 excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
-publishedDateTime: 2020-11-17T13:17:00Z
-originalUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
-webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
+publishedDateTime: 2020-11-16T23:59:00Z
+originalUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
+webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
 ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI Ethics
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
@@ -73,21 +74,7 @@ related:
         width: 640
         height: 260
         isCached: true
-  - title: "How AI Is Rapidly Reshaping The Data Center Market"
-    excerpt: "Advanced algorithms are placing new demands on servers, requiring heightened power, space and cooling in data centers."
-    publishedDateTime: 2020-11-13T20:35:00Z
-    webUrl: "https://www.bisnow.com/san-francisco/news/data-center/how-ai-is-rapidly-reshaping-the-data-center-market-106720"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 39
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a029941a9101_2414578731_82c451232d_b.jpeg&width=1200&sign=wGC12Vu0tUjFGJOIfiaRq1pZLMRS7FZe__Pk71lkflU"
-        width: 1024
-        height: 698
-        isCached: true
 
-secured: "He5Is0/hmR+krwK/zj5EyXpdgA1vVuZV4vo7z86QobzqKDPlBo7HpShIy3CkrKanRjkSr0RAfmmF7TQ7VXaT37nrKIFeFhE/aJ9rqs9F60MC22HCsQ9F3/9OtzwWjNnnho8ZK49EusLSuRVAe9ERQQ7TprbIfEu9y2dSBJIwDgFEV2SOMSvsZUC8BxTwhiQgBgOfaYAlThKcPx+PG+qeygNikvayMRI06Mw4fR2Ag2TVox6vQyNJePsWdhELPEptCP0bIDvbG7T1SXhJWHJAjMkbd1kDcuCaDgv5yQK8hS5OaFdBNb3ICcSZGS8esL4Umiv6F7iwdAVNvcimvrZPH4VEYBET+86WOqqPt2yCGNk=;qruHDtxv7IdoStqheD1soQ=="
+secured: "Tm3INeasOERJO7ECEVWeSAeGSY0Ly+nXFcRyeDcwc4ug8IukVrz6em4toIl1Z3xf3jN8LMa5mN1D9ZWJFEVJSlZLm5+yNCYCt2Q73FhznBF/EEHzD3LcChu9pBgIXXtQKipOuQAQk6dAx6XbSKGNPRbH/8VQRmpcJfhbvtxy4NizgdmLdH+w42PAgIVtouS97HDtqr5VBLy4X4l00rlYvtMrR7LpSvtfGR+F6dmbLWRHQxvWtVjEmxIo50EVg2nGy/OffQsXduL/9Vjp1L/btL4tvysjlK8vUQo7Gao8Xg/J/sVFK7jcJEsEZasDTxhOPtGknXiP+M4pcfnqHxIz0vDo1BZfxsztQf6Jdbn3pXQ=;hKqQPIhwHjaDLqrOHJBvqQ=="
 ---
 

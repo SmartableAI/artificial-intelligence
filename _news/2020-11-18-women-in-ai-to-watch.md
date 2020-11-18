@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
 type: article
 quality: 87
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
         width: 940
         height: 627
+        isCached: true
+  - title: "The way we train AI is fundamentally flawed"
+    excerpt: "It’s no secret that machine-learning models tuned and tweaked to near-perfect performance in the lab often fail in real settings. This is typically put down to a mismatch between the data the AI was trained and tested on and the data it encounters in the world,"
+    publishedDateTime: 2020-11-18T11:35:00Z
+    webUrl: "https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/"
+    ampWebUrl: "https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/mirrors.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "New project uses artificial intelligence in drug development"
     excerpt: "In health care, artificial intelligence is quite normal: it is used, for example, as an aid in making diagnoses. However, artificial intelligence is"

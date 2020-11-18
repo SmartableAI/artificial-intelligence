@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/"
 type: article
 quality: 119
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
         width: 796
         height: 417
         isCached: true
+  - title: "Making Sense of the AI Landscape"
+    excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
+    publishedDateTime: 2020-11-16T23:59:00Z
+    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape?ab=hero-subleft-1"
+    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 61
+    images:
+      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Connecting the Classroom to Careers Through AI Explorations"
     excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
     publishedDateTime: 2020-11-16T15:31:00Z
@@ -60,36 +76,6 @@ related:
       - url: "https://edsurge.imgix.net/uploads/post/image/13694/ai_career_connections-1601659718.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
         width: 640
         height: 260
-        isCached: true
-  - title: "Making Sense of the AI Landscape"
-    excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
-    publishedDateTime: 2020-11-17T13:17:00Z
-    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
-    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
-    type: article
-    provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 59
-    images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI Is Rapidly Reshaping The Data Center Market"
-    excerpt: "Advanced algorithms are placing new demands on servers, requiring heightened power, space and cooling in data centers."
-    publishedDateTime: 2020-11-13T20:35:00Z
-    webUrl: "https://www.bisnow.com/san-francisco/news/data-center/how-ai-is-rapidly-reshaping-the-data-center-market-106720"
-    type: article
-    provider:
-      name: Bisnow
-      domain: bisnow.com
-    quality: 39
-    images:
-      - url: "https://cdn.bisnow.net/fit?height=1200&type=jpeg&url=https%3A%2F%2Fs3.amazonaws.com%2Fcdn.bisnow.net%2Fcontent%2Fimages%2F2017%2F11%2F5a029941a9101_2414578731_82c451232d_b.jpeg&width=1200&sign=wGC12Vu0tUjFGJOIfiaRq1pZLMRS7FZe__Pk71lkflU"
-        width: 1024
-        height: 698
         isCached: true
 
 secured: "Sw2GkqQNi4wZC4lkSxuN4S4YmyY8sHSkt7Asz8tI3T2OpVWWyL0XWbpiCRQc3jCZVGq0bGI/MoF/83bbOGeckGZHyVCI8TUvSNOTV3Dp++kqlXC85E4YRh6rA53qgLXkUkhrxfLV6WF1LfdhSfyeR/+PAuot+z2oRV84Tg/ZsDC1AvzRegk7QwtiSUV9UIf5mUTy1sqhUHqkPMfYQnOFqEvAyj2lJOn55biP9/gP11ghGD2dX2OWTH6ajp/5RpmAFW6In0MjnpYmlV6UpMOzcmTXC6Mzmh/W8dBWYOhqceFQRIpMwDT962D3IdwLgmSRR0+frPkPAfu5KjRw9zg0lGj3GINmX2OLecAtVldiYrA=;A9UKbUDHFyz8K4k20RFXxA=="

@@ -57,17 +57,6 @@ related:
         width: 1587
         height: 992
         isCached: true
-  - title: "UPDATE 1-Velodyne aims to price new self-driving car sensor below $500"
-    excerpt: "Nov 13 (Reuters) - Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne became a public company in September and is one of ..."
-    publishedDateTime: 2020-11-13T20:48:00Z
-    webUrl: "https://www.reuters.com/article/velodyne-lidar-tech-idUSL1N2HZ2BS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 69
 
 secured: "GFdN742UiSJZFWqThVn2eVdDZ2wU8a2VViNjd3KiHjpkxhJHS4wMCA4GlEmzQ4WJmqAPqdXEUbfBEgTDajuXTTQX5cXW7avE1vxg4cdjV/iLZy0MNlD4eUxQkKuHt0nU00GHqJ3hISluTmXV2jUI9+HFfS/YEIVyJyJ5OHoVgbFjeTpmHUmzRHwib9Lcji0LVhEdhfkhrooey4zHor3tOQ9Zks0OnGLl3zmmH5eSv1zlWN3L35mZk9KgTqVJpEAJTw3RJT638R1cKc3LaESihJ6HalspXZqX7pseCkD4rUkNHJzEc0hdA6+jamBnghZ+Q5MxNqL5b0HUikhWVtNhCl7r15VczaOojewfkwpHQ08=;qO2lGVhDzltu2ORwUkZq3A=="
 ---

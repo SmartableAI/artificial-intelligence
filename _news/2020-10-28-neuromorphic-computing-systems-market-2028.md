@@ -2,25 +2,25 @@
 category: news
 title: "Neuromorphic Computing Systems Market, 2028"
 excerpt: "signal recognition and processing, data processing, and object recognition, among others. Neuromorphic computing systems have been adopted by several end-use industries such as consumer ..."
-publishedDateTime: 2020-10-28T14:24:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/neuromorphic-computing-systems-market-2028-301161695.html"
-webUrl: "https://www.prnewswire.com/news-releases/neuromorphic-computing-systems-market-2028-301161695.html"
+publishedDateTime: 2020-10-28T14:26:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/neuromorphic-computing-systems-market-2028-1029735198"
+webUrl: "https://markets.businessinsider.com/news/stocks/neuromorphic-computing-systems-market-2028-1029735198"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/neuromorphic-computing-systems-market-2028-1029735198"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/neuromorphic-computing-systems-market-2028-1029735198"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
-    width: 800
-    height: 419
-    isCached: true
-
-secured: "J6tWwaFCGfVapSUxVVyrTobPtnDaF92QOT2zBFs1xnBZjBiP5Yl9d7z4MxqvMUjcHrj+rchr5H2fYGuUP8Y7Hbywn609UIozHfJQ6c738hzgRAVKuMQwvPZfl5jVbYyTp0BXLkCxlr2u+7WoWQlRGUScvwXvHzQ2NBSx2KLbFAFNGVpSHjd8JAQotN+zYVutK2/KQ5+fPtMTnwvGWCI8dWdcRbgD5oxhjq44lJXKi4OFKS1IyZY5hsOX0PtEI7okQZ/eZNQcXUBLSgyb7cM9IZKTMy50jwD4II2cyOwiIfDsyxIzON34xM9iqpc+bV7OHpIpcvOhPZdtFfjEjkk3WF9ovnWLrMPgIOVbaIil0o4=;WhowMQaCQRJncq4WfhHUJg=="
+secured: "nM8/m4oLrfP2cCQNrjCf60yysNKSESmzzgipjQX/WQOim4c604Sgie8bv7O1r96ecTnFljzksSuXNpzIX/DlrAKyiT8iYP6jWYLYdYgqpDvpfGo6kzEGdMrNvtQ7HrwEWrMVlw5fto57TV34diW04XnFj41yWQGXFo3CsnQBjnNJgL8eEaqAHf0lNhXMTXu1E3fwWwGmflPHg2yxQ4LVpzM3idpPjLJhAydvX4sB4bzSxvVfhbYVlC0quRR9XaPPDvEdrpP0iHUPyY/u+/DNE6qnyCqbrjAW9UU88SGzwnuHj8QQr5gn6E+ZAxdTzlVtmp4ENOBcijjCCkFkUENWff/ZZiYJITdVpHtigJQR2Pc=;dsGf+Kh9qraAGdbQB7awVg=="
 ---
 

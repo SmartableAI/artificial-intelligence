@@ -57,6 +57,22 @@ related:
         width: 940
         height: 627
         isCached: true
+  - title: "The way we train AI is fundamentally flawed"
+    excerpt: "It’s no secret that machine-learning models tuned and tweaked to near-perfect performance in the lab often fail in real settings. This is typically put down to a mismatch between the data the AI was trained and tested on and the data it encounters in the world,"
+    publishedDateTime: 2020-11-18T11:35:00Z
+    webUrl: "https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/"
+    ampWebUrl: "https://www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/18/1012234/training-machine-learning-broken-real-world-heath-nlp-computer-vision/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 57
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/mirrors.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "U.S. Military Wants to Bring Allies into AI Fold"
     excerpt: "The Defense Department has kicked off a new initiative to bring like-minded nations together to work on AI policies and capabilities. In September, the Pentagon’s Joint Artificial Intelligence Center hosted the inaugural AI Partnership for Defense meeting with military officials from 13 nations including: Australia,"
     publishedDateTime: 2020-11-15T22:30:00Z

@@ -8,7 +8,7 @@ webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-last-
 ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-last-act-ai-in-the-workplace-facebooks-suicide-prevention-tool/amp/"
 cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-last-act-ai-in-the-workplace-facebooks-suicide-prevention-tool/amp/"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
@@ -60,6 +61,6 @@ related:
         height: 426
         isCached: true
 
-secured: "Lfq8BZAZxCOJrYHgNwFcgVUowXMWjmpeSBAkyYFxxqIYJyL4jHUgaHJ0Kf05p63Vf41cG5TUlgWx9W0hVMMsP8+euET8q/ZeJs8zlL8kysd6qh4BTNiAJ6DYfkadVgzikgnvtuxM6Vpc4Sa9cB+3R0ZPeL5K5TcEBq6QMlR888pJ38jUReyn1TpX5SQRDpHawKgV7qO9zlfxSaLwPvBj/ieccubZQOFN+Wgk/5eO1U9Dt9MCMBRqhAZmtOD/QFhE1GJauGe1bUDWR7olVAb+ZQjbkDAq7eOQZ6AU3UG1FkeW6CgBiozNmE4dfZ4GvZ6s8HzQ+gRuHSg/3f9hUGa/AC/BAt37zQKSmPhJqeHicAs=;cDOLB9PFF2ThlYYb2fHFQQ=="
+secured: "rZ+SOKOaHCgtd5ncZI41voTTcd6OtSokaBV9BCBcPs10tVWoxO3f7gZ0cVoOnEmOuCUYHStZFWBq0xHP+mFVbPwL4OwA6wQ2kNdEXfrPCIaeKBwXua2d+52V8EmRl3Biofz7Z8bimQR/oQ0TNcOpj9fLYqmMi/+Rtz+VcM5GHXe10XykDWeZBkNwIby9wYp81HLiXMz9Y+Osc6tvl+uIJ25erVnRLIshyXZWiDD7KUGjMQ5PahKXMLv7nVmTcTRKYFyqBkhA+INKGfvCjUQifIS8vEdHuA0xlJyYg4vUo1klIYndn+YsMIAqT5zoXG+bFpUP7dsMcKPFe/GFH7LdXuXPRCOD1N9tAS7/QCxgSmrrVcQahEmINQpJdSoGh3POMmfhgQ47Al43oVIRJ3DRadmu+3pH2G5ZpKrDYOcL1YnQNmC2pPSjR/wQ0vX55i6z8enE21MuRmNM9XAR1ZYYFE1kBdl10T/MZfwPEhT4vjkgiwia9a9prbX7ClYWROYV6jzOjZ42DNXuf23X+/hSgA==;xvr4p2eu/XWsww4GXDFvkw=="
 ---
 

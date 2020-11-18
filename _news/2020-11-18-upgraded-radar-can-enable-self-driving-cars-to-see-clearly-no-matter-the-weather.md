@@ -2,26 +2,28 @@
 category: news
 title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
 excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-publishedDateTime: 2020-11-17T21:22:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
+publishedDateTime: 2020-11-18T08:55:00Z
+originalUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.html"
+webUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.html"
+ampWebUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
-    width: 480
-    height: 360
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/upgradedrada.jpg"
+    width: 849
+    height: 1872
     isCached: true
 
 related:
@@ -41,7 +43,21 @@ related:
         width: 1024
         height: 630
         isCached: true
+  - title: "New radar helps self-driving cars navigate safely in bad weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-18T12:31:00Z
+    webUrl: "https://knowridge.com/2020/11/new-radar-helps-self-driving-cars-navigate-safely-in-bad-weather/"
+    type: article
+    provider:
+      name: Knowridge
+      domain: knowridge.com
+    quality: 24
+    images:
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/11/New-radar-helps-self-driving-cars-navigate-safely-in-bad-weather.jpg"
+        width: 700
+        height: 511
+        isCached: true
 
-secured: "oBBlgXwQ867rv7hPHww/U0Yv8jb8PjysuuRyS9K4r+YaMEzIu45gOPS8Qfh3O7PVktbbdz8RFZPAYi8qEB7K6BwYQqu9ga2wxiApHvc89WTC12pdCPJ6L0HTIkXGm3SIrjHj/iJ6iXVfus6eCVjvsEHxr8jjUi9/gIas3OPljmWzjdZ/2xybRZrOHHROs8qI/XRbV1EcwMPsc7mdgWg8CdATImiutmUqBxs/D/QZmVM/M/duQEcg2qfuVVXxvAW7EFXVUkrcuHQcTKMEk3tXW3dQj+IexgDhrOamtXZ5wzPBl2BwjMtL6h4PKgMrEeKtZgKrEbQbVaSzdiswv5092r/uAJjMnqdRrbypndp3bffIWcxsPb6f8niLbGzQe4ZXEOmNGPGq+oRTUZOitvwuepyWCM3DJtsr6RvHbGsUEQGymC+8rnZ8HgraRyvLcRtXyDTYbllciXEqDV8zWRv+aYuPGkcjAqJtmLPVWRaVwY+YWMWk5piaVVRZyAO9D+3sZaIBHnAYLAMENnIuyjUHpw==;CFg3g/faj1DKQzyI1usxnw=="
+secured: "lgQWQxJ7uGvOtpzMkrCTQ7GKCTbWQ/9cpWthTKYlUdH8ExKoYSj5pN5qQiMHi+YP/BRkHNq/YBmAl6eUuBWhMqGGnHyZXonmFpTpICBagCrMDEOHUYutP4yfvg80jkb2CeNlUBCHNJSNMTsQQN2f/p42xObwRh6NnVbOtB4dAuadINWN5kJx+Nc6Y68c++zCiIvihHAynAMBqVx7lapCewvuQMS24XxaZ6DdbkKguLet/00/hVZ3WQ688eIyvNaJUGciBgtQvtli4vEftuDmgf3afqGCgfEmcENa0lDPQVGDAJcjzJjY1u99QR5HEJ8AOu2CSzhIDFNIf0olzWNb7Xm6c2ihyhl5h2q2XB2PESg=;gyLjxAYz3SlOvoW5rhlDJA=="
 ---
 

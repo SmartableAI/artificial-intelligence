@@ -41,6 +41,22 @@ related:
         width: 680
         height: 453
         isCached: true
+  - title: "EdgeQ emerges from stealth to bring AI to the edge with 5G"
+    excerpt: "Ravuri makes the case that purpose-built fixed devices scale poorly and inefficiently to support 5G and AI services and apps. “The current 5G ecosystem is extremely unhealthy, with limited chip ..."
+    publishedDateTime: 2020-11-17T13:36:00Z
+    webUrl: "https://venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/"
+    ampWebUrl: "https://venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Chip Startup Merges AI, 5G at the Edge"
     excerpt: "The low-latency connectivity of 5G wireless is being combined with AI-based computing in an edge platform unveiled by a system-on-chip startup emerging"
     publishedDateTime: 2020-11-17T18:20:00Z

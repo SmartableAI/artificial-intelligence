@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-le
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - AI
 
 related:
+  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
+    excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
+    publishedDateTime: 2020-11-18T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Penguin Computing to bundle systems, services to juice AI, analytics, data, cloud workloads"
     excerpt: "The move by Penguin Computing highlights how many HPC vendors are targeting commercial adoption and workloads."
     publishedDateTime: 2020-11-16T05:00:00Z

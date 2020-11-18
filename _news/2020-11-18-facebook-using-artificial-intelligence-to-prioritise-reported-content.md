@@ -52,7 +52,7 @@ related:
     provider:
       name: POLITICO
       domain: politico.eu
-    quality: 50
+    quality: 52
     images:
       - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
         width: 1500

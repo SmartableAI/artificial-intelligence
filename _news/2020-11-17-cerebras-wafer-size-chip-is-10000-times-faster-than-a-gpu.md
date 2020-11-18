@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

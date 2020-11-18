@@ -35,6 +35,22 @@ related:
         width: 680
         height: 453
         isCached: true
+  - title: "EdgeQ emerges from stealth to bring AI to the edge with 5G"
+    excerpt: "Ravuri makes the case that purpose-built fixed devices scale poorly and inefficiently to support 5G and AI services and apps. “The current 5G ecosystem is extremely unhealthy, with limited chip ..."
+    publishedDateTime: 2020-11-17T13:36:00Z
+    webUrl: "https://venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/"
+    ampWebUrl: "https://venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "EdgeQ exits stealth with $51M to fuse 5G and AI at the edge"
     excerpt: "G systems-on-chip startup EdgeQ Inc. exited stealth today armed with $51 million in funding that includes $38.5 million from a Series A round of investment. Threshold Ventures, Fusion Fund, Yahoo! co-founder Jerry Yang (AME Cloud Ventures),"
     publishedDateTime: 2020-11-18T00:23:00Z

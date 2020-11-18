@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "LAPD bans the use of Clearview's controversial facial recognition software"
+    excerpt: "After Buzzfeed News showed leaders evidence of unauthorized searchers, officials issued a new ban on using the controversial platform,."
+    publishedDateTime: 2020-11-18T12:43:00Z
+    webUrl: "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
+    ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F8ce2b190-2988-11eb-b799-db52f3a364a9&client=amp-blogside-v2&signature=ab3d0352f05229713f671a991cfa2339559582b8"
+        width: 600
+        height: 350
+        isCached: true
   - title: "The LAPD Just Banned Its Officers From Using Third-Party Facial Recognition Software"
     excerpt: "The Los Angeles Police Department issued a moratorium on the use of commercial facial recognition software on Tuesday"
     publishedDateTime: 2020-11-18T02:41:00Z
@@ -43,37 +59,51 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "New Orleans police use facial recognition software, despite official assurances to the contrary"
-    excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn’t employing the technology. The department doesn't own facial recognition software,"
-    publishedDateTime: 2020-11-13T19:30:00Z
-    webUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.html"
-    ampWebUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
+  - title: "The LAPD banned officers from using facial recognition technology which harvested images from social media by Clearview AI"
+    excerpt: "A leading-edge research firm focused on digital transformation ... technology in response to inquiries from BuzzFeed News about its officers' use of Clearview AI, the outlet reported Tuesday. \"Department personnel shall not use third-party commercial ..."
+    publishedDateTime: 2020-11-18T06:39:00Z
+    webUrl: "https://www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11"
+    ampWebUrl: "https://www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11?amp"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 47
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 80
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/be/abe088b6-6484-11ea-80c3-efad1712deb4/5d154061558f0.image.jpg"
-        width: 600
-        height: 439
+      - url: "https://i.insider.com/5fb496c0e74fa70018b83107?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "New Orleans police use facial recognition software, despite previous assurances to the contrary"
-    excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn’t employing the technology. The agency doesn't own facial recognition software,"
-    publishedDateTime: 2020-11-13T19:30:00Z
-    webUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.html"
-    ampWebUrl: "https://www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
-    cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/crime_police/article_9eda8846-25e1-11eb-9c95-4f11b10ed17a.amp.html"
+  - title: "New Orleans PD Using Facial Recognition Despite Earlier Denials"
+    excerpt: "Despite earlier claims by officials that the New Orleans Police Department was not using facial recognition, it appears the agency has been leveraging the technology through state and federal partners."
+    publishedDateTime: 2020-11-17T22:37:00Z
+    webUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
     type: article
     provider:
-      name: NOLA.com
-      domain: nola.com
-    quality: 47
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/a/be/abe088b6-6484-11ea-80c3-efad1712deb4/5d154061558f0.image.jpg"
-        width: 600
-        height: 439
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
+  - title: "Resisting the rise of facial recognition"
+    excerpt: "Researchers, as well as civil-liberties advocates and legal scholars, are among those disturbed by facial recognition’s rise. They are tracking its use, exposing its harms and campaigning for safeguards or outright bans."
+    publishedDateTime: 2020-11-18T11:28:00Z
+    webUrl: "https://www.nature.com/articles/d41586-020-03188-2"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 41
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03188-2/d41586-020-03188-2_18584500.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "New Orleans police admit to using facial recognition software"
     excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn't employing the technology. The agency doesn't own facial recognition software,"

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft's new Azure data services explained"
-    excerpt: "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ..."
-    publishedDateTime: 2020-11-13T20:42:06Z
-    webUrl: "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 119
-    images:
-      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
     excerpt: "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks."
     publishedDateTime: 2020-11-17T12:20:00Z
@@ -57,33 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
-  - title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
-    excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
-    publishedDateTime: 2020-11-16T08:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-  - title: "Artificial Intelligence In Education Market May See a Big Move | Major Giants IBM, Microsoft, Bridge-U"
-    excerpt: "AMA Research have added latest edition of survey study on Artificial Intelligence In Education Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
-    publishedDateTime: 2020-11-18T04:26:00Z
-    webUrl: "https://www.openpr.com/news/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
-    ampWebUrl: "https://www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 77
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb18430928_g.jpg"
-        width: 800
-        height: 448
-        isCached: true
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
     publishedDateTime: 2020-11-17T14:27:00Z
@@ -123,34 +80,6 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 50
-  - title: "Rick Wagner: Microsoft Federal to Help Air Force Integrate Capabilities In Support of ABMS"
-    excerpt: "Rick Wagner, president of Microsoft’s (Nasdaq: MSFT) federal arm and a three-time Wash100 awardee, wrote in a blog post published Monday the company will compete to develop, field and operate systems across multiple domains in support of the U."
-    publishedDateTime: 2020-11-17T10:38:00Z
-    webUrl: "https://www.govconwire.com/2020/11/rick-wagner-microsoft-federal-to-help-air-force-integrate-capabilities-in-support-of-abms/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 44
-    images:
-      - url: "https://govconwire-media.s3.amazonaws.com/2020/11/17/0c/d4/14/de/3b/c0/9c/24/a0I4y00000Ph1BsEAJ-rick-wagner.jpeg"
-        width: 272
-        height: 270
-        isCached: true
-  - title: "Microsoft adds Hindi to its Text Analytics service"
-    excerpt: "Text Analytics includes sentiment analysis, opinion mining, key phrase extraction, language detection, named entity recognition, and Personally Identifiable Information (PII) detection. Microsoft on Thursday said it has added Hindi to its Text Analytics service to help businesses strengthen customer support through a complete analysis of user perception and feedback in the most widely spoken language in India."
-    publishedDateTime: 2020-11-14T05:02:00Z
-    webUrl: "https://www.tribuneindia.com/news/science technology/microsoft-adds-hindi-to-its-text-analytics-service-166425"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_705948515.JPG"
-        width: 600
-        height: 368
-        isCached: true
 
 secured: "7VFkK9HCu9VEzN4Jmo6UZBMNHf8GOedRLUUvRCyJstuugX8Demc6LFq9mogIKTl9MIRI4Qr092B5S8DVylHxSy2jEsoUsI/g5dwPLpoVlmSjKhp4PBnk+8hF3kB5j3yaQ970s9IIydIpgpSIwVxdDTWzpPwc7JC9sCtBFEDOe1t58tpTF0aVkZfGeNHLbCPkHcPFXZqpZ56x7LCyRRa6HlRUF8GsCe+D4Ac2OsSbjXKJeXsQq8aVcPbF+C4RbalZSuz7FZvaAXtHNUtGz1UZn8NxsAhLJnKdwtqa8/02vfTeDkGUBLxFADQol77+60bbSk4N5JYyQip++0AdBWqS/8LHCm1kQRsnJd0muQNDWsw=;PQ3Kgw1kk/Yrp+LLu5w89Q=="
 ---
