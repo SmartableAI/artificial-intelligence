@@ -83,6 +83,17 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "NHTSA Seeks Input On Self-Driving Car Safety Rules"
+    excerpt: "The National Highway Traffic Safety Administration announced Thursday that it will be seeking public comment on a possible framework of principles for safety in cars equipped with automated driving systems,"
+    publishedDateTime: 2020-11-19T22:51:00Z
+    webUrl: "https://www.law360.com/articles/1330761/nhtsa-seeks-input-on-self-driving-car-safety-rules"
+    ampWebUrl: "https://www.law360.com/amp/articles/1330761"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1330761"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "wzdItFvMCjQLGmh1XHpKE+y7WcYnVyUD+ZQFLb3T/O48E695g4YbwkdWNiY6CXlUw29QOh++nNn7ArjKtXY9yX5yeXIJMcBBZd5dfsKcfPShemKitmrrehlRuck5h1dh4YaA7jbT+uBL7yVfjGSSTS66W7ybF1EgU0EAzJJxZrcKyF1XBKesmUv7vPtztRx4LoMbSwjCMM7jzZtKqOMatxw2UNno1LLaEygijK1Psv/Gc1oCPU9MoIlbkTy7CGA5I1RvLlBFOQg0dp70JH52eojBWc539erhxNnWxQoGj9ltwgm9Psx60BL0v5/bVXBSGtZYmS8Te8FHGq/K6T9kVqp4NJq7AcefNA1F4fN6ZuUCROYcs19ExIQD5+AFJ1hvoLWBN1TTC5/FKk4Y7Tv6F1ga3yQcxKU1Tjo+q3KogGawFT6fP+aRctq7Xpj/O6nvRhifwAlN+ZUtob/JwXAdeEvlI+TY5mAoNgl1wKn/CVoFgmNfH3Kceay4JQi41/bZAplK4GColhT7WboLNzIc/A==;F2uAAWCsVxyRHL0lbIdcPg=="
 ---

@@ -192,13 +192,13 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/facebook-2.png"
         width: 718
         height: 400
         isCached: true
 
-secured: "Wr4CZHgooeuj0HwqSreYl7902tQKJxHiqn2yP+zBuG7FMPXW6vEbBYZGhTCSV7w0V0i4Aylu7ZeNQZEDMlQea5zsO+AbfXS4k3cUs1Yow7JEw4gqHisO1+JahqcTW1cEy52BqLZcb0g1Evl/ldfnkbBVDiM37gsRh9aAGNhVa1a2L3tECjU/lr6RENWjduzZiTimT5LzjorGa8O6Ig25ch83PXb4/MawLfV5W023PKsyjT4qzG5i5sLRk2PD7conO+ZxaIkRbnT7c91zuS4mEbkKhYL0lgrl6TTEZ6oo+7UenN0pNPYlHWtokzR1RaEztJJg9fKYi7RyLrXQO/7aUGEEzSYBXAXHxglchULgyTk=;TVcNqAu6vIul4N8OOBV0ZA=="
+secured: "BVswA+6SgAY7MFLcBeUqaGVKj28ISRf4EESC9dxfT1o29+1yXrhXta3JsGeX47dbiXd/iFpR+Cd6dLWzsGYkntG8X6VoRkyw92TtmX1m+geoQemTOgsRLtudwHn+JR0AKsT0zboUkdIdJRwhZYx6l0VlHR72wmAyLE5VUPpE1+gijgTdLxW4O9wAiilj3DkmNbhmWddLSiRIeOLci8N1GhE1yb/tHkHpIRKZVCDoi7DMTz2QctARFcjzs8bmE8cu8YSjxn4pbMPEaPs/Cet5VqSpkuhpD/LWGcxhknMEOVF39et7Js29aUZfUI/DJ++yV7PaPtY7NE6fEwliiCGkOL/gRdZUGLnKhBtM9H0t/bjDFEHqWzYastb5nZq/pmOM+6V4FyfKVXUguhLAxayrdma2gQMCztZjXZwD6AYN6AetpuBBIjKnc6zet3pj+MgQ2epk0IwvvVHOX3S932gUvfDkbYUGbhDKSOOwIDvrDYeJROP5qCQOdsUXX54+iBSw9iZB5yk8d5S01BwVBu4VXA==;kED1dyd+hgK/j84LfCUinQ=="
 ---
 

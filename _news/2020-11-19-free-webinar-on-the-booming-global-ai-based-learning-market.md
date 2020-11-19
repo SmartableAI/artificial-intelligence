@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Artificial Intelligence as a Service Market: Global Analysis with Focus on Development Strategy, Opportunity Assessments"
+    excerpt: "The global market report on artificial intelligence (AI) as a service market is suggesting the promotion of the market beyond a valuation of USD 6.7 billion by 2023. During the forecast period of 2018 to 2023,"
+    publishedDateTime: 2020-11-19T22:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-global-analysis-with-focus-on-development-strategy-opportunity-assessments-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Applying machine learning to making mechanical parts"
     excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
     publishedDateTime: 2020-11-16T14:11:00Z

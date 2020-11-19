@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theverge.com/2020/11/19/21575139/facebook-moderation-ai-hate-speech",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -460,6 +460,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-ai-compilers-and-the-race-to-the-bottom.md",
+      "title": "AI Compilers and the Race to the Bottom",
+      "excerpt": "(Source: Facebook AI) “We have this really high-performance runtime, but a lot of projects don’t care because they aren’t in the data center,” explained Jordan Fix, a research scientist at Facebook. “They need to do AOT compilation, shrink as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
+      "originalUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYTQzZWE0NzM5ZDQucG5nJnZlcnNpb249MDAwMCZzaWc9NDlmMzljMWExNzk2ZjhhYmZhNTE0ODJhZTYzZWUzNmU%253D",
+          "width": 500,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

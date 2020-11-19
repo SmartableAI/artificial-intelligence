@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90575914/this-ai-powered-parking-garag
 webUrl: "https://www.fastcompany.com/90575914/this-ai-powered-parking-garage-rewards-you-for-not-driving"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Using AI to manage IoT sensor power"
-    excerpt: "Researchers aim to increase the lifespan of sensors and IoT devices by using AI and energy-harvesting technology."
-    publishedDateTime: 2020-11-16T11:06:00Z
-    webUrl: "https://www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.html"
-    ampWebUrl: "https://www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/08/itil-tips-for-implementation_lightbulb_innovation_process_strategy_iot_by-ipopba-getty-100808462-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "cYSouktqOEmWus6tRFuMdCm1VLjdwjy1IUd4kXwHLjumku4eNeEv2G6aVAM0PhbBm1r1Z/pTLkLivWgKrHqCavU2B52osGszOrK1F/86CLX+rxOWYZLLJM+OfnLmxR/Xl944HAui5GVbYzMj2I2NsrFVuuXcT8zaSxOeCqfDb9mZZLmCuYX6G2mj5odGjZQfEiNucksNqjWSPVJzpR2HFP6Yn5K7QyVFUjq6eAibt/t+6Yi5tZn2t3n/V3zoESNgxNGp7r6pOnOHhjeZjLZpP5n03W3qQQQEzd18dEP1ApBkCDSgt8zKVanqH1BXVPK2QKet/5fKekGtP/+t+Q15yMBev+KmXEGn02osQND51Luno1b3BKwzUb3GzA59Vw4BkT/U7uvQYvMREjx0ZAGKQXrD9/GTcgIut6EwQ+iK3mUHNL12bKnclkUN4jhVe3ze++G2n7VDJiIRzer8xdtEeSksyPELyCuagYe8kQbUOzVk+hbV68+RKgMjv6fIusvHkrzJbEnwkjQ4Qcg7E7YhbA==;7yWUbRdNQ3+Si8mQh6gUaA=="
 ---

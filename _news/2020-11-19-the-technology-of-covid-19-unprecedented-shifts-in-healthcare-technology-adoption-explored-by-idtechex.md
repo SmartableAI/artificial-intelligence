@@ -1,27 +1,27 @@
 ---
 category: news
 title: "The Technology of COVID-19: Unprecedented Shifts in Healthcare Technology Adoption, Explored by IDTechEx"
-excerpt: "Since its emergence at the end of 2019, the SARS-CoV-2 virus has had an unprecedented impact on people and economies the world over. At"
-publishedDateTime: 2020-11-19T13:59:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex/article_bce5a344-4fd6-5856-b23f-dea1d32e03d4.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex/article_bce5a344-4fd6-5856-b23f-dea1d32e03d4.html"
+excerpt: "Since its emergence at the end of 2019, the SARS-CoV-2 virus has had an unprecedented impact on people and economies the world over."
+publishedDateTime: 2020-11-19T15:19:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex-301177339.html"
+webUrl: "https://www.prnewswire.com/news-releases/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex-301177339.html"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b4/2b43beed-8589-50e5-8269-f45a74b449b7/5fb68d08cb7a9.image.jpg?resize=400%2C205"
-    width: 400
-    height: 205
+  - url: "https://mma.prnewswire.com/media/1339002/IDTechEx_Wearables_COVID_19_Infographic.jpg?p=facebook"
+    width: 1276
+    height: 668
     isCached: true
 
 related:
@@ -53,7 +53,7 @@ related:
   - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
     excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
     publishedDateTime: 2020-11-17T14:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06"
     type: article
     provider:
       name: Associated Press
@@ -65,6 +65,6 @@ related:
         height: 450
         isCached: true
 
-secured: "MUNuGVw3PlmTCzyOFq3RTO3Jg1aMJZwckbHvWD4go4+ohRPVkZeExFgOjW4W4kwHJxnCzSQPG832sd4tEs/7nneiBL0CBrmrtJ9JM8A1jk369VbGT/GhcJ4wgu2EhU4jD1K1LhMV0nY/JO7JbK8xqBTjCE4icLgwbl7WBv/jOQYdENNnlyR8swT1lsnpdcIf0fuHHOqtJJB9bFY3P3GlOtU0HC0MnR2yyO9+9GqKdr1EuwWFTFvGvO2YDLOJVcp1kKD7o4ASc1Kw6LpqQ0rA+s4GgendhGYCez7zQ5Eik8SEGOhPvEUNUhYKyPIMuuidQ/dYxteSCEumRh5wwDa6o3DAtRpDFjxyVHRF4VddMQ53nbrXVgX9X+J+cVkRWJ/754kAaDHXmhpYC5w/elc/7jKHks78VBqp1etes1ZXBE5p2wUXQayyYQf4tbFBKnY89nzgp5D19hZDvOpXW3aCP6OLA5mfxg4H3y5JQeMtMJaqV6JRhf7NCBkxI1wbrwYb0gw+ITfGMeWPdtZiTMCWAg==;8PoKkthU8xReAnzxuk0WMw=="
+secured: "vdvPKHQWEJSip91BlYC7QvCfTpru73xh64wxXDuVoNux2sSHSYR0lFcyGpQkxY0KgGZLH/0izvMSs3dXrr4Gecrtvjzi7v6H/WX/qKDHtD1lt655Yj8FySmlCSrmcE1QtY5wslKMhQs63gGVSfeZuGlINJM/xzGcnU2mSehzZf4vDkD+aZEa7nbyinRVejm3hwwjWdemToqUUhdWBpYfGP2jGXqE3LE4EeLGBAgSYRrM/n2+xy45Ew2mH2oOSwYgc8bSu0F9RFLFtOFy1PStBQsZfArBcn0TJ7AGt2LDZifS4LGhbL3Q1hJtO2Ws+J0lcO0J2YVaCzz8Gpo4x24RN7deX8jwtWfpd/fDRj5iqP4=;fw3+5bsmMCcsLm9VN7HNDw=="
 ---
 

@@ -41,23 +41,23 @@ related:
       domain: businessinsider.com
     quality: 42
   - title: "The Technology of COVID-19: Unprecedented Shifts in Healthcare Technology Adoption, Explored by IDTechEx"
-    excerpt: "Since its emergence at the end of 2019, the SARS-CoV-2 virus has had an unprecedented impact on people and economies the world over. At"
-    publishedDateTime: 2020-11-19T13:59:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex/article_bce5a344-4fd6-5856-b23f-dea1d32e03d4.html"
+    excerpt: "Since its emergence at the end of 2019, the SARS-CoV-2 virus has had an unprecedented impact on people and economies the world over."
+    publishedDateTime: 2020-11-19T15:19:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex-301177339.html"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 22
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b4/2b43beed-8589-50e5-8269-f45a74b449b7/5fb68d08cb7a9.image.jpg?resize=400%2C205"
-        width: 400
-        height: 205
+      - url: "https://mma.prnewswire.com/media/1339002/IDTechEx_Wearables_COVID_19_Infographic.jpg?p=facebook"
+        width: 1276
+        height: 668
         isCached: true
   - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
     excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
     publishedDateTime: 2020-11-17T14:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06"
     type: article
     provider:
       name: Associated Press

@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-19T20:38:00Z
 originalUrl: "https://siliconangle.com/2020/11/19/facebook-says-upgraded-ai-models-spot-nearly-95-hate-speech-removes/"
 webUrl: "https://siliconangle.com/2020/11/19/facebook-says-upgraded-ai-models-spot-nearly-95-hate-speech-removes/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/facebook-2.png"
@@ -200,6 +201,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "DLtyjdPuSc2gr0afqLoQ5biQaC8nB4Pz0c6vDoM8XbL3iICnBCGUl91n3PR9SMDXhRD8fJcd+lLKM4ZTCUeSlZRxh+MNzVpQgNUA08gSRuR5AdQ9IEka9ZkSCxvrL9hHMOCQATeNfXFZW6VmQjJ+TYQpn3dWmJFnCeFLSEKqyD7hDsds3ffP8WtMKXNZ9w5MCk5ITKvQGyP6VdvK2r1JVRMqPaj/pYdYRYByl2tufIyYYlNIHNdgweN+RsG5JQYGa8Rrti9G6utN3xZJpcOGD2/aJSVHjph+bMSlmZv52ZXWlVdvWvNakNAGoZ+Q10pMxEAXCi+RTrHxCft9QrtbuhCG2Lc6yGuQcUL6AXxpadM=;Yp2TfYJkrtmtDF+JC2ELUg=="
+secured: "9+tu/OlHx7tJ/zZNgYNDzPPuktHNIQnzzNAJN6HJSmtXMjDScnhoHGVV4u43cl+ZJvLgOgeebI6nIlq02WBmEwgmnwl7PyoQ4jt/qaIDxQr4xviUJKenudUIRLHHgcJs9p7H3fR66UNuMTcTwizdVDvz73hxSsiHEnV1wiCQJHPNFatFoZPxG/nn45D9SIxbKSkzb30PDy4+EmYnyb67wG7e7U4YawxpFUp0QE8WWxolK4EHWXaUF0MskmAatU8wWH6Q6/7u0IOO2n57nQA0o9mgZBqrUufJRl+YBNR32Yt8VHcW8Y7OnuE+t5BvezYM4097qeSRXbsz1SgJInDQC1Vd+u47pJ2Csf3wWujfTE58T8qCP8+LX7Zxwen2csSNF+Wt+2S1d8GoFCx5y4CQexRnrzdc++12XFPAVgXzhJTtzF2B4rOkR/ryxWnNXX+4rLIndNJ+7np0xaernlHztNR6Rx88DfedbO4G1qD1xTgCbnGtcvYIPavV1Vtti3V6Kx6ln1tcy7WpYv1eLM8l+w==;cNppLGj7ZGLoArZSx4A3NA=="
 ---
 

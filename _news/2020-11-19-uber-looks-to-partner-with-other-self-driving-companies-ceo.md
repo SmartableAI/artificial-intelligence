@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541676648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1NQ"
         width: 818
         height: 545
+        isCached: true
+  - title: "Uber Shops For Self-Driving Partners Or Even Selling Its Project"
+    excerpt: "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off."
+    publishedDateTime: 2020-11-19T22:37:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
     excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"

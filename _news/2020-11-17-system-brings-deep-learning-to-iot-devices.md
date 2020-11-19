@@ -25,22 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Missouri Researchers Use Machine Learning to Secure IoT"
-    excerpt: "(TNS) — The answer is machine learning, according to researchers at Missouri University of Science and Technology. Missouri S&T researchers want to ensure that Internet of Things (IoT)-collected data is accurate and usable, while still protecting the ..."
-    publishedDateTime: 2020-11-18T23:42:00Z
-    webUrl: "https://www.govtech.com/smart-cities/Missouri-Researchers-Use-Machine-Learning-to-Secure-IoT.html"
-    ampWebUrl: "https://www.govtech.com/smart-cities/Missouri-Researchers-Use-Machine-Learning-to-Secure-IoT.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/smart-cities/Missouri-Researchers-Use-Machine-Learning-to-Secure-IoT.html?AMP"
+  - title: "Arm expands access to endpoint AI for IoT devices"
+    excerpt: "The rise of smartphones and the growing presence of IoT devices share one undeniable similarity, the fact that the Arm ecosystem is the driving force behind both. The chip designer is in a unique position to drive innovation and adoption of IoT due to the fact that Arm technology touches 70 percent of the world's population as 180bn Arm-based chips have been shipped since the company was founded 30 years ago."
+    publishedDateTime: 2020-11-19T21:50:00Z
+    webUrl: "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
+    ampWebUrl: "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_663359065.jpg"
-        width: 891
-        height: 630
+      - url: "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg"
+        width: 600
+        height: 334
         isCached: true
+  - title: "Using AI to manage IoT sensor power"
+    excerpt: "Researchers aim to increase the lifespan of sensors and IoT devices by using AI and energy-harvesting technology."
+    publishedDateTime: 2020-11-16T11:06:00Z
+    webUrl: "https://www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.html"
+    ampWebUrl: "https://www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.amp.html"
+    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.amp.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 57
+    images:
+      - url: "https://images.idgesg.net/images/article/2019/08/itil-tips-for-implementation_lightbulb_innovation_process_strategy_iot_by-ipopba-getty-100808462-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Introducing new Arm roadmap guarantee and other Arm IoT initiatives for accelerating endpoint AI"
+    excerpt: "Putting endpoint AI in everyone's hands It's expected that endpoint AI (IoT endpoint devices locally processing data into actionable insights) will accelerate the value generated from IoT and drive adoption."
+    publishedDateTime: 2020-11-19T11:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20201119/3660605.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
 
 secured: "UDop71/l7JYwIX7PfJb1/Uj9aONRSrw7MeNwdzgxD8r1zYTWHIaDPVU2Hog3lLkm4DOUGVBknTSmbuJ6XXN+gE4cyS8EAZOFtAdts1/9tVNTbprQvTn3l3ufiwfSoFBl720UAfIpd/jgN+6cb2O6oglXtv4ZgZ7PjwwSMLRHicNuPqxCIDtebfuWwpOhRAoNKRMuhoAze9gTm0q+r4EVsxv1Fn4jFjAubKAVXs22m8Fr1Twg8W3q2i8tOVE4mCYL478/qiIZ/I4L3yjR/MKqaQKL/HOCDhNlqOCruqnKc03rjLcM21cn7oWVLorDBJSFlregANEWIoBxRkS3LtItYK3mrejiXmNw19FAZg7DRuLhVtk/BsTuEbtayU//hATe+yvcEQZgmekyOeVPiVuC3jukwo6/ihO0k58Eqtfl1R0CXXt7HcHswnmANvG1fdAd5qQziaCPm2B63ZtPSOE+iY5yf1dsiq8+Jl5ywfuRbOgb7jyJBa+jMYrQuPzuUUEsJOU1ihpbIjnKPWFLM0exzw==;Zsq5imnDJWygdRUWk2KPnQ=="
 ---

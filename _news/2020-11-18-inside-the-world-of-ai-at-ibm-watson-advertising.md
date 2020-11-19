@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/paultalbot/2020/11/17/inside-the-world-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultalbot/2020/11/17/inside-the-world-of-ai-at-ibm-watson-advertising/amp/"
 type: article
 quality: 104
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 840
     isCached: true
+
+related:
+  - title: "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world"
+    excerpt: "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy"
+    publishedDateTime: 2020-11-19T20:30:08Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 107
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/ServiceNow_1-990x448-2.jpg"
+        width: 990
+        height: 448
+        isCached: true
 
 secured: "TBipF026G2zaYXuKvYhbnYMOlfDjJaZ6guRzZNG+g+g/Du5E8ZJoT/yfp0cJj+r03rkhn6W9ZCn93A+WBsTgiEtWO0jMV5TwARELbQGZ8QK3RmrsZmqE1HjYpOGEZvwAQlkLstCfaTsMvG5sJYAmS/VQD4p/JJ/MaF6vYCKnXfDKWzv5DdyAComHks8zGzLguF4Ypi8KA18XjLNm1umxuGJavksoqPuLTtKcQzKiU6sCIaHSJGOXOiq6mU1djuJGfFWw1CbNO4gUF7wI//58g7S6kHHKhIHoPhNQTe7OrZ44JJs7u+7Ckb0awffeRJwh6Ie2wci0bH1NgRoGz+s+jqCvyq1AVQH5dIA9GzJ0EvxEdYjnDmeknDpqlHjyXgvBGAKueF4xoop+zG7hPn9aOjlUPwx80QYevVsqYXgXynu+hqe+Aq4n3NrNELoQQWsu9HLUfal2zyhaueB1tL6RK9kqYP89X7gaoAUFuwUmfFGUdvRKTbfH/upK8S1gycBxeSeYpAdAxXWbXCnauzS68w==;yS1c/x7M41TLK2wstHy3fw=="
 ---
