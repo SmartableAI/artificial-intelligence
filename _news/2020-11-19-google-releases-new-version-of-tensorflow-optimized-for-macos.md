@@ -64,6 +64,20 @@ related:
         width: 1200
         height: 805
         isCached: true
+  - title: "TensorFlow Jobs in Bristol, RI"
+    excerpt: "Write code that digests video files and outputs object presence and duration times using Microsoft Azure -- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge we have live IoT data ..."
+    publishedDateTime: 2020-11-19T00:58:00Z
+    webUrl: "https://www.upwork.com/freelance-jobs/tensorflow-in-bristol-ri/"
+    type: article
+    provider:
+      name: Upwork
+      domain: upwork.com
+    quality: 58
+    images:
+      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EsG6Hp7X6+l6MBTP5iF4RA+yl5hnt0GxVn8cWhvbTRAdpMSg0vlLrp/QHkxmewEfk1sAmovhtOLFYeB7gs23cxLZBs+PQ+CtJbIdUYpBK4EtD1JbQa/R6O7stdI2W7m9Zuz2ynegHMpFPk//D4N4xuRfNEXeXdCC2S7dc2GxWOVU1cXpzvtoadk2Ix1X6+XdE9fcCPFs+879w7PMC2/D2ffE9K0Izqob06J1mK4Q5qaZoEQKWdobXULu+S51FfDq0ALkvH00lzB4DVs9+UgzPrJ/+hqR1tiQmgmPqg3oE36vWlmW8T4CgBpn9KRypS5OQr1Le/QAl3k2d+xnvvOxwujLnw/o/76Z0N5/qFf8ZkX++SAQENhsxRKlhYX029ZTMSbDkox4Czl4NZRBeV5zLX5NDQx+wZPlxfHSkoEDUXa6h+UOyfBIe+p7pPnzWtVCDXlDh+fsNDNTAhzOQwEPMRO+fpQkGAkpjbEKt7xIEFsIAdweS3yO88euu1xyRWpykYFW7zk62C2MLEl8hq+oGw==;E88pv61KKrrmpgINh/WvQA=="
 ---

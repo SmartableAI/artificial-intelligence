@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-01-juniper-research-future-digital-award-winners-announced-for-fintech-payments-2020.md",
+      "title": "Juniper Research: Future Digital Award Winners Announced for Fintech & Payments 2020",
+      "excerpt": "It is with great pleasure that Juniper Research announces the 2020 winners of the Future Digital Awards for Fintech & Payments. This category recognises the most impactful financial products and services operating across numerous areas,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20200930005729/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Fintech-Payments-2020",
+      "originalUrl": "https://www.businesswire.com/news/home/20200930005729/en/Juniper-Research-Future-Digital-Award-Winners-Announced-for-Fintech-Payments-2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20200930005729/en/601531/23/JR_Logo_Final_RGB_300px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-01-ai-in-fintech-market-precise-outlook-2020-ibm-corporation-intel-corporation-complyadvantagecom-narrative-science.md",
+      "title": "AI In Fintech Market Precise Outlook 2020- IBM Corporation, Intel Corporation, ComplyAdvantage.com, Narrative Science",
+      "excerpt": "Oct 01, 2020 (Market Insight Reports) -- The Global AI In Fintech Market Research Report 2020-2025 is a valuable source of insightful data for business strategists. It provides the industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-precise-outlook-2020--ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-10-01?mod=mw_quote_news",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-precise-outlook-2020--ibm-corporation-intel-corporation-complyadvantagecom-narrative-science-2020-10-01?mod=mw_quote_news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-09-30T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-01-will-ai-cross-the-proverbial-chasm-algorithmia-resolves-the-practical-pitfalls-of-machine-learning.md",
       "title": "Will AI cross the proverbial chasm? Algorithmia resolves the practical pitfalls of machine learning",
       "excerpt": "For example, Amazon has made a lot of progress with text translation technology as a service, he noted. But industry-specific, or vertical market machine learning, is something of a different story. One customer of Algorithmia, a large financial firm ...",

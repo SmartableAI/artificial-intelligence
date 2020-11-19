@@ -2,11 +2,11 @@
 category: news
 title: "AI startup Graphcore says most of the world won't train AI, just distill it"
 excerpt: "Also: AI chip startup Graphcore enters the system business claiming economics vastly better than Nvidia's Graphcore is known for building both custom chips to power AI, known as accelerators, and also full computer systems to house those chips, with ..."
-publishedDateTime: 2020-11-18T22:57:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+publishedDateTime: 2020-11-18T23:49:00Z
+originalUrl: "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+webUrl: "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
 type: article
 quality: 87
 heat: 87
@@ -30,6 +30,6 @@ images:
     height: 1875
     isCached: true
 
-secured: "TLWYf0dRhUf2EXm/zA7twx0w/T7CsqBAnYrYiHwtE/zYFy8plNyn8dB4oUQjchY+ru7fvriWVi3UgYDGSE4egsJZiRD9dzdHGY45UwP1pVwjfL85ItJzZSFSd2dF+xVKXE2Y2xOEWWZ3rUCwNFEmMBbc05nBvg9Zj+Bav+qWEMEUJrg+4nlrWjxzdyg0RPqerej73QJ4V6i8Z4aTN6qFoLdQ/3MUoQT07mCvPOXJc+O1oXPrtQWHw4CBWIT+R2kwEVsRdJlAaO99YfjWzIYbwgYv7Mc/ByDUgWrk2g/rWLMd/WBIoUdzhKZcnXrX/U72AmOkilHT7ksGLTkUvcX1xkelZ7dYKZMeMWnToS6SS/Y=;OQdmPcP1LLLDioWETqnsmQ=="
+secured: "YrWd2ouJgv42j2gY4PiRZ0DR2y1F32qb7QHFAGVLoOGrWF4jp2Y6vcQBFRTAi5sFKOIaZl4REiqnssIkzEUn0Kq24VkxCliVnH7KesJjkSYwU/DHaD/zWSA/UJ9JzccLzzSV03C04ME3+Zfe2cmAOfVK2yhG3STXN8wiljf4GO1ewsRVGl3XtTBr11Dn6hqWm3uHxj/4b9IxuFFSlcSQl5DozcIl2GHsZtQ/VpE3AkyFzjTOzaUiXsVZrQ/A/4h6NnVBf8NAvMPGuk0Z8ezh4AfDfUqFI/WgrVBrh33t/BpOSypIps5k3Cps4B4rFgPiGQIg7urhYfhxZIDEdagHACYCPRLv9MAhc2U9N6+Gg0o=;jVVb6kB8w0Y6YYVjRe1Iuw=="
 ---
 

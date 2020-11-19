@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -30,40 +30,6 @@ images:
     width: 2404
     height: 1320
     isCached: true
-
-related:
-  - title: "World's biggest computing chip is '10,000 times faster' than a GPU, maker claims"
-    excerpt: "The CS-1, which is based on Cerebras’ WSE processor – the world’s largest computer chip, can now claim to be the “fastest AI computer in existence.” According to Cerebras and the Department of Energy’s National Energy Technology Laboratory (NETL),"
-    publishedDateTime: 2020-11-18T22:00:00Z
-    webUrl: "https://www.techradar.com/au/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
-    ampWebUrl: "https://www.techradar.com/au/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 114
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/yky93teYjYQmAYjmkSH3EG-1200-80.jpg"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Cerebras’ wafer-size chip is 10,000 times faster than a GPU"
-    excerpt: "“It also shows that wafer scale technology has applications beyond AI.” Above: The Cerebras WSE has 1.2 trillion transistors compared to Nvidia’s largest GPU, the A100 at 54.2 billion transistor"
-    publishedDateTime: 2020-11-17T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/cerebras-8.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "vGWzG5hVAHNYmlKnyxiNUVSIcP/2pM0z1K3RikB0VRlX4KFSi/DD7PTknTk0QTj9x61GsLr0jnlxmjnF0xcXoyjQcjpopnJinCGlCkfLIN+BL/uvZj01sK3/NDyo8NbzPQXsdI+A3GXik02zy3lJ9Ry/6uwPiELciJnEUkfgQ5uGRvzYMGV/V8RglBtRg3jYqAKDCdETnsaaRmyfeV9E0TutVMVuxCuzWoTXNRS9vUZmuVO7EvXJMQXBPRxxLZZOJfoYceMUoGNJeJ4fxd9QtOy61pbQJ0K6aJ3CNm5L8rlcYW4s/2/Q507GKH8nCOFJiyA77YUKlL0i609vu3ziRZuyf5HrBMnRuXWZWYsrxyFFAjppewMXUTvNpNJhEQdCt+DcWjGdODmSn3ufKHKKVz9j2z2JjnwWB9+XCJg7F0BWSyK7tpeMWdvqhrz595+tDICUcQPcddlIqZZ27YIJTeJIh1fZDPzFXDzHTmbaaoxZ6sKPrXd2pnsEI3eJDZNjrxd/1r+1ALbbeBrW38egFg==;9hi5bVONvM1/gU+BYmyXcQ=="
 ---

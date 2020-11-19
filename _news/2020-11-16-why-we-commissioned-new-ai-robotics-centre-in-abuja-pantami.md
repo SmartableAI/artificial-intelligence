@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robot
 cdnAmpWebUrl: "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Pantami commissions centre for Artificial Intelligence, Robotics"
-    excerpt: "Benjamin Babine, Abuja The Minister of Communications and Digital Economy, Dr. Isa Pantami has on Friday inaugurated the Centre"
-    publishedDateTime: 2020-11-14T08:13:00Z
-    webUrl: "https://www.sunnewsonline.com/pantami-commissions-centre-for-artificial-intelligence-robotics/"
-    type: article
-    provider:
-      name: The Sun
-      domain: sunnewsonline.com
-    quality: 49
   - title: "Aarhus University links brain research and artificial intelligence in new centre"
     excerpt: "IBrain, a new cross-disciplinary centre at Aarhus University, aims at developing new brain interfacing technologies enabled by novel AI hardware. The centre - the first of its kind in Denmark - brings together world-leading neuroscience research from Aarhus University and the Danish Neuroscience Centre at Aarhus University Hospital with the goal of better understanding and treating neurological diseases,"
     publishedDateTime: 2020-11-16T16:01:00Z

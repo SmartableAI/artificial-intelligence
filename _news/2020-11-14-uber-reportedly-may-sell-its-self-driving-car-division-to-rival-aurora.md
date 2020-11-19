@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/14/21565017/uber-repor
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving"
 type: article
 quality: 74
-heat: 214
+heat: 224
 published: true
 
 provider:
@@ -221,6 +221,20 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 22
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that ..."
+    publishedDateTime: 2020-11-19T00:28:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
+        width: 480
+        height: 360
+        isCached: true
   - title: "Report: Uber looking to sell beleaguered self-driving business"
     excerpt: "Ride-hailing giant Uber may be looking to wash its hands of its troubled self-driving business as it is in talks to sell the business to Aurora Innovation, an autonomous driving startup. According to a report from TechCrunch,"
     publishedDateTime: 2020-11-17T13:15:00Z

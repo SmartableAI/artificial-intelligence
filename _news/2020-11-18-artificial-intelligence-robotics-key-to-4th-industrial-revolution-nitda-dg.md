@@ -9,7 +9,7 @@ ampWebUrl: "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-
 cdnAmpWebUrl: "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-%e2%80%95-nitda-dg/amp/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 450
     height: 350
     isCached: true
+
+related:
+  - title: "How artificial intelligence will empower fourth industrial revolution – Nigerian govt"
+    excerpt: "The Director General of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has said that the emerging"
+    publishedDateTime: 2020-11-17T19:44:00Z
+    webUrl: "https://dailypost.ng/2020/11/17/how-artificial-intelligence-will-empower-fourth-industrial-revolution-nigerian-govt/"
+    ampWebUrl: "https://dailypost.ng/2020/11/17/how-artificial-intelligence-will-empower-fourth-industrial-revolution-nigerian-govt/"
+    cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/17/how-artificial-intelligence-will-empower-fourth-industrial-revolution-nigerian-govt/"
+    type: article
+    provider:
+      name: Daily Post Nigeria
+      domain: dailypost.ng
+    quality: 52
+    images:
+      - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "f9CLEzXxqUGvKLpHfsl2q/38XtVYsuNjnBdCDSdIANz16R+GulxShDutaTeZkWn1mEkSfjcoH8VUApriLeVIFzcggcTRw8YrgAnriIlTbSMM6MxY8Te1jOMhYp3M1f3QHg/Fr3dXiQtjxt4252UWlaGIJk6RS7bLxkkGgPn+wc6kAzIlwVAZZQfLqHBHcigOYcqa/jw4cSx2runO1oQB0vpH0l3k4nd8zvxPzIq1Np3veWQ7MIB8A8lasushOtvylcQEegClyf0n7fVcHXPcBy5PNsej4CijIFP43+YWDMZ3hzXE0diYTrDxGmZBban5Vzf70PHcMQmfboyi4llREZPOiVLyDmcz6FO/sO/NUkOFCYscEs0mi5c3G8QnM+B/zlZoSjCNNVxJu8t5m8bs0oqJV0p46P1IjaSxcEcF7ZspLfLKlA+HL4T9akHGVofGG6m4uEV6C3ULVPWeEiCxR5c1kjVgqm/wvxBwbjP6N+QwulQG9NHVvxJCqFCT4nWHXnLf4pBIXxYB+B+jhlsQYA==;ccvjiS3BagXoZgbrvmOoEA=="
 ---

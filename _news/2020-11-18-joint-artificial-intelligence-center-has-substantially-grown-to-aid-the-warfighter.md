@@ -3,8 +3,8 @@ category: news
 title: "Joint Artificial Intelligence Center Has Substantially Grown To Aid The Warfighter"
 excerpt: "Two years ago the Joint Artificial Intelligence Center was created to grab the transformative potential of artificial intelligence technology for the benefit of America's national security, and it has"
 publishedDateTime: 2020-11-18T13:56:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/"
+originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/source/GovDelivery/"
+webUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/source/GovDelivery/"
 type: article
 quality: 46
 heat: 46
@@ -23,6 +23,6 @@ images:
     height: 854
     isCached: true
 
-secured: "xmuPndSz8KTy0d2w91lygef55uHZyeYvzGK1Zti1tiV6LQ0d3HdRmvSF9+RCBohXm1kTBgT4Xsu0VfQvjNQHewIQoPAfCYDF2VcrRuy2VpiX63JU0pdONbSXFit6ilqBuURQOiyyAPWjQ+sq+/UU+UvfAYRWYuX5bqamDXqTaRuCvayQvqb/Oh/cGtN3D2c/s7h6urUI/oSoPzVV+C8skVRIzIlGJ5hborLQk5lu3Zqmc/OhWuBw5ocqE6LdIUlgxw9V/2brO5kkY3cyXsW+g4GoQaovXMhhzlg7u+aiZhkn9gAcT4Gjd+3iWPU6lRNl7GLAPkeSb8lXs6C9yRY9KgBFTsEjSQrzfleOx+0ybQk=;AXi1ySa/TRVxM4RdZDaizQ=="
+secured: "7FPxejcHmQCOjeG3XschRIWhdGI4i8bYvka+4AW8arl9zqcQbYZH7xQ9rF9cvjtEJkPbYQ5hQbVf4DMdIArpouzhbj3EB6BwnbzmC0rx9/w9YJw096DP2LQWD3hLCZGXz07YX21pWE6SC0qUNDLEXGkUd37eNtUWR/Lblxgg3vt7ms8/0N/QA8tqe1EuRT/A9x6ZN9gow1Re6vaVVUZy0iQ+6rq/gVQhBaYe8yGB6tNDV4at+H0OIxjk3D09b1b0XB0eGczmwjEYN+05gUVOfUhN6Q8mpcLFx0bjNq6xWEkqrCRhW2pYRALyc47a2YmarIQnIh1EfgsVr36+zK5VSdyKfS6pKk/mPG9ocFnSHcA=;vIyc48u2yQxKWe7BYQwgeQ=="
 ---
 

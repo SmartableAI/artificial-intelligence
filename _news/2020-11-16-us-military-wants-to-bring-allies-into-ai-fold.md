@@ -39,20 +39,6 @@ related:
         width: 1000
         height: 600
         isCached: true
-  - title: "System Brings Deep Learning to IoT Devices"
-    excerpt: "Deep learning is everywhere. This branch of artificial intelligence curates your social media and serves your Google search results. Soon, deep learning could also check your vitals or set your thermostat."
-    publishedDateTime: 2020-11-17T00:00:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21203329/system-brings-deep-learning-to-internet-of-things-devices"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/11/16x9/iStock_618455446.5fb3e91170047.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "IPRhERXUqBgPQRKwwY1mrp9jPUI1sk+AnN4oIFmwupnSAU3z77GnaTOP28q7XhNR5RuzxYc409/EEOPOeJY4pT5rlw7W1bhb2iM9JbprNQzw29Woj6WtUQis9YfYyXEoMimeQYReUL1+r782z31ALlczp3t1jQd21/o4Q7hzgm6/h6fxNHkzjqUTodilrgBbmOdRp/CLg92/z22IsVeFgpmvTnTrfKhsuJJwVXWgHwniJ9PH14G2yhnwrirm6Ua/w8N+T1jlFEN5uH7ekxrQIGRKyL6lOC5j/wIXwrhJupEBYHRb6f1OkXtvQmePHxLaDgjAwcLjTl+ZMCUtrHymV5UnWv1VWQnV2g97UiOFY3Ldb+r9dPfTbw/L5+vx30/cMhLRxQcozWPghxIk00okQjHc58tkvDQlEQcjlmC3UuwawgXtqct9aG4ING+1l3zv8Jd8nP3Fqj/WgtAd3eplqLsJ4wsfm10vSGy9kvK/puMKcqOcAWRFLE5GXdN/G7F7WauVXq8PTwfxe3UzcjdrwQ==;pcvkbUewipYMcT0UgbLmkQ=="
 ---

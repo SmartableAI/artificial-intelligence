@@ -9,7 +9,7 @@ ampWebUrl: "https://en.antaranews.com/amp/news/161784/senseforthai-named-a-gartn
 cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/161784/senseforthai-named-a-gartner-cool-vendor"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
 
 related:
   - title: "Ping An Bank Wins Gartner Innovation Award for Financial Services"
+    excerpt: "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... scene models and machine learning models to achieve the full process of closed-loop ..."
+    publishedDateTime: 2020-11-18T23:44:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+  - title: "Ping An Bank Wins Gartner Innovation Award for Financial Services"
     excerpt: "Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEX: 02318; SSE: 601318) announced that Ping An Bank received the “Eye On Innovation Award for Financial Services 2020” from research and advisory company Gartner."
     publishedDateTime: 2020-11-17T08:26:00Z
     webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-greater-china-369556a4e21e67b6643c0e034c84db35"
@@ -39,6 +50,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Senseforth.ai Named a Gartner Cool Vendor"
+    excerpt: "has been named a Cool Vendor in Conversational AI Platforms 2020 by Gartner. The “Cool Vendor” status denotes a startup that provides innovative, impactful, and intriguing solutions/products to empower users and fuel business growth. Senseforth.ai has ..."
+    publishedDateTime: 2020-11-19T00:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201118005393/en/Senseforth.ai-Named-a-Gartner-Cool-Vendor"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 37
+    images:
+      - url: "https://mms.businesswire.com/media/20201118005393/en/771081/23/Senseforthlogo.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "4ujNqYNChcTcN5ibn7QiZUdRawuSyTB5ejyhJ2YVbdNq8zotvymS/uShKOXz3iEJcba7KF6RfrhM1lkBkK5OvP0TJoGSbYv1PTAorpT9m2VyFqUHAFrXgvUD2L+gYilDsBnmNFke9X2cGVjsQthOqGAKdbUuly0WJfjFFCjNswM9ftVh93Ni2s/vat2CcVMQvOIp8YLqOqlKTtRSirEGTn1H21DYaExu13fswFJxgpJtGDjtjJ5szOpmcHbLr+lg1NDRWBQW2jGtj/iDUnce/aM8/hM3CWfcCawrursoZ+/zSH4o/HYP4M0fxW3PUX42x31Wb1jcjCutklFqwnqyLqYTHXJHktCGWTzEcihT67U=;hPMVdtT6vU6l1mora6ZaUA=="

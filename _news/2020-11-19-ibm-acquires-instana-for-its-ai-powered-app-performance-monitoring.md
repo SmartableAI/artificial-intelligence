@@ -101,9 +101,9 @@ related:
       domain: nasdaq.com
     quality: 54
   - title: "IBM to Buy Software Company Instana"
-    excerpt: "The deal comes days after IBM announced it was buying the IT services and consulting partner TruQua Enterprises. It also recently acquired WDG Automation."
-    publishedDateTime: 2020-11-18T18:07:00Z
-    webUrl: "https://www.cfo.com/ma/2020/11/ibm-to-buy-software-company-instana/"
+    excerpt: "IBM said once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps. The deal comes days ... while focusing on its cloud platform and AI. “IBM is essentially getting rid of a shrinking, low ..."
+    publishedDateTime: 2020-11-19T00:02:00Z
+    webUrl: "https://www.cfo.com/the-cloud/2020/11/ibm-to-buy-software-company-instana/"
     type: article
     provider:
       name: CFO
@@ -115,6 +115,6 @@ related:
         height: 683
         isCached: true
 
-secured: "KZXSTguIyQ0HzQf4/wUowsq23w68OHCI3ixemJUt2GhxuCniD22TvEcrpLM2osNk5APX5TuaB9PDnYHT1j9WVV1KKXgEOaVjLfWYS3efFTvpzDL6e0D8/n6SeMMpBMnMUPQyUibLVnYfZqVZL6EMjxNOufN2r/ZtaCAEWNW7pVrJDH94fGX9F1m7UtsmHUatTnRo9BAQWikUDPhD29n+GtejyKCbPcSymuPld5CJvVCR8vefxZqJJM4kl/yhEiHUyKc9oTvwMbIYxmmqp+sLENDiazANB1mZsSstDGfaMmK5zr55M+qhfmYRBsjZwsiWAQbMXUNhQProl+vz/DGW6Z1dpdru3F25+lmR0a0RdRI=;yAJxw2EpAA9K/szAAVmBbg=="
+secured: "mGdY97CWfQc8STt6L+3m9iy+ccykBFiEm66c14mlYRz6cDu5tETXPpgMucutBXpPROPvqCoQrxOdR+riLoDxNFF/Gdl+Z7goHHef9JuafPk7xaRYThy9C4CUNbxraESbYJQOkn/ZYjDxASybq14MX47upJIOLBRpUhlZ2HY2V9oAE2/zYSfHvXLZygmvxdnplm5sNxuVJKKwgY4UrzfZYzJ72Yvi8VzUaJ+VKeS5KOcPpwWuuPKypSW6ZuYhUs1lv8hs2lmsUK3kniFkncF6y+HPrydzSg55m6Wx9/H6DJbT9LU+2oIsWoUGodjZ/B8zW9+5muZVzNStiAz4ULo/Wy8T17zK0iZs5igTCYLLbImUdxeIQQ24oTVS9iz19p/OgQSL+mxMcxkGGWugE3ylnjd423gpjvpfRW4lk8ugXT9h8VHDLbFszQNGVu6zGrcPMwCAHUGdwf1tgXBpKY3TB5d226qkrC8n7cTRbRAYZtvrHTB+bhUGkTu6ihxJJA6G5gzd1ZCIUFLoKTmmjHNrgg==;eommgMSVIecx61nyHy3UWg=="
 ---
 

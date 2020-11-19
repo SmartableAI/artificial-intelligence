@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-su
 webUrl: "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How artificial intelligence is delivering results in healthcare"
+    excerpt: "GUEST OPINION by Priyanka Roy, product consultant, ManageEngine:  Growing populations, cybersecurity concerns, staffing shortages and rising healthcare costs have been putting pressure on healthcare systems around the world."
+    publishedDateTime: 2020-11-18T23:41:00Z
+    webUrl: "https://www.itwire.com/guest-articles/guest-opinion/how-artificial-intelligence-is-delivering-results-in-healthcare.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/65099bb106d663801f65a65f8fd7228d_M.jpg"
+        width: 375
+        height: 568
+        isCached: true
 
 secured: "HPGKRwdGzEX9DYK/k46au1OiqBSsZsVO7bnNgAWaliUBDvithO3Vo3rYg1E0QAoqNq1Id+IDMUANinM9gPdx+Hppo+rOCO4dBCyDotxZ1bgKGQcCLYvlCW+T6Y2DBIDTZjFaGQ20+pwT6B+7kK38/yleKnewD3fwBsesfV84GUw+e9WSFZfrzHpLkNGrgbrFVz1lOjrkq8Zt8rO59ivlWUiNOhakK3XM/Gn31hXOB+Jh4JFoGqFTebgyejaF71f8lz5BnYSDJUrFzaBo2OlV+r87D61jus13ObHQu3XuWfggrSOiaSDp0tc70vZzFuAVNVtW+Rir6uQRuSXPoFTG2ImyqLVWhao02Q+/o2/8roaMQzxaBVJ6XGRMp3tmMTCVO9K5tw+xE6jtbNKdTtmyQzJMaoGqU0RLK8K7miMoGaErpISaR4mBnE/CUzxZbxfyTKpxVTRq2b5AVgBIyWxuWVkgBgUrfSp/5yzipGm7zpyyYcCyG/n0lmTtnEUpEe3BDs8EqpYzEINAhn1CyvhqfQ==;p4IKzJP/Ypb3BDaNGcMMAw=="
 ---

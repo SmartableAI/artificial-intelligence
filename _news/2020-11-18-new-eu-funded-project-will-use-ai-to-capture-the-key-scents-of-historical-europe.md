@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/"
 type: article
 quality: 82
-heat: 93
+heat: 92
 published: true
 
 provider:

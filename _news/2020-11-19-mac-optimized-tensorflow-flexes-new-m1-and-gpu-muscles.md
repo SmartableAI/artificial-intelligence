@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-ne
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/"
 type: article
 quality: 123
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/04/TensorFlow-logo-Google.jpg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "TensorFlow Jobs in Bristol, RI"
+    excerpt: "Write code that digests video files and outputs object presence and duration times using Microsoft Azure -- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge we have live IoT data ..."
+    publishedDateTime: 2020-11-19T00:58:00Z
+    webUrl: "https://www.upwork.com/freelance-jobs/tensorflow-in-bristol-ri/"
+    type: article
+    provider:
+      name: Upwork
+      domain: upwork.com
+    quality: 58
+    images:
+      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "f10mfbf5r4AWza1j1hEM0gzRES9ir2zVxalhEivNANoNuvv3mUUPV6M8oHpTpY4AkYlp+PGTaWAp+7ZXsIykFgcicyxXuAOFR6tcUDy7KF6ONIQhdjfU2RsXLPTTGlGYzlnyiXKXjybL66/KN1jNQw1fgmymYuw+GHUM0kyqJJJAyxrWGyfhAlW7Zg4PPtKmLHr/GXU2t+XyRcwgG84CKl6zIc3Ak52fDYHj6b0TpKyQlsckQZ+nEnGO1Xl7n/xPfvqxQ5t7UkDs0UrMV77ntW/dPJR5p6zlV175e71AH2EsdHEJtvDAR1jbufkeLzJmps3cfw7pMtB+M40TnUv6FTlE7tSnCTUxTFpeKUF2T+k=;MTcOhjr+qiRVpPs1/g4tGQ=="
