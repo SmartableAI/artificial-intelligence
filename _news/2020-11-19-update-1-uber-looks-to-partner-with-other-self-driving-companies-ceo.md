@@ -116,6 +116,15 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
+  - title: "Uber's self-driving vehicle unit is seeking partners, says CEO Khosrowshahi"
+    excerpt: "CEO Dara Knosrowshahi says the company's autonomous vehicle unit wants to partner with other companies in the space.Khosrowshahi, speaking at the RBC Capital Markets conference, was responding to a question about reports the company wanted to sell the Advanced Group."
+    publishedDateTime: 2020-11-19T00:03:00Z
+    webUrl: "https://seekingalpha.com/news/3637616-ubers-self-driving-vehicle-unit-is-seeking-partners-says-ceo-khosrowshahi"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 2
 
 secured: "M2qfuxlnjQ91J94GuS4t/PMihsLFmCNYqRScyhYYBjEJFmMjp8ypLRS1/Buo0tjfyak+R8anjxZJsfEmwKuarRFHQCvsRLHtpFfZuI2qUwCdsgqRjwinFqmozTRCrAN2lt2RZxMV4bN6Uc9jIxP3fOi1ii4z7SvQE+i7Xv052X7YWAOZAc8bQQRsBcTNeQ+DsJbgyoTWZwp6ilHqI3C981AqaqwyEOYqzZf6h92rtwui6fOgzIScX7VSVM9VG7Cqv7G5EEvKhbWvFE3uWVp6o9PN8BAqitYbISXoGmkuIOCKe1DQ9Sj6yZpZjIRMa0BmoulYzR6a1X1E3YUZQ0ZiUvDPqUinQuL/KIrvMhPtmpI=;rD7s/+2pMdROUEILbucnXQ=="
 ---

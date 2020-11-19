@@ -2,11 +2,11 @@
 category: news
 title: "AI startup Graphcore says most of the world won't train AI, just distill it"
 excerpt: "Simon Knowles, chief technologist for Bristol, England-based AI computing startup Graphcore, on Wednesday told an audience of supercomputing professionals that the large mass of AI work in years to come will be done by people distilling large deep learning ..."
-publishedDateTime: 2020-11-18T23:49:00Z
-originalUrl: "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-webUrl: "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+publishedDateTime: 2020-11-19T03:14:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
 type: article
 quality: 85
 heat: -1
@@ -47,6 +47,6 @@ related:
         height: 1875
         isCached: true
 
-secured: "xZJTq+ZfzRHu9D7EXZ1DjfgONqJ+3NCZA0ATzbYf9NBme2FdbqS30fFFU2Da3pbejwq6wAujZYLLRMssdELn+nz+fqblC1FZ3GmYEM/prueguJGDdG2Vc4dvRCRhMIYM6Lj7JUivOoVUP9+WzXh4V4qSp/d9wPpXRR54osS7chjj+uyJIGX5kwybbdsh4m35jXeu+LfyjdPL7A/GP5dRX+6i3ngDRwTKWlNypfNmuijddAGBol0C/8PqKefthUhm3/9PFhH9rgzGn/H7uJiv+RAhxAWRvOLsE0kSaDyLCifKOUdQLyFWyDCBjBZ6jwL5RaVzxSWQoLVpIWpDOx8RCRg7HlqhqKs/i3aHFL4gpA8=;r89l3NiUbYT529CVi7AhNw=="
+secured: "csygST1iz2/ZVqp/njoVBzZUunvBiJICJextDk8CDBZXTo12OF0Gsxv8G3lY8FVHEYmxney3C6EbDgJZBJjl7SeKxyjZfVCVY0kcWsmCw0sbR70XFLYrXbSkEuY3uoKVIFDnIHCBqy/IMxLq36tpJ+2aBlGeJ4/FWXbhp7q33TudFWwj3R+4UHaP2aOOzPjW2eqxYwFqpCn48kJWFHB9BWB99acWLuO1nWF4F6lMuaIbGn1t38ZvD6HZ+0wZzqYpG4sKZFPivwlepquZpmOgditeG79+FTALh9vrASydXTKZlNw6bmq6wsZANaqlgrDnRkYDGY2I6Ab85w1VgSacAyZmi6tJ99G/1RaV6B//xdg=;zcA+LSEXQ3SOhv2lKjjGBg=="
 ---
 

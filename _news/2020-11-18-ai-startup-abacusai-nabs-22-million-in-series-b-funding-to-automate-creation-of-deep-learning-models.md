@@ -3,10 +3,10 @@ category: news
 title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
 excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
 publishedDateTime: 2020-11-18T11:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
 heat: 118
@@ -71,6 +71,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "xeQPJuOax3QJPUkWBARCP/aEDDh/7NDY2kUtyKCWjlQ98DtuBDZbtEETbyB6cihhsX4eGjxEyEy0GcOWNPcXj9YPZEAwiRgk9sMPhQniUG+iT9TZPPVbtIoX7YmfOLvo3IqVMOImdC2aNBTeY9iER/yhwzFnFgJtHHPnm75xtkcWuu4jkKrD0sOqP9FA1pyteePI+68IverxQUjUiD+JgMBm/l6/FMTJmTeOLTeoCblk5KRgunczEKnbIWg5RPXKWO4KbBLawmYIJWnLkwaBqwBTXBrUrL4wR5DJxvhvMpCl/mhB+AYuuI50Cyl+HJXjdk+NV4IIhfqtPXMHNkGy/DiW6OMhqLycvuaAY8L6xWs=;eRbO85kD7Y7Y7cCyvOTHTA=="
+secured: "nftn/EPtfvOA+6bK/ZViIJ9YUyUeyTl8v05NzYGupiZzpskKmCNHxe16XkkIjLnhHUb2gu3L4RZxgBFnLAPz7Imj1sHwEtglliVhv0ywYexpWcU7tgb3vlQamQrnvEE/FDMU/LecssQ+ATaelv8NNCpo1S6g26kAlP89SJ5TAbGH+88e/JKUPUNzfdNZYs5HSH3vxu3HFFMH1u4PtENte+hFsRqRGoHoIK50W9OkZMk4zxZMPup0+eqix/aiIkrBVHIkOSF3i8gx8JBw3IN5irbd6mBFikmyl3xm+bcw72FGXYVG3UEFd2n+bNXze4S0w2szVdVB1Ng7jpO1gnb3i4AjXZr7NnhinPKOzL406GU=;ZFN2FF9nKMi7c5q3v7f9Fw=="
 ---
 

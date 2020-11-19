@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Boba Tea and Advanced AI, Automation and Robotics"
-    excerpt: "A new start-up called Bobacino plans to deliver the boba tea experience through advanced AI, automation and robotics."
-    publishedDateTime: 2020-11-18T18:02:00Z
-    webUrl: "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics"
+  - title: "Major Advances In AI That Businesses Should Keep An Eye On"
+    excerpt: "The fast pace at which AI applications are being developed and mastered is leading to tectonic shifts in how business strategists plan for the future."
+    publishedDateTime: 2020-11-19T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/amp/"
     type: article
     provider:
-      name: World Tea News
-      domain: worldteanews.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://qtxasset.com/worldteanews/uploads/2020/11/Bobacino-3-1024x734.jpg"
-        width: 1024
-        height: 734
-        isCached: true
-  - title: "Next-Generation Industrial Robotic Capabilities Advanced by Artificial Intelligence"
-    excerpt: "As barriers between human activities and robotic capabilities diminish — moving beyond the fenced activities of last-generation industrial robots — new collaboration and workflow models are bringing humans and robots together in industry."
-    publishedDateTime: 2020-11-17T12:03:00Z
-    webUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-industrial-robotic-capabilities-advanced-by-artificial-intelligence/15914"
-    type: article
-    provider:
-      name: Robotics Tomorrow
-      domain: roboticstomorrow.com
-    quality: 48
-    images:
-      - url: "https://www.roboticstomorrow.com/images/articles/15914.jpg"
-        width: 720
-        height: 300
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a3d131056d8a67471899%2F0x0.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "KZLNsIG/Y5cuGKvo/6Td+sDnOHmtlFOalfNFQcVtkhhfmfsdSZRdQBrjH89F+qXTPLEtMxu3U0OAqJk22Fl9Hk1jECzPt5PN9mFZ6BmcZxksUvE68CxrwQ9HdjvpUWjevjMmI38s1cMQ+e4kGPxRyDrlrmuJH/TczvKV0RbwIp30VtZR1He2mapsuPnS/Vz/F117iJ1syQR4oDFSXgC1AbSxSPP1uJFLBheScy3tPO1bikOt/4bcZdY7HviLPaWoxUAC2+rfI3nFiTAyGSWW1uHlDnrXRYGI3yk/y+TDP44CqNl4qWDBb9KSnWvqf/zWTToZZ8nx9sKk4VttxFGZdIPtdeLemHe8kVLGwtP0goQ=;f9OMyjd1KmaKDct3qLTSkw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-
 cdnAmpWebUrl: "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-%e2%80%95-nitda-dg/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence, Robotics Key To Fourth Industrial Revolution – Abdullahi"
+    excerpt: "The director-general of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has identified emerging"
+    publishedDateTime: 2020-11-19T11:18:00Z
+    webUrl: "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/"
+    ampWebUrl: "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/"
+    cdnAmpWebUrl: "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/"
+    type: article
+    provider:
+      name: LEADERSHIP Newspaper
+      domain: leadership.ng
+    quality: 84
+    images:
+      - url: "https://leadership.ng/wp-content/uploads/2020/08/Kashifu-Inuwa-Abdullahi-NITDA.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "How artificial intelligence will empower fourth industrial revolution – Nigerian govt"
     excerpt: "The Director General of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has said that the emerging"
     publishedDateTime: 2020-11-17T19:44:00Z

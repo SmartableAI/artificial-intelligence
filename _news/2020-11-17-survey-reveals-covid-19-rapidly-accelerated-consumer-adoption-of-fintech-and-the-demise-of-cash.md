@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Impacts of COVID-19 on the Global Automatic Content Recognition Market Report Research Industry 2020"
+    excerpt: "Nov (MarketResearch.biz via Comtex) -- “The Impacts of COVID-19 on the Automatic Content Recognition Market Report Research Industry – 2020″"
+    publishedDateTime: 2020-11-19T12:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impacts-of-covid-19-on-the-global-automatic-content-recognition-market-report-research-industry-2020-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "eQyLI22OdkHAnasor5LHe5o1I9gSQQOung1rMCByfJ+1BhC+PKreS5KVR5fCaayh0GGZE2usKcFTrGlwTfB6ET+vCBVGqJptmn1J+79fFN1G2gozuigPsBEwIvCdvnKYauAQa5S4qfLxoXyPRXsHdNcv/imzGqEewh4oupbb5fv94Rqu1aS+Yh30PK6+8XWiNDRLwQLYsO/JdObai+QmbpM5ERdVsg5KWdoJ+mv2RKbuBQ+yoleysUVaJue+c/XNfMicXOZM/Qn6BwNxw8UugueHYeoDH8JpIeT3C0dkEu+Llda5MANk67O6/0IWjw3Ebn8kRoOeBbieWyWMeIpBuwXW19ebpJeP6+ZfZi/k0uc=;o01fEBHP3CnSBLCncX41gA=="
 ---

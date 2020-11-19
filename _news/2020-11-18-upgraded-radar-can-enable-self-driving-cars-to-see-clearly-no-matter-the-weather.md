@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-w
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Where are self-driving cars? Here's why they're farther down the road"
-    excerpt: "Autonomous vehicles are, alas, still in the future. Here's why you can’t buy a self-driving car today and a place you’re likely to find them first."
-    publishedDateTime: 2020-11-14T20:30:00Z
-    webUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
-    ampWebUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
-    cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
-    type: article
-    provider:
-      name: Arizona Daily Star
-      domain: tucson.com
-    quality: 44
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/c9/1c98e1ac-23d8-5de6-932a-eb2f1df3be72/5fab0ac24a948.image.jpg?resize=1024%2C630"
-        width: 1024
-        height: 630
-        isCached: true
   - title: "New radar helps self-driving cars navigate safely in bad weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T12:31:00Z

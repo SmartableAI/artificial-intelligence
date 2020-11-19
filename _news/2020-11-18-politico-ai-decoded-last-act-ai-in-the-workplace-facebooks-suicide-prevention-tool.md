@@ -60,6 +60,20 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Facebook & Its Tumultuous Relationship With AI-Based Content Moderation"
+    excerpt: "We track down some of the major efforts of Facebook for AI based moderation in the past and how it has fared in tackling the issue."
+    publishedDateTime: 2020-11-19T11:32:00Z
+    webUrl: "https://analyticsindiamag.com/facebook-its-tumultuous-relationship-with-ai-based-content-moderation/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Facebook_AIM.jpg"
+        width: 1600
+        height: 1200
+        isCached: true
 
 secured: "rZ+SOKOaHCgtd5ncZI41voTTcd6OtSokaBV9BCBcPs10tVWoxO3f7gZ0cVoOnEmOuCUYHStZFWBq0xHP+mFVbPwL4OwA6wQ2kNdEXfrPCIaeKBwXua2d+52V8EmRl3Biofz7Z8bimQR/oQ0TNcOpj9fLYqmMi/+Rtz+VcM5GHXe10XykDWeZBkNwIby9wYp81HLiXMz9Y+Osc6tvl+uIJ25erVnRLIshyXZWiDD7KUGjMQ5PahKXMLv7nVmTcTRKYFyqBkhA+INKGfvCjUQifIS8vEdHuA0xlJyYg4vUo1klIYndn+YsMIAqT5zoXG+bFpUP7dsMcKPFe/GFH7LdXuXPRCOD1N9tAS7/QCxgSmrrVcQahEmINQpJdSoGh3POMmfhgQ47Al43oVIRJ3DRadmu+3pH2G5ZpKrDYOcL1YnQNmC2pPSjR/wQ0vX55i6z8enE21MuRmNM9XAR1ZYYFE1kBdl10T/MZfwPEhT4vjkgiwia9a9prbX7ClYWROYV6jzOjZ42DNXuf23X+/hSgA==;xvr4p2eu/XWsww4GXDFvkw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Nigeria gets Artificial Intelligence, Robotics Centre"
 excerpt: "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics."
 publishedDateTime: 2020-11-13T15:09:00Z
-originalUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
-webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post"
+originalUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
+webUrl: "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 720
     isCached: true
 
-secured: "mgQqRohR5r7hWmu7K6zpAuTpB+/WzpPf9LCtkAdWrOOmDtRYse70Jh1xOOFojztfA/QqV15p50bJT720phOglhGEuX+IbQJfNRes7mcg7NnEosZle2uLgmzNHAhfp0XWGwFz4EVtPOe7RFaxCQhj10mEII4b2X8tCtNOEKroTY+n2KQ40zrCYw9faePMwN3K8qnvMinVAtXzsxFfbDgabNr7nE2J41bowbwgsbXOUjPvydHzMeYuG703GtDTCXt5IEPBDy2+LyqrPyseeSBUVt5UtR7o/Uw/EU/PM/0Yp7XawMxeEfxx5B8JppbgppdXz1pfmrI2XHt/jQE0DJJefmp2jEc78Ff+hkjL9QO3Id0=;GpTMk51HrDNgkPOGMFXMDA=="
+secured: "dkV/ZUjz2CxVeBNiMqgd1pRJAYcYcO7c7ASBRn4UC63aAgS9L4eAtAQHubexoUmT19oqLEedoMAxdssDtWmrjfIwojf/qF7eGwoodESoNOCVbe92HoE7TYGZAaDEWMNaNLba4SNgG8CukFIXGXEWorPAy5S9CjzYueZyzpjSObviMmHv7sM63KNTSctEgWr00BifFdv6lFKpIKl2bro1uG0kZNiaMRDJEf42fuAbLtmT+oTSEPgr7/GrmgL1oVaLc7nq95BNyYB5rcNop95MEzF1mGBh/kDSOkOPT+BzXI+wrN52Xu5uxLofAhRnETxfIbm1AfokKQ7Griz8uDjM7zjKodoIQ6ZuML2uWsWEJ9Q=;cvNwKBXBVrSL7mf7nQXXZw=="
 ---
 

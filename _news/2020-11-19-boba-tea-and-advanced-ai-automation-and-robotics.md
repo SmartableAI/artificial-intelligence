@@ -7,7 +7,7 @@ originalUrl: "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation
 webUrl: "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://www.roboticstomorrow.com/images/articles/15914.jpg"
         width: 720
         height: 300
-        isCached: true
-  - title: "Advanced AI to manage your home appliances soon"
-    excerpt: "Deep learning -- advanced Artificial Intelligence (AI) which is involved with heavy-duty tasks like ... networks to new -- and much smaller -- places, like the tiny computer chips in wearable medical devices, household appliances, and the 250 billion ..."
-    publishedDateTime: 2020-11-16T14:53:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/advanced-ai-to-manage-your-home-appliances-soon-170648"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1462618600.jpg"
-        width: 810
-        height: 431
         isCached: true
 
 secured: "INexylVt7yfCU4ar6F0/Weq4XvHBZcUp5nyna81EkZoZNS15+gtHTjixhtOy3tytd6t+gjQuOmPxgW8wUHNG8WCpOZYg+D7vCOdwB15hIqOoAdnVpUg36tyRiJf8Z0Meddvk/paKk1mCGsi9TqiYsqszXO8k+MhskbbaKmsM4ZERXNNv7NHMSBo/Xz3tRikqn6oMpr0qIykITduhtk4ONYosRj1ODiPifhwANW4S5SxRv+zNNriQOenm9sebDR6J+RTHfIruRkr5ZuLpewDf9Md+cMViz5DF04mL/Mz/ZXxrslF+ARo9/yLzeUsjnp9tqye8EzSvKuNbtRxpC9Nn91bLbLwrOU93IsJwWmDAOicpMWKG4ld7GW21nWTk8yuW283OCl7hD39BjKXRLDJpKp5pvznPvYAwbmTVn+f+Okofu60lH5M+XXwkHo3XO+W2Yux/akGkVr824mQ9MkAh3gz8h2hEZmlVG9XJvKPRdKNgTmKKnh9kKz5IhZSVBuUQz95r+FE5KgL8c/K4WqlutA==;dnPlbL0eawPk3OYDpVyLeQ=="

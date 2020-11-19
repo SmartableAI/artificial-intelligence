@@ -1,23 +1,31 @@
 ---
 category: news
-title: "Introducing New Arm Roadmap Guarantee and Other Arm IoT Initiatives for Accelerating Endpoint AI"
-excerpt: "As well as expanding Arm’s collaborations with partners like Microsoft to deliver a unified and streamlined AI experience for developers to deploy a common, integrated Azure-based toolchain targeting Arm-based silicon. While Arm continues to invest in ..."
-publishedDateTime: 2020-11-19T05:32:00Z
-originalUrl: "https://www.businesswireindia.com/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-for-accelerating-endpoint-ai-70447.html"
-webUrl: "https://www.businesswireindia.com/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-for-accelerating-endpoint-ai-70447.html"
+title: "Introducing new Arm roadmap guarantee and other Arm IoT initiatives for accelerating endpoint AI"
+excerpt: "While the Internet of Things (IoT) revolution may still be in its early days, there is already one undeniable similarity to the smartphone revolution - the Arm ecosystem is the"
+publishedDateTime: 2020-11-19T11:00:00Z
+originalUrl: "https://www.business-standard.com/content/press-releases-ani/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-for-accelerating-endpoint-ai-120111900634_1.html"
+webUrl: "https://www.business-standard.com/content/press-releases-ani/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-for-accelerating-endpoint-ai-120111900634_1.html"
+ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-for-accelerating-endpoint-ai-120111900634_1.html"
+cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-for-accelerating-endpoint-ai-120111900634_1.html"
 type: article
-quality: 6
-heat: 6
+quality: 46
+heat: 46
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: Business Standard
+  domain: business-standard.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "iA7cENCsu1I0fy19OhLhYoTGGs3Xt3NhYZuHKd5YyPryYJWgFr9i/cSrXbq3oB8ky2zGz3iSKd9D1ww1kxq9CjhDRBH2XTxYU3K/p9R6/t03b11uEepZuiB9oT1CIU4ldJPBYtYmraie2XTWpkWBxZZmyqbDfoLeWYpTQTwBw5Fx8VX+P8DWFw7bF4DtpaDmlcOW9TjMpQwUR9yEIZIB+90v5MNIHhKn0+xkHUwvadHaQClvjQp1oza7bn/RmXVGUOcc+52S36eRgT0YFUOIaEWBWUx4sl9D6DI7ExvP09Np+2PeeBuzFYlJg/KLfYWXfG1GkcSWyDR+zSAyW0VHg3fqUrjPYlMLijLUJp0hOcs=;U0SC87i6E1EVb/0//5MB9g=="
+images:
+  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2020-11/19/full/20201119134450.jpg"
+    width: 600
+    height: 450
+    isCached: true
+
+secured: "rfQgi0mproU81mcUAtV0PxUTbdNb1mhzGZ/oOplCy8agS6aRMoSiDXdyJ7YQ9y9KtsOo7WiKvAUmTNnjTIKLfUcySOCZ+MUgGInhB9F6d7sP9bpGxIcVAon667fqqm9BzrFSc5VA7Fskee1eIlHn0fssvB18cgXZDSJnjpIUYPk52ri4ucNXS5J15I1hqAwTbSwskCMJNs8OzkhBvC9VgGKmJ5Q535Bia4huBX4U/SNsItxjCRZKYyIlOZK7AWyHphxJqz1b/d5n/5zJIe4ivjCeJCYy58zE6Qio+NyPJQZEO0Q6VhbOtrAEMbxgr6IKK5pAvWtQCHKlYGr3EJWcqE7D4jQHBjFmXPH5R21pB/I=;joRpEMveUyb10/z2d1rocw=="
 ---
 
