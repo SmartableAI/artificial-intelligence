@@ -1,16 +1,16 @@
 ---
 category: news
 title: "AI startup Graphcore says most of the world won't train AI, just distill it"
-excerpt: "Simon Knowles, chief technologist for Bristol, England-based AI computing startup Graphcore, on Wednesday told an audience of supercomputing professionals that the large mass of AI work in years to come will be done by people distilling large deep learning ..."
-publishedDateTime: 2020-11-19T00:15:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+excerpt: "Also: AI chip startup Graphcore enters the system business claiming economics vastly better than Nvidia's Graphcore is known for building both custom chips to power AI, known as accelerators, and also full computer systems to house those chips, with ..."
+publishedDateTime: 2020-11-19T03:14:00Z
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
 type: article
-quality: 85
-heat: -1
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -47,6 +48,6 @@ related:
         height: 1875
         isCached: true
 
-secured: "V/txrS0yk1HPwjVU/IeixswXBjWvyw+vAYUJ+c84WDM+n0T/TjO9SVd+mhFZLFz9rot/atzfyfvpL3CNfkzaXeu2GHYxtiggMaTd7xBjkQCYwyfhcQhwAGwZDf5icCLl7cCcqAZn+DmF7ua9cPxpEDt1KE09Jt1jV+3Kb3RK26d8IHbEfMcTKyMQSAU0F+wHuSZ62LBDGXLy2ypLTQ3lABEsAmTxmdfHem/VOfBq182CX9H8iwUDlYywZUHoWEcgU+v4AgCIIYl9jhBNkJknM2p4vVlgCUJ34rwiGRxqYDncoJEXeqSuPB2uElC7xLkJpbGaP/pkupbiV/grbNaLZtEiMMXBjLPrTZAka8wSIqQ=;+NkBmpcee5k6VnsiC6Whuw=="
+secured: "jq34LLEtfvDCIXl96V93wpWaJNPdOVXsv5mV07f1KLHW7O0jt0dXI3zx4OFr/74DKbmR6oUIO2zuenvzUSsSRMUQB9cgKbQ0/TBM15fwzckf2FD6pBSZqCoZQo0NfpBYkmuFq1PxI0ZmXa6+I3bGL/XoX6Mj0QWiw3X10Ws8ctuinx4uxfG/OEkNCoaL5FHDrwccINTWNkJ5WOtre5+boH8E/VwJdeuhVWoTDhPR985wixzgkHKXffk9rrWsBNN3/kP33d/PMh3iEWhAV/Vsyme6vmfWFLXAUBJkcGHIrrk4O3Kpmbv+W/C+JsVPeGGxxW4Bu5h5wMxr/QGmZymYqV7N15Y+MT6+Ugj9gPJNUbk=;E/LnSw+Nx+KwydjBJUahxQ=="
 ---
 

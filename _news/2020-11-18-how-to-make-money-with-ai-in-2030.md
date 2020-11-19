@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "4 AI Trends Set To Accelerate In 2021"
+    excerpt: "This translates to greater democratization of AI that enterprise and software developers can apply to data and applications—which has been notable with cloud providers like AWS, Azure, Google, Oracle, and IBM all embedding and expanding their AI ..."
+    publishedDateTime: 2020-11-18T19:03:00Z
+    webUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/"
+    ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Women In AI To Watch"
     excerpt: "It comes as no surprise that women are woefully underrepresented in all STEM fields. Only a quarter of all STEM workers are female, and even fewer are in positions of leadership. Despite a slight increase in the amount of women in STEM in recent years,"
     publishedDateTime: 2020-11-17T19:01:00Z

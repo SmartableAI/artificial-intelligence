@@ -36,17 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-    excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
-    publishedDateTime: 2020-11-18T12:49:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Penguin Computing to bundle systems, services to juice AI, analytics, data, cloud workloads"
     excerpt: "The move by Penguin Computing highlights how many HPC vendors are targeting commercial adoption and workloads."
     publishedDateTime: 2020-11-16T05:00:00Z
@@ -72,7 +61,18 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
+    excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
+    publishedDateTime: 2020-11-18T11:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
 
-secured: "S3/9hNb4Otm05Vlr+33BBgEl+eAgQQZbC2PWSuKpMA0Id0cAkjoqQWLchqTSXGne/5R6NT4gS6T1kNIVk4Bf6us3XZyXxO/3GcrbIiav+q3RUL8+V0kt4tC9neTG4mNm0FM+appJ7lAwA3j9TWujHyOM4knx7n+C7DlMjnXTR++X+BJ2UEqvPKzYz1FqrZzPOccB98wToN/qLxa2MAXNwM7hZuKxWjqeuFD7tR0hyWkmR1C3XMdGxnphXxH/P6rd2KTRFvcjUOtTUHsK1ebiwbR/paiV0NEDI3MjMCbEdVoNcA4M3F4Ka3e/AZdu9T2Ayjqw0AYNDDkbbVu8HhRqF86Xs9KzIpbjVLzbwZKEOGs=;7Nb9a6K0OUCHm7YqGUt2Ng=="
+secured: "EjYkjrTq0g7yx1v5yIZM6U+h1KkF+qdP032U6NNdK0+k4/NZYoTES4qwvJ4z1F1vIxQL+aatck4uQ64l6+TtdQObUMF/V55zVX41kuU1Gk2FsKxRwQOmYlHw0e7jLLgWB4nqYFyPnfX69/gFt/zdPFZQ8o2uzQ2QAZFTba51KVWfiQcm4mhgzZduiyEtqdtNA03g09uJQxwJQlCVGlDMgExUJjWZYhBwxbo3/k+O+Wq+xx9uGRBcXnG57q9tPlUno0D8bQ/eI58DC74+/yEZi/jxs5DmT0E2uUCxda0H1vVUH2tCAiYEpT24YLmnz6TMfsl/CFuwPmS0T8tKzrXcwQXwUf9PqUtPTfXYPoalBo7CgcJTaTa8L0uzWoZOovFT+hLeMyTCmj+lXPGxafYl5PKzgFKRYSTrcjAqo01D0nkUK/i+TykNASckUajiNh3gXGk/i7DiyPlbNGtyzDr+3Dzwb94veswWaWvZPosFddtyJ9q4K8VrAjVA+Rm7QqsKqncubMfrmIqi+LlYsM2hMA==;SBxfDojeralJO5xsnQ5maA=="
 ---
 

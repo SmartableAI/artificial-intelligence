@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "EY India acquires IIT alumni backed AI startup Spotmentor Technologies"
-    excerpt: "EY India has acquired an artificial intelligence backed human resource technology startup Spotmentor Technologies. The company, however, did not disclose the financial transaction involved in the deal."
-    publishedDateTime: 2020-11-14T11:33:00Z
-    webUrl: "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html"
-    ampWebUrl: "https://m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html"
-    cdnAmpWebUrl: "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html"
-    type: article
-    provider:
-      name: Business Today
-      domain: businesstoday.in
-    quality: 57
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/india_startup_505_141120045507.jpg?size=1200:675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "EY India acquires AI-based startup Spotmentor Technologies"
     excerpt: "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, upskilling and reskilling talent at scale"
     publishedDateTime: 2020-11-16T09:16:00Z
