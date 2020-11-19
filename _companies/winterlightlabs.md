@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "winterlightlabs"
   url: "https://twitter.com/winterlightlabs"
-  followers: 790
+  followers: 791
 
 size: 2-10 employees
 yearFounded: 2015
