@@ -8,7 +8,7 @@ webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/arti
 ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
-quality: 80
+quality: 78
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
@@ -48,19 +47,16 @@ related:
         height: 563
         isCached: true
   - title: "Mythic launches industry-first AI analog matrix processor"
-    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced"
+    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,"
     publishedDateTime: 2020-11-19T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/mythic-launches-industry-first-ai-analog-matrix-processor-301176987.html"
+    webUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
   - title: "AI Startup Deep Vision Powers AI Innovation at the Edge"
     excerpt: "Deep Vision exits stealth mode and launches its ARA-1 inference processor to enable the creation of new world AI vision applications at the edge. The processors provide the optimal balance of compute,"
     publishedDateTime: 2020-11-16T13:30:00Z
@@ -104,6 +100,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "kj9QHw8HAoDJESNKxKybzmc4rAfSTmzK4truxgmI1vtssGtezoJN2YGoStVKw2sec8usUhcN7sM4ixUglHn0uJoAjXDlMg+GIa0HX/nQxvxsfwWYkoc6NdRqdKOUFBME8+eGqgJCeR/XetVoX2AYhA16ikU15J22CluLGAUtU5qYOD8DTWXNyyC8mnndfeun+2NtW6foGfcVWpN7k9VwAsDqgv6Qpl0Ha/WtiqAq80gfIM0sV2DwrO88FpQ7Z0K4GRj1vKinYfCHDJfyPrVhKhNrJ3nQeJxcxGwy7lNllNv5i5MidNTS58UBz3By1tU9onQvmbp3lZppy6cXPh0YUd+8uMzUfEX287eJM8eA/NQ=;4k/p3I89LculkMdamWi0Kw=="
+secured: "HKyIbWoGMkImGbyZyuaTGuJzUDg1gAaItCEzLRwl8bq0RZJPvRRHj1icFyFNjecuEKOk6CmyDyyZgncgYtT6WuxN8IE+V7y05TG46A8qWy94P/S/QXMmDp9PmjQqFfPgabYLquh7f4zCX9lZf/9u4kwG/gyiO0FwhTLKHHVN50ICc/XhDU3eCDDejI3qTXM0/I2Xnf97qY8dnagBG6DjAhTusRErVUAbE0bfrgtoddhxNvL1s6Jfls4jagBtWwhOwQXKVKbfHjFY3+dey1IiCOBBeKEx1Bv/NczHoDS75Gmh2Ix27bV3KDnE2tn23wqJnpDCevy9Atq0UrNdYtjjTf7Gwn/sfwdd56bLFQ/6z78=;TKl0cN5n/L10HiESmRWblQ=="
 ---
 

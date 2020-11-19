@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Mythic launches industry-first AI analog matrix processor"
-excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced"
+excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,"
 publishedDateTime: 2020-11-19T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/mythic-launches-industry-first-ai-analog-matrix-processor-301176987.html"
-webUrl: "https://www.prnewswire.com/news-releases/mythic-launches-industry-first-ai-analog-matrix-processor-301176987.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+webUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
 
 related:
   - title: "Deep Vision announces its low-latency AI processor for the edge"
@@ -51,7 +51,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 80
+    quality: 78
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
         width: 1200
@@ -100,6 +100,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "8TDxfoFy1WhNrvmERStLGqaarSvUtN89M2Uhog9N4OBD663BowlRe+1yRQgeCn8BXPNATFVnFIZ9jMYySfnyjCbPvFoqW9Md75HaMVqlXVuUpGf3TrRAw3DpZ6JIBUzcsrCk1JRnquCsFnpXQdQJX6FhE17uQ5SMMAEspn4QLHjqro/DLBiPwmUerM0Lf4kgqj9hyFDw4frmfmvvymSuQDp7Gg/aIxQPHHKj0r40o4FRsTp3NKg3+AfGrKaYayNBLL6QASnDEG/OlZ5D9TI58a0RC/vZmAsb17QIpiSkjevMBSZJFufW96wxN8gb3wtI/vodASkYA4VT28MG4sD9WwW1sPcNqGrI1RGG3x0Tb4I=;iO+2wLgBG+6qpAlrD+Ehvw=="
+secured: "luJIZTn8cvk3LxU5V/Fmk26O7gfbP07ylvvDWIde8e+2UvVs4kMS/a4q3WY8O+xYuMtQ4UnPUravlPPnNyCuJpLsLmCxm37bGp17vLYjBJpj5X2BVa0g95rQG7oO9nzZIIIfntMbz0T+q70b0baH27Snd/Ccu50/d2CiH9frcB+ulsYclP85GbrEMrPUrk9VPxNxGRZLsqWqvUJZvjhwPXacK97C8a9dJF5LE04V09GKIHjWhF0lia2xf30KytlGq1qK0ferlg1xqPLBsLHdwdRSgJ2cGrgFTtjErCzYjhRwLsIhp2kyx7hC/scJMiNfBMhHViYAF1eosImA63hs0a3Nyj2rYU9gsw+y7jJGucA=;xYPdwmdKCIqTKJT9ntOHYw=="
 ---
 

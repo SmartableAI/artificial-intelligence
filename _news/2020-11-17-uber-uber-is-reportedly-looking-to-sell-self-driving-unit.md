@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla to release new Full Self-Driving Beta update w/ ‘fundamental improvements,’ wider release could be coming soon"
+    excerpt: "CEO Elon Musk announced Tesla is set to release a new Full Self-Driving Beta update with “fundamental improvements” and new functionality and that a wider release could be coming soon. Last month, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
+    publishedDateTime: 2020-11-19T16:56:00Z
+    webUrl: "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/"
+    ampWebUrl: "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 66
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
+        width: 1851
+        height: 853
+        isCached: true
   - title: "JLR developing ‘smart city hub’ to test self-driving cars"
     excerpt: "Jaguar Land Rover is creating a ‘smart city hub’ which will allow real-world testing of self-driving vehicles. The Future Mobility Campus Ireland (FMCI), located across 7.45 miles of the Limerick-Shannon metropolitan area at Shannon Free Zone,"
     publishedDateTime: 2020-11-16T10:49:00Z

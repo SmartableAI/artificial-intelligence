@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       name: Robotics Tomorrow
       domain: roboticstomorrow.com
     quality: 33
+  - title: "Fintech Company Obligo Raises $15.5M in Series A to Roll Out New Standard for Deposit-Free Renting"
+    excerpt: "Fintech company Obligo today announced a $15.5 million Series A funding round from investors including 83North, 10D, Entrée Capital,"
+    publishedDateTime: 2020-11-18T12:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/fintech-company-obligo-raises-15-5m-in-series-a-to-roll-out-new-standard-for-deposit-free-renting-301175988.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 25
+    images:
+      - url: "https://mma.prnewswire.com/media/1337090/Obligo_Logo.jpg?p=facebook"
+        width: 1750
+        height: 918
+        isCached: true
 
 secured: "EIU67jK3P5INatGpvjtRr0J4kBP4/VRyfg2kuJehHgkkW9sA//smAkYKLb3UCFEWp2QQYPzIb9bJyy8kZ1dxyImltn0EkXj0v6Ust0rEYB+wskvwe03ell5WjEq0pwaSuG5XNMjvczo+CP7jZygBl/l9P8tsIU4frqbbQp3dltmdUs8Sm+vzqa05Qq2WL7RKSvXSUO2DXnNRayjNjFil1fpwLH7vLHCxe3tA1lI6x+QAOxPsQm+iZqsisq1lntXCD/5YKHHOWVcKSYB+sjV29v/LxtfDv/CYIOnmrp5qVKDKNQkeJVUG0gKwYE/D90PbGPy2/O7nmRR+xhQSl6hAwHJAG167h5yE7NiuxbUS2XgRyfVYhapt0llTbulkqe1CuSBBvWMfa3Fxp2u99GQD3vifZ3Q2BT4VynrrRxjHi7oKgt+erXXnjoZBVNlWsQ6kpCuPr+KBxvVtLiSKamxGvz2Uj0Qhjv6l5Gj0AHV1M37UI4pKs2xVOu6wfSdgISFqey0ukPOW10taiSc/E8QGEQ==;HeLQHE91v0OPVzZDSkPaOw=="
 ---

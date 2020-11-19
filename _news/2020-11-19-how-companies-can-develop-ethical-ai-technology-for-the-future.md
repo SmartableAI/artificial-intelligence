@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Viewpoint: The technologies powering the future of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) has been an industry buzzword for years, writes Richard Walsh, head of memory at Samsung Semiconductor Europe, but he consider"
+    publishedDateTime: 2020-11-19T16:39:00Z
+    webUrl: "https://www.electronicsweekly.com/news/viewpoint-technologies-powering-future-artificial-intelligence-2020-11/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 37
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/11/18125803/Richard-Walsh-head-of-memory-marketing-Samsung-Semiconductor-Europe.png"
+        width: 1937
+        height: 1036
+        isCached: true
 
-secured: "QEWXzSZQ/ih5VCzWp3PorC1uvzg7NyL8i2s7znHsZl3LZsV5v3IMJQEMSJaL4gCdsqhn56SoCMWST1lLiOR/BVtyFXPMJqLkFPMVdWpPbfWit//xigQjtfqDU6HnSy3HDx9NIWU7+MKVP7C7/mkvhPxTKBofKN6/OAwIqtphWLyv3gbOwHH+eVDXgOXmk629Ea1bOaYDUXjKtSwGG0sCLwQWw+6WIIJmlnM3/fyzvTWwyWuzp7Mo04yg3EJC79F6mFYB+a4rEedB65KbAVx0Pw9NqEQlqmmzBcOe3mdKUAKFJHRKpygtIahou7hLafmV1DKS1HyiF47kqEoBGfQjSha8Lov6XvSo2sELNN/6YFc=;dMWySaHF+RhAxPsmPK/2Dg=="
+secured: "re+hToot/VSY5r01+HiJ3p11rreRtkl1wOAEWewGqwlwG9nG/8tIx0kpIcqRVp00+uHbLuMOOzGRa1VkCExXU89jtXYHMPqRnTtr4gwim5IBVINu9oYqG/LLRgYpSz6ROxjeDYEwUylDlJzaiQiOEqSI26MBkp62f2IxAiZMNY3gTfXZWqWH3GXgsYoxLXZSgeXFzh6S2pv2PgmlWdHc/SnSBV2/zG4dOnczwuN7N1p95wHJgW1E5JIdfjJ/9E6P0iCt4loPzG8w4rcYq/GHiZsoMQMUAYdH5Cl9QHCVROo1D+UP2hqEtGj9EDegvYu55vLRVqkSnTzSH/voh6MmzYiHYvvtF5TyoRg/lWaBF1oqFnCMVtNELwqt/nulQahLK3paixzX/j4pF3ifxZLjZHjoxE31Yw6KCex2jj6JIB6Zt7MnBHKuDe9fe8WSAeS+Oxu/WYCga/QuF4dG4+faN7kg8ni4cAa4pH9pTpyU1iDsTv2dRV7WiUmvP0nbGnjQrLQ5FDkTNzKIxBwGeNT0mg==;jFBKUXylWX7KZYIVAMSQfQ=="
 ---
 

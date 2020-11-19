@@ -25,19 +25,19 @@ topics:
   - AI
 
 related:
-  - title: "Impacts of COVID-19 on the Global Automatic Content Recognition Market Report Research Industry 2020"
-    excerpt: "Nov (MarketResearch.biz via Comtex) -- “The Impacts of COVID-19 on the Automatic Content Recognition Market Report Research Industry – 2020″"
-    publishedDateTime: 2020-11-19T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impacts-of-covid-19-on-the-global-automatic-content-recognition-market-report-research-industry-2020-2020-11-19"
+  - title: "The Technology of COVID-19: Unprecedented Shifts in Healthcare Technology Adoption, Explored by IDTechEx"
+    excerpt: "Since its emergence at the end of 2019, the SARS-CoV-2 virus has had an unprecedented impact on people and economies the world over. At"
+    publishedDateTime: 2020-11-19T13:59:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex/article_bce5a344-4fd6-5856-b23f-dea1d32e03d4.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/2/b4/2b43beed-8589-50e5-8269-f45a74b449b7/5fb68d08cb7a9.image.jpg?resize=400%2C205"
+        width: 400
+        height: 205
         isCached: true
   - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
     excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"

@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Masters of Scale: CEO’s of Square, Logiq, Alibaba, and Spotify, Driving Global Growth in Fintech, E-Commerce, and Digital Entertainment"
-excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at: Spotify (NYSE: SPOT), Logiq, Inc. (OTC: LGIQ) Square (NYSE:SQ) and Alibaba (NYSE: BABA)."
-publishedDateTime: 2020-11-18T08:25:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8088461/masters-of-scale-ceos-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-commerce-and-digital-entertainment"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8088461/masters-of-scale-ceos-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-commerce-and-digital-entertainment"
+title: "Masters of Scale: CEO's of Square, Logiq, Alibaba, and Spotify, Driving Global Growth in Fintech, E-Commerce, and Digital Entertainment"
+excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights"
+publishedDateTime: 2020-11-18T09:25:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18428150/masters-of-scale-ceos-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-comme?itm_source=parsely-api"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18428150/masters-of-scale-ceos-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-comme?itm_source=parsely-api"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18428150"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18428150"
 type: article
-quality: 0
-heat: -1
+quality: 7
+heat: 7
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -31,6 +33,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "axbBhxxXcMywhlSVojZCf80J3wDVqRieY9MLV5ESVv550MzVsfXl6tHSY7duedXAaFRs3fLwQWq6juhDC787oF+4QWmXaWGjdld+DfdB5e/hJURzrVhuKl6aRoBargWaR+tM+9QhvZFt1GFFvqHU9ILN0/xCCaOuuvkEmeyMTmGxxIdFh6lvmAmN5D4mwWAZk8wQ6A5aaEBjohe2Og4YYAfjXKOfMWfjUxkrCAML5JzHXJKY2zmI6aquuMFzQ5oAFCyd5rHCgZRQsto57yJtq+TJgoOMzkfbN8SwFL4IOwigA4pYu5UnboBQLjS7xJckcJa6bER/XOna1/o1ZmeVPYb8NLZQ5z4ISb87s435WWk=;CrUknT9FkEaz8zlle96OSg=="
+secured: "2ZFoCfjvz20bovImZ2YDAiTSZPLGamPHd/nf+UgXH1FrLy8E9uwIY6p8r3WJv7Y7puQVd3U3yU60eBYit8/mczCmPdWSDrSU51XatzBKOag9TaT0H5l6JFpo6vV2N6m1SbpJhjDchQ6rV3ZApwFkvkfPSw1zCBzRlINbeNSY22NtHLsh7pil2V6IjC2eaUezlXYoDVNbjTWAbNLsibt21oLHkLukT9a2/ewPcDTPTcZz4Z7hNrDe9mzGB4XT7JAHAMDABjv4/GMzuAsMoQNjHPsYa0nvuAUBKT07agOuzEU9tTeRfbMsrYNTNYLh64UGRg4uPv7DssXhjc58ZZPS6sdoEZZP4MHv+acl9llcyFc=;ZTNSGvo3xKXppMhJ5OLBRA=="
 ---
 

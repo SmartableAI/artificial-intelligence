@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2023"
+    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-growth-rate-key-manufacturers-industry-size-share-and-latest-opportunities-forecast-to-2023-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "l0J3yLsMGP1s9sA60q7v1btpdiT2i/Ped0Uecn/FO4bRnROOkKw/eUTnEw+JkMRG9fTuQvHUUxfk4Y4SQ75lu3tXPCs9UKhb9JTEZkiO2Oj96gs+Dx+HYoJR1JHMR1uharm1EGTp7TSSmcINjEfav8n7rmuXYAO4VczcZ9JRlzOLHGWthF+LpnsR6VKyAF8RFcIVQHA3Nd8Uwa0s3P9SPuR85sEpFYg+hcDHN7jutzdJVCp6Tr/RR0Fd6mD1KIMTf4uD8embwKyUnZXmJgWVkjyzW2YrlT0xSQmkLhaHK528fIb2afpjxacATEtb45xS0WlX7g5f0zZ+J9od0LbdshkVl7aLlwYHl6y0fVoYcbs=;LlN/zopxHtx1Z7PEsqHb+g=="
 ---

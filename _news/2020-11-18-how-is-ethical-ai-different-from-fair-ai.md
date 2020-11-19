@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Viewpoint: The technologies powering the future of artificial intelligence"
+    excerpt: "Artificial intelligence (AI) has been an industry buzzword for years, writes Richard Walsh, head of memory at Samsung Semiconductor Europe, but he consider"
+    publishedDateTime: 2020-11-19T16:39:00Z
+    webUrl: "https://www.electronicsweekly.com/news/viewpoint-technologies-powering-future-artificial-intelligence-2020-11/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 37
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/11/18125803/Richard-Walsh-head-of-memory-marketing-Samsung-Semiconductor-Europe.png"
+        width: 1937
+        height: 1036
+        isCached: true
 
 secured: "lawKdCL1RCRah7xERcD6Hd8VQN7HKdNBqORRK8tBksr2D1wVpxdsqL6Vq2Zeh1oehmuICp4uaIFMyRMuPqXJ/FHqdtVoGM1/FCNxCflLsk9pgr4G9DOTTITNekXGnsOjXqHSngZi/xT1iXjqFoDRP2UtASyHoPQsvrARIs7X7Yo6B5glplj9DKQGtVPKyJkxKCapQBUZpoHW6NcP/4ePNxiEkIV6yk4fkblnyjlpXiKqxdTfk/J0Ty/1bBrNCVlljOmNzVLmPmrTX4SK0/kdV7caCW5BBI3oSf9zfPe3cnrqBXMbx1ctHsnJKZ6Cf045q2KL0qRgMq+VJrrRBpsiZ1GSPkOteEf3lKS65JBfUlg=;Bt/T34pgLfYHYxaNV6zkhg=="
 ---

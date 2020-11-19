@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-repor
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
 type: article
 quality: 57
-heat: 88
+heat: 87
 published: true
 
 provider:

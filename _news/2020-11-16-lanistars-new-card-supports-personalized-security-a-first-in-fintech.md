@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/"
 type: article
 quality: 91
-heat: 151
+heat: 161
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 39
+  - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
+    excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"
+    publishedDateTime: 2020-11-19T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-venture-studio-closes-first-fund-with-13-million-to-invest-in-early-stage-fintech-startups-1029821434"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 39
   - title: "Singapore FinTech Festival 2020"
     excerpt: "The Singapore FinTech Festival (SFF) is the world’s largest and most inclusive FinTech event that brings together heads of state, financial and technology leaders, FinTech founders, policy makers, investors and multilateral agencies."

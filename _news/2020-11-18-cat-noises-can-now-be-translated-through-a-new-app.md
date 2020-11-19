@@ -27,6 +27,22 @@ images:
 related:
   - title: "MeowTalk: Alexa developer’s app to translate cat’s miaow"
     excerpt: "An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer. MeowTalk records the sound and then attempts to identify the meaning. The cat's owner also helps to label the translation,"
+    publishedDateTime: 2020-11-18T17:43:00Z
+    webUrl: "https://www.bbc.com/news/amp/technology-54991693"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-54991693"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 89
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0F4B/production/_115551930_whatsubject.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "MeowTalk: Alexa developer’s app to translate cat’s miaow"
+    excerpt: "An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer. MeowTalk records the sound and then attempts to identify the meaning. The cat's owner also helps to label the translation,"
     publishedDateTime: 2020-11-18T15:34:00Z
     webUrl: "https://www.bbc.co.uk/news/amp/technology-54991693"
     ampWebUrl: "https://www.bbc.co.uk/news/amp/technology-54991693"

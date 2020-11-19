@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us"
+    excerpt: "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen."
+    publishedDateTime: 2020-11-19T16:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Uber Is Looking To Sell Its Self-Driving Car Division"
     excerpt: "As recently as eighteen months ago, Uber Advanced Technologies Group was valued at $7.25 billion following $1 billion in investments from the likes of Toyota, DENSO, and SoftBank’s Vision Fund. Fast forward to November 2011 and autonomous vehicle startup Aurora Innovations is in the box seat to purchase Uber ATG."
     publishedDateTime: 2020-11-16T16:29:00Z

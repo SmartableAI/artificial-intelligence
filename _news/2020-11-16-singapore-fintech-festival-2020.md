@@ -98,6 +98,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
+    excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"
+    publishedDateTime: 2020-11-19T15:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/financial-venture-studio-closes-first-fund-with-13-million-to-invest-in-early-stage-fintech-startups-1029821434"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 39
   - title: "Seoul Fintech Lab Supports Korean Fintech Startups to Move Into Europe"
     excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on Nov 26 to provide business matching opportunities for Korean startups."
     publishedDateTime: 2020-11-19T09:19:00Z

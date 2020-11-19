@@ -29,31 +29,45 @@ images:
     isCached: true
 
 related:
-  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
-    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
-    publishedDateTime: 2020-11-18T00:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
+    publishedDateTime: 2020-11-19T16:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
-    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
-    publishedDateTime: 2020-11-17T14:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "COVID-19 Impact: The Unconventional Guide to Natural Language Processing (NLP) in Healthcare and Life Sciences Market"
+    excerpt: "Research Dive :This outbreak of COVID is projected to impact the global natural language processing (NLP) in healthcare and life sciences market in the positive manner. During to corona virus emergency period,"
+    publishedDateTime: 2020-11-18T10:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-01dd096ad24ba383c18f1560d50384fc"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 12
+    quality: 48
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Kinexon Collects Funding for Innovation in AI, Analytics & Assist the COVID Fight"
+    excerpt: "Munich-based IoT outfit Kinexon announced a 15 million Euro venture debt loan from the European Investment Bank (EIB). The IoT firm develops hardware and software capable of moving the world toward a flattened curve."
+    publishedDateTime: 2020-11-17T20:42:00Z
+    webUrl: "https://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm"
+    ampWebUrl: "http://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
+    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 32
 
 secured: "zBDc57TB0gRaTRwrxmS9he5E3nqhn+u3/08IQdCXK4E/WaWZmNz90l8oQ2+++uygd+hoR61XFGql5HuKlaiO0b2mi2CBdnmAn9xSZZxo574GVPU4tlsFcsIXNbYNc9DaoZmvPsdM8+uTy1EXFDjPG2B70icQeYubHnciJynCe739kFpvnTW5sYkXmGJQxXtw8iUoxCVyuWRo1YjhSvmOP+QdPx2XFIeSBzUN77FpAFHowJeniJncI1xHBhw8ZqyZKogadebbpLb+poIRjTUkoQQNYWgLbHFBgQyetVH/jeHhMj0AUsnZ+H9eVU8MvnHCtuKSxXclH6mBljOWiOR5xBqrl6SgbcpIEX+/a8iJ4/I=;LXdQxisvvjqpL/JukrXIXg=="
 ---

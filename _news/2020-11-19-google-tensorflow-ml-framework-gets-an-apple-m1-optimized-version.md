@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-app
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
 type: article
 quality: 123
-heat: 163
+heat: 164
 published: true
 
 provider:

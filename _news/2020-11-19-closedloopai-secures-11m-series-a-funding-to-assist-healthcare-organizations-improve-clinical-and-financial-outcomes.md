@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-19T13:16:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201119005052/en/"
 webUrl: "https://www.businesswire.com/news/home/20201119005052/en/"
 type: article
-quality: 12
+quality: 14
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Healthcare
+  - AI in Finance
 
 related:
   - title: "AI health predictions startup ClosedLoop raises $11M to expand team"
