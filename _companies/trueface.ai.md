@@ -2,7 +2,7 @@
 name: "Trueface.ai"
 overview: "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns."
 type: "profile"
-heat: 32
+heat: 50
 
 website: https://trueface.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "trueface_ai"
   url: "https://twitter.com/trueface_ai"
-  followers: 1602
+  followers: 1601
 
 size: 11-50 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=j3cvmYhrgKU"
 
-secured: "tTzXr6w8lvm1hSeBTANjR7KE/sC3NEV0o1QJPu7XIceBPP090GUl8G7NH6vKLB8l/OgdrtWe+z3dl59lMnHIoGPOvb9PImNt07sIBxR9T0yfl8JtJ9eXkdcyb8//ZkTUKQy5sZq7lYdzKa1LY9jI9pkwIAnF6XCCXD8Uh4YpkAFlidt5ini07ZkbLfbkC+kVCBowoQhTfNenE5W2nCZUbXZS7iIbuUSkIoGNPkYaHqfSK7gF4A539dKm5LksxlEfxPRbdw5TRDYkmj+IB3v1fixFykphG0YUNRRXkJ/V7wXiMnv6fXX1CDyPnb8VAgy9uapkowetLdWdTnVpCZ8AoqmE5+/dWUBlZe7p3W0+3IU+gIcjbP9B+Ck8ofM8OvinFzSoM+bmJXL2d0B2AhHs2am/2pFSptI6fLNrRTI+hPk=;YX9llNt9uOmB7fJjUgZ6Mg=="
+secured: "NqSlO6R9kTpHu5ab7Dl0mJP18QlNJYZoVMuOJHTt9dbcwWubQdtYLCb/aTj5XhAs+4OwSYnXmhKrwoLs8mwzJgUsmAoYuXRTQ+oukd8CeGFIx9eWu/GtVeWn/eL9reAn6sDkZVXOXzNi/at0wAmKtG+Cw0MLhTcNFjnU2yOQL8YeFKDu5vtLTPaNOTj0Ss6tnQOof1ctvArxHHJ/SdZKkiRycukf1GAJ45QU8FXJbPErgwLj6Y5PRmJoCPXnl7kcRki9UJT4AgECQAfSAqIfrV8nXCIgJEFSUbMu4W7mq6j37dS2NhauFVjzOz2l0Sa2dEOBfP2SGWikBI2qlXTmg4X7rC3eMqZZB1KmFlGhw8ZNZbOXSYecouY1hybkuZTFE2gl+z6jtMiz89ugRRlCTvvsbI9as4YRiPyOEIb6uwQ=;Hh9crU6yfNbn8CzbJZQ2xw=="
 ---
 

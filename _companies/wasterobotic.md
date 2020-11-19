@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dirtyjobrobot"
   url: "https://twitter.com/dirtyjobrobot"
-  followers: 303
+  followers: 304
 
 size: 11-50 employees
 yearFounded: 2016
@@ -40,6 +40,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=QbKA9uNgzYQ"
 
-secured: "BNtUPLBz6Rh8eCjNERLL/oiOF/MMPujIbmuqco+xDmZ6O81/uoALGqLKB4d5RH61LaDcpVK3Pjzc79RcCTYokQCCkPmL2nBHFfDbI83IAXyorD2rM8S3FPwZzKf/OQKBCmNbQrWkIZNfbl+f2if1/oRpjp+eEVXtru6kC3J8inErSQwAQwqOv8tFb/4PXQ/dBZvd0drOCIxwg580g6rUv9Trt670ozhk+LeOu1tqSQIgXmWTRWQqkXCFnZmWvjijqBnWRC5NfMZDtFFFk4N8EH7dKc7gT+zBiyVtprFatW/agYiVmdKxeIrha8K6IuOE4QUZ3berNIOG962H5Sj5626e8SdVmo8rmTWsEjkx1BXZjK3TbmFhBBVyOBT7DLResQsrxTKDy/YaAm1XHHmNdQ==;vAGM2EBTud/UEL15zrMgjg=="
+secured: "InuWI5odR5qExwffb3hrIzKC9dj03pVdYncspim9ELIEemlX5vehgx283pNNafKQQ1EjCm+/mFjTVaSfpTHbP5k2pOeLfBo9uHNhC1hrpHw8KIbGzZLhUX2YikKFMQaEouhF2t9fDLSINTcgQ3Cnm1OZRin56201mERZ5cNFIZcsPnNK7CBtUpiQj9f4mrYb4bm5cEB2/22giI6GxYVMhbTb6k7bYAdTTTal9Jko5vo9R3jCKl02NElfoLsGapMkhUeiUtsCWZ/B9QOYhGsIK/qFMKXcOqKJPgTVK/BuKeli6E1izB+tN+rxiKyde5CV6ns4mXw6COhY9eV7TD7d/Gpdi5CFl0bPWEvQWrvmgVK2k7z8x7NwIxG5MFKoGBj7mSy02Tb/YON2Cnm3NL1t4A==;lCUQbyA86W+EzdTK/EEQbw=="
 ---
 

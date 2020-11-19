@@ -2,7 +2,7 @@
 name: "Rulai"
 overview: "Silicon Valley-based Rulai delivers AI virtual customer assistance that reduces sales and support costs, increases sales conversion rates and improves customer experience with quick, always-available, chat-and SMS-based, human-like conversational engagement.  These smart agents, driven by Rulai Natural Language Understanding (NLU) and Deep Learning  technologies, enable brands to handle their growing customer interaction volume faster and more efficiently by answering customer questions,completing tasks and learning from live agent:customer interaction.  Rulai Virtual Assistance complements live support with seamless escalation to human agents when desired or required for more complex issue resolution. Rulai solutions are developed and supported by a team of award-winning computer scientists and engineers widely considered to be among the world’s leading experts in the field of Machine Learning. For more information please contact www.rul.ai."
 type: "profile"
-heat: 57
+heat: 20
 
 website: https://rul.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rulaiinc"
   url: "https://twitter.com/rulaiinc"
-  followers: 205
+  followers: 206
 
 size: 11-50 employees
 yearFounded: 2016
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "V0A1VHdMnUBsXJ6KW2VkLQ7rMs9DBUk0QbpLD6+IUJjRlRk/UzIpk3PDm2/D3CEP/4L7qFfYnB1TpvAivUOy7Jbbti3LAFbyBDWkVwy3YBW+MXJzVsEaQhL891c3Ac27vQo0gjA5+TtH9Zklso9idQjDxkXZvgESHr5QpKf0D1ZC9u+utdWuCF5tkiBNBFTihP0nzhPwA/Yt0M0wyKY/WjeqI8Ev8S2V1zrCiD3pqX0xU930HSAl5pDGlqkjeOogOcaJcnORxakbmFQDwV4uCfe5sV45Rf6B1Hd81K4UGgBXgobF35fBcPlsqLOdzXYsSATowfITZcq7QFb6vycCr9dKYlqXhV+l+7fsWlTPk2TjAvtgSwuMB0kfefIlwjU3MJYaCmWmhL2WOXeZk4mfRQ==;61yhd3YFyFdqSuYKhk6q2Q=="
+secured: "5eW2lQvtUF3fADv0EyqCV7jtbA8aLdwObK1Z8k9NeEa+fXMtXY+KAxJRYhgVkoHaLi624cRVqoc9fbfBB1IO3oonEpPV154rRwttwkAw45fhLK4OxY5MYE/AhaYtnRZifCBkWNIch8qK4ZyaL0u1CQv2ErLtpalDkX96rrKY/nNkb50tb0EkY+1+qlx8nTGFvI22P+tbu1Z0DaJglV/GXNqidbh3XQ02xxjPMmk1r/cSANTeimeo/Pz+iu/xpU19TJSurKs9Gs0kQW/ulKlCIRtlbEfgt5ONtXJgv99Jb6aj/WONV5ESbhYwDVsLv/ZRkOPq/ActcUcKmfTgkKaBVOg11Sqp1FM4NoBseO8uZIVbKRNjFLqlY9fN5rAdy//xfh9EE095d6ezUn9XkosNgA==;gQIB3bXWulULo+f7E5c+BQ=="
 ---
 
