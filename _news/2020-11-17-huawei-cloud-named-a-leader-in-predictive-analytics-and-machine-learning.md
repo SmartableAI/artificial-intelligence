@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-le
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
 type: article
 quality: 68
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -25,6 +25,17 @@ topics:
   - AI
 
 related:
+  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
+    excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
+    publishedDateTime: 2020-11-18T12:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Penguin Computing to bundle systems, services to juice AI, analytics, data, cloud workloads"
     excerpt: "The move by Penguin Computing highlights how many HPC vendors are targeting commercial adoption and workloads."
     publishedDateTime: 2020-11-16T05:00:00Z
@@ -36,6 +47,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
+  - title: "Future of Healthcare Data & Analytics"
+    excerpt: "helping to create and launch Healthcare NExT, Microsoft’s incubator at the intersection of artificial intelligence and healthcare. Prior to his current role, Mr. Cox led incubation efforts for Microsoft’s corporate strategy organization, responsible ..."
+    publishedDateTime: 2020-11-19T01:26:00Z
+    webUrl: "https://www.bisnow.com/webinar/seattle/future-of-healthcare-data-analytics-6059"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 39
+    images:
+      - url: "https://cdn.bisnow.net/assets/webinars/bisnow-webinars-400x300.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Penguin Computing Unveils HPC, AI and Analytics, Cloud, and Data Solutions"
     excerpt: "Penguin Computing, a subsidiary of SMART Global Holdings, Inc. and leader in high-performance computing (HPC),"
     publishedDateTime: 2020-11-16T15:03:00Z
@@ -50,17 +75,6 @@ related:
         width: 405
         height: 228
         isCached: true
-  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-    excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
-    publishedDateTime: 2020-11-18T11:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
 
 secured: "GJR0hTEeWODySSUt7BV0tA3DBrw6N549XgiA9htQ2d3Y1nUZryinuTf2+/C23Y57nXDiXpxZSd12DtxQex6O1gaXLSyvYKD0HmW363XCjkMyH+d4KxVL6/mPy+VcyYV+ATnQNvvNLz+g31lQKmNer5K61B0hjg7kEoIMQrMPNi7rtwTiigxpJPne9cZHM49O5PWPZGuz/UMPnKCH7mP1UfOi45OlwQB9locEkhl4i1d4Ku7L8x8l/7XdPv3ZVVrWzBzRhsBB7orpWEOqG53Go03zDKbvaJA4mz/JX2M7uV+97UGFFJx2vQILO0FqCLnytTuSz7/3h6eorDF/LaNJnq/6slSmY/Rdp08Kn/2DpSE=;diMdZKzgy0QCDkL442ezAA=="
 ---

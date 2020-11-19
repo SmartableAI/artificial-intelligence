@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Velodyne aims to price new self-driving car sensor below $500"
-    excerpt: "Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts."
-    publishedDateTime: 2020-11-14T09:24:00Z
-    webUrl: "https://www.reuters.com/article/velodyne-lidar-tech/update-1-velodyne-aims-to-price-new-self-driving-car-sensor-below-500-idUSL1N2HZ2BS"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27T1PP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27T1PP"
+  - title: "Zipper Merging Is A Frenzied Traffic Squeeze Play On Self-Driving Cars"
+    excerpt: "Zipper merging, whereby cars are shunted into a 2-into-1 lane narrowing, can be especially tough on self-driving cars."
+    publishedDateTime: 2020-11-15T16:42:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541186609&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD04G"
-        width: 818
-        height: 545
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98fb5712aefdbeef1bad5b%2F0x0.jpg%3FcropX1%3D647%26cropX2%3D7309%26cropY1%3D579%26cropY2%3D5033"
+        width: 1200
+        height: 802
         isCached: true
 
 secured: "GFdN742UiSJZFWqThVn2eVdDZ2wU8a2VViNjd3KiHjpkxhJHS4wMCA4GlEmzQ4WJmqAPqdXEUbfBEgTDajuXTTQX5cXW7avE1vxg4cdjV/iLZy0MNlD4eUxQkKuHt0nU00GHqJ3hISluTmXV2jUI9+HFfS/YEIVyJyJ5OHoVgbFjeTpmHUmzRHwib9Lcji0LVhEdhfkhrooey4zHor3tOQ9Zks0OnGLl3zmmH5eSv1zlWN3L35mZk9KgTqVJpEAJTw3RJT638R1cKc3LaESihJ6HalspXZqX7pseCkD4rUkNHJzEc0hdA6+jamBnghZ+Q5MxNqL5b0HUikhWVtNhCl7r15VczaOojewfkwpHQ08=;qO2lGVhDzltu2ORwUkZq3A=="

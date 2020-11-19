@@ -3,10 +3,10 @@ category: news
 title: "Amazon and NXP team up on smart car cloud computing deal"
 excerpt: "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,"
 publishedDateTime: 2020-11-18T00:00:00Z
-originalUrl: "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-webUrl: "https://www.techradar.com/nz/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+originalUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+webUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
 type: article
 quality: 74
 heat: 94
@@ -52,6 +52,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "yaNrFXVszgs3nXLNzr6QG6om77GjPeoNwDupSUDVTCJK0z5OCZZ2IZPaQ0PUsvpV47fdfgt22rJzKsSv8vlTGG3sRryqBWHRUot9Dcz+UsIEEiNsD94ZzGM8p+hXUwTBwu1MOjt3Zz47Bw03AczhZAl3HtExrokb7Ia1TIk+n1mqgzNgRkIA012buYHPBQtlzy+okOu7jYt86NZj4bPwoB8QFFzbkUdanIBmOfgW17fWKIRYNfbGTZfz90zlQp/wQRzTvUGOKoj9LW8l0TMMkNNKS7rVCzYqCAEO7GvQaCoqJv66HlFEY0cykTyjz/O7/gMfqGcec1smkn3WJW7clrmvaqOudNH86W8f6VMjPCc=;St2IYMwXSyE1QKmk34NC9Q=="
+secured: "SFjOYXPL2RGR4YA7MGURqPE7mHK6JuW47z0VxkovTnFq2N3xYsKVmSTTo9yFQPCEpoo8rgPOQPAj9Vc6h2bGLfm8UupPv0ttfZ/UA3e7+UUAw8GaHVdYe6V7GNBLMZJ1iDgAgOHAAV/SUkMS05iBbolL0udrmHg2goAsnS0PIb69d0bJEokESiIFCJ+y1KTBNP83G+0RLioTvaQ8nnBpOQiprt7fzRSoSwYVETQUAAizq2+idFomvvXcUkDYEuVxI/ijvRSU5VdxOq2f58J4eFlRu8ce4nWy1N2wtnT9GpLrLzkvL23Yx0QTKT1ViOv0mon28ZsA2tnKVwk+wwcSUa8x2jwTlsQBVpYkQmWDrAg=;Cygt121QjvvsWzQyCGT8Dg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
 type: article
 quality: 87
-heat: 217
+heat: 227
 published: true
 
 provider:
@@ -225,6 +225,20 @@ related:
       - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/18145456/LAPD.jpg"
         width: 780
         height: 438
+        isCached: true
+  - title: "LAPD bars use of third-party facial recognition systems"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
+    publishedDateTime: 2020-11-18T22:26:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21163317/lapd-bars-use-of-thirdparty-facial-recognition-systems"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "CByFbvHfPlGV2r/UfFwKIClF1HzwxlwOCz1NktERkTeFcWUzz/4htQuE4mjAD+EagMBBfKlO/M+JbZMFqNfXlBdw7XQkKYiGyqomg+WhC90Vd+djlsCm773c54T8Z4Kg3fNqg5RFmp+EbK4jG5vD4x3xkeOAGDZbi/yYfm7NOUjYIZO4Bc4Qfk5TVLVw34+CbRDKNZQYQIfvDknKh4bIis096GirtL+APkigVtLLMa4qdxfZAh5uWwe+gx4O8d3qrCCWYr/JNdo6M1CCul8y0HGSr9ZxIF16qEhgSyAzl1lgNEHFs5mfqSVlOCM0Dm57OP+FJF4y41qiH/XIDt/wPWA+vbc6b3c6cbnCz4hy6nuNBka063iNaWUysZDUAzgePylVJ03HX9tZb2H57zYqBZEzBUucc+2ZhEuA7EbLgnrXCj/l34LFIJtwutPeMskW+3zqDHhFxeLhe+XnMFsT+YMV5UPeYTzCQq8eSrkLUvkuk/vFxMym5CX7DLUYCO8x/0ofcRJzOLdgQWjZXFOzJA==;c+eQPcXnrH/ZQvRWjfQ0Vg=="

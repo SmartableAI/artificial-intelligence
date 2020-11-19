@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "White House issues guidance for federal agencies on AI applications"
+    excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ..."
+    publishedDateTime: 2020-11-19T02:36:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "n9/fHX2i62I9QH2SuDRn9LOGHfcFFrNEue1hDY0uw2nCgeb1hGrqiY05gjVs8sDGNeVAR0xaIvhgaZIDBLIvFaBCIUkTCusApg7SHCd59N8LFVcBNG+RCN1P5Uz03FtcWc3+Qk2R4iUgiWZMOmGO8wT/hupAIlT4Lb5ZWoGss/XR3iradGxjkBY+PDPGZ5QrhHHZPEZLQStFvbl4Clhn79Cbw7wflE4UA+lMpOUIoW60jOZDTEM5CBYKfYAjRHIoQoVlRDMAOE4ngp50c/v1aYGmTS0uEWf9Imrx4nTcKrChjUbIrXo4WbZgBfTpbkREV0GI+GgjdAKgjO2hq9I3z4AN52gUgV4hluTRsXwLjyvw0IM6lDloLhOcbVFEEjCOPdNoyRA3Q4RJXP3AmXg96kPGwvJnKP9gAPjGgey/8zuXfPTmi9YkzzvNJglP5Mva8wU1wg5qg0mQ/PnpyNTqG7ORq6hhKo+T2ZlxMrNDVz/Z3VD3KevKwLiI9AdRxdBzucO4MIUJrOJwuSSAflSa9w==;MTUUj1bTDexyTJKNQveqpQ=="
 ---

@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg"
@@ -71,6 +71,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "wjOz5Zc8t2zGqV7j6Fc2jBEWoZTHpKWWwjJmw6HRoytmszJrS40Nh3WcMrp8/zfK+IsB+KDJx12eqCcDDswCS5zC2fIiso/BYsa7eJMH6krI1Tgj5zdtXBHVyPMyv6RLdEcV8XFTHccI/Ib8QREFtqtlQR7A6PF922UziuaRBbHGfLso5VoZz+Z/D6RvzT7TwMb/KQ4wwHFnvH3DLClSj1WcXoVJXaYrBXkCpEwDHcqnRjvsru/HQudQ0VFbZzC6aWWpLOP+3/HFTD5TTC3jza5OQoe0zdWKCT87au2YUMB08FGOk0IyX4qBPyNprp9KqxvMTexH80WkwhnNjua12MNwVkeCixVVR+F6JhKqktI=;1S28NhMHpQc/cXv8RtDHmg=="
+secured: "mhan/d+IY7Hegr2zgLf09eVJezw3Ta8yPVRXBJU2eStcrvwyNLhKYl4H4daP+3c8OwTQrwVFDZ28YVo910kLs/rkvVJIVhwNu+r2ayKQPdN0+AnzxrJ4zeGuPJlMO4uP7mUujvG0YWQcubn0+MaDKxbK1Pa6TxV0ANau4+fBqJSBzSvcBDgXa8vRZXgw0PCIxsOb09VIVbMnMvqYjRRaCDJ/FeISwpC0kp/bL4xfTqwsbuOQNzkZ663aMZvCB6lTUr3bRDaeeuUaK2YMPLSXhiL0mJ1aRgo7EtaPG+7bGMf9Lfjwh+ka6UzqSoMHNc7dTV6nwRaG1kg4uVi0hNjjRUfxm108GULaoxwFLtBxBbA=;ZHJhazfeQ5DCNHiw3mXuTQ=="
 ---
 

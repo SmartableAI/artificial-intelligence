@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot
 webUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Telegram Still Hasn’t Removed an AI Bot That’s Abusing Women"
+    excerpt: "Messaging app Telegram is under pressure to crack down on an AI bot that has generated tens of thousands of non-consensual images of women on its platform. This story originally appeared on WIRED UK. Law enforcement bodies are looking into the activity of ..."
+    publishedDateTime: 2020-11-19T02:06:00Z
+    webUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/?utm_social-type=owned"
+    type: article
+    provider:
+      name: Wired
+      domain: wired.com
+    quality: 67
+    images:
+      - url: "https://media.wired.com/photos/5fb448627e21dd10c270baf1/191:100/w_1280,c_limit/Sec_AIbot_523554190.jpg"
+        width: 1280
+        height: 670
+        isCached: true
   - title: "The AI Telegram bot that abused women is still out of control"
     excerpt: "A bot automated deepfake abuse online. Researchers say their warnings have been ignored and Telegram has failed to removed it"
     publishedDateTime: 2020-11-17T06:15:00Z

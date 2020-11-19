@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-ne
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/"
 type: article
 quality: 123
-heat: 153
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google TensorFlow ML framework gets an Apple M1-optimized version"
+    excerpt: "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ..."
+    publishedDateTime: 2020-11-19T02:51:00Z
+    webUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/"
+    ampWebUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 123
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Apple_Events_-_Special_Event_Stream_-_Apple-33-1.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Apple releases TensorFlow fork with speedups for M1 Macs"
     excerpt: "Apple has released its own fork of the TensorFlow 2.4 machine learning framework, specifically optimized for its newly released M1 processor. According to Apple, the M1-compiled version of TensorFlow delivers several times faster performance on a number of ..."
     publishedDateTime: 2020-11-18T21:46:00Z
@@ -73,7 +89,7 @@ related:
     provider:
       name: Upwork
       domain: upwork.com
-    quality: 58
+    quality: 60
     images:
       - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
         width: 1200

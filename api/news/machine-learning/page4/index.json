@@ -2,6 +2,50 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-27-microsoft-azure-ad-gains-machine-learning-hooks-to-detect-sneaky-password-spray-attacks.md",
+      "title": "Microsoft Azure AD Gains Machine Learning Hooks To Detect Sneaky Password Spray Attacks",
+      "excerpt": "Microsoft’s Azure Active Directory has some neat features ... This attack is called password spray, and by now using machine learning, Microsoft can detect patterns and alert organizations ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/microsoft-azure-ad-identity-protection",
+      "originalUrl": "https://hothardware.com/news/microsoft-azure-ad-identity-protection",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/53247/content/azure-machine-learning.jpg",
+          "width": 708,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/microsoft-azure-ad-identity-protection",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/microsoft-azure-ad-identity-protection",
+      "publishedDateTime": "2020-10-27T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-learning-a-second-language-business-benefits-and-how-to-start-a-program.md",
       "title": "Learning A Second Language: Business Benefits And How To Start A Program",
       "excerpt": "Language remains a key organizational building block, whether we are distributed all the way across the world or just next door.",
@@ -1385,50 +1429,6 @@
         "Machine Learning",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-facebook-unveils-machine-learning-translator-for-100-languages.md",
-      "title": "Facebook unveils machine learning translator for 100 languages",
-      "excerpt": "Fan said the new model is more accurate than other systems because it does not rely on English as an intermediary translation step",
-      "sourceUrl": null,
-      "webUrl": "https://www.dhakatribune.com/world/north-america/2020/10/20/facebook-unveils-machine-learning-translator-for-100-languages",
-      "originalUrl": "https://www.dhakatribune.com/world/north-america/2020/10/20/facebook-unveils-machine-learning-translator-for-100-languages",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-eng.dhakatribune.com/uploads/2020/09/watermarked/347209/1603194449434facebook-1599052157930.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dhaka Tribune",
-        "domain": "dhakatribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

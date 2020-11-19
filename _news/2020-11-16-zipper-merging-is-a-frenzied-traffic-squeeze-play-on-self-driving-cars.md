@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 802
     isCached: true
+
+related:
+  - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
+    excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
+    publishedDateTime: 2020-11-17T14:04:00Z
+    webUrl: "https://www.caradvice.com.au/901837/jaguar-land-rover-to-open-a-hub-for-testing-self-driving-cars/"
+    type: article
+    provider:
+      name: CarAdvice
+      domain: caradvice.com.au
+    quality: 24
+    images:
+      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/gzffcupivjojk6kknrlv.jpg"
+        width: 960
+        height: 500
+        isCached: true
 
 secured: "1m4BHJnTrJNNXNCssOwYC2IJYlNYMjdmSU6JPp0fvsYvMyim6Lzp5Xy3eOB+62xUQgpwWSBrMeyzGSdYiKw+niS7WVrK+8DYaWvwu3hdJ+ZqGxwW7Vf5O8R+JEmSDg+KSvCtA1CTGOarmIn63Ys8nnrZauJi0WLH4tRezkKTEgc5vlImhlfTIu0eThgRWaNBKo5mK4jzlLtm/kYoZqtGxJHPfa1lySsO0zfQx5l8pj4JfS1bO6O9wwupeibvKJYC/kcqUEvYNOf5V2/ZojObWj13wQ4zseqBUWBXVM9E5OjdKebnSwVBCdKbddsJw/zBpqWY8NTnW8h5Rzq8rxz0hqwS1QLQ33nWMsFTMtH4DDPh/ekx0kKoY9YkjSB2GXhXQ+soSVtX6JNoNyX/e+o5L78rYOPhtJandSGgd9t+lokFppQ1GS89dxiO4jmRgBB/kYzNqL3pFzw72nVdfqK3mcq23LC0OZwaavs8flqP5Vz34xym4pdzMY/kHVkggvTIZ05mKl0F6TQSwK843ZBW+w==;JtQFCFxvlSJ9B1nbmuF83g=="
 ---

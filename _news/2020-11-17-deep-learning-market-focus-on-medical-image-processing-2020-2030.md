@@ -51,17 +51,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Free Webinar on the Booming Global AI-based Learning Market"
-    excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
-    publishedDateTime: 2020-11-18T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
   - title: "Applying machine learning to making mechanical parts"
     excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
     publishedDateTime: 2020-11-16T14:11:00Z
@@ -76,6 +65,17 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "Free Webinar on the Booming Global AI-based Learning Market"
+    excerpt: "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash."
+    publishedDateTime: 2020-11-18T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18433265/free-webinar-on-the-booming-global-ai-based-learning-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18433265"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433265"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "pDjZyj9+IHbCR2OUt255oCdl2un54xqZQVgI2lgk3K3rCIVSpiEzKfl1PxgGuAjiwm77Ldwo2DhjECe4RZYf1zbzWRhMsxJLqTAErD3b+IUAnSSNLtekhWLEv60GNEuAtjgcRe5y9VYXYm1IG2XvT3xMIKEZdEr/a3hhnE8lmsT06xBgobRi0YZe6c2muPjENtXsB6O9jrLJPfgJYL4JBVzf43boI3e90Fo0bKxHX9B/wgPQcyJbYpdvnLNTAVgal0ZCKdob52oagdY879jo7gIvcPRumE1ld/Zk103SmT8LZ/qZ9ORyqydzaNaFuJ/+UmLEfH8AQ6pHYg4KulMe3XQ3JYeKdaxyD75Kz3zmSOw=;SnJ5RBcvGxPwKYzhsg6dGA=="
 ---

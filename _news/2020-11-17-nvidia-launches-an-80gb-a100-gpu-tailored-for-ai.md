@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box"
+    excerpt: "SC20--NVIDIA today announced the NVIDIADGX Station (TM) A100-- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
+    publishedDateTime: 2020-11-16T14:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
     excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
     publishedDateTime: 2020-11-16T13:52:00Z

@@ -84,6 +84,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
+    excerpt: "... And it is another example of how IBM is building on its AI-powered automation capabilities, including: - the launch of IBM Watson AIOps earlier this year, IBM's AI offering for automating ..."
+    publishedDateTime: 2020-11-19T01:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
   - title: "IBM sharpens its hybrid cloud, AI focus with Instana buy"
     excerpt: "IBM has announced a definitive agreement to acquire Instana, an application performance monitoring firm. Financial details were not disclosed. Once the acquisition closes, Instana's technology will be incorporated into IBM's hybrid cloud and artificial intelligence portfolios – two markets IBM leadership has targeted for high growth in the coming years."
     publishedDateTime: 2020-11-18T15:24:00Z
@@ -111,7 +122,21 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM acquires application observability startup Instana"
+    excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
+    publishedDateTime: 2020-11-19T02:49:00Z
+    webUrl: "https://siliconangle.com/2020/11/18/ibm-acquires-application-observability-startup-instana/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/32722481855_a6683b2ccc_k-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
 
-secured: "H+DAywSnX5qH350EklokfFXRZgd7Hupal/Rmc+lcWGnVGBpJoIeVp3ZtK/jTw4JI77M38BXZoDdT1EnHfIH9dFXtfjK1n/mZTWYBGJeyj/jKgaWzigvGTLvhF7HHYp0F3ecyHBtMIImZQsQ6l2SEJ+IqGyIN7f8dI3lgmV8s6bTD+F71V5zwygImIM9leprzoJ9ceCCcqKvSOxQ0a5qC7kxv2mHkvZzfU1ydyXFG+xJDPIo2YI0goJj/9SInuJDgXn0F/C8hwvBSRSBL7qRpY1hx8AHV//nAllWDUTbIl09nPxeUg2k8SfTbObVu6rSBfzRiYOsj1Tgh4lmvbLfNHnEAuJ/cqPIeN+OyXLzl6xQ=;Z42HMR23KHLCsrcCnCcExg=="
+secured: "CvNKWUzncOGj75zhuxVJNQdhsWsvNUqHUiur5L9pJEOuLD5tlPIg60hXS9g0EiYk1ely34YBA3ES/WCuNw2WNon5/SW/JgD+aRJGaFCrOhlNyB5YlXMoZFQCdnT6fdqCfFAJrryn+sQBnw8s5KTWSLbXYPAIEndjYvwLqpCVlbGj//OqODpYe78FE1F+ZP6RAwKVv9Hjapk4ahiAjnWeHZGjuIxdpcwTHfbVa/DosGL+aKEbrgwUR9fd3PL0KD8/NCgnDoktf9sGngXLbaASwkkRRR82EWlCjCZu5DBCQhwxHzDQxJ89VTmwZgcWPWsSaBbwaFGJJ/LEr9C4ZCNdaAnQh7YoVEPZNzZq8kb2rLZcMMQkbfR9fF/uoHZMRL9qD5wErzCO9V+H3at1bPXsDgwk2/+kWVKOSwREL+pSEQXUFOizxD974Xfzhj4fYebkh3dGRcOnuX4VdjEYKxF/zFtNGhbKUdyJQOOyPGGGSLj0ybhFr75E4Z00TrQ9e1qvM09IpD7Ez6cn9g3zPDMkPw==;pSNbloAqdJtmySQAdSu+XA=="
 ---
 

@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
-publishedDateTime: 2020-11-18T11:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
+excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
+publishedDateTime: 2020-11-18T12:49:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
+webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
 type: article
-quality: 33
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
@@ -43,6 +47,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 57
+  - title: "Future of Healthcare Data & Analytics"
+    excerpt: "helping to create and launch Healthcare NExT, Microsoft’s incubator at the intersection of artificial intelligence and healthcare. Prior to his current role, Mr. Cox led incubation efforts for Microsoft’s corporate strategy organization, responsible ..."
+    publishedDateTime: 2020-11-19T01:26:00Z
+    webUrl: "https://www.bisnow.com/webinar/seattle/future-of-healthcare-data-analytics-6059"
+    type: article
+    provider:
+      name: Bisnow
+      domain: bisnow.com
+    quality: 39
+    images:
+      - url: "https://cdn.bisnow.net/assets/webinars/bisnow-webinars-400x300.jpg"
+        width: 400
+        height: 300
+        isCached: true
   - title: "Penguin Computing Unveils HPC, AI and Analytics, Cloud, and Data Solutions"
     excerpt: "Penguin Computing, a subsidiary of SMART Global Holdings, Inc. and leader in high-performance computing (HPC),"
     publishedDateTime: 2020-11-16T15:03:00Z
@@ -58,6 +76,6 @@ related:
         height: 228
         isCached: true
 
-secured: "rbtDIqaUH0TZh9KgFmuWZQIcHw9bd9ZcVfpgKPGttlcLZoyQ+Hq1pYTttr6k2yTIzo91a/LuFFvY9VGJGtefLwpxqAt/8ZozlfPKTbdZCmuoQSyyAXoZYnc0Px+WcVJe/zpR2WyLo4CToNubmGvGSggWax4ov5JAccjCNRTuLLMtneOvUlPnksWh8CoiZWTey6QneLNgH0C3dAapXfFZ1ayrltogiQjRZHitRMk1JXo76OpBQFIusjE65E/s/ZtAXGD6ZgDyPC3mogmCL/0lbjkbd15MGlmlNQY4dSMf7WJHtcLCYmGvnJcN9rwppgXzIYpkSc52toLMmmrGGA5wqjaHWLn4KU2gjKQIl2BHdro=;e/YjWOf8Uaydx5yuMcUgKQ=="
+secured: "55/9M0ZS6kr0tBZ6h6bZTTJFxjGMi/Q5o98djE16bOc7ViQFlcdZ9oaMFWu0c2WCuE6gED4rMhMooOqOA/Wa6fxHZqs3QKV5Kq1Mv+zawlWND3uBI0UCnpNAlwwTh72OBY9vVT+ic5wuPzmwOKFeM1PWZETncUVj59RwbZFMwEQgBEfXLnKN9FFm69EG6cCzuTwM0WpnvNzm1cTBV69Td4VWHraxlYFnJW00Pi8RzqZOhPS0C6D6ob8WDD0ocLC7SraZ2wNdX/KAZS4uNXF7mPqWTi219EDRW0ubxdwpNO4L6JCimA8yQUQZJkG1Sh+vNNfKGDndM9mb8MQ0PSMLeca/TeBx/BV+CNSKoP8Dh3I=;MvGflXNawSNyl/9yAPFPXg=="
 ---
 

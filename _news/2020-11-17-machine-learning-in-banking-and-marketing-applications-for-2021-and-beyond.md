@@ -49,17 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Free Webinar on the Booming Global AI-based Learning Market"
-    excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
-    publishedDateTime: 2020-11-18T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
   - title: "Applying machine learning to making mechanical parts"
     excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
     publishedDateTime: 2020-11-16T14:11:00Z
@@ -74,6 +63,17 @@ related:
         width: 645
         height: 350
         isCached: true
+  - title: "Free Webinar on the Booming Global AI-based Learning Market"
+    excerpt: "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash."
+    publishedDateTime: 2020-11-18T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/p18433265/free-webinar-on-the-booming-global-ai-based-learning-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18433265"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433265"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
 
 secured: "J10hhvv5AsC1Vd0hG+gJNMOO9JLiovleo6vFxas3brv+wdfdXa3FIp0CjbgreFTRFliXk1VsVHUcwflAde4gEc1oPaiJL7bprFS/V0BCT9L01tMNNOYK2JxARiT7PoaU+xpNV+GPTaqUNI57r6zJlsFV/gI4LGOe3D4eByYMbue+yQLZCk5adTVDx8f688RbfNNDMNkmbS8HqWSi5X/02e1HhGESO9nyWNSf4KZr6zfUTbi0plVLTBbim/aXXeAfA/r9SvRpELw46NaBSK5JkZ0H4HzAKZ3UXiuMDFxYTVfbVJhmy0AN7dCpJSDTptkO8ezlxjwqQki0W0QkoCRQz+Rzvx6iplpckGbYe8AYQfcChnRvNQBB9FERLLIK41MF3pkQTAQ4L/3ZanZhyVy9b7B/xrdM93W/SrQKML4XQs8fq9g7UN/TEiIiEhqZvdB9u8yUpYdNp6IKUCcfN2N8WmU1dFvMU+g9h6Nt6jjn7CBGkEPJLlGW1AYe8yusMZTJz6rmJBa3fJA2bxhidzAxNg==;dYoQkm4SVLiaIZxV9i6Ysw=="
 ---

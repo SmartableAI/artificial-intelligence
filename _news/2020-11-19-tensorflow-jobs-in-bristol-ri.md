@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-19T00:58:00Z
 originalUrl: "https://www.upwork.com/freelance-jobs/tensorflow-in-bristol-ri/"
 webUrl: "https://www.upwork.com/freelance-jobs/tensorflow-in-bristol-ri/"
 type: article
-quality: 58
+quality: 60
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - TensorFlow
   - AWS AI
+  - Microsoft AI
 
 images:
   - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
@@ -27,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google TensorFlow ML framework gets an Apple M1-optimized version"
+    excerpt: "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ..."
+    publishedDateTime: 2020-11-19T02:51:00Z
+    webUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/"
+    ampWebUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 123
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Apple_Events_-_Special_Event_Stream_-_Apple-33-1.jpg"
+        width: 1280
+        height: 800
+        isCached: true
   - title: "Mac-optimized TensorFlow flexes new M1 and GPU muscles"
     excerpt: "A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains,"
     publishedDateTime: 2020-11-18T22:40:00Z

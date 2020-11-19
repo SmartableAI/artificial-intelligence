@@ -222,6 +222,20 @@ related:
         width: 780
         height: 438
         isCached: true
+  - title: "LAPD bars use of third-party facial recognition systems"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
+    publishedDateTime: 2020-11-18T22:26:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21163317/lapd-bars-use-of-thirdparty-facial-recognition-systems"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "bt9P1oxRG9t6mwQGiCjHXLJyXE7TbUE+PSJ0Yi5FbdJzi6pw+dAN3LyyP6ffEtvYu46/k0w7t0vXDjzi/EjY4rpYh7ezdBerK/Dfwe8FmVt4M7iFCiEZPRFUXd8uoWJZj1Pk6FxBg93R98YqL+2sz9rLB2d835DynjSFgSpmOPbEvjzr9T30LU12Pih2IIOiaDE71niJN6i99uJIIbgfm2x4j1PKQ0DXAB9THW20xLXtl4NlCGTWia1bWreE91w4yC6lxBGnwcpA6td/Bj0TfA5Xrd4LY2iYLF/ILH92Xw4FJ9tZY/KQXW1bWpT7eBawRihAoOhl7MvyWrm1kZzjhLaeLUkwYGZEwX6RxMrQ9B4=;HXvhe0yiUrXN5ZQRU0eJQA=="
 ---

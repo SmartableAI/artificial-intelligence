@@ -2,9 +2,9 @@
 category: news
 title: "AMAX to Showcase GPU POD Reference Architecture at SC20"
 excerpt: "AMAX ’s HPC and AI Solutions Group announced it is showcasing an all-new GPU POD Reference Architecture at SC20 from Nov. 17 to 19. AMAX’s GPU POD Reference Architecture incorporates best-of-breed compute,"
-publishedDateTime: 2020-11-17T14:24:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-e5ea832549140b8ac22c6522a3e1d1ea"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-e5ea832549140b8ac22c6522a3e1d1ea"
+publishedDateTime: 2020-11-17T14:14:00Z
+originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-db35a81155c2ec14067c22cda47d87db"
+webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-products-and-services-data-storage-db35a81155c2ec14067c22cda47d87db"
 type: article
 quality: 39
 heat: -1
@@ -49,6 +49,6 @@ related:
       domain: insidehpc.com
     quality: 21
 
-secured: "YugNitHmWxGvvpSJFfVWONtY/Sq3dDqvxGlC7jgxqU2Hwp4MRK+AfydrqBixkXhq4DvHUMRnqY3zq2YhGKcpxdrS5OvFNVE75nt7oV83WCvfYbmdFS8MgWpnhu9SMXXHZjXLZHnG/B/Gly59ViqylHhTJhirGTPARymfwVxWUEijqJqDff9DCogofBeIsoPIYAn0c+tOnRh8Keir/iD6MR9wFFtlFpWrujIZuW7PO9A2Zkh63xm74EuRbh8gX4KKjIEHn8NrrGbzjxEJDseMnShb95nZLYt9EXYqkgn8IWzX1XPjPh3fQuZiS86LCxjhwjG06YlELfpCTYsST2mmxEC4MbMTq1+SJ4yvZVHULxw=;8wO2DtoXb6HVzzEJjcPWxQ=="
+secured: "X/e0ry0pX7MvqHzkS0JaC4NG+4KSqQ7IrXvMtuhwUhUttZWfUQ48EWRddn8aq1kCTSO34319sk2pPNE0nKbv8m2PocipBHzuZBw0/bTYX/+Xin9nMH7EwVKg/vxNTSyRr///eyB5BizddoZLaJJHZAuKFe6E5dhvLFpCKTMLXnSgP8MUTUmqLgmmH3OFIQawYc7pYF6TpSeHWAExoJlGVkOju2F2WpuUkqM3Ryu3+JlM+N6xxCvEP25gPgJsnxodV3ITuGbyC4Wv7RUj8gIA8hAKPAshNOTMJ8SBvBi8aNqhUmXnkVO6WmFaU81A4Ju3mK83G1JMMTTiCtAa7sEWhFlVnXNMoob963X3YpBqrfk=;Wf8zq6s8sElOplXh2FCBKg=="
 ---
 

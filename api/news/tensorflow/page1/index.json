@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-19-mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles.md",
-      "title": "Mac-optimized TensorFlow flexes new M1 and GPU muscles",
-      "excerpt": "A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains,",
+      "path": "_news/2020-11-19-google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version.md",
+      "title": "Google TensorFlow ML framework gets an Apple M1-optimized version",
+      "excerpt": "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/",
-      "originalUrl": "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/",
+      "webUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
+      "originalUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 163,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Apple-m1-chip.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/Apple_Events_-_Special_Event_Stream_-_Apple-33-1.jpg",
+          "width": 1280,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/",
-      "publishedDateTime": "2020-11-18T14:40:00-08:00",
+      "ampWebUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/",
+      "publishedDateTime": "2020-11-18T18:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "SlashGear",
+        "domain": "slashgear.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,10 +49,10 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI",
-        "AI Hardware",
-        "TensorFlow"
+        "Machine Learning"
       ]
     },
     {

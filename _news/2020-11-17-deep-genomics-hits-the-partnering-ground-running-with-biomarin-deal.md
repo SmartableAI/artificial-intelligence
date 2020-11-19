@@ -37,18 +37,18 @@ related:
       domain: businessinsider.com
     quality: 52
   - title: "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence"
-    excerpt: "PRNewswire/ -- BioMarin Pharmaceutical Inc. (Nasdaq: BMRN) and Deep Genomics today announced that the companies have entered into a preclinical"
-    publishedDateTime: 2020-11-17T12:29:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-301174203.html"
+    excerpt: "PR Newswire SAN RAFAEL, Calif. and TORONTO, Nov. 17, 2020 SAN RAFAEL, Cali"
+    publishedDateTime: 2020-11-17T13:29:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-17/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 20
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 50
     images:
-      - url: "https://mma.prnewswire.com/media/534018/BioMarin_Pharmaceutical_Inc_Logo.jpg?p=facebook"
-        width: 1493
-        height: 785
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "EOWs10uPwOetrG/Pps9A/mGr4MiKgAHVJfxiu2kHaZRTQNmX+nl6XXfHIdtl5TnP6nWt0Lk4uJzd55Ie9rVGlavWHclxXPiRnLhJ3xL03LxMkweGETFckfuIMshfR55CyCKW/w74NMh69223Lmhlr8BoPPDvNThpSHfjd+Gq+KOVjAX5Ea34CrN4LmTFtyh2PxGXdzpIGi6KkwRv7LOQM6I1keicpygIl/tcuvvZvnUVxt4PLzvoufAqQbThMjIxiJIKZxYm2kHS5+eqBAtPiTi5+0iOUi9XOhJIO0QWxQaX5kaEE7Au/wP9e5VLGXzjMf5gArpLnkXqyZ6el4BcwY13oxGS3a7OUnSOu7jf1SE=;xD1w4MMmHkUtBMm04Q8WJg=="

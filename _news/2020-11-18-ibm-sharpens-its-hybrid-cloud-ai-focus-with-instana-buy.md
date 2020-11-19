@@ -86,6 +86,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 61
+  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
+    excerpt: "... And it is another example of how IBM is building on its AI-powered automation capabilities, including: - the launch of IBM Watson AIOps earlier this year, IBM's AI offering for automating ..."
+    publishedDateTime: 2020-11-19T01:49:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 61
   - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
     excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
     publishedDateTime: 2020-11-18T14:26:00Z
@@ -97,6 +108,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM acquires application observability startup Instana"
+    excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
+    publishedDateTime: 2020-11-19T02:49:00Z
+    webUrl: "https://siliconangle.com/2020/11/18/ibm-acquires-application-observability-startup-instana/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/32722481855_a6683b2ccc_k-768x512.jpg"
+        width: 768
+        height: 512
+        isCached: true
   - title: "IBM to Buy Software Company Instana"
     excerpt: "IBM said once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps. The deal comes days ... while focusing on its cloud platform and AI. “IBM is essentially getting rid of a shrinking, low ..."
     publishedDateTime: 2020-11-19T00:02:00Z
