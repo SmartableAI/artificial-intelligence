@@ -68,6 +68,6 @@ related:
       domain: iotevolutionworld.com
     quality: 32
 
-secured: "sFDO12lTpHuOaC/sIEPOwOZNtuGdAVu9sB/Sgu+nCqYH3/1ktd10mKrIXu4YihM97roYM0GDNhT62aLdiQL7dRGs8ACaHImw/aKg83yoWufNldqI2sOqCoyUpz64OFFQyo0/mBHMNTrDco315iXG8AbDSgPJPiBooXUaLGqY5M5wRYKOb3lhV5xlsHPE2AtCXaHuu49dS7cbBhdyHFFrgnz8lRBEkpFZhkysD3MfaHbre82pHUUbWvUG1vZdJyikFC4LJ7gVXEV/daufnOaG+Uo1zImCQ+UrROjfty5pToaKW1r3dEvzkSVmbjzLgnLibUyQD+5p0PugAIv3HLHeZCr3a/+Cj+A4yq8f0X4+kKo=;Uepgi3krrnE9an/98waaWQ=="
+secured: "caEkPIKbUCilrer27zc/l/Rcn0fQsQjHEoPkKyGVal3jARxiQZEIv0iJHz7NORR6KCIzHl7OMd+bbiz/wQ7jT8xSlhmzGGkJyZWYqqAgHtj+KAH432kGUYz624vazbsb+tQqZ2ptIhu7dvaauuQSZjLkvqATFZOS9DQiNnAUso+r0He3+bKqDEAzXlAGzO1zdwFhWwSLLpfVNTTiADsMnQitOH4iE7KgVCeowoun14d84Kh+MON9qrtrjwu3HhtfPjRXcImmS7eXy5CI0pdh6Phh4SKxM4x5L5CeT+OcTdNdMIC6Tjru3SYIYxMfShAbMwrOq4hgOaFL8/A84PuhcDFucGPQXAYb62ae+q6zOs0=;xF9EFuKsMW/2rantSIDAcA=="
 ---
 
