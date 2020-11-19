@@ -41,6 +41,20 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Time to send in the robots"
+    excerpt: "How can automation enable organisations to meet changing expectations and cope with future unexpected peaks and troughs in demand? Steve Richmond, Director of Logistics Systems, Jungheinrich, explains."
+    publishedDateTime: 2020-11-19T10:57:00Z
+    webUrl: "https://www.shdlogistics.com/robotics-automation/time-send-robots"
+    type: article
+    provider:
+      name: SHD Logistics News
+      domain: shdlogistics.com
+    quality: 39
+    images:
+      - url: "https://www.shdlogistics.com/sites/shdlogistics.com/files/technology-4256272_1920.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "BITSMIZPEDTRt0iuyEXxA0z7YOlSUCx1n2b8nfeyM9I/wxT0QSq11PGltV7Wgl6M8FNYeBBttM4+nLsePESRUJipJjYf0RnYtRIZfZ7z/PF7h2Fw4/PwtJ9omTCY/5J/+c5Z9StdNgkYrE78tToYA1iC+0TprN0HQt4VFIU4Bv1OL/jGhzGc/Xy1MgQf99FBuK5qgh/DVlRLp9bWzMwNT3XddLlqBVO8aOaUCIrq8hmlYRBJ86ZXGWrYxVM5RdMjNSGwee7xJuvad9osbc9sYrMs0SQFbfHH8S6XKqB07syS3fahdGuyK54rJI8CPzUyJ0L1Fxqwx9dv1iWMmLMYs+ccklqqMTXcBMKSSqd7o2I=;1BTJpwEEEsTwU3QXxeXZ6w=="
 ---

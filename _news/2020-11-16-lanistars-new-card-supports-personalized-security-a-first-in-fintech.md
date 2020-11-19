@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -102,6 +102,20 @@ related:
       - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/061120_GlobalFinance_300x300.jpg"
         width: 300
         height: 300
+        isCached: true
+  - title: "Seoul Fintech Lab Supports Korean Fintech Startups to Move Into Europe"
+    excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on Nov 26 to provide business matching opportunities for Korean startups."
+    publishedDateTime: 2020-11-19T09:19:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005553/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 24
+    images:
+      - url: "https://mms.businesswire.com/media/20201119005553/en/840377/23/poster.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "Dte+jMnbX+alWmiODuPbUVPft6DbX+axMtCV792PfIcakD51ouA6jjbQH+TdJ+yuNToFU/YaRNOhvr0hCwQ6/J+Zg35BQp0eGPh8aSzZfOVxAGYaend0rW6vHWlklpiZqvQhUwqwzM4Q06W2zXHkWN4sCpklE/wArliZ9TLkqIMyvQfl4eAUTgQ5ozFPl9LaXd+pcX9uOZSbIsRHVzYFWQms+epJH76zQgj6bMI3+o2E5ROYXUu7cuFa1HU1IZO5IWHIP1VayELlsGuSbp9IM/r7bzBXlw/bfMrd/zw+9iv4KMiw057WNvqGO76fakpd4RiAeon+R4UcFtNDrwbE06KYTXGJ0FdLo96ux8e3/pxJB55urQoqQFkvS9Q57vu6Zo4uz+yLk9cv+AlVdoqFXTGFCckelLSLOEaNjNxIiklS4CxtL8h0UjynGkMMd4MTmGegEAFCt9q8VcHXS2pYYxfmz8cBWq/1vL45oaJTpAwBBt9fXBw2md1qEJj6elE2H+wsMerrdWAMBY3owwxxjA==;9fzZPXL01TQX29ImFm+3zg=="

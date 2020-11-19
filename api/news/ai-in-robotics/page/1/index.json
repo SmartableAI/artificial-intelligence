@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-making-robots-useful-in-the-warehouse.md",
+      "title": "Making robots useful in the warehouse",
+      "excerpt": "Working in a warehouse is tough for robots. Unlike on a production line, where the same motion is constantly repeated, orders and tasks can change, requiring them to adapt. On top of that, different objects require different – and often delicate – handling,",
+      "sourceUrl": null,
+      "webUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/",
+      "originalUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/11/201119-Robot.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp",
+      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp",
+      "publishedDateTime": "2020-11-18T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cosmos",
+        "domain": "cosmosmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient.md",
       "title": "Neural’s guide to the glorious future of AI: Here’s how machines become sentient",
       "excerpt": "Welcome to Neural’s guide guide to the glorious future of AI. What wonders will tomorrow’s machines be capable of? How do we get from Alexa and Siri to Rosie the Robot and R2D2? In this speculative science series we’ll put our optimist hats on and try to answer those questions and more.",
@@ -869,6 +912,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-13-nigeria-gets-artificial-intelligence-robotics-centre.md",
+      "title": "Nigeria gets Artificial Intelligence, Robotics Centre",
+      "excerpt": "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post",
+      "originalUrl": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/?echobox=twitter_post",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T07:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian Nigeria",
+        "domain": "guardian.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-robots-join-the-sales-team.md",
       "title": "Robots Join the Sales Team",
       "excerpt": "Brokers can hand off tours of listings and the litany of client questions to their bionic colleagues, but a human has to step in when a deal is ready to be made.",
@@ -1343,110 +1429,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-researchers-propose-physical-ai-as-key-to-lifelike-robots.md",
-      "title": "Researchers Propose ‘Physical AI’ As Key To Lifelike Robots",
-      "excerpt": "This combined discipline of \"physical AI\" could effectively be the missing link in the attempt to create artificially intelligent robots that look and behave like humans, the Imperial College London team suggests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
-      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7b213e5c462adfa8f21%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/11/11/researchers-propose-physical-ai-as-key-to-lifelike-robots/amp/",
-      "publishedDateTime": "2020-11-11T04:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
-      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
-      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

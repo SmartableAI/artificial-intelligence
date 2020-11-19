@@ -2,23 +2,17 @@
 category: news
 title: "Masters of Scale: CEO’s of Square, Logiq, Alibaba, and Spotify, Driving Global Growth in Fintech, E-Commerce, and Digital Entertainment"
 excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights from leaders at: Spotify (NYSE: SPOT), Logiq, Inc. (OTC: LGIQ) Square (NYSE:SQ) and Alibaba (NYSE: BABA)."
-publishedDateTime: 2020-11-18T14:50:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/masters-of-scale-ceo-s-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-commerce-and-digital-entertainment-1029816526"
-webUrl: "https://markets.businessinsider.com/news/stocks/masters-of-scale-ceo-s-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-commerce-and-digital-entertainment-1029816526"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Masters-of-Scale-CEO-s-of-Square-Logiq-Alibaba-and-Spotify-Driving-Global-Growth-in-Fintech-E-Commerce-and-Digital-Entertainment-1029816526"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Masters-of-Scale-CEO-s-of-Square-Logiq-Alibaba-and-Spotify-Driving-Global-Growth-in-Fintech-E-Commerce-and-Digital-Entertainment-1029816526"
+publishedDateTime: 2020-11-18T08:25:00Z
+originalUrl: "https://www.morningstar.com/news/globe-newswire/8088461/masters-of-scale-ceos-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-commerce-and-digital-entertainment"
+webUrl: "https://www.morningstar.com/news/globe-newswire/8088461/masters-of-scale-ceos-of-square-logiq-alibaba-and-spotify-driving-global-growth-in-fintech-e-commerce-and-digital-entertainment"
 type: article
-quality: 37
-heat: 37
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
@@ -37,6 +31,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "WPrwyymjcAya7Kb4N0tu3Fxv6b32TVdR0WUWhS9oJMgZV8L+LUn/iTwvD+k/ZWyJFyliI+lMvBFyx1wvdBICeUWrJCaxVDKeBiWXhoirxAS5e7O47YAAR+jLZUSFz+UfiraELuDFnK/EiKYiqDt35qNb9oq66AXQ371wPB6SSYFwr8G9LGLKoep4ITVctYHebPRL4rcRLbnqyaN/i+N1wotrFsCOtzfmMXEdubgCXC09Er0x/izxqc/TmmviHdEIPOD8xOBjLMP9nYk26FIe2MxnQyKBs40eA+w/1gIYRkK6DtZfBQxHKksdy8lv4XGdQHDrVLMUWHbZ/l8htIln0/PfwzO04h/fvHBDNMZ4Pmo=;5Fa6D6iB2FjAGAh06bVvSg=="
+secured: "axbBhxxXcMywhlSVojZCf80J3wDVqRieY9MLV5ESVv550MzVsfXl6tHSY7duedXAaFRs3fLwQWq6juhDC787oF+4QWmXaWGjdld+DfdB5e/hJURzrVhuKl6aRoBargWaR+tM+9QhvZFt1GFFvqHU9ILN0/xCCaOuuvkEmeyMTmGxxIdFh6lvmAmN5D4mwWAZk8wQ6A5aaEBjohe2Og4YYAfjXKOfMWfjUxkrCAML5JzHXJKY2zmI6aquuMFzQ5oAFCyd5rHCgZRQsto57yJtq+TJgoOMzkfbN8SwFL4IOwigA4pYu5UnboBQLjS7xJckcJa6bER/XOna1/o1ZmeVPYb8NLZQ5z4ISb87s435WWk=;CrUknT9FkEaz8zlle96OSg=="
 ---
 

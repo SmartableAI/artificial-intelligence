@@ -82,6 +82,20 @@ related:
         width: 2048
         height: 2048
         isCached: true
+  - title: "Aisera’s Conservational AI for Microsoft Teams Will Change the Future of Work"
+    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk with Microsoft Teams. This integration will speed up and simplify Microsoft’s resolution of internal support tickets for ..."
+    publishedDateTime: 2020-11-19T06:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-c80fc29710aaf0f9506bdf3c2b8df8dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 53
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Aisera's Conservational AI for Microsoft Teams Will Change the Future of Work"
     excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk"
     publishedDateTime: 2020-11-18T15:00:00Z
@@ -95,20 +109,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1335577/Aisera_Logo.jpg?p=facebook"
         width: 1500
         height: 784
-        isCached: true
-  - title: "Aisera’s Conservational AI for Microsoft Teams Will Change the Future of Work"
-    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk with Microsoft Teams. This integration will speed up and simplify Microsoft’s resolution of internal support tickets for ..."
-    publishedDateTime: 2020-11-19T06:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-c80fc29710aaf0f9506bdf3c2b8df8dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
     excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."

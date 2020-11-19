@@ -2,6 +2,152 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-17-niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence.md",
+      "title": "Niti Aayog proposes setting up oversight body for Artificial Intelligence",
+      "excerpt": "The oversight mechanism may serve in an advisory capacity and it must interface with existing regulators across sectors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/11/17/w600X390/Amitabh_Kant_PTI.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.amp",
+      "publishedDateTime": "2020-11-17T05:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19.md",
+      "title": "AI discovered an old arthritis drug that can help elderly people survive COVID-19",
+      "excerpt": "A new study found a medication identified as a potential COVID-19 treatment reduced deaths by 71% in elderly patients with moderate or severe illness.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T120921.079-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/",
+      "publishedDateTime": "2020-11-17T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-automation-is-the-app-uipath-powers-up-low-code-robots.md",
+      "title": "Automation Is The App, UiPath Powers Up Low-Code Robots",
+      "excerpt": "As we drive RPA software robots into more roles, we do want to be able to build them using faster low-code controls that perform an increasing amount of their own DNA engineering automatically using AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/",
+      "originalUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2846f594894f046f521b6%2F0x0.jpg",
+          "width": 638,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/adrianbridgwater/2020/11/17/automation-is-the-app-uipath-powers-up-low-code-robots/amp/",
+      "publishedDateTime": "2020-11-17T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip.md",
       "title": "EdgeQ raises $51 million to fuse AI compute and 5G within a single chip",
       "excerpt": "G. Edge. Open. Programmable. AI. No, it’s not bingo at your local silicon chip enthusiast meetup, and no, I am not trying to game Google’s search algorithms (well, maybe just a bit). Rather, it’s a combination of technologies that are predicted to become critical for the future of the internet of",
@@ -1077,163 +1223,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-new-motorcycle-technology-provides-ai-driven-protection-for-riders.md",
-      "title": "New motorcycle technology provides AI-driven protection for riders",
-      "excerpt": "RideVision bundles a suite of rider-assist and active safety technology into one suite for riders. Active safety technology and driver-assist features continue to spread across the automotive industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/iSySC5vXP-egqULB9Xmj5RPTF5E=/2020/11/16/73c7f009-7de4-4baa-af6c-7bd3838dfcd2/ogi-ridevision.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
-      "publishedDateTime": "2020-11-16T08:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027.md",
-      "title": "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027",
-      "excerpt": "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-lanistars-new-card-supports-personalized-security-a-first-in-fintech.md",
-      "title": "Lanistar's New Card Supports Personalized Security, A First In Fintech",
-      "excerpt": "Lanistar's core development mission is to provide first-time Generation Z and millennial bank card customers with the freedom and security they want in a bankcard but couldn't find with any Financial Services Provider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2983013d41ff91cf73339%2F0x0.jpg%3FcropX1%3D656%26cropX2%3D7952%26cropY1%3D0%26cropY2%3D4634",
-          "width": 1200,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/",
-      "publishedDateTime": "2020-11-16T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

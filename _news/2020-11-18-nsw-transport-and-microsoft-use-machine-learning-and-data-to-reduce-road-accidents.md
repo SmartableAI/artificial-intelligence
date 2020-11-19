@@ -1,15 +1,15 @@
 ---
 category: news
 title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
-excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
+excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous ... before Databricks and Azure were used to curate, ingest, and interpret the data."
 publishedDateTime: 2020-11-18T03:00:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+originalUrl: "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+webUrl: "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
 type: article
 quality: 80
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -37,21 +37,7 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 80
-  - title: "Transport for NSW trials machine learning to detect crash blackspots"
-    excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
-    publishedDateTime: 2020-11-18T20:38:00Z
-    webUrl: "https://www.itnews.com.au/news/transport-for-nsw-trials-machine-learning-to-detect-crash-blackspots-557980"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 43
-    images:
-      - url: "https://i.nextmedia.com.au/News/busy_road.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
-secured: "ZOWtU4XmWhjC3hlddsqfCDq12CrKqlO5w7sl/cczyhRBws/4SLt3RTbuGRSUlyDnTNL9shrbhnBBlIUCPiTKsJMBKZnpo2RGqDF6U3xSuEKlEdF+L9bYdGDbTXe2/KCDq4CrnMPabmTMt2xHXYwBsY5kVGzY3u5cOSJuigG7JJE/IzZT7CNmxX3cpiy92XZhCuqjamE7rinqJODg6tgwNlYq02auMQJCFxt6b2GjTo4kTL4nhCl9ajpa9SCymV9DbRPKIZSmX8kCtF80L/75cKY78nKHIFZEGvIC2XvLt+wRsssieDMkNc69VWqV5hHkL7AQLGf4BuSrPwm9c+idVPw+GkG/4fbplRUj+f61PYSr4aIOI456DMCbV3CPtuXwzpLiD/PV4sIU567/7kiV857iFUtv0pZLr4qYAciW0hrvSJegVHDGHt3wXkblGnC3kjLWBreqh4zyW4HL1Sbl3ZMoJhjnpStpsanKMjuINin1DhZLMS3Bdr3QeGcn58FGvedvPqI8LhMWM+aXr6+27g==;u5NsF7KILoLOvADtbGPgjw=="
+secured: "L5mE8ogiS/iagf/N2NpuubnnC5Hg/xMrweV+EjEdms6QNWtcdarJ2rLJ+PbtCz3RPgIDZM+M1FwtdV44KvASBlJ+YxAASzQY7yYsFquv7IQjYdqbuikekI8rv6Fh460q0GHPAowB6jhyhmFxMyP4lMEFE1HrTGoailVAC/AD0x2AYoEfj8yoi4ZR5Ajz8qUU6ZHfsT+b35Zl/0ppZbZIsjHDetJyXA4cxMY03iDNxL7dGO7DYDAWwGWcz/PAN8YqFbW44fa7jjUwR2YnzSBZMclcYuZ7NqX2NDapxTUC+ZidYTznCPESOveiFxBVD9FX78vlQ3Q2gSvLnKvbDAlgWxiDB3WdlRs6nMBI/GkOMx+T5fSTYG3LknPu1FHH8p+2IhbmNUgoWYx3x8l4qjOi3z1gahWvxoS36X6IBIyPHNE2XPPgXVua7Ko18DCVaBjkRKBgUFwTBrJlWtiPvvZF8TrPNc68pdUEQVAXHMLPwyZYnqRwbZ5NM0qV74MUfiWhhvlfFiN8wMmGkfXLIqDaFA==;JqipQ+ZKtpndwZkkkZy50w=="
 ---
 

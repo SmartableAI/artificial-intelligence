@@ -1,13 +1,13 @@
 ---
 category: news
 title: "3 rising AI/ML startups from South Korea"
-excerpt: "Even AR/XR glasses in the near future may have an image and video-based motion sequence engine. We’re using Amazon SageMaker to help label images for bounding box object detection and use Amazon Mechanical Turk to help us outsource work with public ..."
-publishedDateTime: 2020-11-19T05:37:00Z
-originalUrl: "https://www.techinasia.com/tencent-reportedly-leads-udemys-50m-series/next"
-webUrl: "https://www.techinasia.com/tencent-reportedly-leads-udemys-50m-series/next"
+excerpt: "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,"
+publishedDateTime: 2020-11-19T09:02:00Z
+originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea"
+webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea"
 type: article
-quality: 68
-heat: 68
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -19,11 +19,10 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
+  - Facebook AI
   - AI
   - Machine Learning
-  - Facebook AI
 
-secured: "ASvxbChPHwZscic+k+ujpdtLyUq3Rkt1nCEwzFhCoEo0QWH6sXB8dowEtMMOu2moIqArOJF9pgdFk+CDVQ0Rv5OjxwCwkYC7NaAdTCFjNPay7V3T2S77lmJHXGEee0nfi3yxKfedfufaCXzIkG+MOcJoQhesI3JX4XqRl4Qqq88+h/N1xCawtipHMyPiv18Re/qTNEIWElHnTj6nkcVu1HB/xlo4M1wp/hqtMXB5rUuH97nHpiLAwwtZXR58tBL2fubdLlyANrakTudFAtBMCNQ+6ans/r2OaZqIxvkkkNK/JWn+E2TX1iIWs2bUeQufuWaQRC9kwYKc+oY0HulGQ8roZs/5VUzt0SVhsyMRZ84tdcjGcONtwrE0kJm26TsnLFHjYK7oe47NjGxVaPPl33ijyOIVHtZDENyrRDexOapZv7pFm+VBWyTRzbfKHgr9UFNqb6xbyB8DWefaIWGP3MnHNOfvCCrneFcIi7EABx0B6AH/gNiRr9qDJEq7SUe3H+fwgSXkwP+hrimy7XF6NA==;Y0NKDo5yU/ZZM6LUiHFjcQ=="
+secured: "kCdUyJdvTsbx94ld2Ktoe4q98K9vZ8WRmluI4XEzr3oVsNe3RIUzexEWmB2CRr7VeHBDNn5CIin0hPg0nz/SRvhBZmeZLx7ryeX6RX3ogeq1wZKf3y3qH/vWrfh5snrqoVHm90oOcPh/oPU2jNGTYK9RB3j8vniPx9RqD/zW7PUKTrN47hvbQ3hMpm2ikWD/iNYApcJ8lIECBFvc1dYI5pvzlhoXjRfemTEZWLS3hs7UFQFc7Oyq9eRQRtGWOgfmclN22PP/k3/3QSYHdbQqJLzDwyHi+D0c7laCvLZy788W0dzesS/9S8PiaHEk6DuuCUR0dT/3Rndmf0+InF6O2eQ4EE07ZhlaTXT+s71k7PoQOIfydVQRSxhpHwkkUsTUejXviRML42hJ0rm5vpdsLvl064+QDG2FN4Tm/9HG+TYMIg+LQ+ljFRgMsrjLOQ6itbghfp/Ji3B6GMiE75ShWOCxbU3J2Kl1x9VNWLiDKLV0H1QxJbvi7Zv1Ogfj1Oi8PElGnkOl+rDJ0Mb61aYtJQ==;GhervqjLL5BIyQE1kEGMvw=="
 ---
 

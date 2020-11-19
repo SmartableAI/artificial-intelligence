@@ -87,6 +87,20 @@ related:
         width: 1080
         height: 720
         isCached: true
+  - title: "Aisera’s Conservational AI for Microsoft Teams Will Change the Future of Work"
+    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk with Microsoft Teams. This integration will speed up and simplify Microsoft’s resolution of internal support tickets for ..."
+    publishedDateTime: 2020-11-19T06:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-c80fc29710aaf0f9506bdf3c2b8df8dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 53
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Aisera's Conservational AI for Microsoft Teams Will Change the Future of Work"
     excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk"
     publishedDateTime: 2020-11-18T15:00:00Z
@@ -100,20 +114,6 @@ related:
       - url: "https://mma.prnewswire.com/media/1335577/Aisera_Logo.jpg?p=facebook"
         width: 1500
         height: 784
-        isCached: true
-  - title: "Aisera’s Conservational AI for Microsoft Teams Will Change the Future of Work"
-    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk with Microsoft Teams. This integration will speed up and simplify Microsoft’s resolution of internal support tickets for ..."
-    publishedDateTime: 2020-11-19T06:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-c80fc29710aaf0f9506bdf3c2b8df8dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 51
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Aisera’s Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
     excerpt: "Aisera Delivers the Benefits of AI to NJ Transit With the integration of Aisera in ... and a strategic partner with AWS, Microsoft Azure, Google Cloud, ServiceNow, Atlassian, Zendesk, Datadog, Automation Anywhere, UiPath, and Salesforce."

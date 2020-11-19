@@ -2,6 +2,99 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-19-saudi-arabia-to-invest-more-than-5-bln-in-artificial-intelligence-by-2030-state-tv.md",
+      "title": "Saudi Arabia to invest more than $5 bln in artificial intelligence by 2030 - state TV",
+      "excerpt": "Saudi Arabia plans to invest more than 20 billion riyals ($5.3 billion) in artificial intelligence projects by 2030, Saudi state TV said on Thursday, citing the chairman of the Saudi Data and Artificial Intelligence Authority Abdullah al-Ghamdi.",
+      "sourceUrl": null,
+      "webUrl": "https://in.reuters.com/article/saudi-economy-technology-idIND5N2EC02L",
+      "originalUrl": "https://in.reuters.com/article/saudi-economy-technology-idIND5N2EC02L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mobile.reuters.com/article/amp/idIND5N2EC02L",
+      "cdnAmpWebUrl": "https://in-mobile-reuters-com.cdn.ampproject.org/c/s/in.mobile.reuters.com/article/amp/idIND5N2EC02L",
+      "publishedDateTime": "2020-11-19T02:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai.md",
+      "title": "Huge U.K. Defense Spending Boost Funds Cyber Force, Space Command And AI",
+      "excerpt": "The massive increase in military spending focused on specific technology areas suggests a shift in Britain's strategic direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb63e2b2aef54509e02918a%2F0x0.jpg",
+          "width": 1199,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "publishedDateTime": "2020-11-19T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025.md",
       "title": "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025",
       "excerpt": "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,",
@@ -355,6 +448,49 @@
       "topics": [
         "AI",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-making-robots-useful-in-the-warehouse.md",
+      "title": "Making robots useful in the warehouse",
+      "excerpt": "Working in a warehouse is tough for robots. Unlike on a production line, where the same motion is constantly repeated, orders and tasks can change, requiring them to adapt. On top of that, different objects require different – and often delicate – handling,",
+      "sourceUrl": null,
+      "webUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/",
+      "originalUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/11/201119-Robot.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp",
+      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp",
+      "publishedDateTime": "2020-11-18T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cosmos",
+        "domain": "cosmosmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1115,152 +1251,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rachel-malarich-is-planting-a-better-future-tree-by-tree.md",
-      "title": "Rachel Malarich is planting a better future, tree by tree",
-      "excerpt": "Everyone has a tree story, Rachel Malarich says—and one of hers takes place on the limbs of a eucalyptus tree. Rachel and her cousins spent summers in central California climbing the 100-foot tall trees and hanging out between the waxy blue leaves—an experience she remembers as awe-inspiring. Now, as",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
-      "originalUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_3_1.max-1300x1300.png",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
-      "publishedDateTime": "2020-11-18T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes.md",
-      "title": "Go Jauntly applies AI to seek scale via ‘greener’ walking routes",
-      "excerpt": "Unless you’ve been on very extended digital detox, you’ll have noticed algorithms don’t exactly have the greatest reputation these days, saddled as they are with pervasive questions of bias and inequity.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
-      "originalUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GJ-Routesforyou-Mockup4.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
-      "publishedDateTime": "2020-11-18T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-roche-canada-launches-national-artificial-intelligence-centre-of-excellence.md",
-      "title": "Roche Canada Launches National Artificial Intelligence Centre of Excellence",
-      "excerpt": "Roche partners with AI leaders Amii, Mila and the Vector Institute to drive digital transformation in health MISSISSAUGA, ON, Nov. 18, 2020 /CNW/",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "publishedDateTime": "2020-11-18T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
