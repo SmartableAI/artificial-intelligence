@@ -8,7 +8,7 @@ webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-
 ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI Ethics
 
 related:
   - title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"

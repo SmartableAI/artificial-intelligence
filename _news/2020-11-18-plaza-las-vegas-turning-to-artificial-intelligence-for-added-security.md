@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-inte
 cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Money Talks: Artificial intelligence looks smart in Las Vegas tech show"
+    excerpt: "This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Learn more"
+    publishedDateTime: 2020-11-19T06:42:00Z
+    webUrl: "https://www.trtworld.com/video/digital-documentaries/money-talks-artificial-intelligence-looks-smart-in-las-vegas-tech-show/5a5caeac0a65dd34668bbcec"
+    type: article
+    provider:
+      name: TRT World
+      domain: trtworld.com
+    quality: 37
+    images:
+      - url: "https://cdni0.trtworld.com/w640/h360/q75/25301_USA-2018-01-10-CES-tech-show-LA-AP_1516023790183.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "l7NXvCnNDYINeNZloxxBGDU+5tbJ1r//pYEHUsEtA4dyKYZXZtYjbvjk2GQuBH1Xbmjdk9eAejsEtjd0oTk5fHyG9baR6f6WhkWUkA+TOnr3vEpEqe0rbFdFkWVjWodHm+wPInQwOfYjGMFcP8bpgDCKm9aqXDhIUfbeS/WUXl8L6Ozu2+yhEAOfOCyOuYPbp6aI+rQjnYxpUEeL53GC9+XuzBh3CxTKMZY3L/hlvaoTN4Yb8G0B1E9mR5IJUxC7/rROZTffJOQ6H9k7aHOlrrpv91mp6/m/bSHJCQdYxZMbjMcuaIjGYS6ZBRk4jWtKCe4lxEVx0i3YV+iWF4VXCLdmS0DF3u9MLwEmOVeN0NGRpTUSR8VIqohiiqXTKze+/+95o1NxGUEGPbHVRNnhB2+wz8M8D+i8EsAg/omyVBoVu71kjfZKGgwD4gQsJfDFy3UG4vmwJHbH52l/NKmcT9/6aqQiDqpU1v9LLh84a7Xp+fvG2ZBQofAcCol8Ovk7BXxz3F5AywYwHTnpU1rPQw==;RJ4tnAlOZyEUHhxvIcIQIQ=="
 ---

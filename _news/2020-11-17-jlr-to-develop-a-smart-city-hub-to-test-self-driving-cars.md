@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Uber (UBER) is Reportedly Looking to Sell Self-Driving Unit"
+    excerpt: "Per a TechCrunch report, Uber Technologies UBER is in talks with Aurora Innovation, a self-driving technology startup, to sell its self-driving unit Advanced Technologies Group or ATG. Going by the data,"
+    publishedDateTime: 2020-11-16T17:25:00Z
+    webUrl: "https://www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16"
+    ampWebUrl: "https://www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "JLR developing ‘smart city hub’ to test self-driving cars"
     excerpt: "Jaguar Land Rover is creating a ‘smart city hub’ which will allow real-world testing of self-driving vehicles. The Future Mobility Campus Ireland (FMCI), located across 7.45 miles of the Limerick-Shannon metropolitan area at Shannon Free Zone,"
     publishedDateTime: 2020-11-16T10:49:00Z
@@ -71,6 +82,31 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Uber reportedly wants to offload self-driving division"
+    excerpt: "Uber is looking to sell its self-driving technology division known as Uber Advanced Technology Group, according to media reports. Citing three people familiar with the matter, TechCrunch reported last week that Uber is in talks to sell the Uber ATG division to Aurora Innovation,"
+    publishedDateTime: 2020-11-16T15:00:00Z
+    webUrl: "https://www.motorauthority.com/news/1130312_uber-reportedly-wants-to-offload-self-driving-division"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/uber-self-driving-prototype-in-san-francisco_100585356_h.jpg"
+        width: 1920
+        height: 1187
+        isCached: true
+  - title: "Uber may sell self-driving tech group to Palo Alto-based Aurora Innovation"
+    excerpt: "Uber Technologies Inc. is reportedly shopping its Advanced Technologies Group for sale. According to a report from TechCrunch and later Reuters, San Francisco-based Uber is in preliminary talks to sell its autonomous vehicle division,"
+    publishedDateTime: 2020-11-16T10:15:00Z
+    webUrl: "https://www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.html"
+    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 22
   - title: "Jaguar Land Rover developing \"smart city hub\" to test self-driving car tech"
     excerpt: "Jaguar Land Rover is teaming with software and telecom companies to create a \"smart city hub\" in Ireland to test self-driving technology."
     publishedDateTime: 2020-11-17T19:00:00Z

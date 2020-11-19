@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-19T06:23:00Z
 originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-2f8137c4d5bd046738bfe7e54533b87a"
 webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-2f8137c4d5bd046738bfe7e54533b87a"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

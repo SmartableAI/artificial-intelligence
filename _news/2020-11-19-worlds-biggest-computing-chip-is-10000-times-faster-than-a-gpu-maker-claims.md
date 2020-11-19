@@ -1,15 +1,15 @@
 ---
 category: news
 title: "World's biggest computing chip is '10,000 times faster' than a GPU, maker claims"
-excerpt: "Cerebras Systems has today confirmed that its CS-1 computing system has achieved a new performance milestone, delivering speeds far beyond what existing CPUs and GPUs are able to achieve. The CS-1, which is based on Cerebras’ WSE processor – the ..."
-publishedDateTime: 2020-11-19T00:35:00Z
-originalUrl: "https://www.techradar.com/uk/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
-webUrl: "https://www.techradar.com/uk/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
-ampWebUrl: "https://www.techradar.com/uk/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/uk/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
+excerpt: "can now claim to be the “fastest AI computer in existence.” According to Cerebras and the Department of Energy’s National Energy Technology Laboratory (NETL), the CS-1 is more than 10,000 times faster than leading GPU competitors and 200 times faster ..."
+publishedDateTime: 2020-11-19T07:45:00Z
+originalUrl: "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
+webUrl: "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
 type: article
 quality: 114
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -47,7 +47,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "As AI pops up in more and more scientific computing, a new time test measures how fast a neural net can be trained"
+    excerpt: "The tests reflect an increasing use of deep learning in scientific computing on the world’s biggest computers."
+    publishedDateTime: 2020-11-18T11:08:00Z
+    webUrl: "https://www.zdnet.com/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/18/725431ad-48d1-48f6-9692-bfaa768788f1/fujitsu-2020-fugaku-supercomputer.png"
+        width: 2404
+        height: 1320
+        isCached: true
 
-secured: "j/g18d2W73onILU8vJvisBnY9++sj2jjWx1EPLisUpdMALcaR/xcMGHs8GHjquiRCjULcA+nxMGZNRBPFkDuVATif/Qs0VJiw+Yc5msAx6OQdXMpQAzn3A5ANJvvv9Wsg810tIEPWdZ1c/yvMv1dZrC4HDG/sj8WSU0V5GEbzEcip0OP2+9rLOwTqZ/za6kq9yKBhmySJ80G4c0/wPjyyl35MXlnJDxrDX+l4KrCUf29hhy5wV8Z3XW53IxCmcT8ALYzPDHb57U9mLYTl4RNRmQ7F49T+ImucQjLUig+3z19uZX0REVKh81s+MVAuNGNd0b2XBBsS9ue8HH6rD04X/oLvJHwR2AGrL7vAeoFCnA=;R/a+0G3uP5Fy109Pb3ji4Q=="
+secured: "ZLep8ccbZUaJr8j4NJP35WCvwkIbZEYivJVgFHXPwc2IR8Z+lufyn3WYAABJQ9dWmYTJZrzVGNBQEpraEgRqtsnZLqP+touGN6dS3zhAZlhMoCVq/0OmmUmvdN3HCd+R28KZd/gSp4q1BCNOcALuJ7IvVtw8tMmMiGbLINIrQA3iDI2seEVelkqvVI7q3cFL02On5RBKriiouXlHRHeYUpQfkrOk4Iyeb0ZDSdJ3ggI48xBF9MgmjiAm88VDplhEecL6G21armfJm3LdYbhfx49lxn6BW5D+hBpaj+zGnZ6/SGpI2xaP1n9BoLwA7vcXY/dQPPe4mrQz+z+aloLOq98qCspJkZIzRYBEz0s2pls=;bYonxJJwO2s17WUHGSVNyQ=="
 ---
 

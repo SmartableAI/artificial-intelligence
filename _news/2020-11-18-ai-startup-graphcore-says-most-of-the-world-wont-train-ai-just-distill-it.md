@@ -32,10 +32,10 @@ images:
 related:
   - title: "AI startup Graphcore says most of the world won't train AI, just distill it"
     excerpt: "Simon Knowles, chief technologist for Bristol, England-based AI computing startup Graphcore, on Wednesday told an audience of supercomputing professionals that the large mass of AI work in years to come will be done by people distilling large deep learning ..."
-    publishedDateTime: 2020-11-18T23:49:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+    publishedDateTime: 2020-11-19T03:14:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
     type: article
     provider:
       name: ZDNet
