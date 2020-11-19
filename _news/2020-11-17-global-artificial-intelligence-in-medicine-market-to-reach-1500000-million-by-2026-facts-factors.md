@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-17T14:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-to-reach-1500000-million-by-2026---facts-factors-2020-11-17"
 webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-to-reach-1500000-million-by-2026---facts-factors-2020-11-17"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

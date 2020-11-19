@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-inte
 cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Video: Motional to test fully self-driving cars in Las Vegas"
+    excerpt: "Motional, the recently formed autonomous vehicle joint venture of Hyundai Motor Group and Aptiv, has been granted permission to remove the drivers from its vehicles for testing in Las Vegas. In August,"
+    publishedDateTime: 2020-11-19T13:56:00Z
+    webUrl: "https://electronics360.globalspec.com/article/15991/video-motional-to-test-fully-self-driving-cars-in-las-vegas"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "l7NXvCnNDYINeNZloxxBGDU+5tbJ1r//pYEHUsEtA4dyKYZXZtYjbvjk2GQuBH1Xbmjdk9eAejsEtjd0oTk5fHyG9baR6f6WhkWUkA+TOnr3vEpEqe0rbFdFkWVjWodHm+wPInQwOfYjGMFcP8bpgDCKm9aqXDhIUfbeS/WUXl8L6Ozu2+yhEAOfOCyOuYPbp6aI+rQjnYxpUEeL53GC9+XuzBh3CxTKMZY3L/hlvaoTN4Yb8G0B1E9mR5IJUxC7/rROZTffJOQ6H9k7aHOlrrpv91mp6/m/bSHJCQdYxZMbjMcuaIjGYS6ZBRk4jWtKCe4lxEVx0i3YV+iWF4VXCLdmS0DF3u9MLwEmOVeN0NGRpTUSR8VIqohiiqXTKze+/+95o1NxGUEGPbHVRNnhB2+wz8M8D+i8EsAg/omyVBoVu71kjfZKGgwD4gQsJfDFy3UG4vmwJHbH52l/NKmcT9/6aqQiDqpU1v9LLh84a7Xp+fvG2ZBQofAcCol8Ovk7BXxz3F5AywYwHTnpU1rPQw==;RJ4tnAlOZyEUHhxvIcIQIQ=="
 ---

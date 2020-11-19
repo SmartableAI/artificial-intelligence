@@ -1,12 +1,12 @@
 ---
 category: news
 title: "How machine learning and 4D analytics can protect Australians from financial fraud"
-excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,"
-publishedDateTime: 2020-11-05T04:32:00Z
-originalUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
-webUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
-ampWebUrl: "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
-cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
+excerpt: "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles ... The Government now also provides very substantial services for institutions to verify their customers through ..."
+publishedDateTime: 2020-11-05T14:01:00Z
+originalUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+webUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html"
+ampWebUrl: "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
+cdnAmpWebUrl: "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp"
 type: article
 
 provider:
@@ -24,6 +24,6 @@ images:
     height: 392
     isCached: true
 
-secured: "H5OOyTLI1AwIk1oSvjknmUApNzSQzdOKosAo2F52ZvFuJBA2a8Vw0CJP4/tHSg+0ZPtcchBHhWJG9KPgqM28TW0Pp7bjUYqOcASw76g1R7F3mtNrWFzIp+eb0femDZ5saupCkFzV0k++l1PTSQGIqYr+WY3t2YTXIAmjmqDT1j41wNf0Q5qkT1eIc8RmtZTl6D2JX582uoo7sHQjliK7Gh5GVjU6CCatLznxHTRlyuHtLyP/gqY2hFd1hM1b1dtP8kHcLz2X7s74NHq3vZnRheNuMWEcQrkjRQCmH7dLCPb0uf5bLV07KbQRhwI4pCzmfkm9K1pp4we3q2rd5N5tyaU5En9F3ghSO+fHfjg1EBA=;IZgWzRpxJTC50pbBmi6nlA=="
+secured: "NKXCnYq5ilXqTOPoldE5taeBceLVADXRTihfcqEeFH3LvbhPRdyovZL7qgT5jmaTFmKymtmFJLI0/dgkfZ1wa9lLAsxw4742DVVdUXv0xcW+o+NHGUCoPJqMPqPJ77ppiXO9m1XC9j1pEkaMVcs6BTgQCfeONPl3egeOFhCtdMf5iyV5IsxdwyF4hwaIcrqzQdHaQnJrgUKL4vjYweZFDz5A5XQGP50I8DSKEAPUvy6/lhs9mPZHvUBqaVsp4qwOkz8dJzKt+ybjYt4p5AaAW8bsFNte3QyPLzvVTugJDL0axT0tEWFKClzKlDNWakyh3c6dhQ5Lct/GKns50cJhco7jm7Epn7jws6DErFCes80=;7tPfqEtFWJVZkMSxQ45ldg=="
 ---
 

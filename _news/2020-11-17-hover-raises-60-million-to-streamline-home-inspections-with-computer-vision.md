@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-stream
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2016/11/download-2.png?w=1200&strip=all"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
-    excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."
-    publishedDateTime: 2020-11-16T13:02:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Camera-Front-e1604615189107.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
         isCached: true
 
 secured: "GWJRmZ1fRTIPgtZQ8c2R9PtygsDiaQQDs7Z+tdGXa7YIS5LEn6cZa1Z87wtOPQ+KtT/SdkpX/5KNI+LQlhcL6ocggo3Lfz9E9xWEjdOwDXwPbFLyaNbe0kWpMd9qPe0S69PrHH3iBREgsKovn7SdoK1c0PDlJc0yf3/oWMUKnemQ+TeGw8HBs84Fh0eqpEpdiUVbLu/tiEsAC8jf8TjlVT1whZJehUn2Up1PqlrLFprLojY4HuK2ArKlsKhRWBuk0G2lQsS1w6ePQU06ep64foP+MjLUNh2+loDQ1k0xXAKQo6wA446xKs37BlP7GHGrjL4H9LMRvCw2LwgewPVwkORchtw9uZ1Oh6ZzYWq9sl9e4HSkCssTcJOzoO7jVBr8RwR5JBnR05+c3whzICR/P+0HPDzMwptLosJO8zby0rebq/iuDk9W+lSJWkp7qFIasKhopAx/4HIemS+sTt/AYYpTbJfvWfitmV1pnzY57QpW2uulUqW5OiWupb9jmUW68+OY2o7NK7sEoBz9qmYa6A==;OGBJUitYzOdQujCIm8c6Bw=="

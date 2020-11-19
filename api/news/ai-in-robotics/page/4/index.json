@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-27-us-lost-over-60-million-jobsnow-robots-tech-and-artificial-intelligence-will-take-millions-more.md",
+      "title": "U.S. Lost Over 60 Million Jobs—Now Robots, Tech And Artificial Intelligence Will Take Millions More",
+      "excerpt": "The World Economic Forum (WEF) concluded in a recent report that “a new generation of smart machines, fueled by rapid advances in artificial intelligence (AI) and robotics, could potentially replace a large proportion of existing human jobs.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/",
+      "originalUrl": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9837e248c4339c7e62c7dd%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jackkelly/2020/10/27/us-lost-over-60-million-jobs-now-robots-tech-and-artificial-intelligence-will-take-millions-more/amp/",
+      "publishedDateTime": "2020-10-27T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
       "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
       "excerpt": "What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing. He argues that nonhuman animals have moral standing,",
@@ -1320,49 +1372,6 @@
       "provider": {
         "name": "Butler County Times Gazette",
         "domain": "butlercountytimesgazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.md",
-      "title": "Thought-Powered Wheelchair Could Return Mobility To People With Paralysis",
-      "excerpt": "as demonstrated by a new study in which monkeys were able to navigate a robotic wheelchair using a brain chip. Now, this isn’t actually the first time that a mind-controlled wheelchair has been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "originalUrl": "https://www.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.iflscience.com/images/996b801a-a195-589b-9a62-61ed0ac2a71c/default-1464385738-205-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.jpg",
-          "width": 720,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "cdnAmpWebUrl": "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/brain/wireless-thought-powered-wheelchair-system-invented/",
-      "publishedDateTime": "2020-10-16T13:02:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IFLScience",
-        "domain": "iflscience.com",
         "images": null,
         "publishers": null,
         "authors": null

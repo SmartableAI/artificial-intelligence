@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Ride Vision raises $7 million for AI that alerts motorcycle riders to collision threats"
-    excerpt: "Ride Vision, a startup developing a product that alerts motorcycle riders to collision threats, raised $7 million in funding."
-    publishedDateTime: 2020-11-16T13:02:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/ride-vision-raises-7-million-for-ai-that-alerts-motorcycle-riders-to-collision-threats/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Camera-Front-e1604615189107.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "DJM2l3RXB8MMao6RHcDs4DHq+S1lwkjjY0C0r0hMjs5oPkke2Ko/TieCiTvVZtKCqyn8yR59WLXbnbOWmKfKi6GLdSQR+D84RO/V5lgVr7rxMpQkZu2wgfigMfwB+li62uPaEJowLbY2dZLOs4SeQ1rKOgMk+u7RMkl/jqRieBSHFahSdJ07tKIf8WbAlQ3C5fWiuug7AThO5hR0K7bV4IScIyjq49u1ywS0X2uXbgZcg5dZtPavunLCz54o9UKeW9BtNLWQRERhhAnlEmsxSWdhqsq/Vd8IPw6Eku2dXeplfhmHJiYCeW0v4NWPpd79d20EGsTR0yH3dbDaooyEOysg21Ml50UThxgwkMQNCUJ1LqvHN1oM6pPj2l+r+iW5AFEoSaLBvTo4vZ0IxGJ+h5XqmtgargRPhYv/f78J/+dOhzIfSWZDdoKzvtfTKdlPKu5O6ohrZvw2lk9q9cF+z2WlXlMVaO1w/UKStjQWBiSTvdsF2lV61IYqpOqC3u2YLzu1zR5V4/Ric9rRd79Wrw==;VfkQTWAsQlNtYmfBK7ls3Q=="
 ---

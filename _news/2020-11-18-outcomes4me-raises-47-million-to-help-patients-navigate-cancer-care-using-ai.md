@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "BeyondMinds raises $15 million to drive enterprise AI adoption"
+    excerpt: "BeyondMinds, which is developing a platform to facilitate enterprise AI deployments, has raised $15 million in venture capital."
+    publishedDateTime: 2020-11-19T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/8-e1605647757610.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "58LX9PWrO9c5G5bI53lVjfWR3w7+cKicM9vgxqGCPkMl33R+hX2wc4dJAl3VCLMJIHltLSEmMoVCmd45xVV40kiO+//vlyoLO6R9keP5D2uidUuThu5eUc6oad4ZHNUsBiHedsoBYCdVYDm+86Gw2OFg6EDDrGhk4Bzo9hynWrmlDYFAVsVIhzuu+GYsK4AbtCaqAqnSXv3CQhdH+g8Mn0nHUQq0N1tZICfB9rM+afetVAhcnDW6R+XgSIUH/acy03teZmF/wVCA9UFGZixK47qeRO7q+hkhvqZ3MQZ0je7+/l1RXMeO9pWMJa0YDlXb0eXW6r6LUolpMBvgWD1Me7YXR0FAN3YlLDEu+oPTpt0=;oO28quIetTqxqT9vKPXfvg=="
 ---

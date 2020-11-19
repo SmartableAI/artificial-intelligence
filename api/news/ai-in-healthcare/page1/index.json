@@ -97,6 +97,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.md",
+      "title": "Savvy enterprises can mimic success of cognitive AI in healthcare",
+      "excerpt": "Cognitive technologies are being deployed to solve the world’s biggest challenges. AI-based bots are working side-by-side with humans to increase quality and efficiency. Here’s how enterprises can put cognitive AI to work in their organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
+      "originalUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
       "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
       "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
@@ -1357,58 +1401,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-is-self-help-ai-the-new-trend.md",
-      "title": "Is Self-Help AI The New Trend?",
-      "excerpt": "With the use of artificial intelligence in healthcare taking off this year, companies creating AI-enabled tools to understand the mental health of individuals and their behaviors in group settings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c629e5300785f0acdf1f0%2F0x0.jpg%3FcropX1%3D442%26cropX2%3D7553%26cropY1%3D0%26cropY2%3D4000",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/30/is-self-help-ai-the-new-trend/amp/",
-      "publishedDateTime": "2020-10-30T12:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

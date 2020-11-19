@@ -2,6 +2,281 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-18-revisiting-ethical-ai-where-do-organizations-need-to-go-next.md",
+      "title": "Revisiting ethical AI - where do organizations need to go next?",
+      "excerpt": "AI ethics are having a hard time keeping up with AI. Academic debates may be interesting, but organizations need a practical AI ethics framework. Where do we go from here?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "originalUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2018-01/Fotolia-jimbophotoart-163732204_Sub_740px.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "publishedDateTime": "2020-11-17T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-dungeon-proves-machine-learning-games-are-the-future.md",
+      "title": "AI Dungeon Proves Machine Learning Games Are the Future",
+      "excerpt": "The innovative AI Dungeon lets players experience an endless text adventure and could change how games tell their stories in a MAJOR way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "originalUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/11/AI-Dungeon-Feature02.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "publishedDateTime": "2020-11-17T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-test-post.md",
+      "title": "Test post",
+      "excerpt": "The post Test post appeared first on Watson Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/test-post-2/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/test-post-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T07:01:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life.md",
+      "title": "Japan Is Using Robots As A Service To Fight Coronavirus And For Better Quality Of Life",
+      "excerpt": "As societies around the world grapple with the coronavirus pandemic, service robots have emerged as a powerful tool in fighting the virus and addressing social needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/",
+      "originalUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2c677734f73649e16046e%2F0x0.jpg",
+          "width": 600,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/amp/",
+      "publishedDateTime": "2020-11-17T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-can-help-organizations-to-slash-16-greenhouse-gas-emission-in-next-3-5-yrs-report.md",
+      "title": "AI Can Help Organizations To Slash 16% GreenHouse Gas Emission In Next 3-5 Yrs: Report",
+      "excerpt": "According to the survey, around 48 per cent of the organizations surveyed are using AI for climate action and have witnessed drop in greenhouse gas emission",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/359835",
+      "originalUrl": "https://www.entrepreneur.com/article/359835",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605624351-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359835",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359835",
+      "publishedDateTime": "2020-11-17T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-amp-robotics-partners-with-waste-connections-to-deploy-ai-guided-recycling-robots.md",
+      "title": "AMP Robotics Partners with Waste Connections to Deploy AI-Guided Recycling Robots",
+      "excerpt": "DENVER - AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover recyclables reclaimed as raw materials for the global supply chain, has signed a long-term agreement with Waste Connections,",
+      "sourceUrl": null,
+      "webUrl": "https://www.waste360.com/recycling/amp-robotics-partners-waste-connections-deploy-ai-guided-recycling-robots",
+      "originalUrl": "https://www.waste360.com/recycling/amp-robotics-partners-waste-connections-deploy-ai-guided-recycling-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Waste360",
+        "domain": "waste360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid.md",
       "title": "Pairing AI With Human Judgment Is Key To Avoiding 'Mount Stupid'",
       "excerpt": "Just as humans can use time and experience to build both our competence and confidence, so too can machines — but much, much faster.",
@@ -113,7 +388,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -880,7 +1155,7 @@
       "originalUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -911,317 +1186,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray.md",
-      "title": "Baidu to Buy Chinese Livestreaming Giant in Big Social Foray",
-      "excerpt": "Baidu Inc. agreed to buy Joyy Inc.’s livestreaming business ... intelligence technology and betting on commercializing AI through smart speakers and self-driving cars. In September, its smart speaker unit received its first independent financing round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7bMQ7gTztuk/v2/360x-1.png",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "publishedDateTime": "2020-11-16T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-new-medical-ai-can-take-vitals-without-waking-up-patients.md",
-      "title": "New medical AI can take vitals without waking up patients",
-      "excerpt": "Using deep learning to predict patient vitals as they sleep could lead to healthier patients and less burnout for nurses, researchers say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "originalUrl": "https://www.cnet.com/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet3.cbsistatic.com/img/AKbzMtzM2h9dP7k1g6gnwGbgPbA=/1200x630/2020/11/16/8e148834-5df1-47a7-886b-5346fb2e3076/gettyimages-157770651.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
-      "publishedDateTime": "2020-11-16T13:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-how-to-tell-the-difference-between-ai-and-bs.md",
-      "title": "How to tell the difference between AI and BS",
-      "excerpt": "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/",
-      "publishedDateTime": "2020-11-16T12:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-it-is-going-to-be-a-race-with-tesla-says-vw-about-new-investments-in-electric-cars-and-self-driving.md",
-      "title": "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving",
-      "excerpt": "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
-      "originalUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all",
-          "width": 1600,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
-      "publishedDateTime": "2020-11-16T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-deep-vision-announces-its-low-latency-ai-processor-for-the-edge.md",
-      "title": "Deep Vision announces its low-latency AI processor for the edge",
-      "excerpt": "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "originalUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "publishedDateTime": "2020-11-16T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research.md",
-      "title": "DeepMind open-sources Lab2D, a grid-based environment for reinforcement learning research",
-      "excerpt": "DeepMind this week open-sourced Lab2D, a software system designed to support the creation of 2D environments for AI and machine learning research. The Alphabet subsidiary says that Lab2D was built ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
-      "originalUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/260dcb5d-b808-40f3-947f-c28e349c3da4-e1585799405647.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/amp/",
-      "publishedDateTime": "2020-11-16T09:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

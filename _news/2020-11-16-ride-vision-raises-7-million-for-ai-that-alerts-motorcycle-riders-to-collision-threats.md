@@ -30,53 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Hover raises $60 million to streamline home inspections with computer vision"
-    excerpt: "Hover, a startup developing AI-powered apps that create 3D models of homes from smartphone photos, today raised $60 million. The 200-employee company says the proceeds will be used to deepen ..."
-    publishedDateTime: 2020-11-17T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
+  - title: "Deepfence nabs $9.5 million to build AI shields for cloud workloads"
+    excerpt: "Deepfence, a startup developing AI-based protections against cybersecurity threats, has raised $9.5 million in funding."
+    publishedDateTime: 2020-11-18T21:00:00Z
+    webUrl: "https://deepfence.io/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 101
+    quality: 167
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/2c7ec2b7-e7a5-49c4-b46e-f5cfb66f61f7-e1603297784170.png?w=1200&strip=all"
+      - url: "https://deepfence.io/deepfence_media/2020/11/vb.jpg"
         width: 1200
-        height: 600
-        isCached: true
-  - title: "AliveCor raises $65 million to detect heart problems with AI"
-    excerpt: "AliveCor, a startup developing ECG products that detect heart issues, has raised $65 million in venture capital."
-    publishedDateTime: 2020-11-17T00:34:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/03/alivecor-fingers-kardia-iphone-e1605569871551.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Cogito raises $25 million to analyze phone calls with AI"
-    excerpt: "Cogito, a startup developing a platform to measure the sentiment of call center agents, has raised $25 million in capital."
-    publishedDateTime: 2020-11-18T14:04:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/11/download-2.png?w=1200&strip=all"
-        width: 1200
-        height: 675
+        height: 601
         isCached: true
 
 secured: "DMLczaJQlxme+zuJKQ7EMGf3XjsqY3hd0l5haSh4N9rflCQsmos56MqJqV8V9q+pvPc5ryNqWmNjKiqAbd0RjFYuD60znFUZQ5QzMKi24PsdpEv7pjooLBWkGaeNgg9/3m/O3ql7Eag7Aa1iqU/QXmUnPq/ooYpS7D8JNLX1QX9YsjJCyKqKyeOu4xmVX/KM0fdVDrRagiW2ttL/9g7VmmuY2Ov02kCE37jb4vSM2VsuydaNKN3eM6oOpklkZrEudUS08hv9yv/GpM/aaZCyNkCW5+Klapgb9qYcziBI8zB8Nn6HwbsVSfixPzGhfePl3v97ATXfYqL0q/siXMMvB/d9qBy2wSKV6Ws+iVK9Jc4yLuaGYKhTrGHxlf45D+8o4W+U4wksGWP7V0n9FXzlcjIfdGQoykZODWDpVq+nQoKFrBWtGAwUflwaas59DhRQl4jLBs8HDECC6JPjdsjwCUwUFXhPnIuKKUR+BTMHL8nYbRe4Hu+3hcBKaLhWmVEOgFrPgVrZi4ocDBNPJIzNLQ==;F7lLnR6XNcPSWqCZnTRwCw=="

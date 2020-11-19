@@ -55,6 +55,15 @@ related:
         width: 2080
         height: 1384
         isCached: true
+  - title: "Facial recognition in the healthcare industry"
+    excerpt: "Facial recognition technology, the controversial technology that can match images of humans with a database of images to determine a person’s identity, is common in a host of industries from the electronics industry, wherein the technology is used to ..."
+    publishedDateTime: 2020-11-17T05:50:03Z
+    webUrl: "https://insights.globalspec.com/article/15430/facial-recognition-in-the-healthcare-industry"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 36
 
 secured: "wLMMfltGkXjyyJrBafkLo6OkmQdJTGBifEDPpOCAK66JRKFu12H40l6DWHu15NxNlrPzx7gL1YECcdwy3wcWGYkeQybkzmik9CiSs3UuDJL1izgUbRI7Arz2r8JKF/hDBjjF7IJpvJVimzaZuA510aGr+mvVLJmxCZPubMLyXnJ34TuaUV0BoZxKXNpRLn6zdysFHPN4sU27Jn7QZng7+7yeUvpsIut47yrFFI0lFUzqyElgJAjazyU8u0K50kg2IXJ1x6g2OXUtQZCZa3Yr101FS16luQizGTEu/EZ+N2MRSIi11qDrssREZBep7Nn7DU4rfsLuQZj9GHmLRMYuRBVk0chRcLN5Zo/7tgTKEUg=;71jJUEM0KrEpXEyya2pHrg=="
 ---

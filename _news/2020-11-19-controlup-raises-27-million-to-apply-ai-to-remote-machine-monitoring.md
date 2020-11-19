@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-ap
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "BeyondMinds raises $15 million to drive enterprise AI adoption"
+    excerpt: "BeyondMinds, which is developing a platform to facilitate enterprise AI deployments, has raised $15 million in venture capital."
+    publishedDateTime: 2020-11-19T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/8-e1605647757610.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Outcomes4Me Raises $4.7 Million to Help Patients Navigate Cancer Care Using AI"
     excerpt: "Outcomes4Me Inc., developer of a free mobile app and platform to navigate cancer treatment and care, today announced that it has raised $4.7 million in funding, led by Asset Management Ventures with participation from Sierra Ventures,"
     publishedDateTime: 2020-11-18T15:51:00Z

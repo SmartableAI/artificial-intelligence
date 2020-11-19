@@ -45,18 +45,32 @@ related:
   - title: "Financial services companies are starting to use the cloud for big data and AI processing"
     excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
     publishedDateTime: 2020-11-18T16:27:00Z
-    webUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 78
+    quality: 80
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Mythic launches industry-first AI analog matrix processor"
+    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced"
+    publishedDateTime: 2020-11-19T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mythic-launches-industry-first-ai-analog-matrix-processor-301176987.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "AI Startup Deep Vision Powers AI Innovation at the Edge"
     excerpt: "Deep Vision exits stealth mode and launches its ARA-1 inference processor to enable the creation of new world AI vision applications at the edge. The processors provide the optimal balance of compute,"

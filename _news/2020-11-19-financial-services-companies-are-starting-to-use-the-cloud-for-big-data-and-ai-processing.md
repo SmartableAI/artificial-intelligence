@@ -3,12 +3,12 @@ category: news
 title: "Financial services companies are starting to use the cloud for big data and AI processing"
 excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
 publishedDateTime: 2020-11-18T16:27:00Z
-originalUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-webUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -45,6 +46,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
         width: 1024
         height: 563
+        isCached: true
+  - title: "Mythic launches industry-first AI analog matrix processor"
+    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced"
+    publishedDateTime: 2020-11-19T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/mythic-launches-industry-first-ai-analog-matrix-processor-301176987.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "AI Startup Deep Vision Powers AI Innovation at the Edge"
     excerpt: "Deep Vision exits stealth mode and launches its ARA-1 inference processor to enable the creation of new world AI vision applications at the edge. The processors provide the optimal balance of compute,"
@@ -89,6 +104,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "nIH5Rtv3G3VRvXwpMkS4oDT3MuFztT6N7JE9aafUjjhUJPjqjGHziZx4N9/BvGKCsP36Q0WNVRANwYsM3yUKsDvFbStZ+4ksz9yTo67JZGxXnom00HyNdxdRBpDUlcNVwBB6rydOCvIEL5N9zz9sVp2oBA8j2eiH2UCuohSMc0TxkHu6W8bTGu1T1G4JIkm9oq9cl+XaTxhM3kv+jj23aytW6i424y5B0qnyLGtM/XZu5r65zl1N4uFOzpY6npQ1Pf/RUClFXOQotJzHBvF7LCdLrDiMJOmfjn3LqgXh3166HniUhzIp4bpqfM/WGXycGtbH6jjyYNAmOXmmjvwsUjYiWU1HbUio3YwKShlxPFo=;bnT55lUqO6JLkGVwdpmJ7w=="
+secured: "kj9QHw8HAoDJESNKxKybzmc4rAfSTmzK4truxgmI1vtssGtezoJN2YGoStVKw2sec8usUhcN7sM4ixUglHn0uJoAjXDlMg+GIa0HX/nQxvxsfwWYkoc6NdRqdKOUFBME8+eGqgJCeR/XetVoX2AYhA16ikU15J22CluLGAUtU5qYOD8DTWXNyyC8mnndfeun+2NtW6foGfcVWpN7k9VwAsDqgv6Qpl0Ha/WtiqAq80gfIM0sV2DwrO88FpQ7Z0K4GRj1vKinYfCHDJfyPrVhKhNrJ3nQeJxcxGwy7lNllNv5i5MidNTS58UBz3By1tU9onQvmbp3lZppy6cXPh0YUd+8uMzUfEX287eJM8eA/NQ=;4k/p3I89LculkMdamWi0Kw=="
 ---
 

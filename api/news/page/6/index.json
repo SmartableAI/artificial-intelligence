@@ -2,6 +2,299 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-16-this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects.md",
+      "title": "This open-source AI tool can make your video spectacular with sky replacement effects",
+      "excerpt": "Sky replacement tools are extremely popular in the current crop of photp-editing apps. Mobile apps such as Lighttricks’ Lightleap help you put up a new sky on your picture quickly. While for a more refined option,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Sky-replacement-video-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "publishedDateTime": "2020-11-15T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-nvidia-unveils-new-dgx-station-ai-workstation-joining-market-for-ai-appliances.md",
+      "title": "Nvidia unveils new DGX Station AI workstation, joining market for AI appliances",
+      "excerpt": "The GPU maker uses the annual SC20 supercomputing event to unveil a desktop model of AI computer with a new GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/e7399d9e-93ce-4f95-b2e3-7582476cb725/nvidia-200-dgx-station-reduced-size-graphic.jpg",
+          "width": 3983,
+          "height": 2555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "publishedDateTime": "2020-11-15T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-fujitsu-to-develop-supercomputer-for-ai-research-in-japan.md",
+      "title": "Fujitsu to develop supercomputer for AI research in Japan",
+      "excerpt": "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/4c1195d3-a430-4c56-af53-e55d055a621f/low-aibridginggreencloudfig.jpg",
+          "width": 415,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "publishedDateTime": "2020-11-15T17:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb.md",
+      "title": "Austria wants ethical rules on battlefield killer robots – Jaweb",
+      "excerpt": "Vienna is embarking on a diplomatic initiative to draw up an ethical framework for the use of killer robots on the battlefields of the future. Foreign Minister Alexander Schallenberg said similar standards should be adopted as those established for landmines and cluster weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Austria-wants-ethical-rules-on-battlefield-killer-robots-–-Jaweb.jpg",
+          "width": 940,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
+      "publishedDateTime": "2020-11-15T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
+      "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
+      "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
+      "originalUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
+      "publishedDateTime": "2020-11-15T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars.md",
+      "title": "Zipper Merging Is A Frenzied Traffic Squeeze Play On Self-Driving Cars",
+      "excerpt": "Zipper merging, whereby cars are shunted into a 2-into-1 lane narrowing, can be especially tough on self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98fb5712aefdbeef1bad5b%2F0x0.jpg%3FcropX1%3D647%26cropX2%3D7309%26cropY1%3D579%26cropY2%3D5033",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-15T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-training-facial-recognition-on-some-new-furry-friends-bears.md",
       "title": "Training facial recognition on some new furry friends: Bears",
       "excerpt": "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem.",
@@ -929,300 +1222,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next.md",
-      "title": "Apple blamed IBM and Intel for Mac chip delays, but TSMC won’t be next",
-      "excerpt": "Apple's deals with top chipmakers have historically fizzled out, but its relationship with leading chip fabricator TSMC will likely last.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/tsmc-e1605303213438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
-      "publishedDateTime": "2020-11-13T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-microsofts-new-azure-data-services-explained.md",
-      "title": "Microsoft's new Azure data services explained",
-      "excerpt": "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "publishedDateTime": "2020-11-13T12:42:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-system-brings-deep-learning-to-internet-of-things-devices.md",
-      "title": "System brings deep learning to 'internet of things' devices",
-      "excerpt": "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT).",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/miot-sbd111320.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/miot-sbd111320.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-new-method-brings-physics-to-deep-learning-to-better-simulate-turbulence.md",
-      "title": "New method brings physics to deep learning to better simulate turbulence",
-      "excerpt": "Deep learning, also called machine learning, reproduces data to model problem scenarios and offer solutions. However, some problems in physics are unknown or cannot be represented in detail mathematically on a computer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoig-nmb111320.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoig-nmb111320.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/248837_web.jpg",
-          "width": 720,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-extracting-handwritten-information-through-amazon-textract.md",
-      "title": "Extracting handwritten information through Amazon Textract",
-      "excerpt": "Over the past few years, businesses have experienced a steep rise in the volume of documents they have to deal with. These include a wide range of structured and unstructured text spread across different document formats. Processing these documents and extracting data is labor-intensive and costly. It",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/Extracting-handwritten-information-1.jpg",
-          "width": 800,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T10:50:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners.md",
-      "title": "This Week In XR: Hopin Scores Series B, Snaps Buy Voca.ai, VR Award Winners",
-      "excerpt": "Hopin raises $125 M series B. The round was led by IVP with existing investors Accel and DFJ Growth, and Tiger Global joining in. The online events platform's valuation is over two billion dollars. Snap Acquires Voca.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faed1b64d170f383dbd192a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2020/11/13/this-week-in-xr-hopin-scores-series-b-snaps-buy-vocaai-vr-award-winners/amp/",
-      "publishedDateTime": "2020-11-13T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

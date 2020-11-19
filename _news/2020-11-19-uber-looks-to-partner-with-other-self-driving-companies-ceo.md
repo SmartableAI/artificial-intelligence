@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber Looks to Partner With Self-Driving Companies, CEO Says"
+    excerpt: "The remarks come days after a media report said the company was in discussions to sell its autonomous-vehicle unit."
+    publishedDateTime: 2020-11-19T14:36:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601521%2Fgettyimages-994728156.jpg&w=1200&op=resize"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UPDATE 1-Uber looks to partner with other self-driving companies -CEO"
     excerpt: "Uber Technologies Inc's self-driving unit is looking to partner with other companies working on autonomous driving, the company's chief executive officer said on Wednesday."
     publishedDateTime: 2020-11-18T19:25:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541676648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1NQ"
         width: 818
         height: 545
-        isCached: true
-  - title: "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Start-Up Aurora"
-    excerpt: "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a start-up founded by veterans of the autonomous vehicle industry,"
-    publishedDateTime: 2020-11-14T22:05:00Z
-    webUrl: "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633"
-    ampWebUrl: "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
     excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-s
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 597
         height: 315
         isCached: true
+  - title: "Facial recognition in the healthcare industry"
+    excerpt: "Facial recognition technology, the controversial technology that can match images of humans with a database of images to determine a person’s identity, is common in a host of industries from the electronics industry, wherein the technology is used to ..."
+    publishedDateTime: 2020-11-17T05:50:03Z
+    webUrl: "https://insights.globalspec.com/article/15430/facial-recognition-in-the-healthcare-industry"
+    type: article
+    provider:
+      name: GlobalSpec
+      domain: globalspec.com
+    quality: 36
 
 secured: "hdUXrQcGtxmOlbQq91Ed6ozugroiaJcoeJKm9MUdOhf2a4KWS6CndEpd/uvxGy911KAvDpN2I+iwwOAGifH9fqQMQ9xZ++r9SJ9DciNbxJm6LI6QNsg8O2juaBEj9ns5b1eIgy/VMafO0OcDYjDCws9VbpYWq/4FsWp5a+4GP7qKojaQkgmLVb2uRPEXuZzOKGYxna4e40tsWfXqmtXYuZZOv9qTg+OnqZ+11dMnKPL8+8j3rIAoXkspiiI5cU+NVEiassVgK20T8qvAGR/EKvWL2CKlklW8Onoansic8F+bjiHZ0ojuRV/QgX31lkle6EpRb3S6WvJetwN/ZVBc0J2A56jjwn0tCo7cuINKdMUmDQP7d1AvvZPx0tq6HZnNkcsWdBlCQf2yLA4Li6cR8ksZxW8vZp5yzgdBKRmZB+wxcEuOZNz3dr4MQuH2AR8ZiRyRO2uj0G7TxDsjHR14cfawZjRLl50jhONONdvgQI6sm3rHRxh0Px/FRK15ybWr4HbE5mNozK5aFfJfYrmyVA==;yQ3naP0PqVciz2iWeiWZ/Q=="
 ---

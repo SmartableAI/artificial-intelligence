@@ -2,32 +2,28 @@
 category: news
 title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
 excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
-publishedDateTime: 2020-11-18T19:31:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-webUrl: "https://markets.businessinsider.com/news/stocks/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
+publishedDateTime: 2020-11-18T16:45:00Z
+originalUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
+webUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
+ampWebUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
 type: article
-quality: 67
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: 24/7 Wall St
+  domain: 247wallst.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg"
-    width: 1366
-    height: 768
+  - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
+    width: 400
+    height: 225
     isCached: true
 
 related:
@@ -155,6 +151,6 @@ related:
         height: 683
         isCached: true
 
-secured: "iXYTh1iB2CIrrG4uBNUJsDpzofNJqp2lk6b7J328pPoz22FjzFsL56YVjcHH+H+W0xzzcdqJ5zcpZ832qpHYFL1zH4ApxIAO3VNe2etaQrDkUO1TTGGn7ja62Td2WVBsXumyRNGDfnaiQkTV3in77qMDMD5Drxl/xRTA1RPjSGErZiWqv3Q76WY10grE2iWj6Pn+wIYR49e220LOi9gxRKoi7EsuLqqjOWZqTQVSGGGWH7a6QBAjELyQPz3zji2eJiVZcdPWa23Icvog6cKan9LfU0Vh6ynwxAb26XejzquTBTpIJ/hSMdY+q9z0t6u8+6qYRcIbsK92MqujsMuMBB4z4eeRL33Sw9O9Wd3gIto=;saB0v+PfuN/xtYfaJC6WBg=="
+secured: "Olp17Y7zb5yPZ1Ytrt7EZ54keMRZtZhxoI/zdM3mgrfdfAy3mPXwBPYqf53B4RY1eVmWIBvU6fqbcvqn/vNkTqzHXkw8eHZXsjYpxeGm5zTUYMO/EkByeqrv9sHnmS5116arI+hcIdL8q/LDzCOUqWX9dNO+JnKqnjHpWhoJ/SUdzwtX9nwXeGaXRXvAEwv0q9Z8NAWaJhDs+xVn5I8vwz0JlPMKVpv2g+e1WysbM+IeZm2MTQEmvRn8fOzxg3SG3lC1qaod3Bs4sm3vCGqeZuCghS1S+3cNYAiUWKmJgthX1/wx85/COQUDCSbz+OCLhNaCKQVu2M0BTRLO/PVHpeCb5sHXl3BQbxz1Ixe97NY=;vHKLowfPB98sB9pccCp68Q=="
 ---
 

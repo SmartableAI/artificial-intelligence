@@ -2,6 +2,41 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thaipr.net/it/1033083",
+      "originalUrl": "https://www.thaipr.net/it/1033083",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T17:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thaipr.net",
+        "domain": "thaipr.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-artificial-intelligence-machine-learning-robotics-in-agriculture-how-the-agri-sector-is-being-redefined-by-technology-researchandmarketscom.md",
       "title": "Artificial Intelligence, Machine Learning & Robotics in Agriculture: How the Agri Sector is Being Redefined by Technology - ResearchAndMarkets.com",
       "excerpt": "The \"Artificial Intelligence, Machine Learning & Robotics in Agriculture\" report has been added to ResearchAndMarkets.com's offering. According to estimates by the United Nations, the World will need to increase its food production by 70% to feed the ever burgeoning population by 2050.",
@@ -992,6 +1027,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
+      "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
+      "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles ... The Government now also provides very substantial services for institutions to verify their customers through ...",
+      "sourceUrl": null,
+      "webUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
+      "originalUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png",
+          "width": 696,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
+      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/featured/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
+      "publishedDateTime": "2020-11-05T06:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dynamic Business",
+        "domain": "dynamicbusiness.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-ai-pioneer-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
       "title": "AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”",
       "excerpt": "That professor was Geoffrey Hinton, and the technique they used was called deep learning. Hinton had actually been working with deep learning since the 1980s, but its effectiveness had been ...",
@@ -1032,50 +1111,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
-      "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
-      "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,",
-      "sourceUrl": null,
-      "webUrl": "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
-      "originalUrl": "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dynamicbusiness.com.au/wp-content/uploads/2020/11/Untitled-design-2020-11-05T135149.144-696x392.png",
-          "width": 696,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
-      "cdnAmpWebUrl": "https://dynamicbusiness-com-au.cdn.ampproject.org/c/s/dynamicbusiness.com.au/topics/news/how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.html?amp",
-      "publishedDateTime": "2020-11-04T20:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dynamic Business",
-        "domain": "dynamicbusiness.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1399,51 +1434,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-aws-launches-new-gpu-instances-for-machine-learning-and-hpc.md",
-      "title": "AWS launches new GPU instances for machine learning and HPC",
-      "excerpt": "Called P4, the new instances will run on Intel Cascade Lake processors and eight Nvidia A100 Tensor Core GPUs. Amazon Web Services (AWS), the retail giant’s cloud arm, just launched its latest GPU-equipped cloud instances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "originalUrl": "https://www.itproportal.com/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/88UejibhsWKbhFSpfr62oA-1200-80.jpg",
-          "width": 1000,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/news/aws-launches-new-gpu-instances-for-machine-learning-and-hpc/",
-      "publishedDateTime": "2020-11-03T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro Portal",
-        "domain": "itproportal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Hardware"
       ]
     }
   ],

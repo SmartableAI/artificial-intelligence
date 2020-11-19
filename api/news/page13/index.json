@@ -2,6 +2,288 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-10-aveva-expands-microsoft-collaboration-with-a-focus-on-cloud-and-ai.md",
+      "title": "AVEVA expands Microsoft collaboration with a focus on Cloud and AI",
+      "excerpt": "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.controlengeurope.com/article/181914/index.aspx",
+      "originalUrl": "https://www.controlengeurope.com/article/181914/index.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.controlengeurope.com/global/showimage/Article/191004/",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IML Group",
+        "domain": "controlengeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-hyundai-kia-genesis-will-get-chip-maker-nvidias-infotainment-in-deal.md",
+      "title": "Hyundai, Kia, Genesis will get chip maker NVIDIA's infotainment in deal",
+      "excerpt": "NVIDIA said the luxury vehicle division of Hyundai, Genesis, already uses NVIDIA DRIVE for its GV80 and G80 models. NVIDIA declined to say how many vehicles NVIDIA DRIVE would be installed in, but said it is a large number and pointed to the fact that in 2019 Hyundai Motor Group shipped over 7 million vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2020/11/10/hyundai-kia-genesis-nvidia-infotainment/",
+      "originalUrl": "https://www.autoblog.com/2020/11/10/hyundai-kia-genesis-nvidia-infotainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/6898x3880+560+845/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2020/11/10083826/Large-1869-GenesisGV801.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2020/11/10/hyundai-kia-genesis-nvidia-infotainment/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2020/11/10/hyundai-kia-genesis-nvidia-infotainment/",
+      "publishedDateTime": "2020-11-10T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-employers-add-more-ai-to-the-interview-process-how-to-handle-it.md",
+      "title": "Employers Add More AI To The Interview Process. How To Handle It",
+      "excerpt": "If you are tech-challenged, you will likely struggle with these new AI (Artificial Intelligence) advancements in the interviewing process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "originalUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9897f61d7675e6f9fb699%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-to-quantify-the-benefits-of-ai-driven-shelf-digitization.md",
+      "title": "How To Quantify The Benefits Of AI-Driven Shelf Digitization",
+      "excerpt": "To build a business case with attractive ROI, retail decision-makers will need to understand the impact of these in-store automation solutions on operational practices and ensure they choose the right solution for their store's needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9beabfda4d6a09f4b37eb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-to-watch-apples-special-november-2020-event-live-stream.md",
+      "title": "How To Watch Apple’s 'Special' November 2020 Event Live Stream",
+      "excerpt": "The event is slated to take place on Nov. 10 at 10 a.m. PST/1 p.m. EST and will be live-streamed from Apple’s Apple Park headquarters in Cupertino, California. \"One Last Thing\" can be watched live on the Apple Events website on a Mac,",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=5AwdkGKmZ0I",
+      "originalUrl": "https://www.ibtimes.com/how-watch-apples-special-november-2020-event-live-stream-3075670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5AwdkGKmZ0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
+      "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
+      "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "originalUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa5db02c529acf3a833874c/master/pass/business_medicare_1171912286.jpg",
+          "width": 2400,
+          "height": 1606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "publishedDateTime": "2020-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor.md",
       "title": "Chip maker NVIDIA signs deal with Hyundai Motor",
       "excerpt": "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022",
@@ -913,291 +1195,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ibm-microsoft-and-the-future-of-healthcare.md",
-      "title": "IBM, Microsoft, and the Future of Healthcare",
-      "excerpt": "IBM focused its Watson AI on providing medical professionals with diagnostic tools allowing them to diagnose even the most mysterious illnesses more accurately. Simultaneously, Microsoft recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86911.html",
-      "originalUrl": "https://www.technewsworld.com/story/86911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg",
-          "width": 620,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-cyberark-launches-ai-powered-service-to-remove-excessive-cloud-permissions.md",
-      "title": "CyberArk Launches AI-Powered Service to Remove Excessive Cloud Permissions",
-      "excerpt": "CyberArk (NASDAQ: CYBR), the global leader in privileged access management, today announced CyberArk Cloud Entitlements Manager, the industry’s first privilege-based, artificial intelligence-powered service designed to strengthen the security of cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-israel-north-america-66ee2357b36946aab228fec735bd79aa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-israel-north-america-66ee2357b36946aab228fec735bd79aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-kyligence-to-speak-at-pass-virtual-summit-2020-on-high-performance-high-currency-architecture.md",
-      "title": "Kyligence to Speak at PASS Virtual Summit 2020 on High-Performance, High-Currency Architecture ...",
-      "excerpt": "Kyligence, originator of Apache Kylin and AI-assisted distributed SQL and OLAP solutions, today announced that Kyligence Senior Solutions Architect Mike Shen will speak about high-performance, high-concurrency architecture for analytics on Azure at PASS Virtual Summit 2020 on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-north-america-data-management-san-jose-california-d556b0e154f72a6e72a975716c099b11",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-north-america-data-management-san-jose-california-d556b0e154f72a6e72a975716c099b11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-outsenses-ai-looks-for-life-threatening-diseases-in-your-poop.md",
-      "title": "OutSense’s AI looks for life-threatening diseases in your poop",
-      "excerpt": "OutSense is setting out to \"transform human waste into lifesaving medical insights\" through a device that clips onto a toilet.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
-      "originalUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/outsense_banner_final.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
-      "publishedDateTime": "2020-11-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-what-many-chief-investment-officers-dont-understand-about-ai.md",
-      "title": "What Many Chief Investment Officers Don't Understand About AI",
-      "excerpt": "You can drive real organizational gains with machine learning and AI, as long as there are processes in place to ensure data quality.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa5b8b273725a764087eeb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2020/11/09/what-many-chief-investment-officers-dont-understand-about-ai/amp/",
-      "publishedDateTime": "2020-11-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-how-ai-can-go-terribly-wrong-5-biases-that-create-failure.md",
-      "title": "How AI Can Go Terribly Wrong: 5 Biases That Create Failure",
-      "excerpt": "This article will enable boards and senior executives to ask the right questions about the five dangerous biases of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9d9464fce16b409e59440f%2F0x0.jpg",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2020/11/09/how-ai-can-go-terribly-wrong-5-biases-that-create-failure/amp/",
-      "publishedDateTime": "2020-11-09T03:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
