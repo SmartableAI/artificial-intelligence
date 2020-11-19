@@ -859,6 +859,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-ai-pioneer-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
+      "title": "AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”",
+      "excerpt": "That professor was Geoffrey Hinton, and the technique they used was called deep learning. Hinton had actually been working with deep learning since the 1980s, but its effectiveness had been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "publishedDateTime": "2020-11-04T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-how-ai-technology-is-revealing-the-hidden-world-of-bats.md",
       "title": "How AI technology is revealing the hidden world of bats",
       "excerpt": "How do you monitor more than a million bats in England? - these conservationists have found the answer! Forestry England and the Bat Conservation Trust have been using artificial intelligence (AI) to help them identify more than 1.",
@@ -931,6 +974,58 @@
         "name": "eTurboNews",
         "domain": "eturbonews.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses.md",
+      "title": "Microsoft adds Hindi to its Text Analytics service to strengthen Sentiment Analysis support for businesses",
+      "excerpt": "Text Analytics is part of the Microsoft Azure Cognitive Services. Using this service, organizations can find out what people think of their brand or topic as this enables analyzing Hindi text for clues about positive, neutral, or negative sentiment.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
+      "originalUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/microsoft-text-analytics-hindi-768x362.jpg",
+          "width": 768,
+          "height": 362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T21:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1104,101 +1199,6 @@
       "provider": {
         "name": "Design News",
         "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-breaking-down-global-barriers-to-access.md",
-      "title": "Breaking down global barriers to access",
-      "excerpt": "Were delighted to announce that we are expanding our programme to support scholars in many more countries currently underrepresented in AI,",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
-      "originalUrl": "https://deepmind.com/blog/article/breaking-down-global-barriers-to-access",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/ADneYf8LGmDTetYpE7YFQDptGEB3fFekeAME77R2ybUU-jft2PlgQsfJXn8hmThwTX6hU6ZdV5hpYeDAAkyMphyXvp_mP3HJqTFqqg",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-live-out-your-inner-animist-with-animatronic-cat-ears.md",
-      "title": "Live Out Your Inner Animist With Animatronic Cat Ears",
-      "excerpt": "While having a great white shark as your spirit animal may sound cool, we’ve found walking around in public wearing a gigantic set of mechanical jaws to be a bit of a hindrance. [abetusk] doesn ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
-      "originalUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://hackaday.com/wp-content/uploads/2012/02/cat-ears.jpg",
-          "width": 470,
-          "height": 230,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
         "images": null,
         "publishers": null,
         "authors": null

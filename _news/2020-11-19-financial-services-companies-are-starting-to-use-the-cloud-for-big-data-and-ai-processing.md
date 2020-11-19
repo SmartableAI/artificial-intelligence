@@ -8,7 +8,7 @@ webUrl: "https://www.techrepublic.com/article/financial-services-companies-are-s
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
-quality: 80
+quality: 78
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
 
 images:
@@ -90,6 +89,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "yux8xumHMWQNKDnFQELnrGRDENVElODWJhAqcDD6bT1vsiJu4LXB3OItcbCp6hk/9FgQsDK2pF1pXOajXbOd7BMWDYjCL13jqVNS6fuX4bv1SOuht8odvJlr28zRm9FdL0oAT2oszxNzE5fR7kndcpXInAqrb44pwPT1RAMuiouCReProTGs/tmeW6lxNwzR5CUnpzZMs6DRg3zvsAVa1msEkk2BSroL4llHf0P09xzHaOB/7VOfqBSXeqLPfrfbwLOxFerDInNqWFO6hF9GsGoxG0smMgvJWYfzdcpIkDxqOtwbS7zuvOn0aRQDBAhMdstIuhsrUPTqjUqVeMtX0t/o3Yl2E6FxUWmXyKPmzCBhSVu4Tkj1Cl4u7IVT7banK+Y5PiejAKDcCi3iyicu6ScdQDI5+CDSfJTrtwxbFMPfb7GWTaZvFjmXcz2MPOMfaq1TqcL7m/4yxwyxMkQXnHrEAlf97Dlct1sUOwLIG90nxkkUAFW7kbNJRWM8plyfVw5tCh+j2f0yz8lNtxC3Nw==;sKagoKOsZJH4J972SC94kw=="
+secured: "bD9yTkDatcyn8nPW/5l/dWufVUEeRgWfL0B4tcZ9X35BuN2/4ltysDlNPRt0dEyc5o2BaLxwTS4fgPlLwnfzzdfxzwpgY71U5k7HWxJdP4i6MrgUvW1DYdWL6pFtg/tR45sG+lYw94MQkVXYkiq3I+5frdtrPpml2znFRobZ3pONH4IaEWuvs+c2F5+qWupj9rsfbnMuuCw2lfW2I+roS+8cn9/FkeiOOAXjTDSLxmSP0apyR4rSHNcpmeSvJB13/JOfnHEl3JCSjwYViOnPU8t3Vy82dxfYqj6Wt8Taif41tF32xg55bDLzwL5/WRptFH8LYUcvrAcBf+OP1EHq5DCuHjevx+i4gYvuSk55hV4=;DDnGa+oJZgQu6UZ5D+JHRw=="
 ---
 

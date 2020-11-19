@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-19-how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving.md",
+      "title": "How The Rick And Morty Butter Robot Is Cooking Up Chaos This Thanksgiving",
+      "excerpt": "Founded by Carnegie Mellon alums on a mission to make robots more fun, the scrappy startup acquired the assets of the defunct ... Since sentience is considered years away on the AI roadmap by many industry experts, I pressed Hanchar to explain how they ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb57b1a4edfc0fbe1001009%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1054%26cropY1%3D52%26cropY2%3D645",
+          "width": 1054,
+          "height": 593,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "publishedDateTime": "2020-11-18T22:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient.md",
       "title": "Neural’s guide to the glorious future of AI: Here’s how machines become sentient",
       "excerpt": "Welcome to Neural’s guide guide to the glorious future of AI. What wonders will tomorrow’s machines be capable of? How do we get from Alexa and Siri to Rosie the Robot and R2D2? In this speculative science series we’ll put our optimist hats on and try to answer those questions and more.",
@@ -149,7 +201,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1386,58 +1438,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
-      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
-      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

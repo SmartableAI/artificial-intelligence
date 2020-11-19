@@ -896,6 +896,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-05-ai-pioneer-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
+      "title": "AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”",
+      "excerpt": "That professor was Geoffrey Hinton, and the technique they used was called deep learning. Hinton had actually been working with deep learning since the 1980s, but its effectiveness had been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
+          "width": 3000,
+          "height": 1687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
+      "publishedDateTime": "2020-11-04T22:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
       "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
       "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles. Unfortunately, we are also seeing a rise in financial crimes and identity theft as scammers target Australian families,",
@@ -1392,59 +1435,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-intel-has-acquired-cnvrgio-a-platform-to-manage-build-and-automate-machine-learning.md",
-      "title": "Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning",
-      "excerpt": "It competes with the likes of Databricks, Sagemaker and Dataiku, as well as smaller operations like H2O.ai that are built on open-source frameworks. Cnvrg’s premise is that it provides a user ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173239906.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
-      "publishedDateTime": "2020-11-02T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

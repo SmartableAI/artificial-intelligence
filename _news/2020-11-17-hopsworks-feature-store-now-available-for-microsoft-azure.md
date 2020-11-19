@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
 type: article
 quality: 99
-heat: 169
+heat: 189
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
         width: 1500
         height: 784
         isCached: true
+  - title: "Aisera’s Conservational AI for Microsoft Teams Will Change the Future of Work"
+    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk with Microsoft Teams. This integration will speed up and simplify Microsoft’s resolution of internal support tickets for ..."
+    publishedDateTime: 2020-11-19T06:24:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-c80fc29710aaf0f9506bdf3c2b8df8dc"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 51
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
     excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."
     publishedDateTime: 2020-11-17T05:19:00Z
@@ -105,6 +119,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 50
+  - title: "Aisera’s Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
+    excerpt: "Aisera Delivers the Benefits of AI to NJ Transit With the integration of Aisera in ... and a strategic partner with AWS, Microsoft Azure, Google Cloud, ServiceNow, Atlassian, Zendesk, Datadog, Automation Anywhere, UiPath, and Salesforce."
+    publishedDateTime: 2020-11-19T06:23:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-2f8137c4d5bd046738bfe7e54533b87a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 44
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"
     publishedDateTime: 2020-11-18T09:53:00Z

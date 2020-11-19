@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Rapid Robotics launches ‘ready-to-work’ robotic machine operator"
-excerpt: "The Rapid Machine Operator is a revolutionary industrial cobot that can operate machines performing simple tasks like injection molding, pad printing, heat stamping and pick-and-place"
-publishedDateTime: 2020-11-18T14:16:00Z
-originalUrl: "https://www.roboticstomorrow.com/news/2020/11/18/rapid-robotics-launches-‘ready-to-work-robotic-machine-operator-/15938/"
-webUrl: "https://www.roboticstomorrow.com/news/2020/11/18/rapid-robotics-launches-‘ready-to-work-robotic-machine-operator-/15938/"
+excerpt: "Online Robotics Trade Magazine Industrial Automation, Robots and Unmanned Vehicles Rapid Robotics has announced the first ready-to-work robotic machine operator, giving contract manufacturers an easy,"
+publishedDateTime: 2020-11-18T13:04:00Z
+originalUrl: "https://www.roboticstomorrow.com/news/2020/11/18/rapid-robotics-launches-‘ready-to-work-robotic-machine-operator/15934/"
+webUrl: "https://www.roboticstomorrow.com/news/2020/11/18/rapid-robotics-launches-‘ready-to-work-robotic-machine-operator/15934/"
 type: article
 quality: 34
 heat: 34
@@ -18,6 +18,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "ZjoQuG3LpwaN6qZTuKk6HVSyYI4ARp5cJ/yluQQZWVzqkf5KrEaJWl85jXeXXeAIpWPGTiURWJ6DhxJZJ95+4mMzg0cEm0+DmooRhQMqXtadN7aiOy1lC4S5ZnQnBjqQ7XsSH8i6msrnyHZs05XX9zQxhwjBw9RmVF3ny1SbiBTgC7qT2knDEW/1WFISbLYYP1HwF0bgZNKghqMbWoFAys/ieqUE0F52jpWIlu+yPxYWgkbwctPO6omgmxFq+gAeFcXim8xFFqpg3qvmFHwSimcMkxrpFvV74uiSugUi+ktfFhczN0E3PgiRoMRf4p6A9OQLRM7moOhgOWjSM5K4tx8KffDVQwbuCQjOOmkUJj4=;ETzyeHQjQO17Zw8Fd+yKOQ=="
+secured: "5R9z3JfZRpLkkZ0189Rycm8YNe9r2RO9aZW92FBTqVRN2b2LYK00LYNIcocnFLrDlWxjzVg4zlxdGi7t/TGNfao1E+fA7MIDWCdDBOkz6+L5S11uY+ByUIu14lF1it++iU3VkBqhEJfni6Vc5iNBIwteuTWO7uHXnXZj2as3koPScKeGrcoMojBpoaa4tNvNf8ysNWBMk1AD/FLlvl1TEiSmB+msMAU2bWM18ArRhaJf1IbG/KG73DdJTwkuBxd0ivgFCpEWTqL8mE/N6BIHKz6OLJgaGNkiUP3IeS3VAAD1vKU2BuX4JzaXjEpd9vuL7LlRV5ug4EJasVrV+XNuMY0Lck33n37p8meWuKUNcnE=;HPnY2xGQzjcgiIxZuNgTOw=="
 ---
 

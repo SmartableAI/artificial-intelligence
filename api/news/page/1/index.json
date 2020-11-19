@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-19-ai-startup-graphcore-says-most-of-the-world-wont-train-ai-just-distill-it.md",
-      "title": "AI startup Graphcore says most of the world won't train AI, just distill it",
-      "excerpt": "Also: AI chip startup Graphcore enters the system business claiming economics vastly better than Nvidia's Graphcore is known for building both custom chips to power AI, known as accelerators, and also full computer systems to house those chips, with ...",
+      "path": "_news/2020-11-19-how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving.md",
+      "title": "How The Rick And Morty Butter Robot Is Cooking Up Chaos This Thanksgiving",
+      "excerpt": "Founded by Carnegie Mellon alums on a mission to make robots more fun, the scrappy startup acquired the assets of the defunct ... Since sentience is considered years away on the AI roadmap by many industry experts, I pressed Hanchar to explain how they ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
+      "webUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
+      "originalUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/18/db32f0bd-4ae9-4771-882c-313031c3980d/graphcore-2020-hbm-memory-is-wrong-way-to-go.png",
-          "width": 2925,
-          "height": 1875,
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb57b1a4edfc0fbe1001009%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1054%26cropY1%3D52%26cropY2%3D645",
+          "width": 1054,
+          "height": 593,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/",
-      "publishedDateTime": "2020-11-18T19:14:00-08:00",
+      "ampWebUrl": "https://www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/martineparis/2020/11/19/how-the-rick-and-morty-butter-robot-is-cooking-up-chaos-this-thanksgiving/amp/",
+      "publishedDateTime": "2020-11-18T22:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -409,58 +409,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-announces-its-second-cloud-related-acquisition-this-week.md",
-      "title": "IBM Announces Its Second Cloud-Related Acquisition This Week",
-      "excerpt": "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601417%2Fgettyimages-1167278913.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "publishedDateTime": "2020-11-18T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     },
     {
@@ -1242,6 +1190,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rapid-robotics-raises-55m-for-pre-programmed-manufacturing-robots.md",
+      "title": "Rapid Robotics raises $5.5M for pre-programmed manufacturing robots",
+      "excerpt": "Bay Area-based Rapid Robotics today announced it has raised $5.5 million in seed funding in a round led by Greycroft and Bee Partners. The announcement comes during what has been a solid several months for robotics funding,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/RMO-Shot.jpg?w=1024",
+          "width": 1024,
+          "height": 765,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/amp/",
+      "publishedDateTime": "2020-11-18T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

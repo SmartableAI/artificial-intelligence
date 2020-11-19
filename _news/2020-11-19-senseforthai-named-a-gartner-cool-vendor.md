@@ -2,9 +2,9 @@
 category: news
 title: "Senseforth.ai Named a Gartner Cool Vendor"
 excerpt: "has been named a Cool Vendor in Conversational AI Platforms 2020 by Gartner. The “Cool Vendor” status denotes a startup that provides innovative, impactful, and intriguing solutions/products to empower users and fuel business growth. Senseforth.ai has ..."
-publishedDateTime: 2020-11-19T00:56:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201118005393/en/Senseforth.ai-Named-a-Gartner-Cool-Vendor"
-webUrl: "https://www.businesswire.com/news/home/20201118005393/en/Senseforth.ai-Named-a-Gartner-Cool-Vendor"
+publishedDateTime: 2020-11-19T06:56:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201118005393/en/"
+webUrl: "https://www.businesswire.com/news/home/20201118005393/en/"
 type: article
 quality: 37
 heat: -1
@@ -66,6 +66,6 @@ related:
         height: 450
         isCached: true
 
-secured: "tjw1dEIRTi5osAuPRHZx+VZShAD9zvmboLrANq9YWk2bOtSgIG8Y/x3XJOMixRCJaB/noejUFZARE2CFq6zbdo7mJk5fHDHGMf8gotNdNqsUas2JkZLrGcAMC6iyriq4AkbeD52ajWdsu5fS1nrX3LuIhmaZXxZeQu1j/DFrVYsrMCd8tBzX6H25jA2lMQdnw/iyfSdUGZhv5apWGIDGVEue4LvUBHDiIQN/dJjNJyMH1hlQAHoBfv9xmJAEZsq5RNF4fYc6hzlO4sRTJUA0pdFyJ/MGu4vi8HT1G+gXQ4+Q4J4qvXkk3mCQ65l9KyBS9n7jlrVqy8zQpsmyWISsse80lD+xsrtFJaLNqdaWeaw=;jXyCLEAgKa6esz3GpHKD7w=="
+secured: "qXjhQz3/ha/YMHN0IbNtbfaQ9W4SbOGW2fMwPszDAKLBzaC1QV+WDIg7Gp7XMsBqX6Mdrs97+jEphgOLysyPGT3l069mZzJKngruxhIDD5Chk7FWu+XCeIpaSBTqiWiDwg10m7F1emZ0Ay0R7nK25edwwq8YUp8yeNAPN5QSMWB0igJNHrah41LzzLtz31P6X4n/ossSRcrPJfSwlkMQYT4ZtnbikeH+sKKL9JpljjEd8SUcLYCXTst20UbEE3nPbUwqiy0PQ8MbHTGHMzFpYtsPoRAQeE4wa+d2hLpmr3gDzp7n4dO8f7XJOg1pIY6NtbPAo3CeeXw05ZH88YtTVZ0uFVAf/M8EPQWHpSVXRAw=;cXEcuEprdeyEbNlgzf23zQ=="
 ---
 

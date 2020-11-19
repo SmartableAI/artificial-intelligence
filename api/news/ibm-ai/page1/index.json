@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-19-ibm-announces-its-second-cloud-related-acquisition-this-week.md",
-      "title": "IBM Announces Its Second Cloud-Related Acquisition This Week",
-      "excerpt": "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601417%2Fgettyimages-1167278913.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "publishedDateTime": "2020-11-18T11:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-inside-the-world-of-ai-at-ibm-watson-advertising.md",
       "title": "Inside The World Of AI At IBM Watson Advertising",
       "excerpt": "At IBM Watson Advertising, CMO Randi Stipes looks at AI as a practical toolset that has been in place for a decade rather than the vague promise of a rosier future. I recently asked Randi to give us an AI update.",
@@ -1437,6 +1385,58 @@
       "topics": [
         "IBM AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-servicenow-and-ibm-making-ai-really-work.md",
+      "title": "ServiceNow And IBM: Making AI Really Work",
+      "excerpt": "Both companies have announced an expanded strategic partnership that combines Watson with ServiceNow’s IT platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf29610ad9f8c1e126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5425%26cropY1%3D275%26cropY2%3D3327",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/",
+      "publishedDateTime": "2020-10-16T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
       ]
     }
   ],

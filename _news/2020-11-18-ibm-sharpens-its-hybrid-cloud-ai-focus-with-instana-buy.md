@@ -59,22 +59,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
-    excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
-    publishedDateTime: 2020-11-18T19:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
     excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
     publishedDateTime: 2020-11-18T14:33:00Z
@@ -108,6 +92,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
+    excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
+    publishedDateTime: 2020-11-18T16:45:00Z
+    webUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
+    ampWebUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 37
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
+        width: 400
+        height: 225
+        isCached: true
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
     publishedDateTime: 2020-11-19T02:49:00Z

@@ -52,7 +52,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 80
+    quality: 78
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
         width: 1200

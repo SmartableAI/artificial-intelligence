@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1200
     height: 825
     isCached: true
-
-related:
-  - title: "China Gets Ready to Rein in Baidu, Alibaba, and Tencent"
-    excerpt: "Many of China's top tech stocks recently tumbled after Chinese regulators drafted new antitrust rules targeting the country's top internet companies. The proposed rules target \"monopolistic ..."
-    publishedDateTime: 2020-11-14T13:15:00Z
-    webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
-    ampWebUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "/qGyOOQJD7aFXY1fie3SYDWQ9QA0DtJqr0rCxAgULxIu/BAKJEsOHs7nfuyD/b+djmKPmQlkGe5Y29//q7HKCltnImCc2txKhkPjrmwKk6d9vcOrNXb8LQMZw3ht4Al0FBD3P9SyJuMVhgBGC6pw/coGD54WMq9NzdBSlLHBjtj5+yJ3lR/2BqhukDMljjTEQ93iyyGM23z3vhDcZ0KXcSEncYEXdrmXz/+Z8taUYlEvRHjMQnViE2dC4ahpL+MSrRN8YSZCBc9EAvS4mc+0QNP7FVSxSY43LdqPgNkoPOCi/sBNAeOAXJaG1aRMIiO1bWPDeFF/M8dLyrUlWOJcctMqUZShMbVc6KK7huODn6AmBGX0c9cssD4pmwonmWvDeGqWuC0UX41X1HhDBaGAz+dto89ZoBzYL1mIM7hq0ksN83qGew5aysCXiARcztFD4rd+pbpdoZe4b61ziIBxnrgnSKTzrIMfsr0423NMzgnNt37Qx8YsgIcZrkNspkRpxL61NXifmBZgWDmZrei+6w==;B8rx85989xytqL1OWfNBIw=="
 ---

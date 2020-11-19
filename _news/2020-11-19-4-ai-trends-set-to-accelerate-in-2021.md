@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to
 ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg"
@@ -89,6 +90,6 @@ related:
       domain: insidehpc.com
     quality: 16
 
-secured: "r4SUihKlbtifUmXwpHJu8fSv+SCy6BOrxRvm/qQza2ylpUgleNHKUWuQrP3zpUui0OUnYHVVfkI8UHpbRgEL7iJmof6Z/kTmKm5Pd3o/n30y8+MWNecd2q0709WoEsnSnE8vd/6LaXz4SozHykVv45qJc4pFCcbyD+a5NcFtMX3CogoGEMsD83s1Vszw3UQKJmwfXKOBxH5o6VhK4J2QSsU/jaJhcfkabXTFr1H37Bde3/HWiTATdV6IPrNuq87dlctr4Got7mG7v3iMkXOjwMIWt1J5CoU5oAOFW01uYXn/xc2wfMbVVVuuoOot/KsG6s6/DUdD7GqF0Hjz987DUXS8FoK7QfTN6lY+sywMcZ8=;PZdCeuFVlHA2gfvoA1uTog=="
+secured: "HnYR0AzFvww+JU9VpPKg++fLnBDU5XoNyiBikJWFCFpKQSZ57cLqh+0l9EmebVzd18RTX/BwETWexqFdeYd3eeDdWjEbUZKmgtuTIGZBJmAa0LXnZsB4UZ+BOMhJoHYg9QBVNLUnQd1r82VoHl8eoZ4U536ioc+2/AMidl0UUDGO2tel5s30q+xiiNSzoIxGzn1H5F/eDwgvI+US9Lq/HuEwbfa1S1L8o4muwHWBpAX8BZYKGyiIUMo59SR3YM+Bmp/5lfY6zVxXugArnZM4penL3/yHteNEhJ9Z9MHqk30TZ7tk8KJ9t23i1e/0Zk/sB/uyZxk8F/gh6AWecgUpqyEhHwlst2ElVK9z5YAo19hvSDhvDcKLMDUdRYzli9Yj75MpEn/syoHh8kZQCe8/dGmAKnGQENT5Z8v5qGM9C3BdwQ+JuNXOi0DicZ3jWtDgYm1MrIsFOltZd+uj1cJZ9N57PKZBI0vhHjWcA7cwTYji7ZolChFR3BgZri6/S8XbyKMu9ECUysbcghYxIlEhXA==;TA36RbhjiBF+SGRDRH4Ajg=="
 ---
 

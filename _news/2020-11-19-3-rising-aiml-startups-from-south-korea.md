@@ -1,10 +1,10 @@
 ---
 category: news
 title: "3 rising AI/ML startups from South Korea"
-excerpt: "AI is ... (NLP) research, and it has not been studied much. However, rapid advancements in NLP in recent years have enabled developers to create an open-domain chatbot at a significant level. For example, big tech companies like Google and Facebook have ..."
-publishedDateTime: 2020-11-19T03:43:00Z
-originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea#!"
-webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea#!"
+excerpt: "Even AR/XR glasses in the near future may have an image and video-based motion sequence engine. We’re using Amazon SageMaker to help label images for bounding box object detection and use Amazon Mechanical Turk to help us outsource work with public ..."
+publishedDateTime: 2020-11-19T05:37:00Z
+originalUrl: "https://www.techinasia.com/tencent-reportedly-leads-udemys-50m-series/next"
+webUrl: "https://www.techinasia.com/tencent-reportedly-leads-udemys-50m-series/next"
 type: article
 quality: 66
 heat: 66
@@ -19,10 +19,10 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
+  - AWS AI
   - AI
   - Machine Learning
 
-secured: "gjLKE8PVOXAMct6lE2ckOVVeKo2o8BdIJOP/5F2pwtT31UqQGBjJIjbJQSreL3SBUyFhXr6QbzZhhYisD8IM98T5eje40j00kK6hps7oDCnThZc/S9pKqtIc5iWJcC9lZp31p74gZF4Nt6TFfGHrhwBNGLu8aTB6HIei1XLmejO3vxNj37WJdjJsbf+Yhi6Z1F3NizfX5kRca6ScaexF+zQXOBZaIP6xQCwyV7GGABBbvUqle6+UiYRTPq4Pl7XUT8xycoRVFLVQo7F/vJi9U+JtAdVKIH6Yw6cZzmeB1QydTBWxMGDAVb9qtYj2ymim92ynPP+fH87vqASOd/xsXFaznQgNBFY+2yZHnguwu16mUILDNVJdnuiATdwPYAz/2//0vHlpLBAOaxOZ6Ia+Yaqt0F/ypWEgW3IswMHW8UC5kifphqRtTNVArX4x2c8hAFRoTPPpG4PcBXYzhxzUkrYLsDBEfHGOQ0Z4L/keSrWjvR0aHYKt1sOR3gy44/D1EjFc+f9q4i0B2XiW/QVcnw==;UnSgJfJ2IPyjQXDimNjXVA=="
+secured: "ASvxbChPHwZscic+k+ujpdtLyUq3Rkt1nCEwzFhCoEo0QWH6sXB8dowEtMMOu2moIqArOJF9pgdFk+CDVQ0Rv5OjxwCwkYC7NaAdTCFjNPay7V3T2S77lmJHXGEee0nfi3yxKfedfufaCXzIkG+MOcJoQhesI3JX4XqRl4Qqq88+h/N1xCawtipHMyPiv18Re/qTNEIWElHnTj6nkcVu1HB/xlo4M1wp/hqtMXB5rUuH97nHpiLAwwtZXR58tBL2fubdLlyANrakTudFAtBMCNQ+6ans/r2OaZqIxvkkkNK/JWn+E2TX1iIWs2bUeQufuWaQRC9kwYKc+oY0HulGQ8roZs/5VUzt0SVhsyMRZ84tdcjGcONtwrE0kJm26TsnLFHjYK7oe47NjGxVaPPl33ijyOIVHtZDENyrRDexOapZv7pFm+VBWyTRzbfKHgr9UFNqb6xbyB8DWefaIWGP3MnHNOfvCCrneFcIi7EABx0B6AH/gNiRr9qDJEq7SUe3H+fwgSXkwP+hrimy7XF6NA==;Y0NKDo5yU/ZZM6LUiHFjcQ=="
 ---
 

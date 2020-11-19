@@ -8,8 +8,8 @@ webUrl: "https://www.detroitnews.com/story/opinion/2020/11/19/opinion-unemployme
 ampWebUrl: "https://amp.detroitnews.com/amp/6339115002"
 cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6339115002"
 type: article
-quality: 48
-heat: 48
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.gannett-cdn.com/presto/2020/07/16/PDTN/9bd76ddb-15f5-4de5-8910-c742b251cb21-AP20121019210710.jpg?auto=webp&crop=4771,2684,x1,y0&format=pjpg&width=1200"
