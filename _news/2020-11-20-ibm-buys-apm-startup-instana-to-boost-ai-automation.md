@@ -68,33 +68,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
-    excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
-    publishedDateTime: 2020-11-18T19:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
-    publishedDateTime: 2020-11-18T14:33:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816301"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
   - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
     excerpt: "... And it is another example of how IBM is building on its AI-powered automation capabilities, including: - the launch of IBM Watson AIOps earlier this year, IBM's AI offering for automating ..."
     publishedDateTime: 2020-11-19T01:49:00Z
@@ -147,6 +120,36 @@ related:
         width: 1836
         height: 2461
         isCached: true
+  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
+    excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
+    publishedDateTime: 2020-11-18T16:45:00Z
+    webUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
+    ampWebUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+    type: article
+    provider:
+      name: 24/7 Wall St
+      domain: 247wallst.com
+    quality: 37
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
+        width: 400
+        height: 225
+        isCached: true
+  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
+    excerpt: "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ..."
+    publishedDateTime: 2020-11-18T14:05:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
+        width: 2698
+        height: 1414
+        isCached: true
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
     publishedDateTime: 2020-11-19T02:49:00Z
@@ -190,6 +193,6 @@ related:
         height: 683
         isCached: true
 
-secured: "CI6J4aiY8MRoVEE4JHscYSMdNV7iUR5/1VYQjk7/VZqDTP3crfwFyIpwo58e0XdVVXEmjhS7ZA2xqzw9P484zuJ6tqWoO+z83EQ/tdZnRZLziIVy8Q9jrE2yIO3Ac3TnnHNrZe8Hvfh6Rofl5e/dLkGgWAmERVCo4IsvH9iS1JMNvt3WHuo9fPkXIaqxMjAJzfz4MBcHd6h4D1a2AbHftV8S8500I/tzy+Sjh7p4RfX9KgcDRB3PmY6JQuLfcD64Vw8QXV+68cxovFkjuqUYKLk1YLewEPS6q3UBJNI9txhNqGY/zq+qe3UqBUrLF/JxOXh2X6BFqZjfBUo7Ps7zvVZ2I+KvWtBviI+OK85K/zo=;s4wDf2Xj0cBNm0kcFr1c7w=="
+secured: "R49erv4GKUT32JCYfPeN7pAoP2obhjwjuIECGxBAhoI9XWGAk5t99i6hlRyzuyvWD7wj4+HvoAbnXcRkQGcGCf2qyJQfjDyiUkrxfab+QTOFqB4v54wsVU37rPj9QxPPbaS//9h7b6RVFcjcYx7sqLguWtNCQkx8kdwWtHs1wr9PA9xI5gv7eQ4fnQkgxx65JUhpZxa6F8Isqi8hvt72PAxgJAkuP+m062thHHusUys6Q3/rcuLe82sX43/GOxbjyc/RNCnGVCqhBsjD/aBjubyLysxtvW7TO8ZelmalGOIN9obuBgyKynC6NgK35p5KmZp2XkY6q/xVw/0vzN/3ec6P3UmgEbLGajjjiK8HmI0iftwr6Jy1t4mtw7qhEyuxETCnjBW5PmyLCqc42ikMl/22/UV+EG8fup6KOFvmjF5puliEwv+M9BeeUoCoKlytEsmv+8JtWSqO5mGtK3N10LxkVpAMp8qZPktXmOddeHtLGwoO3JefmDs+h1CuS9TJ94m/1sW9wrZ+0AN73GqgXg==;zPYCPb7IPcI+MVPiOAwQLA=="
 ---
 

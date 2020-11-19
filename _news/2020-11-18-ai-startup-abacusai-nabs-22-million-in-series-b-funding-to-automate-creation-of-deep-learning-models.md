@@ -3,10 +3,10 @@ category: news
 title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
 excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
 publishedDateTime: 2020-11-18T11:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
 heat: 118
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg"
@@ -71,6 +71,6 @@ related:
       domain: globalspec.com
     quality: 19
 
-secured: "sZZm4ti0YMxvKuD7lgsmuxTcM6qH/dnp7R8xhQrLDDq/aoFBXGT4M3lssCUrgMXKQxLE4VBbip8Bzopngzq1y+Hxj+lmjq2Y4mVlxvGID1A2GkqG/YQbdgkvOj9krmqOV++L2jkW8g8HRENqja12v4/OG5VsKE2dKlTJ0ZMkgqzJRH8DQfwKd1nxPQAg6qZoDdmy+nHRjjVudctIOdLxG7pIZMHRmzNqJu2z8629snorETpvrBo0CgLrOoXvTx+WrffZugS6p5FotoJ89a0y+sZRGXj8QDNeKod3uHnvyvTLLSekh+DcuiYIIMYJwQgpudMKjd4uJJwSxbqRzs4Vi9ZA2Ts40pkypgswxXETTHU=;aSRkskQvLzqVtZfHC0l5mQ=="
+secured: "CjsNPiITEHQJhWsv80pfeXjl4bfmxouCMrCJCDS0loezmCp0GeJT5xqBeU9zDiEwJciZWL/ztFU1lj314HqgyhL4BS4j0myVCStH6BF6cAHQhsTMo7bBpgq2cuQgnNcs3SZIKJ5dScAb/bWF09UKoGkrbttjre6fSoM+Jia2WRv64TPRQ8NIKJosra460ElGK7MZHKknXplUKLfhsIUyCj2TBLwBbELhdc/t9xu9tZohdSEGsJXDbYq+u/bY7sjojbjNfpmACXa11RkpqW0Sp2tRHHK9bLrucO/hev3/6YDsWDQtX1vNotSehYr4UqdOZuSTGsk9bwFXLS8cNrfnH5V03IaOdpW44kFX8Wyr38g=;o/6F+JhW0U90d48LtJVhFg=="
 ---
 

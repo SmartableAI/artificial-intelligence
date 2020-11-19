@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/19/21575139/facebook-m
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
 type: article
 quality: 89
-heat: 159
+heat: 199
 published: true
 
 provider:
@@ -63,6 +63,38 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Facebook says it's getting better at using AI to take down hate speech"
+    excerpt: "Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively spot nearly 95% of such content that it takes down."
+    publishedDateTime: 2020-11-19T18:00:00Z
+    webUrl: "https://www.cnn.com/2020/11/19/tech/facebook-ai-hate-speech/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118174256-facebook-on-smartphone-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Facebook's AI is flagging more hate speech before you report it"
+    excerpt: "The social network says its automated tools are improving, but it's still under pressure to do more to tackle harmful content."
+    publishedDateTime: 2020-11-19T20:41:00Z
+    webUrl: "https://www.cnet.com/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/nJG0qfV5rH_EZwuAYPpcwqBRSsU=/1200x630/2019/05/01/3024034b-a20c-4651-8db1-daa65b6af6c1/facebook-f8-2019-mike-schreopfer-0032.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook using artificial intelligence to prioritise reported content"
     excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to \"prioritise reported content\", a move that will help the social media giant take action faster on harmful and violative content."
     publishedDateTime: 2020-11-17T12:02:00Z
@@ -111,6 +143,22 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Facebook says sophisticated AI catches 95% of hate speech posts"
+    excerpt: "Facebook said Thursday that its artificial intelligence tools and systems are now removing 95% of hate speech content and removing it before users can report it."
+    publishedDateTime: 2020-11-19T19:53:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5271605811925/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "POLITICO AI: Decoded: Last act — AI in the workplace — Facebook’s suicide-prevention tool"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2020-11-18T10:37:00Z
@@ -141,7 +189,21 @@ related:
         width: 1600
         height: 1200
         isCached: true
+  - title: "Facebook says upgraded AI models spot nearly 95% of hate speech it removes"
+    excerpt: "Facebook Inc. removed 22.1 million pieces of hate speech content on its namesake social network in the third quarter, 94.7% of which was detected automatically by artificial intelligence models. The company shared the figures in the latest edition of its Community Standards Enforcement Report that was published today."
+    publishedDateTime: 2020-11-19T20:38:00Z
+    webUrl: "https://siliconangle.com/2020/11/19/facebook-says-upgraded-ai-models-spot-nearly-95-hate-speech-removes/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/facebook-2.png"
+        width: 718
+        height: 400
+        isCached: true
 
-secured: "dWLc0UxR0DwTsQbpMHYYxFlIskV50LIcSXjvpP6+FxJykkUCCisGP7q72owN56sHIRMO+OtHgKLy1Q/i0ylJOx9dexf4YGgqBHc76S5Itma2zP79JDtwU4D+WnYQGXbIWlB9laKyC02BqWGhbv4Wq2AUo5BZTvPRGuv8YYrmxBLuBCkfZLBb2QOis+uuogi0t+V3CLh+nNcMi4vCaVuraRwMo1j+8Qt9A04AXCfhLjrM4QJFIis06DP+wPc2uuXstPNEm+l0Ahzls7JbKONft8oDuhLIuSaqF/1ugwqm53TEIO2JMIYpdz3CszTPNTbJJIwqOeSUZUH7JSf+vnX0ikh26reh4gFheDgiChza0S0=;FuCj5TY5kKn64svtpf/Wrg=="
+secured: "qBvIBP2fB1Lyl3Hki9MgCVI7OxjC7tyj+w3mzGDSHFY7ICovNtBulb/cwaL8LPxBi0ZFA1YAHEImAyNPPK9F14L/4la75wWS5Aaq+4bZQ96jqkOFxHO3gdWA0ASlcS4mrYKRvP9KoVlSJ2YWUbcZazkW1Sg65dSpXR+ArZl6iC86fqITEutdAJZCZcugQWYpiO8GonMi+BT0FR3TRZTkQo5HQZhB6SWA2/DFrjdWE6H5fUpetKDwRDrYNiIYadlgIjdjDKF0QV1qDyZAPrvxB/bbuUYiC30329SC+NBoSXZqajRIUDGipDlXs0YFr8AJB7kWtmJIQvSDsFG1ltzo5BV8AMPJcugzuBjBw3r6G2DRd4l43JEdZmacFQR/dGhsmV8Fxy0e4+069Bjc+Dfy72prbLcw4VzLmd5sDYWfQTGOwo44HyU70I48Bfv73fs8meK6xmL5/RGutGK4ZHYHOrTfT7gd4ILpYphtjDJDVYBMkhj1TOyi+vnmsOn25OQRLhFdWeeUilXAVoxHzapVLQ==;6QGNT7tW724WkcLTSlKs2A=="
 ---
 

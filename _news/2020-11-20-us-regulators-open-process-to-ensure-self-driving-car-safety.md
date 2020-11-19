@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM"
 type: article
 quality: 74
-heat: 104
+heat: 115
 published: true
 
 provider:
@@ -69,6 +69,20 @@ related:
       - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/11/New-radar-helps-self-driving-cars-navigate-safely-in-bad-weather.jpg"
         width: 700
         height: 511
+        isCached: true
+  - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
+    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-19T16:47:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/nhtsa-opens-regulatory-proceeding-self-driving-vehicle-safety"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AVs%20Bloomberg.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "64NP+i45q9ZqfCwrFeZzHVxynbYM+T4yqc9eiAmsrJW6BweRBcBp5Om5JhQbn/5mL1XheloDETS+3Ziyd6L6Ve5wUO2todjv1mOA1mJCQ2iBKmTDaANkTewBwGcF98Qy4fWgzAbG+k3Si7XEFdwojZMnIV40qWjISJ1sKD9mA7zKtqNZHGW5KF8+prpSC104JCW65SJfqA8kcPuGvRBY8xXNMWNXpkWChPfbKlDBfTQGAngUoPUIL2CuNRO2QC0Dypm+aR8RCM0wIU934MHAc6hxRugR2CU3q9fcQu3CUtRJ2syyX9gBajMrkRjM+Lw/FwcYqJf/NQi43gTrNKwlNN4pfKqUhSqoxCbSx0aFYf8=;2W76XugTF+hzg+tyuS5zyg=="

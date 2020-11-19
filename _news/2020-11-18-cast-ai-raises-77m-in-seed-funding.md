@@ -24,6 +24,19 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Birmingham AI startup raises $1.7M"
+    excerpt: "Another Birmingham startup has secured a capital raise. AI Metrics, an early-stage company that focuses on artificial intelligence for radiology imaging analysis and reporting, has raised $1.7 million in a seed round."
+    publishedDateTime: 2020-11-19T19:36:00Z
+    webUrl: "https://www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.html"
+    ampWebUrl: "https://www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 37
+
 secured: "wcq4FI6g4IML/hGvLyEyG06QfGLOOyFdjiBdjp0o4DBmAAvfTkIHZdfSIkMqf9FhsCXELfCHQiL2ghCk32qOlus3+fDy+FixENcR7SwocjL99McqKPdhYQQ0a+YYjQTGKraIgx/KwlmruJmoecPwPCK9XwCvzZiWYLhxpcrwGFD/KMq2sY2ybHJQTZCEFh5oo8MECYhcjJZunGEyFE/8EZ6TZ2xN6vraD953ex+EQ0a79ppLI9H6B/GCo2iZIjFSxZ651YdqATpovJxxiWQdn26zfpg9TxmXYL3Q7G/169lxI2oUZljptnSSGsqh/T3+4DzDAaTYe7sPe5DHne1mFFib30XfFI/p+neVbcK4ZCqJ7e5YJNn/4N3qWyZXZxEIRj//p/v/ZMYosSYKhTorIvLmTxtr+KoKoPUVj3kpyCH0MeiPhIOLq0zgnfdXMCyutMPFB+3Y6Y9mAYQnXSYUAjE9fEhSqB1NFYCM0ebI+lLKlRAu0tsa40cA/gXV63gprNb69eCaU1OeUOedVvN5bQ==;crQZa1XTqh46sRmIwubxsQ=="
 ---
 

@@ -25,6 +25,15 @@ topics:
   - AI
 
 related:
+  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    publishedDateTime: 2020-11-19T19:33:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/11/19/moovly-media-announces-integration-of-amazon-transcribe-and-google-translation"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 22
   - title: "SYSTRAN Translation Widget Provides SMBs Simple Solution to Globalizing Websites"
     excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping small-and-midsize businesses (SMBs) become global business leaders. SYSTRAN Translation Widget allows SMBs to quickly and easily translate their website to reach global audiences."
     publishedDateTime: 2020-11-17T15:03:00Z

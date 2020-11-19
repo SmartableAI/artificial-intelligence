@@ -42,16 +42,16 @@ related:
         height: 563
         isCached: true
   - title: "Financial services companies are starting to use the cloud for big data and AI processing"
-    excerpt: "SEE: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ... and an expanding array of AI and machine learning (ML) services and expertise that cloud providers can offer. Together, these forces enable financial companies to bring big ..."
-    publishedDateTime: 2020-11-19T05:49:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+    excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
+    publishedDateTime: 2020-11-18T16:27:00Z
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 80
+    quality: 78
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
         width: 1200

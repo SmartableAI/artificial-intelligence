@@ -74,6 +74,38 @@ related:
         width: 1024
         height: 567
         isCached: true
+  - title: "Facebook says it's getting better at using AI to take down hate speech"
+    excerpt: "Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively spot nearly 95% of such content that it takes down."
+    publishedDateTime: 2020-11-19T18:00:00Z
+    webUrl: "https://www.cnn.com/2020/11/19/tech/facebook-ai-hate-speech/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118174256-facebook-on-smartphone-stock-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Facebook's AI is flagging more hate speech before you report it"
+    excerpt: "The social network says its automated tools are improving, but it's still under pressure to do more to tackle harmful content."
+    publishedDateTime: 2020-11-19T20:41:00Z
+    webUrl: "https://www.cnet.com/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://cnet3.cbsistatic.com/img/nJG0qfV5rH_EZwuAYPpcwqBRSsU=/1200x630/2019/05/01/3024034b-a20c-4651-8db1-daa65b6af6c1/facebook-f8-2019-mike-schreopfer-0032.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Systems Spending Market Key Players - Google Salesforce Microsoft IBM Apple Facebook"
     excerpt: "Decisive Markets Insights brings out report on Global Artificial Intelligence Systems Spending Market. The comprehensive report presents clear foresight of the booming market owing to the expanding consumer base and technological advancement."
     publishedDateTime: 2020-11-18T10:51:00Z
@@ -106,6 +138,22 @@ related:
         width: 640
         height: 426
         isCached: true
+  - title: "Facebook says sophisticated AI catches 95% of hate speech posts"
+    excerpt: "Facebook said Thursday that its artificial intelligence tools and systems are now removing 95% of hate speech content and removing it before users can report it."
+    publishedDateTime: 2020-11-19T19:53:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 57
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5271605811925/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts.jpg"
+        width: 800
+        height: 534
+        isCached: true
   - title: "POLITICO AI: Decoded: Last act — AI in the workplace — Facebook’s suicide-prevention tool"
     excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
     publishedDateTime: 2020-11-18T10:37:00Z
@@ -135,6 +183,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Facebook_AIM.jpg"
         width: 1600
         height: 1200
+        isCached: true
+  - title: "Facebook says upgraded AI models spot nearly 95% of hate speech it removes"
+    excerpt: "Facebook Inc. removed 22.1 million pieces of hate speech content on its namesake social network in the third quarter, 94.7% of which was detected automatically by artificial intelligence models. The company shared the figures in the latest edition of its Community Standards Enforcement Report that was published today."
+    publishedDateTime: 2020-11-19T20:38:00Z
+    webUrl: "https://siliconangle.com/2020/11/19/facebook-says-upgraded-ai-models-spot-nearly-95-hate-speech-removes/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/facebook-2.png"
+        width: 718
+        height: 400
         isCached: true
 
 secured: "LQxI4MV3bC9bJnmGgYKgtv93B/K6kTrFFWJUzvkpJQxQv8RX3kaEtVjyai/nJVKj4KrX51UFI76rEtLZUJfLoKnzbv6asvHTA9gydyMnHIpsCozv/jKJIdU3KqI6ndfKI34JT3y9IBZMmyCSIcHAB//+HaeUPuftyX+lnj1hwo6z0C1k0lh5KjzJBK9EHJdmL3jyRyre9X7Cz976DOx/S/u/lHuwJNTDQbDRxMrsTxV3oikrkKeEuGHH6O2HLwfU9AVhJRw520CDkgQ+sVcjToZrm0uC9RW03bTXkbHKIQRnlUOsT4JsZpIzhg5VGWGWDudncg1ptWvOs7sGI7UvmrI+C0BEktwugrS5wEIdcHU=;zh8DM64GBD1zBlil+6mgAQ=="

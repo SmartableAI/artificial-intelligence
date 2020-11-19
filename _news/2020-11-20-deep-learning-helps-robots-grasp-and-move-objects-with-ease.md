@@ -6,9 +6,9 @@ publishedDateTime: 2020-11-19T17:46:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118141827.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/11/201118141827.htm"
 type: article
-quality: 49
-heat: -1
-published: false
+quality: 66
+heat: 76
+published: true
 
 provider:
   name: Science Daily
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 related:
   - title: "Deep learning helps robots grasp and move objects with ease"

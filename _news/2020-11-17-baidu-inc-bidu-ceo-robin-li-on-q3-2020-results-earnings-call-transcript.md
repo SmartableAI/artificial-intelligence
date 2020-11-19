@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4389580-baidu-inc-bidu-ceo-robin-
 webUrl: "https://seekingalpha.com/article/4389580-baidu-inc-bidu-ceo-robin-li-on-q3-2020-results-earnings-call-transcript"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,36 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Baidu Announces Third Quarter 2020 Results"
+    excerpt: "(2) This represents Baidu's share of equity method investments for other non-GAAP reconciling items, amortization and impairment of intangible assets not on the investee's books, accretion of ..."
+    publishedDateTime: 2020-11-16T21:59:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/baidu-announces-third-quarter-2020-results/article_a80998c2-1d14-5fdd-977d-fae9f30238b2.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Predictive Oncology Reports Third Quarter 2020 Financial Results, Provides Business Update"
+    excerpt: "(GLOBE NEWSWIRE) -- Predictive Oncology (NASDAQ: POAI), a knowledge-driven company focused on applying artificial intelligence (“AI”) to personalized medicine and drug discovery, today reported financial results for the quarter ended September 30,"
+    publishedDateTime: 2020-11-16T22:22:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-diagnosis-and-treatment-ovarian-cancer-earnings-61680e49d2acac92747a1cda9c06d6ba"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 14
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "mytEdy+Pxtjxw636ikmanri2jI4zawJP1IwgbA4D9ALnWLS9ieTrAebenl4Y49sDeWRy4KJrSsudbgH3o3GhD7uq5e4hH2dO7DfkfD7Ehjo9M/qhdDJBKRIhJcRPwYp/PGltLaKkwgd32IwZplXhGxhrPVR+EluQQBxyL9YbIl4h49p5DdQbNYfr8iYWb2EMu6BlGNy+DHo5D0wT/1eYJlvyqedzZyLTO3+7h+jz1b4qiU7J/gG7PjSx0ERbLF4L+ElWsorjpORxH073w36/R1e60Nja5+r4AusV6t6xcUsA93FUH/Vn1B7Lzk4+YXiH+QYnb+S4jD9nNp2atqsQF71xjn04+fxfX8yi6wFZpu8=;Y+0Sj+QWuonU4BAfiV/PJw=="
 ---

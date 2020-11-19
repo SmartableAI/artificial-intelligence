@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--dlh111620.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--dlh111620.php"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -34,7 +34,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 49
+    quality: 66
 
 secured: "vSjLvPVVs8yVskVlSH/dhhvmK3CzEqFB6rBoTKYETPN5/hwWc8Q2R3Wl4z5DsF9Wg6Nrxk7kKj2EqAtRMJvaMVU6JQnrkbBeprQedUFwZWLMqz2COtdW7F/jLFMgwb70e043xIfZ62uhO6vFWPj1R+WhWSXpb9lxeCw11M5tYigAmpwxZuJSPwVzwiCYPYp0VoUNmguIeoGzTQBXw9tYPrsreIaNrGClC84HvBcc8Szbr4Fc3pcil+VlnrUYSWFwsmDVTHvPjExfYO0IFauZ7Gh4p4crW3RMoWDsjJkCWROC1HSPx0bqPfTrMOqnFDEV7zQUtLw0WGctAbvmhjZmBbz85gL+E0+wPx61rUF3KhDC5LGRczuEGz21A515ZvrAsFkvpiFbOKbVIHoo4bjflml+IZmoKilTbgn0Zbywo90AYQviA65gJ5h0iTHxyGco+l06RZooj3UezagZoRRVHW41F9WAvUZ0tOFkyF09EvfokPTWO/rwSVPw0M75XUgD2xTF4tS6C4+YRvUKl/5DQQ==;xmBd9s/IGiJ9XwRgbL/sYQ=="
 ---

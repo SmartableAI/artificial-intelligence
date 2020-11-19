@@ -63,6 +63,20 @@ related:
         width: 2404
         height: 1320
         isCached: true
+  - title: "Cerebras Systems Building AI Systems 10000 Times Faster"
+    excerpt: "Cerebras Systems Building AI Systems 10000 Times Faster Cerebras Systems and the federal Department of Energy's National Energy Technology Laboratory today"
+    publishedDateTime: 2020-11-19T20:14:00Z
+    webUrl: "https://pcper.com/2020/11/cerebras-systems-building-ai-systems-10000-times-faster/"
+    type: article
+    provider:
+      name: pcper.com
+      domain: pcper.com
+    quality: 39
+    images:
+      - url: "https://pcper.com/wp-content/uploads/2020/11/ai-systems-10000-times-faster.jpg"
+        width: 699
+        height: 564
+        isCached: true
 
 secured: "GBEPTqgJCzI0PWSTif3eHwDpsewMeBG/CDVPm8/A1oCtBuWzq4eMpYHgUXF2AGQYi8x09N/9yfqiyfBILF2CYVsVoR4X/VZaBNPkSIlmQMoANeKDp8EgYt9zyeXdJIlTCtV9WOCkUTr2scfBrxxPDU48JpsE2UdneR0kXVU0aOOktrOPwxTPbChFB3dvH75PwCbB4g8q3fzv3qntV6/R3Y3Kn4jk14wvopI20PNrpY70lJVZTIFk/Bz8zaARToHpccMBYEyVOrSH4e4YrfsoTrGKPjCd2elS8Mh+Pesg5pf7GkU02EGRSM70FEjV+b1Ac+jVqG3lMWISX6r6+NXjv+VuXsXaQ4srs3uDwjDFx+HfqDjCeCT/dCFXjC5VtZ9S+kvNKYZPh9iL8+oP38dRrJlITrvZ3fyom7QbVDF+Kxmb5vH7x2b0wht47V/vpuLRNPFax211OQ5+6w5zZ4o7xa+AzO3UTnBAyxLZO6dtlP9ReGYYCOdv72RFuFdlJv37mJptVrrWybYv7x2TcwqOmQ==;s9y9IoeqtA7mx95lMLI5cQ=="
 ---

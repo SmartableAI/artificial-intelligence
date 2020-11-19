@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3596596/anti-adversarial-machine-l
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.amp.html"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

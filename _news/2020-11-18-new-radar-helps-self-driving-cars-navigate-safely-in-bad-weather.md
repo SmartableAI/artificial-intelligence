@@ -66,6 +66,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
+  - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
+    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-19T16:47:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/nhtsa-opens-regulatory-proceeding-self-driving-vehicle-safety"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AVs%20Bloomberg.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "jEK7Dv86DqvqszSE75iSAtszTnuFr3Ovy1P6MkEjbag8hOQn0BLRiihHfgCof+akL9aKaH9yU9ZmfTbDxkbr1gCB9eHnR3H0qpbuTI1SypEpP/HlxieGmMaZ/9U8JhGGpcD74OscR78TQblXHb488E5lt2pxs6Uxpx0ZMDkohpLjgIyrTssjgq2+VuTDNtmeD6/f8YsZrNVFxfuJT5eTWRHTef0zFcEImizF6klHpkk8Mdxtek+RksP3eLfCbWcD72nyn/uANbLURy3e6+iypzmd4hSq8e+mzE0QHGQoNIglA2qLUHr18bzrTNkqpPYtcz+naTY4MBK8uhjyM73KjXkZA8E8GafNcUu7nojFrZz8bp+sEfKmcz7lOAozWcqutH1wj6DUyo3UFE6bwC+iwdulEym0SBeuDK7YOwIdIsvdmLf+41DNoRj0DYygh7gWpyvaIsWWwDOHH4IH5kg06li8pn6PMgOBNRh6R3FqQow9jqzsGzabApF4YSZUlhX2+B+37H+sXbUPlrT+6czOow==;LHjCl2l9PetJ3mEoHoI/Lw=="
 ---

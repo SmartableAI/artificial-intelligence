@@ -36,6 +36,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    publishedDateTime: 2020-11-19T19:33:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/11/19/moovly-media-announces-integration-of-amazon-transcribe-and-google-translation"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 22
 
 secured: "PZ32DZue3XDhsKhqrTiHpJ1M0riZiKNFoIju74QerRsLjlqGmzDpGfdd/Ulek/aGAEExYu/gTgUNbDsloVaPs2LK0W0EnXcTtOnfdpEhVbyWkgdDBCnKFx0DT4wsjh0/L0hoXv6jn9/Fb5wVxLARi3z2Pe0+/KFVlZ95z1uPEI6yZvUIggoxW3vCapz8TITAWPXhWgQNWzJsJFRo39b1z9RGBFJjg7NVo9n0dEp8DGmKlvNehxxdeslekbRqnD8vBeJ3BsjoaGD9U3Onu/JhS25eH2kgtsEiSzd6ZdYU0lNNR0aMJI5EjrxulBsB3aGa46Qo87WqOmB23u8NZwFVsvpu9FMl2CPnE+7Lgtpn/C8=;0002hUgwQP9JNVJohftOEQ=="
 ---
