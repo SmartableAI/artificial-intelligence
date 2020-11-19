@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Booklyn.co Launches New AI-Powered e-Reader Site"
-excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read"
+excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read better. Offering the widest available range of digital features,"
 publishedDateTime: 2020-11-19T12:39:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+webUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Abacus.AI raises another $22M and launches new AI modules"
@@ -67,6 +67,6 @@ related:
         height: 785
         isCached: true
 
-secured: "wyxjnxyVkrURslvlC/h38yDA0HLVp1OlE5ft+1fyLHHhAUIMeZ7+V6OAO0wNp/XZBQFHa6odk1+NhED+z6ZpkfzfsqjNeiKMEv1hk8wigKYgHHmpdmgudoDyQi4FkJILawhGzTfdMhBEYgQ87LYfdk/ez1kai4MrecpVE5kDZBnxD3P0rwvSLYUK6cz1QUEsgvSELXoPnMqvyNZIsM6Fv49fktLIXGSOdLC2avboGrvWWHn7ddwaIzG2bm8+pGQl1l7CK5uMZfUuUNBSh1W7QyT4YK7zZ4zNuh9h3ECZyGq4GTpmgsI+YuqjanWZiZTk8C8TTRm8Jjog/ytS/xvLgnT2dD5oMQZ/FB30MkhvLVqOtNPJPLYGBaU9Hp0G69x2efYL9YswJZ61/qlZYMYFmf1y8ruIwC+Fu80WK//n4vMFiGrywhS2+McIDdIUP/zisgZlOq74PCUS0Fdqyjm06S7p77zQEY7S3uTzhrAOMFT1tIrJ5bzooeDUH4s1FXoK6DmOG2Nwax0jsKgDyOFb0A==;QC/5d9J89Ir5rDjNBvz8Wg=="
+secured: "FxVyxQnCCXMmLGtOk+mYtwhe9T+IusgleFgk1Ed0z9mI3Fth7X5sjysQTTJJBhtJrS0pJseNptfmtVQ90JWvMVrwIUWJklbi00BE9WjdfZ27ru2wOl5i2uXQYV2ULTmpKWWIp52lhZUSF7srVdtLD68Mujvxf7+qMhA2URJ5doQOVkqEDT51xwq7yFFSIIgj3W/XdxLrqIUYDWV72BVt3FuOXpWuzRAPaGZ7hdI/zx7l9JV3EIGSdk2KhN2QnCpzhs3vH2/T9yu9ToAE+3k9DILAij1mwqwaOF/MWMPuez7dmPke0nJ3VWpsh9sWVD7VDJv2gHwbW2JGJz1GdulKx8qVyoGIMKKiZ0QUcdtNN8A=;KpEWPr2IeoSfzYFyy8v+lw=="
 ---
 

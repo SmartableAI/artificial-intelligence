@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
+    publishedDateTime: 2020-11-19T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027"
     excerpt: "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027."
     publishedDateTime: 2020-11-16T15:50:00Z
@@ -43,40 +57,59 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Healthcare Artificial Intelligence Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2026"
-    excerpt: "Nov 18, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry ..."
-    publishedDateTime: 2020-11-18T23:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18"
+  - title: "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025"
+    excerpt: "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,"
+    publishedDateTime: 2020-11-19T08:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Sports Technology Market 2020-2027 - Artificial Intelligence (AI) and Internet of Things (IoT) to Provide Growth Opportunities"
-    excerpt: "The \"Sports Technology Market Forecast to 2027 - COVID-19 Impact and Global Analysis by Component and Technology\" report has been added to ResearchAndMarkets.com's offering. Increasing popularity of esports,"
-    publishedDateTime: 2020-11-17T10:53:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-sports-technology-market-2020-2027-artificial-intelligence-ai-and-internet-of-things-iot-to-provide-growth-opportunities-1029809825"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
+  - title: "Artificial Intelligence Robots Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
+    excerpt: "The artificial intelligence robot market is expected to grow at a CAGR of 20 38 during the forecast period from 2019 to 2025 Artificial intelligence AI is the creation of smart smart machines that work react and respond like humans"
+    publishedDateTime: 2020-11-17T12:14:00Z
+    webUrl: "https://www.openpr.com/news/2188814/artificial-intelligence-robots-market-growth-size"
+    ampWebUrl: "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-  - title: "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
-    publishedDateTime: 2020-11-19T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb17392453_g.jpg"
+        width: 800
+        height: 571
+        isCached: true
+  - title: "Deep Learning Market Report 2020 Industry Trends, Share and Size, Expected CAGR, Top players"
+    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
+    publishedDateTime: 2020-11-18T15:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-industry-trends-share-and-size-expected-cagr-top-players-2020-11-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
+    publishedDateTime: 2020-11-19T16:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -96,6 +129,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Autonomous Vehicle Market : Incredible Possibilities, Growth With Industry Study, Detailed Analysis and Forecast"
+    excerpt: "Globally, automakers are aggressively focusing on autonomous vehicles to satisfy customer demand, to remain competitive"
+    publishedDateTime: 2020-11-18T18:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-2020-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026 - Industry News"
+    excerpt: "Global artificial intelligence market Size, Share is estimated to amass around US $54 billion by the year 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market Analysis,"
+    publishedDateTime: 2020-11-17T14:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-reach-around-us-54-bn-by-2026---industry-news-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2023"
+    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-growth-rate-key-manufacturers-industry-size-share-and-latest-opportunities-forecast-to-2023-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
     excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
     publishedDateTime: 2020-11-17T12:08:00Z
@@ -110,17 +185,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
-    excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
-    publishedDateTime: 2020-11-16T08:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
   - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
     excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
     publishedDateTime: 2020-11-16T10:07:00Z

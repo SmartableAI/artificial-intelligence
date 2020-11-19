@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. regulators open process to ensure self-driving car safety"
+    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles."
+    publishedDateTime: 2020-11-19T18:45:00Z
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN27Z2FM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T08:55:00Z
@@ -41,20 +57,15 @@ related:
         width: 849
         height: 1872
         isCached: true
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that ..."
-    publishedDateTime: 2020-11-19T00:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
+  - title: "U.S. Agency Opens Regulatory Proceeding to Ensure Self-Driving Car Safety"
+    excerpt: "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA)said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-19T16:32:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-11-19/us-agency-opens-regulatory-proceeding-to-ensure-self-driving-car-safety"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
-        width: 480
-        height: 360
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
 
 secured: "jEK7Dv86DqvqszSE75iSAtszTnuFr3Ovy1P6MkEjbag8hOQn0BLRiihHfgCof+akL9aKaH9yU9ZmfTbDxkbr1gCB9eHnR3H0qpbuTI1SypEpP/HlxieGmMaZ/9U8JhGGpcD74OscR78TQblXHb488E5lt2pxs6Uxpx0ZMDkohpLjgIyrTssjgq2+VuTDNtmeD6/f8YsZrNVFxfuJT5eTWRHTef0zFcEImizF6klHpkk8Mdxtek+RksP3eLfCbWcD72nyn/uANbLURy3e6+iypzmd4hSq8e+mzE0QHGQoNIglA2qLUHr18bzrTNkqpPYtcz+naTY4MBK8uhjyM73KjXkZA8E8GafNcUu7nojFrZz8bp+sEfKmcz7lOAozWcqutH1wj6DUyo3UFE6bwC+iwdulEym0SBeuDK7YOwIdIsvdmLf+41DNoRj0DYygh7gWpyvaIsWWwDOHH4IH5kg06li8pn6PMgOBNRh6R3FqQow9jqzsGzabApF4YSZUlhX2+B+37H+sXbUPlrT+6czOow==;LHjCl2l9PetJ3mEoHoI/Lw=="
 ---

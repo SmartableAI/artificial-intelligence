@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-market-rep
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-industry-trends-share-and-size-expected-cagr-top-players-2020-11-18"
 type: article
 quality: 62
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -31,34 +31,185 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chip Market CAGR to Reach 35% During 2019 to 2027"
-    excerpt: "Research Dive :The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with a CAGR growth rate of 35.0% in the forecast period from 2019 to 2027."
-    publishedDateTime: 2020-11-18T12:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-sports-corporate-news-fantasy-sports-8016c6c163f7684582ff98388fe4d3e3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Artificial Intelligence in Social Media Market Report 2020 Recent Development and Trends, Expected Growth and its Factors"
-    excerpt: "The Artificial Intelligence in Social Media Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
-    publishedDateTime: 2020-11-18T16:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-report-2020-recent-development-and-trends-expected-growth-and-its-factors-2020-11-18"
+  - title: "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
+    publishedDateTime: 2020-11-19T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 67
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027"
+    excerpt: "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027."
+    publishedDateTime: 2020-11-16T15:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025"
+    excerpt: "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,"
+    publishedDateTime: 2020-11-19T08:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
+    excerpt: "The artificial intelligence robot market is expected to grow at a CAGR of 20 38 during the forecast period from 2019 to 2025 Artificial intelligence AI is the creation of smart smart machines that work react and respond like humans"
+    publishedDateTime: 2020-11-17T12:14:00Z
+    webUrl: "https://www.openpr.com/news/2188814/artificial-intelligence-robots-market-growth-size"
+    ampWebUrl: "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 63
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb17392453_g.jpg"
+        width: 800
+        height: 571
+        isCached: true
+  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
+    publishedDateTime: 2020-11-19T16:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
+    excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
+    publishedDateTime: 2020-11-16T19:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-artificial-intelligence-speaker-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Autonomous Vehicle Market : Incredible Possibilities, Growth With Industry Study, Detailed Analysis and Forecast"
+    excerpt: "Globally, automakers are aggressively focusing on autonomous vehicles to satisfy customer demand, to remain competitive"
+    publishedDateTime: 2020-11-18T18:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-2020-11-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026 - Industry News"
+    excerpt: "Global artificial intelligence market Size, Share is estimated to amass around US $54 billion by the year 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market Analysis,"
+    publishedDateTime: 2020-11-17T14:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-reach-around-us-54-bn-by-2026---industry-news-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2023"
+    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
+    publishedDateTime: 2020-11-19T16:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-growth-rate-key-manufacturers-industry-size-share-and-latest-opportunities-forecast-to-2023-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
+    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
+    publishedDateTime: 2020-11-17T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-size-opportunities-trends-regional-overview-analysis-and-key-country-forecast-to-2027-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
+    excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
+    publishedDateTime: 2020-11-16T10:07:00Z
+    webUrl: "https://www.analyticsinsight.net/global-artificial-intelligence-market-2020-2025-industry-analysis-market-growth-opportunities-and-forecast-to-2025/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 16
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
+        width: 1200
+        height: 694
+        isCached: true
+  - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
+    excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
+    publishedDateTime: 2020-11-17T08:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-2020-top-manufacturers-industry-size-regional-analysis-types-and-applications-and-forecasts-to-2026-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 15
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI in Fintech Market Latest Innovations, Drivers and Industry Status 2020 to 2025"
+    excerpt: "Here’s a recently issued report titled Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a brief analysis of the market size, demand, supply chain, futuristic trends,"
+    publishedDateTime: 2020-11-19T12:25:00Z
+    webUrl: "https://ipsnews.net/business/2020/11/19/global-ai-in-fintech-market-latest-innovations-drivers-and-industry-status-2020-to-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 10
 
 secured: "+yXUd4uGrxPkGdrNhvhnu4sOnbzenEqgxB8fjo/fbh5/iifVKgYqi9vkPvcx1TQOavaKcsZV3O7HLSZqu/GNSIwC8oyV1VRkVUFJzLh2J8bJMIUER3KU8agJSfRtHkLlLkdqQh0OAVozrgF09e/I6pA7XmpqBQkTKHLYupZ+wVheKyqOIhWk6plJjoDhZlQFnCUxl5n7wl2O+1Omqkd1OZFm9ECRQYg/RuyA+RIuZleUzvlCOE11hCO1tnnLQwGJoeHa+yzVBUmhkyJs7fA/slgcodtPw1G4X6KgqLOP6MJOde3/V+NeV6y4xfCPDfFayMtoZSAWMDYeIp/4YfMTDRYCeSRgWFn51hR/C+rkEys=;WkohMH6B2pDSsFWZNDVy1w=="
 ---

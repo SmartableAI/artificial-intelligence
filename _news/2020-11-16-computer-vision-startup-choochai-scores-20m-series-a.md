@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -89,6 +89,15 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Denver AI property insurance startup Flyreel lands $10M Series A funding"
+    excerpt: "Denver startup Flyreel, an AI solution for residential and commercial property insurance, announced Wednesday that it has closed a $10 million Series A financing round. CEO and co-founder Cole Winans said the Covid-19 pandemic has forced property insurance providers to accelerate and enhance their digital strategies."
+    publishedDateTime: 2020-11-19T15:04:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2020/11/19/denver-ai-property-insurance-startup-lands-10m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "XfbhyQ6B9up2CPf0OkHAhm+x1O3vnf5Zn6f780QuSzUaEjYfnRExFzR5qKp8yhDT3z/vERA7WqqwWxLWNbXIjIA9VyXPo8VXbwHBbygHKYx0mP8NRRMhojYOFqMTmXS1OwwnOfjJHa+37Z5lDeuNqbWlkLICWTyyFt02LnrA5idMFFQFnhXQO0nakGWreqKpSr6BEaQwu3TtOOWKDoMg8JBYdx1nOLg60TISkF9Y15KDEeTjypCsCjh/PrGAWeDb9z9UPFsadNmW8Lzj/vXLXv9Ld6nkGc761amR5l0IgP2SjniS2fEhfDXciGHggq6WfIuUGHXqE3iPZMzGZIQrqGklPPcM9VVhRtRGIZk1tl7tBH0V0TRoyPySTy4pN1ct1PycOE0YOSC2bgouJEVDJ4oAoJOer8tOz4wtUIYzIDbGruDau2kgdLRrCo/BoCe168CHUwmQBzIGIpWshXZzbpAVJ6NjCg2Ik+G/sSDDod/a6IN/m63cSMJ7DCj3UBSP9HoRR2e6AE4AvzwQkN1hmA==;ECrKkntpqCvCyObhFS/oUw=="
 ---

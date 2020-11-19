@@ -28,6 +28,54 @@ images:
     isCached: true
 
 related:
+  - title: "Facebook says AI has fueled a hate speech crackdown"
+    excerpt: "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,"
+    publishedDateTime: 2020-11-19T18:00:00Z
+    webUrl: "https://www.theverge.com/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 89
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/wmU-utJ-VdG500pIqIArOrBSpbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67818040/mdoying_180411_2400_0043still.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
+  - title: "Facebook’s improved AI isn’t preventing harmful content from spreading"
+    excerpt: "Facebook’s continued investment in AI content-filtering technologies comes ... political favoritism and reluctance to act on research suggesting its algorithms stoke polarization."
+    publishedDateTime: 2020-11-19T18:01:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/facebooks-improved-ai-isnt-preventing-harmful-content-from-spreading/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/facebooks-improved-ai-isnt-preventing-harmful-content-from-spreading/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/facebooks-improved-ai-isnt-preventing-harmful-content-from-spreading/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Facebook details AI advances in catching misinformation and hate speech"
+    excerpt: "Facebook’s battle against misinformation will never be over at this rate, but that doesn’t mean the company has given up. On the contrary it is only by dint of constant improvement to its automated systems that it is able to keep itself even remotely free of hate speech and"
+    publishedDateTime: 2020-11-19T18:42:00Z
+    webUrl: "https://techcrunch.com/2020/11/19/facebook-details-ai-advances-in-catching-misinformation-and-hate-speech/"
+    ampWebUrl: "https://techcrunch.com/2020/11/19/facebook-details-ai-advances-in-catching-misinformation-and-hate-speech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/19/facebook-details-ai-advances-in-catching-misinformation-and-hate-speech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/fb-misinfo.jpg?w=1024"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Facebook using artificial intelligence to prioritise reported content"
     excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to \"prioritise reported content\", a move that will help the social media giant take action faster on harmful and violative content."
     publishedDateTime: 2020-11-17T12:02:00Z
@@ -43,6 +91,22 @@ related:
       - url: "https://images.yourstory.com/cs/2/b87effd06a6611e9ad333f8a4777438f/Imageblb5-1597241405572.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
+        isCached: true
+  - title: "Artificial Intelligence Systems Spending Market Key Players - Google Salesforce Microsoft IBM Apple Facebook"
+    excerpt: "Decisive Markets Insights brings out report on Global Artificial Intelligence Systems Spending Market. The comprehensive report presents clear foresight of the booming market owing to the expanding consumer base and technological advancement."
+    publishedDateTime: 2020-11-18T10:51:00Z
+    webUrl: "https://www.openpr.com/news/2189663/artificial-intelligence-systems-spending-market-key-players"
+    ampWebUrl: "https://www.openpr.com/amp/2189663/artificial-intelligence-systems-spending-market-key-players"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189663/artificial-intelligence-systems-spending-market-key-players"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 57
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb18268514_g.jpg"
+        width: 400
+        height: 300
         isCached: true
   - title: "Facebook using artificial intelligence to prioritise reported content"
     excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to “prioritise reported content”, a move that will help the social media giant take action faster on harmful and violative content. Facebook, which has 1.82 billion ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-w
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,31 @@ images:
     isCached: true
 
 related:
+  - title: "U.S. regulators open process to ensure self-driving car safety"
+    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles."
+    publishedDateTime: 2020-11-19T18:45:00Z
+    webUrl: "https://www.reuters.com/article/technologyNews/idUSKBN27Z2FM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 74
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "U.S. Agency Opens Regulatory Proceeding to Ensure Self-Driving Car Safety"
+    excerpt: "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA)said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-19T16:32:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-11-19/us-agency-opens-regulatory-proceeding-to-ensure-self-driving-car-safety"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
   - title: "New radar helps self-driving cars navigate safely in bad weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T12:31:00Z
@@ -40,20 +65,6 @@ related:
       - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/11/New-radar-helps-self-driving-cars-navigate-safely-in-bad-weather.jpg"
         width: 700
         height: 511
-        isCached: true
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that ..."
-    publishedDateTime: 2020-11-19T00:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
-        width: 480
-        height: 360
         isCached: true
 
 secured: "xBDb+p8BUMizhhemO1D0hvYjQwLo8szR+avvuQfjr//ldbg/5u5bxzG1BoEaZFtsK40AXGL87ylyfdecY3zSJ6/MtSjAN/eJGH1QoH8l05XEqt4YwrazkTf57LHA4fgn0/KKZcnQksJFwYsf/WJKJc2oT16teK3n68y1S/TYVSf7AY8G2hqqgPQ0E/h1NaG+WegUH/w9qQVtMwFYbcucOQ+h5zEKxIX3boAgdPQHaNJVFSxMGRfFednhXWXa0rG+DwAGiChV3GdBwhoOOvgMdD7Q9PfAW3gYV/VTbp5mIsvLkBtjEc3EhYfgEcpK3k4kflGxRVvabzj0tYu2kRsdSiL6bSF8gCGttZV+7UwJUl9GKz18JC86CBMZZkO28rrNhYiT+neRwu6S0kEEtMmx/pCHw0ke60CXoWgVcCuFkLlYDs0lnJqp3pHu8mCgGj5SyF20PtVQGA1RuD0AeZlmlXMAthIN+ITMrY0+cHYGPLMiAu1/DBuqFDHOCzhZP350AYlz5RJTGGHVgQWb6wd9sA==;GPbv1L7VoAKnZB21Xt+Pog=="

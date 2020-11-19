@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 1118
         isCached: true
+  - title: "Artificial Intelligence in Security Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2020-11-19T17:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
     excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
     publishedDateTime: 2020-11-18T16:46:00Z

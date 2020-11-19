@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence
 ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021-according-to-new-ieee-study-1029821121"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021-according-to-new-ieee-study-1029821121"
 type: article
-quality: 55
-heat: 65
+quality: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Healthcare
+  - AI in Finance
 
 related:
   - title: "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021, According to new IEEE Study"

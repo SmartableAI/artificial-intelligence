@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-p
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
 type: article
 quality: 87
-heat: 187
+heat: 207
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
+    excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
+    publishedDateTime: 2020-11-18T19:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
     excerpt: "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's"
     publishedDateTime: 2020-11-18T14:33:00Z
@@ -106,21 +122,33 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
-    excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
-    publishedDateTime: 2020-11-18T16:45:00Z
-    webUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
-    ampWebUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
-    cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+  - title: "IBM to acquire application performance monitoring company Instana"
+    excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
+    publishedDateTime: 2020-11-19T17:14:00Z
+    webUrl: "https://sdtimes.com/apm/ibm-to-acquire-application-performance-monitoring-company-instana/"
     type: article
     provider:
-      name: 24/7 Wall St
-      domain: 247wallst.com
-    quality: 37
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
     images:
-      - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
-        width: 400
-        height: 225
+      - url: "https://sdtimes.com/wp-content/uploads/2017/10/20171016_210707_HDR-1.jpg"
+        width: 1836
+        height: 2461
+        isCached: true
+  - title: "IBM Buys APM Startup Instana To Boost AI Automation"
+    excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
+    publishedDateTime: 2020-11-19T18:02:00Z
+    webUrl: "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
+        width: 399
+        height: 399
         isCached: true
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."

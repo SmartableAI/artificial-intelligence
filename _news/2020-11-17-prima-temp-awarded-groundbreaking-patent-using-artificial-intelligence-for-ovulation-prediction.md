@@ -24,6 +24,17 @@ images:
     height: 315
     isCached: true
 
+related:
+  - title: "CORRECTING and REPLACING Ternium Expands Adoption of Falkonry Operational AI for Steel Predictive Operational Excellence"
+    excerpt: "Ternium, Latin America’s leading steel producer has developed, validated and industrialized a Predictive Operational Excellence solution using the Falkonry Operational AI suite to reduce planned and unplanned downtime across steel production operations."
+    publishedDateTime: 2020-11-19T17:58:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=377730"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+
 secured: "aXYn4+eMvsj8lBMXNTVv3lmj5lDId68y3pJKMwQ58ALmCTqusScDdp6A7m02IhvN1RPHoN+eStaHmpQjAAQcTEDdNbc0+fFP9sXuiKK0pc/wdY/yNpTYouGbuVZUwzkL1q+3gXVa+q1XhkiOpPQhny4HThNbyYAyyGWKs+iiK+XEDFIysbsIoJCeR6n7WlPNgJybPzDZKlyjsSxiYM4ZY7qREOEYE1XetXhe/EEaRde49Vq+1khf867+nP28P++/9QsLxcRUBlAaIMh+fHVftEfXwDkO2tgaJerOhtpndzwxHB0IAzhq7u2ruPckwAXXpkrv+8Y6PyIovXzyP5BudrDl7tn2Wawct3F+/L2MrGo=;/xTSc68nMRAdG2TXjceJpA=="
 ---
 

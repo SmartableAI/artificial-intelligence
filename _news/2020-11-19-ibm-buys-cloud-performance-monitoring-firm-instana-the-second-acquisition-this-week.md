@@ -2,28 +2,32 @@
 category: news
 title: "IBM Buys Cloud Performance Monitoring Firm Instana, the Second Acquisition This Week"
 excerpt: "International Business Machines Corp. (NYSE: IBM) announced that it would spin off its infrastructure services business"
-publishedDateTime: 2020-11-18T16:45:00Z
-originalUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
-webUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/"
-ampWebUrl: "https://247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
-cdnAmpWebUrl: "https://247wallst-com.cdn.ampproject.org/c/s/247wallst.com/technology-3/2020/11/18/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week/amp/"
+publishedDateTime: 2020-11-18T19:31:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-buys-cloud-performance-monitoring-firm-instana-the-second-acquisition-this-week-1029817736"
 type: article
-quality: 37
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: 24/7 Wall St
-  domain: 247wallst.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
-    width: 400
-    height: 225
+  - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg"
+    width: 1366
+    height: 768
     isCached: true
 
 related:
@@ -119,6 +123,34 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "IBM to acquire application performance monitoring company Instana"
+    excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
+    publishedDateTime: 2020-11-19T17:14:00Z
+    webUrl: "https://sdtimes.com/apm/ibm-to-acquire-application-performance-monitoring-company-instana/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 54
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2017/10/20171016_210707_HDR-1.jpg"
+        width: 1836
+        height: 2461
+        isCached: true
+  - title: "IBM Buys APM Startup Instana To Boost AI Automation"
+    excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
+    publishedDateTime: 2020-11-19T18:02:00Z
+    webUrl: "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
+        width: 399
+        height: 399
+        isCached: true
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
     publishedDateTime: 2020-11-19T02:49:00Z
@@ -162,6 +194,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Olp17Y7zb5yPZ1Ytrt7EZ54keMRZtZhxoI/zdM3mgrfdfAy3mPXwBPYqf53B4RY1eVmWIBvU6fqbcvqn/vNkTqzHXkw8eHZXsjYpxeGm5zTUYMO/EkByeqrv9sHnmS5116arI+hcIdL8q/LDzCOUqWX9dNO+JnKqnjHpWhoJ/SUdzwtX9nwXeGaXRXvAEwv0q9Z8NAWaJhDs+xVn5I8vwz0JlPMKVpv2g+e1WysbM+IeZm2MTQEmvRn8fOzxg3SG3lC1qaod3Bs4sm3vCGqeZuCghS1S+3cNYAiUWKmJgthX1/wx85/COQUDCSbz+OCLhNaCKQVu2M0BTRLO/PVHpeCb5sHXl3BQbxz1Ixe97NY=;vHKLowfPB98sB9pccCp68Q=="
+secured: "yyHIvu4lduVDxAzyd2gvjZsGTm81nzxizgclGWNH4Qj3i2iDmuEd8rgBR92dJNVWD6n+Kykb+gQXL3SdvBfJl7m+ro0tn2GuPOPY+L2Qv5SnBHQ/IUWw4RfwfJ1MReg1uMF/y1xqOBtsB35YtVOFt3Av1SG765itzcI6/1F5OAw4jatpMy5XB9xYHt/TOBqhLh68ROgTcxpzsiCuVTuTWVeoaqBvZ6wedxCn/yQ46PGGnYiCCzH9d+miaLT5HHmAbz5ruOF6m47it8EVJRucF/gjUju8Xq/Fpktj3yGr4quvh/PQ/edgMXGrnHXUY8woslFbren8a9KKAt2NEWomjRJoa7eet3SUrh7tcyF2Vks=;A1L5j1ZB8xohxlw+rAkN7A=="
 ---
 

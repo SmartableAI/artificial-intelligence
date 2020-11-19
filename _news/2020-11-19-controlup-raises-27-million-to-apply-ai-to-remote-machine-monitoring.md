@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-ap
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

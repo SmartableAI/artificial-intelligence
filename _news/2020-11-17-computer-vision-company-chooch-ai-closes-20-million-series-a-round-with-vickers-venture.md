@@ -85,6 +85,15 @@ related:
         width: 300
         height: 249
         isCached: true
+  - title: "Denver AI property insurance startup Flyreel lands $10M Series A funding"
+    excerpt: "Denver startup Flyreel, an AI solution for residential and commercial property insurance, announced Wednesday that it has closed a $10 million Series A financing round. CEO and co-founder Cole Winans said the Covid-19 pandemic has forced property insurance providers to accelerate and enhance their digital strategies."
+    publishedDateTime: 2020-11-19T15:04:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2020/11/19/denver-ai-property-insurance-startup-lands-10m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
 secured: "mSYG9EiA6KSZs/QwV7zuyE1qjZFonHZm4IdzccKbjV8eWTvZPs55/ijsG2vujTagGYI2eNxJb66nJdeznc6Qmaw2Z0yyO/qpSbLsAuaVgJ6M18dONeNjfweH+Q8S9M/ym69fIYdWbjzwvHRcPQ3lBJN6oKAf727abQXMwjloGpMkjf6G03CuXD3CYZCqlaqx3uRhN+gNOwxGQDwV2UDFAWy9ZOld1kWdB5bpt/uu7i9M9xnOEjjLeukMrEE2Hlw5SK/o5/4igoTkJFScKmJH7QlVSayew489U+B9DIxF0hBsEzPMpithLErIwUioqBj3XrS0TTay2OyPpGXtTEHX7X5+4ZE5Bci5c9Ig6tOy9Bs=;r1ONcdbj9jbip/etmUrqYw=="
 ---

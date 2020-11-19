@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cmswire.com/digital-marketing/natural-language-processin
 cdnAmpWebUrl: "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

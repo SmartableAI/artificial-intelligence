@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-17-looper-column-artificial-intelligence-humanity-and-the-future.md",
+      "title": "Looper column: Artificial intelligence, humanity and the future",
+      "excerpt": "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an",
+      "sourceUrl": null,
+      "webUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "originalUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.butlercountytimesgazette.com/apps/pbcsi.dll/bilde?Site=KS&Date=20201016&Category=LIFESTYLE&ArtNo=201019186&Ref=AR",
+          "width": 387,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "cdnAmpWebUrl": "https://www-butlercountytimesgazette-com.cdn.ampproject.org/c/s/www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "publishedDateTime": "2020-10-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Butler County Times Gazette",
+        "domain": "butlercountytimesgazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.md",
       "title": "Thought-Powered Wheelchair Could Return Mobility To People With Paralysis",
       "excerpt": "as demonstrated by a new study in which monkeys were able to navigate a robotic wheelchair using a brain chip. Now, this isn’t actually the first time that a mind-controlled wheelchair has been ...",

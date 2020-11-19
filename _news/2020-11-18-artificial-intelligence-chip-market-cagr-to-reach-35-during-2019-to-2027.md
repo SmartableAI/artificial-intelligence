@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/wired-release/technology-business
 webUrl: "https://apnews.com/press-release/wired-release/technology-business-sports-corporate-news-fantasy-sports-8016c6c163f7684582ff98388fe4d3e3"
 type: article
 quality: 55
-heat: -1
+heat: 65
 published: false
 
 provider:
@@ -26,29 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market Report 2020 Industry Trends, Share and Size, Expected CAGR, Top players"
-    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
-    publishedDateTime: 2020-11-18T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-industry-trends-share-and-size-expected-cagr-top-players-2020-11-18"
+  - title: "Global Artificial Intelligence In Medicine Market to Reach 15,000.00 Million by 2026 - Facts & Factors"
+    excerpt: "According to the research study, the global Artificial Intelligence in Medicine Market was estimated at USD 800 million in 2019 and is expected to reach USD 15,000 million by 2026. The global Artificial Intelligence in Medicine Market is expected to grow at a compound annual growth rate (CAGR) of 49% from 2020 to 2027."
+    publishedDateTime: 2020-11-17T14:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-to-reach-1500000-million-by-2026---facts-factors-2020-11-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Social Media Market Report 2020 Recent Development and Trends, Expected Growth and its Factors"
-    excerpt: "The Artificial Intelligence in Social Media Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
-    publishedDateTime: 2020-11-18T16:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-social-media-market-report-2020-recent-development-and-trends-expected-growth-and-its-factors-2020-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

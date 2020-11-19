@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 42
+  - title: "Impacts of COVID-19 on the Global Automatic Content Recognition Market Report Research Industry 2020"
+    excerpt: "Nov (MarketResearch.biz via Comtex) -- “The Impacts of COVID-19 on the Automatic Content Recognition Market Report Research Industry – 2020″"
+    publishedDateTime: 2020-11-19T12:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impacts-of-covid-19-on-the-global-automatic-content-recognition-market-report-research-industry-2020-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
     excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
     publishedDateTime: 2020-11-17T14:39:00Z
@@ -51,6 +65,6 @@ related:
         height: 450
         isCached: true
 
-secured: "eUK+B+WsCodJ11yFPBTzuiapVb5qmuBX1n0R19GO2XcqEOLRVslXE6y+wXh0JTMbODuUbDV6a/dcuxNe7xgabRhDzLYesY5Izg/LI1CKXDgkthtjTIQQqT8AeHzN89mR3XHaan6/qXHSJy31B0K9e42qlBLj45AQQn+CwsvnornaHlil93qFB7jhE5YdaL3D8rbMafGc8vvIm5a+B3tbK6s0b59v2SL0TBeSRinlfoN99fFCgeOfWz+C+dOY/FEg5G1CuWE1zO0WGr4NxjDu1MYeeGqtttfue3zfzjntQpUK/yUBXRzKYoWZkR9HVpnnBbTgduF8N6CsQd+CtbugLpzW6RMygVRihWCXHE0uzWk=;G5Lx2eYIgxVZDP1jJRsLpg=="
+secured: "MUNuGVw3PlmTCzyOFq3RTO3Jg1aMJZwckbHvWD4go4+ohRPVkZeExFgOjW4W4kwHJxnCzSQPG832sd4tEs/7nneiBL0CBrmrtJ9JM8A1jk369VbGT/GhcJ4wgu2EhU4jD1K1LhMV0nY/JO7JbK8xqBTjCE4icLgwbl7WBv/jOQYdENNnlyR8swT1lsnpdcIf0fuHHOqtJJB9bFY3P3GlOtU0HC0MnR2yyO9+9GqKdr1EuwWFTFvGvO2YDLOJVcp1kKD7o4ASc1Kw6LpqQ0rA+s4GgendhGYCez7zQ5Eik8SEGOhPvEUNUhYKyPIMuuidQ/dYxteSCEumRh5wwDa6o3DAtRpDFjxyVHRF4VddMQ53nbrXVgX9X+J+cVkRWJ/754kAaDHXmhpYC5w/elc/7jKHks78VBqp1etes1ZXBE5p2wUXQayyYQf4tbFBKnY89nzgp5D19hZDvOpXW3aCP6OLA5mfxg4H3y5JQeMtMJaqV6JRhf7NCBkxI1wbrwYb0gw+ITfGMeWPdtZiTMCWAg==;8PoKkthU8xReAnzxuk0WMw=="
 ---
 
