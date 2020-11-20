@@ -2,6 +2,159 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-10-14-rbc-rolls-out-ai-based-trading-platform-to-global-clients.md",
+      "title": "RBC Rolls Out AI-Based Trading Platform to Global Clients",
+      "excerpt": "Royal Bank of Canada is launching an artificial intelligence-based electronic-trading platform to clients around the world, starting with an algorithm designed to help reduce trading slippage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHiN2vOALFkg/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-14/rbc-rolls-out-ai-based-trading-platform-to-global-clients",
+      "publishedDateTime": "2020-10-14T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-google-applies-its-ai-tech-to-reporting-with-journalist-studio-tools.md",
+      "title": "Google applies its AI tech to reporting with 'Journalist Studio' tools",
+      "excerpt": "Since introducing the Google News Initiative in 2018, the company has used the $300 million journalism project to fight disinformation and help publishers make money. Now, Google is also investing in journalism-specific software with Journalist Studio,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
+      "originalUrl": "https://www.engadget.com/google-journalist-studio-pinpoint-110047367.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-08%2Facabd040-bda7-11e9-9375-c6783a4b6790&client=amp-blogside-v2&signature=2a41f5932ac8b45dcc96b31b7cbb9fe9bd53627f",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-journalist-studio-pinpoint-110047367.html",
+      "publishedDateTime": "2020-10-14T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-why-do-most-ai-projects-fail.md",
+      "title": "Why Do Most AI Projects Fail?",
+      "excerpt": "Many organizations fail to understand that the AI model is just as important as the final integration of which it will be a part.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efcc8f4cdc22100069576cc%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/14/why-do-most-ai-projects-fail/amp/",
+      "publishedDateTime": "2020-10-14T04:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-how-to-do-the-best-recruiting-for-your-startup.md",
       "title": "How to do the best recruiting for your startup",
       "excerpt": "Define the key competencies of the position. Take into account what type of hard skills and soft skills you require your applicant to possess. Analyze how much the company is going to grow and share it with the HR area,",
@@ -1026,126 +1179,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-xilinx-and-splineai-develop-x-ray-classification-deep-learning-model-and-reference-design-on-aws.md",
-      "title": "Xilinx and Spline.AI Develop X-Ray Classification Deep-Learning Model and Reference Design on AWS",
-      "excerpt": "Xilinx introduced a medical X-ray classification deep-learning model and a reference design kit, in association with Spline.AI on AWS.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201013005224/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201013005224/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201013005224/en/789319/23/xilinx-logo-full-color_%281%29.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-tesla-to-deploy-limited-full-self-driving-beta-next-week.md",
-      "title": "Tesla to Deploy Limited Full Self-Driving Beta Next Week",
-      "excerpt": "Tesla TSLA recently announced that it will launch limited models of full self-driving (FSD) vehicles on Oct 20. The fleet of fully-autonomous vehicles to be rolled out next week will be first available for a small number of careful and expert drivers for testing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13",
-      "originalUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/tesla-to-deploy-limited-full-self-driving-beta-next-week-2020-10-13?amp",
-      "publishedDateTime": "2020-10-13T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-13-these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020.md",
-      "title": "These 19 companies are racing to put driverless cars on the road by 2020",
-      "excerpt": "Ford and Chinese company Baidu recently invested $150 million in Velodyne, a manufacturer of a LiDAR system that allows self-driving cars to see the world around them. Ford showed its driverless ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
-      "originalUrl": "https://www.businessinsider.in/finance/these-19-companies-are-racing-to-put-driverless-cars-on-the-road-by-2020/slidelist/53758039.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/msid-53758040,width-640,resizemode-4,imgsize-1036801/tesla-is-aiming-to-have-its-driverless-technology-ready-by-2018-.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

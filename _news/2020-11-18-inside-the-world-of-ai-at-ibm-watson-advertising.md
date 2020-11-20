@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Solve customer issues the first time  with Watson Assistant"
+    excerpt: "All customers want when they call a company for help is to have their problem solved in one session as quickly as possible. They don’t want over-the-top service, they want resolution. That’s why first contact resolution (FCR) is one of the most important metrics in customer care, and why high FCR is"
+    publishedDateTime: 2020-11-20T17:23:54Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/11/solve-customer-issues-the-first-time-with-watson-assistant/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/image-2.png"
+        width: 990
+        height: 448
+        isCached: true
   - title: "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world"
     excerpt: "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy"
     publishedDateTime: 2020-11-19T20:30:08Z

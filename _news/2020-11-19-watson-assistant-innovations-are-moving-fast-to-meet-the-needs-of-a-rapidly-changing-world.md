@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovati
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/"
 type: article
 quality: 107
-heat: 117
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Solve customer issues the first time  with Watson Assistant"
+    excerpt: "All customers want when they call a company for help is to have their problem solved in one session as quickly as possible. They don’t want over-the-top service, they want resolution. That’s why first contact resolution (FCR) is one of the most important metrics in customer care, and why high FCR is"
+    publishedDateTime: 2020-11-20T17:23:54Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/11/solve-customer-issues-the-first-time-with-watson-assistant/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/image-2.png"
+        width: 990
+        height: 448
+        isCached: true
   - title: "Inside The World Of AI At IBM Watson Advertising"
     excerpt: "At IBM Watson Advertising, CMO Randi Stipes looks at AI as a practical toolset that has been in place for a decade rather than the vague promise of a rosier future. I recently asked Randi to give us an AI update."
     publishedDateTime: 2020-11-17T17:44:00Z

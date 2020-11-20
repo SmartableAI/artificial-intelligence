@@ -7,7 +7,7 @@ originalUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-
 webUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-to-novel-technology-that-empowers-breach-victims-to-fight-back"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,94 @@ images:
     width: 792
     height: 266
     isCached: true
+
+related:
+  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
+    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
+    publishedDateTime: 2020-11-20T16:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech"
+    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September."
+    publishedDateTime: 2020-11-18T15:05:00Z
+    webUrl: "https://www.reuters.com/article/israel-emirates-regulato-int-idUSKBN27Y1QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1QX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1QX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "Regulators of Israel, Abu Dhabi markets to cooperate on FinTech"
+    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalize relations in September."
+    publishedDateTime: 2020-11-18T13:41:00Z
+    webUrl: "https://english.alarabiya.net/en/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 44
+    images:
+      - url: "https://vid.alarabiya.net/images/2020/10/06/96dc4b2c-7024-4526-b673-24628317a26c/96dc4b2c-7024-4526-b673-24628317a26c_16x9_600x338.JPG?width=466"
+        width: 466
+        height: 263
+        isCached: true
+  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
+    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
+    publishedDateTime: 2020-11-18T00:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
+    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
+    publishedDateTime: 2020-11-19T21:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
+    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
+    publishedDateTime: 2020-11-17T14:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Global AI in Fintech Market Latest Innovations, Drivers and Industry Status 2020 to 2025"
+    excerpt: "Here’s a recently issued report titled Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a brief analysis of the market size, demand, supply chain, futuristic trends,"
+    publishedDateTime: 2020-11-19T12:25:00Z
+    webUrl: "https://ipsnews.net/business/2020/11/19/global-ai-in-fintech-market-latest-innovations-drivers-and-industry-status-2020-to-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 10
 
 secured: "gR98czvlQat+PUehkeeX2ChdSqyWo0wTHb1Ik+PCnYLbmc44h+LK91qdNvQcQzuck736fsarzaS1i67TGw7EsmwWUTfT77+IT9ZPsPHjWbyUfPH+8KdVO4O/Dmv6i9acpX32sa585I8AW6JkMqxdw8XiIsfDZvR0olRIzYTgmBqR375xbc6mA3kkZKrDkMgVLIVadHQuJsr6aK+FY2A1HpV9oTWc7fLy6FoTbeyrN2/Q2vTH31xEVfizp1f4nF+h2NbXOPysxq5xy5b8i6d5O74IxBZyPIemg6bjcZSHmtgAL1dTA3/30yuJbSAaDQYUxbuOVta5DOwyWLDevzik6QnwEPAqygW7VesMMpEoEmk=;yrIivIdlLTF2eIdTV4T/9g=="
 ---

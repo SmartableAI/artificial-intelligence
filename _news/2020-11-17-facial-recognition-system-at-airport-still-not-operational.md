@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-s
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -96,6 +96,20 @@ related:
       name: GlobalSpec
       domain: globalspec.com
     quality: 36
+  - title: "Voluntary Recognition: Worker Wins"
+    excerpt: "Despite the challenges of organizing during a deadly pandemic, working people across the country (and beyond) continue organizing, bargaining and mobilizing for a better life. This edition begins with several groups of organizers who won voluntary recognition of their new unions."
+    publishedDateTime: 2020-11-20T17:07:00Z
+    webUrl: "https://aflcio.org/2020/11/20/voluntary-recognition-worker-wins"
+    type: article
+    provider:
+      name: AFL-CIO
+      domain: aflcio.org
+    quality: 24
+    images:
+      - url: "https://aflcio.org/sites/default/files/2020-11/afl-cio.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hdUXrQcGtxmOlbQq91Ed6ozugroiaJcoeJKm9MUdOhf2a4KWS6CndEpd/uvxGy911KAvDpN2I+iwwOAGifH9fqQMQ9xZ++r9SJ9DciNbxJm6LI6QNsg8O2juaBEj9ns5b1eIgy/VMafO0OcDYjDCws9VbpYWq/4FsWp5a+4GP7qKojaQkgmLVb2uRPEXuZzOKGYxna4e40tsWfXqmtXYuZZOv9qTg+OnqZ+11dMnKPL8+8j3rIAoXkspiiI5cU+NVEiassVgK20T8qvAGR/EKvWL2CKlklW8Onoansic8F+bjiHZ0ojuRV/QgX31lkle6EpRb3S6WvJetwN/ZVBc0J2A56jjwn0tCo7cuINKdMUmDQP7d1AvvZPx0tq6HZnNkcsWdBlCQf2yLA4Li6cR8ksZxW8vZp5yzgdBKRmZB+wxcEuOZNz3dr4MQuH2AR8ZiRyRO2uj0G7TxDsjHR14cfawZjRLl50jhONONdvgQI6sm3rHRxh0Px/FRK15ybWr4HbE5mNozK5aFfJfYrmyVA==;yQ3naP0PqVciz2iWeiWZ/Q=="
 ---

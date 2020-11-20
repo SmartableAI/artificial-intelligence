@@ -19,242 +19,96 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
-    publishedDateTime: 2020-11-19T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
+  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
+    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
+    publishedDateTime: 2020-11-20T16:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech"
+    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September."
+    publishedDateTime: 2020-11-18T15:05:00Z
+    webUrl: "https://www.reuters.com/article/israel-emirates-regulato-int-idUSKBN27Y1QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1QX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1QX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "Regulators of Israel, Abu Dhabi markets to cooperate on FinTech"
+    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalize relations in September."
+    publishedDateTime: 2020-11-18T13:41:00Z
+    webUrl: "https://english.alarabiya.net/en/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
+    quality: 44
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://vid.alarabiya.net/images/2020/10/06/96dc4b2c-7024-4526-b673-24628317a26c/96dc4b2c-7024-4526-b673-24628317a26c_16x9_600x338.JPG?width=466"
+        width: 466
+        height: 263
         isCached: true
-  - title: "AI (Artificial Intelligence) Chip Market By Chip Type, By Technology, By Application, By Industry Vertical, And Segment Forecasts, 2019-2027"
-    excerpt: "Chip Market Forecast to 2027 The Global AI (Artificial Intelligence) Chip Market report presents a comprehensive analysis of the AI (Artificial Intelligence) Chip market by offering valuable insights to assist the businesses and key players in formulating fruitful strategies during the forecast timeline of 2020-2027."
-    publishedDateTime: 2020-11-16T15:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-artificial-intelligence-chip-market-by-chip-type-by-technology-by-application-by-industry-vertical-and-segment-forecasts-2019-2027-2020-11-16"
+  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
+    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
+    publishedDateTime: 2020-11-18T00:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
+  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
+    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
+    publishedDateTime: 2020-11-19T21:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
-  - title: "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025"
-    excerpt: "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,"
-    publishedDateTime: 2020-11-19T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19"
+  - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
+    excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
+    publishedDateTime: 2020-11-19T17:46:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-to-novel-technology-that-empowers-breach-victims-to-fight-back"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 14
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
         isCached: true
-  - title: "Artificial Intelligence Robots Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
-    excerpt: "The artificial intelligence robot market is expected to grow at a CAGR of 20 38 during the forecast period from 2019 to 2025 Artificial intelligence AI is the creation of smart smart machines that work react and respond like humans"
-    publishedDateTime: 2020-11-17T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2188814/artificial-intelligence-robots-market-growth-size"
-    ampWebUrl: "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
+  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
+    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
+    publishedDateTime: 2020-11-17T14:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
+      name: Associated Press
+      domain: apnews.com
+    quality: 12
     images:
-      - url: "https://cdn.openpr.com/T/b/Tb17392453_g.jpg"
-        width: 800
-        height: 571
-        isCached: true
-  - title: "Deep Learning Market Report 2020 Industry Trends, Share and Size, Expected CAGR, Top players"
-    excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
-    publishedDateTime: 2020-11-18T15:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-industry-trends-share-and-size-expected-cagr-top-players-2020-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
-    publishedDateTime: 2020-11-19T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
-    publishedDateTime: 2020-11-19T16:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
-    excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
-    publishedDateTime: 2020-11-16T19:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-artificial-intelligence-speaker-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Autonomous Vehicle Market : Incredible Possibilities, Growth With Industry Study, Detailed Analysis and Forecast"
-    excerpt: "Globally, automakers are aggressively focusing on autonomous vehicles to satisfy customer demand, to remain competitive"
-    publishedDateTime: 2020-11-18T18:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-2020-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026 - Industry News"
-    excerpt: "Global artificial intelligence market Size, Share is estimated to amass around US $54 billion by the year 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market Analysis,"
-    publishedDateTime: 2020-11-17T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-growth-research-analysis-and-share-to-reach-around-us-54-bn-by-2026---industry-news-2020-11-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Report 2020 Industry Trends, Share and Size, Complete Data Analysis across the Region and Globe"
-    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
-    publishedDateTime: 2020-11-19T23:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-report-2020-industry-trends-share-and-size-complete-data-analysis-across-the-region-and-globe-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Size, Share to Witness Unprecedented Growth Through 2027-Industry News"
-    excerpt: "Global Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2020-2027. Request Sample Copy of this report at:  Artificial Intelligence in Drug discovery has been gaining popularity as this technology adds value for scientists and researchers in the industry in decision making processes."
-    publishedDateTime: 2020-11-19T22:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-share-to-witness-unprecedented-growth-through-2027-industry-news-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2023"
-    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-growth-rate-key-manufacturers-industry-size-share-and-latest-opportunities-forecast-to-2023-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
-    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
-    publishedDateTime: 2020-11-17T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-size-opportunities-trends-regional-overview-analysis-and-key-country-forecast-to-2027-2020-11-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
-    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-11-20T10:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
-  - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
-    excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
-    publishedDateTime: 2020-11-16T10:07:00Z
-    webUrl: "https://www.analyticsinsight.net/global-artificial-intelligence-market-2020-2025-industry-analysis-market-growth-opportunities-and-forecast-to-2025/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 16
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Report11.jpg"
-        width: 1200
-        height: 694
-        isCached: true
-  - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
-    publishedDateTime: 2020-11-17T08:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-2020-top-manufacturers-industry-size-regional-analysis-types-and-applications-and-forecasts-to-2026-2020-11-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "Xz65b0teFv4DUW95HWsAUBWse+lTejojEMZ4ZhFNxbopFykmUP9O0OTD9EYH9yq+okmJfck06LrmTFkQ6aOolnAicmzVekw+XOEZWSUdUd40EVoWNuOnKR9byO38nHYTn9o1ZRY9PjTEHmpVT48agFEexusclcVy9XShA7j0C4SC23YDeBkBmpOpoPEXNTyBz9YdkIOge9Hs4PLJfN0v23cO/Al1pLkW4YJZPipobwIt+uVhqZwt9outawYoBI9j/BioHNOE9tCyz2l5Z8cZ4TzaBcb8ycTim/p6WG2IYKJ/vKADcE4OsjQ1wt50957FhIkXFgZcDInKyGYbDcntSf2YYdJNptl98w2vZpVd8qM=;3/9RqvXh6yjcly/wdhcfvw=="

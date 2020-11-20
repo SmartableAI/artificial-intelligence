@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
+      "title": "A neural network learns when it should not be trusted",
+      "excerpt": "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-automating-business-processes-with-machine-learning-in-the-covid-19-pandemic.md",
       "title": "Automating business processes with machine learning in the COVID-19 pandemic",
       "excerpt": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning",
@@ -723,8 +775,8 @@
       "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
       "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "featuredContent": null,
       "highlight": null,
       "heat": 108,
@@ -741,8 +793,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "publishedDateTime": "2020-11-18T03:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -766,8 +818,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1416,59 +1468,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-google-clouds-new-ai-suite-hits-on-doctors-admin-headaches.md",
-      "title": "Google Cloud's new AI suite hits on doctors' admin headaches",
-      "excerpt": "Google Cloud will become a top cloud partner for hospitals looking to ease administrative headaches driving burnout among their doctors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
-      "originalUrl": "https://www.businessinsider.com/google-cloud-unveils-new-healthcare-ai-tools-for-admin-tasks-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fae92e31e8d50001981354a?width=1200&format=jpeg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

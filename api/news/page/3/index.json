@@ -2,6 +2,101 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-ping-an-bank-wins-gartner-innovation-award-for-financial-services.md",
+      "title": "Ping An Bank Wins Gartner Innovation Award for Financial Services",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... scene models and machine learning models to achieve the full process of closed-loop ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "publishedDateTime": "2020-11-18T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals.md",
+      "title": "Zest AI Inks Deal With Freddie Mac To Boost Mortgage Approvals",
+      "excerpt": "Freddie Mac, the company created by the U. S. government in 1970 to fund mortgages and increase home ownership, will start using fintech company Zest AI to help assess the risk of people defaulting on their mortgages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/",
+      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb59f592272b224af5ca66e%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/amp/",
+      "publishedDateTime": "2020-11-18T14:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-making-robots-useful-in-the-warehouse.md",
       "title": "Making robots useful in the warehouse",
       "excerpt": "Working in a warehouse is tough for robots. Unlike on a production line, where the same motion is constantly repeated, orders and tasks can change, requiring them to adapt. On top of that, different objects require different – and often delicate – handling,",
@@ -366,7 +461,7 @@
       "originalUrl": "https://www.reuters.com/article/us-uber-autonomous-idUSKBN27Y2OZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -616,7 +711,7 @@
       "originalUrl": "https://www.bbc.com/news/amp/technology-54991693",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1144,110 +1239,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online.md",
-      "title": "Bolt’s Machine Learning Checkout Platform Will Make Forever 21 More Competitive Online",
-      "excerpt": "Bolt's checkout technology helps retailers compete in a world where Amazon's 1-click checkout has set the online buying experience standard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb48ddca6804a4acedfa00e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/amp/",
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform.md",
-      "title": "K Health raises $42 million to expand its AI-powered telemedicine platform",
-      "excerpt": "Tech giants like IBM, Facebook, and Microsoft have partnered ... But Bloch asserts that K Health’s AI-driven approach, combined with its proprietary medical knowledge database, gives it a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

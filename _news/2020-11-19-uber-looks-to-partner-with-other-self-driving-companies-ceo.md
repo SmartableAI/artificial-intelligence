@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -78,22 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Uber May Sell Self-Driving Car Unit To Rival Aurora Innovation, Report Says"
-    excerpt: "Uber may sell its autonomous vehicle unit Uber Advanced Technologies Group to a competitor, startup Aurora Innovation, according to a news report. Aurora, which was founded in 201"
-    publishedDateTime: 2020-11-16T02:55:00Z
-    webUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/"
-    ampWebUrl: "https://www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/partnerships-acquisitions/2020/uber-may-sell-self-driving-car-unit-to-rival-aurora-innovation-report-says/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 42
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/11/uber-selling-self-driving-457x274.jpg"
-        width: 457
-        height: 274
         isCached: true
   - title: "Uber In Talks To Sell Its Troubled Self-Driving Car Division"
     excerpt: "Ride-hailing major Uber is reportedly in talks with startup Aurora Innovation to sell its autonomous vehicle unit that was recently valued at $7.25"

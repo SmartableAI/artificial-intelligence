@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch"
-publishedDateTime: 2020-11-20T14:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18462780"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18462780"
+excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box's enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
+publishedDateTime: 2020-11-20T11:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
+webUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
 type: article
-quality: 64
+quality: 94
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -164,6 +168,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "6LEnhlX3dnCibn4Q45pU7GkAqAl64YtIkn68avtr8V2rWEaF82Wi1FW6SlxvPqlq0NaRh61tsmcb90uT0QS6G2Qbjj963JUReJIvgT2cFNCfJXF06W8pJNFm4icKwVTrbzJyV+uvTiqu3+Vgq3iS/UESX9N9EeHEubv3h/aS9qipV20EW1VsXBPTcIRk2dr5Ixv9ZlixQFpT+ujZbAUQq45H0kSMqBe/92kAbjERMEfeC+YIGzMTVJ3Id7+H761ccs98xMy0YqMhmT637e5EIjbmMbnhjewafjYELM7a9ligYsktNxI0eg3QdPXpWsZYCqRrUFURmxKuSMmDkPArIXLpTb/RQLbGaC6NMQb9bjk=;Whg9iV3afNyKzE4TIyK2Ug=="
+secured: "UTdEZfxLP031aTgd793QDcCIQQPWraFpjyQER68xSWABApvA2dGyxfmInWBUHi3v0qFipo8r13VoWDS2Z8DEVowlhFBbdSoDeQqWFt/ybgU8RH+zKMM7X1C0Knm0QigDDBqFRLAZUJ+ps3e2ftUVvzCsCMb/QVqB8dYtyM/5xSDFa6nye6bKRFNd6fZ/Jxp+3RmIp4nIi4ZIpoI4TXFu/M0bhKipqaovUj9uOvjgMMj+JzLwcDhsO6O8lAEPxi1lOfIBRSw0RBtmCBnPbwZvStr+P/zFF0OVAsuvYCD7SbcFM55qQmQZGWj2qxhHwSOH0j6YnpDwc5azKqnLmeKzEVpsSWE73N1TCvY9FNC5uNQ=;TSC30kNaXk6qJAJQ+qjfKg=="
 ---
 

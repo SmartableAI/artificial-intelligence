@@ -51,20 +51,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 37
-  - title: "News: EY India acquires AI-backed HR startup Spotmentor Technologies"
-    excerpt: "Spotmentor is an end-to-end skilling platform to enable businesses identify skills required for the future of work and upskilling reskilling talent"
-    publishedDateTime: 2020-11-16T02:05:00Z
-    webUrl: "https://www.peoplematters.in/news/hr-technology/ey-india-acquires-ai-backed-hr-startup-spotmentor-technologies-27607"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1603429176/ad-icqsbe62.png"
-        width: 990
-        height: 550
-        isCached: true
 
 secured: "V4mGC4de5dyHZdXRdidl4V+gmSvvxOnFTmOpT8pgpB0hlBldRoJJXEBUrPUtPsXz/lAg3mfud7yN7bxl/1lJSG7jOd4xxWJEwVKM05v9Fx+1Lxr3l0trESAtr0qAjefmuEKQq1F8Nh1YUm1Fexyq9/MbZMM1iv6WvVj+JaviMRp7ta+a3jrUob4KbQkBocktphZJ/WCG2ZjUfx7e+boyB8gLxf3cE18q3fUJ6wVPeOZRBLkZS5HUMg45atVlSoKR6aFC9MmCI1B/dzim7O2Ly7hfU3fccqD/mfZKMQFXIN24LurwZO8plD69PfDbu5Rqy7L6WWdfBVrUXusEoMgCwDG2abPIxHYiTXfNOZUIPzpuGUsGoKCyMmS9chRuv1+wJH43OERwv4V9F5LcP0JiIURGW9+V6+fvqNJhkWIAqKRTqj8i+sD/UxXlNSaNbG2+IugyF3FTwkv2WovnRnN/Ivcof7jULkeTpVD39q3a3d8mBIzbGlmuJsXVhNn4NNPfDn7oHWXnZgA0z7/lB8NCWw==;i7B+Lz++EVoslgYZXflJQw=="
 ---

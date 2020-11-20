@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-
 ampWebUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200"
@@ -26,6 +27,6 @@ images:
     height: 675
     isCached: true
 
-secured: "o03XPK17lLb1iZSPXZZL3WuBE+5JzlMOleDkoObkLSpmQJLuo1JQTGpAMXHw/UZu+B1bryqW5uukf/Z5OWfRMXCRih+9ha4ErRC1zU2sQSy9UO7soc2THYsbQpxhL0mdKJGcx39IXM09ODG659UCXUB8oUdYOyaPwbabnOWCYqtUYGjvR9/REsuEuC9WkGKK5/FTJprwLsVRuTcSjPx0yoG0draVThH4YE7uFrhJBELfDiJwIOENuxQGSygSscFOBByXzifm4PXFLUxWmNQ8BWVuAxAOm7mkUiWZ66Mzo0UUMfZwIpi3pfnOyT0pdJsh6vYykjKPb34HrmLYShyhIqMTMwB9qmEwalOAPaX9r0o=;lyEMP8c4Hsdo8MOc63c/iQ=="
+secured: "aws4z58GKfbKXxePs1T/WyNfqixciCSDl2o9giECGt3p1ZQyhAzLc9pAUdKjI5j5sxKCKmw+iF5SiZ+gnm33DMSS+zcnbFIVvwxDXzukffwFeFP7UkC3VPgMdvdzDtCilZvSySGy9OYNR1cJKqrBAWRnp1sSWamnaMpCoJHaNuyQGr1XTKilGGBsCTBZMhtLWIdfbdRZprbAONPnDSdmNWiwWYQ69+NIYhUdtN+XK/cJaOpqsXMDRdvHxxn0K25J9OcQvnpIXTxaN9L1947K3gJoovBjH4s+BW86vQoq0Cn/g7mEatBpbloj252SltcwXPqpZ1OikqD34F9U9cTScEyEcF8qQGYiVVV0ZzFMkhuUsJfPyvWHfvI9R93LxwjMUZOpFQgeM5d4Vs+FlO8fcKs5P1VGS1AgVAHVZ8ZVit6pS9ZJFGBV2ArUNEXm3ebSGwvmadtsKIX++p1mtWLJ9EjWk9kAcAoanyAdq+H6eqSIkUtrcZznlAJqlvAcnLzAwMBpaozbDjy+2qPc6XYLRQ==;888XFGGWpbAP4N5mE5sg/w=="
 ---
 

@@ -57,6 +57,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "MeowTalk: Alexa developer develops app to translate cats’ meow"
+    excerpt: "Amazon Alexa engineer has developed an app that translate your cat’s meow. With MeowTalks, know what your cat is saying."
+    publishedDateTime: 2020-11-19T19:01:00Z
+    webUrl: "https://techstory.in/meowtalk-alexa-developer-develops-app-to-translate-cats-meow/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/11/meowtalks.jpg"
+        width: 976
+        height: 549
+        isCached: true
 
 secured: "ZgzRauxPrIW2KmGWRDFR02lApZNnd+zmlNDPxaQnm0JiRkmR1ioagaSAKxUvSZMeRQ0rG87RODm+gdSsgtEPc7gQNc8XY8F3t0JCZye7DgwaiT6X5PbTFj8iLihFypQWQFo8QFIkXFap2UKeFH3rNQMMiUTkRwEVaBLe8vTlUH5Isn8zDQM+1lBnOo3Nxtzp6qfGANe2wwl2D9bjQxIzZIPs1xCovRFvU5hzAh+wKod23drTI3TGsqHz6Sy18evNriF/+KvYDJvNrbPCw5pTSoLFSr3ZV0UtnHJASnkmWmwqidFgiGU7Q06skIJFMHv0dOhVqMEAQdcZQ4c7IRrH94Nctor8whdOfu1sIDBTGiQua/MXKbCfC9bqp7kzyT5g0VBE/0fInRDQ+4aI9ueMdFpZntLwwiW4AJZmoWV0xSNWJO3UMY/+/FVyFIMdDVfm4iWDKGKIGQP19XrpReuvsTElA0fRFKRf+Ohlz7AJNrb0u6gcFPlIM0JTRcpPsD3ZF5vOy1yABVtHRshwXK9PYw==;Ub46X+lCD/NRnU+efurAhQ=="
 ---

@@ -55,6 +55,20 @@ related:
         width: 2560
         height: 1600
         isCached: true
+  - title: "Researchers Develop AI Model to Predict ICI Response in Advanced Melanoma"
+    excerpt: "Results of the artificial intelligence (AI) model were consistent no matter which immune checkpoint inhibitor (ICI) therapy patients received, suggesting that some biomarkers are not necessarily specific to the checkpoint target."
+    publishedDateTime: 2020-11-20T18:05:00Z
+    webUrl: "https://www.ajmc.com/view/researchers-develop-ai-model-to-predict-ici-response-in-advanced-melanoma"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 38
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/9364a769c645c6dc49ae3f0d8e5a76fada3a9280-6943x3456.jpg"
+        width: 6943
+        height: 3456
+        isCached: true
 
 secured: "C5jE8s3rf19m1vw3rg8RGNtNA3IIXceghmzbBvEVEtl6sh/vGiYmb3LE3ibWoGAXflZpkb0MmfEU9mA1F51l0KSUDz2k+dXfKAeRHyMG45jYq+iEF18VHDeDfUEcQVuWH22NK5zMlWM6FHSHcSdLGzuTxosCvP/wO1yS0+phb0tj1N+fQnbvG74RGKuRzHLyKBU7j1lKiQOIiLpEQRC5aXU9HnXeqSWPSOVwyquZepeTUrtPiMqBRF0A9neiclJf2Tn1nmEIA5vILD6yrORSSqJ5nYTfTjX3Vc1+czjSFozTpk4XfZ3V+XF7bvL42nv9xapMlWqZizuPNu/5FfrLaM8Gz1sk957gGmOSJmoRWs3y/bZNzMQp6a/CqDB5m5XQNUMoUly1xNHjfu/hqd214RQzQ9ndz8GCn3cgy1Q/Ckd8xCT6l6aYTYH4j09abTn6vzzVsNKF/GjPzIUA7czUfD1eXiFZlMgaGW114sRp9loVGz+/ahxvinWY6AK5NfDyMRqJCgnBNWwO1tg2m68BXg==;zzftWCkTgVm8qJN5lCOB3w=="
 ---

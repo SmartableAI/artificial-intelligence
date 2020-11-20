@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-05-virtual-incision-goes-small-in-surgical-robotics-and-nabs-ide.md",
+      "title": "Virtual Incision Goes Small in Surgical Robotics and Nabs IDE",
+      "excerpt": "The Holland, MI-based company said the trial for its miniature surgical robotics platform is set to start in early 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/virtual-incision-goes-small-surgical-robotics-and-nabs-ide",
+      "originalUrl": "https://www.mddionline.com/robotics/virtual-incision-goes-small-surgical-robotics-and-nabs-ide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Nov92020at12508PM.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-museum-exhibit-explores-being-human-in-the-age-of-ai.md",
       "title": "Museum exhibit explores being human in the age of AI",
       "excerpt": "The de Young Museum cleared out its cavernous contemporary art galleries, painted many of the walls black and set up a harrowing tour through the landscape of artificial intelligence in the exhibit “Uncanny Valley.",
@@ -1362,49 +1405,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
-      "excerpt": "we might wonder if it can be extended further to an android robot like Data. It would require that Data can either feel pain or suffer. And how you answer that depends on how you understand consciousness and intelligence. As real artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/",
-      "originalUrl": "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2018/01/artificial-intelligence-robot-vs-human-vector-745372390.jpg",
-          "width": 1408,
-          "height": 792,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/amp/",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/10/28/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais/amp/",
-      "publishedDateTime": "2020-10-28T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

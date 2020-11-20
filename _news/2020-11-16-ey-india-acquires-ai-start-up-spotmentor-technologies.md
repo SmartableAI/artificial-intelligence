@@ -36,20 +36,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "News: EY India acquires AI-backed HR startup Spotmentor Technologies"
-    excerpt: "Spotmentor is an end-to-end skilling platform to enable businesses identify skills required for the future of work and upskilling reskilling talent"
-    publishedDateTime: 2020-11-16T02:05:00Z
-    webUrl: "https://www.peoplematters.in/news/hr-technology/ey-india-acquires-ai-backed-hr-startup-spotmentor-technologies-27607"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 37
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1603429176/ad-icqsbe62.png"
-        width: 990
-        height: 550
-        isCached: true
   - title: "AI-backed skilling start-up, Spotmentor Technologies acquired by consultancy provider, EY India"
     excerpt: "EY stands for Ernst and Young Private Limited Company India India has bought 100% majority stake and acquired Spotmentor Technologies."
     publishedDateTime: 2020-11-17T04:00:00Z

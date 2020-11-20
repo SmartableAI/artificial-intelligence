@@ -314,7 +314,7 @@
       "originalUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -398,49 +398,6 @@
       "topics": [
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-computer-vision-mobile-app-can-regularly-monitor-diabetes.md",
-      "title": "Computer vision mobile app can regularly monitor diabetes",
-      "excerpt": "The technology, which doesn't require an internet or Bluetooth connection, works for any type of glucose meter, in any orientation and in a variety of light levels. It also reduces waste by eliminating the need to replace high-quality non-Bluetooth meters,",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatvnews.com/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109",
-      "originalUrl": "https://www.indiatvnews.com/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/freepik2-1601878228.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatvnews.com/amp/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109",
-      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109",
-      "publishedDateTime": "2020-11-15T21:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India TV",
-        "domain": "indiatvnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1446,6 +1403,49 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-facial-recognition-used-to-arrest-protestor-at-trump-bible-photo-op.md",
+      "title": "Facial recognition used to arrest protestor at Trump bible photo op",
+      "excerpt": "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
+      "originalUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2020%252F11%252F03%252F6d%252F6a312ae876144e70902ef7e36d22a5d8.cc9a5.png%252F1200x630.png?signature=j_Jk2ogosSfTENbLK-N3BaeM0vE=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
+      "publishedDateTime": "2020-11-02T16:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

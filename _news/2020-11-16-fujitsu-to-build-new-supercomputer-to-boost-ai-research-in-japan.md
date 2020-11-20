@@ -7,7 +7,7 @@ originalUrl: "https://www.computing.co.uk/news/4023304/fujitsu-supercomputer-ai-
 webUrl: "https://www.computing.co.uk/news/4023304/fujitsu-supercomputer-ai-research-japan"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 370
     height: 229
     isCached: true
-
-related:
-  - title: "Fujitsu to develop supercomputer for AI research in Japan"
-    excerpt: "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops."
-    publishedDateTime: 2020-11-16T01:55:00Z
-    webUrl: "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/4c1195d3-a430-4c56-af53-e55d055a621f/low-aibridginggreencloudfig.jpg"
-        width: 415
-        height: 215
-        isCached: true
-  - title: "Advancing artificial intelligence research"
-    excerpt: "MIT Schwarzman College of Computing and the Singapore Defense Science and Technology Agency award funding to 13 AI-focused projects led by researchers within the college."
-    publishedDateTime: 2020-11-18T20:17:00Z
-    webUrl: "https://news.mit.edu/2020/advancing-artificial-intelligence-research-1118"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202011/artificial-intelligence.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "Bfa7QM0ScYaW+6kaDmyWNSEQZQCh0UNrvZ57MqBOyFpGh9Xa9FksIASC4lxwxZSwpP61IkA+/GtxZ7xxFf/yHcx8FXJy6nJgVZmfmcgo8xO9GnSi78HNBcLCD7o/5LjDQgOnDQXcLKRY10opgrpkfvqw/XC5QuNiErJZc2IiTAlTe1pidpBSdBGhgeFkoA7xW1bBo2yDQwPl9kNJreV9n1SfcmNB0ya9OrnxSnw3iktT9eP2B6XDcQRLqIhhX2CdKkJIkyKxEO6ZZ0+KkFp8rjEsqS9Z+U8t/W5B5qgznQyYumdbx6Zp585srrd7QBCQP0JwjjlP0IFc0lUvcdoWkwg3FPuHHr57TFEuKAfrSvfiNyKVbVuXYuDT/lBuR0TRAJX4bMcMH/I2DhpdXR6ZmcrdD/tAR6Jl3Ox3trYGVZiZUMj4dSUtix5MpiNfTlnWWvcPEIXugjhggS/KxIhsGkMlH34gOHrNfd3nb4Sf+u7pnwz256yCu4BD7eF2vxR+Dy2YqYZP7THvJVTJov1Ucg==;WkK34iLqQqHLyDZ9s1IsJQ=="
 ---

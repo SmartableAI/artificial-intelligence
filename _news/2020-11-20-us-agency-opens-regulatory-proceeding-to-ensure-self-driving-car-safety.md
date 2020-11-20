@@ -39,6 +39,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "US takes first step toward future self-driving car regulations"
+    excerpt: "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,"
+    publishedDateTime: 2020-11-20T17:24:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T08:55:00Z

@@ -34,6 +34,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
+  - title: "Artificial Intelligence (AI) in the context of transformation, transition, transparency & privacy"
+    excerpt: "Our world is undergoing an information Big Bang, in which the universe of data doubles every two years and quintillions of bytes of data are generated every day. The impact of big data is commonly described in terms of three “Vs”: volume,"
+    publishedDateTime: 2020-11-20T18:50:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Artificial-Intelligence-AI-in-the-context-of-transformation-transition-transparency-privacy-1114327"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 41
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/378/37867267.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
     excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
     publishedDateTime: 2020-11-17T11:07:00Z

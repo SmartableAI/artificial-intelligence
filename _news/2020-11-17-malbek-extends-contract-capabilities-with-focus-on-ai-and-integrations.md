@@ -45,6 +45,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Artificial Intelligence (AI) in the context of transformation, transition, transparency & privacy"
+    excerpt: "Our world is undergoing an information Big Bang, in which the universe of data doubles every two years and quintillions of bytes of data are generated every day. The impact of big data is commonly described in terms of three “Vs”: volume,"
+    publishedDateTime: 2020-11-20T18:50:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Artificial-Intelligence-AI-in-the-context-of-transformation-transition-transparency-privacy-1114327"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 41
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/378/37867267.jpg"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     publishedDateTime: 2020-11-19T19:33:00Z

@@ -15,6 +15,7 @@ topics:
   - AWS AI
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"

@@ -2,6 +2,145 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-10-26-c3ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai.md",
+      "title": "C3.ai, Microsoft, and Adobe combine forces to re-invent CRM with AI",
+      "excerpt": "Integrate Microsoft Dynamics 365, Adobe Experience Cloud (including Adobe Experience Platform), and C3.ai’s industry-specific data models, connectors, and AI models, in a joint go-to-market offering designed to provide an integrated suite of industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
+      "originalUrl": "https://news.microsoft.com/2020/10/26/c3-ai-microsoft-and-adobe-combine-forces-to-re-invent-crm-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
+      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
+      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
+      "sourceUrl": null,
+      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
+          "width": 1024,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T05:59:42-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-ai-bias-blame-the-workman-not-his-tools.md",
+      "title": "AI bias: blame the workman, not his tools",
+      "excerpt": "AI empowers efficiency, but it's paramount that developers don't use demographic data to influence outcomes. First it was taking our jobs, now it’s discriminating against our customers and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
+      "originalUrl": "https://www.itproportal.com/features/ai-bias-blame-the-workman-not-his-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/aPK9JP79EUu5CqWfrQLTZ7-1200-80.jpg",
+          "width": 1200,
+          "height": 751,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
+      "cdnAmpWebUrl": "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/ai-bias-blame-the-workman-not-his-tools/",
+      "publishedDateTime": "2020-10-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro Portal",
+        "domain": "itproportal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-deep-learning-market-emerging-trends-revenue-estimation-global-size-and-forecast-report-to-2025.md",
       "title": "Deep Learning Market Emerging Trends, Revenue Estimation, Global Size and Forecast Report to 2025",
       "excerpt": "Oct 26, 2020 (Heraldkeepers) -- Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the brain called artificial neural networks.",
@@ -1035,143 +1174,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-would-artificial-neural-networks-implemented-in-clinical-wards-help-nephrologists-in-predicting-epoetin-responsiveness.md",
-      "title": "Would Artificial Neural Networks Implemented in Clinical Wards Help Nephrologists in Predicting Epoetin Responsiveness?",
-      "excerpt": "In order to build the non-linear continuous functions expressing the interdependency between the collected data and the epoetin dose a series of artificial neural networks (ANNs) were built ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/548842_3",
-      "originalUrl": "https://www.medscape.com/viewarticle/548842_3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
-          "width": 806,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-24T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-has-machine-learning-made-cryptocurrencies-traceable.md",
-      "title": "Has Machine Learning Made Cryptocurrencies Traceable?",
-      "excerpt": "Machine learning has become a major game changer for the cryptocurrency industry. Most of the benefits are machine learning have been positive for the market. Machine learning is being used to predict price patterns more easily. However, some of these ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/",
-      "originalUrl": "https://www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/10/bolster-cryptocurrency-security.jpg",
-          "width": 1000,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/amp/",
-      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/amp/",
-      "publishedDateTime": "2020-10-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartData Collective",
-        "domain": "smartdatacollective.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health.md",
-      "title": "AI, Health Insurance, And Data Harmonization: Interview With Shiv Misra, CVS Health",
-      "excerpt": "nomenclature and definitions start following the same tune ... What are some of the insights and opportunities for dealing with data and AI from a healthcare and insurance perspectives? Shiv Misra: The potential for Artificial Intelligence within ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94a12e8753d1c882612732%2F0x0.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
-      "publishedDateTime": "2020-10-24T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

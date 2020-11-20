@@ -115,7 +115,7 @@
       "originalUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1112,7 +1112,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI in Finance"
       ]
     },
     {

@@ -2,6 +2,111 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-12-measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast.md",
+      "title": "Measuring forecast model accuracy to optimize your business objectives with Amazon Forecast",
+      "excerpt": "We’re excited to announce that you can now measure the accuracy of your forecasting model to optimize the trade-offs between under-forecasting and over-forecasting costs, giving you flexibility in experimentation. Costs associated with under-forecasting and over-forecasting differ. Generally, over-forecasting",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/measuring-forecast-model-accuracy-to-optimize-your-business-objectives-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/12/Measuring-forecast-model-accuracy-1.jpg",
+          "width": 661,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T14:04:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-why-children-need-to-learn-about-artificial-intelligence.md",
+      "title": "Why Children Need To Learn About Artificial Intelligence",
+      "excerpt": "Demystifying AI for our children in all its complexity while providing them with an early insight into its promises and perils will make them confident in their ability to understand and control this incredible technology,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fada38b86692c56068a44f5%2F0x0.jpg",
+          "width": 1200,
+          "height": 672,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/juliabrodsky/2020/11/12/why-children-need-to-learn-about-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-12T13:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-new-orleans-police-department-using-facial-recognition-despite-years-of-denial.md",
       "title": "New Orleans Police Department using facial recognition despite years of denial",
       "excerpt": "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference.",
@@ -1132,110 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-at-just-22mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps.md",
-      "title": "At just 2.2MB, Google’s new speech filtering tech is perfect for mobile apps",
-      "excerpt": "Google has plenty of apps on your phone that use speech detection from Google Assistant to Google Translate and Pixel’s nifty recorder app. However, one of the challenges these apps face is separating your voice from other people or background noise.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/share-1-796x418.png",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/at-just-2-2mb-googles-new-speech-filtering-tech-is-perfect-for-mobile-apps/amp/",
-      "publishedDateTime": "2020-11-12T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-why-ai-cant-move-forward-without-diversity-equity-and-inclusion.md",
-      "title": "Why AI can’t move forward without diversity, equity, and inclusion",
-      "excerpt": "VentureBeat event, will explore bias, racism, and the lack of diversity across AI product development and management.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
-      "originalUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/GettyImages-1204561139.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/why-ai-cant-move-forward-without-diversity-equity-and-inclusion/amp/",
-      "publishedDateTime": "2020-11-12T04:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

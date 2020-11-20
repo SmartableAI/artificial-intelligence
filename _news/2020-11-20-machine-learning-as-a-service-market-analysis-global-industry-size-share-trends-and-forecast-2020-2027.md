@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-20T12:13:00Z
 originalUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-20"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-20"
 type: article
-quality: 50
+quality: 52
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

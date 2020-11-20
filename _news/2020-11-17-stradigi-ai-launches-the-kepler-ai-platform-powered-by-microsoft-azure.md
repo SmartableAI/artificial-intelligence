@@ -48,16 +48,16 @@ related:
       domain: businessinsider.com
     quality: 99
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch"
-    publishedDateTime: 2020-11-20T14:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18462780"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18462780"
+    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box's enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
+    publishedDateTime: 2020-11-20T11:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 64
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
     publishedDateTime: 2020-11-20T16:00:00Z

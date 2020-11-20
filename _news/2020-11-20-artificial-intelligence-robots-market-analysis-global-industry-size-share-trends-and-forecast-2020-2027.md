@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
 type: article
 quality: 67
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -253,15 +253,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Fintech Market Latest Innovations, Drivers and Industry Status 2020 to 2025"
-    excerpt: "Here’s a recently issued report titled Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a brief analysis of the market size, demand, supply chain, futuristic trends,"
-    publishedDateTime: 2020-11-19T12:25:00Z
-    webUrl: "https://ipsnews.net/business/2020/11/19/global-ai-in-fintech-market-latest-innovations-drivers-and-industry-status-2020-to-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 10
 
 secured: "QsL/7jjxJDQ49Wm0s8QxfDlO6nYaktq45c5wqGFUgASGSX7nPGYWNz5ovYSLBcXyIg+KiXcfxPKIECD7S3MzDM8gsYcESwnd2Z9QpqKuZXBY4RO93SIqPZVFZIm/seBrDfX4m15P9vw6wuZr83Ij0i0xMUQs+ufycVryq6pY8eaL91aqTBQDFu0PcV146Go1NFsdZpEtDzfN4cicxoWTo84mCCWr20YIjlJjwSYjRWaM30cHJO96u5T4QpkZlCo3rH1/vlrkQlkRBXGb9XaR5t7ctRg7+4eIexImKfVSukoelYNekPr65hf2ITQdmLXwQq175zbLygKVg6u0bmYn8tZHjAoCpHZ3QYyl5MllxIc=;sYKkw2UX2Ab10z2DUimDMQ=="
 ---

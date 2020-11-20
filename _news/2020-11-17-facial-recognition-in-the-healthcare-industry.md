@@ -96,6 +96,20 @@ related:
         width: 597
         height: 315
         isCached: true
+  - title: "Voluntary Recognition: Worker Wins"
+    excerpt: "Despite the challenges of organizing during a deadly pandemic, working people across the country (and beyond) continue organizing, bargaining and mobilizing for a better life. This edition begins with several groups of organizers who won voluntary recognition of their new unions."
+    publishedDateTime: 2020-11-20T17:07:00Z
+    webUrl: "https://aflcio.org/2020/11/20/voluntary-recognition-worker-wins"
+    type: article
+    provider:
+      name: AFL-CIO
+      domain: aflcio.org
+    quality: 24
+    images:
+      - url: "https://aflcio.org/sites/default/files/2020-11/afl-cio.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "hf0Zmspjeug/cJ7HzjL7Q2A3uqFj/mm5bRJgbHQSJdeYZnRSR6SLGvTFAlz0Vq+hednc0SfkXFsPa17F8Qj5+/PP2GMLAASN4euN86Xfbji7QjgIdU2YQ4jk78LE3UXmfOMYnSR77HnY4RRjtKKWmpPhCGMFa63t6hZmWLN6ttdFucaR16ZPawRO5JLitjjsC46ISmcc2saY906CsyHppoNZthn154QuBV9Ku2w4gxO4o5t+BPq4myYYfNoc4l+4j4VeUc2j34bI2IZER7PBm/SKOXZe7Ss95e7FUVoFxZW2RABICQYM8AeIN+2uQr8bTxKSsi9Fhtk6dwl4Qm3M5yPouKoseV4of4GF72DS0JsJq2ba1VXuAMg7bvsCzRdBmgP83nkblZoBUVKDFeSChlrmAbwzZSscJStHWSCIUvPFGEaDveckt+c12rIGlObeqUYl65hEfO55U0drL5L2DgcuPsbf/h5Bb+XD1vYSZfNPzPjBz0OYq6nEGOsnQCsT5qaB3ssO/sNMmqVuf8T8XA==;WLQXxO/HEK0Av65TaEpL1w=="
 ---

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-20-solve-customer-issues-the-first-time-with-watson-assistant.md",
+      "title": "Solve customer issues the first time  with Watson Assistant",
+      "excerpt": "All customers want when they call a company for help is to have their problem solved in one session as quickly as possible. They don’t want over-the-top service, they want resolution. That’s why first contact resolution (FCR) is one of the most important metrics in customer care, and why high FCR is",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/solve-customer-issues-the-first-time-with-watson-assistant/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/solve-customer-issues-the-first-time-with-watson-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/image-2.png",
+          "width": 990,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-20T09:23:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-music-from-the-heart-with-an-ai-assist.md",
       "title": "Music from the heart, with an AI assist",
       "excerpt": "The next time you hear a popular song on the radio, listen to the beat behind the lyrics. Usually, a high-powered production team came up with it—but in the future, that beat could be created with help from artificial intelligence. That’s what Googler MJ Jacob predicts, as he combines his job as an engineer",
@@ -54,6 +105,40 @@
       ]
     },
     {
+      "path": "_news/2020-11-21-fintech-and-their-etfs-ready-to-decimate-the-finance-industry.md",
+      "title": "Fintech and Their ETFs Ready to Decimate the Finance Industry",
+      "excerpt": "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20",
+      "originalUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp",
+      "publishedDateTime": "2020-11-20T08:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-time-may-be-right-for-professionalizing-artificial-intelligence-practices.md",
       "title": "Time may be right for professionalizing artificial intelligence practices",
       "excerpt": "\"It's unlikely that you'd trust a 'citizen architect' to build your home in the same way that you wouldn't visit a 'citizen doctor' when you get sick.\"",
@@ -62,7 +147,7 @@
       "originalUrl": "https://www.zdnet.com/article/time-to-professionalize-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -101,7 +186,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -578,7 +664,7 @@
       "originalUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -662,6 +748,58 @@
         "AI Ethics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
+      "title": "A neural network learns when it should not be trusted",
+      "excerpt": "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1011,57 +1149,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-19-watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world.md",
-      "title": "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world",
-      "excerpt": "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/ServiceNow_1-990x448-2.jpg",
-          "width": 990,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T12:30:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers.md",
       "title": "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers",
       "excerpt": "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic.",
@@ -1122,7 +1209,7 @@
       "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN27Z2FM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1163,102 +1250,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown.md",
-      "title": "Facebook says AI has fueled a hate speech crackdown",
-      "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/11/19/21575139/facebook-moderation-ai-hate-speech",
-      "originalUrl": "https://www.theverge.com/2020/11/19/21575139/facebook-moderation-ai-hate-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 200,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/wmU-utJ-VdG500pIqIArOrBSpbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67818040/mdoying_180411_2400_0043still.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech",
-      "publishedDateTime": "2020-11-19T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-deep-learning-helps-robots-grasp-and-move-objects-with-ease.md",
-      "title": "Deep learning helps robots grasp and move objects with ease",
-      "excerpt": "Researchers have created new artificial intelligence software that gives robots the speed and skill to grasp and smoothly move objects, making it feasible for them to soon assist humans in warehouse environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118141827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118141827.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

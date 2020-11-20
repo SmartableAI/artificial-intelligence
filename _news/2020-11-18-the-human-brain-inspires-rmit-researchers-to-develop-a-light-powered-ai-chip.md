@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-human-brain-inspires-rm
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Researchers Develop AI Model to Predict ICI Response in Advanced Melanoma"
+    excerpt: "Results of the artificial intelligence (AI) model were consistent no matter which immune checkpoint inhibitor (ICI) therapy patients received, suggesting that some biomarkers are not necessarily specific to the checkpoint target."
+    publishedDateTime: 2020-11-20T18:05:00Z
+    webUrl: "https://www.ajmc.com/view/researchers-develop-ai-model-to-predict-ici-response-in-advanced-melanoma"
+    type: article
+    provider:
+      name: The American Journal of Managed Care
+      domain: ajmc.com
+    quality: 38
+    images:
+      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/9364a769c645c6dc49ae3f0d8e5a76fada3a9280-6943x3456.jpg"
+        width: 6943
+        height: 3456
         isCached: true
 
 secured: "chqCwLz9nIkT9Pr/XvM43Ju920QKZMlnY2lth25UDWe7uZlvVZgP7PQ0IWhzrBQrW0U/iLXCq4L1H9lQFVPljpZSjoqrOui3OFdzMQ0nM8SpRrx0DAAHkx+FBzjCQFSNJzKz9usWd10NwtyBKRVbcVV1F9M6uCck+aE2NIW4fK0ErOB/0FD/f0piGIJjz0aBPLZOQNoBCDd7jTkJsOzo8duzGefkhLCcWocYBq+pmWK5sDlxlyljNMFxjsBaO5GHOyx0vSCVF03HpH/cUewshH+rsx6mvsVch+dW3OI4Zjlh34uvpkWwubR2MX92hsOlImAS+8gqhktVYjMGz8pSsop5lBzAdxj59DgCwA1A7z9yS6xgesXtnz1emKq9SyZ6C1AA6w8iJ29SGLmO1YF+1qCOCW9IDB53hOf1NuL8IxIe2L2Xv7SjklUpU8jzSePHHdhuEBnwmDUXxi3DTpf1c0mUBMV0VRBhUY8sbcH09BhIZgpvRYjT05X99FiB1iR4kfwPxBvyoUgbJtNS39+BTw==;TfpsVf9ucddWmrFVxLn7xA=="

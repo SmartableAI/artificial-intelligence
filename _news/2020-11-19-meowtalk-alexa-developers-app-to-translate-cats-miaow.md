@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54991693"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/cat_in_pain.jpg&quality=70&width=808"
         width: 808
         height: 424
+        isCached: true
+  - title: "MeowTalk: Alexa developer develops app to translate cats’ meow"
+    excerpt: "Amazon Alexa engineer has developed an app that translate your cat’s meow. With MeowTalks, know what your cat is saying."
+    publishedDateTime: 2020-11-19T19:01:00Z
+    webUrl: "https://techstory.in/meowtalk-alexa-developer-develops-app-to-translate-cats-meow/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2020/11/meowtalks.jpg"
+        width: 976
+        height: 549
         isCached: true
 
 secured: "1HCwDw0ikjcVI9MaN5vFXnaonih4aBz/wz11Lr69vt0YDSbUfX7ijupPbrZj1aiph/hfERMO4IgpGmrHDTksv99el8hR+hbvalIDGVxe+ZmC5Gs9ahHbCM2Y5g5rE/UV6aIgHy4KSx2G+WTHwWHweW5bzKfAx1KFDF18aZmxjKshvm5EYTGCBL++1S2iwfTQXQpS2XRmPOlInkNC2b83WpIjXgBE1yuBgVvToO/8cy26uNavzw7BBpTcjtQPuqbqDUhgwAQzn++d02yIfvcccEV89JHeDXBvPrGC1pbLzFg03XCAK6SvDrhg18AECshQ5R1laYZxOjcrWbvVFa7LxWjxL6grRFhT4EKfANaqX98=;dILgCCzzz7/9AQiPXXbLug=="

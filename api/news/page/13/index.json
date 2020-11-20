@@ -2,6 +2,93 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-11-check-out-bandais-mind-controlled-robot-prototype.md",
+      "title": "Check out Bandai’s mind-controlled robot prototype",
+      "excerpt": "Researchers at NeU, a joint venture between Tohoku University and Hitachi, have developed a prototype toy robot controlled directly by the mind, in collaboration with toy giant Bandai. This robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "originalUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "publishedDateTime": "2020-11-10T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience.md",
+      "title": "Microsoft is partnering with Qualcomm to enhance AI and ML developer experience",
+      "excerpt": "Microsoft and Qualcomm are partnering to improve the development and deployment experience for developers using the respective technologies offered by the two firms to build AI and ML solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
+      "originalUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/11/1605079273_microsoft_qualcomm_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
+      "publishedDateTime": "2020-11-10T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app.md",
       "title": "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App",
       "excerpt": "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app.",
@@ -720,6 +807,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-review-google-cloud-ai-lights-up-machine-learning.md",
+      "title": "Review: Google Cloud AI lights up machine learning",
+      "excerpt": "The feature engineering built into Cloud AutoML Tables is promising, however, and it would be useful to have that sort of service available for other scenarios. The seamy underside of AI has to do ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/684390/review-google-cloud-ai-lights-up-machine-learning/",
+      "originalUrl": "https://www.arnnet.com.au/article/684390/review-google-cloud-ai-lights-up-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/google_cloud_1_2.jpg",
+          "width": 740,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T13:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-british-newscaster-speaking-style-now-available-in-amazon-polly.md",
       "title": "British Newscaster speaking style now available in Amazon Polly",
       "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We’re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative",
@@ -1064,162 +1194,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-walmart-and-gms-cruise-partner-for-self-driving-deliveries-in-arizona.md",
-      "title": "Walmart and GM's Cruise partner for self-driving deliveries in Arizona",
-      "excerpt": "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "publishedDateTime": "2020-11-10T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-linkedin-open-sources-dagli-a-machine-learning-library-for-java.md",
-      "title": "LinkedIn open-sources Dagli, a machine learning library for Java",
-      "excerpt": "LinkedIn's Dagli, which is available in open source, is a machine learning library for Java and other JVM languages.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/09/LinkedIn-logo-e1585672001937.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/linkedin-open-sources-dagli-a-machine-learning-library-for-java/amp/",
-      "publishedDateTime": "2020-11-10T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
-      "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
-      "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/sight-tech-global-speakers3.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-11-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

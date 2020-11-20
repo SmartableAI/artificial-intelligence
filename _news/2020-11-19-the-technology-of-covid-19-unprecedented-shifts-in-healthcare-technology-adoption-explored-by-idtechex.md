@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/the-technology-of-covid-1
 webUrl: "https://www.prnewswire.com/news-releases/the-technology-of-covid-19-unprecedented-shifts-in-healthcare-technology-adoption-explored-by-idtechex-301177339.html"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -23,47 +23,6 @@ images:
     width: 1276
     height: 668
     isCached: true
-
-related:
-  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
-    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
-    publishedDateTime: 2020-11-18T00:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
-  - title: "Impacts of COVID-19 on the Global Automatic Content Recognition Market Report Research Industry 2020"
-    excerpt: "Nov (MarketResearch.biz via Comtex) -- “The Impacts of COVID-19 on the Automatic Content Recognition Market Report Research Industry – 2020″"
-    publishedDateTime: 2020-11-19T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impacts-of-covid-19-on-the-global-automatic-content-recognition-market-report-research-industry-2020-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
-    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
-    publishedDateTime: 2020-11-17T14:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "vdvPKHQWEJSip91BlYC7QvCfTpru73xh64wxXDuVoNux2sSHSYR0lFcyGpQkxY0KgGZLH/0izvMSs3dXrr4Gecrtvjzi7v6H/WX/qKDHtD1lt655Yj8FySmlCSrmcE1QtY5wslKMhQs63gGVSfeZuGlINJM/xzGcnU2mSehzZf4vDkD+aZEa7nbyinRVejm3hwwjWdemToqUUhdWBpYfGP2jGXqE3LE4EeLGBAgSYRrM/n2+xy45Ew2mH2oOSwYgc8bSu0F9RFLFtOFy1PStBQsZfArBcn0TJ7AGt2LDZifS4LGhbL3Q1hJtO2Ws+J0lcO0J2YVaCzz8Gpo4x24RN7deX8jwtWfpd/fDRj5iqP4=;fw3+5bsmMCcsLm9VN7HNDw=="
 ---

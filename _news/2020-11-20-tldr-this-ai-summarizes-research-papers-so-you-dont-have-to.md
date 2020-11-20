@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-res
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 796
     height: 418
     isCached: true
+
+related:
+  - title: "Advancing artificial intelligence research"
+    excerpt: "MIT Schwarzman College of Computing and the Singapore Defense Science and Technology Agency award funding to 13 AI-focused projects led by researchers within the college."
+    publishedDateTime: 2020-11-18T20:17:00Z
+    webUrl: "https://news.mit.edu/2020/advancing-artificial-intelligence-research-1118"
+    type: article
+    provider:
+      name: Massachusetts Institute of Technology
+      domain: mit.edu
+    quality: 69
+    images:
+      - url: "https://news.mit.edu/sites/default/files/images/202011/artificial-intelligence.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "WqLFbCvnUKMAiDR6NgoSh8oKTK1Lmqo3iWVlYFosTTWH1u6bcGLaXFvKmVhy3QXYZoSPex//jfy+A0RjU4cTQzOI/Axlevdu3Dc5JcJmiUJk1PCnrCzO2n1OD7eHIS8X4VfkwvdX3jMWgtYiio8IB+NMk0Za/EDZWkACIEam4prfhdz29wP7WqKaEu++euszuoVbzkjPI/4wzxdWYH8NpoLGiLnqwTKjVRwHhrLlEEdmJqRuSowUVdwYKW4MO2Q8+iUe1YnFf8IPLJ+61+uCLg5O2ITP9N7lLQAjCNB7CzObr0ZqIUhaC+xvAFMzjZ7prBKfx1FztitvF0rz9FKIYepnqpOLlSKFNxs4qUfF+jsD9D+7lf651cOQ/hsjMB5+NjEnmIH5PFfiAYberkHr3XdWLqDK4fYBjuPJxvNeWlsTRTE1VHq9dr8SwZD0NqO/emnDKH2Tt0/J6iouhMFvglpTjRXm4OiIGI+QZAkHAbQxUnUQTuk9OnVOxy+S/UWVyv+w27oj6MkazLZYJisigg==;HPz4WCp1OVSHmCeH6SfdWA=="
 ---

@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-18-amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal.md",
+      "title": "Amazon and NXP team up on smart car cloud computing deal",
+      "excerpt": "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "originalUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YvXi3t8eHMoX9dePjx8wKd-1200-80.jpg",
+          "width": 970,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "publishedDateTime": "2020-11-17T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-google-has-created-an-ai-powered-nightmare-creature-generator.md",
+      "title": "Google has created an AI-powered nightmare creature generator",
+      "excerpt": "Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
+      "originalUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/TC-beast.jpg?w=1024",
+          "width": 1024,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
+      "publishedDateTime": "2020-11-17T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-corsight-ai-launches-real-time-facial-recognition-that-identifies-masked-faces.md",
       "title": "Corsight AI launches real-time facial recognition that identifies masked faces",
       "excerpt": "Corsight AI has launched a facial recognition solution that has the ability to speedily and accurately identify persons, bypassing obstructions to clear facial view such as face coverings and bad",
@@ -294,7 +397,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-11-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1097,101 +1200,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-hopsworks-feature-store-now-available-for-microsoft-azure.md",
-      "title": "Hopsworks Feature Store Now Available for Microsoft Azure",
-      "excerpt": "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
-      "publishedDateTime": "2020-11-17T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-dont-fear-the-robots-and-other-lessons-from-a-study-of-the-digital-economy.md",
-      "title": "Don’t Fear the Robots, and Other Lessons From a Study of the Digital Economy",
-      "excerpt": "Rafael Reif, the president of Massachusetts Institute of Technology, delivered an intellectual call to arms to the university’s faculty in November 2017: Help generate insights into how advancing technology has changed and will change the work force,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/17/business/17digitalwork2/17digitalwork2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.amp.html",
-      "publishedDateTime": "2020-11-17T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

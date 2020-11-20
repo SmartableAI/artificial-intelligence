@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/time-to-professionalize-artificial-intell
 ampWebUrl: "https://www.zdnet.com/google-amp/article/time-to-professionalize-artificial-intelligence/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/time-to-professionalize-artificial-intelligence/"
 type: article
-quality: 86
-heat: 86
+quality: 88
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/20/d87e3757-4719-4322-b126-843968a4b3f3/airport-chicago-ohare-cropped-nov-2015-photo-by-joe-mckendrick.jpg"
@@ -29,6 +30,6 @@ images:
     height: 383
     isCached: true
 
-secured: "z5cfPecPqebRGzV7hHlXecJR8tXKrm1VEmwH+J2V9J/HKvwDx7UmRBkR9IuKy18PQxJnODHb9mA0jCJucoCrYK7fQfhPBVVkNoPPf2TWN4lU/QEgW3Ql9vuK/3wHbwDjSEkUMuf3KByRNkMGYZr0anho7ZJc8S5nTtYzFDDdQA8wQrT7enuNPXAUwXl8jWH4dxMeztgRGvApjU+ZcAzdQ+vahgjsZ7xO7bHG5wRwqUUbb95yXdRZXuuPkIeMNsDYBde9D9hRTZaUJC/d9fJKtozEZnSojQJkvRZ82Us7DmAN3v84b+0pRZQA4fdCGAXH5gMk9OdJFr1N6apF9XHnR8O520cnT5eqGvO798RP6a4=;du2YzRGf67WISG8KCCCSlw=="
+secured: "VkYtyDNBNk5dS/v67v3cL0+cHvxiciLjBYtOun6KsnTA+U1LPWNgEOF7uipAr9ctef/cAMXkQwQUabEQfQyeCKGFC0TA9cDoYK2eUfCtTZZNz2mUiAqg9ymNyV0a8YLbrNTHifM9QXOSuE8RD3GXnwdaGMqXhl/GJ3tYL53hsgHDBxjPzi9HhzNYa2bnfXJSRP+I4tFbdmw4u8lACIyrBvnzD/Wf/dbQcTM9PBLDLbsKILjQ/xhX7hm6kk7QxFOSCTSAPvCwki+aOgW5gaTNWRVfbq3iv9Dv9s9RY3v0FEqm9IyWY45Lb+moHg02m4tmRFx9WgmMNWyIHlOrsVXYYF6CD00O+mPuBQtqe9FPlgsWpQ38NLTfS+U8pXpGCGqrcslokKalQQF22s9wERxt56B9085jfQ9m+IfM+Kzr6SfZ+7YSgtyqDyZWschBvwzJFanYwzwX7YfI4WwLZJ4gA4yiLsBpo1IZ4eBkTUxouQBDptBIf5m444n0YOHIkLrN/UaW1fjagsi3TlI8Wzmi0Q==;c2NqkbwSL36e+rwzEjhViw=="
 ---
 
