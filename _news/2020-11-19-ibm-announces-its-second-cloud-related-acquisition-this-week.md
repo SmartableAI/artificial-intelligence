@@ -1,29 +1,35 @@
 ---
 category: news
 title: "IBM Announces Its Second Cloud-Related Acquisition This Week"
-excerpt: "Integrating these capabilities with IBM's technology will provide insights to Watson AIOps. With this technology ... This should not only advance IBM's hybrid cloud but also bolster its AI-powered automation capabilities. \"IBM's acquisition of Instana ..."
-publishedDateTime: 2020-11-19T06:43:00Z
-originalUrl: "https://www.ibtimes.com/ibm-announces-its-second-cloud-related-acquisition-week-3085232"
-webUrl: "https://www.ibtimes.com/ibm-announces-its-second-cloud-related-acquisition-week-3085232"
+excerpt: "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises."
+publishedDateTime: 2020-11-19T00:35:00Z
+originalUrl: "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+webUrl: "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+ampWebUrl: "https://www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
 type: article
-quality: 24
-heat: 24
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/01/28/ibm.jpg"
+  - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601417%2Fgettyimages-1167278913.jpg&w=1200&op=resize"
     width: 1200
-    height: 816
+    height: 900
     isCached: true
 
-secured: "0yGBwMe8w+J6TqtRcwjB9PIYxsIA8O0NHL1bhY1OtrUXRAt1Curw9ZjPnXB+jliTG9lM4/+54nU7uVQ2RTFXOhD5IKrMMdmQTM/p0axnJr2Zsc+Bd1xZkrfIzEs7pQxYZ/LFAzW50IVnhUTFzZ/HC/4xYXPI41QoQ2NrgIovQH12RJk0LhLU2WghWugnZ5bgqQkf+ObeIw+AFESt3bOz7iKioDI2sa+bwLrbLroYHBZvlQRL97uJWe4c/dt8a2BzQiQd/BJOeCdNBG+3VM2ItQoNm1eOXraRajv5HifCwDbMkZErk97q1YZXepCU7SDhebIGGSHC9xYX6mLL6m4WXjS/OmcuVz5W4NuBILko/AaliO0krguq4N/PwmVPuzQA7HPSsO0jzQwgFHZgWWfb41pW9fnlMyS2g8X/fxA1pNb3M1BeAHiK6ozD4c8wvZHdZGR0sQk3nMM/2VNBV3vXpZoLATezICpVtBjSIOgX2ijLn6o0v1c/MYRNLzZO2+BrRp3I1R0Jp/R9A7hyCkAU4Q==;6tHwLw/8FlFNpythIIPiKw=="
+secured: "AQc85Kz73lOkko0MJqPTIwSHB6mMCg98F/NemOcnr9TD2jB34qU/WbdAQYzRkRPLmeBd2M1EXgnT1amu3sfsZpC1d4i5kp2SQ2ZSkuNYM0rLMtkJ45jWhpm8t2dVhBeyybOzS9+UKOdUnIFgL9a6XgT3ZWAIm3op7tNZrx5RLAYRKw7eaIlLBHBVXAdgnBYHOlzU7L0g2iD4oFYPZYO9+zn4e7Y9AUpvy6VLtf1ly2baic7YY2oBv78UIUM0D6Nn7o2w7Q7eNB6M1T/SDWBYsaNTYdEPgYrUc18OyPoKzG40Abo/55P8hP7jPKjEiFnuyzS3eZQeR0yaO8TZTGnQ5voSF/hQVHMChh2QXki6vFE=;EEX17bwtc6KxA3XbHB2Pbw=="
 ---
 

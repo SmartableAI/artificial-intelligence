@@ -36,28 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-    excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
-    publishedDateTime: 2020-11-18T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "Penguin Computing to bundle systems, services to juice AI, analytics, data, cloud workloads"
-    excerpt: "The move by Penguin Computing highlights how many HPC vendors are targeting commercial adoption and workloads."
-    publishedDateTime: 2020-11-16T05:00:00Z
-    webUrl: "https://www.zdnet.com/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 57
   - title: "Penguin Computing Unveils HPC, AI and Analytics, Cloud, and Data Solutions"
     excerpt: "Penguin Computing, a subsidiary of SMART Global Holdings, Inc. and leader in high-performance computing (HPC),"
     publishedDateTime: 2020-11-16T15:03:00Z
@@ -72,6 +50,17 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
+    excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
+    publishedDateTime: 2020-11-18T11:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z

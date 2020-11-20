@@ -35,6 +35,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 66
+  - title: "UC Berkeley researchers create artificial intelligence to grasp, move objects"
+    excerpt: "UC Berkeley researchers create artificial intelligence to give robots the ability to grasp and move objects smoothly and assist in warehouses soon."
+    publishedDateTime: 2020-11-20T19:05:00Z
+    webUrl: "https://www.dailycal.org/2020/11/20/uc-berkeley-researchers-create-artificial-intelligence-to-grasp-move-objects/"
+    type: article
+    provider:
+      name: The Daily Californian
+      domain: dailycal.org
+    quality: 36
+    images:
+      - url: "https://i0.wp.com/www.dailycal.org/assets/uploads/2020/11/robots_Ken-Goldberg_courtesy.jpg?ssl=1"
+        width: 900
+        height: 580
+        isCached: true
 
 secured: "vSjLvPVVs8yVskVlSH/dhhvmK3CzEqFB6rBoTKYETPN5/hwWc8Q2R3Wl4z5DsF9Wg6Nrxk7kKj2EqAtRMJvaMVU6JQnrkbBeprQedUFwZWLMqz2COtdW7F/jLFMgwb70e043xIfZ62uhO6vFWPj1R+WhWSXpb9lxeCw11M5tYigAmpwxZuJSPwVzwiCYPYp0VoUNmguIeoGzTQBXw9tYPrsreIaNrGClC84HvBcc8Szbr4Fc3pcil+VlnrUYSWFwsmDVTHvPjExfYO0IFauZ7Gh4p4crW3RMoWDsjJkCWROC1HSPx0bqPfTrMOqnFDEV7zQUtLw0WGctAbvmhjZmBbz85gL+E0+wPx61rUF3KhDC5LGRczuEGz21A515ZvrAsFkvpiFbOKbVIHoo4bjflml+IZmoKilTbgn0Zbywo90AYQviA65gJ5h0iTHxyGco+l06RZooj3UezagZoRRVHW41F9WAvUZ0tOFkyF09EvfokPTWO/rwSVPw0M75XUgD2xTF4tS6C4+YRvUKl/5DQQ==;xmBd9s/IGiJ9XwRgbL/sYQ=="
 ---

@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
+excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
 publishedDateTime: 2020-11-18T11:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
 type: article
-quality: 63
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -36,17 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 68
-  - title: "Penguin Computing to bundle systems, services to juice AI, analytics, data, cloud workloads"
-    excerpt: "The move by Penguin Computing highlights how many HPC vendors are targeting commercial adoption and workloads."
-    publishedDateTime: 2020-11-16T05:00:00Z
-    webUrl: "https://www.zdnet.com/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/penguin-computing-to-bundle-systems-services-to-juice-ai-analytics-data-cloud-workloads/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 57
   - title: "Future of Healthcare Data & Analytics"
     excerpt: "helping to create and launch Healthcare NExT, Microsoft’s incubator at the intersection of artificial intelligence and healthcare. Prior to his current role, Mr. Cox led incubation efforts for Microsoft’s corporate strategy organization, responsible ..."
     publishedDateTime: 2020-11-19T01:26:00Z
@@ -90,6 +75,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "FOIS9SMOPkqrNy+4cdwu8r++dfJFWNw3Jl2/9I8vG3PSi/88yEPmfb49lXSDZxbywVrFldmSGw0OPRH1KlEhKdW9Hme6pphwTyCrV+5OKXGYJQE/5fjPz7tqxQpBtdQpn1Y5RhB62WbuUxkhWfyH7z8+EPHIkOXRhbC+BZkMl/NykrzgROhZrA9pBibWYqXkXI+kW5W3aagto+OMvcZIZvkal/ocujd+IE0f3jFoH5qtCAIdQWk8IpS2UEmjqSDuvmhgKFbAscul/C7yEJ5qeNWoINTc1ge8OujPB9LgFtb2XRC3FTKcNSjXGvY9fk5guTBhi5viF/Vz8zz+xAeEb4RLZbzx2j5sJRx6ukXYpOA=;Y7dZUrrvSk3Ap6EQngqR3A=="
+secured: "w/+UJLu6Df4kVt3XK+SpZ6urASH+uSebH3aRTr0sGHCdaEFD6zOyh3+IoDwWLdh3dzLxCVg314fWf8EIz9Ss/G6h1LdWLJ+Irp711+33EFHoiBOeUuVmLAPArjjSuxex/lyynDHjUtAUSeSmEpTRrkqpv7/K/slkI6ThhgMnJ5MOZoly+EZODJ5QBlsgR/iOoHliJDdl/mwzcDzSCSn7aJHl+6zVIinrHwkDy3P+8cKTpOAAncNowAXo4z0VUWHBhBJarsQqBCHYHaQqxq8Ga3+WoUmSuV1H111Pp/AG24V7GFTe96+jPYDKFaG+/OWIfIwBczG4f5UMZGSwfU7uOGXKGtSdaKCJTbWK5qOyP/Q=;lNl8ffwu9c2eTZVwWbqNMg=="
 ---
 

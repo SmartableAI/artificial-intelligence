@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Forter raises $125 million at a $1.3 billion valuation to combat ecommerce fraud with AI"
+    excerpt: "Forter, an automated ecommerce fraud detection platform, has raised $125 million at a valuation of more than $1.3 billion."
+    publishedDateTime: 2020-11-19T23:06:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Screenshot_2020-11-19-Ecommerce-Fraud-Detection-Ecommerce-Fraud-Protection-Forter.png?w=1200&strip=all"
+        width: 1200
+        height: 499
+        isCached: true
 
 secured: "DJM2l3RXB8MMao6RHcDs4DHq+S1lwkjjY0C0r0hMjs5oPkke2Ko/TieCiTvVZtKCqyn8yR59WLXbnbOWmKfKi6GLdSQR+D84RO/V5lgVr7rxMpQkZu2wgfigMfwB+li62uPaEJowLbY2dZLOs4SeQ1rKOgMk+u7RMkl/jqRieBSHFahSdJ07tKIf8WbAlQ3C5fWiuug7AThO5hR0K7bV4IScIyjq49u1ywS0X2uXbgZcg5dZtPavunLCz54o9UKeW9BtNLWQRERhhAnlEmsxSWdhqsq/Vd8IPw6Eku2dXeplfhmHJiYCeW0v4NWPpd79d20EGsTR0yH3dbDaooyEOysg21Ml50UThxgwkMQNCUJ1LqvHN1oM6pPj2l+r+iW5AFEoSaLBvTo4vZ0IxGJ+h5XqmtgargRPhYv/f78J/+dOhzIfSWZDdoKzvtfTKdlPKu5O6ohrZvw2lk9q9cF+z2WlXlMVaO1w/UKStjQWBiSTvdsF2lV61IYqpOqC3u2YLzu1zR5V4/Ric9rRd79Wrw==;VfkQTWAsQlNtYmfBK7ls3Q=="
 ---

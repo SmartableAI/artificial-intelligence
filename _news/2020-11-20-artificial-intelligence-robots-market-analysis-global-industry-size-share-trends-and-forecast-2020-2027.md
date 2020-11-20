@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
 type: article
 quality: 67
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -252,6 +252,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Technavio Research: Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
+    excerpt: "The deep learning market is expected to grow by 7.2 billion, progressing at a CAGR of almost 45% during the forecast period. This press release features multimedia. View the full release here:"
+    publishedDateTime: 2020-11-20T17:46:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51306889-technavio-research-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
+    images:
+      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/4/IRTNTR41147.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "QsL/7jjxJDQ49Wm0s8QxfDlO6nYaktq45c5wqGFUgASGSX7nPGYWNz5ovYSLBcXyIg+KiXcfxPKIECD7S3MzDM8gsYcESwnd2Z9QpqKuZXBY4RO93SIqPZVFZIm/seBrDfX4m15P9vw6wuZr83Ij0i0xMUQs+ufycVryq6pY8eaL91aqTBQDFu0PcV146Go1NFsdZpEtDzfN4cicxoWTo84mCCWr20YIjlJjwSYjRWaM30cHJO96u5T4QpkZlCo3rH1/vlrkQlkRBXGb9XaR5t7ctRg7+4eIexImKfVSukoelYNekPr65hf2ITQdmLXwQq175zbLygKVg6u0bmYn8tZHjAoCpHZ3QYyl5MllxIc=;sYKkw2UX2Ab10z2DUimDMQ=="

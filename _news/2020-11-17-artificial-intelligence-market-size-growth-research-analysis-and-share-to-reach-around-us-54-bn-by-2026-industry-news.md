@@ -253,6 +253,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Technavio Research: Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
+    excerpt: "The deep learning market is expected to grow by 7.2 billion, progressing at a CAGR of almost 45% during the forecast period. This press release features multimedia. View the full release here:"
+    publishedDateTime: 2020-11-20T17:46:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51306889-technavio-research-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
+    images:
+      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/4/IRTNTR41147.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "YLxCjusR0eC+58ZKVioLN7b+u398JsaUG3JkGds6rbPuk8D8d8NOPF76vvJwtrXP9EGO8UZNkYi8o7LvFOK2m/aq9OwsJDCAYZoGZS0eatDyXxIqemq4kymvddjv+BKnrJMDqYW1CMwW7D9OHbVEEk0JizJGp7XPkWXIJJrBkKDNIcd1UABaLdKA32E4wy+ywUi+1MSUH/MQMpwOlP1dG3CisB2V/WWxFVosV+B1M7LMRkqkZPM639J/mXuO+5nb/rxOy5dE61BbH9/uTJfpZEIg3S3kfwBlvyyJB5WMlNcoPaOSuCfTUmdrB44euAZiMfyPEpALxgv+z1FCDxcJ40qH7yz78xZLpUQuxfvN9TI=;GvyJxlA94ipXe876EsAdoQ=="
 ---

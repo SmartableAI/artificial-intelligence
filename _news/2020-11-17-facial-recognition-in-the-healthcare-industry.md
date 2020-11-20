@@ -96,6 +96,20 @@ related:
         width: 597
         height: 315
         isCached: true
+  - title: "CBP wants to expand facial recognition"
+    excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
+    publishedDateTime: 2020-11-20T19:18:00Z
+    webUrl: "https://fcw.com/articles/2020/11/20/cbp-biometrics-facial-recog.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
+        width: 620
+        height: 300
+        isCached: true
   - title: "Voluntary Recognition: Worker Wins"
     excerpt: "Despite the challenges of organizing during a deadly pandemic, working people across the country (and beyond) continue organizing, bargaining and mobilizing for a better life. This edition begins with several groups of organizers who won voluntary recognition of their new unions."
     publishedDateTime: 2020-11-20T17:07:00Z

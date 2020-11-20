@@ -1,0 +1,54 @@
+---
+category: news
+title: "UC Berkeley researchers create artificial intelligence to grasp, move objects"
+excerpt: "UC Berkeley researchers create artificial intelligence to give robots the ability to grasp and move objects smoothly and assist in warehouses soon."
+publishedDateTime: 2020-11-20T19:05:00Z
+originalUrl: "https://www.dailycal.org/2020/11/20/uc-berkeley-researchers-create-artificial-intelligence-to-grasp-move-objects/"
+webUrl: "https://www.dailycal.org/2020/11/20/uc-berkeley-researchers-create-artificial-intelligence-to-grasp-move-objects/"
+type: article
+quality: 36
+heat: -1
+published: false
+
+provider:
+  name: The Daily Californian
+  domain: dailycal.org
+
+topics:
+  - Machine Learning
+  - AI
+
+images:
+  - url: "https://i0.wp.com/www.dailycal.org/assets/uploads/2020/11/robots_Ken-Goldberg_courtesy.jpg?ssl=1"
+    width: 900
+    height: 580
+    isCached: true
+
+related:
+  - title: "Deep learning helps robots grasp and move objects with ease"
+    excerpt: "Researchers have created new artificial intelligence software that gives robots the speed and skill to grasp and smoothly move objects, making it feasible for them to soon assist humans in warehouse environments."
+    publishedDateTime: 2020-11-19T17:46:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118141827.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 66
+  - title: "Deep learning helps robots grasp and move objects with ease"
+    excerpt: "Skyrocketing demand for online retail, triggered by the COVID-19 pandemic, has left many businesses struggling to fulfill orders while ensuring the safety of their warehouse employees. Researchers at the University of California,"
+    publishedDateTime: 2020-11-18T19:05:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--dlh111620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 56
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/248976_web.jpg"
+        width: 1440
+        height: 1108
+        isCached: true
+
+secured: "KumvoaFdOFJmdAXgqL7saHUrh+nK04tMOR6EqwvQlmUGHJytSHqnhHtqNcIzbePmwDAxr9gK/OROWQivmhroj7YmfF+OGapLYRAelmw8/HmPKa0pF7h8v9ZF7zCRiuD4XYGHPc0I1js1sJg01CP6zlsvtO0WV+vIvPMTfNt0kNi1TSglwRpjVF6X5htEifcYlMK86WnZ+qijtEfH7yu3YO4H+0EcUNE7qyADUFoyzjUSGsjTyDn6DcnBz3ITfjPItIFTtx4t069P2XurHKX4Qm++LSdL1Teyy70NDeMKCl2e0HQhZrvmPEEiGTtLKejVOQF1VyhjZZ4C/+siqvj96w+kV1jfEmO2eZHQnIIbHHQ=;7zqKz7k79ipQQrekCul/FA=="
+---
+

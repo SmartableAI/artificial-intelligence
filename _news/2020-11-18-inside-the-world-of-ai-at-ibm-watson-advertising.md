@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Run IBM OpenPages with Watson Anywhere"
+    excerpt: "At IBM, we understand that clients are looking for an AI-infused modern governance, risk management, and compliance (GRC) solution to confidently meet their business objectives in a dynamic world of risks and threats. In this spirit, our engineers have been hard at work updating our cloud technologies"
+    publishedDateTime: 2020-11-20T20:29:04Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-watson-anywhere/"
+    type: article
+    provider:
+      name: IBM
+      domain: ibm.com
+    quality: 117
+    images:
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/RegTech_Watson_blog_surprise_leadspace-990x498.png"
+        width: 990
+        height: 498
+        isCached: true
   - title: "Solve customer issues the first time  with Watson Assistant"
     excerpt: "All customers want when they call a company for help is to have their problem solved in one session as quickly as possible. They don’t want over-the-top service, they want resolution. That’s why first contact resolution (FCR) is one of the most important metrics in customer care, and why high FCR is"
     publishedDateTime: 2020-11-20T17:23:54Z
@@ -42,20 +56,6 @@ related:
     quality: 117
     images:
       - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/image-2.png"
-        width: 990
-        height: 448
-        isCached: true
-  - title: "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world"
-    excerpt: "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy"
-    publishedDateTime: 2020-11-19T20:30:08Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/"
-    type: article
-    provider:
-      name: IBM
-      domain: ibm.com
-    quality: 107
-    images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/ServiceNow_1-990x448-2.jpg"
         width: 990
         height: 448
         isCached: true

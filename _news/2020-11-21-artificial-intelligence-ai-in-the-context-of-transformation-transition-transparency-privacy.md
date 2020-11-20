@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-20T18:50:00Z
 originalUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Artificial-Intelligence-AI-in-the-context-of-transformation-transition-transparency-privacy-1114327"
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/features/Artificial-Intelligence-AI-in-the-context-of-transformation-transition-transparency-privacy-1114327"
 type: article
-quality: 41
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.ghanaweb.com/imagelib/pics/378/37867267.jpg"
@@ -83,6 +84,6 @@ related:
         height: 450
         isCached: true
 
-secured: "tUmFjZcKjNw6QaiEWTOF0ob5erWE3Fz1K5p2/SWU2a7CZ5XXrE+KezfYZFVQeT1OF2jgB7tCkCFM5pizfyOZCtL7hCa8kN5JnzhCGR2sJjh0I+ucVIjoLJDvZbvnEu/A0zPO+lXXWmFMRX3+6+X92XpN+PDszi6L3RsGG293Ni94Zi0swzONtKsEYoKD72yT1kt4rzBLyliK2q0EbYB1quB0yEu7a5tekVTK3kDJmyzd6eKOCBdfwAvqyMEGR1mlalGVwpJL+gF3aCUi6SyGzH4pquDGOUjmwU4+EFBaubBxmcaBaX8fCalAhh37DdqUTYSAxlt0lAyv+J5vogRX4xVOUTrZ6P6IMAsEkwD+f0A=;7f72katIYc7y2llp2Fh/LA=="
+secured: "Nb/EMVE6eFktlX8BucSghuXoFq/LUw8vY2gu8ArbLyIXETM/iPrvzG/oLV1tx7EGXD1b5z8kjIvdvR66TGum39DhKjjGFWZx/ey4Js0qfKnWIUgYTu+ZzqnaFo2AHzh07+4WmMi9eod21p5m/eGqBIGmXYfb0O36Djj1fMiCQBGCA6vEoyV+vT8jvyfboMFh5tN3Igqhq/WgK/j7a5BvB9cC73VS3CUuA2escApidJyZBPbI93G/CksI5Nj8UCo5e2Yyfap9TJvBkp4b0UpVwlOKGwrOlzum9RrwW6FHzV3mLCSxWOuGVap0jAepiuJnfXdVFPfth0yRal3Pn9zKvLJTJ/i2YqyvVcliWPxErN/yshmHEdOAwRJQDfTl0GQXRPbbmtvb3no+9VI7FdAs8kC5aDo19Qe2YcOW+sAty1pAthHY30MYgBzo0da86S38FAi3vL2XGOeln8x2pgcHgCL1ybowxvP0KJpjc7no7OfX5wfce9HXQe3orUL/psbE9ms6mHRPT6uhP/PC8B3vLA==;eN48OWaLcbvJqzVPPxC5JA=="
 ---
 

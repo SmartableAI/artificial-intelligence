@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-s
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://mma.prnewswire.com/media/524661/Exadel_Inc_Logo.jpg?p=facebook"
         width: 597
         height: 315
+        isCached: true
+  - title: "CBP wants to expand facial recognition"
+    excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
+    publishedDateTime: 2020-11-20T19:18:00Z
+    webUrl: "https://fcw.com/articles/2020/11/20/cbp-biometrics-facial-recog.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
+        width: 620
+        height: 300
         isCached: true
   - title: "Facial recognition in the healthcare industry"
     excerpt: "Facial recognition technology, the controversial technology that can match images of humans with a database of images to determine a person’s identity, is common in a host of industries from the electronics industry, wherein the technology is used to ..."

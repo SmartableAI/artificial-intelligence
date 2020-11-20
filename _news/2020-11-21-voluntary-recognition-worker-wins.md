@@ -101,6 +101,20 @@ related:
         width: 597
         height: 315
         isCached: true
+  - title: "CBP wants to expand facial recognition"
+    excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
+    publishedDateTime: 2020-11-20T19:18:00Z
+    webUrl: "https://fcw.com/articles/2020/11/20/cbp-biometrics-facial-recog.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
+        width: 620
+        height: 300
+        isCached: true
   - title: "Facial recognition in the healthcare industry"
     excerpt: "Facial recognition technology, the controversial technology that can match images of humans with a database of images to determine a person’s identity, is common in a host of industries from the electronics industry, wherein the technology is used to ..."
     publishedDateTime: 2020-11-17T05:50:03Z
@@ -111,6 +125,6 @@ related:
       domain: globalspec.com
     quality: 36
 
-secured: "RXcTM/b5WIOFkdyJ10pjbJTPpAIYb5c7MsTBnlkuwW+p1yxqeULfkOWYDd0D4+OV8/DgwxWB0NysWal6CP+94010zpIkls7AjprUDGW6Hmyxsja9wW9y/Q2PL+/3VVj/2dVDnMIrsqzuHNn0nHc7/sbQEoBbHqGAXu5zNuAXM9MTn8b0NJeJ7QBVf2qqggPbbAnfXeTCErzthxSj6t203aTTqJ7NQ4UNduTvqGXJU29bkZ13Q0cu8M55g6yfkjJRfCtEJskw5Fodb/Hncpt1kRMiGTeXraR05f0y9/2RilSPnzWMPjiUInMgW3LErr0zktxv016G6H+ojsiNFABDxsjSA2ahaY//BpcVDMcW3pA=;bFTdWpUn0T3q/gjk5bhAow=="
+secured: "9Lt0XG+C9tawrgr/LUp6iFSBnLpk95JQQ0VqnktDS4Lq8zxFGpF/x9zKTQRhnXgrWZe24Vdi1euoOypqNM9bT9/t9+XekDL5/a2jD6C9AVRz+B3yP9o/ZGpefoNX/gtQgu7RwhURmv282oH497Gcf3yEzB7/aN1rFQKnWgvT6h5gnQaSWrlh6G10/1gKEe8fqKicFmKFK0Ha4JzN3b5Qlu8uQZMgP87djMEXddBPguy4nkXMYS75D+bdpga9KsxsGoHuUlG0OIPPdm0WiV7rskYTuh63mnD+QfcI+bKhw2QdmLj/TUsh6OaZUi02bP4VUcM8FypZ0BWNGidlCevo0KL8puMKY1Rjka01Y/7tWlT2geROxCFtAktCINNSkJUXSXHC0lFr+VWo7VvAyayJ1udGhGi73x1BqG6tMzzu4Zm7I+5YTEYYhZ7Ix658mROMPaubMDFVFKz5evc1NPYnv+yao6IsdbhrZ3rtBkXrs+NhKxcTvrq/+cGh4De03Xz1UO2Na3EdgvG3xPr5q9vlyg==;M0+OvA5ir9g55iII5OdB5A=="
 ---
 

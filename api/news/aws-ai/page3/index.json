@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-27-softserve-achieves-aws-saas-competency-status.md",
+      "title": "SoftServe Achieves AWS SaaS Competency Status",
+      "excerpt": "We look forward to working with SoftServe as we migrate our microservices layer to Amazon Kubernetes Service (Amazon EKS) and explore AWS artificial intelligence (AI) and machine learning (ML ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201027005054/en/SoftServe-Achieves-AWS-SaaS-Competency-Status",
+      "originalUrl": "https://www.businesswire.com/news/home/20201027005054/en/SoftServe-Achieves-AWS-SaaS-Competency-Status",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201027005054/en/832962/23/MigrationCompetency_Data%26AnalyticsCompetency_DevOpsCompetency_SaaSCompetency_FinancialServicesCompetency_webready.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T05:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-dotdata-announces-enhancement-of-mlops-capability-with-dotdata-stream-and-amazon-sagemaker-integration.md",
       "title": "dotData Announces Enhancement of MLOps Capability with dotData Stream and Amazon SageMaker Integration",
       "excerpt": "Amazon SageMaker is a fully managed service that provides developers and data scientists with the ability to deploy machine learning (ML) models quickly. Now, with simple point-and-click ...",

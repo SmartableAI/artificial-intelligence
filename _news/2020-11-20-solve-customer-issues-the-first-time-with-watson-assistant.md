@@ -7,8 +7,8 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/solve-customer-issues-the
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/solve-customer-issues-the-first-time-with-watson-assistant/"
 type: article
 quality: 117
-heat: 137
-published: true
+heat: -1
+published: false
 
 provider:
   name: IBM
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world"
-    excerpt: "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy"
-    publishedDateTime: 2020-11-19T20:30:08Z
-    webUrl: "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/"
+  - title: "Run IBM OpenPages with Watson Anywhere"
+    excerpt: "At IBM, we understand that clients are looking for an AI-infused modern governance, risk management, and compliance (GRC) solution to confidently meet their business objectives in a dynamic world of risks and threats. In this spirit, our engineers have been hard at work updating our cloud technologies"
+    publishedDateTime: 2020-11-20T20:29:04Z
+    webUrl: "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-watson-anywhere/"
     type: article
     provider:
       name: IBM
       domain: ibm.com
-    quality: 107
+    quality: 117
     images:
-      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/ServiceNow_1-990x448-2.jpg"
+      - url: "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/RegTech_Watson_blog_surprise_leadspace-990x498.png"
         width: 990
-        height: 448
+        height: 498
         isCached: true
   - title: "Inside The World Of AI At IBM Watson Advertising"
     excerpt: "At IBM Watson Advertising, CMO Randi Stipes looks at AI as a practical toolset that has been in place for a decade rather than the vague promise of a rosier future. I recently asked Randi to give us an AI update."
