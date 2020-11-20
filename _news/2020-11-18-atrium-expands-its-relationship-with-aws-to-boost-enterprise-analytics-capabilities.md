@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
+excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
 publishedDateTime: 2020-11-18T11:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
 type: article
-quality: 63
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -90,6 +86,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "szrTQBkTJrsI/ptApqJNSsUu0pCNkSjMW6itUasVozEHn/hfDJmWYS2h79DvD9oy35aEHM8DVvO1CQ18TAGIVWSNIvZuRYM2+DkJSDzEGKoEQ064sKhlQlkxFalFFn+4iBYIlgHvMAjsqClpQXHrjxsSQ+2VPtn/jMLAUcwT50Xc1qomn8dLUumjUd/lmcTePTnxYJw6kTzuhHja33QF1ULoPBwqT0RbYBZWy1AFG5gRKG+5Tnrvd7uFWx5xp/HxyLwdY1Pu9iyjEIG6j+WBQILTwp7CxccOkQkxCIhUSLSZvrCmAnL4c/zrMt8hxwWXsF5BLqf3b7ofG+rsg2pnpSV0Vi09BX+lhqm04eG/REY=;wfDLTav9gaTkZj/g83D+Bg=="
+secured: "7O0lST4dyUkzSoKh7j3IuqeckOgmxRLlhb8TyYM7hOfmmXZiOHLHyeDsHrMM/PwoeAE1XYmBVj8wbpyjWSjokpazGVNWpZKCRvSsjnOhc2gss0cYRWQAtOdFaeeop3kW2FHxsZXYyGLsbgYPWLCaPqrcvKGFNQBXVtLEfnXwpcg2dVBXowYRDQLFQ9wpZ7WCxBFYzTIf+pYT8H0Nw0utJg58uXoqNL40vfM3v6z2zofL/8h/TBKXV9kcUur0v5jMIP9FTQoggPvaDBjHWqAjksNmrkQr0p321LboMCCgR5EHIPgjSLxoAZL6m/fgkkP4Yrt9Hjghy/q8sh9j+7jz9W4Gqr//Gg5+BfxALZd+uCw=;bOLfMt6YYKeXHSC0kbSp1w=="
 ---
 

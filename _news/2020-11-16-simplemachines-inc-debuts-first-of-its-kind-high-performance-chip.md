@@ -36,9 +36,9 @@ related:
   - title: "Artificial intelligence and machine learning course"
     excerpt: "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning."
     publishedDateTime: 2020-11-20T01:36:00Z
-    webUrl: "https://www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
-    ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
+    webUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+    ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
     type: article
     provider:
       name: The Tribune

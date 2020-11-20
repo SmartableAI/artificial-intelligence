@@ -3,10 +3,10 @@ category: news
 title: "Artificial intelligence and machine learning course"
 excerpt: "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning."
 publishedDateTime: 2020-11-20T01:36:00Z
-originalUrl: "https://www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
-webUrl: "https://www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
-ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
+originalUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+webUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
 type: article
 quality: 74
 heat: -1
@@ -51,6 +51,6 @@ related:
       domain: design-reuse.com
     quality: 19
 
-secured: "CYVspllwCi3NyGklXG/ljGrQ4tOmfbJI/LnOAtRhcssuDyk7PeFzxnDVHT/7oJWAKEsmSTYOC+OIQ7t8W+6xx3wWezdIoVcD9jyyzHjsQ5z1r44Zu8vNoU68P3mmoyM3bsNIcOxw0G5wxcHqfAQDigMJWRr/GVweTE5nx/vqF817tEQdF7tVjl2ZMUADc6GtJrwQnsQlEIUvADgSIrCNPIwl3BSbJtC0w7cTiqO/T7gPmdfttDUBgWegNxJwr7UV59ExdnDYI80vUpyg4dGniemaCh+I73QazL/p1U0SdDJlgcFzV/IUwRjS6aapG+66KFsTuDrsjzQpzYqgp0ZrrXyFn7sa7oiy3aw191RyNcU=;rqvJy/mXz0gbkJFxwv61Cg=="
+secured: "mNKCNqzdoAVTF2H6soY2K8ah81Z9pDbnu0aCSVtRcoDqnqdxG2q5CXuqLgSqGpozDP8zNcfmrl00kKEsR2RwT3xhPRebqTIzzeeliXNWpYdh5qx5HrilKIPOLQlnvLYDm/nQRhyBbcpR7YNaJnv+Ute5ctyVpx5R+15+ZwW/E14xm6J8uq+ILtMgGVmhgxSmecudHKRBj7bu4hoIzPUkIidoPrwbesiXNcvglc/K2STAeX6UDda59CslrtXtGZBPdiqR3GqmNj6tyfnV5xyUYGYmo2dEdnfn6EQRrSQV9Emj0seEWhy7qwG2em9z1eCdsFmMuUij0dDfImv5gJa+MBX9x6XmLhA8j2WAhU/H1u0=;Rd6gBWfPzFrM4ntW7pXarw=="
 ---
 

@@ -29,9 +29,9 @@ related:
   - title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
     excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
     publishedDateTime: 2020-11-18T11:07:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
     type: article
     provider:
       name: ZDNet
@@ -56,15 +56,6 @@ related:
         width: 564
         height: 400
         isCached: true
-  - title: "Self-driving shuttle startup raises $500 million in funding"
-    excerpt: "Nuro, a developer of self-driving shuttles, has raised $500 million in funding to help grow the company’s autonomous goods delivery service. The funding included participation from Fidelity Management & Research Company,"
-    publishedDateTime: 2020-11-15T13:37:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15954/self-driving-shuttle-startup-raises-500-million-in-funding"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 19
 
 secured: "wPYWXVgDotWsuswhFVpU1FPS0V40DSbdtbscrb0zBTFkcrCMc2/3BDcLxgrqNY99k5uOE12O4mbMqV1JXXrYUIHQ4e5GEl8jf2bvjKq3e8rB9mJb3IXnxzbcj6Ap3cgYkK2AsHNs0J7oj5rTBzhiBF5ThWt+W6pwZaYwgJiNz9lBZG9F8QRC756H5WQF2Ids8frOM6IYZjC/Kwqij5MWVLoX5ogJx2th+i1yXxqcJ5xgfpI7BwgoYxWkvn/vDKzyEHTBqfCRzbOXvUcTqmTaN9nQOSZHrMFA6YFKYJs+LtDXya+acn1skhU9pMwZGbbNdRq+8EHxVAF/KnX35XjZnspXkSac2bUxUSgM1QSVuaG2SFaJAWYQw1RcdZKMCgelITwRGrR8ZSMU7PXAAWNY6gINwmV44OXaPZOmFV5G/F4LvcqiOSMZDCtCGyci73VynDIw1HJwCSsVMjqa+wcJZZHAOhq289ScxQkJlOTMqyiC9GppJbJ8/W2k+5ZyTMDuzv9TlIU3bW9ZKfD9xI9r8g==;quX8DdBg8huAwhF+VkTIkw=="
 ---

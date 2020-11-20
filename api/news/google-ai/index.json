@@ -168,7 +168,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/16/deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -208,7 +208,8 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {

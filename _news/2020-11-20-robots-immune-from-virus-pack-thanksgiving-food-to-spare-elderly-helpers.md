@@ -2,30 +2,28 @@
 category: news
 title: "Robots, immune from virus, pack Thanksgiving food to spare elderly helpers"
 excerpt: "Immune from the coronavirus, industrial robotic arms are assembling donated holiday food in a Boston suburb, allowing elderly volunteers to stay home in a pandemic that has doubled hungry households."
-publishedDateTime: 2020-11-20T04:51:00Z
-originalUrl: "https://www.tribuneindia.com/news/schools/robots-immune-from-virus-pack-thanksgiving-food-to-spare-elderly-helpers-173118"
-webUrl: "https://www.tribuneindia.com/news/schools/robots-immune-from-virus-pack-thanksgiving-food-to-spare-elderly-helpers-173118"
-ampWebUrl: "https://www.tribuneindia.com/news/schools/robots-immune-from-virus-pack-thanksgiving-food-to-spare-elderly-helpers-173118"
-cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/schools/robots-immune-from-virus-pack-thanksgiving-food-to-spare-elderly-helpers-173118"
+publishedDateTime: 2020-11-20T04:08:00Z
+originalUrl: "https://www.reuters.com/article/usa-thanksgiving-robotics/robots-immune-from-virus-pack-thanksgiving-food-to-spare-elderly-helpers-idUSL1N2I529P"
+webUrl: "https://www.reuters.com/article/usa-thanksgiving-robotics/robots-immune-from-virus-pack-thanksgiving-food-to-spare-elderly-helpers-idUSL1N2I529P"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z3AQ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z3AQ"
 type: article
-quality: 57
-heat: 57
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_28713648.jpg"
-    width: 900
-    height: 675
-    isCached: true
-
-secured: "hfs+30zCAIcDjsbfMLZctIjEdb5MNMLlFm3HDMONtZC3HA5Taxs51NprIIbkO30j7uAPSUDl3pb6vvz1RFbbOlA9AcU5qirHpQGhBHMCqw3RGomcK1AU3GqCrZpKfF2h7Ww4hLWtCAeJ4iPwne4Ih0b8nluLZRWcpLss9fLsLD3IYKoRhgnGi3Zv2GVqxSokjORqRZFf18VCwJvoWHoSwvz8ie4JPEg7GdOxotZyCsTevwD57Cq6VqDD0TbIhiXk+w0mdDd23YWCAW40NCg0jHzdk+eD7EdRnMgIL6wkh8z9ajoSO3Z3VZ9G42QXePLxhRY33JGlxLP7OLSOyRbTMmx/nByubwnUC3i2yJT6jok=;UsyhPiIUPdwGlz4KKziT+g=="
+secured: "6ds/3lxOAlzdoepO++jghWH8z2rg6uVIygLBNjTj2jf1rBBANtcYRR4znyVw+CQUZ7GiuWzI6iw3kwyOQafX+kxg43/d/X75ggQBjNA+VvvE0WwiNIdRNsAqcUcrlAS4OP7MnAg7qb+bJ8TEsb77QC+PJeuAAnCW+Hd033Bbgg5M1YhmXENDVuTuO1B2HFAj3ADGHdD2Qog94u/lrZTnd0O2n/Y20tr602wrvdSe1EdySeJCYU/ADnpJPtXQ5rPhyw4y+bMClsuMMXfJpG0uS0s5AK35Hi4UUMYHldCa3YNnEnTYZdFj+6xoIAstzPptp8g9jeb8cXjI1T0nOYd0ooItcWoViJKZa1Ui3iCiOoM=;1faqIulLxhkgkqpNY7PyrA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.binghamton.edu/news/story/2772/deeper-tool-uses-deep-l
 webUrl: "https://www.binghamton.edu/news/story/2772/deeper-tool-uses-deep-learning-to-better-allocate-emergency-services/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers use deep-learning techniques to better allocate emergency services"
+    excerpt: "Emergencies, by their very nature, are hard to predict. When and where the next crime, fire or vehicle accident will happen is often a matter of random chance."
+    publishedDateTime: 2020-11-20T06:06:00Z
+    webUrl: "https://www.news-medical.net/news/20201120/Researchers-use-deep-learning-techniques-to-better-allocate-emergency-services.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201120/Researchers-use-deep-learning-techniques-to-better-allocate-emergency-services.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201120/Researchers-use-deep-learning-techniques-to-better-allocate-emergency-services.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 40
+    images:
+      - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
+        width: 973
+        height: 514
+        isCached: true
   - title: "DeepER tool uses deep learning to better allocate emergency services"
     excerpt: "Researchers at Binghamton University, State University of New York has used deep-learning techniques to analyze statistics on emergencies in NYC to suggest improved public safety through re-allocation of resources."
     publishedDateTime: 2020-11-19T19:33:00Z
