@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "meet_cleo"
   url: "https://twitter.com/meet_cleo"
-  followers: 13774
+  followers: 13787
 
 size: 11-50 employees
 yearFounded: 2016
