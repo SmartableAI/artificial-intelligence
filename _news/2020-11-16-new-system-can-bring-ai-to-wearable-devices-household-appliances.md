@@ -24,22 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "U.S. Military Wants to Bring Allies into AI Fold"
-    excerpt: "The Defense Department has kicked off a new initiative to bring like-minded nations together to work on AI policies and capabilities. In September, the Pentagon’s Joint Artificial Intelligence Center hosted the inaugural AI Partnership for Defense meeting with military officials from 13 nations including: Australia,"
-    publishedDateTime: 2020-11-15T22:30:00Z
-    webUrl: "https://www.nationaldefensemagazine.org/articles/2020/11/16/us-military-wants-to-bring-allies-into-ai-fold"
-    type: article
-    provider:
-      name: National Defense Magazine
-      domain: nationaldefensemagazine.org
-    quality: 39
-    images:
-      - url: "https://www.nationaldefensemagazine.org/-/media/sites/magazine/2020/11/istock-1203693985.ashx?h=500&w=878&la=en&hash=6AF05AFD5D458A7BE0DEF34C4ED4B6A6751D7B9C"
-        width: 878
-        height: 500
-        isCached: true
-
 secured: "PEqRQZx4jtxtBDChMnq0PApyyJh9p/46+WuMdnpJ6BlVIv+61Uyit17hUOUVBcopdKa36J4bSEEWdXEMSuw81DI4y4shAKr+MvszQaVrlqcdn4JKQehaU5WSFTSGExAlVX5slUSplkfzMrUZiGa6m46A94eGXjFGuuSwmkn6+mCOxacmzZNg111hYHeaTNeW5RrvSsdJmLCQ2aeXDrTu1Mx+U0ZmUX2+vk1+8lw58gqXRtPG2+ik84j1hNW/yAsqS+8k1gsXQABFI+qkVzXfEsLv+r2ydFvcvE6lWdHsHjd8114nB8i8TRciyVmR4GCMsCUu1Vo47GCVpwiy/Tu4xN1DWOwzfJuVaJMHZkd6r9E=;VvcujgccB2+zfAzaXiAo0A=="
 ---
 

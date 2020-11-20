@@ -3,10 +3,10 @@ category: news
 title: "Amazon and NXP team up on smart car cloud computing deal"
 excerpt: "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,"
 publishedDateTime: 2020-11-18T00:00:00Z
-originalUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-webUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-ampWebUrl: "https://www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+originalUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+webUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
 type: article
 quality: 74
 heat: 94
@@ -52,6 +52,6 @@ related:
       domain: telecompaper.com
     quality: 19
 
-secured: "8ISum22Cr+vqozbM73Ug/3Z7Ur1KGwzi+RVxisnf4EnySqbG2DFS62r+7ML5r2vzqjSoAgF76x1g29NGEvZgHsQVI0b0U83NkAi21fxxdZmzc5+6aBxceV5WyRH1Jq6gihl9DKChbfMSxVV9oNJFDQdD4mLOWshFr+L1RlTCPKm9DBFq8c9T9KMxz6qWVn+3Obr49iCybTp3RIsNCYivs9rVWMmmLNEi4dpCUXE8G1N9c1ePuDPyGE7qv7Joe/mkh6Be6LZ4bl89FtyXRf1smwfhY2nnB+AO5lAJcRrPSbtE8C7/Qrn2BqlFVm/wSDIRBvX+yxr5N9uWKTkzmXDxBH6+v/tnPPA+jymIyOozGw8Qr1WinSn2vGyk/UaKuufrE0Qw7tW+MaLRd0Tma9NeMSJp1FEZD7ltVuJGSvIO6qETaA9LgrH2WGI4JcK2ybsOdmM+SwsapRe9YO8jekQWyIHylIifx56QTCUmFuNKzTJ+uUxmtXIGJX80dCQ161K3fHrs85Pc6N6egHddQ9999w==;wng/wIimRp6r768qvFG1Xg=="
+secured: "vrRepFksmPZ6hBMOcdtUJ56ZHjKLIZoqgYcvearwAyyaCVvhOfAukjsaCTGWKCre4CpnfBk3pZuHxwY3+4dZumDxifzgXlnVqjs84HTs5gOztMIUWLZziNR7E5QDvdv/vtI6dGA3nUh6bF64RMO9GXq1h1cNAthrCF2nBEWpUQH8EvABrJRdI3X1k+mga+JIAElbE/ALuTdu4B+Sd3f4lxU41WeIpcPul6ckSFZrxbpFPL2erXXMOVVKvBeBEICVnwlGgwXNxG0zxfvsA/2WIdn09gCpdjTw78QPs6+rPA/e5RC0AJszh+BvFfImLwsFKsiLEKz5nbJWZ5+S4G7xRYlSHXhMscOZIwbChxRSplQ=;R7pBZ/SNJW4JyY2Ya4fTmg=="
 ---
 

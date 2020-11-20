@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-excerpt: "PR Newswire LONDON and NEW YORK, Nov. 20, 2020 LONDON and NEW YORK, Nov. 20, 2020 /PRNewswire/ --"
-publishedDateTime: 2020-11-20T12:08:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-khq7pelm"
-webUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-khq7pelm"
+excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch"
+publishedDateTime: 2020-11-20T14:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18462780"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18462780"
 type: article
-quality: 94
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - Microsoft AI
-
-images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI
 
 related:
   - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
@@ -158,6 +150,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "4iHY1KRSRzXTbYH9es8PPdez5vGLEG0NcHt6fxFMzOnwiBxDX3OHnAliY/G95wJj0ANaUyyLfLgYANKd3fHKMak8I4ZaHqqNa2rJKcP/g2QOHdvL1XJ83aftz3JcXVAVdNTfinGto5XRl3gtphasCopAtgv4zh78UcTOCdqXnzXCgb7qHC1aEyVrGc87NXn57Gw+BbLiqCC4wxsBYiUuho6Kk/qYa6kmTqUOnRssyOsqdB6Bl3k2M+oapQ/6FFojwQbUK3CdBOn+yACOoF3D9GZdqrijVLReJ1jDHzNEER1TqY3sFCTSCTHzgmyS7nFiBCDZfFqcrrEw1AnBe6dKsy/5q/MpRIlnH7Xm6U501eo=;Aqg8T2UCZCJZn3zw9mrAmA=="
+secured: "6LEnhlX3dnCibn4Q45pU7GkAqAl64YtIkn68avtr8V2rWEaF82Wi1FW6SlxvPqlq0NaRh61tsmcb90uT0QS6G2Qbjj963JUReJIvgT2cFNCfJXF06W8pJNFm4icKwVTrbzJyV+uvTiqu3+Vgq3iS/UESX9N9EeHEubv3h/aS9qipV20EW1VsXBPTcIRk2dr5Ixv9ZlixQFpT+ujZbAUQq45H0kSMqBe/92kAbjERMEfeC+YIGzMTVJ3Id7+H761ccs98xMy0YqMhmT637e5EIjbmMbnhjewafjYELM7a9ligYsktNxI0eg3QdPXpWsZYCqRrUFURmxKuSMmDkPArIXLpTb/RQLbGaC6NMQb9bjk=;Whg9iV3afNyKzE4TIyK2Ug=="
 ---
 

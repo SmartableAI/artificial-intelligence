@@ -43,6 +43,17 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Cognitive Computing Market is anticipated to exhibit a high CAGR of 23% over the forecast period of 2020 to 2030 - Persistence Market Research"
+    excerpt: "As per the findings of a new market research report by Persistence Market Research, the worldwide cognitive computing market reached US$ 14.8 Bn in 2019, and is anticipated to exhibit a high CAGR of 23% over the forecast period of 2020 to 2030."
+    publishedDateTime: 2020-11-20T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/cognitive-computing-market-is-anticipated-to-exhibit-a-high-cagr-of-23-over-the-forecast-period-of-2020-to-2030-persistence-market-research-1029825064"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/cognitive-computing-market-is-anticipated-to-exhibit-a-high-cagr-of-23-over-the-forecast-period-of-2020-to-2030-persistence-market-research-1029825064"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cognitive-computing-market-is-anticipated-to-exhibit-a-high-cagr-of-23-over-the-forecast-period-of-2020-to-2030-persistence-market-research-1029825064"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 18
 
 secured: "CO4E6P962w7ZeIW4bW1SgHgS2VtdpbSl5P1EnMyJwK2RzfpRK8cgqsHqi+igoF3J9pMv6dFbYBbxaqwgdLiS56FjvNzX4JVqqvnmA/ELZwPR5oYz3X8hI48UFcrVil/a7xGV4YTQ5W+Mc2c+vA+vrNa/f4bR9IcmCCJO/9o78pNovIxjeZPklBLVtOZj2MXrdkRdSpm8wAK6Xx0KCxKxaw0t68AcMdw6VWn4R14iHCxuRMp8zv6IKssb1uIGHbRz1leaQZ/FWL97yZw3HGqkQojxyrHetRdFt5/6YQsEOAogSAsZDwuFDLdWSga8Y9GdTjj+Wl6CZQEiIurZHwiBHT2tzTuZhoQE1KajJDwO8jw=;HGDIDbTdQrIKWsedd8pL7w=="
 ---

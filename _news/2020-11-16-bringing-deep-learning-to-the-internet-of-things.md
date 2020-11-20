@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/bringing-dee
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/bringing-deep-learning-to-the-internet-of-things-342878"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Bringing Quantum to Machine Learning"
-    excerpt: "But then, she says, “life happened”—jobs fell through and other opportunities opened up—and she found herself with a career in quantum machine learning. Today Schuld, who works for the Canadian quantum computing company Xanadu from her home in ..."
-    publishedDateTime: 2020-11-18T18:58:00Z
-    webUrl: "https://physics.aps.org/articles/v13/179"
-    type: article
-    provider:
-      name: American Physical Society
-      domain: aps.org
-    quality: 39
-    images:
-      - url: "https://physics.aps.org/assets/d8de94a6-c27e-4ed1-9e04-2490967a91d3/e179_1_thumb.png"
-        width: 500
-        height: 250
-        isCached: true
 
 secured: "SuHExn429lgb1eDfsxIM0HqSaX0PVm4iDJC7Wl4T/YGtTcHQz3Yp8ffSJWHsWLZLteAFgbUkuRGEYoGglPgoKWOyg6jAdW0dziTtjxOOB9FBT/hR6OEv8oVDTQnBcxCd5FHWxP6MkeeIoYH/vq15QRAnelF4LsdPBIeCR3t3CJbcEWXWirq1xI1ZnNxgCe3qQxf2BIPt1ZtipJqvjNWADmZ85UG9ikMrHmS3Ty/zgVcosV7doINNTSy5uw9VERe74Y5f8AxfFWp4AOcxEmjlz31WN56zsZK7Q0n+xgzBWGXJMWG+wJGhJNGQtoCwKQgXUqe2Y9ZG8zLp43RhjQiESmaKNjImMneC8I6rQ44q1p5JOFCEGCpWEmH6p4fxEmYreqlB5kQrSyg+cwN9eDAQGEF6/DahlTlL87VohfmrN/TH9BkPvlhBFrwgMy6KZJPh+U+4pNhvcW0FrzVokiqT11eZ3S2TCnkwJoMsFfdyXl4TCw1NZxccqPH2FBfzNByIOza7SOhuzXVe0ezpkXWaEw==;JHEtCAn6Xx4iDgo/hD9s5Q=="
 ---

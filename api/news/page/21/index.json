@@ -2,6 +2,247 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2020-11-03-concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.md",
+      "title": "Concordia researchers dig deep into the software powering self-driving cars",
+      "excerpt": "Peeking under the hood of a self-driving car will only tell you so much ... Developed by Chinese tech giant Baidu, the Apollo system is a leader in the ADS field. Its app-based Apollo Go Robotaxi service is already operating in a limited capacity on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/ginacody",
+      "originalUrl": "https://www.concordia.ca/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.html?c=/ginacody",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.concordia.ca/content/shared/en/news/stories/2020/11/03/concordia-researchers-dig-deep-into-the-software-powering-self-driving-cars.img.png/1604418121042.jpg",
+          "width": 768,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-03T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Concordia University",
+        "domain": "concordia.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-the-future-of-work-now-ai-assisted-skin-imaging.md",
+      "title": "The Future Of Work Now: AI-Assisted Skin Imaging",
+      "excerpt": "Dr. Andrew Weinstein uses Miiskin, an AI-based tool that allows patients to take images of and monitor changes in their skin.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa178d7f42e9f75640bae75%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2020/11/03/the-future-of-work-now-ai-assisted-skin-imaging/amp/",
+      "publishedDateTime": "2020-11-03T07:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-waymo-moved-its-self-driving-cars-in-san-francisco-to-a-secured-location-in-case-of-election-chaos.md",
+      "title": "Waymo moved its self-driving cars in San Francisco to a ‘secured location’ in case of election chaos",
+      "excerpt": "Waymo is pulling its autonomous vehicles out of San Francisco in anticipation of Election Day unrest, The Verge has learned. The Google spinoff is “temporarily pausing” its AV test operations in San Francisco on Tuesday and Wednesday and moving its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
+      "originalUrl": "https://www.theverge.com/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/qv3_n_wAPsJRKmiwUvwpFApoHpU=/0x0:3620x2343/1400x933/filters:focal(1521x883:2099x1461):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67731216/1142125645.jpg.0.jpg",
+          "width": 1400,
+          "height": 933,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
+      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547323/waymo-self-driving-cars-suspend-testing-san-francisco-election",
+      "publishedDateTime": "2020-11-03T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-how-to-make-artificial-intelligence-less-biased.md",
+      "title": "How to Make Artificial Intelligence Less Biased",
+      "excerpt": "AI systems can unfairly penalize certain segments of the population—especially women and minorities. Researchers and tech companies are figuring out how to address that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
+      "originalUrl": "https://www.wsj.com/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-253890/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-make-artificial-intelligence-less-biased-11604415654",
+      "publishedDateTime": "2020-11-03T07:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-4-things-to-consider-before-you-start-using-ai-in-personnel-decisions.md",
+      "title": "4 Things to Consider Before You Start Using AI in Personnel Decisions",
+      "excerpt": "In the hope of making better and fairer decisions about personnel matters such as these, companies have increasingly adopted AI tools only to discover that they may have biases as well.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions?ab=hero-subleft-2",
+      "originalUrl": "https://hbr.org/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions?ab=hero-subleft-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_03_2513286.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/4-things-to-consider-before-you-start-using-ai-in-personnel-decisions",
+      "publishedDateTime": "2020-11-03T06:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon.md",
       "title": "This supermarket has purchased two robotics firms to take on Amazon",
       "excerpt": "UK online supermarket Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
@@ -922,230 +1163,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-how-customers-can-maximise-google-cloud-free-tier.md",
-      "title": "How customers can maximise Google Cloud free tier",
-      "excerpt": "But until that day comes, the BigQuery database will answer one terabyte of queries each month and AutoML Translation will turn 500,000 characters from one language to another. Some developers use ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/684203/how-customers-can-maximise-google-cloud-free-tier/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/684203/how-customers-can-maximise-google-cloud-free-tier/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/dreamstime_s_154242123_8.jpg",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T18:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
-      "title": "Face recognition, pollution alert in tech upgrade",
-      "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79008996/79008996.jpg",
-          "width": 800,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "publishedDateTime": "2020-11-02T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-facial-recognition-used-to-arrest-protestor-at-trump-bible-photo-op.md",
-      "title": "Facial recognition used to arrest protestor at Trump bible photo op",
-      "excerpt": "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
-      "originalUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F11%252F03%252F6d%252F6a312ae876144e70902ef7e36d22a5d8.cc9a5.png%252F1200x630.png?signature=j_Jk2ogosSfTENbLK-N3BaeM0vE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
-      "publishedDateTime": "2020-11-02T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available.md",
-      "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
-      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
-      "publishedDateTime": "2020-11-02T16:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-walmart-scraps-plan-to-have-robots-scan-shelves.md",
-      "title": "Walmart Scraps Plan to Have Robots Scan Shelves",
-      "excerpt": "The retail giant is ending its push to have machines developed by Bossa Nova Robotics rove stores to keep track of inventory, after discovering during the coronavirus pandemic that humans can help get similar results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
-      "originalUrl": "https://www.wsj.com/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 232,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-253418/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/walmart-shelves-plan-to-have-robots-scan-shelves-11604345341",
-      "publishedDateTime": "2020-11-02T16:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

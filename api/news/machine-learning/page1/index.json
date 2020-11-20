@@ -312,8 +312,8 @@
       "title": "3 rising AI/ML startups from South Korea",
       "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663114",
-      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663114",
+      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661636",
+      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661636",
       "featuredContent": null,
       "highlight": null,
       "heat": 76,
@@ -349,6 +349,58 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-deep-learning-global-markets.md",
+      "title": "Deep Learning: Global Markets",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T20:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -619,8 +671,8 @@
       "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
       "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "featuredContent": null,
       "highlight": null,
       "heat": 108,
@@ -637,8 +689,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "publishedDateTime": "2020-11-18T03:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -662,8 +714,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -766,19 +818,19 @@
     {
       "path": "_news/2020-11-18-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
       "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
-      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous ... before Databricks and Azure were used to curate, ingest, and interpret the data.",
+      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "originalUrl": "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
       "publishedDateTime": "2020-11-17T19:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -802,9 +854,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "Microsoft AI"
       ]
     },
     {
@@ -1409,49 +1461,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery.md",
-      "title": "Australia Post using machine learning to tell you when to expect a delivery",
-      "excerpt": "It will give customers a two-hour window for when a delivery will arrive, although it has mapped it down to plus or minus 15 minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "originalUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "publishedDateTime": "2020-11-13T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

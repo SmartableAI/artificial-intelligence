@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18442221"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18442221"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 365
     height: 480
     isCached: true
+
+related:
+  - title: "AIDP and Andy Khawaja are Integrating AI to Create a Healthier Workforce"
+    excerpt: "Andy Khawaja and AIDP Develop AI Technology for Happier, Healthier, Productive Workers (Photo: Business Wire) Artificial intelligence in the workplace has gotten a mixed response. While some are sure that it will boost productivity,"
+    publishedDateTime: 2020-11-20T09:24:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-military-technology-medical-technology-health-military-intelligence-8c319011853e487ab615c455329380b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 36
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "uDW7tXYqBiTuGUUf4T0sqUiCwjcpW5zr0CXCxEt2aRealvN06nB3YlMHVqPqsqJdC7+HWk7d/++s4wH5ZBKJvnG4NdkEvX4YOZXB8+3uCEHhili+F6quTBUXPvT7aYjpFpJZ+eZ/BIH8dAZxgnn5cFSfnanO0pujIUIF1GD+xj/LH5Tjr7vLVud1giBxwEInrHIPltBOmSO/4yxXRHI4+wStEnyScDbBli8jlwgdYcgsI1Lr+0aVBYQh15uZFjICCB9BQseyKdlHOyOm1wgOCowqMLL5msV/yQpgP5pl4eSU4M72jEuiRk455WPELTDL/U8CCwOnkCGD7UeiK3euLSGitpXI4WbtTNdEHSJ1kuY=;pauX05HdMmOwNLSBkJH4Ag=="
 ---

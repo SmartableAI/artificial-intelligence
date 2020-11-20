@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Scandit Expands into the Japanese Market to Enable Digital Transformation Through Computer Vision and Augmented Reality"
-excerpt: "The company already has over 20 customers in Japan, including several major retail and transport & logistics brands. Tokyo, Japan - November 20, 2020 - Scandit, the leading technology platform fo"
-publishedDateTime: 2020-11-20T12:05:00Z
-originalUrl: "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation"
-webUrl: "https://www.realwire.com/releases/Scandit-Expands-into-the-Japanese-Market-to-Enable-Digital-Transformation"
+excerpt: "The company already has over 20 customers in Japan, including several major retail and transport & logistics brands. Tokyo, Japan - November 20, 2020 - Scandit, the leading technology platform for"
+publishedDateTime: 2020-11-20T12:09:00Z
+originalUrl: "https://www.digitalproducer.com/scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality/"
+webUrl: "https://www.digitalproducer.com/scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality/"
+ampWebUrl: "https://www.digitalproducer.com/scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality/amp/"
+cdnAmpWebUrl: "https://www-digitalproducer-com.cdn.ampproject.org/c/s/www.digitalproducer.com/scandit-expands-into-the-japanese-market-to-enable-digital-transformation-through-computer-vision-and-augmented-reality/amp/"
 type: article
-quality: 0
-heat: 0
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: realwire.com
-  domain: realwire.com
+  name: digitalproducer.com
+  domain: digitalproducer.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "6QszWbOklqAZnoiimeEFHZKD+oHC0+wzZpNSrUQQ5Zv3K594gxtM3zr/8dNatbDidM8KvZ6SB4UjiCQooxvu9r5JA+mZxULYMWlD9CUCrzTWsDIJCuQEuvhGqG2Eh+fXy91m5nPWrWT9E+npbLLfLGkAbxK1mno7YSrv4tRuhHmwFSQmci9BbLTEYVQk/w7rtuekDuTxLthopTCDVDHUs2eEE289k/PqaaX4/7MSkDUNFdNLdI0mbvotErLwtvxx+JCuiVDZtFBK4K/NXzyjnwrNJgS6/6LsU/K/jd6taIlrumwz+wa+ZqHijg77ILFIMPHBVlmVupyhxDgc9+sjUErSWNs3Kwv2myY2ayrSEO0=;oz5M4BQrqcRyymnm7LgacA=="
+images:
+  - url: "http://store.digitalproducer.com/wp-content/uploads/2019/07/dp_fb2.jpg"
+    width: 428
+    height: 428
+    isCached: true
+
+secured: "KRbjsrNyfPERxoRHcASq7rnS1y9qL33mO1V5pM59MXO/+wvsB8usm9MOhv20vXk/EsdN4hToWDQTwSoxOBtlakfEBRHPjMtgwjuRRss+KdnOrlCLoP9bqXb9ttltF5D6snhebqMsgMu5aweaQ3rSuiWzYbVR96u9dQjOmjmCoMEznxZPRo/UNazqu4nj4M7Vg6f0qR2s5OOkKvVnxBN2ePoKMGqpJY0uVonLWcTEAoVh+/LR1TG7wSwcgmqt/BgYkN2d0l0/Ng1fQmdhdDltgjcWCfoPQO+PpNhCKA2sYNjxAkANScNEvc/YHO/91dC5S5kGyw9/iV+9CU7QZGM3HGJC1S3DMe80dbzr80vr4xM=;5/DR37CD+4YPo4a2rpkDeQ=="
 ---
 

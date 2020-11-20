@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-20-luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet.md",
+      "title": "Luminar to supply lidar sensors for Mobileye's self-driving fleet",
+      "excerpt": "Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's <INTC.O> Mobileye subsidiary for its test fleet of self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
+      "originalUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541903564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0WV",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2801R3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2801R3",
+      "publishedDateTime": "2020-11-20T06:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts.md",
       "title": "Artificial intelligence could be used to hack connected cars, drones warn security experts",
       "excerpt": "Cyberattacks on vulnerabilities in connected vehicles could have very real physical consequences if security isn't managed properly.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -50,7 +102,8 @@
       ],
       "topics": [
         "AI",
-        "AI in Security"
+        "AI in Security",
+        "AI in Robotics"
       ]
     },
     {
@@ -154,6 +207,57 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo.md",
+      "title": "Why Data, Software And AI Are Key To Growth: A Q&A With Blue Yonder’s CFO",
+      "excerpt": "Blue Yonder's AI-enabled supply chain solutions are mitigating disruptions in today's digital world. Learn more about how companies can face these challenges and grow their workforce in my interview with Blue Yonder's CFO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
+      "originalUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c0d24def72c0e10baee1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D293%26cropY2%3D3533",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
+      "publishedDateTime": "2020-11-20T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -761,7 +865,7 @@
       "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN27Z2FM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1130,103 +1234,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-natural-language-processings-impact-on-marketing.md",
-      "title": "Natural Language Processing's Impact on Marketing",
-      "excerpt": "So what does the surge in NLP use cases and technologies mean for AI in marketing? It’s huge if you ask Paul Roetzer, CEO and founder of the PR 20/20 and the Marketing Artificial Intelligence Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/9b53e77ff6714bfa8801c955a1e1bfc5.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "publishedDateTime": "2020-11-19T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-zapata-raises-38-million-for-quantum-machine-learning.md",
-      "title": "Zapata raises $38 million for quantum machine learning",
-      "excerpt": "Zapata Computing has raised $38 million for its quantum computing enterprise software platform. The figure, which brings its total funding to over $64 million, will be put toward Zapata’s core ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/i.ytimg.com/vi/5h_i4Po9Wds/hqdefault.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "publishedDateTime": "2020-11-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-apples-macbook-air-with-m1-chip-everything-you-need-to-know.md",
+      "title": "Apple's MacBook Air with M1 chip: Everything you need to know",
+      "excerpt": "Get all the specs, new features, pricing, and availability details for Apple's first M1-powered MacBook Air laptop, and find out how it compares to the previously released Intel-based models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "originalUrl": "https://www.techrepublic.com/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/10/5f6122c0-311c-4a3f-bd1b-72f3b13d6df0/resize/1200x/7de716bd6a27732001c743db1c50dcdd/macbook-air-with-m1-features.jpg",
+          "width": 1200,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/apples-macbook-air-with-m1-chip-everything-you-need-to-know/",
+      "publishedDateTime": "2020-11-11T14:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-intel-unveils-gpu-for-servers-with-tencent-gamestream-and-ubitus.md",
       "title": "Intel unveils GPU for servers with Tencent, Gamestream, and Ubitus",
       "excerpt": "Intel showed off a long-awaited chip today, the first standalone graphics processing unit (GPU) for the server market.",
@@ -1413,49 +1465,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark.md",
-      "title": "Huawei Mate 40’s HiSilicon Kirin 9000 Chip Is On Rank 1 In AI Benchmark",
-      "excerpt": "Huawei has officially introduced the Mate 40 series. The lineup is the latest flagship of the brand and is featuring top-notch specifications",
-      "sourceUrl": null,
-      "webUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
-      "originalUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theindianwire.com/wp-content/uploads/2020/10/SAVE_20201026_015401.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
-      "cdnAmpWebUrl": "https://www-theindianwire-com.cdn.ampproject.org/c/s/www.theindianwire.com/ai/huawei-mate-40s-hisilicon-kirin-9000-chip-is-on-rank-1-in-ai-benchmark-296184/?amp",
-      "publishedDateTime": "2020-10-26T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Wire",
-        "domain": "theindianwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery.md",
+      "title": "Australia Post using machine learning to tell you when to expect a delivery",
+      "excerpt": "It will give customers a two-hour window for when a delivery will arrive, although it has mapped it down to plus or minus 15 minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "originalUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
+      "publishedDateTime": "2020-11-13T00:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-system-brings-deep-learning-to-internet-of-things-devices.md",
       "title": "System brings deep learning to “internet of things” devices",
       "excerpt": "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT).",
@@ -216,33 +259,24 @@
     {
       "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
+      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "webUrl": "https://www.thaipr.net/it/1033083",
+      "originalUrl": "https://www.thaipr.net/it/1033083",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T11:48:00-08:00",
+      "publishedDateTime": "2020-11-11T17:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "thaipr.net",
+        "domain": "thaipr.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1151,6 +1185,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-06-ai-accurately-detects-radiographic-sacroiliitis-in-axial-spondyloarthritis.md",
+      "title": "AI accurately detects radiographic sacroiliitis in axial spondyloarthritis",
+      "excerpt": "This study set out to develop and validate an artificial neural network model that uses AI technology to detect definite radiographic sacroiliitis as a manifestation of AxSpA. \"Conventional X-ray ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/acor-aad110520.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/acor-aad110520.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-tech-news-artificial-intelligence-and-the-human-brain.md",
       "title": "Tech News: Artificial Intelligence and the human brain",
       "excerpt": "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds.",
@@ -1374,93 +1451,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-how-leveraging-ai-and-machine-learning-can-give-startups-a-competitive-edge.md",
-      "title": "How leveraging AI and machine learning can give startups a competitive edge",
-      "excerpt": "While AI and machine learning are changing the way businesses operate, startups may still struggle to leverage them effectively, with challenges such as cost and a lack of talent among the chief concerns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge",
-      "originalUrl": "https://www.techinasia.com/leveraging-ai-machine-learning-give-startups-competitive-edge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T18:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-intel-acquires-machine-learning-platform-cnvrgio-to-continue-ai-push-techcrunch.md",
-      "title": "Intel acquires machine learning platform Cnvrg.io to continue AI push - TechCrunch",
-      "excerpt": "TechCrunch reports that Intel (NASDAQ:INTC) has acquired Cnvrg.io, which provides an operating system for AI and machine learning.Cnvrg.io's platform helps data scientists build and run AI models, which can then be used to train,",
-      "sourceUrl": null,
-      "webUrl": "https://cnvrg.io/",
-      "originalUrl": "https://seekingalpha.com/news/3631130-intel-acquires-machine-learning-platform-cnvrg-io-to-continue-ai-push-techcrunch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://406167-1278791-raikfcquaxqncofqfm.stackpathdns.com/wp-content/uploads/2020/06/cnvrg-new-cover-1024x536.png",
-          "width": 1024,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T07:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

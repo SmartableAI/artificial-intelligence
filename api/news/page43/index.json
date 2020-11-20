@@ -2,6 +2,223 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-10-19-natural-language-processing-market.md",
+      "title": "Natural Language Processing Market",
+      "excerpt": "The research report on the Natural Language Processing Market provides professional in-depth analysis available on the market status and latest trends, including growth, opportunities, competitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2163173/natural-language-processing-market-to-witness-huge-growth",
+      "originalUrl": "https://www.openpr.com/news/2163173/natural-language-processing-market-to-witness-huge-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta19584312_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2163173/natural-language-processing-market-to-witness-huge-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2163173/natural-language-processing-market-to-witness-huge-growth",
+      "publishedDateTime": "2020-10-18T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold.md",
+      "title": "4 AI Stocks That Will Surge in 2021 as Artificial Intelligence Takes Hold",
+      "excerpt": "Artificial intelligence (AI ... based company is involved in everything from healthcare and smart phones to self-driving cars and drones. Alphabet today is quite a diverse business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19",
+      "originalUrl": "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/4-ai-stocks-that-will-surge-in-2021-as-artificial-intelligence-takes-hold-2020-10-19?amp",
+      "publishedDateTime": "2020-10-18T22:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
+      "title": "AI & ML latest: Google disbands another AI ethics committee",
+      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
+          "width": 370,
+          "height": 229,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computing",
+        "domain": "computing.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-silent-eight-leverages-ai-to-detect-and-solve-financial-fraud.md",
+      "title": "Silent Eight leverages AI to detect and solve financial fraud",
+      "excerpt": "Silent Eight, a cybersecurity startup leveraging AI to combat fraud, today closed a $15 million funding round. The company says the funds will be used to accelerate current hiring efforts and fuel ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/18/silent-eight-leverages-ai-to-detect-and-solve-financial-fraud/",
+      "originalUrl": "https://venturebeat.com/2020/10/18/silent-eight-leverages-ai-to-detect-and-solve-financial-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/AI_security-e1602003587272.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/18/silent-eight-leverages-ai-to-detect-and-solve-financial-fraud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/18/silent-eight-leverages-ai-to-detect-and-solve-financial-fraud/amp/",
+      "publishedDateTime": "2020-10-18T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-10-19-new-ai-machine-learning-gains-a-toehold-on-synthetic-biology.md",
+      "title": "New AI Machine Learning Gains a Toehold on Synthetic Biology",
+      "excerpt": "The scientific study of life and living organisms, biology, is a complicated endeavor, as is the engineering field of synthetic biology. Synthetic biology is the science of creating or redesigning new biological systems found in nature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "originalUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.psychologytoday.com/sites/default/files/styles/article-inline-half-caption/public/field_blog_entry_images/2020-10/pic0092.jpg?itok=rqI8-ytS",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/gb/blog/the-future-brain/202010/new-ai-machine-learning-gains-toehold-synthetic-biology?amp",
+      "publishedDateTime": "2020-10-18T20:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-ai-speeds-object-recognition-for-recycling.md",
       "title": "AI speeds object recognition for recycling",
       "excerpt": "The system developed by the team uses a Raspberry Pi running an AI object detection algorithm and a high-resolution camera to identify paper, cardboard, plastic, metal, and glass in household rubbish. The algorithm uses transfer learning, a machine ...",
@@ -894,230 +1111,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-nvidia-releases-a-59-jetson-nano-2gb-kit-to-make-ai-more-accessible-to-developers.md",
-      "title": "NVIDIA Releases a $59 Jetson Nano 2GB Kit to Make AI More Accessible to Developers",
-      "excerpt": "However, as developers, learning AI skills for professional programming has been difficult. The barrier is the GPU. Most deep learning algorithms and frameworks are designed to run on the GPU.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
-      "originalUrl": "https://www.infoq.com/news/2020/10/nvidia-jetson-nano-2gb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.infoq.com/statics_s2_20201020-0324/styles/static/images/logo/logo-big.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-17T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-sensiml-to-present-at-st-developers-conference.md",
-      "title": "SensiML to Present at ST Developers Conference",
-      "excerpt": "Learn how the SensiML Analytics Toolkit, TensorFlow Lite, and ST's SensorTile.Box can provide a powerful and flexible IoT development arsenal for innovating new smart wearables, IoT, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/sensiml-to-present-at-st-developers-conference-301152031.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/891804/SensiML_Logo.jpg?p=facebook",
-          "width": 2059,
-          "height": 1079,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-17T13:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-how-home-depot-is-enhancing-the-ecommerce-experience-with-ai.md",
-      "title": "How Home Depot Is Enhancing The Ecommerce Experience With AI",
-      "excerpt": "Online retail is changing in profound ways as consumers change their buying patterns. With the shift to work-from-home and school-at-home changing the way people live, work, and socialize. Retailers are rethinking their sales,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8b07adb6fa632e14647138%2F0x0.jpg",
-          "width": 1200,
-          "height": 1296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/",
-      "publishedDateTime": "2020-10-17T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-udacity-and-microsoft-launch-ml-engineer-on-azure-course.md",
-      "title": "Udacity and Microsoft Launch ML Engineer on Azure Course",
-      "excerpt": "Events offer a Goldilocks-style approach in which real-time APIs can be used as the foundation for applications which is flexible yet performant; loosely-coupled yet efficient. Apache Kafka offers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
-      "originalUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-17T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-nvidia-will-build-the-worlds-fastest-ai-supercomputer.md",
-      "title": "Nvidia will build the 'world's fastest AI supercomputer'",
-      "excerpt": "Nvidia and Cineca, an Italian inter-university consortium and major supercomputing center, have announced plans to build ‘the world’s fastest AI.’ The upcoming",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
-      "originalUrl": "https://www.techradar.com/in/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/EAfqRtmmM6R8WamHJLcRtN-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
-      "publishedDateTime": "2020-10-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

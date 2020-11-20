@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/"
 type: article
-quality: 94
-heat: 94
+quality: 96
+heat: 96
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Robotics
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/7d823c87-e76e-493d-b656-1a90aa737182/thumbnail/1200x675/eb1c7cb1954746c9aa0ad732a26af89b/20200930-boulton-danny.jpg"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "4v7xlItNBSmJcbsFSz9PSWIRZzkUFvUsv14CAsi51exrBqUBLsOBCAVM/wZ5g6mCrf1f9St20F4gv+12iLXUHJSw8O1oimM/W9MBPpOuGOcfqov7eAwmhnIvwypSdQcGOwzsyRlRKMZuaAghdPclifXVHac07T20tDDyIzJ8GIxc/TzUiWtyCa518ySB787sZzv85GgPHjmRlmaAx5i6+4f1+3WfP+/CjnKiBbrWbdRQGMm6oS1RUxDudbdG1r8RclWSC3WoKM1AUnqnUGYsPROCxIyF3CprmjBkJLGOZGMc6wcLY/tSJ4iDHZ7IYdjmJHeUlY836jV+CN/MnbQE77CLg0dLKwWIvQmkTLjuQUg=;bE7nWdOID5WJmxFLUxVdVA=="
+secured: "Fd9sGKjHXo5eZ2wrnIgGZ9sju29/7BhGUsYuPb36KciGybrtkUwwUlBc/TerKiEw1K6s1WbgqOT6dCFPPymDq0HZ6lQJ+h/gJvGxTygSY1CnzjLNfYtSKuin05+AA3zWtSoN5WDWvCrJEAByozT9NZShjZpbOgRON/pFMYnEGPmCiPMeNjdskQPJ4ehV+zdz/z3VJpaqwkMo1RDSBhmCXN62UQHHWrl4hKSlLnAwP8uheiaD1ePqKtqGNcD2h5Rvi2aQgsJlt3EUfesOzo4RFzMb4MchcLHDKr9S53EdQJqJIlrM3tItuF4MxKsAPr7IT/q8gObg89JFC0id0lzWBYAbkfYKdsF+vDT98qu7+bDqL17b+q+EfU/J1t7Q1GcfVFTI1n/kwnMOmGqXvryHx/JTonqXFPk2OXTrXfcfvYesmxeW69u70TZ/gs9pYVzbXc+/ISVX30H6m0+LQos1QfOmbcfMrBdGNlbMe/g455b76KX+xsB2SFixUkjNFoH5Swk/CEVClFDRdMYFFARVvg==;v1JuIxWJk4NLW2sw5GRv5w=="
 ---
 

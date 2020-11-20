@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-23-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
+      "title": "AI and machine learning: Powering the next-gen enterprise",
+      "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/professional/sites/10/347789615.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-deep-learning-system-software-market.md",
+      "title": "Deep Learning System Software Market",
+      "excerpt": "The Global Deep Learning System Software market was worth USD +2.28 Billion in 2020 and is expected to reach USD +18.16 Billion by 2027, at a CAGR of +40% from 2020 to 2027. Deep Learning System ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
+      "originalUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-dsp-group-announces-support-of-tensorflow-lite-for-microcontrollers-on-its-dbmd7-aiml-soc.md",
       "title": "DSP Group Announces Support of TensorFlow Lite for Microcontrollers on its DBMD7 AI/ML SoC",
       "excerpt": "TensorFlow Lite for Microcontrollers is an extension of TensorFlow Lite that addresses the need to run ML on memory-constrained devices with only kilobytes of memory. It comes with a specific set ...",
@@ -1301,84 +1387,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-are-we-overly-infatuated-with-deep-learning.md",
-      "title": "Are We Overly Infatuated with Deep Learning?",
-      "excerpt": "The love affair with deep learning runs deep. After all, deep learning is responsible for much of the advancements in machine learning we’ve realized in the past decade. But are we overly infatuated with deep learning? Read Ronald Schmelzer’s article ...",
-      "sourceUrl": null,
-      "webUrl": "https://ctovision.com/are-we-overly-infatuated-with-deep-learning-2/",
-      "originalUrl": "https://ctovision.com/are-we-overly-infatuated-with-deep-learning-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ctovision.com",
-        "domain": "ctovision.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning.md",
-      "title": "WEBINAR - BERT-based Open Domain Question Answering using DeepPavlov Library on Azure Machine Learning",
-      "excerpt": "We will also demonstrate how this model can be trained in a cost-effective manner on Azure Machine Learning, using different compute options for data preparation and training. Since the beginning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
-      "originalUrl": "https://www.sfstation.com/webinar-bert-based-open-domain-question-answering-using-deeppavlov-library-on-azure-machine-learning-e2414204",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.sfstation.com/assets/images/events/04/24142041702899750_orig.gif",
-          "width": 290,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-17T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SF Station",
-        "domain": "sfstation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
