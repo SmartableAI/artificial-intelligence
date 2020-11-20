@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-ground
 webUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
 type: article
 quality: 27
-heat: 27
+heat: 37
 published: false
 
 provider:

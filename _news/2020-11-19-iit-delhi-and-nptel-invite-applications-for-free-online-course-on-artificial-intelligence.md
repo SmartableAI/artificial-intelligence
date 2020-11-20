@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.ciol.com/wp-content/uploads/2020/06/free-online-courses.jpg"

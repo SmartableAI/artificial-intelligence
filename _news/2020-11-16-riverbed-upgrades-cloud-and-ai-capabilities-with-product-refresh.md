@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/11/16/riverbed-upgrades-cloud-ai-cap
 webUrl: "https://siliconangle.com/2020/11/16/riverbed-upgrades-cloud-ai-capabilities-product-refresh/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

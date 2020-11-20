@@ -7,7 +7,7 @@ originalUrl: "https://www.armytimes.com/land/2020/11/16/us-armys-heavy-ground-ro
 webUrl: "https://www.armytimes.com/land/2020/11/16/us-armys-heavy-ground-robot-reaches-full-rate-production/"
 type: article
 quality: 39
-heat: 39
+heat: 49
 published: false
 
 provider:

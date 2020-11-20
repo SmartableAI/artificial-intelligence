@@ -7,7 +7,7 @@ originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint
 webUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/source/GovDelivery/"
 type: article
 quality: 46
-heat: 46
+heat: 56
 published: false
 
 provider:

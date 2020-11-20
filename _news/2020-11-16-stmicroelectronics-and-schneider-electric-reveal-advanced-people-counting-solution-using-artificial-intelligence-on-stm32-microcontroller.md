@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/stmicroelectronics-and-schnei
 webUrl: "https://www.nasdaq.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution"
 type: article
 quality: 16
-heat: 16
+heat: 26
 published: false
 
 provider:

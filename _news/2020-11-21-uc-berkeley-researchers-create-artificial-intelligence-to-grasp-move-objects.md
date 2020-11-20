@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i0.wp.com/www.dailycal.org/assets/uploads/2020/11/robots_Ken-Goldberg_courtesy.jpg?ssl=1"
@@ -49,6 +50,6 @@ related:
         height: 1108
         isCached: true
 
-secured: "KumvoaFdOFJmdAXgqL7saHUrh+nK04tMOR6EqwvQlmUGHJytSHqnhHtqNcIzbePmwDAxr9gK/OROWQivmhroj7YmfF+OGapLYRAelmw8/HmPKa0pF7h8v9ZF7zCRiuD4XYGHPc0I1js1sJg01CP6zlsvtO0WV+vIvPMTfNt0kNi1TSglwRpjVF6X5htEifcYlMK86WnZ+qijtEfH7yu3YO4H+0EcUNE7qyADUFoyzjUSGsjTyDn6DcnBz3ITfjPItIFTtx4t069P2XurHKX4Qm++LSdL1Teyy70NDeMKCl2e0HQhZrvmPEEiGTtLKejVOQF1VyhjZZ4C/+siqvj96w+kV1jfEmO2eZHQnIIbHHQ=;7zqKz7k79ipQQrekCul/FA=="
+secured: "7aHrOolGe6tHGGDWpFQcJBkpZhgqPuf/YM4janDHeltVHLzeXRqi4QvPr6eplQJc1U43GPOOXUuQKz8jY43iCBkyVAX+xfsfYGstH0iSzrN/xsN/TKOTKM8j9xt20uub8K9Al0QgT5CKd3hhGNgdohZ6gtUZvHytTKqgWpD3mEtY0vLxmluk0k0QhOIiig7MjaQhc7fGEcMb6ufeUITMuxRj6mvR8nymDTVjQnog1GA0S+ycuqiTQ7RmgNUr1H0nWOBt7Sq/4f4f5ry51lJB2/QN7SdeTb4ytSJIh9jTX1a4oe+u1Nsra1faIkvETVSu9RhfRrqTCmK5XU6XoTnMUhv8U+H0UQ0htfjKafNu9tDGg8Bb2KeSV5XKLLBFC8+71jP5G8jzwbviWtTdaVis67ck0QXLtAQD21I8OrHbELMkbaa2TwdGUObn9IoUdW+6hiMbqUJ1ath92fDxTf2pMENQJ2wwdPEKlMmfum/lzeWMbWgeQO44FoI3KOjAB/fppv9Q7f4qXgoVHaPlxPM3yw==;+EPVpuwCTX0KuLBoCEwzfA=="
 ---
 
