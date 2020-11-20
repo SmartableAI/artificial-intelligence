@@ -7,7 +7,7 @@ originalUrl: "https://www.newelectronics.co.uk/electronics-news/simplemachines-u
 webUrl: "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence and machine learning course"
+    excerpt: "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning."
+    publishedDateTime: 2020-11-20T01:36:00Z
+    webUrl: "https://www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
+    ampWebUrl: "https://www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs-careers/artificial-intelligence-and-machine-learning-course-172710"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg"
+        width: 330
+        height: 220
+        isCached: true
   - title: "SimpleMachines, Inc. Debuts First-of-its-Kind High Performance Chip"
     excerpt: "As traditional chip makers struggle to embrace the challenges presented by the rapidly evolving AI software landscape, a San Jose startup has announced it has working silicon and a whole new future-proof chip paradigm to address these issues."
     publishedDateTime: 2020-11-16T13:56:00Z

@@ -43,6 +43,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Artificial intelligence-based tool may help diagnose opioid addiction earlier"
+    excerpt: "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder."
+    publishedDateTime: 2020-11-20T02:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201119153952.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
 
 secured: "SJUekEkwbV+1NAy5v0q8dxZyIceKux9s4NO3cj/EFYUGIa6ZJQNDS2JK0thHNpTv5ESwU89SN2Pu5luwC1ty+GW7dKs559YQnWUJbimCZ8I1uH157STvb9sXW/6qH9mMzuKh2JCKBKs1rOpo1vDNWMocQQdKNTQFIbzTmg7ci5sI6p4uGJl6Z/CM87flmhsPpiXULB91QHpvNr8zrA2b9E90nFYxPKO8+I3nuhQt8iOutjOR4TlOe+XDK5i/gsnZY20Ms07a4PjGKH7ybBtqNRAw+WE+kPoFBaRYiZbxEPdDkD/pxpYp3cNPXQdHTv9LloGQzwrr5xS4L26uuHKf/SFKaECuS0CDz9SlNoES+2A=;1DtRLE0iLdYrbFaTeTv4sw=="
 ---

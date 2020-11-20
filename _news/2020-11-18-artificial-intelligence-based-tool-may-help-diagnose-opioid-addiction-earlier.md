@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-based
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: Medical Xpress
@@ -43,6 +43,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence-based tool may help diagnose opioid addiction earlier"
+    excerpt: "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder."
+    publishedDateTime: 2020-11-20T02:13:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201119153952.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
 
 secured: "SqJx1FQTvaHy8rR9/UCjo6BuJmHR/u66OdVU5TbU6CwvQhbu+7kKuY/Ak1O+kNc/bk2F/A0nFYpDHW0JqrQlcGxjoWpSqP7fYdSP3uyyddxmV5ZArlqSPIjs7iE1phOGQL3gRqPfJURptoo93TxFCPFqp0rjXbkX0vyqnDiLOIcpP7ipQCroR4zJNy5FyK1M84lb5LR5H6XlpANVfpG2Eoo2K+hm45l3EJjNJQ70pSvZpUrWq3qfBEhze6DlNayXnSQbztEUXsDScGsovGFcPoD4DIZzaJOLK8GVi/dcKbYrDOr1dqCaEWLzbUYaMiaCI3SBKXpeWGvCRBgRUcM4pUipg7x9ayGudhGxoE2fW4zsUP7BQYvgjwduNhHuM4Mw14gwWxahQMhGyP7fyyHE/KBHzRZdqKycgG/6IiO/RsydvpYJ9EmgnehONUC/DSTEoIGIyLtA+Q//Ex7m7TnDz41N1YESdURzSkLpbMazQyTdSPUzJ0ufYhkw0akbYfuFLMEtJjza/hvdiXhJdjJKTg==;q7Y3rLkOqvOtimfkEE+cPg=="
 ---

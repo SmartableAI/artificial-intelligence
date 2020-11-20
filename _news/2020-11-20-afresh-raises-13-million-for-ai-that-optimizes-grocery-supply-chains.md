@@ -1,12 +1,12 @@
 ---
 category: news
-title: "BeyondMinds raises $15 million to drive enterprise AI adoption"
-excerpt: "BeyondMinds, which is developing a platform to facilitate enterprise AI deployments, has raised $15 million in venture capital."
-publishedDateTime: 2020-11-19T13:02:00Z
-originalUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/"
-webUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/"
-ampWebUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
-cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+title: "Afresh raises $13 million for AI that optimizes grocery supply chains"
+excerpt: "Afresh, a startup developing an AI platform that optimizes grocery supply chains, has raised $13 million in funding."
+publishedDateTime: 2020-11-19T20:00:00Z
+originalUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/"
+webUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/"
+ampWebUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
 type: article
 quality: 87
 heat: -1
@@ -24,9 +24,9 @@ topics:
   - AI
 
 images:
-  - url: "https://venturebeat.com/wp-content/uploads/2020/11/8-e1605647757610.jpg?w=1200&strip=all"
+  - url: "https://venturebeat.com/wp-content/uploads/2020/11/Store2-e1605763831945.jpg?w=1200&strip=all"
     width: 1200
-    height: 600
+    height: 598
     isCached: true
 
 related:
@@ -46,21 +46,21 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Afresh raises $13 million for AI that optimizes grocery supply chains"
-    excerpt: "Afresh, a startup developing an AI platform that optimizes grocery supply chains, has raised $13 million in funding."
-    publishedDateTime: 2020-11-19T20:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/"
-    ampWebUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
+  - title: "BeyondMinds raises $15 million to drive enterprise AI adoption"
+    excerpt: "BeyondMinds, which is developing a platform to facilitate enterprise AI deployments, has raised $15 million in venture capital."
+    publishedDateTime: 2020-11-19T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
     quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Store2-e1605763831945.jpg?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/8-e1605647757610.jpg?w=1200&strip=all"
         width: 1200
-        height: 598
+        height: 600
         isCached: true
   - title: "Outcomes4Me Raises $4.7 Million to Help Patients Navigate Cancer Care Using AI"
     excerpt: "Outcomes4Me Inc., developer of a free mobile app and platform to navigate cancer treatment and care, today announced that it has raised $4.7 million in funding, led by Asset Management Ventures with participation from Sierra Ventures,"
@@ -74,6 +74,6 @@ related:
       domain: businessinsider.com
     quality: 63
 
-secured: "Glp6nlkH2LqAiSdYIjeMWVCmjr3tMtfNw6H1WxVedjHRmUd+LBoLXBqyCA5lY+4u9s0NbSnRUnrRPs5TAtyv7Hy8l3nKTvows89PZFM1svFkO/b0kBQFRcNZgsXyGlCQGBWmMOEI3MnFMPHvKV/xzBIi8PagYusmZMynTABnDR3JrLrNEK6FbeiQ0NjEpLfndnk0J/AuDAjCKCIDFYHMWnQIGVv752njhq2gTCPJBRZhqUmZxSJgYtczx1LEpZ0svi/INy07GmYgBWdK9VPSow1nZXabsEXK+uxFhCbd+oyZxmWO9fkl0asDNTIx5cpVp6WA2U+0fG27TLO1vuVuouSroetjN2DM6YsjPlnyrcLmgHM97am2KAYA0eVx5q3TjLvU8cQeaIvw5jHgVikRVRtR09IMBAnSqKutdqjJADKHCeFGRFADo0MK8lYlW8YZy9otCg5EXJHgrCNG1W1ApEGHSqe/Mny3RqluT0xKT9URJJ6FaD4NycfDWdTs271nenznwztbDAUMYTocrO/n5g==;gOFIAR3sefxA7vkhS9jasA=="
+secured: "V5fpHoTA6a9GxMBUgCGugIYkNbpfnFBHcl04kdJG9AKU+BxOS/Bse3hHhnG9309tl9PpUkT+HYsru5wN5ctPkSAdsOvIrUNNrj118aksp78v4DlvtJM+2Co34yjPkOh7UuGyGz10uBU54l2nJQWWUn3eG8mzGISzic/PQuJJdT84Asan6wQPagQ9wU9SFSIphbkpP+pbS84R1m1jsItuGaUkVRrzc/S3HeetZV5EIu2cFTxsz1R9U1O50S/j1bAmhjtli3j6QT7Aut8OAjped6V2aW33cdAcZq0ysyYynQOqy13qz9J8Z0hycjLiyNdImNm0Cf/n/0XxW6Y5/18zy5IoPWs796utWRSZ2Lg92uY=;0VSSIrCwakd4Mt9znyRUZQ=="
 ---
 

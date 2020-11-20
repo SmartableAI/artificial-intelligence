@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-ap
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/8-e1605647757610.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Afresh raises $13 million for AI that optimizes grocery supply chains"
+    excerpt: "Afresh, a startup developing an AI platform that optimizes grocery supply chains, has raised $13 million in funding."
+    publishedDateTime: 2020-11-19T20:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Store2-e1605763831945.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
         isCached: true
   - title: "Outcomes4Me Raises $4.7 Million to Help Patients Navigate Cancer Care Using AI"
     excerpt: "Outcomes4Me Inc., developer of a free mobile app and platform to navigate cancer treatment and care, today announced that it has raised $4.7 million in funding, led by Asset Management Ventures with participation from Sierra Ventures,"
