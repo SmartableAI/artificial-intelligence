@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-27-partnerships-for-advanced-weather-and-climate-prediction.md",
+      "title": "Partnerships for advanced weather and climate prediction",
+      "excerpt": "When I was a child, growing up on an almond farm in central California, the day always began by turning on the radio and listening to the forecasters talking about temperature, precipitation, and something called “evapotranspiration rate.” I didn’t know what all those terms meant at the time, but I could",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
+      "originalUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/20200914-5storms.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/partnerships-advanced-weather-climate-prediction/amp/",
+      "publishedDateTime": "2020-10-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-android-studio-improves-machine-learning-support.md",
       "title": "Android Studio improves machine learning support",
       "excerpt": "With the 4.1 release, Android Studio improves on-device machine learning support via backing for TensorFlow Lite models in Android projects. Android Studio generates classes so models can be run ...",

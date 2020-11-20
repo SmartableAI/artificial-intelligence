@@ -77,22 +77,6 @@ related:
         width: 1200
         height: 1118
         isCached: true
-  - title: "How to make money with AI in 2030"
-    excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
-    publishedDateTime: 2020-11-18T13:33:00Z
-    webUrl: "https://www.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
-    ampWebUrl: "https://amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://www.dw.com/image/54879435_403.jpg"
-        width: 940
-        height: 529
-        isCached: true
   - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
     excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
     publishedDateTime: 2020-11-18T16:46:00Z

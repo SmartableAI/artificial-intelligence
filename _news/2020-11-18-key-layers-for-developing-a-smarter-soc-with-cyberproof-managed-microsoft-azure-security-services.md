@@ -77,6 +77,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 64
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
+    publishedDateTime: 2020-11-20T16:00:00Z
+    webUrl: "https://www.prnewswire.com/in/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-837380805.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 64
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Microsoft wants to partner, not compete, with operators on 5G"
     excerpt: "Microsoft isn't looking to bypass carriers in delivering 5G services; the cloud and technology giant sees operators and NEPs as partners."
     publishedDateTime: 2020-11-18T17:04:00Z

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces Plans to Launch a Second Region in India"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ..."
-publishedDateTime: 2020-11-06T05:57:00Z
-originalUrl: "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html"
-webUrl: "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html"
+excerpt: "artificial intelligence, database, Internet of Things (IoT), machine learning, mobile services, serverless, and more to drive innovation. Customers and APN Partners welcome the news of the AWS ..."
+publishedDateTime: 2020-11-06T07:26:00Z
+originalUrl: "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/"
+webUrl: "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: CXO Today
+  domain: cxotoday.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://www.cxotoday.com/wp-content/uploads/2020/06/AWS.jpg"
+    width: 2560
+    height: 1623
     isCached: true
 
-secured: "t17T6xDkangyK6UKkHcN1SKv2OTZxd0dYpBOv4IZb2TbIJZmu0MYhkCZVzh/3hULvF+p6ORdlgNACMLHGprBLrN5jWWW5s8s1zVVyAwH0ClstIGNGfNJZfQ+4jh5kdRQA3UoYAzMWNL4FD3g8JOkzvNa3eAnLcEEys4D9HFN06faddysWWKHA+Y56BR/HbBmZSjwFbPI6k8WB60AlA7mXHGh1Zfuto/ikp+gLUStnLW3LNEgOn15xkahaPdAQqzoM/b5w8Bibr8dqm4T7n4Jm4vLNMbK1SnAdBFhsI7mgVmdZwaxwuF7lTHJ3fHD3dP4vVEtodKrvi6Anu16DymfXOo4P3S2n0dF93Rlz1SCvpQ=;TLJok8T0kpTay3sFpO98nw=="
+secured: "A7eOZ520s7WT2VPVkr/sWw/e+rkusJZ25QlDlz892oBdXwnGdDaHFZqnJlDO74RqpcZubOqi2pJdWkIsuktdT30dQ117laP2viINMFPuYOZzbZVzqw+T+A/mYO8r6iSGk6QnJ5YJnQdcKGSEfnMG6HGbfi62MLbUd0WJywrlUpWKvcwXi1dQSA5eyI6SoF5RGrApGWfX2+tlGHSuftOh7s44S7sGtNU98kqzvxb6qgYtuR80WqXRX0bnhnVC5kD3NGpA31NEyDlHYBahPzL46Qwu1Mbbh77ToB8qHadfdBDkDbd9hlk73vo3BDp7pqTp/r3SPhXfqkC57G0N8+ZJs6297RdOJjRUe9g6/zsFSJw=;W17w1jZjQhl1WpW/+1bSyA=="
 ---
 

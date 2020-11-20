@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
-excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering. The Growth Opportunity report on Opportunities of Robotics in Enterprise Industry discusses the impact of Collaborative Robots,"
-publishedDateTime: 2020-11-20T09:54:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling-robots-and-robotic-exoskeletons-1029824180"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling-robots-and-robotic-exoskeletons-1029824180"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Robotics-in-Enterprise-Industry-Opportunities-Report-2020-Focus-on-Cobots-Material-Handling-Robots-and-Robotic-Exoskeletons-1029824180"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Robotics-in-Enterprise-Industry-Opportunities-Report-2020-Focus-on-Cobots-Material-Handling-Robots-and-Robotic-Exoskeletons-1029824180"
+excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
+publishedDateTime: 2020-11-20T10:58:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
 type: article
-quality: 53
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
@@ -92,6 +88,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
+    publishedDateTime: 2020-11-19T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -247,6 +257,6 @@ related:
       domain: ipsnews.net
     quality: 10
 
-secured: "6NWBpdASRnNbc1IbnYk+uRz58FJFPLBIt7nnO+yr0SQ++z23rXqJzQH1ktDi9WaSXqbOEOmMq6LcJjdPRxGbjsP0uxEc8hiRWmNmO/BJndRtW7hngdCVfSHYqbAmN0DoMl6oxE30PNISVfYpzUtQRYqeyzCm0ct+1eKdNJj9jjmw0MUanBCOb3WQgJa7Fs+Arsx4Xf8u2Ba03Ld21IvjJ/CvUFfknQsCn+XAawBD3dE47QmqFvZ5Vbz+opOgs4oJ0RNlBCeUTIeipp1qy19D4mQXkKEFdZGFDck5YkXfOwCZBeHuTJ8kkEhmlMksS6r+QDPGiZKdx2lIUWUKCcpWSDR/oC7JhdtrmoCAxF85tFM=;DtP2EiLRg5jTdPu5xvKzfA=="
+secured: "flADyPfv9kakAgGbf+9ZtQ7lybaf5LXjpZO5NBkYCsz3dN/CwW8q6pt2VIHqHCxdRpfyeWXmqnehG1dA2D/Ul6ZuA3Z2BM5UNdNIJzTosGXAIesvKniHYSLjPCaCNF+9y+2NIHMuYzow7TCiciMXJLYYNLx50gq/nAgUuPSfOt+VI6kj0UX9co+litFGjK3sjD/94eEAkqdbJImbgGUKFqM4bOj3AJLc09aeYiryk1lAISBM5TgDI5h6jj2n8EahyfrWHaIvKGrPLKyp7CW10Nea8CXOAOBfjwrW9Jss1HZ7gpDPpPfvmGhyOUlEJ/PiW+irBDce87mkGt/ozNuGSUCdIlvSe2zR+VXiYSuNGp8=;2o7gg/Wdi6Iy7luoa6xPIg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
 type: article
 quality: 67
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
+    publishedDateTime: 2020-11-19T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
     excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
     publishedDateTime: 2020-11-19T16:55:00Z
@@ -102,17 +116,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
-    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering. The Growth Opportunity report on Opportunities of Robotics in Enterprise Industry discusses the impact of Collaborative Robots,"
-    publishedDateTime: 2020-11-20T09:54:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling-robots-and-robotic-exoskeletons-1029824180"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Robotics-in-Enterprise-Industry-Opportunities-Report-2020-Focus-on-Cobots-Material-Handling-Robots-and-Robotic-Exoskeletons-1029824180"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Robotics-in-Enterprise-Industry-Opportunities-Report-2020-Focus-on-Cobots-Material-Handling-Robots-and-Robotic-Exoskeletons-1029824180"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 53
   - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
     excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
     publishedDateTime: 2020-11-16T19:18:00Z
@@ -211,6 +214,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
+    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
     excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
     publishedDateTime: 2020-11-16T10:07:00Z

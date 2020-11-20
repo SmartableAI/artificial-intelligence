@@ -2,6 +2,257 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-making-robots-useful-in-the-warehouse.md",
+      "title": "Making robots useful in the warehouse",
+      "excerpt": "Working in a warehouse is tough for robots. Unlike on a production line, where the same motion is constantly repeated, orders and tasks can change, requiring them to adapt. On top of that, different objects require different – and often delicate – handling,",
+      "sourceUrl": null,
+      "webUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/",
+      "originalUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/11/201119-Robot.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp",
+      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp",
+      "publishedDateTime": "2020-11-18T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cosmos",
+        "domain": "cosmosmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-deepfence-nabs-95-million-to-build-ai-shields-for-cloud-workloads.md",
+      "title": "Deepfence nabs $9.5 million to build AI shields for cloud workloads",
+      "excerpt": "Deepfence, a startup developing AI-based protections against cybersecurity threats, has raised $9.5 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://deepfence.io/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/deepfence-nabs-9-5-million-to-shield-cloud-workloads-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://deepfence.io/deepfence_media/2020/11/vb.jpg",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
+      "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
+      "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
+      "publishedDateTime": "2020-11-18T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-apple-m1-chip-will-save-25b-a-year-after-dumping-intel-for-the-m1-chip.md",
+      "title": "Apple M1 chip will save $2.5b a year after dumping Intel for the M1 chip",
+      "excerpt": "Apple's decision to quit Intel and use its own M1 chip to power the latest MacBook Pro, MacBook Air, and Mac Mini will save the company $2.5 billion, according to a new report. One of Apple's biggest stated reasons for moving to the new ARM-based silicon was as a cost saving measure and,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
+      "originalUrl": "https://www.techradar.com/in/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/SqqGSo29Dawg8RLk99zkXG-1200-80.jpg",
+          "width": 980,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/apple-m1-chip-will-save-dollar25b-a-year-after-dumping-intel-for-the-m1-chip",
+      "publishedDateTime": "2020-11-18T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient.md",
+      "title": "Neural’s guide to the glorious future of AI: Here’s how machines become sentient",
+      "excerpt": "Welcome to Neural’s guide guide to the glorious future of AI. What wonders will tomorrow’s machines be capable of? How do we get from Alexa and Siri to Rosie the Robot and R2D2? In this speculative science series we’ll put our optimist hats on and try to answer those questions and more.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2013/04/prediction-730x367.jpg",
+          "width": 730,
+          "height": 367,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/",
+      "publishedDateTime": "2020-11-18T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-using-transformers-to-create-music-in-aws-deepcomposer-music-studio.md",
       "title": "Using Transformers to create music in AWS DeepComposer Music studio",
       "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched a Transformer-based model that iteratively&nbsp;extends your input melody up to 20 seconds.&nbsp;This newly created extension will use the style and musical motifs found",
@@ -62,7 +313,7 @@
       "originalUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -997,247 +1248,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rdna-2-deep-dive-whats-inside-amds-radeon-rx-6000-graphics-cards.md",
-      "title": "RDNA 2 deep-dive: What's inside AMD's Radeon RX 6000 graphics cards",
-      "excerpt": "AMD's new RDNA 2 architecture brings ray tracing, an innovative Infinity Cache, and more to Radeon RX 6000-series GPUs. Here's everything you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
-      "originalUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg",
-          "width": 500,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-are-your-model-governance-practices-ai-ready.md",
-      "title": "Are Your Model Governance Practices ‘AI Ready’?",
-      "excerpt": "AI/ML models have unique technical and operational characteristics that compound current governance challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac26e14d92913a5ba9182%2F0x0.jpg",
-          "width": 1200,
-          "height": 696,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/amp/",
-      "publishedDateTime": "2020-11-18T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-artificial-intelligence-robotics-key-to-4th-industrial-revolution-nitda-dg.md",
-      "title": "Artificial intelligence, robotics key to 4th industrial revolution ― NITDA DG",
-      "excerpt": "DG, NITDA has said that emerging technologies such as artificial intelligence and robotics are going to power fourth industrial revolution.",
-      "sourceUrl": null,
-      "webUrl": "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-―-nitda-dg/",
-      "originalUrl": "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-―-nitda-dg/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tribuneonlineng.com/wp-content/uploads/2019/08/NITDA-Kashifu-Inuwa-Abdullahi.jpg",
-          "width": 450,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-%e2%80%95-nitda-dg/amp/",
-      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-%e2%80%95-nitda-dg/amp/",
-      "publishedDateTime": "2020-11-18T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nigerian Tribune",
-        "domain": "tribuneonlineng.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.md",
-      "title": "Savvy enterprises can mimic success of cognitive AI in healthcare",
-      "excerpt": "Cognitive technologies are being deployed to solve the world’s biggest challenges. AI-based bots are working side-by-side with humans to increase quality and efficiency. Here’s how enterprises can put cognitive AI to work in their organizations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
-      "originalUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T05:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women.md",
-      "title": "Telegram Still Hasn’t Removed an AI Bot That’s Abusing Women",
-      "excerpt": "A deepfake bot has been generating explicit, non-consensual images on the platform. The researchers who found it say their warnings have been ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
-      "originalUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb448627e21dd10c270baf1/191:100/w_1280,c_limit/Sec_AIbot_523554190.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

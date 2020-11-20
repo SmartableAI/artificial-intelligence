@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office"
+    excerpt: "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve."
+    publishedDateTime: 2020-11-20T16:22:00Z
+    webUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/"
+    ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg"
+        width: 1199
+        height: 634
+        isCached: true
 
 secured: "EGhQbIGgqXmFebD3n6+Y+Ql5M0JXLEhtufMy/B7BShR096JCD5mF1md5HfXWoMxx0HrDz4gKqemQTYO3I2cpY6qsMLf+rh15KFzw7jB9bWUGIDPCMZcaAwbi7/RJZYg+rfuI2NJD0NjlF8zSgky8qCLjSAYy6ODAp4XxkJRLhJvGTillK9lOqWCx1QcnKmKTm+Bm49/GKkBZlEdI+W33i5IAzk74s1WwW8twsu++hmw91CBfOZLQHCj1KAhN/Ifqn9ytz+dnxDEM51N2rF2eAy7aaMlIay3mvJdlCni40WHUMnKhvIvuIdJFOiyeESFJfZfIsh6/wHfO6dOV9LtTsgOZubPNICwzq4bS1E+3OlU=;/e0860ROlzQjnfO9Gu9+lg=="
 ---

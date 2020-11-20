@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "TL;DR: This AI summarizes research papers so you don’t have to"
-    excerpt: "Reading scientific papers is a tough job. It might contain language and sections that you might not understand, and not all of it would be interesting to you. My colleague Tristan is great at traversing through these papers,"
-    publishedDateTime: 2020-11-20T10:48:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/"
+  - title: "Music from the heart, with an AI assist"
+    excerpt: "The next time you hear a popular song on the radio, listen to the beat behind the lyrics. Usually, a high-powered production team came up with it—but in the future, that beat could be created with help from artificial intelligence. That’s what Googler MJ Jacob predicts, as he combines his job as an engineer"
+    publishedDateTime: 2020-11-20T17:00:00Z
+    webUrl: "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/"
+    ampWebUrl: "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-research-summary-796x418.jpg"
-        width: 796
-        height: 418
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mj-jacob.max-1300x1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
+  - title: "How to make money with AI in 2030"
+    excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
+    publishedDateTime: 2020-11-18T13:33:00Z
+    webUrl: "https://www.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    ampWebUrl: "https://amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 59
+    images:
+      - url: "https://www.dw.com/image/54879435_403.jpg"
+        width: 940
+        height: 529
         isCached: true
 
 secured: "SjS3IeiLhW2ZGEmnIxqwbM7sMkhvZ3hvwv6kYzaGhwwQRzL4KEQKyi3q0veRvyxaUZvjCQKEdasVHP4bBfdbaiMlZ+usfNJU0fpDKTgKLSgDS3W0HlxgT8XIUmpRzvVmPR/MjoYG2QCOev651Rw0DlZDuhRSODg/ltRFlAjPINYkqKlt16Xu3TEEI8j3+7SXYLEIboGGNuCoo+rseOS5AvkO3FmSW1lW3U9Utlt1FHKRCrwHD1/4VwYgSLzZP1z7HbL6P9DGKzJHtLS9GxvZ35MwwkNhPZmVr7Ybz3YZ5sAGJ0UbdE/867b3R7jlUrZnycj56X4MzYnKylgMa45AVD4cYu8vEjrULFic6bDacbO4LeMq9klP2ro2b8+EfITICmVXLw2s83bvAvAg30KpVORejxO2ufK/2Yy+oBSKQIqYubXdGCmvhWuSiHJyYb0AydQQM832L4BwnxxThKfv/kGqX/Ah6g2Mo/PreaeynjsG+Akm7wvi6sHyMonejjJzXi4POHmnO7Hs2JxtI3nNOA==;Bk6VB2CcyWcGBFUGpUR0Dw=="

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How everyone can play a role in defining the future of AI and robotics"
+    excerpt: "At the Bengaluru Tech Summit 2020, experts said that collaboration between academia and industry is important for creating AI and robotics innovations."
+    publishedDateTime: 2020-11-20T16:15:00Z
+    webUrl: "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart"
+    ampWebUrl: "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 89
+    images:
+      - url: "https://images.yourstory.com/cs/2/70651a302d6d11e9aa979329348d4c3e/Imagenxvc-1605888848586.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "How Is Ethical AI Different From Fair AI"
     excerpt: "Ethical AI & fair AI are used interchangeably, but there are differences. To understand the challenges of AI system, we must understand these differences"
     publishedDateTime: 2020-11-18T11:31:00Z

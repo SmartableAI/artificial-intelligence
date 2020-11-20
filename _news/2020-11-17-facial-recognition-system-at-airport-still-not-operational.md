@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-s
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Houston implements facial recognition technology at airports"
+    excerpt: "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals."
+    publishedDateTime: 2020-11-20T16:14:00Z
+    webUrl: "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 74
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
     excerpt: "Houston is the only U.S. city to have two airports (Bush Intercontinental and William P. Hobby) equipped with facial comparison technology at international arrivals checkpoints. If a passenger cannot be matched to a photo on record, the CBP officer will ..."
     publishedDateTime: 2020-11-19T22:57:00Z

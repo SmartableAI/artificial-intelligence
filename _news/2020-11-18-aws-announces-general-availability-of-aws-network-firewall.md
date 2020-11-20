@@ -1,27 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Network Firewall"
-excerpt: "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS"
-publishedDateTime: 2020-11-18T01:34:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
-webUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
+excerpt: "Amazon Web Services Inc., an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS Network Firewall, a new managed security service that makes it easier for customers to enable network protections across all of their AWS workloads."
+publishedDateTime: 2020-11-18T01:17:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vG9Z6Oahji5ISX7mCzwgWOxI8OT5PFH9wkkGJeab19drURxO2MDUHI3G3R+3xXHV1wnEZ12R9dpDlg6VflEl2TzkmBM7qv95jMhULhRvdv1+H2KQymVTm7uneNUsuxGfmI9mbKJfNwOf5+H1mSQ5VOJDRG5zLyqxqScefJ4zw6e6WnKcrhOtOIbdUbD0cVcY+ZAgOp7HMU/xVh/gSx1Y1KScL/QfhndsotcOZS8bMjmrhx5UDEDlxSaNMldGFiD7dy06c8dTEuVRsmPpW3K6il5KUohezVPa85GhhvciaOuNU06h8XdGSgTz2CTkCY3cAI9EZTfV4hzBdOTltFJk5qym+bd7ooduRP3RElTwIxw=;f+rzyBpSQ102NPQd0yfqHw=="
+secured: "9oxMyaR2NiDe+SESokO68vGJfEG5FCZJtjif5IdD3oABwzfr1F4EGMOZNysERwLDAF7RmSIbyTymeF7HavLZTwVc73PDdXuy6E/8RE3rjbvupYWxRKJEEpfBt9lgFjFDALBc54PS7qazzxtdjEn/Irt2e3D2+VA2pL+3mzToaPGZs1J40ncuFGtaLBye9mgWal7/l+Bc8WY/iUUL8DdzV5nmcSq1ujRoNIJRs9zDxVZXDnQzYnizms1YRZ6TwKO9yNhmTmngYEjKDQ8+h84wUzn/K3KaiVt2IyzIgqK5IAMP13ZvCdWSWxM66XXkm+keijcr0WNt2fWrsQEIDtS7D98vyf5jOC8XM0h3JpQPyd0=;NZSbFpTKP7BVZYfWSfPyPA=="
 ---
 

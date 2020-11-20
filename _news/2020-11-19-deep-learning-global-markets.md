@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-global-mar
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning as a Service Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 20, 2020 (Heraldkeepers) -- Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing ..."
+    publishedDateTime: 2020-11-20T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Bringing Quantum to Machine Learning"
     excerpt: "But then, she says, “life happened”—jobs fell through and other opportunities opened up—and she found herself with a career in quantum machine learning. Today Schuld, who works for the Canadian quantum computing company Xanadu from her home in ..."
     publishedDateTime: 2020-11-18T18:58:00Z

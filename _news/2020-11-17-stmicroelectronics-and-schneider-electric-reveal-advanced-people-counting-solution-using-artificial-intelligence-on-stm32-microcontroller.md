@@ -25,19 +25,14 @@ images:
 
 related:
   - title: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller"
-    excerpt: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller Geneva, November - STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications,"
-    publishedDateTime: 2020-11-16T10:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-2020-11-16"
+    excerpt: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller. Geneva, November 16, 2020– STMicroelectronics, a global semiconductor leader serving customers across the spectrum of electronics applications,"
+    publishedDateTime: 2020-11-16T15:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 16
 
 secured: "3rys89wgxz7OxYmVw7EHIkm0lO9jbc5HFE10erA2UnSmS7VOnxAbq5ZUkC8xBCeq9xaiYINOkkYMX/CN0cob/SOF+ZctEfJir1CXdEQwPFRFVXYrVB36eLsQu66QdRzOrCf20X3kbOca519V/5NeCG6Uxql6RmDH+JmGP+sqCfx7Nq9Ox6zXVWVWeAGFTf9o9c0Oq2/Nk36zKHaCx1YAe2My5WOE3kUsX1h5rtadNA/puddUO3Tm5ZstDCYnOOw3tUvtGoyu371ATcrogfG0CNhjGdT/E0vC+W1o7WCN/Y4lYYYEoUdKQ0jUxFNJq+JgAggQ0zsgradP4X1egMOl15PWjOs2iCzz4GhGM/fR208=;+ZAsC/IBtysKQ4KmUW4RyA=="
 ---

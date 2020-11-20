@@ -1,40 +1,47 @@
 ---
 category: news
 title: "Prima-Temp Awarded Groundbreaking Patent Using Artificial Intelligence For Ovulation Prediction"
-excerpt: "Temp, Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its"
+excerpt: "Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its innovative approach to applying artificial"
 publishedDateTime: 2020-11-17T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
-webUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/881405/Prima_Temp_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/bd/fbd33205-c737-534d-9316-43c1cf334291/5fb3fbadcc28c.image.jpg?resize=400%2C222"
+    width: 400
+    height: 222
     isCached: true
 
 related:
-  - title: "CORRECTING and REPLACING Ternium Expands Adoption of Falkonry Operational AI for Steel Predictive Operational Excellence"
-    excerpt: "Ternium, Latin America’s leading steel producer has developed, validated and industrialized a Predictive Operational Excellence solution using the Falkonry Operational AI suite to reduce planned and unplanned downtime across steel production operations."
-    publishedDateTime: 2020-11-19T17:58:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=377730"
+  - title: "Help Your Organization ‘Sprint’ Forward Using AI Tech Sprints"
+    excerpt: "One of the ways to promote the effective application of AI is through partnerships between the public and private sector, drawing upon the scale and infrastructure from the public sector and the agility and technical talent from the private sector."
+    publishedDateTime: 2020-11-17T11:00:00Z
+    webUrl: "https://www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/"
+    ampWebUrl: "https://www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/amp/"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb33acb72c9b08362818b13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3460%26cropY1%3D330%26cropY2%3D2275"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "aXYn4+eMvsj8lBMXNTVv3lmj5lDId68y3pJKMwQ58ALmCTqusScDdp6A7m02IhvN1RPHoN+eStaHmpQjAAQcTEDdNbc0+fFP9sXuiKK0pc/wdY/yNpTYouGbuVZUwzkL1q+3gXVa+q1XhkiOpPQhny4HThNbyYAyyGWKs+iiK+XEDFIysbsIoJCeR6n7WlPNgJybPzDZKlyjsSxiYM4ZY7qREOEYE1XetXhe/EEaRde49Vq+1khf867+nP28P++/9QsLxcRUBlAaIMh+fHVftEfXwDkO2tgaJerOhtpndzwxHB0IAzhq7u2ruPckwAXXpkrv+8Y6PyIovXzyP5BudrDl7tn2Wawct3F+/L2MrGo=;/xTSc68nMRAdG2TXjceJpA=="
+secured: "HUE59ILR3Aj9CpEOTPWJfjYMtGgwJvjEAabJh7VzRsmJcEhfNPaQqmcWcJtJ4VI37JjrKR4DyQbVg1l6d9HbWACzyzJHTTUFuaiIOrjVCpMTwULw1HbOvGN2bgCLp+osf4JLK46E+9awmiEx5UiroTmFAAXjspHwLxBOwDwCiIz2BPR+hgD2sC7O1rEhkLE/YBYLEYH7E5rMtgnEes36Fi4LQ90qwpmvGSfhDtC7hAI79K4HKj0faqvURweLwhOAWcDksvBBjzKfqLeEo4ZbOm+CB8RbvzI5MYkmF2pogPb71thi1ksI/M/hq16v6wjBI5jMG6Ngr5n0uIfPNuB4IQx1ANLI30auaHBg8uiwCKY=;DUAWfDcUglAq0ARwiTwBrw=="
 ---
 

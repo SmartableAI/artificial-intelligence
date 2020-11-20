@@ -43,6 +43,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Houston implements facial recognition technology at airports"
+    excerpt: "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals."
+    publishedDateTime: 2020-11-20T16:14:00Z
+    webUrl: "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 74
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Air Force bases look to facial recognition to secure entry"
     excerpt: "The pandemic has been good for the facial recognition industry, with a company inking two new contracts to install the technology at Air Force bases."
     publishedDateTime: 2020-11-16T19:29:00Z

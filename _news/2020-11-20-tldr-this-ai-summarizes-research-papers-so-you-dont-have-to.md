@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-res
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 796
     height: 418
     isCached: true
-
-related:
-  - title: "An AI helps you summarize the latest in AI"
-    excerpt: "Semantic Scholar, a scientific literature search engine, is using recent breakthroughs in natural-language processing to give researchers the tl;dr on papers."
-    publishedDateTime: 2020-11-18T16:40:00Z
-    webUrl: "https://www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/"
-    ampWebUrl: "https://www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/funnel_web.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "WqLFbCvnUKMAiDR6NgoSh8oKTK1Lmqo3iWVlYFosTTWH1u6bcGLaXFvKmVhy3QXYZoSPex//jfy+A0RjU4cTQzOI/Axlevdu3Dc5JcJmiUJk1PCnrCzO2n1OD7eHIS8X4VfkwvdX3jMWgtYiio8IB+NMk0Za/EDZWkACIEam4prfhdz29wP7WqKaEu++euszuoVbzkjPI/4wzxdWYH8NpoLGiLnqwTKjVRwHhrLlEEdmJqRuSowUVdwYKW4MO2Q8+iUe1YnFf8IPLJ+61+uCLg5O2ITP9N7lLQAjCNB7CzObr0ZqIUhaC+xvAFMzjZ7prBKfx1FztitvF0rz9FKIYepnqpOLlSKFNxs4qUfF+jsD9D+7lf651cOQ/hsjMB5+NjEnmIH5PFfiAYberkHr3XdWLqDK4fYBjuPJxvNeWlsTRTE1VHq9dr8SwZD0NqO/emnDKH2Tt0/J6iouhMFvglpTjRXm4OiIGI+QZAkHAbQxUnUQTuk9OnVOxy+S/UWVyv+w27oj6MkazLZYJisigg==;HPz4WCp1OVSHmCeH6SfdWA=="
 ---

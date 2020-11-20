@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 20, 2020 (Heraldkeepers) -- Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing ..."
+    publishedDateTime: 2020-11-20T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "AKcUs7SzIzKWIHUNE0Cr6RG8d1L72NzzsB3EYMPSaoLjvcUkII57h9fYfK/GWZmW4U30SzGN4N+bEOqB+nPzhgyu1Z6xKGSmh2fT/n1jrp0xtR4fTsE70CPBmEeapQgDpDq3QvyV3jfqgeAycyw5U+qUOVFdp6CokCECfOh6RGL6555Lvv981ql6dy3UFdWZLdmLi0RmvU4zf0Hu1R5GVKIo1V0Jp2jD6g9SOqPJObdYkoYVnzh90VQiKuD4A4VGblfoCOg3LG44VDER0iy8TkGPqQ0JVnnaAZohhFaZ++ZFFMeIjqjwkcxvlpDjidJhtnS5IWA3XU+5IRMVVv+GtwEFjWM5wFiuKebOAKDFhXrjliRLFCMypHqBV/OK/b4tepGEo7dLqZBjkkJVoWUxxrZ4mmdCXSkct+sJ8ARyEAUyHkMkjadtTrvRdijz8SYbkR7g5axa5oeF15hJl5pV3upwbg0jqhgNi4i3NrykSeQUCxx49KVmi/qCzD96P0c+czk51Y5etAQjpQ5OaJGykA==;6wXTcKj7awt00x/gKi15xA=="
 ---

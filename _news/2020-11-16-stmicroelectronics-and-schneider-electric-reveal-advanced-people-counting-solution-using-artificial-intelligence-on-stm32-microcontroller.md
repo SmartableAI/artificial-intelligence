@@ -1,32 +1,22 @@
 ---
 category: news
 title: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller"
-excerpt: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller Geneva, November - STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications,"
-publishedDateTime: 2020-11-16T10:04:00Z
-originalUrl: "https://www.marketwatch.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-2020-11-16"
-webUrl: "https://www.marketwatch.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-2020-11-16"
+excerpt: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller. Geneva, November 16, 2020– STMicroelectronics, a global semiconductor leader serving customers across the spectrum of electronics applications,"
+publishedDateTime: 2020-11-16T15:00:00Z
+originalUrl: "https://www.nasdaq.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution"
+webUrl: "https://www.nasdaq.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution"
 type: article
-quality: 36
-heat: 36
+quality: 16
+heat: 16
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Machine Learning
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller"
@@ -44,6 +34,6 @@ related:
         height: 512
         isCached: true
 
-secured: "M+5djL0xVkjr636bVC2UWlgItfGhYx2YJ6uXJnIv9SieMrW+ey4uo+z7n4L+VwjZK2fHLcn8HWheD1YbrSxjoFneLp9XzfDyITyRCmqM53XOO/7wC4uTGE/24RAQsR2dWkBbN8ZVWRn1z7FO4E2fI5KVr5C2ebfDTRzDi4q3rvT5tecGkF6/PdoUo/PCJ8cFYLK6wTrZnwTgIl8dj4mJlAG0BcMQlh/7Kx0fsIvAViF+37zA5oS+ubyQ9GD5fSeJ398i+6DAb2gwFtwxPLYAbBf9UEh7UzEGU3YRP2r0MHjVFPw0aFxfCit1D1MbhQBlJ4iMRmSdayW/LLWSIqta1vO0+AkIY44STrX4nu2xGPM=;8XLZ5PeyvFcbniQZ36vWPA=="
+secured: "3PfHnGV7nOOC5bNBXHtkZv5zC92Ta5bsRre/UcoiEgQth/vJEGNeNPUjqKKiQKVG/ofVfGpZ6XUIilzOCRXtqtbBMRLSfeO1CXDIgHM+pSDZqhMax6ZScoMuO9ZuJ9YwIoREbq89NJ9Ff64Mu7396fAyE60CkmENUD4Xs7Pd7QOO01HQFnXLKeW3qOgSPexYGUuEkGwJwanQqLOq3x2J6/UVJRTG13M5xb8QC4Nvllwpsvyrldc6pbBnSE005JqOP7IchncrYfPyTvx+riug1UbKgkOapaStUdmbw68O7/+ShNKSINSYzWM4DuVoJAep463yuZhmr5ZPgDsO7Bh5yDDEJ5/xbALRwQ3eM8Bk7Ew=;wN3zTiWGPLQcWvjbhIdytw=="
 ---
 
