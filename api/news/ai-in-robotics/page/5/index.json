@@ -2,60 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-10-19-artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms.md",
-      "title": "Artificial Intelligence And Africa: The Case For Investing In African Telecoms",
-      "excerpt": "It is imperative that Africa quickly develop agency in data and artificial intelligence and it will be lucrative for investors who support them by financing Africa’s telecom and data backbone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/",
-      "originalUrl": "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8d4bc46738826921f51465%2F0x0.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/franklinamoo/2020/10/19/artificial-intelligence-and-africa-the-case-for-investing-in-african-telecoms/amp/",
-      "publishedDateTime": "2020-10-19T01:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-10-18-new-experiments-reveal-why-human-like-robots-creep-us-out.md",
       "title": "New Experiments Reveal Why Human-Like Robots Creep Us Out",
       "excerpt": "Experiments reveal a dynamic process that leads to \"the uncanny valley phenomenon\" with implications for the design of robots and for understanding how we perceive one another as humans.",

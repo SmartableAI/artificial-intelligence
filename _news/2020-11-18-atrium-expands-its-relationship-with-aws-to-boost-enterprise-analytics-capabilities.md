@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
+excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
 publishedDateTime: 2020-11-18T11:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
+originalUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
+webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
 type: article
-quality: 33
+quality: 63
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
@@ -86,6 +90,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "z+fBYkduxJJNmLfVdTeI/US6JG9ejPV21gbj20VvWhp4L4piAyiINjDiFHvB3YTmS+HLh4LA+6YzM7+qbvUPf0BxyQUB6k6AcJtjQO9d4rDM/YwMD5Rk40VkVk8treGwwN/FtJ0WIUxnIkmai5K/f0tuU3KoxcnTFINS1cZZ/040gC54wekZ38miCYpYPSo9VdRd4bB3IyK8iS8BIyKyfx0DDkKxxSnUyDJ7NF8Jjhm3Oz8zHPFGwPJsCYda6nNjfUoGa5sTZpt0si8XLXHxPKWTTbvIeZCStUgoW+lyTQlE4STjStXJP5fP4NZaC76+wKtcAX3kPUwj1Zp2GhDkvkikDuEWHdR11rwTt7H9fyM=;NF8rZnQNzUFAOv5jTumqvQ=="
+secured: "szrTQBkTJrsI/ptApqJNSsUu0pCNkSjMW6itUasVozEHn/hfDJmWYS2h79DvD9oy35aEHM8DVvO1CQ18TAGIVWSNIvZuRYM2+DkJSDzEGKoEQ064sKhlQlkxFalFFn+4iBYIlgHvMAjsqClpQXHrjxsSQ+2VPtn/jMLAUcwT50Xc1qomn8dLUumjUd/lmcTePTnxYJw6kTzuhHja33QF1ULoPBwqT0RbYBZWy1AFG5gRKG+5Tnrvd7uFWx5xp/HxyLwdY1Pu9iyjEIG6j+WBQILTwp7CxccOkQkxCIhUSLSZvrCmAnL4c/zrMt8hxwWXsF5BLqf3b7ofG+rsg2pnpSV0Vi09BX+lhqm04eG/REY=;wfDLTav9gaTkZj/g83D+Bg=="
 ---
 

@@ -1,28 +1,27 @@
 ---
 category: news
-title: "Aisera’s Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
-excerpt: "Aisera Delivers the Benefits of AI to NJ Transit With the integration of Aisera in ... and a strategic partner with AWS, Microsoft Azure, Google Cloud, ServiceNow, Atlassian, Zendesk, Datadog, Automation Anywhere, UiPath, and Salesforce."
-publishedDateTime: 2020-11-19T06:23:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-2f8137c4d5bd046738bfe7e54533b87a"
-webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-2f8137c4d5bd046738bfe7e54533b87a"
+title: "Aisera's Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
+excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, announced today the availability of its AI Service Desk"
+publishedDateTime: 2020-11-18T22:42:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/aiseras-conversational-ai-solution-for-microsoft-teams-will-help-change-the-future-of-work-301176477.html"
+webUrl: "https://www.prnewswire.com/news-releases/aiseras-conversational-ai-solution-for-microsoft-teams-will-help-change-the-future-of-work-301176477.html"
 type: article
-quality: 46
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
-  - Natural Language Processing
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mma.prnewswire.com/media/1338156/Aisera_Logo.jpg?p=facebook"
+    width: 1500
+    height: 784
     isCached: true
 
 related:
@@ -141,6 +140,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "/f1Rk00tR5QMlm1ELnLxfthDsfdTfp5LS+tzvNhMfJZtuJ0uAfZJHyDQId6Y4QCyuVbxG/c/CTtU/S4ctMVVa7NEz7jQdVS7GcMe7Ia9B2qWZAvJzMycyeq5uJP+SVxD4Q+F3yKogqtLA158p9e+MGs9hzRZgefw05R48Ogrs/RuvAYcl5J/CgSMEK/O+Vxw3twQ48RVcowy2Z/6FAEo4Yei8PUFLpj52txsApOZrfsVCjqFpHMQoFZVG10vDzj8N//7WSwTVFpZ9xYlnT0EQk9HlWONzD1dGqP8Ccs8C0Yhu2shBkzfiSRISHZjAZnTnb2j4OdRtrs9qqylv1AaxS9YWwpi+g3W2P4s9Y+zvBw=;ARx0fJvLfvARFVnExo6Xkw=="
+secured: "wT80enGGts4U/hW5KywUOoMQSJztqww3hCOSRBDr8pilOE8NspMMI8QlyJZkf/Gb+knJvYrzHqmjn2Z6Ue3l+t3UJNyICAJSOlr1uc7LDII9tXB0OdTikD65GruqJPOyWzQSpOx371AbwAtL5HwG50LLqDsB4eWxiNZnSylInAJhoQ6rQV90pxAF4n8Ia01QAvbYXnM/EH3Xe2BhdhBs4fkRi/ttd+krNJs2FQ4VP+/3Trh0en5oSB5Fou/CySj44OQnUMdeNa5/LwG+q2yR6GdWuEtdeAFC8ohozLNGtr9JYY/iY4ypib892ZIypOpqcyNE9EyEtx3MjMQ63ZuMcPi7c3nx1jAYINzj6TPDmdQ=;YzHTUaIO95TNwqb2DOjy3A=="
 ---
 

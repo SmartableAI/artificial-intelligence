@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
-    excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
-    publishedDateTime: 2020-11-17T11:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Riverbed Unified Network Performance Management Takes Center Stage at Global User Conference With New Cloud and AI Capabilities That Deliver Greater Visibility Into Hybrid ..."
     excerpt: "New visibility solutions and Riverbed’s NPM portfolio to be featured during free virtual Riverbed Global User Conference on November 17, focused on helping organizations maximize performance and visibility for any user,"
     publishedDateTime: 2020-11-16T13:52:00Z

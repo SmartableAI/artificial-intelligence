@@ -1,12 +1,12 @@
 ---
 category: news
 title: "DoiT International Named AWS Reseller Partner of the Year"
-excerpt: "PRNewswire/ -- DoiT International (\"DoiT\" or the \"Company\"), a leading provider of proprietary public cloud optimization and governance software and public cloud expertise, announced today that it has been named the AWS Reseller Partner of the Year in Israel for 2020."
+excerpt: "DoiT International has announced today that it has been named the 2020 AWS Reseller Partner of the Year in Israel. SANTA CLARA, California, Nov."
 publishedDateTime: 2020-11-12T13:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
-webUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796286"
+originalUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
+webUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "W2DkiAWG3lxKvpqQsKxv50fgr8ayGjYReTF+KOa79HUHtc6+aTmxzMtoaMtUjLFGB2xz4Yy60KGoqcSHPSkaWia9TvCrM6Kvo2Zb0ccdYpblffHY+WpVsZxdTe6vhl5geyOqU4T/mpkedirWAIkH/WlfPdmrkUE3dBQpi9lkAzsbs83ADraWQFv2FzwNN2pGfuKOLwl9b8OWir91fYsLL97dc50vaZgI8fRRu9cyGvJ6FeR0qymxxy64XlBjXFMLcRWSrCbVgHNeQJfs4VK8/q5y/CC+7tT2l/AV70bBabiJV3FPmbImlxuQHEUc6RiPLyq9zoxQjatwRc4x5eBMiAf++F5N0l6oNIeX2XBhaAw=;1Dnd2vm8iMa7IVcpT1oF1g=="
+secured: "zdEGmGQdtC4auD9cOy2XQQqbwoG1xSamJC81FP6MJDu9y4bYqEmBwj3hoeyXfg6dKMNZxS6fF0ZAlbyq60vt6D+YnixhDvivnvW/4XUrSoIVi0Uc7qQAYQr2XC2sM9LFS3gPk7YwYs1vXjeckDIUPh5doL7beKYOUD0hEw12jhMe0X6FgJDIKILVwMZDrYtmY9qK7JaXn8AEyvrXYc2Pg12uBTa+4MctMPs4+XutDAosDeRa74dBfiIGzhAB0GDX1+B6p6dwQj7iJI/QNBsGTS6uKz44BrU2dcYwnaOLbOSnT5toe2dbvd6q1v9O8GzTyqH2TnSbsuVTr/FixEwf/xvBecrjQS8qejknRjKiHSU=;W69f2m5ITUGRXTaHKsZ/6Q=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Financial services companies are starting to use the cloud for big data and AI processing"
-excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
-publishedDateTime: 2020-11-18T16:27:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+excerpt: "SEE: Top cloud providers in 2020: AWS, Microsoft Azure, and Google Cloud ... and an expanding array of AI and machine learning (ML) services and expertise that cloud providers can offer. Together, these forces enable financial companies to bring big ..."
+publishedDateTime: 2020-11-19T05:49:00Z
+originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Microsoft AI
   - AI
 
 images:
@@ -100,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "j4BMNMfJkPVGsmU0QU1g4DVgJg2nbk8AzRBgddurMXdhDbfsUpWD68r+JHOq1zskkm8a5pd3PNQF4fr1wwqSkhRWOeKG0xo3xCWH6zGmwKFQ7zR43DbJBdsuYdZY4ByprFAbsyIqpaz7+z9X9MFcE8MuK+90RH4QMLdd4ft5jqxNfKHZB4vBAmqPy1mWo9BrR1i1v/PnmAHyh/Jw1krWHxBdzIALJd43Z4IvmXUc62Zw5rFjfAH1pzPpKub94VEucHF2hjaEA3FnVHz/v+O4e9OJSMMddRDzLxsiyChIjvbnA2un45gXQn2mWhx/JprjCDZQDV0UKzXULZ8FqP/5phxb4ExzhAnosM6L6KV03R0=;+MygZunzen97EAGrdD2XMw=="
+secured: "lUlZaUin6TsDi4H+GuUetaPfBb+3nc4U+S1d+NBOW1pqqbCFyeeYa/MmauxJtYLqk2+afq7+iLQPpcJ+Lv2dv+v224zqTLg3kNfAo5/w8F/FR+lBsQzicExKSEO0TTvfcirQuZ/19HFXOoJ8EtiUdPdTJ+FgfG31ssfL66lDPbCY4pdcv9x5zX+AUhNWcI9MyO5YCYOQ7cQ1EAvhTLjX44tJMkLiJWXKBADbhly8PgOfXJdHhMtjc6vOoSEwN1DHlFYxM8ZNfZkwJd7Nef9hewijz+1VMVUpxmPvsHM4sKBOBWhT0DwL2k01QJNKhRrRyrRN5Rx1MnG073vcesuyc6m/fHHXSxHWdszVOaaczVc=;wO9kv6/tFNTzIcpJ8M0PcQ=="
 ---
 

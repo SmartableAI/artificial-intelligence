@@ -7,7 +7,7 @@ originalUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-i
 webUrl: "https://www.roboticstomorrow.com/article/2020/11/next-generation-industrial-robotic-capabilities-advanced-by-artificial-intelligence/15914"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Boba Tea and Advanced AI, Automation and Robotics"
-    excerpt: "A new start-up called Bobacino plans to deliver the boba tea experience through advanced AI, automation and robotics."
-    publishedDateTime: 2020-11-18T18:02:00Z
-    webUrl: "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics"
+  - title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
+    excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
+    publishedDateTime: 2020-11-17T11:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
     type: article
     provider:
-      name: World Tea News
-      domain: worldteanews.com
-    quality: 69
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://qtxasset.com/worldteanews/uploads/2020/11/Bobacino-3-1024x734.jpg"
-        width: 1024
-        height: 734
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "uN9ESBiOd+OI+VKph5E+somi1+ns5vQa4hbpXY2cB4Ng6qmBHaLVWIvHFoIK00PmepzxCWmhq8mih4W/7oBbNcf149ZYQH5k5Ct0codYkdXs+vV53WbDwmh7VhlW6iatogM1ECyKVhSCuFuAvJZFi6X/Ukp35O9r1O3LSehzJFf9RtpLivA6XWDaX/nqjYYnXV8Lfyy6w5EPwJx80FFhMMtHWtzrcBszqzYp9oM0RkSYHrfJQDIfZAOyGhXhsGwsPOg6Tiebm5DfjJbU8KFPN4CdYcLwyzLDL8olRLk6W5yczUQJY455tmQyfEgdsO7xp0dzeaLTA6EHjh5XZV/svAdizPsSXx/3NF5VunIc/vY=;20yRZB+evRqcGvaMMUL6/g=="

@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-20T02:13:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2020/11/201119153952.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/11/201119153952.htm"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Artificial intelligence-based tool may help diagnose opioid addiction earlier"

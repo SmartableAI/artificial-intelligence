@@ -911,49 +911,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-19-boba-tea-and-advanced-ai-automation-and-robotics.md",
-      "title": "Boba Tea and Advanced AI, Automation and Robotics",
-      "excerpt": "A new start-up called Bobacino plans to deliver the boba tea experience through advanced AI, automation and robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics",
-      "originalUrl": "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/worldteanews/uploads/2020/11/Bobacino-3-1024x734.jpg",
-          "width": 1024,
-          "height": 734,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T10:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "World Tea News",
-        "domain": "worldteanews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-human-rights-watch-once-again-calls-for-ban-on-killer-robots.md",
       "title": "Human Rights Watch Once Again Calls for Ban on “Killer Robots”",
       "excerpt": "Sir Nick Carter, suggested that these robots and other autonomous platforms could fill roles that reduce the dependency on human soldiers, he didn’t actually suggest that these would be “terminator” style fighting machines.",
@@ -1226,6 +1183,58 @@
       "type": "article",
       "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
       "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
+      "publishedDateTime": "2020-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rachel-malarich-is-planting-a-better-future-tree-by-tree.md",
+      "title": "Rachel Malarich is planting a better future, tree by tree",
+      "excerpt": "Everyone has a tree story, Rachel Malarich says—and one of hers takes place on the limbs of a eucalyptus tree. Rachel and her cousins spent summers in central California climbing the 100-foot tall trees and hanging out between the waxy blue leaves—an experience she remembers as awe-inspiring. Now, as",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
+      "originalUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_3_1.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
       "publishedDateTime": "2020-11-18T09:00:00-08:00",
       "updatedDateTime": null,
       "provider": {

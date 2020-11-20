@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatvnews.com/amp/health/computer-vision-mobile-app-ca
 cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: India TV
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Computer vision mobile app can regularly monitor diabetes"
-    excerpt: "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,"
-    publishedDateTime: 2020-11-15T12:54:00Z
-    webUrl: "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/"
-    ampWebUrl: "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Computer Vision Mobile App Could Monitor Diabetes Regularly"
     excerpt: "GlucoRx Vision is a new mobile app that can monitor glucose levels in people with diabetes, reports a new study."
     publishedDateTime: 2020-11-16T06:00:00Z

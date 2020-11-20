@@ -2,20 +2,19 @@
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
 excerpt: "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
-publishedDateTime: 2020-11-11T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
+publishedDateTime: 2020-11-11T13:13:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
 type: article
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
@@ -23,6 +22,6 @@ images:
     height: 1414
     isCached: true
 
-secured: "69b2rZpmaW/sKYsU1dvyc7EsJa9oUQzhRxWV3sccXZPxsof3fAxOZQjLR5WYAiig5X0eyZX0auRJPGqFEnjc59s7fJBef/nwQih+Jc8ySdYrLGMS3y3ig0LDeRgJ3iH/JhVspv4EZvGJqs6B/lTO9e+PtIOmLxE9R0nTwuMhQbbDSDeQl8P2RbNWoGKE+U85rkZgssVnCQE+vEaScgFq6QWDFP9CiypdWZxE3N3nrhfuhxujeXXfEF5BRGiGsY0fMaKQqfcvISki5OrP/SDnV8WYmKXqrOWnPjtWtJ//Qsbs+6iI7p+MzSyRytnJ3Qt8gAWTK7c53pWGFDb8slpGk3jPjJtmLUgYDSieUE6WInE=;TLgGxH6sJDSSonL5Ev/CEg=="
+secured: "HJq3YgRkoMgddfo6HuR8y0dMnzmb3Miezq4bX6KhjYEC2LzehNXIIH8p1Chqt4YO5roMsd+TTml3LN2KW/UDwNLJ/ZZ3ybub2UR1jQZ3ug/7wPRgrKUiCNfy/cnyAPjfTsGkN2h+yC5iN0aLyK7MpAunqZNRpqUP1gGAcrcwy1V/hlLXVz3heapLDtkscS+M8zf28csvX+GrDggpLnmvDAWljrsqV5oP1RPq+HOEMDBP55hl+uJe7VlwGh6xzFtyEjF96iWB9gS9DP/uu9N2kqtjRIua1j4Zfkwr86gA1Gp++F+0tvsibo8od0JMjp6cC2naBpuqDR8a9cSKseJCiLxKIbomPYP/haGp68pFC/g=;IB47CT5c5W4bFfeWGVR1Ig=="
 ---
 

@@ -2,25 +2,27 @@
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
 excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-publishedDateTime: 2020-11-18T15:15:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+publishedDateTime: 2020-11-18T05:04:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "The human brain inspires RMIT researchers to develop a light-powered AI chip"
@@ -54,6 +56,6 @@ related:
         height: 1600
         isCached: true
 
-secured: "uEQjxbnYBQRhg9ppM8HvAeNGvsKjxIdeqkCZ42UTuQNmML2Pv0eyJCAKvzDqh74o+S74F6KxovE45KYj2pPaBE+ArbzNRIvgVJHVbHRFF6kyR2w4LWljHLJd2vpYL8JJUNCDCL+xgfe8UT4y7cVLChQ8f4NwWQSFskVaD5zgzi4aDWX24ptSbnDFokPb0jZLngF+Y7FyTyrVvl0YAaFEwPCgMs/mSwxTulKUXVXg55+3289owzcplsqQ+2eh7/AoSdCGD3bjTPQ4BL1+nE8/hq2Ahnsgx/sGsy+CRFIzSrXFN+bF3xSqAtWgAGxrou0NoaTdRfmke5wz2ZuVB5RDY+GQj4JTHGYlPl8P92XXZXM=;cnVsChqzwS92wglTeG9l5Q=="
+secured: "pRRTXVpQ8EcAFR8ZHAyQokbccdMGx39rXb/UvzuoyXAYcCdAp8XGqHCVdo2slmXp4v0acsvZmWNATdhxPYaygPCl/ilp7KghHU6qI33aIwYl7S+4QVG2wLjIrJcmB66peF1zLm6Vwsd0o7c2X62LcvyjrCaRhcCB6dJjbi/t4r7m29zrmLSpaLUt1h1hmaKQs7YQl/g8KpBkcdtlTs9JkML28iL6jJlJamb9W0QwJm2vsBQx4uLp9+VtxvTjoWu4bmPAf7GGqqMppv6eJD4PEsMqwZX+mpF/vxfPhasNnzrxxvIEW1+0i0scnqQiRZSHji6c6Z43GMNpMPNWtA4F6SWVH+YMyWGbyoXuMFj2pas=;UFlf0zLEa5mEdbJ/ZwoLWA=="
 ---
 

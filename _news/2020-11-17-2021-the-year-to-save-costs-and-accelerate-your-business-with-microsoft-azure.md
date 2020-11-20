@@ -115,19 +115,19 @@ related:
         width: 1500
         height: 784
         isCached: true
-  - title: "Aisera’s Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
-    excerpt: "Aisera Delivers the Benefits of AI to NJ Transit With the integration of Aisera in ... and a strategic partner with AWS, Microsoft Azure, Google Cloud, ServiceNow, Atlassian, Zendesk, Datadog, Automation Anywhere, UiPath, and Salesforce."
-    publishedDateTime: 2020-11-19T06:23:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-2f8137c4d5bd046738bfe7e54533b87a"
+  - title: "Aisera's Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
+    excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, announced today the availability of its AI Service Desk"
+    publishedDateTime: 2020-11-18T22:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiseras-conversational-ai-solution-for-microsoft-teams-will-help-change-the-future-of-work-301176477.html"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 46
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 44
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1338156/Aisera_Logo.jpg?p=facebook"
+        width: 1500
+        height: 784
         isCached: true
   - title: "ANS Group migrates NHS SCW workloads to Microsoft Azure"
     excerpt: "UK digital and cloud services provider ANS Group has been selected by NHS South, Central & West (SCW) to migrate their workloads to Microsoft"

@@ -28,22 +28,6 @@ images:
 
 related:
   - title: "Computer vision mobile app can regularly monitor diabetes"
-    excerpt: "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,"
-    publishedDateTime: 2020-11-15T12:54:00Z
-    webUrl: "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/"
-    ampWebUrl: "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/"
-    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/"
-    type: article
-    provider:
-      name: Newsd
-      domain: newsd.in
-    quality: 59
-    images:
-      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Computer vision mobile app can regularly monitor diabetes"
     excerpt: "The technology, which doesn't require an internet or Bluetooth connection, works for any type of glucose meter, in any orientation and in a variety of light levels. It also reduces waste by eliminating the need to replace high-quality non-Bluetooth meters,"
     publishedDateTime: 2020-11-16T05:53:00Z
     webUrl: "https://www.indiatvnews.com/health/computer-vision-mobile-app-can-regularly-monitor-diabetes-665109"
