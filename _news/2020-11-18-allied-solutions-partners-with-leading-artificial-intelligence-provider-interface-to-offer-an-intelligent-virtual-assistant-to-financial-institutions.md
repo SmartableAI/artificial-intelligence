@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Australian DoD announces funding for geospatial‑intelligence"
+    excerpt: "Australian Department of Defence (DoD) has announced funding to support the production of geospatial‑intelligence products for government and defence customers. Defence intelligence agency Australian Geospatial-Intelligence Organisation (AGO) has partnered with a not-for-profit company from Victoria,"
+    publishedDateTime: 2020-11-17T11:50:00Z
+    webUrl: "https://www.airforce-technology.com/news/australian-dod-announces-funding-for-geospatial‑intelligence/"
+    type: article
+    provider:
+      name: Airforce Technology
+      domain: airforce-technology.com
+    quality: 22
+    images:
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2020/06/ARMY-targetscoring-unique2-450x340-1.jpg"
+        width: 450
+        height: 340
+        isCached: true
 
 secured: "EqOKsooWwzvLV+m/It9e0a3XMQ7FSa65KAedehK+E0cFtO2GVk15kh/ATp+xKy/+zmTSHOJfc68tXZi7KhkqI6w/jT4ZD//4FqZdrzjh2/IWSoNC9lAH8pNkyU9bxL+QZx+KtbVBhJS9BbV/dPLIC3xYkdzkj2cqpoP7YedClOCL5AKGXKbfBwNhIiiOE+o/OaXdXyi7QRB1bUcE7tSNy9/Deddad39UjbLYeuOoUSsVKuP2yMd8KZ9pCCfBrKeyAKsCuSXiol0VW/ExWqDCTGH6lHK2L2BmZR/gywZba0fJmRZ219WUgMOiZ4USfzuJ4XyLUIgoX7mQ4nEIvVIuC+zj6Grm252WrMOXYOl5nXI=;t3V+zA81KgGSRbZEt8Tqrg=="
 ---

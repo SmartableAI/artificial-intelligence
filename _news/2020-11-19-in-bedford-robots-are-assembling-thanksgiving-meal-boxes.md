@@ -7,7 +7,7 @@ originalUrl: "https://www.bostonglobe.com/2020/11/19/business/bedford-robots-are
 webUrl: "https://www.bostonglobe.com/2020/11/19/business/bedford-robots-are-assembling-thanksgiving-meal-boxes/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 506
     height: 337
     isCached: true
+
+related:
+  - title: "Robots, immune from virus, pack Thanksgiving food to spare elderly helpers"
+    excerpt: "D2 cannot deliver Thanksgiving dinner to your door, but his relatives are doing the packing. Immune from the coronavirus, industrial robotic arms are assembling donated holiday food in a Boston suburb,"
+    publishedDateTime: 2020-11-20T04:04:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-thanksgiving-robotics-idUSKBN27Z3AQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z3AQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z3AQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 67
 
 secured: "xR9e1PoDQ5R6n0FrkxwqExNEfbu9GzuCqXcmfY+XkICXVxtbxKh0dq/YOvB26cDJ59KAlSl2t7oHgyzmWN7CkD5n4jXGNXNON9ZXYR2uFwxbW7UDi4L+f5C4ImFexhrPz5AZD+wxLDD1LT5g9fXfqVLhHnwx9TFZcPvqwdEaoSIzw7qzeOxEdfABHWQ3YngbBxPPUe2cCHMnRWW9QFqNa31ozlBzdLKhsJbEZYa+xVt2XAWMz8HNBmlgKH5AoMMyvSBvw2PfpXUNxTs4Y7coQQauNzAqLCwu2vO7zcDh6c7FqHKCsbjwsU4Hb+9Rux8WilJBSRy+c8IXaTqZS2zHas4h1iYG3d89nA4ZdRgsL72H5L/5UcR0IvJwyz68xqPS4zMuFLH/NYodsTcdy9vjysvHHPaAhzGs49FoLB1LJDrUc1iwwoqm4wg4INViPsF+XBxJO6Wd7LA2at06xccebMN1XbnBmjsNxgSlTeqC2xpKA0ol1l4n3zWmuC2Aelci/0vBDZg8B1OySb3WtUk3kQ==;pOLw+lcAHgfxepSqnvBLUg=="
 ---

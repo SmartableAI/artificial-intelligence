@@ -8,7 +8,7 @@ webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/arti
 ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
-quality: 78
+quality: 80
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
@@ -100,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "EBsYrkYFDWJ07jCNLEYRQsnAiCgyNUpDGMrgKswS1G3jCBVlPNx6obwGxBDbpXtXlCY+B92JPrG3b+wFyFtfvNvaasEX5B5C9nJ8hp5cSc7uR6x03JeANDyj5sRdN2prqdPd9pSO+daU5mvmZd31BupdkodGmghXFRk82xxq+7dlLoYzY1jP2tKLoaX1CUyqnZQB0yQqjLVtbBOQqBDdjryvjtX+GuwxhOMoPUjHKKAN5ylDfAeXp1bP26JDDM2BVtJBSpSSXaHn3k/wf0G56izJ+sT/61qCRqg1Sa8abHdb9s5pNq2lscpRg/UWdZlBq4kSKsrZbsX+ViMMLqa5I9QJdBeUfZjsQuN0GPBJovs=;6nuOpOEuYbPyIBf4NWLOtQ=="
+secured: "AIQxQ3jgoTdFtPkSLNpi8hNI1uEfPWBzBVQo8lFLKPYnFvcjE1m+1cymlZfIhJ/NEQ23si9ZcNt3iFN1iOMWgqbUdRBwWWUHaLizM4wj1SeAgcHbBjk8/69Z7UiYsJIlelQzT651Hj1h1lrt0A2OJdK5HEWyP5aIIK35NE6/jdsfdbcyyHVSq4VMGo1sWcr415LpmN5yh0l0eca5CvoU6JdzBqq8wzhiD0JIsO7R2omzg9pW5z+f7eHxVWFeAgOWULreVoZU4lKiasT7SJI1LGPzjqHj7avhI/KUQZ1Oco+f8Qub8Cp8HcH0VQWdCsUcbrcs2NCzO0GHZc/SE0CdQAGvysOTsuhAiFkg41bM3EJOxce4iVf2wP+ulvOxsl/A0shKOzMpjwB7pOZlRshNoHgl64O6SXwY87ooEwYV4oqsVRN3ec2dsrzhpdKflsJFN562Slx+frvFi5l9/KQp/6aKGOB/ovrgKmFyIRt1MWwxG0TzUcznFr9diUBBdzyqsRA/K24NPidxU1sSvYdicg==;FqWh5UPGE/mlJSTHGT7iDQ=="
 ---
 

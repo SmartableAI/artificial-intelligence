@@ -41,6 +41,22 @@ related:
         width: 1600
         height: 801
         isCached: true
+  - title: "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us"
+    excerpt: "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen."
+    publishedDateTime: 2020-11-19T16:29:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Volkswagen's CEO says its latest round of investment in electric self-driving cars will let it finally 'beat Tesla'"
     excerpt: "\"The commitment, the investments, and the industrialization plans are there to beat Tesla,\" VW's CEO told investors on a Monday conference call."
     publishedDateTime: 2020-11-17T19:13:00Z
@@ -84,6 +100,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Uber Is Looking To Sell Its Self-Driving Car Division"
+    excerpt: "As recently as eighteen months ago, Uber Advanced Technologies Group was valued at $7.25 billion following $1 billion in investments from the likes of Toyota, DENSO, and SoftBank’s Vision Fund. Fast forward to November 2011 and autonomous vehicle startup Aurora Innovations is in the box seat to purchase Uber ATG."
+    publishedDateTime: 2020-11-16T16:29:00Z
+    webUrl: "https://www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/"
+    ampWebUrl: "https://www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Uber-ATG-a-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
   - title: "JLR developing ‘smart city hub’ to test self-driving cars"
     excerpt: "Jaguar Land Rover is creating a ‘smart city hub’ which will allow real-world testing of self-driving vehicles. The Future Mobility Campus Ireland (FMCI), located across 7.45 miles of the Limerick-Shannon metropolitan area at Shannon Free Zone,"
     publishedDateTime: 2020-11-16T10:49:00Z
@@ -97,6 +129,20 @@ related:
       - url: "https://www.shropshirestar.com/resizer/HoxCe8w1PrqB213uy5sGF9Hg6p0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/IOCROIMDA5A4ZBF3NJVQYVT744.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
+    excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
+    publishedDateTime: 2020-11-17T14:04:00Z
+    webUrl: "https://www.caradvice.com.au/901837/jaguar-land-rover-to-open-a-hub-for-testing-self-driving-cars/"
+    type: article
+    provider:
+      name: CarAdvice
+      domain: caradvice.com.au
+    quality: 24
+    images:
+      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/gzffcupivjojk6kknrlv.jpg"
+        width: 960
+        height: 500
         isCached: true
   - title: "JLR to develop a smart city hub to test self-driving cars"
     excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"

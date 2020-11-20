@@ -2,6 +2,153 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-13-this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time.md",
+      "title": "This startup wants to fix your biased AI, one dataset at at time",
+      "excerpt": "A UK startup has released a new tool that could finally give coders a practical way of identifying bias in their datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "originalUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/06/20/76fcf7ca-73a8-42c3-9086-a1cc05b5cb06/thumbnail/1200x675/72a5ebbb8c4666c1729fbcdc200eaeb5/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
+      "publishedDateTime": "2020-11-12T18:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-basisai-joins-aws-partner-network-receives-technology-partner-status.md",
+      "title": "BasisAI Joins AWS Partner Network, Receives Technology Partner Status",
+      "excerpt": "BasisAI, a provider of customized, responsible AI applications, has been named an Amazon Web Services (AWS) Select Technology Partner. This places BasisAI in a pool of trusted professional services firms that helps enterprise customers across Southeast Asia design,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/basisai-joins-aws-partner-network-receives-technology-partner-status-1029799381",
+      "publishedDateTime": "2020-11-12T17:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce.md",
+      "title": "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce",
+      "excerpt": "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce-2020-11-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T17:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-aws-expands-language-support-for-amazon-lex-and-amazon-polly.md",
       "title": "AWS expands language support for Amazon Lex and Amazon Polly",
       "excerpt": "At AWS, our mission is to enable developers and businesses with no prior machine learning (ML) expertise to easily build sophisticated, scalable, ML-powered applications with our AI services. Today, we’re excited to announce that Amazon Lex and Amazon Polly are expanding language support. You can build",
@@ -1094,144 +1241,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds.md",
-      "title": "Inside the world’s first AI-powered satellite — and its fight against clouds",
-      "excerpt": "Intel, Ubotica, and the ESA recently launched the first AI-enabled satellite into Earth's orbit. The team told TNW about their hopes for the mission.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-11-11T104744.768-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/12/inside-the-worlds-first-ai-powered-satellite-and-its-fight-against-clouds/amp/",
-      "publishedDateTime": "2020-11-12T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending.md",
-      "title": "How an AI App Navigates Narrow Networks, Cuts Healthcare Spending",
-      "excerpt": "Payers can reduce healthcare spending for self-funded employers by employing artificial intelligence, centering primary care services, and employing value-based contracts.",
-      "sourceUrl": null,
-      "webUrl": "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "originalUrl": "https://healthpayerintelligence.com/news/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://healthpayerintelligence.com/images/sized/GettyImages-1028612998-6352cfe9c42d690d78be4e1065fa9a1b.jpg",
-          "width": 600,
-          "height": 347,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "cdnAmpWebUrl": "https://healthpayerintelligence-com.cdn.ampproject.org/c/s/healthpayerintelligence.com/news/amp/how-an-ai-app-navigates-narrow-networks-cuts-healthcare-spending",
-      "publishedDateTime": "2020-11-12T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthpayerintelligence.com",
-        "domain": "healthpayerintelligence.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-5-great-robotics-stocks-that-offer-stake-in-the-new-way-work-gets-done.md",
-      "title": "5 Great Robotics Stocks That Offer Stake in the New Way Work Gets Done",
-      "excerpt": "The new normal is speeding up the entry of robotics into our lives. Here are five robotics stocks to help you power up your portfolio for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/",
-      "originalUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://investorplace.com/wp-content/uploads/2020/10/robotics-stocks-ai-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/",
-      "cdnAmpWebUrl": "https://investorplace-com.cdn.ampproject.org/c/s/investorplace.com/2020/11/5-great-robotics-stocks-nuan-rok-abb-isrg-irbt-to-keep-an-eye-on-for-an-exciting-2021-irbt-isrg-rok-abb-nuan/amp/",
-      "publishedDateTime": "2020-11-12T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InvestorPlace",
-        "domain": "investorplace.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

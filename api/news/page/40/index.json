@@ -2,6 +2,194 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-10-20-a-playful-take-on-the-serious-harm-of-facial-recognition-teens-young-adults-from-yr-media-and-stanford-dschool-design-a-tool-to-erase-your.md",
+      "title": "A Playful Take on the Serious Harm of Facial Recognition: Teens, Young Adults from YR Media and Stanford d.school Design a Tool to “Erase Your Face”",
+      "excerpt": "BIPOC youth, girls, and first-generation college-goers are among the most under-represented in tech and A.I. specifically, yet they have the most to lose when design fails to lead with racial, gender and economic equity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201020005076/en/A-Playful-Take-on-the-Serious-Harm-of-Facial-Recognition-Teens-Young-Adults-from-YR-Media-and-Stanford-d.school-Design-a-Tool-to-“Erase-Your-Face”",
+      "originalUrl": "https://www.businesswire.com/news/home/20201020005076/en/A-Playful-Take-on-the-Serious-Harm-of-Facial-Recognition-Teens-Young-Adults-from-YR-Media-and-Stanford-d.school-Design-a-Tool-to-“Erase-Your-Face”",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201020005076/en/831455/23/4680981_YR_Media-%281%29.gif",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information.md",
+      "title": "AI Startup EarthDefine Announces Expansion of its Building Footprint Geocoding and On-Demand Property Information",
+      "excerpt": "PRNewswire/ -- EarthDefine, a provider of high-resolution spatial data today announced the release of an updated building footprint database, which contains over 156 million footprints of commercial and residential structures across the continental United States.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-startup-earthdefine-announces-expansion-of-its-building-footprint-geocoding-and-on-demand-property-information-1029698789",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-microsoft-partners-with-spacexs-starlink-satellite-service-for-azure-space-cloud-platform.md",
+      "title": "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform",
+      "excerpt": "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
+      "originalUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/10/201020-azurespace-630x479.png",
+          "width": 630,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/microsoft-partners-spacexs-starlink-satellite-service-azure-space-cloud-platform/amp/",
+      "publishedDateTime": "2020-10-20T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board.md",
+      "title": "Intel is providing the smarts for the first satellite with local AI processing on board",
+      "excerpt": "Intel detailed today its contribution to PhiSat-1, a new tiny small satellite that was launched into sun-synchronous orbit on September 2. PhiSat-1 has a new kind of hyperspectral-thermal camera on board,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
+      "originalUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/10/C0140-Large.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/20/intel-is-providing-the-smarts-for-the-first-satellite-with-local-ai-processing-on-board/amp/",
+      "publishedDateTime": "2020-10-20T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-stanchart-increases-stake-in-ai-startup-to-combat-financial-crime.md",
       "title": "StanChart increases stake in AI startup to combat financial crime",
       "excerpt": "Standard Chartered has upped its stake in an artificial intelligence startup that uses technology to help banks tackle financial crime. Silent Eight said on 19 October that Standard Chartered’s venture capital arm SC Ventures had chosen to participate ...",
@@ -970,197 +1158,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-velodyne-lidar-inks-3-year-sales-agreement-with-baidu.md",
-      "title": "Velodyne Lidar Inks 3 Year Sales Agreement with Baidu",
-      "excerpt": "Velodyne Lidar Inc announced a three-year sales agreement with Baidu for its Alpha Prime lidar sensors. The Alpha Prime sensors will be utilized for autonomous applications. Velodyne’s low cost ...",
-      "sourceUrl": null,
-      "webUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
-      "originalUrl": "https://steelguru.com/auto/velodyne-lidar-inks-3-year-sales-agreement-with-baidu/564417",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://steelguru.com/uploads/news/velodyne-lidar-baidu_89021.png",
-          "width": 635,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-torc-robotics-scaling-self-driving-fleet-with-daimler-trucks.md",
-      "title": "Torc Robotics Scaling Self Driving Fleet with Daimler Trucks",
-      "excerpt": "Torc Robotics will scale its self-driving truck testing in the Southwest in early 2021 using an enhanced prototype truck developed with Daimler Trucks North America. This new generation of ...",
-      "sourceUrl": null,
-      "webUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
-      "originalUrl": "https://steelguru.com/auto/torc-robotics-scaling-self-driving-fleet-with-daimler-trucks/564415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://steelguru.com/images/ad_image/Go-for-Gold_500x250.gif",
-          "width": 500,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T23:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Steel News",
-        "domain": "steelguru.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
-      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
-      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
-      "publishedDateTime": "2020-10-19T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-companies-are-rushing-to-use-aibut-few-see-a-payoff.md",
-      "title": "Companies Are Rushing to Use AI—but Few See a Payoff",
-      "excerpt": "A study finds that only 11 percent of firms that have deployed artificial intelligence are reaping a “sizable” return on their investments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
-      "originalUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
-      "publishedDateTime": "2020-10-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
