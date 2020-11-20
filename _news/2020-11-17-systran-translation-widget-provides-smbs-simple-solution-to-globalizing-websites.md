@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    excerpt: "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,"
+    publishedDateTime: 2020-11-19T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
   - title: "SYSTRAN Translation Widget Provides SMBs Simple Solution to Globalizing Websites"
     excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping"
     publishedDateTime: 2020-11-17T21:44:00Z
@@ -36,6 +45,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
+    excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
+    publishedDateTime: 2020-11-17T11:07:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     publishedDateTime: 2020-11-19T19:33:00Z

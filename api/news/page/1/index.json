@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-20-artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts.md",
+      "title": "Artificial intelligence could be used to hack connected cars, drones warn security experts",
+      "excerpt": "Cyberattacks on vulnerabilities in connected vehicles could have very real physical consequences if security isn't managed properly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/7d823c87-e76e-493d-b656-1a90aa737182/thumbnail/1200x675/eb1c7cb1954746c9aa0ad732a26af89b/20200930-boulton-danny.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "publishedDateTime": "2020-11-20T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
+      "title": "Using Machine Learning To Predict And Detect Fraud",
+      "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "publishedDateTime": "2020-11-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live.md",
+      "title": "Rethinking your tech stack to stay relevant in an AI-powered world (VB Live)",
+      "excerpt": "To stay on top of cutting-edge AI innovation, it’s time to upgrade ... Putting many of those together on a chip just increases that inefficiency. And then putting many of those inefficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/globe.world_.GettyImages-1183741336.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
+      "publishedDateTime": "2020-11-20T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-fetchai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich.md",
+      "title": "Fetch.AI launches blockchain-based AI smart-city infrastructure in Munich",
+      "excerpt": "Fetch.ai and Datarella predict mass implementation of Munich’s smart-city infrastructure will reduce CO2 emissions by 34,000 tonnes per year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "originalUrl": "https://www.zdnet.com/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/19/1e89316f-bbfb-4ef3-ab72-8a17612b8bdb/datarella-2.jpg",
+          "width": 1080,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "publishedDateTime": "2020-11-20T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-tldr-this-ai-summarizes-research-papers-so-you-dont-have-to.md",
       "title": "TL;DR: This AI summarizes research papers so you don’t have to",
       "excerpt": "Reading scientific papers is a tough job. It might contain language and sections that you might not understand, and not all of it would be interesting to you. My colleague Tristan is great at traversing through these papers,",
@@ -1020,212 +1227,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-the-new-m1-macs-make-cutting-edge-machine-learning-workstations.md",
-      "title": "The new M1 Macs make cutting-edge, machine-learning workstations",
-      "excerpt": "When you think of programming machine-learning PCs, hard-core developers dreams turn to high-priced powerhouse machines running Linux. But a recent benchmark by TensorFlow programmers showed that Macs powered by Apple's new M1 chip can give these boxes a run for their money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "originalUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/12/1e1a25bd-00e5-4234-9946-12c7f553eb0b/thumbnail/1200x675/8fcd7ac18ce1610fca957b4c1e46af19/20201111-j2-m1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "publishedDateTime": "2020-11-19T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-how-companies-can-develop-ethical-ai-technology-for-the-future.md",
-      "title": "How Companies Can Develop Ethical AI Technology For The Future",
-      "excerpt": "Companies cannot ignore the risks associated with ethical AI applications, but guidelines need to be more palatable and concrete in order to fuel progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c1982f850761b32c1bbb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/",
-      "publishedDateTime": "2020-11-19T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-major-advances-in-ai-that-businesses-should-keep-an-eye-on.md",
-      "title": "Major Advances In AI That Businesses Should Keep An Eye On",
-      "excerpt": "The fast pace at which AI applications are being developed and mastered is leading to tectonic shifts in how business strategists plan for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a3d131056d8a67471899%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/amp/",
-      "publishedDateTime": "2020-11-19T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ai-for-cybersecurity-maximizing-strengths-and-limiting-vulnerabilities.md",
-      "title": "AI For Cybersecurity: Maximizing Strengths And Limiting Vulnerabilities",
-      "excerpt": "The rapid pace of technology development that for long was seen as a trigger for digital transformation has given birth to new and advanced security challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360010",
-      "originalUrl": "https://www.entrepreneur.com/article/360010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605784146-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360010",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360010",
-      "publishedDateTime": "2020-11-19T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

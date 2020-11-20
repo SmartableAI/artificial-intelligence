@@ -2,6 +2,256 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-los-angeles-police-department-bans-the-use-of-third-party-facial-recognition-technology.md",
+      "title": "Los Angeles Police Department bans the use of third-party facial recognition technology",
+      "excerpt": "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html",
+      "originalUrl": "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-18-image-22.jpg",
+          "width": 1680,
+          "height": 793,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html",
+      "publishedDateTime": "2020-11-18T10:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-this-sushi-restaurants-secret-ingredient-is-ai.md",
+      "title": "This sushi restaurant's secret ingredient is AI",
+      "excerpt": "The next time you order sushi from your favorite Japanese restaurant, you might have artificial intelligence to thank in addition to the sushi chef. A popular Japanese conveyor belt sushi chain, Kura Sushi,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/this-sushi-restaurants-secret-ingredient-is-ai/",
+      "originalUrl": "https://www.cnet.com/news/this-sushi-restaurants-secret-ingredient-is-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/pJieP5G0Ks-HlaiuTfNXHWVZ2nI=/2020/11/18/d43123b2-0758-450b-a89d-992a32c13a3b/screen-shot-2020-11-18-at-10-53-13-am.jpg",
+          "width": 1052,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/this-sushi-restaurants-secret-ingredient-is-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-sushi-restaurants-secret-ingredient-is-ai/",
+      "publishedDateTime": "2020-11-18T10:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors.md",
+      "title": "How The Trevor Project uses AI to help LGBTQ+ youth and train its counselors",
+      "excerpt": "To better serve its mission of reducing suicide among LGBTQ+ youth, The Trevor Project turned to natural language processing (NLP).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-13-at-1.12.14-PM.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors/amp/",
+      "publishedDateTime": "2020-11-18T10:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-human-rights-watch-once-again-calls-for-ban-on-killer-robots.md",
+      "title": "Human Rights Watch Once Again Calls for Ban on “Killer Robots”",
+      "excerpt": "Sir Nick Carter, suggested that these robots and other autonomous platforms could fill roles that reduce the dependency on human soldiers, he didn’t actually suggest that these would be “terminator” style fighting machines.",
+      "sourceUrl": null,
+      "webUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-“killer-robots”-172813",
+      "originalUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-“killer-robots”-172813",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nationalinterest.org/sites/default/files/main_images/D574%20%281%29.jpg",
+          "width": 1600,
+          "height": 1275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-%E2%80%9Ckiller-robots%E2%80%9D-172813?amp",
+      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/human-rights-watch-once-again-calls-ban-%E2%80%9Ckiller-robots%E2%80%9D-172813?amp",
+      "publishedDateTime": "2020-11-18T09:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-meowtalk-alexa-developers-app-to-translate-cats-miaow.md",
+      "title": "MeowTalk: Alexa developer’s app to translate cat’s miaow",
+      "excerpt": "An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer. MeowTalk records the sound and then attempts to identify the meaning. The cat's owner also helps to label the translation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/amp/technology-54991693",
+      "originalUrl": "https://www.bbc.com/news/amp/technology-54991693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0F4B/production/_115551930_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54991693",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693",
+      "publishedDateTime": "2020-11-18T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring.md",
       "title": "IBM acquires Instana for its AI-powered app performance monitoring",
       "excerpt": "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues.",
@@ -986,259 +1236,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace-can-ai-stop-it.md",
-      "title": "Phishing Is A Gateway To Modern Fraud In Today’s Distributed Workplace — Can AI Stop It?",
-      "excerpt": "Remote work is great for business, and employees love it — but how is it impacting your organization’s digital security?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3d440623fec96d105b87f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/amp/",
-      "publishedDateTime": "2020-11-18T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ai-startup-abacusai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models.md",
-      "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
-      "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg",
-          "width": 1600,
-          "height": 1068,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "publishedDateTime": "2020-11-18T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-todays-data-science-roles-wont-exist-in-10-years.md",
-      "title": "Today’s data science roles won’t exist in 10 years",
-      "excerpt": "AutoML is poised to turn developers into data scientists — and vice versa. Here’s how AutoML will radically change data science for the better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "originalUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "publishedDateTime": "2020-11-18T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-did-a-university-use-facial-recognition-to-id-student-protesters.md",
-      "title": "Did a University Use Facial Recognition to ID Student Protesters?",
-      "excerpt": "University of Miami students accuse the campus police of using the software. Administrators deny it, but they had previously touted the capability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "originalUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb307a284aca534b93b08aa/master/pass/Business-University-Miami-Facial-Recognition-AP_20238702097234.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "publishedDateTime": "2020-11-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-machine-learning-innovation-to-develop-chemical-library-for-drug-discovery.md",
-      "title": "Machine learning innovation to develop chemical library for drug discovery",
-      "excerpt": "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "originalUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/60-machinelearn.jpg",
-          "width": 800,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "publishedDateTime": "2020-11-18T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -46,6 +46,41 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai-systems-into-popular-video-creation-platform.md",
+      "title": "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform",
+      "excerpt": "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
+      "originalUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-how-the-trevor-project-uses-ai-to-help-lgbtq-youth-and-train-its-counselors.md",
       "title": "How The Trevor Project uses AI to help LGBTQ+ youth and train its counselors",
       "excerpt": "To better serve its mission of reducing suicide among LGBTQ+ youth, The Trevor Project turned to natural language processing (NLP).",
@@ -1487,50 +1522,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot.md",
-      "title": "Microsoft AI Summit: Reimagining digital governance with Cloud, AI, IoT",
-      "excerpt": "India has been at the forefront of digital acceleration, especially after covid-19 that has moved people to remote working, students to online education, and other such interventions that are no more an option,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/11/06/600x338/tech_1581859988035_1604663954905.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html",
-      "publishedDateTime": "2020-11-06T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

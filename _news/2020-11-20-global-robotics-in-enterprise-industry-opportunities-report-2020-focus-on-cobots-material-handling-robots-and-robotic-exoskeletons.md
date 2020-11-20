@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
-excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2020-11-20T10:58:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
+excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering. The Growth Opportunity report on Opportunities of Robotics in Enterprise Industry discusses the impact of Collaborative Robots,"
+publishedDateTime: 2020-11-20T09:54:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling-robots-and-robotic-exoskeletons-1029824180"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling-robots-and-robotic-exoskeletons-1029824180"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Robotics-in-Enterprise-Industry-Opportunities-Report-2020-Focus-on-Cobots-Material-Handling-Robots-and-Robotic-Exoskeletons-1029824180"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Robotics-in-Enterprise-Industry-Opportunities-Report-2020-Focus-on-Cobots-Material-Handling-Robots-and-Robotic-Exoskeletons-1029824180"
 type: article
-quality: 23
+quality: 53
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
@@ -243,6 +247,6 @@ related:
       domain: ipsnews.net
     quality: 10
 
-secured: "CFQoII5sOJzWd/nCuB4PlS9EvLvaZs8X819qGgTTC1KpAIMXsqhMe9wXjgeDHeGueQ734PNcFoTPVnodgX8mZytlzblJgo8WhPCFulvL78bhhdib4ZMZ+aF3oVhHUaR5us0Yf38NbXD9PNh5feKbH+AMi+9DaD/uVkEdC5uxTL+dGPgHEPI8s22XvWV6tPLJG7jYWmYV2kIlcPPPnKC4PN/WlQeXR2obVziTpoOlhLGpNnnjFvsyj1lzqnY+byeCcA99uHF96pgkdgWoGBjsIYusCujhFYrbkCT7/8kRSFomiMC0PgsTVvYwDRZeinSjpxi4AD8F5i0oSmIB+vsxj4Eam9Ypp/+GhwWGNpkpFWk=;gUmKf+wiM7CJRLrH2SYysQ=="
+secured: "6NWBpdASRnNbc1IbnYk+uRz58FJFPLBIt7nnO+yr0SQ++z23rXqJzQH1ktDi9WaSXqbOEOmMq6LcJjdPRxGbjsP0uxEc8hiRWmNmO/BJndRtW7hngdCVfSHYqbAmN0DoMl6oxE30PNISVfYpzUtQRYqeyzCm0ct+1eKdNJj9jjmw0MUanBCOb3WQgJa7Fs+Arsx4Xf8u2Ba03Ld21IvjJ/CvUFfknQsCn+XAawBD3dE47QmqFvZ5Vbz+opOgs4oJ0RNlBCeUTIeipp1qy19D4mQXkKEFdZGFDck5YkXfOwCZBeHuTJ8kkEhmlMksS6r+QDPGiZKdx2lIUWUKCcpWSDR/oC7JhdtrmoCAxF85tFM=;DtP2EiLRg5jTdPu5xvKzfA=="
 ---
 

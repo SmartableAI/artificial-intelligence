@@ -27,6 +27,19 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Logistics Robots Market to Exhibit 15.7% CAGR by 2027; Rise in E-commerce Industry Worldwide will Bolster Growth says Fortune Business Insights™"
+    excerpt: "The global logistics robots market size is prophesied to reach USD 14.95 billion by the end of 2027. The growth of this region"
+    publishedDateTime: 2020-11-20T12:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461895/logistics-robots-market-to-exhibit-15-7-cagr-by-2027-rise-in-e-commerce-industry-worldwide-will-bo"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18461895"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461895"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 2
+
 secured: "dCY5azsDmhbl/NUla1M+qP1SD6IgzHBep6msqpXeoHb2HHFeljiO2g5h2M+nee4JAVzdEnrccHLWv0PTESk1uQQ9COxpjqa8V+/myzln8o3Xbr5v0x5516b/qfdscmuypxzpVRnU90tBKRjtiFtUBeDHjc1udvI/iBL2N8jvL6j3EbluzMZRzI5XCUgUw+5n32kKwiI8XZaymFb0izPYcKW3+Q/rH/+fqnV2kEItIJ/avxLqOdWEHM/g2DCFoXG4CIO6K8O/CvVEU2nYU5mnlrWS8ATxVAeLb+IOCftIdtaodGVnfJpI1lRgJNq4enGh1nwru3U4yMlgyqgA93t1mjeKbEFJpgWtA5pshuwPeRc=;F7uz+XgfiLiPQENNEmP8Qg=="
 ---
 

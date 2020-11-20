@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-20T10:48:00Z
 originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661649"
 webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661649"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Facebook AI
 
 related:
   - title: "3 rising AI/ML startups from South Korea"

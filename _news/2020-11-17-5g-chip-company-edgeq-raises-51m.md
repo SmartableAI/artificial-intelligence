@@ -80,6 +80,20 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
+  - title: "EdgeQ Raises $51M in Funding to Unify 5G and AI in an Open and Programmable Platform to Ignite Edge Networks"
+    excerpt: "EdgeQ Inc, a 5G systems-on-a-chip company, today announced its launch from stealth with $51 million in total funding, including $38.5 million in a Series A round. Backed by renowned investors Threshold Ventures (formerly DFJ),"
+    publishedDateTime: 2020-11-17T17:00:00Z
+    webUrl: "https://businesswire.com/news/home/20201117005476/en/EdgeQ-Raises-51M-in-Funding-to-Unify-5G-and-AI-in-an-Open-and-Programmable-Platform-to-Ignite-Edge-Networks"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+    images:
+      - url: "https://mms.businesswire.com/media/20201117005476/en/839347/23/EdgeQ_Logo_BW.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "onx0mDWdxaH3gP8cr9lekUJWbcf9KW0UpqmGMAGovZLsu6uDJN1TZGXBj77DnLGo2mEn/FT2UKStt7M9I9k0FOuvMpiNHEeYaPKgETWBfQUrYIlcIp8JHlm+yjYxSfPDy3uLzyyI10ATQ1NpryRS/GUaxdyFP3KVmMjTm9iBTuf2qUobbhipwIJSI21WTaZyD2PpXbKoKBCwgqPgS9A7qFgZv4pyog9EJ+EFKO3o1H7wwpipqWl0S5X/Qsaky5nOl+bO2phTF5hFWhPy7+7Ua78Cpp80S2/oo+NgSujA6UflB5aDby2Jq/7mLW8kW771zMwKxZfqaSPXLgj3+5i1ho1QGyoZZarfGXLmTfg3rWE=;+VtzFmuSwtC3fbbsqrZwGw=="
 ---

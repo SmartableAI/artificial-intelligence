@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -84,6 +84,20 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 34
+  - title: "EdgeQ Raises $51M in Funding to Unify 5G and AI in an Open and Programmable Platform to Ignite Edge Networks"
+    excerpt: "EdgeQ Inc, a 5G systems-on-a-chip company, today announced its launch from stealth with $51 million in total funding, including $38.5 million in a Series A round. Backed by renowned investors Threshold Ventures (formerly DFJ),"
+    publishedDateTime: 2020-11-17T17:00:00Z
+    webUrl: "https://businesswire.com/news/home/20201117005476/en/EdgeQ-Raises-51M-in-Funding-to-Unify-5G-and-AI-in-an-Open-and-Programmable-Platform-to-Ignite-Edge-Networks"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 20
+    images:
+      - url: "https://mms.businesswire.com/media/20201117005476/en/839347/23/EdgeQ_Logo_BW.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "BV5+VKJFLFye27v02tkyeD9ObtJdlOHhnIYj1m+fxs6VGg26d1JjUiDg8ZKU+ZPmFkTmF/O/SLKWb35FXrZzgeRvXT12h0bo7XWsNmGVrL6NS7TffKZIGZi/Nn3ax/HVweJ28BvFFtzmGgv3cHpVcQTkYu2a0aCklYjYGFLSju81MK2J0LQmPPQ++M/p2DyKt8MxSHeuxHrMqx5fo4KuTHBvItVQU1ckL+3q2cZvb6mNkuO6N/fRO8DoBjOVGmQ0kmiT3cyNcW3ywSTUYfvlpZQRj0U0LphPtQfsqaXnOxu6QSgq3uABN2XQbDlJwrDi1QAfTdfMF1mvNgeSexmfO8KnXjpfmqA6xjxR0l555ej8rTLp5e8dREGHCzvj9gTp9U/+e50/IN7ONS9ePMRV5E/ezPWXynwkt0s6aTTWZJAwb1C6xcCKAWi6Ir13RyEnn/9Df7ZnCXEUknrP6S7GvkLJZUB1ZjxVNAUDEEUc6tIasvp7zJBld/eKEp11e8VqLqbId1HF2KlQUayGQrpRnw==;h0QwQcbqzd2D50XuYxEyzw=="
 ---

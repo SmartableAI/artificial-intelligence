@@ -2,6 +2,231 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-05-live-out-your-inner-animist-with-animatronic-cat-ears.md",
+      "title": "Live Out Your Inner Animist With Animatronic Cat Ears",
+      "excerpt": "While having a great white shark as your spirit animal may sound cool, we’ve found walking around in public wearing a gigantic set of mechanical jaws to be a bit of a hindrance. [abetusk] doesn ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
+      "originalUrl": "https://hackaday.com/2012/02/21/live-out-your-inner-animist-with-animatronic-cat-ears/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://hackaday.com/wp-content/uploads/2012/02/cat-ears.jpg",
+          "width": 470,
+          "height": 230,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-pluralsight-inc-class-a-common-stock-ps.md",
+      "title": "Pluralsight, Inc. Class A Common Stock (PS)",
+      "excerpt": "Sign up for our newsletter to get the latest on the transformative forces shaping the global economy, delivered every Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "originalUrl": "https://www.nasdaq.com/market-activity/stocks/ps/press-releases",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-virtual-incision-goes-small-in-surgical-robotics-and-nabs-ide.md",
+      "title": "Virtual Incision Goes Small in Surgical Robotics and Nabs IDE",
+      "excerpt": "The Holland, MI-based company said the trial for its miniature surgical robotics platform is set to start in early 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/robotics/virtual-incision-goes-small-surgical-robotics-and-nabs-ide",
+      "originalUrl": "https://www.mddionline.com/robotics/virtual-incision-goes-small-surgical-robotics-and-nabs-ide",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_Nov92020at12508PM.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-artificial-intelligence-and-cognitive-computing-market-major-technology-giants-in-buzz-again.md",
+      "title": "Artificial Intelligence and Cognitive Computing Market - Major Technology Giants in Buzz Again",
+      "excerpt": "Healthcare, Retail & Consumer Goods, BFSI, Security, IT & Telecom & Others Regional Analysis for Artificial Intelligence and Cognitive Computing Market: North America (Covered in Chapter 6 and 13), United States, Canada, Mexico, Europe (Covered in Chapter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-portland-maine-bans-police-from-using-facial-recognition-software.md",
+      "title": "Portland, Maine bans police from using facial recognition software",
+      "excerpt": "On Tuesday, citizens of Portland, Maine passed a ballot measure banning use of facial recognition and surveillance technology by law enforcement, the Bangor Daily News reported. The Portland City Council had banned use of this software by police and city ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "originalUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "publishedDateTime": "2020-11-04T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview.md",
       "title": "Google launches Document AI suite of parsing and processing tools in preview",
       "excerpt": "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing.",
@@ -967,230 +1192,6 @@
         "AI in Robotics",
         "AI in Autos",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-ai-fail-as-robot-tv-camera-follows-bald-head-instead-of-soccer-ball.md",
-      "title": "A.I. fail as robot TV camera follows bald head instead of soccer ball",
-      "excerpt": "While artificial intelligence (A.I.) has clearly made astonishing strides ... With stadiums closed to fans due to the coronavirus pandemic, Inverness recently decided to start livestreaming its games. Instead of employing a human camera operator, it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/",
-      "originalUrl": "https://www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/ai-fail-as-robot-camera-mistakes-bald-head-for-soccer-ball/?amp",
-      "publishedDateTime": "2020-11-03T19:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-gigabyte-and-microsoft-azure-ai-notebook-performance-investigation.md",
-      "title": "GIGABYTE and Microsoft Azure AI Notebook Performance Investigation",
-      "excerpt": "Today we take a look at Microsoft's Azure AI for mobile computing. The issue with gaming notebooks is their size and weight constraints, and while people want to be able to play their beloved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html",
-      "originalUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/content/9/1/9188_02_gigabyte-microsoft-azure-ai-notebook-performance-investigation.png",
-          "width": 620,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html",
-      "publishedDateTime": "2020-11-03T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-inspiring-ais-future-leaders-a-discussion-with-rashida-hodge.md",
-      "title": "Inspiring AI’s Future Leaders: A Discussion With Rashida Hodge",
-      "excerpt": "In her current role at IBM, Hodge leads product integration of artificial intelligence and other emerging technologies for key IBM clients in North America .",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c8e22121f2b9de44b40c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "publishedDateTime": "2020-11-03T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-history-of-voice-recognition-from-audrey-to-siri.md",
-      "title": "History of voice recognition: from Audrey to Siri",
-      "excerpt": "Looking back on the development of speech recognition technology is like watching a child grow up, progressing from the baby-talk level of recognizing single syllables, to building a vocabulary of thousands of words, to answering questions with quick ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008",
-      "originalUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008?amp=1",
-      "publishedDateTime": "2020-11-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-adding-custom-data-sources-to-amazon-kendra.md",
-      "title": "Adding custom data sources to Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra provides native connectors for popular data sources like Amazon Simple Storage Service (Amazon S3), SharePoint, ServiceNow, OneDrive, Salesforce, and Confluence so you can easily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/Adding-custom-data-sources-to-Amazon-Kendra-4.jpg",
-          "width": 509,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T15:15:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

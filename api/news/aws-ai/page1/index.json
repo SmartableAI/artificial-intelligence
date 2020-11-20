@@ -107,6 +107,41 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai-systems-into-popular-video-creation-platform.md",
+      "title": "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform",
+      "excerpt": "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
+      "originalUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-using-transformers-to-create-music-in-aws-deepcomposer-music-studio.md",
       "title": "Using Transformers to create music in AWS DeepComposer Music studio",
       "excerpt": "AWS DeepComposer provides a creative and hands-on experience for learning generative AI and machine learning (ML). We recently launched a Transformer-based model that iteratively&nbsp;extends your input melody up to 20 seconds.&nbsp;This newly created extension will use the style and musical motifs found",
@@ -1039,24 +1074,33 @@
     {
       "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ...",
+      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
       "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/it/1033083",
-      "originalUrl": "https://www.thaipr.net/it/1033083",
+      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T17:04:00-08:00",
+      "publishedDateTime": "2020-11-11T11:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1318,19 +1362,19 @@
     {
       "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
       "title": "AWS Announces Plans to Launch a Second Region in India",
-      "excerpt": "artificial intelligence, database, Internet of Things (IoT), machine learning, mobile services, serverless, and more to drive innovation. Customers and APN Partners welcome the news of the AWS ...",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
-      "originalUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
+      "webUrl": "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html",
+      "originalUrl": "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cxotoday.com/wp-content/uploads/2020/06/AWS.jpg",
-          "width": 2560,
-          "height": 1623,
+          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
+          "width": 576,
+          "height": 288,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1340,11 +1384,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T23:26:00-08:00",
+      "publishedDateTime": "2020-11-05T21:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
+        "name": "Odessa American",
+        "domain": "oaoa.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1462,58 +1506,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on.md",
-      "title": "Announcing the AWS DeepComposer Chartbusters challenge, Keep Calm and Model On",
-      "excerpt": "We are back with another AWS DeepComposer Chartbusters challenge, Keep Calm and Model On! This challenge is open for submissions throughout AWS re:Invent until January 31, 2021. In this challenge, you can experiment with our newly launched Transformers algorithm and generate an original piece of music.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-aws-deepcomposer-chartbusters-challenge-keep-calm-and-model-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Keep-Calm-and-Model-On-1-664x630.jpg",
-          "width": 664,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T10:32:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

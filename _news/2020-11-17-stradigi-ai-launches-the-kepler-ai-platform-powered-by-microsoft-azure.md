@@ -47,6 +47,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
+  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
+    excerpt: "PR Newswire LONDON and NEW YORK, Nov. 20, 2020 LONDON and NEW YORK, Nov. 20, 2020 /PRNewswire/ --"
+    publishedDateTime: 2020-11-20T12:08:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-20/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-khq7pelm"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 94
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft wants to partner, not compete, with operators on 5G"
     excerpt: "Microsoft isn't looking to bypass carriers in delivering 5G services; the cloud and technology giant sees operators and NEPs as partners."
     publishedDateTime: 2020-11-18T17:04:00Z

@@ -2,6 +2,246 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2020-10-22-mlperf-releases-latest-inference-benchmarking-results.md",
+      "title": "MLPerf Releases Latest Inference Benchmarking Results",
+      "excerpt": "The four new benchmarks are available in the TensorFlow, TensorFlow Lite, and ONNX formats, and include: MobileNetEdgeTPU: This an image classification benchmark that is considered the most ubiquitous task in computer vision. This model deploys the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.hpcwire.com/off-the-wire/mlperf-releases-latest-inference-benchmarking-results/",
+      "originalUrl": "https://www.hpcwire.com/off-the-wire/mlperf-releases-latest-inference-benchmarking-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2019/07/MLperf-logo.jpg",
+          "width": 398,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T19:44:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HPCwire",
+        "domain": "hpcwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-facebook-is-developing-a-way-to-type-using-vr-on-tabletops.md",
+      "title": "Facebook is developing a way to type using VR on tabletops",
+      "excerpt": "Facebook Reality Labs' latest research project, being presented at the Symposium on User Interface and Software Technology, demonstrates hand-typing on a desk at up to 73 words per minute. The project isn't ready for Oculus Quest VR headsets yet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "originalUrl": "https://www.cnet.com/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/CR8VckH_PQuQB_a1B_LRE-ROb9Q=/1200x630/2020/10/21/b81c65ac-f9f5-4d53-a672-74afeb77c6f0/frl-vr-typing-screenshot.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-is-developing-a-way-to-type-in-vr-on-tabletops/",
+      "publishedDateTime": "2020-10-21T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-best-facial-recognition-security-cameras-of-2020.md",
+      "title": "Best facial recognition security cameras of 2020",
+      "excerpt": "Select home security cameras have facial recognition, an advanced feature that lets you make a database of friends and family members who regularly come to your house. Then, when the camera sees a face, it determines whether or not it's someone in your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/",
+      "originalUrl": "https://www.cnet.com/news/best-facial-recognition-security-cameras-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/Po3RwqbEHc2CKBgcOkuRry496iw=/1200x630/2018/03/16/c5f6d887-4c17-4b92-8375-7b222196bd13/nest-hello-product-photos-4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/best-facial-recognition-security-cameras-of-2020/",
+      "publishedDateTime": "2020-10-21T19:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-saudi-launches-national-artificial-intelligence-strategy.md",
+      "title": "Saudi launches national artificial intelligence strategy",
+      "excerpt": "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10",
+      "originalUrl": "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/saudi-launches-national-artificial-intelligence-strategy-2020-10?amp",
+      "publishedDateTime": "2020-10-21T17:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-alexis-ohanians-initialized-capital-backed-an-18-year-old-y-combinator-alumnus-after-seeing-this-pitch-deck.md",
+      "title": "Alexis Ohanian's Initialized Capital backed an 18-year-old Y Combinator alumnus after seeing this pitch deck",
+      "excerpt": "18-year-old Y Combinator graduate Oliver Edholm has landed 25 million SEK ($2.9 million) in funding for his startup Depict.ai. The round was led by Reddit founder Alexis Ohanian's fund ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/depict-ai-18-year-old-startup-backed-reddit-2020-10",
+      "originalUrl": "https://www.businessinsider.com/depict-ai-18-year-old-startup-backed-reddit-2020-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5f91924021211300187401fe?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-aws-vs-azure-vs-google-2020-cloud-comparison.md",
       "title": "AWS vs. Azure vs. Google: 2020 Cloud Comparison",
       "excerpt": "with its strength in artificial intelligence, is positioned for aggressive growth as the AI market grows – and is known for offering discounts. Microsoft Azure – A close competitor to AWS with an exceptionally capable cloud infrastructure. If you’re ...",
@@ -989,219 +1229,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-activists-build-facial-recognition-to-id-cops-who-hide-their-badges.md",
-      "title": "Activists Build Facial Recognition to ID Cops Who Hide Their Badges",
-      "excerpt": "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "originalUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/10/activists-build-facial-recognition-id-cops-hide-badges-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
-      "publishedDateTime": "2020-10-21T12:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-global-automotive-voice-recognition-market-set-new-growth-story-for-future-development-by-2029-nuance-voicebox-iflytek.md",
-      "title": "Global Automotive Voice Recognition Market Set New Growth Story For Future Development By 2029 | Nuance, VoiceBox, Iflytek",
-      "excerpt": "Significant information concerning the production patterns, growth rate, and market share of each product fragment during the study period is stated in Automotive Voice Recognition Market 2021-2030 Radical Growth of Global Automotive Voice Recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/mediareleases/135902/global-automotive-voice-recognition-market-set/",
-      "originalUrl": "https://www.reseller.co.nz/mediareleases/135902/global-automotive-voice-recognition-market-set/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-saudis-launch-national-artificial-intelligence-strategy.md",
-      "title": "Saudis launch national artificial intelligence strategy",
-      "excerpt": "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS",
-      "originalUrl": "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2761LZ",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761LZ",
-      "publishedDateTime": "2020-10-21T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-how-ai-will-supercharge-spear-phishing.md",
-      "title": "How AI Will Supercharge Spear-Phishing",
-      "excerpt": "This example is hypothetical, but it's far from impossible. With the emergence of offensive artificial intelligence (AI), we are at the precipice of a new era of email attacks that move away from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.darkreading.com/edge/theedge/how-ai-will-supercharge-spear-phishing-/b/d-id/1339210?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
-      "originalUrl": "https://www.darkreading.com/edge/theedge/how-ai-will-supercharge-spear-phishing-/b/d-id/1339210?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.deusm.com/darkreading/theedge/602x250_good_bad_robot.jpg",
-          "width": 602,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T10:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dark Reading",
-        "domain": "darkreading.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence.md",
-      "title": "Nvidia makes a clean sweep of MLPerf predictions benchmark for artificial intelligence",
-      "excerpt": "MLPerf benchmark tests are an opportunity for chip vendors, and system builders, to show how much performance they can achieve on a representative set of machine learning tasks. Nvidia capture top marks against Intel in all the tests.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-makes-a-clean-sweep-of-mlperf-predictions-benchmark-for-artificial-intelligence/",
-      "publishedDateTime": "2020-10-21T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
