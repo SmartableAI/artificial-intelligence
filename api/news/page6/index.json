@@ -2,6 +2,109 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-17-intervenn-biosciences-raises-34-million-to-accelerate-cancer-test-development-with-ai.md",
+      "title": "InterVenn Biosciences raises $34 million to accelerate cancer test development with AI",
+      "excerpt": "InterVenn Biosciences, a company developing an AI-imbued platform for diagnostic cancer test design, raised $34 million.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/",
+      "publishedDateTime": "2020-11-16T08:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus.md",
+      "title": "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs",
+      "excerpt": "NVIDIA has revealed its newest workstation, and if you’ve always wanted a gleaming gold obelisk capable of putting petascale power on your desktop, the DGX Station A100 should do the trick.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
+      "originalUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg",
+          "width": 1680,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
+      "publishedDateTime": "2020-11-16T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-new-motorcycle-technology-provides-ai-driven-protection-for-riders.md",
       "title": "New motorcycle technology provides AI-driven protection for riders",
       "excerpt": "RideVision bundles a suite of rider-assist and active safety technology into one suite for riders. Active safety technology and driver-assist features continue to spread across the automotive industry.",
@@ -114,7 +217,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -218,7 +321,7 @@
       "originalUrl": "https://www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1124,101 +1227,6 @@
       "provider": {
         "name": "Chicago Tribune",
         "domain": "chicagotribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows.md",
-      "title": "It’s Managers, Not Workers, Who Are Losing Jobs To AI And Robots, Study Shows",
-      "excerpt": "This is a class of people we did not expect robots to have an effect. Because managers, by definition, supervise other human beings, so we really cannot replace their functions until the singularity occurs with artificial general intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb00928262a4a4cc9aaf465%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
-      "publishedDateTime": "2020-11-15T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-computer-vision-mobile-app-can-regularly-monitor-diabetes.md",
-      "title": "Computer vision mobile app can regularly monitor diabetes",
-      "excerpt": "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,",
-      "sourceUrl": null,
-      "webUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
-      "originalUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
-      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
-      "publishedDateTime": "2020-11-15T04:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsd",
-        "domain": "newsd.in",
         "images": null,
         "publishers": null,
         "authors": null

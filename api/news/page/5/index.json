@@ -2,6 +2,109 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-17-pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid.md",
+      "title": "Pairing AI With Human Judgment Is Key To Avoiding 'Mount Stupid'",
+      "excerpt": "Just as humans can use time and experience to build both our competence and confidence, so too can machines — but much, much faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
+      "publishedDateTime": "2020-11-17T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections.md",
+      "title": "Beyond Smart Cities: How Drones And Robotics Revolutionize Building Inspections",
+      "excerpt": "H3 Dynamics, a cloud-based inspection services platform uses drones and ground robots as the eyes and ears of engineers currently grounded by the pandemic, and long hampered by last century norms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaafd12c9bea733d9babce%2F0x0.jpg",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
+      "publishedDateTime": "2020-11-17T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-hover-raises-60-million-to-streamline-home-inspections-with-computer-vision.md",
       "title": "Hover raises $60 million to streamline home inspections with computer vision",
       "excerpt": "Hover, a startup developing AI-powered apps that create 3D models of homes from smartphone photos, today raised $60 million. The 200-employee company says the proceeds will be used to deepen ...",
@@ -1131,109 +1234,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-intervenn-biosciences-raises-34-million-to-accelerate-cancer-test-development-with-ai.md",
-      "title": "InterVenn Biosciences raises $34 million to accelerate cancer test development with AI",
-      "excerpt": "InterVenn Biosciences, a company developing an AI-imbued platform for diagnostic cancer test design, raised $34 million.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/",
-      "originalUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/intervenn-biosciences-raises-34-million-to-accelerate-diagnostic-cancer-test-development-with-ai/amp/",
-      "publishedDateTime": "2020-11-16T08:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus.md",
-      "title": "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs",
-      "excerpt": "NVIDIA has revealed its newest workstation, and if you’ve always wanted a gleaming gold obelisk capable of putting petascale power on your desktop, the DGX Station A100 should do the trick.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
-      "originalUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
-      "publishedDateTime": "2020-11-16T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

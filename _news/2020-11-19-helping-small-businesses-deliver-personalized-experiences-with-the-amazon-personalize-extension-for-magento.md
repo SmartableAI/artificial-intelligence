@@ -59,6 +59,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "Ternium Expands Adoption of Falkonry Operational AI for Steel Predictive Operational Excellence"
+    excerpt: "Ternium, Latin America’s leading steel producer has developed, validated and industrialized a Predictive Operational Excellence solution using the Falkonry Operational AI suite to reduce planned and unplanned downtime across steel production operations."
+    publishedDateTime: 2020-11-20T09:25:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-materials-industry-base-metals-industry-steel-manufacturing-410be4da04fb42fe9e1da6668b1a578f"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "vbImdqjbgJLFcd/gAT3s6rK1uh0MX5ErFwlbxnDJq4/7pLQ9TLUNw4P3oqPLUbvZtuo4E/0QB/rJsd4Ge9tok+pfupbq2SXY9JziYqC03a5K3OCWnXirqt+60ChAAbUOKZhQAzPKD8E3ynAL0CXD9v7LBtK/zeMhXySsBUPY0gCscbVfOeE3r2CriM5kINg0cMD3Yi3464chrnH+W0RyoNLNWF3/1BeMLpdawU0/MwO/6SgqCoWalyaT3PfdBFb/1pXXQSN5UdzFp1N8uvEgFOrzGTjenF5uCNMs7V4IfeidtqK1ZDZrD8Fp57Chw6d7cgTwiTMAY8rH9L4psnGa2eZwnp+/qwqOKzOsI6VoU3U=;TBr0tqelcwKoj1TMdz9YQA=="
 ---

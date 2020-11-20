@@ -71,6 +71,17 @@ related:
         width: 470
         height: 352
         isCached: true
+  - title: "Computer Vision Company Chooch AI Raises $20 Million"
+    excerpt: "Computer vision AI platform Chooch.ai announced it has raised a $20 million Series A round of funding. These are the details."
+    publishedDateTime: 2020-11-20T09:41:00Z
+    webUrl: "https://pulse2.com/chooch-ai-raises-20-million/"
+    ampWebUrl: "https://pulse2.com/chooch-ai-raises-20-million/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/chooch-ai-raises-20-million/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
   - title: "FRAM startup raises $20m series B"
     excerpt: "Ferroelectric Memory GmbH (FMC), the ferroelectric hafnium oxide technology specialist, has completed a $20 million Series B funding. The round of financin"
     publishedDateTime: 2020-11-18T06:57:00Z

@@ -2,6 +2,83 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-06-at-home-forever-and-ever-with-dean-britta.md",
+      "title": "At home, forever and ever, with Dean & Britta",
+      "excerpt": "The indie-rock lifers are living out their L.A. quarantine as bandmates and as a couple, still navigating where the line is between the two.",
+      "sourceUrl": null,
+      "webUrl": "https://mobile.twitter.com/nate_rgrs",
+      "originalUrl": "https://www.washingtonpost.com/entertainment/music/dean-warehame-britta-phillips-interview/2020/11/06/76439b38-1a0c-11eb-aeec-b93bcc29a01b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-self-driving-startup-ponyai-gets-funding-from-chinas-faw.md",
+      "title": "Self-Driving Startup Pony.ai Gets Funding From China’s FAW",
+      "excerpt": "After receiving a $400 million investment from Toyota earlier this year, self-driving startup Pony.ai has just struck another agreement with the Chinese FAW Group. This is the first strategic investment by a Chinese state-owned car company into an autonomous tech firm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
+      "originalUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2020/11/pony-ai-gets-funding-from-faw-group-2-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
+      "publishedDateTime": "2020-11-06T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-tech-news-artificial-intelligence-and-the-human-brain.md",
       "title": "Tech News: Artificial Intelligence and the human brain",
       "excerpt": "Humans have always dreamt of soaring the sky and since prehistoric times often attempted to fly by mimicking birds.",
@@ -398,6 +475,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
+      "title": "AWS Announces Plans to Launch a Second Region in India",
+      "excerpt": "artificial intelligence, database, Internet of Things (IoT), machine learning, mobile services, serverless, and more to drive innovation. Customers and APN Partners welcome the news of the AWS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
+      "originalUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/06/AWS.jpg",
+          "width": 2560,
+          "height": 1623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T23:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-chinese-driverless-car-firm-ponyai-valued-at-53-billion-after-new-cash-injection.md",
       "title": "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection",
       "excerpt": "A fund run by the Ontario Teachers' Pension Plan Board led the $267 million investment into Pony.ai which also included existing investors.",
@@ -447,49 +567,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
-      "title": "AWS Announces Plans to Launch a Second Region in India",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html",
-      "originalUrl": "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T21:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     },
     {
@@ -1078,110 +1155,6 @@
         "Google AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "The artificial intelligence market is often associated ... NVIDIA also sells its Arm-based Tegra CPUs for connected and driverless cars. Those high-end chips power infotainment and navigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598647%2Fgettyimages-687831316.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
-      "publishedDateTime": "2020-11-05T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
-      "title": "Dances With Robots, and Other Tales From the Outer Limits",
-      "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
-      "publishedDateTime": "2020-11-05T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

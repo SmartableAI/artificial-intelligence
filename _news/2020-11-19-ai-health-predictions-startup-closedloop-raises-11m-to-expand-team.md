@@ -35,6 +35,20 @@ related:
         height: 600
         isCached: true
   - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
+    excerpt: "ClosedLoop.ai, Healthcare’s Data Science Platform, today announced the close of an $11 million Series A. The investment round was co-led by Greycroft and .406 Ventures with participation from Silicon Valley Bank and Meridian Street Capital."
+    publishedDateTime: 2020-11-20T09:45:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-small-business-investment-management-d7a70e0d74184ac385f54fe8bb8232e2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
     excerpt: "Healthcare's Data Science Platform raises Series A to help healthcare organizations improve clinical and financial outcomes."
     publishedDateTime: 2020-11-19T13:16:00Z
     webUrl: "https://www.businesswire.com/news/home/20201119005052/en/"

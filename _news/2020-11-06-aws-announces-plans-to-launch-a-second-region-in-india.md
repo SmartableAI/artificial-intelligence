@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces Plans to Launch a Second Region in India"
-excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ..."
-publishedDateTime: 2020-11-06T05:57:00Z
-originalUrl: "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html"
-webUrl: "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html"
+excerpt: "artificial intelligence, database, Internet of Things (IoT), machine learning, mobile services, serverless, and more to drive innovation. Customers and APN Partners welcome the news of the AWS ..."
+publishedDateTime: 2020-11-06T07:26:00Z
+originalUrl: "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/"
+webUrl: "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/"
 type: article
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: CXO Today
+  domain: cxotoday.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://www.cxotoday.com/wp-content/uploads/2020/06/AWS.jpg"
+    width: 2560
+    height: 1623
     isCached: true
 
-secured: "V4/9t9WMM/Cw2Fnabijmvf/YJ0oMHjCO/diOmdVEfsog0b5yrogQqrhnL/j5yLrbnaahXrpTFMSZFlA+wjZ35Dxf9IS1hH9pHK3QPH1OqlIP7f9L4CBVzONQavUsqt9clBQgy3dir96M5F6kx+gDxjrT7ze7wzBCldvaqdSdVyMTJ9AL9JyTLFU7qsr6hbAkoOWAkttX4V4G0E+AE2C6cmloPlpp/yXy88jpMg2M6Ryeur4rxVjZww0Hh9cGYxr5/hYnO6BEss9XRALXYat6MTF26jZfajwuylv2lH9Hv1EpD3xqIvBj2+l6bEkf9zlsZQ+ZHf7IiC9TVGeuYjbeUILviX+e8AmJUDmE4GA1iWg=;Xglvi+3bQjf2CtbFe9C3Yg=="
+secured: "jT+81SUUn6qMjX1Ae+tq4mEz8snYxfd+cQulKdjhCblqj3Yg60UwBx+iubDGpUfmWWqkYRtwxWYbOiEJYacKI/y2o1oReQthAkJhg4XXQCc9ENjSehOo4bGfo1O3AKQNHeb5/dGX3Dfekjgk6IAosnwviyCrdMH7mO8cBnesNQf0lhuTuRydN4Dubg8O5iPG/oodE4cpxYMg3OV+I+o1V4rGNTpmdPinvPDvvHoQHJLJ5kOTLdsgYz6Tmg7R0JfkzZ26tELOId33rLIGa8SRjDnNLZMCbk0tDcN/3JBNn3INSC9VWqELFage0gP3b+7BVvz3LqBWXX+3HagWKK8jittktnnWQ8iep+Hpptnlh2A=;vG2T97yKbnNW+Z/CjKW4lA=="
 ---
 

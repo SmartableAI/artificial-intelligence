@@ -209,6 +209,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
+    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
     excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
     publishedDateTime: 2020-11-17T08:10:00Z

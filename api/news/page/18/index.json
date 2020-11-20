@@ -2,6 +2,110 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-05-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The artificial intelligence market is often associated ... NVIDIA also sells its Arm-based Tegra CPUs for connected and driverless cars. Those high-end chips power infotainment and navigation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598647%2Fgettyimages-687831316.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-11-05T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
+      "title": "Dances With Robots, and Other Tales From the Outer Limits",
+      "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "publishedDateTime": "2020-11-05T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025.md",
       "title": "Global Face Recognition Device Market Size to Reach 2054.8 million USD by 2025",
       "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
@@ -1079,100 +1183,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview.md",
-      "title": "Google launches Document AI suite of parsing and processing tools in preview",
-      "excerpt": "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/",
-      "originalUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/",
-      "publishedDateTime": "2020-11-04T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-museum-exhibit-explores-being-human-in-the-age-of-ai.md",
-      "title": "Museum exhibit explores being human in the age of AI",
-      "excerpt": "The de Young Museum cleared out its cavernous contemporary art galleries, painted many of the walls black and set up a harrowing tour through the landscape of artificial intelligence in the exhibit “Uncanny Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
-      "originalUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinij.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01-2.jpg?w=1024&h=576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
-      "publishedDateTime": "2020-11-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

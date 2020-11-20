@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization.md",
+      "title": "OctoML Announces Speaker Line-Up for 3rd Annual Apache TVM Conference Focused on Advances in Deep Learning Compilation and Optimization",
+      "excerpt": "OctoML, the MLOps automation company for superior model performance, portability and productivity, today announced the speaker line-up for the Apache TVM and Deep Learning Compilation Conference. The free virtual conference will cover the state of the art of deep learning compilation and optimization and recent advances in frameworks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.md",
       "title": "How Amazon Retail Systems Run Machine Learning Predictions with Apache Spark",
       "excerpt": "Amazon Retail systems uses Apache Spark with Deep Java Library (DJL) to build propensity models to drive customer experience.",
@@ -342,8 +394,8 @@
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -362,11 +414,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T04:00:00-08:00",
+      "publishedDateTime": "2020-11-11T05:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -376,10 +428,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AWS AI",
         "AI",
-        "Machine Learning",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1394,49 +1445,6 @@
         "AI",
         "AI Hardware",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-brainome-launches-product-to-optimize-machine-learning-development-process.md",
-      "title": "Brainome launches product to optimize machine learning development process",
-      "excerpt": "Brainome's new product, Daimensions, seeks to eliminate brute-force aspects of machine learning model development, integrate with existing CI/CD infrastructure and generate small ML models that can run efficiently on commodity hardware.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "originalUrl": "https://www.zdnet.com/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brainome-launches-product-to-optimize-machine-learning-development-process/",
-      "publishedDateTime": "2020-11-04T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

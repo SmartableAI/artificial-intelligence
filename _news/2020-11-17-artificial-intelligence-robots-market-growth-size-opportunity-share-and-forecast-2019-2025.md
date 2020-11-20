@@ -195,6 +195,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
+    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
   - title: "Global Artificial Intelligence Market 2020-2025: Industry Analysis, Market Growth, Opportunities and Forecast to 2025"
     excerpt: "The report “Global Artificial Intelligence Market 2020-2025” analyses the global market size by Regions, Sector, Component, Technology, Organization Size. The report also evaluates the market size of Top 5 AI companies,"
     publishedDateTime: 2020-11-16T10:07:00Z

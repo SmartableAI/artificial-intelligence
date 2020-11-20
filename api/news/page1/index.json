@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-20-tldr-this-ai-summarizes-research-papers-so-you-dont-have-to.md",
+      "title": "TL;DR: This AI summarizes research papers so you don’t have to",
+      "excerpt": "Reading scientific papers is a tough job. It might contain language and sections that you might not understand, and not all of it would be interesting to you. My colleague Tristan is great at traversing through these papers,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-research-summary-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/",
+      "publishedDateTime": "2020-11-20T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-education-about-ai-to-begin-in-high-schools-next-year.md",
       "title": "Education about AI to begin in high schools next year",
       "excerpt": "Artificial intelligence (AI) will be introduced as a new subject in local high schools next year before being expanded to the curriculums of kindergartens and elementary and middle schools by 2025, the education ministry said Friday,",
@@ -349,7 +400,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -503,7 +554,7 @@
       "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN27Z2FM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -651,7 +702,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1174,58 +1225,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-anti-adversarial-machine-learning-defenses-start-to-take-root.md",
-      "title": "Anti-adversarial machine learning defenses start to take root",
-      "excerpt": "Much of the anti-adversarial research has been on the potential for minute, largely undetectable alterations to images (researchers generally refer to these as “noise perturbations”) that cause AI’s machine learning (ML) algorithms to misidentify or misclassify the images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.html",
-      "originalUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/hacker_hacking_laptop_security_threat_attack_by_undefined_undefined_gettyimages-962366210_2400x1600_cio_cw-100852252-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.amp.html",
-      "publishedDateTime": "2020-11-19T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

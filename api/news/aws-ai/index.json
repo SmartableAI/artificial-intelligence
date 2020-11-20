@@ -1076,8 +1076,8 @@
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html",
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1096,11 +1096,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T04:00:00-08:00",
+      "publishedDateTime": "2020-11-11T05:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1110,10 +1110,9 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
+        "AWS AI",
         "AI",
-        "Machine Learning",
-        "AWS AI"
+        "Machine Learning"
       ]
     },
     {
@@ -1319,19 +1318,19 @@
     {
       "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
       "title": "AWS Announces Plans to Launch a Second Region in India",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "excerpt": "artificial intelligence, database, Internet of Things (IoT), machine learning, mobile services, serverless, and more to drive innovation. Customers and APN Partners welcome the news of the AWS ...",
       "sourceUrl": null,
-      "webUrl": "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html",
-      "originalUrl": "https://www.oaoa.com/news/business/aws-announces-plans-to-launch-a-second-region-in-india/article_b1a132c9-a220-5468-b33e-e94a616b57a8.html",
+      "webUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
+      "originalUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png",
-          "width": 576,
-          "height": 288,
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/06/AWS.jpg",
+          "width": 2560,
+          "height": 1623,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1341,11 +1340,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T21:57:00-08:00",
+      "publishedDateTime": "2020-11-05T23:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Odessa American",
-        "domain": "oaoa.com",
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
         "images": null,
         "publishers": null,
         "authors": null

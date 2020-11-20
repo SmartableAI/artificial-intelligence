@@ -2,6 +2,109 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-10-26-leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories.md",
+      "title": "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories",
+      "excerpt": "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
+      "publishedDateTime": "2020-10-26T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-techsee-raises-30-million-to-streamline-field-service-work-with-ar-and-computer-vision.md",
+      "title": "TechSee raises $30 million to streamline field service work with AR and computer vision",
+      "excerpt": "TechSee’s cross-platform, AWS-hosted apps employ computer vision to recognize products and issues and streamline warranty registration . For instance, TechSee Live, the company’s call center ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-10-26T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-what-will-the-next-ai-killer-app-be-given-covid-19-impacts.md",
       "title": "What Will The Next AI Killer App Be Given Covid-19 Impacts?",
       "excerpt": "This blog explores the increasing mental health risks, rise of loneliness and the introduces the value of affective computing where voice and emotion will make invaluable contributions.",
@@ -1070,110 +1173,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules.md",
-      "title": "Trying To Prevent Narco Self-Driving Cars That Act As Drug Mules",
-      "excerpt": "A recent news story described a narco mini-submarine that was scuttled in shallow waters after three men operating the vessel opted to evacuate and escape as authorities were closing in on them. Reportedly containing an estimated $100 million in cocaine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90c97b4f7c7f4774a83f34%2F0x0.jpg%3FcropX1%3D233%26cropX2%3D4337%26cropY1%3D93%26cropY2%3D2284",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
-      "publishedDateTime": "2020-10-25T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-want-to-invest-in-self-driving-cars-these-are-the-2-stocks-youll-want-to-own.md",
-      "title": "Want to Invest in Self-Driving Cars? These Are the 2 Stocks You'll Want to Own",
-      "excerpt": "While many companies are working on autonomous vehicles, only a couple are ready to let theirs hit the road in the real world without human backup drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/fc490c290584e81b2214cc869c7d78ba.png",
-          "width": 720,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "publishedDateTime": "2020-10-25T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

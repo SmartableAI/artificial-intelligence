@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Riverbed Unified Network Performance Management Takes Center Stage at Global User Conference With New Cloud and AI Capabilities That Deliver Greater Visibility Into Hybrid ..."
+title: "Riverbed Unified Network Performance Management Takes Center Stage at Global User Conference With New Cloud and AI Capabilities That Deliver Greater V"
 excerpt: "New visibility solutions and Riverbed’s NPM portfolio to be featured during free virtual Riverbed Global User Conference on November 17, focused on helping organizations maximize performance and visibility for any user,"
-publishedDateTime: 2020-11-16T13:52:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201116005100/en/Riverbed-Unified-Network-Performance-Management-Takes-Center-Stage-at-Global-User-Conference-With-New-Cloud-and-AI-Capabilities-That-Deliver-Greater-Visibility-Into-Hybrid-Networks-and-Remote-Workforces"
-webUrl: "https://www.businesswire.com/news/home/20201116005100/en/Riverbed-Unified-Network-Performance-Management-Takes-Center-Stage-at-Global-User-Conference-With-New-Cloud-and-AI-Capabilities-That-Deliver-Greater-Visibility-Into-Hybrid-Networks-and-Remote-Workforces"
+publishedDateTime: 2020-11-16T05:30:00Z
+originalUrl: "https://us.acrofan.com/detail.php?number=374505"
+webUrl: "https://us.acrofan.com/detail.php?number=374505"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: 아크로팬
+  domain: acrofan.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201116005100/en/647525/23/RVBD-Q118-OrangeLogo-RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+    width: 580
+    height: 339
     isCached: true
 
 related:
@@ -40,6 +40,6 @@ related:
         height: 475
         isCached: true
 
-secured: "G1ACkcYyb/zlqlHRvWT/OmoHkM8Wn3+aDiZF4eny0WSWP8SKS4/x9zL7MyWrOHtnE5sThEZsre0jKqld0lFuWtcyabuspOOFjYT0UHhTluP30cd//LuVqclZQoIwuNwOmwzcVN/93J8IxjZyB0MPs3alYxszWmUgbn6l8NpbvP33EwslAOpLfxHGGorxm7lIKDdvaP2dcMy+4Kt+G6qrEbKVOqWBPa4oXB+v1SiLg6OE15j9iOqUHwLPTsyP9+KyXc0+gZQeMJTU65pA9B35BYzznJEfXKAW+QOujGiBhhIW2OXVs2whQr4tlvGxdEfrYmNJKzpgZhWvliOQ0add0/mE7buITJIiZOlmu3YSh2A=;tytH1AuHuFMZ+lEyaanu6g=="
+secured: "w18+UwFk2sGxSmOSvxy56hRSggeCtg1pjsXXtUtaNKROLnaxjenhLkdQhnkLa3kR+MwrUEMKcdcxge4T21o4B5bOlMMKBqzw9nzm1vcDKHUvGYu0vHBdQwd0WEc6gXBUhoRVSH7tjtGj8R+cAnWxAwj3J+AnTZjDwdNfUl7SgpWI3KWlE8Bm40ET7QIwPPfCcvupbYWqIpIPgNr6kjjxdNpnU2q8+PIAXTe8pdExurZVEROSWuJZR9fgK+s4OZQh6er8T8bFATRl8t2bsTFiceGROKPTYigiefRiHcQN2VjpG8Zimyj+/YSPXimKw1+PJ+n7bqg0aHVzC8J5ZsbXTPR1Zq1/M1I0PJ/06TxFRSs=;vMZkrqnJ48LanuIiTQBGrA=="
 ---
 

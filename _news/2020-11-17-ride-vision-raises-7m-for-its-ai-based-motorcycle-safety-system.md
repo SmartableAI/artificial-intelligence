@@ -60,6 +60,17 @@ related:
         width: 470
         height: 352
         isCached: true
+  - title: "Computer Vision Company Chooch AI Raises $20 Million"
+    excerpt: "Computer vision AI platform Chooch.ai announced it has raised a $20 million Series A round of funding. These are the details."
+    publishedDateTime: 2020-11-20T09:41:00Z
+    webUrl: "https://pulse2.com/chooch-ai-raises-20-million/"
+    ampWebUrl: "https://pulse2.com/chooch-ai-raises-20-million/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/chooch-ai-raises-20-million/amp/"
+    type: article
+    provider:
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
   - title: "Computer Vision Company Chooch AI Closes $20 Million Series A Round with Vickers Venture ..."
     excerpt: "(GLOBE NEWSWIRE) -- chooch.ai, a computer vision AI platform, today announced their Series A round led by venture capital firm Vickers Venture Partners with additional institutional funding from 212,"
     publishedDateTime: 2020-11-16T17:02:00Z

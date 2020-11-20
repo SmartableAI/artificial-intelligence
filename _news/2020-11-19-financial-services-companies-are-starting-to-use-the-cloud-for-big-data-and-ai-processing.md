@@ -3,10 +3,10 @@ category: news
 title: "Financial services companies are starting to use the cloud for big data and AI processing"
 excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
 publishedDateTime: 2020-11-18T16:27:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+originalUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+webUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
 quality: 80
 heat: -1
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
@@ -101,6 +101,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "AIQxQ3jgoTdFtPkSLNpi8hNI1uEfPWBzBVQo8lFLKPYnFvcjE1m+1cymlZfIhJ/NEQ23si9ZcNt3iFN1iOMWgqbUdRBwWWUHaLizM4wj1SeAgcHbBjk8/69Z7UiYsJIlelQzT651Hj1h1lrt0A2OJdK5HEWyP5aIIK35NE6/jdsfdbcyyHVSq4VMGo1sWcr415LpmN5yh0l0eca5CvoU6JdzBqq8wzhiD0JIsO7R2omzg9pW5z+f7eHxVWFeAgOWULreVoZU4lKiasT7SJI1LGPzjqHj7avhI/KUQZ1Oco+f8Qub8Cp8HcH0VQWdCsUcbrcs2NCzO0GHZc/SE0CdQAGvysOTsuhAiFkg41bM3EJOxce4iVf2wP+ulvOxsl/A0shKOzMpjwB7pOZlRshNoHgl64O6SXwY87ooEwYV4oqsVRN3ec2dsrzhpdKflsJFN562Slx+frvFi5l9/KQp/6aKGOB/ovrgKmFyIRt1MWwxG0TzUcznFr9diUBBdzyqsRA/K24NPidxU1sSvYdicg==;FqWh5UPGE/mlJSTHGT7iDQ=="
+secured: "9vZ6JJZhqaGELv/mmcv7tf+xIeq4cWzHUND6+qMxQceHDhMbjgGxHZhfpzxScF7nxJoNJm5EH2t3Z44Obam39Z+mcU+GpwTtbS9h7PFo99IriXoKybjdeyP8TEMt2R3oa4fpR0fJ6U9sxj9m5X7pRhbGJLczVjVr9JCeaiB6a+gevp7fXeuYZ2fUvVVoqqu1tJ+y7x/EKIKasPvHbVl5fQcg6ZpMnm8zZsEKK7gdHpeAvQ2OPniXN7COZZQUasS1R643Q3Hd6M0n2mS+h8IO4VQdqFlc5qeYQBwj6pALZjYng+Z6/PduaiGI3O8MwbqpbapxLn3pf7fkWr9enaotgpnk3bXLBGo1IwY98bCFmRM=;sqvLICIUGSVLh+eP+syxFg=="
 ---
 

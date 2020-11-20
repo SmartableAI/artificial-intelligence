@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Riverbed Unified Network Performance Management Takes Center Stage at Global User Conference With New Cloud and AI Capabilities That Deliver Greater Visibility Into Hybrid ..."
+  - title: "Riverbed Unified Network Performance Management Takes Center Stage at Global User Conference With New Cloud and AI Capabilities That Deliver Greater V"
     excerpt: "New visibility solutions and Riverbed’s NPM portfolio to be featured during free virtual Riverbed Global User Conference on November 17, focused on helping organizations maximize performance and visibility for any user,"
-    publishedDateTime: 2020-11-16T13:52:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201116005100/en/Riverbed-Unified-Network-Performance-Management-Takes-Center-Stage-at-Global-User-Conference-With-New-Cloud-and-AI-Capabilities-That-Deliver-Greater-Visibility-Into-Hybrid-Networks-and-Remote-Workforces"
+    publishedDateTime: 2020-11-16T05:30:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=374505"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: 아크로팬
+      domain: acrofan.com
     quality: 0
     images:
-      - url: "https://mms.businesswire.com/media/20201116005100/en/647525/23/RVBD-Q118-OrangeLogo-RGB.jpg"
-        width: 1200
-        height: 627
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "HhoqmQ84jTrdLWfrQH4zS7NfPMgDzOsfzpcULhnorQbUq/g1seS2Gpa+ye8b+BFvkfWifohMjVki6GgA4EzAZ/SoJjsw+l8DQ58Od4xypvY0erC4x0zHruGHoSs7TXnIJkApIaNjCH75iPWSjR/6uJ2UkS7SAI2YBDXxAzOtB/bmHNAU0f+Yv331zjoxxIJhQPIHwkBaHQ5IELP8BPrEZn82ikLg0OB6kc1icf7avnvtMjYiEEV7byyRzsghem28LKEOo2PDFTErVOBEO+203QX3M7Cd/gHVfm66g85T7dzf4qUeT4xA5ypx+q8INMf6nrWc1R7O8RXYo3rgI2lD94Qq0GiEGnL31UGLbguybeTBoxcqED0FnWcZ2O2ZjiYL+4XYgT11/RIB7Ly9UMKOrHKIYheuQnzK8E9hVAeu1tgzQXoZ1oUeM3H3lP5t0xQN2s8H7CpnkPCORDyMLsIBQS7gfI1hkG1cBMMJzAN71eTs5zuu/TRzl6QCfYdEW6MSSNB9/QVgNWG6bBjDMX8H7Q==;WSec8YNNQ6FFOmJApXUQ0A=="

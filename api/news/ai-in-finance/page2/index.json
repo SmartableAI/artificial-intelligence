@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-27-the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions.md",
-      "title": "The Evolving World of FinTech, Robo, AI, ML, Data, Analytics & Digital Solutions",
-      "excerpt": "Hubbis Digital Dialogue delved deeply and intently into the growth of the influence of FinTech in Asia and at the universe of digital solutions being promoted and rolled out across the region’s offshore and onshore wealth management markets,",
-      "sourceUrl": null,
-      "webUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "originalUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-ap-southeast-1.amazonaws.com/img.hubbis.com/home_middle_optimiser/img/article/cropped/5dadb5afdf30baed67f92c3ff22886d3f565c54c.jpg",
-          "width": 480,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hubbis",
-        "domain": "hubbis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-10-26-commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning.md",
       "title": "Commentary: How Japan’s ABEJA helps large companies operationalize AI, machine learning",
       "excerpt": "ABEJA has developed proprietary tools to ensure that its AI Consulting engagements do not metastasize into endless ordeals.",

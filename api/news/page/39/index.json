@@ -2,6 +2,111 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-10-21-flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip.md",
+      "title": "Flex Logix Announces Working Silicon Of Fastest And Most Efficient AI Edge Inference Chip",
+      "excerpt": "Oct. 20, 2020 /PRNewswire/ -- Flex Logix® Technologies, Inc. today announced availability of its InferX™ X1, the industry's fastest AI inference chip for edge systems. InferX X1 accelerates ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip-1029698291",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/flex-logix-announces-working-silicon-of-fastest-and-most-efficient-ai-edge-inference-chip-1029698291",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1315898/Flex_Logix_InferX_X1_Infographic.jpg",
+          "width": 400,
+          "height": 201,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-mit-csails-ai-revives-dead-languages-it-hasnt-seen-before.md",
+      "title": "MIT CSAIL’s AI revives dead languages it hasn’t seen before",
+      "excerpt": "Unfortunately, most lost languages have such minimal records that scientists can’t decipher them by using conventional machine-translation ... the only ones to apply AI to recovering long ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
+      "originalUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all",
+          "width": 1156,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/mit-csails-ai-revives-dead-languages-it-hasnt-seen-before/amp/",
+      "publishedDateTime": "2020-10-20T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-ai-powered-fund-thrashing-sp-500-is-wary-of-cyclical-bounce.md",
       "title": "AI-Powered Fund Thrashing S&P 500 Is Wary of Cyclical Bounce",
       "excerpt": "The AI Powered Equity ETF (AIEQ), an exchange-traded ... The fund’s “manager,” a model which runs 24/7 on IBM Corp.’s Watson platform, is heavily overweight health care and consumer ...",
@@ -1109,82 +1214,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-juniper-to-spur-ai-based-solutions-with-128-technology-buyout.md",
-      "title": "Juniper to Spur AI-Based Solutions With 128 Technology Buyout",
-      "excerpt": "Juniper Networks, Inc. JNPR has inked an agreement to acquire smart wide area networking startup — 128 Technology, Inc. — for $450 million. Through the deal, the network products and services provider aims to expand its footprint in the AI-driven enterprise solutions market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20",
-      "originalUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/juniper-to-spur-ai-based-solutions-with-128-technology-buyout-2020-10-20?amp",
-      "publishedDateTime": "2020-10-20T06:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-biped-robot-maker-agility-raises-20-million.md",
-      "title": "Biped robot maker Agility raises $20 million",
-      "excerpt": "(Reuters) - Agility Robotics said on Thursday it raised $20 million in funding, in a round led by Silicon Valley venture capital firms DCVC and Playground, as two-legged robots start walking out ...",
-      "sourceUrl": null,
-      "webUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "originalUrl": "https://fr.reuters.com/article/us-robots-agility-funding-idUSKBN2701GG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2701GG",
-      "publishedDateTime": "2020-10-20T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

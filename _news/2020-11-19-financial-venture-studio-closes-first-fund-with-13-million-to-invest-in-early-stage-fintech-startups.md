@@ -129,18 +129,18 @@ related:
         height: 300
         isCached: true
   - title: "Seoul Fintech Lab Supports Korean Fintech Startups to Move Into Europe"
-    excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on Nov 26 to provide business matching opportunities for Korean startups."
-    publishedDateTime: 2020-11-19T09:19:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005553/en/"
+    excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between Korean fintech startups wishing to set up business in Europe and European investors and financiers."
+    publishedDateTime: 2020-11-19T09:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-luxembourg-south-korea-34478718a4fb43d2ae1144186e1b0373"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 24
     images:
-      - url: "https://mms.businesswire.com/media/20201119005553/en/840377/23/poster.jpg"
-        width: 1200
-        height: 627
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "mVVtKj6XFwEBrzpxp5HIso+hSodwfc/YJWr9d7jebTqpCe6NSvYdpVP2iFNcq+y5jW406ydBFz64aQ/WsVttwzRMFkl99xgMMv7+LMdnoDVSWf072VEXq42e9t5U3K/VbtFH6+RjE8TvqCnhdbEhnOwixi/Q0al9Dk1rabAhsY+ea1QGvsx4/3QAA8eRhaIFD5m0WdwoczsDlNahnc+zYInd13izgw5+R22rFsJ/lGjaublmng3yueq1iAiic0wqnfjM3ctT2SeyjUFWy3C2wt3H09rOV/iOyDFpjcmg/5E63ASqd2giIAiXSK6JHieFvDyWp0qYeggjQCiAJBEjPj2wpUszo4ACYEzIKvyEDNA=;YrXdJ/eck8funN9/N10Omw=="

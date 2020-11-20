@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Seoul Fintech Lab Supports Korean Fintech Startups to Move Into Europe"
-excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on Nov 26 to provide business matching opportunities for Korean startups."
-publishedDateTime: 2020-11-19T09:19:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201119005553/en/"
-webUrl: "https://www.businesswire.com/news/home/20201119005553/en/"
+excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between Korean fintech startups wishing to set up business in Europe and European investors and financiers."
+publishedDateTime: 2020-11-19T09:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-luxembourg-south-korea-34478718a4fb43d2ae1144186e1b0373"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-luxembourg-south-korea-34478718a4fb43d2ae1144186e1b0373"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201119005553/en/840377/23/poster.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -140,6 +140,6 @@ related:
         height: 300
         isCached: true
 
-secured: "+VK9OAqtzU1pdHP5gk+bdPRDoYkwO6FgJPQVXvOrViAI3TxBFc7FALmbqIcAebkl3UvGuuV1pFwGQDWoVqxXFS0fPPCHbi1y4rZyQ8eky2zhOy4jRAJareAudwVrcLfLCPyKYMN+F8Wb46VNxUurl/dn9MV8wQ+lrCMIYIFGi66nfHbDhThAVezCQ/3LbBd1lBOw+zCl4kPP0ExumuGA3/QGpH7U8VnpdxHU3Ax5MrAOnDVHQHAdVBe7fJji1necGsw9wsPJdIbhpXMImbiIejsG/OTm20KRkEayiqeQ6tKJv3gAf3OU4XlUBjMggR3+kG0B0XirS2CbeMXPBVwwuP17ExHMt2cRizXUAlaibic=;PntsPiFNDcn22rs/DUTXXg=="
+secured: "iBIAB9tRXOg7CqsdXo7Kg4cUxP9sfWTswi2kyahBqR1mxJpnQr8pkFKKHyPVnXjfLVXLyXMbvsPMIvQ7yFnyJnCiXT6HWvgjZ7XhffOHOs91ALIw4WRi1Uj0GB+7oWadEBEFYJG0o2WHWHAmmpw6ntKpv0gQgdV5XahBaox3AK3jZRVD3o2kro2iLE02C/pK8Ww15JLY8FoRpnNMxQkfxSU5zcMpgtwy+ZVkEZIhIfoSL5Zcqn3KvOq+S8jC4I0zICTJoP9IVN/YJPvXR3rInSOyAR0CzhVKAvM+UI7wTDzIykUigZGubhUSok9wR5BxGt8haTsyP0H7K5cyOPMx0IYvVG8lXO7/oRhPCxoh+lI=;Rk+wUXylHEN87c8HbIu8Pw=="
 ---
 
