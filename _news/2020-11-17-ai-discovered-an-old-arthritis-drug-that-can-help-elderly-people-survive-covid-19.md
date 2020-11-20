@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthri
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/"
 type: article
 quality: 82
-heat: 122
+heat: 102
 published: true
 
 provider:
@@ -46,29 +46,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How AI is helping lung cancer patients in Covid-19 era"
-    excerpt: "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms."
-    publishedDateTime: 2020-11-16T06:56:00Z
-    webUrl: "https://www.bbc.com/news/av/technology-54815149"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y2wck.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
-    excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
-    publishedDateTime: 2020-11-16T14:06:00Z
-    webUrl: "https://insidebigdata.com/2020/11/16/the-future-of-artificial-intelligence-in-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
   - title: "Health systems are using AI to predict severe Covid-19 cases. But limited data could produce unreliable results"
     excerpt: "Some institutions have not published any results showing whether their models to predict a Covid-19 patient's trajectory actually work."
     publishedDateTime: 2020-11-18T09:41:00Z

@@ -55,6 +55,15 @@ related:
         width: 849
         height: 1872
         isCached: true
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-20T00:48:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117192605.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 29
   - title: "New radar helps self-driving cars navigate safely in bad weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T12:31:00Z

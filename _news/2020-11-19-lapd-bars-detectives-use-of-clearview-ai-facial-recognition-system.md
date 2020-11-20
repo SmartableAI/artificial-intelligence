@@ -236,6 +236,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
+    excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
+    publishedDateTime: 2020-11-20T00:06:00Z
+    webUrl: "https://www.colorlines.com/articles/lapd-bans-use-commercial-facial-recognition-technology"
+    type: article
+    provider:
+      name: ColorLines
+      domain: colorlines.com
+    quality: 39
+    images:
+      - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "WsVmDAyX0yytq3/xTcHuHjBdCttR5wr3a817NY4/lEIdaNyf6lCBDFmEvkRA2ZjR5hLITlAQzbksO+8cqhKE5dlp81va99Nviv1P2v/u2B3XbWbx9pIHNeE55Gd5SCKxk2q+jEHg0ORqKSOLsKNiaureYak9YYwaHnnmLwBcPOc/huCdtOAZU3ObQixNfdAeFIEi7sls8DOlVmUYmpqBDnVdrtcpHiOhE1eWxe/DclPxRrpvksWQk52AbEes+TxeI0XOSQqW6cjV/JUlAtjYTZ+5wMJCJ0MfKn+52q3iouysX9OFXPVI8B6ZelU45jo8OXbrkqkFXiw/SUZlFXWu1FSLM/SBBkvwCaPPFuFDw3G+webgFeWwIPsdLXdEAWI6dgnw11kigQgfrI71MzX5L/ZF9LR9N1RXz2MRHUrXRiw7igIzxu/teekSWZJTlCULIxdUOjLEuCAfDsoEK6nM6ZJ8ffJxyz3XZ/pChP962KA0E5Su/JdKEDSKAVoWB89PllFtZJNARGfgdV2W0kQlVQ==;MNX6A7Bx/kemKxZZyMXZlg=="
 ---

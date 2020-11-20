@@ -3,8 +3,8 @@ category: news
 title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
 excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
 publishedDateTime: 2020-11-17T14:39:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
 type: article
 quality: 12
 heat: -1
@@ -65,6 +65,6 @@ related:
         height: 668
         isCached: true
 
-secured: "/4vTssQ/wR3J4HYskRqe7cI92O/sR/5c8DZoagSVR7GHk/Vxd4osWokwwvl1VnD0Rt09gVsn58BfafJP4fMes9NCnEDrdwpA080Hg9VvyRhX3aGXJV8T8Bmq0y+x5rDQeYrlJTUuD2rOI3b75XrdLVnpi+ZcIRWJcQJoi04vFmxzLHtt9sL0/nFf3mOfryExGN146Q16Zr+DSqTajgKV2byoYwD7xa7rAHdHI/cpoVrvKUwUAIorVA0NfUjvIlxGwiXo04duSp3hMkn542ygjvsy4OY3OS3PBtn3YM0k9C6xD1xyywdfno1W+vnmbN8pgKKG66+v6If2EgvyDEu7F90hv/M7dLl4ejRhJkoJIZw=;CJnWlevpCbz1BRSX+OO1Xw=="
+secured: "nH6UYmuelXQISJhXU9FwjYbt2krQQGqI/lWKCv9eLclTlZxuD1mhns5Adt4b5QFjskKOYnBWCzFQ/dIrKZvYm3+7EEOdD1q9vhkfaHdDO1JDJo+5AY4IhcqP/dznmlJANdY6NucMBwCqq10wLDfbTU67SIHiNRNhUhzyz/1AoX5LGEFexNo8AJLCN23ZjpKmeYnrOHDd+DDB+kV62/960fljw+wKlsWyLtJw9jVIJdEaTYANUTjkuXgM5ttsQLKqHtaJ0e1JuDS9K5DY+Vov7HZMfSytvFZ7pK0gVgEMiQ0vx5XGBgITiQQ+LUXE+6HR/+YBAi6ozt9irv0dJ6YEq/4WhvFDG/zdIyBgwB5BSJk=;yfhQVja22NwCyzytgnMQDg=="
 ---
 

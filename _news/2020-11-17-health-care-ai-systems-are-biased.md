@@ -25,19 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Robot-centred healthcare systems become a reality"
-    excerpt: "Artificial intelligence has already had an impact on healthcare data, but the next steps will be taken in the physical world"
-    publishedDateTime: 2020-11-15T08:43:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/robot-centred-healthcare-systems-become-a-reality-001374bc"
+  - title: "Savvy enterprises can mimic success of cognitive AI in healthcare"
+    excerpt: "Cognitive technologies are being deployed to solve the world’s biggest challenges. AI-based bots are working side-by-side with humans to increase quality and efficiency. Here’s how enterprises can put cognitive AI to work in their organizations."
+    publishedDateTime: 2020-11-18T13:03:00Z
+    webUrl: "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html"
     type: article
     provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
+      name: CIO
+      domain: cio.com
     quality: 56
     images:
-      - url: "https://img.resized.co/businesspost/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvaW1lbmdpbmUucHVibGljLnByb2Quc2JwLmluZm9tYWtlci5pbz91dWlkPTkzMTQ4YzI2LTlmODUtNWUxNi05ZmIzLWY0NjEwMGU2MDQwYiZ0eXBlPXByZXZpZXcmcT04MCZoZWlnaHQ9MjE4Ny4zMjE0Mjg1NzE0JndpZHRoPTM4ODgmZnVuY3Rpb249Y3JvcHJlc2l6ZSZ4PTAmeT0wLjA5ODIxNDI4NTcxNDI4NTcxJmNyb3Bfdz0wLjk5OTk5OTk5JmNyb3BfaD0wLjgwMzU3MTQxODU3MTQzXCIsXCJ3aWR0aFwiOjY0NyxcImhlaWdodFwiOjM0MCxcImRlZmF1bHRcIjpcImh0dHA6XFxcL1xcXC9zMy1ldS13ZXN0LTEuYW1hem9uYXdzLmNvbVxcXC9zdG9yYWdlLnB1Ymxpc2hlcnBsdXMuaWVcXFwvbWVkaWEuYnVzaW5lc3Nwb3N0LmllXFxcL3NicC1uby1pbWFnZS5wbmdcIn0iLCJoYXNoIjoiZWQ0OTNiOGQ4MTY3NmQ4ZGI2NTAzN2FlNjBjZmE3MDNkOTEyZmZmNCJ9/robot-centred-healthcare-systems-become-a-reality.80357141857143"
-        width: 647
-        height: 340
+      - url: "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How artificial intelligence is delivering results in healthcare"
+    excerpt: "GUEST OPINION by Priyanka Roy, product consultant, ManageEngine:  Growing populations, cybersecurity concerns, staffing shortages and rising healthcare costs have been putting pressure on healthcare systems around the world."
+    publishedDateTime: 2020-11-18T23:41:00Z
+    webUrl: "https://www.itwire.com/guest-articles/guest-opinion/how-artificial-intelligence-is-delivering-results-in-healthcare.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://www.itwire.com/media/k2/items/cache/65099bb106d663801f65a65f8fd7228d_M.jpg"
+        width: 375
+        height: 568
+        isCached: true
+  - title: "Making AI Accessible to Any Size Enterprise"
+    excerpt: "In this sponsored post, our friends over at Lenovo and NetApp have teamed up with NVIDIA to discuss how the companies are helping to drive Artificial Intelligence (AI) into smaller organizations and hopefully seed that creative garden."
+    publishedDateTime: 2020-11-19T14:02:00Z
+    webUrl: "https://insidehpc.com/2020/11/making-ai-accessible-to-any-size-enterprise/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 37
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2019/06/Lenovo.jpg"
+        width: 900
+        height: 900
         isCached: true
 
 secured: "BAOL7/2foleV39I1qFO3I8Nq0fti01V4QeVpPeCcc/o1v+Pm6q4PbZdcj3WSIxGkTnLU7jok0zICLww3Zdt115KIx101EikS/l9YFx1zzAacWUpcrebpPpropn7Ni2QMHa7ORlmaADoBn+fwbEeEE43EnhpIGoNd0e0HQ4IdhIyFqM1vh9rjhwyJZ8y4yXqtJ1uQdIOSFnq/XeT8vgD0pvgNumxjKwf9E06gr0f2aUDIsb9oWbF5EwhkIdO0rz9DBXsi9X2AwGQvyV/jft/gdg/HS1XGRFRJ4cBdYBHNMkLJLgtwnzbXTVwtuKQT5zzz4yPvGFtkGyMebvFOBg330XZZaqm7EslSQIVp8RI8MXpeuPVc0vuWwZO2Bo52NJEmQTgSvBkymW1rczTOzCw/BXtDfCV90qPAVAS0jrKgrrUQou1VF4LtIwDEv5QATM2gk9E4tM6pKVy0BS7fH/Kfaj3+2U29JJqiz2jHMKHtpMW8P6hZczRLzSe99L0WNo3vEkZ5iIKopIk9ZtO3rmBmvA==;CqV4s+YkYyVbpD5bHYb6Kg=="

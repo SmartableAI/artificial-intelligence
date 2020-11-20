@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/new-motorcycle-technology-prote
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Artificial intelligence in oncology care saved $3 million for one Texas provider"
+    excerpt: "Automating risk stratification kept patients out of the ER, giving financial incentive to move to an alternative payment model."
+    publishedDateTime: 2020-11-19T16:09:00Z
+    webUrl: "https://www.healthcarefinancenews.com/news/artificial-intelligence-oncology-care-saved-3-million-one-texas-provider"
+    type: article
+    provider:
+      name: Healthcare Finance News
+      domain: healthcarefinancenews.com
+    quality: 34
+    images:
+      - url: "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/Oncology_doctor_consults_with_patient_crop_44.jpg"
+        width: 635
+        height: 353
+        isCached: true
 
 secured: "G/aD6Eqw5KraPO5rH0dHA1f8VPyiirmuAzt9C/sXh+4GkeirY/0zK58drKZmGAOSAxqxWxHQ1FOod9YQF2Berf56iv2+4tvCWzb8d6H25q957qlm3Cjel0SdB9dYHcsfW0cJtac0WIlSXtpszL8Pvyk9cXOuBwLetsVmwyzp5ppGJLkDIPfNOx6mrxc8rJvq6sLda4f3HkEd3E6EeJuT3v+ET0pVNI5OddTSR29Pd26Io6uY3Tk0IeZGXMVX6sodEIy8BF/Ly3B7W4j7fLoDjqiBAPurEAuK9Cylh2TYX/W4Rej3lf8AQXhp0FuUMCguBDCrH2S6naVrEO+2/39bzmLuyhhzoSF0+K9gpybfwoE9YTpow6rIIchzqZoS7vGyScjnk8L66xdbPh+fCq+r4y+2CBybcjSsnIcLCiDOKwfMTv5a0g0VRk8JOpZNq5WssLIKquQGOM160anRQrbGOiZV+e0J/tawVNWW/0QUF8gRMKpEJBX6POFEqhrqadD3s2IcQPN+6H6xs4vSERGK7g==;b70An327xo0YYFEt9VyVBg=="
 ---

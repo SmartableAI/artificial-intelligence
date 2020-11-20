@@ -56,29 +56,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "How AI is helping lung cancer patients in Covid-19 era"
-    excerpt: "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms."
-    publishedDateTime: 2020-11-16T06:56:00Z
-    webUrl: "https://www.bbc.com/news/av/technology-54815149"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y2wck.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
-    excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
-    publishedDateTime: 2020-11-16T14:06:00Z
-    webUrl: "https://insidebigdata.com/2020/11/16/the-future-of-artificial-intelligence-in-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "oFwoSyMktEPzyofEa5sNJeAB7UJfi0xZzHTo8Ig/ycAnqxyU/igMljStc1wXAGwiNlEhpsd/RWthF7hEmHUSz/9/1zUIvi/bSAR9xcGQvgOeUHUTLOwA176oLRxvYHqyToSWfzEpAgsccvqjvr59ddSJ08uv1Ny1J9SNMcXooSvf0GGb8i8bsxDYyvdaH2KBIkcT5xj5AwiYPqiB2BNiadkTYgpfy0FlIF3jN91FTRPIIOdqvH0ln9i/21hg+ZTki2DSQ+Gh74GvBu4uM9ydUArbF3CYC05xyljYvIVkFTi35aoyGLJh1qaDWYseUvNIjDwqMkt3tU9fDBzCRrh9I3wQmwVr7uzkZ1SgYEOFjNE=;KoNf998I5ntRZf3bMQFivw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-machine-chemical-library-drug-discover
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp"
 type: article
 quality: 57
-heat: 89
+heat: 87
 published: true
 
 provider:

@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento"
+    excerpt: "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is"
+    publishedDateTime: 2020-11-19T23:26:05Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 71
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg"
+        width: 727
+        height: 630
+        isCached: true
 
 secured: "Mxz9v8Js4+AyVsQXHxFPivp+QehWSw43i8LBju0FwO17Ktx8rik1CP1R1hj2KH1wnhU825g+zgYYmVy+owVW3XdeGls3TjsUA/TilCTSsNCRGqa2dD1CtbaV8Xo+HO0gcFbCHeyjKmhRtHpxFVuZVzlCt1Gpo0d7VG/hc3KCjkQBOFo0iPAP/bsv+NqZ7N7tOcVRMXmm3YEDif+Mig+SGKenkkRDKwKBqi2Q/PmOy9ShaPAnx9X6GV99NMrThXVhj1zXua7M1cOTycEWcK9rUfqqXH492K1wspShR2EgYKssRnRi05WkY90up/3ILl66fM98k/ol3dR9Ga20nvrmN4hGA1FDwlOjwrzfA6j9VSIzUKcvhIgN+YZtzs7prAcP25O2Ez4Apw0Yh6717dVdjIDaQg6bsFIxu+s9H4D0fEYkcpAyCN38j42MsX3zgol6Y2n2SK8/NndCvmuhMPk+zNpYOKUF4hLRzTrsiAkD6ocK7TFODbNvCCfRz0+jhBCLpu5R9VWNdhBH4K7j/faJVA==;gdXgtNTek0r1H5bl+EYG5w=="
 ---

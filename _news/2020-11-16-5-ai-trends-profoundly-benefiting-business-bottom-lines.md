@@ -9,7 +9,7 @@ ampWebUrl: "https://www.blackenterprise.com/5-ai-trends-profoundly-benefiting-bu
 cdnAmpWebUrl: "https://www-blackenterprise-com.cdn.ampproject.org/c/s/www.blackenterprise.com/5-ai-trends-profoundly-benefiting-business-bottom-lines/amp/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1388
     height: 755
     isCached: true
-
-related:
-  - title: "AI business matching at Autumn Sourcing Week | ONLINE"
-    excerpt: "Hot products from 11 sectors, webinars cover latest market trendsHONG KONG, Nov 15, 2020 - () - The Hong Kong Trade Development Council (HKTDC) is running"
-    publishedDateTime: 2020-11-15T07:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/a18373716/ai-business-matching-at-autumn-sourcing-week-online"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18373716"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18373716"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "doAqVMKpkTySid9NavrUWzkKscl/H2+Pyu2r4IrNT5NhpxY897p07mQT4L+06TuVe/T/hNzNczsQH3Tf/WG7sSvJtrna2Ttlm7V31XLZVzyP6D9DAqoKCB7ZQZ5Y7Kg0thcvKP0wjBqytsAIGjTcTPZJZVkEwGc3otsZdXYQ88vR7W6R/Sa08t5ewpab3ZVPeouHsn/1hwVIACds2UfOROh7ABhIpO7l7PlpJTVLH1IkhY7CzF0BPd11wueESjlMBqPibpN4soYZk+kqPYXExC9f9U9KkJF1ifo2M/+xGZep5VtM4tKg9HS8D86D5HnEunKJuEHk2aLRQ56et+itxTw0Q+God5RAiFbUQOuvaax7RrhAAedJ9EPlkqeqTM7wHytlvq1fpH9fvNwyHFCuiuB9f49Hj+ReAnjUlTJQM/hCvnBE5biIIPvNrJSDl9rYCumdb/Mz/3rCZaQjP3fBMW/i/UlzZ7t3TtijOBSmKc/9t3OBkLXA4XyZpUnOlevmmRZvcPuWeJ5Bs6BKoEDciA==;wh4Xnt6twVxysSgPt2K4Qg=="
 ---

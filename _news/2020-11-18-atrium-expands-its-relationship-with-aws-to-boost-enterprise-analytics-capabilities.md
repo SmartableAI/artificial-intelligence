@@ -75,6 +75,20 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "New fellowship brings inclusivity to language analytics"
+    excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
+    publishedDateTime: 2020-11-20T00:55:00Z
+    webUrl: "https://asunow.asu.edu/20201119-new-fellowship-brings-inclusivity-language-analytics"
+    type: article
+    provider:
+      name: Asu News
+      domain: asu.edu
+    quality: 24
+    images:
+      - url: "https://asunow.asu.edu/sites/default/files/poly-hse-roscoe-lab-jh5269a-16x9_0.jpg"
+        width: 2500
+        height: 1406
+        isCached: true
 
 secured: "96MF1fOr1kI4h9bFLd9MEgF0JiGaiplm8oeUr8dN1Os1qvejdctn0AfHAfCP93TvXjwPuWEd4uwEHMEswCCrgYnmahOvrlt+3vpA/uX+d3n1yhYNXMQ8QqTQNppEhdglSBIXUhRQWsI9j9NO+GKQg3SNKlihlsXcuOl4EE2qTtvQWPeaq8vPeB92XoESo8dEkjMLXzHmMT4OMtCnzvSPk8/ejuiJoDkRKLY1vCesmDnD82AuomMECuq+VwSwIjf4sts0Zul8vThTtmfn8WPSkASjTq59hFSlV92Zy60DWzuAYanxKJIK3V1K8Otj23dBavBilVpFLgOjFYZZcEHaTCOCoDk8cO91XTUq5eAlPxs=;eeNyeNTL6B1OFc5oVgMApg=="
 ---

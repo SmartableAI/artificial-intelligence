@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - AI in Autos
+  - Facebook AI
 
 secured: "qL73eqoHw5RsWaJRJ0uBpQT/jBA2eSLFikGKetLTf2LwjyOITSgcm2SDJKyl1IfcYj2YcDjRbHdFfWlcfn1c/4v4UIM21sVrpr5YrrUgbLHD7nNk2v3Zry2d8qonV9se309MVmXu9st9YC+wtH67m9K8G43bV3arw0jfLSbD1eZwbsHyg/xIWqkv87OcLIK6JCkbvn1lsqA2IyHdpIa/1SIblg9J/RhYOW7ib+ewIc4qxBIfS3zBD6l7lfsM3JZc9jOet7I4Pz3RgPkVabtQy91CUcrHpL1yQ/y3ksbiz1tdH6Z8R8qli2/MHIjz6xL38Xfl+V7/EDYOhi6Z7Vh8Lmv30EWL6hv4kqIrdHiQ4jo=;tDT+5mBQeiwNKLXo2WTHYg=="
 ---

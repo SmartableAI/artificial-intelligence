@@ -52,6 +52,20 @@ related:
         width: 375
         height: 568
         isCached: true
+  - title: "Health Care AI Systems Are Biased"
+    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer systems can now diagnose skin cancer like a dermatologist would, pick out a stroke on a CT scan like a radiologist, and even detect potential cancers on a colonoscopy like a ..."
+    publishedDateTime: 2020-11-17T12:14:00Z
+    webUrl: "https://www.scientificamerican.com/article/health-care-ai-systems-are-biased/"
+    type: article
+    provider:
+      name: Scientific American
+      domain: scientificamerican.com
+    quality: 39
+    images:
+      - url: "https://static.scientificamerican.com/sciam/cache/file/533C0D4A-694D-4020-BF7A41F0E18A0D13.jpg"
+        width: 790
+        height: 496
+        isCached: true
 
 secured: "z0ola+f/yZssNkSUT7DLr37+0RfO1GEy/lhGPDbLJR4n/aa5bAir4kaeDU8F55a9pLBq2krC6zODshSShGBBiKTlgGA01HUXbkfWeYqDXa+CTt/iCuPX8hwRipm/zvJMnr/obM7IhrhKv+zqeiERL79n4LerfHneoAAbc2RXuij41rGqUTYEMmsOt9jhgCKoL0RmZJRiN2jHVLLE1iHPXfSs+kaWD3sXFaWKjjQxJURJKnHSCU0lKspiNwtQmmezJ9odWcRtI0OoBwVU0fZEKHp/GOFitJtKXXFVjiDYiGoMtLSBDwtOInD2aHt8thOA3OYKNDdaPU1eTfHYLaCiaha43tyKOlWXYTclOrdvBCY=;zSc1qGtw8iZCbF7AT1ryIA=="
 ---

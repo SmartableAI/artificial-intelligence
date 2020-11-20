@@ -66,6 +66,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-20T00:48:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117192605.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 29
   - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
     excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
     publishedDateTime: 2020-11-19T16:47:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
 type: article
 quality: 87
-heat: 227
+heat: 237
 published: true
 
 provider:
@@ -239,6 +239,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
+    excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
+    publishedDateTime: 2020-11-20T00:06:00Z
+    webUrl: "https://www.colorlines.com/articles/lapd-bans-use-commercial-facial-recognition-technology"
+    type: article
+    provider:
+      name: ColorLines
+      domain: colorlines.com
+    quality: 39
+    images:
+      - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "CByFbvHfPlGV2r/UfFwKIClF1HzwxlwOCz1NktERkTeFcWUzz/4htQuE4mjAD+EagMBBfKlO/M+JbZMFqNfXlBdw7XQkKYiGyqomg+WhC90Vd+djlsCm773c54T8Z4Kg3fNqg5RFmp+EbK4jG5vD4x3xkeOAGDZbi/yYfm7NOUjYIZO4Bc4Qfk5TVLVw34+CbRDKNZQYQIfvDknKh4bIis096GirtL+APkigVtLLMa4qdxfZAh5uWwe+gx4O8d3qrCCWYr/JNdo6M1CCul8y0HGSr9ZxIF16qEhgSyAzl1lgNEHFs5mfqSVlOCM0Dm57OP+FJF4y41qiH/XIDt/wPWA+vbc6b3c6cbnCz4hy6nuNBka063iNaWUysZDUAzgePylVJ03HX9tZb2H57zYqBZEzBUucc+2ZhEuA7EbLgnrXCj/l34LFIJtwutPeMskW+3zqDHhFxeLhe+XnMFsT+YMV5UPeYTzCQq8eSrkLUvkuk/vFxMym5CX7DLUYCO8x/0ofcRJzOLdgQWjZXFOzJA==;c+eQPcXnrH/ZQvRWjfQ0Vg=="

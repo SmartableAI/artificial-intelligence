@@ -3,10 +3,10 @@ category: news
 title: "Oracle supercomputer AI glitch impacts elections in Brazil"
 excerpt: "Technical problems in the artificial intelligence (AI) component of a supercomputer set-up provided by Oracle prompted delays in the processing of votes during the first round of municipal elections in Brazil last weekend,"
 publishedDateTime: 2020-11-19T14:48:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
+originalUrl: "https://www.zdnet.com/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
+webUrl: "https://www.zdnet.com/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/oracle-supercomputer-ai-glitch-impacts-elections-in-brazil/"
 type: article
 quality: 67
 heat: 67
@@ -23,6 +23,6 @@ provider:
 topics:
   - AI
 
-secured: "ZSDByO+8OL0qAv8pC0BSfaYYWs1yL8wXUVgSpTjAt7eg3eIIlCVqSjkCIMvTtw35//+yvKv86FSDZrXWOxHVG26278ktdKm9Uncx0k35dBO+IDNFmP2k06iuRpGaRSqvlIjTQ1xJ8CgOAaYQYGwsH6KWLBJ2oV1SeCnX8wiHSIPCJJ+wjjikbIVZMRX2ErGbJIt/kPxrvmOwBcqz7D/NvLKQgqjcAkSsWo4fptttSBs1lJecWGmG/lJM6QMn6ImGIiwa4o0/ivpcZxq3jq63lBYU+BHapi0Opfvb2f1ggUkewRaG12O8TntmJNvtUu59LXl39hpoeluBLTCTlOhn6vopMrdHuhB8Yxz2wXEgwTK0LykRn44VEUqPwWh3d4N4LedRVbwhlSZwok/VTMMDB7eI+jet1vM998tNB71TOrX6fpnFufPjfpBfw9aETyNJoTPeRlcBbS00J/Ho/mBqgFnQ3PxFXzigsB1aGxKCQZsq2ytT0Gaf1WWi9/ksMAQJXbE2E5k1Spi4HZTbKQYAow==;Uoki7yVfRbx8lAYXyBmEnA=="
+secured: "jqVX3xOOdYaytwXCtoksT9jTz7IxeVn449VTAnxuP0T5nVMSqMdIyS2TxbnDQbDl3ORWuLXAU9ZL7YcPJROc+VFDJMU3emJfr615xBtI8nuKO/04xPJ4jqQwC/FqCFxzHTVtd+4iUsn0AG/tVBJyD8TwJ2Gh8INjo/8l7btjfUc47n+CB4Qo9F4vmDCF5ZLDXeUgvMCOXXtPZ9LI/V51jVqS4LWmH0TAinEIu6CdeMSjG3dPfzmVrw6/NRyhanPAAqPD0Kc/a6450XDjtYiuNz17I8w1yERNfwgIkvbQjzcVZJH120Z29R792qBgrGe3Q++zSgbaoppV8YWHe8zsp0DgMl5Co+dfo0IXIS0HWr+aVvglEEXAUMJpz//4qRB9QuK+ekDL5NOqemaAagVXRs/FNjiA3NckLS9hKKjtzCL4E7gC6DnYJ1TQAMYS6ufQDD5QwhGyGQ2KNxP+OQhn5IadXqJ+ur0Do5Q2AAVWyiY2DgI379CyJN6nSqdkeXDBrH+rMmk7bZqkzrv/aGm71Q==;UMHeG8+7qdurBlc0ul9DEA=="
 ---
 

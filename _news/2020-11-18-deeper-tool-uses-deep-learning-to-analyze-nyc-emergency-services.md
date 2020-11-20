@@ -24,6 +24,22 @@ images:
     height: 435
     isCached: true
 
+related:
+  - title: "DeepER tool uses deep learning to better allocate emergency services"
+    excerpt: "Researchers at Binghamton University, State University of New York has used deep-learning techniques to analyze statistics on emergencies in NYC to suggest improved public safety through re-allocation of resources."
+    publishedDateTime: 2020-11-19T19:33:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/bu-dtu111920.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
+
 secured: "lLSVRBlg6A57lzW9ZaZTcECqlztAGD6WQ0WFLiQFvkujH7RtKVcVIL1zZLFR1tV+njbRxj7Or66KQghPgOLU4wflixFz0NtUBF2pgcAsFR0xxppEpTce2p+25BLdS+f9b+4Y4QXsDhP7GPLegS1BvcHA9QXgjts22YqgX68MFvIcNBUPmzo9t0nz+GFDRHpZ6dGjVsmmoMWzeHRhofzzi4R1diS6de2X5u6Yk837YIhzdpEV37hedqqRVeQy/11eKZMVRTqc5AOz9Tqm2512bXr7TYkA+lFcxOTo1q0aQ/JH00Z24LzsJ6Qi/klUoESptn7bPX+/cN7VpCGvyRk8Ka3eXGexC4hpK4cnvcAgeNCkCEfrevnNiMiHXe9vDEZ7hF3xIukNb/aIXXUO3wM3peRz4rMiWjlQDEMCPktQr6WFw2ZZSy17jhzWrl9bZLQ86URPA06iqJOcP7ED7wbTi4CuLLn0NKLKvPUx3vk14keWhVTY51k3AvVvGsPcaVtW0+EQ+JG4ogQhQJLRZuiRjw==;kz4SHJ/Ve+Yg3zKmwK1D0A=="
 ---
 

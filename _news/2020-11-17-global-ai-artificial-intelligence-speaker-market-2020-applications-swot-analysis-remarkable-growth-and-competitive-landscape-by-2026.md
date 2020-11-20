@@ -142,6 +142,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision Market Report 2020 Industry Trends, Share and Size, Complete Data Analysis across the Region and Globe"
+    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
+    publishedDateTime: 2020-11-19T23:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-report-2020-industry-trends-share-and-size-complete-data-analysis-across-the-region-and-globe-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Drug Discovery Market Size, Share to Witness Unprecedented Growth Through 2027-Industry News"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2020-2027. Request Sample Copy of this report at:  Artificial Intelligence in Drug discovery has been gaining popularity as this technology adds value for scientists and researchers in the industry in decision making processes."
+    publishedDateTime: 2020-11-19T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-share-to-witness-unprecedented-growth-through-2027-industry-news-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Software Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2023"
     excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
     publishedDateTime: 2020-11-19T16:12:00Z

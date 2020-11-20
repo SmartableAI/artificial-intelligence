@@ -28,37 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI discovered an old arthritis drug that can help elderly people survive COVID-19"
-    excerpt: "A new study found a medication identified as a potential COVID-19 treatment reduced deaths by 71% in elderly patients with moderate or severe illness."
-    publishedDateTime: 2020-11-17T13:09:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/"
+  - title: "Automating business processes with machine learning in the COVID-19 pandemic"
+    excerpt: "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning"
+    publishedDateTime: 2020-11-20T00:56:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T120921.079-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "How artificial intelligence can democratise education after Covid-19"
-    excerpt: "New forms of AI, based on deep neural networks, can now uncover patterns about how the students perform and help teachers optimise their strategies accordingly. AI tutors, software systems that students can interact with online,"
-    publishedDateTime: 2020-11-17T23:48:00Z
-    webUrl: "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms"
-    ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 76
-    images:
-      - url: "https://img.etimg.com/thumb/height-450,width-600,imgsize-534660,msid-79266905/.jpg"
-        width: 600
-        height: 450
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
         isCached: true
   - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
     excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
@@ -69,20 +51,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 17
-  - title: "Health systems are using AI to predict severe Covid-19 cases. But limited data could produce unreliable results"
-    excerpt: "Some institutions have not published any results showing whether their models to predict a Covid-19 patient's trajectory actually work."
-    publishedDateTime: 2020-11-18T09:41:00Z
-    webUrl: "https://www.statnews.com/2020/11/18/covid-19-algorithms-reliability-epic-cerner/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 17
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/11/GettyImages-1229622615-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "l/QreVGvjLP4JAB3ZbLeThuqbpX86NgUQosX0VvSMpgV8DqgowcKiuOIyfY69alXmkjYYZdglidijoyiVKtTG0qtQ5ATlX1wjIG6NiCwQIk/Qzut29PDN36VHdgtTtkqOaObL/dfIdUr4rOhmOv/bPNPiVFTmou9t+bD3GtYQFdHoEP0NS4vjVsGhS/LfQZQ9QsVUZffFLiIqIqISYGGYfk2ABh/vBSonm7F6u0iXQL4OqKW7E9URta0IEJnFCZxvpbgx0H5WgV5LJeUv0n48tVQuTvNMPNtr1RPQZX6bpXyf2e2Lg462QOSeatXH9/kIHaYoga7sZMQSwdpk9c18/Xm3D385Sylc5GsWV3A/z2mLTbdZNJY13b+YOsMOG11GtS4ZZmObiScdWq3tv2jP7gkjqJF5CBIDzNaTa9ugjYa5HR48d+oM2C9cMV0iGfjVJ4aPcrAiP+dD0V5UgJBnhrzvOOyTk7UEVzhX0EEkRiIAV5i2WT+1J8W9VdYcG2ECdvOTLlOzu3xrWHoZHyIow==;mKqWdQLuZGBmtVcSu+mEFQ=="
 ---

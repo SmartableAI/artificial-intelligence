@@ -1,26 +1,26 @@
 ---
 category: news
-title: "SoundHound Inc.’s Houndify Voice AI Powers Dynamic Voice Recognition System in 2021 Hyundai Elantra and Elantra Hybrid"
-excerpt: "SoundHound Inc., the leading innovator of voice AI and conversational intelligence technologies, announced the integration of its Houndify Voice AI platform into Hyundai’s all-new 2021 Elantra and Elantra Hybrid with select models now available for sale in North America."
-publishedDateTime: 2020-11-10T18:01:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f"
-webUrl: "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f"
+title: "SoundHound Inc.'s Houndify Voice AI Powers Dynamic Voice Recognition System in 2021 Hyundai Elantra and Elantra Hybrid"
+excerpt: "SoundHound Inc., the leading innovator of voice AI and conversational intelligence technologies, announced the integration of its Houndify Voice AI pl"
+publishedDateTime: 2020-11-10T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201110006017/en/SoundHound-Inc.s-Houndify-Voice-AI-Powers-Dynamic-Voice-Recognition-System-in-2021-Hyundai-Elantra-and-Elantra-Hybrid"
+webUrl: "https://www.businesswire.com/news/home/20201110006017/en/SoundHound-Inc.s-Houndify-Voice-AI-Powers-Dynamic-Voice-Recognition-System-in-2021-Hyundai-Elantra-and-Elantra-Hybrid"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20201110006017/en/837736/23/2021-Elantra-CN7_1200x628.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "RlEWxAjf4Lei+5bbjbmfywFXNssEU6Xs1ThoWV3PEQq1LW7yUn9EYkyh+QzVVf9yFRmbLBUe59SXNTDraQ17dF/jl5/uteK/NMXA4V4nLJ25XOUCc5ENcr5Tez6R1mgSX/LUfMb2aSCfwCC+NKMMkceSLA4fUhosKdndRuO3BsqnxJHe7Gga8FO2r8PveDJtLUIA0OfuTyW0LRg18g3aBrhiT322VfxEOKY85qw00ai84Vzl7fXV8TGvDQGU8zdLcrYcgaRJuZBTvRW8xTPC6JA87deDz3ZG/LxKcTBnW1QItHCyQcEoZnplqhT5JEYXtTPiTc9KxdYzLWEJTasrnlnE+cdVHGQyD+KqlIX45Zg=;zKbu+omPSveue03+VKFp7g=="
+secured: "qjM0SDhxsYFd13bWGuwTSR01FD5Mq+89QMWXlYH/YB0sIAUHaDv6pwWS/DcqV3ffFCx0HY+2bX5OeOiPq4NALfaM8rmMlq6z3qYGyBgV83+1qX1OSr1kRaVq3hW3RXtSZ9Wy7AlcaCfPTNoBcN35Ja14kvVodSuywZR3SdLBYPgFg93zzVCRE/euW+bFMhPK9wL83hE073TwjZILU8O8XcqrKFTZ5P33uW2cccRP+YnAZN9dD1oz7itY4RKlv5o3Fn08ZWCLMcMx/uJkv+Hw9bNuU2madD/nnkQtruwmacs3IJrB8rhWKP2mTlZLo6hsf3YZ6cvwauqTZMAA8n4oq4TdIIi7utkuWPI6tjBukGg=;ATFAbaAWQz2kH112wuSP2g=="
 ---
 

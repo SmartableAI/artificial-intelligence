@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-19T22:50:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-global-analysis-with-focus-on-development-strategy-opportunity-assessments-2020-11-19"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-global-analysis-with-focus-on-development-strategy-opportunity-assessments-2020-11-19"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

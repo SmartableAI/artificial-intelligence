@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-le
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
 type: article
 quality: 68
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
         width: 405
         height: 228
+        isCached: true
+  - title: "New fellowship brings inclusivity to language analytics"
+    excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
+    publishedDateTime: 2020-11-20T00:55:00Z
+    webUrl: "https://asunow.asu.edu/20201119-new-fellowship-brings-inclusivity-language-analytics"
+    type: article
+    provider:
+      name: Asu News
+      domain: asu.edu
+    quality: 24
+    images:
+      - url: "https://asunow.asu.edu/sites/default/files/poly-hse-roscoe-lab-jh5269a-16x9_0.jpg"
+        width: 2500
+        height: 1406
         isCached: true
 
 secured: "GJR0hTEeWODySSUt7BV0tA3DBrw6N549XgiA9htQ2d3Y1nUZryinuTf2+/C23Y57nXDiXpxZSd12DtxQex6O1gaXLSyvYKD0HmW363XCjkMyH+d4KxVL6/mPy+VcyYV+ATnQNvvNLz+g31lQKmNer5K61B0hjg7kEoIMQrMPNi7rtwTiigxpJPne9cZHM49O5PWPZGuz/UMPnKCH7mP1UfOi45OlwQB9locEkhl4i1d4Ku7L8x8l/7XdPv3ZVVrWzBzRhsBB7orpWEOqG53Go03zDKbvaJA4mz/JX2M7uV+97UGFFJx2vQILO0FqCLnytTuSz7/3h6eorDF/LaNJnq/6slSmY/Rdp08Kn/2DpSE=;diMdZKzgy0QCDkL442ezAA=="
