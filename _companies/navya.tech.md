@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "NAVYA_Group"
   url: "https://twitter.com/NAVYA_Group"
-  followers: 7426
+  followers: 7427
 
 size: 201-500 employees
 yearFounded: 2014
