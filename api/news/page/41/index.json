@@ -2,6 +2,59 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-10-20-microsoft-details-t-urlv2-model-that-can-translate-between-94-languages.md",
+      "title": "Microsoft details T-URLv2 model that can translate between 94 languages",
+      "excerpt": "The same week Facebook open-sourced M2M-100, an AI model that can translate between over 100 languages, Microsoft detailed an algorithm of its own — Turing Universal Language Representation (T ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
+      "originalUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
+      "publishedDateTime": "2020-10-20T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-microsoft-announces-azure-space-along-with-new-partnership-with-spacex.md",
       "title": "Microsoft announces Azure Space along with new partnership with SpaceX",
       "excerpt": "Microsoft today announced that it’s making its Azure cloud-computing services to the space industry. As a part of this announcement, the company also revealed a new partnership with SpaceX to",
@@ -1102,58 +1155,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable.md",
-      "title": "Fintech's Wildfire Fighter: This Reinsurer Is Using A.I. To Make California Insurance Affordable",
-      "excerpt": "San Francisco startup Kettle thinks its statistical models can predict wildfires better than any other reinsurer. It officially launched today and recently closed $4.7 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
-      "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8e409faad21a294c41ea03%2F0x0.jpg%3FcropX1%3D614%26cropX2%3D3072%26cropY1%3D65%26cropY2%3D1447",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffkauflin/2020/10/20/fintechs-wildfire-fighter-this-reinsurer-is-using-ai-to-make-california-insurance-affordable/amp/",
-      "publishedDateTime": "2020-10-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

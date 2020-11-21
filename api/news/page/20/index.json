@@ -2,6 +2,49 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-11-05-ai-compilers-and-the-race-to-the-bottom.md",
+      "title": "AI Compilers and the Race to the Bottom",
+      "excerpt": "(Source: Facebook AI) “We have this really high-performance runtime, but a lot of projects don’t care because they aren’t in the data center,” explained Jordan Fix, a research scientist at Facebook. “They need to do AOT compilation, shrink as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
+      "originalUrl": "https://www.embedded-computing.com/articles/ai-compilers-and-the-race-to-the-bottom",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://content.cdntwrk.com/files/aHViPTYzODY3JmNtZD1pdGVtZWRpdG9yaW1hZ2UmZmlsZW5hbWU9aXRlbWVkaXRvcmltYWdlXzVmYTQzZWE0NzM5ZDQucG5nJnZlcnNpb249MDAwMCZzaWc9NDlmMzljMWExNzk2ZjhhYmZhNTE0ODJhZTYzZWUzNmU%253D",
+          "width": 500,
+          "height": 272,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded Computing Design",
+        "domain": "embedded-computing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-breaking-down-global-barriers-to-access.md",
       "title": "Breaking down global barriers to access",
       "excerpt": "Were delighted to announce that we are expanding our programme to support scholars in many more countries currently underrepresented in AI,",
@@ -1120,58 +1163,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-ocado-has-purchased-two-robotics-firms-to-take-on-amazon.md",
-      "title": "Ocado has purchased two robotics firms to take on Amazon",
-      "excerpt": "UK technology firm Ocado has acquired two robotics start-ups from the US as the company looks to boost efficiency in its warehouses. The purchase of San Francisco firm Kindred Systems for $262 million and Las Vegas-based Haddington Dynamics for $25 million in cash and shares should help the retailer introduce more automation solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "originalUrl": "https://www.techradar.com/au/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/vaU7MVKAUPe295qnhCXfZF-1200-80.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/this-supermarket-has-purchased-two-robotics-firms-to-take-on-amazon",
-      "publishedDateTime": "2020-11-04T02:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

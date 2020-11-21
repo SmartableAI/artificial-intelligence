@@ -30,18 +30,18 @@ images:
 
 related:
   - title: "AWS Announces General Availability of AWS Network Firewall"
-    excerpt: "Amazon Web Services Inc., an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS Network Firewall, a new managed security service that makes it easier for customers to enable network protections across all of their AWS workloads."
-    publishedDateTime: 2020-11-18T01:17:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6"
+    excerpt: "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS"
+    publishedDateTime: 2020-11-18T05:17:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Business Wire
+      domain: businesswire.com
     quality: 54
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "Pb5WzHJY6xsCXoR9pOdmxYjRQS/Zj9YEonfE2grjIRdDbQ5VrtAmI8+qRbqWQYV2jvxI8fuyxJsBdLiy2PebKB049/79e8vH0iypFsocm+ttOrbEBYOe8tggmRz+Pmh+Fe4/wBbq2tm22LQ3O/pJCdeqdO04ALkRQoKd5tMpsIRVk59XNbzK0zYxFmeTW80B01YloOBRrTaAtjQeW1o0FQYWuIljJqRQS4t/X98XA59EVzD+R22GO37IqjcQlxC2rCQRxqgJNzunQfpODXatmPgDSfavWUZkOQqfswNTHN//VsduQX7J04isDZUr0NZx5FniAcdeMxqrHxdHTKipzhCfMfNoDaJqMCxbN+RxEwM=;aaHOYEcGqZGiuEmZQ88BjQ=="

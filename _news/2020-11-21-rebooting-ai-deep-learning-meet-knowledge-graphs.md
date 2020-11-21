@@ -3,10 +3,10 @@ category: news
 title: "Rebooting AI: Deep learning, meet knowledge graphs"
 excerpt: "Gary Marcus, a prominent figure in AI, is on a mission to instill a breath of fresh air to a discipline he sees as in danger of stagnating. Knowledge graphs, the 20-year old hype, may have something to offer there."
 publishedDateTime: 2020-11-20T16:26:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
 type: article
 quality: 104
 heat: 104
@@ -30,6 +30,6 @@ images:
     height: 687
     isCached: true
 
-secured: "kXbaI1DeS2VkrqF2LG+ykY2wOEbMhJBd68AS6dTWHUMgu8Lf98G0FosXyaDFT9DDxoRM3JogqP/xvcPj2zUzakWyc8MDXvT4LizZyRQrhx3cm6nVMb6ri6o74a4rf/mcE7zlpmQ/8XgBtEcN09roWGdkDeGT1/4zJNSC+HJ7Ge2cJkPgEx4hMBP8RPLr289qrlTSQKCA1LDEQD1H5XOS/wck0YVhN7KBjhVrerJTA0K4agDkp5QaA3HDWMs2qXaS60PxsNbhnvhnyfvtZI0EbK65jNa+soOlaWImb2lsJS4Cj0uIvk6HNyykRKYbx79H52LO2lZeLhPXh9UXuvX+gSjmjdEtDZTrtlv8/xtTcTE=;87KdCsVfZUjyRSt7M6q4IQ=="
+secured: "Ce/7ZsAtjcNSCKtAc8Tg+2wtUdiJCVrW466vmxYkeia7wv3fY6VrFPv76DCsSVbGPbyT42TbGktJCHT68ilxZzav0jCsQhuPyxV5snkD2iNPq/uwDhEmz99soRD2J3+PlPPKHAAFDq3fEtM4o90zMgs7YZL2/QGDFoTzBFeupn5S8CgExvdNFhpwofPcDYtBNsx29trZoKH11zWYMaV0vgdYOzxN1hnpyjJBOAsDjYH7mFIdhYMGL56YGfYp5eLaQYlyWBt6E/wNFwYthxRSJYfsbLLNtPOoPc2V6R9rYrE6zq3UJW1FvlJRpY2HmpWGpaw1AlM9Ptde0zW2l3WHkBLU5iOtohQ+IHN87ULkJj4=;KPE5+d/RwklhFu5Y26uuEw=="
 ---
 

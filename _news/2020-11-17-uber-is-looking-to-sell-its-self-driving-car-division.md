@@ -102,20 +102,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "JLR developing ‘smart city hub’ to test self-driving cars"
-    excerpt: "Jaguar Land Rover is creating a ‘smart city hub’ which will allow real-world testing of self-driving vehicles. The Future Mobility Campus Ireland (FMCI), located across 7.45 miles of the Limerick-Shannon metropolitan area at Shannon Free Zone,"
-    publishedDateTime: 2020-11-16T10:49:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2020/11/16/jlr-developing-smart-city-hub-to-test-self-driving-cars/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 24
-    images:
-      - url: "https://www.shropshirestar.com/resizer/HoxCe8w1PrqB213uy5sGF9Hg6p0=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/IOCROIMDA5A4ZBF3NJVQYVT744.jpg"
-        width: 1200
-        height: 900
-        isCached: true
   - title: "Uber reportedly wants to offload self-driving division"
     excerpt: "Uber is looking to sell its self-driving technology division known as Uber Advanced Technology Group, according to media reports. Citing three people familiar with the matter, TechCrunch reported last week that Uber is in talks to sell the Uber ATG division to Aurora Innovation,"
     publishedDateTime: 2020-11-16T15:00:00Z
@@ -158,17 +144,6 @@ related:
         width: 615
         height: 409
         isCached: true
-  - title: "Uber may sell self-driving tech group to Palo Alto-based Aurora Innovation"
-    excerpt: "Uber Technologies Inc. is reportedly shopping its Advanced Technologies Group for sale. According to a report from TechCrunch and later Reuters, San Francisco-based Uber is in preliminary talks to sell its autonomous vehicle division,"
-    publishedDateTime: 2020-11-16T10:15:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/16/is-uber-atg-for-sale.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 22
   - title: "Jaguar Land Rover developing \"smart city hub\" to test self-driving car tech"
     excerpt: "Jaguar Land Rover is teaming with software and telecom companies to create a \"smart city hub\" in Ireland to test self-driving technology."
     publishedDateTime: 2020-11-17T19:00:00Z

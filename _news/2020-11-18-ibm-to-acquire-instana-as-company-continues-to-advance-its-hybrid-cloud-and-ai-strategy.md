@@ -2,9 +2,9 @@
 category: news
 title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
 excerpt: "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ..."
-publishedDateTime: 2020-11-18T14:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html"
+publishedDateTime: 2020-11-18T14:03:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html"
 type: article
 quality: 31
 heat: -1
@@ -12,7 +12,7 @@ published: false
 
 provider:
   name: PR Newswire
-  domain: prnewswire.com
+  domain: prnewswire.co.uk
 
 topics:
   - IBM AI
@@ -193,6 +193,6 @@ related:
         height: 683
         isCached: true
 
-secured: "7vBudAA3ddtR8ShFEjVXVOUK2/8Y5BdJXcHBsi79pcabgjTZaNJjB3qObDIX7b4ul96UCOwSlTImVguuWhwfJ7GgA7SBsyUFTnOJr/J4d6sYVURopaReqdQ8Kv77RGoIgQh3g33FCF+6PCVcfmC0fFPBGZP8081PnlvonVkQD6R+ZOdMSvOLLN+gr1lZDCzkyFU0ITvW90GyzXbnfYJ6ngjyrbpGFuBdckE3gFeqpmuw0LdpABzDBt+MonZ22QYuOX1L9ru2dCg6rDPiAZ37blkoTsjvdDB3C+Nou6nutpwkK9Ha+Y7QelWByDbb7/8bJaGbddo+RUTj20JPbqT2nDdxBH8DIqQpIFASVTbTtac=;YWU70hQUmsXLqdnowP1EFw=="
+secured: "+OhjgkL3+/Lo4X8Pc95wMqJ5Hw1iqUVtB9MvLUJKa9hw+9vZ6+oZe/znwjBFtPd+cTEvbVELI+t+H1ppAt3ekJlVgTRRanTh9UZaciFo5bTQ2Yo4347iGi+s+NBblWLZwwIOI3recIdQzzt95Tbf9SxsEp/qx/OWsnAWb4EtoScLYqDtFYNC8bF4diLPAO+MfdqS3wMt4V0Z25rCuKwi1mvjygOeL1Ng8txCsg5AzccqcXtWWpn69AJpf4nfumt+5dQ1asndxQ6Trs37WNfwLCfKZ/2vn+2QMSu/7KjZHxwNjJc39DYOSUQ/lVB4NUOnwiz6PZlTmfdoScoj2yLfMlFqyb7Qy7MoUytttLw8ozI=;lzfuzZ1eVM6UTrK+1JvaYg=="
 ---
 

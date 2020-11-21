@@ -24,47 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "Savvy enterprises can mimic success of cognitive AI in healthcare"
-    excerpt: "Cognitive technologies are being deployed to solve the world’s biggest challenges. AI-based bots are working side-by-side with humans to increase quality and efficiency. Here’s how enterprises can put cognitive AI to work in their organizations."
-    publishedDateTime: 2020-11-18T13:03:00Z
-    webUrl: "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html"
+  - title: "C3.ai IPO: What It Means For Enterprise AI"
+    excerpt: "The CEO and founder of C3.ai is Tom Siebel, who is a legend in Silicon Valley. He got his start in the mid-1980s with Oracle and helped lead the growth of the relational database market. Then in 1993 he founded Siebel,"
+    publishedDateTime: 2020-11-21T01:24:00Z
+    webUrl: "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 56
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb867fd910632f442f29d6d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D205%26cropY2%3D3580"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "How artificial intelligence is delivering results in healthcare"
-    excerpt: "GUEST OPINION by Priyanka Roy, product consultant, ManageEngine:  Growing populations, cybersecurity concerns, staffing shortages and rising healthcare costs have been putting pressure on healthcare systems around the world."
-    publishedDateTime: 2020-11-18T23:41:00Z
-    webUrl: "https://www.itwire.com/guest-articles/guest-opinion/how-artificial-intelligence-is-delivering-results-in-healthcare.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://www.itwire.com/media/k2/items/cache/65099bb106d663801f65a65f8fd7228d_M.jpg"
-        width: 375
-        height: 568
-        isCached: true
-  - title: "Health Care AI Systems Are Biased"
-    excerpt: "Thanks to advances in artificial intelligence (AI) and machine learning, computer systems can now diagnose skin cancer like a dermatologist would, pick out a stroke on a CT scan like a radiologist, and even detect potential cancers on a colonoscopy like a ..."
-    publishedDateTime: 2020-11-17T12:14:00Z
-    webUrl: "https://www.scientificamerican.com/article/health-care-ai-systems-are-biased/"
-    type: article
-    provider:
-      name: Scientific American
-      domain: scientificamerican.com
-    quality: 39
-    images:
-      - url: "https://static.scientificamerican.com/sciam/cache/file/533C0D4A-694D-4020-BF7A41F0E18A0D13.jpg"
-        width: 790
-        height: 496
+        height: 675
         isCached: true
 
 secured: "z0ola+f/yZssNkSUT7DLr37+0RfO1GEy/lhGPDbLJR4n/aa5bAir4kaeDU8F55a9pLBq2krC6zODshSShGBBiKTlgGA01HUXbkfWeYqDXa+CTt/iCuPX8hwRipm/zvJMnr/obM7IhrhKv+zqeiERL79n4LerfHneoAAbc2RXuij41rGqUTYEMmsOt9jhgCKoL0RmZJRiN2jHVLLE1iHPXfSs+kaWD3sXFaWKjjQxJURJKnHSCU0lKspiNwtQmmezJ9odWcRtI0OoBwVU0fZEKHp/GOFitJtKXXFVjiDYiGoMtLSBDwtOInD2aHt8thOA3OYKNDdaPU1eTfHYLaCiaha43tyKOlWXYTclOrdvBCY=;zSc1qGtw8iZCbF7AT1ryIA=="

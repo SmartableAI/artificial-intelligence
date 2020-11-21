@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-10-29-7-ai-stocks-to-buy-as-automation-advances.md",
+      "title": "7 AI Stocks to Buy as Automation Advances",
+      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We have ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "publishedDateTime": "2020-10-28T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-microsoft-improves-password-spray-attack-detection-using-machine-learning.md",
       "title": "Microsoft Improves Password Spray Attack Detection Using Machine Learning",
       "excerpt": "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD).",
@@ -1058,58 +1101,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-four-ways-artificial-intelligence-is-hidden-in-our-daily-lives.md",
-      "title": "Four Ways Artificial Intelligence Is Hidden In Our Daily Lives",
-      "excerpt": "People used to associate the term “artificial intelligence” with images of science fiction ... determining how the muscles involved in physical activity could be used for therapy and sports. Furthermore, simulation technology could be applied to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/amp/",
-      "publishedDateTime": "2020-10-28T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -32,6 +32,22 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge"
+    excerpt: "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data"
+    publishedDateTime: 2020-11-21T01:15:00Z
+    webUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/"
+    ampWebUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+    cdnAmpWebUrl: "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+    type: article
+    provider:
+      name: Direct Relief
+      domain: directrelief.org
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1"
+        width: 1024
+        height: 574
+        isCached: true
 
 secured: "C96frWYITMbrfOqC7NwxBfvD9Mo3tx176k68+o7D5nPEld7hFdjxUyCU1LmCikeYF3t99HfqWJ3sh7IEwdhIUUziS6zLhKa4JMn5h1vQ+mVUtRy/77RPm4LgyYRHYaQuEj+z/qjqbD00fhVQiChpjMKWCFluvz9Uqy2hruB24e1FHfcTirjUxosZqDdeoUwybBuZVuq9WQiPaD680GfBeN3Rh6pMWaOJcTtEMfz6npa8ryuqcbyup/YOiEnAcTN+dFwbrkz5pFwSzT3B/muLC9NTBV8yGhEWaEm0xUk0fignpg2iVmid7oxIYXUFdhUbphFC1Yx4BxjjstN/1sgQxCopL/6XFmC0Vl+LkJneffkAVUBkjnNJ3O1YMfmZO56q0yVwx0hWjh0PYCj3hQlqzOs/OWVgp1N1GPXOgvfZBN0XcDJoh8+wSjoVqM1iNX3QLPKAQRtD4BYS716CxVUvSTkcCRe9KmdWkMfb75K7AMADlYD8s7VdRG/Ai7Iz4RvnYclNWMvHclN6rPkNXRy4UA==;MXl0bop1SR269hU1ofU6bw=="
 ---

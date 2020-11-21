@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge"
+    excerpt: "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data"
+    publishedDateTime: 2020-11-21T01:15:00Z
+    webUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/"
+    ampWebUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+    cdnAmpWebUrl: "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+    type: article
+    provider:
+      name: Direct Relief
+      domain: directrelief.org
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1"
+        width: 1024
+        height: 574
+        isCached: true
   - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
     excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
     publishedDateTime: 2020-11-16T14:06:00Z

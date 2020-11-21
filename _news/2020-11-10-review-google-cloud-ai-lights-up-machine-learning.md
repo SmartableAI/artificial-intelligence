@@ -2,9 +2,9 @@
 category: news
 title: "Review: Google Cloud AI lights up machine learning"
 excerpt: "The feature engineering built into Cloud AutoML Tables is promising, however, and it would be useful to have that sort of service available for other scenarios. The seamy underside of AI has to do with ethics and responsibility (or the lack thereof), along ..."
-publishedDateTime: 2020-11-10T09:35:00Z
-originalUrl: "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/"
-webUrl: "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/"
+publishedDateTime: 2020-11-10T09:37:00Z
+originalUrl: "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/?fpid=1"
+webUrl: "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/?fpid=1"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 480
     isCached: true
 
-secured: "jWjL8d54uPKwLxOlU9yFvu+OORVZSyTkKua0+dnxaWab8gUM8FigfKhqwmkhXikoqtEGU83k4qch3zx2xnEuJONtyl1tgvbX6p4osFN4lVBCmsthWkk1NuA+MDZ4aw5VkXdbDoSVu4KVkuk6wR84RvkusmkrmBjY8Py4+H3YUQ5Zf4aMurcGL9/nUN1DLxh5AVq4G7FeXuQ6FMspeNLn9qiP6bG9i7CBwg2X2DLBNj4OFxlbF/ek8WGZ8r6uF8bYoyWel9Ahr6mJTxK5rNo7wFUVrGo3Rdr1kX/mCNYtAArFBK4bf+CEe2eILcs7SdRPr9AJQDw2fCds6IVnC0IzjKHjJ7HMEhk9wpnHhZTNeo4=;3gWUYeprHQ423PMipDnL5A=="
+secured: "LgfdYOsXpLvVyHIHFVFLPe8QDY3SDlvurWgFVa1n4aOYuVZtYh1vA8v+Vu0V5Bxf7z1IE8WcHpX/0Jsc3bjHyOO2Z7kbgyF+NWdMZ/QDRNysaaC7MaxOyMudpqoMjcR109lXyF2+H37IU0Z+OHTsdjKgzJlEW+CjBdQBFd4K3dzH1dX0dWzGBJvP374eAkYkqXFYMYzN3kL5Fgwmz18Z9SGnwTZ2dnjnvigc8dFOrC/+xTKu3dqDrBe60+AoPngTlvqrdud96B2vCpdjrQZIiozlWqpBWUL2BagY+D2bPYNxKPU7PdcYDEuzplm8ejtFZQ+mzTp21wMm9UwSRVEw+F/DkrtQOzAIKA1Syphc1lI=;UCXjWu3lIZcyF3CozXi4AA=="
 ---
 
