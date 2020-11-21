@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 96
+published: true
 
 provider:
   name: Forbes
@@ -30,37 +30,35 @@ images:
     isCached: true
 
 related:
-  - title: "Adapting To The New AI Landscape And Planning Tomorrow's New Normal"
-    excerpt: "As pressure to do AI right and unlock the value it promises increases, it's time to think differently to navigate the uncharted digital waters ahead."
-    publishedDateTime: 2020-11-16T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/"
+  - title: "Machine learning in banking and marketing applications for 2021 and beyond"
+    excerpt: "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,"
+    publishedDateTime: 2020-11-16T16:04:00Z
+    webUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Robotics & Automation News
+      domain: roboticsandautomationnews.com
+    quality: 71
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeef461f0db0412b89f465%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png"
+        width: 750
+        height: 499
         isCached: true
-  - title: "Making Sense of the AI Landscape"
-    excerpt: "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ..."
-    publishedDateTime: 2020-11-17T13:17:00Z
-    webUrl: "https://hbr.org/2020/11/making-sense-of-the-ai-landscape"
-    ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
-    cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
+  - title: "Use of AI in the NHS is leading to a 30-times improvement in early cancer detection rates"
+    excerpt: "Cancer may be the world’s second largest killer, but there is lots of innovative work going on in the realm of AI software to improve early diagnosis and, therefore, boost survival rates. Two companies doing just that are UK-based C the Signs and Panakeia Technologies."
+    publishedDateTime: 2020-11-20T10:09:00Z
+    webUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates"
+    ampWebUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
     type: article
     provider:
-      name: Harvard Business Review
-      domain: hbr.org
-    quality: 61
+      name: Diginomica
+      domain: diginomica.com
+    quality: 48
     images:
-      - url: "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg"
-        width: 1200
-        height: 675
+      - url: "https://diginomica.com/sites/default/files/images/2019-09/health-care-tech.jpg"
+        width: 1277
+        height: 739
         isCached: true
 
 secured: "2O/lm7LyJcYhwe/FEx1CJClI38Ctx8cePTkMj71uUv1uvnmxV73w2wH3GjwIw2kwc8/xpCS/D8K4CBapsGLtc294LyyiWVilhQNSS9+WUYkr51OdSsGm8QfJQo3gZsjigmxIz6pGrMa7Ql0gJwycDJ/8qQc6tMEHJm4nYK+LNdUU4bjPwvRmPxX3UnER+cEfZvsQcOsTbmrLK+f2KgGoBKsZtuF1mbELjL61AvLVgOzMxKCU+97N2d1uGKFjKqpSIZkIzZSidpRO70GxHrUQvkRCiD15gpdhPsEpfpOvygutqnONDDK9RbqC2axiq+GHvhkXRMy3TDLKDBo7TwYBPuYFoSyA02SNyKqHr0LuqNh6YgnSHtijJKf96bWEp2O+3X0eoKpcSoTngg5nm20GFi9l95po/x0dg5yuQ+T3wakxLcXVHREZAdBWx3fHkXLgpcJhP68a1nYtzefVRdvqzLz2qtbppAMi8UigcUWgPsSkw3kd+NQ489vmMX2R2rPCGSbCouZzX4hFU9/5tAv35Q==;lumSj2UiRfhAu7MozYgFHw=="

@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-12-bickey-russell-finds-inspiration-from-his-native-bangladesh.md",
+      "title": "Bickey Russell finds inspiration from his native Bangladesh",
+      "excerpt": "Welcome to the latest edition of “My Path to Google,” where we talk to Googlers, interns and alumni about how they got to Google, what their roles are like and even some tips on how to prepare for interviews.Having spent his childhood between London, Milan and Dhaka, Bangladesh, Bickey Russell began",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "originalUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mptg_x_1.0.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/life-at-google/bickey-russell-finds-inspiration-his-native-bangladesh/amp/",
+      "publishedDateTime": "2020-11-12T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-snap-to-acquire-israeli-startup-vocaai-for-70mn-report.md",
       "title": "Snap to acquire Israeli startup Voca.ai for $70mn: Report",
       "excerpt": "Snap Inc, the parent company of popular messaging app Snapchat, is acquiring an Israeli startup called Voca.ai which builds Artificial Intelligence-based virtual agents to help businesses support customer service,",
@@ -1183,41 +1235,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thaipr.net/it/1033083",
-      "originalUrl": "https://www.thaipr.net/it/1033083",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T17:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thaipr.net",
-        "domain": "thaipr.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

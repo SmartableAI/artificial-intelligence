@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/tantech-subsidiary-laun
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-1029805941"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Business Insider
@@ -23,22 +23,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Tantech Subsidiary Launches Innovative Driverless and Autonomous Street Sweepers"
-    excerpt: "PRNewswire/ -- Tantech Holdings Ltd (NASDAQ: TANH) (\"Tantech\" or the \"Company\"), a clean energy company in China, today announced the launch by"
-    publishedDateTime: 2020-11-16T12:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/tantech-subsidiary-launches-innovative-driverless-and-autonomous-street-sweepers-301173457.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 34
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "Ymg2hlzFKMoYOFuKi+F5kHXXQUdgW46I69EVq2uC6gSzxQRuaZC9RuCws4MGcs86wa/kxTP39BtsUzZY0lecxLkS5dY1UOIEMNKkizeBfuwv/SbN/gG7g6VbSi5EqAp1uf4jn3Z9IKh0xXcaWEXzpWt43tAwoLFqYFhEvGlKCpXDqvDPciSL3r9dAIHZQT8GN9QlyUs/O6s+o8q2S5NpJK/Vx4GuupzHcckCR+2BSCbVrjNUVdwt8Ur3r0g1dVKLzcUsPX+GUKbhbwxiwSaCvKmEef1jcDH+6QTGeW91aKfUboamqvvV7yXdGoAprhwGAaavu3177a21/vvt3oqDS4cNpKaopV9ZLT6V9nJ1Cug=;yy7iXeQMDaghNkQM16/mUQ=="
 ---

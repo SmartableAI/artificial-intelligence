@@ -2,6 +2,83 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2020-10-28-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript.md",
+      "title": "Microsoft Corporation (MSFT) CEO Satya Nadella on Q1 2021 Results - Earnings Call Transcript",
+      "excerpt": "They can build advanced AI models using Azure Machine Learning to identify trends and predict outcomes. And with Power BI, anyone in an organization can access these insights and build custom ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
+      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
+      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg",
+          "width": 1240,
+          "height": 697,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-four-ways-artificial-intelligence-is-hidden-in-our-daily-lives.md",
       "title": "Four Ways Artificial Intelligence Is Hidden In Our Daily Lives",
       "excerpt": "People used to associate the term “artificial intelligence” with images of science fiction ... determining how the muscles involved in physical activity could be used for therapy and sports. Furthermore, simulation technology could be applied to ...",
@@ -1111,100 +1188,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go.md",
-      "title": "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go",
-      "excerpt": "Another day, another reminder that no one actually has a self-driving car, regardless of the misleading names used for some advanced driver assistance systems. Tesla rolled out its \"Full Self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
-      "originalUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85",
-          "width": 1940,
-          "height": 1092,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T13:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Drive",
-        "domain": "thedrive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-apple-buys-self-learning-ai-video-company-to-improve-apps.md",
-      "title": "Apple Buys Self-Learning AI Video Company to Improve Apps",
-      "excerpt": "Apple Inc. acquired a startup specializing in advanced artificial intelligence and computer vision technology that may help the iPhone maker improve its own AI across a number of apps and services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3ljJ6nNqEA8/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/apple-buys-self-learning-ai-video-startup-to-improve-apps",
-      "publishedDateTime": "2020-10-27T12:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

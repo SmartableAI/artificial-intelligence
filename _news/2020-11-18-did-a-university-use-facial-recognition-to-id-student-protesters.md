@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/did-university-use-facial-recognition-id
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp"
 type: article
 quality: 91
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 2400
     height: 1600
     isCached: true
-
-related:
-  - title: "University of Miami Won't Commit to Ban on Facial Recognition Tech"
-    excerpt: "One month after news outlets reported that the University of Miami used video surveillance to track student protesters, the school's president has yet to address students' calls for a ban on facial-recognition technology,"
-    publishedDateTime: 2020-11-16T12:00:00Z
-    webUrl: "https://www.miaminewtimes.com/news/university-of-miami-ignores-calls-for-ban-on-facial-recognition-11718509"
-    type: article
-    provider:
-      name: Miami New Times
-      domain: miaminewtimes.com
-    quality: 39
-    images:
-      - url: "https://images1.miaminewtimes.com/imager/u/original/11734703/um_protest.jpg"
-        width: 1086
-        height: 724
-        isCached: true
 
 secured: "O8fAHNSRVBZNaAfi2i41NhqxEHA8tt1J/o7BeKgWurdCl0OHUslxCbL7GgenZTQ6ZEQ1dzxgVAGFov/EWwzZTqul+8ZRia/vfWRZuC8BQbjRXbexpwNqAAa52I04bAdPSzYTESelq7T9jkOh5WTa+r5n87fUeWDBt3VaJmwrM5DPOgE09EIsnMlpmkapoBEZx/HrOSfvAfhc0EeUrHsGd/MWE9ZX73RnJdGCkIEOhqS/fmU4QriFSgDU/RXQJsGkMUobr3BlgEWbqZ1PU5XcecgCCXCkHLBAfocQys7LRMVyTMhFgH7o5p2Wt1eFraU735cJzyK75mN4qTn6/IgligsXWYUPQeskP0IsXHH/QUHsVB5HfSva9TAuf2zHxzLn5rDXhxrCP5aawZH4kyutPh28B+JmDPEFW5HcDyrgifI1L4WHvLTIOAlGjqThCC7EVeOf4QJdZBTNAzguRP6KP/+wEvkwJU+92dd5Dkz0G6TRkQyvPw0BfK9fFdMHPBNEEmib6YL9zDWYUfIFStFqMQ==;NJewmxerGn9bClC7S8/jxg=="
 ---

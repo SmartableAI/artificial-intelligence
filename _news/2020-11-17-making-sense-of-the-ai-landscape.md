@@ -9,8 +9,8 @@ ampWebUrl: "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 cdnAmpWebUrl: "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape"
 type: article
 quality: 61
-heat: -1
-published: false
+heat: 81
+published: true
 
 provider:
   name: Harvard Business Review
@@ -28,37 +28,33 @@ images:
     isCached: true
 
 related:
-  - title: "Adapting To The New AI Landscape And Planning Tomorrow's New Normal"
-    excerpt: "As pressure to do AI right and unlock the value it promises increases, it's time to think differently to navigate the uncharted digital waters ahead."
-    publishedDateTime: 2020-11-16T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/16/adapting-to-the-new-ai-landscape-and-planning-tomorrows-new-normal/amp/"
+  - title: "Artificial intelligence to increase air safety in the face of storms"
+    excerpt: "The European research project START, coordinated by the Universidad Carlos III de Madrid (UC3M) and with the participation of important actors in the aeronautical scene, combines Big Data and Artificial Intelligence to develop algorithms that allow air traffic networks to be optimised during storms."
+    publishedDateTime: 2020-11-19T17:26:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ucid-ait111920.php"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 52
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faeef461f0db0412b89f465%2F0x0.jpg"
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
-        height: 800
+        height: 675
         isCached: true
-  - title: "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office"
-    excerpt: "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve."
-    publishedDateTime: 2020-11-20T16:22:00Z
-    webUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/"
-    ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
+  - title: "Unlock The Full Potential Of Artificial Intelligence"
+    excerpt: "The past year has been a learning experience for all of us, and collectively we’ve managed incredible things. Out of necessity, organizations have massively increased their speed of digitization and uptake of game-changing technologies such as artificial intelligence (AI) and cloud computing."
+    publishedDateTime: 2020-11-20T11:05:00Z
+    webUrl: "https://www.linkedin.com/pulse/unlock-full-potential-artificial-intelligence-bernard-marr"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg"
-        width: 1199
-        height: 634
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGo2CgVgWm-Tw/article-cover_image-shrink_720_1280/0?e=1611187200&v=beta&t=300OOUgKb2zM6ayo2bVg2-hSU56OQEMUqvNXmBySFxw"
+        width: 1152
+        height: 720
         isCached: true
 
 secured: "EGhQbIGgqXmFebD3n6+Y+Ql5M0JXLEhtufMy/B7BShR096JCD5mF1md5HfXWoMxx0HrDz4gKqemQTYO3I2cpY6qsMLf+rh15KFzw7jB9bWUGIDPCMZcaAwbi7/RJZYg+rfuI2NJD0NjlF8zSgky8qCLjSAYy6ODAp4XxkJRLhJvGTillK9lOqWCx1QcnKmKTm+Bm49/GKkBZlEdI+W33i5IAzk74s1WwW8twsu++hmw91CBfOZLQHCj1KAhN/Ifqn9ytz+dnxDEM51N2rF2eAy7aaMlIay3mvJdlCni40WHUMnKhvIvuIdJFOiyeESFJfZfIsh6/wHfO6dOV9LtTsgOZubPNICwzq4bS1E+3OlU=;/e0860ROlzQjnfO9Gu9+lg=="

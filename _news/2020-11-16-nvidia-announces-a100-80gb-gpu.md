@@ -175,20 +175,6 @@ related:
         width: 605
         height: 446
         isCached: true
-  - title: "NVIDIA A100 80GB GPU Unveiled"
-    excerpt: "NVIDIA announced that its popular A100 GPU will see a doubling of high-bandwidth memory with the unveiling of the NVIDIA A100 80GB GPU."
-    publishedDateTime: 2020-11-16T13:00:00Z
-    webUrl: "https://www.storagereview.com/news/nvidia-a100-80gb-gpu-unveiled"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 39
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/11/Storagereview-NVIDIA-A100-80GB.jpg"
-        width: 1000
-        height: 721
-        isCached: true
   - title: "At SC20: Nvidia Announces A100 80GB GPU"
     excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
     publishedDateTime: 2020-11-17T05:23:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-deci
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
 type: article
 quality: 69
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://vid.alarabiya.net/images/2020/10/06/96dc4b2c-7024-4526-b673-24628317a26c/96dc4b2c-7024-4526-b673-24628317a26c_16x9_600x338.JPG?width=466"
         width: 466
         height: 263
+        isCached: true
+  - title: "Namaste, France and Bonjour, India: The future of fintech is French"
+    excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
+    publishedDateTime: 2020-11-21T03:41:00Z
+    webUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french"
+    ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1605894676099.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1668
+        height: 834
         isCached: true
   - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
     excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"

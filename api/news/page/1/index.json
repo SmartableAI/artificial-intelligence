@@ -518,7 +518,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -600,8 +600,8 @@
       "title": "Rebooting AI: Deep learning, meet knowledge graphs",
       "excerpt": "Gary Marcus, a prominent figure in AI, is on a mission to instill a breath of fresh air to a discipline he sees as in danger of stagnating. Knowledge graphs, the 20-year old hype, may have something to offer there.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "webUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "originalUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "featuredContent": null,
       "highlight": null,
       "heat": 104,
@@ -618,8 +618,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "publishedDateTime": "2020-11-20T08:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -643,8 +643,59 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office.md",
+      "title": "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office",
+      "excerpt": "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/",
+      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg",
+          "width": 1199,
+          "height": 634,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/",
+      "publishedDateTime": "2020-11-20T08:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -746,58 +797,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet.md",
-      "title": "Luminar to supply lidar sensors for Mobileye's self-driving fleet",
-      "excerpt": "Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's <INTC.O> Mobileye subsidiary for its test fleet of self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
-      "originalUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541903564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0WV",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2801R3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2801R3",
-      "publishedDateTime": "2020-11-20T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },

@@ -36,31 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 71
-  - title: "Machine learning in banking and marketing applications for 2021 and beyond"
-    excerpt: "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,"
-    publishedDateTime: 2020-11-16T16:04:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 71
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png"
-        width: 750
-        height: 499
-        isCached: true
-  - title: "Deep Learning: Global Markets"
-    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning: Global Markets\" -  Revenue forecasts for this period are segmented by offering, end user and region. Market values have been estimated based on the total revenues of hardware,"
-    publishedDateTime: 2020-11-16T11:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Artificial Intelligence as a Service Market: Global Analysis with Focus on Development Strategy, Opportunity Assessments"
     excerpt: "The global market report on artificial intelligence (AI) as a service market is suggesting the promotion of the market beyond a valuation of USD 6.7 billion by 2023. During the forecast period of 2018 to 2023,"
     publishedDateTime: 2020-11-19T22:50:00Z

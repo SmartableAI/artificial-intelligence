@@ -27,66 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,"
-    publishedDateTime: 2020-11-17T09:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+  - title: "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office"
+    excerpt: "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve."
+    publishedDateTime: 2020-11-20T16:22:00Z
+    webUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/"
+    ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-  - title: "Deep Learning: Global Markets"
-    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning: Global Markets\" -  Revenue forecasts for this period are segmented by offering, end user and region. Market values have been estimated based on the total revenues of hardware,"
-    publishedDateTime: 2020-11-16T11:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Artificial Intelligence as a Service Market: Global Analysis with Focus on Development Strategy, Opportunity Assessments"
-    excerpt: "The global market report on artificial intelligence (AI) as a service market is suggesting the promotion of the market beyond a valuation of USD 6.7 billion by 2023. During the forecast period of 2018 to 2023,"
-    publishedDateTime: 2020-11-19T22:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-global-analysis-with-focus-on-development-strategy-opportunity-assessments-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg"
+        width: 1199
+        height: 634
         isCached: true
-  - title: "Free Webinar on the Booming Global AI-based Learning Market"
-    excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
-    publishedDateTime: 2020-11-18T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
+  - title: "Use of AI in the NHS is leading to a 30-times improvement in early cancer detection rates"
+    excerpt: "Cancer may be the world’s second largest killer, but there is lots of innovative work going on in the realm of AI software to improve early diagnosis and, therefore, boost survival rates. Two companies doing just that are UK-based C the Signs and Panakeia Technologies."
+    publishedDateTime: 2020-11-20T10:09:00Z
+    webUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates"
+    ampWebUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "Applying machine learning to making mechanical parts"
-    excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
-    publishedDateTime: 2020-11-16T14:11:00Z
-    webUrl: "https://www.controleng.com/articles/applying-machine-learning-to-making-mechanical-parts/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
+      name: Diginomica
+      domain: diginomica.com
+    quality: 48
     images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/11/CTL2011_WEB_IMG_Purdue_MachineLearning.jpg"
-        width: 645
-        height: 350
+      - url: "https://diginomica.com/sites/default/files/images/2019-09/health-care-tech.jpg"
+        width: 1277
+        height: 739
         isCached: true
 
 secured: "J10hhvv5AsC1Vd0hG+gJNMOO9JLiovleo6vFxas3brv+wdfdXa3FIp0CjbgreFTRFliXk1VsVHUcwflAde4gEc1oPaiJL7bprFS/V0BCT9L01tMNNOYK2JxARiT7PoaU+xpNV+GPTaqUNI57r6zJlsFV/gI4LGOe3D4eByYMbue+yQLZCk5adTVDx8f688RbfNNDMNkmbS8HqWSi5X/02e1HhGESO9nyWNSf4KZr6zfUTbi0plVLTBbim/aXXeAfA/r9SvRpELw46NaBSK5JkZ0H4HzAKZ3UXiuMDFxYTVfbVJhmy0AN7dCpJSDTptkO8ezlxjwqQki0W0QkoCRQz+Rzvx6iplpckGbYe8AYQfcChnRvNQBB9FERLLIK41MF3pkQTAQ4L/3ZanZhyVy9b7B/xrdM93W/SrQKML4XQs8fq9g7UN/TEiIiEhqZvdB9u8yUpYdNp6IKUCcfN2N8WmU1dFvMU+g9h6Nt6jjn7CBGkEPJLlGW1AYe8yusMZTJz6rmJBa3fJA2bxhidzAxNg==;dYoQkm4SVLiaIZxV9i6Ysw=="

@@ -85,20 +85,6 @@ related:
         width: 504
         height: 294
         isCached: true
-  - title: "AMD Instinct MI100 GPU Announced"
-    excerpt: "AMD launched what it is boldly proclaiming as the world’s fastest HPC accelerator for scientific research with the AMD Instinct MI100."
-    publishedDateTime: 2020-11-16T13:00:00Z
-    webUrl: "https://www.storagereview.com/news/amd-instinct-mi100-gpu-announced"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 39
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/11/StorageReview-AMD-Instinct-MI100.png"
-        width: 1504
-        height: 820
-        isCached: true
   - title: "AMD launches world's fastest GPU for scientific research"
     excerpt: "AMD on Tuesday launched Instinct MI100 accelerator – touted as the worlds fastest HPC GPU and the first x86 server GPU for scientific research. Built on the new AMD CDNA architecture, the AMD chip ena"
     publishedDateTime: 2020-11-17T13:25:00Z

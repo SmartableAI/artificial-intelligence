@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
 type: article
 quality: 104
-heat: 264
+heat: 254
 published: true
 
 provider:
@@ -164,20 +164,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia-A100-80GB-GPU_605x.png"
         width: 605
         height: 446
-        isCached: true
-  - title: "NVIDIA A100 80GB GPU Unveiled"
-    excerpt: "NVIDIA announced that its popular A100 GPU will see a doubling of high-bandwidth memory with the unveiling of the NVIDIA A100 80GB GPU."
-    publishedDateTime: 2020-11-16T13:00:00Z
-    webUrl: "https://www.storagereview.com/news/nvidia-a100-80gb-gpu-unveiled"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 39
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/11/Storagereview-NVIDIA-A100-80GB.jpg"
-        width: 1000
-        height: 721
         isCached: true
   - title: "Nvidia Announces A100 80GB GPU"
     excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"

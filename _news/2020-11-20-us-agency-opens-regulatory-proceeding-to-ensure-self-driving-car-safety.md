@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. regulators seek public input on new safety standards for self-driving cars"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-20T10:03:00Z
+    webUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 647
+        isCached: true
   - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T08:55:00Z

@@ -79,6 +79,22 @@ related:
         width: 466
         height: 263
         isCached: true
+  - title: "Namaste, France and Bonjour, India: The future of fintech is French"
+    excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
+    publishedDateTime: 2020-11-21T03:41:00Z
+    webUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french"
+    ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1605894676099.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1668
+        height: 834
+        isCached: true
   - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
     excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
     publishedDateTime: 2020-11-19T21:30:00Z

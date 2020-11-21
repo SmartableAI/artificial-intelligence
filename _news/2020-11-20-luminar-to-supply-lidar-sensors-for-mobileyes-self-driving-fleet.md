@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Luminar to supply lidar sensors for Mobileye's self-driving fleet"
-excerpt: "Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's <INTC.O> Mobileye subsidiary for its test fleet of self-driving vehicles."
-publishedDateTime: 2020-11-20T14:19:00Z
-originalUrl: "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3"
-webUrl: "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2801R3"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2801R3"
+title: "Luminar to Supply Lidar Sensors for Mobileye's Self-Driving Fleet"
+excerpt: "(Reuters) - Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's Mobileye subsidiary for its test fleet of self-driving vehicles."
+publishedDateTime: 2020-11-20T15:12:00Z
+originalUrl: "https://money.usnews.com/investing/news/articles/2020-11-20/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet"
+webUrl: "https://money.usnews.com/investing/news/articles/2020-11-20/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet"
 type: article
-quality: 74
-heat: 104
-published: true
+quality: 34
+heat: 34
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,29 +22,7 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541903564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0WV"
-    width: 818
-    height: 545
-    isCached: true
-
 related:
-  - title: "U.S. regulators seek public input on new safety standards for self-driving cars"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-20T10:03:00Z
-    webUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 647
-        isCached: true
   - title: "Luminar teams with Intel's Mobileye unit on self-driving vehicles"
     excerpt: "Luminar Technologies Inc. on Friday said it is teaming up to develop self-driving vehicles with Intel Corp.'s Mobileye. It's the second major partnership in a month for the Palo Alto-based lidar unicorn and the third of the year,"
     publishedDateTime: 2020-11-20T11:00:00Z
@@ -68,6 +44,6 @@ related:
       domain: globalspec.com
     quality: 4
 
-secured: "9rFN28Pp6+xX9kFnHfM/8WiR+w40SsSE+C+s3IMsEQqZZmu6MxzK9vGvrB0eLseTvbz+C/7O7Ds82wc+K6SA5BAyajaZLrS1KnGeblEyJVYCwmmu5sxCkTGt8gKKEMD/KrNObhcbK47fVQQqUdxwK7NntoLPTRhu4tn+3UVeJjbMulfaBeClve3XeZifr0BoGlmerJZ1ugmJFaVpXcaH5szTyUavTuwrUX+o4qA64Piq0y1e+mSuxuH/LASEPeVwlpJ0qw0J7+nVXifv3OfCIsVolof5CX7FU7EVnv2fTPlvpGxA4qA7LBgwUNlbTjOSL3sHsda28jIdoA59JwR91cIjsDRtJv1nprH9r6OmXnljRmJGaH2+dOY8sBF2kOh4WN0LbEWnpx14Pla+VMrNCX7xl2qw9jLePYJVRSr5rTx1ks+HdmHsSOgyxJUxWWfySP+GOazTrHjk2gqEpcgN39CUodRSrq27xovhcfaBTpVmSafJp4V2gY28yU1W1WkpcUf1L8bFu0gynjVaSOUncA==;KiyCPcMdtK3HioJX2YeEsA=="
+secured: "oa5/5bLCXldcsfvPNOXGTNE10cOdLoFC3Qe7pe4RASckRJqfz6VTsq6czIUqmgvToXIjuH1YQ2wMBelASWHj5t5QOJ0oLSWVOvOdcL2VQLNtB4ntv+nMa56d6JoBQgeYiKSd/xzbK2aHeoLg9O3s4mZP2rd/bWLxXWuJtrVKjDtwDD1B9elyzOiBJLv2VFVrnhhedu/CY1CJz3L64MOub2GfGq8oNMtwjMv77H+PGC/erWa8FX2miiIp+LzE4lGfaODaVr8A/Y/z7B0ls68GLJ8TN9tSLG0gWfh5fDZACX9ysq8jkDrLo/YGyK9hmqs7CwbPGUxhZJcsvEHdii4k/jB32xaqAYMtRfOrUvo7heGhrXk7MAi5UlwXCtuFEWQUZOMyemJk1LwEOaB0IIRcWXWplPTIAsQxVWwEwweXe0avJed1RWZ5cbgjR8J2I0EDlCKFnly4B4ukeZp5/2N0lj6DId4XD8WmR0OJjS1IZgDBcT7UgPc8w37tOicHm2Dl/b6UjtG16sdiIGi+iMRdxw==;xpKHGjN1KfQEHanRqAwFpw=="
 ---
 

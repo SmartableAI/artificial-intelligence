@@ -41,20 +41,6 @@ related:
         width: 620
         height: 383
         isCached: true
-  - title: "New project uses artificial intelligence in drug development"
-    excerpt: "In health care, artificial intelligence is quite normal: it is used, for example, as an aid in making diagnoses. However, artificial intelligence is"
-    publishedDateTime: 2020-11-16T12:06:00Z
-    webUrl: "https://www.miragenews.com/new-project-uses-artificial-intelligence-in-drug-development/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/liacs/aidd.jpg/aidd.jpg/d880x320"
-        width: 880
-        height: 319
-        isCached: true
 
 secured: "0M6Dn66lGPYZdMe03c6VMLazGPsTWU177G5AahoDkOkaeWQr4dELwvpZuI4yvXSfRLBV3MOuWG+3uRUI6YebUKeuWQvGQGwucWI5P6ja1KYuMcCywLLhBHcLkcPwy370fbSay28Y5CrDj4vU7TU7XMlLqRzIUXuqhU4MRo/e/yQDPwuo8SPGaCgNtPZpXWvaJ8rknYDyiDI8S5YHggWkqITKp7TD1phQrf6WBDJ8HorGk037f3g1Zsss+Yj4xAd2t/Y0R5JIIXb0CwR37JTHgT28ULvVOR3hzuTiX5ZnpczA46HvIvsFnLhr0z9X4XfJDdLVcyMJOGgvK6ZePetm42/C/cofyGolFvX2RIKGbDEHI9h2h+JeX06aHIdYSylxHZnor2ddz80WzdUGJ0Io2ta3g6CJUaZ4oA4agmp9mr2+jiiOetC1URyLhHT37Zj5aQ0KYexpTd0mlgbKbRNR3x/EIp11MXfyCaJjeoeX2Yu5ys6hZ28Lhpgt6pXEjoK85SjfNI74M0WO2rBppFif5Q==;bth0Y+51F6iX8db+e+aLpA=="
 ---

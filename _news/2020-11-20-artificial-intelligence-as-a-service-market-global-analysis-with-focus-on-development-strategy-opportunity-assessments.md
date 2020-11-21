@@ -41,31 +41,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 71
-  - title: "Machine learning in banking and marketing applications for 2021 and beyond"
-    excerpt: "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,"
-    publishedDateTime: 2020-11-16T16:04:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 71
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png"
-        width: 750
-        height: 499
-        isCached: true
-  - title: "Deep Learning: Global Markets"
-    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning: Global Markets\" -  Revenue forecasts for this period are segmented by offering, end user and region. Market values have been estimated based on the total revenues of hardware,"
-    publishedDateTime: 2020-11-16T11:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Free Webinar on the Booming Global AI-based Learning Market"
     excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
     publishedDateTime: 2020-11-18T18:00:00Z

@@ -85,20 +85,6 @@ related:
         width: 504
         height: 294
         isCached: true
-  - title: "AMD Instinct MI100 GPU Announced"
-    excerpt: "AMD launched what it is boldly proclaiming as the world’s fastest HPC accelerator for scientific research with the AMD Instinct MI100."
-    publishedDateTime: 2020-11-16T13:00:00Z
-    webUrl: "https://www.storagereview.com/news/amd-instinct-mi100-gpu-announced"
-    type: article
-    provider:
-      name: StorageReview
-      domain: storagereview.com
-    quality: 39
-    images:
-      - url: "https://www.storagereview.com/wp-content/uploads/2020/11/StorageReview-AMD-Instinct-MI100.png"
-        width: 1504
-        height: 820
-        isCached: true
   - title: "AMD's Instinct MI100 GPU targets HPC, surpassing 10 teraflops"
     excerpt: "AMD has announced the first x86 server GPU to surpass the 10 teraflops (FP64) performance barrier, the AMD Instinct MI100 accelerator. The 7nm chip, targeted at high performance computing customers, will launch by the end of the year."
     publishedDateTime: 2020-11-16T16:03:00Z

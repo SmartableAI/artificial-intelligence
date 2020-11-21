@@ -35,22 +35,6 @@ related:
         width: 600
         height: 334
         isCached: true
-  - title: "Using AI to manage IoT sensor power"
-    excerpt: "Researchers aim to increase the lifespan of sensors and IoT devices by using AI and energy-harvesting technology."
-    publishedDateTime: 2020-11-16T11:06:00Z
-    webUrl: "https://www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.html"
-    ampWebUrl: "https://www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.amp.html"
-    cdnAmpWebUrl: "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3586566/using-ai-to-manage-iot-sensor-power.amp.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 57
-    images:
-      - url: "https://images.idgesg.net/images/article/2019/08/itil-tips-for-implementation_lightbulb_innovation_process_strategy_iot_by-ipopba-getty-100808462-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "System Brings Deep Learning to IoT Devices"
     excerpt: "Deep learning is everywhere. This branch of artificial intelligence curates your social media and serves your Google search results. Soon, deep learning could also check your vitals or set your thermostat."
     publishedDateTime: 2020-11-17T00:00:00Z
