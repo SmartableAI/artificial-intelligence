@@ -39,22 +39,6 @@ related:
         width: 1540
         height: 800
         isCached: true
-  - title: "Connecting the Classroom to Careers Through AI Explorations"
-    excerpt: "Artificial intelligence is an increasingly prevalent part of our everyday lives. From live-updating, turn-by-turn driving directions to responsive"
-    publishedDateTime: 2020-11-16T15:31:00Z
-    webUrl: "https://www.edsurge.com/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
-    ampWebUrl: "https://www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
-    cdnAmpWebUrl: "https://www-edsurge-com.cdn.ampproject.org/c/s/www.edsurge.com/amp/news/2020-11-16-connecting-the-classroom-to-careers-through-ai-explorations"
-    type: article
-    provider:
-      name: EdSurge
-      domain: edsurge.com
-    quality: 59
-    images:
-      - url: "https://edsurge.imgix.net/uploads/post/image/13694/ai_career_connections-1601659718.jpg?auto=compress%2Cformat&w=640&h=260&fit=crop"
-        width: 640
-        height: 260
-        isCached: true
 
 secured: "t4NddEHD+a8HB1fUaOHwHEsyN+oSk7oF02SWbzV3oDhoUzQ93LPygJodNj4031WzY2B2ffVIjOeQ8WLSyDudFExBSLA/WPOeHVpp0RC7IDXToBc49GczWGfKa0QBuEtymjdYynxBj9EoDj3qE8i4Gm57z3KWA43QyVrmJKMl3fwJKx5qexhc1wGb0ghiFgXkPdGGI59gZEFmkd2RlI97MJSRa+l5//bDx/evzdWJLd3G8VKyLNcLO2NC3x5U1GxVs/bKFIIsu4zf805Bs2eKQidrvkj2i3UDDcLxWOMq6ZE8W41thdGASnUO0UPWzhuqJHkBKQmffPrZRz31L3JgLS8cK6ZlG1lG/DUz5pfi7Wo=;YaVajHwaClCEpinryiJ3Lg=="
 ---

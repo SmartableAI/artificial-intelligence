@@ -2,11 +2,11 @@
 category: news
 title: "The human brain inspires RMIT researchers to develop a light-powered AI chip"
 excerpt: "RMIT University researchers have developed a light-powered electronic chip featuring artificial intelligence (AI) that has the potential to be used to power technologies such as drones, robotics, smart wearables,"
-publishedDateTime: 2020-11-18T07:58:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
+publishedDateTime: 2020-11-18T02:01:00Z
+originalUrl: "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
+webUrl: "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
 type: article
 quality: 101
 heat: 131
@@ -69,6 +69,6 @@ related:
         height: 3456
         isCached: true
 
-secured: "5HKNHTH7/KwrhxBYuLX/z8MlMN8bncEBQzvnp7SXGjW+ed/I8Klxqh9owLUeJuKevnz08okHEl4SN6UbjuL3rreN+/p37fj1uB4pKtNNFYftnkRGaiUNbyilaHntKrssrrcAF1vvrTTdKL0kRJGHBSg6loas/rnUYQ92DSP/rrOEWPzFol0J0vvrNd8lI768xQw7engZDBJsK/XWUufkx4J6dnnhzDnZ7bWGn1rnkw4yA7/rRyriuMMhkrjYOQHeGP01icTc1N3nww3Lq4vhGM3e+1niSaBCHTtUPfYeVfmed2K9oL16sSUrKLsz5CJ8AZ1j7EH19FSlIS+sT804gWRutTXZz5X24xo42yxmD7VE6Bzso2NC/1vNG6fyJQk30/0zzl4NtMIdPTk4wGtV8NK1cEo+GMmqwOW8qSBcYDoecPsofhj9hLLyyVqG3M8jFgg6JK44wmuy69t/NtKAr7tzW9aFqj3gU/E/hI+YEL1E3/r447b9eWsPxdWM8vdAcbf6mQK44bswRxh1/Z867w==;pVQhphl1lw2TTBpsuPJ0ow=="
+secured: "tlpKZNCpVINfrrMIiL9veKXrpjvZx6pbxj+oblDyDJQfDXuzw965BOMhtDN5XDUGwhDtU26A2SB8x7043cQbkOFMpLkMiB0JmAQgbLZeHDpfdGGhzD2OVcLahlJ7ez25A9mNALnSDhAIzUr3RmRRO1LH34d8RYMzIeJ95LAlzN4+FhK+50qjC6Wfc/nAet21JzBfTQKIk0qgymirQtV9HGYUT8RTmjYeGRMk4NagsSaWSmZCvnN0PhKmYcQXfGf4+gMcIUZRG9TAIn4PoVzvQm8GX+JKr/0XIHYr3RVLISNy6EfJnQDA+0RyjLvnk/+KKsz9qBlUSrYTli45+qyv5hS2BVVZVB+r8ngM09B2hl4=;C2OZY+98xqfZvCaveFUoWQ=="
 ---
 

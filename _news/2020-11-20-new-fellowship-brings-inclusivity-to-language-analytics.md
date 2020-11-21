@@ -61,20 +61,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Penguin Computing Unveils HPC, AI and Analytics, Cloud, and Data Solutions"
-    excerpt: "Penguin Computing, a subsidiary of SMART Global Holdings, Inc. and leader in high-performance computing (HPC),"
-    publishedDateTime: 2020-11-16T15:03:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/penguin-computing-unveils-hpc-ai-and-analytics-cloud-and-data-solutions/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 35
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
 
 secured: "j8X8StlhI1kRHbmuED29qlngFiofK3gpAjKSdiNjtwzXcBBYfBPl4SJr8kVL7pDGvU/tScIMOvQObCAE0Psft+xyDAKGldqCc99hg2z6FPg+Xg7EVXUEQSVNaLl53MuU4bfkHMFB+Dd3VBo1Zgage11AV+Vgrbhz+JnGXz2r5JWbXF22f7ovT1Whg9EiBBBqxUzHfQ/kIIxYPTzpTfTAnVBH4I9OOiWPWRfthwydL/SXNeBRIIjqwn5Udc2HdYgqcdHrOQZDrT2clDGNiiJSrOAEVqQLKzscpbsj0abdMDBp7QYsjfyPeCtJjt27VY2D3unay1mr7LXWyxxn9TpDiieifpkc4t+K+74kSHnFg2w=;m2uGmJ7K/ZQJV6i3/JqZVA=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-tea
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 234
+published: true
 
 provider:
   name: TechCrunch
@@ -31,21 +31,32 @@ images:
     isCached: true
 
 related:
-  - title: "Lanistar's New Card Supports Personalized Security, A First In Fintech"
-    excerpt: "Lanistar's core development mission is to provide first-time Generation Z and millennial bank card customers with the freedom and security they want in a bankcard but couldn't find with any Financial Services Provider."
-    publishedDateTime: 2020-11-16T15:28:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/16/lanistars-new-card-supports-personalized-security-a-first-in-fintech/amp/"
+  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
+    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
+    publishedDateTime: 2020-11-20T16:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Data empowerment can streamline fintech and digital banking: Nilekani"
+    excerpt: "Infosys chairman and co-founder Nandan Nilekani has pitched for empowering people and businesses to own their data in order to streamline fintech and digital banking services in the country. He said that account aggregator programmes must be encouraged so that businesses and individuals can access their own data for any service."
+    publishedDateTime: 2020-11-20T12:19:00Z
+    webUrl: "https://www.theweek.in/news/biz-tech/2020/11/20/data-empowerment-can-streamline-fintech-and-digital-banking-nilekani.html"
+    ampWebUrl: "https://www.theweek.in/news/biz-tech/2020/11/20/data-empowerment-can-streamline-fintech-and-digital-banking-nilekani.amp.html"
+    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2020/11/20/data-empowerment-can-streamline-fintech-and-digital-banking-nilekani.amp.html"
+    type: article
+    provider:
+      name: The Week
+      domain: theweek.in
+    quality: 59
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2983013d41ff91cf73339%2F0x0.jpg%3FcropX1%3D656%26cropX2%3D7952%26cropY1%3D0%26cropY2%3D4634"
-        width: 1200
-        height: 762
+      - url: "https://www.theweek.in/content/dam/week/news/biz-tech/images/2020/3/9/nilekani-priorities-pti.jpg"
+        width: 760
+        height: 443
         isCached: true
   - title: "Learn The Future of Finance with the Ultimate FinTech Bundle"
     excerpt: "The future of finance is digital. You know this by now. While cryptocurrencies and blockchain draw plenty of attention, there’s even more going on inside the finance industry rapidly changing how we invest,"
@@ -63,21 +74,48 @@ related:
         width: 630
         height: 473
         isCached: true
-  - title: "Ontario Fintech Firms are Finding Success on the Global Stage"
-    excerpt: "From mobile payments to cybersecurity, trading analytics to blockchain, Ontario is a global leader in fintech."
-    publishedDateTime: 2020-11-16T16:23:00Z
-    webUrl: "https://panamericanworld.com/en/magazine/startups/ontario-fintech-firms-are-finding-success-on-the-global-stage/"
-    ampWebUrl: "https://panamericanworld.com/en/magazine/startups/ontario-fintech-firms-are-finding-success-on-the-global-stage/amp/"
-    cdnAmpWebUrl: "https://panamericanworld-com.cdn.ampproject.org/c/s/panamericanworld.com/en/magazine/startups/ontario-fintech-firms-are-finding-success-on-the-global-stage/amp/"
+  - title: "U.S. Fintech Wemlo Introduces AI Tech For Mortgage Processing"
+    excerpt: "Wemlo, a U.S.-based fintech that’s focused on mortgage loan processing, announced on Friday the launch of its new AI technology called Athena. According to Wemlo, Athena is a virtual assistant AI deve"
+    publishedDateTime: 2020-11-20T19:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
     type: article
     provider:
-      name: panamericanworld.com
-      domain: panamericanworld.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/mortgage-precondo-ca-unsplash-600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech"
+    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September."
+    publishedDateTime: 2020-11-18T15:05:00Z
+    webUrl: "https://www.reuters.com/article/israel-emirates-regulato-int-idUSKBN27Y1QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1QX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1QX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 54
+  - title: "Regulators of Israel, Abu Dhabi markets to cooperate on FinTech"
+    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalize relations in September."
+    publishedDateTime: 2020-11-18T13:41:00Z
+    webUrl: "https://english.alarabiya.net/en/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
+    type: article
+    provider:
+      name: العربية.نت
+      domain: alarabiya.net
     quality: 44
     images:
-      - url: "https://panamericanworld.com/en/wp-content/uploads/sites/2/2020/11/Toronto-1-10.38.50.jpg"
-        width: 840
-        height: 560
+      - url: "https://vid.alarabiya.net/images/2020/10/06/96dc4b2c-7024-4526-b673-24628317a26c/96dc4b2c-7024-4526-b673-24628317a26c_16x9_600x338.JPG?width=466"
+        width: 466
+        height: 263
         isCached: true
   - title: "Nilekani seeks French co-op for fintech"
     excerpt: "Infosys Chairperson and India’s Aadhaar architect Nandan Nilekani on Friday said that countries like France and India have the potential to work together on Aadhaar-like account-aggregator infrastructure that leverages data for accessibility to financial services."
@@ -95,6 +133,17 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
+    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
+    publishedDateTime: 2020-11-18T00:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
   - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
     excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, has attracted £1.2 million from Saviu Ventures, a French investment holding company which focuses on African startups;"
     publishedDateTime: 2020-11-17T11:09:00Z
@@ -131,20 +180,68 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "Seoul Fintech Lab Supports Korean Fintech Startups to Move Into Europe"
-    excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between Korean fintech startups wishing to set up business in Europe and European investors and financiers."
-    publishedDateTime: 2020-11-19T09:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-financial-technology-luxembourg-south-korea-34478718a4fb43d2ae1144186e1b0373"
+  - title: "Aussie Fintech Douugh Launches in the US in Partnership with Mastercard"
+    excerpt: "Australia based neobank Douugh Ltd (ASX:DOU) has launched its app in the US following a partnership with Mastercard. Douugh reports that it has been in beta with U.S. consumers since early-2019 and is now officially launching to the wider market."
+    publishedDateTime: 2020-11-17T13:00:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169231-aussie-fintech-douugh-launches-in-the-us-in-partnership-with-mastercard/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169231-aussie-fintech-douugh-launches-in-the-us-in-partnership-with-mastercard/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169231-aussie-fintech-douugh-launches-in-the-us-in-partnership-with-mastercard/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 24
+  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
+    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
+    publishedDateTime: 2020-11-19T21:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
+    excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
+    publishedDateTime: 2020-11-19T17:46:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-to-novel-technology-that-empowers-breach-victims-to-fight-back"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 14
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
+  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
+    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
+    publishedDateTime: 2020-11-17T14:39:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
     type: article
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 24
+    quality: 12
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
         isCached: true
+  - title: "Global AI in Fintech Market Latest Innovations, Drivers and Industry Status 2020 to 2025"
+    excerpt: "Here’s a recently issued report titled Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a brief analysis of the market size, demand, supply chain, futuristic trends,"
+    publishedDateTime: 2020-11-19T12:25:00Z
+    webUrl: "https://ipsnews.net/business/2020/11/19/global-ai-in-fintech-market-latest-innovations-drivers-and-industry-status-2020-to-2025/"
+    type: article
+    provider:
+      name: Inter Press Service
+      domain: ipsnews.net
+    quality: 10
 
 secured: "uYXamgogyFNrVLeDkPolOaXRcP9QX8cg0guEWppk5ExM9MouGiw2uLwUMcrEsqyYyNlQFAufVeanpEyjmw7kkTErLpUAmx3Py8BmGqXkx/NYWvIRE0KO++XGJNSL/r/gISbNo0iWdrMF8XRXq5w+7PcwFWZNZTakV6thfa45fJIurEMNFTzFDEVcJ2TTa/CAH7HiBrswqoWiJAzDMuo56k1e69LupuG9ytNMNT9RmH6q3PqGDFho8/DM8EKrb2s5yiaioNicP9PbmEQq04B4Nfgkcxpeg7DEXpFMHnssYQ5poAaIPzZriQM/KAJtb68XXib/nJ1rfNd2B0Ulu1xFS1J+zqLbS1vNX67/OetxVGByodhJX2ky49krHpiaPgb+J8jzbe2gFKFyZA3SUYFfoRO67TCKUta0Fw0wK/FlhKti39SvYrUxH7sjNd9B5agab1SCjrZ5A8NFmnPK9BmIiQ/WfCzj+kzpCZQXoUlLjXvmDagWUke3UOXdAkGP+Et9JA48tUcm4LiblSXqZh+h2Q==;1wWfMEIeB1X6XckJpms1mA=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
 excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
 publishedDateTime: 2020-11-18T11:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+originalUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
 heat: 108
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg"
@@ -47,21 +47,16 @@ related:
         width: 1280
         height: 719
         isCached: true
-  - title: "LaunchPad Startup OthersideAI Receives $2.6 Million in Seed Funding"
-    excerpt: "Syracuse LaunchPad startup OthersideAI announced on Nov. 12 that it received $2.6 million in seed funding from Madrona Venture Group, and joined Active Capital, Hustle Fund, Chapter One and top angel investors in Artificial Intelligence (AI) and Software as a Service (SaaS)."
-    publishedDateTime: 2020-11-16T15:09:00Z
-    webUrl: "https://news.syr.edu/blog/2020/11/16/launchpad-startup-othersideai-receives-2-6-million-in-seed-funding/"
+  - title: "Denver AI property insurance startup Flyreel lands $10M Series A funding"
+    excerpt: "Denver startup Flyreel, an AI solution for residential and commercial property insurance, announced Wednesday that it has closed a $10 million Series A financing round. CEO and co-founder Cole Winans said the Covid-19 pandemic has forced property insurance providers to accelerate and enhance their digital strategies."
+    publishedDateTime: 2020-11-19T15:04:00Z
+    webUrl: "https://www.bizjournals.com/denver/inno/stories/fundings/2020/11/19/denver-ai-property-insurance-startup-lands-10m.html"
     type: article
     provider:
-      name: Syracuse University News
-      domain: syr.edu
-    quality: 37
-    images:
-      - url: "https://news.syr.edu/wp-content/uploads/2020/11/Otherside-690x489-1-564x400.jpg"
-        width: 564
-        height: 400
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 16
 
-secured: "hWDXq5qR40Z5kn2AlT2yCQV7aSTYGnjpBcX1L3Z36smDk6jVGO659x7Dj/hi5TfZ/4ylYVltqLu8gZyT9Pv//nKR86TzqMK7EtRJCSUkf14KJQiOD9j03ZoZCQP66FI+QjKvY9rHDzk9UVlgGUBteW5HS8E4Z72gZlueYWvCrTuqr9+o9fzAp136KsGXeykcaguoME5fw4weX8JOoC2BPGWnHG+UYDVCMegRzFNOyn8Yf3Tb8OiM6i7anDNSGr5XN+Zh3H5wn6x8DyK847BmN4XRXpKi9yR+mn+fdUO2NWHWU+QzwpO0dtZa+EbneFmgrms0cJLkhZgoFrsMUgStzbsLPwmXjLSZF/7E9PwHLqE=;Pi6foJ8Ah8WQacwy+aRIqg=="
+secured: "yg7iEMKIWaKm3ACPS9R6muQiKl+e4NQEDB5NLZ7yrr97bctQ4GGg2oP9YlDu+vC6PbSYk1rf+pLyIMGpkn8vA2carIT6yXhd6M69i9T0GVcd3GUZ99flXQ1c8GhO8BJYQDGU0vG9GujYtPvy9QIjbg+6YOV4acvGkQMfF4kHmxzQi1uRnPcXRdLgbyhS0Fw/lhRmImH5ewXcjs0d+xAV02Ox+WfhdwS25JO5/XpjOtYJLQWtD+zRnI6fe6TWmIk5rpNhNhJ8GATCH7/7SE+qJFsprNCGh41VS9VPEqsjOzq0iCY+cRhxA5/9C9sLZHWykqYIBE5COuBTqcmHXtDHQAWn9Qgzt4XoFDm00I8nSWA=;fqzGYHwYcHzZUEFsvT8C6A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.telecompaper.com/news/amd-shows-off-instinct-mi100-for
 webUrl: "https://www.telecompaper.com/news/amd-shows-off-instinct-mi100-for-supercomputers-faster-ai--1362177"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "AMD's Instinct MI100 GPU targets HPC, surpassing 10 teraflops"
-    excerpt: "AMD has announced the first x86 server GPU to surpass the 10 teraflops (FP64) performance barrier, the AMD Instinct MI100 accelerator. The 7nm chip, targeted at high performance computing customers, will launch by the end of the year."
-    publishedDateTime: 2020-11-16T16:03:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/amds-instinct-mi100-gpu-targets-hpc-surpassing-10-teraflops/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 39
-    images:
-      - url: "https://media.datacenterdynamics.com/media/images/AMD_Instinct_MI100_GPU.2e16d0ba.fill-1200x630.png"
-        width: 678
-        height: 357
-        isCached: true
 
 secured: "NltVOgIFA0KJRhePrKhiicMjHvDXMVB9b65vEYsvodyHH4TkH74z/EEhqH4iuUvalVIIOAZbMKO7jOaYKs6wQ14XllC0pf+Ze/+SYMnbu5QghX0tQMl2SDDxAZ8eiMkDi6R23K6CQAaz3uPSwNCiDEPDCyeJN/RV55FQo2vNbL8S8Y8mH2b2pxMla8+Zcwz+gMgEtPS3AyW4hqcEuU/H+2PtrYYPkZjk/3/bNVKRlTmVn2HJVhpT9WFhYTgkiv9W805f2soH3nKZ29r0yv8+Ag51e2ukxP61yjX9OhXDXQgoTbxIvoybTvKDWMNoJ3QqnbV7ntzbRWSn74vhM5DMKm94BqYO98MPjSROOXl+GPg=;UcCTLhoQZh58zC7fKFlzVA=="
 ---

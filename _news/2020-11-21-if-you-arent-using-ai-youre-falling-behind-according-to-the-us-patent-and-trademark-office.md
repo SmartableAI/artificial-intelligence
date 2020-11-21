@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine learning in banking and marketing applications for 2021 and beyond"
-    excerpt: "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,"
-    publishedDateTime: 2020-11-16T16:04:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 71
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png"
-        width: 750
-        height: 499
-        isCached: true
   - title: "Use of AI in the NHS is leading to a 30-times improvement in early cancer detection rates"
     excerpt: "Cancer may be the world’s second largest killer, but there is lots of innovative work going on in the realm of AI software to improve early diagnosis and, therefore, boost survival rates. Two companies doing just that are UK-based C the Signs and Panakeia Technologies."
     publishedDateTime: 2020-11-20T10:09:00Z

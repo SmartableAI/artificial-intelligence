@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201117/ibrAIn-develops-new-b
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201117/ibrAIn-develops-new-brain-interfacing-technologies-enabled-by-new-artificial-intelligence-hardware.aspx"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Aarhus University links brain research and artificial intelligence in new centre"
-    excerpt: "IBrain, a new cross-disciplinary centre at Aarhus University, aims at developing new brain interfacing technologies enabled by novel AI hardware. The centre - the first of its kind in Denmark - brings together world-leading neuroscience research from Aarhus University and the Danish Neuroscience Centre at Aarhus University Hospital with the goal of better understanding and treating neurological diseases,"
-    publishedDateTime: 2020-11-16T16:01:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/au-aul111620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 47
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/248925_web.jpg"
-        width: 1440
-        height: 837
-        isCached: true
 
 secured: "0MfNNY/l21LeFXlLKSlsR/zugp/7ZahI/F0D2bpfb9NA7Tg3wZprI8SEJic68yBDjiHbOcfpZjDjghs8YG3BsuV/krbwYSuOMbjcCBq74QPWy2sWpNYdZkuYkk3E5wDrKAgt5f1PxhU7L8LetFBAg5nTxt4IH3fJiAtoVtFzJif+brPqh9gYLeOBn7lh7+Dxzu5GwlW3a3IILrIseQxRNQwguol+rBZ3OWeCGIpv8jjgY6eei4EiGg/G1b2Oz+ZybTBRiFfSTFKchr1FdjnhUe998zMrfihQmO2LA595hQ5KVXlW+7aBN6SCDuBDsnXlqYpGzC+vTnmJuzTf9MpHEVcQz1eiGNvnYhM/AWs8Xxo=;gNrjtti4+9K8U038xOnT6g=="
 ---

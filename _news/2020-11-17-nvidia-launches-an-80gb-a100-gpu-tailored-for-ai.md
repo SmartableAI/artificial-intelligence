@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs"
-    excerpt: "NVIDIA has revealed its newest workstation, and if you’ve always wanted a gleaming gold obelisk capable of putting petascale power on your desktop, the DGX Station A100 should do the trick."
-    publishedDateTime: 2020-11-16T16:22:00Z
-    webUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/"
-    ampWebUrl: "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 104
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg"
-        width: 1680
-        height: 1050
-        isCached: true
   - title: "NVIDIA's AI Supercomputers Get a Massive Upgrade"
     excerpt: "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs."
     publishedDateTime: 2020-11-16T23:43:00Z
@@ -57,36 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA's new DGX Station A100: 4 x GPUs with 320GB of HBM2e total"
-    excerpt: "NVIDIA announces new DGX Station A100 can pack 4 x GPUs with 80GB HBM2e each... 320GB of HBM2e memory with 1.53TB/sec bandwidth."
-    publishedDateTime: 2020-11-18T07:44:00Z
-    webUrl: "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/index.html"
-    ampWebUrl: "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html"
-    cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 59
-    images:
-      - url: "https://static.tweaktown.com/news/7/6/76262_07_nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-memory.png"
-        width: 620
-        height: 348
-        isCached: true
-  - title: "Nvidia doubles the memory of its A100 GPU for AI workloads"
-    excerpt: "Nvidia Corp. is widely held to be the leader in powering artificial intelligence workloads, but it’s refusing to rest on its laurels. Today it said that it has supercharged what is already the world’s fastest graphics processing unit,"
-    publishedDateTime: 2020-11-16T15:08:00Z
-    webUrl: "https://siliconangle.com/2020/11/16/nvidia-doubles-memory-a100-gpu-ai-workloads/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/NVIDIA-A100-80GB.png"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Nvidia Unveils A100 80GB GPU Powerhouse Supercomputing Chip"
     excerpt: "Nvidia has doubled the memory of its previous supercomputing GPUs with its new A100 80GB GPU, which aims to drive new levels of supercomputing performance"
     publishedDateTime: 2020-11-16T20:46:00Z
@@ -101,66 +55,20 @@ related:
         width: 605
         height: 446
         isCached: true
-  - title: "At SC20: Nvidia Announces A100 80GB GPU"
-    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
-    publishedDateTime: 2020-11-17T05:23:00Z
-    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
+  - title: "Nvidia updates HPC/AI range"
+    excerpt: "HPC and AI vendor Nvidia has introduced an upgraded GPU, a new workgroup server, and a next-generation networking technology. The Nvidia A100 80GB GPU has twice the memory of its predecessor, and with over 2TBps of memory bandwidth provides \"unprecedented speed and performance\" for AI and"
+    publishedDateTime: 2020-11-17T01:58:00Z
+    webUrl: "https://www.itwire.com/hardware-and-storage/nvidia-updates-hpc-ai-range.html"
     type: article
     provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
+      name: ITWire
+      domain: itwire.com
+    quality: 41
     images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
+      - url: "https://www.itwire.com/media/k2/items/cache/2fe857af37ef5f565d687a3face964d7_M.jpg"
+        width: 375
+        height: 211
         isCached: true
-  - title: "NVIDIA Introduces Powerful New Data Center GPU"
-    excerpt: "NVIDIA unveiled the NVIDIA A100 80GB GPU-the latest innovation powering the NVIDIA HGX AI supercomputing platform-with twice the memory of its predecessor, providing researchers and engineers the performance tools to unlock the next wave of AI and scientific breakthroughs."
-    publishedDateTime: 2020-11-16T16:41:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/NVIDIA-Introduces-Powerful-New-Data-Center-GPU-143908.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Nvidia Unveils Ampere A100 80GB GPU With 2TB/s of Memory Bandwidth"
-    excerpt: "Nvidia announced an 80GB Ampere A100 GPU this week, for AI software developers who really need some room to stretch their legs."
-    publishedDateTime: 2020-11-16T19:15:00Z
-    webUrl: "https://www.extremetech.com/computing/317397-nvidia-unveils-ampere-a100-80gb-gpu-with-2tb-s-of-memory-bandwidth"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/08/Nvidia-DGX-A100.jpg"
-        width: 1260
-        height: 708
-        isCached: true
-  - title: "Lenovo Claims an HPC First for Liquid-Cooled Nvidia A100 GPU Servers"
-    excerpt: "N V2 server, which the company said is the first direct-to-node (DTN) liquid-cooled server for Nvidia A100 Tensor Core GPUs. It includes four board-mounted A100 GPUs in a 1U system delivering up to 3PFLOPS of compute performance in a single rack."
-    publishedDateTime: 2020-11-18T14:02:00Z
-    webUrl: "https://insidehpc.com/2020/11/lenovo-claims-an-hpc-first-for-liquid-cooled-nvidia-a100-gpu-servers/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 34
-  - title: "Nvidia announces 80GB AI supercomputing GPU; NVDA stock reverses earlier losses"
-    excerpt: "Nvidia (NASDAQ:NVDA) announces the DGX Station A100 80GB GPU, which powers the HGX AI supercomputing platform.The new A100 doubles the A100 40GB GPU's high-bandwidth memory and delivers over 2TB/second of memory bandwidth."
-    publishedDateTime: 2020-11-16T16:05:00Z
-    webUrl: "https://seekingalpha.com/news/3636630-nvidia-announces-80gb-ai-supercomputing-gpu-nvda-stock-reverses-earlier-losses"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 30
 
 secured: "p/EQ/H/FvH+sXiopfLyX74JPnv9/PBuVnRQs+ORX86OKSkK/wKByGu8OkgY01P3q66SyzBrRoQF1TQv1eKXfwkGZf/BgZLueBay1JwTagfHgU0O9r5axOn8yK9xtY6ypsy0zU3Fq0pmUk5RjMGH9nm1NNg5wouBMvFZfikCeM+LK9TmFGoesjpg9cLbGGuUbdpUuRhQK2iv7ttpFHKObUhlPvacRsJ96InBfT050iTaIifKb+E0k2v7tWpXEmGcXH5SzE3E3ibWzTs3YhNM08j0BZZj/dnZpdcfo+MpGJgN9JeocLHMFUAe+XYb94xxzHjJg16DIu4vXqUP6A/oF2FeL+SqcoQ9TeW2a6Q4EX1s=;5CgAJ4ips6lrOPhqNJxbUA=="
 ---

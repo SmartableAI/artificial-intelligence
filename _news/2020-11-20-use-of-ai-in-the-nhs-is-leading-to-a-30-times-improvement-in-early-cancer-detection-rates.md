@@ -42,20 +42,6 @@ related:
         width: 1199
         height: 634
         isCached: true
-  - title: "Machine learning in banking and marketing applications for 2021 and beyond"
-    excerpt: "Artificial intelligence (AI) and machine learning in banking make the strongest combination possible. Since these technologies are versatile, there are a lot of ways to use them across industries,"
-    publishedDateTime: 2020-11-16T16:04:00Z
-    webUrl: "https://roboticsandautomationnews.com/2020/11/16/machine-learning-in-banking-and-marketing-applications-for-2021-and-beyond/38220/"
-    type: article
-    provider:
-      name: Robotics & Automation News
-      domain: roboticsandautomationnews.com
-    quality: 71
-    images:
-      - url: "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/Picture1.png"
-        width: 750
-        height: 499
-        isCached: true
 
 secured: "2x4d3amKfuI/ocG6AWyDE0OSUYcWdz+IVgwrnFuOZvP3UZfPyXNE7seTT/AwvWoGgBgdoXWpGgayt0UHkaKoiO8S5t9q1VZLTYHSb+DtEuXm2mMhrelhSf54/JtlUgcP/umgjrCJTLeCfA6iG9xjxXwYS04nIHj+rmgGY5AQsO1VHq/3UB+tEMQ/T8p9UcS69dRM/KVrJ15n/GQuk66R1oFTScx3tJQSOqxVfS57/D2eef88wnyoH0dKTuQPWJ0owVXn5RPgsGa6pc76yzRqn9YD4KWbvztQFNIigh5ZLYi67Bf/BNszfFeY/qyRL1wpeKCr0MtyAgIIb2NFsTMomHMadoqgSeUMROMmexEWij0=;+sxkioZEaQXwLOpdM1ZdJw=="
 ---

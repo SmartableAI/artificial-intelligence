@@ -3,10 +3,10 @@ category: news
 title: "Here's Cyberpunk 2077 with ray tracing cranked up to 11 on an RTX 30-series GPU"
 excerpt: "Nvidia and CD Projekt Red have released a new trailer for Cyberpunk 2077 with ray tracing cranked all the way up. The new trailer shows what the real-time ray tracing experience in Night City will be like at ultra,"
 publishedDateTime: 2020-11-20T17:08:00Z
-originalUrl: "https://www.pcgamer.com/au/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
-webUrl: "https://www.pcgamer.com/au/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
-ampWebUrl: "https://www.pcgamer.com/au/amp/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
-cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/au/amp/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
+originalUrl: "https://www.pcgamer.com/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
+webUrl: "https://www.pcgamer.com/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
+ampWebUrl: "https://www.pcgamer.com/amp/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
+cdnAmpWebUrl: "https://www-pcgamer-com.cdn.ampproject.org/c/s/www.pcgamer.com/amp/heres-cyberpunk-2077-with-ray-tracing-cranked-up-to-11-on-an-rtx-30-series-gpu/"
 type: article
 quality: 35
 heat: 35
@@ -20,6 +20,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "sTkIILUG6Z80vmZyIVdL6O00WNWlntLqnbb6ZO/r7xIejAECcgMuz9xMkx5kGUW/bDUiz1sj51juimQBDVyZr7nr8F9jZ2q1BUr0zQmQli3qUOBBBL86agiQH+xf6owtsZC7LDmhkB9hJH3gX59SInA+XjYpp4uH293yKrjj3xcPEpCw5yVte7EerwZR6Nx4ov7ozbSi/vFQ20yB4PVlO5VmpXZvLP5cYX7DUg46VSVyh5lWlNsHJHHgRl5nn+mUmaGe4kjRUo0+eTpwwnlM4gbzpLfzUhcLWfcdFHX6/U10RkU4dP/h7fUWF1NKWDaV9XETmUr+ZOcbX3t7pyYTsK9QyfK3zHKAmOO2zEjG6KPKQNLg/zJKo5TAR0Y/mqaSeRnkO6OMrWBLl/EcUL6qoL2PxHQLbXL4I5MwcyR8w7y1eH5+9XyHRQkLerf1u9fO1Z8MVQU6D42f1GBs5zBiWVRjET8OEdnqGaQv3lBhMPPNXvkTALY5KPILeRuZmvPLciCboTNfgK0GSX9lSlrHXg==;dHejCgp/YESegNa1BrNV8w=="
+secured: "wGJp6+COR5WMtDFxJTTrq2Ca1zgivaSv8sJNEXJHrCrQ5G3jkDs5WafyjfopvX1JAhpqx9ivpvyXHtuznJ5TNHgRJQu573WL/oateP5hxLKXAaS99BQXJtSCMy1ksvddzDY/J7/QElyZQfPi0XMcpLpKFD1EbTxAqpLhRLe4YxTqCFCU01p6mBsApUGedalQ5nlehUeZePaavVmQQCC5YvyMt83T38EV0IUHqPi/GR6XctFU3xtUvxlxDccr3NSketUzqOGYaJR9msAmJfpNS4JyosK7fW2zqLxGcZSS0yjb39qA72a7icWYNF5drMuzHkC5kdjywZnuEe5f3CS190hqt5WCW8F7NZFRbqv4QVPuwwLb6Y2FZ8MWCZNZKS3LTAknMofWTPYXOgl6JM2Nmw3g+XypRRF/k8Y0lXS3hbd+N7QE+W9NnzJ7/Jd8/lJm9J/Kz2J6FXRdKkhJPfZhpRMxztYsyQGFa46+O5N9tcwc+CM41Zu8u5jsiTZKxVSYELDcT2ZnVbP58GsdTVnUHg==;2T9lFDBapK341BHMPiMc/A=="
 ---
 

@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "AMD Announces Instinct MI100 Accelerator, New Deployments for HPC and Scientific Research"
-    excerpt: "During this year’s SC20 virtual tradeshow, AMD is showcasing its leadership in the high performance computing (HPC)"
-    publishedDateTime: 2020-11-16T15:41:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/amd-announces-instinct-mi100-accelerator-new-deployments-for-hpc-and-scientific-research/"
+  - title: "At SC20: AMD Says New GPU Surpasses 10TFLOPS for HPC Acceleration"
+    excerpt: "AMD today announced the new Instinct MI100 accelerator, which the company said is the first x86 server GPU to surpass 10 teraflops (FP64) performance. Built on the new AMD CDNA architecture, the Instinct MI100 “enables a new class of accelerated systems for HPC and AI when paired with 2nd Gen AMD Epyc processors,"
+    publishedDateTime: 2020-11-18T07:07:00Z
+    webUrl: "https://insidehpc.com/2020/11/amd-says-new-gpu-surpasses-10tflops-for-hpc-acceleration/"
     type: article
     provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 15
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
-        width: 405
-        height: 228
-        isCached: true
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 21
 
 secured: "NpQPKWLmgVkjP164T1IwyE3hmgqObhyepfxktRSHoERZUsRVVHl8Wvrxey7DSk2l3rfBUR2umKEEF56naNDrpoSf8oxLDji+n+laL49zwwWjlzftVGPPUzOceLFgEmq1OZv6qb9cNx+pPAZoiTK+4amFuORm0k+G8W0QDurVTczWBIFjwX6WigrDEPy63AmNiQFxGYJcLnH44SeEWasrNXMpXAzNPmD5F7vTa/RhFkSi6w7ORlxG6cEP3L37Rkmntvs8ddpy4aJgi9MWw4wxnA4d5rq9CiCDlSAJ9l+VbWtylbuTAe/lMEGa+rlWqrUYZgaaC04RqrQB8j1Qk8gXbFPILzreVyS6d4uKlmxMltg=;B9TrbVDnYX9xK9uEviZujw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-le
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
 type: article
 quality: 68
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -49,20 +49,6 @@ related:
       - url: "https://cdn.bisnow.net/assets/webinars/bisnow-webinars-400x300.jpg"
         width: 400
         height: 300
-        isCached: true
-  - title: "Penguin Computing Unveils HPC, AI and Analytics, Cloud, and Data Solutions"
-    excerpt: "Penguin Computing, a subsidiary of SMART Global Holdings, Inc. and leader in high-performance computing (HPC),"
-    publishedDateTime: 2020-11-16T15:03:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/penguin-computing-unveils-hpc-ai-and-analytics-cloud-and-data-solutions/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 35
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
-        width: 405
-        height: 228
         isCached: true
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"

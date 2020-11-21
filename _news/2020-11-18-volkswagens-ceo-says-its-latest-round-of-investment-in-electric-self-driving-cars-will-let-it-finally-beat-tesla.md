@@ -90,22 +90,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Uber Is Looking To Sell Its Self-Driving Car Division"
-    excerpt: "As recently as eighteen months ago, Uber Advanced Technologies Group was valued at $7.25 billion following $1 billion in investments from the likes of Toyota, DENSO, and SoftBank’s Vision Fund. Fast forward to November 2011 and autonomous vehicle startup Aurora Innovations is in the box seat to purchase Uber ATG."
-    publishedDateTime: 2020-11-16T16:29:00Z
-    webUrl: "https://www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/"
-    ampWebUrl: "https://www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/uber-is-looking-to-sell-its-advanced-technologies-group/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/11/Uber-ATG-a-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
   - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
     excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
     publishedDateTime: 2020-11-17T14:04:00Z

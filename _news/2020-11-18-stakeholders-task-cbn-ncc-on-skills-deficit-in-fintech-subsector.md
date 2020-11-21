@@ -7,7 +7,7 @@ originalUrl: "https://guardian.ng/technology/stakeholders-task-cbn-ncc-on-skills
 webUrl: "https://guardian.ng/technology/stakeholders-task-cbn-ncc-on-skills-deficit-in-fintech-subsector/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Stakeholders task CBN, NCC to conduct fintech talent needs survey"
-    excerpt: "Chinenye Anuforo The Fintech specialists and other stakeholders have tasked the Central Bank of Nigeria (CBN), Nigerian Communications Commission (NCC)"
-    publishedDateTime: 2020-11-16T16:22:00Z
-    webUrl: "https://www.sunnewsonline.com/stakeholders-task-cbn-ncc-to-conduct-fintech-talent-needs-survey/"
-    type: article
-    provider:
-      name: The Sun
-      domain: sunnewsonline.com
-    quality: 24
-    images:
-      - url: "https://sunnewsonline.com/wp-content/uploads/2020/11/Chinenye-Mba-Uzoukwu.jpg"
-        width: 1280
-        height: 718
-        isCached: true
 
 secured: "tUTcunuE3D88TBKG1b53M64XVqOl4u1euGHfTm+xbgYnoYLYdjG7w9YqoyAAwRbmz3S22pWiSvxIepRfSOoVZao/biiPbVY40ZkAuIPkdM6LY2hL2/DfgdduxORCf8Py0hY/qQx2dr0klN0T4LQMboYBSHsrJAN1zVJDRzeRyC3ZHSkxKDrPrmrRLDIy+N8lgSSLlvnQmL1KGDR2+9NTEQVdWn2AoC9FXVaWBrJupz0nz5Hexf0EJwrq1MeWzbzxDpsq1tPXk8dV0LdffjDJGSevOCxc6oOp/bH8HngiNe0W1Dde986ur+KJna8ykvkBRrCm5afi1bvGpTEZJJW4B+54fwmO8M8qmrRs8AjYzXd4mEMm8gqidoli17viHSq1mKfXEWvIguzzFz4Dy2ukN9XvXPWbfETBMlqfAUKXpr1Fd0OmfmL13JqB2kWyv43dZStldOdL5ODu3QvK4E/g9vsLjZZSuqmYqPRy2Ufe2rW3yU7LdWeu9DqLfFa06MX/fsalPXu4K4vZlDsakpnCqQ==;3oRbBwkqAT7OjfVLRAvsRQ=="
 ---

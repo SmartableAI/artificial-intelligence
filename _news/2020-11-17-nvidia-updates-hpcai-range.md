@@ -7,7 +7,7 @@ originalUrl: "https://www.itwire.com/hardware-and-storage/nvidia-updates-hpc-ai-
 webUrl: "https://www.itwire.com/hardware-and-storage/nvidia-updates-hpc-ai-range.html"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,52 @@ images:
     width: 375
     height: 211
     isCached: true
+
+related:
+  - title: "NVIDIA's AI Supercomputers Get a Massive Upgrade"
+    excerpt: "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs."
+    publishedDateTime: 2020-11-16T23:43:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 89
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Nvidia launches an 80GB A100 GPU tailored for AI"
+    excerpt: "The DGX Station A100 based on 4 A100 GPUs (80GB) can provide up to 2.5 petaFLOPS of AI compute power that you can use for training, inference, and data analytics."
+    publishedDateTime: 2020-11-17T12:54:00Z
+    webUrl: "https://www.techjuice.pk/nvidia-launches-an-80gb-a100-gpu-tailored-for-ai/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 54
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg"
+        width: 1024
+        height: 536
+        isCached: true
+  - title: "Nvidia Unveils A100 80GB GPU Powerhouse Supercomputing Chip"
+    excerpt: "Nvidia has doubled the memory of its previous supercomputing GPUs with its new A100 80GB GPU, which aims to drive new levels of supercomputing performance"
+    publishedDateTime: 2020-11-16T20:46:00Z
+    webUrl: "https://www.hpcwire.com/2020/11/16/nvidia-unveils-a100-80gb-gpu-powerhouse-supercomputing-chip/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia-A100-80GB-GPU_605x.png"
+        width: 605
+        height: 446
+        isCached: true
 
 secured: "QSAhB1l/6edFQzeA2YuSy9hKOrPhTSPL+/f1Z7VkdZlfIKpxA1l3Woq/UVObdpfBrcxM712p2NELsBiNVxQL55UYINE4rLYfTS9E3j+Fgf6eKNkO7dfAvufDRLZvQ0EyjRXDSwxGOraGAoqfhN4D5toc7qhzL9ajIWEjCU+knCXSoKY4eg5CjI5Ej0uw+JqFqgDalCUzDzALKDaiR9TIXaF2wsOhPvMddZDHEpr36hjGgW09THgNfxQar4NgNgrw/v/hl52Xx2+hu90O6ov7anavtuKVAfeDZJyKI/FgyZMJcD3JyAed28lOaWI5kND/qgVma2SeFay0qX4dnIsJVLwYgsZeF4PQKFsOKvYMpCD91c1A3B1kQCGoKHF41cN7ZKQ9Bp5XOVH1tAtjuKZahMCAtLtJFZVc5MEYHT2v3UJNDcjimLFCFHFxenP5sXoVjWnyE21Bu40ydDKWBMokeoxaFFrZR7IkEyeMZWIi9tzmhbs7gk4LDDHqrmbLRSB5ViBBKABkJkKU+hRIXkIp5A==;lznP3P3Kvx2LF/x5DeO38g=="
 ---
