@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-10-qatar-ai-enabled-self-driving-cars-a-necessary-component-for-human-safety-volvo-official.md",
+      "title": "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official",
+      "excerpt": "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "originalUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2020-11/10/TP_13ffbe8c-8image_story.jpg",
+          "width": 532,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T07:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars.md",
       "title": "Walmart and Cruise launch pilot to deliver orders via self-driving cars",
       "excerpt": "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts.",
@@ -1379,58 +1422,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-daimler-trucks-self-driving-haulage-finds-a-key-part-of-its-autonomous-vision.md",
-      "title": "Daimler Trucks’ self-driving haulage finds a key part of its autonomous vision",
-      "excerpt": "Daimler Trucks just gone done inking a collaboration with Waymo, and now it’s picking out cutting edge sensors for its self-driving haulage as the pieces slot into place for autonomy. The German automaker announced earlier this week that it would be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/",
-      "originalUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/10/Daimler_Truck_Luminar.jpg",
-          "width": 1680,
-          "height": 1049,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/daimler-trucks-luminar-autonomous-haulage-investment-volvo-waymo-30645189/amp/",
-      "publishedDateTime": "2020-10-30T12:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

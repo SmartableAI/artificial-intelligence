@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligen
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Tribune
@@ -27,48 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "SimpleMachines unveils high performance chip for AI and ML applications"
-    excerpt: "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,"
-    publishedDateTime: 2020-11-17T00:20:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/"
+  - title: "Free Webinar on the Booming Global AI-based Learning Market"
+    excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
+    publishedDateTime: 2020-11-18T18:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
     type: article
     provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 75
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "White House issues guidance for federal agencies on AI applications"
-    excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ..."
-    publishedDateTime: 2020-11-19T02:36:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png"
-        width: 770
-        height: 578
-        isCached: true
-  - title: "White House issues guidance for federal agencies on AI applications"
-    excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide,"
-    publishedDateTime: 2020-11-19T17:35:00Z
-    webUrl: "https://www.zdnet.com/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 67
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png"
-        width: 770
-        height: 578
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 41
 
 secured: "mNKCNqzdoAVTF2H6soY2K8ah81Z9pDbnu0aCSVtRcoDqnqdxG2q5CXuqLgSqGpozDP8zNcfmrl00kKEsR2RwT3xhPRebqTIzzeeliXNWpYdh5qx5HrilKIPOLQlnvLYDm/nQRhyBbcpR7YNaJnv+Ute5ctyVpx5R+15+ZwW/E14xm6J8uq+ILtMgGVmhgxSmecudHKRBj7bu4hoIzPUkIidoPrwbesiXNcvglc/K2STAeX6UDda59CslrtXtGZBPdiqR3GqmNj6tyfnV5xyUYGYmo2dEdnfn6EQRrSQV9Emj0seEWhy7qwG2em9z1eCdsFmMuUij0dDfImv5gJa+MBX9x6XmLhA8j2WAhU/H1u0=;Rd6gBWfPzFrM4ntW7pXarw=="
 ---

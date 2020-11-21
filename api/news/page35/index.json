@@ -2,6 +2,230 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-25-how-to-win-with-machine-learning.md",
+      "title": "How to win with machine learning",
+      "excerpt": "A prediction, in the context of machine learning, is an information output that comes from entering some data and running an algorithm. For example, when your mobile navigation app serves up a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/harvard-business-review/how-to-win-with-machine-learning/news-story/6356345f5bed72c0c0e4a56d813542ba",
+      "originalUrl": "https://www.theaustralian.com.au/business/harvard-business-review/how-to-win-with-machine-learning/news-story/6356345f5bed72c0c0e4a56d813542ba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-24T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-developers-can-tap-into-deep-learning-with-the-open-source-beta-of-the-microsoft-cognitive-toolkit.md",
+      "title": "Developers can tap into deep learning with the open-source beta of the Microsoft Cognitive Toolkit",
+      "excerpt": "Developers and researchers can start using the power of deep learning with the updated beta release of the open-source Microsoft Cognitive Toolkit. The toolkit, previously known as CNTK ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/developers-can-tap-deep-learning-open-source-beta-microsoft-cognitive-toolkit/",
+      "originalUrl": "https://sdtimes.com/ai/developers-can-tap-deep-learning-open-source-beta-microsoft-cognitive-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2016/10/1025.sdt-microsoft.jpeg",
+          "width": 490,
+          "height": 327,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-would-artificial-neural-networks-implemented-in-clinical-wards-help-nephrologists-in-predicting-epoetin-responsiveness.md",
+      "title": "Would Artificial Neural Networks Implemented in Clinical Wards Help Nephrologists in Predicting Epoetin Responsiveness?",
+      "excerpt": "In order to build the non-linear continuous functions expressing the interdependency between the collected data and the epoetin dose a series of artificial neural networks (ANNs) were built ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/548842_3",
+      "originalUrl": "https://www.medscape.com/viewarticle/548842_3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 806,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-24T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-has-machine-learning-made-cryptocurrencies-traceable.md",
+      "title": "Has Machine Learning Made Cryptocurrencies Traceable?",
+      "excerpt": "Machine learning has become a major game changer for the cryptocurrency industry. Most of the benefits are machine learning have been positive for the market. Machine learning is being used to predict price patterns more easily. However, some of these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/",
+      "originalUrl": "https://www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/10/bolster-cryptocurrency-security.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/has-machine-learning-made-cryptocurrencies-traceable/amp/",
+      "publishedDateTime": "2020-10-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-25-ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health.md",
+      "title": "AI, Health Insurance, And Data Harmonization: Interview With Shiv Misra, CVS Health",
+      "excerpt": "nomenclature and definitions start following the same tune ... What are some of the insights and opportunities for dealing with data and AI from a healthcare and insurance perspectives? Shiv Misra: The potential for Artificial Intelligence within ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f94a12e8753d1c882612732%2F0x0.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/24/ai-health-insurance-and-data-harmonization-interview-with-shiv-misra-cvs-health/amp/",
+      "publishedDateTime": "2020-10-24T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-theres-no-turning-back-on-ai-in-the-military.md",
       "title": "There's No Turning Back on AI in the Military",
       "excerpt": "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road.",
@@ -958,246 +1182,6 @@
         "IBM AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting.md",
-      "title": "HelloWoofy is the AI-driven brain that could change how you handle social posting.",
-      "excerpt": "Sponsored Deals For companies who don’t have the resources to throw their full weight behind social media marketing the way they should, a service like HelloWoofy Social Media Management can be like adding that social media manager they need.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
-      "originalUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/sale_31494_article_image.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/23/hellowoofy-is-the-ai-driven-brain-that-could-change-how-you-handle-social-posting/amp/",
-      "publishedDateTime": "2020-10-23T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud.md",
-      "title": "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud",
-      "excerpt": "With IDguard, public safety professionals are able to automate and reduce manual efforts associated with editing sensitive files by up to 90 percent. Panasonic IDguard’s AI and machine learning capabilities build on the Azure Government cloud solution functions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201023005356/en/Panasonic-Expands-Cloud-Capabilities-for-Public-Safety-Professionals-with-Microsoft-Azure-Government-Cloud",
-      "originalUrl": "https://www.businesswire.com/news/home/20201023005356/en/Panasonic-Expands-Cloud-Capabilities-for-Public-Safety-Professionals-with-Microsoft-Azure-Government-Cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201023005356/en/678937/23/Panasonic_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-ai-and-machine-learning-powering-the-next-gen-enterprise.md",
-      "title": "AI and machine learning: Powering the next-gen enterprise",
-      "excerpt": "Now’s the time to get your AI/ML strategy in shape, as a recent CIO Tech Poll shows that AI/ML was considered the most disruptive technology by 62% of respondents.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/ai-and-machine-learning-powering-the-next-gen-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/professional/sites/10/347789615.jpg",
-          "width": 1600,
-          "height": 1067,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft.md",
-      "title": "IBM AI model predicts onset of Alzheimer’s disease by analyzing descriptions of a cookie theft",
-      "excerpt": "The model predicted the onset of Alzheimer's more accurately than standard clinical methods by searching for symptoms in written descriptions of the image.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-23T134432.743-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/23/ibm-ai-model-predicts-onset-of-alzheimers-disease-by-analyzing-descriptions-of-a-cookie-theft/amp/",
-      "publishedDateTime": "2020-10-23T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-artificial-intelligence-comes-with-some-caveats-for-investors.md",
-      "title": "Artificial Intelligence comes with some caveats for investors",
-      "excerpt": "self driving cars, medical applications and even marketing tech. Like the example with the chicken, the tasks the Artificial Intelligence (AI) can learn are narrowly defined. Change the colour of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
-      "originalUrl": "https://www.thestreet.com/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTc2NjI5MDQxMzA0OTcwODMx/49718395123_b00818d2bc_k.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-economonitor/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-economonitor/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
-      "publishedDateTime": "2020-10-23T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

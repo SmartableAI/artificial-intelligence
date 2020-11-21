@@ -28,36 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "SimpleMachines unveils high performance chip for AI and ML applications"
-    excerpt: "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,"
-    publishedDateTime: 2020-11-17T00:20:00Z
-    webUrl: "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 75
-    images:
-      - url: "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Artificial intelligence and machine learning course"
-    excerpt: "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning."
-    publishedDateTime: 2020-11-20T01:36:00Z
-    webUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
-    ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 74
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg"
-        width: 330
-        height: 220
-        isCached: true
   - title: "White House issues guidance for federal agencies on AI applications"
     excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ..."
     publishedDateTime: 2020-11-19T02:36:00Z
@@ -72,7 +42,23 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "IIT Delhi and NPTEL invite applications for Free Online Course on Artificial Intelligence"
+    excerpt: "Moreover, this course is a must-take for people in the Robotics Industry, Neuroscientists ... His primary research interest explores several threads in artificial intelligence, including scaling probabilistic planning algorithms, large-scale information ..."
+    publishedDateTime: 2020-11-19T04:42:00Z
+    webUrl: "https://www.ciol.com/iit-delhi-nptel-invite-applications-free-online-course-artificial-intelligence/"
+    ampWebUrl: "https://www.ciol.com/iit-delhi-nptel-invite-applications-free-online-course-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/iit-delhi-nptel-invite-applications-free-online-course-artificial-intelligence/amp/"
+    type: article
+    provider:
+      name: CIOL
+      domain: ciol.com
+    quality: 52
+    images:
+      - url: "https://www.ciol.com/wp-content/uploads/2020/06/free-online-courses.jpg"
+        width: 850
+        height: 400
+        isCached: true
 
-secured: "W9r2RVK48D9oKxiDBNQK1a915jrvkiXJyQrMKatJekvfKmviVzY2Hd96kgk9Gw6CXhHkxGKnRPJWgFNwP/FbVlAbjPi9dJIsgVps3xWfE41rG6rAEITWnNSiyF67J7SJITU91at0YWnEodR1ylwo646HuAm9HnL+LCs2J47bpWQfzR4sL7ad/b9ZY0PUISQRe2CKpJklHUi31QVV5mWLrEx2h3gC+eaxPsdPRtSh0eMy1zzxeeVdZrsZ9N19XBbZ4FxEzDv0lcDKpv3AD7eOjFntMEK/YvPvc9oeYY/YA8fIaKoifXRv5mmdiFJP2+yfj9CW5caKxiSHQA6+7ObyGcmtCMJpmcvOU2w0IMIqoQs=;2fRV2Y7wuzQ+Ke9SKwsVjw=="
+secured: "pb1oMCiQwAlL42z7vXjHgAnjfi83huBtXqXdSLCjNoYHPeGAydrwpjgRFwUuR20vNrsxQjBcffDzXbANvLgemWFfQYBXEk2XsC65MeZQ8VNRiTKV8j7a+L8Nn6CIyKZXh8dlo7PC7uPx/3EJBfWLNAnobmE9aAAuGnWpLYlbMjVBGR5Ff5tyej3KhQIxUOb61J4OSLHfOHY9E8UNqvmT74pvPB7Hpefb2FZrAmXBmOW//NSkm1oUSQISiIamf2gwd/h/xun0QPhAmEWIBxxXcCuZP/2Xar9rxoscNNEO9XsEVPrdSQVW4HL+o9citJcHdqir9a5NGtNaPtGCJCFKmUdMYIEDwTzQlS0p44UDdBDBMHi05m5Od2Pg4Rhm/RtZ8t+symPGMDkbLTbhdIFx3B4QtaGF8MwqUOmFqOntvDAHmrLjYzocfGkR3D1OnZBb4+CG4nhtayjLlzUL6p2DwKb34YJ4UAd9+3/ceNoj7ZdH/kU32VO5WHZYxP1JA8m8k8W5D2CNT+eAm5gcwjm7RQ==;5/fdsBMPFAZdlTJwCz/6dQ=="
 ---
 

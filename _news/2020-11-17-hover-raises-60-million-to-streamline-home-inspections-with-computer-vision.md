@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-stream
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
 type: article
 quality: 101
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "AliveCor raises $65 million to detect heart problems with AI"
-    excerpt: "AliveCor, a startup developing ECG products that detect heart issues, has raised $65 million in venture capital."
-    publishedDateTime: 2020-11-17T00:34:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/03/alivecor-fingers-kardia-iphone-e1605569871551.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Cogito raises $25 million to analyze phone calls with AI"
     excerpt: "Cogito, a startup developing a platform to measure the sentiment of call center agents, has raised $25 million in capital."
     publishedDateTime: 2020-11-18T14:04:00Z

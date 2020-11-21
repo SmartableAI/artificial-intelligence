@@ -2,6 +2,178 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-18-biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence.md",
+      "title": "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence",
+      "excerpt": "In the collaboration, Deep Genomics will use its AI Workbench to identify and validate target mechanisms and lead candidates, and BioMarin will advance them into preclinical and clinical development.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence-1029811053",
+      "publishedDateTime": "2020-11-17T09:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
+      "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
+      "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-11-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-overall-study-report-with-top-key-players-2020-11-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T09:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-datarobot-raises-270m-looks-toward-ipo.md",
+      "title": "DataRobot raises $270m, looks toward IPO",
+      "excerpt": "DataRobot intends to use the money “to accelerate our rapid growth globally,” said Dan Wright, the company’s president and chief operating officer. “Modern enterprises are generating and capturing more data than ever before,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/",
+      "originalUrl": "https://www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/?outputType=amp",
+      "publishedDateTime": "2020-11-17T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Boston Globe",
+        "domain": "bostonglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-revisiting-ethical-ai-where-do-organizations-need-to-go-next.md",
+      "title": "Revisiting ethical AI - where do organizations need to go next?",
+      "excerpt": "AI ethics are having a hard time keeping up with AI. Academic debates may be interesting, but organizations need a practical AI ethics framework. Where do we go from here?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "originalUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2018-01/Fotolia-jimbophotoart-163732204_Sub_740px.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "publishedDateTime": "2020-11-17T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-ai-dungeon-proves-machine-learning-games-are-the-future.md",
       "title": "AI Dungeon Proves Machine Learning Games Are the Future",
       "excerpt": "The innovative AI Dungeon lets players experience an endless text adventure and could change how games tell their stories in a MAJOR way.",
@@ -301,7 +473,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -543,7 +715,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -646,7 +818,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -843,7 +1015,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1016,204 +1188,6 @@
         "Machine Learning",
         "AI Hardware",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nvidias-ai-supercomputers-get-a-massive-upgrade.md",
-      "title": "NVIDIA's AI Supercomputers Get a Massive Upgrade",
-      "excerpt": "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "publishedDateTime": "2020-11-16T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system.md",
-      "title": "Ride Vision raises $7M for its AI-based motorcycle safety system",
-      "excerpt": "Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8eyEA374Mbw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/",
-      "publishedDateTime": "2020-11-16T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facial-recognition-system-at-airport-still-not-operational.md",
-      "title": "Facial recognition system at airport still not operational",
-      "excerpt": "Taxpayers shelled out nearly $1 million for a state-of-the-art security system at the Frederick Douglass-Greater Rochester International Airport but two years after it was installed, it’s still not operational.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
-      "originalUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whec.com/whecimages/repository/2020-11/Facial_recognition_system_at_airport_still_not_operational-syndImport-052720.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html",
-      "cdnAmpWebUrl": "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html",
-      "publishedDateTime": "2020-11-16T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHEC",
-        "domain": "whec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray.md",
-      "title": "Baidu to Buy Chinese Livestreaming Giant in Big Social Foray",
-      "excerpt": "Baidu Inc. agreed to buy Joyy Inc.’s livestreaming business ... intelligence technology and betting on commercializing AI through smart speakers and self-driving cars. In September, its smart speaker unit received its first independent financing round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7bMQ7gTztuk/v2/360x-1.png",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "publishedDateTime": "2020-11-16T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

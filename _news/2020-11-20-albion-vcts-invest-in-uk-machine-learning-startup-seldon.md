@@ -3,8 +3,8 @@ category: news
 title: "Albion VCTs invest in UK machine learning startup Seldon"
 excerpt: "Albion Capital Group’s technology investment arm has jointly led a £7.1mln investment round into a UK-based machine learning startup. Seldon, which is based in London, is a mac"
 publishedDateTime: 2020-11-20T15:38:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/934547/"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/934547/"
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/934547/albion-vcts-invest-in-uk-machine-learning-startup-seldon-934547.html"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/934547/albion-vcts-invest-in-uk-machine-learning-startup-seldon-934547.html"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/934547"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/934547"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 640
         isCached: true
 
-secured: "3jmd1HTaCBDg5AjdgBZCuMFRXORSvIsPLwi+eCmEO2gqnJZEfJAWycSVLVvg2w+NijBjqJDkzgg5xTrIVD/wSDNIU1cwLy0+lS2TmGbXiTtVyQjkyQeARu7p2ZZtuWgEVxJJU7LQ01UKQvJRwGCYrwBYt3ZQmyvcM70gtVTV/sPJFmj2zQMR3hGJ6exUP5sWytX86kSNYUZKzOcdrRIZkMJ6dqwoNqFzDNcPH/amAlCuWt9lzixceyXYiSo27ioMnDdXeeXU4Yy9FZkV4TEbrjQMXpsT8X0et458EKgtGsXA54Gp7rvXw0d6+vFwTx56SM8HiYoEeX/fHsE/7mDMZo1v5VZtTygiu7bhafHkxXI=;RBNuv9Q4iKgX2DZwrqlZYQ=="
+secured: "3BL7o/Ru9B/Q/tW1CxQbBCMo/CExv9dkSfZ/iVeUjk84tMuMTeNF8H+raOPqSM56gbYaTlVGNW61LQh9L1A7kn6QpvKk9bIFmHhLJrpCaWfxRNs91RoagFTzKOKih7wgAWxzQx1DcxDglnzLvAv35x635SsEtiVxXd6ppAP4LdFk5nTwppe5CdkI8aNz+DEhwlvhc4H76d6Um5Bn3KGE/HakKTnL+8QE0XXKdkB6XH3HWX0tr118LZhEWDqDpL9fGgA7y7Ymma8E6HHuHGshCLU4awe+ABZHJv+7Ugo1Da3VpBoFUR0uACcoGMN65GWbSK4dF5abI+OiIzlYBF6YjLUlruWy7b1tMIkevSxQfNg=;kwvOJCB/hzjVomVEeNcVWg=="
 ---
 

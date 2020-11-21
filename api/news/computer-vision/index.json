@@ -262,7 +262,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -473,6 +473,49 @@
       "provider": {
         "name": "Newsd",
         "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
+      "title": "Computer vision app allows easier monitoring of diabetes",
+      "excerpt": "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1403,49 +1446,6 @@
       "provider": {
         "name": "India Times",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-facial-recognition-used-to-arrest-protestor-at-trump-bible-photo-op.md",
-      "title": "Facial recognition used to arrest protestor at Trump bible photo op",
-      "excerpt": "Of course a little known facial recognition tool was used on Black Lives Matter protestors. This past June, as protestors were tear-gassed in Washington D.C.'s Lafayette Square so that Donald ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
-      "originalUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2020%252F11%252F03%252F6d%252F6a312ae876144e70902ef7e36d22a5d8.cc9a5.png%252F1200x630.png?signature=j_Jk2ogosSfTENbLK-N3BaeM0vE=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
-      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/facial-recognition-arrest-black-lives-matter-protestor-trump-bible-photo-op.amp",
-      "publishedDateTime": "2020-11-02T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
         "images": null,
         "publishers": null,
         "authors": null

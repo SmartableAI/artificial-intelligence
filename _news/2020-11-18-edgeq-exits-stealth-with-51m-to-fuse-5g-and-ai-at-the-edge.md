@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "5G chip company EdgeQ raises $51M"
-    excerpt: "Startup EdgeQ said it raised $51 million in total funding from the likes of Threshold Ventures, Fusion Fund and AME Cloud Ventures."
-    publishedDateTime: 2020-11-17T00:00:00Z
-    webUrl: "https://www.lightreading.com/the-edge/5g-chip-company-edgeq-raises-$51m/d/d-id/765507"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 54
-    images:
-      - url: "https://img.lightreading.com/lightreading/LR_fb_button.jpg"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Chip Startup Merges AI, 5G at the Edge"
     excerpt: "The low-latency connectivity of 5G wireless is being combined with AI-based computing in an edge platform unveiled by a system-on-chip startup emerging"
     publishedDateTime: 2020-11-17T18:20:00Z

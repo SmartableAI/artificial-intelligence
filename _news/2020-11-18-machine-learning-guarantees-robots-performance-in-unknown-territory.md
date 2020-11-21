@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/pues-mlg111720.php
 webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pues-mlg111720.php"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Machine learning guarantees robots' performance in unknown territory"
-    excerpt: "As engineers increasingly turn to machine learning methods to develop adaptable robots, new work makes progress on safety and performance guarantees for robots operating in novel environments with diverse types of obstacles and constraints. This experiment ..."
-    publishedDateTime: 2020-11-16T23:59:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117144546.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "O9EQDMRwRsc1qnLdt1+JbUqB20yH4JadNurIO5+7bDnGViWlOcmKAMU3Z3VJoZMLLRiWL7JbiJglzOnq/LVjl8RfgWlFfUrum4DhL8wEweK8Hx2QhA7nYQZ652yHRKm0qA7XMwvAoUVij397918gZbDIXulkCyKief9FG+kvVyMsmkjUbQZqsvkoBfjTmHacgksVKZCQoGZZpsdK9GT1VcPY2ftjoeo4AxnHhgQCNOLIUWLWk9iK0Nzj0fw1OFp96/gtewCueW6trSfn+rtpEP5ruNNDOzt/XZSiveSOLzkmhSJFbcBFQBHq9aZUyvlaqzk7tAcZLWdIX/d4qjFkN44MS8Mwan3uUnGo8CB1XxOzoHfKooN3YL65GOWjWGx5C7EhEc7+3qnWS8qrtMAFP0OEa+2px6osQ2P5GPJJcPN/NDY6DuJxx2dT2VZt4x+9mWfsz3UwPReqbNymvtRdN4hrp959BbvnsvwOtZp/f75bfQ/DI3cZszgSKnIa3rZyr0fHP3sDa3s0SEURoKTnDg==;Fptx7UlsyK7u/LrZHht4kw=="
 ---

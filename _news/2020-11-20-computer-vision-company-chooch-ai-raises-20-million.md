@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Ride Vision raises $7M for its AI-based motorcycle safety system"
-    excerpt: "Ride Vision, an Israeli startup that is building an AI-driven safety system to prevent motorcycle collisions, today announced that it has raised a $7 million Series A round led by crowdsourcing platform OurCrowd."
-    publishedDateTime: 2020-11-16T23:23:00Z
-    webUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/?tpcc=ECTW2020"
-    ampWebUrl: "https://techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/ride-vision-raises-7m-for-its-ai-based-motorcycle-safety-system/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://i.ytimg.com/vi/8eyEA374Mbw/hqdefault.jpg"
-        width: 480
-        height: 360
-        isCached: true
   - title: "Chooch.ai, a computer vision AI startup raises more than $20 Mn"
     excerpt: "Chooch.ai just conducted their Series A round. The round was led by many firms and partners and raised a total of $25.8 million."
     publishedDateTime: 2020-11-17T02:33:00Z
@@ -50,20 +34,6 @@ related:
       - url: "https://techstory.in/wp-content/uploads/2020/11/chooch.jpg"
         width: 470
         height: 352
-        isCached: true
-  - title: "Cast AI Raises $7.7M in Seed Funding"
-    excerpt: "Cast AI, a Miami, Florida-based multi-cloud company that allows developers to deploy, manage, and cost-optimize applications in multiple clouds simultaneously, closed its $7.7M seed funding round"
-    publishedDateTime: 2020-11-17T22:21:00Z
-    webUrl: "https://www.finsmes.com/2020/11/cast-ai-raises-7-7m-in-seed-funding.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 39
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2020/11/CAST-AI-Launch.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "M5Z+JAyVMxBGv/F9ZivO9EX3ECqB+c8+mESjAeaSVVhsALxyiTFaHOkWlHYSvYgMnJh1NMl9Jsjamo4KbO5MCL/e1QLmZpJA1LpB1n/3wJG8w5CQ6xM0sWdklAUk/2i1hXGZEta1dzrM2WKszu8mXzkb6FiRGBFIpZyTgVuUyHkfNlK4QvI/xKwQypY8KL2i0kgAf7n5Av0xy39fPcv+5gCH3FOB5NRlKmExlMp4Hz3MTG/mOForU9CgicRONeiYL+Ej2dIyehBb/1fN8yW0XWD9/rCYWWMsV6jyGHCbWX+vbcOWSDKM2jnpVhMsG6O/5/iyU5D08FassmJ55oxJULvH92X/Io1gUNB4e+I3wL72na7KjA02xyMm8wHwwxdaeKw/sZ0bNmCprOKNK4SySfofoaaJBChz7OzJSNInN/9n5l8hAnEr3e/COz+PBu5eu6CEZ5vuG/+XfwK9lyAt9ONtGQEGpo6kBBcM3lCdv+Aut4Y0y0xL35KWp/Qi+bye+jsehe6pxlaLx6tP7x8EFA==;pk1fIsS17yL8psZ9ykqEeg=="

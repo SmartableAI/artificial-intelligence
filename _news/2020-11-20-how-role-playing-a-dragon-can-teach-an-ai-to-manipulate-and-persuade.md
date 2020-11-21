@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "To Teach an AI to Pursue Goals, Scientists Made It Play an RPG"
+    excerpt: "In order to train AI to use language with intent, scientists from Facebook and the Georgia Institute of Technology dropped an algorithm into the middle of a roleplaying game, MIT Technology Review reports."
+    publishedDateTime: 2020-11-21T15:47:00Z
+    webUrl: "https://futurism.com/the-byte/ai-goals-rpg"
+    ampWebUrl: "https://futurism.com/ai-goals-rpg/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-goals-rpg/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/11/ai-play-rpg-learn-pursue-goals-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "How to Make Artificial Intelligence Less Biased"
     excerpt: "As artificial intelligence spreads into more areas of public and private life, one thing has become abundantly clear: It can be just as biased as we are. AI systems have been shown to be less accurate at identifying the faces of dark-skinned women,"
     publishedDateTime: 2020-11-18T14:51:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TweakTown
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia launches an 80GB A100 GPU tailored for AI"
+    excerpt: "The DGX Station A100 based on 4 A100 GPUs (80GB) can provide up to 2.5 petaFLOPS of AI compute power that you can use for training, inference, and data analytics."
+    publishedDateTime: 2020-11-17T12:54:00Z
+    webUrl: "https://www.techjuice.pk/nvidia-launches-an-80gb-a100-gpu-tailored-for-ai/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 54
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg"
+        width: 1024
+        height: 536
+        isCached: true
   - title: "At SC20: Nvidia Announces A100 80GB GPU"
     excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
     publishedDateTime: 2020-11-17T05:23:00Z

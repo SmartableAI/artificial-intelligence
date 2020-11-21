@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-robots-immune-from-virus-pack-thanksgiving-food-to-spare-elderly-helpers.md",
+      "title": "Robots, immune from virus, pack Thanksgiving food to spare elderly helpers",
+      "excerpt": "D2 cannot deliver Thanksgiving dinner to your door, but his relatives are doing the packing. Immune from the coronavirus, industrial robotic arms are assembling donated holiday food in a Boston suburb,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-thanksgiving-robotics-idUSKBN27Z3AQ",
+      "originalUrl": "https://www.reuters.com/article/us-usa-thanksgiving-robotics-idUSKBN27Z3AQ",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z3AQ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z3AQ",
+      "publishedDateTime": "2020-11-19T20:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-this-robot-makes-you-boba-tea-at-a-fully-automated-bar-because-of-course-thats-a-thing.md",
       "title": "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing",
       "excerpt": "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,",
@@ -50,6 +93,49 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-artificial-intelligence-and-machine-learning-course.md",
+      "title": "Artificial intelligence and machine learning course",
+      "excerpt": "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg",
+          "width": 330,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "publishedDateTime": "2020-11-19T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -261,7 +347,7 @@
       "originalUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1133,100 +1219,6 @@
         "Natural Language Processing",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-mythic-launches-industry-first-ai-analog-matrix-processor.md",
-      "title": "Mythic launches industry-first AI analog matrix processor",
-      "excerpt": "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
-      "publishedDateTime": "2020-11-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-major-advances-in-ai-that-businesses-should-keep-an-eye-on.md",
-      "title": "Major Advances In AI That Businesses Should Keep An Eye On",
-      "excerpt": "The fast pace at which AI applications are being developed and mastered is leading to tectonic shifts in how business strategists plan for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a3d131056d8a67471899%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/amp/",
-      "publishedDateTime": "2020-11-19T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

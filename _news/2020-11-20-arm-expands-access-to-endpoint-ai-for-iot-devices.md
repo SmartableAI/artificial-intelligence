@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-end
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "System Brings Deep Learning to IoT Devices"
-    excerpt: "Deep learning is everywhere. This branch of artificial intelligence curates your social media and serves your Google search results. Soon, deep learning could also check your vitals or set your thermostat."
-    publishedDateTime: 2020-11-17T00:00:00Z
-    webUrl: "https://www.manufacturing.net/home/news/21203329/system-brings-deep-learning-to-internet-of-things-devices"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 39
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2020/11/16x9/iStock_618455446.5fb3e91170047.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Introducing new Arm roadmap guarantee and other Arm IoT initiatives for accelerating endpoint AI"
     excerpt: "Putting endpoint AI in everyone's hands It's expected that endpoint AI (IoT endpoint devices locally processing data into actionable insights) will accelerate the value generated from IoT and drive adoption."
     publishedDateTime: 2020-11-19T11:17:00Z

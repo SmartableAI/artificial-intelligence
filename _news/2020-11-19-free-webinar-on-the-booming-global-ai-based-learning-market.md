@@ -22,30 +22,21 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,"
-    publishedDateTime: 2020-11-17T09:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+  - title: "Artificial intelligence and machine learning course"
+    excerpt: "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning."
+    publishedDateTime: 2020-11-20T01:36:00Z
+    webUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+    ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
-  - title: "Artificial Intelligence as a Service Market: Global Analysis with Focus on Development Strategy, Opportunity Assessments"
-    excerpt: "The global market report on artificial intelligence (AI) as a service market is suggesting the promotion of the market beyond a valuation of USD 6.7 billion by 2023. During the forecast period of 2018 to 2023,"
-    publishedDateTime: 2020-11-19T22:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-global-analysis-with-focus-on-development-strategy-opportunity-assessments-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg"
+        width: 330
+        height: 220
         isCached: true
 
 secured: "V2Ryzk/3C/VmRrWmMYP7/iJhgVoyEbufMbmziYWrXe/rgqddvKWlKlgyGcPdunTgk9M79DN39O9Wh6hnKLHqNCaIr/FxmvL9ztY3+fcYy1iCObysW3PCBCi9hy7moUSuXy6glokKHnVWrLqh0VM7QsIzBtoEP0/ECIV8dHSpeVDYvvo8O9xH+E+4ZQetTrtXHi4KdH8B47ichokTNQX2v2aszPRpGDvQ02lP1gN/EDqdAl+OGsJBxzJ6ShhjfqGO7gy1oPF1pmlRdolvYNwTRvx0dmWowrugtu4XN7QsrmD/yWYQ/dbghF1Upm0acCz04W+xLnBHVGDZVcBLXUsgMzlTP/rdhCpZ8Cz6cOm/WNE=;UMsGcSPaaGB6+6BrXIA83w=="

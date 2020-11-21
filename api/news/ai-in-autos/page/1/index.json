@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-21-luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet.md",
+      "title": "Luminar to supply lidar sensors for Mobileye's self-driving fleet",
+      "excerpt": "Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's <INTC.O> Mobileye subsidiary for its test fleet of self-driving vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
+      "originalUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541903564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0WV",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2801R3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2801R3",
+      "publishedDateTime": "2020-11-20T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-us-regulators-open-process-to-ensure-self-driving-car-safety.md",
       "title": "U.S. regulators open process to ensure self-driving car safety",
       "excerpt": "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
@@ -1446,49 +1498,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-qatar-ai-enabled-self-driving-cars-a-necessary-component-for-human-safety-volvo-official.md",
-      "title": "Qatar- AI-enabled self-driving cars a necessary component for human safety: Volvo official",
-      "excerpt": "The Peninsula  <p>Volvo recently participated in a webinar on Artificial Intelligence (AI), an initiative by the Embassy of Sweden and Swedish Chamber of Com",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
-      "originalUrl": "https://menafn.com/1101100905/Qatar-AI-enabled-self-driving-cars-a-necessary-component-for-human-safety-Volvo-official",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2020-11/10/TP_13ffbe8c-8image_story.jpg",
-          "width": 532,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T07:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

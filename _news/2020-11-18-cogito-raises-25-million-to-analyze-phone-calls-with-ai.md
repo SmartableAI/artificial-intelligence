@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "AliveCor raises $65 million to detect heart problems with AI"
-    excerpt: "AliveCor, a startup developing ECG products that detect heart issues, has raised $65 million in venture capital."
-    publishedDateTime: 2020-11-17T00:34:00Z
-    webUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/alivecor-raises-65-million-to-detect-heart-problems-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2017/03/alivecor-fingers-kardia-iphone-e1605569871551.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Forter raises $125 million at a $1.3 billion valuation to combat ecommerce fraud with AI"
     excerpt: "Forter, an automated ecommerce fraud detection platform, has raised $125 million at a valuation of more than $1.3 billion."
     publishedDateTime: 2020-11-19T23:06:00Z

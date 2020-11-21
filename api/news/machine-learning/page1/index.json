@@ -6,11 +6,11 @@
       "title": "Rebooting AI: Deep learning, meet knowledge graphs",
       "excerpt": "Gary Marcus, a prominent figure in AI, is on a mission to instill a breath of fresh air to a discipline he sees as in danger of stagnating. Knowledge graphs, the 20-year old hype, may have something to offer there.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "originalUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "publishedDateTime": "2020-11-20T08:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -188,6 +188,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-artificial-intelligence-and-machine-learning-course.md",
+      "title": "Artificial intelligence and machine learning course",
+      "excerpt": "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg",
+          "width": 330,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "cdnAmpWebUrl": "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
+      "publishedDateTime": "2020-11-19T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Tribune",
+        "domain": "tribuneindia.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1101,7 +1144,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1400,49 +1443,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-13T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-new-method-brings-physics-to-deep-learning-to-better-simulate-turbulence.md",
-      "title": "New method brings physics to deep learning to better simulate turbulence",
-      "excerpt": "Deep learning, also called machine learning, reproduces data to model problem scenarios and offer solutions. However, some problems in physics are unknown or cannot be represented in detail mathematically on a computer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoig-nmb111320.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoig-nmb111320.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/248837_web.jpg",
-          "width": 720,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T11:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "EurekAlert!",

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "To Teach an AI to Pursue Goals, Scientists Made It Play an RPG"
+    excerpt: "In order to train AI to use language with intent, scientists from Facebook and the Georgia Institute of Technology dropped an algorithm into the middle of a roleplaying game, MIT Technology Review reports."
+    publishedDateTime: 2020-11-21T15:47:00Z
+    webUrl: "https://futurism.com/the-byte/ai-goals-rpg"
+    ampWebUrl: "https://futurism.com/ai-goals-rpg/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-goals-rpg/amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2020/11/ai-play-rpg-learn-pursue-goals-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "VQsN4PE9LQ8TBm2m/73VhH6y6HFpSbN+hQXZ6n+gHfTUfGVrM2TsSTORNroW3zWVMyV78hFiWBrtWxAzIRUxCUY9ImJMPZZqUTb1RIJvgBCMq/qLSLiRRVs2v0VSp1o6RjNgOmyylznnFd0NpQnHxD20EdjpNTs0PXQSOY6xgdiN4VOVAy8ZcGQkkBvzR5GFgHs8dd5372gco3ryIspRoGtkngPxCE/sccKIQPTiIMhOjq46mjyo7sNsuXUSa46fQDfPGiRRN3WKmdYfOPNSbb61m+rsWxXey3uuHrG0JpCLhsZqYbCNCU5EWEAMiqSPCwq9O4zvr6/J3A0mh9GWP8fta6DY+ca6EsMDUvl5oFw=;gtJECYFuskdVnqLLJXZctQ=="
 ---

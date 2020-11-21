@@ -41,15 +41,6 @@ related:
         width: 2984
         height: 1865
         isCached: true
-  - title: "New electronic chip delivers smarter, light-powered AI"
-    excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-    publishedDateTime: 2020-11-18T15:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
   - title: "Smarter Artificial Intelligence Technology in a New Light-Powered Chip"
     excerpt: "Prototype tech shrinks AI to deliver brain-like functionality in one powerful device. Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning,"
     publishedDateTime: 2020-11-18T14:34:00Z
@@ -63,6 +54,20 @@ related:
       - url: "https://scitechdaily.com/images/AI-Electronic-Chip-scaled.jpg"
         width: 2560
         height: 1600
+        isCached: true
+  - title: "New electronic chip delivers smarter, light-powered AI"
+    excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
+    publishedDateTime: 2020-11-18T05:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "8Rg4C19ukOFuHN/0apzCJwjer9bV15eNqwwC87xB+F1KK1XCPLLnkqDQKfaiAuss/Xa4LtIxsDcxxOef7CPSI/XxZ/VDqZKFLAhu/4MfnP0SA9mefi481eROngzHUguRQOIM4SQ2w4Qhw+lZdMe34BK0RG9vgdxOBYgMN6yZkbR7/yFP6kEFyDuMle5NPfOl6ytbsf68huXJzWdPMjExoiwuYJTioDP6C9uI5DVGVVjFNK7rizf35zrbi587aqCEJwoptsYHG99zCU260Ax7QH83Pe0rneVJXU9HBabG9nEWvSZ04GtuVXr5tFxzUVuClOGkt1Te8lX7KrvcSkY9Nw3RAVn7HUQjOs1y3DOCdQM=;TB85d5p8oO8sVA9zdGAzYQ=="
