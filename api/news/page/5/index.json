@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-18-savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.md",
+      "title": "Savvy enterprises can mimic success of cognitive AI in healthcare",
+      "excerpt": "Cognitive technologies are being deployed to solve the world’s biggest challenges. AI-based bots are working side-by-side with humans to increase quality and efficiency. Here’s how enterprises can put cognitive AI to work in their organizations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
+      "originalUrl": "https://www.cio.com/article/3596606/savvy-enterprises-can-mimic-success-of-cognitive-ai-in-healthcare.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/08/brain_mind_neural_network_connections_artificial_intelligence_machine_learning_by_metamorworks_gettyimages-916414870_1200x800-100767999-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T05:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women.md",
       "title": "Telegram Still Hasn’t Removed an AI Bot That’s Abusing Women",
       "excerpt": "A deepfake bot has been generating explicit, non-consensual images on the platform. The researchers who found it say their warnings have been ignored.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -591,49 +635,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-nvidias-new-dgx-station-a100-4-x-gpus-with-320gb-of-hbm2e-total.md",
-      "title": "NVIDIA's new DGX Station A100: 4 x GPUs with 320GB of HBM2e total",
-      "excerpt": "NVIDIA announces new DGX Station A100 can pack 4 x GPUs with 80GB HBM2e each... 320GB of HBM2e memory with 1.53TB/sec bandwidth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/6/76262_07_nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-memory.png",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html",
-      "publishedDateTime": "2020-11-17T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-bfsi-turning-to-ai-moving-from-sms-to-omnichannel-chatbots.md",
       "title": "BFSI Turning To AI, Moving From SMS To Omnichannel Chatbots",
       "excerpt": "AI is transforming every aspect of our lives and it’s quite prominent in the banking industry. Today, with the help of omnichannel chatbots, customers enjoy seamless and personalized service across ev",
@@ -937,7 +938,7 @@
       "originalUrl": "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1186,21 +1187,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-exadel-announced-the-release-of-compreface-an-open-source-facial-recognition-application.md",
-      "title": "Exadel announced the release of CompreFace, an open-source facial recognition application",
-      "excerpt": "CompreFace is an open-source facial recognition application by Exadel that can be integrated as a standalone service or deployed via the cloud.",
+      "path": "_news/2020-11-18-spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m.md",
+      "title": "Spacemaker, AI software for urban development, is acquired by Autodesk for $240M",
+      "excerpt": "Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development.",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/42128/",
-      "originalUrl": "https://sdtimes.com/ai/42128/",
+      "webUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/",
+      "originalUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 112,
       "tags": null,
       "images": [
         {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Optimize-copy.jpg?w=680",
+          "width": 680,
+          "height": 425,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1208,16 +1209,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:44:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/",
+      "publishedDateTime": "2020-11-17T11:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1233,7 +1234,6 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

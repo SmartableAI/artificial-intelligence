@@ -66,6 +66,20 @@ related:
         width: 1920
         height: 829
         isCached: true
+  - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
+    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"
+    publishedDateTime: 2020-11-17T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-301174478.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1336395/Interface_Allied_solutions_Logo.jpg?p=facebook"
+        width: 849
+        height: 445
+        isCached: true
 
 secured: "EqOKsooWwzvLV+m/It9e0a3XMQ7FSa65KAedehK+E0cFtO2GVk15kh/ATp+xKy/+zmTSHOJfc68tXZi7KhkqI6w/jT4ZD//4FqZdrzjh2/IWSoNC9lAH8pNkyU9bxL+QZx+KtbVBhJS9BbV/dPLIC3xYkdzkj2cqpoP7YedClOCL5AKGXKbfBwNhIiiOE+o/OaXdXyi7QRB1bUcE7tSNy9/Deddad39UjbLYeuOoUSsVKuP2yMd8KZ9pCCfBrKeyAKsCuSXiol0VW/ExWqDCTGH6lHK2L2BmZR/gywZba0fJmRZ219WUgMOiZ4USfzuJ4XyLUIgoX7mQ4nEIvVIuC+zj6Grm252WrMOXYOl5nXI=;t3V+zA81KgGSRbZEt8Tqrg=="
 ---

@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 670
         isCached: true
-  - title: "The AI Telegram bot that abused women is still out of control"
-    excerpt: "A bot automated deepfake abuse online. Researchers say their warnings have been ignored and Telegram has failed to removed it"
-    publishedDateTime: 2020-11-17T06:15:00Z
-    webUrl: "https://www.wired.co.uk/article/porn-bots-in-telegram-deepfake"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/oQ7pQBojymp/crop/1440/0.5235602094240838/f/wired-telegrambot.jpg"
-        width: 1440
-        height: 753
-        isCached: true
 
 secured: "2hDdpKQFLBCTTyyZQrh6AO3spfhyxm9GdtrhwLJc9EiwD+gLsInWFoBq2WfbVqpdw687LBwvvISMD+HZhbGDBBShdu9jRyevSZEhSuX8W1UXfWDKJQsR01G6iYKbyCvKq3kQ3cFSLYNsqzXemBw5VwvgAu8kX2JP79AzEDBK/jtLfePxND951GrI8Kz+KTjEXhcwSl+nRCVBSpGyigTKogMszmqcL1TVw2Ce9Z70TWxH5nfInaU/qUGv2esm+u3AX9FJXlDKMDe4ITOvSU58pgVnNsRJ3W8RQu3xBNJYSiMZ7wiBvklhQq8j/kDlsChF2sHd9hMvdbQi6XZT1hdJoqkbMyzzWhPE9z9nXtHZByHjbJElsGi2KMFPTKAYy9Ehgz2aE0KemoYtVJ1phIEIa8XgE3HI2aZOiqJd59Yt8QmYJNKVUz9kDLtwYg8DvxxtqhwWiPWkyC8Ob5uO0XSu4LE5vxz96PMT8blD5dF5bA0tvPVywt1WmBateS7qELzRDJamYlPWA1iAoiefoSDRIw==;56zBBjP7olHYZfnGUiPdRQ=="
 ---

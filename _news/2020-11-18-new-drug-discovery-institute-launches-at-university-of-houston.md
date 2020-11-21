@@ -114,15 +114,6 @@ related:
         width: 620
         height: 300
         isCached: true
-  - title: "Facial recognition in the healthcare industry"
-    excerpt: "Facial recognition technology, the controversial technology that can match images of humans with a database of images to determine a person’s identity, is common in a host of industries from the electronics industry, wherein the technology is used to ..."
-    publishedDateTime: 2020-11-17T05:50:03Z
-    webUrl: "https://insights.globalspec.com/article/15430/facial-recognition-in-the-healthcare-industry"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 36
   - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
     excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
     publishedDateTime: 2020-11-17T13:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot
 webUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://media.wired.com/photos/5fb448627e21dd10c270baf1/191:100/w_1280,c_limit/Sec_AIbot_523554190.jpg"
         width: 1280
         height: 670
-        isCached: true
-  - title: "The AI Telegram bot that abused women is still out of control"
-    excerpt: "A bot automated deepfake abuse online. Researchers say their warnings have been ignored and Telegram has failed to removed it"
-    publishedDateTime: 2020-11-17T06:15:00Z
-    webUrl: "https://www.wired.co.uk/article/porn-bots-in-telegram-deepfake"
-    type: article
-    provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://wi-images.condecdn.net/image/oQ7pQBojymp/crop/1440/0.5235602094240838/f/wired-telegrambot.jpg"
-        width: 1440
-        height: 753
         isCached: true
 
 secured: "DaUkLXRL6MbYXpVfhskVW7B37JyTnOel9AGXWcdGNeyHpABDSDYBlFm0Nv6K4bX22c2l9drg+gRZWpf3/IfpyZLheecoGcSNqODzHbj9Ugmu8HECpGzDPrXypaI8aV1cXduxA7ccIl7Gwlc2I142MvkLa9ESmS21QSIUMyGdz2QUF4ItdExp/qdo5zNhcFsv/B5F2cPdV1cSULwEJDm5ug+HEsOLls5BD5ilCMyc40PPcaGpLZZmgWukk+ohXPpnTyV5UOL8nvB45hI4TQoXKOt/a5RFfdVkYDmoj+GPJvwrAR7W79zSa3EhhF6IOEG2WMfivIKzhLCiGo3LK+dd7hBdzo+UV7GiXGfHvnsP4D9C0bWnYNl/TgmpCacD+LgvSLPvpx/JZOHBJqt3kDxnvfU+FZlWT4+najdEWKMOjm29vNNAf5b1hH1GcW/yuY22akusRNBr2R67Z1SBvODWQJ3hhL9nPh9BmbDfRjbl2gdB+rJ77af4tDM2AVmi7R8kk+DE+Clz2PIvKLrQpD1QBA==;i6ixNGgWO6/vxayWzhyNWg=="

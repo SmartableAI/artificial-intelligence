@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4390046-masters-of-cloud-part-4-p
 webUrl: "https://seekingalpha.com/article/4390046-masters-of-cloud-part-4-post-covid-world"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New Mayo Clinic Voice Test Could Detect COVID"
-    excerpt: "How much do our voices say about our health? Researchers at Mayo Clinic have teamed up with a company specializing in artificial intelligence to find out."
-    publishedDateTime: 2020-11-17T05:08:00Z
-    webUrl: "https://minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test-could-detect-covid/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test-could-detect-covid/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test-could-detect-covid/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 24
   - title: "New Mayo Clinic Voice Test Could Detect COVID"
     excerpt: "How much do our voices say about our health? Researchers at Mayo Clinic have teamed up with a company specializing in artificial intelligence to find out."
     publishedDateTime: 2020-11-19T00:59:00Z

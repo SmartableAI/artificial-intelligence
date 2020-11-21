@@ -134,17 +134,6 @@ related:
         width: 1500
         height: 784
         isCached: true
-  - title: "2021 – The year to save costs and accelerate your business with Microsoft Azure"
-    excerpt: "South African businesses – but 2021 is a blank slate, and many companies are seeing this as an opportunity to leverage the lessons learned and strive for growth. This is particularly true for businesses which are now embracing cloud technologies."
-    publishedDateTime: 2020-11-17T05:19:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/448961/2021-the-year-to-save-costs-and-accelerate-your-business-with-microsoft-azure/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 50
   - title: "Aisera's Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
     excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, announced today the availability of its AI Service Desk"
     publishedDateTime: 2020-11-18T22:42:00Z

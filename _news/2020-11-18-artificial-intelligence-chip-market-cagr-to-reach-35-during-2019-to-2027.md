@@ -26,17 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence In Medicine Market to Reach 15,000.00 Million by 2026 – Facts & Factors"
+  - title: "Global Artificial Intelligence In Medicine Market to Reach 15,000.00 Million by 2026 - Facts & Factors"
     excerpt: "According to the research study, the global Artificial Intelligence in Medicine Market was estimated at USD 800 million in 2019 and is expected to reach USD 15,000 million by 2026. The global Artificial Intelligence in Medicine Market is expected to grow at a compound annual growth rate (CAGR) of 49% from 2020 to 2027."
-    publishedDateTime: 2020-11-17T12:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-in-medicine-market-to-reach-15-000-00-million-by-2026-facts-factors-1029810253"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Artificial-Intelligence-In-Medicine-Market-to-Reach-15-000-00-Million-by-2026-Facts-Factors-1029810253"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Artificial-Intelligence-In-Medicine-Market-to-Reach-15-000-00-Million-by-2026-Facts-Factors-1029810253"
+    publishedDateTime: 2020-11-17T14:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-medicine-market-to-reach-1500000-million-by-2026---facts-factors-2020-11-17"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: MarketWatch
+      domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Computing Market is anticipated to exhibit a high CAGR of 23% over the forecast period of 2020 to 2030 - Persistence Market Research"
     excerpt: "As per the findings of a new market research report by Persistence Market Research, the worldwide cognitive computing market reached US$ 14.8 Bn in 2019, and is anticipated to exhibit a high CAGR of 23% over the forecast period of 2020 to 2030."
     publishedDateTime: 2020-11-20T13:45:00Z

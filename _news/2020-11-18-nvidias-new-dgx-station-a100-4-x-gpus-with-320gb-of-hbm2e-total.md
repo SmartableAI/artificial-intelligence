@@ -9,8 +9,8 @@ ampWebUrl: "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-
 cdnAmpWebUrl: "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TweakTown
@@ -40,20 +40,6 @@ related:
       - url: "https://cdn.techjuice.pk/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg"
         width: 1024
         height: 536
-        isCached: true
-  - title: "At SC20: Nvidia Announces A100 80GB GPU"
-    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
-    publishedDateTime: 2020-11-17T05:23:00Z
-    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
         isCached: true
 
 secured: "TVgIlLtv531pzub/094o73VM1ca8lIOMpG0b9Pwzto/6iyt3mAYP+IEmEW3XDV0Ym6QcpK+/QVhRgKb67H4jRgku3ij8NPPdKZBp/A/wcVRabWyHzQ5PWxD3j9utM1H6L+gnNDIcG7Trv1kkKhl2bHiJhCVrqa+I1Bc7hCqceu4KlXPDcS1QnezREyK55ahmi9p+PX1l+8bcvpqSUiYvUJ4sN7iOxsD+NwZqEUscHnLPo+SYWFnvSnA+tIk/6Qy5ZCG0vsSuNZJ1Fk1daNMuCXlo2Tp79Q//P5VUEbm+Jjxz42dR8kCUkfVh596BOiTrd9E/RiKT1Jla+oM2WfDGQASW11sgOxEGzotqLIEEpN0=;Dk7zMwx274pIovvObqwSnQ=="

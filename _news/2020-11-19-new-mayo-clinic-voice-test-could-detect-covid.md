@@ -21,17 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "New Mayo Clinic Voice Test Could Detect COVID"
-    excerpt: "How much do our voices say about our health? Researchers at Mayo Clinic have teamed up with a company specializing in artificial intelligence to find out."
-    publishedDateTime: 2020-11-17T05:08:00Z
-    webUrl: "https://minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test-could-detect-covid/"
-    ampWebUrl: "https://minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test-could-detect-covid/amp/"
-    cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test-could-detect-covid/amp/"
-    type: article
-    provider:
-      name: CBS Local
-      domain: cbslocal.com
-    quality: 24
   - title: "Masters Of Cloud, Part 4: The Post-COVID World"
     excerpt: "Cloud adoption has continued, almost unabated. The size of the pie is so big that despite the biggest getting bigger, the newer entrants are finding enough dough."
     publishedDateTime: 2020-11-18T17:47:00Z

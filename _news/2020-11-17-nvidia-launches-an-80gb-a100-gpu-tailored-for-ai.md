@@ -41,20 +41,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "At SC20: Nvidia Announces A100 80GB GPU"
-    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
-    publishedDateTime: 2020-11-17T05:23:00Z
-    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
-        isCached: true
 
 secured: "p/EQ/H/FvH+sXiopfLyX74JPnv9/PBuVnRQs+ORX86OKSkK/wKByGu8OkgY01P3q66SyzBrRoQF1TQv1eKXfwkGZf/BgZLueBay1JwTagfHgU0O9r5axOn8yK9xtY6ypsy0zU3Fq0pmUk5RjMGH9nm1NNg5wouBMvFZfikCeM+LK9TmFGoesjpg9cLbGGuUbdpUuRhQK2iv7ttpFHKObUhlPvacRsJ96InBfT050iTaIifKb+E0k2v7tWpXEmGcXH5SzE3E3ibWzTs3YhNM08j0BZZj/dnZpdcfo+MpGJgN9JeocLHMFUAe+XYb94xxzHjJg16DIu4vXqUP6A/oF2FeL+SqcoQ9TeW2a6Q4EX1s=;5CgAJ4ips6lrOPhqNJxbUA=="
 ---

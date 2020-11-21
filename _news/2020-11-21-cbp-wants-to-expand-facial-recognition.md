@@ -100,15 +100,6 @@ related:
         width: 1800
         height: 938
         isCached: true
-  - title: "Facial recognition in the healthcare industry"
-    excerpt: "Facial recognition technology, the controversial technology that can match images of humans with a database of images to determine a person’s identity, is common in a host of industries from the electronics industry, wherein the technology is used to ..."
-    publishedDateTime: 2020-11-17T05:50:03Z
-    webUrl: "https://insights.globalspec.com/article/15430/facial-recognition-in-the-healthcare-industry"
-    type: article
-    provider:
-      name: GlobalSpec
-      domain: globalspec.com
-    quality: 36
   - title: "New Drug Discovery Institute Launches at University of Houston"
     excerpt: "The University of Houston has launched the Drug Discovery Institute (DDI) aimed at integrating new technologies, such as artificial intelligence,"
     publishedDateTime: 2020-11-17T18:17:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
 webUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
 type: article
 quality: 69
-heat: 79
+heat: 80
 published: true
 
 provider:
