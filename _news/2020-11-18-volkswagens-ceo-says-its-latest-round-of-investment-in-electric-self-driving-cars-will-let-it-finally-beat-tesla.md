@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vw-ceo-latest-electric-self-driving-
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vw-ceo-latest-electric-self-driving-car-investment-beat-tesla-2020-11?amp"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -29,98 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
-    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
-    publishedDateTime: 2020-11-16T20:08:00Z
-    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
-    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
-        width: 1600
-        height: 801
-        isCached: true
-  - title: "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us"
-    excerpt: "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen."
-    publishedDateTime: 2020-11-19T16:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tesla to release new Full Self-Driving Beta update w/ ‘fundamental improvements,’ wider release could be coming soon"
-    excerpt: "CEO Elon Musk announced Tesla is set to release a new Full Self-Driving Beta update with “fundamental improvements” and new functionality and that a wider release could be coming soon. Last month, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
-    publishedDateTime: 2020-11-19T16:56:00Z
-    webUrl: "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/"
-    ampWebUrl: "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 66
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
-        width: 1851
-        height: 853
-        isCached: true
-  - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
-    excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
-    publishedDateTime: 2020-11-17T14:04:00Z
-    webUrl: "https://www.caradvice.com.au/901837/jaguar-land-rover-to-open-a-hub-for-testing-self-driving-cars/"
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 24
-    images:
-      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/gzffcupivjojk6kknrlv.jpg"
-        width: 960
-        height: 500
-        isCached: true
-  - title: "JLR to develop a smart city hub to test self-driving cars"
-    excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"
-    publishedDateTime: 2020-11-17T04:53:00Z
-    webUrl: "https://www.newsoneplace.com/37514651911/jlr-self-driving-develop"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 24
-    images:
-      - url: "https://i2-prod.coventrytelegraph.net//article19288858.ece/ALTERNATES/s615/1_JLR-Autonomous.jpg"
-        width: 615
-        height: 409
-        isCached: true
-  - title: "Jaguar Land Rover developing \"smart city hub\" to test self-driving car tech"
-    excerpt: "Jaguar Land Rover is teaming with software and telecom companies to create a \"smart city hub\" in Ireland to test self-driving technology."
-    publishedDateTime: 2020-11-17T19:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130332_jaguar-land-rover-developing-smart-city-hub-to-test-self-driving-car-tech"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 22
-    images:
-      - url: "https://images.hgmsites.net/hug/2020-jaguar-i-pace_100751027_h.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "eFXXvpAYmD9K4Xz9OVlh7VekfcZdc2GJ0dK7uTb/1Z1bWYfq02u+WPB5gFOd0LS1i7Cm3wtewv7jDbqOT1n7tLh3ZpAOMPP/9FfSHtQ0NiA5LTFsst8wzi9cGx3GBrrNbLF+Oga7yaYN8NM8pTe+3gp/1cgejBuOEwCSXUGXntFc8RqAEgEmpt2y/gg01ZMNx9XepM9fINuprhtMemquQSHpwW6HDhccnKALmbcBmkShJERy2Z5UQfA5vJusshOvmdp7+Rrsfp95IEv2K8P3Evgu2Lk4Yu114blczHQeupS8ILEgdQfKXUddHkTjsEtUihkINzF5KQid48ZMCk/dXMoW1Ti/AhJQYoJG7l9bDs7SwI05HspKMyQKvnGK4pr98yI4+Nuo6o5etSxOsewbSp+yjVXwPZE5eNJf/pXKgmO+hMuRKZ9BYbZZVNCpq8kERoH34Zvk6B+ZVhob1VOxi1M42kObYXzxhkvb9/gnMP897NwerGZXaeEg70OHHLKnPuLZmqoSybMfWGafsmgHsQ==;vucuaC5PnBRa+PTMJWFNQA=="
 ---

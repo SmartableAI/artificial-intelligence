@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "How to tell the difference between AI and BS"
-    excerpt: "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,"
-    publishedDateTime: 2020-11-16T20:44:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/"
+  - title: "How role-playing a dragon can teach an AI to manipulate and persuade"
+    excerpt: "An AI that completes quests in a text-based adventure game by talking to the characters has learned not only how to do things, but how to get others to do things for it. The system is a step towards machines that can use language as a way to achieve their goals."
+    publishedDateTime: 2020-11-20T15:59:00Z
+    webUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/"
+    ampWebUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg"
-        width: 796
-        height: 417
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "VQsN4PE9LQ8TBm2m/73VhH6y6HFpSbN+hQXZ6n+gHfTUfGVrM2TsSTORNroW3zWVMyV78hFiWBrtWxAzIRUxCUY9ImJMPZZqUTb1RIJvgBCMq/qLSLiRRVs2v0VSp1o6RjNgOmyylznnFd0NpQnHxD20EdjpNTs0PXQSOY6xgdiN4VOVAy8ZcGQkkBvzR5GFgHs8dd5372gco3ryIspRoGtkngPxCE/sccKIQPTiIMhOjq46mjyo7sNsuXUSa46fQDfPGiRRN3WKmdYfOPNSbb61m+rsWxXey3uuHrG0JpCLhsZqYbCNCU5EWEAMiqSPCwq9O4zvr6/J3A0mh9GWP8fta6DY+ca6EsMDUvl5oFw=;gtJECYFuskdVnqLLJXZctQ=="

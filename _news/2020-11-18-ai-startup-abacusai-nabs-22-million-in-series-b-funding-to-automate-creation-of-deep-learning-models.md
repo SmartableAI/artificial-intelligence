@@ -3,10 +3,10 @@ category: news
 title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
 excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
 publishedDateTime: 2020-11-18T11:07:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+originalUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+webUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
 heat: 108
@@ -57,6 +57,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "15KCGIhjZvnHE3zsG7NQSCM9vPWsV6wQ0C05jNNfwmvF88+3XXsX0cedBjnu9R4+JKVb2Ry+xS1pYmy/U9wjb6yDRfPs/7TLwYFBqPb9p7uFjxYNJg7HASEgiQfqLBCOu71smPmWU3t1kGRbfomqTipPnvxGaxJzNO5C7zbIgxVmxWig/bXiqEX9UbtrOwacjGj0hPOYWjwVcipkZfiLdn1a9GuBm7b91H65orQqLj5bmZX34cUH/fxrGWnIAou8gYvK0ix4kTlECWLCRFqBAtojnwwjgx+nXTiq6QYVvQY2/9gE5g14rK3QbJTOEl4SsR37iP0xbnWmtwdczKSwc4b6sigEu1DcGw2hMXH49+s=;WkvW1o05PJlZnBJAwAcXhg=="
+secured: "8OkXzoaZU0u6apSqQLl0naN+YIkyGckwZMTKcgkESnaUhN9GczDFxSJhyqQLRNW6qFOP1LKDod9vCp/bCaJWQ5CEFe/y5jmUL6vHP99IgjuNgMhr67b5C2Q22ULOZcFWSqkGoZCzKswR48nfRwZ0rIXR1b/5wHzjlIBvt61jSYjFyP7iDWdRWFo/BPumoH3d5QaK578VBZvIew0CM8d5SsqI1IDe2ztX0Yae5a6gcCx3r5VqjHTw5Arlv3AW+cDPCjMSCppK4Z2yXusjuwNAbuUFJ/hUK522RP9SnraTWg1GAg5xZVlFhccVVwD9aCtk+UQadd6aAR6XtE9eWoti6CVy8QuUe4+TeAhwjH/jKrE=;gkTlEht0fvc25eOmCpYTpQ=="
 ---
 

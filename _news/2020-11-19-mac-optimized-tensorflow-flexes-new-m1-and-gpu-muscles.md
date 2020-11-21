@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
+    excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
+    publishedDateTime: 2020-11-21T12:39:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-quarter-reports-aple-m1-tensorflow-latest-news/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 61
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-21-news.jpg"
+        width: 892
+        height: 671
+        isCached: true
   - title: "TensorFlow Jobs in Bristol, RI"
     excerpt: "Write code that digests video files and outputs object presence and duration times using Microsoft Azure -- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge we have live IoT data ..."
     publishedDateTime: 2020-11-19T00:58:00Z

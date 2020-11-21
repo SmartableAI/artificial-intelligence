@@ -7,7 +7,7 @@ originalUrl: "https://ventureburn.com/2020/11/africas-first-ai-focused-startup-t
 webUrl: "https://ventureburn.com/2020/11/africas-first-ai-focused-startup-to-investor-matchmaking-service-launches/"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,19 @@ images:
     width: 1920
     height: 1084
     isCached: true
+
+related:
+  - title: "Mythic launches industry-first AI analog matrix processor"
+    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,"
+    publishedDateTime: 2020-11-19T13:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
 
 secured: "Sd0eUYZI5TN+VPVI9zHuU4sbB1WbYJzVbfs4LrUAipjb7G6keiYzIgyXXTfCSbYQCBQmJ+ZN6f1rn+Crs371TL/ARtNWIlKwvVunhmE6zjK+vwdb3K+FJbrNjfOhITxOk0m9y0SaU5ayn0k+fg6r1FObqmI6S/ET2/+dtJKzNOCT4aTy+vEgL6y4yrL/kfFyu1g307UFrucFvjcwa8k+QHPjBL9zq4v/+RToOy1gz+UHWO+5jI5L6FPO06kskXT5SQBBo0jXmJYy78g0nn/6P7WYXiDLAVSep3MtWWLbV+2GCK/KRm/wRa+oFWWrU8ml4Ft6SK+vPiBnP5molEHi2b0VYZvkC6AuJ9ff0HIlRH8=;m0wamKI+v9EOqM8YoL7gSg=="
 ---

@@ -129,20 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI (Artificial Intelligence) Speaker Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026"
-    excerpt: "The latest market research report titled Global AI (Artificial Intelligence) Speaker Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry,"
-    publishedDateTime: 2020-11-16T19:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-artificial-intelligence-speaker-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Market Size, Growth Research Analysis and Share to reach around US $54 Bn by 2026 - Industry News"
     excerpt: "Global artificial intelligence market Size, Share is estimated to amass around US $54 billion by the year 2026, according to the latest research available at Market Study Report LLC, report provides extensively data on market Analysis,"
     publishedDateTime: 2020-11-17T14:01:00Z

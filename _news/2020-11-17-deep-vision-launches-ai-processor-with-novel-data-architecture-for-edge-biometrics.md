@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202011/deep-vision-launches-ai-pro
 webUrl: "https://www.biometricupdate.com/202011/deep-vision-launches-ai-processor-with-novel-data-architecture-for-edge-biometrics"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -26,49 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Vision announces its low-latency AI processor for the edge"
-    excerpt: "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,"
-    publishedDateTime: 2020-11-16T20:04:00Z
-    webUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/"
-    ampWebUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
+  - title: "SAFR and VSBLTY face biometrics deployed for crowd customer safety and insights"
+    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
+    publishedDateTime: 2020-11-17T18:55:00Z
+    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-face-biometrics-deployed-for-crowd-customer-safety-and-insights"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
-        width: 1024
-        height: 563
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
+        width: 2048
+        height: 1365
         isCached: true
-  - title: "Financial services companies are starting to use the cloud for big data and AI processing"
-    excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
-    publishedDateTime: 2020-11-18T16:27:00Z
-    webUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 80
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mythic launches industry-first AI analog matrix processor"
-    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,"
-    publishedDateTime: 2020-11-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
 
 secured: "VE42KvkWgTb6Q2MZaLULcvJl+hT8I4N1nk7g8ik9xbh7jhrDtVQzTGo/QaU88WV8nFgqSxufIAbnh+pj7Pg2633DfrQn+2R8F0zqteWhW/PSOfWpIB1SCd+KYQCZLtbFpjgzRi1jGegO/AiWTN7OVc0TLj1UKi6iQ0e1cxKkDFfv11hYCJn3wiDzZ0HY5NCcAIUhru/vs2rDXpirrKj2dkHdYxHK7srLBCC9hDE/8ybUdQ57jYk3HDfS54HFx+zWltf6MCeBvrr0HBlilc/PjMQh8p+m52sNi2KPb82ykZqNOa+Zr4fl9dPJaju2s2EdllfML8LZDdBYsNNIFFr87fY4Hq44fqpKfn2o12eHsVQ=;qbS0DQ3jzT7YRmswt5v0Gw=="
 ---

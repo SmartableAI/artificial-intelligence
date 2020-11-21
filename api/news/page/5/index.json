@@ -2,6 +2,208 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-18-ai-startup-abacusai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models.md",
+      "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
+      "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg",
+          "width": 1600,
+          "height": 1068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "publishedDateTime": "2020-11-18T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-todays-data-science-roles-wont-exist-in-10-years.md",
+      "title": "Today’s data science roles won’t exist in 10 years",
+      "excerpt": "AutoML is poised to turn developers into data scientists — and vice versa. Here’s how AutoML will radically change data science for the better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
+      "originalUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
+      "publishedDateTime": "2020-11-18T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-did-a-university-use-facial-recognition-to-id-student-protesters.md",
+      "title": "Did a University Use Facial Recognition to ID Student Protesters?",
+      "excerpt": "University of Miami students accuse the campus police of using the software. Administrators deny it, but they had previously touted the capability.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
+      "originalUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fb307a284aca534b93b08aa/master/pass/Business-University-Miami-Facial-Recognition-AP_20238702097234.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
+      "publishedDateTime": "2020-11-18T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-machine-learning-innovation-to-develop-chemical-library-for-drug-discovery.md",
+      "title": "Machine learning innovation to develop chemical library for drug discovery",
+      "excerpt": "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
+      "originalUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/60-machinelearn.jpg",
+          "width": 800,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
+      "publishedDateTime": "2020-11-18T01:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-based-tool-may-help-diagnose-opioid-addiction-earlier.md",
       "title": "Artificial intelligence-based tool may help diagnose opioid addiction earlier",
       "excerpt": "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder. The advance is described in Pharmacology Research & Perspectives.",
@@ -41,49 +243,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-nvidias-new-dgx-station-a100-4-x-gpus-with-320gb-of-hbm2e-total.md",
-      "title": "NVIDIA's new DGX Station A100: 4 x GPUs with 320GB of HBM2e total",
-      "excerpt": "NVIDIA announces new DGX Station A100 can pack 4 x GPUs with 80GB HBM2e each... 320GB of HBM2e memory with 1.53TB/sec bandwidth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/7/6/76262_07_nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-memory.png",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/76262/nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-total/amp.html",
-      "publishedDateTime": "2020-11-17T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -1031,152 +1190,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life.md",
-      "title": "Japan Is Using Robots As A Service To Fight Coronavirus And For Better Quality Of Life",
-      "excerpt": "As societies around the world grapple with the coronavirus pandemic, service robots have emerged as a powerful tool in fighting the virus and addressing social needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/",
-      "originalUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2c677734f73649e16046e%2F0x0.jpg",
-          "width": 600,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/japan/2020/11/17/japan-is-using-robots-as-a-service-to-fight-coronavirus-and-for-better-quality-of-life/amp/",
-      "publishedDateTime": "2020-11-17T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-ai-can-help-organizations-to-slash-16-greenhouse-gas-emission-in-next-3-5-yrs-report.md",
-      "title": "AI Can Help Organizations To Slash 16% GreenHouse Gas Emission In Next 3-5 Yrs: Report",
-      "excerpt": "According to the survey, around 48 per cent of the organizations surveyed are using AI for climate action and have witnessed drop in greenhouse gas emission",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359835",
-      "originalUrl": "https://www.entrepreneur.com/article/359835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605624351-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359835",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359835",
-      "publishedDateTime": "2020-11-17T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-amp-robotics-partners-with-waste-connections-to-deploy-ai-guided-recycling-robots.md",
-      "title": "AMP Robotics Partners with Waste Connections to Deploy AI-Guided Recycling Robots",
-      "excerpt": "DENVER - AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI) and robotics used to recover recyclables reclaimed as raw materials for the global supply chain, has signed a long-term agreement with Waste Connections,",
-      "sourceUrl": null,
-      "webUrl": "https://www.waste360.com/recycling/amp-robotics-partners-waste-connections-deploy-ai-guided-recycling-robots",
-      "originalUrl": "https://www.waste360.com/recycling/amp-robotics-partners-waste-connections-deploy-ai-guided-recycling-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.waste360.com/sites/waste360.com/files/amproboticsfeat.png",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Waste360",
-        "domain": "waste360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-21-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021.md",
+      "title": "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021",
+      "excerpt": "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
+      "sourceUrl": null,
+      "webUrl": "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/",
+      "originalUrl": "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg",
+          "width": 800,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/",
+      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/",
+      "publishedDateTime": "2020-11-20T08:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IOT Business News",
+        "domain": "iotbusinessnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
       "title": "Using Machine Learning To Predict And Detect Fraud",
       "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
@@ -516,7 +559,7 @@
       "originalUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -775,8 +818,8 @@
       "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
       "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "featuredContent": null,
       "highlight": null,
       "heat": 108,
@@ -793,8 +836,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "publishedDateTime": "2020-11-18T03:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1415,59 +1458,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library.md",
-      "title": "PyTorch Developer Day brings a number updates to the machine learning library",
-      "excerpt": "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "originalUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png",
-          "width": 498,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T09:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

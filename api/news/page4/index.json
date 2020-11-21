@@ -2,6 +2,160 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-19-meowtalk-alexa-developers-app-to-translate-cats-miaow.md",
+      "title": "MeowTalk: Alexa developer’s app to translate cat’s miaow",
+      "excerpt": "An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer. MeowTalk records the sound and then attempts to identify the meaning. The cat's owner also helps to label the translation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/amp/technology-54991693",
+      "originalUrl": "https://www.bbc.com/news/amp/technology-54991693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0F4B/production/_115551930_whatsubject.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54991693",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693",
+      "publishedDateTime": "2020-11-18T09:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring.md",
+      "title": "IBM acquires Instana for its AI-powered app performance monitoring",
+      "excerpt": "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
+      "publishedDateTime": "2020-11-18T09:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-ex-yahoo-ceo-marissa-mayers-sunshine-startup-has-launched-an-ai-powered-app-to-help-people-keep-their-contacts-organized.md",
+      "title": "Ex-Yahoo CEO Marissa Mayer's Sunshine startup has launched an AI-powered app to help people keep their contacts organized",
+      "excerpt": "Ex-Yahoo CEO Marissa Mayer on Wednesday launched an AI-powered app called Sunshine Contacts to automate user contacts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11",
+      "originalUrl": "https://www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5fb53f2983df950018ac20b9?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11?amp",
+      "publishedDateTime": "2020-11-18T09:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-abacusai-raises-another-22m-and-launches-new-ai-modules.md",
       "title": "Abacus.AI raises another $22M and launches new AI modules",
       "excerpt": "AI startup RealityEngines.AI changed its name to Abacus.AI in July. At the same time, it announced a $13 million Series A round. Today, only a few months later, it is not changing its name again, but it is announcing a $22 million Series B round,",
@@ -204,6 +358,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing.md",
+      "title": "Financial services companies are starting to use the cloud for big data and AI processing",
+      "excerpt": "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "originalUrl": "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/",
+      "publishedDateTime": "2020-11-18T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -837,7 +1043,7 @@
       "originalUrl": "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1031,208 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ai-startup-abacusai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models.md",
-      "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
-      "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg",
-          "width": 1600,
-          "height": 1068,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "publishedDateTime": "2020-11-18T03:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-todays-data-science-roles-wont-exist-in-10-years.md",
-      "title": "Today’s data science roles won’t exist in 10 years",
-      "excerpt": "AutoML is poised to turn developers into data scientists — and vice versa. Here’s how AutoML will radically change data science for the better.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "originalUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
-      "publishedDateTime": "2020-11-18T03:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-did-a-university-use-facial-recognition-to-id-student-protesters.md",
-      "title": "Did a University Use Facial Recognition to ID Student Protesters?",
-      "excerpt": "University of Miami students accuse the campus police of using the software. Administrators deny it, but they had previously touted the capability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "originalUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb307a284aca534b93b08aa/master/pass/Business-University-Miami-Facial-Recognition-AP_20238702097234.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/did-university-use-facial-recognition-id-student-protesters/amp",
-      "publishedDateTime": "2020-11-18T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-machine-learning-innovation-to-develop-chemical-library-for-drug-discovery.md",
-      "title": "Machine learning innovation to develop chemical library for drug discovery",
-      "excerpt": "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "originalUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/60-machinelearn.jpg",
-          "width": 800,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "publishedDateTime": "2020-11-18T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

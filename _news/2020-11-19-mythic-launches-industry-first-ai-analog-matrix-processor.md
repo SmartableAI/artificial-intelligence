@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industr
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Business Insider
@@ -25,51 +25,19 @@ topics:
   - AI
 
 related:
-  - title: "Deep Vision announces its low-latency AI processor for the edge"
-    excerpt: "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,"
-    publishedDateTime: 2020-11-16T20:04:00Z
-    webUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/"
-    ampWebUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
+  - title: "Africa’s first AI-focused startup to investor matchmaking service launches"
+    excerpt: "The Deal Room is Africa’s first AI driven service that aims to connect AI-based startups with potential investors and venture capitalists."
+    publishedDateTime: 2020-11-18T06:30:00Z
+    webUrl: "https://ventureburn.com/2020/11/africas-first-ai-focused-startup-to-investor-matchmaking-service-launches/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
-        width: 1024
-        height: 563
-        isCached: true
-  - title: "Financial services companies are starting to use the cloud for big data and AI processing"
-    excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
-    publishedDateTime: 2020-11-18T16:27:00Z
-    webUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 80
-    images:
-      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/11/18/a4cf682b-b24d-42ad-b182-8693051a4ab2/resize/1200x/db1c3865cbdac7b82a9465f76e8d7e45/money-around-a-storage-cloud-vector-id1283409678.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Deep Vision launches AI processor with novel data architecture for edge biometrics"
-    excerpt: "A startup called Deep Vision has emerged with a new AI processor with novel chip design that is better suited to edge biometric applications like Smart Cities and Smart Retail where lower energy"
-    publishedDateTime: 2020-11-16T22:22:00Z
-    webUrl: "https://www.biometricupdate.com/202011/deep-vision-launches-ai-processor-with-novel-data-architecture-for-edge-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Ventureburn
+      domain: ventureburn.com
     quality: 35
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2020/11/EDITED-sebastian-herrmann-O2o1hzDA7iE-unsplash.jpg"
         width: 1920
-        height: 1080
+        height: 1084
         isCached: true
 
 secured: "luJIZTn8cvk3LxU5V/Fmk26O7gfbP07ylvvDWIde8e+2UvVs4kMS/a4q3WY8O+xYuMtQ4UnPUravlPPnNyCuJpLsLmCxm37bGp17vLYjBJpj5X2BVa0g95rQG7oO9nzZIIIfntMbz0T+q70b0baH27Snd/Ccu50/d2CiH9frcB+ulsYclP85GbrEMrPUrk9VPxNxGRZLsqWqvUJZvjhwPXacK97C8a9dJF5LE04V09GKIHjWhF0lia2xf30KytlGq1qK0ferlg1xqPLBsLHdwdRSgJ2cGrgFTtjErCzYjhRwLsIhp2kyx7hC/scJMiNfBMhHViYAF1eosImA63hs0a3Nyj2rYU9gsw+y7jJGucA=;xYPdwmdKCIqTKJT9ntOHYw=="

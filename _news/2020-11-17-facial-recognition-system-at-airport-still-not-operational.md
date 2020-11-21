@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-s
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
 type: article
 quality: 74
-heat: 155
+heat: 145
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Air Force bases look to facial recognition to secure entry"
-    excerpt: "The pandemic has been good for the facial recognition industry, with a company inking two new contracts to install the technology at Air Force bases."
-    publishedDateTime: 2020-11-16T19:29:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-air-force-bases/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 54
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/382821.jpg"
-        width: 2080
-        height: 1384
         isCached: true
   - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
     excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"

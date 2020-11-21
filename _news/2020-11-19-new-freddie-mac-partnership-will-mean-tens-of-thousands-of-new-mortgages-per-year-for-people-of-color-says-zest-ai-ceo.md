@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Freddie Mac employs machine learning to better manage risk"
+    excerpt: "Freddie Mac has announced that it will use Zest AI’s machine learning tools to give its credit decisioning models a boost. “Freddie Mac is always evaluating technology solutions that meet our high standards and support our continued commitment to expanding homeownership opportunities responsibly,"
+    publishedDateTime: 2020-11-20T07:41:00Z
+    webUrl: "https://www.mpamag.com/news/freddie-mac-employs-machine-learning-to-better-manage-risk-239699.aspx"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/001/0248_637414535783337619.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "mqns1XRYKzSSCw/UI1ONoHetwjOUW7Bh26pOPMSb/iL9dKLc/T5EOAX2vdcWlrw3wXCeJA3rS6vPcaUec4XHD383GdTcuXAWA48X2gtbBVI6qQJvIGYBfhcXeTfnmA2cARxLLQOjIrLyCxBa7cLmHriNMIr3mvyQ05IU1Rh7KFQY7xu06ySRfUoz9/RitGtgN7eDtqDq1WTFyxOpsS+KvLF1R0JHuBGz9faWLWo0mAlY2zfIg3czEQu35dcDM0MS6MPdsqxKPy47w0VGxGvkEyUxtbp1QYUeugK+DLxrJeb7fV6+cgzOAuDBKaGWR9Qc2yPEEONZV6+Au9ZSTwmh3RNMVKuNXBcEEUQQKXbAZj2+qCGceAi7u7YQX3Way1C2Y0T6VwMBD52+LgSKyrwHH0Nhc/j7U0vWDwQZydVz9IpB+2jGZEDvzbQp/JkiUtFBOBMl+mTzkzBCsfdZ10SCFuCuCXCLoSw+VRYw1fyvPnmhaXXsBJ/JTsxZ6wC4YCSTm5YBEP36JnhGdPxQsSmS2g==;a7rLOhNTkb0SoRYnanwoMw=="
 ---

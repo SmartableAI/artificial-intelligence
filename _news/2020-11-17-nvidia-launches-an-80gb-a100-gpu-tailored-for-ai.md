@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nvidia Unveils A100 80GB GPU Powerhouse Supercomputing Chip"
-    excerpt: "Nvidia has doubled the memory of its previous supercomputing GPUs with its new A100 80GB GPU, which aims to drive new levels of supercomputing performance"
-    publishedDateTime: 2020-11-16T20:46:00Z
-    webUrl: "https://www.hpcwire.com/2020/11/16/nvidia-unveils-a100-80gb-gpu-powerhouse-supercomputing-chip/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia-A100-80GB-GPU_605x.png"
-        width: 605
-        height: 446
-        isCached: true
   - title: "Nvidia updates HPC/AI range"
     excerpt: "HPC and AI vendor Nvidia has introduced an upgraded GPU, a new workgroup server, and a next-generation networking technology. The Nvidia A100 80GB GPU has twice the memory of its predecessor, and with over 2TBps of memory bandwidth provides \"unprecedented speed and performance\" for AI and"
     publishedDateTime: 2020-11-17T01:58:00Z

@@ -563,21 +563,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-21-if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office.md",
-      "title": "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office",
-      "excerpt": "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve.",
+      "path": "_news/2020-11-21-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021.md",
+      "title": "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021",
+      "excerpt": "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/",
-      "originalUrl": "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/",
+      "webUrl": "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/",
+      "originalUrl": "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg",
-          "width": 1199,
-          "height": 634,
+          "url": "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg",
+          "width": 800,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -585,23 +585,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/",
-      "publishedDateTime": "2020-11-20T08:22:00-08:00",
+      "ampWebUrl": "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/",
+      "cdnAmpWebUrl": "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/",
+      "publishedDateTime": "2020-11-20T08:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "IOT Business News",
+        "domain": "iotbusinessnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -610,6 +601,7 @@
         "news"
       ],
       "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -662,6 +654,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade.md",
+      "title": "How role-playing a dragon can teach an AI to manipulate and persuade",
+      "excerpt": "An AI that completes quests in a text-based adventure game by talking to the characters has learned not only how to do things, but how to get others to do things for it. The system is a step towards machines that can use language as a way to achieve their goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
+      "publishedDateTime": "2020-11-20T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -1214,59 +1250,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-automating-business-processes-with-machine-learning-in-the-covid-19-pandemic.md",
-      "title": "Automating business processes with machine learning in the COVID-19 pandemic",
-      "excerpt": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T16:56:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

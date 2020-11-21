@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box's enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
-publishedDateTime: 2020-11-20T11:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
-webUrl: "https://markets.businessinsider.com/news/stocks/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-1029824644"
+excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch"
+publishedDateTime: 2020-11-20T14:49:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/n18462780/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18462780"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18462780"
 type: article
-quality: 94
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -168,6 +164,6 @@ related:
       domain: telecompaper.com
     quality: 34
 
-secured: "UTdEZfxLP031aTgd793QDcCIQQPWraFpjyQER68xSWABApvA2dGyxfmInWBUHi3v0qFipo8r13VoWDS2Z8DEVowlhFBbdSoDeQqWFt/ybgU8RH+zKMM7X1C0Knm0QigDDBqFRLAZUJ+ps3e2ftUVvzCsCMb/QVqB8dYtyM/5xSDFa6nye6bKRFNd6fZ/Jxp+3RmIp4nIi4ZIpoI4TXFu/M0bhKipqaovUj9uOvjgMMj+JzLwcDhsO6O8lAEPxi1lOfIBRSw0RBtmCBnPbwZvStr+P/zFF0OVAsuvYCD7SbcFM55qQmQZGWj2qxhHwSOH0j6YnpDwc5azKqnLmeKzEVpsSWE73N1TCvY9FNC5uNQ=;TSC30kNaXk6qJAJQ+qjfKg=="
+secured: "WkAeM8O8Ng5bB1A/i9nHYAG4t+tiTwz99nJQ0Uef2dh9Y8HWGYnwYo0zjaI81OBdA3CORBS5JfHlKAsJJ/oOCwUjq3jCKu/yXH0cHzozEudvYTDU/6PRHgnIVWiOllHAYNJdZvEy9Q9D4YtyL2sIw4Zxh5e+69VHwEd7sTf8RfmTBVjcRhFdBPUb0mkIh1mNy/MtRCSHUsAlNpFvA7C2DpAeTILDk+VD7QsiHx31XEiC3B/6TMG3ubA9XXOu0yDdJK/D6NITCO03wu/cpE7mq2iLwu/3oZrEgdbzI4Ed4sCan5zfgiaYTuwISHAFLsywFdPnDXAMLwFp31kht27mFBcDu6C2vmHVfA7xd+Iw4b0=;fu334L8ZCCFIVTTCJgNrNw=="
 ---
 

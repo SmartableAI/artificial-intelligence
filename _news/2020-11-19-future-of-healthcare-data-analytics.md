@@ -37,16 +37,16 @@ related:
       domain: businessinsider.com
     quality: 68
   - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-    excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
+    excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
     publishedDateTime: 2020-11-18T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z

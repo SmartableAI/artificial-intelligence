@@ -37,22 +37,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "US takes first step toward future self-driving car regulations"
-    excerpt: "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,"
-    publishedDateTime: 2020-11-20T17:24:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "U.S. regulators seek public input on new safety standards for self-driving cars"
     excerpt: "The National Highway Traffic Safety Administration (NHTSA) said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
     publishedDateTime: 2020-11-20T10:03:00Z
@@ -68,68 +52,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
         width: 1200
         height: 647
-        isCached: true
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-18T08:55:00Z
-    webUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.html"
-    ampWebUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/upgradedrada.jpg"
-        width: 849
-        height: 1872
-        isCached: true
-  - title: "U.S. Agency Opens Regulatory Proceeding to Ensure Self-Driving Car Safety"
-    excerpt: "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA)said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-19T16:32:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-11-19/us-agency-opens-regulatory-proceeding-to-ensure-self-driving-car-safety"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 33
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-20T00:48:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117192605.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 29
-  - title: "New radar helps self-driving cars navigate safely in bad weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-18T12:31:00Z
-    webUrl: "https://knowridge.com/2020/11/new-radar-helps-self-driving-cars-navigate-safely-in-bad-weather/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 24
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/11/New-radar-helps-self-driving-cars-navigate-safely-in-bad-weather.jpg"
-        width: 700
-        height: 511
-        isCached: true
-  - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
-    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-19T16:47:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/nhtsa-opens-regulatory-proceeding-self-driving-vehicle-safety"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AVs%20Bloomberg.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "MpROHhF2hQq0OM0R/3Ts3T6FRJriKzHCFnwdGTt1xVUvO+/MN/d/U8G3wEdOcWXhw9se7r/WCBHSwEDczjgwbvfoOiSNZAT0sRw0TVNhJsUHXVKS2I5SVtBuigxbaEKXFXW6tSO1E7FfQh7sNc+3IpFD5ONhoVy165NT9Jw9dvHIxbkOmDOMiKiOX+lqfUUlCq9it7EWnKbXDvCHw4IftZ526MKZB8wgXHDSZ34bc16SlGBkCGPtumVc50OKPje+bbJ/ePzajr4j7SQs9OwkPXv+4mApzyEQ0RncfDQiUH5u7X4baw70fI5tdEwsRzb619nkUwOf2ILH1D3bzq3Bsbe/jrwwMWGBqQfSgXUExQM=;ISstyAs+xvxtk1gixlkyZA=="

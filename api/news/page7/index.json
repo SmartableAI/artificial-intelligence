@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-17-how-to-tell-the-difference-between-ai-and-bs.md",
+      "title": "How to tell the difference between AI and BS",
+      "excerpt": "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/",
+      "publishedDateTime": "2020-11-16T12:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-it-is-going-to-be-a-race-with-tesla-says-vw-about-new-investments-in-electric-cars-and-self-driving.md",
+      "title": "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving",
+      "excerpt": "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
+      "originalUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all",
+          "width": 1600,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
+      "publishedDateTime": "2020-11-16T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-deep-vision-announces-its-low-latency-ai-processor-for-the-edge.md",
+      "title": "Deep Vision announces its low-latency AI processor for the edge",
+      "excerpt": "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
+      "originalUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
+      "publishedDateTime": "2020-11-16T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-deepmind-open-sources-lab2d-a-grid-based-environment-for-reinforcement-learning-research.md",
       "title": "DeepMind open-sources Lab2D, a grid-based environment for reinforcement learning research",
       "excerpt": "DeepMind this week open-sourced Lab2D, a software system designed to support the creation of 2D environments for AI and machine learning research. The Alphabet subsidiary says that Lab2D was built ...",
@@ -1117,136 +1273,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
-      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
-      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb.md",
-      "title": "Austria wants ethical rules on battlefield killer robots – Jaweb",
-      "excerpt": "Vienna is embarking on a diplomatic initiative to draw up an ethical framework for the use of killer robots on the battlefields of the future. Foreign Minister Alexander Schallenberg said similar standards should be adopted as those established for landmines and cluster weapons.",
-      "sourceUrl": null,
-      "webUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
-      "originalUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Austria-wants-ethical-rules-on-battlefield-killer-robots-–-Jaweb.jpg",
-          "width": 940,
-          "height": 529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
-      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
-      "publishedDateTime": "2020-11-15T11:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Elmoudjaweb",
-        "domain": "elmoudjaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
-      "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
-      "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "originalUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "publishedDateTime": "2020-11-15T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

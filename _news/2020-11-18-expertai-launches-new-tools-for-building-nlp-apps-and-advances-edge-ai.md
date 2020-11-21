@@ -41,17 +41,6 @@ related:
         width: 2048
         height: 2048
         isCached: true
-  - title: "Booklyn.co Launches New AI-Powered e-Reader Site"
-    excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read better. Offering the widest available range of digital features,"
-    publishedDateTime: 2020-11-19T12:39:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
   - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
     excerpt: "Expert.ai will be launching two major products at KMWorld & Text Analytics Forum Connect 2020: expert.ai Studio, an intelliJ plug-in"
     publishedDateTime: 2020-11-17T13:00:00Z
@@ -65,6 +54,20 @@ related:
       - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
         width: 1500
         height: 785
+        isCached: true
+  - title: "Booklyn.co Launches New AI-Powered e-Reader Site"
+    excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read"
+    publishedDateTime: 2020-11-19T12:39:00Z
+    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
+    type: article
+    provider:
+      name: WFMZ-TV
+      domain: wfmz.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267"
+        width: 400
+        height: 267
         isCached: true
 
 secured: "8A+e0JzbCfITDGl235BlotFdXvbcYq3V5LU/BKzRpbtm9TNheOEzTFoHutsBPnIZBM19aIimOVg4jchqVEptdcTwypGLiSSQdYpP0g4OWi5MQpgArPlyr2K+vwT2i5nahduqhVzy4ZrmFzQvjmZ+OmsC5KW5X1CB4z2VKY7ejJl6ZFpG8ULTiwcOBmp7FBKz4lq1EuNtMtv+nS4djPzoU0f8O9uB8CwlQHYynZI5d+xkwIqdrv+s+i6MI6Osdo0vKh2At/8eB+qgKwNbTHw34a5gYJlV8uuRx2d6Iey6mxeGVD1hgPtD/OD7yLsESssCXa+zVnbZt7yVy6mQuvJbglLAB1jn8r/vQrI9M0g3tKI=;3g1gbKX9SjpCaB9yN5YiPg=="

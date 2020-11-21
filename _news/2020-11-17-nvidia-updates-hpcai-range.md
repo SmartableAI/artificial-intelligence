@@ -56,20 +56,6 @@ related:
         width: 1024
         height: 536
         isCached: true
-  - title: "Nvidia Unveils A100 80GB GPU Powerhouse Supercomputing Chip"
-    excerpt: "Nvidia has doubled the memory of its previous supercomputing GPUs with its new A100 80GB GPU, which aims to drive new levels of supercomputing performance"
-    publishedDateTime: 2020-11-16T20:46:00Z
-    webUrl: "https://www.hpcwire.com/2020/11/16/nvidia-unveils-a100-80gb-gpu-powerhouse-supercomputing-chip/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia-A100-80GB-GPU_605x.png"
-        width: 605
-        height: 446
-        isCached: true
 
 secured: "QSAhB1l/6edFQzeA2YuSy9hKOrPhTSPL+/f1Z7VkdZlfIKpxA1l3Woq/UVObdpfBrcxM712p2NELsBiNVxQL55UYINE4rLYfTS9E3j+Fgf6eKNkO7dfAvufDRLZvQ0EyjRXDSwxGOraGAoqfhN4D5toc7qhzL9ajIWEjCU+knCXSoKY4eg5CjI5Ej0uw+JqFqgDalCUzDzALKDaiR9TIXaF2wsOhPvMddZDHEpr36hjGgW09THgNfxQar4NgNgrw/v/hl52Xx2+hu90O6ov7anavtuKVAfeDZJyKI/FgyZMJcD3JyAed28lOaWI5kND/qgVma2SeFay0qX4dnIsJVLwYgsZeF4PQKFsOKvYMpCD91c1A3B1kQCGoKHF41cN7ZKQ9Bp5XOVH1tAtjuKZahMCAtLtJFZVc5MEYHT2v3UJNDcjimLFCFHFxenP5sXoVjWnyE21Bu40ydDKWBMokeoxaFFrZR7IkEyeMZWIi9tzmhbs7gk4LDDHqrmbLRSB5ViBBKABkJkKU+hRIXkIp5A==;lznP3P3Kvx2LF/x5DeO38g=="
 ---

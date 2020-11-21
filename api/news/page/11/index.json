@@ -2,6 +2,153 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-13-google-catches-up-to-aws-and-azure-with-new-database-migration-service.md",
+      "title": "Google catches up to AWS and Azure with new database migration service",
+      "excerpt": "Google has debuted its database migration service, making it easier for Google Cloud customers to transfer databases to Google's Cloud SQL.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
+      "publishedDateTime": "2020-11-12T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo.md",
+      "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
+      "excerpt": "The shift away from fossil fuel requires the carmaker to double down on efficiency so it can free up resources to build electric and self-driving cars, Kallenius said. “We are hiring a lot of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.metro.us/daimler-will-shrink-with/",
+      "originalUrl": "https://www.metro.us/daimler-will-shrink-with/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.metro.us/wp-content/uploads/Reuters_Direct_Media/USOnlineReportTechnologyNews/tagreuters.com2020binary_LYNXMPEGAB1OB-BASEIMAGE.jpg",
+          "width": 800,
+          "height": 521,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.metro.us/daimler-will-shrink-with/amp/",
+      "cdnAmpWebUrl": "https://www-metro-us.cdn.ampproject.org/c/s/www.metro.us/daimler-will-shrink-with/amp/",
+      "publishedDateTime": "2020-11-12T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro US",
+        "domain": "metro.us",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-how-google-built-its-ai-powered-hum-to-search-feature.md",
+      "title": "How Google built its AI-powered Hum to Search feature",
+      "excerpt": "Google's new Hum to Search feature identifies songs from humming or whistling. Here's how it works behind the scenes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/06/google_ai-2-e1572035641146.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/how-google-built-its-ai-powered-hum-to-search-feature/amp/",
+      "publishedDateTime": "2020-11-12T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.md",
       "title": "How Amazon Retail Systems Run Machine Learning Predictions with Apache Spark",
       "excerpt": "Amazon Retail systems uses Apache Spark with Deep Java Library (DJL) to build propensity models to drive customer experience.",
@@ -1080,161 +1227,6 @@
         "AI in Healthcare",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
-      "title": "Databricks launches SQL Analytics",
-      "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "originalUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/fa46ec20-a94a-473e-b79f-68241df6be90/sql-editor-with-query.png",
-          "width": 3838,
-          "height": 2004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "publishedDateTime": "2020-11-11T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-apps-are-now-putting-the-parole-agent-in-your-pocket.md",
-      "title": "Apps Are Now Putting the Parole Agent in Your Pocket",
-      "excerpt": "Instead, he suggests states provide people with social workers, therapy, and access to housing ... calls a “game of life app,” that combines remote monitoring, artificial intelligence, and biometric data from users. “One of the really critical ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/",
-      "originalUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa5a934e4fe02a20082e954/master/pass/business_parole_480339746.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/apps-putting-parole-agent-your-pocket/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/apps-putting-parole-agent-your-pocket/amp",
-      "publishedDateTime": "2020-11-11T20:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-snap-acquired-vocaai-which-makes-ai-based-voice-agents-for-call-centers.md",
-      "title": "Snap acquired Voca.ai, which makes AI-based voice agents for call centers",
-      "excerpt": "With an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in the consumer world — with the app",
-      "sourceUrl": null,
-      "webUrl": "https://voca.ai/",
-      "originalUrl": "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://staging2.voca.ai/wp-content/uploads/2020/04/ebook-times-of-crisis-650.png",
-          "width": 650,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T19:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

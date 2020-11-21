@@ -89,20 +89,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Uber In Talks To Sell Its Troubled Self-Driving Car Division"
-    excerpt: "Ride-hailing major Uber is reportedly in talks with startup Aurora Innovation to sell its autonomous vehicle unit that was recently valued at $7.25"
-    publishedDateTime: 2020-11-16T20:20:00Z
-    webUrl: "https://www.techshout.com/business/2020/16/uber-in-talks-to-sell-its-troubled-self-driving-car-division/"
-    type: article
-    provider:
-      name: TechShout
-      domain: techshout.com
-    quality: 24
-    images:
-      - url: "https://www.techshout.com/wp-content/uploads/2019/04/uber-app.jpg"
-        width: 720
-        height: 733
-        isCached: true
   - title: "Report: Uber looking to sell beleaguered self-driving business"
     excerpt: "Ride-hailing giant Uber may be looking to wash its hands of its troubled self-driving business as it is in talks to sell the business to Aurora Innovation, an autonomous driving startup. According to a report from TechCrunch,"
     publishedDateTime: 2020-11-17T13:15:00Z

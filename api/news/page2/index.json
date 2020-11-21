@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-automating-business-processes-with-machine-learning-in-the-covid-19-pandemic.md",
+      "title": "Automating business processes with machine learning in the COVID-19 pandemic",
+      "excerpt": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T16:56:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento.md",
       "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
       "excerpt": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is",
@@ -157,7 +210,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -311,7 +364,7 @@
       "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN27Z2FM",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -451,6 +504,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-20-tesla-to-release-new-full-self-driving-beta-update-w-fundamental-improvements-wider-release-could-be-coming-soon.md",
+      "title": "Tesla to release new Full Self-Driving Beta update w/ ‘fundamental improvements,’ wider release could be coming soon",
+      "excerpt": "CEO Elon Musk announced Tesla is set to release a new Full Self-Driving Beta update with “fundamental improvements” and new functionality and that a wider release could be coming soon. Last month, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/",
+      "originalUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all",
+          "width": 1851,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/",
+      "publishedDateTime": "2020-11-19T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-artificial-intelligence-robots-market-analysis-global-industry-size-share-trends-and-forecast-2020-2027.md",
       "title": "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027",
       "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence.",
@@ -459,7 +564,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -501,6 +606,58 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us.md",
+      "title": "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us",
+      "excerpt": "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
+      "publishedDateTime": "2020-11-19T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -563,7 +720,7 @@
       "originalUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -636,49 +793,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-more-companies-are-opting-for-janitor-robots-in-retail-stores.md",
-      "title": "More companies are opting for janitor robots in retail stores",
-      "excerpt": "Companies around the world are pivoting during this pandemic, and some big brand stores are now taking a more futuristic approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/",
-      "originalUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ksat.com/resizer/WL7N1FdmWRpqkdCfgEtkn1MiscA=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/11-19-2020/t_d9f898320fa24cdf84a4ba073eb6ddf8_name_image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp",
-      "publishedDateTime": "2020-11-19T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
@@ -919,6 +1033,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-mythic-launches-industry-first-ai-analog-matrix-processor.md",
+      "title": "Mythic launches industry-first AI analog matrix processor",
+      "excerpt": "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155",
+      "publishedDateTime": "2020-11-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-major-advances-in-ai-that-businesses-should-keep-an-eye-on.md",
       "title": "Major Advances In AI That Businesses Should Keep An Eye On",
       "excerpt": "The fast pace at which AI applications are being developed and mastered is leading to tectonic shifts in how business strategists plan for the future.",
@@ -1070,143 +1227,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai.md",
-      "title": "Huge U.K. Defense Spending Boost Funds Cyber Force, Space Command And AI",
-      "excerpt": "The massive increase in military spending focused on specific technology areas suggests a shift in Britain's strategic direction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
-      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb63e2b2aef54509e02918a%2F0x0.jpg",
-          "width": 1199,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
-      "publishedDateTime": "2020-11-19T01:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-uk-announces-biggest-military-investment-in-30-years.md",
-      "title": "UK announces biggest military investment in 30 years",
-      "excerpt": "The U.K. has announced the biggest program of investment in British defense in 30 years. Prime Minister Boris Johnson told the House of Commons that the government will spend £16.5 billion ($21.8 billion) more on defense over the next four years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
-      "originalUrl": "https://www.msn.com/en-us/news/world/uk-announces-biggest-military-investment-in-30-years/ar-BB1b9UJ9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/2/s960_number10.jpg",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T01:09:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
-        "domain": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-3-rising-aiml-startups-from-south-korea.md",
-      "title": "3 rising AI/ML startups from South Korea",
-      "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474",
-      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

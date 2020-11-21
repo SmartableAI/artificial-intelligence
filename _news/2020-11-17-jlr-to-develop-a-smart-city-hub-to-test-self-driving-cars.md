@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving"
-    excerpt: "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla."
-    publishedDateTime: 2020-11-16T20:08:00Z
-    webUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/"
-    ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 74
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all"
-        width: 1600
-        height: 801
-        isCached: true
   - title: "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us"
     excerpt: "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen."
     publishedDateTime: 2020-11-19T16:29:00Z
@@ -57,38 +41,72 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Volkswagen's CEO says its latest round of investment in electric self-driving cars will let it finally 'beat Tesla'"
-    excerpt: "\"The commitment, the investments, and the industrialization plans are there to beat Tesla,\" VW's CEO told investors on a Monday conference call."
-    publishedDateTime: 2020-11-17T19:13:00Z
-    webUrl: "https://www.businessinsider.com/vw-ceo-latest-electric-self-driving-car-investment-beat-tesla-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/vw-ceo-latest-electric-self-driving-car-investment-beat-tesla-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vw-ceo-latest-electric-self-driving-car-investment-beat-tesla-2020-11?amp"
+  - title: "US takes first step toward future self-driving car regulations"
+    excerpt: "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,"
+    publishedDateTime: 2020-11-20T17:24:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: "https://i.insider.com/5fb413a2402d49001924f586?width=1200&format=jpeg"
+      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
-  - title: "Tesla to release new Full Self-Driving Beta update w/ ‘fundamental improvements,’ wider release could be coming soon"
-    excerpt: "CEO Elon Musk announced Tesla is set to release a new Full Self-Driving Beta update with “fundamental improvements” and new functionality and that a wider release could be coming soon. Last month, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature."
-    publishedDateTime: 2020-11-19T16:56:00Z
-    webUrl: "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/"
-    ampWebUrl: "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/"
+  - title: "Another Study Shows Just How Careless Self-Driving Tech Is Making Us"
+    excerpt: "The closer cars get to driving themselves, the more distracted we’ll become behind the wheel. It’s hardly a surprising thought, but it’s been supported once again by a new study from the Insurance Institute for Highway Safety and the Massachusetts Institute of Technology’s AgeLab."
+    publishedDateTime: 2020-11-19T23:41:00Z
+    webUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398"
+    ampWebUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 66
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
     images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all"
-        width: 1851
-        height: 853
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wu3h3sgovcjyqx3rkcim.jpg"
+        width: 800
+        height: 450
         isCached: true
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-18T08:55:00Z
+    webUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.html"
+    ampWebUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
+    type: article
+    provider:
+      name: techxplore.com
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/upgradedrada.jpg"
+        width: 849
+        height: 1872
+        isCached: true
+  - title: "U.S. Agency Opens Regulatory Proceeding to Ensure Self-Driving Car Safety"
+    excerpt: "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA)said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-19T16:32:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2020-11-19/us-agency-opens-regulatory-proceeding-to-ensure-self-driving-car-safety"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 33
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-20T00:48:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117192605.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 29
   - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
     excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
     publishedDateTime: 2020-11-17T14:04:00Z
@@ -103,20 +121,57 @@ related:
         width: 960
         height: 500
         isCached: true
-  - title: "Jaguar Land Rover developing \"smart city hub\" to test self-driving car tech"
-    excerpt: "Jaguar Land Rover is teaming with software and telecom companies to create a \"smart city hub\" in Ireland to test self-driving technology."
-    publishedDateTime: 2020-11-17T19:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130332_jaguar-land-rover-developing-smart-city-hub-to-test-self-driving-car-tech"
+  - title: "New radar helps self-driving cars navigate safely in bad weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-18T12:31:00Z
+    webUrl: "https://knowridge.com/2020/11/new-radar-helps-self-driving-cars-navigate-safely-in-bad-weather/"
     type: article
     provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 22
+      name: Knowridge
+      domain: knowridge.com
+    quality: 24
     images:
-      - url: "https://images.hgmsites.net/hug/2020-jaguar-i-pace_100751027_h.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/11/New-radar-helps-self-driving-cars-navigate-safely-in-bad-weather.jpg"
+        width: 700
+        height: 511
         isCached: true
+  - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
+    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-19T16:47:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/nhtsa-opens-regulatory-proceeding-self-driving-vehicle-safety"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AVs%20Bloomberg.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that ..."
+    publishedDateTime: 2020-11-19T00:28:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
+        width: 480
+        height: 360
+        isCached: true
+  - title: "Video: Using radar to help self-driving cars navigate in bad weather"
+    excerpt: "To help these vehicles see better in bad weather, researchers from the University of California (UC), San Diego have developed a new type of radar that improves the image capability of radar sensors to help predict the shape and size of objects in a scene."
+    publishedDateTime: 2020-11-20T13:39:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16004/video-using-radar-to-help-self-driving-cars-navigate-in-bad-weather"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "abnJRD6MXLtcODWmWTJDOTTZWt9eBffDtWoDu0QjyrBoMDTUADcG4RaojpF05A1m3RzWYKu/EprPmmGSTNx7JkQk3X1J1sWUYYWJ1Ic+7CsZ2u/7+DTRwFjWqVEd9yjDrEF+vSHkfQJ+86swp0T2NHUpvd7IH3AWv6psKIczfZdoDOUL/xsux+E1dSiIALmK2xK3IDACf2uUOH6/zc0MKxP3ZFG3xynbh3VFhnbLLgMfLJCYznSmbzkUKjNFIBzHYvgR9NfLnLnXHN5RCaMFxRAOvglRvIvnpbiKX0SvKRYLlBIjH4ZBES8iK1u2JTVEYN1M6gHAZJbfEg9ao2QEMME3I+4A5oJ+OdKxsUm/Swp+rUrhFR/u4+Dmte39jCuhbTcFL+L5gCyqVN4KuQNtttZcCwYzM9RhGsZTwggLwOHUsmpy0qPt9eUCZbl4MDYMPGd7jxg9/z7i6Wqkehq4KCYUgaOr5kWKnQuqxQxUYmFomsKWYV49SNtAgz1aPvDiBaC2WCNzP7fxteNhRenbOw==;7ktTJSdqs/CTmYE3JcK75g=="
 ---

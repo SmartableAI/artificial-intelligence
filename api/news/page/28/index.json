@@ -2,6 +2,145 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-10-29-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
+      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "originalUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-the-next-generation-of-artificial-intelligence-part-2.md",
+      "title": "The Next Generation Of Artificial Intelligence (Part 2)",
+      "excerpt": "Like artificial intelligence more broadly ... albeit with further innovations to today’s neural networks. “Some people think we need to invent something completely new to face these challenges, and maybe go back to classical AI to deal with things ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9a2608695ad7ade6fce902%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D0%26cropY2%3D697",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
+      "publishedDateTime": "2020-10-29T06:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-artificial-intelligence-technology-solutions-renews-largest-dealer-agreement.md",
+      "title": "Artificial Intelligence Technology Solutions Renews Largest Dealer Agreement",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices, Inc. (RAD) and its largest North American dealer have renewed their distribution agreement for an additional three years.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-transportation-infrastructure-61541900760f4deba03925abdd695286",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-transportation-infrastructure-61541900760f4deba03925abdd695286",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-otterai-announces-zoom-live-video-captioning-to-enhance-virtual-collaboration.md",
       "title": "Otter.ai announces Zoom live video captioning to enhance virtual collaboration",
       "excerpt": "The company notes that this feature could reduce the risk of workplace miscommunication and increase telecommuter productivity and inclusiveness in the remote work era.",
@@ -1089,153 +1228,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-artificial-intelligence-helps-improve-treatment-for-brain-tumor.md",
-      "title": "Artificial Intelligence Helps Improve Treatment for Brain Tumor",
-      "excerpt": "In patients with glioblastoma (brain tumor) artificial intelligence measures the amount of muscle to help improve prognosis and treatment, said researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "publishedDateTime": "2020-10-28T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and-more.md",
-      "title": "Q3 2020: Tech Growth Earnings Review - Pinterest, Snap, Microsoft And More.",
-      "excerpt": "Azure Machine Learning, Azure Space and Microsoft Cloud for Healthcare. Azure saw a slight acceleration of 1% this quarter. Gross margins on Commercial Cloud are an impressive 71% when including ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bethkindig/2020/10/29/q3-2020-tech-growth-earnings-reviewpinterest-snap-microsoft-and-more/",
-      "originalUrl": "https://www.forbes.com/sites/bethkindig/2020/10/29/q3-2020-tech-growth-earnings-reviewpinterest-snap-microsoft-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9b8b647e1e727da337668a%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bethkindig/2020/10/29/q3-2020-tech-growth-earnings-reviewpinterest-snap-microsoft-and-more/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bethkindig/2020/10/29/q3-2020-tech-growth-earnings-reviewpinterest-snap-microsoft-and-more/amp/",
-      "publishedDateTime": "2020-10-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-the-impact-of-artificial-intelligence-on-education.md",
-      "title": "The Impact of Artificial Intelligence on Education",
-      "excerpt": "Of all the areas of life where artificial intelligence will have an impact, the biggest might well be education. This is because learning is so important, and also because current provision often ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/calumchace/2020/10/29/the-impact-of-artificial-intelligence-on-education/",
-      "originalUrl": "https://www.forbes.com/sites/calumchace/2020/10/29/the-impact-of-artificial-intelligence-on-education/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9aceb7b208a897ca74f4c5%2F0x0.jpg",
-          "width": 1199,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2020/10/29/the-impact-of-artificial-intelligence-on-education/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2020/10/29/the-impact-of-artificial-intelligence-on-education/amp/",
-      "publishedDateTime": "2020-10-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

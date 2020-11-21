@@ -2,6 +2,143 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai.md",
+      "title": "Huge U.K. Defense Spending Boost Funds Cyber Force, Space Command And AI",
+      "excerpt": "The massive increase in military spending focused on specific technology areas suggests a shift in Britain's strategic direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb63e2b2aef54509e02918a%2F0x0.jpg",
+          "width": 1199,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "publishedDateTime": "2020-11-19T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-uk-announces-biggest-military-investment-in-30-years.md",
+      "title": "UK announces biggest military investment in 30 years",
+      "excerpt": "The U.K. has announced the biggest program of investment in British defense in 30 years. Prime Minister Boris Johnson told the House of Commons that the government will spend £16.5 billion ($21.8 billion) more on defense over the next four years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+      "originalUrl": "https://www.msn.com/en-us/news/world/uk-announces-biggest-military-investment-in-30-years/ar-BB1b9UJ9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/2/s960_number10.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T01:09:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "domain": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-3-rising-aiml-startups-from-south-korea.md",
+      "title": "3 rising AI/ML startups from South Korea",
+      "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474",
+      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Techinasia",
+        "domain": "techinasia.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims.md",
       "title": "World's biggest computing chip is '10,000 times faster' than a GPU, maker claims",
       "excerpt": "can now claim to be the “fastest AI computer in existence.” According to Cerebras and the Department of Energy’s National Energy Technology Laboratory (NETL), the CS-1 is more than 10,000 times faster than leading GPU competitors and 200 times faster ...",
@@ -259,7 +396,7 @@
       "originalUrl": "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -460,7 +597,7 @@
       "originalUrl": "https://www.forbes.com/sites/jeffkauflin/2020/11/18/zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -868,7 +1005,7 @@
       "originalUrl": "https://www.reuters.com/article/us-uber-autonomous-idUSKBN27Y2OZ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1106,160 +1243,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-meowtalk-alexa-developers-app-to-translate-cats-miaow.md",
-      "title": "MeowTalk: Alexa developer’s app to translate cat’s miaow",
-      "excerpt": "An app that aims to translate your cat’s miaow has been developed by a former Amazon Alexa engineer. MeowTalk records the sound and then attempts to identify the meaning. The cat's owner also helps to label the translation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "originalUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0F4B/production/_115551930_whatsubject.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54991693",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693",
-      "publishedDateTime": "2020-11-18T09:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring.md",
-      "title": "IBM acquires Instana for its AI-powered app performance monitoring",
-      "excerpt": "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/",
-      "publishedDateTime": "2020-11-18T09:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ex-yahoo-ceo-marissa-mayers-sunshine-startup-has-launched-an-ai-powered-app-to-help-people-keep-their-contacts-organized.md",
-      "title": "Ex-Yahoo CEO Marissa Mayer's Sunshine startup has launched an AI-powered app to help people keep their contacts organized",
-      "excerpt": "Ex-Yahoo CEO Marissa Mayer on Wednesday launched an AI-powered app called Sunshine Contacts to automate user contacts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11",
-      "originalUrl": "https://www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5fb53f2983df950018ac20b9?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11?amp",
-      "publishedDateTime": "2020-11-18T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

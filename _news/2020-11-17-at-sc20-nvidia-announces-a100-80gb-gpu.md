@@ -41,20 +41,6 @@ related:
         width: 620
         height: 348
         isCached: true
-  - title: "Nvidia Unveils Ampere A100 80GB GPU With 2TB/s of Memory Bandwidth"
-    excerpt: "Nvidia announced an 80GB Ampere A100 GPU this week, for AI software developers who really need some room to stretch their legs."
-    publishedDateTime: 2020-11-16T19:15:00Z
-    webUrl: "https://www.extremetech.com/computing/317397-nvidia-unveils-ampere-a100-80gb-gpu-with-2tb-s-of-memory-bandwidth"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 39
-    images:
-      - url: "https://www.extremetech.com/wp-content/uploads/2020/08/Nvidia-DGX-A100.jpg"
-        width: 1260
-        height: 708
-        isCached: true
 
 secured: "7CVpaLOusDCe0M/gu4BvTH3xCys7ZL8L4A+gq9tlpZNz/sTSIj80p/c4k+fixDZsd40MjWRrAjz8CiET4t9TWsrKMUf8e1tyqtSaPoz/pgs8o5RoR2kj50KpB/S8ovZXkqmFNf/43jeGVxD61b6wv5Y2AEKwwEOwelHnnfrrLvZB8nIN+1lATBHcxYL0wvcFaU9aotX6YHt1fXxwrHJZ7qyMKEdbM8dn5hmcaVK+lkRE2wPL3AFNS0e0sMML/FrC1tBkNeC+xg0sJtmf4MwgJI5XBgMQDowxwOGxz/8AZhmcaWEki1On/kdYbaJGsQ1l6L7CW4D0CgA22tdhHBGcevY3TWNDFTiBPGUhtYew7GmAc8kVA3tDAAAhIIlsz16dGCYO4x/25QBGRHDK1NQmdoXZzeWdWa0OWfxTJ3Dd0DmIdTW0dTAGUeWL9jnSB4II0hNrCknUa8EL8KUao2fcq93/CI4jAj7gV7iWmwHAenVuMzT2uDA0kEd4LrOT6BBb963wViU6o1YPGZVerM0g9Q==;BNInAidJwHr2UMA7hIrxMw=="
 ---

@@ -2,21 +2,21 @@
   "page": 52,
   "value": [
     {
-      "path": "_news/2020-10-09-15-important-factors-in-building-a-more-human-centric-ai-application.md",
-      "title": "15 Important Factors In Building A More Human-Centric AI Application",
-      "excerpt": "As the technology behind artificial intelligence evolves, developers must continue to consider one of the primary goals of AI development: to make it more “human” than “artificial.”",
+      "path": "_news/2020-10-13-tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms.md",
+      "title": "Tesla Autopilot Self-Driving Beta Test Will Start Next Week, Elon Musk Confirms",
+      "excerpt": "The Full Self-Driving (FSD) feature has undergone a complete reboot and is expected to carry a lot of new functionality. The rewrite also updated the autopilot's labeling software to enable it to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/",
+      "webUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
+      "originalUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f37ac272eb96e41c134f6%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/15-important-factors-in-building-a-more-human-centric-ai-application/amp/",
-      "publishedDateTime": "2020-10-09T05:14:00-07:00",
+      "ampWebUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "publishedDateTime": "2020-10-12T17:17:54-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,118 +40,24 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-09-ibm-enters-the-esports-fray-with-overwatch-league-partnership.md",
-      "title": "IBM enters the esports fray with Overwatch League partnership",
-      "excerpt": "IBM has announced its debut into the esports arena through a multi-year deal inked with the Overwatch League.  Esports is roughly described as competitive videogaming, team-based play, and digital tournaments.",
+      "path": "_news/2020-10-13-when-ai-hurts-people-who-is-held-responsible.md",
+      "title": "When AI hurts people, who is held responsible?",
+      "excerpt": "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
+      "webUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-enters-the-esports-fray-with-overwatch-league-partnership/",
-      "publishedDateTime": "2020-10-09T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-how-machine-learning-will-boost-5g-network-performance.md",
-      "title": "How Machine Learning Will Boost 5G Network Performance",
-      "excerpt": "Such a complex network requires a simplified solution, and deploying artificial intelligence (AI) and machine learning (ML) to solve these problems could be the solution carriers need to ensure they remain in control of their networks. AI/ML solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f21e3261972181a26004bbf%2F0x0.jpg",
-          "width": 1199,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/09/how-machine-learning-will-boost-5g-network-performance/amp/",
-      "publishedDateTime": "2020-10-09T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-should-you-invest-in-state-street-stock-ask-the-ai-engine.md",
-      "title": "Should You Invest In State Street Stock? Ask The AI Engine",
-      "excerpt": "The stock market has seen some volatility since the start of September, and after a larger sell-off in the Stock market – State Street Stock has moved up 11% over the last two weeks (10 trading days) to $63 now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f718e7747378e05e93f2fdc%2F0x0.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -170,266 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2020/10/09/should-you-invest-in-state-street-stock-ask-the-ai-engine/amp/",
-      "publishedDateTime": "2020-10-09T02:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-how-ai-has-evolved-in-the-marketing-industry-and-where-its-headed-next.md",
-      "title": "How AI has evolved in the marketing industry – and where it’s headed next",
-      "excerpt": "Soon enough AI gained further trust from marketers and became a must-have, with more and more brands viewing it not as the sole decision-maker, but as a vital tool for augmenting the decision-making process. As the deployment of cloud infrastructure made ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickz.com/how-ai-has-evolved-in-the-marketing-industry-and-where-its-headed-next/",
-      "originalUrl": "https://www.clickz.com/how-ai-has-evolved-in-the-marketing-industry-and-where-its-headed-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.clickz.com/wp-content/uploads/2020/10/shutterstock_1096541144.png",
-          "width": 768,
-          "height": 272,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickz.com/how-ai-has-evolved-in-the-marketing-industry-and-where-its-headed-next/263703/amp/",
-      "cdnAmpWebUrl": "https://www-clickz-com.cdn.ampproject.org/c/s/www.clickz.com/how-ai-has-evolved-in-the-marketing-industry-and-where-its-headed-next/263703/amp/",
-      "publishedDateTime": "2020-10-09T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ClickZ",
-        "domain": "clickz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-researchers-use-artificial-intelligence-language-tools-to-decode-molecular-movements.md",
-      "title": "Researchers use artificial intelligence language tools to decode molecular movements",
-      "excerpt": "By applying natural language processing tools to the movements of protein molecules, University of Maryland scientists created an abstract language that describes the multiple shapes a protein molecule can take and how and when it transitions from one shape to another.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
-      "originalUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/5-umdresearche.jpg",
-          "width": 668,
-          "height": 1008,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-artificial-intelligence-language-tools-decode.amp",
-      "publishedDateTime": "2020-10-09T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-how-ai-and-machine-learning-can-help-accountants-stay-competitive.md",
-      "title": "How AI and Machine Learning can help accountants stay competitive",
-      "excerpt": "Artificial intelligence (AI) and automation have brought the accounting profession to a point of pivotal change, and it’s about to revolutionise the way that accountants work.",
-      "sourceUrl": null,
-      "webUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
-      "originalUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://businesstech.co.za/news/wp-content/uploads/2020/10/Sage-1-1024x507.jpg",
-          "width": 1024,
-          "height": 507,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
-      "cdnAmpWebUrl": "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/439441/how-ai-and-machine-learning-can-help-accountants-stay-competitive/amp/",
-      "publishedDateTime": "2020-10-09T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "businesstech.co.za",
-        "domain": "businesstech.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ai-in-fintech-market-2020-status-and-outlook-growth.md",
-      "title": "AI in Fintech Market 2020 Status and Outlook Growth",
-      "excerpt": "AI in Fintech Market Size 2020 Analysis Trends Top Manufacturers Growth Statistics Porters Five Forces and SWOT Analysis Opportunities and Forecast California The qualitative research study by Data Bridge Market Research titled AI in Fintech market size is expected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "originalUrl": "https://www.openpr.com/news/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/a/Ta09134345_g.jpg",
-          "width": 800,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2153314/ai-in-fintech-market-2020-status-and-outlook-growth-challenges",
-      "publishedDateTime": "2020-10-09T00:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner-of-the-overwatch-league-grand-finals.md",
-      "title": "IBM Enters Esports Arena with Activision Blizzard in New Multi-Year Deal as the Presenting Partner of the Overwatch League Grand Finals",
-      "excerpt": "IBM's Watson artificial intelligence, and machine learning Through the course of the deal, IBM and the Overwatch League plan to leverage IBM's suite of advanced cloud and AI products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/n17846724/ibm-enters-esports-arena-with-activision-blizzard-in-new-multi-year-deal-as-the-presenting-partner",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/17846724",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/17846724",
-      "publishedDateTime": "2020-10-08T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league.md",
-      "title": "IBM teams up with Activision Blizzard to manage tech for the Overwatch League",
-      "excerpt": "IBM will provide cloud, Watson AI, and machine learning for the Overwatch League and become a presenting partner of the Overwatch League Grand Finals. IBM will power interactive and analytical ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/overwatch.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/ibm-teams-up-with-activision-blizzard-to-manage-tech-for-the-overwatch-league/amp/",
-      "publishedDateTime": "2020-10-08T22:16:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "publishedDateTime": "2020-10-12T11:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -452,26 +92,25 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-09-ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league.md",
-      "title": "IBM Inks Its First-Ever Esports Deal With The Overwatch League",
-      "excerpt": "Blizzard will tap into IBM’s cloud, Watson AI and machine-learning knowhow to 'power interactive and analytical content.'",
+      "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
+      "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
+      "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/",
-      "originalUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/",
+      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 188,
       "tags": null,
       "images": [
         {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7fda7f41d095658868aa45%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41",
+          "width": 600,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -479,197 +118,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/krisholt/2020/10/09/ibm-inks-its-first-ever-esports-deal-with-the-overwatch-league/amp/",
-      "publishedDateTime": "2020-10-08T21:08:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "publishedDateTime": "2020-10-12T10:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-imposter-idd-with-facial-recognition-technology-at-local-airport.md",
-      "title": "Imposter ID'd With Facial Recognition Technology At Local Airport",
-      "excerpt": "With the help of the Simplified Arrival process, customs officials detected a traveler's mismatched documents at Washington Dulles Airport.",
-      "sourceUrl": null,
-      "webUrl": "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport",
-      "originalUrl": "https://patch.com/virginia/herndon/imposter-idd-facial-recognition-technology-local-airport",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://patch.com/img/cdn20/users/23738464/20201008/041638/styles/patch_image/public/cbpo-pax2h___08161627748.jpg?width=984",
-          "width": 984,
-          "height": 738,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport",
-      "cdnAmpWebUrl": "https://patch-com.cdn.ampproject.org/c/s/patch.com/virginia/herndon/amp/29007924/imposter-idd-with-facial-recognition-technology-at-local-airport",
-      "publishedDateTime": "2020-10-08T18:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Patch",
-        "domain": "patch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-israels-use-of-artificial-intelligence-will-change-the-future-of-war.md",
-      "title": "Israel’s Use of Artificial Intelligence Will Change the Future of War",
-      "excerpt": "War is always going to be fought with people and weapons. It is also always going to involve “platforms,” such as tanks and the capabilities they have. It is important to understand that in discussions of the future of warfare the issue is not just about the person or the platform but also tying it all together.",
-      "sourceUrl": null,
-      "webUrl": "https://nationalinterest.org/blog/buzz/israel’s-use-artificial-intelligence-will-change-future-war-170415",
-      "originalUrl": "https://nationalinterest.org/blog/buzz/israel’s-use-artificial-intelligence-will-change-future-war-170415",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nationalinterest.org/sites/default/files/main_images/C795%20%281%29_0.jpg",
-          "width": 1600,
-          "height": 1119,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nationalinterest.org/blog/buzz/israel%E2%80%99s-use-artificial-intelligence-will-change-future-war-170415?amp",
-      "cdnAmpWebUrl": "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/israel%E2%80%99s-use-artificial-intelligence-will-change-future-war-170415?amp",
-      "publishedDateTime": "2020-10-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Interest",
-        "domain": "nationalinterest.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-microsoft-azure-synapse-raises-the-data-management-bar.md",
-      "title": "Microsoft Azure Synapse Raises the Data Management Bar",
-      "excerpt": "First some basics on what Azure Synapse is. Azure Synapse is an analytics service that brings enterprise data into analytics and machine learning. Formerly known as Azure SQL Data Warehouse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/882e9d6b9f3c4eb082dd739d9a12cceb.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/microsoft-azure-synapse-raises-the-data-management-bar/amp/",
-      "publishedDateTime": "2020-10-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat.md",
-      "title": "Self-Driving Car UX Shifting Gears From Stony Silence To Avid Chitchat",
-      "excerpt": "What happens when you get into a self-driving car that you requested as a pick-up for your trip to a local store or another such itinerary? Few people have ridden in a self-driving car and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7ffbf0679484988e4395bb%2F0x0.jpg",
-          "width": 1200,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/09/self-driving-car-ux-shifting-gears-from-stony-silence-to-avid-chitchat/amp/",
-      "publishedDateTime": "2020-10-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -687,476 +145,8 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-responsible-innovation-framework-for-the-age-of-ai.md",
-      "title": "The Responsible Innovation Framework For The Age Of AI",
-      "excerpt": "This year, with facial recognition, privacy, and ethics gaining more attention in the marketplace, technology leaders are increasingly thinking about AI’s impact on people’s lives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7f9c645440271868a67e29%2F0x0.jpg",
-          "width": 1200,
-          "height": 986,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/08/the-responsible-innovation-framework-for-the-age-of-ai/amp/",
-      "publishedDateTime": "2020-10-08T16:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19.md",
-      "title": "Computer Vision Market Research Report by Component, by Application - Global Forecast to 2025 - Cumulative Impact of COVID-19",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Oct. 08, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Computer Vision Market ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/computer-vision-market-research-report-by-component-by-application-global-forecast-to-2025-cumulative-impact-of-covid-19-1029664022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T15:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-daily-crunch-waymo-opens-up-driverless-ride-hailing.md",
-      "title": "Daily Crunch: Waymo opens up driverless ride-hailing",
-      "excerpt": "Alphabet’s self-driving technology company hits a major milestone, Apple TV+ extends its free subscription period and Affirm files to go public. This is your Daily Crunch for. The big story: Waymo opens up driverless ride-hailing Waymo hit a major milestone today: It’s",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/07/waymo.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/daily-crunch-waymo-opens-up-driverless-ride-hailing/amp/",
-      "publishedDateTime": "2020-10-08T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics-to-accelerate-ai-in-health-care.md",
-      "title": "UCSF, Fortanix, Intel, and Microsoft Azure Utilize Privacy-Preserving Analytics to Accelerate AI in Health Care",
-      "excerpt": "“Validation and security of AI algorithms is a major concern prior to their implementation ... in the control of the healthcare institution via their Azure confidential computing cloud infrastructure. The data will be placed into a secure enclave within ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
-      "originalUrl": "https://www.ucsf.edu/news/2020/10/418736/ucsf-fortanix-intel-and-microsoft-azure-utilize-privacy-preserving-analytics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ucsf.edu/sites/default/files/field/image/news/laptop-computer-hands.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UC San Francisco",
-        "domain": "ucsf.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-wisekey-secures-ensuritys-passwordless-access-to-microsoft-windows-and-azure-ad.md",
-      "title": "WISeKey Secures Ensurity’s Passwordless Access to Microsoft Windows and Azure AD",
-      "excerpt": "WISeKey International Holding Ltd. (“WISeKey”) (SIX: WIHN, NASDAQ: WKEY), a leading global cybersecurity and IoT",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-business-hyderabad-industrial-products-and-services-electronic-parts-manufacturing-76582e121f95b9ed762a212150e1c70f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T14:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise.md",
-      "title": "The secrets of small data: How machine learning finally reached the enterprise",
-      "excerpt": "Transfer learning and collective learning enable enterprises to build machine learning models using small data when big data isn't available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/shutterstock_350476919-e1513916353327.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/the-secrets-of-small-data-how-machine-learning-finally-reached-the-enterprise/amp/",
-      "publishedDateTime": "2020-10-08T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-playstation-inventor-starts-new-career-making-robots-for-no-pay.md",
-      "title": "PlayStation Inventor Starts New Career Making Robots for No Pay",
-      "excerpt": "Ken Kutaragi, the legendary inventor of the PlayStation gaming console, is taking on one of the hardest jobs in robotics. And he’s getting paid nothing to do it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/istV08PYj0w0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-08/playstation-inventor-starts-new-career-making-robots-for-no-pay",
-      "publishedDateTime": "2020-10-08T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai.md",
-      "title": "Waymo and TuSimple autonomous trucking leaders on the difficulty of building a highway-safe AI",
-      "excerpt": "TuSimple and Waymo are in the lead in the emerging sector of autonomous trucking; TuSimple founder Xiaodi Hou and Waymo trucking head Boris Sofman had an in-depth discussion of their industry and the tech they’re building at TC Mobility 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/waymo-and-tusimple-autonomous-trucking-leaders-on-the-difficulty-of-building-a-highway-safe-ai/amp/",
-      "publishedDateTime": "2020-10-08T11:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-future-trends-in-robotics-should-translate-to-more-upside-for-ubot.md",
-      "title": "Future Trends in Robotics Should Translate to More Upside for “UBOT”",
-      "excerpt": "The robotics industry has proven its mettle amid the Covid-19 pandemic with machines taking the place of humans in order to stave off further infections from the virus. That said, a recent Robotics & Automation News article identified additional trends that can only further the expansion of the robotics industry--good news for ETFs like the Robotics & AI Bull 3X ETF  (NYSEArca: UBOT).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
-      "originalUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/future-trends-in-robotics-should-translate-to-more-upside-for-ubot-2020-10-08?amp",
-      "publishedDateTime": "2020-10-08T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-09-enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service.md",
-      "title": "Enhanced computer vision, sensors raise manufacturing stakes for robots as a service",
-      "excerpt": "Firms developing computer vision technology for standard robots, developments in 3D vision and so-called “Robots as a Service” are defining the next wave of automation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1220591821.jpg?w=1000",
-          "width": 1000,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/enhanced-computer-vision-sensors-raise-manufacturing-stakes-for-robots-as-a-service/amp/",
-      "publishedDateTime": "2020-10-08T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],
-  "nextPage": 53
+  "nextPage": null
 }

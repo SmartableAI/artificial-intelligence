@@ -2,6 +2,153 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-10-30-deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023.md",
+      "title": "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-lax-debuts-facial-recognition-technology-for-international-travelers.md",
+      "title": "LAX debuts facial recognition technology for international travelers",
+      "excerpt": "U.S. Customs and Border Protection officials announced the implementation of a facial-recognition process at LAX.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7.com/travel/lax-debuts-facial-recognition-technology/7459789/",
+      "originalUrl": "https://abc7.com/travel/lax-debuts-facial-recognition-technology/7459789/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7462194_102920-kabc-4pm-lax-travel-vid.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/",
+      "cdnAmpWebUrl": "https://abc7-com.cdn.ampproject.org/c/s/abc7.com/amp/lax-cbp-international-travelers-facial-recognition/7459789/",
+      "publishedDateTime": "2020-10-29T23:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7",
+        "domain": "abc7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry.md",
+      "title": "The Amazing Ways Ocado Uses Artificial Intelligence And Tech To Transform The Grocery Industry",
+      "excerpt": "Ocado may have started out in 2000 as an online grocer, but it is now one of the world's most innovative technology companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bacd6b76ef50734de8f85%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/10/30/the-amazing-ways-ocado-uses-artificial-intelligence-and-tech-to-transform-the-grocery-industry/amp/",
+      "publishedDateTime": "2020-10-29T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe.md",
       "title": "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe",
       "excerpt": "From acquiring the data to labeling it and training the model to optimizing it, deep learning and AI demand niche skills that combine mathematics with data science.",
@@ -1065,145 +1212,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
-      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
-      "originalUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Discover Magazine",
-        "domain": "discovermagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-the-next-generation-of-artificial-intelligence-part-2.md",
-      "title": "The Next Generation Of Artificial Intelligence (Part 2)",
-      "excerpt": "Like artificial intelligence more broadly ... albeit with further innovations to today’s neural networks. “Some people think we need to invent something completely new to face these challenges, and maybe go back to classical AI to deal with things ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9a2608695ad7ade6fce902%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1240%26cropY1%3D0%26cropY2%3D697",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/29/the-next-generation-of-artificial-intelligence-part-2/amp/",
-      "publishedDateTime": "2020-10-29T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-artificial-intelligence-technology-solutions-renews-largest-dealer-agreement.md",
-      "title": "Artificial Intelligence Technology Solutions Renews Largest Dealer Agreement",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly-owned subsidiary Robotic Assistance Devices, Inc. (RAD) and its largest North American dealer have renewed their distribution agreement for an additional three years.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-transportation-infrastructure-61541900760f4deba03925abdd695286",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-transportation-infrastructure-61541900760f4deba03925abdd695286",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

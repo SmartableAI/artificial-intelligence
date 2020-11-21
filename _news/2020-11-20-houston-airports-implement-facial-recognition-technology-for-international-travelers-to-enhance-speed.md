@@ -75,20 +75,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Air Force bases look to facial recognition to secure entry"
-    excerpt: "The pandemic has been good for the facial recognition industry, with a company inking two new contracts to install the technology at Air Force bases."
-    publishedDateTime: 2020-11-16T19:29:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-air-force-bases/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 54
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/382821.jpg"
-        width: 2080
-        height: 1384
-        isCached: true
   - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
     excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"
     publishedDateTime: 2020-11-17T14:20:00Z

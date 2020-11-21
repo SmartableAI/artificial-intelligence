@@ -9,7 +9,7 @@ ampWebUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
 type: article
 quality: 48
-heat: -1
+heat: 48
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1277
     height: 739
     isCached: true
-
-related:
-  - title: "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office"
-    excerpt: "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve."
-    publishedDateTime: 2020-11-20T16:22:00Z
-    webUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/"
-    ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg"
-        width: 1199
-        height: 634
-        isCached: true
 
 secured: "2x4d3amKfuI/ocG6AWyDE0OSUYcWdz+IVgwrnFuOZvP3UZfPyXNE7seTT/AwvWoGgBgdoXWpGgayt0UHkaKoiO8S5t9q1VZLTYHSb+DtEuXm2mMhrelhSf54/JtlUgcP/umgjrCJTLeCfA6iG9xjxXwYS04nIHj+rmgGY5AQsO1VHq/3UB+tEMQ/T8p9UcS69dRM/KVrJ15n/GQuk66R1oFTScx3tJQSOqxVfS57/D2eef88wnyoH0dKTuQPWJ0owVXn5RPgsGa6pc76yzRqn9YD4KWbvztQFNIigh5ZLYi67Bf/BNszfFeY/qyRL1wpeKCr0MtyAgIIb2NFsTMomHMadoqgSeUMROMmexEWij0=;+sxkioZEaQXwLOpdM1ZdJw=="
 ---

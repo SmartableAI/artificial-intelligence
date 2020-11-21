@@ -89,20 +89,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Air Force bases look to facial recognition to secure entry"
-    excerpt: "The pandemic has been good for the facial recognition industry, with a company inking two new contracts to install the technology at Air Force bases."
-    publishedDateTime: 2020-11-16T19:29:00Z
-    webUrl: "https://www.fedscoop.com/facial-recognition-air-force-bases/"
-    type: article
-    provider:
-      name: FedScoop
-      domain: fedscoop.com
-    quality: 54
-    images:
-      - url: "https://www.fedscoop.com/wp-content/uploads/2020/11/382821.jpg"
-        width: 2080
-        height: 1384
-        isCached: true
   - title: "CBP wants to expand facial recognition"
     excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
     publishedDateTime: 2020-11-20T19:18:00Z

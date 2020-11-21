@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-23-global-automotive-voice-recognition-system-market-report-2020-trends-forecast-and-competitive-analysis-2013-2024-market-is-expected-to-grow.md",
+      "title": "Global Automotive Voice Recognition System Market Report 2020: Trends, Forecast and Competitive Analysis 2013-2024 - Market is Expected to Grow with a CAGR of 19% ...",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Automotive Voice Recognition System Market: Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The automotive voice recognition system market is expected to grow with a CAGR ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005941/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005941/en/371054/23/ResearchAndMarkets_800px.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T10:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition.md",
       "title": "Amazon embraces end-to-end models to improve Alexa’s speech recognition",
       "excerpt": "That’s according to Shezhad Mevawalla, head of automatic speech recognition for Alexa, who spoke with VentureBeat ahead of a keynote address at this year’s Interspeech conference. Alexa is now ...",

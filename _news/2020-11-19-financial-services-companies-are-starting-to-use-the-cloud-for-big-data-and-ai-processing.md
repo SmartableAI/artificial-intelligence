@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-c
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 170
+published: true
 
 provider:
   name: TechRepublic
@@ -31,47 +31,127 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Vision announces its low-latency AI processor for the edge"
-    excerpt: "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,"
-    publishedDateTime: 2020-11-16T20:04:00Z
-    webUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/"
-    ampWebUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
+  - title: "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office"
+    excerpt: "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve."
+    publishedDateTime: 2020-11-20T16:22:00Z
+    webUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/"
+    ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
-        width: 1024
-        height: 563
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg"
+        width: 1199
+        height: 634
         isCached: true
-  - title: "Mythic launches industry-first AI analog matrix processor"
-    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,"
-    publishedDateTime: 2020-11-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+  - title: "More companies are opting for janitor robots in retail stores"
+    excerpt: "Companies around the world are pivoting during this pandemic, and some big brand stores are now taking a more futuristic approach."
+    publishedDateTime: 2020-11-19T14:44:00Z
+    webUrl: "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/"
+    ampWebUrl: "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp"
+    cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Deep Vision launches AI processor with novel data architecture for edge biometrics"
-    excerpt: "A startup called Deep Vision has emerged with a new AI processor with novel chip design that is better suited to edge biometric applications like Smart Cities and Smart Retail where lower energy"
-    publishedDateTime: 2020-11-16T22:22:00Z
-    webUrl: "https://www.biometricupdate.com/202011/deep-vision-launches-ai-processor-with-novel-data-architecture-for-edge-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
+      name: KSAT
+      domain: ksat.com
+    quality: 74
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
-        width: 1920
-        height: 1080
+      - url: "https://www.ksat.com/resizer/WL7N1FdmWRpqkdCfgEtkn1MiscA=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/11-19-2020/t_d9f898320fa24cdf84a4ba073eb6ddf8_name_image.jpg"
+        width: 1280
+        height: 720
         isCached: true
+  - title: "Opening the black box: algorithms, big data and artificial intelligence"
+    excerpt: "As tech becomes more mainstream, journalists are challenged to report on complex subjects for their readers. Seasoned tech reporters offer advice on how to broach the topic"
+    publishedDateTime: 2020-11-20T07:12:00Z
+    webUrl: "https://www.journalism.co.uk/news/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s2/a770585/"
+    ampWebUrl: "https://www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/"
+    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/"
+    type: article
+    provider:
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 59
+    images:
+      - url: "https://www.journalism.co.uk/assets/1/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg_resized_460_.jpeg"
+        width: 459
+        height: 306
+        isCached: true
+  - title: "Opening the black box: reporting on algorithms, big data and artificial intelligence"
+    excerpt: "Algorithms, big data and artificial intelligence. These are tricky topics to navigate ... Subsequent articles which reported that 1.8m truck drivers could lose their jobs to robots were criticised for being speculative and inaccurate."
+    publishedDateTime: 2020-11-19T02:39:00Z
+    webUrl: "https://www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/?__twitter_impression=true"
+    ampWebUrl: "https://www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/?__twitter_impression=true"
+    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/?__twitter_impression=true"
+    type: article
+    provider:
+      name: Journalism.co.uk
+      domain: journalism.co.uk
+    quality: 52
+    images:
+      - url: "https://www.journalism.co.uk/assets/1/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg_resized_460_.jpeg"
+        width: 459
+        height: 306
+        isCached: true
+  - title: "Wemlo introduces AI to mortgage processing"
+    excerpt: "PRNewswire/ -- wemloSM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new"
+    publishedDateTime: 2020-11-20T15:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/wemlo-introduces-ai-to-mortgage-processing-301178147.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1339877/Wemlo_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "Wemlo introduces AI to mortgage processing"
+    excerpt: "PRNewswire/ -- wemloSM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new"
+    publishedDateTime: 2020-11-20T16:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18467660/wemlo-introduces-ai-to-mortgage-processing"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18467660"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18467660"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
+  - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
+    excerpt: "ClosedLoop.ai, Healthcare’s Data Science Platform, today announced the close of an $11 million Series A. The investment round was co-led by Greycroft and .406 Ventures with participation from Silicon Valley Bank and Meridian Street Capital."
+    publishedDateTime: 2020-11-20T09:45:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-small-business-investment-management-d7a70e0d74184ac385f54fe8bb8232e2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "The promise of AI in Financial Services"
+    excerpt: "Artificial Intelligence, in all of its different forms, isn’t new in the financial services space. As is often the case with new technologies, banks were early adopters of AI, with early use cases being focused on chat bots,"
+    publishedDateTime: 2020-11-19T10:37:00Z
+    webUrl: "https://www.finextra.com/blogposting/19552/the-promise-of-ai-in-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
+  - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
+    excerpt: "Healthcare's Data Science Platform raises Series A to help healthcare organizations improve clinical and financial outcomes."
+    publishedDateTime: 2020-11-19T13:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005052/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
 
 secured: "ry/ImtFebLjH+4TeesXbmffxWNW6ywSEymOyzBxThAxxQ+C5mi9zkmVGl4cBsneIOkkKWI4Q2d2y1H7TsV1vDxyIHajLi4ZpE6itBy0fhfV/TUAR4RY2II3bxU7qtA8SVYXNtjdrakc02Lj5uRFCurKffTUtY9PUVEWkJC8vsbbFlWRm54KCqtYdKMz6VFE+OF0qVzU9pgGnJXzVGY0MmAnDIeFxkmBEftzlNGoC4d7gXQQ89o7PMiXOGDMkxObWap9AS0RCep/gk/UVaxcuQZGXgJOVf+xNqhLiXLotRTr2yrhnfEQbj+n13ycL+uEofKAzKLCVvJlFBmKzce55Yurg/PLFDJ3xuRvC7W1SEXbT2T8oMeQQ6RyAwGJz8InPtbPBKoCWiVKnFv9ol+pWlh4XeF1BFLUQnMCgzdkGIJa2bSKlh5aneJk0RoQY7yGCddKTYKuKnb4XW09ESvVnldQa1AAnmeHDxGWijnZsU73hp+wOTikfeCr4cl4nC1mpmOQIeP1P18JfP1tXCsY2YQ==;57UJck2te3x3QxVMKIz8xg=="
 ---

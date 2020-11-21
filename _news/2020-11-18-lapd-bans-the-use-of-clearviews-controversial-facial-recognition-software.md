@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
 type: article
 quality: 87
-heat: 237
+heat: 227
 published: true
 
 provider:
@@ -156,20 +156,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03188-2/d41586-020-03188-2_18584500.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "New Orleans police admit to using facial recognition software"
-    excerpt: "The New Orleans Police Department has confirmed that it is using facial recognition software to investigate crime, despite years of assurances that city government wasn't employing the technology. The agency doesn't own facial recognition software,"
-    publishedDateTime: 2020-11-16T20:43:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21162854/new-orleans-police-admit-to-using-facial-recognition-software"
-    type: article
-    provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
-    images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/bigstock_Face_Recognition_Technology_Co_317555179.5fb2e19ba8940.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 790
         isCached: true
   - title: "LAPD bans using third-party facial recognition software after discovering detectives did so without permission"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a"
