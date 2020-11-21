@@ -37,20 +37,6 @@ related:
         width: 640
         height: 335
         isCached: true
-  - title: "Trump-supported Lumbee Recognition Act passes U.S. House"
-    excerpt: "The Lumbee tribe are one step closer to federal recognition. The U.S. House of Representatives passed the bill on Monday, Nov. 16 by voice vote. It now awaits action in the U.S. Senate. President Dona"
-    publishedDateTime: 2020-11-16T22:20:00Z
-    webUrl: "https://nsjonline.com/article/2020/11/trump-supported-lumbee-recognition-act-passes-u-s-house/"
-    type: article
-    provider:
-      name: North State Journal
-      domain: nsjonline.com
-    quality: 24
-    images:
-      - url: "https://nsjonline.com/wp-content/uploads/2020/10/IMG_1054-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "GzMMFfUU0IgIw7hRTnLNdJfjenAhqt29eIX665I58yMHlek0Erf1j1sduALB+/GsBeEx1Nv/OS65dGN0ZBIBZxVS3wOK3nYEbe0bQ9HcRYCwn5VBneVRQUoS+GFfMbZn2PTYgc56eedJJsytvm3uTdT5mOYtYzLdYOUh5DC3tTx5C7AHVaWvlEgg6CWGK8OGclKd1QFsiqvhv2ZZ+I+sOAQfZ31aLEDNcHUCPcZ2Hrqz+kpsBCZwVeHY5vbl9d2gExXt23JIDZfEwqghnPFxHw5rYnlwpQhU9m9pWo/lEdJIIWLqIFVjrAUMyiXIgKKyvhbnN0sf3lacgc12gdY5lh2/XRdLnPfxxm1prIHrxhA=;i7o+1L7LjE2u+6FU8U2x2g=="
 ---

@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition system at airport still not operational"
-    excerpt: "Taxpayers shelled out nearly $1 million for a state-of-the-art security system at the Frederick Douglass-Greater Rochester International Airport but two years after it was installed, it’s still not operational."
-    publishedDateTime: 2020-11-16T22:27:00Z
-    webUrl: "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/"
-    ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
-    cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
-    type: article
-    provider:
-      name: WHEC
-      domain: whec.com
-    quality: 74
-    images:
-      - url: "https://www.whec.com/whecimages/repository/2020-11/Facial_recognition_system_at_airport_still_not_operational-syndImport-052720.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Houston implements facial recognition technology at airports"
     excerpt: "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals."
     publishedDateTime: 2020-11-20T16:14:00Z
@@ -75,19 +59,32 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Exadel Releases CompreFace Open Source Facial Recognition Application"
-    excerpt: "Exadel ( a global provider of digital software engineering solutions and services, announced the release of CompreFace,"
-    publishedDateTime: 2020-11-17T14:20:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/exadel-releases-compreface-open-source-facial-recognition-application-301174985.html"
+  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
+    publishedDateTime: 2020-11-17T21:52:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
+  - title: "Delta Tests Facial Recognition Technology in Detroit, the First of Its Kind for Domestic Flights"
+    excerpt: "Delta Air Lines is expanding its use of facial recognition technology with a first-of-its-kind pilot program for domestic flights, the airline announced Thursday. Starting next month, Delta will test the digital ID technology for domestic flights at the Detroit Metropolitan Wayne County Airport,"
+    publishedDateTime: 2020-11-20T15:41:00Z
+    webUrl: "https://www.travelandleisure.com/travel-news/delta-facial-recognition-covid"
+    ampWebUrl: "https://www.travelandleisure.com/travel-news/delta-facial-recognition-covid?amp=true"
+    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/travel-news/delta-facial-recognition-covid?amp=true"
+    type: article
+    provider:
+      name: Travel + Leisure
+      domain: travelandleisure.com
+    quality: 46
     images:
-      - url: "https://mma.prnewswire.com/media/524661/Exadel_Inc_Logo.jpg?p=facebook"
-        width: 597
-        height: 315
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F11%2F20%2Fdelta-ID1120.jpg"
+        width: 1800
+        height: 938
         isCached: true
   - title: "CBP wants to expand facial recognition"
     excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
@@ -112,19 +109,33 @@ related:
       name: GlobalSpec
       domain: globalspec.com
     quality: 36
-  - title: "Voluntary Recognition: Worker Wins"
-    excerpt: "Despite the challenges of organizing during a deadly pandemic, working people across the country (and beyond) continue organizing, bargaining and mobilizing for a better life. This edition begins with several groups of organizers who won voluntary recognition of their new unions."
-    publishedDateTime: 2020-11-20T17:07:00Z
-    webUrl: "https://aflcio.org/2020/11/20/voluntary-recognition-worker-wins"
+  - title: "New Drug Discovery Institute Launches at University of Houston"
+    excerpt: "The University of Houston has launched the Drug Discovery Institute (DDI) aimed at integrating new technologies, such as artificial intelligence,"
+    publishedDateTime: 2020-11-17T18:17:00Z
+    webUrl: "https://www.miragenews.com/new-drug-discovery-institute-launches-at-university-of-houston/"
     type: article
     provider:
-      name: AFL-CIO
-      domain: aflcio.org
+      name: Armed robbery in Revesby
+      domain: miragenews.com
     quality: 24
     images:
-      - url: "https://aflcio.org/sites/default/files/2020-11/afl-cio.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
+  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
+    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
+    publishedDateTime: 2020-11-17T13:10:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lung-disease-industrial-products-and-services-transportation-infrastructure-f598a33d5865b03d04e0e68cfb4897d6"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 19
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "uYVEMMDOXhg2/W41fveCbLf+fL/4CAVzYlqxZp4xUfbkIMYsmhmKO++FtmDyyUxDkdwyB1CGqxwF9L7W4Wq4tyFQERoAjfUkH1MsX4rL1jEOWgMp97C0FfvIFIWPJuuFZScK21J1T35GrGZy9AjcOPXnoieLlEaeJQmSieXjocyBVOEErEMIRBt+6mrgFm3jlNxW5oMia1b5u+qAnwnC1dU8BouN3UKeS3HY+FJaHEQ34A0Y62/Cmycwr0EEETX7f7t8m2W61MLFYeXmmxX+ASmBOoedZYyQhu8EDFM22uLexQUuF9FRaTM3fSZmvV/S8dgaMPbMvV/pWlFKMhfhy7zeySs1DVPpyVKFwQhNOh6Ke/Li9bMEvwbE+aZ/GlnXDq75GLLI1xxTuqGsUZLDSOvBGymwW40g3M5oSmNqZ6u69+kw89GgvQndggrpyb3UztUHQP0cWL6oe5sVWTQltMFu3nPouHyfb5ymrIESt27GwlpRXVvfYTrh2eC0QLoSKc9AEeRd+WTGOPtkkAa/CQ==;BCdfL66GzSMjrHR1YNc3yw=="

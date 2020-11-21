@@ -1,10 +1,10 @@
 ---
 category: news
 title: "White House issues guidance for federal agencies on AI applications"
-excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ..."
-publishedDateTime: 2020-11-19T02:36:00Z
-originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
-webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
+excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide,"
+publishedDateTime: 2020-11-19T17:35:00Z
+originalUrl: "https://www.zdnet.com/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
+webUrl: "https://www.zdnet.com/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
 type: article
 quality: 67
 heat: -1
@@ -59,9 +59,9 @@ related:
         height: 220
         isCached: true
   - title: "White House issues guidance for federal agencies on AI applications"
-    excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide,"
-    publishedDateTime: 2020-11-19T17:35:00Z
-    webUrl: "https://www.zdnet.com/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
+    excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ..."
+    publishedDateTime: 2020-11-19T02:36:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
     type: article
     provider:
       name: ZDNet
@@ -73,6 +73,6 @@ related:
         height: 578
         isCached: true
 
-secured: "Mxz9v8Js4+AyVsQXHxFPivp+QehWSw43i8LBju0FwO17Ktx8rik1CP1R1hj2KH1wnhU825g+zgYYmVy+owVW3XdeGls3TjsUA/TilCTSsNCRGqa2dD1CtbaV8Xo+HO0gcFbCHeyjKmhRtHpxFVuZVzlCt1Gpo0d7VG/hc3KCjkQBOFo0iPAP/bsv+NqZ7N7tOcVRMXmm3YEDif+Mig+SGKenkkRDKwKBqi2Q/PmOy9ShaPAnx9X6GV99NMrThXVhj1zXua7M1cOTycEWcK9rUfqqXH492K1wspShR2EgYKssRnRi05WkY90up/3ILl66fM98k/ol3dR9Ga20nvrmN4hGA1FDwlOjwrzfA6j9VSIzUKcvhIgN+YZtzs7prAcP25O2Ez4Apw0Yh6717dVdjIDaQg6bsFIxu+s9H4D0fEYkcpAyCN38j42MsX3zgol6Y2n2SK8/NndCvmuhMPk+zNpYOKUF4hLRzTrsiAkD6ocK7TFODbNvCCfRz0+jhBCLpu5R9VWNdhBH4K7j/faJVA==;gdXgtNTek0r1H5bl+EYG5w=="
+secured: "W9r2RVK48D9oKxiDBNQK1a915jrvkiXJyQrMKatJekvfKmviVzY2Hd96kgk9Gw6CXhHkxGKnRPJWgFNwP/FbVlAbjPi9dJIsgVps3xWfE41rG6rAEITWnNSiyF67J7SJITU91at0YWnEodR1ylwo646HuAm9HnL+LCs2J47bpWQfzR4sL7ad/b9ZY0PUISQRe2CKpJklHUi31QVV5mWLrEx2h3gC+eaxPsdPRtSh0eMy1zzxeeVdZrsZ9N19XBbZ4FxEzDv0lcDKpv3AD7eOjFntMEK/YvPvc9oeYY/YA8fIaKoifXRv5mmdiFJP2+yfj9CW5caKxiSHQA6+7ObyGcmtCMJpmcvOU2w0IMIqoQs=;2fRV2Y7wuzQ+Ke9SKwsVjw=="
 ---
 

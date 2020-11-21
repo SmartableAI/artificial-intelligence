@@ -41,6 +41,20 @@ related:
         width: 560
         height: 420
         isCached: true
+  - title: "SAFR and VSBLTY face biometrics deployed for crowd customer safety and insights"
+    excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
+    publishedDateTime: 2020-11-17T18:55:00Z
+    webUrl: "https://www.biometricupdate.com/202011/safr-and-vsblty-face-biometrics-deployed-for-crowd-customer-safety-and-insights"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 20
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/07/28165245/facial-recognition-surveillance-crowds-scaled.jpeg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "SAFR and VSBLTY each partner to deploy face biometrics for crowd customer safety, insights"
     excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
     publishedDateTime: 2020-11-17T18:50:00Z

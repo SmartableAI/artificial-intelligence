@@ -3,8 +3,8 @@ category: news
 title: "3 rising AI/ML startups from South Korea"
 excerpt: "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,"
 publishedDateTime: 2020-11-19T09:02:00Z
-originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474"
-webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474"
+originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663222"
+webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663222"
 type: article
 quality: 66
 heat: 76
@@ -34,6 +34,6 @@ related:
       domain: techinasia.com
     quality: 66
 
-secured: "EqL80yqDs7f2Cc7s+s/zbhX43ubYwJA/UjGwiERDKpy4hS8+wcuz0ZjTXql8j6u6XNX6q4CTVtQNB4NtZ6f+wx+pOV8pvxeLYW4w+CEpagUTfI4VpnlyhtNBhQ53r7qItK1HlA+BWX0UmQDoGiyiZsDsOdYmYCvGCFbXlJ21GJUIEDBNDxPsIoffk8+TcfVxPqix7xhPylKNt/0Z4EOwtkHuR7pc9O0NHqrGTcMhg9jYqED+J0HwObkjS/0L5zuZeTQuR37mOFoA5YDvEJB47M4nyYLEi4EyB4kzNkxpz493xug1r0GJxc+u2u5brV5RvX3ebM+EV6orSzqc3lpKxbs37VmJXdp/IFW1+o0Bf9Jz2IGscqNjmPUWueR/LhaxYUGy6Mydgp4CSNMtV0cxD45Zc0zcmttJV37xgOmuwDGo01KtMVz/1mcjKLfQ1y2GL67NWzqp7/vH1+a8hzZmxYTYsOdzG/ASBXZ9nAOXbzk7CnLBJTioCaXHjt47Ymmk1+jRV+sJybrwNof/cWYAPQ==;Azh646B31tXjG/frym3rVQ=="
+secured: "z5rRlrVfqVM6heB+hHZZ4D5xDhl5DeJnTy/EBsEMfYiOWvnb65yTJ15KYtQnacMytEKIvo84AL3LtVAInnFhQpaohYOn9lTjo77U274m4o8otjgL9Knv8WlORNAqRgNjiYe7arijDkRTLfyftIQxi2zRJ1W7mwF0xLcaY3x2Hgnpteg+ZzsDhfcZ59VrDJl186sjAReBuZs7MDv5gDBBPJzHITljDmjUUi+Jp4aYqtHUMoXBSFvb3F4EgnD8u+92HUX+p6CyMzSVzkwUTkAJpqH72dU5uIp5c2xoXR5XkoguvCNoo57RT+rHt90mNY6FLFo+gR+70EGBxzJm0IW/rphBd2yJMLwxKK7U5MZV4o7QfW/g+UuMCjQ7mNxhSx22P/ddcU+KAUkAyBi01FWgWxWUVaPMfsc4Qtg5WHl6HssKRLw4z1QmI/4n8DcE/xPLOxJF1Uvk61Qc3j7n4wMcfoL1ViJpWUVq6CA79wu67EFCHkA8/cuUG2b6ckCR2qKgapslZ4BFBRXIzYDnvqRebA==;SOqLEltLVuKrTkxIWvMQGg=="
 ---
 

@@ -24,22 +24,6 @@ images:
     height: 246
     isCached: true
 
-related:
-  - title: "Megvii extends face biometric access control to five international markets"
-    excerpt: "Megvii has launched its biometric access control solution Koala to Japan, Singapore, Thailand, Brazil, and the United Arab Emirates to help enterprises improve the safety and security of their"
-    publishedDateTime: 2020-11-16T22:53:00Z
-    webUrl: "https://www.biometricupdate.com/202011/megvii-extends-face-biometric-access-control-to-five-international-markets"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 22
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/08/26141846/megvii-scaled.jpg"
-        width: 2048
-        height: 1536
-        isCached: true
-
 secured: "wGX6DKtIkcIIdqs30ziiy0ksCczKNJZsK4LvNBXd1ys8zcclZoEB5EBMj9GGk+ZZrq8ofb8TqCjdUcisaLezW6mtlKesunjsNh12S4GSJLvtf8n+xqBXH/YtlZZcupUJ+YPzm9oXgvaT/JjH/daG+SU5C1s8ktLGJzFI+ZS0F4J2xepDu8BmNXf8Wev9eqwXTPQO/OyuxrmsURVDe7wysEkBpbGvL/CZVN/ykEP16FEzqypmw2pGBT3D0YyKs39NO0ELq2rXipJNtS3dODZOXUMrnXD7P56Horzr+4h6ksqFoULT55lU/YQHa+b09uuxliGLuqJ8GnRMnctjKD3/dALaQRDRfVAwW8Px3bgrIY2RZNmfFhmJHHOKmUadu2Xa9OMSv2hcQhhBtfxuoIDwp4G7HmwnwghasTvA10F6Zx9qWOcSNxQr/c9ZP3BBe7lIJqWcUNOKCYIUKcCvHao83KAj2zcTW2gBNkRgWqodtRq1uMxkHiEVlbcSzseazo7Uj4RzBuQGesKKWnZPyZVDrg==;MM52a0ZzXb5E3Sd52HarFQ=="
 ---
 

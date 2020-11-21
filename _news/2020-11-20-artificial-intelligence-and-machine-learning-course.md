@@ -55,6 +55,20 @@ related:
         width: 770
         height: 578
         isCached: true
+  - title: "White House issues guidance for federal agencies on AI applications"
+    excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide,"
+    publishedDateTime: 2020-11-19T17:35:00Z
+    webUrl: "https://www.zdnet.com/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "mNKCNqzdoAVTF2H6soY2K8ah81Z9pDbnu0aCSVtRcoDqnqdxG2q5CXuqLgSqGpozDP8zNcfmrl00kKEsR2RwT3xhPRebqTIzzeeliXNWpYdh5qx5HrilKIPOLQlnvLYDm/nQRhyBbcpR7YNaJnv+Ute5ctyVpx5R+15+ZwW/E14xm6J8uq+ILtMgGVmhgxSmecudHKRBj7bu4hoIzPUkIidoPrwbesiXNcvglc/K2STAeX6UDda59CslrtXtGZBPdiqR3GqmNj6tyfnV5xyUYGYmo2dEdnfn6EQRrSQV9Emj0seEWhy7qwG2em9z1eCdsFmMuUij0dDfImv5gJa+MBX9x6XmLhA8j2WAhU/H1u0=;Rd6gBWfPzFrM4ntW7pXarw=="
 ---

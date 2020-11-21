@@ -7,8 +7,8 @@ originalUrl: "https://www.waste360.com/recycling/amp-robotics-partners-waste-con
 webUrl: "https://www.waste360.com/recycling/amp-robotics-partners-waste-connections-deploy-ai-guided-recycling-robots"
 type: article
 quality: 64
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Waste360
@@ -23,22 +23,6 @@ images:
     width: 1540
     height: 800
     isCached: true
-
-related:
-  - title: "Amp Robotics partners with Waste Connections"
-    excerpt: "Waste Connections plans to deploy the systems on container, fiber and residue lines across numerous material recovery facilities."
-    publishedDateTime: 2020-11-16T22:21:00Z
-    webUrl: "https://www.wastetodaymagazine.com/article/amp-robotics-partners-waste-connections-ai/"
-    type: article
-    provider:
-      name: Waste Today
-      domain: wastetodaymagazine.com
-    quality: 54
-    images:
-      - url: "http://www.wastetodaymagazine.com/fileuploads/image/2020/11/16/amp%20logo%20web.jpg?w=736&h=414&mode=crop"
-        width: 736
-        height: 414
-        isCached: true
 
 secured: "QDw1PO2KkRxmGVWgJsi1vPMJ8YfH0wuRbRgZjhmZ8yK5ODfMlCQsQEHST2ommYJcaCdIWMBD5quKfgeSSxFyCB/RkV3IncGEksE4Afi0FCrBM6c5q1pudrQAydu+rXLwe+SuFygyuZMjgreIsqb+DLVmXM+sOT6aozm0wAgL+R7Cu2u6YA1w09OUUi/ejgT73f5sDIBmepeNWsnxAeP3688krthugJkMFEB8X5VOIiUc9Rdtk8yF3+9mcYzwo1Y23Te3AD/6XZ8KnaHXU9d1B7IhClCKtWjdpaTE1MnEfpkduD+CILBRou2/PaS7h8XrcRlWQ6Bcy9x29ZonB0cLiW1zTTdwAp2Urm1mpGBbJLE=;kOuv9eNlxVyeJuSLKfuJOw=="
 ---
