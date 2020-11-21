@@ -2,6 +2,52 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
+      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
+      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-nvidias-ai-supercomputers-get-a-massive-upgrade.md",
       "title": "NVIDIA's AI Supercomputers Get a Massive Upgrade",
       "excerpt": "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs.",
@@ -1222,50 +1268,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-onevinn-ab-joins-the-microsoft-intelligent-security-association.md",
-      "title": "Onevinn AB Joins the Microsoft Intelligent Security Association",
-      "excerpt": "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "publishedDateTime": "2020-11-16T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
+      "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
+      "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
+      "originalUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/sight-tech-global-speakers3.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
+      "publishedDateTime": "2020-11-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-ghanaian-radiographers-urged-to-embrace-artificial-intelligence-systems.md",
+      "title": "Ghanaian radiographers urged to embrace artificial intelligence systems",
+      "excerpt": "The President of the Ghana Radiographers Association, Prince Rockson has advised radiographers in the country to learn to use Artificial Intelligence (AI) system in their day-to-day operations to ensure better results for their patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ghanaweb.com/imagelib/pics/552/55272218.295.jpg",
+          "width": 300,
+          "height": 235,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T08:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ghanaweb.com",
+        "domain": "ghanaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-mediatek-debuts-chips-for-budget-5g-phones-and-powerful-chromebooks.md",
       "title": "MediaTek debuts chips for budget 5G phones and powerful Chromebooks",
       "excerpt": "In 2021, the Taiwanese chipmaker will bring 5G to the most affordable phones and add advanced camera and AI features to Chromebooks.",
@@ -1089,92 +1184,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
-      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
-      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
-          "width": 639,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-us-pushes-light-regulations-for-ai-in-contrast-to-europe.md",
-      "title": "US pushes light regulations for AI, in contrast to Europe",
-      "excerpt": "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/wp-content/uploads/2020/01/GettyImages-1035331888-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "publishedDateTime": "2020-11-09T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

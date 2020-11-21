@@ -63,6 +63,20 @@ related:
         width: 450
         height: 340
         isCached: true
+  - title: "Is it time we called it “laborious intelligence”?"
+    excerpt: "Artificial intelligence is one thing above all else: a lot of work. Designed to be a never-ending competition, it generates many losers and only a few winners. Instead of artificial intelligence, we should really be talking about “laborious intelligence."
+    publishedDateTime: 2020-11-21T18:57:00Z
+    webUrl: "https://www.goethe.de/prj/k40/en/eth/lab.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 22
+    images:
+      - url: "http://www.goethe.de/resources/files/jpg967/li-key-visual_copyright_sebastianschmieg.jpg"
+        width: 1920
+        height: 829
+        isCached: true
 
 secured: "7YiEcXfoekxXxQFmvsqgruE6K8OKt5PvZxAmB1Pj8w9KBw2NEalINV/g0Zx/9CrDO+YhnIGStTvB4Fdr7aBRbGJ4r86OterlEgc8PIn6RveWF4dakJHFpVoH8+yCXshaAgNb64lK7avokUaQWeO23nJfe8F4fG3TaPD8QbxhrwQMtvra4H9K5KDHTmchnDBLvpg8NsCNn699qFuaqUfvloIkTQt6XyS4Yni3uIhZF4zFwdAKoqJg4Ludo8GOIKEE9bRdfa8nBndTnVn8tKYKOlWlfpf+SK9088xb9iOYweP8BcimqG6O973jDl59x6+glN1jMFEJgQVaKHFHNua7gW9rt+aBpJcA14JJoxbjdTs=;1RE26jUy4yyHWXMYk/bR2g=="
 ---

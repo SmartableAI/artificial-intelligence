@@ -6,11 +6,11 @@
       "title": "Rebooting AI: Deep learning, meet knowledge graphs",
       "excerpt": "Gary Marcus, a prominent figure in AI, is on a mission to instill a breath of fresh air to a discipline he sees as in danger of stagnating. Knowledge graphs, the 20-year old hype, may have something to offer there.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "webUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "originalUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -24,8 +24,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "publishedDateTime": "2020-11-20T08:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -49,8 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -62,7 +62,7 @@
       "originalUrl": "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -93,7 +93,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -209,7 +210,7 @@
       "originalUrl": "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -252,7 +253,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -502,8 +503,8 @@
       "title": "3 rising AI/ML startups from South Korea",
       "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663222",
-      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663222",
+      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea",
+      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea",
       "featuredContent": null,
       "highlight": null,
       "heat": 76,

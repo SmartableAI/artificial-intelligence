@@ -8,8 +8,8 @@ webUrl: "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-an
 ampWebUrl: "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/"
 cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/"
 type: article
-quality: 57
-heat: 77
+quality: 59
+heat: 79
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"

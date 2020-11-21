@@ -2,6 +2,92 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-10-18-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic.md",
+      "title": "WFH, online classes led to increase in Computer Vision Syndrome amid pandemic",
+      "excerpt": "This dependence on gadgets has worsened during the COVID-19 pandemic and led to increased incidents of Computer Vision Syndrome (CVS) or digital eye strain, experts warned during a webinar conducted on 'Eye health care and online practices during COVID-19'.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "originalUrl": "https://www.indiatvnews.com/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/10/pjimage-20-1603038304.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "cdnAmpWebUrl": "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/lifestyle/news-wfh-online-classes-led-to-increase-in-computer-vision-syndrome-amid-pandemic-657992",
+      "publishedDateTime": "2020-10-18T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India TV",
+        "domain": "indiatvnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-18-working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome.md",
+      "title": "Working from home? You may be at risk of developing computer vision syndrome",
+      "excerpt": "Also Read - Excessive use of mobile phones during lockdown may cause digital amnesia Watch out for the symptoms of Computer Vision Syndrome Computer vision syndrome (CVS) isn’t one specific problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/",
+      "originalUrl": "https://www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://st1.thehealthsite.com/wp-content/uploads/2020/10/computer-vision-syndrome.jpg",
+          "width": 675,
+          "height": 365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/amp/",
+      "cdnAmpWebUrl": "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/eye-health-diseases-conditions/working-from-home-you-may-be-at-risk-of-developing-computer-vision-syndrome-773803/amp/",
+      "publishedDateTime": "2020-10-18T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheHealthSite",
+        "domain": "thehealthsite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-new-experiments-reveal-why-human-like-robots-creep-us-out.md",
       "title": "New Experiments Reveal Why Human-Like Robots Creep Us Out",
       "excerpt": "Experiments reveal a dynamic process that leads to \"the uncanny valley phenomenon\" with implications for the design of robots and for understanding how we perceive one another as humans.",
@@ -1058,101 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-machine-learning-ai-in-search.md",
-      "title": "Machine Learning & AI in Search",
-      "excerpt": "Regular readers will likely wonder what more I could have to say about machine learning (ML) in search, after having written How Machine Learning In Search Works just a few months ago. Let me ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "originalUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.searchenginejournal.com/wp-content/uploads/2020/09/sej-ml-dan-featured-5f735c4c450d3.jpg",
-          "width": 1600,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "cdnAmpWebUrl": "https://www-searchenginejournal-com.cdn.ampproject.org/c/s/www.searchenginejournal.com/machine-learning-ai-in-search/382454/",
-      "publishedDateTime": "2020-10-16T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Search Engine Journal",
-        "domain": "searchenginejournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ai-localization-tool-claims-to-translate-your-words-in-your-voice.md",
-      "title": "AI localization tool claims to translate your words in your voice",
-      "excerpt": "Localization is a tricky issue for all content creators. It can take significant time and resources to make their work fully accessible to folks who speak different languages. One company thinks it has cracked part of that code with an artificial intelligence system that automatically translates speech into other languages in the same speaker’s voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "originalUrl": "https://www.engadget.com/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fe8457890-0fe0-11eb-9ad6-9785dab366ce&client=amp-blogside-v2&signature=42e2cbb5af0ac7376c4143e4322a5319d3229a26",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/resemble-ai-localize-voice-translation-artificial-intelligence-193517036.html",
-      "publishedDateTime": "2020-10-16T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

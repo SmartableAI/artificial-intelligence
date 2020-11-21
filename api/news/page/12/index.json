@@ -2,6 +2,50 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-12-ibm-amd-ink-joint-development-pact-for-security-artificial-intelligence-offerings.md",
+      "title": "IBM, AMD ink joint development pact for security, Artificial Intelligence offerings",
+      "excerpt": "This will also support a broad range of accelerators across high-performance computing (HPC), and enterprise-critical capabilities such as virtualisation and encryptions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2019/12/25/w600X390/declare_AI.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/12/ibm-amd-ink-joint-development-pact-for-security-artificial-intelligenceofferings-2222892.amp",
+      "publishedDateTime": "2020-11-12T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-power-players-meet-28-of-europes-lawmakers-activists-and-lobbyists-hashing-out-the-rules-on-everything-from-driverless-vehicles-to-net-neutrality.md",
       "title": "POWER PLAYERS: Meet 28 of Europe's lawmakers, activists, and lobbyists hashing out the rules on everything from driverless vehicles to net neutrality",
       "excerpt": "Voss has led an EU taskforce focusing on how the EU should tackle the impacts and challenges brought on by artificial intelligence. Dyann Heward-Mills is helping firms keep on top of their data ...",
@@ -643,6 +687,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-search-results-for-self-driving-vehicle.md",
+      "title": "Search Results For: self driving vehicle",
+      "excerpt": "Artificial Intelligence (AI) and autonomous driving have been developing at breakneck speeds, and that trend will only continue in the near future. Following in this trend, UK-based Imagination ...",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/search?s=self driving vehicle",
+      "originalUrl": "https://hothardware.com/search?s=self driving vehicle",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hothardware.com/hothardware-og-256.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-apples-macbook-air-with-m1-chip-everything-you-need-to-know.md",
       "title": "Apple's MacBook Air with M1 chip: Everything you need to know",
       "excerpt": "Get all the specs, new features, pricing, and availability details for Apple's first M1-powered MacBook Air laptop, and find out how it compares to the previously released Intel-based models.",
@@ -1152,103 +1239,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-artificial-intelligence-machine-learning-robotics-in-agriculture-how-the-agri-sector-is-being-redefined-by-technology-researchandmarketscom.md",
-      "title": "Artificial Intelligence, Machine Learning & Robotics in Agriculture: How the Agri Sector is Being Redefined by Technology - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence, Machine Learning & Robotics in Agriculture\" report has been added to ResearchAndMarkets.com's offering. According to estimates by the United Nations, the World will need to increase its food production by 70% to feed the ever burgeoning population by 2050.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201111005458/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201111005458/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201111005458/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-pope-francis-wants-you-to-pray-for-ethical-robots.md",
-      "title": "Pope Francis Wants You to Pray for Ethical Robots",
-      "excerpt": "There’s a lot of folks worried about the ethics and future of AI and robotics. Apparently, you can count Pope Francis among them.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
-      "originalUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/n6obkzwczadd21hddeb7.png",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
-      "publishedDateTime": "2020-11-11T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

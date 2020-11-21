@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
+      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
+      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
+          "width": 620,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "publishedDateTime": "2020-11-17T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-biomarin-and-deep-genomics-to-collaborate-on-advancing-programs-identified-using-artificial-intelligence.md",
       "title": "BioMarin and Deep Genomics to Collaborate on Advancing Programs Identified Using Artificial Intelligence",
       "excerpt": "In the collaboration, Deep Genomics will use its AI Workbench to identify and validate target mechanisms and lead candidates, and BioMarin will advance them into preclinical and clinical development.",
@@ -1142,52 +1185,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
-      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
-      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

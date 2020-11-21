@@ -2,6 +2,101 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-11-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app.md",
+      "title": "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App",
+      "excerpt": "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg",
+          "width": 300,
+          "height": 232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
+      "publishedDateTime": "2020-11-10T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-31b-valuation.md",
+      "title": "SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation",
+      "excerpt": "This year, more than ever before because of the COVID-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done and entertain themselves. That has created a huge bonanza for cybercriminals,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
+      "originalUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1174418589-1.jpg?w=1024",
+          "width": 1024,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/11/sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-3-1b-valuation/amp/",
+      "publishedDateTime": "2020-11-10T17:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-3-ways-conversational-ai-gives-your-organization-a-competitive-advantage.md",
       "title": "3 Ways Conversational AI Gives Your Organization A Competitive Advantage",
       "excerpt": "Contact centers are moving to the strategic heart of the business. Here's how the latest advances in conversational AI can help improve CSAT without increasing operational costs, plus a look how leading organizations are already seeing success with Google Cloud CCAI.",
@@ -1116,101 +1211,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
-      "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
-      "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
-      "originalUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/sight-tech-global-speakers3.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
-      "publishedDateTime": "2020-11-10T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-ghanaian-radiographers-urged-to-embrace-artificial-intelligence-systems.md",
-      "title": "Ghanaian radiographers urged to embrace artificial intelligence systems",
-      "excerpt": "The President of the Ghana Radiographers Association, Prince Rockson has advised radiographers in the country to learn to use Artificial Intelligence (AI) system in their day-to-day operations to ensure better results for their patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
-      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ghanaweb.com/imagelib/pics/552/55272218.295.jpg",
-          "width": 300,
-          "height": 235,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ghanaweb.com",
-        "domain": "ghanaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

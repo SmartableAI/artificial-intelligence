@@ -9,7 +9,7 @@ ampWebUrl: "https://pulse2.com/chooch-ai-raises-20-million/amp/"
 cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/chooch-ai-raises-20-million/amp/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -19,22 +19,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Chooch.ai, a computer vision AI startup raises more than $20 Mn"
-    excerpt: "Chooch.ai just conducted their Series A round. The round was led by many firms and partners and raised a total of $25.8 million."
-    publishedDateTime: 2020-11-17T02:33:00Z
-    webUrl: "https://techstory.in/chooch-ai-a-computer-vision-startup-raises-20-million/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 54
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2020/11/chooch.jpg"
-        width: 470
-        height: 352
-        isCached: true
 
 secured: "M5Z+JAyVMxBGv/F9ZivO9EX3ECqB+c8+mESjAeaSVVhsALxyiTFaHOkWlHYSvYgMnJh1NMl9Jsjamo4KbO5MCL/e1QLmZpJA1LpB1n/3wJG8w5CQ6xM0sWdklAUk/2i1hXGZEta1dzrM2WKszu8mXzkb6FiRGBFIpZyTgVuUyHkfNlK4QvI/xKwQypY8KL2i0kgAf7n5Av0xy39fPcv+5gCH3FOB5NRlKmExlMp4Hz3MTG/mOForU9CgicRONeiYL+Ej2dIyehBb/1fN8yW0XWD9/rCYWWMsV6jyGHCbWX+vbcOWSDKM2jnpVhMsG6O/5/iyU5D08FassmJ55oxJULvH92X/Io1gUNB4e+I3wL72na7KjA02xyMm8wHwwxdaeKw/sZ0bNmCprOKNK4SySfofoaaJBChz7OzJSNInN/9n5l8hAnEr3e/COz+PBu5eu6CEZ5vuG/+XfwK9lyAt9ONtGQEGpo6kBBcM3lCdv+Aut4Y0y0xL35KWp/Qi+bye+jsehe6pxlaLx6tP7x8EFA==;pk1fIsS17yL8psZ9ykqEeg=="
 ---

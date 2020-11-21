@@ -50,6 +50,20 @@ related:
         width: 450
         height: 340
         isCached: true
+  - title: "Is it time we called it “laborious intelligence”?"
+    excerpt: "Artificial intelligence is one thing above all else: a lot of work. Designed to be a never-ending competition, it generates many losers and only a few winners. Instead of artificial intelligence, we should really be talking about “laborious intelligence."
+    publishedDateTime: 2020-11-21T18:57:00Z
+    webUrl: "https://www.goethe.de/prj/k40/en/eth/lab.html"
+    type: article
+    provider:
+      name: Goethe
+      domain: goethe.de
+    quality: 22
+    images:
+      - url: "http://www.goethe.de/resources/files/jpg967/li-key-visual_copyright_sebastianschmieg.jpg"
+        width: 1920
+        height: 829
+        isCached: true
   - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
     excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"
     publishedDateTime: 2020-11-17T13:00:00Z

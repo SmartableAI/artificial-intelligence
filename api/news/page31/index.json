@@ -2,6 +2,109 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-28-hard-to-believe-but-artificial-intelligence-will-improve-our-worklives.md",
+      "title": "Hard To Believe, But Artificial Intelligence Will Improve Our Worklives",
+      "excerpt": "Instead of worrying about job displacement, we should get to work creating the new, high-quality jobs of tomorrow while massively expanding our upskilling and reskilling efforts to transition displaced workers into these new opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98db4a023934f0a2752617%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/27/hard-to-believe-but-artificial-intelligence-will-improve-our-worklives/amp/",
+      "publishedDateTime": "2020-10-27T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world.md",
+      "title": "Mobile Speech Recognition Software Market Research 2020: Competitive Landscape and Development Model in Different Regions of The World",
+      "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Mobile Speech Recognition Software Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world-2020-10-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world-2020-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T21:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-with-industrial-robots-easier-than-ever-to-program-how-do-our-attitudes-toward-automation-adapt.md",
       "title": "With Industrial Robots Easier Than Ever To Program, How Do Our Attitudes Toward Automation Adapt?",
       "excerpt": "Whether it's which tasks we can automate, the cost and time necessary for robot automation or how workers can contribute, the rise of easy-to-program robots forces us to rethink our assumptions and strategies for robotic automation.",
@@ -1122,93 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-eagle-genomics-closes-9m-funding-round.md",
-      "title": "Eagle Genomics Closes $9M Funding Round",
-      "excerpt": "The platform harnesses the latest graph technology, and Microsoft’s advanced machine learning and cognitive services. Eagle Genomics became Microsoft Genomics’ first microbiome partner in 2018.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2020/10/eagle-genomics-closes-9m-funding-round.html",
-      "originalUrl": "https://www.finsmes.com/2020/10/eagle-genomics-closes-9m-funding-round.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2020/10/eagle-genomics.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:12:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes.com",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions.md",
-      "title": "The Evolving World of FinTech, Robo, AI, ML, Data, Analytics & Digital Solutions",
-      "excerpt": "Hubbis Digital Dialogue delved deeply and intently into the growth of the influence of FinTech in Asia and at the universe of digital solutions being promoted and rolled out across the region’s offshore and onshore wealth management markets,",
-      "sourceUrl": null,
-      "webUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "originalUrl": "https://hubbis.com/article/the-evolving-world-of-fintech-robo-ai-ml-data-analytics-digital-solutions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-ap-southeast-1.amazonaws.com/img.hubbis.com/home_middle_optimiser/img/article/cropped/5dadb5afdf30baed67f92c3ff22886d3f565c54c.jpg",
-          "width": 480,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hubbis",
-        "domain": "hubbis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

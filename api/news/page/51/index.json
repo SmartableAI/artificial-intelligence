@@ -2,6 +2,93 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-10-14-deep-learning-artificial-intelligence-keeps-an-eye-on-volcano-movements.md",
+      "title": "Deep learning artificial intelligence keeps an eye on volcano movements",
+      "excerpt": "RADAR satellites can collect massive amounts of remote sensing data that can detect ground movements—surface defomations—at volcanoes in near real time. These ground movements could signal impending volcanic activity and unrest;",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
+      "originalUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/35-deeplearning.jpg",
+          "width": 730,
+          "height": 456,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-10-deep-artificial-intelligence-eye-volcano.amp",
+      "publishedDateTime": "2020-10-14T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-google-launches-autonomous-robot-to-analyse-farms-with-artificial-intelligence.md",
+      "title": "Google launches autonomous robot to analyse farms with artificial intelligence",
+      "excerpt": "Google has launched an autonomous robot which uses artificial intelligence to monitor crops. Powered by solar panels, the buggy travels through crops using cameras and sensors to predict agricultural yields and help farmers decide how much pesticide and fertiliser to use.",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/",
+      "originalUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/environment/2020/10/14/alphabet_trans_NvBQzQNjv4BqEo7ukXPj3dSVEb29e9SgAAI0OcPg6ShMBBRXr6oDkZQ.jpg",
+          "width": 701,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/environment/2020/10/14/google-launches-autonomous-robot-analyse-farms-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-10-14T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-espressive-barista-understands-13-billion-employee-language-phrases-out-of-the-box-bridging-gap-between-ai-and-the-semantics-of-human-language.md",
       "title": "Espressive Barista Understands 1.3 Billion Employee Language Phrases Out-of-the-Box, Bridging Gap Between AI and the Semantics of Human Language",
       "excerpt": "Espressive, a pioneer in artificial intelligence (AI) for enterprise service management (ESM) and a 2019 Gartner Cool Vendor, today announced its AI-based virtual support agent, Espressive Barista, now understands 1.",
@@ -1074,102 +1161,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of-thats-debatable.md",
-      "title": "IBM Watson Demonstrates New Natural Language Processing Advancement in Premiere of \"That's Debatable\"",
-      "excerpt": "ARMONK, N.Y., Oct. 12, 2020 /PRNewswire/ -- In the debut episode of \"That's Debatable\" on Bloomberg Television, IBM Watson used a new advancement in natural language processing (NLP) from IBM ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of-thats-debatable-301150402.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-watson-demonstrates-new-natural-language-processing-advancement-in-premiere-of-thats-debatable-301150402.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.multivu.com/players/English/8668653-ibm-watson-thats-debatable-premiere/video/KeyPointAnimation_1602517453727-HR.jpg",
-          "width": 638,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-apple-unveils-99-homepod-mini-with-u1-proximity-chip.md",
-      "title": "Apple unveils $99 HomePod mini with U1 proximity chip",
-      "excerpt": "The HomePod mini is Apple's second smart speaker, and uses the U1 chip for communicating with nearby Apple devices.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/",
-      "originalUrl": "https://venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/homepod-mini.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/13/apple-unveils-99-homepod-mini-with-u1-proximity-chip/amp/",
-      "publishedDateTime": "2020-10-13T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

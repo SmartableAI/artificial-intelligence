@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Australian DoD announces funding for geospatial‑intelligence"
-excerpt: "Australian Department of Defence (DoD) has announced funding to support the production of geospatial‑intelligence products for government and defence customers. Defence intelligence agency Australian Geospatial-Intelligence Organisation (AGO) has partnered with a not-for-profit company from Victoria,"
-publishedDateTime: 2020-11-17T11:50:00Z
-originalUrl: "https://www.airforce-technology.com/news/australian-dod-announces-funding-for-geospatial‑intelligence/"
-webUrl: "https://www.airforce-technology.com/news/australian-dod-announces-funding-for-geospatial‑intelligence/"
+title: "Is it time we called it “laborious intelligence”?"
+excerpt: "Artificial intelligence is one thing above all else: a lot of work. Designed to be a never-ending competition, it generates many losers and only a few winners. Instead of artificial intelligence, we should really be talking about “laborious intelligence."
+publishedDateTime: 2020-11-21T18:57:00Z
+originalUrl: "https://www.goethe.de/prj/k40/en/eth/lab.html"
+webUrl: "https://www.goethe.de/prj/k40/en/eth/lab.html"
 type: article
 quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Airforce Technology
-  domain: airforce-technology.com
+  name: Goethe
+  domain: goethe.de
 
 topics:
   - AI
 
 images:
-  - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2020/06/ARMY-targetscoring-unique2-450x340-1.jpg"
-    width: 450
-    height: 340
+  - url: "http://www.goethe.de/resources/files/jpg967/li-key-visual_copyright_sebastianschmieg.jpg"
+    width: 1920
+    height: 829
     isCached: true
 
 related:
@@ -49,19 +49,19 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Is it time we called it “laborious intelligence”?"
-    excerpt: "Artificial intelligence is one thing above all else: a lot of work. Designed to be a never-ending competition, it generates many losers and only a few winners. Instead of artificial intelligence, we should really be talking about “laborious intelligence."
-    publishedDateTime: 2020-11-21T18:57:00Z
-    webUrl: "https://www.goethe.de/prj/k40/en/eth/lab.html"
+  - title: "Australian DoD announces funding for geospatial‑intelligence"
+    excerpt: "Australian Department of Defence (DoD) has announced funding to support the production of geospatial‑intelligence products for government and defence customers. Defence intelligence agency Australian Geospatial-Intelligence Organisation (AGO) has partnered with a not-for-profit company from Victoria,"
+    publishedDateTime: 2020-11-17T11:50:00Z
+    webUrl: "https://www.airforce-technology.com/news/australian-dod-announces-funding-for-geospatial‑intelligence/"
     type: article
     provider:
-      name: Goethe
-      domain: goethe.de
+      name: Airforce Technology
+      domain: airforce-technology.com
     quality: 22
     images:
-      - url: "http://www.goethe.de/resources/files/jpg967/li-key-visual_copyright_sebastianschmieg.jpg"
-        width: 1920
-        height: 829
+      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2020/06/ARMY-targetscoring-unique2-450x340-1.jpg"
+        width: 450
+        height: 340
         isCached: true
   - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
     excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"
@@ -78,6 +78,6 @@ related:
         height: 445
         isCached: true
 
-secured: "xgM5bToYyVeRIXefGyqINhGu9dE2tky7ExJKQoU6b2GyrqvVqEq8W/HeenUXr+gZw7GiSow2oF+e7c70BNz8oHUOhRYtuTX1AMtOI4/Qa6vOSk02FsuGmQ4PyMWAdz6QEpGrzcWm6h9Ac1510EpN7V4Lmhm3o/DfZKSVqGjZfJSGO8C9krPWrUO33qnO0wOAUrnwy3kRMma4WwU1ujyK11KAFvlhGhFBGAEM6jv/56vdJ4p4jbn885X602y/FqN2CJ99qmk87eIr4j3yAb/hX09lHWx4ZlxfiFslP6XOvuOtMzgZnQ/2I0zmoBne8+D0Dlb3t/X9iWpsShcS+X022Xjs+pXdLkuKLIwoRsq6hPI=;6LAuk8zJBzTc5gzpq81q2Q=="
+secured: "elEEwRRIEV4ifGcwhENRWmDCghVr9TgwVvV7tBJUF++XAAkfQmTYIxpEeeWntZidkn4SkZW/51kbw2jtlA1Kui8m7XdpEVlKGV6pg+Jz9af7lUglN0cqv/k8SKOUduk0DJxEvVN/y5ck1MAZjCIrnOgLvum1dgogRW1nk16sVnjDmFt3pEukZ++J4MGP25PCW3cP4muS7xEw7uToh7IBexvSt6Xr6wHbT2OqCVvIBSZr4d+GSft3zpG4fARsijOGqBue8WG7FAh5/HxSxYKR4wEh5OhoZyuOMydaBhQ7jsII8JCX0JmziKqpC5ZHglj3bguAIFNr2xSoxxGVsyObavXJn2mDt1uQ9yl16QSASZ4=;WGZo9lLy6Y9zwRK3OrF5xQ=="
 ---
 

@@ -37,7 +37,7 @@ related:
     provider:
       name: IOT Business News
       domain: iotbusinessnews.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
         width: 800

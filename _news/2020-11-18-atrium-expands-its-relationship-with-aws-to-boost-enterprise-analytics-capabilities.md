@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Rela
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 93
+published: true
 
 provider:
   name: Business Insider
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "HUAWEI CLOUD Named a Leader in Predictive Analytics and Machine Learning"
-    excerpt: "HUAWEI CLOUD was listed in the Leaders segment based on its scores in current offering and strategy, according to The Forrester Wave™: Predictive Analytics and Machine Learning in China, Q4 2020 report."
-    publishedDateTime: 2020-11-17T02:26:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 68
   - title: "Future of Healthcare Data & Analytics"
     excerpt: "helping to create and launch Healthcare NExT, Microsoft’s incubator at the intersection of artificial intelligence and healthcare. Prior to his current role, Mr. Cox led incubation efforts for Microsoft’s corporate strategy organization, responsible ..."
     publishedDateTime: 2020-11-19T01:26:00Z
@@ -47,6 +36,20 @@ related:
     quality: 39
     images:
       - url: "https://cdn.bisnow.net/assets/webinars/bisnow-webinars-400x300.jpg"
+        width: 400
+        height: 300
+        isCached: true
+  - title: "Mayo Clinic inks data analytics partnership with AI-powered telehealth startup"
+    excerpt: "Mayo Clinic formed a new collaboration focused on expanding clinical data analytics with K Health, a startup offering patients an artificial intelligence-powered symptom checker and telehealth consultations with primary care physicians,"
+    publishedDateTime: 2020-11-18T22:36:00Z
+    webUrl: "https://www.beckershospitalreview.com/data-analytics/mayo-clinic-inks-data-analytics-partnership-with-ai-powered-telehealth-startup.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 33
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
         width: 400
         height: 300
         isCached: true

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 98
+heat: 99
 published: true
 
 provider:
