@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-m
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

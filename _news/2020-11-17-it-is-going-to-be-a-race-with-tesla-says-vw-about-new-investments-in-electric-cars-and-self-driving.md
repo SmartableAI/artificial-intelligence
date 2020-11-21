@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-ca
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -79,17 +79,6 @@ related:
         width: 1851
         height: 853
         isCached: true
-  - title: "Uber (UBER) is Reportedly Looking to Sell Self-Driving Unit"
-    excerpt: "Per a TechCrunch report, Uber Technologies UBER is in talks with Aurora Innovation, a self-driving technology startup, to sell its self-driving unit Advanced Technologies Group or ATG. Going by the data,"
-    publishedDateTime: 2020-11-16T17:25:00Z
-    webUrl: "https://www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16"
-    ampWebUrl: "https://www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-is-reportedly-looking-to-sell-self-driving-unit-2020-11-16?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
     excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
     publishedDateTime: 2020-11-17T14:04:00Z

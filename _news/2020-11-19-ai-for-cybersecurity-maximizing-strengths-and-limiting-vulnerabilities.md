@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/360010"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360010"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "What enterprise CISOs need to know about AI and cybersecurity"
+    excerpt: "Enterprise security is like guarding a fortress that is being attacked on all fronts, from digital infrastructure to network endpoints."
+    publishedDateTime: 2020-11-19T08:20:00Z
+    webUrl: "https://venturebeat.com/2020/11/18/what-enterprise-cisos-need-to-know-about-ai-and-cybersecurity/"
+    ampWebUrl: "https://venturebeat.com/2020/11/18/what-enterprise-cisos-need-to-know-about-ai-and-cybersecurity/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/what-enterprise-cisos-need-to-know-about-ai-and-cybersecurity/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/binary-2175285-1.jpg?w=1200&strip=all"
+        width: 1200
+        height: 607
+        isCached: true
   - title: "Pioneer in Deep Learning Cybersecurity Deep Instinct Adds Board Advisors Mark Anderson and John Spiliotis as Growth Accelerates and Company Expands Worldwide"
     excerpt: "NEW YORK--(BUSINESS WIRE)--Deep Instinct, the first and only cybersecurity company to apply end-to-end deep learning to predict, identify, and prevent cyberattacks, today announced that Mark Anderson and John Spiliotis have been appointed advisors to its ..."
     publishedDateTime: 2020-11-19T14:39:00Z

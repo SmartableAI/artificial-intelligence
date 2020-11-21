@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-late
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "AI Startup Deep Vision Powers AI Innovation at the Edge"
-    excerpt: "Deep Vision exits stealth mode and launches its ARA-1 inference processor to enable the creation of new world AI vision applications at the edge. The processors provide the optimal balance of compute,"
-    publishedDateTime: 2020-11-16T17:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201116005319/en/AI-Startup-Deep-Vision-Powers-AI-Innovation-at-the-Edge"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 37
-    images:
-      - url: "https://mms.businesswire.com/media/20201116005319/en/838975/23/logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Deep Vision launches AI processor with novel data architecture for edge biometrics"
     excerpt: "A startup called Deep Vision has emerged with a new AI processor with novel chip design that is better suited to edge biometric applications like Smart Cities and Smart Retail where lower energy"
     publishedDateTime: 2020-11-16T22:22:00Z

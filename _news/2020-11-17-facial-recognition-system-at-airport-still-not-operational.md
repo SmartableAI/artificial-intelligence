@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.whec.com/articles/facial-recognition-system-at-airport-s
 cdnAmpWebUrl: "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html"
 type: article
 quality: 74
-heat: 154
+heat: 155
 published: true
 
 provider:

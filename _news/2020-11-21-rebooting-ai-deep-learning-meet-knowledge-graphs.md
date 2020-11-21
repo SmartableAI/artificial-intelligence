@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

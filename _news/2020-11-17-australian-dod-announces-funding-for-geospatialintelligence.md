@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
-    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-301174478.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
-    images:
-      - url: "https://mma.prnewswire.com/media/1336395/Interface_Allied_solutions_Logo.jpg?p=facebook"
-        width: 849
-        height: 445
-        isCached: true
 
 secured: "xgM5bToYyVeRIXefGyqINhGu9dE2tky7ExJKQoU6b2GyrqvVqEq8W/HeenUXr+gZw7GiSow2oF+e7c70BNz8oHUOhRYtuTX1AMtOI4/Qa6vOSk02FsuGmQ4PyMWAdz6QEpGrzcWm6h9Ac1510EpN7V4Lmhm3o/DfZKSVqGjZfJSGO8C9krPWrUO33qnO0wOAUrnwy3kRMma4WwU1ujyK11KAFvlhGhFBGAEM6jv/56vdJ4p4jbn885X602y/FqN2CJ99qmk87eIr4j3yAb/hX09lHWx4ZlxfiFslP6XOvuOtMzgZnQ/2I0zmoBne8+D0Dlb3t/X9iWpsShcS+X022Xjs+pXdLkuKLIwoRsq6hPI=;6LAuk8zJBzTc5gzpq81q2Q=="
 ---
