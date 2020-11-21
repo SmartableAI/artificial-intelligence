@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Advanced AI to manage your home appliances soon"
-    excerpt: "Deep learning -- advanced Artificial Intelligence (AI) which is involved with heavy-duty tasks like ... networks to new -- and much smaller -- places, like the tiny computer chips in wearable medical devices, household appliances, and the 250 billion ..."
-    publishedDateTime: 2020-11-16T14:53:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/advanced-ai-to-manage-your-home-appliances-soon-170648"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 39
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1462618600.jpg"
-        width: 810
-        height: 431
-        isCached: true
 
 secured: "+HTzAXfwEr3oSVT0RsF9CDGCPZ6s+i8eG6paLoL8ajVmTZG02iYljSQxL8pxyupYfw0L+/P676XnQ+eQB4sdd0nLmwRbUBbiRGmFqDTItwr1h0yeD8w/lB1RZITJIdnbQXbp9lWiEGz+BsuduHyTaqWFmg9WzAdXKB40e9zaBfo6IwZKJ1rPTu38Jidm8vbZGkN2dDydEkJvui4jA8gZNhB1FQPxP4MlgnNwzvxpSSs/xX+hIdbALTDvwZWQbk2huZ6Cte2M5xS68+h52fPn1egXfpoLjQB53M3qZnhlpH4N4vW9Dd09W1VTKNSCv2BAFjbDAkBTuFNJgAXJGpvEnKGMT/Rbi55j89QkH1N7ycsChI5BTSd3jtPzHqUHcxpcj5MGRnvV3Hg9B4HS2wT9zBxoRNycDgcG1Qp/f3dXIqSPXtqBXbHzi7jPjSLIxxEMJcEbe4BzyuIK0DSmdupV0mj9Dvm8aB2s2S+Q0cd2HEeB5Dqgm1rAUYLHayD8n8KtTz7kgQ5/HMPYx+TN1mBN2A==;g479eA10QB2voQ/tXysitg=="
 ---

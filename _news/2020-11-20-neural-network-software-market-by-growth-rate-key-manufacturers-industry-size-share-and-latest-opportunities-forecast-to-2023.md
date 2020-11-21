@@ -115,6 +115,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2020-11-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
     excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
     publishedDateTime: 2020-11-19T16:55:00Z

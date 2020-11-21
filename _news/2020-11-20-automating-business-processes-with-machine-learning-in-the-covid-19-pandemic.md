@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 1024
         height: 574
         isCached: true
-  - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
-    excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
-    publishedDateTime: 2020-11-16T14:06:00Z
-    webUrl: "https://insidebigdata.com/2020/11/16/the-future-of-artificial-intelligence-in-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "BAn8Wle1LKNweK7FdtkhJjSFNzkQirfAJbraJaIqgqcp4cpshAsP4R3FvMfgIRvnbXRszOZneAt9PhZNpqle5V2ZdG1JgCwTwQ/KXI41pt7oPhHLuY3O0COFTEQfipVQZOcfN3SLazlHzjeKfCPnUc6r/f7wcnX6RolgFklJuSaOEHJ/V5t8pdJ5yWBdlqk8sw38nFcNnPbwNEwqzw7BG4dKc0+UKeK/6QlbvnyY694avSlqaRVfXF+0P+73C7wKSOVFvY3SoXSOWV/Z2gXMySSFFzY8hMwxflUwRY4UO4e5YW3kZzAtELHvQPQffa/L7uL6N52v7eQrUT0UM4y4UL31UixSFDgDw2BYp5T+GZ0=;98u9Cj6R80GDV1G06TmRRQ=="
 ---

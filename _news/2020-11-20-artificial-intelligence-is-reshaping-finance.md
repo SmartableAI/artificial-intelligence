@@ -3,8 +3,8 @@ category: news
 title: "Artificial intelligence is reshaping finance"
 excerpt: "Instead, the German tie-up’s real significance is as a tiny, but unusually visible, sign of a feverish race under way at banks and tech companies to find ways to use big data and artificial intelligence in finance."
 publishedDateTime: 2020-11-19T16:10:00Z
-originalUrl: "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
-webUrl: "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
+originalUrl: "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title"
+webUrl: "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title"
 ampWebUrl: "https://amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
 type: article
@@ -37,6 +37,6 @@ related:
       domain: finextra.com
     quality: 19
 
-secured: "gfaiwVmTXESeuCWvN1x5EUGb6KtEQY0cYQ1cWXkDhw0iBIPGAyCfjd7h4xp9kYX4h5tNs4WEKamMxxdcQH809+JVHXkDKKtapTi8eG8CvHPlErtr+g8annyo4SWejF374snT2qUllKK7tsiD5vOlpluO6ApCaC6f9lEdn7VVnDv9+i2xbKBE2Q4TJ0Qa7AzaH0x1MPYNb4Ck3yuVSLt/zfD8CcJpN/7bx3MmxjEcTAWZ5T9DVDRe4h0XDhBwz6PLDrxNQjIbbjwXNgALDvPl/527a6uGTRwgpOEVJSxm64X2/nyAV2qeAm5uWeUDuCSvr7MQ4ZOZ2QLCAasJL0sXtgeJLSsLwrvegQTklzxnLjcDKK+fxlVWqaynWMApudoGuSPANqjhGR8agZZgrJn21nVpFKlNEJyZtpus7u9ftUiAvecVelk82lcIev+tAYNtq/qFsogfhbbmHPsClh/pF/PdklDSegwCQTztATJ6nQPeE1Ssb78Q60eydiTzheSFYFVxvbFJHkHc4O9zc73n3A==;WY+Ssqsmiw2BnsPLyqbnrQ=="
+secured: "5CnzK5J4gai8Ky4++POAFz3Hj1DNpbdP2Thgf2qZgiEH0Z6ER3oBtK/L7++DDkCCgrqzQmRLU/oEsqjGmjZps6KP8iOZKMNSnjNoX8zj9jLXC/P46hQe5DM2V5gq3FHBEtBkNthttbaV0vj+B4vl9WkK3uCO1Tqnh18Bgs8IHefE81oOMKa73D66EEjni+9kXqnrKPfL0aSPSxG7RPQvtkvNchBm6XtMiKezZBc1ImrbcvX0pvt8/fENFoq2UdsOS1Yvtwr8UUucM5l5w7Q5zcgChmqAhkUiVZF2CfAJtAyVsfZyEF03et/yzHDj+pus0qxXq06MgAluLDxL3RgUnGnLDkllif8bmH49GcR+nH0=;t34H75mHR78wJlC2lZ5iqQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Fo
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
 type: article
 quality: 71
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Applying machine learning to making mechanical parts"
-    excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
-    publishedDateTime: 2020-11-16T14:11:00Z
-    webUrl: "https://www.controleng.com/articles/applying-machine-learning-to-making-mechanical-parts/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/11/CTL2011_WEB_IMG_Purdue_MachineLearning.jpg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "pDjZyj9+IHbCR2OUt255oCdl2un54xqZQVgI2lgk3K3rCIVSpiEzKfl1PxgGuAjiwm77Ldwo2DhjECe4RZYf1zbzWRhMsxJLqTAErD3b+IUAnSSNLtekhWLEv60GNEuAtjgcRe5y9VYXYm1IG2XvT3xMIKEZdEr/a3hhnE8lmsT06xBgobRi0YZe6c2muPjENtXsB6O9jrLJPfgJYL4JBVzf43boI3e90Fo0bKxHX9B/wgPQcyJbYpdvnLNTAVgal0ZCKdob52oagdY879jo7gIvcPRumE1ld/Zk103SmT8LZ/qZ9ORyqydzaNaFuJ/+UmLEfH8AQ6pHYg4KulMe3XQ3JYeKdaxyD75Kz3zmSOw=;SnJ5RBcvGxPwKYzhsg6dGA=="
 ---

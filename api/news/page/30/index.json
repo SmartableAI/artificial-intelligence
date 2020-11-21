@@ -2,40 +2,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_news/2020-10-28-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript.md",
-      "title": "Microsoft Corporation (MSFT) CEO Satya Nadella on Q1 2021 Results - Earnings Call Transcript",
-      "excerpt": "They can build advanced AI models using Azure Machine Learning to identify trends and predict outcomes. And with Power BI, anyone in an organization can access these insights and build custom ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
-      "originalUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-28-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
       "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
       "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ...",
@@ -1188,6 +1154,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go.md",
+      "title": "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go",
+      "excerpt": "Another day, another reminder that no one actually has a self-driving car, regardless of the misleading names used for some advanced driver assistance systems. Tesla rolled out its \"Full Self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
+      "originalUrl": "https://www.thedrive.com/tech/37282/tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.thedrive.com/wp-content/uploads/2020/10/oop_970x546.jpg?quality=85",
+          "width": 1940,
+          "height": 1092,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

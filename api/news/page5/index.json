@@ -640,58 +640,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-exadel-announced-the-release-of-compreface-an-open-source-facial-recognition-application.md",
-      "title": "Exadel announced the release of CompreFace, an open-source facial recognition application",
-      "excerpt": "CompreFace is an open-source facial recognition application by Exadel that can be integrated as a standalone service or deployed via the cloud.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/42128/",
-      "originalUrl": "https://sdtimes.com/ai/42128/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe.md",
       "title": "New EU-funded project will use AI to capture the key scents of historical Europe",
       "excerpt": "The Odeuropa team will use AI to extract information about smells from historical documents and images — and then recreate the scents.",
@@ -1154,7 +1102,7 @@
       "originalUrl": "https://www.waste360.com/recycling/amp-robotics-partners-waste-connections-deploy-ai-guided-recycling-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -1185,6 +1133,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid.md",
+      "title": "Pairing AI With Human Judgment Is Key To Avoiding 'Mount Stupid'",
+      "excerpt": "Just as humans can use time and experience to build both our competence and confidence, so too can machines — but much, much faster.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
+      "publishedDateTime": "2020-11-17T06:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

@@ -28,49 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "9 Key Issues To Consider When Operationalize AI For Enterprises"
-    excerpt: "This year, large corporations in the financial industry are operationalizing their AI initiatives despite the challenges from the Covid-19 pandemic."
-    publishedDateTime: 2020-11-16T14:46:00Z
-    webUrl: "https://www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/"
-    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/11/16/9-key-issues-to-consider-when-operationalize-ai-for-enterprises/amp/"
+  - title: "SimpleMachines unveils high performance chip for AI and ML applications"
+    excerpt: "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,"
+    publishedDateTime: 2020-11-17T00:20:00Z
+    webUrl: "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 75
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb29080bdc43adcb3f521b6%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas"
+        width: 375
+        height: 250
         isCached: true
-  - title: "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento"
-    excerpt: "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is"
-    publishedDateTime: 2020-11-19T23:26:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/"
+  - title: "Artificial intelligence and machine learning course"
+    excerpt: "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning."
+    publishedDateTime: 2020-11-20T01:36:00Z
+    webUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+    ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
+    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 74
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg"
-        width: 727
-        height: 630
-        isCached: true
-  - title: "Ternium Expands Adoption of Falkonry Operational AI for Steel Predictive Operational Excellence"
-    excerpt: "Ternium, Latin America’s leading steel producer has developed, validated and industrialized a Predictive Operational Excellence solution using the Falkonry Operational AI suite to reduce planned and unplanned downtime across steel production operations."
-    publishedDateTime: 2020-11-20T09:25:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-business-materials-industry-base-metals-industry-steel-manufacturing-410be4da04fb42fe9e1da6668b1a578f"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg"
+        width: 330
+        height: 220
         isCached: true
 
 secured: "Mxz9v8Js4+AyVsQXHxFPivp+QehWSw43i8LBju0FwO17Ktx8rik1CP1R1hj2KH1wnhU825g+zgYYmVy+owVW3XdeGls3TjsUA/TilCTSsNCRGqa2dD1CtbaV8Xo+HO0gcFbCHeyjKmhRtHpxFVuZVzlCt1Gpo0d7VG/hc3KCjkQBOFo0iPAP/bsv+NqZ7N7tOcVRMXmm3YEDif+Mig+SGKenkkRDKwKBqi2Q/PmOy9ShaPAnx9X6GV99NMrThXVhj1zXua7M1cOTycEWcK9rUfqqXH492K1wspShR2EgYKssRnRi05WkY90up/3ILl66fM98k/ol3dR9Ga20nvrmN4hGA1FDwlOjwrzfA6j9VSIzUKcvhIgN+YZtzs7prAcP25O2Ez4Apw0Yh6717dVdjIDaQg6bsFIxu+s9H4D0fEYkcpAyCN38j42MsX3zgol6Y2n2SK8/NndCvmuhMPk+zNpYOKUF4hLRzTrsiAkD6ocK7TFODbNvCCfRz0+jhBCLpu5R9VWNdhBH4K7j/faJVA==;gdXgtNTek0r1H5bl+EYG5w=="

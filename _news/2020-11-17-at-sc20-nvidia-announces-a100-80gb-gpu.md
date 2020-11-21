@@ -57,52 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box"
-    excerpt: "SC20--NVIDIA today announced the NVIDIADGX Station (TM) A100-- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
-    publishedDateTime: 2020-11-16T14:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "NVIDIA A100 Ampere GPU Launches With Massive 80GB HBM2e For Data Hungry AI Workloads"
-    excerpt: "Just six months after NVIDIA launched its A100 Ampere GPU, there is an upgraded version with double the memory, and it's faster to boot."
-    publishedDateTime: 2020-11-16T13:52:00Z
-    webUrl: "https://hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
-    ampWebUrl: "https://amp.hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/nvidia-ampere-a100-80gb-gpu"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 67
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53426/content/small_ampere_a100_80GB.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "Nvidia Doubles Down on AI Supercomputing"
-    excerpt: "A100 GPUs get double the memory with 80GB HBM2e for server, DGX, and appliances while Nvidia/Mellanox announce NDR"
-    publishedDateTime: 2020-11-16T14:03:00Z
-    webUrl: "https://www.nextplatform.com/2020/11/16/nvidia-doubles-down-on-ai-supercomputing/"
-    ampWebUrl: "https://www.nextplatform.com/2020/11/16/nvidia-doubles-down-on-ai-supercomputing/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/16/nvidia-doubles-down-on-ai-supercomputing/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 59
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/A100_FEat-1024x414.jpg"
-        width: 1024
-        height: 414
-        isCached: true
   - title: "NVIDIA's new DGX Station A100: 4 x GPUs with 320GB of HBM2e total"
     excerpt: "NVIDIA announces new DGX Station A100 can pack 4 x GPUs with 80GB HBM2e each... 320GB of HBM2e memory with 1.53TB/sec bandwidth."
     publishedDateTime: 2020-11-18T07:44:00Z
@@ -118,20 +72,6 @@ related:
       - url: "https://static.tweaktown.com/news/7/6/76262_07_nvidias-new-dgx-station-a100-4-gpus-with-320gb-of-hbm2e-memory.png"
         width: 620
         height: 348
-        isCached: true
-  - title: "NVIDIA Announces A100 80GB GPU for AI Supercomputing"
-    excerpt: "SC20—NVIDIA today unveiled the NVIDIA A100 80GB GPU — the latest innovation powering the NVIDIA HGX AI supercomputing platform — with"
-    publishedDateTime: 2020-11-16T14:42:00Z
-    webUrl: "https://www.hpcwire.com/off-the-wire/nvidia-announces-a100-80gb-gpu-supercharging-worlds-most-powerful-gpu-for-ai-supercomputing/"
-    type: article
-    provider:
-      name: HPCwire
-      domain: hpcwire.com
-    quality: 54
-    images:
-      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia_SC20_NDR-400-InfiniBand-405x228.png"
-        width: 405
-        height: 228
         isCached: true
   - title: "Nvidia doubles the memory of its A100 GPU for AI workloads"
     excerpt: "Nvidia Corp. is widely held to be the leader in powering artificial intelligence workloads, but it’s refusing to rest on its laurels. Today it said that it has supercharged what is already the world’s fastest graphics processing unit,"
@@ -174,20 +114,6 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Nvidia-A100-80GB-GPU_605x.png"
         width: 605
         height: 446
-        isCached: true
-  - title: "Nvidia Announces A100 80GB GPU"
-    excerpt: "Nvidia today unveiled the A100 80GB GPU for the Nvidia HGXTM AI supercomputing platform with twice the memory of its predecessor. The new chip with HBM2e doubles the A100 40GB GPU’s high-bandwidth memory to 80GB and delivers more than 2TB/sec of memory bandwidth,"
-    publishedDateTime: 2020-11-16T14:02:00Z
-    webUrl: "https://insidehpc.com/2020/11/nvidia-announces-a100-80gb-gpu/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 39
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/10/Nvidia-logo-1020.jpg"
-        width: 500
-        height: 281
         isCached: true
   - title: "NVIDIA Introduces Powerful New Data Center GPU"
     excerpt: "NVIDIA unveiled the NVIDIA A100 80GB GPU-the latest innovation powering the NVIDIA HGX AI supercomputing platform-with twice the memory of its predecessor, providing researchers and engineers the performance tools to unlock the next wave of AI and scientific breakthroughs."

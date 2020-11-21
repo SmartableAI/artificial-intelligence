@@ -2,27 +2,25 @@
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
 excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-publishedDateTime: 2020-11-18T05:04:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+publishedDateTime: 2020-11-18T15:15:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
 type: article
-quality: 54
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
-    width: 1440
-    height: 960
-    isCached: true
 
 related:
   - title: "The human brain inspires RMIT researchers to develop a light-powered AI chip"
@@ -70,6 +68,6 @@ related:
         height: 3456
         isCached: true
 
-secured: "C5jE8s3rf19m1vw3rg8RGNtNA3IIXceghmzbBvEVEtl6sh/vGiYmb3LE3ibWoGAXflZpkb0MmfEU9mA1F51l0KSUDz2k+dXfKAeRHyMG45jYq+iEF18VHDeDfUEcQVuWH22NK5zMlWM6FHSHcSdLGzuTxosCvP/wO1yS0+phb0tj1N+fQnbvG74RGKuRzHLyKBU7j1lKiQOIiLpEQRC5aXU9HnXeqSWPSOVwyquZepeTUrtPiMqBRF0A9neiclJf2Tn1nmEIA5vILD6yrORSSqJ5nYTfTjX3Vc1+czjSFozTpk4XfZ3V+XF7bvL42nv9xapMlWqZizuPNu/5FfrLaM8Gz1sk957gGmOSJmoRWs3y/bZNzMQp6a/CqDB5m5XQNUMoUly1xNHjfu/hqd214RQzQ9ndz8GCn3cgy1Q/Ckd8xCT6l6aYTYH4j09abTn6vzzVsNKF/GjPzIUA7czUfD1eXiFZlMgaGW114sRp9loVGz+/ahxvinWY6AK5NfDyMRqJCgnBNWwO1tg2m68BXg==;zzftWCkTgVm8qJN5lCOB3w=="
+secured: "TH3hXfPv3V/XckTkW4CX1FNYaTZ6jCzp8anv7kgXDA9kXJjbubU0HK8PA36LbnpkOXvOpG9JuApcz8Wh/kS9h8r4uQH2kSAuCAKYN27eRqjgt8TIJ3aOuBT2VHr7dy4+Y3zfF+UcdHx4XRQ60GZ2XniC3k4rieR0i9F5A1pIfveCGXNX8Ta0Xv/JFQN2j7Qc3mY66QLwzZlmJhknNEG7xidJ/1iW8FLAOo0QFsg/zqtsdw0YeTsF6jGtAC5o/g2xKPIcFdAfUcn+SC/8pdLqaHnDOb75gUKi/JRACxTWmhq/Kfe1+jzeqi5G/Sx0D6jxi9eNk5wR3iFjQD7tAo0DyePQOWLTpwUtm9ODvhGxxXU=;Iwuxc/z0fmoPDzchRcF4Lw=="
 ---
 

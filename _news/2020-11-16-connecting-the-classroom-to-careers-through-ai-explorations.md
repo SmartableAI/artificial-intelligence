@@ -55,20 +55,6 @@ related:
         width: 736
         height: 414
         isCached: true
-  - title: "Pasadena’s Miso Robotics Partners With White Castle For Flippy, the Burger-Flipping Robot"
-    excerpt: "After a successful pilot program, White Castle restaurant chain is partnering with Pasadena-based Miso Robotics to use that company’s robotic fry cook at 10 locations. Terms of the deal were not disclosed."
-    publishedDateTime: 2020-11-16T13:21:00Z
-    webUrl: "https://www.pasadenanow.com/main/pasadenas-miso-robotics-partners-with-white-castle-for-flippy-the-burger-flipping-robot/"
-    type: article
-    provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 45
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/33984633_10156379948463252_4260405393521377280_n-740x400.jpg"
-        width: 740
-        height: 400
-        isCached: true
 
 secured: "Y+WymsaYg6XZUEGm5w9uAFNbEqWshBj0OSHS4Yxo0wJyfXKEeYw+bir5pXHzNpYJwCyqTLyt7UrHFStbcriL6hHw8ejNYS6EbkJw2X/Oez2X7oXvQtp8E/L4//J5GB0CjiMSYVY5zF2vOAKBRK2QxCbH1HqOOQrGCXYaZZyskbRdh6bNdbvzhY9QOdNIJ8WIdPUNjKp5gZ4aY/F86QYEYXXMZOIJrzNwdJWVaCHIxIEtpU7YvdBHx3VMv59+VEF6Zq5kOEh13Fgjvg/0zpTJLQs6kJBjlR8ZsJsXNZu2p7UhwZ/k8I+4hWfTLi/PD3m8YsGzsRsJjOgDf75Jt2UsQ/YiEr+KFBO7100dpzg0BZ2ce9EgDEfiBbkimPQWY5fhwX4zA6t4K/Ux6YXBBTqjMEX2nQ4c1d1SyxbqLGGr0eo7jYN4exxqvTXUzJ155e5bev71Y5jAiF2kBA3uFeRYPtdGhxCblSLw0Ohncf2NsEUXa/ix5d4WWO4AjpsFUuDXYFJN5AGlYDV7SMqh+5GsLg==;sCSSpjqjScGhvVahnJJdtg=="
 ---

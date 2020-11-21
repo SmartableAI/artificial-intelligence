@@ -22,7 +22,7 @@ related:
   - title: "Artificial intelligence is reshaping finance"
     excerpt: "Instead, the German tie-up’s real significance is as a tiny, but unusually visible, sign of a feverish race under way at banks and tech companies to find ways to use big data and artificial intelligence in finance."
     publishedDateTime: 2020-11-19T16:10:00Z
-    webUrl: "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
+    webUrl: "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title"
     ampWebUrl: "https://amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
     cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
     type: article

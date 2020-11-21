@@ -2,49 +2,6 @@
   "page": 26,
   "value": [
     {
-      "path": "_news/2020-10-31-wooask-s01-worlds-most-powerful-ai-voice-recorder.md",
-      "title": "Wooask S01 - World's Most Powerful AI Voice Recorder",
-      "excerpt": "Wooask S01 AI Voice Recorder, a powerful technology that fits in your pocket, record, transcribe and translate everywhere. Artificial Intelligence is changing the way we produce and access information. Speech recognition and the understanding of language ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-31-i-asked-ai-to-write-this-post-for-me-here-are-the-results.md",
       "title": "I Asked AI to Write This Post for Me. Here Are the Results.",
       "excerpt": "In June 2020 an Artificial Intelligence system called GPT-3 went live. This AI model is focused on Natural Language Programming and was trained by reading trillions of words and sentences online.",
@@ -1221,6 +1178,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio.md",
+      "title": "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio",
+      "excerpt": "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201029006337/en/Facial-Recognition-Market-will-exhibit-a-CAGR-worth-12-during-2020-2024-Technavio",
+      "originalUrl": "https://www.businesswire.com/news/home/20201029006337/en/Facial-Recognition-Market-will-exhibit-a-CAGR-worth-12-during-2020-2024-Technavio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201029006337/en/834930/23/IRTNTR44231.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

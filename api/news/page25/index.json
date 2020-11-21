@@ -2,58 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2020-11-02-facebook-research-is-developing-ar-glasses-that-help-deaf-people-hear-better.md",
-      "title": "Facebook research is developing AR glasses that help deaf people hear better",
-      "excerpt": "The research lead for Facebook’s Hearing Science lab tells Digital Trends about the exciting possibilities of AR glasses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "originalUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/facebook_hearing_ar3-1200x630-c-ar1.91.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/facebook-ar-glasses-deaf/?amp",
-      "publishedDateTime": "2020-11-01T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-01-importance-of-ar-adoption-in-education.md",
       "title": "Importance Of AR Adoption In Education",
       "excerpt": "The object recognition and text recognition feature in AR help teachers to overlay information, visuals, and different forms of content on an ordinary chalkboard Augmented reality in education ...",
@@ -1235,6 +1183,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-wooask-s01-worlds-most-powerful-ai-voice-recorder.md",
+      "title": "Wooask S01 - World's Most Powerful AI Voice Recorder",
+      "excerpt": "Wooask S01 AI Voice Recorder, a powerful technology that fits in your pocket, record, transcribe and translate everywhere. Artificial Intelligence is changing the way we produce and access information. Speech recognition and the understanding of language ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/wooask-s01---worlds-most-powerful-ai-voice-recorder-301164060.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

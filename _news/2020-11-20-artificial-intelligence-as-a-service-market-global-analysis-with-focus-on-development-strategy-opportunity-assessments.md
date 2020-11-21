@@ -52,20 +52,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Applying machine learning to making mechanical parts"
-    excerpt: "Computer vision researchers use machine learning to train computers in visually recognizing objects – but very few apply machine learning to mechanical parts"
-    publishedDateTime: 2020-11-16T14:11:00Z
-    webUrl: "https://www.controleng.com/articles/applying-machine-learning-to-making-mechanical-parts/"
-    type: article
-    provider:
-      name: Control Engineering
-      domain: controleng.com
-    quality: 39
-    images:
-      - url: "https://www.controleng.com/wp-content/uploads/sites/2/2020/11/CTL2011_WEB_IMG_Purdue_MachineLearning.jpg"
-        width: 645
-        height: 350
-        isCached: true
 
 secured: "LYvd0DC4Op1XmOh+1Q75a23ydII2Ablhy4B/ljsKRREw3k4U5YupHBSK3eVXoxu5eWzdN7Ma5hZ6PETmaDlEb0MpX/dTwtQlq7HfXH/hiHjXXAR+brIedpyY8VTWTk8ko4fYnSshhFjgNZT6BhKYmZ+r9xrkbx2bYc+cfdga196ild2f739sydqGCrJv2+LWuWuaM72Hj3NmNpKNazwTwgj8uYo4+DbvFitjmwoOT5awubjpHaUbYwR4bbMYyLColw/dmYz8iqNT9KcBO30i5nG0k3HftmyHLz7P8t2iyOaOavqz5rByWWD8hnoXKgLfoWOifAIq85gExvCJup0Ghlt32Z5BmfQ6Basax4OBBCQ=;UqATDYKYDU6cLoloGumE4g=="
 ---

@@ -2,49 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2020-10-30-facial-recognition-market-will-exhibit-a-cagr-worth-12-during-2020-2024-technavio.md",
-      "title": "Facial Recognition Market will exhibit a CAGR worth 12% during 2020-2024 | Technavio",
-      "excerpt": "Technavio has been monitoring the facial recognition market, operating under the information technology industry. The latest report on the facial recognition market, 2020-2024 estimates it to register an incremental growth of USD 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201029006337/en/Facial-Recognition-Market-will-exhibit-a-CAGR-worth-12-during-2020-2024-Technavio",
-      "originalUrl": "https://www.businesswire.com/news/home/20201029006337/en/Facial-Recognition-Market-will-exhibit-a-CAGR-worth-12-during-2020-2024-Technavio",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201029006337/en/834930/23/IRTNTR44231.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-30-reducing-microsofts-carbon-footprint-by-tracking-internal-microsoft-azure-usage.md",
       "title": "Reducing Microsoft’s carbon footprint by tracking internal Microsoft Azure usage",
       "excerpt": "Whether he’s on the job or working on a passion project, Paul Rojas keeps sustainability at the forefront of his mind. “Everything I do from the time I’m born to the end of my life has an impact on the environment,",
@@ -1181,6 +1138,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023.md",
+      "title": "Computer Vision Market: Global Market Opportunities, Size, Share, Emerging Trends, Technological Innovation And Forecasts To 2023",
+      "excerpt": "Oct 29, 2020 (AmericaNewsHour) -- Computer vision is a field of technology dealing with smart devices, particularly laptops, smartphones, personal computers, tablets, and others. These devices are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29?dist=bigcharts&tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-global-market-opportunities-size-share-emerging-trends-technological-innovation-and-forecasts-to-2023-2020-10-29?dist=bigcharts&tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

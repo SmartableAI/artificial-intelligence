@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
 type: article
 quality: 67
-heat: 237
+heat: 247
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
     publishedDateTime: 2020-11-19T10:16:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2020-11-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
     type: article
     provider:
       name: MarketWatch

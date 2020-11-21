@@ -1,12 +1,12 @@
 ---
 category: news
-title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
-excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
-publishedDateTime: 2020-11-17T12:08:00Z
-originalUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-size-opportunities-trends-regional-overview-analysis-and-key-country-forecast-to-2027-2020-11-17"
-webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-size-opportunities-trends-regional-overview-analysis-and-key-country-forecast-to-2027-2020-11-17"
+title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+publishedDateTime: 2020-11-21T06:20:00Z
+originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
+webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
 type: article
-quality: 31
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Machine Learning
   - AI
 
 images:
@@ -104,20 +105,6 @@ related:
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
     publishedDateTime: 2020-11-19T10:16:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2020-11-21T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
     type: article
     provider:
       name: MarketWatch
@@ -226,6 +213,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
+    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
+    publishedDateTime: 2020-11-17T12:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-size-opportunities-trends-regional-overview-analysis-and-key-country-forecast-to-2027-2020-11-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
     excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-11-20T10:58:00Z
@@ -280,6 +281,6 @@ related:
         height: 270
         isCached: true
 
-secured: "fGYZEw407wasLZ6uchuWI1Mnmppqb6RQXYY+BCpaZ1vGWAQ6qs2CeQIc8V2T0BZl+782/YePMJc7/sFU4UYzz2rElzINoDDnEO9pLX6knUm3pCg/BHZ6q6bG/QOP5oNKFRkzzm6p2Q3dk7MGl7avX6TzlSQO9SHcBHWnNzGUfTlXn5kLehIqRd3sq3uxmthEg4ZQv5pggJh+RQTC38UeTZo3NGskINfX51AdvQD7XDl6+X04YqPD9PKo8lQliItrZA18RwDD6Ju/+x28t3erDY68aJ5rl4FZSOcC1GTMORHeqX6Hxd7LmwzQ0GTRxrYzfSiN8PMUvkfWp1eg/i0K7+OVNlfVbMLIYIeJY73n/5M=;LxxtI/dOeJrDiQum+58TnA=="
+secured: "22njuOF/wiY8AW2ZEwcx444KaAvWAxv0r6PWkyaduYzA2FYX63RbvZTSKBn+msQ1bqyKYDrKC0Hc5cro826IRGXtAFRbR2KulkwjVIiO73Ub0OuPo09VMAvY6xPlUMMoFpZqAFP7Go/GroKs9hUkHPUBYl6VyBowZb8D5p45k5ecbJjavmz1QoxaT6yJk3dLE+tKejm6/ji06O9T9gzoWXeL6AvPdZt3LkN9JA7g43LMoQWzkON9fUsElS8rCSZec4cOgSTnk2/wwQWzPEyPMBpVGGz3IkeE8VTNBCEXxjPV5ZOGUsCeLy3LlpqNTgwpd8dZiUE0pqcsgso2Q7FI/0mCQecGzUj01TkKdDPt40U=;sNEbFUQ8hdnSOlIIEd6D5g=="
 ---
 

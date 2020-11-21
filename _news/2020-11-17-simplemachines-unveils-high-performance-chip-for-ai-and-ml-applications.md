@@ -44,15 +44,20 @@ related:
         width: 330
         height: 220
         isCached: true
-  - title: "SimpleMachines, Inc. Debuts First-of-its-Kind High Performance Chip"
-    excerpt: "As traditional chip makers struggle to embrace the challenges presented by the rapidly evolving AI software landscape, a San Jose startup has announced it has working silicon and a whole new future-proof chip paradigm to address these issues."
-    publishedDateTime: 2020-11-16T13:56:00Z
-    webUrl: "https://www.design-reuse.com/news/49012/simplemachines-ai-chip-tsmc-16nm.html"
+  - title: "White House issues guidance for federal agencies on AI applications"
+    excerpt: "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide, to the extent permitted by ..."
+    publishedDateTime: 2020-11-19T02:36:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 19
+      name: ZDNet
+      domain: zdnet.com
+    quality: 67
+    images:
+      - url: "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png"
+        width: 770
+        height: 578
+        isCached: true
 
 secured: "NXxLhs3YrnnguzomcAbxM2ufWChVUEbX8fJmCVaddxcSMYg7/+W3l9bkkG7Rd68Mj9MOXQ+dgUc1KS/1wPpMhjjFiKRSLUYs2XxoWYfm0eugaSi/ZHqnDCTQILA0rYpUtprzkw5tHhP4iCI+CJ3Tp2UvFxSG9ajgDbqvnWv8cooZRig5Py7NBCzWbFhpHZ5Mk5bRxjK8KSGW9dB+e3AilH2XgHyBLHsuNu5RiCl4IhweDUTp/hzUl2pgT2NoKjOqB4vtRc5Abcq0hQOVQnEvk1e+sAcnNwZOyJUbNr4O2y0+3xkoyVx2ItZIyUSKmsNgwtw6JXUJUzjC6Frco4ghkLtd/tNr3M5Y/BAg1n+ff+8=;S0V7n63baLgI8FaJtjP1mg=="
 ---

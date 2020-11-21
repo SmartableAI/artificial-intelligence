@@ -41,17 +41,6 @@ related:
         width: 612
         height: 355
         isCached: true
-  - title: "SAFR® from RealNetworks is chosen to provide features, including mask detection and face recognition, for G2K Group’s video analytics platform"
-    excerpt: "(NASDAQ: RNWK) today announced a global partnership with German tech company G2K Group GmbH to revolutionize real-time video analytics. SAFR features including face recognition, mask detection, person detection,"
-    publishedDateTime: 2020-11-16T14:22:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/safr-from-realnetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-g2k-group-s-video-analytics-platform-1029806420"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/SAFR-from-RealNetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-G2K-Group-s-video-analytics-platform-1029806420"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/SAFR-from-RealNetworks-is-chosen-to-provide-features-including-mask-detection-and-face-recognition-for-G2K-Group-s-video-analytics-platform-1029806420"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 33
   - title: "SAFR and VSBLTY face biometrics deployed for crowd customer safety and insights"
     excerpt: "Partnerships on facial recognition and computer vision technologies have been formed by RealNetworks and VSBLTY, and Patriot One has announced a contract win for its video analytics platform."
     publishedDateTime: 2020-11-17T18:55:00Z

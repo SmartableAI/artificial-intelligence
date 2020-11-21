@@ -2,57 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2020-10-27-alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo.md",
-      "title": "Alethea AI makes it easy to create AI avatars from a single photo",
-      "excerpt": "Synthetic humans are a thing of the future, and the latest project to come along in pursuit of that is Alethea AI, a startup that can create photorealistic AI-generated avatars from a single photo.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/alethea-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 589,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/alethea-ai-makes-it-easy-to-create-ai-avatars-from-a-single-photo/amp/",
-      "publishedDateTime": "2020-10-27T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-27-rtx-3070-review-a-500-gpu-that-matches-the-1200-rtx-2080-ti.md",
       "title": "RTX 3070 review: A $500 GPU that matches the $1,200 RTX 2080 Ti",
       "excerpt": "The sweet spot for GPUs over the last half-decade is the $500 ... And even if it looks as nice, will it run well without something like AI-power machine learning image algorithms?",
@@ -1240,6 +1189,49 @@
         "AI",
         "AWS AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-stock-price-prediction-using-artificial-neural-network.md",
+      "title": "Stock Price Prediction Using Artificial Neural Network",
+      "excerpt": "A stock market is a public market for the trading of company stock. It is an organized set-up with a regulatory body and the members who trade in shares are registered with the stock market and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "publishedDateTime": "2020-10-26T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

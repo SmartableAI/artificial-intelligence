@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-late
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "AI Startup Deep Vision Powers AI Innovation at the Edge"
-    excerpt: "Deep Vision exits stealth mode and launches its ARA-1 inference processor to enable the creation of new world AI vision applications at the edge. The processors provide the optimal balance of compute,"
-    publishedDateTime: 2020-11-16T13:30:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-environment-and-nature-environment-north-america-california-fda60097c0d04394ae3cac0087851cba"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AI Startup Deep Vision Powers AI Innovation at the Edge"
     excerpt: "Deep Vision exits stealth mode and launches its ARA-1 inference processor to enable the creation of new world AI vision applications at the edge. The processors provide the optimal balance of compute,"
     publishedDateTime: 2020-11-16T17:30:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.engadget.com/google-project-guideline-blind-vision-imp
 webUrl: "https://www.engadget.com/google-project-guideline-blind-vision-impaired-accessibility-202659152.html"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Engadget
@@ -26,22 +26,6 @@ images:
     width: 1041
     height: 630
     isCached: true
-
-related:
-  - title: "New System Can Bring AI to Wearable Devices, Household Appliances"
-    excerpt: "A team of researchers at MIT is working on bringing deep learning neural networks to microcontrollers. The advance means artificial intelligence (AI) could be implemented into tiny computer chips in wearable medical devices,"
-    publishedDateTime: 2020-11-16T14:13:00Z
-    webUrl: "https://www.unite.ai/new-system-can-bring-ai-to-wearable-devices-household-appliances/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 39
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/network-782707_1280.png"
-        width: 1000
-        height: 600
-        isCached: true
 
 secured: "+GcfpTlkQBLRN/zqswvUH46g3d+BEGdXEHWCu49fNgyjmc0X4YqcZXde+PnSVwpUpZIbRAgxA+eATWMQE+R0rH+9YL3rwuYbadmS5ksrOF6rZEZic2avGPvzTYNG4L9+TYqL5uXzUp0w4R0G86qOox0FyI/E8We1Ku9FDIX7DzBUQcHIchZmdcJU5ERDWznQQQ49dHYYNGr6jGW2o69VN1szEHU8CkJwPJJhIcwuumc1tfsWT+2SmxYob6fkCf/3uSe5G3vJX8RSGBHhvcvdVlzlsXsG4utDgS/lcO46pTTPptNROl5kwTzxq3fJuNR/PeU/Twlb7EdZ052+Ul1QiiHuK6I/LIMZ9zmHPVaajcPr7SMmAmzRvHzdipUgg0f60XdfCa11I7H0J/clSckkcpTkW88Qaww8tumWL2WIyi5Za5zWjE/00A2/L1QpG4gfyUBFeuH0ckmHArWQFENpxo6frbbJ5asjcpf9rjRftBTgeyoDK0nmLVw9w0l8csIdVbhkNnX3pMC45Ssy9UVZYw==;CEluJL7rSy0OfH7m77P0ZQ=="
 ---

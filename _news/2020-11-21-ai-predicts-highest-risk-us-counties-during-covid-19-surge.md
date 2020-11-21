@@ -41,15 +41,6 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
-    excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
-    publishedDateTime: 2020-11-16T14:06:00Z
-    webUrl: "https://insidebigdata.com/2020/11/16/the-future-of-artificial-intelligence-in-a-post-covid-19-world/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
 
 secured: "feLUM/PDEDhq2wXCWMqOvhQUz9SA+wKIXEiywBPnhciUK5KPGG8ycaeFWgxdj4Y0lv0MI7ZnoO7Fnaa3zaNrgZzSQh7uZZ6k+U0nT5Vkv+70pvTHEnar2Dme+owSz7slBmgZynTBP4emKyJUcQE3UKiX/HThmf7yn8gU8kj2wKnPFn9t6iiN2gzFC3WxVYlri+IlNOKdWPoId63F6kbfuq4TLB8N4CIGnzeCFY9r8jz/PVuSOsuyBsSp2NiaDCcUi1KDB30Lrl1JZb4SgAs+/WIzmtmkxW/03c/JfZ+6aCrnHOXoXDiq+GvM7KG5BqtpV5zEKcW3WXOalHjM8Im4dPTeuI1KSryDqwG7tSwyfoQ08dFww9k4ceVQ0g0n2W3cRXWxSYwBFscGOtXfstTF0SO2N5LFShvmyfUb1LYFgMWSwMltB7cuTN5o5/zq/AhcPCk9w8lZi76aJWxvx+pyXYgZBmelPU8uDoqJ3ZVb4LgfA8sY3OEdRwK5E3Q4O81Ok1YN9mQqOnKletsnAc9KXw==;ekgP7fodyC22eaX4kMK2tA=="
 ---

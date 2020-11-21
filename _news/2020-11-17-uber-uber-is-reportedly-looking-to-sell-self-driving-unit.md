@@ -101,20 +101,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Uber reportedly wants to offload self-driving division"
-    excerpt: "Uber is looking to sell its self-driving technology division known as Uber Advanced Technology Group, according to media reports. Citing three people familiar with the matter, TechCrunch reported last week that Uber is in talks to sell the Uber ATG division to Aurora Innovation,"
-    publishedDateTime: 2020-11-16T15:00:00Z
-    webUrl: "https://www.motorauthority.com/news/1130312_uber-reportedly-wants-to-offload-self-driving-division"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/uber-self-driving-prototype-in-san-francisco_100585356_h.jpg"
-        width: 1920
-        height: 1187
-        isCached: true
   - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
     excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
     publishedDateTime: 2020-11-17T14:04:00Z

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-20-this-robot-makes-you-boba-tea-at-a-fully-automated-bar-because-of-course-thats-a-thing.md",
-      "title": "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing",
-      "excerpt": "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "originalUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/obl0feili4mg3ytimcml.jpg",
-          "width": 800,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "publishedDateTime": "2020-11-19T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-automating-business-processes-with-machine-learning-in-the-covid-19-pandemic.md",
       "title": "Automating business processes with machine learning in the COVID-19 pandemic",
       "excerpt": "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning",
@@ -62,7 +10,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -104,6 +52,58 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento.md",
+      "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
+      "excerpt": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg",
+          "width": 727,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T15:26:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -512,7 +512,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 237,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -612,8 +612,8 @@
       "title": "Artificial intelligence is reshaping finance",
       "excerpt": "Instead, the German tie-up’s real significance is as a tiny, but unusually visible, sign of a feverish race under way at banks and tech companies to find ways to use big data and artificial intelligence in finance.",
       "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
-      "originalUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
+      "webUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
+      "originalUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
       "featuredContent": null,
       "highlight": null,
       "heat": 84,
@@ -980,7 +980,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/19/major-advances-in-ai-that-businesses-should-keep-an-eye-on/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
