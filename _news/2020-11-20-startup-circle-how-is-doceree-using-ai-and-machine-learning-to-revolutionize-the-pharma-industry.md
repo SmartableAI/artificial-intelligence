@@ -8,8 +8,8 @@ webUrl: "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-r
 ampWebUrl: "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/"
 type: article
-quality: 62
-heat: 62
+quality: 64
+heat: 64
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI in Robotics
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://www.ciol.com/wp-content/uploads/2020/11/docree.jpg"

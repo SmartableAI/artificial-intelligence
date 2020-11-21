@@ -121,20 +121,6 @@ related:
         width: 960
         height: 500
         isCached: true
-  - title: "JLR to develop a smart city hub to test self-driving cars"
-    excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"
-    publishedDateTime: 2020-11-17T04:53:00Z
-    webUrl: "https://www.newsoneplace.com/37514651911/jlr-self-driving-develop"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 24
-    images:
-      - url: "https://i2-prod.coventrytelegraph.net//article19288858.ece/ALTERNATES/s615/1_JLR-Autonomous.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
     excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
     publishedDateTime: 2020-11-19T16:47:00Z

@@ -2,6 +2,51 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-14-google-ml-framework-tensorflow-hits-160mn-downloads.md",
+      "title": "Google ML framework TensorFlow hits 160mn downloads",
+      "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open-sourced TensorFlow for research and production.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
+      "originalUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
+      "publishedDateTime": "2020-11-13T20:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-researchers-investigate-why-popular-ai-algorithms-classify-objects-by-texture-not-by-shape.md",
       "title": "Researchers investigate why popular AI algorithms classify objects by texture, not by shape",
       "excerpt": "Google and Stanford researchers investigate in a new paper why CNNs tend to classify objects by texture instead of shape.",
@@ -691,49 +736,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-14-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
-      "title": "Computer vision app allows easier monitoring of diabetes",
-      "excerpt": "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201113124045.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201113124045.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-14-this-company-is-allowing-the-ai-to-make-life-insurance-decisions.md",
       "title": "This company is allowing the AI to make life insurance decisions",
       "excerpt": "While most companies prefer to make final decisions on their own, Bestow lets the AI determine eligibility for a much faster process.",
@@ -1047,6 +1049,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-14-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
+      "title": "Computer vision app allows easier monitoring of diabetes",
+      "excerpt": "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-6-training-trends-to-watch-that-will-define-the-workplace-in-2021.md",
       "title": "6 training trends to watch that \"will define the workplace in 2021\"",
       "excerpt": "With the shift to remote work amid the coronavirus pandemic, online learning related to mindfulness, cybersecurity, and hybrid tech capabilities surged, Udemy found.",
@@ -1197,49 +1242,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-nigeria-gets-artificial-intelligence-robotics-centre.md",
-      "title": "Nigeria gets Artificial Intelligence, Robotics Centre",
-      "excerpt": "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/",
-      "originalUrl": "https://guardian.ng/news/nigeria-gets-artificial-intelligence-robotics-centre/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://guardian.ng/wp-content/uploads/2020/11/AI-robotics.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T07:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian Nigeria",
-        "domain": "guardian.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

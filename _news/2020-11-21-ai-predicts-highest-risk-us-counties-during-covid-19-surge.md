@@ -41,6 +41,20 @@ related:
         width: 1260
         height: 630
         isCached: true
+  - title: "To combat COVID-19 ‘infodemic’ on Twitter with machine learning, Novetta taps AWS"
+    excerpt: "Decision-makers and activists combatting misinformation about COVID-19, which Novetta calls the “infodemic,” need better information about what people believe about the pandemic. Twitter has become an excellent resource to harvest such information,"
+    publishedDateTime: 2020-11-21T01:31:00Z
+    webUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
 
 secured: "feLUM/PDEDhq2wXCWMqOvhQUz9SA+wKIXEiywBPnhciUK5KPGG8ycaeFWgxdj4Y0lv0MI7ZnoO7Fnaa3zaNrgZzSQh7uZZ6k+U0nT5Vkv+70pvTHEnar2Dme+owSz7slBmgZynTBP4emKyJUcQE3UKiX/HThmf7yn8gU8kj2wKnPFn9t6iiN2gzFC3WxVYlri+IlNOKdWPoId63F6kbfuq4TLB8N4CIGnzeCFY9r8jz/PVuSOsuyBsSp2NiaDCcUi1KDB30Lrl1JZb4SgAs+/WIzmtmkxW/03c/JfZ+6aCrnHOXoXDiq+GvM7KG5BqtpV5zEKcW3WXOalHjM8Im4dPTeuI1KSryDqwG7tSwyfoQ08dFww9k4ceVQ0g0n2W3cRXWxSYwBFscGOtXfstTF0SO2N5LFShvmyfUb1LYFgMWSwMltB7cuTN5o5/zq/AhcPCk9w8lZi76aJWxvx+pyXYgZBmelPU8uDoqJ3ZVb4LgfA8sY3OEdRwK5E3Q4O81Ok1YN9mQqOnKletsnAc9KXw==;ekgP7fodyC22eaX4kMK2tA=="
 ---

@@ -106,16 +106,19 @@ related:
         height: 306
         isCached: true
   - title: "Wemlo introduces AI to mortgage processing"
-    excerpt: "PRNewswire/ -- wemloSM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new"
-    publishedDateTime: 2020-11-20T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18467660/wemlo-introduces-ai-to-mortgage-processing"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18467660"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18467660"
+    excerpt: "PRNewswire/ -- wemlo SM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new technology logic and intelligence behind the wemlo platform."
+    publishedDateTime: 2020-11-20T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-consumer-banking-38822e67ef4e8ea494743f551080e0ea"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
     excerpt: "ClosedLoop.ai, Healthcare’s Data Science Platform, today announced the close of an $11 million Series A. The investment round was co-led by Greycroft and .406 Ventures with participation from Silicon Valley Bank and Meridian Street Capital."
     publishedDateTime: 2020-11-20T09:45:00Z

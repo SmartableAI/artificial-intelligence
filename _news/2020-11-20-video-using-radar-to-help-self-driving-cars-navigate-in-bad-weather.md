@@ -115,20 +115,6 @@ related:
         width: 960
         height: 500
         isCached: true
-  - title: "JLR to develop a smart city hub to test self-driving cars"
-    excerpt: "Self-driving vehicles will share the streets with cars, pedestrians and cyclists"
-    publishedDateTime: 2020-11-17T04:53:00Z
-    webUrl: "https://www.newsoneplace.com/37514651911/jlr-self-driving-develop"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 24
-    images:
-      - url: "https://i2-prod.coventrytelegraph.net//article19288858.ece/ALTERNATES/s615/1_JLR-Autonomous.jpg"
-        width: 615
-        height: 409
-        isCached: true
   - title: "New radar helps self-driving cars navigate safely in bad weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T12:31:00Z

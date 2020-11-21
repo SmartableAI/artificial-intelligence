@@ -206,18 +206,18 @@ related:
         height: 630
         isCached: true
   - title: "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
-    excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The deep learning market is expected to grow by $ 7."
-    publishedDateTime: 2020-11-20T17:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201120005431/en/Deep-Learning-Market-by-Type-and-by-Geography--Global-Opportunity-Analysis-and-Industry-Forecast-2020-2024"
+    excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) Click & Get Free Sample Report in Minutes. The grow"
+    publishedDateTime: 2020-11-21T15:35:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
+      name: Associated Press
+      domain: apnews.com
     quality: 21
     images:
-      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/23/IRTNTR41147.jpg"
-        width: 1200
-        height: 627
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
     excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"

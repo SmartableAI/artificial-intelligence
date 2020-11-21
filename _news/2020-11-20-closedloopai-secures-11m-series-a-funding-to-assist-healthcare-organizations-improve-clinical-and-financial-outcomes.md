@@ -121,16 +121,19 @@ related:
         height: 1414
         isCached: true
   - title: "Wemlo introduces AI to mortgage processing"
-    excerpt: "PRNewswire/ -- wemloSM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new"
-    publishedDateTime: 2020-11-20T16:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18467660/wemlo-introduces-ai-to-mortgage-processing"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18467660"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18467660"
+    excerpt: "PRNewswire/ -- wemlo SM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new technology logic and intelligence behind the wemlo platform."
+    publishedDateTime: 2020-11-20T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-consumer-banking-38822e67ef4e8ea494743f551080e0ea"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "The promise of AI in Financial Services"
     excerpt: "Artificial Intelligence, in all of its different forms, isn’t new in the financial services space. As is often the case with new technologies, banks were early adopters of AI, with early use cases being focused on chat bots,"
     publishedDateTime: 2020-11-19T10:37:00Z

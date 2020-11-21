@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1"
         width: 1024
         height: 574
+        isCached: true
+  - title: "To combat COVID-19 ‘infodemic’ on Twitter with machine learning, Novetta taps AWS"
+    excerpt: "Decision-makers and activists combatting misinformation about COVID-19, which Novetta calls the “infodemic,” need better information about what people believe about the pandemic. Twitter has become an excellent resource to harvest such information,"
+    publishedDateTime: 2020-11-21T01:31:00Z
+    webUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
+        width: 1920
+        height: 1200
         isCached: true
 
 secured: "BAn8Wle1LKNweK7FdtkhJjSFNzkQirfAJbraJaIqgqcp4cpshAsP4R3FvMfgIRvnbXRszOZneAt9PhZNpqle5V2ZdG1JgCwTwQ/KXI41pt7oPhHLuY3O0COFTEQfipVQZOcfN3SLazlHzjeKfCPnUc6r/f7wcnX6RolgFklJuSaOEHJ/V5t8pdJ5yWBdlqk8sw38nFcNnPbwNEwqzw7BG4dKc0+UKeK/6QlbvnyY694avSlqaRVfXF+0P+73C7wKSOVFvY3SoXSOWV/Z2gXMySSFFzY8hMwxflUwRY4UO4e5YW3kZzAtELHvQPQffa/L7uL6N52v7eQrUT0UM4y4UL31UixSFDgDw2BYp5T+GZ0=;98u9Cj6R80GDV1G06TmRRQ=="

@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-19-4-ai-trends-set-to-accelerate-in-2020.md",
+      "title": "4 AI Trends Set To Accelerate In 2020",
+      "excerpt": "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
+      "originalUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/",
+      "publishedDateTime": "2020-11-18T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-uber-looks-to-partner-with-other-self-driving-companies-ceo.md",
       "title": "Uber looks to partner with other self-driving companies: CEO",
       "excerpt": "Uber Technologies Inc's self-driving unit is looking to partner with other companies working on autonomous driving, the company's chief executive officer said on Wednesday.",
@@ -1187,57 +1240,6 @@
         "AI in Healthcare",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women.md",
-      "title": "Telegram Still Hasn’t Removed an AI Bot That’s Abusing Women",
-      "excerpt": "A deepfake bot has been generating explicit, non-consensual images on the platform. The researchers who found it say their warnings have been ignored.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
-      "originalUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fb448627e21dd10c270baf1/191:100/w_1280,c_limit/Sec_AIbot_523554190.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

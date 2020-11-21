@@ -1,29 +1,29 @@
 ---
 category: news
 title: "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations"
-excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions,"
-publishedDateTime: 2020-11-18T12:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html"
-webUrl: "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html"
+excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent"
+publishedDateTime: 2020-11-18T13:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+webUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
 type: article
-quality: 18
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/1306557/RigNet_Logo.jpg?p=facebook"
-    width: 967
-    height: 506
-    isCached: true
 
 related:
   - title: "RigNet inks multi-year agreement for Intelie's machine learning platform"
@@ -35,7 +35,21 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 18
+  - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
+    excerpt: "Allied Solutions, one of the largest providers of insurance, lending, and marketing products to financial institutions, has entered into"
+    publishedDateTime: 2020-11-17T13:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-301174478.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 0
+    images:
+      - url: "https://mma.prnewswire.com/media/1336395/Interface_Allied_solutions_Logo.jpg?p=facebook"
+        width: 849
+        height: 445
+        isCached: true
 
-secured: "OlIYNlqS9fdt9TAIZEPfdVHGch0RKiGGPU47eqk2u7TFpdcyDg83OCsl5LDi+5ldP21BHIfQioxB3pCHo/kEK3rjKw3hBmtcSSDLqtohTtt6oMWNtixPRCsJVnaW8aIPmKYtnpnJ7tF3lMH0llaR4lKele09qHDzlIe8nzq2lqaJphEMmt0cSDEaT6+Ydl+CCS+qmnwmrQ8JzqPelt7m18p86p8EPjOrP4BYNm1Y0xCLYvIj0+rU+HthSDtaBz8FsB3oBNn5GPVXmhxNFT7Fgn2I3Qrocc6efuMLtoCiElPusss8RQeIXTtJ9KSXZ5s1aw47K285b63H3BsNHkoWfG+UaOr47FQEnylNDkbgaP4=;WfjURhCEWbvXon16tuuiQQ=="
+secured: "sF2X+GZm5VZQ5aDNmPbrwbVb+0oZ66DkEyO8YLaivmM2Wggjv6uHJt3iI4SIjzoilDiwqThrd2zRsRKOX3esLdlTYvLp0/0kjqorMSYeJRaJE3z9mDs5Mv4BwEnKyL0FXSIHCIMk88EcOPaM85P3Pfo9T5NQiLYHmhmyxxNK+2ji6XY8omjWcFuIjh4BPm1kh5IgyfXIoIEv23+bEk0BWRQfYYHP+gsmp9fWXuu/yCQ4AGY/sioC80g+d/AceEFS7VFTyZUbKxaRJQWOSD5Z8PkrIprhLRi7dIAwY517iWELMyrGEOlbEts1tkxM9s8wr2b9k4SVrUgtxKlfAzwJb7ohbUWz2ixRSWnkum0WHyA=;SGiDFhXErdmJ+Tv4tmBKZQ=="
 ---
 

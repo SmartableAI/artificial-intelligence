@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-18-telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women.md",
+      "title": "Telegram Still Hasn’t Removed an AI Bot That’s Abusing Women",
+      "excerpt": "A deepfake bot has been generating explicit, non-consensual images on the platform. The researchers who found it say their warnings have been ignored.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
+      "originalUrl": "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fb448627e21dd10c270baf1/191:100/w_1280,c_limit/Sec_AIbot_523554190.jpg",
+          "width": 1280,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-chip-market-cagr-to-reach-35-during-2019-to-2027.md",
       "title": "Artificial Intelligence Chip Market CAGR to Reach 35% During 2019 to 2027",
       "excerpt": "Research Dive :The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with a CAGR growth rate of 35.0% in the forecast period from 2019 to 2027.",
@@ -878,6 +929,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal.md",
+      "title": "Amazon and NXP team up on smart car cloud computing deal",
+      "excerpt": "It also uses Amazon SageMaker and SageMaker Neo to build, train and deploy optimized machine learning models. Connected cars have numerous benefits but before these can be realized, automakers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "originalUrl": "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YvXi3t8eHMoX9dePjx8wKd-1200-80.jpg",
+          "width": 970,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "publishedDateTime": "2020-11-17T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-ai-tool-maker-seldon-raises-71m-series-a-from-albionvc-and-cambridge-innovation-capital.md",
       "title": "AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital",
       "excerpt": "Seldon is a U.K. startup that specializes in the rarified world of development tools to optimize machine learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting does actually end up working.",
@@ -976,58 +1079,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal.md",
-      "title": "Amazon and NXP team up on smart car cloud computing deal",
-      "excerpt": "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "originalUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YvXi3t8eHMoX9dePjx8wKd-1200-80.jpg",
-          "width": 970,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "publishedDateTime": "2020-11-17T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1183,57 +1234,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe.md",
-      "title": "New EU-funded project will use AI to capture the key scents of historical Europe",
-      "excerpt": "The Odeuropa team will use AI to extract information about smells from historical documents and images — and then recreate the scents.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T151435.287-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/",
-      "publishedDateTime": "2020-11-17T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,6 +2,48 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-16-ey-india-acquires-ai-based-startup-spotmentor-technologies.md",
+      "title": "EY India acquires AI-based startup Spotmentor Technologies",
+      "excerpt": "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, upskilling and reskilling talent at scale",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai",
+      "originalUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/2745082002f511eaaae56760054455e0/Imageyqxh-1595863630136.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai/amp",
+      "publishedDateTime": "2020-11-16T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-onevinn-ab-joins-the-microsoft-intelligent-security-association.md",
       "title": "Onevinn AB Joins the Microsoft Intelligent Security Association",
       "excerpt": "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft",
@@ -1162,51 +1204,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-google-ml-framework-tensorflow-hits-160mn-downloads.md",
-      "title": "Google ML framework TensorFlow hits 160mn downloads",
-      "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open-sourced TensorFlow for research and production.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
-      "publishedDateTime": "2020-11-13T20:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
       ]
     }
   ],

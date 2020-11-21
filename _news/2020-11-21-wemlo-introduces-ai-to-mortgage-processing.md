@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Wemlo introduces AI to mortgage processing"
-excerpt: "PRNewswire/ -- wemloSM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new"
-publishedDateTime: 2020-11-20T16:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18467660/wemlo-introduces-ai-to-mortgage-processing"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/n18467660/wemlo-introduces-ai-to-mortgage-processing"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18467660"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18467660"
+excerpt: "PRNewswire/ -- wemlo SM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new technology logic and intelligence behind the wemlo platform."
+publishedDateTime: 2020-11-20T16:11:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-consumer-banking-38822e67ef4e8ea494743f551080e0ea"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-consumer-banking-38822e67ef4e8ea494743f551080e0ea"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Financial services companies are starting to use the cloud for big data and AI processing"
@@ -148,6 +152,6 @@ related:
       domain: businesswire.com
     quality: 14
 
-secured: "AbIOaybyhZqh2/p/NbMrNo5zgG75ycD6n5gXWVnL7fc9LojZKKo21ueY64lnpYAetVtPVmFvNzEUu+Llmc4QXTaTDQdySBgK2TIK7RwJFHE8wyaR0EzeGTRocoZ0idKcBBcr6OYhzwcQeVc+2Ek4idU9V80ucRXf1RlxJiUQ3O+Bys7fV6+9m6oKWcGkQkSszRgEETwyMo/Y5Ufi/xu0gfhlDj43aony0hzuYYfBYdOVnPWibDKTk3CYFY8S3RCtXIn6758qOEVcvW7Qvdfw/7cuCQ14W0GMJ0KwwJ9pPMak9a7TyOADXbvB/LQhALVkkqtjW9aFfD37iWCVT2IpTBgr6umugyB+GrVAPvLPYzk=;9xgbuyK4IRk131Vkz279CQ=="
+secured: "4nPEcNyaOkr2m4tWAW0uNCnCK4NvTPT8EmFB5O/hDcPz74oGtEeq0ibxqDySDvxeemEX5zEH+RD9MqW4x7fE9d5GoxNHXDapfhvK8EtrRqhUzQukVDkntWjs1Je7cluMh39R778cSE/kaoY7FPOq8iuKmRVtyhOhzHIjZgypaktqS/rC24KfwY8p/qJpbh1sBSOhjFN0nbuZE0y/jGlrnhPcR8vXUuNwaImHLu6BG/Jdb3m6c1E+Q+VnVmxKvkS9LCQw8+pqkYggAkANmC5iHi96ycau5unpHMPhZh6omi4q6nLimSpa5cnCzawHE0QZBH4wg9Et/bu6fBnpMf3PqsshOZaTd6wbRsU7zTgqhRk=;IFLmaBpn+dcbBjX+HxMzHA=="
 ---
 

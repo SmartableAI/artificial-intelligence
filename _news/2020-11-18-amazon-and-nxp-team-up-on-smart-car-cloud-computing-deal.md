@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Amazon and NXP team up on smart car cloud computing deal"
-excerpt: "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,"
-publishedDateTime: 2020-11-18T00:00:00Z
-originalUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-webUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-ampWebUrl: "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+excerpt: "It also uses Amazon SageMaker and SageMaker Neo to build, train and deploy optimized machine learning models. Connected cars have numerous benefits but before these can be realized, automakers ..."
+publishedDateTime: 2020-11-18T00:35:00Z
+originalUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+webUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+ampWebUrl: "https://www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,16 +42,7 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "NXP collaborates with AWS on connected vehicle services"
-    excerpt: "NXP Semiconductors announced a partnership with Amazon Web Services (AWS) focused on extending the opportunities of connected vehicles. The collaboration aims to deliver an edge-to-cloud compute platform for next-generation vehicles that can enable new cloud-powered services."
-    publishedDateTime: 2020-11-17T14:47:00Z
-    webUrl: "https://www.telecompaper.com/news/nxp-collaborates-with-aws-on-connected-vehicle-services--1362201"
-    type: article
-    provider:
-      name: Telecompaper
-      domain: telecompaper.com
-    quality: 19
 
-secured: "vrRepFksmPZ6hBMOcdtUJ56ZHjKLIZoqgYcvearwAyyaCVvhOfAukjsaCTGWKCre4CpnfBk3pZuHxwY3+4dZumDxifzgXlnVqjs84HTs5gOztMIUWLZziNR7E5QDvdv/vtI6dGA3nUh6bF64RMO9GXq1h1cNAthrCF2nBEWpUQH8EvABrJRdI3X1k+mga+JIAElbE/ALuTdu4B+Sd3f4lxU41WeIpcPul6ckSFZrxbpFPL2erXXMOVVKvBeBEICVnwlGgwXNxG0zxfvsA/2WIdn09gCpdjTw78QPs6+rPA/e5RC0AJszh+BvFfImLwsFKsiLEKz5nbJWZ5+S4G7xRYlSHXhMscOZIwbChxRSplQ=;R7pBZ/SNJW4JyY2Ya4fTmg=="
+secured: "swYho3uZs0rlexKhQDBpPMuj8/LZmQdlsZBsJe/GFgDRJ0pDY60A60htg+e2SmgSH+4cHEDBHnvl1C/uuMaahbwdQVhPqMqpsdw+dTFOjc3lxUx3peESF6SRSY/dcAagHcnwbNi5a7DIuinz8FmkagZjN6EDMhXQfrzbY6LpgA63jrTETDVDh1Ji85jjMFdn6s7/up0NPWyAuzHjNyt6Sy985VXkfkd7eovF48/nwoWKc/a18WgVvchQhGGqQmlwkl0aBcQe22DJnuxZXsYqJInMtPoIjgGlYWuGQRUTqQSohDusY+NsomiAefT/CACfMskgG4gL+x3PCSKkgDII8lMYZHmlbNxMi5btcLPZsmE=;C/BLi7jDmdEIeHs1cCv8XA=="
 ---
 

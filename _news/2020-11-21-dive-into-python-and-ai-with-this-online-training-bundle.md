@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/dive-into-python-and
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/dive-into-python-and-ai-with-this-online-training-bundle/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Growing artificial Intelligence at work justifies online learning"
-    excerpt: "Universities should place a strong emphasis on practical skills by incorporating practical work into the curricular and by changing the grading system to"
-    publishedDateTime: 2020-11-17T04:41:00Z
-    webUrl: "https://www.newvision.co.ug/news/1532379/growing-artificial-intelligence-justifies-online-learning"
-    type: article
-    provider:
-      name: New Vision
-      domain: newvision.co.ug
-    quality: 17
 
 secured: "EUuHdOwXDro6DfOsUzBgjtE9ckxLjmSjeDUoZM5rxY3ijkbhGj/DU2njBaJrr6ZIxyaw+t4gNNYEqwHRuMrbGUFfDb83UB87J1MUosTWMSrnL7fjZb7Nn72F9rgf7zQggm3mTQgM4o/JjtEcSzGHGQoobpHyBoT/69MVqi5dFGq13O6QA4eBK5EuenByTJzqNmkcPJzGm57gU/wm++mEe+msCd97sn16oFwC+NvMx9XoAHsKlI7+mTrhxzKPxivwJlypp2Qoh+cTT0TGiFeH+T11DMyyAkn4GgAuJK9MGRDKrd31WUyaxtNKxYJY6y72h8CC4lpqhU5N1e1PruZ5cckbHdO0vsV2X5mIYsT+ToSruWv/EUMOy3B+l94DfFGpamYy58gB+qyktyyL4zmUBi1imQO29JnrpAjh3zWkbDPHBFd+R9J64K99Nhg1s/TSD4yqklGMjAFnNEheAcZ/Jj73faxwC8g+MqcrxNUAg2KTab2hESdbLOPOIyldn/1djpvAGznl8PpwULyDHwIrqQ==;DyE6RGf6ZvijFUau5azPtA=="
 ---

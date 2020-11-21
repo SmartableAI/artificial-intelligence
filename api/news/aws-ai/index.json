@@ -167,7 +167,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -503,13 +503,13 @@
     {
       "path": "_news/2020-11-18-amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal.md",
       "title": "Amazon and NXP team up on smart car cloud computing deal",
-      "excerpt": "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,",
+      "excerpt": "It also uses Amazon SageMaker and SageMaker Neo to build, train and deploy optimized machine learning models. Connected cars have numerous benefits but before these can be realized, automakers ...",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "originalUrl": "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "webUrl": "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "originalUrl": "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -523,9 +523,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "publishedDateTime": "2020-11-17T16:00:00-08:00",
+      "ampWebUrl": "https://www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
+      "publishedDateTime": "2020-11-17T16:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-22-affirm-airbnb-c3ai-roblox-wish-file-for-tech-ipo-finale-of-2020.md",
+      "title": "Affirm, Airbnb, C3.ai, Roblox, Wish file for tech IPO finale of 2020",
+      "excerpt": "For some of the most awaited Silicon Valley tech companies of the decade, this week looked good enough to file for IPOs",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/",
+      "originalUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-974037824.jpg?w=1024",
+          "width": 1024,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/amp/",
+      "publishedDateTime": "2020-11-21T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-c3ai-ipo-what-it-means-for-enterprise-ai.md",
       "title": "C3.ai IPO: What It Means For Enterprise AI",
       "excerpt": "The CEO and founder of C3.ai is Tom Siebel, who is a legend in Silicon Valley. He got his start in the mid-1980s with Oracle and helped lead the growth of the relational database market. Then in 1993 he founded Siebel,",
@@ -217,7 +268,7 @@
       "originalUrl": "https://www.techrepublic.com/article/dive-into-python-and-ai-with-this-online-training-bundle/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -567,11 +618,11 @@
       "title": "Rebooting AI: Deep learning, meet knowledge graphs",
       "excerpt": "Gary Marcus, a prominent figure in AI, is on a mission to instill a breath of fresh air to a discipline he sees as in danger of stagnating. Knowledge graphs, the 20-year old hype, may have something to offer there.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "originalUrl": "https://www.zdnet.com/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -585,8 +636,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/",
       "publishedDateTime": "2020-11-20T08:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -610,8 +661,8 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1199,58 +1250,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
-      "title": "A neural network learns when it should not be trusted",
-      "excerpt": "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
-      "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
