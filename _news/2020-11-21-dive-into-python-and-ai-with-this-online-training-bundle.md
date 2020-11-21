@@ -8,6 +8,9 @@ webUrl: "https://www.techrepublic.com/article/dive-into-python-and-ai-with-this-
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/dive-into-python-and-ai-with-this-online-training-bundle/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/dive-into-python-and-ai-with-this-online-training-bundle/"
 type: article
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: TechRepublic
@@ -26,6 +29,17 @@ images:
     height: 900
     isCached: true
 
-secured: "XN4+fCM078hkHiepURfEE+ZFhf7M3QVodEx1M5q/6bE2SrrMcamuUo02+4lO+GTlOGVbJteim7G7yjcJ51cx7M2O9im6LoeU8c18h2Qirz2UkTFqXohaGF/B2/U5X1nfvchMq+nEqHwAf+vTiZzY+nYN4qpgdsPpJ/DnWQRMfqPYjwUsXNYYsepHMN5ktu53u+1S9gl3a89HJfDIoVHSJtMhIT26zLIIfmPPvv9h8XKvzKxtPd6bGlMV9IBJjCX7vNb9AeNNptlB0F/cSihxBU0cBDZOTSe60xnXLED+NKZgZPA9dwLPfq6Y35HBkQKyRbnzoo9DSAJJP+ASN5K4tCXxF3GIYKWHLSGorL05Vyc=;UW3SGN+LMehwvJxY73G1VA=="
+related:
+  - title: "Growing artificial Intelligence at work justifies online learning"
+    excerpt: "Universities should place a strong emphasis on practical skills by incorporating practical work into the curricular and by changing the grading system to"
+    publishedDateTime: 2020-11-17T04:41:00Z
+    webUrl: "https://www.newvision.co.ug/news/1532379/growing-artificial-intelligence-justifies-online-learning"
+    type: article
+    provider:
+      name: New Vision
+      domain: newvision.co.ug
+    quality: 17
+
+secured: "VuGESY69I3SVnl2wFBDTGEzybYqYbL7TEtOud5wdEgV9ZnNOUhGFMPCOKOG0lwfc+hz0fOFtzdwhV0sSKER8GIrKip3ViF1FXn0OkjW31Nf1gphD64+Oq30YBJKy0jtKdj0iSh4hVs5yp2K4T54oi5WZTA7XF+cp21UkHgkTuIeXkFfnST7JMFlfIdHEPd4EoP7Zu008OgGC144nbyigndPV6SrsEYLFCuJfFe9VB4w3aeVNdKwPoCteU4b89upaAE7GP9Xz6dY7E5ydXncMVjChgXqJeLfA+LXd4tFkFjpd1Hp3dmISriGQdh+FIQWeoQz3CBFoovVlV7ubnic2rpd7eUgJ4JNd+Xa4k7viQgPY/ds+09eBUN/27vYwN+j2hZqED26KnMoEyxS+WaRwBSCgINoRjD/OzHg+Lso5TnWqo6lM70/YX48fsrX9bsxmzcwhBdy+VKAuErNkPx9/0qFyoj1j6gqy47GKpLM1eqkr5JsDdkcpEqHclhszJwXILsMKF2dbeUzUd8qbZeRFGw==;JCfqFspoK6VYfe8KoirP+A=="
 ---
 

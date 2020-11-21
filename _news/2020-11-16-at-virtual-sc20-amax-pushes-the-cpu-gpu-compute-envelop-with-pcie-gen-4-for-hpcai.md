@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2020/11/at-virtual-sc20-amax-pushes-the-cpu-
 webUrl: "https://insidehpc.com/2020/11/at-virtual-sc20-amax-pushes-the-cpu-gpu-compute-envelop-with-pcie-gen-4-for-hpc-ai/"
 type: article
 quality: 48
-heat: 68
+heat: 48
 published: false
 
 provider:

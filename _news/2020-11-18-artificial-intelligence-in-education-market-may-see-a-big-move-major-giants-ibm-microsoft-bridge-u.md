@@ -29,30 +29,52 @@ images:
     isCached: true
 
 related:
-  - title: "Onevinn AB Joins the Microsoft Intelligent Security Association"
-    excerpt: "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft"
-    publishedDateTime: 2020-11-16T08:17:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729"
+  - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
+    excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
+    publishedDateTime: 2020-11-18T03:00:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-  - title: "Machine Learning Market Checkout the Unexpected Future 2027 Key Players – IBM Corporation, Microsoft Corporation, SAP SE, Dell Inc"
-    excerpt: "The Global Machine Learning Market provides an investigative study that offers detailed information about the Machine Learning market that is beneficial to the business strategists and new players of the industry."
-    publishedDateTime: 2020-11-18T17:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+  - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
+    excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept, Transport for NSW ran a ..."
+    publishedDateTime: 2020-11-19T02:32:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+  - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
+    excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
+    publishedDateTime: 2020-11-20T13:08:00Z
+    webUrl: "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
+  - title: "Transport for NSW trials machine learning to detect crash blackspots"
+    excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
+    publishedDateTime: 2020-11-18T20:38:00Z
+    webUrl: "https://www.itnews.com.au/news/transport-for-nsw-trials-machine-learning-to-detect-crash-blackspots-557980"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 43
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://i.nextmedia.com.au/News/busy_road.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
 secured: "aNecM016Tpw4akbjrHHeMXaN/5QOZWb2kdu7TN4YZxHvbFdVhcJPnX+H+mTGPHor3lYQ4vnEM6nf0UUkdJMANQSrPEyO+yBBDALzkrv/bWF3HWH8C+haIfEsvWcAlEUpcijT7XXYPrEDSfDQjdutNILnmdsXryi7RThiEO6BiExlyqszTk2/2KkHJdp7Ff7VpsZtrfo9tmd0duztyXKyG03MXy62p4eGfl8x4t4jAaOs59sms4QHZFLHrPY0gIhHQebQxXvhiqgUyh6ygNY5yN62IShKkBANn2/vrfeRbCqwfv7LFuKjW8S0T+umMXfVB/PKBN/TLyjZy+PfY5gXj7UT2UNYTDRpbi0JtN/jgYeMnFjsg+UgZ3m6t48cv28ENIk8An4ZwwHgwE0WxL0mPg2ukt+rPII1PIAGliPWirbZzz1IZXCv8X9k44c7BR7jqdCMAW0Bg30mAQGbPKJygSduWR6fQp11mgJDzkfTBlt2WLdfCvScfwJ10fOLUrFogo11KNCJHhjeP58rnujF1g==;jCmmqv4GAiKrMNeDo1ZQJA=="

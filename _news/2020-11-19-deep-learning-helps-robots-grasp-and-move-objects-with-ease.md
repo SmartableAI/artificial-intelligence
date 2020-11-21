@@ -43,7 +43,7 @@ related:
     provider:
       name: The Daily Californian
       domain: dailycal.org
-    quality: 36
+    quality: 38
     images:
       - url: "https://i0.wp.com/www.dailycal.org/assets/uploads/2020/11/robots_Ken-Goldberg_courtesy.jpg?ssl=1"
         width: 900

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Sports-Technolog
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Sports-Technology-Market-2020-2027-Artificial-Intelligence-AI-and-Internet-of-Things-IoT-to-Provide-Growth-Opportunities-1029809825"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -22,19 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "China Automotive Cockpit SoC Technology and Application Market 2020: Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety"
-    excerpt: "The \"China Automotive Cockpit SoC Technology and Application Research Report, 2020\" report has been added to ResearchAndMarkets.com's offering. Cockpit SoC Supports More Displays, Beefs up AI, and Improves Functional Safety Intelligent vehicle E/E architecture ushers in a period of intra-domain integration to trans-domain convergence and to central computer from the distributed one."
-    publishedDateTime: 2020-11-16T08:21:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/china-automotive-cockpit-soc-technology-and-application-market-2020-cockpit-soc-supports-more-displays-beefs-up-ai-and-improves-functional-safety-1029804693"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/China-Automotive-Cockpit-SoC-Technology-and-Application-Market-2020-Cockpit-SoC-Supports-More-Displays-Beefs-up-AI-and-Improves-Functional-Safety-1029804693"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
 
 secured: "4CwbAm2UObD2RF+sKjnhsk3Z4m+mWwDp1mupMnyBGLGJjCkcF/tSyB8RZMntqlb2aQZOyZD+nmobeGIT7gQugGgtNVxbzxJRfP1Ys2L71ztsmY7DxsEyfSSMFTU1D+7hqeAxWWWaOFYOAlALiUNC+CwImBJrYYDguM0LqHVgyv/bRGoMDljPuGlZU359ZmJA/vQEy5jrbW1mXRXLb5kEs5RvrH0HeN/iew0mgtM6Bitosh7Tvou9ZPIRfd/zxeI9EOVO7HSFfDUU+PlDavuwZBmIBMydbios3kem7gXvFhcOfea4ude2OGW5kGZomXy5pYhjApaeBI710koM7GAIa6ev2CAlJ4NwZ4nqyvJdQn4=;LSWsShN39ruAO56XVnv3Cg=="
 ---

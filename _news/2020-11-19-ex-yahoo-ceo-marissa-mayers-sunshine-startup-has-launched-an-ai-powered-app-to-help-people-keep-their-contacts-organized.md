@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/marissa-mayer-launches-sunshine-cont
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11?amp"
 type: article
 quality: 62
-heat: 84
+heat: 82
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2020/11/cast-ai-raises-7-7m-in-seed-fundin
 webUrl: "https://www.finsmes.com/2020/11/cast-ai-raises-7-7m-in-seed-funding.html"
 type: article
 quality: 39
-heat: 49
+heat: 39
 published: false
 
 provider:

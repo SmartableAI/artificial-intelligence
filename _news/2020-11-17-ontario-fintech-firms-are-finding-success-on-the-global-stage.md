@@ -75,6 +75,22 @@ related:
         width: 630
         height: 473
         isCached: true
+  - title: "Nilekani seeks French co-op for fintech"
+    excerpt: "Infosys Chairperson and India’s Aadhaar architect Nandan Nilekani on Friday said that countries like France and India have the potential to work together on Aadhaar-like account-aggregator infrastructure that leverages data for accessibility to financial services."
+    publishedDateTime: 2020-11-20T23:59:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 44
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/11/21/w600X390/Nilekani.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
     excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, has attracted £1.2 million from Saviu Ventures, a French investment holding company which focuses on African startups;"
     publishedDateTime: 2020-11-17T11:09:00Z
@@ -111,20 +127,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "Singapore FinTech Festival 2020"
-    excerpt: "The Singapore FinTech Festival (SFF) is the world’s largest and most inclusive FinTech event that brings together heads of state, financial and technology leaders, FinTech founders, policy makers, investors and multilateral agencies."
-    publishedDateTime: 2020-11-16T06:49:00Z
-    webUrl: "https://www.globalbankingandfinance.com/singapore-fintech-festival-2020/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 24
-    images:
-      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/11/061120_GlobalFinance_300x300.jpg"
-        width: 300
-        height: 300
-        isCached: true
   - title: "Seoul Fintech Lab Supports Korean Fintech Startups to Move Into Europe"
     excerpt: "Seoul Fintech Lab will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between Korean fintech startups wishing to set up business in Europe and European investors and financiers."
     publishedDateTime: 2020-11-19T09:01:00Z

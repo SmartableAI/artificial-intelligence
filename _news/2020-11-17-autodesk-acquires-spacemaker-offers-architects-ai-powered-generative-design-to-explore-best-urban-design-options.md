@@ -72,6 +72,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Autodesk buying Norway’s Spacemaker construction AI firm for $240M"
+    excerpt: "Spacemaker uses cloud-based AI and generative design to help architects, urban designers, and real estate developers make more informed early-stage design decisions faster and enables improved opportunities for sustainability from the start. By evaluating ..."
+    publishedDateTime: 2020-11-20T22:55:00Z
+    webUrl: "https://www.northbaybusinessjournal.com/article/article/autodesk-buying-norways-spacemaker-construction-ai-firm-for-240m/"
+    ampWebUrl: "https://www.northbaybusinessjournal.com/article/article/autodesk-buying-norways-spacemaker-construction-ai-firm-for-240m/amp/"
+    cdnAmpWebUrl: "https://www-northbaybusinessjournal-com.cdn.ampproject.org/c/s/www.northbaybusinessjournal.com/article/article/autodesk-buying-norways-spacemaker-construction-ai-firm-for-240m/amp/"
+    type: article
+    provider:
+      name: The North Bay Business Journal
+      domain: northbaybusinessjournal.com
+    quality: 57
+    images:
+      - url: "https://imengine.prod.srp.navigacloud.com?uuid=95C6802A-318F-44DB-881E-B0BC8E48AA70&type=primary&q=72&width=852"
+        width: 852
+        height: 483
+        isCached: true
 
 secured: "j3xAOA51oARb8c7oopRDisWE5B/9utd5yBMuDxEJBpGWZQ5dxCEXjKvsXKXYHs9s4rcE2fgKmFkJ0lurdXJ4IDhH5imdj9rbGF+uCgjpwnS91GDQxC9O4w73flxsXJx6yxsH44gZ2mJCZ3ce+wy1GkwfpH/eb1AYH+dsSZGe4L+E8VhZs7VzhNvX7yl5h0+OooCEKwWL1Hs5JWZkVPgGKmFGz5WxKxaFMHXVvNuhejQNbhH3QYjbSYTsRAHU+H8QMinaSJo/YWWQIUYdQpOmhu7KvKcMSUpL1vm+jPaRfALX+1Q7UebU5n+gmTNXxxeP0iztr5EN36Lsmy+ax3YnR3dWPHQ48A3cKY9BSfMYKyo=;HKvMl4x6Teg9svuiVaTmyQ=="
 ---

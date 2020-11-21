@@ -9,7 +9,7 @@ ampWebUrl: "https://www.robesonian.com/news/139808/u-s-house-approves-lumbee-rec
 cdnAmpWebUrl: "https://www-robesonian-com.cdn.ampproject.org/c/s/www.robesonian.com/news/139808/u-s-house-approves-lumbee-recognition-act/amp"
 type: article
 quality: 44
-heat: 64
+heat: 44
 published: false
 
 provider:

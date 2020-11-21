@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-20T19:05:00Z
 originalUrl: "https://www.dailycal.org/2020/11/20/uc-berkeley-researchers-create-artificial-intelligence-to-grasp-move-objects/"
 webUrl: "https://www.dailycal.org/2020/11/20/uc-berkeley-researchers-create-artificial-intelligence-to-grasp-move-objects/"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 

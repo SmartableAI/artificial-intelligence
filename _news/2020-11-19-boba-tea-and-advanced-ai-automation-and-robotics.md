@@ -41,6 +41,22 @@ related:
         width: 800
         height: 438
         isCached: true
+  - title: "This Boba Robot Booth Could Be Coming to a Corner Near You"
+    excerpt: "This robotic, fully autonomous boba-making robot can make the delicious drinks for far less than normal and may be appearing on street corners soon."
+    publishedDateTime: 2020-11-20T22:12:00Z
+    webUrl: "https://nerdist.com/article/robot-that-makes-boba-tea-bobacino/"
+    ampWebUrl: "https://nerdist.com/article/robot-that-makes-boba-tea-bobacino/?amp"
+    cdnAmpWebUrl: "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/robot-that-makes-boba-tea-bobacino/?amp"
+    type: article
+    provider:
+      name: Nerdist
+      domain: nerdist.com
+    quality: 59
+    images:
+      - url: "https://nerdist.com/wp-content/uploads/2020/11/Boba-Robot-feature-image-11202020.jpg"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "INexylVt7yfCU4ar6F0/Weq4XvHBZcUp5nyna81EkZoZNS15+gtHTjixhtOy3tytd6t+gjQuOmPxgW8wUHNG8WCpOZYg+D7vCOdwB15hIqOoAdnVpUg36tyRiJf8Z0Meddvk/paKk1mCGsi9TqiYsqszXO8k+MhskbbaKmsM4ZERXNNv7NHMSBo/Xz3tRikqn6oMpr0qIykITduhtk4ONYosRj1ODiPifhwANW4S5SxRv+zNNriQOenm9sebDR6J+RTHfIruRkr5ZuLpewDf9Md+cMViz5DF04mL/Mz/ZXxrslF+ARo9/yLzeUsjnp9tqye8EzSvKuNbtRxpC9Nn91bLbLwrOU93IsJwWmDAOicpMWKG4ld7GW21nWTk8yuW283OCl7hD39BjKXRLDJpKp5pvznPvYAwbmTVn+f+Okofu60lH5M+XXwkHo3XO+W2Yux/akGkVr824mQ9MkAh3gz8h2hEZmlVG9XJvKPRdKNgTmKKnh9kKz5IhZSVBuUQz95r+FE5KgL8c/K4WqlutA==;dnPlbL0eawPk3OYDpVyLeQ=="
 ---

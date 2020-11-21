@@ -8,6 +8,9 @@ webUrl: "https://newatlas.com/robotics/yardroid-gardening-robot/"
 ampWebUrl: "https://newatlas.com/robotics/yardroid-gardening-robot/?amp=true"
 cdnAmpWebUrl: "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/yardroid-gardening-robot/?amp=true"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: New Atlas
@@ -27,6 +30,6 @@ images:
     height: 800
     isCached: true
 
-secured: "R0q+2B0EGiNq0bkbyTuo6X9K7VOQzlwFI+NhfgKnUHS1+5IFUJt22ljoBrJRXJt7CZu1sIqOUQDpXVoq3VOS6ckoU7wTroBp8qB+EAUPf5VZ+ceznGjGdXe9gR03xeHqST2Bk9LnXSy9jy3whuUPlS/3qvWclkg2szSUAeCHGbYxXDxO8oFYl0Xv1+egHkoOl6DLgKrrCIwwIenL9ltvRo9Jlk5bQh1JZZ85bZuSPYNjh9rYcqjtAJXrSgrjbxx9XqKHrT/R52dgOZyJFkXOteLWZu7kIIiJlcoMl/Z0sC+zRNH7LWQ2mIp1xn/QZ+ei0KpJk6VCXcGezyUiM5HlDj49qnbsnwTdodlfwOrmPTQ=;3df+cqHGpLLu6x6a+vox2Q=="
+secured: "l6mNgb88Pi3MNUBnL8Xt8kxD4o//S3CmrPkQ5YThLqqxSfUk6qtk7lnJd3ZCbX7U/AAQVRmwzHJgpmbgfZgfwmNvimiw8cqPDQbC1PAjJNf4iJ/A78uj4B5rvZ5PXrX9mkpPe6VogB1X7YeBDlMbTGbtA6D5/aj/1ob6XVHsLSkBYOlMWZg9Xo/skQBRb+mjK2aKFjVFfLzAlzTs4b/gKslVPDd4sYsq+YWE51WCW4qgeWlUKrDS6Ao3508f45Khc8Rq7RDjmRIMJaMB2EkrLDbxJTZUpUtp5q4zrsOphtUuiuCVtSZtPq1LSOkxNe3RehTVunWKBTwhNAz6/5rkzhq8/YKAUv2sSwQDjwPCnOxOKSWhytXoLtEdSF52zZKgpwovfg4kIAuySZF4GMZqIaU40rtz3mawoeqQSRA1ITW5PDfjYr6ar+G/a1AKm9Lf5I0dDYBAmHzeGedNRT6OF428WCT4EenvJsYAP8AiIjDnoYXr7QEdH6k7aFWUy7+AY6X/G2iUQpZprTeKEpjasQ==;4M6L4lK18q0ILjysZ5x1iA=="
 ---
 

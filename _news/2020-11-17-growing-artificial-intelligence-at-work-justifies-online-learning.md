@@ -18,21 +18,21 @@ topics:
   - AI
 
 related:
-  - title: "AI Dungeon Proves Machine Learning Games Are the Future"
-    excerpt: "The innovative AI Dungeon lets players experience an endless text adventure and could change how games tell their stories in a MAJOR way."
-    publishedDateTime: 2020-11-17T15:49:00Z
-    webUrl: "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/"
-    ampWebUrl: "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/"
-    cdnAmpWebUrl: "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/"
+  - title: "Dive into Python and AI with this online training bundle"
+    excerpt: "Whether you're a Python beginner or want to learn how to use the programming language with AI and data analytics, check out these training courses."
+    publishedDateTime: 2020-11-20T20:52:00Z
+    webUrl: "https://www.techrepublic.com/article/dive-into-python-and-ai-with-this-online-training-bundle/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/dive-into-python-and-ai-with-this-online-training-bundle/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/dive-into-python-and-ai-with-this-online-training-bundle/"
     type: article
     provider:
-      name: CBR
-      domain: cbr.com
-    quality: 74
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/11/AI-Dungeon-Feature02.jpg"
-        width: 1400
-        height: 700
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2019/09/13/1691e9ad-4a07-4cb0-8799-ba22c6dd2e15/resize/1200x/53d0d8dd9212718ef9636ecb460dcee2/istock-1156903535.jpg"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "qmOjQNwuiQ7gc2OeUejCMEgv7LooeX/Nc3pCgqbuJR7Tpk0QvqHcGTsitOQPHqawKKfTAVvB9VOCVNfpxCSrUO7vH6QMNtt+uG9IlHaOvIDfJWvFgzJAJtlA4Dg6bg0mTlKU/smq2W7MWobQSZLplQmB5p96XYBrPHAI/Ta2BZCyKAAvNAWxDrZuL1QZsD3tyG2YsmBQLMZ4Tnr1Qs/n288V9j7OcNUPLpcVdLa5ujnU6xbpWgp7fxYi9HK3y7/wnPNEBgD1F3SlLyDusYlrpn6DmBsjByvJ1G1ICJuquXndQBG/1VZQBbuXKgie7EI1j9yn5od/2/T+BbwX6SAPbuhkN3IINDcHgxKiT0IK/ik=;3Og281SW3KXd6+eRSSgtWA=="

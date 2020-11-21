@@ -43,6 +43,22 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "Canvas emerges from stealth with AI for drywall installation"
+    excerpt: "Construction startup Canvas uses a modified lift, a robotic arm, and sensors to install drywall in the San Francisco Bay Area."
+    publishedDateTime: 2020-11-20T00:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/V155410.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "An AI helps you summarize the latest in AI"
     excerpt: "Semantic Scholar, a scientific literature search engine, is using recent breakthroughs in natural-language processing to give researchers the tl;dr on papers."
     publishedDateTime: 2020-11-18T16:40:00Z

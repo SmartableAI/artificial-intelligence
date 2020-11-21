@@ -172,6 +172,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Facebook using artificial intelligence to forecast COVID-19 spread in every U.S. county"
+    excerpt: "A new county-by-county forecast from Facebook projects San Diego will see another 10,000 cases by the end of the month."
+    publishedDateTime: 2020-11-20T22:15:00Z
+    webUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county"
+    ampWebUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
+    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
+    type: article
+    provider:
+      name: ABC 10 News
+      domain: 10news.com
+    quality: 49
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/061f821/2147483647/strip/true/crop/1616x909+0+71/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2Fee%2F5aefd9c843668d1285e44d2407ec%2Fscreen-shot-2020-11-20-at-3.24.46%20PM.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Facebook & Its Tumultuous Relationship With AI-Based Content Moderation"
     excerpt: "We track down some of the major efforts of Facebook for AI based moderation in the past and how it has fared in tackling the issue."
     publishedDateTime: 2020-11-19T11:32:00Z

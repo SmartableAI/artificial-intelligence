@@ -8,6 +8,9 @@ webUrl: "https://www.cbsnews.com/news/new-york-city-artificial-intelligence-hiri
 ampWebUrl: "https://www.cbsnews.com/amp/news/new-york-city-artificial-intelligence-hiring-restriction/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/new-york-city-artificial-intelligence-hiring-restriction/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: CBS News
@@ -22,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "+KRkNr04EsDFs07NyKgmYQh+aiD6n1r5KQAYEEWGS70L0IKIEsZSA5GnJ6VsgdRd9jwgs44bydmmPq5uvLkrzNdSqCTgwFkoN+2Bn5iL2VXAicCGEG9hGCgbxwlHUjdLn+jsg73NT6g00C4qXsM5s/CUMH+tzb9HFKLz9gYoXt4hZqrekXA0WiJBbCgsNm+I3HP4eBJ9CpNzHiu5k76Hbb33Ia5KIvejZV62q2zAkFV9d/r7vFumMih9vQn25mgkPAMH2absiXN9Gph3sLnHUGwsbj9ZuoLwhpb0ZvA63a/Ctz55DyBhZ3eUXPhRJSQgu75gNOIIZDI26Kmr1VNqPWYABYVRRPmv62HvlRLYcEc=;WAmdtZIIhLNmxLkiI/e46g=="
+secured: "CMGs5FOwODVTG7X+e2B05cJbdN7VXgt0dscapAMxcx7+uL3/2mRYNAhajg3JeJCseWfH0jlb74qHBc9fjWQzM7BX0ZzSas/rQhllJK/+MtXMQCsgNi41slYLKlgYh68qKTUF2j+7CM8d8l8VFNDcY2nzUjFPu07iOJh9NLPMTa9yTQHIL8nSnexOKjTHlpOTJ/Uvn2HNil+2xPwrCWiEf6SILfSQytbtP08mhwHUqfUzLM0k4P7VgspydRRJYNjO+P4xtdbgD45HiJeexY5ognvwSojfFRBK4doLTHSEHObuK2p05IHTzCcsoQthlApCelGYE+94DX8RErYe1VW5JzHu4OBpqxUoIa38+E3Y0uIlV8RK1EFLLifHsnGaBIwCX6hEKde2U4FUimZmhN41PybPSfRjgpdviT+0rUsVF8XE6TMSdUmBK/vArHDamh5we/aXh9yji98gcQttI6bDbdpDvHWHR/DYoWaKk4UYqbfcASFHyOxsdqGbk9FpdtIWew0md3/Op/YETWgSXEvOjQ==;ppKrs7Jg3luUNl0H/7o7VA=="
 ---
 

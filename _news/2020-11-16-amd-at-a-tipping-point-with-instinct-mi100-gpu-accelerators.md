@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 637
         isCached: true
-  - title: "AMD launches MI100 GPU accelerator for high performance computing"
-    excerpt: "AMD is looking to capitalize on its momentum with its EPYC server processor by pairing it with the Instinct MI100 GPU accelerator to gain in high performance computing."
-    publishedDateTime: 2020-11-16T06:00:00Z
-    webUrl: "https://www.zdnet.com/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amd-launches-mi100-gpu-accelerator-for-high-performance-computing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/11/13/0486f2d1-bb49-438a-9ae2-5d23a8dcf2a6/amd-rocm.png"
-        width: 726
-        height: 284
-        isCached: true
   - title: "AMD claims HPC GPU crown with MI100"
     excerpt: "AMD's new Instinct MI100 accelerator is said to be the world's fastest HPC GPU and the first x86 server GPU to exceed 10 Tflops (FP64). GPU performance increases had started to slow down, observed AMD corporate vice president for data centre GPU and accelerated processing Brad McCredie,"
     publishedDateTime: 2020-11-16T14:03:00Z

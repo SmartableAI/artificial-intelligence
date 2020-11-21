@@ -1,0 +1,49 @@
+---
+category: news
+title: "How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing"
+excerpt: "Although we might think the world is already sufficiently mapped by the advent of global satellite images and street views, it’s far from complete because much of the world is still uncharted territory. Maps are designed for humans, and can’t be consumed by autonomous vehicles, which need a very different"
+publishedDateTime: 2020-11-20T23:08:19Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/"
+type: article
+quality: 82
+heat: 92
+published: true
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/How-DeepMap-optimizes-2.jpg"
+    width: 658
+    height: 431
+    isCached: true
+
+related:
+  - title: "Detecting hidden but non-trivial problems in transfer learning models using Amazon SageMaker Debugger"
+    excerpt: "Rapid development of deep learning technology has produced an abundance of open-sourced, pre-trained models in computer vision and natural language processing. As a result, transfer learning has become a popular approach in deep learning. Transfer learning is a machine learning technique where a model"
+    publishedDateTime: 2020-11-19T21:43:43Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detecting-hidden-but-non-trivial-problems-in-transfer-learning-models-using-amazon-sagemaker-debugger/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/18/Detecting-hidden-but-non-trivial-3.jpg"
+        width: 800
+        height: 431
+        isCached: true
+
+secured: "dDxMdMaDrhRb/1j7ySFRoSiLrBKOsTHomuBhSUbDf3YJCKT//ZL5zbTTcdS6F8Ch/ncu3WoaoPY43NINiPjl5lpUShMB4k9sBd2PP1VV6ScxN6lNWlXux8GgO69Sblghiyjcs4K5VFM+lUQcmn1wL5Dp9bKzmnZd2MT9+lOtzR5jkmrqxfWivP8rL+RnQ8d+WMDIOWl2x8XCD/RuSDY9O3+B53V76l9D5u0syeU8+ZqzC6wrA6v0eat1RDeDnvIISJn8C23Z/z99SUi1JDdFdWRn4GXTeOiyO93G84ozfFUO703OBNHvAMP3+IjwXKPtZfWDAqpVO+k8cnMmi5y6USNEdY6Lzea/7ewB4aReV88=;MGAmwr4Vt9ghztWg8sadgg=="
+---
+

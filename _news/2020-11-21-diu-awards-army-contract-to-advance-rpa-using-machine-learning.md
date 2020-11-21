@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-20T20:40:00Z
 originalUrl: "https://www.fedscoop.com/diu-awards-contract-for-advanced-rpa-technology/"
 webUrl: "https://www.fedscoop.com/diu-awards-contract-for-advanced-rpa-technology/"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:

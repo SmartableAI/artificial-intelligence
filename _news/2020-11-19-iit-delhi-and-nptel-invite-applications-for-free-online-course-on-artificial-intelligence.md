@@ -8,8 +8,8 @@ webUrl: "https://www.ciol.com/iit-delhi-nptel-invite-applications-free-online-co
 ampWebUrl: "https://www.ciol.com/iit-delhi-nptel-invite-applications-free-online-course-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/iit-delhi-nptel-invite-applications-free-online-course-artificial-intelligence/amp/"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:

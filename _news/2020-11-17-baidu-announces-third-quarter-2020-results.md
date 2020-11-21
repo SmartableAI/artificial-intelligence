@@ -7,7 +7,7 @@ originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/baidu-a
 webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/baidu-announces-third-quarter-2020-results/article_a80998c2-1d14-5fdd-977d-fae9f30238b2.html"
 type: article
 quality: 39
-heat: 59
+heat: 39
 published: false
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/inside-google/googlers/hip-hop-artificial-intell
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Canvas emerges from stealth with AI for drywall installation"
+    excerpt: "Construction startup Canvas uses a modified lift, a robotic arm, and sensors to install drywall in the San Francisco Bay Area."
+    publishedDateTime: 2020-11-20T00:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/V155410.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "How to make money with AI in 2030"
     excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
     publishedDateTime: 2020-11-18T13:33:00Z

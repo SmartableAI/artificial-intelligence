@@ -9,7 +9,7 @@ ampWebUrl: "https://minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test
 cdnAmpWebUrl: "https://minnesota-cbslocal-com.cdn.ampproject.org/c/s/minnesota.cbslocal.com/2020/11/16/new-mayo-clinic-voice-test-could-detect-covid/amp/"
 type: article
 quality: 24
-heat: 44
+heat: 24
 published: false
 
 provider:

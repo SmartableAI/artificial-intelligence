@@ -183,15 +183,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
-    excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
-    publishedDateTime: 2020-11-16T08:59:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 0
 
 secured: "z7C7FrwZ3u3GHZHuNo8FhiaYQKO6rzxFI7n2Q7aK0HTRdAOU7RDt9aPUI8lnygY/Xp70rFXm7vQBGdpiUCYqK1RrshoiHa/H9yT73L/++Qi7zdWUkuSnTeW8Vnqe46phlQpr6YaM+o5tLix5MVBNdMAzV4ZPyARobXre6fwcAetcyR2SSdVufnbCUGq+gGSpVzqzyzUIDuMZISYqyDi+7bzc5WR1ZNSXS/LJIbQfJUuBKUbj9BTOo3Xvec64YT/NZ/11UcdvJKOaxOcRl1IdreXaQywClKzFHuipoNsa1wLEIlQWzUGOQ9I0Mi876nSLTOJ5CycT9VcqUDGg4Abs+EGQLIeeheSBxLN9IK9tF5hibSal5uZvnnbi0LymP5FvQuYNXvpeVo844wYHqZjkqKC8/aB3yH5HNMVU6AOozOepW22JixwPncr4HINWIIgxPnc2MwAkT30ZDTIAAL+/8QifiHrUdGoLpD/doe2wcNyCMK7XxCtrSTHjGEtLhP3aMO69nhihw87S1EHl2PNIEg==;HaNkrZw7TyQfHmZXXNWrEQ=="
 ---

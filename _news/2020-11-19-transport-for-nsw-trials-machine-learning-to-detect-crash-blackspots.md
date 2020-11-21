@@ -60,6 +60,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 80
+  - title: "Artificial Intelligence In Education Market May See a Big Move | Major Giants IBM, Microsoft, Bridge-U"
+    excerpt: "AMA Research have added latest edition of survey study on Artificial Intelligence In Education Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
+    publishedDateTime: 2020-11-18T04:26:00Z
+    webUrl: "https://www.openpr.com/news/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 77
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb18430928_g.jpg"
+        width: 800
+        height: 448
+        isCached: true
 
 secured: "6pZhfR+xrLpqhvGCE4bczxefpU31tQgWL6JkTgoxJ+zHx1ZYAVz0g6hi/z0IvLVU64FOCWdj5m+ZnSR98OHi3GOR3GQFsPxCrkqDD0Z21NK6reIdnfXc3nkyTIcwBzxYIrd7FY3JUks2Bc3tzmZGqlpm8rvWOX1w+/doODpl+8d33M41cNNd73qsk4UdmIQeFJGQpa391ikCAAAUUn23/fPVbhH4YqTB70o8zVH0ZGnFImbaZ1fUHdWoLG+iuVkAKE2DMp37VlYGtvd7ueTmobDePiu07YG/6EblhzPiI0Reg6ItIBiiFSRvFoK1nerKdaV8Nakrdgs8lbzDIIvgH3G0gOiZ2SI9OsW0HxRc0qAoRGd2urPw1VEJWSg4LoIcqBZ1Mv4+fhKNKWZtNG5+Z3Vff0HlDaOaoAhPBiFWsDr5BuSH8r55vo0VtbZ5neYUQx32HOUd4FUD5EnvDszHqjsCn0MWL2yswxfTYfUd1bu7bHYBvzpR/9wO+3DLyOsAwN+CR4YCwGMKoki7sEkjjQ==;Ar+BG2LQH13K1o6DaNTyEw=="
 ---

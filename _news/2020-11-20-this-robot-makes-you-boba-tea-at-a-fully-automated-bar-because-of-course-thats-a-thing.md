@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automat
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp"
 type: article
 quality: 81
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://qtxasset.com/worldteanews/uploads/2020/11/Bobacino-3-1024x734.jpg"
         width: 1024
         height: 734
+        isCached: true
+  - title: "This Boba Robot Booth Could Be Coming to a Corner Near You"
+    excerpt: "This robotic, fully autonomous boba-making robot can make the delicious drinks for far less than normal and may be appearing on street corners soon."
+    publishedDateTime: 2020-11-20T22:12:00Z
+    webUrl: "https://nerdist.com/article/robot-that-makes-boba-tea-bobacino/"
+    ampWebUrl: "https://nerdist.com/article/robot-that-makes-boba-tea-bobacino/?amp"
+    cdnAmpWebUrl: "https://nerdist-com.cdn.ampproject.org/c/s/nerdist.com/article/robot-that-makes-boba-tea-bobacino/?amp"
+    type: article
+    provider:
+      name: Nerdist
+      domain: nerdist.com
+    quality: 59
+    images:
+      - url: "https://nerdist.com/wp-content/uploads/2020/11/Boba-Robot-feature-image-11202020.jpg"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "E+EtGQMxZG9Goe3gMBX3xEf6hQ9B7vKoEkJTAH8vNnEvuUgSRi8tcNdG/vmQ1SXEInu+kGP0fnir2g06Sz92yUapLhHfgJb3Wn3wdaCEeTO4gysqeTaQoxTpdIJnKK5uMkIUAnNcPLXHxoMpeT8m0T2xoJp5s/RQ59q1QjZDhFEeoNd6YCBAnCo8nQzifJbIW41ICvLhDkP9lHz3oQ7opbbzL7MOHO3/fMdqZzqay7mRAfi7UZ+2VissHg+6HTXVuC+sJtG09FxvWfQt5uwmrS0j87/nweJOQX1c4094skcIJRqXosC+8iBz0u27PReUAdr1Y5lzxvgohqjtwG+4DpN+10jZn1DQYdIutVjLKwZASu0qBropaNJWkyhaymZHjSZNmZSU3zdIxbgk1Dl8Pl3mYVvl9ZK3K3qzLGtAG0KpKenDgvpuxfNKpf0mhxRwnXeW9cK4qS4PC28+6LZo4VReHMIkAlxpobGwkpyvbtgy1ewMshpOVBW47IXSeM9hy8GJgQ8ucelHvXPVIXPzlA==;MSkXukpkEfijtxCL1PcTYg=="

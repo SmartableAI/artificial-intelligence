@@ -9,7 +9,7 @@ ampWebUrl: "https://www.sourcesecurity.com/amp/news/safr-real-networks-mask-dete
 cdnAmpWebUrl: "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/safr-real-networks-mask-detection-face-recognition-g2k-group-video-analytics-platform-co-1554987129-ga-co-1584640778-ga-npr.1605607229.html"
 type: article
 quality: 34
-heat: 74
+heat: 34
 published: false
 
 provider:

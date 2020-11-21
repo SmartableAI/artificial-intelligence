@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-ca
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/"
 type: article
 quality: 74
-heat: 194
+heat: 184
 published: true
 
 provider:
@@ -187,15 +187,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Jaguar Land Rover develops smart city hub to test self-driving vehicle technology"
-    excerpt: "Jaguar Land Rover is partnering with global software, mobility and telecoms companies to create a smart city hub that will allow real-world testing of connected technology where self-driving vehicles share the streets with cars,"
-    publishedDateTime: 2020-11-16T08:59:00Z
-    webUrl: "https://www.automotiveworld.com/news-releases/jaguar-land-rover-develops-smart-city-hub-to-test-self-driving-vehicle-technology/"
-    type: article
-    provider:
-      name: Automotive World
-      domain: automotiveworld.com
-    quality: 0
 
 secured: "gh19ZFwf1qwMeBgatZ5N2Yv5Ust0+e8Zp7KtrFRg73pTZ0la5CoqfsQwRnd5HqwZvlnW8JvNHzwHHfQI2nybI+n5hrfSHI3CuNiDb4XIRWSBptwW2nqNfsRfQJuS5YhylIn2L4eIdyoKXb5KI4sBWKSMdN7WiZnfukrjWmw2S+6li+BdK6WEpF5ZgPy7aNbMSoi0KJydtJzojP8dIFAmDzwTR+wrGivXSpkIlfD3QvhyxrNL3OL0jXgR2f3DDLRjPZ0eCxgK+G7GeYIgBlDxf3Ap0L6MqbvLvnlvVjA6GAycJFY+s2tqFRQ/yh59LSIrdD7l2yzMGYWi+2gZguMFrHHovvEagdaRW+YWoax4CnhGfdZlCmJIVHB/sXvo/49kjpci4OTDsCI306lyl0eLCRYzhQAL1h36oabwMv2VQ349+Qj2sGMsiMxfzJgZgtuPZPo5j1x1UjR44yEtnlO8Hgosa+2Ek+4BqkHP/br9wTL+MBkSoqPYrYhqUr3kGKXk6rMiJvixbHLTNBL4yypz6Q==;NtNNdCCaG5PqP0XOIsxJ9Q=="
 ---

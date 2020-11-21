@@ -48,6 +48,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 80
+  - title: "Artificial Intelligence In Education Market May See a Big Move | Major Giants IBM, Microsoft, Bridge-U"
+    excerpt: "AMA Research have added latest edition of survey study on Artificial Intelligence In Education Market with 100 market data Tables Pie Chat Graphs Figures spread through Pages and easy to understand detailed analysis At present the market is developing its"
+    publishedDateTime: 2020-11-18T04:26:00Z
+    webUrl: "https://www.openpr.com/news/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+    ampWebUrl: "https://www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189267/artificial-intelligence-in-education-market-may-see-a-big-move"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 77
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb18430928_g.jpg"
+        width: 800
+        height: 448
+        isCached: true
   - title: "Transport for NSW trials machine learning to detect crash blackspots"
     excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
     publishedDateTime: 2020-11-18T20:38:00Z

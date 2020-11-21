@@ -7,7 +7,7 @@ originalUrl: "https://www.afr.com/technology/is-ai-finally-closing-in-on-human-i
 webUrl: "https://www.afr.com/technology/is-ai-finally-closing-in-on-human-intelligence-20201117-p56f7g"
 type: article
 quality: 39
-heat: 69
+heat: 39
 published: false
 
 provider:

@@ -234,6 +234,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
+  - title: "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
+    excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The deep learning market is expected to grow by $ 7."
+    publishedDateTime: 2020-11-20T17:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201120005431/en/Deep-Learning-Market-by-Type-and-by-Geography--Global-Opportunity-Analysis-and-Industry-Forecast-2020-2024"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
+    images:
+      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/23/IRTNTR41147.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
     excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
     publishedDateTime: 2020-11-17T08:10:00Z

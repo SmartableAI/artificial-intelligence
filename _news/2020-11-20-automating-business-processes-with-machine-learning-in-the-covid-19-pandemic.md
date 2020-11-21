@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AI is helping lung cancer patients in Covid-19 era"
-    excerpt: "Lung cancer patients undergoing immunotherapy treatment may experience side effects which can present in a similar way to those of Covid-19 and other lung conditions. But now the Royal Marsden hospital in London is trialling the use of artificial intelligence (AI) to help identify what is causing the symptoms."
-    publishedDateTime: 2020-11-16T06:56:00Z
-    webUrl: "https://www.bbc.com/news/av/technology-54815149"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 67
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p08y2wck.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "The Future of Artificial Intelligence in a Post-COVID-19 World"
     excerpt: "She studied Computer Science and Economics at Brandies University. Over the past several years, artificial intelligence (AI) has frequently been cited as an emerging technology that improves efficiency across a multitude of industries. Crucially ..."
     publishedDateTime: 2020-11-16T14:06:00Z
