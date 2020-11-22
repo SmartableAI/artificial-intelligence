@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-et
 ampWebUrl: "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21?amp"
 type: article
-quality: 99
-heat: 99
+quality: 101
+heat: 101
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 secured: "h5pwhZEACwizQvs+XlPS4ebRnNoQE5sRXYYwjPPkUGLaCbMXV9sdBcG1retbx39ijy/1AYQ6hP+y17bWD/jQ/GU309KGFaIyj/zFgdp82x0IrcOMkblFeEQnGKMGPQu35vq5HeJxW1j453SUboK0Q12eIpAGh1MIk0SJxnFgFy43UlAWeaypR8H+6uQVZUf8E7PPdne8BdBvuoJ08yzu7DweANbt1UnM+PANgn7XQizGTY5z+1pT3iNpLhcvaxbwXKvRTaICGq7rSH34HIQ2moZyfUrG2nc8CrtMLZOX7+dPKOJhwY9ZyM6PYzsRVPE1s3zs3ojV3DNllfDRZd92HJh7uofzAoHcxUe+nygDHLY=;ecFSjqN846rNW3DDyP6DLQ=="
 ---

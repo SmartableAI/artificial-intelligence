@@ -30,17 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"
-    excerpt: "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,"
-    publishedDateTime: 2020-11-17T09:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+  - title: "Global Healthcare Artificial Intelligence Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2026"
+    excerpt: "Nov 18, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry ..."
+    publishedDateTime: 2020-11-18T23:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "LYvd0DC4Op1XmOh+1Q75a23ydII2Ablhy4B/ljsKRREw3k4U5YupHBSK3eVXoxu5eWzdN7Ma5hZ6PETmaDlEb0MpX/dTwtQlq7HfXH/hiHjXXAR+brIedpyY8VTWTk8ko4fYnSshhFjgNZT6BhKYmZ+r9xrkbx2bYc+cfdga196ild2f739sydqGCrJv2+LWuWuaM72Hj3NmNpKNazwTwgj8uYo4+DbvFitjmwoOT5awubjpHaUbYwR4bbMYyLColw/dmYz8iqNT9KcBO30i5nG0k3HftmyHLz7P8t2iyOaOavqz5rByWWD8hnoXKgLfoWOifAIq85gExvCJup0Ghlt32Z5BmfQ6Basax4OBBCQ=;UqATDYKYDU6cLoloGumE4g=="
 ---

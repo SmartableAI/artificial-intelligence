@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonglobe.com/2020/11/17/business/datarobot-raises-270
 cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/?outputType=amp"
 type: article
 quality: 137
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
         width: 1980
         height: 1320
         isCached: true
-  - title: "Enterprise AI Software Startup DataRobot Raises $270 Million in Pre-IPO Round"
-    excerpt: "DataRobot, an enterprise artificial-intelligence platform startup, on Tuesday said it raised $270 million in a pre-initial public offering funding round led by Altimeter Capital. DataRobot said the round values the Boston company at more than $2."
-    publishedDateTime: 2020-11-17T10:04:00Z
-    webUrl: "https://www.morningstar.com/news/dow-jones/202011176961/enterprise-ai-software-startup-datarobot-raises-270-million-in-pre-ipo-round"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 31
 
 secured: "mFzbG7l61fEHVTDPsHi2LW/jYScHS/Zt69no1rIHDYJVzz19plfu/djNrILAEm8rejDYb1wKoi1+wlF11Y50hX5zoDuYcnjCTDX2/NsKegCZRCPK2M8/utx0cniMvFl6X8e2l1gHR+VKhS3B0NSpqF60M62dhKwAokW8Ndn9QqfQ3YXCZnW0/8NesEVNM6hwGRavETK2iyBbdE/kuI/2o92HHjKYXgno4LXdFmi31e5bEGNboltaUf/mEkZ/ojkbE+dWe0IulM/COSi003lX94Grjt35JVakSomqDpF5wy/FNJMPb9KZNTQLwQBP2g+6S+lL3jJPcrjLcOO9yIRzzf2RqtwlLgUlZ8LZfKOoDfY=;sA74QulXT0JlFhlDomFs4A=="
 ---

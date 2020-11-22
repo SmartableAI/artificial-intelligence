@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-19-zapata-raises-38-million-for-quantum-machine-learning.md",
+      "title": "Zapata raises $38 million for quantum machine learning",
+      "excerpt": "Zapata Computing has raised $38 million for its quantum computing enterprise software platform. The figure, which brings its total funding to over $64 million, will be put toward Zapata’s core ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2.wp.com/i.ytimg.com/vi/5h_i4Po9Wds/hqdefault.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
+      "publishedDateTime": "2020-11-19T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-the-new-m1-macs-make-cutting-edge-machine-learning-workstations.md",
       "title": "The new M1 Macs make cutting-edge, machine-learning workstations",
       "excerpt": "When you think of programming machine-learning PCs, hard-core developers dreams turn to high-priced powerhouse machines running Linux. But a recent benchmark by TensorFlow programmers showed that Macs powered by Apple's new M1 chip can give these boxes a run for their money.",
@@ -180,6 +233,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-natural-language-processing-nlp-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research.md",
+      "title": "Natural Language Processing (NLP) Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research",
+      "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T04:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -829,58 +934,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-19-ibm-announces-its-second-cloud-related-acquisition-this-week.md",
-      "title": "IBM Announces Its Second Cloud-Related Acquisition This Week",
-      "excerpt": "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601417%2Fgettyimages-1167278913.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/",
-      "publishedDateTime": "2020-11-18T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast.md",
       "title": "AWS Inferentia Gathers More Steam With Alexa, Snap, Anthem, And Conde Nast",
       "excerpt": "Amazon also shared that its computer vision platform, Rekognition, has also started leveraging AWS Inferentia. According to the company, this has allowed it to perform object classification with ...",
@@ -930,6 +983,58 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by.md",
+      "title": "Global Healthcare Artificial Intelligence Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2026",
+      "excerpt": "Nov 18, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T15:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -1120,109 +1225,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-deepfence-nabs-95-million-to-build-ai-shields-for-cloud-workloads.md",
-      "title": "Deepfence nabs $9.5 million to build AI shields for cloud workloads",
-      "excerpt": "Deepfence, a startup developing AI-based protections against cybersecurity threats, has raised $9.5 million in funding.",
-      "sourceUrl": null,
-      "webUrl": "https://deepfence.io/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/deepfence-nabs-9-5-million-to-shield-cloud-workloads-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deepfence.io/deepfence_media/2020/11/vb.jpg",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
-      "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
-      "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
-      "publishedDateTime": "2020-11-18T12:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

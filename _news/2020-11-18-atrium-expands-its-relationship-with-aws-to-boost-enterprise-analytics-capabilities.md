@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
+excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
 publishedDateTime: 2020-11-18T11:25:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
 type: article
-quality: 63
-heat: 93
-published: true
+quality: 33
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -53,6 +49,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Kinexon Collects Funding for Innovation in AI, Analytics & Assist the COVID Fight"
+    excerpt: "Munich-based IoT outfit Kinexon announced a 15 million Euro venture debt loan from the European Investment Bank (EIB). The IoT firm develops hardware and software capable of moving the world toward a flattened curve."
+    publishedDateTime: 2020-11-17T20:42:00Z
+    webUrl: "https://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm"
+    ampWebUrl: "http://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
+    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 32
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z
@@ -68,6 +75,6 @@ related:
         height: 1406
         isCached: true
 
-secured: "iJc3h3/VjKQKW8DovLv8pxxGDa5JbbU4RDTkev+kj60BxGlt+BdQvHm6hBRdK3ylDt5jN9xhiQuVVbSSWuEb6htTukcCIaOLx8uBWp/bNFywxqFbNMADSnJBeR0JLlSWTxuqIw3vcHyhOPL8YewY8KCR0v0aGhfKxOLOKLTznsiCkxQB7K4NSYlfgNlg/pu8scCeqH0Cgjo0y3gO6ioFC6mDkcL8WOTO4UeK9v1T21k/sYUhUD5AaoedLiG0oMiXDXGx9ZtHg6DwtbyOvJoLLBoTfxoi5kGty/ZBt5Qup/IX5DBYs3uVDAEK6iU0IJ5xtD+te9GfNl+CmbKeinb1PQNU2tjer0Mu7Q83zK3lr1c=;foUSRsEx2TSj/XI2O7rIXw=="
+secured: "GL3nIEcCGimcPXhp6nN8fs1XJ/X+wIdwShGdhKbpqcJETXX4//EdLA3YFLvPAR64f9rHDCa9QhuPqJE1i8o26gq6v7Vrzyg5c5AYNbZlildF2pZE3ZaItDT5+yTgm9spMFr3dFc6Fvqj7qMTtIhw1ogxLoEwKfJ9hsYlXi1saEGGg5nRNAK8A8Vohku6JMW6bDV5IObHbj5rsojaOM9MPGykGHLcbF/NMGvNvlrOe9yM7vcgTJTmJ+qGFz+JYZMf7y6FCbTdcih0CpsZ0BxJH+jD6BstcuiOtzZAgf82DtPIDwYzppnGy5cFGmvNHaOWTxW5YdmyFOHsGPjlLyff2kqNfElWFtsVXTslDl297u4=;eg9m08q3fnfYkKGSWZfOWw=="
 ---
 

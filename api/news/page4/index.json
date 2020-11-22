@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-19-deepfence-nabs-95-million-to-build-ai-shields-for-cloud-workloads.md",
+      "title": "Deepfence nabs $9.5 million to build AI shields for cloud workloads",
+      "excerpt": "Deepfence, a startup developing AI-based protections against cybersecurity threats, has raised $9.5 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://deepfence.io/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/deepfence-nabs-9-5-million-to-shield-cloud-workloads-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://deepfence.io/deepfence_media/2020/11/vb.jpg",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
+      "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
+      "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/",
+      "publishedDateTime": "2020-11-18T12:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-apple-m1-chip-will-save-25b-a-year-after-dumping-intel-for-the-m1-chip.md",
       "title": "Apple M1 chip will save $2.5b a year after dumping Intel for the M1 chip",
       "excerpt": "Apple's decision to quit Intel and use its own M1 chip to power the latest MacBook Pro, MacBook Air, and Mac Mini will save the company $2.5 billion, according to a new report. One of Apple's biggest stated reasons for moving to the new ARM-based silicon was as a cost saving measure and,",
@@ -1062,7 +1165,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1138,110 +1241,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform.md",
-      "title": "K Health raises $42 million to expand its AI-powered telemedicine platform",
-      "excerpt": "Tech giants like IBM, Facebook, and Microsoft have partnered ... But Bloch asserts that K Health’s AI-driven approach, combined with its proprietary medical knowledge database, gives it a ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rdna-2-deep-dive-whats-inside-amds-radeon-rx-6000-graphics-cards.md",
-      "title": "RDNA 2 deep-dive: What's inside AMD's Radeon RX 6000 graphics cards",
-      "excerpt": "AMD's new RDNA 2 architecture brings ray tracing, an innovative Infinity Cache, and more to Radeon RX 6000-series GPUs. Here's everything you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
-      "originalUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg",
-          "width": 500,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

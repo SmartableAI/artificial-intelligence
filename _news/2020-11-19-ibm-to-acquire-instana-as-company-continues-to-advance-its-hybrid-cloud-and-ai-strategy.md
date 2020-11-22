@@ -1,28 +1,28 @@
 ---
 category: news
 title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-excerpt: "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ..."
-publishedDateTime: 2020-11-18T22:48:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html"
-webUrl: "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html"
+excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
+publishedDateTime: 2020-11-19T01:38:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
 type: article
-quality: 31
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
-
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-    width: 2698
-    height: 1414
-    isCached: true
 
 related:
   - title: "IBM acquires Instana for its AI-powered app performance monitoring"
@@ -196,6 +196,6 @@ related:
         height: 683
         isCached: true
 
-secured: "Z4mRg937EuSINJ7YTrpv2lfExFTHuKMlunHrae6Q+gum4UvKzjD0KwOUZgcbo+VYaw5tAsTkbJry7TDrUP84j0VUnjzP7MVGaazFuzWBPx1zUzsqJ+jo7CcSvdYRUUQZXmieoAjk8RtrOaLyonb4OXbUfiTOGcrfpZeafjqhgTtk96d+bs5H5etKK9hWhEYPhDZHiF/plkt4oRY/XTFuLKjPyLsRcz0SlS0NTgxYl1znsbfbLvXm4JGLcvD3+2tATdwj/rXUCXLQluYnKstRuN4+Yfb4MfkhNPRXKi6gVFwVSnuE9oUe+jJYbjFpXEvAI7x4ebrbyYDv9aZulHi8N/05zo2X6h/PERfHUYpx2i4=;mUAefOQx70rHX6FvS1ux/A=="
+secured: "fQcjMdNJZBMz+x8VAXEJTpBWkhtAF/N72/RwhGgMKj6jIv1EeNl9060VQi/m8rljd+kLKxrlpFLFvXt8/izSk3M7PjENRtzHDdwFUOUT+t0ekkopc8sRMMTaFTKV5jWJn4TEM/C9BU3MM6QgK8GYw43bfl5xmNbhJWvaOcCefBiVom3Uvl4QFkxLfIN5o5M3YOYpk77lxGO8k52D+/0xq1EVRxqPikHKIgogFedgwcxoaVsDKjcXpOkLoAX4yijq1Wphn9fQQ7BeNtiooe97xv94Y11pJ1B/LJCv0KICB0pMmzzZtVkYvX873kSYIz9tijCoz3s+joPW3U8GAWx6NPsx2hBQZBdQYV71WD69Gdg=;HFAqM3TS52nv3pbn6r4S6g=="
 ---
 

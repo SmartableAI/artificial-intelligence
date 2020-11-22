@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newindianexpress.com/business/2020/nov/17/niti-aayog-pro
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.amp"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: The New Indian Express
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NITI Aayog wants dedicated oversight body for use of artificial intelligence"
-    excerpt: "According to the draft document, the oversight body must play an enabling role under the broad areas of research technical, legal, policy and societal issues related to AI. Besides, it should provide clarity on responsible behaviour through design structures,"
-    publishedDateTime: 2020-11-17T09:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-wants-dedicated-oversight-body-for-use-of-artificial-intelligence/articleshow/79260810.cms"
-    ampWebUrl: "https://m.economictimes.com/news/economy/policy/niti-aayog-wants-dedicated-oversight-body-for-use-of-artificial-intelligence/amp_articleshow/79260810.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/economy/policy/niti-aayog-wants-dedicated-oversight-body-for-use-of-artificial-intelligence/amp_articleshow/79260810.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-72428,msid-58716963/5-step-guide-to-link-pan-to-aadhaar.jpg"
-        width: 412
-        height: 255
-        isCached: true
   - title: "Niti Aayog proposes setting up oversight body for AI"
     excerpt: "“Technology easily blends across other technologies and must not be viewed in silo. Ethics should be seen as not just limited to AI but also other emerging technologies such as AR (augmented reality),VR (virtual reality) etc,” it said. The draft ..."
     publishedDateTime: 2020-11-18T00:14:00Z

@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-    excerpt: "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI."
-    publishedDateTime: 2020-11-18T11:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "Future of Healthcare Data & Analytics"
     excerpt: "helping to create and launch Healthcare NExT, Microsoft’s incubator at the intersection of artificial intelligence and healthcare. Prior to his current role, Mr. Cox led incubation efforts for Microsoft’s corporate strategy organization, responsible ..."
     publishedDateTime: 2020-11-19T01:26:00Z
@@ -50,6 +39,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
+    excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
+    publishedDateTime: 2020-11-18T11:25:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 33
   - title: "Mayo Clinic inks data analytics partnership with AI-powered telehealth startup"
     excerpt: "Mayo Clinic formed a new collaboration focused on expanding clinical data analytics with K Health, a startup offering patients an artificial intelligence-powered symptom checker and telehealth consultations with primary care physicians,"
     publishedDateTime: 2020-11-18T22:36:00Z
@@ -64,6 +64,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Kinexon Collects Funding for Innovation in AI, Analytics & Assist the COVID Fight"
+    excerpt: "Munich-based IoT outfit Kinexon announced a 15 million Euro venture debt loan from the European Investment Bank (EIB). The IoT firm develops hardware and software capable of moving the world toward a flattened curve."
+    publishedDateTime: 2020-11-17T20:42:00Z
+    webUrl: "https://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm"
+    ampWebUrl: "http://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
+    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
+    type: article
+    provider:
+      name: iotevolutionworld.com
+      domain: iotevolutionworld.com
+    quality: 32
 
 secured: "j8X8StlhI1kRHbmuED29qlngFiofK3gpAjKSdiNjtwzXcBBYfBPl4SJr8kVL7pDGvU/tScIMOvQObCAE0Psft+xyDAKGldqCc99hg2z6FPg+Xg7EVXUEQSVNaLl53MuU4bfkHMFB+Dd3VBo1Zgage11AV+Vgrbhz+JnGXz2r5JWbXF22f7ovT1Whg9EiBBBqxUzHfQ/kIIxYPTzpTfTAnVBH4I9OOiWPWRfthwydL/SXNeBRIIjqwn5Udc2HdYgqcdHrOQZDrT2clDGNiiJSrOAEVqQLKzscpbsj0abdMDBp7QYsjfyPeCtJjt27VY2D3unay1mr7LXWyxxn9TpDiieifpkc4t+K+74kSHnFg2w=;m2uGmJ7K/ZQJV6i3/JqZVA=="
 ---

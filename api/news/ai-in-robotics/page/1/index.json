@@ -10,7 +10,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 101,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -32,7 +32,8 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -618,7 +619,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/18/rapid-robotics-raises-5-5m-for-pre-programmed-manufacturing-robots/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {

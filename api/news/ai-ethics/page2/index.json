@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-20-ntt-data-study-finds-organizations-underestimate-the-ethical-challenges-of-ai.md",
-      "title": "NTT DATA Study Finds Organizations Underestimate the Ethical Challenges of AI",
-      "excerpt": "NTT DATA Services, a digital business and IT services leader, today announced the results of a new study with Oxford Economics that assesses progress, concerns and use cases for Artificial Intelligence (AI) and automation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201020005741/en/NTT-DATA-Study-Finds-Organizations-Underestimate-the-Ethical-Challenges-of-AI",
-      "originalUrl": "https://www.businesswire.com/news/home/20201020005741/en/NTT-DATA-Study-Finds-Organizations-Underestimate-the-Ethical-Challenges-of-AI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201020005741/en/831578/23/NTT-DATA-Logo-HumanBlue.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-20-photoshops-ai-neural-filters-can-tweak-age-and-expression-with-a-few-clicks.md",
       "title": "Photoshop’s AI neural filters can tweak age and expression with a few clicks",
       "excerpt": "These filters include a number of simple overlays and effects but also tools that allow for deeper edits, particularly to portraits. With neural filters, Photoshop can adjust a subject’s age and facial expression,",

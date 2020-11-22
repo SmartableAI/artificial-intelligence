@@ -2,25 +2,27 @@
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
 excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-publishedDateTime: 2020-11-18T15:15:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+publishedDateTime: 2020-11-18T05:04:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
 type: article
-quality: 64
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
 
 related:
   - title: "The human brain inspires RMIT researchers to develop a light-powered AI chip"
@@ -68,6 +70,6 @@ related:
         height: 3456
         isCached: true
 
-secured: "Q2ch46qpU83OhmLDhTNbeq2zC+VkfVzTPZmB5k+BsojiWCf2LAjYKRLa3znUB9a563YyEkxX6goYQU0gSzWZL9HlAKHJfCDc7kHgmB6x0QWoY66IHl78/NffLPEjVLgk9kfSyVeX/0QjISX/iOAyyRvw85MUonIPHUU9Ssvm05bNYiAftJURh2fr68qmHDXggVrI+Z+X3Rb5k+zSGQ3/xjGPK8F35aT+MIBweKc5+VHtl2JrcXmxo4xBXACFYnfBO0Ljm0p6bh1fdmr3KsHvQdQtoVa0lNV5fBB5Ne1XiRQH1BxA7dR9ZNaDwAEa1QizeI2GfK5VRoAeZYEOH2BmwYwe+UMfb9nDZsJL3W3Ktpg=;MVhfqv9wIBkvm2v/2m/gcw=="
+secured: "NmE+N0MVgKEkFxlxf0i7B1qguy+xqt8f4xfNTuk6WnAC5+Cbtie+43c4QNzD5bWr2/FpEaaFelD4QjHbaBvG9JFuXPbJctmUKbE4mKuIBe2zxpm9Zoto37IYOBppwp28fAoFPRlaLaIu8n2wMjH1TyKPzKKnPGvzaEM9WWd5r3r3FoMZ7ybrKapJU6XdngSWFvIFdQUSWNrr2d3lUVkVgi1sphB6H4pPbk5RM3sXDmSm9N51j0f4stjlwb/E7JM6gXy5NqCmlHcSCnd9EQQw7PZmQECspuiIjUfqvSLVnHwYeikKJ9TGjZi0Sypy+6uciU57Q3LrT/ADGQ/lc5FXAYCuos5RcGlIvvhQMf6mgls=;RrYQ4R+me4JXOuBCz90NKQ=="
 ---
 

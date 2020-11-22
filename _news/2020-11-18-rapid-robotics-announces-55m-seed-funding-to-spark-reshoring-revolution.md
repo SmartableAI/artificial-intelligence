@@ -35,20 +35,6 @@ related:
         width: 1024
         height: 765
         isCached: true
-  - title: "Fintech Company Obligo Raises $15.5M in Series A to Roll Out New Standard for Deposit-Free Renting"
-    excerpt: "Fintech company Obligo today announced a $15.5 million Series A funding round from investors including 83North, 10D, Entrée Capital,"
-    publishedDateTime: 2020-11-18T12:30:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/fintech-company-obligo-raises-15-5m-in-series-a-to-roll-out-new-standard-for-deposit-free-renting-301175988.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1337090/Obligo_Logo.jpg?p=facebook"
-        width: 1750
-        height: 918
-        isCached: true
 
 secured: "s5bAZuIfCycQ7z4ht92ubihe8/hroxDXQ4LRDHvb81mHapTREeUQRivSD/YoAC/webPSwDbOj/fYRcwRsxHu+YwVLXbJ7HT6EV2/rQt1VXkCg3pQpuXW1KeUR2B90N2LSNcKy+4g2mTaxENRzd26Fb9A8bHLAuL7h9FRq1fnCWxIFqzvcj4JYNxM3c0bJsbB0vKsXeIH/TQj9TmO9Nnx0VcoiWZx0imrk+ghbiYr26soC9NjQFnHQ8UOJc8OUI1AkXyMJSpJBs0vCpFKZRksnhIJCC00NfJjHH1d1FAGQHpgCICtgYLiHIwkew4Ict5F0ty3/nvab1L2Pyw7krg/sK4518wHP2KgRxsAdJ87nFI=;ePQnWKbbDOvOzYGZQg2j1Q=="
 ---

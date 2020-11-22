@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "From plague repellents to early tobacco: Scientists launch £2.5 million project to recreate 'smells of the past' using artificial intelligence"
-    excerpt: "The project from Europe-wide researchers, called Odeuropa, will recreate aromas that were inhaled by the world's inhabitants between 500 and 100 years ago."
-    publishedDateTime: 2020-11-17T10:39:00Z
-    webUrl: "https://www.mailonsunday.co.uk/sciencetech/article-8957095/Scientists-launch-2-5-million-project-recreate-smells-past.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-8957095/amp/Scientists-launch-2-5-million-project-recreate-smells-past.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-8957095/amp/Scientists-launch-2-5-million-project-recreate-smells-past.html"
-    type: article
-    provider:
-      name: mailonsunday.co.uk
-      domain: mailonsunday.co.uk
-    quality: 21
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/11/17/10/35766842-0-image-a-14_1605607419601.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "F3t+k+3ioS3MqVXvJNq8AJvnRhAoT73LujxmflBaPcl6Mjys5w9gwQRAGSGCVNJb/qv2VyM7oStI9cRWbExPK51qRMvYIJhkku6CJqsojPynWgukO023RHKOD/K2sjWrLZLNlofrgv7n/fpCMw5AuVkhmHdRxrJm+LaGhXRQeVLU87aZ+jiGYrrs26fphCgSvramH9StAILWm3j2hH45lM1rVaFcHrVCveJEBfMMr86coL6qCPzeK3MA0qFvfNOva+gkUX8/FnguyWlXdxlFUYcn4FH076v0QlhvStg7uL9ClnqkbRQPODUJCyWeUZ7i+SJPZTcg07IThsL5I2l6Z86rv7/fzKunNVF8RECBcg9FW8Ivnf3pdYEVabtYi38amJBWJ0ivY7dYGT0l9lWds4bHei9xGzZYWn7K+G4+/nArmAI91EfFXZeD24cCc4kFipgwnUW5wi0JgKO3J5/hc95UY8oySDnmvemz2a72bP9jqBHdWyISFwTG2bBwprzgKnVTOArXP1Hh/W/MpUb1jw==;rnXghGLPn4kVI1Zz/rkpIg=="
 ---

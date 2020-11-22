@@ -41,22 +41,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "NITI Aayog wants dedicated oversight body for use of artificial intelligence"
-    excerpt: "According to the draft document, the oversight body must play an enabling role under the broad areas of research technical, legal, policy and societal issues related to AI. Besides, it should provide clarity on responsible behaviour through design structures,"
-    publishedDateTime: 2020-11-17T09:38:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/economy/policy/niti-aayog-wants-dedicated-oversight-body-for-use-of-artificial-intelligence/articleshow/79260810.cms"
-    ampWebUrl: "https://m.economictimes.com/news/economy/policy/niti-aayog-wants-dedicated-oversight-body-for-use-of-artificial-intelligence/amp_articleshow/79260810.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/economy/policy/niti-aayog-wants-dedicated-oversight-body-for-use-of-artificial-intelligence/amp_articleshow/79260810.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://economictimes.indiatimes.com/thumb/width-412,height-255,imgsize-72428,msid-58716963/5-step-guide-to-link-pan-to-aadhaar.jpg"
-        width: 412
-        height: 255
-        isCached: true
 
 secured: "UocLfUvwT3Ob18ScvB3kN9fmh9Uc5nll7hTW82M0Sps5Jtm6lVHC87NNyXRSYKaSCH8FLlvVUS5YXmEdAnCEAAUf5KKxBNATMq/4AIYaFYMoJ1x1CZIHZYQTjXRNjmGQnjYsV7LMPzWPA3g7UIgnWxj+azCG4yiAct6/e995N3F/ev/opljQRxBw7P010woFEtT4su6zKSsb0IbcyRYmb7HUnIFY+J/KuAsJcgMlpqqhd6HnkZOdYonmCRhpcIF8QomigZQPFM311fN2rleVXXZOyuq9EIylwdCVdYggGDN2gcS0bECJpk25GGaaYICNSVCESVHRr5/OYrTeXUFKj7n8v3fIdmNRsm1Z7DKU8rrt9F2eVAko1Tkr1sZnWqCdZdx3otRStSwMxHEGAvQCs/HOjEbHxEWZ+EnAd9v6v+TJls/Eo11eVIHBTWzm1z0vB3KP+GFeiZg6iZgiUbvXMNCTRx2AL7A5b+k1a6CnKeBrDW4UifhlKesRd/0uXg09z3KensGNa6Vl6F1p0kda7A==;fMYt9HTKDVlZ7KB7hG7rWw=="
 ---

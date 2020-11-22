@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-22-mumbai-bmc-introduces-face-recognition-in-hospital-to-prevent-covid-19-spread.md",
+      "title": "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread",
+      "excerpt": "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "originalUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg",
+          "width": 670,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "publishedDateTime": "2020-11-21T17:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
       "title": "Houston implements facial recognition technology at airports",
       "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
@@ -1404,49 +1447,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-face-recognition-pollution-alert-in-tech-upgrade.md",
-      "title": "Face recognition, pollution alert in tech upgrade",
-      "excerpt": "The city’s ambitious smart traffic management system system — that proposes to use advanced technologies and a surveillance web of cameras to m.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/articleshow/79008997.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79008996/79008996.jpg",
-          "width": 800,
-          "height": 751,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/noida/face-recognition-pollution-alert-in-tech-upgrade/amp_articleshow/79008997.cms",
-      "publishedDateTime": "2020-11-02T17:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
