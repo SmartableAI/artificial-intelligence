@@ -167,7 +167,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1240,34 +1240,34 @@
     {
       "path": "_news/2020-11-12-doit-international-named-aws-reseller-partner-of-the-year.md",
       "title": "DoiT International Named AWS Reseller Partner of the Year",
-      "excerpt": "DoiT International has announced today that it has been named the 2020 AWS Reseller Partner of the Year in Israel. SANTA CLARA, California, Nov.",
+      "excerpt": "PRNewswire/ -- DoiT International (\"DoiT\" or the \"Company\"), a leading provider of proprietary public cloud optimization and governance software and",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
+      "webUrl": "https://www.prnewswire.com/news-releases/doit-international-named-aws-reseller-partner-of-the-year-301171231.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/doit-international-named-aws-reseller-partner-of-the-year-301171231.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343",
-      "publishedDateTime": "2020-11-12T05:43:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T04:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

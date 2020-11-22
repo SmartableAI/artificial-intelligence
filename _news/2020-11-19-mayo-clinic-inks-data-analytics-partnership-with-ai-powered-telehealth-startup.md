@@ -49,17 +49,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 33
-  - title: "Kinexon Collects Funding for Innovation in AI, Analytics & Assist the COVID Fight"
-    excerpt: "Munich-based IoT outfit Kinexon announced a 15 million Euro venture debt loan from the European Investment Bank (EIB). The IoT firm develops hardware and software capable of moving the world toward a flattened curve."
-    publishedDateTime: 2020-11-17T20:42:00Z
-    webUrl: "https://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm"
-    ampWebUrl: "http://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
-    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 32
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z

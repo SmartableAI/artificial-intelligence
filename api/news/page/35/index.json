@@ -2,6 +2,187 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-26-dubai-introduces-facial-recognition-on-public-transport.md",
+      "title": "Dubai introduces facial recognition on public transport",
+      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html",
+      "originalUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg",
+          "width": 962,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1",
+      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1",
+      "publishedDateTime": "2020-10-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al-Monitor",
+        "domain": "al-monitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-network-testing-in-the-5g-era.md",
+      "title": "Network testing in the 5G era",
+      "excerpt": "A widely used application is object recognition, in which the presence and position of a particular object in an image (e.g. “A cat is/is not present in the picture”) is determined through multi-stage interpretation of patterns (edges, coloured areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/image-library/93/figure_03_szenario_5410cbec.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-ai-at-the-edge-hack-chat.md",
+      "title": "AI At The Edge Hack Chat",
+      "excerpt": "Join us Wednesday at noon Pacific time for the AI at the Edge Hack Chat with John Welsh from NVIDIA! Machine learning was once the business of big iron like IBM’s Watson or the nearly limitless ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/04/29/ai-at-the-edge-hack-chat/",
+      "originalUrl": "https://hackaday.com/2019/04/29/ai-at-the-edge-hack-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/04/1_Jetson_nano-PressGraphic_2000x1200-1.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-why-do-governments-need-cognitive-services.md",
+      "title": "Why do governments need cognitive services?",
+      "excerpt": "Mykhaylo Shmyelov, Director for National Technology Strategies and Policies for 24 Countries in Central and Eastern Europe at Microsoft, talked with Kazakhstani media Kursiv.kz about cognitive services and how they help governments become genuinely digital.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
+      "originalUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/10/web-3963945_1920-1600x843.jpg",
+          "width": 1600,
+          "height": 843,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-android-studio-improves-machine-learning-support.md",
       "title": "Android Studio improves machine learning support",
       "excerpt": "With the 4.1 release, Android Studio improves on-device machine learning support via backing for TensorFlow Lite models in Android projects. Android Studio generates classes so models can be run ...",
@@ -991,186 +1172,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-can-ai-fix-the-broken-us-presidential-debates.md",
-      "title": "Can AI Fix The Broken U.S. Presidential Debates?",
-      "excerpt": "By contrast, IBM’s Watson analysed 3,500 questions submitted online using a new capability called Key Point Analysis. It’s an AI-based summary developed by the IBM Research Project Debater team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
-      "originalUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
-      "publishedDateTime": "2020-10-23T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-microsoft-showcases-sustainable-digital-transformation-solutions-at-wetex-2017.md",
-      "title": "Microsoft Showcases Sustainable Digital Transformation Solutions at WETEX 2017",
-      "excerpt": "Built on the Azure cloud with the latest technologies, such as artificial intelligence (AI), immersive human-machine interaction, cognitive services and bot frameworks, Microsoft marked its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
-      "originalUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/IMG-20171023-WA0010.jpg?itok=2CtfW3w2",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
-      "publishedDateTime": "2020-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-stethoscopes-electronics-and-artificial-intelligence.md",
-      "title": "Stethoscopes, Electronics, And Artificial Intelligence",
-      "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "originalUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg",
-          "width": 4350,
-          "height": 2900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid.md",
-      "title": "Oil Rigs Run on AI ‘Twins’ Point to a Future Hastened by Covid",
-      "excerpt": "The coronavirus crisis had a devastating effect on oil-company revenues, but it’s posed a tough human-resources problem too: how to keep workers safe on cramped rigs at sea where social-distancing is impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iJQhjkdbxF9g/v0/360x-1.jpg",
-          "width": 360,
-          "height": 236,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-23/oil-rigs-run-on-ai-twins-point-to-a-future-hastened-by-covid",
-      "publishedDateTime": "2020-10-23T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

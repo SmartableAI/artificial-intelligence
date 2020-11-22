@@ -64,17 +64,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Kinexon Collects Funding for Innovation in AI, Analytics & Assist the COVID Fight"
-    excerpt: "Munich-based IoT outfit Kinexon announced a 15 million Euro venture debt loan from the European Investment Bank (EIB). The IoT firm develops hardware and software capable of moving the world toward a flattened curve."
-    publishedDateTime: 2020-11-17T20:42:00Z
-    webUrl: "https://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm"
-    ampWebUrl: "http://www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
-    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/www.iotevolutionworld.com/iot/articles/447171-kinexon-collects-funding-innovation-ai-analytics-assist-covid.htm/amp"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 32
 
 secured: "j8X8StlhI1kRHbmuED29qlngFiofK3gpAjKSdiNjtwzXcBBYfBPl4SJr8kVL7pDGvU/tScIMOvQObCAE0Psft+xyDAKGldqCc99hg2z6FPg+Xg7EVXUEQSVNaLl53MuU4bfkHMFB+Dd3VBo1Zgage11AV+Vgrbhz+JnGXz2r5JWbXF22f7ovT1Whg9EiBBBqxUzHfQ/kIIxYPTzpTfTAnVBH4I9OOiWPWRfthwydL/SXNeBRIIjqwn5Udc2HdYgqcdHrOQZDrT2clDGNiiJSrOAEVqQLKzscpbsj0abdMDBp7QYsjfyPeCtJjt27VY2D3unay1mr7LXWyxxn9TpDiieifpkc4t+K+74kSHnFg2w=;m2uGmJ7K/ZQJV6i3/JqZVA=="
 ---

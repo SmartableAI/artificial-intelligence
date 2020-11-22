@@ -43,22 +43,6 @@ related:
         width: 450
         height: 350
         isCached: true
-  - title: "How artificial intelligence will empower fourth industrial revolution – Nigerian govt"
-    excerpt: "The Director General of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has said that the emerging"
-    publishedDateTime: 2020-11-17T19:44:00Z
-    webUrl: "https://dailypost.ng/2020/11/17/how-artificial-intelligence-will-empower-fourth-industrial-revolution-nigerian-govt/"
-    ampWebUrl: "https://dailypost.ng/2020/11/17/how-artificial-intelligence-will-empower-fourth-industrial-revolution-nigerian-govt/"
-    cdnAmpWebUrl: "https://dailypost-ng.cdn.ampproject.org/c/s/dailypost.ng/2020/11/17/how-artificial-intelligence-will-empower-fourth-industrial-revolution-nigerian-govt/"
-    type: article
-    provider:
-      name: Daily Post Nigeria
-      domain: dailypost.ng
-    quality: 52
-    images:
-      - url: "https://dailypost.ng/wp-content/uploads/2020/06/Kashifu-Inuwa-Abdullahi.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "QxA3IceFjMg7JNlCZLCXASkDGpTn7TtRWjN3rB2+IJ2pTSSqh0BtAhVCeqKbIERGzeLvm6aiRYscDyyxMeZsqI1jKAe73yOOGAv/AL3gNIl0N825PYOi8faM956/BlWFAn5SB0eCbKckPh5xvPjuwZ4M6jZlc/BdTlhwFdwQb8P98PJRFUTaeIbwZVojemlGRq2iHnuHHwN5p88QnXFTs6VI7i6oL3pFLtJ/QbhcDymsgTK+cmsy+eLjVWwUvgKDzy9cxIL7a80cQKUIzaK61XkuZ7aJfl2lpw7e+5QA4BexxJol5HsSM0ImP4qsqp3+V6ZnoyCUNzjbMDICgikAw/0KjL8pwQ0vr87ze6xCMn4TWCSdzgssd91CojXpQr/fiz6ihK4EqYqqpdIIxVtyUSi+xHRo++RrJ/XuLvHgwJh3ZunD232xd2oqGAc3o7Q4K3xTtHMm7Fijf0y9La4+b0cNmcm+5GSE28SC4RKJ74Z4oVHwip2CWdvYnfKLO53bDoFFQBO8aoLrp9B42jJ6FA==;Mv9J5weTFKgTw8NFNm3Q7w=="
 ---

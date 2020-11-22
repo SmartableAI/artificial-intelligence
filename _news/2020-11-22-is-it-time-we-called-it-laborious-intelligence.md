@@ -38,17 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Allied Solutions partners with leading Artificial Intelligence provider Interface, to offer an Intelligent Virtual Assistant to Financial Institutions"
-    excerpt: "Interface has several decades of experience building enterprise-grade technology for financial institutions. Interface's Intelligent Virtual Assistant has already enabled financial institutions across the world to achieve greater efficiencies in their top-line & bottom-line while ensuring the best customer experience."
-    publishedDateTime: 2020-11-17T20:46:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-1029811465"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-1029811465"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/allied-solutions-partners-with-leading-artificial-intelligence-provider-interface-to-offer-an-intelligent-virtual-assistant-to-financial-institutions-1029811465"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 27
 
 secured: "elEEwRRIEV4ifGcwhENRWmDCghVr9TgwVvV7tBJUF++XAAkfQmTYIxpEeeWntZidkn4SkZW/51kbw2jtlA1Kui8m7XdpEVlKGV6pg+Jz9af7lUglN0cqv/k8SKOUduk0DJxEvVN/y5ck1MAZjCIrnOgLvum1dgogRW1nk16sVnjDmFt3pEukZ++J4MGP25PCW3cP4muS7xEw7uToh7IBexvSt6Xr6wHbT2OqCVvIBSZr4d+GSft3zpG4fARsijOGqBue8WG7FAh5/HxSxYKR4wEh5OhoZyuOMydaBhQ7jsII8JCX0JmziKqpC5ZHglj3bguAIFNr2xSoxxGVsyObavXJn2mDt1uQ9yl16QSASZ4=;WGZo9lLy6Y9zwRK3OrF5xQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla Expands Full Self-Driving Beta Program To More States Like Michigan, Illinois"
-    excerpt: "Tesla Inc (NASDAQ: TSLA) is in the final steps of testing features to bring the complete \"Full Self-Driving\" software package to its customers. This involves sending"
-    publishedDateTime: 2020-11-17T19:10:00Z
-    webUrl: "https://www.benzinga.com/tech/20/11/18414451/tesla-expands-full-self-driving-beta-program-to-more-states-like-michigan-illinois"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18414451"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18414451"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/autopilot_0.jpg"
-        width: 2880
-        height: 1400
-        isCached: true
   - title: "Musk Says Special Full Self-Driving Beta Update Coming With 'Entire New Areas Of Functionality'"
     excerpt: "Tesla Inc (NASDAQ: TSLA) began releasing its Full Self Driving (FSD) Beta software to a small group of early public testers at the end of October. Since then, the software"
     publishedDateTime: 2020-11-20T00:55:00Z

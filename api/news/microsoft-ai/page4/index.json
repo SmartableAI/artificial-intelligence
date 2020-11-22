@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-15-full-session-cognitive-risk-and-the-nature-of-threat.md",
+      "title": "Full Session: Cognitive Risk and the Nature of Threat",
+      "excerpt": "This CDW Tech Talk session explores why IT leaders should think consider the cognitive risk tied to the digital transformation brought on by the pandemic and how they can address it. Find full coverage of the CDW Tech Talk here. IT leaders today play a ...",
+      "sourceUrl": null,
+      "webUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat",
+      "originalUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/BenHammersley_FullSession.jpg?itok=yiiC9Bau",
+          "width": 1440,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat?amp",
+      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat?amp",
+      "publishedDateTime": "2020-10-14T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BizTech",
+        "domain": "biztechmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-recap-the-2020-ai-hw-summit.md",
       "title": "Recap: The 2020 AI HW Summit",
       "excerpt": "One of the companies that did make some big disclosures at the event was stealthy startup SambaNova. Much like the UK’s GraphCore, SambaNova and its inference processing platform focus on solving some of the largest AI models, including natural language ...",

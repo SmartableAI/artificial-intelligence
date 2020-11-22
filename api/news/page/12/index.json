@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-12-samsungs-new-midrange-chip-supports-5g-and-200mp-cameras.md",
+      "title": "Samsung’s new midrange chip supports 5G and 200MP cameras",
+      "excerpt": "But the Big A is hardly the only tech giant boasting new chips: Samsung has lifted the lid on its new midrange mobile chip, the Exynos 1080. The chipset, which combines 5G capabilities with enhanced AI features,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
+      "originalUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/samsung-exynos-1080-5g-796x395.png",
+          "width": 796,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/plugged/2020/11/12/samsung-exynos-1080-5g-chip/amp/",
+      "publishedDateTime": "2020-11-12T05:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-super-glue-your-consumer-connections-with-ai.md",
       "title": "Super Glue Your Consumer Connections With AI",
       "excerpt": "In today's hyper-fragmented, pandemic-influenced world, retailers and marketers alike are struggling to keep up with quickly changing shopping behaviors and media consumption.",
@@ -249,6 +301,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-doit-international-named-aws-reseller-partner-of-the-year.md",
+      "title": "DoiT International Named AWS Reseller Partner of the Year",
+      "excerpt": "PRNewswire/ -- DoiT International (\"DoiT\" or the \"Company\"), a leading provider of proprietary public cloud optimization and governance software and",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/doit-international-named-aws-reseller-partner-of-the-year-301171231.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/doit-international-named-aws-reseller-partner-of-the-year-301171231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1135,110 +1230,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-a-case-for-facial-recognition.md",
-      "title": "A Case for Facial Recognition",
-      "excerpt": "Facial recognition software doesn’t have to be all or nothing, argues a city official in Detroit. By Shira Ovide This article is part of the On Tech newsletter. You can sign up here to receive it weekdays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/30/business/30ontech/30ontech-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
-      "publishedDateTime": "2020-11-11T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-training-facial-recognition-on-some-new-furry-friends-bears.md",
-      "title": "Training Facial Recognition on Some New Furry Friends: Bears",
-      "excerpt": "Mr. Miller said. Could artificial intelligence used for face recognition be harnessed to discern one bear face from another? At Knight Inlet in British Columbia, Canada, Melanie Clapham was pondering the same question. Dr. Clapham, a postdoctoral ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/science/11SCI-AI-BEARS/11SCI-AI-BEARS-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
-      "publishedDateTime": "2020-11-11T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -1,26 +1,26 @@
 ---
 category: news
 title: "DoiT International Named AWS Reseller Partner of the Year"
-excerpt: "DoiT International has announced today that it has been named the 2020 AWS Reseller Partner of the Year in Israel. SANTA CLARA, California, Nov."
-publishedDateTime: 2020-11-12T13:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
-webUrl: "https://markets.businessinsider.com/news/stocks/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/doit-international-named-aws-reseller-partner-of-the-year-1029796343"
+excerpt: "PRNewswire/ -- DoiT International (\"DoiT\" or the \"Company\"), a leading provider of proprietary public cloud optimization and governance software and"
+publishedDateTime: 2020-11-12T12:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/doit-international-named-aws-reseller-partner-of-the-year-301171231.html"
+webUrl: "https://www.prnewswire.com/news-releases/doit-international-named-aws-reseller-partner-of-the-year-301171231.html"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "zdEGmGQdtC4auD9cOy2XQQqbwoG1xSamJC81FP6MJDu9y4bYqEmBwj3hoeyXfg6dKMNZxS6fF0ZAlbyq60vt6D+YnixhDvivnvW/4XUrSoIVi0Uc7qQAYQr2XC2sM9LFS3gPk7YwYs1vXjeckDIUPh5doL7beKYOUD0hEw12jhMe0X6FgJDIKILVwMZDrYtmY9qK7JaXn8AEyvrXYc2Pg12uBTa+4MctMPs4+XutDAosDeRa74dBfiIGzhAB0GDX1+B6p6dwQj7iJI/QNBsGTS6uKz44BrU2dcYwnaOLbOSnT5toe2dbvd6q1v9O8GzTyqH2TnSbsuVTr/FixEwf/xvBecrjQS8qejknRjKiHSU=;W69f2m5ITUGRXTaHKsZ/6Q=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "upCUF94MH5vx4RD5cFPra6fdoIZMSAnMzGQ+esiEbbhDv4aQeFjTQUhtSKUwgbUgUdM+P2+GX46By0ZzGLoWml4Fvi/6kId+0NWhUce8Kmtg7KdXcFCVfbzIZCLNykA2ktVVU3t2u9L4px1fZikmk2bH29UZDcAzWWtkDzodlm11aVIkpL/trP0Ya0Y1KE1AAc1sEuLE8kbvSkNkR71c4v6iwuJ/3THON4lVaUf3VWv0hvPv3CRYnOrVKkHXBXSPIV9ULmQDqBoZ9wY4BHFMo6UoXDvZzZBMghGA/5Ku4KoiV9Y5lbvDtvH049fM2F3IQC+A231M6aiZzVumHnr/kgS/JViYwYoMkO+US9vZTeE=;+Fqfnzd9+uUuOkmFaGDj5g=="
 ---
 

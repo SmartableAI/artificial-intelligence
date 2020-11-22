@@ -55,6 +55,20 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
+    excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."
+    publishedDateTime: 2020-11-22T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/top-new-covid-influenced-ai-and-machine-learning-trends/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
+        width: 1285
+        height: 722
+        isCached: true
   - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
     excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
     publishedDateTime: 2020-11-22T04:57:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
         width: 1920
         height: 1200
+        isCached: true
+  - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
+    excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."
+    publishedDateTime: 2020-11-22T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/top-new-covid-influenced-ai-and-machine-learning-trends/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
+        width: 1285
+        height: 722
         isCached: true
   - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
     excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"

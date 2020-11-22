@@ -69,6 +69,20 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
+    excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."
+    publishedDateTime: 2020-11-22T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/top-new-covid-influenced-ai-and-machine-learning-trends/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
+        width: 1285
+        height: 722
+        isCached: true
 
 secured: "Cbfxn0pqGxQ/maivNFTMl/jYGKT/WRYJScfI/vteiGE5vBXGV7Xw/SDNW1evgpIWZDQpzhHn0DLlqAFp87H+WOrC5Tw9uZ8b+d+W5qmioGVqcF1mgw+dN9QipS6rWmrcy28zrLsHfIz3FgyCC7cs3jNc/5ZMkdEmW8L5SOEo5LXH5Bv/YEjpC2SyH96PhpXG2n9iXuiuTD68CHimJmI+dcyLXi/lwdB+A33UdKH+TrmYVJvbuRhIdiPFsLiPtW/lTUAwaz+Q6Zp2PbzC+7tFCHBZLRN5NOvvtASt4fVQBDxniyug4qqecZmXsyy5DTaXpsi/U1ORV60VoxpfNW9w3HRKEQFL0UzX1fxxRwd8Svc=;wedudzGj2h7XMbNoZL/VSw=="
 ---

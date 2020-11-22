@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: MarketWatch
@@ -43,6 +43,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Aisera's Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
+    excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, announced today the availability of its AI Service Desk"
+    publishedDateTime: 2020-11-18T22:42:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/aiseras-conversational-ai-solution-for-microsoft-teams-will-help-change-the-future-of-work-301176477.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 44
+    images:
+      - url: "https://mma.prnewswire.com/media/1338156/Aisera_Logo.jpg?p=facebook"
+        width: 1500
+        height: 784
         isCached: true
 
 secured: "2fwgLHA8HuhJm40oDivZoda0Af28pz+7mcNuUjeUyvUnYLhCHlgea5/niUiTcCYHNGRIcf9/GQFDdVAEEEtpuKqd46syyerUv7lytA3ni8lteSkdh5Rb5e0xcvN6TwR3uzBQ4Twz0nP4WlRitAuV7kKWD66GENatLQ9vQlYSUCsEO0hRxAPddetye+wKJHcQom/gmQ1hlyjivvzojvp7meO9Wx6uH1FudtElLE5vHphJ9nMyQJYQj0pmg6sHsvWs39RucEdt8WdcD9Ap20m/gtoi9EqhGQuIdev9Yh5q/Ddaz2Mp6r0Kc0CfNzzN9NxH+yMwpUo6Fw2pHW7OCwuiuz9C6HMHJcQAgvUGDzyaXmI=;I0MyKIrjFlboYHWUKF6GSg=="

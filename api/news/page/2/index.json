@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
+      "title": "Using Machine Learning To Predict And Detect Fraud",
+      "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "publishedDateTime": "2020-11-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live.md",
       "title": "Rethinking your tech stack to stay relevant in an AI-powered world (VB Live)",
       "excerpt": "To stay on top of cutting-edge AI innovation, it’s time to upgrade ... Putting many of those together on a chip just increases that inefficiency. And then putting many of those inefficient ...",
@@ -109,8 +161,8 @@
       "title": "Fetch.AI launches blockchain-based AI smart-city infrastructure in Munich",
       "excerpt": "Fetch.ai and Datarella predict mass implementation of Munich’s smart-city infrastructure will reduce CO2 emissions by 34,000 tonnes per year.",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
-      "originalUrl": "https://www.zdnet.com/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
       "featuredContent": null,
       "highlight": null,
       "heat": 86,
@@ -127,8 +179,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
       "publishedDateTime": "2020-11-20T03:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -304,7 +356,7 @@
       "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
       "featuredContent": null,
       "highlight": null,
-      "heat": 80,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -494,7 +546,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -899,7 +951,7 @@
       "originalUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1047,7 +1099,7 @@
       "originalUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -1192,57 +1244,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-ai-powered-learning-tools-are-on-track-to-transform-the-modern-workplace-for-good.md",
-      "title": "AI-powered learning tools are on track to transform the modern workplace for good",
-      "excerpt": "A new era of automation will help workers constantly acquire new skills on the job and at large scale through the use of AI-powered tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11",
-      "originalUrl": "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5faecfbe1c741f0019ac9b58?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
