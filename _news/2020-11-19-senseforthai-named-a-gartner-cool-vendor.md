@@ -51,20 +51,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Ping An Bank Wins Gartner Innovation Award for Financial Services"
-    excerpt: "Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEX: 02318; SSE: 601318) announced that Ping An Bank received the “Eye On Innovation Award for Financial Services 2020” from research and advisory company Gartner."
-    publishedDateTime: 2020-11-17T08:26:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-greater-china-369556a4e21e67b6643c0e034c84db35"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "qXjhQz3/ha/YMHN0IbNtbfaQ9W4SbOGW2fMwPszDAKLBzaC1QV+WDIg7Gp7XMsBqX6Mdrs97+jEphgOLysyPGT3l069mZzJKngruxhIDD5Chk7FWu+XCeIpaSBTqiWiDwg10m7F1emZ0Ay0R7nK25edwwq8YUp8yeNAPN5QSMWB0igJNHrah41LzzLtz31P6X4n/ossSRcrPJfSwlkMQYT4ZtnbikeH+sKKL9JpljjEd8SUcLYCXTst20UbEE3nPbUwqiy0PQ8MbHTGHMzFpYtsPoRAQeE4wa+d2hLpmr3gDzp7n4dO8f7XJOg1pIY6NtbPAo3CeeXw05ZH88YtTVZ0uFVAf/M8EPQWHpSVXRAw=;cXEcuEprdeyEbNlgzf23zQ=="
 ---

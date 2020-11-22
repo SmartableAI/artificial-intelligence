@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-2
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "LI artificial intelligence startup that can write emails snares $2.6M"
-    excerpt: "OthersideAI Inc., a Melville startup that harnesses artificial intelligence to ease the drudgery of writing emails, has snared $2.6 million in a funding round led by a West Coast venture capital firm."
-    publishedDateTime: 2020-11-17T09:00:00Z
-    webUrl: "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160"
-    ampWebUrl: "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 72
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.49644293.1605567478!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Denver AI property insurance startup Flyreel lands $10M Series A funding"
     excerpt: "Denver startup Flyreel, an AI solution for residential and commercial property insurance, announced Wednesday that it has closed a $10 million Series A financing round. CEO and co-founder Cole Winans said the Covid-19 pandemic has forced property insurance providers to accelerate and enhance their digital strategies."
     publishedDateTime: 2020-11-19T15:04:00Z

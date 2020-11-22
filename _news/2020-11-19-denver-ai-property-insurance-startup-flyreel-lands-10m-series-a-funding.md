@@ -34,22 +34,6 @@ related:
         width: 1600
         height: 1068
         isCached: true
-  - title: "LI artificial intelligence startup that can write emails snares $2.6M"
-    excerpt: "OthersideAI Inc., a Melville startup that harnesses artificial intelligence to ease the drudgery of writing emails, has snared $2.6 million in a funding round led by a West Coast venture capital firm."
-    publishedDateTime: 2020-11-17T09:00:00Z
-    webUrl: "https://www.newsday.com/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160"
-    ampWebUrl: "https://www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160"
-    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/business/technology/othersideai-artificial-intelligence-ai-madrona-venture-group-syracuse-gmail-1.50067160"
-    type: article
-    provider:
-      name: Newsday
-      domain: newsday.com
-    quality: 72
-    images:
-      - url: "https://cdn.newsday.com/polopoly_fs/1.49644293.1605567478!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "1cvEY4qtn9TTJeBm3Y2nRhU4at4aPsgSsRrMNliWsJy+A/1r+UCDLaots9z0Mf35cz4aumtXqMnSzl1ioaoPTq5lX7AvOaUPO3xmxrj/yCIaRn0Xlj0vKgdbyhOypwxYmJYiR3SarMAyDgUlPaBo48cv9NMj/TxAW0BOqQ0oRP6EWdjGwLw8T+EJdgjnKJXNQyxRdFusZIbZwLDKIzxUyq6UQ6yrUT2vcZFa69vDmW5v1BKflrUnxqq3zwarAHjAT5uVwperQFusdmoOaDKOxJj7A9ywndo3QcLTs3M1cBOlcVj84O39yjcqDmws/nMwm0cVEbVnNChC+SeisOcOuccVkoDsxnBnd9/Tr9+64Q97HljvjkHhrD8wBceo0yEi7TBRzLEXatg6vx7C8G9yyfmU7Y2naFwZhB0Th62rIc4gva4yLTF9MwAAViOz7EMHqLgluk4vITnuBMSd/UPl2s31hn64D7j/EI0ceNI/yq5mHHAKFPsZ9GcrwCkVj7jRQtPleMmdq0VqwAOYKpZQdA==;t9niJ5E76j0zCrrJ8H1kPQ=="
 ---

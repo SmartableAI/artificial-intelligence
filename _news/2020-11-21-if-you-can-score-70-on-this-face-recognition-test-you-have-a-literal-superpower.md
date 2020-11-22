@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popularmechanics.com/science/amp34701108/super-recognize
 cdnAmpWebUrl: "https://www-popularmechanics-com.cdn.ampproject.org/c/s/www.popularmechanics.com/science/amp34701108/super-recognizers-test-face-blindness/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Are you among Australia’s best facial super-recognisers? Take this test to find out"
-    excerpt: "Psychologists are hoping a new, extra-difficult facial recognition test will help unearth more of Australia’s top performers in facial recognition — known as 'super-recognisers'."
-    publishedDateTime: 2020-11-17T08:57:00Z
-    webUrl: "https://www.sbs.com.au/news/insight/are-you-among-australia-s-best-facial-super-recognisers-take-this-test-to-find-out"
-    type: article
-    provider:
-      name: SBS
-      domain: sbs.com.au
-    quality: 18
-    images:
-      - url: "https://sl.sbs.com.au/public/image/file/ec75ea9f-d87b-4a39-adad-33189e91274a/crop/16x9"
-        width: 850
-        height: 478
-        isCached: true
 
 secured: "UKAstbBYO9FrHRJ+5hkIoyDNFBS8+IBYfhkt1mBGgSaKgn1XXiLjTSNyPrS1quJCX3Le/awaL1sfxdCYROGgCMpQr+f9PChnGwdhJf3lxuimSI4bYpnifVWY5vldB4+zOW+c78KvrZvzTXcncsHwBAJguQS9fwReUdlhJGFw03CSxpi/u5r8l0hD74xdTHPcm+wtCCURRP3GG+jvClb9X54K4E7xS4vHiliKsfXGqHNrneL65y6kGuITdvyQ6DXBbZ++JWndeeW8/7Chx/uJpr21dyz8Ofm4XhEMsWeH/poLd0sqXPA3syhqJGe8DABGrh6+8tkZgn8ZQw4/2ofzix9/GLut5vKHirqPLLRjf4O5MONi1ERzq7VgVLUilbeMYaSGJwvL9poT0W4+YSQZGUR4VeHs/L9i6FTXyjPq3wzSqPBZUam5WSSjUnmxqazmfFgVTKCAEO+yOBAvFFLozlkkP2FsVl7SnrYTFEjFhfJanZox7fziF8sJFiWhhfFgoJm9jQZ2PkiSG/x6bSA8nQ==;FW+WIAPt+Yu2pmIxX5vC+g=="
 ---

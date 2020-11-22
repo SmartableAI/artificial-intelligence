@@ -37,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Ping An Bank Wins Gartner Innovation Award for Financial Services"
-    excerpt: "Company of China, Ltd. (hereafter “Ping An” or the “Group”, HKEX: 02318; SSE: 601318) announced that Ping An Bank received the “Eye On Innovation Award for Financial Services 2020” from research and advisory company Gartner."
-    publishedDateTime: 2020-11-17T08:26:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-financial-services-technology-corporate-news-greater-china-369556a4e21e67b6643c0e034c84db35"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Senseforth.ai Named a Gartner Cool Vendor"
     excerpt: "has been named a Cool Vendor in Conversational AI Platforms 2020 by Gartner. The “Cool Vendor” status denotes a startup that provides innovative, impactful, and intriguing solutions/products to empower users and fuel business growth. Senseforth.ai has ..."
     publishedDateTime: 2020-11-19T06:56:00Z

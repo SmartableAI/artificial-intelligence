@@ -220,20 +220,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 23
-  - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
-    publishedDateTime: 2020-11-17T08:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-2020-top-manufacturers-industry-size-regional-analysis-types-and-applications-and-forecasts-to-2026-2020-11-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Technavio Research: Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
     excerpt: "The deep learning market is expected to grow by 7.2 billion, progressing at a CAGR of almost 45% during the forecast period. This press release features multimedia. View the full release here:"
     publishedDateTime: 2020-11-20T17:46:00Z
@@ -249,6 +235,6 @@ related:
         height: 270
         isCached: true
 
-secured: "6x8cQtNzBoz4pyJ/AfbG9K794EjW6EEg7xuQoWuvY31FQp5GFqgDmAKg/RgYI7vkX8TVfYwmGQC5AFzPF93IZbQRdj73eq74OSCaXF0ehr03zPDajSl1IigqC2CUiRB4ioy+XUJeMhpdwxUv7MUyDJMhFKxzHc/U9g+8ZT1/V5Dz2IYWuv4JtJXwLSL0Oqdweex3+WZrOsSyrVsZRfaPqldAxu+H8uVEcAI/5OTOS4ihd6Fx1vV6fiKBQ+sBdIr0+v9VYpFpLmEId4npiGpjYD2TDVwTdF0OGjRCsvN5oj/NFrOA7AvqR/tsfa1mjFhlcHVhIvTDovycmEhSEbj00ysseSSpml2hXPe5sU3apwU=;d9OK67uTVQGxqQIwcb6YQA=="
+secured: "YRY4YoBLiNOj+GWFvtKH8Lt6ARO5uXq0WWF6Vl0nBxo9vKjYLx/Rdi9xPvx2ugR2CQKPTgxugTtFF9ZgQ/L4g5BwKzEjPO9B0qHLluw9cFPamOdypt8RMSdz/0Pb2uzBP3J3+7ltlLGfrd/aDo1HJKX0hRK5OkCQ9yjTEiDQsdLUGw9zTgsumGbikT/jSQiI9Q9+8wbKtu1aZR15Mc00A0UDpDSVY4njaH6sVv7RCgHTmFM2oV8QlPGrk8saK8xPXwL+flQ7OFgKgbQCgyDzwhiZE9aXBdIxxSGzTsd11WpqzHysobYk21xK44h5bZKbOBQXHzOZxFwdtjZSmtbbnvRLNa1h2eKqaQwGtyCG5fP1bqLICF8xvMoTfa7HSuvGDKHD2zVJ2NOtTmIO77rrURKRcWZTW+XrUekOp1p+EvYaDOzEVxylbxyE2ryDzt6idYnXF/59dRkdJpNIifXapgjoOpX6vAhBfqfqBUNsDZ6zA4M8LFqaEiRezoMjKMfw0KgtVtQSULiaK8x+vt+K+g==;JNE5cb8S5C5MdwCrmer3kw=="
 ---
 

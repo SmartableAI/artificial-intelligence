@@ -106,7 +106,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 217,
       "tags": null,
       "images": [
         {
@@ -1168,6 +1168,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-08-microsofts-strategy-for-finding-whats-next-in-healthcare-ai.md",
+      "title": "Microsoft’s Strategy for Finding What’s Next in Healthcare A.I.",
+      "excerpt": "Chatbots: Microsoft’s Bot Framework, including its suite of machine learning models covering speech and language processing, entity extraction, and other cognitive services, is finding ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/seattle/2017/11/08/microsofts-strategy-for-finding-whats-next-in-healthcare-a-i/",
+      "originalUrl": "https://xconomy.com/seattle/2017/11/08/microsofts-strategy-for-finding-whats-next-in-healthcare-a-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2017/11/06153240/peter_lee-2.jpg",
+          "width": 1241,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-using-artificial-intelligence-improves-pregnant-womens-health.md",
       "title": "Using Artificial Intelligence Improves Pregnant Women's Health",
       "excerpt": "Artificial intelligence technology can help to diagnose congenital disabilities, gestational diabetes, and preterm birth earlier in pregnant women, reports a new study.",
@@ -1369,40 +1413,6 @@
         "AI",
         "AI in Healthcare",
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade.md",
-      "title": "Siemens Healthineers and University of Iowa Health Care Team Up to Advance Care for Iowans Over the Next Decade",
-      "excerpt": "Siemens Healthineers and University of Iowa Health Care Establish 10-Year Value Partnership to Expand Access to Imaging Technology, Artificial Intelligence Tools, Research, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
-      "originalUrl": "https://www.wfmj.com/story/42853998/siemens-healthineers-and-university-of-iowa-health-care-team-up-to-advance-care-for-iowans-over-the-next-decade",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T12:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMJ",
-        "domain": "wfmj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

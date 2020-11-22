@@ -234,20 +234,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Automotive Gesture Recognition Market Share 2020 : Top Manufacturers, Industry Size, Regional Analysis, Types and Applications and Forecasts to 2026"
-    excerpt: "Selbyville, Delaware, Market Study Report LLC recently added a new title on 2020-2026 Global Automotive Gesture Recognition Market Report from its database. The report provides study with in-depth overview,"
-    publishedDateTime: 2020-11-17T08:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-gesture-recognition-market-share-2020-top-manufacturers-industry-size-regional-analysis-types-and-applications-and-forecasts-to-2026-2020-11-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 15
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "aLB8CrE8/nmxK2Ak0zBKUGB030Q2KrpOSlq4AnHUEBLPA2ppagWIrHzCOL5e1UBvZDtgoRaqFW3GCVOr5uV5gNMWjAwCIYGlJ/kMdpdSLbQLKZ3u+TmSF+bzV0+L05G8kybVsgCcDzPAgPRp5ZSjHcvpcbARLXQddcBcRyZ0YIOgRgwGFqSjPnTLgqHtLD73o/88TOoR8B8Ur6Oorgwq9zLcPRXLrBgxCddfZr/5O+KNFzAW/ayuZ5P+3ar/lcKn4RvxYjj+QDD6BIW7D1lIaIrSMhupQJ1kuLpp8myaJ60RW4wwD4OhlMj5xGWhBFNLwf1QlVWmYqPtDFqc//LlPgCX17mtS6zSy2t98/7A4J8=;4fk18q3zFi17iv0VizztuQ=="
 ---
