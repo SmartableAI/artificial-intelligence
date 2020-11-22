@@ -1,28 +1,27 @@
 ---
 category: news
-title: "To combat COVID-19 ‘infodemic’ on Twitter with machine learning, Novetta taps AWS"
-excerpt: "Decision-makers and activists combatting misinformation about COVID-19, which Novetta calls the “infodemic,” need better information about what people believe about the pandemic. Twitter has become an excellent resource to harvest such information,"
-publishedDateTime: 2020-11-21T01:31:00Z
-originalUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
-webUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
+title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
+excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
+publishedDateTime: 2020-11-22T04:57:00Z
+originalUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
+webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
 type: article
-quality: 51
+quality: 12
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
-  - Machine Learning
+  - Computer Vision
   - AI
-  - AWS AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
-    width: 1920
-    height: 1200
+  - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
+    width: 640
+    height: 480
     isCached: true
 
 related:
@@ -56,21 +55,21 @@ related:
         width: 1024
         height: 574
         isCached: true
-  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
-    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
-    publishedDateTime: 2020-11-22T04:57:00Z
-    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
+  - title: "To combat COVID-19 ‘infodemic’ on Twitter with machine learning, Novetta taps AWS"
+    excerpt: "Decision-makers and activists combatting misinformation about COVID-19, which Novetta calls the “infodemic,” need better information about what people believe about the pandemic. Twitter has become an excellent resource to harvest such information,"
+    publishedDateTime: 2020-11-21T01:31:00Z
+    webUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 12
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
     images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
-        width: 640
-        height: 480
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
+        width: 1920
+        height: 1200
         isCached: true
 
-secured: "zbYPOT48QHNx08kcZQr4cqF618ximinW3FFuwiKG0qAyQdBkKRjVEY9YFqJfTcYDQMGPOGva1HvMX6yImZ+XGhcvLcnTjYdIfVarcIX0En9NAUGVLdeEeuRlQ8jEVIyqw82O7JjGtbkWPK1GXpCNKZX0R/bEUnK0pvqpxk8oiVHWTMGidHF4rUP8IwDZG46Em1zWsFq5bTpYRJ8W/fDKh1PcuwlSlRQYf9+pekbdPX5EQ6frpWfJM6gWp6T7UJSF6bnC/0bydbhJbm7ppvTj2DDw6IuteaYaXl+2LjPYybfCBNmZ9IMCYMchQcKpa2qa/Uc7bv7gM1f68wcp6KvXySeUzEIG86gtHyn1uWk+Gh4=;/PQFBLa0qfJ2qDSyC8l0iA=="
+secured: "Cbfxn0pqGxQ/maivNFTMl/jYGKT/WRYJScfI/vteiGE5vBXGV7Xw/SDNW1evgpIWZDQpzhHn0DLlqAFp87H+WOrC5Tw9uZ8b+d+W5qmioGVqcF1mgw+dN9QipS6rWmrcy28zrLsHfIz3FgyCC7cs3jNc/5ZMkdEmW8L5SOEo5LXH5Bv/YEjpC2SyH96PhpXG2n9iXuiuTD68CHimJmI+dcyLXi/lwdB+A33UdKH+TrmYVJvbuRhIdiPFsLiPtW/lTUAwaz+Q6Zp2PbzC+7tFCHBZLRN5NOvvtASt4fVQBDxniyug4qqecZmXsyy5DTaXpsi/U1ORV60VoxpfNW9w3HRKEQFL0UzX1fxxRwd8Svc=;wedudzGj2h7XMbNoZL/VSw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integr
 webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
 type: article
 quality: 52
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://cdn.ghanaweb.com/imagelib/pics/378/37867267.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Malbek Extends Contract Capabilities with Focus on AI and Integrations"
-    excerpt: "PRNewswire/ -- Malbek, a cloud-based provider of modern contract lifecycle management (CLM) solutions, has released new product functionality that expands tools for contract insight, advances Malbek’s AI-first contracting engine,"
-    publishedDateTime: 2020-11-17T11:07:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-artificial-intelligence-70fb8a8db13efaeb6d6547c546144e3c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"

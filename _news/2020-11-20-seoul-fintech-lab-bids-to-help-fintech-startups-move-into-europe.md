@@ -155,20 +155,6 @@ related:
       domain: businessinsider.com
     quality: 42
   - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
-    excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, has attracted £1.2 million from Saviu Ventures, a French investment holding company which focuses on African startups;"
-    publishedDateTime: 2020-11-17T11:09:00Z
-    webUrl: "https://pressat.co.uk/releases/ai-fintech-finchatbot-lands-12m-investment-to-expand-into-the-uk-825e9d214c672df31fa3a974c08e1a96/"
-    type: article
-    provider:
-      name: pressat.co.uk
-      domain: pressat.co.uk
-    quality: 39
-    images:
-      - url: "https://pressat.co.uk/media/cache/360x270-e5694b6b3078ec705e284e32b5a227fc.jpg"
-        width: 360
-        height: 270
-        isCached: true
-  - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
     excerpt: "FinChatBot is opening up offices in the UK to assist British banks and insurers FinChatBot, a creator of conversational AI solutions for the financial services industry,"
     publishedDateTime: 2020-11-18T04:56:00Z
     webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18421085/ai-fintech-finchatbot-lands-1-2m-investment-to-expand-into-the-uk"
@@ -190,17 +176,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 39
-  - title: "Aussie Fintech Douugh Launches in the US in Partnership with Mastercard"
-    excerpt: "Australia based neobank Douugh Ltd (ASX:DOU) has launched its app in the US following a partnership with Mastercard. Douugh reports that it has been in beta with U.S. consumers since early-2019 and is now officially launching to the wider market."
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169231-aussie-fintech-douugh-launches-in-the-us-in-partnership-with-mastercard/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169231-aussie-fintech-douugh-launches-in-the-us-in-partnership-with-mastercard/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169231-aussie-fintech-douugh-launches-in-the-us-in-partnership-with-mastercard/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 24
   - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
     excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
     publishedDateTime: 2020-11-19T17:46:00Z

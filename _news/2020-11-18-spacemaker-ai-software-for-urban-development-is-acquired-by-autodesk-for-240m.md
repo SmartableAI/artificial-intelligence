@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-d
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/"
 type: article
 quality: 82
-heat: 112
+heat: 92
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autodesk acquires Spacemaker for $240 million to boost AI development for designers"
-    excerpt: "Autodesk acquired Oslo-based Spacemaker for $240 million to accelerate the use of AI in design and urban construction."
-    publishedDateTime: 2020-11-17T11:30:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/autodesk-acquires-spacemaker-for-240-million-to-boost-ai-development-for-designers/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/autodesk-acquires-spacemaker-for-240-million-to-boost-ai-development-for-designers/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/autodesk-acquires-spacemaker-for-240-million-to-boost-ai-development-for-designers/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 81
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Prod-pic-Explore-Height-study-e1605560017323.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Autodesk buying Norway’s Spacemaker construction AI firm for $240M"
     excerpt: "Spacemaker uses cloud-based AI and generative design to help architects, urban designers, and real estate developers make more informed early-stage design decisions faster and enables improved opportunities for sustainability from the start. By evaluating ..."
     publishedDateTime: 2020-11-20T22:55:00Z
@@ -62,17 +46,6 @@ related:
         width: 852
         height: 483
         isCached: true
-  - title: "Autodesk Acquires Spacemaker: Offers Architects AI-powered Generative Design to Explore Best Urban Design Options"
-    excerpt: "Based in Oslo, Norway, Spacemaker uses cloud-based, artificial intelligence (AI), and generative design to help architects, urban designers, and real estate developers make more informed early-stage design decisions faster and enables improved opportunities for sustainability from the start."
-    publishedDateTime: 2020-11-17T11:37:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/autodesk-acquires-spacemaker-offers-architects-ai-powered-generative-design-to-explore-best-urban-design-options-1029810050"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/autodesk-acquires-spacemaker-offers-architects-ai-powered-generative-design-to-explore-best-urban-design-options-1029810050"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/autodesk-acquires-spacemaker-offers-architects-ai-powered-generative-design-to-explore-best-urban-design-options-1029810050"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
 
 secured: "8D9kjW6vgaQM4thpNmpgNWmKwTkC/R3oV3VTNQINBnBy1y8jeAUnRuKJKGPZdjPC+Bp6P3l7vn/Ji0txpqE4GtP6YI1dtb0kXolGQjedJWUgU0ewy9aeh38P6IyOoqRqwwa6VCUHebT5fVN2So7y/HNvitk+Wb6duPFIF0J0OH/0ZLFq5UrW79Xqt84mKHSxOFF0Aq8eVVe+lEfUMqipyCCkrIw6J4gIPxIs67nLbkmvULuC8qXEwvFFfCWt6Tc6+EeVn7zwmJptkdNNU3C/QVYeZ67ODfia4QvNl813OU5S/RXc0WnhAcVFC5oUv3FClDBF+VKWOQdZq3es5Tul6Bcqg9fyG1c8Sdjc88RtzoGlDaXUsUs/5z7aME3PFQ3qxQ6JXEqOHBIbZ+N6ojmcG1m/2FSH7r7/gLGRS9pXNy/5XkLMpzpRsK0gUZ3QbDvRBhvoQ7l7AJvbJxO26rNkoly/KE4tFv1Kyclk35fIYS+bGXroy/dIncArGyN1rq892CqutPQ/cszOmKlhwMyd6Q==;3wHI0c1p5QAGDTgpPq19ZQ=="
 ---

@@ -49,20 +49,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Australian DoD announces funding for geospatial‑intelligence"
-    excerpt: "Australian Department of Defence (DoD) has announced funding to support the production of geospatial‑intelligence products for government and defence customers. Defence intelligence agency Australian Geospatial-Intelligence Organisation (AGO) has partnered with a not-for-profit company from Victoria,"
-    publishedDateTime: 2020-11-17T11:50:00Z
-    webUrl: "https://www.airforce-technology.com/news/australian-dod-announces-funding-for-geospatial‑intelligence/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 22
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2020/06/ARMY-targetscoring-unique2-450x340-1.jpg"
-        width: 450
-        height: 340
-        isCached: true
 
 secured: "elEEwRRIEV4ifGcwhENRWmDCghVr9TgwVvV7tBJUF++XAAkfQmTYIxpEeeWntZidkn4SkZW/51kbw2jtlA1Kui8m7XdpEVlKGV6pg+Jz9af7lUglN0cqv/k8SKOUduk0DJxEvVN/y5ck1MAZjCIrnOgLvum1dgogRW1nk16sVnjDmFt3pEukZ++J4MGP25PCW3cP4muS7xEw7uToh7IBexvSt6Xr6wHbT2OqCVvIBSZr4d+GSft3zpG4fARsijOGqBue8WG7FAh5/HxSxYKR4wEh5OhoZyuOMydaBhQ7jsII8JCX0JmziKqpC5ZHglj3bguAIFNr2xSoxxGVsyObavXJn2mDt1uQ9yl16QSASZ4=;WGZo9lLy6Y9zwRK3OrF5xQ=="
 ---

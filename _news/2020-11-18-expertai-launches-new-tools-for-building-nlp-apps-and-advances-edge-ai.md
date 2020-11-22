@@ -41,20 +41,6 @@ related:
         width: 2048
         height: 2048
         isCached: true
-  - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
-    excerpt: "Expert.ai will be launching two major products at KMWorld & Text Analytics Forum Connect 2020: expert.ai Studio, an intelliJ plug-in"
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/expertai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-301174754.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
   - title: "Booklyn.co Launches New AI-Powered e-Reader Site"
     excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read"
     publishedDateTime: 2020-11-19T12:39:00Z

@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Growth, Size, Opportunity, Share and Forecast 2019-2025"
-    excerpt: "The artificial intelligence robot market is expected to grow at a CAGR of 20 38 during the forecast period from 2019 to 2025 Artificial intelligence AI is the creation of smart smart machines that work react and respond like humans"
-    publishedDateTime: 2020-11-17T12:14:00Z
-    webUrl: "https://www.openpr.com/news/2188814/artificial-intelligence-robots-market-growth-size"
-    ampWebUrl: "https://www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188814/artificial-intelligence-robots-market-growth-size"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 63
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb17392453_g.jpg"
-        width: 800
-        height: 571
-        isCached: true
   - title: "Deep Learning Market Report 2020 Industry Trends, Share and Size, Expected CAGR, Top players"
     excerpt: "The global deep learning market is expected to expand at 30.87% CAGR during the forecast period. Global deep learning market is expected to witness substantial growth during the forecast period. North America is estimated to be a prominent region for deep learning market due to the presence of key market players,"
     publishedDateTime: 2020-11-18T15:38:00Z
@@ -180,20 +164,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Based Fever Detection Camera Market Share, Growth, Size, Opportunities, Trends, Regional Overview, Analysis and Key Country Forecast To 2027"
-    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI based"
-    publishedDateTime: 2020-11-17T12:08:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-fever-detection-camera-market-share-growth-size-opportunities-trends-regional-overview-analysis-and-key-country-forecast-to-2027-2020-11-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 52
-  - title: "Deep Genomics hits the partnering ground running with BioMarin deal"
-    excerpt: "Deep Genomics is wasting no time. Two weeks after hiring a new chief business officer to ramp up its partnering game, it’s unveiling its first biopharma tie-up: BioMarin. The duo will use the Toronto biotech’s artificial-intelligence-based drug discovery platform to discover new drugs for rare diseases."
-    publishedDateTime: 2020-11-17T12:30:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/deep-genomics-hits-partnering-ground-running-biomarin-deal"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 24
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1605581585/business-3167295_1920.jpg/business-3167295_1920.jpg?6hcgAYGOAWuchq3deRZ84GvtFYN5dzAC"
-        width: 1920
-        height: 1280
-        isCached: true
 
 secured: "qAsBsj5HcnYood9lP9O+j8Yr6qFHgVhcia2xsRD1CK9kn1aFkhGlA+zYuDhw7oXvl9M51DlO0bsf/k2ct+/6NOWT7tifk2APnvfz4CO7t5VINVPfQsv58eoQfTjEMBsAIWYGfN6n71JbZbh2YMCdaqSQJzssAJvErHggugL1aouvtnG861gWSqYLMlVvdeUPcjj8mAXBdX6Yht/lwVfHnWLYYosW4njtH5mCaL+8Ny5duTYVg56fAobqZ3ZPHAbq6obus+Sw4w4Z4ieFpcbKZU2FkJSbdXo+tFCs9tcSt+qMfjiX/+wBovlC/cel8QZMGTR/8q4t+BxAw8h6SvsNPJHj2ktyCz/MTqbzm+2Dupo=;+C3yFaYJhswRcg3H50fxJA=="
 ---

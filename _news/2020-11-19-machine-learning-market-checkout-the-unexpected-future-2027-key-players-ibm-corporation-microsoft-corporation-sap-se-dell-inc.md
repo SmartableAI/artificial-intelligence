@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18"
 type: article
 quality: 56
-heat: 56
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Key layers for developing a Smarter SOC with CyberProof-managed Microsoft Azure security services"
+    excerpt: "This blog post is part of the Microsoft Intelligent Security Association (MISA) guest blog series. Learn more about MISA here.   Security teams are struggling to reduce the time to detect and respond to threats due to the complexity and volume of alerts being generated from multiple security technologies."
+    publishedDateTime: 2020-11-17T16:00:00Z
+    webUrl: "https://www.microsoft.com/security/blog/2020/11/17/key-layers-for-developing-a-smarter-soc-with-cyberproof-managed-microsoft-azure-security-services/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 58
+    images:
+      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/11/SUR18_Holiday_Contextual_1674_RGB.jpg"
+        width: 1080
+        height: 720
+        isCached: true
 
 secured: "2fwgLHA8HuhJm40oDivZoda0Af28pz+7mcNuUjeUyvUnYLhCHlgea5/niUiTcCYHNGRIcf9/GQFDdVAEEEtpuKqd46syyerUv7lytA3ni8lteSkdh5Rb5e0xcvN6TwR3uzBQ4Twz0nP4WlRitAuV7kKWD66GENatLQ9vQlYSUCsEO0hRxAPddetye+wKJHcQom/gmQ1hlyjivvzojvp7meO9Wx6uH1FudtElLE5vHphJ9nMyQJYQj0pmg6sHsvWs39RucEdt8WdcD9Ap20m/gtoi9EqhGQuIdev9Yh5q/Ddaz2Mp6r0Kc0CfNzzN9NxH+yMwpUo6Fw2pHW7OCwuiuz9C6HMHJcQAgvUGDzyaXmI=;I0MyKIrjFlboYHWUKF6GSg=="
 ---

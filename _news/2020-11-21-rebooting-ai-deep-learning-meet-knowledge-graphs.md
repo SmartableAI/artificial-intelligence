@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/rebooting-ai-deep-learning-meet-knowledge-graphs/"
 type: article
 quality: 104
-heat: 105
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 687
     isCached: true
 
-secured: "yCjOd5EBVzsj/auBBJuPQE6+07P2cG3VaIi/cS7LNrZ9HX54QLgjPy5zInaUsbR/UW+fjpBfc5itO1O4kyPz1Lu8GZYpdIDxpu5yoZ0pNkh8LuA878inZN4wxAy86fzYYsWOta0CtlTY9zPS3159uVXPn/UtS953JI7eljxXukx7HOluzKHpa3XODznkAhrqmgBJgoG/6VaXG/6VX0bBxNSli2Y4u2QA5SpTM+Jmt7qDHIYKNwBTR6q5xfBb94UEOkOF4gpjG551FReFPIHsbLChUXx+Y7LhfJ0Hp3f/1awjzKP3vmsGsZJY/Vn4uOL0FVG4CSSAkiXx3d21lBch/4QD9XH70Vswy6YPdXwM+NE=;Sd0K3WTtjmh7+mh86LpLBQ=="
+secured: "wmh+vxL5DVPQbLWWNaB6MoreTMSRCh88QZ+WlgyCZB1dTnkkpBkghMqJliG4BjpCiUsOQ6bGgKE//FtSIwLa5CSzD3pJbqAODSy227YJyhbrUAGMgLHWcAoYGZgH05KNlPVeGF0wRRVWn3q7RUFHDq37XUufbh/NCyT/+K0YQYm3surU/CaRvKMGBXqYHFZ7SfuE/EWGS8OmK/yZcSOdeN5ehksljs2Uw9Sd5bx7RzCUAGx2Uq3Wt5T10W+Lkmzc+mb1irsvW2AnXs7/Llnt+SVaEnh4b44d+Ep/AibzQ3QP+ARk3OFRaMxAecYW9CKwJXiIa0jd571IPNEpSVponItHtr9D7WGHWXeu5skJejPUD32ZlfqmDKB9VBiIx5J42JlT0LY6IxMTwecvzjFduxoJTtYkVV0Z3kq2/JUfBuXKTNwDiuIfyBQDtVPQe+++1nHtVssz3Xn6VoofSAyTDXOTT5nTVue9fMs2M4wu19eflGbQIea8D2KncdLu2T3gcNMNgS1GOpd81ZLzjO8B4Q==;S9N2HNMxTxHG6fekgnwMAQ=="
 ---
 

@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "The AI Invasion: Breaking In From The Customer Contact Beachhead"
-    excerpt: "The Covid-19 pandemic has accelerated many of the digital CX and engagement trends that were already in motion, highlighting why operational agility is vital."
-    publishedDateTime: 2020-11-17T12:50:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/"
+  - title: "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?"
+    excerpt: "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may"
+    publishedDateTime: 2020-11-20T07:47:00Z
+    webUrl: "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/"
+    ampWebUrl: "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: CIOL
+      domain: ciol.com
+    quality: 64
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb29fb70f114e9e30f73339%2F0x0.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.ciol.com/wp-content/uploads/2020/11/docree.jpg"
+        width: 850
+        height: 400
         isCached: true
 
 secured: "sxn+LhQ+k3/SvhhVpYLZqUeCRcOXucBKRXZSb+raP3FBOCFtlNAovUetwjgN+0zWTKQDjH8fpoHEvZIO0JWjP9fHasNSJUWWhjlC03iDU9mqbIjyGgTTf1qqV3gk3sKnKx0UmFUyISc4YWOhkYr34ZMcW7/taRtH5fwyyD6ymtq6iUpSzThg0phS8+cJW1/Bz2XYmz2cmVLVDkwbbTZShAlt+sW/ahfn/o4PtevFlpBKW1GPLYAj3uE752U9MCnR0BMYmFEPj1ujPNkBdCqsTTakQ/sf/NqAJJBGXrJHii0vSPM76xhWvhx1BEVtkLfFM9DlZxhxmAhcr9zFJVz6VMMgfqsU2m1ErPp5sQJ8mdgSThD4x2G6PGSiLgVP83+ZKufY+3cOLcewVwUMy6oRLy1ePOFoeudjoKTmlg64ZDxx8p2A082UX+UA5U6uH+Tecyn1lgFRmMuLjKMuluRKUdv3veTLbQ+9dmFd9PxN4VHAwjvZgW9AiOvNHUKLV2lFsOVZMdHg3VUTRmOBS9Bnpg==;zdIoOkzxkgEL87dX41040Q=="

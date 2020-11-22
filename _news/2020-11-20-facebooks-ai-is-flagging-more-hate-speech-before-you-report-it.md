@@ -94,22 +94,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Facebook using artificial intelligence to prioritise reported content"
-    excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to \"prioritise reported content\", a move that will help the social media giant take action faster on harmful and violative content."
-    publishedDateTime: 2020-11-17T12:02:00Z
-    webUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media"
-    ampWebUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 57
-    images:
-      - url: "https://images.yourstory.com/cs/2/b87effd06a6611e9ad333f8a4777438f/Imageblb5-1597241405572.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence Systems Spending Market Key Players - Google Salesforce Microsoft IBM Apple Facebook"
     excerpt: "Decisive Markets Insights brings out report on Global Artificial Intelligence Systems Spending Market. The comprehensive report presents clear foresight of the booming market owing to the expanding consumer base and technological advancement."
     publishedDateTime: 2020-11-18T10:51:00Z

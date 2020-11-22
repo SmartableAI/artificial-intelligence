@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hopsworks Feature Store Now Available for Microsoft Azure"
-    excerpt: "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks."
-    publishedDateTime: 2020-11-17T12:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
   - title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
     excerpt: "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020"
     publishedDateTime: 2020-11-17T20:46:00Z
@@ -74,64 +63,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Microsoft wants to partner, not compete, with operators on 5G"
-    excerpt: "Microsoft isn't looking to bypass carriers in delivering 5G services; the cloud and technology giant sees operators and NEPs as partners."
-    publishedDateTime: 2020-11-18T17:04:00Z
-    webUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g"
-    ampWebUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 59
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-18-at-10.49.00-AM.png"
-        width: 2048
-        height: 2048
-        isCached: true
-  - title: "Key layers for developing a Smarter SOC with CyberProof-managed Microsoft Azure security services"
-    excerpt: "This blog post is part of the Microsoft Intelligent Security Association (MISA) guest blog series. Learn more about MISA here.   Security teams are struggling to reduce the time to detect and respond to threats due to the complexity and volume of alerts being generated from multiple security technologies."
-    publishedDateTime: 2020-11-17T16:00:00Z
-    webUrl: "https://www.microsoft.com/security/blog/2020/11/17/key-layers-for-developing-a-smarter-soc-with-cyberproof-managed-microsoft-azure-security-services/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 58
-    images:
-      - url: "https://www.microsoft.com/security/blog/wp-content/uploads/2020/11/SUR18_Holiday_Contextual_1674_RGB.jpg"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Aisera’s Conservational AI for Microsoft Teams Will Change the Future of Work"
-    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk with Microsoft Teams. This integration will speed up and simplify Microsoft’s resolution of internal support tickets for ..."
-    publishedDateTime: 2020-11-19T06:24:00Z
-    webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-c80fc29710aaf0f9506bdf3c2b8df8dc"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 53
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Aisera's Conservational AI for Microsoft Teams Will Change the Future of Work"
-    excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk"
-    publishedDateTime: 2020-11-18T15:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aiseras-conservational-ai-for-microsoft-teams-will-change-the-future-of-work-301174185.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://mma.prnewswire.com/media/1335577/Aisera_Logo.jpg?p=facebook"
-        width: 1500
-        height: 784
         isCached: true
   - title: "Aisera's Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
     excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, announced today the availability of its AI Service Desk"

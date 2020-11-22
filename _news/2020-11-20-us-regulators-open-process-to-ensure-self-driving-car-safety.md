@@ -3,8 +3,8 @@ category: news
 title: "U.S. regulators open process to ensure self-driving car safety"
 excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles."
 publishedDateTime: 2020-11-19T22:32:00Z
-originalUrl: "https://www.reuters.com/article/businessNews/idUSKBN27Z2FM"
-webUrl: "https://www.reuters.com/article/businessNews/idUSKBN27Z2FM"
+originalUrl: "https://www.reuters.com/article/us-autos-self-driving/u-s-regulators-open-process-to-ensure-self-driving-car-safety-idUSKBN27Z2FM"
+webUrl: "https://www.reuters.com/article/us-autos-self-driving/u-s-regulators-open-process-to-ensure-self-driving-car-safety-idUSKBN27Z2FM"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM"
 type: article
@@ -59,6 +59,6 @@ related:
       domain: law360.com
     quality: 24
 
-secured: "ADXps4g04zrDBk6inVnhG/VDrgsXWCR9TSo9rwE2/+gEpDlFLCsU28hsBC6x3q0OlS9ICUdCUDOGCuK+6QdIGH7pA0BVtWhPJqGFUdfUqBPAUWzUVvENqvbaQwrzImRi99X646yuG9MRFX4o/f85WKkaF2aL9hLs5rQ1umZAEedFSMi7mG8aIQOxE+FZSRo/kTzO1k1dZQVVxayCeYLAknzfj41Hkmc5uwLm9v5pvzjng/IpY1YTakMIXE+FgO6V3juw49Pz05eOW5y5DvwBQbmU2XkSYJDZ+GvkUZkY1XKfDzLuEwg+Mm4nCBRsf5sXaD+n7rWpK/QxfSAgnwj5ruffzAP/jMrtynHwJHkbkOc=;phb39hGUE+fTQgSSMDxZ4A=="
+secured: "HNsDo59UbNHM5oN+Z5w+9LWySbxLj2bblMbMhFjtIpt9mabA8KV1HE0DWNZMF4AssmyNlJN3QHWchjbxMfB/e7Fr/BNcX/xoeTIRV1ECCkC72DfsbXd9xQBO8owH6yMzYO0wA+IZ3L0r+UvUHRAU1x7cXx0t2yTltUTT1wLA9fTXzEmZz+2gXZgqFHOzOD6bMsBVrm/XAt9JI3r9zgPWHtKOuwTb40MUM+eOj5JZOmNNgL3EnhxAvIe7pfe3OtBWeEDKcih6irjMRYkW1sAWanc9GX2ue56ZDJJqDEYkhymFQlDGvP83Q1yUu6U66ylemSMSb7N3pKQiV5BxtE6UgtXstRfGOIKBDJRUtupRt48=;IPKyXCUWk8+sJbP0EaA5cQ=="
 ---
 

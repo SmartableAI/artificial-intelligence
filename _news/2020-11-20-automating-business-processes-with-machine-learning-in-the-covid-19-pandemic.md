@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
         width: 1920
         height: 1200
+        isCached: true
+  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
+    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
+    publishedDateTime: 2020-11-22T04:57:00Z
+    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 12
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "BAn8Wle1LKNweK7FdtkhJjSFNzkQirfAJbraJaIqgqcp4cpshAsP4R3FvMfgIRvnbXRszOZneAt9PhZNpqle5V2ZdG1JgCwTwQ/KXI41pt7oPhHLuY3O0COFTEQfipVQZOcfN3SLazlHzjeKfCPnUc6r/f7wcnX6RolgFklJuSaOEHJ/V5t8pdJ5yWBdlqk8sw38nFcNnPbwNEwqzw7BG4dKc0+UKeK/6QlbvnyY694avSlqaRVfXF+0P+73C7wKSOVFvY3SoXSOWV/Z2gXMySSFFzY8hMwxflUwRY4UO4e5YW3kZzAtELHvQPQffa/L7uL6N52v7eQrUT0UM4y4UL31UixSFDgDw2BYp5T+GZ0=;98u9Cj6R80GDV1G06TmRRQ=="

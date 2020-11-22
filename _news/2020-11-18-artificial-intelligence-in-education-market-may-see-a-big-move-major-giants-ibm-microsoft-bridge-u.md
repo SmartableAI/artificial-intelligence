@@ -62,6 +62,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 80
+  - title: "Microsoft wants to partner, not compete, with operators on 5G"
+    excerpt: "Microsoft isn't looking to bypass carriers in delivering 5G services; the cloud and technology giant sees operators and NEPs as partners."
+    publishedDateTime: 2020-11-18T17:04:00Z
+    webUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g"
+    ampWebUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
+    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
+    type: article
+    provider:
+      name: RCR Wireless News
+      domain: rcrwireless.com
+    quality: 59
+    images:
+      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-18-at-10.49.00-AM.png"
+        width: 2048
+        height: 2048
+        isCached: true
   - title: "Transport for NSW trials machine learning to detect crash blackspots"
     excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
     publishedDateTime: 2020-11-18T20:38:00Z

@@ -37,22 +37,6 @@ related:
       name: The Boston Globe
       domain: bostonglobe.com
     quality: 137
-  - title: "AI dev platform startup DataRobot raises $270 million at a $2.7 billion valuation"
-    excerpt: "Boston-based DataRobot, a startup developing an end-to-end enterprise AI platform, today raised $270 million in equity funding led by Altimeter Capital. The company says that the pre-IPO round — which was joined by new and existing investors including T."
-    publishedDateTime: 2020-11-17T12:35:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/DataRobot-Boston-team--e1605298779900.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "iXIAHkl0nAV7PJZLnQMDT7C9KGh4Tkk12atGujDYkVayx1miqU9QhPoqqXF98jwYfrqyin1RcUOk088TdttmUslHI6uDDFHs6lhXNomH9NsPW16Ewh1JvzcBG4o57w/sQ82bVu5Akqy8CdFjNXzIBIolSHa5zLfWGsxSiCGrK8hx9H6Sudp5zVi43n0AhqBrZhKj/1oBKMnTeM/0mNBkcW/29N4rnJqAaZRJZSiLurBPXh1fx1TrSBJY4JoCRqE4YDwz/8Lh4e3Lq+6Rl9p+9fM6PNMFWpRPn0L+ILXxssEiVlDgb9wDOjajUUbGllM7si72OoLX5sjWqbD/xQzpVQhYhPE2MG5AUNGJq2LkIqzHO38FGD8w0WugKWzB7E08f8UXHl6824FeFGQ9Yp6GIA2x5URdbKlPamlQP+OFrOaUOx7tkAdb7Fv2YEzFdefNHH3dmwgH2Vrl1UpHqNAv+b083PDWlwkGcBjtmnLvQ1Q/kNKcEbMzvzfanB0likbk6o0+126JZqmKBipo/mYZUw==;MnjAXv94JfeDqiBiVi/QxA=="
 ---

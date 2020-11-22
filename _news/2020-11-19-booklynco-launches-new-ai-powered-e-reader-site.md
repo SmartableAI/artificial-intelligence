@@ -52,20 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
-  - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
-    excerpt: "Expert.ai will be launching two major products at KMWorld & Text Analytics Forum Connect 2020: expert.ai Studio, an intelliJ plug-in"
-    publishedDateTime: 2020-11-17T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/expertai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-301174754.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1283900/Expert_ai_Logo.jpg?p=facebook"
-        width: 1500
-        height: 785
-        isCached: true
 
 secured: "lKoNtpRa4KgtY9yfdkLlHUvFP1RujiN35yf/KedtV4SBJk+ThIxpcnwf6l5jUAB9MIXeDSfUVU9kyFpmfoqPB3eCY9aGdX0AKIvFj94Oq0GtvfRUPBOSkwOMojWRXZB18lyFYNIdyzrd7gkfS6iFI37VUQG2PN8tr/lkEN0EKelk+dCIAUuqJAAtVdI41POO29j5HJS7Dh1O8E5X4NFbvwu0kZ/kK3K5xRhpqTvyIK5A0hppK48P1I5dByj1ehQDQh+uQySFOZY2SDE23xpfLjw4Mg3FR9nMXzFZc/7tduGzdhlx4jeUSNf5qytaJ8CpU8EuzlaA3es6ySdM4a+ic1neyay2l4mq5+y0Q6kxN5NnVqHqOzgAmY/2Na5ctLtvBNoLHQAcQeBUdG5jBV4CZmaud6iUHrdeem9tdUpReXOS4DXe8kIcrGh7WqV76J1yIzlhIkr+plBIGRn6OOBdCtkQlglbI0AMy2JSwtHfsfsqAAG8XvGuPJ0UVPWrmwr19RdbTyATofeQBeBaH4cW5A==;VirlqxJsZOizLimkb0G2vg=="
 ---

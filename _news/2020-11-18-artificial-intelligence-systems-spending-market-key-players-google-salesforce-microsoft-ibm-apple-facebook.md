@@ -109,22 +109,6 @@ related:
         height: 630
         isCached: true
   - title: "Facebook using artificial intelligence to prioritise reported content"
-    excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to \"prioritise reported content\", a move that will help the social media giant take action faster on harmful and violative content."
-    publishedDateTime: 2020-11-17T12:02:00Z
-    webUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media"
-    ampWebUrl: "https://yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/facebook-artificial-intelligence-reported-content-social-media/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 57
-    images:
-      - url: "https://images.yourstory.com/cs/2/b87effd06a6611e9ad333f8a4777438f/Imageblb5-1597241405572.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "Facebook using artificial intelligence to prioritise reported content"
     excerpt: "Facebook on Tuesday said it has stepped up the use of artificial intelligence (AI) to “prioritise reported content”, a move that will help the social media giant take action faster on harmful and violative content. Facebook, which has 1.82 billion ..."
     publishedDateTime: 2020-11-17T16:33:00Z
     webUrl: "https://www.tribuneindia.com/news/science-technology/facebook-using-artificial-intelligence-to-prioritise-reported-content-171667"

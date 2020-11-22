@@ -27,7 +27,7 @@ related:
   - title: "3 rising AI/ML startups from South Korea"
     excerpt: "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,"
     publishedDateTime: 2020-11-19T09:02:00Z
-    webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea"
+    webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474"
     type: article
     provider:
       name: Techinasia

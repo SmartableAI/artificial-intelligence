@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bostonglobe.com/2020/11/17/business/datarobot-raises-270
 cdnAmpWebUrl: "https://www-bostonglobe-com.cdn.ampproject.org/c/s/www.bostonglobe.com/2020/11/17/business/datarobot-raises-270m-looks-toward-ipo/?outputType=amp"
 type: article
 quality: 137
-heat: 157
+heat: 147
 published: true
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - AI
 
 related:
-  - title: "AI dev platform startup DataRobot raises $270 million at a $2.7 billion valuation"
-    excerpt: "Boston-based DataRobot, a startup developing an end-to-end enterprise AI platform, today raised $270 million in equity funding led by Altimeter Capital. The company says that the pre-IPO round — which was joined by new and existing investors including T."
-    publishedDateTime: 2020-11-17T12:35:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/ai-dev-platform-startup-datarobot-raises-270-million-at-a-2-7-billion-valuation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 99
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/02/DataRobot-Boston-team--e1605298779900.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 400
-        isCached: true
   - title: "Machine learning automation startup DataRobot raises $270M ahead of a likely IPO"
     excerpt: "Machine learning automation startup DataRobot Inc. has raised $270 million in new funding on a $2.7 billion valuation in what the company describes as “pre-IPO funding,” suggesting that it may have plans to go public in the near future."
     publishedDateTime: 2020-11-18T02:03:00Z

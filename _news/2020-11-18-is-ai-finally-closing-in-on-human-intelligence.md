@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 27
-  - title: "Australian DoD announces funding for geospatial‑intelligence"
-    excerpt: "Australian Department of Defence (DoD) has announced funding to support the production of geospatial‑intelligence products for government and defence customers. Defence intelligence agency Australian Geospatial-Intelligence Organisation (AGO) has partnered with a not-for-profit company from Victoria,"
-    publishedDateTime: 2020-11-17T11:50:00Z
-    webUrl: "https://www.airforce-technology.com/news/australian-dod-announces-funding-for-geospatial‑intelligence/"
-    type: article
-    provider:
-      name: Airforce Technology
-      domain: airforce-technology.com
-    quality: 22
-    images:
-      - url: "https://www.airforce-technology.com/wp-content/uploads/sites/4/2020/06/ARMY-targetscoring-unique2-450x340-1.jpg"
-        width: 450
-        height: 340
-        isCached: true
   - title: "Is it time we called it “laborious intelligence”?"
     excerpt: "Artificial intelligence is one thing above all else: a lot of work. Designed to be a never-ending competition, it generates many losers and only a few winners. Instead of artificial intelligence, we should really be talking about “laborious intelligence."
     publishedDateTime: 2020-11-21T18:57:00Z
