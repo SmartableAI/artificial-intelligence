@@ -44,13 +44,18 @@ related:
         isCached: true
   - title: "New electronic chip delivers smarter, light-powered AI"
     excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-    publishedDateTime: 2020-11-18T15:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+    publishedDateTime: 2020-11-18T05:04:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Researchers Develop AI Model to Predict ICI Response in Advanced Melanoma"
     excerpt: "Results of the artificial intelligence (AI) model were consistent no matter which immune checkpoint inhibitor (ICI) therapy patients received, suggesting that some biomarkers are not necessarily specific to the checkpoint target."
     publishedDateTime: 2020-11-20T18:05:00Z

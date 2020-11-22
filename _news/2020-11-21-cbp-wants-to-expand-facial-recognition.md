@@ -100,20 +100,6 @@ related:
         width: 1800
         height: 938
         isCached: true
-  - title: "New Drug Discovery Institute Launches at University of Houston"
-    excerpt: "The University of Houston has launched the Drug Discovery Institute (DDI) aimed at integrating new technologies, such as artificial intelligence,"
-    publishedDateTime: 2020-11-17T18:17:00Z
-    webUrl: "https://www.miragenews.com/new-drug-discovery-institute-launches-at-university-of-houston/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
 
 secured: "VwC+NNcrPQQgseK5YAejKe34qBCizqDVTYBn8So6zoLDPHtDUDZbiVQpdgXDOA3OsGSvAVmvlyRvY8WiygVTGXBzL9j6O/+37VPLV/9J6T0VSdZLHAA21kROlZm2aPU567vvMyK+CVkTEieJrNqB4GngKe+6eoUQsylFRVzQEfhsSEa8hN56+2m18xvTNCKLGlo9valfu5w3852mnAgd4HGah1K++Oi8KUx5kzLDjWteSNJGhu910cYc2vA8/ezSYeTg14QUml58HDBCOaoHq5eiXStDX0y44A60itw1+yskIKR+XgumK8j0WlAW0v5HIdYhZYe28BmexaLs0WmqT99FqRiJPl/udDr3Y18R5pw=;Nh2XzFr/hP6O49PN32aFtQ=="
 ---

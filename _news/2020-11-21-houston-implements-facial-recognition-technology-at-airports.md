@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recogn
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -99,20 +99,6 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
         width: 620
         height: 300
-        isCached: true
-  - title: "New Drug Discovery Institute Launches at University of Houston"
-    excerpt: "The University of Houston has launched the Drug Discovery Institute (DDI) aimed at integrating new technologies, such as artificial intelligence,"
-    publishedDateTime: 2020-11-17T18:17:00Z
-    webUrl: "https://www.miragenews.com/new-drug-discovery-institute-launches-at-university-of-houston/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 24
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
         isCached: true
 
 secured: "AH8WlYKk274+P2KWpV056Z/tMcQMckwVtsq0ijajZAOqxkG3CSJhM6k2bqPEPnFsE/5qoAcx/JJkOWHg7i1A5lltRCB2zc8J/a+KgjonwjY0Z0hDENOslnXtOKuAialc2Cqi1bYJXodD1obXbBo/S3ZYlcC2hEPbJa63DfFJ8cf2UNnrDMdy8S2Y2b+k3Yw3g5DYQ1NUe1IaAouEZKgwnDotxopWWM3wtXYfanP9FAzvgWSn7S1NkUp5VgwmnLsJTAlGN1y/FFeE/GxaV8AIHpGUPzn2QzbA2U5SZdISBmEjlFYEcddRSGxXsWwdk7niBF7kpdG6SPTz4Arecfruet/hdfVmePw7Q0MtClPGBA7EWF5wZvn0WW9JV1cPuT47r1bkUEF8fVRCSqVsNPwd2zYfAKJEN1V0NjzA08t5CKma96HfQoON0eHO1JUg/hYOV+AsLcl1tbeI1pItcAx75eyezAn0IPfI5i2xPAXb8J36YKlYyxBujJvMNOKOssir3x0M2+2sv3Um4TextY8ubg==;NFDwg3osVeCnxU8+F9dN1Q=="

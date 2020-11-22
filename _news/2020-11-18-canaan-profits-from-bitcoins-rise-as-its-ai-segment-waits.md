@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4389837-canaan-profits-from-bitco
 webUrl: "https://seekingalpha.com/article/4389837-canaan-profits-from-bitcoins-rise-ai-segment-waits"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1200
     height: 742
     isCached: true
-
-related:
-  - title: "Canaan Rises Along With Bitcoin As AI Chip Development Continues"
-    excerpt: "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip."
-    publishedDateTime: 2020-11-17T18:16:00Z
-    webUrl: "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai"
-    ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 74
-    images:
-      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png"
-        width: 620
-        height: 383
-        isCached: true
 
 secured: "0M6Dn66lGPYZdMe03c6VMLazGPsTWU177G5AahoDkOkaeWQr4dELwvpZuI4yvXSfRLBV3MOuWG+3uRUI6YebUKeuWQvGQGwucWI5P6ja1KYuMcCywLLhBHcLkcPwy370fbSay28Y5CrDj4vU7TU7XMlLqRzIUXuqhU4MRo/e/yQDPwuo8SPGaCgNtPZpXWvaJ8rknYDyiDI8S5YHggWkqITKp7TD1phQrf6WBDJ8HorGk037f3g1Zsss+Yj4xAd2t/Y0R5JIIXb0CwR37JTHgT28ULvVOR3hzuTiX5ZnpczA46HvIvsFnLhr0z9X4XfJDdLVcyMJOGgvK6ZePetm42/C/cofyGolFvX2RIKGbDEHI9h2h+JeX06aHIdYSylxHZnor2ddz80WzdUGJ0Io2ta3g6CJUaZ4oA4agmp9mr2+jiiOetC1URyLhHT37Zj5aQ0KYexpTd0mlgbKbRNR3x/EIp11MXfyCaJjeoeX2Yu5ys6hZ28Lhpgt6pXEjoK85SjfNI74M0WO2rBppFif5Q==;bth0Y+51F6iX8db+e+aLpA=="
 ---

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How to Make Artificial Intelligence Less Biased"
-    excerpt: "As artificial intelligence spreads into more areas of public and private life, one thing has become abundantly clear: It can be just as biased as we are. AI systems have been shown to be less accurate at identifying the faces of dark-skinned women,"
-    publishedDateTime: 2020-11-18T14:51:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-to-make-artificial-intelligence-less-biased/11857/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
-        isCached: true
 
 secured: "Q/0roG3SRo/h2zRXx4r1xCDe9M4xDWinpBiVF9CXhyr2cS4cT6h8PtVxJVJ9iZIAihDfGMwxdqyWsotjvpaePUDLugqeSF/qIOItnMcB/J9h8CHWM0dXum2vLuip47cFFmr5q/nla3143iqyXiAr2DwR2oGDDIa5Ykxr3PHL0Lj19yi+eP6S6SNkfi78BpDgv8JV6KWKr0AkIPJJ8/EdlTxzASXO9q3HzvuacIaarl+k9fAplDlh29gfqV9qmsiXhxB6HX7lHDPdkwni/N/duouAgpGh3qfu0JdTKeqPxyYWiev+rAgRhiBnrYwdQtN6zCwUuatSaJm9jx+WB03VVB01k7fqO7yQwWDtYmUn4e0AJ/VKbXGD4Lzu9Jxaayp2nL3pWlsNRuYPzcJe60RFUBby0wn26zt7GqQ4nWt8NlHhhiHu3vKeqLWz0FPAfrLwvMc3+bwBd5mfHOkai4a31w8JrDuTQ/GL6zU9THPlPjxeg9+2pvPCF7UKnaA5b2RCWEYer3Jfqv68wGD055grHw==;PGl44H/HrpJ5jZjizNhmcg=="
 ---

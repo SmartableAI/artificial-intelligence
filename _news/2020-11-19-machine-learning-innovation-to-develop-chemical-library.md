@@ -53,20 +53,6 @@ related:
         width: 720
         height: 437
         isCached: true
-  - title: "One-step multicomponent reaction with interpretable machine learning innovation to develop chemical library for drug discovery"
-    excerpt: "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited."
-    publishedDateTime: 2020-11-17T17:05:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/one-step-multicomponent-reaction-with-interpretable-machine-learning-innovation-to-develop-chemical-library-for-drug-discovery.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 11
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/machine_learning_modelsLO.jpg"
-        width: 800
-        height: 486
-        isCached: true
 
 secured: "n8/zRdWaJ5xlQxNcnznlcGsGqu70jCRKjw91rur+FLYEoPzH9PTgBf+TXPWD1GjA+BoUWDWWZwaIg6DP9umv+Gby/BM3sMsiEh0yO2VRKseYWLy+43msPUv6xKzvkbag+Kgkls9YKuJxXz2ItaTL6hS+zxqoHFJhjmIj1jjOuBCTdCiP3VnAolJjyh2BHgqIqRhr32ZlPu9r4rOoDeDOYM2kvm+YvSgiReNayUHr3g9yNthqEw0rw3Vz/NvmZ+m81nhO8iR56Y1VIHrsaUsN0iXDtQZvNHSFT5NXJBI+pHNZ64298whveAFXU5AubbevmLHGJPxl47Ui1/t/GMsfMQ8NKLUS+IzPhohXwu6iM5A=;aw577C4u4fclQzr+EJWFXw=="
 ---

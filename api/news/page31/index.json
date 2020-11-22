@@ -2,6 +2,108 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2020-10-28-the-ai-company-helping-the-pentagon-assess-disinfo-campaigns.md",
+      "title": "The AI Company Helping the Pentagon Assess Disinfo Campaigns",
+      "excerpt": "Primer can quickly sort through hundreds of sources to identify, say, Russian interference in Azerbaijan. It sells its tech to Walmart too.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/",
+      "originalUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f98b1c3e4fe02a20082e855/master/pass/business-ai-intelligence.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/amp",
+      "publishedDateTime": "2020-10-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-28-heres-why-apple-paid-50-million-for-an-ai-video-startup.md",
+      "title": "Here's Why Apple Paid $50 Million for an AI Video Startup",
+      "excerpt": "Apple (NASDAQ:AAPL) has acquired Vilynx, a company focused on using computer vision and artificial intelligence to analyze a video's audio, visual, and related text elements to un",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596947%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
+      "publishedDateTime": "2020-10-28T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities.md",
       "title": "E-Commerce, Fintech, and Cloud: CEOs of Alibaba, Peak Fintech, Logiq and eBay Discuss New Global Growth Opportunities",
       "excerpt": "A Clear Vision To Realize Enormous Untapped Potential of eBay.”  Peak Fintech Group (OTC:PKKFF) (CSE: PKK) CEO Johnson Joseph: “China Fintech Revenues Ready to Explode” VIDEO:  Alibaba Group Holdings (NYSE: BABA) Daniel Zhang CEO: “Big Growth Opportunities in Cloud and Southeast Asia”  Logiq,",
@@ -1103,102 +1205,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-optimizing-costs-for-machine-learning-with-amazon-sagemaker.md",
-      "title": "Optimizing costs for machine learning with Amazon SageMaker",
-      "excerpt": "Applications based on machine learning (ML) can provide tremendous business value. Using ML, we can solve some of the most complex engineering problems that previously were infeasible. One of the advantages of running ML on the AWS Cloud is that you can continually optimize your workloads and reduce",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/optimizing-costs-for-machine-learning-with-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/13/1-Charts-840x630.jpg",
-          "width": 840,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T11:31:07-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots.md",
-      "title": "AI-Powered Trading Platform Tickeron Releases New Swing Trading AI Robots",
-      "excerpt": "Tickeron, an artificial and human intelligence platform delivering unparalleled trading insights and analysis, has released several new swing trading robots as part of their groundbreaking AI Robots feature.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-powered-trading-platform-tickeron-releases-new-swing-trading-ai-robots-1029726330",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-27T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

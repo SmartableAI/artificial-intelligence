@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-robots-join-the-sales-team.md",
+      "title": "Robots Join the Sales Team",
+      "excerpt": "Brokers can hand off tours of listings and the litany of client questions to their bionic colleagues, but a human has to step in when a deal is ready to be made.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/15/realestate/13robots/13robots-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/13/realestate/real-estate-robots-ai.amp.html",
+      "publishedDateTime": "2020-11-13T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-south-africa-artificial-intelligence-and-robotics-be-careful-what-you-wish-for.md",
       "title": "South Africa: Artificial Intelligence and Robotics - Be Careful What You Wish for",
       "excerpt": "There may come a time, within the next three to four decades, when we have robots that are smarter and more independent than we want them to be.",
@@ -1380,58 +1433,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
-      "title": "These Factory Robots May Point the Way to 5G’s Future",
-      "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
-      "originalUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa1fbb2227dbb78ec30daf8/master/pass/business_5g_1003931044.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
-      "publishedDateTime": "2020-11-04T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-19-ping-an-bank-wins-gartner-innovation-award-for-financial-services.md",
+      "title": "Ping An Bank Wins Gartner Innovation Award for Financial Services",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... scene models and machine learning models to achieve the full process of closed-loop ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "publishedDateTime": "2020-11-18T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals.md",
       "title": "Zest AI Inks Deal With Freddie Mac To Boost Mortgage Approvals",
       "excerpt": "Freddie Mac, the company created by the U. S. government in 1970 to fund mortgages and increase home ownership, will start using fintech company Zest AI to help assess the risk of people defaulting on their mortgages.",
@@ -322,7 +365,7 @@
       "originalUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1223,58 +1266,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online.md",
-      "title": "Bolt’s Machine Learning Checkout Platform Will Make Forever 21 More Competitive Online",
-      "excerpt": "Bolt's checkout technology helps retailers compete in a world where Amazon's 1-click checkout has set the online buying experience standard.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/",
-      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb48ddca6804a4acedfa00e%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/18/bolts-machine-learning-checkout-platform-will-make-forever-21-more-competitive-online/amp/",
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

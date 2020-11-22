@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://wp-assets.futurism.com/2020/11/ai-play-rpg-learn-pursue-goals-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "How to Make Artificial Intelligence Less Biased"
-    excerpt: "As artificial intelligence spreads into more areas of public and private life, one thing has become abundantly clear: It can be just as biased as we are. AI systems have been shown to be less accurate at identifying the faces of dark-skinned women,"
-    publishedDateTime: 2020-11-18T14:51:00Z
-    webUrl: "https://www.predictiveanalyticsworld.com/machinelearningtimes/how-to-make-artificial-intelligence-less-biased/11857/"
-    type: article
-    provider:
-      name: Predictive Analytics World
-      domain: predictiveanalyticsworld.com
-    quality: 39
-    images:
-      - url: "https://www.predictiveanalyticsworld.com/machinelearningtimes/wp-content/uploads/2020/10/MSDS_270x270_LM.gif"
-        width: 270
-        height: 270
         isCached: true
 
 secured: "aws4z58GKfbKXxePs1T/WyNfqixciCSDl2o9giECGt3p1ZQyhAzLc9pAUdKjI5j5sxKCKmw+iF5SiZ+gnm33DMSS+zcnbFIVvwxDXzukffwFeFP7UkC3VPgMdvdzDtCilZvSySGy9OYNR1cJKqrBAWRnp1sSWamnaMpCoJHaNuyQGr1XTKilGGBsCTBZMhtLWIdfbdRZprbAONPnDSdmNWiwWYQ69+NIYhUdtN+XK/cJaOpqsXMDRdvHxxn0K25J9OcQvnpIXTxaN9L1947K3gJoovBjH4s+BW86vQoq0Cn/g7mEatBpbloj252SltcwXPqpZ1OikqD34F9U9cTScEyEcF8qQGYiVVV0ZzFMkhuUsJfPyvWHfvI9R93LxwjMUZOpFQgeM5d4Vs+FlO8fcKs5P1VGS1AgVAHVZ8ZVit6pS9ZJFGBV2ArUNEXm3ebSGwvmadtsKIX++p1mtWLJ9EjWk9kAcAoanyAdq+H6eqSIkUtrcZznlAJqlvAcnLzAwMBpaozbDjy+2qPc6XYLRQ==;888XFGGWpbAP4N5mE5sg/w=="

@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Women In AI To Watch"
-    excerpt: "It comes as no surprise that women are woefully underrepresented in all STEM fields. Only a quarter of all STEM workers are female, and even fewer are in positions of leadership. Despite a slight increase in the amount of women in STEM in recent years,"
-    publishedDateTime: 2020-11-17T19:01:00Z
-    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/"
-    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2020/11/17/women-in-ai-to-watch/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb408e73c1268fb22c618cb%2F0x0.jpg"
-        width: 1200
-        height: 1118
-        isCached: true
   - title: "Artificial Intelligence in Security Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
     excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
     publishedDateTime: 2020-11-19T17:52:00Z
