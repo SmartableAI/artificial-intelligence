@@ -1,40 +1,26 @@
 ---
 category: news
 title: "Prima-Temp Awarded Groundbreaking Patent Using Artificial Intelligence For Ovulation Prediction"
-excerpt: "Temp, Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its"
+excerpt: "Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its innovative approach to applying artificial"
 publishedDateTime: 2020-11-17T15:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
-webUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/881405/Prima_Temp_Logo.jpg?p=facebook"
-    width: 600
-    height: 315
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/bd/fbd33205-c737-534d-9316-43c1cf334291/5fb3fbadcc28c.image.jpg?resize=400%2C222"
+    width: 400
+    height: 222
     isCached: true
 
-related:
-  - title: "CORRECTING and REPLACING Ternium Expands Adoption of Falkonry Operational AI for Steel Predictive Operational Excellence"
-    excerpt: "Ternium, Latin America’s leading steel producer has developed, validated and industrialized a Predictive Operational Excellence solution using the Falkonry Operational AI suite to reduce planned and unplanned downtime across steel production operations."
-    publishedDateTime: 2020-11-19T17:58:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=377730"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-
-secured: "G10+pJmjP4GyKDGt3fYUfjLDSuof2dXyun6frL64Cxyew3Pyb/Vy/ZnC8GRpn6GEnvY7eEo5FERQus9B3QigqR5FgM0brhSZn+RsMhBn0y8PAt9d6rohqx9Gl7H2VkiMUIk/Mu/bLiw8MWsKdFKZnmOSsMjJmfJqEmQLpPwq8WDox0pAG1pLUldZ3E39BEu/Y2+CNZLPq4Mz0ocPb2uJH2LP/yVzBscu0czR2slBMIVBegJu0AXL9hi0dmlcofYbf+sVBn38ArroTcuyRyCR/Wt5GqqMwQC8NueN05xphrHoK7QK+L4okybvpf7115r3qbhXwyOc2KeOfDgUiU5zHs5l399bHppwe5y9czANzQo=;/x9lHZvI1zlqIUhJKiCHRg=="
+secured: "MHy6wkBQUtUvLZUAqs3i97MkpKFv6p3z8ALxA0YVs1LK9fPCNm5nIAZ0UxsfAxNGslmkkNBSzBLLLnENlZMZFCHLQV7Te2J5f8FTNVyIEBCIoeqM9DBQKEmNYzHFC3jNKNJZhiWC+Bktj4rXheu2LleQ5qOcp6Kk8nBtMbU+EgKBRRx32accxclFRhukr+yIrUzj5hUgp/sBij5a2VoMFoU6FiWg6oxHAxDei+CghqBHrKrDa2Uu1NGRwQ8SgRM4WX6i2r5nSYkGj2FKUXZa9F0uUDdrTIM3jILELsqRJpv1bFc0KrFeSvWiJipR5rvrweK22gBvyrf3wuYzVvxDYIvnwIX8ffEIZqw16v3wGec=;OBoWlYsr2s9uE4d5pSzXUw=="
 ---
 

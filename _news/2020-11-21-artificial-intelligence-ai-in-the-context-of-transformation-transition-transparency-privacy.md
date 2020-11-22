@@ -35,17 +35,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 52
-  - title: "SYSTRAN Translation Widget Provides SMBs Simple Solution to Globalizing Websites"
-    excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping"
-    publishedDateTime: 2020-11-17T21:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-1029811461"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-1029811461"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-1029811461"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     publishedDateTime: 2020-11-19T19:33:00Z

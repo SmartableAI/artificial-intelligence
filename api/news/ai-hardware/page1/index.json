@@ -366,7 +366,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1064,6 +1064,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-16-nvidia-launches-a100-80gb-gpu-for-supercomputers.md",
+      "title": "Nvidia launches A100 80GB GPU for supercomputers",
+      "excerpt": "Nvidia has launched its 80GB version of the A100 graphics processing unit (GPU), targeting the graphics and AI chip at supercomputing applications. The chip is based on the company’s Ampere ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/nvidia-a100.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "publishedDateTime": "2020-11-15T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next.md",
       "title": "Apple blamed IBM and Intel for Mac chip delays, but TSMC won’t be next",
       "excerpt": "Apple's deals with top chipmakers have historically fizzled out, but its relationship with leading chip fabricator TSMC will likely last.",
@@ -1446,58 +1498,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-apples-first-m1-chip-based-macs-are-playing-it-too-safe.md",
-      "title": "Apple’s first M1 chip-based Macs are playing it too safe",
-      "excerpt": "Instead of moving the Mac boldly forward, Apple's M1 chip is merely raising the performance floor for entry-level computers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
-      "originalUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/macm1s.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
-      "publishedDateTime": "2020-11-11T18:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

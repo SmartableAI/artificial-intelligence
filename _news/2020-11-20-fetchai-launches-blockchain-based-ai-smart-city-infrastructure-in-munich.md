@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/"
 type: article
 quality: 86
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 578
     isCached: true
 
-secured: "Qu85K0Qn0hLrljKdqj/mhaFbQx0Hayo1B7CL+VkOvl9i/pvjT0pIJL0fmXnAEPWM+1ttI5vd8ipuJsIsr0XI84qtI683CeyOlndZSWgSuM2nm6jozD9ld4DaHgwtMG7JFThGfpj1HQHceUTDG1yWURJkc1JVFqJqP+ZSTX8SCZF+P7AxSNbiMqDvYIlGRxGWWekaWaaOBVvvc1+Vn55RfJ52uoqplKVD1X7q4IeIUUCs8KXAsZvsfO9+ILqRVolqpEn3S6o3dbbB1rtPbgau3MU6FWT3NFxztQaFtzPauJBr2hPpO/o2BiOyOC9964V7gkTJ9rihIho/a3ILPkbPgOjBOuo2gNXhFi+zr7Rovpo=;jins/FSWmLm1Te8EKOjZQw=="
+related:
+  - title: "This fintech and blockchain training bundle features 8 courses for $40"
+    excerpt: "FinTech School provides practical fintech training through online courses, covering topics ranging from AI to robo-advisors. With this bundle, you'll get full access to eight of FinTech School's courses, each of which is taught by practicing fintech ..."
+    publishedDateTime: 2020-11-22T13:06:00Z
+    webUrl: "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+
+secured: "k1l3scAoO+XWUrBXhMXDerg6EPIF2mRQo6tUnIOuhhOvHjUUHLfat+0pxc9CSNPu9whmQGxsqDChSceSEHlV7Cz7l46qjOeh9IiROSNASEdC4rKSfN6jIALttepA609WNGspbZpZDogybYZX+5D6s/40NN0asKaM1JYxvG9FQA1OQyJJUsWEhQAPFYDJmwCi+NFb+TNN7ZZrNPhVPyzGKnL9ihGF8mgQsq0KcVB9kQsHiO4+p0uXVQtfl7MJCS2fLcvkwjd41+XY3coOyKV/U8X4yzo6x4IkaMsMlhcmfP8EKJ3p0/w3laWIgDrCzBfXKwccapuGgb6Ss5X9KKmPbZzz9A3+ABjvh1AlN3X2XvbM5gg4PTXhOFImFY5gupiwK9s8KJ0gKgJU0WdOhKXO0n1og29FcyJ0KmuS/PpYFRXjsz+goAgw4EMRha6FpyN8M+WkNoayUXjdtmWvBg4DfQbIilGX7KXkHxz5M/8aDd8NE0EtvhyzQgLfiyR63EmAOrelWN9c5ooTCspmdUv7VQ==;3vKTja9Nget48MLtmfgpSQ=="
 ---
 

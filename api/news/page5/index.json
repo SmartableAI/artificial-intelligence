@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-19-what-chinas-fintech-market-can-teach-the-world.md",
+      "title": "What China’s fintech market can teach the world",
+      "excerpt": "Take the cover photo of this article: At Alibaba, facial recognition software identifies customers at the employee cafeteria, while visual AI identifies ... in China’s fintech market and what ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1011643134.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
+      "publishedDateTime": "2020-11-18T08:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-roche-canada-launches-national-artificial-intelligence-centre-of-excellence.md",
+      "title": "Roche Canada Launches National Artificial Intelligence Centre of Excellence",
+      "excerpt": "Roche partners with AI leaders Amii, Mila and the Vector Institute to drive digital transformation in health MISSISSAUGA, ON, Nov. 18, 2020 /CNW/",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
+      "publishedDateTime": "2020-11-18T07:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-ai-helps-create-the-milky-ways-family-tree-tracking-eons-of-galactic-mergers.md",
       "title": "AI helps create the Milky Way’s family tree — tracking eons of galactic mergers",
       "excerpt": "A team of astrophysicists has used computer simulations and an artificial neural network to identify the mergers that formed the Milky Way.",
@@ -414,7 +509,7 @@
       "originalUrl": "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 227,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -1056,7 +1151,7 @@
       "originalUrl": "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -1148,109 +1243,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal.md",
-      "title": "Amazon and NXP team up on smart car cloud computing deal",
-      "excerpt": "It also uses Amazon SageMaker and SageMaker Neo to build, train and deploy optimized machine learning models. Connected cars have numerous benefits but before these can be realized, automakers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "originalUrl": "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YvXi3t8eHMoX9dePjx8wKd-1200-80.jpg",
-          "width": 970,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal",
-      "publishedDateTime": "2020-11-17T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ai-tool-maker-seldon-raises-71m-series-a-from-albionvc-and-cambridge-innovation-capital.md",
-      "title": "AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital",
-      "excerpt": "Seldon is a U.K. startup that specializes in the rarified world of development tools to optimize machine learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting does actually end up working.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/",
-      "originalUrl": "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tools.jpg?w=960",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/amp/",
-      "publishedDateTime": "2020-11-17T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

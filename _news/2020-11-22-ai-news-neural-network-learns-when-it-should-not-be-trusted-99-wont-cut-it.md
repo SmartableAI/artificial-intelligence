@@ -8,9 +8,9 @@ webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-d
 ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
 type: article
-quality: 69
-heat: -1
-published: false
+quality: 71
+heat: 91
+published: true
 
 provider:
   name: Daily Express
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248"

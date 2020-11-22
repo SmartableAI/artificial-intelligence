@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Booklyn.co Launches New AI-Powered e-Reader Site"
-excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read"
+excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read better. Offering the widest available range of digital features,"
 publishedDateTime: 2020-11-19T12:39:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+webUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267"
-    width: 400
-    height: 267
-    isCached: true
 
 related:
   - title: "Abacus.AI raises another $22M and launches new AI modules"
@@ -41,18 +41,7 @@ related:
         width: 2048
         height: 2048
         isCached: true
-  - title: "Expert.ai Launches New Tools for Building NLP Apps and Advances Edge AI"
-    excerpt: "Expert.ai Studio leverages expert.ai natural language understanding (NLU) abilities to streamline the development of NLP applications. Users can take advantage of core AI features for categorization,"
-    publishedDateTime: 2020-11-17T22:16:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/expert-ai-launches-new-tools-for-building-nlp-apps-and-advances-edge-ai-1029811454"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
 
-secured: "lKoNtpRa4KgtY9yfdkLlHUvFP1RujiN35yf/KedtV4SBJk+ThIxpcnwf6l5jUAB9MIXeDSfUVU9kyFpmfoqPB3eCY9aGdX0AKIvFj94Oq0GtvfRUPBOSkwOMojWRXZB18lyFYNIdyzrd7gkfS6iFI37VUQG2PN8tr/lkEN0EKelk+dCIAUuqJAAtVdI41POO29j5HJS7Dh1O8E5X4NFbvwu0kZ/kK3K5xRhpqTvyIK5A0hppK48P1I5dByj1ehQDQh+uQySFOZY2SDE23xpfLjw4Mg3FR9nMXzFZc/7tduGzdhlx4jeUSNf5qytaJ8CpU8EuzlaA3es6ySdM4a+ic1neyay2l4mq5+y0Q6kxN5NnVqHqOzgAmY/2Na5ctLtvBNoLHQAcQeBUdG5jBV4CZmaud6iUHrdeem9tdUpReXOS4DXe8kIcrGh7WqV76J1yIzlhIkr+plBIGRn6OOBdCtkQlglbI0AMy2JSwtHfsfsqAAG8XvGuPJ0UVPWrmwr19RdbTyATofeQBeBaH4cW5A==;VirlqxJsZOizLimkb0G2vg=="
+secured: "J8HCRnJlLioQgynCBbzlE4ksppstn8wwqLV9/oRybgufEPKouv1PofO2FbqyqOSGeUE4qMvzHI4xUdiN+JXWvc0TRj0b6mNNPB6wR+I/PDpV6TjG0Xul4RiMxo9xRYkOEliSexl4UwctzhWoH2fVf5qXiMrnxG/BhXQooZlgv7RLZt0sZLE3H47+jpP37lToqIXa2n65rAGPgi24USRI0HoG28FQbi5FrhdAQQljbRGru8janQ0TQPsvdEsh9+MzBlThBKnvHhPll8/U38pgwxQVuQI0fcAS3s8MCI7z657+yYr11ooWHt/cRku2a915uJ/WRi8VgZ0aK1DxrQJunFW5ikOmz80/lUKJosyyTbo=;54axebNxPx/8UAFU99pVLw=="
 ---
 

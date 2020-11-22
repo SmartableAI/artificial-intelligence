@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-20-self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us.md",
+      "title": "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us",
+      "excerpt": "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
+      "publishedDateTime": "2020-11-19T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-ai-powered-learning-tools-are-on-track-to-transform-the-modern-workplace-for-good.md",
       "title": "AI-powered learning tools are on track to transform the modern workplace for good",
       "excerpt": "A new era of automation will help workers constantly acquire new skills on the job and at large scale through the use of AI-powered tools.",
@@ -347,7 +399,7 @@
       "originalUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -508,6 +560,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-extortion-bio-warfare-and-terrorism-extremists-are-exploiting-the-pandemic-says-un-report.md",
+      "title": "Extortion, bio-warfare and terrorism: Extremists are exploiting the pandemic, says UN report",
+      "excerpt": "NEW YORK, USA – Criminals and violent extremists are exploiting the pandemic to build their ... or high levels of pollution', the report said. 'Inspired terrorism' case A notable case of ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.un.org/en/story/2020/11/1077932",
+      "originalUrl": "https://menafn.com/1101151140/Extortion-bio-warfare-and-terrorism-Extremists-are-exploiting-the-pandemic-says-UN-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/18-11-2020_Unsplash_data.jpg/image770x420cropped.jpg",
+          "width": 770,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T03:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -724,7 +818,7 @@
       "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663354",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -756,7 +850,8 @@
       "topics": [
         "Facebook AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {
@@ -1111,110 +1206,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast.md",
-      "title": "AWS Inferentia Gathers More Steam With Alexa, Snap, Anthem, And Conde Nast",
-      "excerpt": "Amazon also shared that its computer vision platform, Rekognition, has also started leveraging AWS Inferentia. According to the company, this has allowed it to perform object classification with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb70ffff04424766f6fc478%2F0x0.jpg",
-          "width": 626,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2020/11/19/aws-inferentia-gathers-more-steam-with-alexa-snap-anthem-and-conde-nast/amp/",
-      "publishedDateTime": "2020-11-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by.md",
-      "title": "Global Healthcare Artificial Intelligence Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2026",
-      "excerpt": "Nov 18, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T15:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

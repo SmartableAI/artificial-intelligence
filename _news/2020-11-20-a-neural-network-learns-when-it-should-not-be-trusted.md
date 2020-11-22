@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
 webUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
 type: article
 quality: 69
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: Massachusetts Institute of Technology
@@ -39,7 +39,7 @@ related:
     provider:
       name: Daily Express
       domain: express.co.uk
-    quality: 69
+    quality: 71
     images:
       - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248"
         width: 590

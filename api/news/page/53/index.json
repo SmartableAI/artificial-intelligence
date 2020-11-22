@@ -2,311 +2,21 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2020-10-08-these-ai-generated-resumes-will-make-your-job-search-even-more-painful.md",
-      "title": "These AI-generated resumes will make your job search even more painful",
-      "excerpt": "The result is Almost Real Resume, a website that spits out an endless stream of fake career highlights for tech job candidates. It gives you a new name, contact details, personal statement, work experience,",
+      "path": "_news/2020-10-13-the-next-generation-of-artificial-intelligence.md",
+      "title": "The Next Generation Of Artificial Intelligence",
+      "excerpt": "What will the next generation of artificial intelligence look like? Which novel AI approaches will unlock currently unimaginable possibilities in technology and business? This article highlights three emerging areas within AI that are poised to redefine the field—and society—in the years ahead.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/",
+      "webUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 181,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-08T162316.764-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/08/these-ai-generated-resumes-will-make-your-job-search-even-more-painful/amp/",
-      "publishedDateTime": "2020-10-08T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-from-the-data-and-ai-expert-labs-start-with-outcomes.md",
-      "title": "From the Data and AI Expert Labs: Start with outcomes",
-      "excerpt": "IBM’s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization’s unique needs. In From the Data and AI Expert Labs, I’ll take the expert learnings",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/from-the-data-and-ai-expert-labs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V1.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T09:09:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-the-future-of-mobile-ai.md",
-      "title": "The future of mobile AI",
-      "excerpt": "New approaches to on-device and cloud-based AI technologies are transforming everyday ... and retail landscape—and get the latest research and insights on machine learning, smart cameras ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/",
-      "originalUrl": "https://www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/10/FY20-Corp-IA-See-Us-Everywhere-Compute-Outdoors-Female-2.jpg?w=3000",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/07/1009081/the-future-of-mobile-ai/amp/",
-      "publishedDateTime": "2020-10-08T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments.md",
-      "title": "Instagram Uses Artificial Intelligence (AI) to Hide Abusive Comments",
-      "excerpt": "As Instagram turns 10, it has decided to roll out many new features including the use of AI to block abusive comments on the social media platform. Instagram said that it'll detect the comments",
-      "sourceUrl": null,
-      "webUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "originalUrl": "https://english.madhyamam.com/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://english.madhyamam.com/h-upload/2020/10/08/713407-instagram.jpg",
-          "width": 1311,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "cdnAmpWebUrl": "https://english-madhyamam-com.cdn.ampproject.org/c/s/english.madhyamam.com/amp/technology/instagram-uses-artificial-intelligence-ai-to-hide-abusive-comments-582599",
-      "publishedDateTime": "2020-10-08T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Madhyamam",
-        "domain": "madhyamam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m.md",
-      "title": "Headroom, which uses AI to supercharge videoconferencing, raises $5M",
-      "excerpt": "Videoconferencing has become a cornerstone of how many of us work these days — so much so that one leading service, Zoom, has graduated into verb status because of how much it’s getting used. But does that mean videoconferencing works as well as it should?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Screen-Shot-2020-10-08-at-4.25.11-PM.png?w=1024",
-          "width": 1024,
-          "height": 975,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/headroom-which-uses-ai-to-supercharge-videoconferencing-raises-5m/amp/",
-      "publishedDateTime": "2020-10-08T08:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-adobe-brings-more-ai-powered-tools-to-photoshop-and-premiere-elements-2021.md",
-      "title": "Adobe brings more AI-powered tools to Photoshop and Premiere Elements 2021",
-      "excerpt": "The 2021 versions of Photoshop Elements and Premiere Elements are now available, and Adobe has added a number of AI-powered features to them. Those apps are Adobe’s streamlined versions of Photoshop and Premiere,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "originalUrl": "https://www.engadget.com/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Fabc49140-0972-11eb-ba75-f5d17a69c7b3&client=amp-blogside-v2&signature=cd018cb59a311d621eb9a96941740f44bd8713c6",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/adobe-photoshop-premiere-elements-2021-features-145621547.html",
-      "publishedDateTime": "2020-10-08T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage.md",
-      "title": "Density’s Open Area tool uses AI and infrared to track physical workspace usage",
-      "excerpt": "Density, a startup building AI-powered, people-counting infrared sensors, today announced a new product called Open Area that can map offices ostensibly without compromising privacy. The company ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/Open-Area-Angle-e1600978577323.png?w=1200&#038;strip=all",
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f84f4978d786028fac3acbb%2F0x0.jpg",
           "width": 1200,
-          "height": 600,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -314,595 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/densitys-open-area-tool-uses-ai-and-infrared-to-track-physical-workspace-usage/amp/",
-      "publishedDateTime": "2020-10-08T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-think-big-tech-is-getting-broken-up-buy-alphabet-stock.md",
-      "title": "Think Big Tech is Getting Broken Up? Buy Alphabet Stock",
-      "excerpt": "Antitrust actions among corporations, particularly those in the tech industry, have received increased attention recently. Many politicians are explicitly calling for the breakup of some of the biggest tech companies out there.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F594098%2Fgettyimages-590033270.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/08/think-big-tech-is-getting-broken-up-buy-alphabet-s/",
-      "publishedDateTime": "2020-10-08T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-ibm-shares-rise-on-plans-to-spin-off-its-it-infrastructure-unit-and-focus-on-the-cloud-business.md",
-      "title": "IBM shares rise on plans to spin off its IT infrastructure unit and focus on the cloud business",
-      "excerpt": "IBM said on Thursday it would spin off its IT infrastructure unit to focus more on cloud computing, a high-margin business that has seen a boost as companies increasingly ramp up their digital shift.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "originalUrl": "https://www.cnbc.com/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 220,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106365286-1580420465213preview-2.jpg?v=1595268430",
-          "width": 3915,
-          "height": 2534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/10/08/ibm-shares-surge-on-plans-to-spin-off-unit-into-separate-publicly-traded-company-.html",
-      "publishedDateTime": "2020-10-08T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-commentary-can-ai-and-machine-learning-improve-the-economy.md",
-      "title": "Commentary: Can AI and machine learning improve the economy?",
-      "excerpt": "By the time entrenched incumbents awaken to the threats posed by newly developed general purpose technologies (GPTs), a crop of challengers who had no option but to adopt the new GPT at the outset has become powerful enough to threaten the financial stability of an industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_100620_1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-can-ai-and-machine-learning-improve-the-economy/amp",
-      "publishedDateTime": "2020-10-08T07:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-in-video-trump-calls-his-covid-19-a-blessing-from-god.md",
-      "title": "In video, Trump calls his COVID-19 ‘a blessing from God’",
-      "excerpt": "Click here to refresh this page. President Trump made the stunning announcement ... But before President Donald Trump’s coronavirus diagnosis earlier this week Biden had not disclosed full details of his testing protocol or the results of each test.",
-      "sourceUrl": null,
-      "webUrl": "https://spectrum.ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-      "originalUrl": "https://www.msn.com/en-us/news/politics/white-house-chief-of-staff-mark-meadows-ignored-virus-rules-at-wedding-report-says/ar-BB19DZtG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:54:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-        "domain": "ieee.org/tech-talk/artificial-intelligence/machine-learning/yoshua-bengio-revered-architect-of-ai-has-some-ideas-about-what-to-build-next",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-inside-edge-draftkings-mlb-premium-stats.md",
-      "title": "Inside Edge DraftKings MLB Premium Stats",
-      "excerpt": "Please note that both these options require an active RotoWire paid subscription to maintain access. Get full access to Inside Edge projections inside ... your own custom projection model using the premium stats listed below – or just use them to make ...",
-      "sourceUrl": null,
-      "webUrl": "https://inside.com/premium?campaign_id=23010&list_id=64&outbound_id=---OUTBOUND-ID---&section_id=---SECTION-ID---&subscriber_token=---SUBSCRIBER-TOKEN---",
-      "originalUrl": "https://www.rotowire.com/daily/mlb/inside-edge.php?site=DraftKings&slate=ATL+vs+MIA&type=Showdown",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inside.com/assets/premium/Apple-Wireless-Keyboard-67b8a74f24a75b5820438684126c96b23f37140ad901a75487ba8db6f2686f8a.png",
-          "width": 530,
-          "height": 279,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RotoWire",
-        "domain": "rotowire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-grid-ai-from-the-makers-of-pytorch-lightning-emerges-from-stealth-with-186m-series-a-to-close-the-gap-between-ai-research-and-production.md",
-      "title": "Grid AI, From the Makers of PyTorch Lightning, Emerges From Stealth With $18.6m Series A to Close the Gap Between AI Research and Production",
-      "excerpt": "While doing his PhD at NYU and part-time at Facebook AI Research, Falcon created PyTorch Lightning, one of the fastest growing machine learning frameworks in the world, amassing over 600k ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
-      "originalUrl": "https://www.businesswire.com/news/home/20201008005227/en/Grid-AI-From-the-Makers-of-PyTorch-Lightning-Emerges-From-Stealth-With-18.6m-Series-A-to-Close-the-Gap-Between-AI-Research-and-Production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201008005227/en/828546/23/sisters_SymWord_1128x191_%281%29.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-elucid-bios-vascucap-enters-ibm-imaging-ai-marketplace.md",
-      "title": "Elucid Bio’s vascuCAP enters IBM Imaging AI Marketplace",
-      "excerpt": "Elucid Bioimaging Inc. (“Elucid Bio”) today announced that vascuCAP, Elucid Bio’s AI-enabled software for evaluating atherosclerotic plaque stability from CTA, has been added to the IBM Imaging AI Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-cardiovascular-disease-north-america-arteriosclerosis-massachusetts-e91ccd7f88e542c69ff516f65678cebe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-h2oai-brings-automl-to-equifax-ignite-with-driverless-ai.md",
-      "title": "H2O.ai brings AutoML to Equifax Ignite with Driverless AI",
-      "excerpt": "--(BUSINESS WIRE)--H2O.ai, the open source leader in artificial intelligence (AI) and machine learning (ML), today announced the availability of H2O AutoML and Driverless AI within Equifax Ignite",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201008005266/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-mineralanswerscom-data-products-now-available-on-aws-data-exchange.md",
-      "title": "MineralAnswers.com Data Products Now Available on AWS Data Exchange",
-      "excerpt": "artificial intelligence, and machine learning,\" said Jeff Chambers, founder and CEO of MineralAnswers.com. \"AWS Data Exchange opens tremendous opportunities for us to reach a large and diverse ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/mineralanswerscom-data-products-now-available-on-aws-data-exchange-301148591.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/mineralanswerscom-data-products-now-available-on-aws-data-exchange-301148591.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1247266/MineralAnswers_Logo.jpg?p=facebook",
-          "width": 1597,
-          "height": 836,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-neocis-raises-72-million-for-its-dental-surgery-robot.md",
-      "title": "Neocis raises $72 million for its dental surgery robot",
-      "excerpt": "Dental robotics startup Neocis today closed a $70 million ... “The Yomi planning software … leverages AI techniques to guide the surgeon in planning the case safely, for example providing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/5691c254-4278-461b-a205-a055fd5ccdc2-e1601933697251.png?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/neocis-raises-72-million-for-its-dental-surgery-robot/amp/",
-      "publishedDateTime": "2020-10-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-introducing-ifrs-17-software-with-machine-learning.md",
-      "title": "Introducing IFRS 17 Software With Machine Learning",
-      "excerpt": "Data is universally indicated as the key challenge in IFRS 17 implementations. \"We designed our IFRS 17 solution from start to finish with",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/introducing-ifrs-17-software-with-machine-learning-301148539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1308815/3Blocks_software.jpg?p=facebook",
-          "width": 900,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts.md",
-      "title": "arXiv now allows researchers to submit code with their manuscripts",
-      "excerpt": "Papers with Code was initially founded in part by members of Facebook AI Research. Last year, Facebook and Papers with Code launched PyTorch Hub to encourage reproducibility. In the past year or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/05/machine_learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 770,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/arxiv-now-allows-researchers-to-submit-code-with-their-manuscripts/amp/",
-      "publishedDateTime": "2020-10-08T05:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them.md",
-      "title": "Nine Big Hurdles Of Adopting Artificial Intelligence (And How To Overcome Them)",
-      "excerpt": "Artificial intelligence is an extremely valuable tool that can save your business time, energy and money. However, implementing AI can be a big challenge for any company. From choosing the right AI-powered tool to setting up the right data inputs and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "originalUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dce40f79d0a361086b5fe%2F0x0.jpg",
-          "width": 1200,
-          "height": 579,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/10/08/nine-big-hurdles-of-adopting-artificial-intelligence-and-how-to-overcome-them/amp/",
-      "publishedDateTime": "2020-10-08T05:18:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2020/10/12/the-next-generation-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-10-12T18:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -925,25 +49,27 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2020-10-08-what-to-know-about-computer-eye-strain.md",
-      "title": "What to know about computer eye strain",
-      "excerpt": "This is sometimes known as computer vision syndrome, or digital eye strain. It occurs because our eyes have to work hard when viewing screens. Many people spend long periods of time looking at ...",
+      "path": "_news/2020-10-13-tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms.md",
+      "title": "Tesla Autopilot Self-Driving Beta Test Will Start Next Week, Elon Musk Confirms",
+      "excerpt": "The Full Self-Driving (FSD) feature has undergone a complete reboot and is expected to carry a lot of new functionality. The rewrite also updated the autopilot's labeling software to enable it to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/computer-eye-strain",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/computer-eye-strain",
+      "webUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
+      "originalUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2020/09/GettyImages-1200148891_header-1200x628.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg",
+          "width": 1024,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -951,13 +77,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T05:04:00-07:00",
+      "ampWebUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "publishedDateTime": "2020-10-12T17:17:54-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -967,26 +93,26 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-08-exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts.md",
-      "title": "Exer Labs raises $2 million and launches computer vision app for Peloton-style coached workouts",
-      "excerpt": "Exer Labs has raised $2 million in funding and it has unveiled its AI-based Exer Studio app for the Mac that captures your movements for coaching advice.",
+      "path": "_news/2020-10-13-when-ai-hurts-people-who-is-held-responsible.md",
+      "title": "When AI hurts people, who is held responsible?",
+      "excerpt": "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
-      "originalUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/",
+      "webUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/exer-4.jpg?w=1200&#038;strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all",
           "width": 1200,
-          "height": 621,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -994,9 +120,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/08/exer-labs-raises-2-million-and-launches-computer-vision-app-for-peloton-style-coached-workouts/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "publishedDateTime": "2020-10-12T11:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -1019,26 +145,25 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2020-10-08-grid-ai-raises-186m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production.md",
-      "title": "Grid AI raises $18.6M Series A to help AI researchers and engineers bring their models to production",
-      "excerpt": "Grid AI, a startup founded by the inventor of the popular open-source PyTorch Lightning project, William Falcon, that aims to help machine learning engineers more efficiently, today announced that it has raised an $18.",
+      "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
+      "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
+      "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
-      "originalUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/",
+      "webUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
+      "originalUrl": "https://www.engadget.com/tesla-full-self-driving-beta-october-20-171500591.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 188,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/GettyImages-1124444076.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F3b890af0-0cab-11eb-aff2-f11b123b62a1&client=amp-blogside-v2&signature=d1805af9a493dbf66adae49607fe3512a7edbe41",
+          "width": 600,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1046,16 +171,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/08/grid-ai-raises-18-6m-series-a-to-help-ai-researchers-and-engineers-bring-their-models-to-production/amp/",
-      "publishedDateTime": "2020-10-08T05:03:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tesla-full-self-driving-beta-october-20-171500591.html",
+      "publishedDateTime": "2020-10-12T10:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1071,104 +196,10 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers.md",
-      "title": "These free JavaScript for beginners videos from Microsoft are aimed at new developers",
-      "excerpt": "Microsoft's Introduction to JavaScript video series will equip users with the basic skills to start building apps with the popular programming language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "originalUrl": "https://www.techrepublic.com/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2017/07/21/8a7b06f0-9855-4d12-ab51-5cbd69ba4a28/resize/1200x/61239e117f2d7077a0b5246711e8484b/programmer.jpg",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/these-free-javascript-for-beginners-videos-from-microsoft-are-aimed-at-new-developers/",
-      "publishedDateTime": "2020-10-08T04:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-08-acuant-announces-facial-recognition-software-awarded-elite-ibeta-compliancepad-level-one-and-two.md",
-      "title": "Acuant Announces Facial Recognition Software Awarded Elite iBeta Compliance/PAD Level One and Two",
-      "excerpt": "Acuant, a leading global provider of identity verification, today announced that Acuant FaceID provides facial recognition with liveness detection technology that has been awarded PAD Level 1 and Level 2 compliance by iBeta,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-government-and-politics-biometrics-computing-and-information-technology-software-3fb1cc6d39351af4d15eb9878c1e6e85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     }
   ],
-  "nextPage": 54
+  "nextPage": null
 }

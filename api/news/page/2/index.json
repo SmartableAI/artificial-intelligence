@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-commentary-pathmind-applies-ai-machine-learning-to-industrial-operations.md",
+      "title": "Commentary: Pathmind applies AI, machine learning to industrial operations",
+      "excerpt": "In this installment of the AI in Supply Chain series (#AIinSupplyChain), we explore how Pathmind, an early-stage startup based in San Francisco, Bringing simulation and reinforcement learning to industrial operations I asked Chris Nicholson,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations",
+      "originalUrl": "https://www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/11/Aoaeh_112020_2.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations/amp",
+      "publishedDateTime": "2020-11-20T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts.md",
+      "title": "Artificial intelligence could be used to hack connected cars, drones warn security experts",
+      "excerpt": "Cyberattacks on vulnerabilities in connected vehicles could have very real physical consequences if security isn't managed properly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/7d823c87-e76e-493d-b656-1a90aa737182/thumbnail/1200x675/eb1c7cb1954746c9aa0ad732a26af89b/20200930-boulton-danny.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "publishedDateTime": "2020-11-20T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
       "title": "Using Machine Learning To Predict And Detect Fraud",
       "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
@@ -165,7 +261,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -345,58 +441,6 @@
         "AI Ethics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
-      "title": "A neural network learns when it should not be trusted",
-      "excerpt": "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
-      "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T21:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1193,58 +1237,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us.md",
-      "title": "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us",
-      "excerpt": "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
-      "publishedDateTime": "2020-11-19T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

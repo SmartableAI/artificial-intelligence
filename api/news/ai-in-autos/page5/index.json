@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-19-is-artificial-intelligence-closer-to-common-sense.md",
+      "title": "Is Artificial Intelligence Closer to Common Sense?",
+      "excerpt": "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "originalUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/articles/AI-Closer-Common-Sense/en/headerimage/AI-Closer-Common-Sense-h-1602793884272.jpeg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "cdnAmpWebUrl": "https://www-infoq-com.cdn.ampproject.org/c/s/www.infoq.com/articles/AI-Closer-Common-Sense/",
+      "publishedDateTime": "2020-10-19T05:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-go-beyond-artificial-intelligence-why-your-business-needs-augmented-intelligence.md",
       "title": "Go Beyond Artificial Intelligence: Why Your Business Needs Augmented Intelligence",
       "excerpt": "When algorithms learn from our data, they mimic these imperfections and magnify the bias. There is ongoing research in AI to improve fairness and ethics. However, no amount of model engineering will make algorithms perfect. In the real world, if we are ...",

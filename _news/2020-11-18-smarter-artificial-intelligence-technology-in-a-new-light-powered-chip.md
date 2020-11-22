@@ -51,6 +51,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 64
+  - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
+    excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
+    publishedDateTime: 2020-11-22T13:49:00Z
+    webUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai-smarter-and-smaller/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:960/h:540/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/processor-2217771_960_720.jpg"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Researchers Develop AI Model to Predict ICI Response in Advanced Melanoma"
     excerpt: "Results of the artificial intelligence (AI) model were consistent no matter which immune checkpoint inhibitor (ICI) therapy patients received, suggesting that some biomarkers are not necessarily specific to the checkpoint target."
     publishedDateTime: 2020-11-20T18:05:00Z

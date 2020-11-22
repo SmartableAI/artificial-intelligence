@@ -73,17 +73,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
-    publishedDateTime: 2020-11-17T21:52:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/corsight-ai-launches-real-time-facial-recognition-technology-that-accurately-identifies-individuals-at-an-unmatched-speed-under-any-condition-1029810669"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Delta Tests Facial Recognition Technology in Detroit, the First of Its Kind for Domestic Flights"
     excerpt: "Delta Air Lines is expanding its use of facial recognition technology with a first-of-its-kind pilot program for domestic flights, the airline announced Thursday. Starting next month, Delta will test the digital ID technology for domestic flights at the Detroit Metropolitan Wayne County Airport,"
     publishedDateTime: 2020-11-20T15:41:00Z

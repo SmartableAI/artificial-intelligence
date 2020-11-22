@@ -89,22 +89,6 @@ related:
         width: 1024
         height: 446
         isCached: true
-  - title: "New Orleans PD Using Facial Recognition Despite Earlier Denials"
-    excerpt: "Despite earlier claims by officials that the New Orleans Police Department was not using facial recognition, it appears the agency has been leveraging the technology through state and federal partners."
-    publishedDateTime: 2020-11-17T22:37:00Z
-    webUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/New-Orleans-PD-Using-Facial-Recognition-Despite-Earlier-Denials.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
   - title: "Los Angeles Police Ban Use of Third-Party Facial Recognition"
     excerpt: "The Los Angeles Police Department halted the use of outside facial recognition platforms in investigations after uncovering that detectives had used a powerful commercial software known as Clearview AI without permission."
     publishedDateTime: 2020-11-18T16:20:00Z
@@ -183,17 +167,6 @@ related:
         width: 840
         height: 560
         isCached: true
-  - title: "New Orleans Police Dept. Admits to Facial Recognition Use"
-    excerpt: "After years of denial, NOPD has confirmed the use of the technology. Officials have remained vague on details, including the specific software, the frequency of use and how long the tech has been used."
-    publishedDateTime: 2020-11-17T21:42:00Z
-    webUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html"
-    ampWebUrl: "https://www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/security/New-Orleans-Police-Dept-Admits-to-Facial-Recognition-Use.html?AMP"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 39
   - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
     excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
     publishedDateTime: 2020-11-18T19:58:00Z

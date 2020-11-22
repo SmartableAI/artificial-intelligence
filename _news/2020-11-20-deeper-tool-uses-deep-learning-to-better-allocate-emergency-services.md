@@ -41,20 +41,6 @@ related:
         width: 973
         height: 514
         isCached: true
-  - title: "DeepER tool uses deep learning to analyze NYC emergency services"
-    excerpt: "A team of Binghamton University researchers has used deep-learning techniques to analyze and suggest improved public safety in New York City."
-    publishedDateTime: 2020-11-17T22:01:00Z
-    webUrl: "https://www.binghamton.edu/news/story/2772/deeper-tool-uses-deep-learning-to-better-allocate-emergency-services/"
-    type: article
-    provider:
-      name: Binghamton University
-      domain: binghamton.edu
-    quality: 39
-    images:
-      - url: "https://www.binghamton.edu/news/images/uploads/features/_normal/nycfiretruck.jpg"
-        width: 770
-        height: 435
-        isCached: true
 
 secured: "DurY0DRrnSv4EjQNIeGKUBVxPfELG5fK8iZ2mjaUAer/EXZL8S0jSuQY6XD1+RmDu+DHiTSQR5+eqgU5omCatadwIhfute4pY7wmGra0aJgQBWc4f3OGj6nP/ovF6xR5aIvnTcnFKY4vYhgdvG/Zx9Wqk3mHWra/4MZCs/d1ffcmp4Ib50BKDhQMf4IuR2ni/w5MA5RhzjggnYJuDBm3uvWoh13NqBBOAkLiDMlG11150YVBLAYloRmcTj6/iFBGo9Rxlv6O0LE81G4z+IQElTWbH9Bg3JyRt+AEdRhPHL/XiTqR4FOSfcX29diz5h8TxKCStsA89xoND835Og+HQznRa0eXkiC3H39i4aTlP5U=;eIlesx5afh+5ZO8ALc7hGQ=="
 ---

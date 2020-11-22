@@ -64,6 +64,20 @@ related:
         width: 2560
         height: 1600
         isCached: true
+  - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
+    excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
+    publishedDateTime: 2020-11-22T13:49:00Z
+    webUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai-smarter-and-smaller/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 54
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:960/h:540/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/processor-2217771_960_720.jpg"
+        width: 960
+        height: 540
+        isCached: true
 
 secured: "8Rg4C19ukOFuHN/0apzCJwjer9bV15eNqwwC87xB+F1KK1XCPLLnkqDQKfaiAuss/Xa4LtIxsDcxxOef7CPSI/XxZ/VDqZKFLAhu/4MfnP0SA9mefi481eROngzHUguRQOIM4SQ2w4Qhw+lZdMe34BK0RG9vgdxOBYgMN6yZkbR7/yFP6kEFyDuMle5NPfOl6ytbsf68huXJzWdPMjExoiwuYJTioDP6C9uI5DVGVVjFNK7rizf35zrbi587aqCEJwoptsYHG99zCU260Ax7QH83Pe0rneVJXU9HBabG9nEWvSZ04GtuVXr5tFxzUVuClOGkt1Te8lX7KrvcSkY9Nw3RAVn7HUQjOs1y3DOCdQM=;TB85d5p8oO8sVA9zdGAzYQ=="
 ---

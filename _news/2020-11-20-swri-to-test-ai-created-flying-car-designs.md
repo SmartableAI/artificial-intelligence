@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ksat.com/news/local/2020/11/20/swri-to-test-ai-created-f
 cdnAmpWebUrl: "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2020/11/20/swri-to-test-ai-created-flying-car-designs/?outputType=amp"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "SwRI to test AI-created flying car designs"
-    excerpt: "The research organization will develop criteria for the designs, which includes making sure the vehicles have enough for people."
-    publishedDateTime: 2020-11-17T22:47:00Z
-    webUrl: "https://www.bizjournals.com/sanantonio/news/2020/11/17/swri-darpa-air-taxi-flying-car-ai-tech.html"
-    ampWebUrl: "https://www.bizjournals.com/sanantonio/news/2020/11/17/swri-darpa-air-taxi-flying-car-ai-tech.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanantonio/news/2020/11/17/swri-darpa-air-taxi-flying-car-ai-tech.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 37
 
 secured: "iy3kMglD8siEWZIsz57DsTAns2cSLSQy9UfHNSb2ycKIvF2hqDwUqFAxV2PAIiq0XhvRwY3YLB3xC08Uy+zimAdy7+si2Bb6FaZLD4GeGnFSboUEfuIb9t/lj1WxxaGQsqvTsAoF2GbnOhXd9U4TGtcg9yBG9cdOKJ8P2J3yhfIxrz9Lxr7ZNpcfZaB12CbTz0iAck6OKNTl4fD35ADMYOQaW7Pcjumnqic78dMwCiY48gxW5D5Niuzt5fn+wEIl1MJe87snVc7hw/sNO3LnRbZUVzB4HHIV7anuV6cgpuKAGCn+eeTFUy/9xzlaQv8dAXUbFmo09gMKC7AdcP8ZskrzQ6nx6NCnO8KN9uf9z22m8o1fLolekueAQ6Ff9V/qYEi4tLpCAe7/uXBjtwCkWJuD2iebXr2INi5xBOh/cDBR1rOpFbu1KlIKiB5LcShspCm3UYrbAeYJEjJjLJcvq2OkNgRhucwocMaikMuXl6qxFFJ06yNn0COSWHoifeHtPdxBs/IQ3iuV3JtJ4Sqh+g==;x4nFtjfaDcKr+B/B+QOe3A=="
 ---

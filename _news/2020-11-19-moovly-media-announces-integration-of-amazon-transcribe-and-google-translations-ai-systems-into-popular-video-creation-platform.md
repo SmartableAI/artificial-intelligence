@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integr
 webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
 type: article
 quality: 52
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -20,17 +20,6 @@ topics:
   - AWS AI
 
 related:
-  - title: "SYSTRAN Translation Widget Provides SMBs Simple Solution to Globalizing Websites"
-    excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping"
-    publishedDateTime: 2020-11-17T21:44:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-1029811461"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-1029811461"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/systran-translation-widget-provides-smbs-simple-solution-to-globalizing-websites-1029811461"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Artificial Intelligence (AI) in the context of transformation, transition, transparency & privacy"
     excerpt: "Our world is undergoing an information Big Bang, in which the universe of data doubles every two years and quintillions of bytes of data are generated every day. The impact of big data is commonly described in terms of three “Vs”: volume,"
     publishedDateTime: 2020-11-20T18:50:00Z
