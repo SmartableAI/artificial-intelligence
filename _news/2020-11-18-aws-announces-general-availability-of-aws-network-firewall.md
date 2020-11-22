@@ -7,8 +7,8 @@ originalUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Annou
 webUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Wire
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
+    excerpt: "CrowdStrike Holdings, Inc., a leader in cloud-delivered endpoint and workload protection, today announced it is a Launch Partner for AWS Network Firewall, a managed service that makes it easy to deploy essential network protections for all of a customer’ s Amazon Virtual Private Clouds."
+    publishedDateTime: 2020-11-18T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 25
   - title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
     excerpt: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
     publishedDateTime: 2020-11-18T17:00:00Z

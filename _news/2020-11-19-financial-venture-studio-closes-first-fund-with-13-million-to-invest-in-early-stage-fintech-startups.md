@@ -143,17 +143,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
-    excerpt: "FinChatBot is opening up offices in the UK to assist British banks and insurers FinChatBot, a creator of conversational AI solutions for the financial services industry,"
-    publishedDateTime: 2020-11-18T04:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18421085/ai-fintech-finchatbot-lands-1-2m-investment-to-expand-into-the-uk"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18421085"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18421085"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
     excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
     publishedDateTime: 2020-11-19T21:30:00Z

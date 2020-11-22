@@ -615,6 +615,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-06-crime-location-forecasting-is-it-entrapment.md",
+      "title": "Crime Location Forecasting: Is It Entrapment?",
+      "excerpt": "This, combined with the technological advances in media platforms like Facebook and Twitter which use Artificial Intelligence ... Zaia is also a Junior Research Analyst for the Canada Centre ...",
+      "sourceUrl": null,
+      "webUrl": "https://thecrimereport.org/2020/11/06/crime-location-forecasting-is-it-entrapment/",
+      "originalUrl": "https://thecrimereport.org/2020/11/06/crime-location-forecasting-is-it-entrapment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thecrimereport.org/wp-content/uploads/2020/11/surveillance-by-gulgulas-e1604672112758.jpg",
+          "width": 720,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T06:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thecrimereport.org",
+        "domain": "thecrimereport.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-realpage-adds-online-reputation-assessment-ora-scores.md",
       "title": "RealPage Adds Online Reputation Assessment (ORA) Scores",
       "excerpt": "RealPage, a provider of software and data analytics to the real estate industry, has added Online Reputation Assessment (ORA) Scores into its Performance Analytics Benchmarking and AI Revenue Management solutions. ORA scores from J Turner Research measure ...",
@@ -1460,58 +1503,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-facebook-plans-to-use-ai-to-help-fight-climate-change.md",
-      "title": "Facebook plans to use AI to help fight climate change",
-      "excerpt": "The social network teams up with Carnegie Mellon University to find new ways to store and use renewable energy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "originalUrl": "https://www.cnet.com/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/DLI_wPn6SSXK7hKxFajKVx567f0=/1200x630/2019/12/30/913bf7f7-7ec0-4894-bb35-3807a65e36bb/facebook-logo-phone-4597.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-plans-to-use-ai-to-help-fight-climate-change/",
-      "publishedDateTime": "2020-10-14T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

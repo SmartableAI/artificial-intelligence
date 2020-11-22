@@ -91,22 +91,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "LAPD bars use of third-party facial recognition systems, launches review after BuzzFeed inquiry"
-    excerpt: "LAPD bars the use of outside facial recognition platforms after learning some detectives had used a commercial software platform"
-    publishedDateTime: 2020-11-18T03:50:00Z
-    webUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation"
-    ampWebUrl: "https://www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2020-11-17/lapd-bars-outside-facial-recognition-use-as-buzzfeed-inquiry-spurs-investigation?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 47
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/b867d52/2147483647/strip/true/crop/1620x1058+0+11/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe2%2F72%2F2e3c57de4ac19ff232b6ef52212f%2Fnewsom-presser-11-16-la-thmb.jpg"
-        width: 320
-        height: 209
-        isCached: true
   - title: "Resisting the rise of facial recognition"
     excerpt: "Researchers, as well as civil-liberties advocates and legal scholars, are among those disturbed by facial recognition’s rise. They are tracking its use, exposing its harms and campaigning for safeguards or outright bans."
     publishedDateTime: 2020-11-18T11:28:00Z
@@ -120,22 +104,6 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03188-2/d41586-020-03188-2_18584500.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "LAPD bans using third-party facial recognition software after discovering detectives did so without permission"
-    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a"
-    publishedDateTime: 2020-11-18T03:17:00Z
-    webUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/"
-    ampWebUrl: "https://ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/news/local-news/lapd-bans-using-third-party-facial-recognition-software-after-discovering-detectives-did-so-without-permission/amp/"
-    type: article
-    provider:
-      name: KTLA
-      domain: ktla.com
-    quality: 39
-    images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2020/06/download-1-13.jpeg?w=1280"
-        width: 840
-        height: 560
         isCached: true
   - title: "LAPD Bars Use of Unauthorized Facial Recognition Platforms"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission,"

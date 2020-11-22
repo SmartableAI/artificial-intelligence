@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-22T17:19:00Z
 originalUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
 webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
@@ -56,6 +57,6 @@ related:
         height: 675
         isCached: true
 
-secured: "srHx178QX7cyDsLKAzIsUKoaF7wCVykB1g15IFKum+7SheVGJoh5d4GZOR0qxmtGfmglryYWnwbMdE/ZcxnGubQTMgDoP0OGkho+nPsW10spsmz6lZD7li63S518siq+qekZaVRrPjqJ3zBIB+J9IyV6rPRglxRdGUpYQ4Qga39V50xS/4H0B3gqDB/smJ4ctI54GjRFr1Y/FOsOBNUjSu1oa7Is/OKqMP++jrc1nH22Tvt2Y/pjFGzD6QyNrXYhov6C4KpgGkhhDZFgJDGz5eg/KmInm8GmMylhqMWsst189rUSxBTCN5mf6TIk7wP3sc1sdmUrQKD/KRnwLzYTdUnqpezB6EIXG4m2sbrp00s=;YU3ZofU9+txa/oNKMX/ilQ=="
+secured: "6VH0V22vHK01pNj/GBfvrQ0Hf4HX8JQ4tVPeweIKTMMrkDOztQO/o64xdHPU6wEhWQs+361yEgmd0s5rHJ6FNaf3H0nDL4nd8xvUWZWO+sWpSMap3I38sZBNwPF9pyuNHMrK/Ch/eF8zOBNUtN5bLOTtR54ZgP61lHFVCcDdMwGwOf40nPB2qP4Q8CcuNVHItHwQHfkU6UW27u6CyGGJLwJcmMaA41uvqbC4/XiB+17YEuCLirTxNRwuLLrEl51pHNbjYjKQX1QuZeh+2dRQJTZP+tTAvmBRkM0S6kFxViddCv7oLgJKifGHA24w/Zxo2i3FxSms4cqFzjGFErKyylftPLvO6NhCoTKu2Hi5rM8pEVOegN39nDsjukBkhvQljBeMnPFNFWtyQ/Cgc7dGSOYepWn0Lr2WtI1lPKFwDvLJR7kpG5gn2bB46ajQLXNESvTTmJXIxuQzRETh6sd1EJXiTW63TL5/s991322dH98uOmOZaVMfGP7NR2SMEPZVApDPGh+OrHOTMr6fjXQc4Q==;vUClpQrc+ZEjyUyg2IvcGQ=="
 ---
 

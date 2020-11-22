@@ -48,7 +48,7 @@ related:
     provider:
       name: Women's Wear Daily
       domain: wwd.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
         width: 394

@@ -2,21 +2,25 @@
 category: news
 title: "AWS to Open Data Centers in Switzerland"
 excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile, security, hybrid, virtual and augmented reality (VR and AR ..."
-publishedDateTime: 2020-11-02T21:37:00Z
-originalUrl: "https://gisuser.com/2020/11/aws-to-open-data-centers-in-switzerland/"
-webUrl: "https://gisuser.com/2020/11/aws-to-open-data-centers-in-switzerland/"
-ampWebUrl: "https://gisuser.com/2020/11/aws-to-open-data-centers-in-switzerland/amp/"
-cdnAmpWebUrl: "https://gisuser-com.cdn.ampproject.org/c/s/gisuser.com/2020/11/aws-to-open-data-centers-in-switzerland/amp/"
+publishedDateTime: 2020-11-02T16:01:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/"
+webUrl: "https://www.hpcwire.com/off-the-wire/aws-to-open-data-centers-in-switzerland/"
 type: article
 
 provider:
-  name: gisuser.com
-  domain: gisuser.com
+  name: HPCwire
+  domain: hpcwire.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "8Ory1vjo6giarcEB9sFMsxTa0zqQuQWhKkY3PU7qLobck+KHfSUITDrdeDTzLVMZfO1tDkFdP5xhAfyb66aQXoiXUII2QX+iiFVcy6QzFcyOmjN96HJRK9/amkOO0CdJAFHDxZ994txYrf1OGsmkfW8o13yUSvpjYJkTLZ0qC672bz3uW2PKQ3ljtWYdx79tJDOLDSBjkezEJ9+WDzyp662rG7/RDrlc4l0Mzh3H+Ny7+H8vCq4gtw2eFqEFHcvLeuPsFJvSjxvIM8eNJoPxWBSuU4Nyf+aifDobRg1ivPtkehnMihWBg20McktsosknSwI5375f4P5ntel64nz01LE6XhX18yf1e0Mgad6Lzu0=;kc3QBVx3dQ9Jvwrgx0rmJA=="
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/02/HPCwire-logo-square.png"
+    width: 440
+    height: 440
+    isCached: true
+
+secured: "MSmMepS471w7NeYUUpGl7plhTX8aP0j/h6rvU1PBgeQMb6zzQJaJ2pncbhJWvR02elBHLhkAfzgHz/N9/RP7iLcDmSZ3JwPyeX4uXHWWJk9pl8epkbSKJE6aQ07botw2koXi3Zcqakr8zYQSuAiXw3uy5Jr9+ERUp+C0BodcAlAXe+ECWCXCnF7Rl9yJGItRAfZn4RLTI/9hk4d0u9txoDR+/AcCiSk3v9YxLuBGx6yibq5oYO1jtvxX73zYKCSj5h45KeQpkBCyqPj1k17tOizHVhZbCo5i3K+q/4OD3suiMLVaOmJZN+G8vytWqx9YPD/JHPDWRDDi9I3O0YoD3cvJq6Rri+jdegQDcWXojSA=;nD2DOEwwf6WKTQ/uNs8DoQ=="
 ---
 

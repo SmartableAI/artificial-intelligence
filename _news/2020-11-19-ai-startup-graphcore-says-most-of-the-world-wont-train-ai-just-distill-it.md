@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-graphcore-says-m
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 2925
     height: 1875
     isCached: true
-
-related:
-  - title: "AI startup Graphcore says most of the world won't train AI, just distill it"
-    excerpt: "Most people won’t have the kind of money it takes to train trillion-parameter models of deep learning. Instead they’ll simply shave off what they want."
-    publishedDateTime: 2020-11-18T04:33:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/ai-startup-graphcore-says-most-users-will-distill-giant-ai-models-to-something-specific-and-useful/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/18/db32f0bd-4ae9-4771-882c-313031c3980d/graphcore-2020-hbm-memory-is-wrong-way-to-go.png"
-        width: 2925
-        height: 1875
-        isCached: true
 
 secured: "982Cmol2248p6BttjI3zTDdizDiEiyLRDHaXaQGCmTAAx9aIFQsQPbJiStQpcZdfiatHjP2KHwNOlDyaxgsCwwY4h0pHb3xIlEVIEtrLiCmGXbVntos5s/t0RMGiU06tZFem1wmRuJTfw0oAyG7IhVcR8bKgXGwdJXGGH545ZQL7AJFMBryaUQrJa0pAdN4cjB1s5NDGN4tZ5VakCje2ET1EU5ppP3Ei7UvUwCQ6lI7fodhwzVvtv59OAfYtr+SUOtOeyR6vt0O2qsf5yjlIe5HGNuy+IDKL0E5w3JQmqmhe/lmr7gcwM76Q1pl6/UxEpZnRjR9ghn/FGXA0iw7fxK2eIc1qySsh7ZdGQlMB61mFADVSTeC2c1QGkhX5tyw/N/yAqhevMP8VpniZ6dYpay+uTUjXvauRFZiyUwKZUZjsAFmDtK2wK1PaYp2h6aXZwo4QjiDJC5mr4SQ7HuFO5+68yshE1NVssvrMoSjiyLa1RlGIQ1RAai/Lv/tnBe/MT809qokR0PLgZroOmrVuNw==;7CnJPzyzh4qZk02lbgE+qA=="
 ---

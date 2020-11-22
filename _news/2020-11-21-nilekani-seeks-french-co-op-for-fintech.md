@@ -129,17 +129,6 @@ related:
         width: 466
         height: 263
         isCached: true
-  - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
-    excerpt: "FinChatBot is opening up offices in the UK to assist British banks and insurers FinChatBot, a creator of conversational AI solutions for the financial services industry,"
-    publishedDateTime: 2020-11-18T04:56:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18421085/ai-fintech-finchatbot-lands-1-2m-investment-to-expand-into-the-uk"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18421085"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18421085"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
     excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"
     publishedDateTime: 2020-11-19T15:20:00Z

@@ -3,10 +3,10 @@ category: news
 title: "Financial services companies are starting to use the cloud for big data and AI processing"
 excerpt: "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management."
 publishedDateTime: 2020-11-18T16:27:00Z
-originalUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-webUrl: "https://www.techrepublic.com/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing/"
 type: article
 quality: 80
 heat: 170
@@ -156,6 +156,6 @@ related:
       domain: businesswire.com
     quality: 14
 
-secured: "ry/ImtFebLjH+4TeesXbmffxWNW6ywSEymOyzBxThAxxQ+C5mi9zkmVGl4cBsneIOkkKWI4Q2d2y1H7TsV1vDxyIHajLi4ZpE6itBy0fhfV/TUAR4RY2II3bxU7qtA8SVYXNtjdrakc02Lj5uRFCurKffTUtY9PUVEWkJC8vsbbFlWRm54KCqtYdKMz6VFE+OF0qVzU9pgGnJXzVGY0MmAnDIeFxkmBEftzlNGoC4d7gXQQ89o7PMiXOGDMkxObWap9AS0RCep/gk/UVaxcuQZGXgJOVf+xNqhLiXLotRTr2yrhnfEQbj+n13ycL+uEofKAzKLCVvJlFBmKzce55Yurg/PLFDJ3xuRvC7W1SEXbT2T8oMeQQ6RyAwGJz8InPtbPBKoCWiVKnFv9ol+pWlh4XeF1BFLUQnMCgzdkGIJa2bSKlh5aneJk0RoQY7yGCddKTYKuKnb4XW09ESvVnldQa1AAnmeHDxGWijnZsU73hp+wOTikfeCr4cl4nC1mpmOQIeP1P18JfP1tXCsY2YQ==;57UJck2te3x3QxVMKIz8xg=="
+secured: "Tc6NWDa1MCLDkcdSSv9W4DIz3riNfXentngqqnpdoQEvqG7xXT7aW/xd2D4kwM3s5fKDoEZEzxsptYl9VJcmq0OyugSra+5OoEKDNR+1RJ3KtHFXigfI9Vib+hZbK0k1FqrvCmZzUktwMvUA2pB0JPvow8Ibt0NFMWT2k7jj3iFyKn3DcOdGzgiqOybU5SCFHFiyyhbNNBCKVFZ5Z4Lxi3WvIgSxu8OR32pcIL6Ys+jlNGAWap7b8cIZXB6au0SipO/2hsQ58XvQPQGZ+FMCAiZI/o+1rPLFPPa1GwUHFiiort75kMnRLnoAoWjF/gJMIbMawDXnFSBPzciD42nfJ4DFO52YOM6QdR2mY8t96eo=;K0EyH+FarlP3pH4rOZWtvQ=="
 ---
 
