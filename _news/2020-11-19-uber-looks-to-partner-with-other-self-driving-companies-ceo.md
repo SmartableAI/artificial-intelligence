@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Plagued With Bad Luck, Uber To Bid Adieu To Its Self-Driving Car Project"
-    excerpt: "Uber’s unit of the self-driving car known as Uber Advanced technologies aka UberATG, eighteen months ago, was valued at a whopping $7.2 billion after it"
-    publishedDateTime: 2020-11-17T16:14:00Z
-    webUrl: "https://dazeinfo.com/2020/11/17/uber-to-sell-self-driving-car-unit/"
-    type: article
-    provider:
-      name: Dazeinfo
-      domain: dazeinfo.com
-    quality: 23
-    images:
-      - url: "https://dazeinfo.com/wp-content/uploads/2020/11/72JSDTBMQII6RBUI4BJ3UWHR4Q-scaled.jpg"
-        width: 2560
-        height: 1697
         isCached: true
   - title: "Uber's self-driving vehicle unit is seeking partners, says CEO Khosrowshahi"
     excerpt: "CEO Dara Knosrowshahi says the company's autonomous vehicle unit wants to partner with other companies in the space.Khosrowshahi, speaking at the RBC Capital Markets conference, was responding to a question about reports the company wanted to sell the Advanced Group."

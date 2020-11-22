@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-2
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning automation startup DataRobot raises $270M ahead of a likely IPO"
+    excerpt: "Machine learning automation startup DataRobot Inc. has raised $270 million in new funding on a $2.7 billion valuation in what the company describes as “pre-IPO funding,” suggesting that it may have plans to go public in the near future."
+    publishedDateTime: 2020-11-18T02:03:00Z
+    webUrl: "https://siliconangle.com/2020/11/17/machine-learning-automation-startup-datarobot-raises-270m-ahead-likely-ipo/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 66
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2018/10/37743329_2165804907035213_7133156086915268608_o-1.jpg"
+        width: 1980
+        height: 1320
+        isCached: true
   - title: "Denver AI property insurance startup Flyreel lands $10M Series A funding"
     excerpt: "Denver startup Flyreel, an AI solution for residential and commercial property insurance, announced Wednesday that it has closed a $10 million Series A financing round. CEO and co-founder Cole Winans said the Covid-19 pandemic has forced property insurance providers to accelerate and enhance their digital strategies."
     publishedDateTime: 2020-11-19T15:04:00Z

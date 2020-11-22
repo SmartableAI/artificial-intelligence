@@ -1,18 +1,24 @@
 ---
 category: news
-title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
-excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
-publishedDateTime: 2020-11-21T12:39:00Z
-originalUrl: "https://analyticsindiamag.com/nvidia-quarter-reports-aple-m1-tensorflow-latest-news/"
-webUrl: "https://analyticsindiamag.com/nvidia-quarter-reports-aple-m1-tensorflow-latest-news/"
+title: "An introduction to TensorFlow Lite development on Android"
+excerpt: "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases."
+publishedDateTime: 2020-11-22T07:12:00Z
+originalUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/"
+webUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/"
+ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
+cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
 type: article
-quality: 61
+quality: 106
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: Android Authority
+  domain: androidauthority.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Google AI
@@ -20,9 +26,9 @@ topics:
   - TensorFlow
 
 images:
-  - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-21-news.jpg"
-    width: 892
-    height: 671
+  - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg"
+    width: 920
+    height: 470
     isCached: true
 
 related:
@@ -90,21 +96,19 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "An introduction to TensorFlow Lite development on Android"
-    excerpt: "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases."
-    publishedDateTime: 2020-11-22T07:12:00Z
-    webUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/"
-    ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
+  - title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
+    excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
+    publishedDateTime: 2020-11-21T12:39:00Z
+    webUrl: "https://analyticsindiamag.com/nvidia-quarter-reports-aple-m1-tensorflow-latest-news/"
     type: article
     provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 106
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 61
     images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg"
-        width: 920
-        height: 470
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-21-news.jpg"
+        width: 892
+        height: 671
         isCached: true
   - title: "TensorFlow Jobs in Bristol, RI"
     excerpt: "Write code that digests video files and outputs object presence and duration times using Microsoft Azure -- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge we have live IoT data ..."
@@ -121,6 +125,6 @@ related:
         height: 630
         isCached: true
 
-secured: "m1IzjZ7hdE7QHiqjNoCnlb+1Jn/yoYVoU4XnyF9dPR/CT044RMRkaGSP5hN/FconNESYdDzggt4HsxfsKznILJfbSRizgpJB8kSHtL2mGF4Hii2yaULBFIqhrJBu3N767ir90+4waAmlm0bCXuGV1iv5UM3bdQqC/PjFzReFXHM/W/UqsEw6I7eC13GOeahpbiEIy8x1l693Sw5/KHX3u/U9nmsvmVaKtY08KAGcte8ro+hnQ1ir5lClcD+9kTbvqBTKo7RugkB9a8tmNDQrxbvK1JkEYNvqqkjv6ikrRK2UUIOr5Fxdfj45HBkcqI3YDqZenoKFdHdEuTvz8Fw6qFC2Hlhlw2tLo525A5vCyzUwsjDf9KCQBJBIxAcFspSOXcQDqvhZhjk83TN69bCtE72F/S2DifiEccLLxqIeydVdOd6tGjCaUAsI9u1X9s9rnJYso3625U9gXBdX6fcBjhADoVI1bNoHCprEDPLpGIwHlsYZ36tPiixbD5ADFOC0zQJFb8daLCxDdMHPZYqTqA==;UtDKcgf8XH7LXxG2+1HAyA=="
+secured: "20BGfkMFDR3MmuAVI//OX9lljfkAS4CK6wUM9vdwOgHg0vsd5vznIu0yXYhc/JxCic86NZeNVY31gARUOxazJ7I6WwWf3NfqVzjbd7t0PWxHUlE+kdnZ/RMACzPOdpL5sCaEAf23DtL+uyCyBXM7GG5GCWHHPcLzhip+29UBtsoI0aFfomvKd2Povc3cy09SawNNKwDPyqSc6o55/F4NAvbAoGJDsXng9nYY4/A6VwIMUugKVJ+z5HCok5vDIDMsHMyHCCLJPozKta0LFB+QomGLHiAzjqpqFuD5dBJ7FSy5F87UUEq7w/0kB7Yeob90emh3eN0OahC+smIPlMBRFHgggfqg4xF2gyKBcWgXqec=;b7FIN8wW4HpM4UFUfSifyw=="
 ---
 

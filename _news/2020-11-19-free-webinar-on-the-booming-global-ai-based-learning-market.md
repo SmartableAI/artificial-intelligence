@@ -38,6 +38,15 @@ related:
         width: 330
         height: 220
         isCached: true
+  - title: "Dell to explore AI and machine learning at GITEX 2020"
+    excerpt: "US tech giant Dell is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai World Trade Centre-based tech show from the 6-10 December 2020."
+    publishedDateTime: 2020-11-22T08:44:00Z
+    webUrl: "https://www.arabianbusiness.com/technology/454939-dell-to-explore-ai-machine-learning-at-gitex-2020"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 34
 
 secured: "V2Ryzk/3C/VmRrWmMYP7/iJhgVoyEbufMbmziYWrXe/rgqddvKWlKlgyGcPdunTgk9M79DN39O9Wh6hnKLHqNCaIr/FxmvL9ztY3+fcYy1iCObysW3PCBCi9hy7moUSuXy6glokKHnVWrLqh0VM7QsIzBtoEP0/ECIV8dHSpeVDYvvo8O9xH+E+4ZQetTrtXHi4KdH8B47ichokTNQX2v2aszPRpGDvQ02lP1gN/EDqdAl+OGsJBxzJ6ShhjfqGO7gy1oPF1pmlRdolvYNwTRvx0dmWowrugtu4XN7QsrmD/yWYQ/dbghF1Upm0acCz04W+xLnBHVGDZVcBLXUsgMzlTP/rdhCpZ8Cz6cOm/WNE=;UMsGcSPaaGB6+6BrXIA83w=="
 ---
