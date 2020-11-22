@@ -48,22 +48,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "The LAPD Just Banned Its Officers From Using Third-Party Facial Recognition Software"
-    excerpt: "The Los Angeles Police Department issued a moratorium on the use of commercial facial recognition software on Tuesday"
-    publishedDateTime: 2020-11-18T02:41:00Z
-    webUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878"
-    ampWebUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 82
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ej9yggro63jbjpp2rbbz.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "LAPD bars detectives’ use of Clearview AI facial recognition system"
     excerpt: "Critics say facial-recognition systems that use images from outside the criminal justice system are racially biased."
     publishedDateTime: 2020-11-18T16:51:00Z

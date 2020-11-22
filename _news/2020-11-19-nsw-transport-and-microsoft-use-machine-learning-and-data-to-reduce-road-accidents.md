@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
 type: article
 quality: 80
-heat: -1
-published: false
+heat: 120
+published: true
 
 provider:
   name: ZDNet
@@ -26,17 +26,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
-    excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
-    publishedDateTime: 2020-11-18T03:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
   - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
     excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
     publishedDateTime: 2020-11-20T13:08:00Z

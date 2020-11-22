@@ -2,6 +2,195 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2020-10-20-ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud.md",
+      "title": "IBM's Q3 solid with strength in Red Hat, hybrid cloud",
+      "excerpt": "Cognitive applications were up 1% and cloud sales were up more than 60%. Global business services, which includes consulting, application management and global process services, had revenue of $4 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "originalUrl": "https://www.zdnet.com/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/10/16/64b67a52-7c39-42aa-9676-9c3987ea7e57/thumbnail/1200x675/7538a9bb7ca841a758272e29aa0937f0/thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibms-q3-solid-with-strength-in-red-hat-hybrid-cloud/",
+      "publishedDateTime": "2020-10-19T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-companies-are-rushing-to-use-aibut-few-see-a-payoff.md",
+      "title": "Companies Are Rushing to Use AI—but Few See a Payoff",
+      "excerpt": "A study finds that only 11 percent of firms that have deployed artificial intelligence are reaping a “sizable” return on their investments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
+      "originalUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/companies-rushing-use-ai-few-see-payoff/amp",
+      "publishedDateTime": "2020-10-19T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-google-deepmind-co-founder-out-over-controversy-over-his-ai-projects.md",
+      "title": "Google DeepMind co-founder OUT over 'controversy' over his AI projects",
+      "excerpt": "Google DeepMind co-founder Mustafa Suleyman has been placed on leave abruptly from the secretative AI-focused division of Google, with the reason being controversy \"over some of the projects he led\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/6/7/67247_03_google-deepmind-co-founder-over-controversy-ai-projects_full.png",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/67247/google-deepmind-co-founder-over-controversy-ai-projects/amp.html",
+      "publishedDateTime": "2020-10-19T18:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-russian-military-said-to-be-developing-mind-controlled-exoskeleton.md",
+      "title": "Russian military said to be developing mind-controlled exoskeleton",
+      "excerpt": "\"The Russian Army is set to receive mind-controlled exoskeletons,\" the Russian Sputnik media source said. \"The wearable robots will be controlled by brain waves and will increase the strength and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tweaktown.com/images/news/4/4/44889_01_russian-military-developing-mind-controlled-exoskeleton_full.jpg",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/44889/russian-military-developing-mind-controlled-exoskeleton/amp.html",
+      "publishedDateTime": "2020-10-19T18:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-predicting-the-fuel-flow-rate-of-commercial-aircraft-via-multilayer-perceptron-radial-basis-function-and-anfis-artificial-neural-networks.md",
       "title": "Predicting the fuel flow rate of commercial aircraft via multilayer perceptron, radial basis function and ANFIS artificial neural networks",
       "excerpt": "To send this article to your Kindle, first ensure no-reply@cambridge.org is added to your Approved Personal Document E-mail List under your Personal Document Settings on the Manage Your Content and Devices page of your Amazon account. Then enter the ...",
@@ -1018,180 +1207,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-nxp-announces-expansion-of-its-scalable-machine-learning-portfolio-and-capabilities.md",
-      "title": "NXP Announces Expansion of its Scalable Machine Learning Portfolio and Capabilities",
-      "excerpt": "Zone Technologies to expand eIQ™ Machine Learning development environment ; NXP is the lead technology partner for Arm Ethos-U65 microNP",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-environment-and-nature-products-and-services-6f4e200e99d899de383bcce5d6463cf6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-is-artificial-intelligence-closer-to-common-sense.md",
-      "title": "Is Artificial Intelligence Closer to Common Sense?",
-      "excerpt": "Intelligent agents lack the common-sense knowledge they need to reason about the world. Traditionally, there have been two unsuccessful approaches to getting computers to reason about the world—symbolic logic and deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "originalUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/articles/AI-Closer-Common-Sense/en/headerimage/AI-Closer-Common-Sense-h-1602793884272.jpeg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "cdnAmpWebUrl": "https://www-infoq-com.cdn.ampproject.org/c/s/www.infoq.com/articles/AI-Closer-Common-Sense/",
-      "publishedDateTime": "2020-10-19T05:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml.md",
-      "title": "How to Create a More Inclusive Customer Experience Through AI and ML",
-      "excerpt": "Eighty-four percent of consumers say being treated like a person, not a number, is very important to winning their business. However, there is a clear frustration amongst businesses in driving ROI, as 80% of marketers are on track to abandon personalization efforts by 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "originalUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://retailtouchpoints.com/wp-content/uploads/2020/10/machine-learning-experience.jpg",
-          "width": 2440,
-          "height": 1627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "cdnAmpWebUrl": "https://retailtouchpoints-com.cdn.ampproject.org/c/s/retailtouchpoints.com/features/executive-viewpoints/how-to-create-a-more-inclusive-customer-experience-through-ai-and-ml/amp",
-      "publishedDateTime": "2020-10-19T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Retail TouchPoints",
-        "domain": "retailtouchpoints.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
-      "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
-      "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "originalUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2018/11/Apr6_2018_Getty_490025288_LungCancer.jpg",
-          "width": 2000,
-          "height": 1547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

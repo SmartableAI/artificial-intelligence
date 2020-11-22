@@ -782,6 +782,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
+      "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
+      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept, Transport for NSW ran a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "publishedDateTime": "2020-11-18T18:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
       "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
       "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
@@ -1048,11 +1092,11 @@
       "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
       "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1066,8 +1110,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "publishedDateTime": "2020-11-18T03:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1408,52 +1452,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
-      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
-      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

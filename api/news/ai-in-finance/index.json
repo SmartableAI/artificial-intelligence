@@ -245,6 +245,40 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for-desjardins-group.md",
+      "title": "NICE Actimize Chosen to Drive Modernization of Financial Crime Operations for Desjardins Group",
+      "excerpt": "NICE Actimize, a NICE business, today announced that it was chosen by Desjardins Group, Canada’ s leading financial cooperative with more than 7 million members and $300 billion in total assets, to provide modernization and expansion for the institutions’ financial crime compliance program and operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/press-release/nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for",
+      "originalUrl": "https://www.nasdaq.com/press-release/nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-deep-learning-market-focus-on-medical-image-processing-2020-2030.md",
       "title": "Deep Learning Market: Focus on Medical Image Processing, 2020-2030",
       "excerpt": "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,",
@@ -1359,40 +1393,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities.md",
-      "title": "E-Commerce, Fintech, and Cloud: CEOs of Alibaba, Peak Fintech, Logiq and eBay Discuss New Global Growth Opportunities",
-      "excerpt": "A Clear Vision To Realize Enormous Untapped Potential of eBay.”  Peak Fintech Group (OTC:PKKFF) (CSE: PKK) CEO Johnson Joseph: “China Fintech Revenues Ready to Explode” VIDEO:  Alibaba Group Holdings (NYSE: BABA) Daniel Zhang CEO: “Big Growth Opportunities in Cloud and Southeast Asia”  Logiq,",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/globe-newswire/8074592/e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities",
-      "originalUrl": "https://www.morningstar.com/news/globe-newswire/8074592/e-commerce-fintech-and-cloud-ceos-of-alibaba-peak-fintech-logiq-and-ebay-discuss-new-global-growth-opportunities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar, Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

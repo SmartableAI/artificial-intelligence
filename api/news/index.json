@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-23-vision-ai-will-be-the-next-worldwide-web.md",
+      "title": "Vision AI will be the next worldwide web",
+      "excerpt": "Combine this with emerging computer vision technology powered by AI, and together you have Vision AI. Vision AI has the power to unlock the future of automation in a way not seen since the Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/",
+      "originalUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/",
+      "publishedDateTime": "2020-11-22T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-ai-news-neural-network-learns-when-it-should-not-be-trusted-99-wont-cut-it.md",
       "title": "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’",
       "excerpt": "ARTIFICIAL INTELLIGENCE (AI) has been refined so it can significantly improve decision-making, Massachusetts Institute of Technology (MIT) experts have announced.",
@@ -1175,57 +1227,6 @@
         "Facebook AI",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows.md",
-      "title": "Onit acquires legal startup McCarthyFinch to inject AI into legal workflows",
-      "excerpt": "Onit, a workflow software company based in Houston with a legal component, announced this week that it has acquired 2018 TechCrunch Disrupt Battlefield alum McCarthyFinch.  Onit intends to use the startup’s AI skills to beef up its legal workflow software offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/",
-      "originalUrl": "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/disruptsf18_battlefield_mccarthy_finch-0370.jpg?w=1024",
-          "width": 1024,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/amp/",
-      "publishedDateTime": "2020-11-20T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

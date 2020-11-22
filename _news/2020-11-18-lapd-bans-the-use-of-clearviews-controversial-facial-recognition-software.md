@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
 type: article
 quality: 87
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "The LAPD Just Banned Its Officers From Using Third-Party Facial Recognition Software"
-    excerpt: "The Los Angeles Police Department issued a moratorium on the use of commercial facial recognition software on Tuesday"
-    publishedDateTime: 2020-11-18T02:41:00Z
-    webUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878"
-    ampWebUrl: "https://gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/the-lapd-just-banned-its-officers-from-using-third-part-1845702878/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 82
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/ej9yggro63jbjpp2rbbz.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "The LAPD banned officers from using facial recognition technology which harvested images from social media by Clearview AI"
     excerpt: "A leading-edge research firm focused on digital transformation ... technology in response to inquiries from BuzzFeed News about its officers' use of Clearview AI, the outlet reported Tuesday. \"Department personnel shall not use third-party commercial ..."
     publishedDateTime: 2020-11-18T06:39:00Z

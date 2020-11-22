@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The human brain inspires RMIT researchers to develop a light-powered AI chip"
-    excerpt: "RMIT University researchers have developed a light-powered electronic chip featuring artificial intelligence (AI) that has the potential to be used to power technologies such as drones, robotics, smart wearables,"
-    publishedDateTime: 2020-11-18T02:01:00Z
-    webUrl: "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/18/0c4ed8fb-ebfe-483e-a90a-0ffe215f9afd/ai-chip.jpg"
-        width: 2984
-        height: 1865
-        isCached: true
   - title: "New electronic chip delivers smarter, light-powered AI"
     excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
     publishedDateTime: 2020-11-18T15:15:00Z
@@ -64,20 +48,6 @@ related:
       - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:960/h:540/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/processor-2217771_960_720.jpg"
         width: 960
         height: 540
-        isCached: true
-  - title: "Researchers Develop AI Model to Predict ICI Response in Advanced Melanoma"
-    excerpt: "Results of the artificial intelligence (AI) model were consistent no matter which immune checkpoint inhibitor (ICI) therapy patients received, suggesting that some biomarkers are not necessarily specific to the checkpoint target."
-    publishedDateTime: 2020-11-20T18:05:00Z
-    webUrl: "https://www.ajmc.com/view/researchers-develop-ai-model-to-predict-ici-response-in-advanced-melanoma"
-    type: article
-    provider:
-      name: The American Journal of Managed Care
-      domain: ajmc.com
-    quality: 38
-    images:
-      - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/9364a769c645c6dc49ae3f0d8e5a76fada3a9280-6943x3456.jpg"
-        width: 6943
-        height: 3456
         isCached: true
 
 secured: "wR7MZhQbbDxBf3/M4A0gUJqCHMFrYz67/V5hB9DProZGWlXQ8B97SjTJNTvkfrcZJ2GQI3wZB1LxP+pNdlQU/RoHDTG8WYhd5SdQFVNbOtssVR6n8A4i3DwOIl8BV50gP+LyxUPI06KaCInwGFtE6G76Yi8c/MJoL8jgy03F2pW6XrTEcTeGtsDgehgVq+pd8xBFf21mR3Xi6SdvQGNSHzjcWynyRh+oV9B5CjbRkOmPy+U6iBtwgZPY7DXnooKEqSqwe+3zZBWznrVfw61kyz6YgeGe89oHb+qab1ns94PqQ875gOF5N4H7yGAB1I3pYKfsY45+Rlkzg5Azc3zJcVTkzivyXwqhMbY9HhyJuhsEXe/K931zVBDZdmiUy5uW+Sv+/kxFwrA8doyfHcN/mbydA/bApWgTKZRy3JogjDkLblmV88ShaL1uVwQRbvrDaQ5/i4oq4knwDN29wZiTLgU+v7yQdaPeloeYu3GdZZln7WLZdzNGtxVZfT2Jdlp4lFXNP5MJW4/PGBO8Nu1JNg==;v/q4cexPfXjQfOx3KyVDUg=="

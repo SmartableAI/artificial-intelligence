@@ -7,7 +7,7 @@ originalUrl: "https://www.ajmc.com/view/researchers-develop-ai-model-to-predict-
 webUrl: "https://www.ajmc.com/view/researchers-develop-ai-model-to-predict-ici-response-in-advanced-melanoma"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,59 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "The human brain inspires RMIT researchers to develop a light-powered AI chip"
-    excerpt: "RMIT University researchers have developed a light-powered electronic chip featuring artificial intelligence (AI) that has the potential to be used to power technologies such as drones, robotics, smart wearables,"
-    publishedDateTime: 2020-11-18T02:01:00Z
-    webUrl: "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/"
+  - title: "Artificial Intelligence Possesses Potential to Predict Response to Immunotherapy in Advanced Melanoma"
+    excerpt: "A computational method comprised of clinicodemographic variables with deep learning of pretreatment histology images may be able to effectively predict response to immunotherapy in patients with advanced melanoma."
+    publishedDateTime: 2020-11-19T20:55:00Z
+    webUrl: "https://www.onclive.com/view/artificial-intelligence-possesses-potential-to-predict-response-to-immunotherapy-in-advanced-melanoma"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/18/0c4ed8fb-ebfe-483e-a90a-0ffe215f9afd/ai-chip.jpg"
-        width: 2984
-        height: 1865
-        isCached: true
-  - title: "New electronic chip delivers smarter, light-powered AI"
-    excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-    publishedDateTime: 2020-11-18T15:15:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 64
-  - title: "Smarter Artificial Intelligence Technology in a New Light-Powered Chip"
-    excerpt: "Prototype tech shrinks AI to deliver brain-like functionality in one powerful device. Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning,"
-    publishedDateTime: 2020-11-18T14:34:00Z
-    webUrl: "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 56
-    images:
-      - url: "https://scitechdaily.com/images/AI-Electronic-Chip-scaled.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
-  - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
-    excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
-    publishedDateTime: 2020-11-22T13:49:00Z
-    webUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai-smarter-and-smaller/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:960/h:540/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/processor-2217771_960_720.jpg"
-        width: 960
-        height: 540
-        isCached: true
+      name: OncLive.com
+      domain: onclive.com
+    quality: 19
 
 secured: "8Rg4C19ukOFuHN/0apzCJwjer9bV15eNqwwC87xB+F1KK1XCPLLnkqDQKfaiAuss/Xa4LtIxsDcxxOef7CPSI/XxZ/VDqZKFLAhu/4MfnP0SA9mefi481eROngzHUguRQOIM4SQ2w4Qhw+lZdMe34BK0RG9vgdxOBYgMN6yZkbR7/yFP6kEFyDuMle5NPfOl6ytbsf68huXJzWdPMjExoiwuYJTioDP6C9uI5DVGVVjFNK7rizf35zrbi587aqCEJwoptsYHG99zCU260Ax7QH83Pe0rneVJXU9HBabG9nEWvSZ04GtuVXr5tFxzUVuClOGkt1Te8lX7KrvcSkY9Nw3RAVn7HUQjOs1y3DOCdQM=;TB85d5p8oO8sVA9zdGAzYQ=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1920
         height: 1279
         isCached: true
+  - title: "The Cloud, AI and the Transformation of Retail"
+    excerpt: "Google Cloud report covers the AI imperative in specialty retail, plus AWS weighs in on the pandemic’s influence."
+    publishedDateTime: 2020-11-22T17:19:00Z
+    webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 39
+    images:
+      - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
+        width: 394
+        height: 263
+        isCached: true
 
 secured: "WK80FrlgC6+mqxeS4JZPNYCTP955142jHkrNyeTcBqNd/SDpaLVFDWVSQIN9fOmbAMIIUMml5D7NbrgZaHZy5MJdluEnpbI5TH8BJa6gxM62Ly0uUYta1RWHfugDcoh5B4SqyqduRj+z4N9g6ehJgQYtg0Slp5fvue/meKYPdi3kXXk65vVU8mlEOpoIf9bkZRHUMMKoR4TJnb46+SAjQ3d3P5xMLtXrsK924+ss7GxvD66Pmm/3MgpjEEhXgRFcm4uicpjC54y9dgN4lsrYunaUjwvtmXVqKMHP1WmnIjhbl/wOsxB4jCI1QxChMM0PgKlJf0XOX3hSvFhgNECxNcFMLczu6oKYRkdYZPeEJQ0=;3Yj21S3F/hPbPZEMHUf75A=="
 ---

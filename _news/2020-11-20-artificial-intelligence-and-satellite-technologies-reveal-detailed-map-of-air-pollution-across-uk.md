@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2020-11-artificial-intelligence-satellite-tech
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -39,6 +39,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "The Cloud, AI and the Transformation of Retail"
+    excerpt: "Google Cloud report covers the AI imperative in specialty retail, plus AWS weighs in on the pandemic’s influence."
+    publishedDateTime: 2020-11-22T17:19:00Z
+    webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 39
+    images:
+      - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
+        width: 394
+        height: 263
         isCached: true
 
 secured: "xw0ab0useeuudqvQylgdg3oepT56FcXTu09FgKGq25PJHvMDm03hYfxqQY0jmE5PVPkbKrLFokvVgqO7D2DIeW42h1inz98LveFsqpearuFqPuGFINhqGorfMfuBFa+1HFsGygnrKNXAH3taOJ6bE1r/d6PFJVG5pX9jluCBo1voSWnqkzsQdzBX/sFJ+J9BUBkGuIYAQdoXnRdtjmRz+F8ycKuoxKPfIIJSf9+WbxCXjEU27fqusB8FLYMf/VMVNSN6zqur7jP4FplcKtKUZJ/mVUm5aWjBbINw9b3o6E/hWfqfaFIWtN5AxLG4Bp1xHgqSMH50m+DKZES82yMnHx3OuoV7DVPCCCX9HLzKnQRJb33HOMIttPTcN+lu0VumoN0tKS6sCWmtkyCubrX5drfZLfhj4pIvPgos6/QQRRphuPzHjdqBQmDPGjgFm769Rgyd6cNLixrO5HG2hiXwUeJQeDO2JuZNqPH0MA1cycnKKGdbmyJ13x26az7gB8TQZa4c/3sKyUkmpx9Fp7YlHw==;eU8r5BbILDaEuvXhYbCLow=="

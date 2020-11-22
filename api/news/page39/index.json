@@ -2,6 +2,204 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-10-22-facebooks-ai-team-expands-post-grad-courses-for-black-and-latinx-students.md",
+      "title": "Facebook's AI team expands post-grad courses for Black and Latinx students",
+      "excerpt": "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
+      "originalUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
+      "publishedDateTime": "2020-10-22T05:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-st-lukes-university-health-network-selects-ge-healthcare-for-11-million-ultrasound-purchase-to-create-system-wide-efficiencies.md",
+      "title": "St. Luke’s University Health Network Selects GE Healthcare for $11 Million Ultrasound Purchase to Create System-wide Efficiencies",
+      "excerpt": "Two of IBM Watson Health’s 100 Top Hospitals are St. Luke’s hospitals. St. Luke’s University Hospital has earned the 100 Top Major Teaching Hospital designation from IBM Watson Health eight ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
+      "originalUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201022005112/en/51143/23/GE_Imagination_at_Work_Logo.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-left-and-the-right-speak-different-languagesliterally.md",
+      "title": "The Left and the Right Speak Different Languages—Literally",
+      "excerpt": "Researchers at Carnegie Mellon University collected more than 86.6 million comments from more than 6.5 million users on 200,000 YouTube videos, then analyzed them using an AI technique normally employed to translate between two languages. The researchers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
+      "originalUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f8f6e8cb9910f1848191347/master/pass/business_discourse_1281134658.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/left-right-speak-different-languages-literally/amp",
+      "publishedDateTime": "2020-10-22T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers.md",
+      "title": "Text to speech, automation and AI: How Google is backing Middle East news providers",
+      "excerpt": "Google says it's backing Middle Eastern news projects that develop new business models. By Damian Radcliffe for Heat Sink | October 22, 2020 -- 11:32 GMT (04:32 PDT) | Topic: Digital Transformation Google has awarded just under $2m to 21 projects in the Middle East,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "originalUrl": "https://www.zdnet.com/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2018/05/29/22929faf-4666-4ee0-bbea-a289c787429d/thumbnail/1200x675/2e0e2e09eb915bb530dd3a1860c282e5/5b08209d60b2521e61a0aff9-1280x7201may292018140008poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/text-to-speech-automation-and-ai-how-google-is-backing-middle-east-news-providers/",
+      "publishedDateTime": "2020-10-22T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-three-changes-impacting-healthcare-marketing.md",
       "title": "Three Changes Impacting Healthcare Marketing",
       "excerpt": "Healthcare marketers often face extremely challenging federal regulations as well as Health Insurance Portability and Accountability Act (HIPAA) rules. On top of that, patients are demanding better services from healthcare providers,",
@@ -992,203 +1190,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-why-most-organizations-investments-in-ai-fall-flat.md",
-      "title": "Why Most Organizations’ Investments in AI Fall Flat",
-      "excerpt": "With how pervasive artificial intelligence (AI) is these days, executives—up to 85% of executives, in fact—know AI can fundamentally change their businesses. Organizations can look to use AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/sponsored/2020/10/why-most-organizations-investments-in-ai-fall-flat",
-      "originalUrl": "https://hbr.org/sponsored/2020/10/why-most-organizations-investments-in-ai-fall-flat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/GettyImages-1169108704.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-cruise-gm-to-seek-us-approval-for-vehicle-with-no-pedal-or-steering-wheel.md",
-      "title": "Cruise, GM to seek U.S. approval for vehicle with no pedal or steering wheel",
-      "excerpt": "Self-driving car maker Cruise said on Wednesday it and majority shareholder General Motors Co would seek U.S. regulatory approval in coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/cruise-gm-seek-us-approval-vehicle-no-pedal-or-steering-wheel",
-      "originalUrl": "https://www.reuters.com/article/us-autonomous-cruise-nhtsa-idCAKBN2762SP",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Cruise-Origin-in-SF%27s-Castro-District-%28002%29.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T16:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-conversational-ai-based-on-nonverbal-cues-can-be-more-effective.md",
-      "title": "Conversational AI Based On Nonverbal Cues Can Be More Effective",
-      "excerpt": "Cogito, a Boston-based AI company conceived from technology and research out of the MIT Media Lab, uses voice-based AI to analyze behavioral cues as well as the content of the conversation to provide in-the-moment feedback during conversations,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/",
-      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90bf68ebc59509cf797df0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/amp/",
-      "publishedDateTime": "2020-10-21T16:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
-      "title": "The 2020 data and AI landscape",
-      "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
-      "publishedDateTime": "2020-10-21T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

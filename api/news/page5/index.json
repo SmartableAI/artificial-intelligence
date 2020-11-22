@@ -2,6 +2,161 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-18-introducing-google-news-initiative-conversations.md",
+      "title": "Introducing Google News Initiative Conversations",
+      "excerpt": "This year, the way many of us work has changed dramatically. We’ve gone from lunch meetings and large networking conferences to meeting virtually from our makeshift home offices. The COVID-19 pandemic has certainly upended a lot of this, but that doesn’t mean sharing ideas is on hold, too. That’s especially",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GNI-Conversations-Header-2.max-800x800.jpg",
+          "width": 800,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/",
+      "publishedDateTime": "2020-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rachel-malarich-is-planting-a-better-future-tree-by-tree.md",
+      "title": "Rachel Malarich is planting a better future, tree by tree",
+      "excerpt": "Everyone has a tree story, Rachel Malarich says—and one of hers takes place on the limbs of a eucalyptus tree. Rachel and her cousins spent summers in central California climbing the 100-foot tall trees and hanging out between the waxy blue leaves—an experience she remembers as awe-inspiring. Now, as",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
+      "originalUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_3_1.max-1300x1300.png",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/earth/rachel-malarich-planting-better-future/amp/",
+      "publishedDateTime": "2020-11-18T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes.md",
+      "title": "Go Jauntly applies AI to seek scale via ‘greener’ walking routes",
+      "excerpt": "Unless you’ve been on very extended digital detox, you’ll have noticed algorithms don’t exactly have the greatest reputation these days, saddled as they are with pervasive questions of bias and inequity.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
+      "originalUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GJ-Routesforyou-Mockup4.jpg?w=1024",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/go-jauntly-applies-ai-to-seek-scale-via-greener-walking-routes/amp/",
+      "publishedDateTime": "2020-11-18T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-financial-services-companies-are-starting-to-use-the-cloud-for-big-data-and-ai-processing.md",
       "title": "Financial services companies are starting to use the cloud for big data and AI processing",
       "excerpt": "The financial sector has historically been nervous about allowing its data to go off premises, making it harder to scale. Now it's allowing for some data in the cloud to speed AI and data management.",
@@ -146,6 +301,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-new-electronic-chip-delivers-smarter-light-powered-ai.md",
+      "title": "New electronic chip delivers smarter, light-powered AI",
+      "excerpt": "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T07:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -561,7 +759,7 @@
       "originalUrl": "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -657,57 +855,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-in-2021-off-the-shelf-datasets-will-be-on-the-rise-for-ai-model-development.md",
-      "title": "In 2021, off-the-shelf datasets will be on the rise for AI model development",
-      "excerpt": "Speed is perhaps the biggest selling point for choosing off-the-shelf datasets: saving time and resources to collect and vet data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/18/in-2021-off-the-shelf-datasets-will-be-on-the-rise-for-ai-model-development/",
-      "originalUrl": "https://venturebeat.com/2020/11/18/in-2021-off-the-shelf-datasets-will-be-on-the-rise-for-ai-model-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/data.GettyImages-885690048.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 591,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/18/in-2021-off-the-shelf-datasets-will-be-on-the-rise-for-ai-model-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/in-2021-off-the-shelf-datasets-will-be-on-the-rise-for-ai-model-development/amp/",
-      "publishedDateTime": "2020-11-18T04:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace-can-ai-stop-it.md",
       "title": "Phishing Is A Gateway To Modern Fraud In Today’s Distributed Workplace — Can AI Stop It?",
       "excerpt": "Remote work is great for business, and employees love it — but how is it impacting your organization’s digital security?",
@@ -763,11 +910,11 @@
       "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
       "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -781,8 +928,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
       "publishedDateTime": "2020-11-18T03:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1095,155 +1242,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract.md",
-      "title": "Store output in custom Amazon S3 bucket and encrypt using AWS KMS for multi-page document processing with Amazon Textract",
-      "excerpt": "Amazon Textract is a fully managed machine learning (ML) service that makes it easy to process documents at scale by automatically extracting printed text, handwriting, and other data from virtually any type of document. Amazon Textract goes beyond simple optical character recognition (OCR) to also identify",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/image02.png",
-          "width": 800,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T21:30:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
-      "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
-      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
-      "publishedDateTime": "2020-11-17T19:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip.md",
-      "title": "The human brain inspires RMIT researchers to develop a light-powered AI chip",
-      "excerpt": "RMIT University researchers have developed a light-powered electronic chip featuring artificial intelligence (AI) that has the potential to be used to power technologies such as drones, robotics, smart wearables,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/",
-      "originalUrl": "https://www.zdnet.com/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/18/0c4ed8fb-ebfe-483e-a90a-0ffe215f9afd/ai-chip.jpg",
-          "width": 2984,
-          "height": 1865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-human-brain-inspires-rmit-researchers-to-develop-a-light-powered-ai-chip/",
-      "publishedDateTime": "2020-11-17T18:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
