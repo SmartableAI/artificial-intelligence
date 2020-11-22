@@ -36,20 +36,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
-  - title: "Africa’s first AI-focused startup to investor matchmaking service launches"
-    excerpt: "The Deal Room is Africa’s first AI driven service that aims to connect AI-based startups with potential investors and venture capitalists."
-    publishedDateTime: 2020-11-18T06:30:00Z
-    webUrl: "https://ventureburn.com/2020/11/africas-first-ai-focused-startup-to-investor-matchmaking-service-launches/"
-    type: article
-    provider:
-      name: Ventureburn
-      domain: ventureburn.com
-    quality: 35
-    images:
-      - url: "https://s5.cdn.ventureburn.com/wp-content/uploads/sites/2/2020/11/EDITED-sebastian-herrmann-O2o1hzDA7iE-unsplash.jpg"
-        width: 1920
-        height: 1084
-        isCached: true
 
 secured: "DnTKREo4+Yn+8JRiyziIkLHGjUFdmm3+nntGogmuP7FhLFQAgBdnfw2Oln7UQo1x6zjm3QaFgZbO23QX192JdHNu+s0zY8WfuRMY8mYMaqspmnpsuZ6vfDB6u2MeSHiT+2pZNgeuAVxLV6RBkKR77OQC/HeOE5cGAbcJC5T7wfx9JXABOpZlUDM1M/uc/vUoadLbh2/wJOFqkJyIgK/0IueVJlZvC5Hp48aId+ugkKAWfCPdpha4iD3acW03vvV6hsUEGD992lYaiS8xDxgLZWJW7QFcGNrHcxjOE2hBcEwEHjXYa4xKCigSV/Sgz7mJuo22yU/jtX+ODUnG3Uss5dzmm1uc8uaDhnFfdEXjERU=;vzaxQrtS2i5N6VRR/fin6Q=="
 ---

@@ -2,49 +2,6 @@
   "page": 9,
   "value": [
     {
-      "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
-      "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
-      "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "originalUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "publishedDateTime": "2020-11-15T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-16-zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars.md",
       "title": "Zipper Merging Is A Frenzied Traffic Squeeze Play On Self-Driving Cars",
       "excerpt": "Zipper merging, whereby cars are shunted into a 2-into-1 lane narrowing, can be especially tough on self-driving cars.",
@@ -1223,6 +1180,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-system-brings-deep-learning-to-internet-of-things-devices.md",
+      "title": "System brings deep learning to 'internet of things' devices",
+      "excerpt": "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT).",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/miot-sbd111320.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/miot-sbd111320.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

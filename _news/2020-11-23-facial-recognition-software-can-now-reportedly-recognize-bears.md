@@ -1,27 +1,29 @@
 ---
 category: news
-title: "LAPD Bars Use of Unauthorized Facial Recognition Platforms"
-excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission,"
-publishedDateTime: 2020-11-18T13:42:00Z
-originalUrl: "https://mynewsla.com/crime/2020/11/18/lapd-bars-use-of-unauthorized-facial-recognition-platforms/"
-webUrl: "https://mynewsla.com/crime/2020/11/18/lapd-bars-use-of-unauthorized-facial-recognition-platforms/"
+title: "Facial recognition software can now reportedly recognize bears"
+excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
+publishedDateTime: 2020-11-22T22:14:00Z
+originalUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
+webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
+ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: MyNewsLA
-  domain: mynewsla.com
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-    width: 583
-    height: 300
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -73,22 +75,6 @@ related:
         width: 939
         height: 630
         isCached: true
-  - title: "Facial recognition software can now reportedly recognize bears"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
-    publishedDateTime: 2020-11-22T22:14:00Z
-    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
-    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
     excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
     publishedDateTime: 2020-11-18T19:32:00Z
@@ -118,6 +104,20 @@ related:
       - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03188-2/d41586-020-03188-2_18584500.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "LAPD Bars Use of Unauthorized Facial Recognition Platforms"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission,"
+    publishedDateTime: 2020-11-18T13:42:00Z
+    webUrl: "https://mynewsla.com/crime/2020/11/18/lapd-bars-use-of-unauthorized-facial-recognition-platforms/"
+    type: article
+    provider:
+      name: MyNewsLA
+      domain: mynewsla.com
+    quality: 39
+    images:
+      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
+        width: 583
+        height: 300
         isCached: true
   - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
     excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
@@ -176,6 +176,6 @@ related:
         height: 533
         isCached: true
 
-secured: "sd5MhhMV98606KzB90ZBDD1zyGhHwu5xXpHJKQvtm3q+S9sXdEckYgWr3zXemqk/cT4WJQxuzAYg8yCPDD04Quatb1guRYTRrZ8gzy5zjpgI4kRc7cKM3YuVTsqBOe26JTaQJ4XS+YyZSwYAIjlici3KNAT2Dpy/rf5zKUktWQoKGLlgqQtWnpPJfWSUsfEY7uIw5ZKPneZ74SsbaVhE83Y1gHVsty3tTDsX424GQjsZcuRY04IdPLWIM0CCey3u0PRWHO2G/Ii4e7YPChMiR1xQPpnPkWKioPCK+Mzh9AaUc/sV1ffDylLPhI0jeeYqjq1bLGUJ/7hDcRIwJyrux44HVLeEktJxpf5s+DR8/g4=;E1UEhOBCFAGll0FZ7VBzyA=="
+secured: "emtoQNr2eqREy3XlDG8KisaMOHA4lyyM5+++SVaIY1khFUkU+JpmmgFiwbM59RmZEWB0JIAmiNBUFD+tHpFwGUQ9sHjH68NthvFLuJms1pw40Tm9jdd2vfundfAK2iJBgS+5EbjWq8yw6thiT7MPvWPavMcuBDu6kHeiBKVZChgvNXFXXZUgL3h/w7bWGxXjepo/9HbQrDW6H3dVBMW73KLsgxJbbbVTcEr3u2pGA0ZnMWAE7Mynaj+aRH26Y7fOUuaY3vfkTmjQYXXPmgHdZNbvbcRUHZmOT4xL7RuD7zyUbSrHaunvpDRphp/f06dYdPwO+EA9efvjnSYFIvk1sCRt4YL0KTUQ2iUmnHAIyBE=;b+W2n5G3YBAMv9Zpmrwbbg=="
 ---
 

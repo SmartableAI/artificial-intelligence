@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
-      "title": "Ocado shops its way to a robotics platform for groceries and beyond",
-      "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ocado-Warehouse.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
-      "publishedDateTime": "2020-11-13T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-13-nigeria-gets-artificial-intelligence-robotics-centre.md",
       "title": "Nigeria gets Artificial Intelligence, Robotics Centre",
       "excerpt": "Dr Isa Pantami, Minister of Communications and Digital Economy, on Friday in Abuja, inaugurated the National Centre for Artificial Intelligence and Robotics.",
@@ -1450,6 +1398,49 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well.md",
+      "title": "Amazon’s Robotics Deals Have Paid Off, And One Investor Thinks Ocado’s May As Well.",
+      "excerpt": "In these and other applications, embracing robotics and AI is cost-effective, safer, autonomous (as the technology works continuously in the background once switched on), limits human errors, and its marginal costs are minimal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
+      "originalUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-256173/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249",
+      "publishedDateTime": "2020-11-06T03:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -1194,49 +1194,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-machine-learning-innovation-to-develop-chemical-library-for-drug-discovery.md",
-      "title": "Machine learning innovation to develop chemical library for drug discovery",
-      "excerpt": "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "originalUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/60-machinelearn.jpg",
-          "width": 800,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "publishedDateTime": "2020-11-18T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
       "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
       "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,",
@@ -1452,6 +1409,52 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
+      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
+      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
+        "Microsoft AI"
       ]
     }
   ],

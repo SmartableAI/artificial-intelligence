@@ -7,8 +7,8 @@ originalUrl: "https://scitechdaily.com/smarter-artificial-intelligence-technolog
 webUrl: "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: -1
+published: false
 
 provider:
   name: SciTech Daily
@@ -28,18 +28,13 @@ images:
 related:
   - title: "New electronic chip delivers smarter, light-powered AI"
     excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-    publishedDateTime: 2020-11-18T05:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+    publishedDateTime: 2020-11-18T15:15:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
-        width: 1440
-        height: 960
-        isCached: true
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
     excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
     publishedDateTime: 2020-11-22T13:49:00Z

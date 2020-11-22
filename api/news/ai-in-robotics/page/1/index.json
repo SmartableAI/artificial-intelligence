@@ -717,50 +717,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-smarter-artificial-intelligence-technology-in-a-new-light-powered-chip.md",
-      "title": "Smarter Artificial Intelligence Technology in a New Light-Powered Chip",
-      "excerpt": "Prototype tech shrinks AI to deliver brain-like functionality in one powerful device. Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/",
-      "originalUrl": "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Electronic-Chip-scaled.jpg",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T06:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-rapid-robotics-raises-55m-for-pre-programmed-manufacturing-robots.md",
       "title": "Rapid Robotics raises $5.5M for pre-programmed manufacturing robots",
       "excerpt": "Bay Area-based Rapid Robotics today announced it has raised $5.5 million in seed funding in a round led by Greycroft and Bee Partners. The announcement comes during what has been a solid several months for robotics funding,",
@@ -1416,6 +1372,58 @@
         "name": "The Punch Newspapers",
         "domain": "punchng.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
+      "title": "Ocado shops its way to a robotics platform for groceries and beyond",
+      "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ocado-Warehouse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "publishedDateTime": "2020-11-13T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

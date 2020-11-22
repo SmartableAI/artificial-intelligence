@@ -1,24 +1,28 @@
 ---
 category: news
-title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
-excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
-publishedDateTime: 2020-11-18T14:26:00Z
-originalUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18"
-webUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18"
-ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
+title: "IBM To Acquire Instana"
+excerpt: "IBM (NYSE:IBM) is to acquire Instana, a Chicago, IL-based application performance monitoring and observability company. The financial details of the deal were not disclosed. With the acquisition ..."
+publishedDateTime: 2020-11-18T22:04:00Z
+originalUrl: "https://www.finsmes.com/2020/11/ibm-to-acquire-instana.html"
+webUrl: "https://www.finsmes.com/2020/11/ibm-to-acquire-instana.html"
 type: article
-quality: 54
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: finsmes.com
+  domain: finsmes.com
 
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+    width: 2700
+    height: 1411
+    isCached: true
 
 related:
   - title: "IBM acquires Instana for its AI-powered app performance monitoring"
@@ -75,6 +79,17 @@ related:
         width: 1200
         height: 633
         isCached: true
+  - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
+    excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
+    publishedDateTime: 2020-11-18T14:26:00Z
+    webUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18"
+    ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "IBM to acquire application performance monitoring company Instana"
     excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
     publishedDateTime: 2020-11-19T17:14:00Z
@@ -161,20 +176,6 @@ related:
         width: 1000
         height: 637
         isCached: true
-  - title: "IBM To Acquire Instana"
-    excerpt: "IBM (NYSE:IBM) is to acquire Instana, a Chicago, IL-based application performance monitoring and observability company. The financial details of the deal were not disclosed. With the acquisition ..."
-    publishedDateTime: 2020-11-18T22:04:00Z
-    webUrl: "https://www.finsmes.com/2020/11/ibm-to-acquire-instana.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
-        isCached: true
   - title: "IBM to Buy Software Company Instana"
     excerpt: "IBM said once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps. The deal comes days ... while focusing on its cloud platform and AI. “IBM is essentially getting rid of a shrinking, low ..."
     publishedDateTime: 2020-11-19T00:02:00Z
@@ -190,6 +191,6 @@ related:
         height: 683
         isCached: true
 
-secured: "8hfoBBnXRA23OKJmb9rl+QPRKUDI63sYMzUgPH36Aic4j+iaLOhHE/m7VUjuZuy1zyxbl8uKtn0WhfTH9IgMrUXUnpH/hlhPTjA9ywZMTDV2Wxx9oxf+hU5eebSX1nABF8sc9HDOXJwOp1H5MLIzzAv6PR88/uS+2/OTgqk0ExFrUlAj5kbjy8+cO6U3ETQb/VWWDRqJnZswexba7+QEhgEJPOIR9dOnTCR9KxaZJ8J8IdH/LPwbefnfJwByaompfB8cFBtmgLZrZqql/vrv3vTUJfWblWSkriSJ9L1VaufTyWHrbF1fNGwqkRXr/A93I8bAJWlqH8GO1+rKuQC1GKrp70Qn5Nxs17KT42Z9+44=;CoMTvEUD6QSxGUFmLzTYlg=="
+secured: "tpOtSKVEVxT8qswiCCxUAzTtpUVBSpQM8nzcFfcinZ+ZFzDgrviBZCZIRIRUI7Rhlnh6/aKhVhYC+yLboIoyDpXfZqBfR23hiYxzrnOfE11btu5P1Idwbfa7uHhbBzsi+2WuttAHFzxjQ7wu3ejcz1FOjU4PaPpvCICeG7s/t/dYR+GQBiOfQu6sRLOP+THvRzwyNgXEq+3o6WTs/DMAMrrIxIfZUyrwr+X9a+RqW0aXf7v2kuEJk3+qiD4ULRzjh551z0FNHO7umquGTGl8BPBcBs/y/P8gwYALy9HrygltcxxDMkQ+aSJZae4+vrlStV0no6KOR4eHsHDMPVdUmlF0IsOiGyV8Xt+PI4aspxI=;siSm0yTuZRWZVVyM3/XjwQ=="
 ---
 

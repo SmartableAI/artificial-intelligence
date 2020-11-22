@@ -304,36 +304,36 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-smarter-artificial-intelligence-technology-in-a-new-light-powered-chip.md",
-      "title": "Smarter Artificial Intelligence Technology in a New Light-Powered Chip",
-      "excerpt": "Prototype tech shrinks AI to deliver brain-like functionality in one powerful device. Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning,",
+      "path": "_news/2020-11-18-new-electronic-chip-delivers-smarter-light-powered-ai.md",
+      "title": "New electronic chip delivers smarter, light-powered AI",
+      "excerpt": "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information.",
       "sourceUrl": null,
-      "webUrl": "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/",
-      "originalUrl": "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/",
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 84,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scitechdaily.com/images/AI-Electronic-Chip-scaled.jpg",
-          "width": 2560,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T06:34:00-08:00",
+      "publishedDateTime": "2020-11-18T07:15:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SciTech Daily",
-        "domain": "scitechdaily.com",
-        "images": null,
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -342,9 +342,8 @@
         "news"
       ],
       "topics": [
-        "AI",
         "AI Hardware",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {
@@ -1110,49 +1109,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-machine-learning-innovation-to-develop-chemical-library-for-drug-discovery.md",
-      "title": "Machine learning innovation to develop chemical library for drug discovery",
-      "excerpt": "Machine learning has been used widely in the chemical sciences for drug design and other processes. The models that are prospectively tested for new reaction outcomes and used to enhance human understanding to interpret chemical reactivity decisions made by such models are extremely limited.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "originalUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/60-machinelearn.jpg",
-          "width": 800,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-machine-chemical-library-drug-discovery.amp",
-      "publishedDateTime": "2020-11-18T01:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-artificial-intelligence-based-tool-may-help-diagnose-opioid-addiction-earlier.md",
       "title": "Artificial intelligence-based tool may help diagnose opioid addiction earlier",
       "excerpt": "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder. The advance is described in Pharmacology Research & Perspectives.",
@@ -1244,6 +1200,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-plaza-las-vegas-turning-to-artificial-intelligence-for-added-security.md",
+      "title": "Plaza Las Vegas turning to artificial intelligence for added security",
+      "excerpt": "After months of violent incidents on the Las Vegas Strip and downtown The Plaza hotel-casino is turning to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
+      "originalUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/81b751f/2147483647/strip/true/crop/1166x656+0+8/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5f%2F79%2F1e0f07ad4f8ba8e43d8c70829010%2Fpatscan.PNG",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
+      "publishedDateTime": "2020-11-17T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     }
   ],

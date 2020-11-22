@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-06-amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well.md",
-      "title": "Amazon’s Robotics Deals Have Paid Off, And One Investor Thinks Ocado’s May As Well.",
-      "excerpt": "In these and other applications, embracing robotics and AI is cost-effective, safer, autonomous (as the technology works continuously in the background once switched on), limits human errors, and its marginal costs are minimal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
-      "originalUrl": "https://www.barrons.com/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249?refsec=europe",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-256173/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/amazons-robotics-deals-have-paid-off-and-one-investor-thinks-ocados-may-as-well-51604669249",
-      "publishedDateTime": "2020-11-06T03:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
       "title": "Dances With Robots, and Other Tales From the Outer Limits",
       "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
@@ -1423,6 +1380,58 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-white-castle-plans-to-use-flippy-the-robot-in-more-locations.md",
+      "title": "White Castle Plans To Use Flippy The Robot In More Locations",
+      "excerpt": "When you order French fries or onion rings at one of 10 White Castle locations, a robot may help prepare the food. White Castle announced it is expanding the use of Flippy Robot-on-a-Rail (ROAR) to more locations in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/",
+      "originalUrl": "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99c8da4ee98a8e098ef80f%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4032%26cropY1%3D116%26cropY2%3D2804",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanabandoim/2020/10/28/white-castle-plans-to-use-flippy-the-robot-in-more-locations/amp/",
+      "publishedDateTime": "2020-10-28T20:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

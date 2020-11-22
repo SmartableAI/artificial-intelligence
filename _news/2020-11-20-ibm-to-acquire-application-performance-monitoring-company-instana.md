@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "IBM acquires Instana, builds out application monitoring tools"
-    excerpt: "Instana, which supports multiple containers and monitoring technologies, will be integrated with IBM's Watson AIOps platform."
-    publishedDateTime: 2020-11-18T06:00:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2184/index.php/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ibm-acquires-instana-builds-out-application-monitoring-tools/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 74
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/18/b9991307-7e4f-4d35-b13a-a8a65270ed50/thumbnail/1200x675/99095146e257bc78f2ddff3ac6c5d86f/cloud.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "IBM Focuses on AI & Cloud, Announces Instana Acquisition"
     excerpt: "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
     publishedDateTime: 2020-11-19T15:11:00Z
@@ -181,6 +165,20 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/ibmthroughleaves_shutterstock.jpg"
         width: 1000
         height: 637
+        isCached: true
+  - title: "IBM To Acquire Instana"
+    excerpt: "IBM (NYSE:IBM) is to acquire Instana, a Chicago, IL-based application performance monitoring and observability company. The financial details of the deal were not disclosed. With the acquisition ..."
+    publishedDateTime: 2020-11-18T22:04:00Z
+    webUrl: "https://www.finsmes.com/2020/11/ibm-to-acquire-instana.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 24
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
+        width: 2700
+        height: 1411
         isCached: true
   - title: "IBM to Buy Software Company Instana"
     excerpt: "IBM said once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps. The deal comes days ... while focusing on its cloud platform and AI. “IBM is essentially getting rid of a shrinking, low ..."

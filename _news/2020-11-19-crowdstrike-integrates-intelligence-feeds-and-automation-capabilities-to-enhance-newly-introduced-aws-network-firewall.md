@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces General Availability of AWS Network Firewall"
-    excerpt: "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS"
-    publishedDateTime: 2020-11-18T05:17:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 54
-    images:
-      - url: "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
     excerpt: "CrowdStrike Holdings, Inc., a leader in cloud-delivered endpoint and workload protection, today announced it is a Launch Partner for AWS Network Firewall, a managed service that makes it easy to deploy essential network protections for all of a customer’ s Amazon Virtual Private Clouds."
     publishedDateTime: 2020-11-18T13:00:00Z

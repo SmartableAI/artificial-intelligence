@@ -43,22 +43,6 @@ related:
         width: 600
         height: 350
         isCached: true
-  - title: "The LAPD banned officers from using facial recognition technology which harvested images from social media by Clearview AI"
-    excerpt: "A leading-edge research firm focused on digital transformation ... technology in response to inquiries from BuzzFeed News about its officers' use of Clearview AI, the outlet reported Tuesday. \"Department personnel shall not use third-party commercial ..."
-    publishedDateTime: 2020-11-18T06:39:00Z
-    webUrl: "https://www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11"
-    ampWebUrl: "https://www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/lapd-bans-use-of-commercial-facial-recognition-technology-report-2020-11?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 80
-    images:
-      - url: "https://i.insider.com/5fb496c0e74fa70018b83107?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "LAPD bars detectives’ use of Clearview AI facial recognition system"
     excerpt: "Critics say facial-recognition systems that use images from outside the criminal justice system are racially biased."
     publishedDateTime: 2020-11-18T16:51:00Z
@@ -74,6 +58,22 @@ related:
       - url: "https://www.dailybreeze.com/wp-content/uploads/2020/11/LDN-Z-CLEARVIEW-AI-1.jpg?w=1024&h=446"
         width: 1024
         height: 446
+        isCached: true
+  - title: "Facial recognition software can now reportedly recognize bears"
+    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
+    publishedDateTime: 2020-11-22T22:14:00Z
+    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
+    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
     excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"

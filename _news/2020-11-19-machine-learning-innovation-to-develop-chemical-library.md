@@ -39,20 +39,6 @@ related:
         width: 800
         height: 486
         isCached: true
-  - title: "Machine learning innovation to develop chemical library"
-    excerpt: "Purdue University innovators are using machine learning models to create new options for drug discovery pipelines. Purdue innovators have introduced chemical reactivity flowcharts to help chemists interpret reaction outcomes using statistically robust machine learning models trained on a small number of reactions."
-    publishedDateTime: 2020-11-18T05:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-mli111720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249149_web.jpg"
-        width: 720
-        height: 437
-        isCached: true
 
 secured: "n8/zRdWaJ5xlQxNcnznlcGsGqu70jCRKjw91rur+FLYEoPzH9PTgBf+TXPWD1GjA+BoUWDWWZwaIg6DP9umv+Gby/BM3sMsiEh0yO2VRKseYWLy+43msPUv6xKzvkbag+Kgkls9YKuJxXz2ItaTL6hS+zxqoHFJhjmIj1jjOuBCTdCiP3VnAolJjyh2BHgqIqRhr32ZlPu9r4rOoDeDOYM2kvm+YvSgiReNayUHr3g9yNthqEw0rw3Vz/NvmZ+m81nhO8iR56Y1VIHrsaUsN0iXDtQZvNHSFT5NXJBI+pHNZ64298whveAFXU5AubbevmLHGJPxl47Ui1/t/GMsfMQ8NKLUS+IzPhohXwu6iM5A=;aw577C4u4fclQzr+EJWFXw=="
 ---
