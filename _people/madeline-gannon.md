@@ -10,7 +10,7 @@ website: https://t.co/It4puKUIPF
 twitter:
   username: madelinegannon
   url: https://twitter.com/madelinegannon
-  followers: 3014
+  followers: 3015
 
 topics:
   - AI
