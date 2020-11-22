@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Prima-Temp Awarded Groundbreaking Patent Using Artificial Intelligence For Ovulation Prediction"
-excerpt: "Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its innovative approach to applying artificial"
+excerpt: "Temp, Inc., a leader in developing digital health solutions through chronobiology, has been awarded a patent recognizing its"
 publishedDateTime: 2020-11-17T15:00:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction/article_27eb14bf-c087-5e15-8954-07a196483bfb.html"
+originalUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
+webUrl: "https://www.prnewswire.com/news-releases/prima-temp-awarded-groundbreaking-patent-using-artificial-intelligence-for-ovulation-prediction-301173885.html"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/f/bd/fbd33205-c737-534d-9316-43c1cf334291/5fb3fbadcc28c.image.jpg?resize=400%2C222"
-    width: 400
-    height: 222
+  - url: "https://mma.prnewswire.com/media/881405/Prima_Temp_Logo.jpg?p=facebook"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "MHy6wkBQUtUvLZUAqs3i97MkpKFv6p3z8ALxA0YVs1LK9fPCNm5nIAZ0UxsfAxNGslmkkNBSzBLLLnENlZMZFCHLQV7Te2J5f8FTNVyIEBCIoeqM9DBQKEmNYzHFC3jNKNJZhiWC+Bktj4rXheu2LleQ5qOcp6Kk8nBtMbU+EgKBRRx32accxclFRhukr+yIrUzj5hUgp/sBij5a2VoMFoU6FiWg6oxHAxDei+CghqBHrKrDa2Uu1NGRwQ8SgRM4WX6i2r5nSYkGj2FKUXZa9F0uUDdrTIM3jILELsqRJpv1bFc0KrFeSvWiJipR5rvrweK22gBvyrf3wuYzVvxDYIvnwIX8ffEIZqw16v3wGec=;OBoWlYsr2s9uE4d5pSzXUw=="
+secured: "M4pj0M9Y6+6C61/YoBEXX3VFwndmgNvuxxahuKSjtYnoLgb9Dhs/x7JWPNMsnpUHu5C4Q+ea0u93x2AJVv2aiWmpBEpetU2NbyiT/X3CFKGZ9cCX/fW9A9yY8xiIivbJRb38vQqPuozQRFWox4f2bYg94ucCLATjAcl1d1nMI/exmhAjUewOuQU6FjX9Q1ynA4Aidicdx56oEa1juNR4vYSPlzrr+F2Gsjt4ynA4heE+wIPHrnBwoOIawyQnQl+whRIlbuZsv2VDqkD/lH9dJM4lfGEcU45g+ng1zmZrAjfKVGwkE/eMD8f1hdcoV8pDpJ7/5QTLzhafQVxZGtewgKqoslWLzFfzo5ACLCAS3po=;k8AVwNyGCNpK4q+Cg1WOTw=="
 ---
 

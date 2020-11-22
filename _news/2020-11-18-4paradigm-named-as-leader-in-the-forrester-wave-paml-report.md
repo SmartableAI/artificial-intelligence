@@ -1,29 +1,31 @@
 ---
 category: news
 title: "4Paradigm named as leader in the Forrester Wave PAML report"
-excerpt: "Recently, Forrester, a leading international market analysis firm, released The Forrester Wave™: Predictive Analytics And Machine Learning In China, Q4 2020 report. 4 Paradigm received the top score in the Current Offering category,"
-publishedDateTime: 2020-11-18T14:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-named-as-leader-in-the-forrester-wave-paml-report-1029816320"
-webUrl: "https://markets.businessinsider.com/news/stocks/4paradigm-named-as-leader-in-the-forrester-wave-paml-report-1029816320"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/4paradigm-named-as-leader-in-the-forrester-wave-paml-report-1029816320"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/4paradigm-named-as-leader-in-the-forrester-wave-paml-report-1029816320"
+excerpt: "Simplification of these capabilities differentiates 4Paradigm's automatic machine learning (AutoML) to accelerate enterprise transformation in key verticals such as finance and retail. 4Paradigm ..."
+publishedDateTime: 2020-11-18T15:12:00Z
+originalUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report"
+webUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report"
+ampWebUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp"
+cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp"
 type: article
-quality: 69
-heat: 69
+quality: 59
+heat: 59
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "6En/FUhROTSUTWikaxdXQuad3Y+KA5pCCmxeq1H9fkPJrbGeCDbj9iYcqbJOIs8KcI72SQiyfF/GyvjhTkZ//0yodw5PPWeebAgpQlSsZiakWHFMmlrNvNGU26L5AgsyfMv/p6l8FWG40Y2GLccVZAsAJWgNjXgwVoVdKIP7Kig3wjZQUst8x+W+jCmBE9PvDig7vUbudNtcphlP7CTLIH1/OYuh0G8cmSQ9EFHOs6/mdY6xJ9UMWjseedQddRoU9IHjfx25fia3N1cPL/f1unz+lzEAXgz5caz7frGk6d2Z8cqGixnO9SO8XODEAzSGec6XqYM/SDo9hJKckEluHErb3n6Bn5/9LDV93O1cKR0=;kBcFLn/8J+q8/3zX+vANxQ=="
+images:
+  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/pr-newswire_500_4_997.jpg?itok=ip51wB8I"
+    width: 763
+    height: 509
+    isCached: true
+
+secured: "4fy/UX1mZeJkFPmvOze1aWObOvmMJZViCThU+E9q1O0cNeGbo5wmTYAxhkcUqMPs/wKQPBjIf18Guq3puG7V3OHMqDM4k3Z5ATidRKmMVuFrjYUXdPrbQt7FJ/Llyb8hsIn6v0wKYrTUbzNxaBMYctDuTE6WJIOKWh6w0TfrNPVetHXZUCT+RrQ/9oMht/c/NegYiSjG4vFkVv53l0gbSytr7ocpe4zHvi//r3ST7rTEADPAoQ+VKkHCeLxtjJT4UjRi1LX1Ymv2tBziUkd/qK4XEyJPr9KJcYUpH2TVjVscNVlkKFRTMmXJAH4FJNqQ8SD2Qx/4eok7wOoVJVd7YzopZ6LzPqxjPohLw1lT7mA=;yJ6rUxMtcILs7MAEbjO94Q=="
 ---
 

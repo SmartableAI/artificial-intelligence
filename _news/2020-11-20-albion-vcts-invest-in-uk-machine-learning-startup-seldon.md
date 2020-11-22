@@ -9,7 +9,7 @@ ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/934547"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/934547"
 type: article
 quality: 61
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -26,24 +26,6 @@ images:
     width: 1200
     height: 740
     isCached: true
-
-related:
-  - title: "AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital"
-    excerpt: "Seldon is a U.K. startup that specializes in the rarified world of development tools to optimize machine learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting does actually end up working."
-    publishedDateTime: 2020-11-18T00:04:00Z
-    webUrl: "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/"
-    ampWebUrl: "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 78
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2018/10/tools.jpg?w=960"
-        width: 960
-        height: 640
-        isCached: true
 
 secured: "kly/IUVykgVojTfiEUmJ6oPEjXzuDU/1qCoo8pOzLdYl152L+bleZrgFAvTHYy2ylWcJfi5GfXlLXYVT72Q75TsuSxHJ/JnrCf0bh+QnQ+fXuwUN7xtxI8dLxqHq3W3hARJnLx7B4b6grZZ6tfbD+M7pAAQolVdz3pZcG2IAziIni2cC43ZmKGUGlCcxc79QI7cRn2W0Bb9ymP96fezNGs/bFexOksQxEgn78ONDGDkYK0Ig2FQaFNzivOOi/nZ0xjgD6TGrHKjxI0TKdC9qyX4HRUTzhxygLbk2d3BNiHxCzA/TjkF+U4DkrK1Me6xvPpzXnDTI+Rav+iSlQtN90m/X+e9ZBivHYIm7FT6VgEsOmKfqzPi/591uYzzFSZ+EJUnkC1wjzrejjVd682xY8h39NuEHrlIxwSlobBaqy7+QYYbP+Ukz6bKdGdFF+23hs5TK06S3/g/HtLPvXh2I/oLK7LxJxt+eUp3xoIqub0Eb2EYFVO2MSZFB7tQuNxj9IEj6JRcnKLu60OiYHLEKUA==;xAq9+JGGBBFOS+TgrgRRfQ=="
 ---

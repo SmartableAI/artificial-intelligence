@@ -209,6 +209,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "LAPD ban facial recognition following alleged unauthorised use"
+    excerpt: "The Los Angeles Police Department (LAPD) has banned the use of facial recognition after officers allegedly used it without authorisation."
+    publishedDateTime: 2020-11-19T16:21:00Z
+    webUrl: "https://iottechnews.com/news/2020/nov/19/lapd-ban-facial-recognition-unauthorised-use/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 39
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/11/lapd-facial-recognition-ai-surveillance-policing-police-los-angeles.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "xlTIL77xHW2UT0j6mJDoDwkXER01KzroDVKeW3FCIKpIyDAQTlI2ZJ33R5W1fyfPRZee/gsKLfaev803V6peo/s9nIzTVUJCIjgPB4ZrfYItVB8oRxgMtvTjj4bWMkjDZ327hLNBedHZ9RlJyy3hOo6bsiU4Z6V112SOIkA3GgMYYw6nyzd6KgpAGdY1disjrJtLS9r9tVSun7jP10p2aMar/bRoERE8+mVSE5LYmTo5a7zRBT8ljX6ONpLL9eZWEjcfFC0NO7FWDnDNKuzHLF3Ns0JHhqDFajBHOCnkDbQgNbyPJbIwBYUx4avIlAuZw1bYuXfVXgsAmI2Jddka1mbmdTplRtmpdvKU8Sz03AQ=;cdQZ07ERW7KeIaUTOpiWRw=="
 ---

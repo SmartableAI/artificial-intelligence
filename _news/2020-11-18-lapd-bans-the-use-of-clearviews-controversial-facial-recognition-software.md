@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
 type: article
 quality: 87
-heat: 207
+heat: 217
 published: true
 
 provider:
@@ -198,6 +198,20 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "LAPD ban facial recognition following alleged unauthorised use"
+    excerpt: "The Los Angeles Police Department (LAPD) has banned the use of facial recognition after officers allegedly used it without authorisation."
+    publishedDateTime: 2020-11-19T16:21:00Z
+    webUrl: "https://iottechnews.com/news/2020/nov/19/lapd-ban-facial-recognition-unauthorised-use/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 39
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/11/lapd-facial-recognition-ai-surveillance-policing-police-los-angeles.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
     excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."

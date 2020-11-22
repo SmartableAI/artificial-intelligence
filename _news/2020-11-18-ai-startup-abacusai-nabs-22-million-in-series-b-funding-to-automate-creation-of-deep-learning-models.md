@@ -3,10 +3,10 @@ category: news
 title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
 excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
 publishedDateTime: 2020-11-18T11:07:00Z
-originalUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-webUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+originalUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
 type: article
 quality: 88
 heat: 108
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
   - AI
+  - Machine Learning
 
 images:
   - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg"
@@ -55,6 +55,6 @@ related:
       domain: bizjournals.com
     quality: 16
 
-secured: "8OkXzoaZU0u6apSqQLl0naN+YIkyGckwZMTKcgkESnaUhN9GczDFxSJhyqQLRNW6qFOP1LKDod9vCp/bCaJWQ5CEFe/y5jmUL6vHP99IgjuNgMhr67b5C2Q22ULOZcFWSqkGoZCzKswR48nfRwZ0rIXR1b/5wHzjlIBvt61jSYjFyP7iDWdRWFo/BPumoH3d5QaK578VBZvIew0CM8d5SsqI1IDe2ztX0Yae5a6gcCx3r5VqjHTw5Arlv3AW+cDPCjMSCppK4Z2yXusjuwNAbuUFJ/hUK522RP9SnraTWg1GAg5xZVlFhccVVwD9aCtk+UQadd6aAR6XtE9eWoti6CVy8QuUe4+TeAhwjH/jKrE=;gkTlEht0fvc25eOmCpYTpQ=="
+secured: "hQLkQW4rmjAfAPfzULC1XQxoPorGzdwAWYGZ14cWDVamkJN9L35gqOqOgCDyhidjQnjy38R1ElESKsFFp+HZV9VoTKcW7OuyVaRwWC9OQNtacUWBIyUPg2xe9wWS5rEGdZPG59yaMrhrdaShqSRlUQuSlUWI9pipG+TH064btelGuD1jSiuJo+7sG8kZIeRzo/Sp51vyTu81A+ACMaUncNoiQZ5cvAW0LrIW6FwSCeVfBPCmSXBYN8a3jjF7KB3fFIhwpIiVUJsW1OOvFMJJS6C6Qjxxk3CyebOuSIrApJuDJvsJee7qU2zZBljAeOYZ0rz9NiuarZ9PwhfDrooOvQv+rB2LXKNULD/uOV31xWo=;pQcAKJlK5M0ANEwfuxL6CA=="
 ---
 

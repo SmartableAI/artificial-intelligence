@@ -1,25 +1,29 @@
 ---
 category: news
 title: "AWS targets larger banks to drive Cloud growth in India"
-excerpt: "After gaining traction among some of the smaller banks, Amazon Web Services, the Cloud computing business of e-commerce giant Amazon, is planning to go deeper across some of the larger banks as well in India,"
-publishedDateTime: 2020-11-22T12:28:00Z
-originalUrl: "https://www.sify.com/news/aws-targets-larger-banks-to-drive-cloud-growth-in-india-news-education-ulwmlEcbfcfah.html"
-webUrl: "https://www.sify.com/news/aws-targets-larger-banks-to-drive-cloud-growth-in-india-news-education-ulwmlEcbfcfah.html"
-ampWebUrl: "https://www.sify.com/news/aws-targets-larger-banks-to-drive-cloud-growth-in-india-news-education-ulwmlEcbfcfah.html"
-cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/aws-targets-larger-banks-to-drive-cloud-growth-in-india-news-education-ulwmlEcbfcfah.html"
+excerpt: "After gaining traction among some of the smaller banks, Amazon Web Services, the Cloud computing business of e-commerce giant Amazon, is planning \"to go deeper across some of the larger banks as well in India,"
+publishedDateTime: 2020-11-22T15:22:00Z
+originalUrl: "https://menafn.com/1101166429/AWS-targets-larger-banks-to-drive-Cloud-growth-in-India"
+webUrl: "https://menafn.com/1101166429/AWS-targets-larger-banks-to-drive-Cloud-growth-in-India"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Sify.com
-  domain: sify.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "TZlec9Bsr5XvBfy85xlvVFsvko0xFESzUZLRVPlLyMHmQcnwkcxdL985wnIZg55y7Br5DkQzlTCVX3kE9ZnybMGB9NTq3OwZpexdRPhcAvTmrbVJsqMCIOyXpnvclNGENU0crruSDniE6XfzQCka5XDmVKKTMZVABcSS/dPHd1ztrc2GLhrSZpuMNmYMrDmSlc9kz79/ff4jhh+Zp3Uq+LW64XWec6lLQNteLnyhyxQ+JicaLgMS1h1zaTNIB34k+BoMcdtc4z+K9HNpiz9iQo+xRlspUunG+XRmWdIW7X+Eg5B83RjoeyQ4Emp2/hx3LQk814B1OkKfTkGZV1L0+hHqwXzT/YYnBC64ApvfqO8=;FnhBOVNwl3dwo6dsrlNweg=="
+images:
+  - url: "https://menafn.com/updates/pr/2020-11/22/I_a8ca3b9e-1image_story.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "O2dhKXvYRaPHRjoelGf/v1j+g74G/At33hVOwlCkcJ27RrYSiJxbQGsdKUrm+f8tVlWJVyo7C8BLry6L1bTVowteeAc4E/UUU0e6910gj7y1a7XHY/1V3K/+KEBfQpaFXoaFwuegEmU8BUuC0jZljee5qTxyhHCjdLYbMcgt9PE4MTFbCjXenwHDmc6vxEOHWg3cF2MkyVTUZkcKGCA+sRuMMctSkcboNk0+QYiQ2awgYma3IchEHM4M5PkY5SJSocYJLLyD3vyxIJRSk3qIcDmumVMetm2yGrH0yekQNSgYhQg4ZGkuewpxgIdpO4fkA4191WYiKn2uXiA4lUpGNgYkyfm0RB8nL/e2I99Q1qU=;y64CiglQK8EjmZNuPgNMmg=="
 ---
 
