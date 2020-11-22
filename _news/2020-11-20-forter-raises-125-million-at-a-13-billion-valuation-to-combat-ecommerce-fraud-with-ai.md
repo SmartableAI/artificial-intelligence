@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: VentureBeat
@@ -30,38 +30,33 @@ images:
     isCached: true
 
 related:
-  - title: "Hover raises $60 million to streamline home inspections with computer vision"
-    excerpt: "Hover, a startup developing AI-powered apps that create 3D models of homes from smartphone photos, today raised $60 million. The 200-employee company says the proceeds will be used to deepen ..."
-    publishedDateTime: 2020-11-17T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/hover-raises-60-million-to-streamline-home-inspections-with-computer-vision/amp/"
+  - title: "ClosedLoop.ai raises $11 million for off-the-shelf AI solutions tailored for health care scenarios"
+    excerpt: "ClosedLoop.ai, a startup developing a data science platform for health care, has raised $11 million in venture capital."
+    publishedDateTime: 2020-11-19T21:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/amp/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 101
+    quality: 73
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/10/2c7ec2b7-e7a5-49c4-b46e-f5cfb66f61f7-e1603297784170.png?w=1200&strip=all"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
         width: 1200
         height: 600
         isCached: true
-  - title: "Cogito raises $25 million to analyze phone calls with AI"
-    excerpt: "Cogito, a startup developing a platform to measure the sentiment of call center agents, has raised $25 million in capital."
-    publishedDateTime: 2020-11-18T14:04:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/amp/"
+  - title: "Computer Vision Company Chooch AI Raises $20 Million"
+    excerpt: "Computer vision AI platform Chooch.ai announced it has raised a $20 million Series A round of funding. These are the details."
+    publishedDateTime: 2020-11-20T09:41:00Z
+    webUrl: "https://pulse2.com/chooch-ai-raises-20-million/"
+    ampWebUrl: "https://pulse2.com/chooch-ai-raises-20-million/amp/"
+    cdnAmpWebUrl: "https://pulse2-com.cdn.ampproject.org/c/s/pulse2.com/chooch-ai-raises-20-million/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/11/download-2.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Pulse 2.0
+      domain: pulse2.com
+    quality: 54
 
 secured: "mcj7e7MepnjKBsmaz7QyRhdu53EEtbQ7eYnTfX4y+/hp09LwYuHwc1rvHxInuqmeYC5Cd4z2V8AucBMHAn5v9/9rz42IlWjVD5z3u5PJIgN+aUHYBzPzNwWy/nIXARZof+PYYDHPnzH2DbJ0NBHpigPbPaYRyR2rlWSPbkJntUIFOpT5kptQsd+v/zcQUVpKHF1G8Ux/ce4XEWaEQfJfwrjnntycbXbhMUl0uPuJadxe1A5z2cKQAeIAXPM6atNPWhXdozI1lVuDsjqmaBb2lYikLlIp0tBMNoyRH4efSrRdE+fYumVu8E0sU8KfEGxLuev2SUIrIsgmIRn4Q/UCv/tXoWfvzpW6tguK34tBROfqZ7YW4IKg6nSH51PhGW4IaemVJb3bjBqbE7fqoJF+RJISuvEM51IpOACx1HUFwmUnUZsALWQ1m390broHgtqaFgi3H/y0PmU6XyGtSYeKsjfe6DsTebAGFeb1UPXUkVByYNXmJbEfKZgM/bHBL7Uru+rO8sBuI2HSqVpBI+FHSg==;roumIgJrZe49ndkZRq9aaQ=="
 ---

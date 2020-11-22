@@ -1,29 +1,29 @@
 ---
 category: news
 title: "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations"
-excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions,"
-publishedDateTime: 2020-11-18T12:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html"
-webUrl: "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html"
+excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent"
+publishedDateTime: 2020-11-18T13:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+webUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
 type: article
-quality: 18
-heat: -1
+quality: 48
+heat: 48
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
-
-images:
-  - url: "https://mma.prnewswire.com/media/1306557/RigNet_Logo.jpg?p=facebook"
-    width: 967
-    height: 506
-    isCached: true
 
 related:
   - title: "RigNet inks multi-year agreement for Intelie's machine learning platform"
@@ -36,6 +36,6 @@ related:
       domain: seekingalpha.com
     quality: 18
 
-secured: "ln+6XvTaICfzrujpfFW8W8+NHHW3Z+9vk33RpyuyvajfUQpbxJC19IlsYPL3uYgDZ9eVsTAMkUmEwYriE2pMqF51Uh5VOUZQ8+cyW1l3i6Lkb9kpNY6zvt3zJg1RAvs0YRn9toRgO2KTQ8OcUnh2BGml87NuddSjabesPAjX3J6ul9/kwosvQ1IPdrEgyMC7u2aIwPTvaQb2bpI9L5b9WjIP0zQsLkvPyywuoP0GXvL1jwCWt0mZ4B9R4uAdergVIv4mTVKwX8EjxkhEmLqHrQAhnKaR7jW9xspHsG3TM9SCrjMB4ZhA6lf9eNfFVQm4DFtNAyV2CuWSp43tz86YKxRDylqMTwV/DxqqdwrPNhA=;jXGm7uiBUmp0FFoUAnrtnw=="
+secured: "L9P+DOk4QIbYFrdYwVA+rwv4JO0ztnKYGDti9vPgfs8XBY4SF01pM01juoDJrxe+DXi1Zx0JEvy4g1Lyt1/R7r1Y37+TT8ppRu02TCRkzksBfwJVv4Yu42omF8JbEGxKJ8Cx7w2XPiZw70sd3cnOXBAaTfSLPF5EoM8xmpssZSK2q6gmIFmigr0i8AAsRaCUwPZVjGSwE8IS4R5iTRmexNirBI68Pcw0zDs/1mq8+1agvPwoT8iJzK3AtD7lYYOfqsAZWmU/46PsjNsUlWkjBUwKvPu/kTL3UtuzXrvUv5hN3RQhXTAX4LS+dP7V7br9GCoY2R+nf6NZjcdIUjXtscW9jD4z+pKedrBJx4ICU3U=;Nk0j9dHwwKWTE9LkmZXDiQ=="
 ---
 

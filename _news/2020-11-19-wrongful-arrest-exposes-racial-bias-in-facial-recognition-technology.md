@@ -43,20 +43,6 @@ related:
         width: 1680
         height: 793
         isCached: true
-  - title: "How regulators can get facial recognition technology right"
-    excerpt: "As facial recognition technology spreads, regulators have tools to ensure that this technology does not result in inaccurate or biased outcomes."
-    publishedDateTime: 2020-11-17T14:27:00Z
-    webUrl: "https://www.brookings.edu/techstream/how-regulators-can-get-facial-recognition-technology-right/"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 39
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/Ho_Facial-Recognition.jpg"
-        width: 3600
-        height: 2400
-        isCached: true
 
 secured: "SLb75Zl1oRlLWCm2Dd3hNSr2Zh9xB9G+n8qPgcSRl0eMmK3hExNnCOCED9rWotFE5YcRVkpnJagfNt5z5rIdgF6hMBlGV8IFaFOKzDbv61+WHK98cExoEJER+47klkBSOYkqAgrDExRKO7JQwWpc3PGwkOzGQJf74+LASm83HPo7ud3XDrh6KkLFaLni04aFusJDU0kfTfxYXd9+sPgHZS76G/G/QX9UKahYVnFcagGr0Kc+EhXq5kqSz3yxyWHtVaTKeZEEfVqMJX8hIYLdxxr2k1OIGS6xo5odTAR/qvU5lgZFf2olCEWkUccfHffEKTlpxgS+JQSkhd1+lZ0WKKXSzVcmtZbcfJuT5a3eqpv0vIhLb7xhG5LOtaxwCDsyxPKbdmAACD8nZ+twUop1lSJ4FTaJNbDC/sfBn27UkPgHN1F8RS0sEVndid//MqwcnmUrgYARjqemTIZKCokVmW1eZazsotbWD8+EEfP1wlFvkhZUKMxd92OaWZK/LN3U2IPpq/1XMNgLWWHMkSe/JQ==;5Osx5TVSeNpNn6RfC8hnow=="
 ---

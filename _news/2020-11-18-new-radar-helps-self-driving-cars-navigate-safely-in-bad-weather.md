@@ -107,20 +107,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 29
-  - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
-    excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
-    publishedDateTime: 2020-11-17T14:04:00Z
-    webUrl: "https://www.caradvice.com.au/901837/jaguar-land-rover-to-open-a-hub-for-testing-self-driving-cars/"
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 24
-    images:
-      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/gzffcupivjojk6kknrlv.jpg"
-        width: 960
-        height: 500
-        isCached: true
   - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
     excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
     publishedDateTime: 2020-11-19T16:47:00Z

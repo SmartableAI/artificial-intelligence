@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ClosedLoop.ai Raises $11M in Series A Funding"
+    excerpt: "The system supports data science teams with healthcare specific tools for data prep, automated feature engineering, AutoML / model training, and deployment / MLOps. Customers have the ability to ..."
+    publishedDateTime: 2020-11-19T17:44:00Z
+    webUrl: "https://www.finsmes.com/2020/11/closedloop-ai-raises-11m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/11/closedloop.png"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Birmingham AI startup raises $1.7M"
     excerpt: "Another Birmingham startup has secured a capital raise. AI Metrics, an early-stage company that focuses on artificial intelligence for radiology imaging analysis and reporting, has raised $1.7 million in a seed round."
     publishedDateTime: 2020-11-19T19:36:00Z

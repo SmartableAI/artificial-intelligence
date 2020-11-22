@@ -42,20 +42,6 @@ related:
         width: 1024
         height: 659
         isCached: true
-  - title: "Onit Looks to Close AI Gap With Acquisition of McCarthyFinch"
-    excerpt: "With the McCarthyFinch acquisition, Onit is rapidly attempting to boost its own AI capabilities as it looks to position itself in a crowded contract management marketplace."
-    publishedDateTime: 2020-11-17T14:13:00Z
-    webUrl: "https://www.law.com/legaltechnews/2020/11/17/onit-looks-to-close-total-gap-around-ai-with-acquisition-of-mccarthyfinch/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2019/08/Artificial-Intelligence-Article-201908061349.jpg"
-        width: 620
-        height: 372
-        isCached: true
 
 secured: "JH2C8uU040Ki9e88O5ldQc/Xql807oMVHbXK9Ui8u82xfkWmYMWjweFJmQiL1WvBDLo3EIxClvZuWPCysJ+GpyfR03N6/30eQ+ip9wJfwdgYIJlE4EDVgK0a+znLRzD3B1EOaR7XGJ3lv7vtYtJL4C+9YcvOEs5uNLKCVdzMNLysewv2lg4ApKvOEUo+qOX8WpBD5e5buQwxhTgYzuOukXldVW3hDuICPS+GHMWPEI42U6/uL12SIRWabIIWN/rXp83OHe1x0FTqmBP/+EhOliLiTPV1nXNgC83N2dFiyoS5E1dmfAs9sdFR/qW2ytfwk1n5cdBjfYFZZfNf7ND92491LiJ0UZEnrnxwRF4Ez18=;LYBD3hVaKG2kc33ON18ZkA=="
 ---

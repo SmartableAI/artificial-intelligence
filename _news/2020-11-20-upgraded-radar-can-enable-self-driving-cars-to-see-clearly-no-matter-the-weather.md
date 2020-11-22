@@ -96,20 +96,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
-  - title: "Jaguar Land Rover to open a hub for testing self-driving cars"
-    excerpt: "Jaguar Land Rover (JLR) is taking its autonomous car development to another level, with the announcement of a new dedicated 'city' hub where it can carry out real-world testing of its self-driving ve"
-    publishedDateTime: 2020-11-17T14:04:00Z
-    webUrl: "https://www.caradvice.com.au/901837/jaguar-land-rover-to-open-a-hub-for-testing-self-driving-cars/"
-    type: article
-    provider:
-      name: CarAdvice
-      domain: caradvice.com.au
-    quality: 24
-    images:
-      - url: "https://media.caradvice.com.au/image/private/c_fill,q_auto,f_auto,w_960,h_500/gzffcupivjojk6kknrlv.jpg"
-        width: 960
-        height: 500
-        isCached: true
   - title: "New radar helps self-driving cars navigate safely in bad weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
     publishedDateTime: 2020-11-18T12:31:00Z

@@ -137,17 +137,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
-    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
-    publishedDateTime: 2020-11-18T00:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 42
   - title: "AI fintech FinChatBot lands £1.2m investment to expand into the UK"
     excerpt: "FinChatBot is opening up offices in the UK to assist British banks and insurers FinChatBot, a creator of conversational AI solutions for the financial services industry,"
     publishedDateTime: 2020-11-18T04:56:00Z
@@ -197,20 +186,6 @@ related:
       - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
         width: 792
         height: 266
-        isCached: true
-  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
-    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
-    publishedDateTime: 2020-11-17T14:39:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 12
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "Xz65b0teFv4DUW95HWsAUBWse+lTejojEMZ4ZhFNxbopFykmUP9O0OTD9EYH9yq+okmJfck06LrmTFkQ6aOolnAicmzVekw+XOEZWSUdUd40EVoWNuOnKR9byO38nHYTn9o1ZRY9PjTEHmpVT48agFEexusclcVy9XShA7j0C4SC23YDeBkBmpOpoPEXNTyBz9YdkIOge9Hs4PLJfN0v23cO/Al1pLkW4YJZPipobwIt+uVhqZwt9outawYoBI9j/BioHNOE9tCyz2l5Z8cZ4TzaBcb8ycTim/p6WG2IYKJ/vKADcE4OsjQ1wt50957FhIkXFgZcDInKyGYbDcntSf2YYdJNptl98w2vZpVd8qM=;3/9RqvXh6yjcly/wdhcfvw=="

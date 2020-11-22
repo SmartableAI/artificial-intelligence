@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -93,15 +93,6 @@ related:
         width: 2560
         height: 1697
         isCached: true
-  - title: "Report: Uber looking to sell beleaguered self-driving business"
-    excerpt: "Ride-hailing giant Uber may be looking to wash its hands of its troubled self-driving business as it is in talks to sell the business to Aurora Innovation, an autonomous driving startup. According to a report from TechCrunch,"
-    publishedDateTime: 2020-11-17T13:15:00Z
-    webUrl: "https://electronics360.globalspec.com/article/15971/report-uber-looking-to-sell-beleaguered-self-driving-business"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
   - title: "Uber's self-driving vehicle unit is seeking partners, says CEO Khosrowshahi"
     excerpt: "CEO Dara Knosrowshahi says the company's autonomous vehicle unit wants to partner with other companies in the space.Khosrowshahi, speaking at the RBC Capital Markets conference, was responding to a question about reports the company wanted to sell the Advanced Group."
     publishedDateTime: 2020-11-19T00:03:00Z

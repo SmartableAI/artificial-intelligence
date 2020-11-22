@@ -582,6 +582,57 @@
       ]
     },
     {
+      "path": "_news/2020-11-20-forter-raises-125-million-at-a-13-billion-valuation-to-combat-ecommerce-fraud-with-ai.md",
+      "title": "Forter raises $125 million at a $1.3 billion valuation to combat ecommerce fraud with AI",
+      "excerpt": "Forter, an automated ecommerce fraud detection platform, has raised $125 million at a valuation of more than $1.3 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Screenshot_2020-11-19-Ecommerce-Fraud-Detection-Ecommerce-Fraud-Protection-Forter.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 499,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/",
+      "publishedDateTime": "2020-11-19T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-us-regulators-open-process-to-ensure-self-driving-car-safety.md",
       "title": "U.S. regulators open process to ensure self-driving car safety",
       "excerpt": "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
@@ -682,57 +733,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-closedloopai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios.md",
-      "title": "ClosedLoop.ai raises $11 million for off-the-shelf AI solutions tailored for health care scenarios",
-      "excerpt": "ClosedLoop.ai, a startup developing a data science platform for health care, has raised $11 million in venture capital.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/",
-      "originalUrl": "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/amp/",
-      "publishedDateTime": "2020-11-19T13:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -996,7 +996,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 187,
       "tags": null,
       "images": [
         {
@@ -1049,7 +1049,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 164,
       "tags": null,
       "images": [
         {

@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2020/11/amd-says-new-gpu-surpasses-10tflops-
 webUrl: "https://insidehpc.com/2020/11/amd-says-new-gpu-surpasses-10tflops-for-hpc-acceleration/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - Google AI
   - AI
   - AI Hardware
-
-related:
-  - title: "AMD launches world's fastest GPU for scientific research"
-    excerpt: "AMD on Tuesday launched Instinct MI100 accelerator – touted as the worlds fastest HPC GPU and the first x86 server GPU for scientific research. Built on the new AMD CDNA architecture, the AMD chip ena"
-    publishedDateTime: 2020-11-17T13:25:00Z
-    webUrl: "https://www.dailypioneer.com/2020/technology/amd-launches-world-s-fastest-gpu-for-scientific-research.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 39
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2020/story/images/big/amd-launches-world-s-fastest-gpu-for-scientific-research-2020-11-17.jpg"
-        width: 1000
-        height: 800
-        isCached: true
 
 secured: "Z2Mk/NONmlKd3syVD5R+nFz2UsskK1DCq1Edw3KhhJ4tclmQ1GfCZP1uOhMfzotGlN3OpRBn33nrlnfUsknkTALD/h8SV78BxaGM15lNo1xglvBUplGJk3h7NytkXg+1/d6sYMGsRSApzXGeYfQSjsSarrOFGboRIB/GN19RCQWexFt4xBopRDkaKffcrBRxXMwjdZ1UyatAt6pa0ocUzKbIu5UDDQRhCNdbuXrvJKptNg1oaWyX3BSC7ZUrnK35nbtBBV82IeIUfTXVGgEwVvUjwpKE3tKh85f5qpoJaPpJYNW+xNfg+24sznt2simNeSeP7P6S0VbiWk8p7Rravn4t7a49GNz9jks5u3eqKSQDp/F2iP+Ewsgv8M0UAgBBFuVHjvkg1eN1Glosiv/CrB6xE1+qDoL/4QGvu3q/eLWRe3Z8O9jLQ/pafXA5UczM8rPSyqjLUzz/7rqg2o5popQDwRJR0qtC6bh2iXfbW4UPQj4P+1ddmVM2+xomIEZuodUHV/fJphFPVjdd/9YAEg==;uOkLkAuVIVvqvbSXzDecAg=="
 ---

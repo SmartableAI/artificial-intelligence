@@ -59,6 +59,22 @@ related:
         width: 990
         height: 448
         isCached: true
+  - title: "IBM Announces Its Second Cloud-Related Acquisition This Week"
+    excerpt: "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises."
+    publishedDateTime: 2020-11-20T19:23:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601417%2Fgettyimages-1167278913.jpg&w=1200&op=resize"
+        width: 1200
+        height: 900
+        isCached: true
 
 secured: "TBipF026G2zaYXuKvYhbnYMOlfDjJaZ6guRzZNG+g+g/Du5E8ZJoT/yfp0cJj+r03rkhn6W9ZCn93A+WBsTgiEtWO0jMV5TwARELbQGZ8QK3RmrsZmqE1HjYpOGEZvwAQlkLstCfaTsMvG5sJYAmS/VQD4p/JJ/MaF6vYCKnXfDKWzv5DdyAComHks8zGzLguF4Ypi8KA18XjLNm1umxuGJavksoqPuLTtKcQzKiU6sCIaHSJGOXOiq6mU1djuJGfFWw1CbNO4gUF7wI//58g7S6kHHKhIHoPhNQTe7OrZ44JJs7u+7Ckb0awffeRJwh6Ie2wci0bH1NgRoGz+s+jqCvyq1AVQH5dIA9GzJ0EvxEdYjnDmeknDpqlHjyXgvBGAKueF4xoop+zG7hPn9aOjlUPwx80QYevVsqYXgXynu+hqe+Aq4n3NrNELoQQWsu9HLUfal2zyhaueB1tL6RK9kqYP89X7gaoAUFuwUmfFGUdvRKTbfH/upK8S1gycBxeSeYpAdAxXWbXCnauzS68w==;yS1c/x7M41TLK2wstHy3fw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integr
 webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -54,20 +54,6 @@ related:
       name: Stockhouse
       domain: stockhouse.com
     quality: 22
-  - title: "SYSTRAN Translation Widget Provides SMBs Simple Solution to Globalizing Websites"
-    excerpt: "PRNewswire/ -- SYSTRAN, the leader in AI-based translation technology, announces its newest advancement in helping small-and-midsize businesses (SMBs) become global business leaders. SYSTRAN Translation Widget allows SMBs to quickly and easily translate their website to reach global audiences."
-    publishedDateTime: 2020-11-17T15:03:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/1dc5ba6f98b381b6232d81666547b7f7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "OHVmUo1Bhwr7ocQlBPaS+qeTxYYwgVSHl5koDDK42JeAcbgFLzWpGI0xh2s/2oGcENPLnfOPms4Jp4XXIHtX1uq+wT07R9Nf6fxe5hX2H3HfiVZcFpbzPOqPdD196Qza4pO2NHUf/qEUA9u1inI5M5v9HEESfhet2aMlfHz5/yAq1UQXGrgnKDfsyvdjbqJ960si6QzJ9VulYNVFOziOBWiEEgBK8LGZWyG99sneJWddHGTCw3OX09k07q4h1TiIA//pjghnAE2Ns102QCI1o7miWck5pkoImxYz7gTsCme86hmVM3yspBO//1+ffusIBd3bRfOM65WsFxf+JgfhN5aoPA1SVwSRg+qZaKfKBo0=;p/k6zQLx/VatLfAKi3DYCQ=="
 ---

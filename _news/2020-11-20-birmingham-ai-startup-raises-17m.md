@@ -34,6 +34,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "ClosedLoop.ai Raises $11M in Series A Funding"
+    excerpt: "The system supports data science teams with healthcare specific tools for data prep, automated feature engineering, AutoML / model training, and deployment / MLOps. Customers have the ability to ..."
+    publishedDateTime: 2020-11-19T17:44:00Z
+    webUrl: "https://www.finsmes.com/2020/11/closedloop-ai-raises-11m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/11/closedloop.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "RsCi0vC1Bzf32+QWPg3mbRiettFp0htYDEnYczErmSmnnGjEdNIXk6C5DZWcFRrVREt49/XXToMI90Ai6wQ0J7cRFab5vGTOCXOph7NW1Q00/jTrR5XAcyXgYMuStbmxsMuAhCQsyfFhHkRK9qV24QzsQy2jlB1ykNHveJHJgc1Pne5/mQMCSQsbwgbaI9A6h864cjugPnPrDuzEyp5/VXthqEhllu0A0IVfo0SFmN50OvODJp4ikkkvfhgmWRk12+iA/tk3haVvHruZ9TaKTZXlWqH+Uj2mqOMs2TLXKXEQPv8brwkNbZ+ABLtZXdWHT9989qRKKgvlBA+KhxHNKL1MMNN3Sfid6Ae7V1ZKcldcWjbjvOOxCqRLFjO+WtWWr7p+4v8soWYVBKyjIWSJ8mBoQs5Sk3GHv4LM7GHJtYBRPKcA3Pta0Iuq7jN3sm1HByzCwR0fKCeRwvkCLx0a3/KUN3afe5HFdmCve9qgHzOMs8/oyLvouglobtqvXL71dPGLfSOyyiy7aekhygTMdQ==;NferA43DdOQw/0Jx+cwWJg=="
 ---

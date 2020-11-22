@@ -25,31 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "ClosedLoop.ai raises $11 million for off-the-shelf AI solutions tailored for health care scenarios"
-    excerpt: "ClosedLoop.ai, a startup developing a data science platform for health care, has raised $11 million in venture capital."
-    publishedDateTime: 2020-11-19T21:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/"
-    ampWebUrl: "https://venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/closedloop-ai-raises-11-million-for-off-the-shelf-ai-solutions-tailored-for-health-care-scenarios/amp/"
+  - title: "Cast AI Raises $7.7M in Seed Funding"
+    excerpt: "Cast AI, a Miami, Florida-based multi-cloud company that allows developers to deploy, manage, and cost-optimize applications in multiple clouds simultaneously, closed its $7.7M seed funding round"
+    publishedDateTime: 2020-11-17T22:21:00Z
+    webUrl: "https://www.finsmes.com/2020/11/cast-ai-raises-7-7m-in-seed-funding.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all"
+      - url: "https://www.finsmes.com/wp-content/uploads/2020/11/CAST-AI-Launch.jpg"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
-  - title: "AI health predictions startup ClosedLoop raises $11M to expand team"
-    excerpt: "ClosedLoop is also one of seven finalist in the Centers for Medicare and Medicaid Services' Artificial Intelligence Health Outcomes Challenge."
-    publishedDateTime: 2020-11-19T12:51:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2020/11/19/health-predictions-startup-raises-11m.html"
+  - title: "Birmingham AI startup raises $1.7M"
+    excerpt: "Another Birmingham startup has secured a capital raise. AI Metrics, an early-stage company that focuses on artificial intelligence for radiology imaging analysis and reporting, has raised $1.7 million in a seed round."
+    publishedDateTime: 2020-11-19T19:36:00Z
+    webUrl: "https://www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.html"
+    ampWebUrl: "https://www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.amp.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
-    quality: 17
+    quality: 37
 
 secured: "eo3xeE3TGoNRA2GMBNF4Jn8TM07pPunXwfHSeKmY+t5es7oS7c+//pLLTgfSPmCOAgD1sOGb69a7BxToCOPmXWyL0NhnDwIH7/YOv7o01ENmWRonovJ777PiIZanr+EcRQj9E4zsbztJlAXyL+iqlSC3THqEc3qgbRhomvo/s/+LbY+CT0ypjHAzUwe/8ukeUi30rqzrtaW85HwWbmLQKMieMObohtP55fP2a5eRfx7tfjDQtbugC6UPzs23JcSaEwhPV/59bpMiw5jr/z78cVwO7vauKnVyNRiks5+GEAasaMIAuMFjZtGr96DSuaD7ueTa5atypB9iD5HSGJRh//mMHpK/wgb5c5+CFyta2XU=;J1P60j5uYGDt5oGVObILgw=="
 ---

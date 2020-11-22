@@ -3,8 +3,8 @@ category: news
 title: "3 rising AI/ML startups from South Korea"
 excerpt: "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,"
 publishedDateTime: 2020-11-19T09:02:00Z
-originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474"
-webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-661474"
+originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea"
+webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea"
 type: article
 quality: 66
 heat: 76
@@ -34,6 +34,6 @@ related:
       domain: techinasia.com
     quality: 66
 
-secured: "GsxgkkZmrzOkgZ9BUKmm1p6fHO4hMXM3g+65S3nyzuB0IMljBcQTsJivIk+Z/KIS+QS1EIMCbYrB2ME8yWnF34CqS/+imWgOPCtZxbrDK1k6I/D+lcvGOqxI/1AlXtbBnpgWiZpH+ZtTssMFuqYU7geKzgsH/cDggMy30i2QKaFmyvKR9qSBqGh033lXjMDSs0dNydFWzKadO1AO0eJ3VENwVV980Uco8uq0E21ggLe7XO9YycvbZ1YxVHzA8o9G90aiIMok4YF7QYGhzCyleEiKRvKBzS9aHIftHKBZBoctl9mR/siNvdTp5F+7FFnir6g9E80JgQeSoKHkzzSMb0MMrUptmiPcj0OoT//EZLpYjzUF2J9dH67aU+8aQr5xqAXdmC/353/F4jkkyxKm6+pVzDcXfY2kRmxUioAboYI4Cn8p4jx8pmOOEbqgfMm3An5RNRp5OqCokAvZ9xPaTYfoyELMFMBaRw5uA10SvsxZ3ZFIXDU6dypn3j728nBoMuxy9DQwtTdmUZQWfnpaxg==;HRTUmxKQ5JHR+jM/zxzY2w=="
+secured: "r0JypFAf8yHc6i4MMq181BmqrOnukcbT4o9eYCaOGO6N2akxnw7UDNxxJmOpB104q6Dt948i/4rhvTRKTvOhjJDlvYpHKXoSVtOFC+eS29bPwtyLrVdEfO4ml1i3fCtl8RlPGF8JH1qVxzidj8Hi0uPDD2CfsAl/cyRXZPTrBLmhe0wt/lGkfjaF4yFTEsIiJyKHPuHt34xI/bcIMnk1wGycuCLKUv7JCzNPW3+8ERQaN6T26m2PUcwUyzCBlbOC/LvV8Zbask4+ue1ey9VfGSa+LKfEdweAhVYf4Ih0ECrDabzMrPW5iPHeWsrpo6Irq73s8QOxtjsM2CWNcIS4xVGfeYX6b5EDrOofTq5Mli1k7mGEkqiiCHO+Fdh/uMprpP54JMezoxEKFp2LXoxLC4QX4aJtApfvn3fo2L7oQN1xrLoVjktJTu47l7IMNyxKNYp8+Do4twbtei1yiGeYpYhMJc6a5IGgtN8+9G1SPgTaUgyQxk1g5L+vznbaQGYKtvWlFydvxPieHUIGmlYR4g==;4uoS/dkI34hgvWP++gV58Q=="
 ---
 

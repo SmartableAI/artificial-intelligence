@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/nation/niti-aayog-proposes-setti
 webUrl: "https://www.tribuneindia.com/news/nation/niti-aayog-proposes-setting-up-oversight-body-for-ai-171701"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 975
     height: 568
     isCached: true
-
-related:
-  - title: "Niti Aayog proposes setting up oversight body for Artificial Intelligence"
-    excerpt: "The oversight mechanism may serve in an advisory capacity and it must interface with existing regulators across sectors."
-    publishedDateTime: 2020-11-17T13:34:00Z
-    webUrl: "https://www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/17/niti-aayog-proposes-setting-up-oversight-body-for-artificial-intelligence-2224582.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 58
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/11/17/w600X390/Amitabh_Kant_PTI.jpg"
-        width: 600
-        height: 390
-        isCached: true
 
 secured: "UocLfUvwT3Ob18ScvB3kN9fmh9Uc5nll7hTW82M0Sps5Jtm6lVHC87NNyXRSYKaSCH8FLlvVUS5YXmEdAnCEAAUf5KKxBNATMq/4AIYaFYMoJ1x1CZIHZYQTjXRNjmGQnjYsV7LMPzWPA3g7UIgnWxj+azCG4yiAct6/e995N3F/ev/opljQRxBw7P010woFEtT4su6zKSsb0IbcyRYmb7HUnIFY+J/KuAsJcgMlpqqhd6HnkZOdYonmCRhpcIF8QomigZQPFM311fN2rleVXXZOyuq9EIylwdCVdYggGDN2gcS0bECJpk25GGaaYICNSVCESVHRr5/OYrTeXUFKj7n8v3fIdmNRsm1Z7DKU8rrt9F2eVAko1Tkr1sZnWqCdZdx3otRStSwMxHEGAvQCs/HOjEbHxEWZ+EnAd9v6v+TJls/Eo11eVIHBTWzm1z0vB3KP+GFeiZg6iZgiUbvXMNCTRx2AL7A5b+k1a6CnKeBrDW4UifhlKesRd/0uXg09z3KensGNa6Vl6F1p0kda7A==;fMYt9HTKDVlZ7KB7hG7rWw=="
 ---

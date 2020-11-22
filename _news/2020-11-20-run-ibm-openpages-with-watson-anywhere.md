@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-wa
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-watson-anywhere/"
 type: article
 quality: 117
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -57,6 +57,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb40a73ca0aa497e8949df6%2F0x0.jpg"
         width: 1200
         height: 840
+        isCached: true
+  - title: "IBM Announces Its Second Cloud-Related Acquisition This Week"
+    excerpt: "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises."
+    publishedDateTime: 2020-11-20T19:23:00Z
+    webUrl: "https://www.fool.com/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+    ampWebUrl: "https://www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+    cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/18/ibm-announces-its-second-cloud-related-acquisition/"
+    type: article
+    provider:
+      name: The Motley Fool
+      domain: fool.com
+    quality: 74
+    images:
+      - url: "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601417%2Fgettyimages-1167278913.jpg&w=1200&op=resize"
+        width: 1200
+        height: 900
         isCached: true
 
 secured: "3ChzAzezv7DoSsDXh57EUwjBAv19TpkmHd5b3Q3sLxqtIy1XOBMn816D3/3HmJ3k6FuPvYQLra2qM6PFVmR2Tsits8BVt7tXR5guAB6h1nYa8oBWu+aV0jzqBHP10CFaLKRYl2a6dseeMhqubkSG7pSWPi8WTuollwQITLVQ4Z3VZ4tRe/95I838Pe87tKsUHst9S6owCUX2OQcUpP2NAFP4J/W1f2N2QVe2A5kQgMcGNTBAzYwKaXlY7eA1jHj5PZ6V/PqvwNmbD+Tdb3pCsC0PdQXVuw9WLrqfotGe2xsgAFTYPgpjtMXtlv4aD0vi3o8bMDI7QZyKsytQBaCblWFoDeUxDHZpbCZtQgo5eLE=;FiqD8BB1+KGUcuMTGjf8XA=="

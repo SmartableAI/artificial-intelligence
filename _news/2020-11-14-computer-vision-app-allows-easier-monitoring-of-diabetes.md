@@ -1,24 +1,26 @@
 ---
 category: news
 title: "Computer vision app allows easier monitoring of diabetes"
-excerpt: "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
-publishedDateTime: 2020-11-13T18:20:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
+excerpt: "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
+publishedDateTime: 2020-11-13T16:49:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Computer Vision
   - AI
 
-secured: "mh77SYZvfrrxRAsbjYGX7RzWR9Ioy3BzuVp8Iyx2xAvG+qZ1/PUFSawpLBi4B7xJw+QjMb/TKewyj9V3g29YXM8br3t217sjs+pcwLRRsSEcTrSX1OEljclVUjSgYYwRtT6BaPlBQ9fm/Y76opblTHzdeyCDHhxOkIyeBFKoGvvHQsN2o3w6Dvqmt1KL48xy7IA9vOT8etX2qpKg7yFczLo1XHnnqHImpr4+jP9PPFFdt+fFgrDSzMRAShWkfbaeeonJhyzIx4Opnw5HnJN8YbCllvUK6yZJGRatADDLqtpyyH+vZcYpOjiY7pjK1LJTSd8WqyiPsrQwQuTc7L5mlZDu2M1nK3cV4p9oeFCwIHM=;uPhCHjf3HXZvwQcHkOFvwg=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "bKbgNdAoSATtMDl63nm+1qWeoHMs1qdNa0ZrG8ViZl43Swv/n7OfMJ16muKWN2MA6QSRKe7WwOrtOeLnLKGuEeerI/cxSezTJ/9Rq1UMu7NKeJjEn/vZUZLWiDNTkipssoim1OVwrkYEoy63vyRZT6YhOyFg2LTLq9pjqkNp/A90CgTmw0L9gXu4mnhlF0uOPEDWRF94sSgqF0wGNwFyLet/dWQBTGym2LykqzxqfEsENfrhQ7i1J4006JhV8dA+J5Y8JQsa/EXIkq7aDkg+wikA8KWo0JFxFMTHcIT2ZX+mM/fQuX2LQ5N2mcgpeJcpuUH0ebBAeFsvi0djFZGNORTxYjflPkUNhfyTDJg/N+o=;Ma5G2eohDNep2W9tWjljoQ=="
 ---
 

@@ -1,32 +1,22 @@
 ---
 category: news
 title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-excerpt: "CrowdStrike, an AWS Advanced Technology Partner ... The CrowdStrike Falcon® platform’s single lightweight-agent architecture leverages cloud-scale artificial intelligence (AI) and offers real-time protection and visibility across the enterprise ..."
-publishedDateTime: 2020-11-19T06:32:00Z
-originalUrl: "https://www.marketwatch.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall-2020-11-18"
-webUrl: "https://www.marketwatch.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall-2020-11-18"
+excerpt: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
+publishedDateTime: 2020-11-18T17:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
+webUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
 type: article
-quality: 45
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
 
 related:
   - title: "AWS Announces General Availability of AWS Network Firewall"
@@ -44,6 +34,6 @@ related:
         height: 627
         isCached: true
 
-secured: "Pb5WzHJY6xsCXoR9pOdmxYjRQS/Zj9YEonfE2grjIRdDbQ5VrtAmI8+qRbqWQYV2jvxI8fuyxJsBdLiy2PebKB049/79e8vH0iypFsocm+ttOrbEBYOe8tggmRz+Pmh+Fe4/wBbq2tm22LQ3O/pJCdeqdO04ALkRQoKd5tMpsIRVk59XNbzK0zYxFmeTW80B01YloOBRrTaAtjQeW1o0FQYWuIljJqRQS4t/X98XA59EVzD+R22GO37IqjcQlxC2rCQRxqgJNzunQfpODXatmPgDSfavWUZkOQqfswNTHN//VsduQX7J04isDZUr0NZx5FniAcdeMxqrHxdHTKipzhCfMfNoDaJqMCxbN+RxEwM=;aaHOYEcGqZGiuEmZQ88BjQ=="
+secured: "fV+wgc2Fgl9GcWvEXuAaXiAQBIUeldNm8AiBAFyUw/7IrwwZdJ/cxffRmgyKnFdlH7j8SJ8Z1BY5GMcVfY09C9CWCekzmfYjvT6BhGCdco3lAONQ8OIz7bncsmLdBfHs1Htt+Uwd0YyrEfkLiZGxJfltztocANVnXyp9uum/bdESJ3AgxiE49Hf4kvFz3BV9CxfWybF84smr0LwGRZX3nk6iPFSWleL/NIyO/M9oLZ9rLAwKr3PqhfuGFlVwt1gZ6tVakdKi6UAAyi6kFAIpXLNUouxg42ijFvuAyE30poPEnMiOLboSEf03TPicj9f2ncXj6DA2i9a/ZHO+ycohAoCCSh89Bkj2tMwz3nIpJKI=;oKXBJlW+XvXMvr3A9tIdHQ=="
 ---
 

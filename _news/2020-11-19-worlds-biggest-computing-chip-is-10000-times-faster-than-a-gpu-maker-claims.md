@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
 type: article
 quality: 114
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cerebras’ wafer-size chip is 10,000 times faster than a GPU"
-    excerpt: "“It also shows that wafer scale technology has applications beyond AI.” Above: The Cerebras WSE has 1.2 trillion transistors compared to Nvidia’s largest GPU, the A100 at 54.2 billion transistor"
-    publishedDateTime: 2020-11-17T14:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/cerebras-wafer-size-chip-is-10000-times-faster-than-a-gpu/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/cerebras-8.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "As AI pops up in more and more scientific computing, a new time test measures how fast a neural net can be trained"
     excerpt: "The tests reflect an increasing use of deep learning in scientific computing on the world’s biggest computers."
     publishedDateTime: 2020-11-18T11:08:00Z

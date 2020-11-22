@@ -25,60 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "EdgeQ raises $51 million to fuse AI compute and 5G within a single chip"
-    excerpt: "G. Edge. Open. Programmable. AI. No, it’s not bingo at your local silicon chip enthusiast meetup, and no, I am not trying to game Google’s search algorithms (well, maybe just a bit). Rather, it’s a combination of technologies that are predicted to become critical for the future of the internet of"
-    publishedDateTime: 2020-11-17T13:04:00Z
-    webUrl: "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/"
-    ampWebUrl: "https://techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/edgeq-raises-51-million-to-fuse-ai-compute-and-5g-within-a-single-chip/amp/"
+  - title: "Can artificial intelligence give elephants a winning edge?"
+    excerpt: "With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures."
+    publishedDateTime: 2020-11-20T16:06:00Z
+    webUrl: "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/"
+    ampWebUrl: "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 104
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Vinay-Ravuri_headshot.jpg?w=680"
-        width: 680
-        height: 453
-        isCached: true
-  - title: "EdgeQ emerges from stealth to bring AI to the edge with 5G"
-    excerpt: "Ravuri makes the case that purpose-built fixed devices scale poorly and inefficiently to support 5G and AI services and apps. “The current 5G ecosystem is extremely unhealthy, with limited chip ..."
-    publishedDateTime: 2020-11-17T13:36:00Z
-    webUrl: "https://venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/"
-    ampWebUrl: "https://venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/edgeq-emerges-from-stealth-to-bring-ai-to-the-edge-with-5g/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/12/GettyImages-1134020821-e1587048223491.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Chip Startup Merges AI, 5G at the Edge"
-    excerpt: "The low-latency connectivity of 5G wireless is being combined with AI-based computing in an edge platform unveiled by a system-on-chip startup emerging"
-    publishedDateTime: 2020-11-17T18:20:00Z
-    webUrl: "https://www.datanami.com/2020/11/17/chip-startup-merges-ai-5g-at-the-edge/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
-  - title: "EdgeQ Raises $51M in Funding to Unify 5G and AI in an Open and Programmable Platform to Ignite Edge Networks"
-    excerpt: "EdgeQ Inc, a 5G systems-on-a-chip company, today announced its launch from stealth with $51 million in total funding, including $38.5 million in a Series A round. Backed by renowned investors Threshold Ventures (formerly DFJ),"
-    publishedDateTime: 2020-11-17T17:00:00Z
-    webUrl: "https://businesswire.com/news/home/20201117005476/en/EdgeQ-Raises-51M-in-Funding-to-Unify-5G-and-AI-in-an-Open-and-Programmable-Platform-to-Ignite-Edge-Networks"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 20
-    images:
-      - url: "https://mms.businesswire.com/media/20201117005476/en/839347/23/EdgeQ_Logo_BW.jpg"
-        width: 1200
-        height: 627
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/phone_test_cnn_xtY8Ns0DJl.jpg"
+        width: 740
+        height: 416
         isCached: true
 
 secured: "kfXbsREqrBE3lqk6JCa9c/Ng4ZtiGHRjk5r3lmSDbXim+d7sFRLwSsH3m7ujkZOVs6hX7Oo3AyFNi5bIVOvRFXYWmD/Xu2aoHFfUxpJyZEN28yfe9vyhNsdY36TB3LIcWBEo1lE9ZtCrWAyIb+TpbFCknxO5P5KTF4/1Yqng1p4vhV0AbQtg+vdKByOl7hREHc9230aWcaa1mu6IY4l4WiXkiuOnVAwif8MBSSC/OOCWGCIKxLpWSVjeSBZrZSdbAvoc8NfITDcHBRX7+0Aqjyc+ExUNV2s8XM0bUoY1KlMlcEkdiFNC8UXJIDyoaLgQmvruccc5RyQ33WnnQAREhcynM7KnszN6bZjsAKGPAEhyn6X4jCP8QwwGMbDyE44TyO1z0EcjJ6KBi3QJX6+fJ+JGb7tM8Ma3dE55yi9RWo+P3rPvKVUbdRo7D20eeCI3iWzoi5/N/JCy8yHM4yyjQBMu3NdacNT6e4T03Yjl6vNCp0ES8OIekayLaSIxEPU4ADoB/oscKzp97zaBHMPa4w==;3ZRLway3pb0yC6/bnMR8xg=="

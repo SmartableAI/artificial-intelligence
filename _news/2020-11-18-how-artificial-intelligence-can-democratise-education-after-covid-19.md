@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/prime/technology-and-startups/how-artifi
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 86
+published: true
 
 provider:
   name: India Times
@@ -28,36 +28,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI discovered an old arthritis drug that can help elderly people survive COVID-19"
-    excerpt: "A new study found a medication identified as a potential COVID-19 treatment reduced deaths by 71% in elderly patients with moderate or severe illness."
-    publishedDateTime: 2020-11-17T13:09:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/"
+  - title: "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash"
+    excerpt: "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,"
+    publishedDateTime: 2020-11-18T00:51:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash-1029811389"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 82
-    images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T120921.079-796x417.png"
-        width: 796
-        height: 417
-        isCached: true
-  - title: "Health systems are using AI to predict severe Covid-19 cases. But limited data could produce unreliable results"
-    excerpt: "Some institutions have not published any results showing whether their models to predict a Covid-19 patient's trajectory actually work."
-    publishedDateTime: 2020-11-18T09:41:00Z
-    webUrl: "https://www.statnews.com/2020/11/18/covid-19-algorithms-reliability-epic-cerner/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 17
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2020/11/GettyImages-1229622615-1024x576.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 42
 
 secured: "ReiVRd1YdQhfA3c5wZ+Pfsxz+BPV31jqqOC8fVSOw/9RA9ycXfoKIXub1aCE51SyzVTRE755rtbOBgaIukcTTzeFIFbcJV1X8xevyfF2CtGpIHWNXpCMB94xRs+RoCbbnAboTePtv50IvRnHSQ5j/caivBDcFnVa3gZdpY1/ehIy5s2f8zCMJ8uTciijzbGTKwup+5mMWqb61Ln7Az8SPS3DClh6VBz2tYpJd/XtNCn33t8li7YTYRr/JJD32OWi0wh87MIHcWb9lt1WqAgU+oAh+zSsWWwL0OVBwF5y97uyvC07UPUqRKG5eO564ckGtRyiRQUTr0AG6X8rLx5JFBTWKhvnKfoo5f4MezSWuJicLa2pN6UmbSMOqgytwNu3axjWek4pWMgmenxJf3UBGUM7r2ASv7epa6yJFoVhOzf4wrCq5RF5rHUzEHR48Cs6g+Q3gy6VU5pYJH3DZVL8qxu65JQQMjNGQ5ShSBHhpNQcnswohznSxTuZTLqzqP8DqWdGfGnfQzp3UwwGagffZw==;qcX2b4kX9zsIF39P1VtNuQ=="
 ---

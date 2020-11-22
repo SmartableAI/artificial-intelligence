@@ -114,20 +114,6 @@ related:
         width: 1416
         height: 829
         isCached: true
-  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
-    publishedDateTime: 2020-11-17T13:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lung-disease-industrial-products-and-services-transportation-infrastructure-f598a33d5865b03d04e0e68cfb4897d6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "AF5QkT5XyfUUhrrX93YACp9ABq9j3r845NeZ4TDKEkTT5bI38jerr8Bbmh6Hz+29mvl8NHYQKRPH9W2SFWHL5YafseqWfen5GKM9rJWU5R8eAWOQUAqU38Jk5rJRQ4CRzBI6CiRlLlkZB79rCZdcIkQs5OpZSzSk5eWw5BNIVS4w3MGtGXj2d/QZzLSOU9bbp8/puQIDP6FP3lmJd0RZAhuHWxvJXW2845AlUcFMHVkUuk+Wx3Q6LXlNDp58YBwge2TNjMomROnDC3/yESf3j6dvkJ65TYB2V3oqFJWt7uS9as37aW+NL+AG2CfxHjsnPBJohpvvH4J9ns5KwNRFOeSxP/pck+2D27m8EbTlr2TcJIqBMpkC8EimQSqDafUhz6VskC+HoFGJqFzR5Eu3J0S6xwhwPYM5Jo0+ml+Nwcw2vbpVmx1Rj7+/5IUo4ub0J+y38+TO78g1hrEvGGO5bV04FQmHduxggcbKUvhcKigNvtmkyahwRzQz+s2jS7CMbfxgjq5Oem6IQjl6wkM4wg==;n2fD+vUMD/Z/SVZ2xwhO5Q=="
 ---

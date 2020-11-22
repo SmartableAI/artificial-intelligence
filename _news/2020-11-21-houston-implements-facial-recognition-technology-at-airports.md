@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recogn
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -113,20 +113,6 @@ related:
       - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
         width: 1416
         height: 829
-        isCached: true
-  - title: "Corsight AI Launches Real-Time Facial Recognition Technology that Accurately Identifies Individuals at an Unmatched Speed Under Any Condition"
-    excerpt: "Corsight AI, a leading facial recognition technology provider, announced today the launch of its facial recognition technology. The technology is able to compliantly identify individuals on watchlists even under the most challenging conditions,"
-    publishedDateTime: 2020-11-17T13:10:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-lung-disease-industrial-products-and-services-transportation-infrastructure-f598a33d5865b03d04e0e68cfb4897d6"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 19
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "AH8WlYKk274+P2KWpV056Z/tMcQMckwVtsq0ijajZAOqxkG3CSJhM6k2bqPEPnFsE/5qoAcx/JJkOWHg7i1A5lltRCB2zc8J/a+KgjonwjY0Z0hDENOslnXtOKuAialc2Cqi1bYJXodD1obXbBo/S3ZYlcC2hEPbJa63DfFJ8cf2UNnrDMdy8S2Y2b+k3Yw3g5DYQ1NUe1IaAouEZKgwnDotxopWWM3wtXYfanP9FAzvgWSn7S1NkUp5VgwmnLsJTAlGN1y/FFeE/GxaV8AIHpGUPzn2QzbA2U5SZdISBmEjlFYEcddRSGxXsWwdk7niBF7kpdG6SPTz4Arecfruet/hdfVmePw7Q0MtClPGBA7EWF5wZvn0WW9JV1cPuT47r1bkUEF8fVRCSqVsNPwd2zYfAKJEN1V0NjzA08t5CKma96HfQoON0eHO1JUg/hYOV+AsLcl1tbeI1pItcAx75eyezAn0IPfI5i2xPAXb8J36YKlYyxBujJvMNOKOssir3x0M2+2sv3Um4TextY8ubg==;NFDwg3osVeCnxU8+F9dN1Q=="

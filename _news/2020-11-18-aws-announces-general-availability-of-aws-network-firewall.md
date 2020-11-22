@@ -26,19 +26,14 @@ images:
 
 related:
   - title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-    excerpt: "CrowdStrike, an AWS Advanced Technology Partner ... The CrowdStrike Falcon® platform’s single lightweight-agent architecture leverages cloud-scale artificial intelligence (AI) and offers real-time protection and visibility across the enterprise ..."
-    publishedDateTime: 2020-11-19T06:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance-newly-introduced-aws-network-firewall-2020-11-18"
+    excerpt: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
+    publishedDateTime: 2020-11-18T17:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "REDuJHeGvQBwOW35n8GKd7pLwvg1//d36tmvsAxv/LE8/hntPw7UVGC0LhaIRc1BZ2LoYcYvMImvdy/Cjgi5gG6V97jlWwUdrJN5GjlqWgkSleEupAKr9VFkrVNTs6Bbf3TrkgmaUBqj93Ukf0UR1AMrEzmHoARK0nB/q4REw7x+kJCFx/0HUuxsz9uzk56VBBS6mlel0xID7EOefB6bsc+cZd/cSqvr0gu5TnZDrgUMRc/OeKi/NJy9MKL7ZL7l1hfeghNP25LZADoH6MjHZxRMEMQKZXirUGbyEcwODOt1/xEJkewm56PznoYkhmLNJDwTpraDKnTPsdoJMuyb0CVh34Ntca3g5eyoBTptwJI=;XrM8N34lF+YRNNBo4vTFGQ=="
 ---
