@@ -24,6 +24,22 @@ images:
     height: 400
     isCached: true
 
+related:
+  - title: "AWS targets larger banks to drive Cloud growth in India"
+    excerpt: "After gaining traction among some of the smaller banks, Amazon Web Services, the Cloud computing business of e-commerce giant Amazon, is planning \"to go deeper across some of the larger banks as well in India,"
+    publishedDateTime: 2020-11-23T04:20:00Z
+    webUrl: "https://www.siliconindia.com/news/general/aws-targets-larger-banks-to-drive-cloud-growth-in-india-nid-214677-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 39
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/9bKJm2ah.jpg"
+        width: 570
+        height: 367
+        isCached: true
+
 secured: "O2dhKXvYRaPHRjoelGf/v1j+g74G/At33hVOwlCkcJ27RrYSiJxbQGsdKUrm+f8tVlWJVyo7C8BLry6L1bTVowteeAc4E/UUU0e6910gj7y1a7XHY/1V3K/+KEBfQpaFXoaFwuegEmU8BUuC0jZljee5qTxyhHCjdLYbMcgt9PE4MTFbCjXenwHDmc6vxEOHWg3cF2MkyVTUZkcKGCA+sRuMMctSkcboNk0+QYiQ2awgYma3IchEHM4M5PkY5SJSocYJLLyD3vyxIJRSk3qIcDmumVMetm2yGrH0yekQNSgYhQg4ZGkuewpxgIdpO4fkA4191WYiKn2uXiA4lUpGNgYkyfm0RB8nL/e2I99Q1qU=;y64CiglQK8EjmZNuPgNMmg=="
 ---
 

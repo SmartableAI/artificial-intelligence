@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade.md",
+      "title": "How role-playing a dragon can teach an AI to manipulate and persuade",
+      "excerpt": "An AI that completes quests in a text-based adventure game by talking to the characters has learned not only how to do things, but how to get others to do things for it. The system is a step towards machines that can use language as a way to achieve their goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
+      "publishedDateTime": "2020-11-20T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows.md",
       "title": "Onit acquires legal startup McCarthyFinch to inject AI into legal workflows",
       "excerpt": "Onit, a workflow software company based in Houston with a legal component, announced this week that it has acquired 2018 TechCrunch Disrupt Battlefield alum McCarthyFinch.  Onit intends to use the startup’s AI skills to beef up its legal workflow software offerings.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1181,50 +1225,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-deep-learning-helps-robots-grasp-and-move-objects-with-ease.md",
-      "title": "Deep learning helps robots grasp and move objects with ease",
-      "excerpt": "Researchers have created new artificial intelligence software that gives robots the speed and skill to grasp and smoothly move objects, making it feasible for them to soon assist humans in warehouse environments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118141827.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118141827.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T09:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

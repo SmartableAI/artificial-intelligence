@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Cat Noises Can Now Be Translated Through A New App"
-    excerpt: "If you have longed to know what those random meows and long glares from your cat mean, a new app plans to solve this mystery. MeowTalk is an innovative app solution that translates the noises of cats."
-    publishedDateTime: 2020-11-18T11:41:00Z
-    webUrl: "https://www.unilad.co.uk/technology/cat-noises-can-now-be-translated-through-a-new-app/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 39
-    images:
-      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/cat_in_pain.jpg&quality=70&width=808"
-        width: 808
-        height: 424
-        isCached: true
 
 secured: "LfNycyjpcBwvttX/CFR+UkW6CWGlAy4QrCZw5dirpKdR1a7cDqqWQGg/cR3CWqyEIqLvJf1AsN8J5SLqt6vSxTamcnVNDTRVOQT/Y6uZsbbetJ9FKDAEDFS0/CuWTvsrsXuI+F3cqBQ0hSQgyDEWAgC9BOt3qV0d3F4madqM3b5Klp3QxsuPJzupQ8gLTm/6KIFp2IbLf8k1kG+xB8eTj+jLGDuY4oLCWq8Q2mPRb8fJhEbTKHeE/jVIusFKAAQwX5RTlkdxeTPZkxmo4xhKoQfbAIoZyn7FV0SKcWSWscdZEXEAVv5ot4ZpAfVCRVTO911aJQtfPTMEOSbITermv9fhdxUf2avdgyEb+jN6Awf4yxtIUFySaDWJvTMgMMDmhh/xv4B5JNLrPgZpSCkv37BYYXuZjAX1OytmrIMEYCzepZLyu5LBB9hpLZ75Ph+3BkmtplfppAYNFeWf6lIedy2VA78z4zAzgjTe13leeF2BCLVryMAtayGM6LtHqoLtnhjEfxfFtdSycG9g0agEOA==;kFkiv/sRong4Kmm/bW77Iw=="
 ---

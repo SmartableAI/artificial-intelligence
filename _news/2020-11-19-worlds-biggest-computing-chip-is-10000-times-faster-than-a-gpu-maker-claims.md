@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims"
 type: article
 quality: 114
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "As AI pops up in more and more scientific computing, a new time test measures how fast a neural net can be trained"
-    excerpt: "The tests reflect an increasing use of deep learning in scientific computing on the world’s biggest computers."
-    publishedDateTime: 2020-11-18T11:08:00Z
-    webUrl: "https://www.zdnet.com/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/18/725431ad-48d1-48f6-9692-bfaa768788f1/fujitsu-2020-fugaku-supercomputer.png"
-        width: 2404
-        height: 1320
-        isCached: true
   - title: "Cerebras Systems Building AI Systems 10000 Times Faster"
     excerpt: "Cerebras Systems Building AI Systems 10000 Times Faster Cerebras Systems and the federal Department of Energy's National Energy Technology Laboratory today"
     publishedDateTime: 2020-11-19T20:14:00Z

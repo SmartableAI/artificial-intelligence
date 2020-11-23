@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models"
-    excerpt: "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,"
-    publishedDateTime: 2020-11-18T11:07:00Z
-    webUrl: "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/"
+  - title: "Denver start-up uses artificial intelligence for at-home workouts"
+    excerpt: "It's injecting artificial intelligence into personal fitness. Home equipment and Zoom classes are the new norm in the fitness world, but it isn't the same as having the camaraderie and coaching from a gym."
+    publishedDateTime: 2020-11-19T13:50:00Z
+    webUrl: "https://www.thedenverchannel.com/news/in-good-company/denver-start-up-uses-artificial-intelligence-for-at-home-workouts"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 88
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
+    quality: 39
     images:
-      - url: "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg"
-        width: 1600
-        height: 1068
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/f22f802/2147483647/strip/true/crop/1280x672+0+24/resize/1200x630!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F33%2F74%2F9e7b522242f28df9e9355a769681%2Fposter-fa7bd816d68347ad8a2a07017ec59b54.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1cvEY4qtn9TTJeBm3Y2nRhU4at4aPsgSsRrMNliWsJy+A/1r+UCDLaots9z0Mf35cz4aumtXqMnSzl1ioaoPTq5lX7AvOaUPO3xmxrj/yCIaRn0Xlj0vKgdbyhOypwxYmJYiR3SarMAyDgUlPaBo48cv9NMj/TxAW0BOqQ0oRP6EWdjGwLw8T+EJdgjnKJXNQyxRdFusZIbZwLDKIzxUyq6UQ6yrUT2vcZFa69vDmW5v1BKflrUnxqq3zwarAHjAT5uVwperQFusdmoOaDKOxJj7A9ywndo3QcLTs3M1cBOlcVj84O39yjcqDmws/nMwm0cVEbVnNChC+SeisOcOuccVkoDsxnBnd9/Tr9+64Q97HljvjkHhrD8wBceo0yEi7TBRzLEXatg6vx7C8G9yyfmU7Y2naFwZhB0Th62rIc4gva4yLTF9MwAAViOz7EMHqLgluk4vITnuBMSd/UPl2s31hn64D7j/EI0ceNI/yq5mHHAKFPsZ9GcrwCkVj7jRQtPleMmdq0VqwAOYKpZQdA==;t9niJ5E76j0zCrrJ8H1kPQ=="

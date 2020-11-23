@@ -2,6 +2,59 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-13-google-catches-up-to-aws-and-azure-with-new-database-migration-service.md",
+      "title": "Google catches up to AWS and Azure with new database migration service",
+      "excerpt": "Google has debuted its database migration service, making it easier for Google Cloud customers to transfer databases to Google's Cloud SQL.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
+      "originalUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
+      "publishedDateTime": "2020-11-12T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-daimler-will-shrink-with-shift-to-electric-autonomous-cars-ceo.md",
       "title": "Daimler will shrink with shift to electric, autonomous cars: CEO",
       "excerpt": "The shift away from fossil fuel requires the carmaker to double down on efficiency so it can free up resources to build electric and self-driving cars, Kallenius said. “We are hiring a lot of ...",
@@ -1174,58 +1227,6 @@
         "AI in Healthcare",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
-      "title": "Databricks launches SQL Analytics",
-      "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "originalUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/fa46ec20-a94a-473e-b79f-68241df6be90/sql-editor-with-query.png",
-          "width": 3838,
-          "height": 2004,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
-      "publishedDateTime": "2020-11-11T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

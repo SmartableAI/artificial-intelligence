@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2020-10-19-googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence.md",
+      "title": "Google’s Lending DocAI streamlines mortgage applications with artificial intelligence",
+      "excerpt": "Google Maps and DeepMind enhance AI capabilities to improve route calculations Google has announced the launch of Lending DocAI, a dedicated artificial intelligence (AI) service for the mortgage industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/r/2020/09/07/c9b63b58-80c7-48ea-88de-873031c6c261/thumbnail/1200x675/ccc5d8b42e1073502add1b385dd7afcb/google-maps-and-deepmind-enhance-ai-capa-5f558c2a836f805692009c76-1-sep-07-2020-7-39-17-poster.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-lending-docai-streamlines-mortgage-applications-with-artificial-intelligence/",
+      "publishedDateTime": "2020-10-19T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-this-ai-powered-sky-replacement-tool-is-smart-enough-to-change-reflections-too.md",
       "title": "This AI-Powered Sky Replacement Tool Is Smart Enough to Change Reflections Too",
       "excerpt": "AI-fueled image editing software is getting smarter every week, and Skylum's newest tool will let you replace the entire sky in an image, including in reflections.",
@@ -1083,49 +1135,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-incorporating-artificial-intelligence-in-indian-healthcare-sector.md",
-      "title": "Incorporating Artificial Intelligence In Indian Healthcare Sector",
-      "excerpt": "Today is the time when we can see significant disruption in the Indian healthcare industry. Much of this is credited to the level of involvement of artificial intelligence, big data, cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/",
-      "originalUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2019/10/healthcare-social.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/resources/incorporating-artificial-intelligence-in-indian-healthcare-sector/amp/",
-      "publishedDateTime": "2020-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

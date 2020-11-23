@@ -2,6 +2,58 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-26-with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful.md",
+      "title": "With Robotaxis Still a Distant Dream, Lidar Makes Itself Useful",
+      "excerpt": "The promise of self-driving cars and robotaxi fleets once seemed just around the corner, but reality is setting in. Makers of the underlying technology are pivoting to more realistic ways of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv4bzJModhs0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "publishedDateTime": "2020-10-26T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories.md",
       "title": "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories",
       "excerpt": "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses.",
@@ -1121,58 +1173,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-researchers-suggest-ai-can-learn-common-sense-from-animals.md",
-      "title": "Researchers suggest AI can learn common sense from animals",
-      "excerpt": "AI practitioners can draw lessons from scientists working with animals to train reinforcement learning agents, a recent paper found.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/",
-      "originalUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/andre-noboa-xrQZadbxPc0-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/amp/",
-      "publishedDateTime": "2020-10-25T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

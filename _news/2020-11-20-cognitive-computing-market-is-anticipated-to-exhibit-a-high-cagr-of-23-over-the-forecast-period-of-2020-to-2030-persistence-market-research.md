@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/cognitive-computing-mar
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/cognitive-computing-market-is-anticipated-to-exhibit-a-high-cagr-of-23-over-the-forecast-period-of-2020-to-2030-persistence-market-research-1029825064"
 type: article
 quality: 18
-heat: -1
+heat: 18
 published: false
 
 provider:
@@ -23,22 +23,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Artificial Intelligence Chip Market CAGR to Reach 35% During 2019 to 2027"
-    excerpt: "Research Dive :The global artificial intelligence chip market was valued at US$ 5,658.1 Mn in 2018 and is expected to reach US$ 83,252.7 Mn by 2027 with a CAGR growth rate of 35.0% in the forecast period from 2019 to 2027."
-    publishedDateTime: 2020-11-18T12:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-sports-corporate-news-fantasy-sports-8016c6c163f7684582ff98388fe4d3e3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 55
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "IcL8WJ4gAQTbAfVR44wxRrWoSKjarmQwz3BZJlYwkAmK536QU9JTvSaVzcfdzsn1ZlKso/68mrn4uBiFF7Dk9nWJaEEgfs8neR/0q1rWwd8+gE6/yizwRBRqNuBujfjJ0eG3M4Lq48o/nG55Hc88RmX00kkBlBkNLAB77UluRxVRUpKg2MVaEL3LkeyGSOj+kzPS62ATQtM84368G8fGN+989p7q4gV0OUlwBuKTHefIJZhutOQgneqpKAHJMoyj9ZPpr3gX69lCvUBy9xt1ng90MCyn6oB/Tp9BhhDm3OtCZTegxWFa5syUL7YQvN/8Hp0OFtLFy3igt0AZwwwqfGhyRAHzufQo6IB0ONmiJAY=;ev5TKe6OpM1Tyb0oziazfA=="
 ---

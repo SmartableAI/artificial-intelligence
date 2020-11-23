@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-07-stanford-researchers-developing-fast-portable-covid-19-testing-chip.md",
+      "title": "Stanford researchers developing fast, portable COVID-19 testing chip",
+      "excerpt": "With this 'lab on a chip,' anyone can test themselves for COVID-19 in the comfort of their home using a tiny chip instead of sending the nasal swabs fluid to laboratories.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "originalUrl": "https://abc7news.com/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/7713011_110620-kgo-lab-chip-img_Image_00-00-22,27.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "cdnAmpWebUrl": "https://abc7news-com.cdn.ampproject.org/c/s/abc7news.com/amp/coronavirus-testing-stanford-researchers-covid-19-test-results/7686757/",
+      "publishedDateTime": "2020-11-06T14:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC7 San Francisco",
+        "domain": "abc7news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-ai-is-changing-the-game-during-the-2020-election-cycle.md",
       "title": "AI Is Changing The Game During The 2020 Election Cycle",
       "excerpt": "In the US, voters are still waiting for the results of the 2020 presidential election. With social distancing and early voting, candidates are using the full power of social media to mobilize their voters.",
@@ -1125,50 +1168,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot.md",
-      "title": "Microsoft AI Summit: Reimagining digital governance with Cloud, AI, IoT",
-      "excerpt": "India has been at the forefront of digital acceleration, especially after covid-19 that has moved people to remote working, students to online education, and other such interventions that are no more an option,",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot-11604663602516.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2020/11/06/600x338/tech_1581859988035_1604663954905.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/microsoft-ai-summit-reimagining-digital-governance-with-cloud-ai-iot/amp-11604663602516.html",
-      "publishedDateTime": "2020-11-06T04:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

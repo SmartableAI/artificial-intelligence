@@ -165,6 +165,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
+    publishedDateTime: 2020-11-23T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2026-2020-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
     excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-11-20T10:58:00Z

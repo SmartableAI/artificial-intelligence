@@ -2,6 +2,58 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-10-14-facebook-donates-vital-funds-to-iconic-wwii-code-breaking-center.md",
+      "title": "Facebook donates vital funds to iconic WWII code-breaking center",
+      "excerpt": "On Tuesday, Facebook announced a donation of $1.3 million (1 million ... which caused its closure for several months this year. Although artificial intelligence was not officially formed as a discipline until after Turing’s untimely death, Turing was ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/",
+      "originalUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/turing-memorial-mpk6-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/news/facebook-bletchley-park-donation/?amp",
+      "publishedDateTime": "2020-10-13T13:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-artificial-intelligence-in-healthcare-market-set-to-take-giant-positive-leap.md",
       "title": "Artificial Intelligence in Healthcare Market Set to Take Giant Positive Leap",
       "excerpt": "The Artificial Intelligence in Healthcare Market research report includes Market Size, Upstream Situation, Market Segmentation, Artificial Intelligence in Healthcare Market Segmentation, Price & Cost And Industry Environment. In addition, the report ...",

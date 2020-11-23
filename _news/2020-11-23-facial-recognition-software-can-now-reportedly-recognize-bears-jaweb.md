@@ -9,8 +9,8 @@ ampWebUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reported
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Elmoudjaweb
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Facial recognition software can now reportedly recognize bears"
+    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
+    publishedDateTime: 2020-11-22T22:14:00Z
+    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
+    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Voluntary Recognition: Worker Wins"
     excerpt: "Despite the challenges of organizing during a deadly pandemic, working people across the country (and beyond) continue organizing, bargaining and mobilizing for a better life. This edition begins with several groups of organizers who won voluntary recognition of their new unions."
     publishedDateTime: 2020-11-20T17:07:00Z

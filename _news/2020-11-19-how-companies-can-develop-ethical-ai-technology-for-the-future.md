@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/"
 type: article
 quality: 104
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/70651a302d6d11e9aa979329348d4c3e/Imagenxvc-1605888848586.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "How Is Ethical AI Different From Fair AI"
-    excerpt: "Ethical AI & fair AI are used interchangeably, but there are differences. To understand the challenges of AI system, we must understand these differences"
-    publishedDateTime: 2020-11-18T11:31:00Z
-    webUrl: "https://analyticsindiamag.com/how-is-ethical-ai-different-from-fair-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Ethical_AIM.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Viewpoint: The technologies powering the future of artificial intelligence"
     excerpt: "Artificial intelligence (AI) has been an industry buzzword for years, writes Richard Walsh, head of memory at Samsung Semiconductor Europe, but he consider"

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccart
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1024
     height: 659
     isCached: true
-
-related:
-  - title: "Houston's Onit acquires New Zealand AI company"
-    excerpt: "Houston-based Onit, which develops business workflow software, has acquired a small New Zealand company known for its artificial intelligence platform."
-    publishedDateTime: 2020-11-18T12:09:00Z
-    webUrl: "https://www.houstonchronicle.com/techburger/article/Houston-s-Onit-acquires-New-Zealand-AI-company-15734711.php"
-    ampWebUrl: "https://www.houstonchronicle.com/techburger/amp/Houston-s-Onit-acquires-New-Zealand-AI-company-15734711.php"
-    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/techburger/amp/Houston-s-Onit-acquires-New-Zealand-AI-company-15734711.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: houstonchronicle.com
-    quality: 57
-    images:
-      - url: "https://s.hdnux.com/photos/01/03/45/34/17717046/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
 
 secured: "QXDGlQ9BDVrR5UbwEfZqQN0i6tls6XX7Re5IqZEABkoy7vlUlaNwf5WXxkO38A5l3yuaz59kjazJchMM/7svwzNOMZoW8nUeqNTfwRu4DiAJahYsfg4maUyEFJAAJZQVn+lwSu0/B5DMwf26/H3+BIMjQhBIkWlfAVb6RzLwNQT4EvzcDWYJdm5hNeZtelMToAFkww4LvQ0q57cL49/drW39UdEnluAk+XV1DSuNk56yjYmHANVmF3IdJ57FZz5VaOFm91kjFGHjBpdERFpq4JgS3p7zFpuXXzVpTCO7Hocrt8T3xpAJEfVVlJOlpxcKVnsJN0suiV5pN6M/2CcHChKDY/3Gt2eOkF7A350qL6I1w/MbSorBxMYCUlGv9zT0hz3pMZ6TWnV/IUAEYKBq7xDIc4WoR6LcvQEsfMa/eMJh9CtICMf5L7pov7OL0hpnfbJ5FtFkmjgrJ9B4Ft7YrjPuNh72c1SLZq2dLuHKWHB5WeCTQ+yWxSiHSui0eGbDswMGi2RwFLLcQ8ywaE9FOg==;DVjm10ojnXxP80+V5sZVWg=="
 ---

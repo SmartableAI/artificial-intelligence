@@ -4,10 +4,10 @@
     {
       "path": "_news/2020-11-22-ai-news-neural-network-learns-when-it-should-not-be-trusted-99-wont-cut-it.md",
       "title": "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’",
-      "excerpt": "ARTIFICIAL INTELLIGENCE (AI) has been refined so it can significantly improve decision-making, Massachusetts Institute of Technology (MIT) experts have announced.",
+      "excerpt": "AI is becoming increasingly central to our everyday lives, from driverless cars to medical diagnosis. But although such next-gen networks excel at recognising patterns in complex datasets, engineers are only now understanding how we know when they are correct.",
       "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg",
-      "originalUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg",
+      "webUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
+      "originalUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
       "featuredContent": null,
       "highlight": null,
       "heat": 101,
@@ -40,9 +40,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Autos",
         "AI",
-        "AI in Autos"
+        "Machine Learning"
       ]
     },
     {
@@ -639,7 +639,7 @@
       "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663374",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -671,7 +671,8 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Facebook AI"
       ]
     },
     {

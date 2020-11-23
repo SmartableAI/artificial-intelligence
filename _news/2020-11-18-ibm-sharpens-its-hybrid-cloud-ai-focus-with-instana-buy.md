@@ -134,6 +134,20 @@ related:
         width: 2698
         height: 1414
         isCached: true
+  - title: "IBM to Acquire APM Startup Instana to Boost Hybrid Cloud and AI-powered Automation"
+    excerpt: "IBM recently announced an agreement to acquire Instana, an application performance monitoring and observability company."
+    publishedDateTime: 2020-11-23T03:47:00Z
+    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18543-ibm-to-acquire-apm-startup-instana-to-boost-hybrid-cloud-and-ai-powered-automation"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 31
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/8e0cc8b5aa4bbdee8df5c1a32381f369.jpg?t=20201123_034157"
+        width: 752
+        height: 408
+        isCached: true
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
     publishedDateTime: 2020-11-19T02:49:00Z

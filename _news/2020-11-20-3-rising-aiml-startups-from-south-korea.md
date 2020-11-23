@@ -32,7 +32,7 @@ related:
     provider:
       name: Techinasia
       domain: techinasia.com
-    quality: 66
+    quality: 68
 
 secured: "EfL4+Xyd3UwgGD0dRctSFjBdoMOZN9J5pAu7273yzOEJ/NndHEUlbbt+E6aMk1hTnbbzGY4zB4wsN1yHxipl2BqNLBgnNihamJieYWhGd1Jpsd/xMPsVd2LWmGsJreKdfyCMRX9YFN8RwWOarnZj6lWNVBgbHt4IuJWdbXjVnHM0B8oCjpvv8z0iW+Dlu2u2bg5HkeVtGE42Ry5h7DvI2vEtQZjMpijS6KioPfzmu+H5pn+kmkh9+dtcJDX9aomVsfGUFPbwJhih0Su9bPg+MBR64SsskC/gLiWDhgD18WffmSNTaNyv1fViPUUh1ST+Jm8qC9Pg26XxV2/iEmiCgXQvTt86Yj5yklIfWanOdrDRtGNCTUVaMbYG6nxw/AFzTfHG+I2O4YKl80A24AwGNzcRCIQUPolN070Jbw7R7Zscl9zzKT/K8vDzAlauvNeAmHusoMwhGD67rT93DNTTA2e7dqUhJhp8NkkS7aYJiLJZW1oNvXMOZvsPVvPiTLEj7F5d2GEpGVIG3uKDAOkchw==;FtTcpLgGF9PA5BAtcA2GvA=="
 ---

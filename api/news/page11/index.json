@@ -2,6 +2,58 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-13-the-future-of-work-work-ethics-by-yudhanjaya-wijeratne.md",
+      "title": "The Future of Work: ‘Work Ethics,’ by Yudhanjaya Wijeratne",
+      "excerpt": "He had earned that rare and elusive acknowledgement, whispered behind his back: He’s a Creative. The Capital C.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/",
+      "originalUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa9cabfdaa25f804cdbd2f1/master/pass/backchannel-sci-fi-yudhanjaya-wijeratne-final.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/amp",
+      "publishedDateTime": "2020-11-13T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-weather-proof-chip-aims-to-take-self-driving-tech-wireless-communications-to-next-level.md",
       "title": "Weather-proof chip aims to take self-driving tech, wireless communications to next level",
       "excerpt": "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks.",
@@ -1168,59 +1220,6 @@
         "Google AI",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-google-catches-up-to-aws-and-azure-with-new-database-migration-service.md",
-      "title": "Google catches up to AWS and Azure with new database migration service",
-      "excerpt": "Google has debuted its database migration service, making it easier for Google Cloud customers to transfer databases to Google's Cloud SQL.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
-      "originalUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
-      "publishedDateTime": "2020-11-12T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
       ]
     }
   ],

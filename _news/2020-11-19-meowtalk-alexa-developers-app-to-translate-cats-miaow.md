@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-54991693"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54991693"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/0F4B/production/_115551930_whatsubject.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Cat Noises Can Now Be Translated Through A New App"
-    excerpt: "If you have longed to know what those random meows and long glares from your cat mean, a new app plans to solve this mystery. MeowTalk is an innovative app solution that translates the noises of cats."
-    publishedDateTime: 2020-11-18T11:41:00Z
-    webUrl: "https://www.unilad.co.uk/technology/cat-noises-can-now-be-translated-through-a-new-app/"
-    type: article
-    provider:
-      name: UNILAD
-      domain: unilad.co.uk
-    quality: 39
-    images:
-      - url: "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/cat_in_pain.jpg&quality=70&width=808"
-        width: 808
-        height: 424
         isCached: true
   - title: "MeowTalk: Alexa developer develops app to translate cats’ meow"
     excerpt: "Amazon Alexa engineer has developed an app that translate your cat’s meow. With MeowTalks, know what your cat is saying."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 122
 published: true
 
 provider:

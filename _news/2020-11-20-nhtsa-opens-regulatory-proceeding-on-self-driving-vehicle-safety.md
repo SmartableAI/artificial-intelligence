@@ -107,20 +107,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 29
-  - title: "New radar helps self-driving cars navigate safely in bad weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-18T12:31:00Z
-    webUrl: "https://knowridge.com/2020/11/new-radar-helps-self-driving-cars-navigate-safely-in-bad-weather/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 24
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/11/New-radar-helps-self-driving-cars-navigate-safely-in-bad-weather.jpg"
-        width: 700
-        height: 511
-        isCached: true
   - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
     excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that ..."
     publishedDateTime: 2020-11-19T00:28:00Z

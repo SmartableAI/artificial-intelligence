@@ -141,7 +141,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -218,49 +218,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-roche-canada-launches-national-artificial-intelligence-centre-of-excellence.md",
-      "title": "Roche Canada Launches National Artificial Intelligence Centre of Excellence",
-      "excerpt": "Roche partners with AI leaders Amii, Mila and the Vector Institute to drive digital transformation in health MISSISSAUGA, ON, Nov. 18, 2020 /CNW/",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/roche-canada-launches-national-artificial-intelligence-centre-of-excellence-1029816950",
-      "publishedDateTime": "2020-11-18T07:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1381,6 +1338,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-artificial-intelligence-and-cognitive-computing-market-major-technology-giants-in-buzz-again.md",
+      "title": "Artificial Intelligence and Cognitive Computing Market - Major Technology Giants in Buzz Again",
+      "excerpt": "Healthcare, Retail & Consumer Goods, BFSI, Security, IT & Telecom & Others Regional Analysis for Artificial Intelligence and Cognitive Computing Market: North America (Covered in Chapter 6 and 13), United States, Canada, Mexico, Europe (Covered in Chapter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
       ]
     }
   ],

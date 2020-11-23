@@ -39,17 +39,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-    excerpt: "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with"
-    publishedDateTime: 2020-11-18T11:25:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 33
   - title: "Mayo Clinic inks data analytics partnership with AI-powered telehealth startup"
     excerpt: "Mayo Clinic formed a new collaboration focused on expanding clinical data analytics with K Health, a startup offering patients an artificial intelligence-powered symptom checker and telehealth consultations with primary care physicians,"
     publishedDateTime: 2020-11-18T22:36:00Z

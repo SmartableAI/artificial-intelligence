@@ -27,53 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "LAPD bans the use of Clearview's controversial facial recognition software"
-    excerpt: "After Buzzfeed News showed leaders evidence of unauthorized searchers, officials issued a new ban on using the controversial platform,."
-    publishedDateTime: 2020-11-18T12:43:00Z
-    webUrl: "https://www.engadget.com/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
-    ampWebUrl: "https://www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/lapd-ban-third-party-facial-recognition-clearview-ai-112526446.html"
+  - title: "Los Angeles Police Department bans the use of third-party facial recognition technology"
+    excerpt: "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ..."
+    publishedDateTime: 2020-11-18T18:44:00Z
+    webUrl: "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html"
+    ampWebUrl: "https://www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
+    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 87
+      name: TechSpot
+      domain: techspot.com
+    quality: 81
     images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F8ce2b190-2988-11eb-b799-db52f3a364a9&client=amp-blogside-v2&signature=ab3d0352f05229713f671a991cfa2339559582b8"
-        width: 600
-        height: 350
+      - url: "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-18-image-22.jpg"
+        width: 1680
+        height: 793
         isCached: true
-  - title: "LAPD bars detectives’ use of Clearview AI facial recognition system"
-    excerpt: "Critics say facial-recognition systems that use images from outside the criminal justice system are racially biased."
-    publishedDateTime: 2020-11-18T16:51:00Z
-    webUrl: "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/"
-    ampWebUrl: "https://www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/"
-    cdnAmpWebUrl: "https://www-dailybreeze-com.cdn.ampproject.org/c/s/www.dailybreeze.com/2020/11/18/lapd-bars-detectives-use-of-clearview-ai-facial-recognition-system/amp/"
+  - title: "Wrongful arrest exposes racial bias in facial recognition technology"
+    excerpt: "Detroit police defend the system, even though the police chief once said technology alone may misidentify people 96% of the time."
+    publishedDateTime: 2020-11-19T12:00:00Z
+    webUrl: "https://www.cbsnews.com/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
     type: article
     provider:
-      name: Daily Breeze
-      domain: dailybreeze.com
-    quality: 74
-    images:
-      - url: "https://www.dailybreeze.com/wp-content/uploads/2020/11/LDN-Z-CLEARVIEW-AI-1.jpg?w=1024&h=446"
-        width: 1024
-        height: 446
-        isCached: true
-  - title: "Facial recognition software can now reportedly recognize bears"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
-    publishedDateTime: 2020-11-22T22:14:00Z
-    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
-    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 59
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/07d3d65a-fe56-4311-8a0b-38d42b352641/thumbnail/1200x630g6/d46cd602dc62d704f9da5ff7f20af4e6/detroit-police-surveillance-monitors.jpg"
         width: 1200
-        height: 800
+        height: 630
         isCached: true
   - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
     excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
@@ -91,20 +75,6 @@ related:
         width: 708
         height: 470
         isCached: true
-  - title: "Resisting the rise of facial recognition"
-    excerpt: "Researchers, as well as civil-liberties advocates and legal scholars, are among those disturbed by facial recognition’s rise. They are tracking its use, exposing its harms and campaigning for safeguards or outright bans."
-    publishedDateTime: 2020-11-18T11:28:00Z
-    webUrl: "https://www.nature.com/articles/d41586-020-03188-2"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 41
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-020-03188-2/d41586-020-03188-2_18584500.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "LAPD Bars Use of Unauthorized Facial Recognition Platforms"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission,"
     publishedDateTime: 2020-11-18T13:42:00Z
@@ -119,20 +89,6 @@ related:
         width: 583
         height: 300
         isCached: true
-  - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
-    excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
-    publishedDateTime: 2020-11-18T19:58:00Z
-    webUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/161364/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/18145456/LAPD.jpg"
-        width: 780
-        height: 438
-        isCached: true
   - title: "LAPD bars use of third-party facial recognition systems"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
     publishedDateTime: 2020-11-18T22:26:00Z
@@ -146,20 +102,6 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 676
-        isCached: true
-  - title: "LAPD ban facial recognition following alleged unauthorised use"
-    excerpt: "The Los Angeles Police Department (LAPD) has banned the use of facial recognition after officers allegedly used it without authorisation."
-    publishedDateTime: 2020-11-19T16:21:00Z
-    webUrl: "https://iottechnews.com/news/2020/nov/19/lapd-ban-facial-recognition-unauthorised-use/"
-    type: article
-    provider:
-      name: iottechnews.com
-      domain: iottechnews.com
-    quality: 39
-    images:
-      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/11/lapd-facial-recognition-ai-surveillance-policing-police-los-angeles.jpg"
-        width: 2400
-        height: 1600
         isCached: true
   - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
     excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."

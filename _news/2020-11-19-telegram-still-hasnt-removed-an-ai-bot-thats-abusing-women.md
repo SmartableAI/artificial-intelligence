@@ -7,7 +7,7 @@ originalUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot
 webUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/?utm_social-type=owned"
 type: article
 quality: 67
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 1280
     height: 670
     isCached: true
-
-related:
-  - title: "Telegram Still Hasn’t Removed an AI Bot That’s Abusing Women"
-    excerpt: "A deepfake bot has been generating explicit, non-consensual images on the platform. The researchers who found it say their warnings have been ignored."
-    publishedDateTime: 2020-11-18T13:00:00Z
-    webUrl: "https://www.wired.com/story/telegram-still-hasnt-removed-an-ai-bot-thats-abusing-women/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 67
-    images:
-      - url: "https://media.wired.com/photos/5fb448627e21dd10c270baf1/191:100/w_1280,c_limit/Sec_AIbot_523554190.jpg"
-        width: 1280
-        height: 670
-        isCached: true
 
 secured: "2hDdpKQFLBCTTyyZQrh6AO3spfhyxm9GdtrhwLJc9EiwD+gLsInWFoBq2WfbVqpdw687LBwvvISMD+HZhbGDBBShdu9jRyevSZEhSuX8W1UXfWDKJQsR01G6iYKbyCvKq3kQ3cFSLYNsqzXemBw5VwvgAu8kX2JP79AzEDBK/jtLfePxND951GrI8Kz+KTjEXhcwSl+nRCVBSpGyigTKogMszmqcL1TVw2Ce9Z70TWxH5nfInaU/qUGv2esm+u3AX9FJXlDKMDe4ITOvSU58pgVnNsRJ3W8RQu3xBNJYSiMZ7wiBvklhQq8j/kDlsChF2sHd9hMvdbQi6XZT1hdJoqkbMyzzWhPE9z9nXtHZByHjbJElsGi2KMFPTKAYy9Ehgz2aE0KemoYtVJ1phIEIa8XgE3HI2aZOiqJd59Yt8QmYJNKVUz9kDLtwYg8DvxxtqhwWiPWkyC8Ob5uO0XSu4LE5vxz96PMT8blD5dF5bA0tvPVywt1WmBateS7qELzRDJamYlPWA1iAoiefoSDRIw==;56zBBjP7olHYZfnGUiPdRQ=="
 ---

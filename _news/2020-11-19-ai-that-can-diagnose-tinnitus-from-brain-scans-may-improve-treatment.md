@@ -23,22 +23,6 @@ images:
     height: 800
     isCached: true
 
-related:
-  - title: "Artificial intelligence program can pick best candidates for skin cancer treatment"
-    excerpt: "Experts trained a computer to tell which skin cancer patients may benefit from drugs that keep tumors from shutting down the immune system's attack on them, a new study finds."
-    publishedDateTime: 2020-11-18T12:04:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/nlh-aip111320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 31
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-
 secured: "ivlU0CfoFKRqeNJOBhghPgHHwF3JGV1uGIogD0lXPCNANjR3E8B0KUeE3qcsj8Ut7uGVYiRc9ehJhNn/N1Bpg5+puxTQ3ksT3IqcVmSKaDYn1Fj27nMyKMIfKP2iCj4BHkKBJRzW42wAfhfBRBM1gRdMte6PqsfdqifXkkaGjMe99uhEdzSuQaEISkEdFWiseZiWnmhIJCjwcCirB5+RvbML+oUmRY6cQIYbX8lTlyQc7CUcZcvioaNKZ+3YUrTQFiS4YAtpHuazpo8HM4/w+YnbXhJ43cHprIcJ0waaSVeldqAsbAF5nLHLh6db2/Q775zVWdwWGZMOIGyxNTztZHi3HUqYw32DcFWWdjI+1mAOI5fMGDN30dr7V/L2oSof/JuDy+DE1LdcQ4g5XoiUV17aOZ3uizWeDhjpbTP8gDwopDaaQjv9xtpRXfgzpBsw0zTbk0mzqUrO8tVe64NNSOI9a4p6ufw7S/sAv6C4+aeY8ZrJhFBNhLiYQl8GpK+0rATyRbVlBEqL/5bWeg24QA==;sOF13xiqMzZHc94wEz6Nvg=="
 ---
 

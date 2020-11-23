@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’"
-excerpt: "ARTIFICIAL INTELLIGENCE (AI) has been refined so it can significantly improve decision-making, Massachusetts Institute of Technology (MIT) experts have announced."
+excerpt: "AI is becoming increasingly central to our everyday lives, from driverless cars to medical diagnosis. But although such next-gen networks excel at recognising patterns in complex datasets, engineers are only now understanding how we know when they are correct."
 publishedDateTime: 2020-11-22T12:18:00Z
-originalUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg"
-webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg"
+originalUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
+webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
 ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
 cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
 type: article
@@ -17,9 +17,9 @@ provider:
   domain: express.co.uk
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Autos
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248"
@@ -66,6 +66,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "j81zZxgLYIb5wnJ2oz7QTg9SG8KOxXWiXiORArK/1zH0XFStwNo1uQbOmBEbwY1I2hLnkn/BuRIGQ6tdR25MQFXxdDMgzcTGFIZAWCNe/Hc1vhn7ZhAikRaLjeK8fC/Yx+PdWZnVeJeh8Cgd6iay5wnIAw9q1GUOSTfwFtLbMDWRAoG0NcCa7IXy+9GOBX79Xfy2ivLzJv+C9l0OiY2KVf9N8lEtLy+NopoEgV85RazZ1Fsoeclvc5zMKuHQRxaYf4FlibXEZRwnng37LAE51g+BLzXSQZL4+KFNufetrPuekvEfobBioVS77pCSPXc91hXrYWMw5sbWQ+pfPtIoa/K9HdYsACfIS0LivvkNbL0=;dY0bQlJ3kQ87mQx27t5zoQ=="
+secured: "32FSeY/Ihvq+5r8Dv/AucPQRsKl0SU5ydvpapZh0VJ2HdCVrmayDflsLYZvQEoBvlMdo8iSn2Qadvp/k4TevqC5uSjW5ai7e1QEXjRJSiIFt9EeVBadjz0uuUFD4tZBspH0ETUvROA3/y3jO7Jfi0+hQm55rdBl4RdrNUWVFxtzC3fWLalprXJJSEuxUur4EVkZgw9kCyLx7sSj9Yf+5a99tPjfYFH4lXMvJZDpfPyUAdQTZpwzD0/0b2fwrmAHIr7bKjt/b34aMfnxoMiFcOeAYAJbsxNF2SGw9S9cFwy0A8Qq/yCh800mEqwT5Qymxop2xPuy/RCH3M07Uubh2ju2dn2iWRjHCS842R4W+5Co=;d8ByUDrYVPbUn92n6PzZFw=="
 ---
 

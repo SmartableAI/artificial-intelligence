@@ -41,22 +41,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "As AI pops up in more and more scientific computing, a new time test measures how fast a neural net can be trained"
-    excerpt: "The tests reflect an increasing use of deep learning in scientific computing on the world’s biggest computers."
-    publishedDateTime: 2020-11-18T11:08:00Z
-    webUrl: "https://www.zdnet.com/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/as-ai-pops-up-in-more-and-more-scientific-computing-a-new-time-test-measures-how-fast-a-neural-net-can-be-trained/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-    images:
-      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/18/725431ad-48d1-48f6-9692-bfaa768788f1/fujitsu-2020-fugaku-supercomputer.png"
-        width: 2404
-        height: 1320
-        isCached: true
 
 secured: "jDJHx/dlS0hRuOg0Qn7K7MCJbUtKd7gILb6S5iWaCkgtNeYDGHFovyZe8J5V/I4G6H7EhYIMunrlKlCI8wUs5NeIWcaIGbJxkTBwUQxzk3Hxf251QAYsW6Z+k2NRztdsEYN9RsKPs2gydTcqy1DPWoOFu29epahecYu4mUnsfY6Ufcderc5wKHNRlKTBLubO5Qa7QBbZjATqGwxQrstr7fv12phhEM4ezlwKjr9x3dZsq4iPLTHSTE9pEJJzmhd+T58a3rFZ2MJEwdVqamgJj7U+S9xzcLjaltYEoBZRX9RSHxjxtbq90mqroZe+0r3dO9XWzRx46wSFJwvnRvC02aOjbId63kl/J6J+Z28jXTtMPPbq70+Boynqd2oGc0rPvBJFAiK7X63VHLNiN6NQZPVkLNlYQzu1csJqpShc/xYUg8lCiYxTtAc/Qrgtn4AscYv/Cfj/173eCA7/i4NogPlAf4FFhqEQf+nWXbaGlyiln0MbrsGr2FKwR+aPsYf/DqEJ/TQUeNYaxqr7tacB1Q==;hnITGBX1fgE6OR+OWkLyuA=="
 ---

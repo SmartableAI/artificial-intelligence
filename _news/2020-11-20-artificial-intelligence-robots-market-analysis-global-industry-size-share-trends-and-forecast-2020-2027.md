@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
 type: article
 quality: 67
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -151,6 +151,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
+    publishedDateTime: 2020-11-23T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2026-2020-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
