@@ -7,7 +7,7 @@ originalUrl: "https://www.nzherald.co.nz/nz/biometric-id-systems-in-prisons-but-
 webUrl: "https://www.nzherald.co.nz/nz/biometric-id-systems-in-prisons-but-no-facial-recognition-says-corrections/7KQWGK2YGN5AQBRPS5GSNQY5IQ/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Facial recognition critics consider the options in OBVIA webinar"
-    excerpt: "The current legal landscape throughout North America and Europe is inadequate to deal with the risks to public rights created by increasing facial recognition use, according to panelists in a"
-    publishedDateTime: 2020-11-19T22:55:00Z
-    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-critics-consider-the-options-in-obvia-webinar"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
 
 secured: "5EXwNiAbne6a5vhNEkv7dPn8bka5ZjViM48GbIHmmd6WEhbTk6IEWH2f6HQt34oGozsbSo2epaorsyAWdHcj5FST1NnBXY//BpqOJiZXmKii4Qw0kLDS9GHgOXxY2J44/7qWK7laOzj77zoqJ7sPJqutncjnK4+579mRFoETIVTmTIe+idN/3W+NXUcz+bPESKrXy0Swv7N8PA8M7Z6qNCoeCxNHEapp9EKW6nv8EvXNKXU1gePUxdJAecRn7rPXUfbGn2hQF/mUVbl6pIdZdiCDPhLqcJWbo7uC0FNjF8FksUQFpbCNQfuN1px6GOM9baRxwX9c5PTM+Fkghimh3QqTboG0224tmWB/iJtFMUw=;CS+XbVucRPQAmJYmeSJevg=="
 ---

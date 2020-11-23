@@ -7,7 +7,7 @@ originalUrl: "https://www.campussafetymagazine.com/university/u-mami-facial-reco
 webUrl: "https://www.campussafetymagazine.com/university/u-mami-facial-recognition/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1000
     height: 500
     isCached: true
-
-related:
-  - title: "Citizens are turning face recognition on unidentified police"
-    excerpt: "Moves have been made to restrict the use of facial recognition across the globe. In part one of this series on Face ID, Jennifer Strong and the team at MIT Technology Review explore the unexpected ways the technology is being used,"
-    publishedDateTime: 2020-11-18T16:45:00Z
-    webUrl: "https://www.technologyreview.com/2020/11/18/1012257/citizens-are-turning-face-recognition-on-unidentified-police/"
-    ampWebUrl: "https://www.technologyreview.com/2020/11/18/1012257/citizens-are-turning-face-recognition-on-unidentified-police/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/18/1012257/citizens-are-turning-face-recognition-on-unidentified-police/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/Policing-Topper.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "l3T6b1x/XsmEICpIuGAlp7/2YZtcZzaFsVsL9OZtTkh/crSE8aHiAhM96dtmdowSXsGy6uw6I38hucdY3JcdUGcVJg8GOXMDS6zDUpMTwV3nQiSiV6Wt95kUCalqrsbrnAmqSfUE9p4/nx+LcXQVHHYlN6or7+AOhwkWgsut6vBeiRBrKs7oYk4J1yakM5JsoqMKdY2O0X/x7LZflOTuObqI892RC2fxFIIrIZtvSTKGvd1643IzdZrVAsqYqmyTdKCxHa7GYBbujRFsvwxsmQJg4ghekBDnraTOngiincsMPf/9g1KmArZMrqLHGR0kbMJZOki//7TboRMjvQfqFg/bxM0PJL7hQ54p3SG0VMwEhbRNy1Q/GJV7jz6YCNMtsKVN2G4LviwR3Yp7fQfuhp4LCJE53THqh+WJ9jtCbDqCyG7gwxdLVNNlHziPqrlPW7zcWbVmsuC/KH+4SiYrAp+51jLDOpShfdV2g/1Le4NZzmci1rOYDziO/yoLj+Dp5jUTdwrW/L2lcILqjn6Gog==;lDQ1zty/5crpW4lCPCH4iw=="
 ---

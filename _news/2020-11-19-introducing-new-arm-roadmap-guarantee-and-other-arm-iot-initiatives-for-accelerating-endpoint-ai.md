@@ -35,6 +35,20 @@ related:
         width: 600
         height: 334
         isCached: true
+  - title: "Introducing new Arm Roadmap Guarantee and other Arm IoT initiatives for accelerating Endpoint AI"
+    excerpt: "That is why it’s an incredible opportunity to step into the role of leading Arm’s IoT business and work with our ecosystem to continue harnessing and unleashing the potential of this market. Arm is in a unique position to drive the innovation and adoption of IoT everywhere,"
+    publishedDateTime: 2020-11-23T00:18:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-accelerating-endpoint-ai"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 26
+    images:
+      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/iot%20revolution.JPG"
+        width: 700
+        height: 320
+        isCached: true
 
 secured: "JXmn71pN00qn8UzhciWQj3mxlAevVZb3968LOswWOmfrGD9qTAWPTyBGQAscEQwuOy2rSBVOnC2wgDHEp8UWjRLSYvEY2kRtjdaIONQEULJm4PfDO5XaKEPcIWfTzWgKCCj9Bb5LjH6wen/I3M/oXKPfWtDlKyO2EYNbuH2o7m9Gzw+ozPa5blJGekxCe2gCCbeY841V0ef420FlfgO4Lwr/Q9XS/GzX8veHmOw+qtruDFhQENH/L2vumdK/71ILi5ikTEMGM3Q8GReIloFgwhE05CdmcEiSwBevsuES8mMiFqUkKpOGccjooU7j7krgAA3Yoi7ZjfKZ73h9UBNA90foMwiPb5egktBHWdh2Ceo=;9f3VUmodGxyx6fFp0WajEw=="
 ---

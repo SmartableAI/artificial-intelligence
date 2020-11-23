@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/inside-google/googlers/hip-hop-artificial-intell
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/11/V155410.jpg?w=1200&strip=all"
         width: 1200
         height: 800
-        isCached: true
-  - title: "An AI helps you summarize the latest in AI"
-    excerpt: "Semantic Scholar, a scientific literature search engine, is using recent breakthroughs in natural-language processing to give researchers the tl;dr on papers."
-    publishedDateTime: 2020-11-18T16:40:00Z
-    webUrl: "https://www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/"
-    ampWebUrl: "https://www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/funnel_web.jpg?w=3000"
-        width: 3000
-        height: 1688
         isCached: true
 
 secured: "vcVhVMt39nGJfseWt2+sce+YrTVBxEsjnS0VkdoeBuJae/YAzARwlvayiRvmsxsqCo2xVqYcEXAKS0J2f7hmxCEJ5qykaVr5hUfbvf4PFMfrgQDBPWUTEiJxubqPTUntMTHaYapn5p822O7JkIt7xOX0o8gOSFG4GXe989W4+V2xvKfA1MrKt99wTubBsciCnhiKTucPKl5AEqeKtqLbkfYnu0s3fE/V4I/S9qrD3Aylghur9FeVdmMlq1y1sA8PcRY1D6Wbmrs3yb5/QKVKECLooDtHp0zPJLiwi8mMwaRdF+JfIZRGEJODrYwtC7n11WDtabbYwGlC9bCRNjz7vqzf/3Aboc620/eGLGfPwh8=;iUs7aHgeiBsoLeAepbgq5Q=="

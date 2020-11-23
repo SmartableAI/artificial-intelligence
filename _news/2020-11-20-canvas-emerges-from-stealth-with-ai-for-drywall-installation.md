@@ -47,22 +47,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "An AI helps you summarize the latest in AI"
-    excerpt: "Semantic Scholar, a scientific literature search engine, is using recent breakthroughs in natural-language processing to give researchers the tl;dr on papers."
-    publishedDateTime: 2020-11-18T16:40:00Z
-    webUrl: "https://www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/"
-    ampWebUrl: "https://www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/18/1012259/ai-summarizes-science-papers-ai2-semantic-scholar/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 59
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/funnel_web.jpg?w=3000"
-        width: 3000
-        height: 1688
-        isCached: true
 
 secured: "sJAT9C0fW2yLeKjc0HVqCRuPidQsgVj816CpGZV8wPhtJQP0OH/3RH7ddN3a85/1+Qow9BW0MktvBQWFqEUwRJPILeb/h8t7buoUNN2TWlFFUmhz/+OOKXPM7KgpBjdUbGkluGCJpfY9Va7X1xmNSrzbVwshzEi9D74xgRzssICrGaJL1OX2dl1tkeOBgWlDwVCcznzh4UxrSu4FUOrnmcDhr1q8V3MBcNN1+pf2YqqFORNQHzrBl+LgyenQOpcaAUolQrUlYp/pYPNFry9WWjE2gE59gj3ddgci+eVHDNZN3/Tyy67E/lRKzvf6c1wUREbsuCS/3Nr24glZAYPU8bkFu00VdteHSL1ilUUEbUAuQh5TI+e0afCN5fEjkRvqHFvuo5OZd2kNZRWkPkgNLmkZjJYe6KS4ONjLq7kLr5nAEnbTl2y3ESa/Ikk76STIieryA9m5LFAwdpNaFdqRokubrrGLPX/dAAhhz7mXQ+F6YWgKBgyXcze/jrpW3Go1ZecSBuE+kNMLPQvW69hi+w==;Gz3ODBvrkEM4Dpj3jY2OuQ=="
 ---

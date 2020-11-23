@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/"
 type: article
 quality: 91
-heat: 122
+heat: 112
 published: true
 
 provider:
@@ -62,15 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
-    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
-    publishedDateTime: 2020-11-18T16:46:00Z
-    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 16
 
 secured: "VNd98bdAiBe6lXTGyh8Xudhf7gLgXqfobJNUiRN8nzRVY6VtzvqOTeaa7LFnmyEQr0OX6U6wQztSno3E94StdwGpKA0m9mJV0PsWf5BNksR2nMNBNy1uuEDMu4TPHsj+0NosFORIM7IieX4fPVs0d1IhsbaA6C+JlPpra0HxsCEvm9HfW4V1dZowqCidMW28TaEfBwN8Sf1Xjy7GZkgj9Qs2iuxRU6Q/HfR2SxGwbbCLmpm5OTUKfPsuoR+GYTV26jL60RqYTo0eCGfigNpnHIPKd1X/Se0yPUV7qvGDOeK/X9s0ArSLcuh4JUePrs8fApOW1QrEBx3got3t3Ra18kflLEwNFLiuOlUOus7zej259wq+nvefNXycMDIeTOKwhpsPXtcu7BvvuZio0jRCdJzLiSNVGQfB91HegQiBqpG4uqKvFB/9lnK2u7kcqSPIOtVlGu/rBXo4FW4zCJodz58r/FwBqDolA4bGP87oNYPYGhwlv/F5w2g8kRIV8zNNslI9C4TOJyNA3tOszdu+/A==;B8Bt/PleWu3tedPrl7eNgQ=="
 ---

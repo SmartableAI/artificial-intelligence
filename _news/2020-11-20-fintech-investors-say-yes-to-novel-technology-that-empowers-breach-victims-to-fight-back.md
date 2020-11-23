@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What China’s fintech market can teach the world"
-    excerpt: "Take the cover photo of this article: At Alibaba, facial recognition software identifies customers at the employee cafeteria, while visual AI identifies ... in China’s fintech market and what ..."
-    publishedDateTime: 2020-11-18T16:08:00Z
-    webUrl: "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/"
-    ampWebUrl: "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1011643134.jpg?w=1024"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
     excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
     publishedDateTime: 2020-11-20T16:55:00Z
@@ -52,22 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Data empowerment can streamline fintech and digital banking: Nilekani"
-    excerpt: "Infosys chairman and co-founder Nandan Nilekani has pitched for empowering people and businesses to own their data in order to streamline fintech and digital banking services in the country. He said that account aggregator programmes must be encouraged so that businesses and individuals can access their own data for any service."
-    publishedDateTime: 2020-11-20T12:19:00Z
-    webUrl: "https://www.theweek.in/news/biz-tech/2020/11/20/data-empowerment-can-streamline-fintech-and-digital-banking-nilekani.html"
-    ampWebUrl: "https://www.theweek.in/news/biz-tech/2020/11/20/data-empowerment-can-streamline-fintech-and-digital-banking-nilekani.amp.html"
-    cdnAmpWebUrl: "https://www-theweek-in.cdn.ampproject.org/c/s/www.theweek.in/news/biz-tech/2020/11/20/data-empowerment-can-streamline-fintech-and-digital-banking-nilekani.amp.html"
-    type: article
-    provider:
-      name: The Week
-      domain: theweek.in
-    quality: 59
-    images:
-      - url: "https://www.theweek.in/content/dam/week/news/biz-tech/images/2020/3/9/nilekani-priorities-pti.jpg"
-        width: 760
-        height: 443
-        isCached: true
   - title: "Learn The Future of Finance with the Ultimate FinTech Bundle"
     excerpt: "The future of finance is digital. You know this by now. While cryptocurrencies and blockchain draw plenty of attention, there’s even more going on inside the finance industry rapidly changing how we invest,"
     publishedDateTime: 2020-11-19T19:47:00Z
@@ -100,32 +68,21 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Israel, Abu Dhabi markets regulators agree to cooperate on FinTech"
-    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalise relations in September."
-    publishedDateTime: 2020-11-18T15:05:00Z
-    webUrl: "https://www.reuters.com/article/israel-emirates-regulato-int-idUSKBN27Y1QX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y1QX"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y1QX"
+  - title: "Namaste, France and Bonjour, India: The future of fintech is French"
+    excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
+    publishedDateTime: 2020-11-21T03:41:00Z
+    webUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french"
+    ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 54
-  - title: "Nilekani seeks French co-op for fintech"
-    excerpt: "Infosys Chairperson and India’s Aadhaar architect Nandan Nilekani on Friday said that countries like France and India have the potential to work together on Aadhaar-like account-aggregator infrastructure that leverages data for accessibility to financial services."
-    publishedDateTime: 2020-11-20T23:59:00Z
-    webUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
+      name: Your Story
+      domain: yourstory.com
     quality: 44
     images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/11/21/w600X390/Nilekani.jpg"
-        width: 600
-        height: 390
+      - url: "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1605894676099.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1668
+        height: 834
         isCached: true
   - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
     excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"

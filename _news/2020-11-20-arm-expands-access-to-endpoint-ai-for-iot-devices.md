@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-end
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Introducing new Arm Roadmap Guarantee and other Arm IoT initiatives for accelerating Endpoint AI"
+    excerpt: "That is why it’s an incredible opportunity to step into the role of leading Arm’s IoT business and work with our ecosystem to continue harnessing and unleashing the potential of this market. Arm is in a unique position to drive the innovation and adoption of IoT everywhere,"
+    publishedDateTime: 2020-11-23T00:18:00Z
+    webUrl: "https://www.cambridgenetwork.co.uk/news/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-accelerating-endpoint-ai"
+    type: article
+    provider:
+      name: Cambridge Network
+      domain: cambridgenetwork.co.uk
+    quality: 26
+    images:
+      - url: "https://www.cambridgenetwork.co.uk/sites/default/files/iot%20revolution.JPG"
+        width: 700
+        height: 320
+        isCached: true
   - title: "Introducing new Arm roadmap guarantee and other Arm IoT initiatives for accelerating endpoint AI"
     excerpt: "Putting endpoint AI in everyone's hands It's expected that endpoint AI (IoT endpoint devices locally processing data into actionable insights) will accelerate the value generated from IoT and drive adoption."
     publishedDateTime: 2020-11-19T11:17:00Z

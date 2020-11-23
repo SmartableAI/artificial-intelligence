@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-ap
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -63,17 +63,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Outcomes4Me Raises $4.7 Million to Help Patients Navigate Cancer Care Using AI"
-    excerpt: "Outcomes4Me Inc., developer of a free mobile app and platform to navigate cancer treatment and care, today announced that it has raised $4.7 million in funding, led by Asset Management Ventures with participation from Sierra Ventures,"
-    publishedDateTime: 2020-11-18T15:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/outcomes4me-raises-4-7-million-to-help-patients-navigate-cancer-care-using-ai-1029815618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/outcomes4me-raises-4-7-million-to-help-patients-navigate-cancer-care-using-ai-1029815618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/outcomes4me-raises-4-7-million-to-help-patients-navigate-cancer-care-using-ai-1029815618"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
 
 secured: "pDJp/6faTbJuIk5nM/Wr7GGEOJlgddi8A5f6B6wrCiOvoK4FgK3j/kG6JxYT6BCJMZejT1oJCwa00Ity0C3XHwo+jyHVT0E2PilTIDjlI88kkbkirtNvy8Vy60bzRijEbbVRV4LPv+uoIfnES5nvGLM5jqVcpHkjTrSgFxnr7QB3HXXOsS5k5al0mak4Ko1n8xR3sKL2GLoFE4zhXf6IMbyZIWJXkgsCZQ2Xqr1rSEwKOHX/GNTzb31qi/cX050a3ikt0TWYAQt+zuFBf6RWNbn9HHnNkkVcKSbwPoc4dpywQ2TViXJizf6hd4l2GD0kNnnCx6T4E5P/B2Ahk7sYLQWf833XfXysGuVyXjkt391A1gb8NDAE/K8aK0NGIeP1mID0uDdt2TS2vg39qWL1SxtNLchJtmAnxWdKqGTUfkn7BZDnMtJOR0TW53YQ8rUeF/oRzaDCQNdLpqMzObHBgmp4KkUemHabfJtbHuVFgeOsnh8J6ZNvXcnpmTlazT/NXeXtNEGLshKjMVf3ykH5KQ==;36yeX7T6Xs/Q9Ti6BNMqBA=="
 ---

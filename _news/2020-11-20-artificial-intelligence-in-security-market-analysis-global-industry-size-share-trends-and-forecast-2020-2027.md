@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "IBM to Acquire Performance Monitoring Company Instana for Hybrid Cloud and AI"
-    excerpt: "companies will be able to feed these insights into Watson AIOps, according to IBM. The information could then be compared to a baseline of a normal operating application, with AI triggering alerts to resolve issues quickly before negative impacts to that ..."
-    publishedDateTime: 2020-11-18T16:46:00Z
-    webUrl: "https://insidehpc.com/2020/11/ibm-to-acquire-performance-monitoring-company-instana-for-hybrid-cloud-and-ai/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 16
 
 secured: "8vIR2/kwolzlDdwYbMMnalhC7U3ALkGk4Mwu8/+BHJLG/6CE6IZpXKTddE5Z5sLQ7B4zaDh0R/hDP3Y6DIyu8rMFHs9aRXw/ezteJY4u23XkSMRG2IEZorwCXJkLog7658puuBD3SfEJJcy//ibbp0pbJgIsA9jLhC6MrwjTF6GT4UOuc+gREfrHAwmCylXWefjmzZWmrybdrYTDOVrDQhqUvqLTuk79jsXnreFSY5x/jo9/TUv0P1xQw/s6wWhJF9wgivpIHUiaVA2Zu+gUCF15hCVj6CrPU0wXmYqpIx40iU16oujcLNcPaVxsbiQKmj/3VFYQtV1Za7ktqdrAEprj1LC3x4AmbKu1TXQz3Go=;QLO5ZvbG4ydYnxvHBwTuYw=="
 ---

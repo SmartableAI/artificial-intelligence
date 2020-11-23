@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
+    excerpt: "ClosedLoop.ai, Healthcare’s Data Science Platform, today announced the close of an $11 million Series A. The investment round was co-led by Greycroft and .406 Ventures with participation from Silicon Valley Bank and Meridian Street Capital."
+    publishedDateTime: 2020-11-20T09:45:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-small-business-investment-management-d7a70e0d74184ac385f54fe8bb8232e2"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 32
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "AI health predictions startup ClosedLoop raises $11M to expand team"
     excerpt: "ClosedLoop is also one of seven finalist in the Centers for Medicare and Medicaid Services' Artificial Intelligence Health Outcomes Challenge."
     publishedDateTime: 2020-11-19T12:51:00Z
@@ -34,6 +48,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 17
+  - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
+    excerpt: "Healthcare's Data Science Platform raises Series A to help healthcare organizations improve clinical and financial outcomes."
+    publishedDateTime: 2020-11-19T13:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201119005052/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 14
 
 secured: "eo3xeE3TGoNRA2GMBNF4Jn8TM07pPunXwfHSeKmY+t5es7oS7c+//pLLTgfSPmCOAgD1sOGb69a7BxToCOPmXWyL0NhnDwIH7/YOv7o01ENmWRonovJ777PiIZanr+EcRQj9E4zsbztJlAXyL+iqlSC3THqEc3qgbRhomvo/s/+LbY+CT0ypjHAzUwe/8ukeUi30rqzrtaW85HwWbmLQKMieMObohtP55fP2a5eRfx7tfjDQtbugC6UPzs23JcSaEwhPV/59bpMiw5jr/z78cVwO7vauKnVyNRiks5+GEAasaMIAuMFjZtGr96DSuaD7ueTa5atypB9iD5HSGJRh//mMHpK/wgb5c5+CFyta2XU=;J1P60j5uYGDt5oGVObILgw=="
 ---

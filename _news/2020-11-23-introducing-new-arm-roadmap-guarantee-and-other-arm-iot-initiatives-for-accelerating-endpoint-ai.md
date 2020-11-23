@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "Introducing Google News Initiative Conversations"
-    excerpt: "This year, the way many of us work has changed dramatically. We’ve gone from lunch meetings and large networking conferences to meeting virtually from our makeshift home offices. The COVID-19 pandemic has certainly upended a lot of this, but that doesn’t mean sharing ideas is on hold, too. That’s especially"
-    publishedDateTime: 2020-11-18T17:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/"
-    ampWebUrl: "https://blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/outreach-initiatives/google-news-initiative/introducing-google-news-initiative-conversations/amp/"
+  - title: "Arm expands access to endpoint AI for IoT devices"
+    excerpt: "The rise of smartphones and the growing presence of IoT devices share one undeniable similarity, the fact that the Arm ecosystem is the driving force behind both. The chip designer is in a unique position to drive innovation and adoption of IoT due to the fact that Arm technology touches 70 percent of the world's population as 180bn Arm-based chips have been shipped since the company was founded 30 years ago."
+    publishedDateTime: 2020-11-19T21:50:00Z
+    webUrl: "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
+    ampWebUrl: "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 94
+      name: TechRadar
+      domain: techradar.com
+    quality: 89
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GNI-Conversations-Header-2.max-800x800.jpg"
-        width: 800
-        height: 418
+      - url: "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg"
+        width: 600
+        height: 334
         isCached: true
+  - title: "Introducing new Arm roadmap guarantee and other Arm IoT initiatives for accelerating endpoint AI"
+    excerpt: "Putting endpoint AI in everyone's hands It's expected that endpoint AI (IoT endpoint devices locally processing data into actionable insights) will accelerate the value generated from IoT and drive adoption."
+    publishedDateTime: 2020-11-19T11:17:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Business/20201119/3660605.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 6
 
 secured: "eNZwyFn6NNcfVF6CGEw3gDF2w9VMyFNy4hjz31R+E8kIZSJ7NbRUF19YkvloRT9Zu/S4RbKP1LKjHDboJWanH9rghylFeSgkofq09zp814hXzgLPKDfVGaPY7+B4+ODLIJnojTMxhaAetXfzl8cKNO/WUJfjTB7HAiAuX96ZqhLnSUPjB/jMKb1moSf6n8LowcSep3rvGVf2HPm3/6tDFIotKB3ZtxNzGubYQOjL7qsTzJSRefWF8R0/4p75gErq71qJbzMubS21B+UOho59n9HSLEHkBp3uGmBcs6SAiD5NwmbjAc9SK3KaerCwxUC6hwQs2BDx56ngJNNGMHMl2xkS1ael4bclBWkflXhqgKg=;BMCXYjk4eS7VmvGgcpURLQ=="
 ---

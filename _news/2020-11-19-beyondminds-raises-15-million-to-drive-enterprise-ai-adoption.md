@@ -62,17 +62,6 @@ related:
         width: 1200
         height: 598
         isCached: true
-  - title: "Outcomes4Me Raises $4.7 Million to Help Patients Navigate Cancer Care Using AI"
-    excerpt: "Outcomes4Me Inc., developer of a free mobile app and platform to navigate cancer treatment and care, today announced that it has raised $4.7 million in funding, led by Asset Management Ventures with participation from Sierra Ventures,"
-    publishedDateTime: 2020-11-18T15:51:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/outcomes4me-raises-4-7-million-to-help-patients-navigate-cancer-care-using-ai-1029815618"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/outcomes4me-raises-4-7-million-to-help-patients-navigate-cancer-care-using-ai-1029815618"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/outcomes4me-raises-4-7-million-to-help-patients-navigate-cancer-care-using-ai-1029815618"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
 
 secured: "Glp6nlkH2LqAiSdYIjeMWVCmjr3tMtfNw6H1WxVedjHRmUd+LBoLXBqyCA5lY+4u9s0NbSnRUnrRPs5TAtyv7Hy8l3nKTvows89PZFM1svFkO/b0kBQFRcNZgsXyGlCQGBWmMOEI3MnFMPHvKV/xzBIi8PagYusmZMynTABnDR3JrLrNEK6FbeiQ0NjEpLfndnk0J/AuDAjCKCIDFYHMWnQIGVv752njhq2gTCPJBRZhqUmZxSJgYtczx1LEpZ0svi/INy07GmYgBWdK9VPSow1nZXabsEXK+uxFhCbd+oyZxmWO9fkl0asDNTIx5cpVp6WA2U+0fG27TLO1vuVuouSroetjN2DM6YsjPlnyrcLmgHM97am2KAYA0eVx5q3TjLvU8cQeaIvw5jHgVikRVRtR09IMBAnSqKutdqjJADKHCeFGRFADo0MK8lYlW8YZy9otCg5EXJHgrCNG1W1ApEGHSqe/Mny3RqluT0xKT9URJJ6FaD4NycfDWdTs271nenznwztbDAUMYTocrO/n5g==;gOFIAR3sefxA7vkhS9jasA=="
 ---
