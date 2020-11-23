@@ -157,20 +157,6 @@ related:
         width: 1200
         height: 816
         isCached: true
-  - title: "IBM to Buy Software Company Instana"
-    excerpt: "IBM said once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps. The deal comes days ... while focusing on its cloud platform and AI. “IBM is essentially getting rid of a shrinking, low ..."
-    publishedDateTime: 2020-11-19T00:02:00Z
-    webUrl: "https://www.cfo.com/the-cloud/2020/11/ibm-to-buy-software-company-instana/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 24
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/11/GettyImages-1229047327.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "qjtOU4LlTEPOW8gveSkgabvb5XPQGEieTTPaBlhdzb2mDQIRTZAhdSvz/h4XLQntskvrVQXVHQ6APpN1D1z9FZPpg15xbIV7X1OlZuBHgZ9buO7/ZvbqVNaJ9nAJTjBtzqFtdZAYIGxGxfeODiLCVZWDbRlwEueCtlOsR5eqHL7ByRF/YHAKirnVHdcI9xhwTFpHIDuNNMVl1uQHGuss6SsjgF8Sg2Yo7yU01IM7UAWbeN+1eyAYkpRnvKdbnAyhQ2G9siGOovY27d6/e6dg7HjjPMGstyLsOdakU6n5q/Y2ycIRWu7GTJbKgDS0LNbgPAJTq/BFBKMiPdBPbIWU16tUCAnz94gxqLh6QxbI4RIqo+UUWPrvmCFCEHoUnx3JGY77JgjgH85/AB55nXHxeenYcUkvevrW2/lbaRU5sJMp5Ezl1BRbQcNw/4BvHxJ+cHGYiaY3i9SvmDd0xc8DnliO+ELRibLURkJJkwxPPRidmTZgvGcyx76UgONn7eN7yon3MmbtDZrRkoDlHFwAIw==;PY08LX927Lkw23wdEMIkbg=="
 ---

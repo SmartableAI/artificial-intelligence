@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/helping-small-busine
 webUrl: "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/"
 type: article
 quality: 71
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 727
     height: 630
     isCached: true
+
+related:
+  - title: "Adobe Adds AI Capabilities to Magento"
+    excerpt: "Adobe has further integrated its Sensei artificial intelligence technology with Magento Commerce to help online merchants further personalize offerings. The new offerings include the visual similarity recommendation type for Product Recommendations,"
+    publishedDateTime: 2020-11-23T15:40:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144033"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133925-1120_SmartIVRs_Verint_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
 
 secured: "vbImdqjbgJLFcd/gAT3s6rK1uh0MX5ErFwlbxnDJq4/7pLQ9TLUNw4P3oqPLUbvZtuo4E/0QB/rJsd4Ge9tok+pfupbq2SXY9JziYqC03a5K3OCWnXirqt+60ChAAbUOKZhQAzPKD8E3ynAL0CXD9v7LBtK/zeMhXySsBUPY0gCscbVfOeE3r2CriM5kINg0cMD3Yi3464chrnH+W0RyoNLNWF3/1BeMLpdawU0/MwO/6SgqCoWalyaT3PfdBFb/1pXXQSN5UdzFp1N8uvEgFOrzGTjenF5uCNMs7V4IfeidtqK1ZDZrD8Fp57Chw6d7cgTwiTMAY8rH9L4psnGa2eZwnp+/qwqOKzOsI6VoU3U=;TBr0tqelcwKoj1TMdz9YQA=="
 ---

@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 69
+  - title: "Wemlo Launches AI Mortgage Processing Assistant"
+    excerpt: "Wemlo, a fintech company specializing in third-party mortgage loan processing services launched ATHENA, a virtual assistant that uses artificial intelligence to identify discrepancies within mortgage loan applications."
+    publishedDateTime: 2020-11-23T15:08:00Z
+    webUrl: "https://nationalmortgageprofessional.com/news/76129/wemlo-launches-mortgage-processing-assistant"
+    type: article
+    provider:
+      name: National Mortgage Professional Magazine
+      domain: nationalmortgageprofessional.com
+    quality: 39
+    images:
+      - url: "https://nationalmortgageprofessional.com/sites/default/files/artificial-intelligence-2167835_640.jpg"
+        width: 640
+        height: 428
+        isCached: true
 
 secured: "DnTKREo4+Yn+8JRiyziIkLHGjUFdmm3+nntGogmuP7FhLFQAgBdnfw2Oln7UQo1x6zjm3QaFgZbO23QX192JdHNu+s0zY8WfuRMY8mYMaqspmnpsuZ6vfDB6u2MeSHiT+2pZNgeuAVxLV6RBkKR77OQC/HeOE5cGAbcJC5T7wfx9JXABOpZlUDM1M/uc/vUoadLbh2/wJOFqkJyIgK/0IueVJlZvC5Hp48aId+ugkKAWfCPdpha4iD3acW03vvV6hsUEGD992lYaiS8xDxgLZWJW7QFcGNrHcxjOE2hBcEwEHjXYa4xKCigSV/Sgz7mJuo22yU/jtX+ODUnG3Uss5dzmm1uc8uaDhnFfdEXjERU=;vzaxQrtS2i5N6VRR/fin6Q=="
 ---

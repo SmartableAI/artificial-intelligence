@@ -21,6 +21,36 @@ topics:
   - AI
 
 related:
+  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
+    excerpt: "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ..."
+    publishedDateTime: 2020-11-23T15:53:00Z
+    webUrl: "https://www.entrepreneur.com/article/359653"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/359653"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 87
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
+    publishedDateTime: 2020-11-19T16:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 67
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Future of Healthcare Data & Analytics"
     excerpt: "helping to create and launch Healthcare NExT, Microsoft’s incubator at the intersection of artificial intelligence and healthcare. Prior to his current role, Mr. Cox led incubation efforts for Microsoft’s corporate strategy organization, responsible ..."
     publishedDateTime: 2020-11-19T01:26:00Z
@@ -48,6 +78,20 @@ related:
       - url: "https://asunow.asu.edu/sites/default/files/poly-hse-roscoe-lab-jh5269a-16x9_0.jpg"
         width: 2500
         height: 1406
+        isCached: true
+  - title: "Global Cognitive Analytics Solutions Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2026"
+    excerpt: "The latest informative study entitled Global Cognitive Analytics Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2020-11-23T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-solutions-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2026-2020-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "tErnP9gcOk8ab7ZIgNdopDa03dEFOqshS2RgAPlg48D7oih4Dp7AqZ4RR2eYqiNSnpphV/alb/mjPfH0iZrfDhVgVhFVQYwFv79PQCc/H1rLXyHquR1PJYaMhMn0K6DX5vkY/o8nCMuS+O+SPcJ9CD7HlIS76+xefXTuY+mQHeHDeSGoep25jcJX6/GapfxukKAvX9LW8r44gxysryKn+8ZysaRZvfxtWsXTgSICOhMGhztS57Q4Cr1A3olwbdYQPHaL7pNd7/vfAtPGJh7U/ekVQPkf5phOHJHtNwYKmuDLDQ9Rx6EOucwwhLgFNgvPiaQd1Rzk9TsTDLpxPaeUENHuUyyMtNTIbgV3gZJjwHs=;YnNPzQXw5p0x2XGAQcD+5Q=="

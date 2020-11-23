@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "AdventHealth to study COVID-19 outcomes with AI biotech firm"
+    excerpt: "AdventHealth on Monday announced a project with biotechnology company Berg to try to better tailor treatments for COVID-19 patients. AdventHealth and Berg are kicking off the project as a research effort,"
+    publishedDateTime: 2020-11-23T15:04:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/adventhealth-study-covid-19-outcomes-ai-biotech-firm"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "sYECRLM18YF1NP4B/nBlTQ9qyELquwDDx9v8zRcT5FgUBHVuSJiEqgWJtyBwEqcq2eA26m39Yae1WZ6nlxvixKOd80C2E8EjA50w2pKxwSGEj2cgKcDeot6IFLwarksIsbS8M1qAUyhpkiYTqZn6SzFZuZqR3ORQWmSwhOcb6QYGBlU98yX1nKwccUcIP0D+et7eKtH8YRcXONFGRHd/MHl8Y3n59T18MxBI7nthe9AjqJ3VJxiavt+IT/hMhWigxFc0FZyCoq+0VeWtV0U6bISpUkzj92u3XdEN0Rkypva535whoN6vF8nLxOZejd3Qz92JIEEM+1UERDwb5TJNuh5Klo/LbCD+hWGlyiGZtoLyjhhHKV4wMTzT0RZyzKUg2WHdq4LI4aa9r/C0ycAkQaudD4Jl5XzIahJ4qIltDR96BN97bcs+wmzF9W8GuZtvemU4PcqO39axMqWu7IQUpXv45Fwvf2bBpSjx33DDO/3RIY0i+pvTtdJRKz9rN6gQd2rcD5uD+TuHr2RtjgUArw==;7/dW0anVbK2HHZIiegclxA=="

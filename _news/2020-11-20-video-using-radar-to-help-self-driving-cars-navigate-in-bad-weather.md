@@ -115,20 +115,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that ..."
-    publishedDateTime: 2020-11-19T00:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
-        width: 480
-        height: 360
-        isCached: true
 
 secured: "VQrM1NTAjMwAG1jfltBcdFf0OAcajUL5/D8eQxnv1zmsso+//nIUtuHo85aB5C2bphz3vN7ScVQ1TqcDbPKGZG0zuAVnMOxBLy6qBtMrfq5gxZiN5pQarYnZHqmfHGObnUDVEI5cQ4//R9VYjsaB2fI+xuCVvhUuGD3AWfIUCzGWRVvBdDHhgXE5Ut/h8VUbtMlyl1MrERwqsWz3G4q4FNUeQP+y8Kxpl9ykRrayrhbqkjyYyF7v+OPLImoCLaW1i+5+Hq4d3yQ0KAQ2qiM1lh80ryCpXGVcKGt5hZ4rUC4N4b4KpoHkDwycHlV4xgLlldhtJCql1UQfn5hf6az2/hQ5KAfMfHIAgZU8rdWCdGnerGgObUWs3MIpisQImHSvSUziWICq+pzLWQJ63H8cuRpdGbPmdn7lfDXbwTQOlvpDq69JARvFOhiB3akKtnRiu9goZDzRE5uQUqOjB3n2XwQfZSa2p+99YDjN6j4PhPvZOr2rRe/xZs1uyjixPxoamcJfYPsmTzgNSRJu9+JAJA==;1oV3jRTycK3MIEsrvSDaOw=="
 ---

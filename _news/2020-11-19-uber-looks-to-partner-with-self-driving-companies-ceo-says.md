@@ -9,7 +9,7 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/19/uber-looking-to-partne
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Uber's self-driving vehicle unit is seeking partners, says CEO Khosrowshahi"
-    excerpt: "CEO Dara Knosrowshahi says the company's autonomous vehicle unit wants to partner with other companies in the space.Khosrowshahi, speaking at the RBC Capital Markets conference, was responding to a question about reports the company wanted to sell the Advanced Group."
-    publishedDateTime: 2020-11-19T00:03:00Z
-    webUrl: "https://seekingalpha.com/news/3637616-ubers-self-driving-vehicle-unit-is-seeking-partners-says-ceo-khosrowshahi"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 2
 
 secured: "XkOQA9dfUdcK7Q5aZz6mHjf8Jyd6Cz27W4mH2PSRd5q41ie8t9cJSF35QacxQf7RRtTyMsgVqnEmNgqwa5AoEHO27qm2z2llMK8ns/b8Qb24OCSTQEQUYkYByj2x3nPNPrgKFsG16SqRv8d5e8A4Q1Gep6WC18fTqq4ikRQ88wmiTBRotxzYIcTWrWPTisJLSu9JMDeZXyO0m4U0EdLfILB110MLl0sjINdCixykxLrQ71ipTtc7z++o1LzNmVN1QJk3YRyJa5WzoOl4sh3HHPr3GY+QrUzhw7ioTjajMpw74fSvni4FW/B7zwMHEj0Ni4wF5lSHFlElFpYaKQOPIjO+UWx+PcwTAzsLHw2VqC0gZ6Z24KnHujNdudeOrrpJHRyj/2uo1Y6bl/Vh6QCFcZxzgBqtpfTg+0aqg/NF5w1wRGrjGF2rfMRlBdz7awpAACgW1BGkVyEqP4ZOWqqelvuli8sAjd++D/cVBWEdTej/RdBUrC6c4M4BrHrJBT9OT1dlnoS1n62J0C6SkI/SDg==;mTls5nYPkE9G8+1vdfEZTQ=="
 ---

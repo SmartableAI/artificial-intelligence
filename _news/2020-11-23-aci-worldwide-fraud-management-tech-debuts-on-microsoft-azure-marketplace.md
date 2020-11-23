@@ -69,6 +69,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "AdventHealth to study COVID-19 outcomes with AI biotech firm"
+    excerpt: "AdventHealth on Monday announced a project with biotechnology company Berg to try to better tailor treatments for COVID-19 patients. AdventHealth and Berg are kicking off the project as a research effort,"
+    publishedDateTime: 2020-11-23T15:04:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/adventhealth-study-covid-19-outcomes-ai-biotech-firm"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "SC9XVwGmQ17wWs1RT1Pw8XoN2GYtDhMReOvhtJQrpxMTc0JYjkXzqmfPmW6y5YpxlXBRSC7AbA7sFB+mblGk0a7oYcHwhOT1DSANeWXC23mfpefUQVf5bsC3hA39A9ZyCgTV/Mdk61iOCxlE59+NZxyyNJzaBHzAKli7KmCOI7NcQWCs259RddrHnpbbtFdPnjVxle5ECInN1DcVZ860QCXrstm0eE/5G3eaNSiabHwO3o2RBARw99xlNfl1+Y0wDdfgIRMtnC+Lg2vNxN9Pu2FgU+QY6xOyaMEZ/YSS3O5vuRQzDlDWOcoYhbXbDYc4Oc35rhX0PyzaCe5OoJIG6U4XdFynfOML8FJ+x59ogvg=;Ru9DIb0trjg6oP0rA+UFEg=="
 ---

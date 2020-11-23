@@ -148,20 +148,6 @@ related:
         width: 1000
         height: 637
         isCached: true
-  - title: "IBM to Buy Software Company Instana"
-    excerpt: "IBM said once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps. The deal comes days ... while focusing on its cloud platform and AI. “IBM is essentially getting rid of a shrinking, low ..."
-    publishedDateTime: 2020-11-19T00:02:00Z
-    webUrl: "https://www.cfo.com/the-cloud/2020/11/ibm-to-buy-software-company-instana/"
-    type: article
-    provider:
-      name: CFO
-      domain: cfo.com
-    quality: 24
-    images:
-      - url: "https://cdn.cfo.com/content/uploads/2020/11/GettyImages-1229047327.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     publishedDateTime: 2020-11-19T19:33:00Z

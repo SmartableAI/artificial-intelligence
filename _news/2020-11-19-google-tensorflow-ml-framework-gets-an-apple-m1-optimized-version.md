@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-app
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
 type: article
 quality: 123
-heat: 153
+heat: 143
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-21-news.jpg"
         width: 892
         height: 671
-        isCached: true
-  - title: "TensorFlow Jobs in Bristol, RI"
-    excerpt: "Write code that digests video files and outputs object presence and duration times using Microsoft Azure -- https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/spatial-analysis-container?tabs=azure-stack-edge we have live IoT data ..."
-    publishedDateTime: 2020-11-19T00:58:00Z
-    webUrl: "https://www.upwork.com/freelance-jobs/tensorflow-in-bristol-ri/"
-    type: article
-    provider:
-      name: Upwork
-      domain: upwork.com
-    quality: 60
-    images:
-      - url: "https://www.upwork.com/static/marketing/ui/master/img/logo-1200x630.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "/UslsnSbM9bPYCtKpkvXHIcQaRN5NmFvMjvH9dnDJJt4M3x87v8hmwak0omAwyAc4Ym3OKMgQ2oCfaQ9zx3cUlO5Uf/H1qCUhlvvekMXHqe2k4IsdAEiWJT7jTjwL7SiD/VQ/uhjl+a00e3jYM4YodwGMmidyLx+GYmdBkcsn0t24datruYhyEF0FSSd4ijRIdP0zaTgrLicbaEPPFTYjD8WfWg03ZVI5b+LMiCtboGhFwZRokwqtlcqyibMEoHihDbr4eFDsZ3RX/Kh5rTHLSNcrtczW06tcI/EIazHJXSRxjynht08dRsvyiK8qKA2h9sbDTA9hrRJThP5UQXl8xuytcGl4vEKn3kl4XCYIMS3WBk7usmn94El4MsvjNmhMpwLp9zHGNTYoN/DFsMeVRd3iZHOhyTVdYpKhmBqywfl6eMVK5aF/KemmzC5MMOs9rXB9BKpsGn12FBdt/RgLQTYwVZyek6+ihfsY5PETKkh5hDKlvPRke4GWJchw80RusliuuNirquNcMxeX2p7LA==;Dji96luqyyYhdItf4Uzz0A=="

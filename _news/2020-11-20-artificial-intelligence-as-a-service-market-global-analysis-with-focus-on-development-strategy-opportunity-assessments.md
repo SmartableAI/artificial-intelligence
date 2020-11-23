@@ -30,15 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Global Healthcare Artificial Intelligence Market 2020 Key Segments and Sub-Segments, Key Drivers, Restraints, Opportunities and Challenges by 2026"
-    excerpt: "Nov 18, 2020 (CDN Newswire via Comtex) -- The latest market research report titled Global Healthcare Artificial Intelligence Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 reveals the overview of the global industry ..."
-    publishedDateTime: 2020-11-18T23:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-healthcare-artificial-intelligence-market-2020-key-segments-and-sub-segments-key-drivers-restraints-opportunities-and-challenges-by-2026-2020-11-18"
+  - title: "Entertainment Robots Market 2020 is expected to see magnificent spike in CAGR with Global Industry Brief Analysis"
+    excerpt: "The Entertainment Robots Market is estimated to record a significant growth throughout the forecast period. The ICT"
+    publishedDateTime: 2020-11-23T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

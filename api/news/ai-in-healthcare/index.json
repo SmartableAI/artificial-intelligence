@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for-covid-19-patients-2020-11-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -193,15 +193,15 @@
       ]
     },
     {
-      "path": "_news/2020-11-20-artificial-intelligence-robots-market-analysis-global-industry-size-share-trends-and-forecast-2020-2027.md",
-      "title": "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027",
-      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence.",
+      "path": "_news/2020-11-19-smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025.md",
+      "title": "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025",
+      "excerpt": "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19",
+      "webUrl": "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -217,7 +217,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T08:54:00-08:00",
+      "publishedDateTime": "2020-11-19T00:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -241,8 +241,7 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     },
     {

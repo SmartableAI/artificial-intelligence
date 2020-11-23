@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond"
+    excerpt: "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry."
+    publishedDateTime: 2020-11-23T15:37:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 53
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1605998117/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?MrxsGtXtZcyI.Q4pV0YvFxd.yTFvo99G"
+        width: 1000
+        height: 486
+        isCached: true
 
 secured: "7oTIk7vPQMFWKHfTMFzgweWfFslWlMJuur+PJ0lIoRLZayxGqXg6LBj8fXj/6XzD7hHjWx6iNyz///RipBJFGL7t0ixt7bbX3ED4Uc5ZMi3lAIXA3Q4iIUG+P+VQOTeMuCCkBdPu70HDvEY6EHfpFEn0d0MBN930wxn0OPHPSK1bUg03Yph7nqxw9PDa55TWlVGypYZqqV7LcKZvRicRX1idGpj3a669VPdjumChw4iX2ETQydy57JNZVW328kxwgDgCWeha4d77g8/wZ+CXcy7afKgkMIV4PQqfeR2iPv6qqeLq8RV663QtimnKtsigolhm7Rz8knjSZkv+ZkltAWzMNBmOAfwAhV7c00TOvJc=;Bqvcl7sfflkVMwMOGFzREw=="
 ---
