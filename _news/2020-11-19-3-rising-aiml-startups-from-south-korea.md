@@ -3,11 +3,11 @@ category: news
 title: "3 rising AI/ML startups from South Korea"
 excerpt: "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,"
 publishedDateTime: 2020-11-19T09:02:00Z
-originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663354"
-webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663354"
+originalUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663374"
+webUrl: "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663374"
 type: article
-quality: 68
-heat: 78
+quality: 66
+heat: 76
 published: true
 
 provider:
@@ -19,10 +19,9 @@ provider:
       height: 50
 
 topics:
-  - Facebook AI
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 related:
   - title: "3 rising AI/ML startups from South Korea"
@@ -35,6 +34,6 @@ related:
       domain: techinasia.com
     quality: 66
 
-secured: "u1zvUhTvsQo9SDVK2ygqjArj9YfBAH8GuBl/qsBdCtQbSQ/jEBOe4zHYUQMD7yXabGcgXYAHzays8cyTywYOLOQhyogKwCq7V5ULRS4mALUnrkFLfG9dhXxFce+9eupGo7GRpux4WDLVv3VT8D9U3qIQAtLP2zMEfVAsnQO60w9vVZHJypX3CFIUtPYN8SFpeseVN/vpRA5QKPkX5oOjXDYRSg6ecu3pTeu+DqgDC7fOm9t4WwUC1K+MnMdge9LCN9+IjbB2ccrDykCyYK0NMbTdFr33GDQS4qJB9GfHywxwKtWH4g5kLPz6Jv6b3l9ka2sg12nJXo/7nhRDRtirr2E6LlzcVWJNILshJK6hl/cVgKl/ZN+vC50IZ4kr5iTvkotDOfryhb0wVV8iGDIGuHLR5ljZF8nSaIdoFLZnc3Rmxov8esnp54gtB8GcGdajWz5MdybIxaUg2cclv/xptW2Tuyy1zdYpnbLABN/IWu25G1rIp6nhcR4sQWWXj+Xssb1Ll/OZ8RAxlS27dJAQ+A==;/Gg3ZBpPce/QEwSH8Mhqfw=="
+secured: "eOUEXv6f/DB+dzzZ0i3tsl9m0nhfH8RxZpxiHHfAV6Xt1qm6wA/7PBGizcpFqh6sy49GnVTI9WAWLSsgH+DcBUUX93LHon2QJMs0VAHoWIrytqxkZE0wHH6v0zlPsLocVi+6nNqkugRtukDG50DTJFCKq9xQ2P9cA/tK5geMnyCCz8VdamcNFAn/qdneAWgzYtHYe+SOub9QKvt6gjCSsFEzn1krn+MHKWvY7mQb/wFYVdaAfnCSs/KeDrGxhlamodbxUgMiSRw4oxSRhEZFBfV5+WWVU2ylq1hr0FVSTHKAsUireKAkNNpywxhdT1ahd8r1jg3sXANkWj53am929+wvAgzR+lE7TKTfSq/lwY0yzgD1lAwrq3vwRcH9dQF42ZPqOkh0pgVo8jN2DuTBdqu9xlQAg0S7KlOIa3jBb9aU7RVU7F5HUucQOV4vVxB19aVsYKQ0ZXJUJuAM6zy4QyYz7inHqfe3b0b7nbY1AP7P/zV3awbZTZqQv+A8SR8XQN7+MnCOQUJxMhDY/HKP1A==;wNpDDfFZtn1JZ4IQXMgypg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartn
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Senseforth.ai named a Gartner Cool Vendor"
-    excerpt: "Senseforth.ai, a leader in Conversational AI technology, has been named a Cool Vendor in Conversational AI Platforms 2020 by Gartner. The “Cool Vendor”"
-    publishedDateTime: 2020-11-18T09:30:00Z
-    webUrl: "https://en.antaranews.com/news/161784/senseforthai-named-a-gartner-cool-vendor"
-    ampWebUrl: "https://en.antaranews.com/amp/news/161784/senseforthai-named-a-gartner-cool-vendor"
-    cdnAmpWebUrl: "https://en-antaranews-com.cdn.ampproject.org/c/s/en.antaranews.com/amp/news/161784/senseforthai-named-a-gartner-cool-vendor"
-    type: article
-    provider:
-      name: Antara News
-      domain: antaranews.com
-    quality: 57
-    images:
-      - url: "https://img.antaranews.com/cache/800x533/2020/03/23/Logo-BusinessWire-800x600.jpg"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Senseforth.ai Named a Gartner Cool Vendor"
     excerpt: "has been named a Cool Vendor in Conversational AI Platforms 2020 by Gartner. The “Cool Vendor” status denotes a startup that provides innovative, impactful, and intriguing solutions/products to empower users and fuel business growth. Senseforth.ai has ..."
     publishedDateTime: 2020-11-19T06:56:00Z

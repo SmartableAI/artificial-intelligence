@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/19/21575139/facebook-m
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
 type: article
 quality: 89
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -95,22 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Systems Spending Market Key Players - Google Salesforce Microsoft IBM Apple Facebook"
-    excerpt: "Decisive Markets Insights brings out report on Global Artificial Intelligence Systems Spending Market. The comprehensive report presents clear foresight of the booming market owing to the expanding consumer base and technological advancement."
-    publishedDateTime: 2020-11-18T10:51:00Z
-    webUrl: "https://www.openpr.com/news/2189663/artificial-intelligence-systems-spending-market-key-players"
-    ampWebUrl: "https://www.openpr.com/amp/2189663/artificial-intelligence-systems-spending-market-key-players"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189663/artificial-intelligence-systems-spending-market-key-players"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 57
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb18268514_g.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Facebook says sophisticated AI catches 95% of hate speech posts"
     excerpt: "Facebook said Thursday that its artificial intelligence tools and systems are now removing 95% of hate speech content and removing it before users can report it."
     publishedDateTime: 2020-11-19T19:53:00Z
@@ -126,22 +110,6 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/5271605811925/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts.jpg"
         width: 800
         height: 534
-        isCached: true
-  - title: "POLITICO AI: Decoded: Last act — AI in the workplace — Facebook’s suicide-prevention tool"
-    excerpt: "How global thinking on AI is shaping the world, from Berlin, Brussels, London and beyond. POLITICO’s AI correspondent cuts through the noise, introduces you to the key decision-makers you’ve never heard of and tells you what those in power don’t want you to know."
-    publishedDateTime: 2020-11-18T10:37:00Z
-    webUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-last-act-ai-in-the-workplace-facebooks-suicide-prevention-tool/"
-    ampWebUrl: "https://www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-last-act-ai-in-the-workplace-facebooks-suicide-prevention-tool/amp/"
-    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/newsletter/ai-decoded/politico-ai-decoded-last-act-ai-in-the-workplace-facebooks-suicide-prevention-tool/amp/"
-    type: article
-    provider:
-      name: POLITICO
-      domain: politico.eu
-    quality: 52
-    images:
-      - url: "https://www.politico.eu/wp-content/themes/politico-eu/static/design/core/template/opengraph.jpg"
-        width: 1500
-        height: 1500
         isCached: true
   - title: "Facebook using artificial intelligence to forecast COVID-19 spread in every U.S. county"
     excerpt: "A new county-by-county forecast from Facebook projects San Diego will see another 10,000 cases by the end of the month."

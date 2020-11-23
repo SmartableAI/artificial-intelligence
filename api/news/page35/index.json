@@ -2,6 +2,57 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-26-leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories.md",
+      "title": "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories",
+      "excerpt": "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
+      "publishedDateTime": "2020-10-26T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-techsee-raises-30-million-to-streamline-field-service-work-with-ar-and-computer-vision.md",
       "title": "TechSee raises $30 million to streamline field service work with AR and computer vision",
       "excerpt": "TechSee’s cross-platform, AWS-hosted apps employ computer vision to recognize products and issues and streamline warranty registration . For instance, TechSee Live, the company’s call center ...",
@@ -1122,58 +1173,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules.md",
-      "title": "Trying To Prevent Narco Self-Driving Cars That Act As Drug Mules",
-      "excerpt": "A recent news story described a narco mini-submarine that was scuttled in shallow waters after three men operating the vessel opted to evacuate and escape as authorities were closing in on them. Reportedly containing an estimated $100 million in cocaine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90c97b4f7c7f4774a83f34%2F0x0.jpg%3FcropX1%3D233%26cropX2%3D4337%26cropY1%3D93%26cropY2%3D2284",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
-      "publishedDateTime": "2020-10-25T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
