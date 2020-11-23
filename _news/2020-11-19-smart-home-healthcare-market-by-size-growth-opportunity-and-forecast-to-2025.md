@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 20, 2020 (Heraldkeepers) -- Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing ..."
+    publishedDateTime: 2020-11-20T12:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The AI in cyber security market is projected to generate a revenue of $101.8 billion in 2030, increasing from $8.6 billion in 2019, progressing at a 25.7% CAGR during the forecast period (2020-2030)."
     publishedDateTime: 2020-11-23T18:50:00Z

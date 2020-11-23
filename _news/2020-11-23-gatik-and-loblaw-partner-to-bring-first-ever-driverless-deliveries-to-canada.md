@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-lob
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCUpZpMuNAoQ/v1/360x-1.jpg"
         width: 360
         height: 236
+        isCached: true
+  - title: "St. Pete launches driverless shuttle along Bayshore Drive"
+    excerpt: "This is the second autonomous transit vehicle open to the public in Tampa Bay. But unlike Tampa’s pilot, this one travels a busy route."
+    publishedDateTime: 2020-11-23T19:01:00Z
+    webUrl: "https://www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/"
+    ampWebUrl: "https://www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 59
+    images:
+      - url: "https://www.tampabay.com/resizer/GvavLkBBGQCsK1eMLVBBtDuXKes=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/L6MRZGDE65BYXBEUK6LWLNIHQA.JPG"
+        width: 800
+        height: 450
         isCached: true
   - title: "Loblaw's testing Canada's first self-driving delivery fleet in Toronto"
     excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Beginning in January, Gatik will transport goods from its automated picking facility to Loblaw’s retail locations across the Greater Toronto Area."

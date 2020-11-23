@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Bush Intercontinental Joins Hobby Airport In Using Facial Recognition Technology"
+    excerpt: "Bush Intercontinental this month joined Hobby and 17 other U.S. airports that use facial recognition technology at its international entry terminals. With the technology, arriving passengers have their picture taken and a computer then matches it with their passport photo."
+    publishedDateTime: 2020-11-23T19:47:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 69
+    images:
+      - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
     excerpt: "Houston is the only U.S. city to have two airports (Bush Intercontinental and William P. Hobby) equipped with facial comparison technology at international arrivals checkpoints. If a passenger cannot be matched to a photo on record, the CBP officer will ..."
     publishedDateTime: 2020-11-19T22:57:00Z

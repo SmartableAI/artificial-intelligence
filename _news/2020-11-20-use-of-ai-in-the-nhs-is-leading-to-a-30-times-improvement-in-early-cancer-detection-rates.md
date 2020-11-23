@@ -42,6 +42,22 @@ related:
         width: 1199
         height: 634
         isCached: true
+  - title: "Training AI algorithms on mostly smiling faces reduces accuracy and introduces bias, according to research"
+    excerpt: "In a new paper, researchers find evidence that variations in facial expression are resulting in biased facial recognition results."
+    publishedDateTime: 2020-11-23T20:30:00Z
+    webUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/"
+    ampWebUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 71
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "2x4d3amKfuI/ocG6AWyDE0OSUYcWdz+IVgwrnFuOZvP3UZfPyXNE7seTT/AwvWoGgBgdoXWpGgayt0UHkaKoiO8S5t9q1VZLTYHSb+DtEuXm2mMhrelhSf54/JtlUgcP/umgjrCJTLeCfA6iG9xjxXwYS04nIHj+rmgGY5AQsO1VHq/3UB+tEMQ/T8p9UcS69dRM/KVrJ15n/GQuk66R1oFTScx3tJQSOqxVfS57/D2eef88wnyoH0dKTuQPWJ0owVXn5RPgsGa6pc76yzRqn9YD4KWbvztQFNIigh5ZLYi67Bf/BNszfFeY/qyRL1wpeKCr0MtyAgIIb2NFsTMomHMadoqgSeUMROMmexEWij0=;+sxkioZEaQXwLOpdM1ZdJw=="
 ---

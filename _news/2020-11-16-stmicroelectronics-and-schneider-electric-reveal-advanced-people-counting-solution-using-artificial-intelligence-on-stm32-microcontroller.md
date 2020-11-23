@@ -1,39 +1,26 @@
 ---
 category: news
 title: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller"
-excerpt: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller. Geneva, November 16, 2020– STMicroelectronics, a global semiconductor leader serving customers across the spectrum of electronics applications,"
-publishedDateTime: 2020-11-16T15:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution"
-webUrl: "https://www.nasdaq.com/press-release/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution"
+excerpt: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32"
+publishedDateTime: 2020-11-16T15:20:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-1029806870"
+webUrl: "https://markets.businessinsider.com/news/stocks/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller-1029806870"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870"
 type: article
-quality: 16
-heat: 16
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "STMicroelectronics and Schneider Electric Reveal Advanced People-Counting Solution using Artificial Intelligence on STM32 Microcontroller"
-    excerpt: "STMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, and Schneider Electric, the leader in"
-    publishedDateTime: 2020-11-17T14:25:00Z
-    webUrl: "https://www.eejournal.com/industry_news/stmicroelectronics-and-schneider-electric-reveal-advanced-people-counting-solution-using-artificial-intelligence-on-stm32-microcontroller/"
-    type: article
-    provider:
-      name: Electronic Engineering Journal
-      domain: eejournal.com
-    quality: 4
-    images:
-      - url: "https://www.eejournal.com/wp-content/uploads/2017/05/cropped-EEJ_favicon_2020-copy.png"
-        width: 512
-        height: 512
-        isCached: true
-
-secured: "3PfHnGV7nOOC5bNBXHtkZv5zC92Ta5bsRre/UcoiEgQth/vJEGNeNPUjqKKiQKVG/ofVfGpZ6XUIilzOCRXtqtbBMRLSfeO1CXDIgHM+pSDZqhMax6ZScoMuO9ZuJ9YwIoREbq89NJ9Ff64Mu7396fAyE60CkmENUD4Xs7Pd7QOO01HQFnXLKeW3qOgSPexYGUuEkGwJwanQqLOq3x2J6/UVJRTG13M5xb8QC4Nvllwpsvyrldc6pbBnSE005JqOP7IchncrYfPyTvx+riug1UbKgkOapaStUdmbw68O7/+ShNKSINSYzWM4DuVoJAep463yuZhmr5ZPgDsO7Bh5yDDEJ5/xbALRwQ3eM8Bk7Ew=;wN3zTiWGPLQcWvjbhIdytw=="
+secured: "mwybfPSiQEgINeUlu23qRDW/8p0Umwp0LsRbp4SOtfI34jv0HSjb6kmfUjctMnAotNp7lTAlEUP6O6DP7NAQmAVPfk9SkbuvB2/W20IYWrIviGoR0kFKCprSWlcSYPkzTah3S3j+CUtEGgzLeiCZUpjxWjWSD5jGLG6uThMg77ju4jgj+jSpiaOJiqtSTYNE+lwsP9JZkYXRcIRwqvToBaC/PDFgUNQ627gLu5BrwLPIxk8hBYR9EPRn/EJU+h8ONyjj56q3S+pODX6Q7r/UMvqzEWxScN7VqJqSnHgjDZnB5KVmiYNAZAtup8q91ZvN4EzKY3lwtcs9HQQ8gXvKkpCRgTIDkVrZQ+3h9E4o4zU=;qMq/tO93jcDUj79JmDnyNw=="
 ---
 

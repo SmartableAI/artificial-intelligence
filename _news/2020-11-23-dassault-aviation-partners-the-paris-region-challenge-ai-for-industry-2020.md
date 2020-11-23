@@ -34,7 +34,7 @@ related:
     provider:
       name: NJ.com
       domain: nj.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png"
         width: 1920

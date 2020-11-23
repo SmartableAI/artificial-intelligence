@@ -57,6 +57,22 @@ related:
         width: 360
         height: 236
         isCached: true
+  - title: "St. Pete launches driverless shuttle along Bayshore Drive"
+    excerpt: "This is the second autonomous transit vehicle open to the public in Tampa Bay. But unlike Tampa’s pilot, this one travels a busy route."
+    publishedDateTime: 2020-11-23T19:01:00Z
+    webUrl: "https://www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/"
+    ampWebUrl: "https://www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 59
+    images:
+      - url: "https://www.tampabay.com/resizer/GvavLkBBGQCsK1eMLVBBtDuXKes=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/L6MRZGDE65BYXBEUK6LWLNIHQA.JPG"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Loblaw's testing Canada's first self-driving delivery fleet in Toronto"
     excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Beginning in January, Gatik will transport goods from its automated picking facility to Loblaw’s retail locations across the Greater Toronto Area."
     publishedDateTime: 2020-11-23T18:02:00Z

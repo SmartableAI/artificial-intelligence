@@ -1,28 +1,32 @@
 ---
 category: news
-title: "CEO’s of PayPal, Logiq, Peak Fintech, and Square Discuss Bitcoin, Fintech and New Growth Opportunities in Digital Wallets"
-excerpt: "The convergence of AI, Big Data, Smart Phones, and financial innovation is driving massive new growth opportunities in all aspects of financial services.Wall Street Reporter highlights the latest comments from industry thought leaders: PayPal Holdings (NASDAQ: PYPL) CEO Dan Schulman: “Rise of Digital Wallets Will Drive PayPal’s Growth”"
-publishedDateTime: 2020-11-23T17:36:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ceo-s-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets-1029830619"
-webUrl: "https://markets.businessinsider.com/news/stocks/ceo-s-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets-1029830619"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/CEO-s-of-PayPal-Logiq-Peak-Fintech-and-Square-Discuss-Bitcoin-Fintech-and-New-Growth-Opportunities-in-Digital-Wallets-1029830619"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/CEO-s-of-PayPal-Logiq-Peak-Fintech-and-Square-Discuss-Bitcoin-Fintech-and-New-Growth-Opportunities-in-Digital-Wallets-1029830619"
+title: "CEO's of PayPal, Logiq, Peak Fintech, and Square Discuss Bitcoin, Fintech and New Growth Opportunities in Digital Wallets"
+excerpt: "The convergence of AI, Big Data, Smart Phones, and financial innovation is driving massive new growth opportunities in all aspects of financial services.Wall Street Reporter highlights the latest comments from industry thought leaders: PayPal Holdings (NASDAQ: PYPL) CEO Dan Schulman: \"Rise of Digital Wallets Will Drive PayPal's Growth\""
+publishedDateTime: 2020-11-23T19:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ceos-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets-2020-11-23"
+webUrl: "https://www.marketwatch.com/press-release/ceos-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets-2020-11-23"
 type: article
 quality: 29
 heat: 29
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Masters of Scale: CEO's of Square, Logiq, Alibaba, and Spotify, Driving Global Growth in Fintech, E-Commerce, and Digital Entertainment"
@@ -37,6 +41,6 @@ related:
       domain: benzinga.com
     quality: 7
 
-secured: "r+xjKj/EJ+mWTrnncrwyC0sWajRgWks25TbfbffHqhkeibgXbNeXHvL+G6/2SHUZhokXtQLsxsgouXKpuhcN4LcHqTRFXN+15eHlFPwx5SdbiWxn94KJxmWBLbz8Tr5xKcrQcC4ASDjAyoEdsTGqN9cpuDtmWq8gSQUs6LHTxRHzbR7adKZi0W0kpFTs1Du/dQ7ficnQ6UYEtC42SQKRbzfrsKi2ytIgcu20jhLfixvVEhfAG1qJBEd2sLd8CTycuuNLy8BeSFsPs4DxIQbMoYhYDu1PH7Qn4PRm06bRkhx3Vx7mwGZV6Gy30QF9AIBzrq0kNCv/rwLIf+nASBhOlb5GgtfTKZIAuDJBe9pePY4=;IuuwtyTSXS7n5vxd34ekDg=="
+secured: "VKWgc1d6uTCllk1JuRdMiGgnj54RKr/vxLmikfDrjFIs+VP9ljs5BcRBXuMNdRtfefbmcWJmZoWT4EB4JmLN/yErl55udrtwluiFySRveCBiXDoRSxGHZuIwF0uho8piJ0PNTe3Pa3A8clxP04/7JsAFbyXz4VCvDNeRjyVHK9Y9QFZeXzPV3koJ90P38q57ZL06cBiPhpgAhi11TK6uVLHlBUaeJULFojjEMPXq0vcw14/bE72p8BZ7K2OgivYv0zizvxg1U/h9TauA/6K7/UgLBqpQoSYlrRlKUyXocKm1qRzOHdVT23CaCzSiqB8syEbIhrGcvENSu7JcVK3DPKELwvi83iwkYZN6sGcOtmo=;LP0Qyoy+8Au+DcLD3ogpPQ=="
 ---
 

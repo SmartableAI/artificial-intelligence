@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Joint Artificial Intelligence Center Has Substantially Grown To Aid The Warfighter"
-excerpt: "It was just two years ago when the Joint Artificial Intelligence Center was created to grab the transformative potential of artificial intelligence technology for the benefit of America's national security, and it has grown substantially from humble ..."
-publishedDateTime: 2020-11-19T01:31:00Z
-originalUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/"
-webUrl: "https://www.defense.gov/Explore/News/Article/Article/2418970/joint-artificial-intelligence-center-has-substantially-grown-to-aid-the-warfigh/"
+excerpt: "Joint Artificial Intelligence Center Has Substantially Grown To Aid The Warfighter. It was just two years ago wh"
+publishedDateTime: 2020-11-19T08:19:00Z
+originalUrl: "https://www.globalsecurity.org/military/library/news/2020/11/mil-201118-dodnews02.htm"
+webUrl: "https://www.globalsecurity.org/military/library/news/2020/11/mil-201118-dodnews02.htm"
 type: article
-quality: 46
-heat: 46
+quality: 26
+heat: 26
 published: false
 
 provider:
-  name: US Department of Defense
-  domain: defense.gov
+  name: GlobalSecurity.org
+  domain: globalsecurity.org
 
 topics:
   - AI
 
-images:
-  - url: "https://media.defense.gov/2020/Nov/12/2002537456/1280/1280/0/201110-F-VG042-1134.JPG"
-    width: 1280
-    height: 854
-    isCached: true
-
-secured: "wtIarNuJ9W4tPn+tSH/NBL3awm8e9MBEeY2j063JoNatUY4VJ6ZRPJtBUMDmgSBA8Okf0Yl6tE92RZvGD1Os+SPbcPIuGeTAbYvB1OdShiTlogwk7XrNArGtdqhYBbk3wnhqUXYKke+MU6tyfwI7TsMmhMu1MjIMpNFasLXIPr9wNwpX45zuafQPIG4SdobFP8rrg3nVTCoOfadz8dZ/Ck3VlCQgEVt8cxAM++ZrT7Sp5FgIyXtu/tv37ZmlPVVhC1KqkTfAask/iU6kRLdKC2MMuhJv34qafxVqRPEgWqylNZRa44oTa6lP5rlCtO4D/XggcLWSo1cFhWQb9gqNiDNrMJ2XeaxUobepF4BrOaBg3PWRY9brAcyMcVmC9vT2dF9x/c7kJFFy6oPshHbSSBwOeHPbGsdVq7QUr74ygbemYUOPD7gCA5CSs1i/whKOGKtXm5btEm25vwVd7K0imZ7xgFonf8HSlQ3o7yQmtJMiWmDNh6lvSqSoUqcNaHa1ciRtLPMd4YKfhEDpzSLPvw==;hw4cx/3QuETCzgCWwvvX5g=="
+secured: "TXFnuohdpqe93A/G/tWYDg0AUlCia2O6hHqyRpbfffHzpijW+mTHT/LQVk7XWg5tK7gR9MdXHZKK823rUsA+RowsynFuU492GKs3R/fiVOdnu8Zo/wqAA7R43AJbAkqaWf0gVO9BxJW3iBh99gz+gNMLpFZ3xVugMBdl+2cQsrqvLPTb8PlTNHdCt3ygYGWRq+oAJ++1L2qqVNKGOmGc3V2p3m7WnfSi0ud9e4FDx9FKnJMiifmgQ6Yg8pkE4Y7Lvh5M8nVIN/lnhvNAgNvrr+TpP1rBLCSthsQ0RMk7V6RL4PNF7gnG1xUgKZqauF0eg1DV2+q42QEj3ltqH+Iz4tziMJKR+R+nx/4vZxEMTAc=;PU3zkV+9egIbMUWcHIPX2g=="
 ---
 
