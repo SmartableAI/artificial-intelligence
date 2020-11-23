@@ -7,7 +7,7 @@ originalUrl: "https://electronics360.globalspec.com/article/15991/video-motional
 webUrl: "https://electronics360.globalspec.com/article/15991/video-motional-to-test-fully-self-driving-cars-in-las-vegas"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Money Talks: Artificial intelligence looks smart in Las Vegas tech show"
-    excerpt: "This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. Learn more"
-    publishedDateTime: 2020-11-19T06:42:00Z
-    webUrl: "https://www.trtworld.com/video/digital-documentaries/money-talks-artificial-intelligence-looks-smart-in-las-vegas-tech-show/5a5caeac0a65dd34668bbcec"
-    type: article
-    provider:
-      name: TRT World
-      domain: trtworld.com
-    quality: 37
-    images:
-      - url: "https://cdni0.trtworld.com/w640/h360/q75/25301_USA-2018-01-10-CES-tech-show-LA-AP_1516023790183.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "7gYGGuCrppN8vYqGQrLus6S6zJRDCffuVZKh8KAejEOGXF1XS2LOgQBTNx8d3P+4tZKltrHNuoHj6CAg3+J1ZOEIptGX2damw/dAxaY0X6/8dv3P1bDNSb04lVUunF+CfHI8DxJM1j7fed1z7ykWlNP80Ok1VSCLiFg+OtgzqUHlloQothXNAI3StbHHasfsWDOfF8OHUFsXU5B9UGDeJ6+QzCRCmsD2fSGT2kkJBPKz4uE7SoBciN5b/+jh9ylspbVDoCtYYSObs4M6bzcW5+DPL5ByGCPBL4vQyWhncpXtSIfhxZyouFyczL40UzmHf7Z59t/50xFTn0uFZeeCwTvlR/YYB2ZiOvxb+IhaS/4=;GgJPiN6WeD7F3kUgOsq9LQ=="
 ---

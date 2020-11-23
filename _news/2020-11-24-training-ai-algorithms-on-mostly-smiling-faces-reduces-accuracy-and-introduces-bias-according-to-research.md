@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smi
 ampWebUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
 type: article
-quality: 71
+quality: 73
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
@@ -64,6 +65,6 @@ related:
         height: 739
         isCached: true
 
-secured: "+xnGEB/cJtqwzrILYpB6kND0GN77WM4dNtvjLNqcRnLWsE44u3t2ZhJ48dTiGQi4Qz0RfWQgzoi2pg69Z8DRfz3YTJDrSMIPJe/VQT2kJRRttQcudtnu4CWrD8P0nv+pqovHBTLvTZ3cGWKo0zqtfjCaQz8VPCXjOLSJiyW7kckdu39a+D41JG3n8bbfNxKQNpD9Eb+hI3vPxdyyXq7lCHC4Au7BN3hbdaRyVUgB0U70hPjEXjLVlXt6h5Z2a6+t0uJS5w3xT827usi+efuJN65yOZT4Ty3Anu3FoPHTOfn6XwxFOVTpWU4I9WbCqW9IzG/X8JM44N2nfelI8uBAbjW4kmRYlkYyJjme6ya8+zw=;OHuDq22mG+2854OXBm8+tg=="
+secured: "o36zcu9cz1qFe5Ob4T5AgDcCBk2SYkCwvp+mNrVYbML5U6RzEzC/0CuiupX26Ex+eSD56K/Jz+T84vadM7FI0sSrZltMronYUEY2cGC4QBD3WF62Fvg7WBPHZSVnSc/dIPPBL4t4x5BBuhFWiyUmJEqXBC9kTOBqFtY/f2J+C0a/KJ72hc72LgQ9HEHdEtTXQU81PosA7tT/ht/6pU9hCO+pAlduTMkY2u/+yxtUhgTuayTQxXv1HHIyYXq6XkzyWwKMODGRTGVa8anAseWER5l0eUka8ml7GjMSfHxg+NFt+a6s6t/NJWV5GvYaPk8ICje++Z2yV2Lnu9i6QGzxyMgpgT9DksIWhn1L5SwuRnChhnrCOE8lM3yDumC68gJODKTR6nO1FTFaS3z5nMOIvRWdafcr4A45t48UUAKceKkxCkmKELi9kLjrlaIAFkUQJP7WZMarxCHOnzx3o38L6tNB2Zre7vDhC6dzyNqqTIHz8y3HCdFQWyogRxAe4CVn/JcE6cm7rOW1+KS7/OMXXQ==;1yyX7ngCG5H9f9XMFghyWQ=="
 ---
 

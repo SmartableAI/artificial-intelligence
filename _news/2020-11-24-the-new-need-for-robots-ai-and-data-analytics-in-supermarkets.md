@@ -1,25 +1,25 @@
 ---
 category: news
 title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
-publishedDateTime: 2020-11-23T20:07:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
+publishedDateTime: 2020-11-23T18:37:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - Microsoft AI
+  - AI in Robotics
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/19/rawImage.jpg"
+  - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
     width: 2000
     height: 1333
     isCached: true
@@ -95,6 +95,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7cm1NfsAsIHU4R7UVNkp74IrpbEPX+Njw9H8Qhhd49U1MhyOhY5TaMSTf47Pgd4aGp8Yy0u9l27fQQ2IOwBW1pvJ4rPDO/WtgIq1dUPH0KliwV9Zt1ENR9C5h5Wnx1G0v2L8ASGoumIiiD9KweUwAavYXAxcc/xCrLktKSR9vcm1vX7rn6vKMM6JxozRwKTfUfWZQ7TRQtdIXG99oCOkbMMXWkiBR5yw+ZhXoHePi23oW8K+fwUMKF/HQ9W0bc8KiGns6kXMB+IIqkdI9DwcD+05MAlSuaqCR+/LQIiJGuQFVd2r5xCvrSBzUGXw3SuM0Dbq7eXf6sGehmO2Y3TIhXD7hHwxQDoqtS0c2r3NC2g=;MJwliGhdbIlEQQbEOdVsQw=="
+secured: "Xaebuk8mFjRJZf0IN4/WVGq4TKnW6S6TPXi/bPuSjj7Xak1jTTYBzQRLO6HsL3VFpT+ELIreySQEfHpVWkHqsgBhYoBg5QCLnI9TfjaOzD4j6gixaq3lwoJ1qpeCjtkm4ppo+1lq33QOAmLaB8xtkJqsCR37Z/gChZmNDJ8g+WkANsZhcYejxiD+La29+3DGQzs97/qNxEEDaM1xs+wbp1t+/0oXHfVhzhU2gNpu9JEONu+Jzr692G5ZjzCr/BcVN3ex0Ub90Gk5zwyNyz3U53kON+0sgR81rwMwZ7W5l0Ahf/LUUN3Pj6gLPAs8akUsHr91xFyXLa+ydqFZbBPZlH5MkdTFbvq2YLgzZVjRB8c=;tjwl/IgXw/Ecl6oE/Q+5eA=="
 ---
 

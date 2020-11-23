@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-artificial-intelligence-satellite-tech
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Storm ID and Zebra Medical Vision to Co-Develop Revolutionary New AI Based Osteoporosis Prevention Solution as Part Of UK-Israel Collaboration"
+    excerpt: "NHS Greater Glasgow, Clyde UK, Assuta Medical Centers, IL, partner with Storm ID and Zebra Medical Vision for early detection of osteoporosis"
+    publishedDateTime: 2020-11-23T21:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123006272/en/Storm-ID-and-Zebra-Medical-Vision-to-Co-Develop-Revolutionary-New-AI-Based-Osteoporosis-Prevention-Solution-as-Part-Of-UK-Israel-Collaboration"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20201123006272/en/841451/23/PR22_11Orange_%281%29.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "xw0ab0useeuudqvQylgdg3oepT56FcXTu09FgKGq25PJHvMDm03hYfxqQY0jmE5PVPkbKrLFokvVgqO7D2DIeW42h1inz98LveFsqpearuFqPuGFINhqGorfMfuBFa+1HFsGygnrKNXAH3taOJ6bE1r/d6PFJVG5pX9jluCBo1voSWnqkzsQdzBX/sFJ+J9BUBkGuIYAQdoXnRdtjmRz+F8ycKuoxKPfIIJSf9+WbxCXjEU27fqusB8FLYMf/VMVNSN6zqur7jP4FplcKtKUZJ/mVUm5aWjBbINw9b3o6E/hWfqfaFIWtN5AxLG4Bp1xHgqSMH50m+DKZES82yMnHx3OuoV7DVPCCCX9HLzKnQRJb33HOMIttPTcN+lu0VumoN0tKS6sCWmtkyCubrX5drfZLfhj4pIvPgos6/QQRRphuPzHjdqBQmDPGjgFm769Rgyd6cNLixrO5HG2hiXwUeJQeDO2JuZNqPH0MA1cycnKKGdbmyJ13x26az7gB8TQZa4c/3sKyUkmpx9Fp7YlHw==;eU8r5BbILDaEuvXhYbCLow=="

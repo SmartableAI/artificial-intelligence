@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "CBP plans broader use of facial recognition"
+    excerpt: "According to a proposed rule change, Customs and Border Protection will expand the use of facial recognition technology for entry/exit tracking systems."
+    publishedDateTime: 2020-11-23T21:25:00Z
+    webUrl: "https://gcn.com/articles/2020/11/23/cbp-facial-recognition-rule-change.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognition2.png"
+        width: 760
+        height: 368
+        isCached: true
   - title: "Biometric ID systems in prisons, but no facial recognition says Corrections"
     excerpt: "The prisons department has spent at least $800,000 on biometric identification systems since 2016, but admits it does not keep close track of spending. One system is used for all prisoners, while two other systems are also used for visitors at two prisons - Auckland Prison at Paremoremo and Auckland South Corrections Facility."
     publishedDateTime: 2020-11-22T01:29:00Z

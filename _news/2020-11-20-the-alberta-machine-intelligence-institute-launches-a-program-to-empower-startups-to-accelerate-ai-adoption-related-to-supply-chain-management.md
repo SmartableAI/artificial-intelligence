@@ -49,15 +49,6 @@ related:
         width: 1836
         height: 2461
         isCached: true
-  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    excerpt: "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,"
-    publishedDateTime: 2020-11-19T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
   - title: "IBM Buys APM Startup Instana To Boost AI Automation"
     excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
     publishedDateTime: 2020-11-19T18:02:00Z
@@ -110,20 +101,6 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/ibmthroughleaves_shutterstock.jpg"
         width: 1000
         height: 637
-        isCached: true
-  - title: "IBM Announces Its Second Cloud-Related Acquisition This Week"
-    excerpt: "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises."
-    publishedDateTime: 2020-11-19T06:35:00Z
-    webUrl: "https://www.ibtimes.com/ibm-announces-its-second-cloud-related-acquisition-week-3085232"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 24
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/01/28/ibm.jpg"
-        width: 1200
-        height: 816
         isCached: true
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"

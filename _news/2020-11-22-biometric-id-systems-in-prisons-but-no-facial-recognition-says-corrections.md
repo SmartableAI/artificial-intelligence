@@ -39,6 +39,20 @@ related:
         width: 2048
         height: 1151
         isCached: true
+  - title: "CBP plans broader use of facial recognition"
+    excerpt: "According to a proposed rule change, Customs and Border Protection will expand the use of facial recognition technology for entry/exit tracking systems."
+    publishedDateTime: 2020-11-23T21:25:00Z
+    webUrl: "https://gcn.com/articles/2020/11/23/cbp-facial-recognition-rule-change.aspx"
+    type: article
+    provider:
+      name: GCN
+      domain: gcn.com
+    quality: 39
+    images:
+      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognition2.png"
+        width: 760
+        height: 368
+        isCached: true
 
 secured: "5EXwNiAbne6a5vhNEkv7dPn8bka5ZjViM48GbIHmmd6WEhbTk6IEWH2f6HQt34oGozsbSo2epaorsyAWdHcj5FST1NnBXY//BpqOJiZXmKii4Qw0kLDS9GHgOXxY2J44/7qWK7laOzj77zoqJ7sPJqutncjnK4+579mRFoETIVTmTIe+idN/3W+NXUcz+bPESKrXy0Swv7N8PA8M7Z6qNCoeCxNHEapp9EKW6nv8EvXNKXU1gePUxdJAecRn7rPXUfbGn2hQF/mUVbl6pIdZdiCDPhLqcJWbo7uC0FNjF8FksUQFpbCNQfuN1px6GOM9baRxwX9c5PTM+Fkghimh3QqTboG0224tmWB/iJtFMUw=;CS+XbVucRPQAmJYmeSJevg=="
 ---

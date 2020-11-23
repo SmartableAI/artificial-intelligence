@@ -54,6 +54,20 @@ related:
         width: 394
         height: 263
         isCached: true
+  - title: "Storm ID and Zebra Medical Vision to Co-Develop Revolutionary New AI Based Osteoporosis Prevention Solution as Part Of UK-Israel Collaboration"
+    excerpt: "NHS Greater Glasgow, Clyde UK, Assuta Medical Centers, IL, partner with Storm ID and Zebra Medical Vision for early detection of osteoporosis"
+    publishedDateTime: 2020-11-23T21:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123006272/en/Storm-ID-and-Zebra-Medical-Vision-to-Co-Develop-Revolutionary-New-AI-Based-Osteoporosis-Prevention-Solution-as-Part-Of-UK-Israel-Collaboration"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20201123006272/en/841451/23/PR22_11Orange_%281%29.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "WK80FrlgC6+mqxeS4JZPNYCTP955142jHkrNyeTcBqNd/SDpaLVFDWVSQIN9fOmbAMIIUMml5D7NbrgZaHZy5MJdluEnpbI5TH8BJa6gxM62Ly0uUYta1RWHfugDcoh5B4SqyqduRj+z4N9g6ehJgQYtg0Slp5fvue/meKYPdi3kXXk65vVU8mlEOpoIf9bkZRHUMMKoR4TJnb46+SAjQ3d3P5xMLtXrsK924+ss7GxvD66Pmm/3MgpjEEhXgRFcm4uicpjC54y9dgN4lsrYunaUjwvtmXVqKMHP1WmnIjhbl/wOsxB4jCI1QxChMM0PgKlJf0XOX3hSvFhgNECxNcFMLczu6oKYRkdYZPeEJQ0=;3Yj21S3F/hPbPZEMHUf75A=="
 ---

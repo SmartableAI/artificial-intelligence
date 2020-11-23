@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
+    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
+    publishedDateTime: 2020-11-23T18:37:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 54
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Machine Learning User and Entity Behaviour Analytics Report 2020"
     excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
     publishedDateTime: 2020-11-23T11:04:00Z
@@ -70,20 +84,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
-    publishedDateTime: 2020-11-23T20:07:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-    type: article
-    provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/19/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z
