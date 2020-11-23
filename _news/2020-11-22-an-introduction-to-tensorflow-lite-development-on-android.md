@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 805
         isCached: true
-  - title: "Google releases new version of TensorFlow optimized for MacOS"
-    excerpt: "Google today released a new version of TensorFlow, its AI and machine learning development environment, optimized for Intel Macs and Macs powered by Apple’s new M1 chip. Taking advantage of the ..."
-    publishedDateTime: 2020-11-18T19:34:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/04/TensorFlow-logo-Google.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
     excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
     publishedDateTime: 2020-11-21T12:39:00Z

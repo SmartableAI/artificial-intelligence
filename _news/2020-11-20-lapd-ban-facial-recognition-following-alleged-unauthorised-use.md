@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
-    excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
-    publishedDateTime: 2020-11-18T19:32:00Z
-    webUrl: "https://hothardware.com/news/lapd-facial-recognition-ban"
-    ampWebUrl: "https://amp.hothardware.com/news/lapd-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
-        width: 708
-        height: 470
-        isCached: true
-  - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
-    excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
-    publishedDateTime: 2020-11-18T19:58:00Z
-    webUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/161364/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/18145456/LAPD.jpg"
-        width: 780
-        height: 438
-        isCached: true
   - title: "LAPD bars use of third-party facial recognition systems"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
     publishedDateTime: 2020-11-18T22:26:00Z
@@ -68,6 +38,34 @@ related:
       - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Laptop Employs UWB Radar, Facial Recognition to Authorize Users"
+    excerpt: "Lenovo's new laptop leverages a Novelda system-on -chip to detect an individual's presence, which launches facial-recognition software to identify users, thereby automatically opening when they arrive and locking when they leave."
+    publishedDateTime: 2020-11-23T09:30:00Z
+    webUrl: "https://www.rfidjournal.com/laptop-employs-uwb-radar-facial-recognition-to-authorize-users"
+    type: article
+    provider:
+      name: RFID Journal
+      domain: rfidjournal.com
+    quality: 39
+    images:
+      - url: "https://www.rfidjournal.com/wp-content/uploads/2020/11/Lenovo-1.jpg"
+        width: 500
+        height: 446
+        isCached: true
+  - title: "Biometric ID systems in prisons, but no facial recognition says Corrections"
+    excerpt: "The prisons department has spent at least $800,000 on biometric identification systems since 2016, but admits it does not keep close track of spending. One system is used for all prisoners, while two other systems are also used for visitors at two prisons - Auckland Prison at Paremoremo and Auckland South Corrections Facility."
+    publishedDateTime: 2020-11-22T01:29:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/biometric-id-systems-in-prisons-but-no-facial-recognition-says-corrections/7KQWGK2YGN5AQBRPS5GSNQY5IQ/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 37
+    images:
+      - url: "https://www.nzherald.co.nz/resizer/zLbqzitM0oEtNuxQzV70Mo4IckQ=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/FEWIV6YS7MTSS72TJUCYFSQITM.jpg"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "D2cpgIn3vF32Puyi10CcExuJmsxVelPp66rij4J92GGIhFhki/lyHgdBX+rfqbW9XlrSUSYZaxFqd5vNDWuLBPKVHt+eJojllkytH9B0y5k6F+oT/iIHiGeHGN8Ai0+zM0eH8HmMA0p0G5KYPj16KsttW/Z7bEaomYmevGgRfcziqDd+EeNPBK+lXDm3EZF3cd4NLBAxLbEoD4TgXFpEqO8GlWwRGle+lnikuXGIvcEPIBheA/Ghvamkun6IrKyMierqUhc5daUPp1rwNyDD5cBebFGmJhRVBseSgXV9dilbrjI2w3QGVeQk+WgUf6bWfHegP6od8HYgKqSBa3Kgo4qBRAQP4NMv9y1IKAWRkhQ=;697jp0d8rSoKXdM7kXQLAQ=="

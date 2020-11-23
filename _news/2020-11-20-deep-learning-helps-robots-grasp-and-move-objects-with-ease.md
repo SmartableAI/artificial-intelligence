@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118141827.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/11/201118141827.htm"
 type: article
 quality: 66
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI in Robotics
 
 related:
-  - title: "Deep learning helps robots grasp and move objects with ease"
-    excerpt: "Skyrocketing demand for online retail, triggered by the COVID-19 pandemic, has left many businesses struggling to fulfill orders while ensuring the safety of their warehouse employees. Researchers at the University of California,"
-    publishedDateTime: 2020-11-18T19:05:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--dlh111620.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 56
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/248976_web.jpg"
-        width: 1440
-        height: 1108
-        isCached: true
   - title: "UC Berkeley researchers create artificial intelligence to grasp, move objects"
     excerpt: "UC Berkeley researchers create artificial intelligence to give robots the ability to grasp and move objects smoothly and assist in warehouses soon."
     publishedDateTime: 2020-11-20T19:05:00Z

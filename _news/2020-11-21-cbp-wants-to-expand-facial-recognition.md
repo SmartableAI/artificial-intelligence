@@ -25,99 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Houston implements facial recognition technology at airports"
-    excerpt: "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals."
-    publishedDateTime: 2020-11-20T16:14:00Z
-    webUrl: "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php"
-    ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
+  - title: "Congress Is Eyeing Face Recognition, and Companies Want a Say"
+    excerpt: "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators."
+    publishedDateTime: 2020-11-22T09:12:00Z
+    webUrl: "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/"
+    ampWebUrl: "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp"
     type: article
     provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 74
+      name: Wired
+      domain: wired.com
+    quality: 89
     images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+        width: 800
+        height: 450
         isCached: true
-  - title: "Wrongful arrest exposes racial bias in facial recognition technology"
-    excerpt: "Detroit police defend the system, even though the police chief once said technology alone may misidentify people 96% of the time."
-    publishedDateTime: 2020-11-19T12:00:00Z
-    webUrl: "https://www.cbsnews.com/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
+  - title: "Facial recognition software is learning to identify bear and cow faces"
+    excerpt: "Nowadays almost everyone uses facial recognition in some form or another -- maybe it's to get into your iPhone, or when social media platforms suggest tags in photos. But if you thought humans had the monopoly on facial recognition software, think again."
+    publishedDateTime: 2020-11-23T11:46:00Z
+    webUrl: "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/07d3d65a-fe56-4311-8a0b-38d42b352641/thumbnail/1200x630g6/d46cd602dc62d704f9da5ff7f20af4e6/detroit-police-surveillance-monitors.jpg"
+      - url: "https://cnet1.cbsistatic.com/img/rR_RZA0zkc895t7cvkrGUVfW_XE=/1200x630/2017/05/11/e208a8c4-30c6-4b77-a7a5-6577c3a64e6a/gettyimages-490055-0011.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
-    excerpt: "Houston is the only U.S. city to have two airports (Bush Intercontinental and William P. Hobby) equipped with facial comparison technology at international arrivals checkpoints. If a passenger cannot be matched to a photo on record, the CBP officer will ..."
-    publishedDateTime: 2020-11-19T22:57:00Z
-    webUrl: "https://www.khou.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
-    excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
-    publishedDateTime: 2020-11-20T23:58:00Z
-    webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Delta Tests Facial Recognition Technology in Detroit, the First of Its Kind for Domestic Flights"
-    excerpt: "Delta Air Lines is expanding its use of facial recognition technology with a first-of-its-kind pilot program for domestic flights, the airline announced Thursday. Starting next month, Delta will test the digital ID technology for domestic flights at the Detroit Metropolitan Wayne County Airport,"
-    publishedDateTime: 2020-11-20T15:41:00Z
-    webUrl: "https://www.travelandleisure.com/travel-news/delta-facial-recognition-covid"
-    ampWebUrl: "https://www.travelandleisure.com/travel-news/delta-facial-recognition-covid?amp=true"
-    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/travel-news/delta-facial-recognition-covid?amp=true"
-    type: article
-    provider:
-      name: Travel + Leisure
-      domain: travelandleisure.com
-    quality: 46
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F11%2F20%2Fdelta-ID1120.jpg"
-        width: 1800
-        height: 938
-        isCached: true
-  - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
-    excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
-    publishedDateTime: 2020-11-20T00:06:00Z
-    webUrl: "https://www.colorlines.com/articles/lapd-bans-use-commercial-facial-recognition-technology"
-    type: article
-    provider:
-      name: ColorLines
-      domain: colorlines.com
-    quality: 39
-    images:
-      - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "VwC+NNcrPQQgseK5YAejKe34qBCizqDVTYBn8So6zoLDPHtDUDZbiVQpdgXDOA3OsGSvAVmvlyRvY8WiygVTGXBzL9j6O/+37VPLV/9J6T0VSdZLHAA21kROlZm2aPU567vvMyK+CVkTEieJrNqB4GngKe+6eoUQsylFRVzQEfhsSEa8hN56+2m18xvTNCKLGlo9valfu5w3852mnAgd4HGah1K++Oi8KUx5kzLDjWteSNJGhu910cYc2vA8/ezSYeTg14QUml58HDBCOaoHq5eiXStDX0y44A60itw1+yskIKR+XgumK8j0WlAW0v5HIdYhZYe28BmexaLs0WmqT99FqRiJPl/udDr3Y18R5pw=;Nh2XzFr/hP6O49PN32aFtQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotech
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/"
 type: article
 quality: 99
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
+    excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-11-23T11:29:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 53
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
         isCached: true
 
 secured: "sYECRLM18YF1NP4B/nBlTQ9qyELquwDDx9v8zRcT5FgUBHVuSJiEqgWJtyBwEqcq2eA26m39Yae1WZ6nlxvixKOd80C2E8EjA50w2pKxwSGEj2cgKcDeot6IFLwarksIsbS8M1qAUyhpkiYTqZn6SzFZuZqR3ORQWmSwhOcb6QYGBlU98yX1nKwccUcIP0D+et7eKtH8YRcXONFGRHd/MHl8Y3n59T18MxBI7nthe9AjqJ3VJxiavt+IT/hMhWigxFc0FZyCoq+0VeWtV0U6bISpUkzj92u3XdEN0Rkypva535whoN6vF8nLxOZejd3Qz92JIEEM+1UERDwb5TJNuh5Klo/LbCD+hWGlyiGZtoLyjhhHKV4wMTzT0RZyzKUg2WHdq4LI4aa9r/C0ycAkQaudD4Jl5XzIahJ4qIltDR96BN97bcs+wmzF9W8GuZtvemU4PcqO39axMqWu7IQUpXv45Fwvf2bBpSjx33DDO/3RIY0i+pvTtdJRKz9rN6gQd2rcD5uD+TuHr2RtjgUArw==;7/dW0anVbK2HHZIiegclxA=="

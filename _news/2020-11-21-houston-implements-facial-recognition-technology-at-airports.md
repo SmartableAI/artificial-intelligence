@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recogn
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -104,20 +104,6 @@ related:
       - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
         width: 800
         height: 533
-        isCached: true
-  - title: "CBP wants to expand facial recognition"
-    excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
-    publishedDateTime: 2020-11-20T19:18:00Z
-    webUrl: "https://fcw.com/articles/2020/11/20/cbp-biometrics-facial-recog.aspx"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
-        width: 620
-        height: 300
         isCached: true
 
 secured: "AH8WlYKk274+P2KWpV056Z/tMcQMckwVtsq0ijajZAOqxkG3CSJhM6k2bqPEPnFsE/5qoAcx/JJkOWHg7i1A5lltRCB2zc8J/a+KgjonwjY0Z0hDENOslnXtOKuAialc2Cqi1bYJXodD1obXbBo/S3ZYlcC2hEPbJa63DfFJ8cf2UNnrDMdy8S2Y2b+k3Yw3g5DYQ1NUe1IaAouEZKgwnDotxopWWM3wtXYfanP9FAzvgWSn7S1NkUp5VgwmnLsJTAlGN1y/FFeE/GxaV8AIHpGUPzn2QzbA2U5SZdISBmEjlFYEcddRSGxXsWwdk7niBF7kpdG6SPTz4Arecfruet/hdfVmePw7Q0MtClPGBA7EWF5wZvn0WW9JV1cPuT47r1bkUEF8fVRCSqVsNPwd2zYfAKJEN1V0NjzA08t5CKma96HfQoON0eHO1JUg/hYOV+AsLcl1tbeI1pItcAx75eyezAn0IPfI5i2xPAXb8J36YKlYyxBujJvMNOKOssir3x0M2+2sv3Um4TextY8ubg==;NFDwg3osVeCnxU8+F9dN1Q=="

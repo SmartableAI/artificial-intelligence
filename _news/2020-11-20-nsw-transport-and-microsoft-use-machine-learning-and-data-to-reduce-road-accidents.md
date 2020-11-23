@@ -37,20 +37,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 80
-  - title: "Transport for NSW trials machine learning to detect crash blackspots"
-    excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
-    publishedDateTime: 2020-11-18T20:38:00Z
-    webUrl: "https://www.itnews.com.au/news/transport-for-nsw-trials-machine-learning-to-detect-crash-blackspots-557980"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 43
-    images:
-      - url: "https://i.nextmedia.com.au/News/busy_road.jpg"
-        width: 1254
-        height: 836
-        isCached: true
 
 secured: "zE9vkgfxeP0Li/7dtGGcNnNy3X1fp5Glcb4UiXnupFO1LP/OBeJ+5xfwljievpRW3CtiDxyrIL4AoG/5q8otHmXpA7lv/rnnZNVQkf7EeCY7L/g+So2IYtbURRqTPEDAl2z9VJkAAHBm1tOL1lOWedQOOhEN+1Maw3t5iXCFgsVxnF0glcGK7g9qCEa65DgSockOdwOx754RS5XKbifaldA89oGcnWw2u6+UY0D4mXUCjlRKX7C+oh3uQEp6S3PofuLrpR53UCNWU5gEv8mW4ikawh4E375TuBQO91trXdrNgrzbFZlCQAjLu2RpmkRmN9OVhLdXlgtgoHPNi7kANrcJ8xEIyAGUmwCVVPz9Iao=;1Krs3NKd93CRcSFHvE6wQQ=="
 ---

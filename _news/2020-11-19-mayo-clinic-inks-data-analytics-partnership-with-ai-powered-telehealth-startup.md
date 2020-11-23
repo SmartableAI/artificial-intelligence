@@ -38,6 +38,17 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "Machine Learning User and Entity Behaviour Analytics Report 2020"
+    excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
+    publishedDateTime: 2020-11-23T11:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18482326/machine-learning-user-and-entity-behaviour-analytics-report-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18482326"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18482326"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z

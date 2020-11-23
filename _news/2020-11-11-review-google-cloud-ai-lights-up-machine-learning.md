@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/promoted_content/promo/google_cloud_1_2.jpg"
@@ -21,6 +22,6 @@ images:
     height: 480
     isCached: true
 
-secured: "CfWNYaX+p9JDAPcyGXbEO2GOVp1yaqGP38QRPTJIdV8OcvC5Db4uIzz/gZc+NyFmo3evejn5dvLi4dPOc/KuuSzihJmz8LcJf/TsMOsg0SO6ahsgAKgHu03vX0ZaoIIHsEAL0JMWXZJJKfCVgg5Uea6vmAdpDas3ZeHnKAPrRXSebA8VHrZuz1eBLhjK7lGREkTVRxstGY4YfTjIcnfL5ysjzPjuYvVtgMwB0/8L829a0a+dG100A8aztHqu4zoT/DN8tnG6n+mLQCVAThxEEiHXjJ6aetQ050gwi9rjoj9MK73ZjINps3xrBtCL08tW4XbWY9xTvyKFB5kzuOxkcCkrrOTsxqU9KOZmOtb/VDQ=;N3/9bVXLpseqvWZwfknbcw=="
+secured: "1e/ofpsOG50NC4O68AHgXTtHxyAb34bVW6gsjU8S1OY05VeE06LSv68eGN4J3vN9lnEcOM4ZMiCXai9fZrTn3h2jdv96ihJgiwmP4CooYo8O3Zn2QUgSwPxzCwm0BFxwFOV8t784R0pR6DpgARI+fPDrAUYAL9CsVjvzYw4fjd5iXFYpz7uNkFUO6nbEdXaP+pu6QA6aB2ipIMklALNm8f0EBFy7dahFUNhEv+IppTcmzBU9jHzl3bxujsjUCGK2kEd3t49jsgvqP4b1+GW9KUU7xjV9tBI40ShH9wkwyVfBSkJsCGuQzezNu8hq+Mfkxpu5c758AAHfls2d/SikWW7i0/p2vpxCu6amHGiQmOdI8bcO4YxO7k9+6kfbKVLfpJvLhlx9xgrXAQa3gpcZ9UlXa/xF4Xk3SOZ/UJQwhCRA43cuypfHB8zGkLvipurdChxCsdKSGRUy8vgx5nwEynQ8TXgqF/OynzzGYQT006x4t3C/Av7HrSO4lU4vHmuCBEhje/jExVDSX2cPJXefLA==;u6gAoLghLHwMToXpBUQrRg=="
 ---
 

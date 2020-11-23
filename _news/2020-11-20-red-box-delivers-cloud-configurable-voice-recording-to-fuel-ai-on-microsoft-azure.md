@@ -55,6 +55,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
+    excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
+    publishedDateTime: 2020-11-23T11:29:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 53
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "2UUEbUUSuWESiOoJvo26G/Gf6qhAMbkpI/FEqUwfU6VYe7hPTSZOEGgm9VLeo9jrYO3jnFmMNnAp4t7ybXc5SM0Z5FgPsjkYalR4o8D+xKKllUNjD776L3bGOM3bxeygI1KPL0yQ2CqlWpmGMi6bgeOnHjNtiWyaCPeH5CS7BLAJFO0Psk36hkvwKngwZPMGtva6eYHZpK5tTEAIzAtxHzbkNtkjXc4hQm1rbGCsWz344ZE6i9DLoarD69qBBuh9lV6KYpKw9vJdDq8dJ1tPTCkCJEbjY++aIpw7cCpF5jGFysH6A81KjEhZkhFelkgXSiNy7GMqVPM4LikJyHF0puYSJ/5TADJlU311NRuLeRE=;6ELYXZrVBLn1byVpRPU7hA=="
 ---

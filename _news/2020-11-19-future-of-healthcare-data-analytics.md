@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning User and Entity Behaviour Analytics Report 2020"
+    excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
+    publishedDateTime: 2020-11-23T11:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18482326/machine-learning-user-and-entity-behaviour-analytics-report-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18482326"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18482326"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Mayo Clinic inks data analytics partnership with AI-powered telehealth startup"
     excerpt: "Mayo Clinic formed a new collaboration focused on expanding clinical data analytics with K Health, a startup offering patients an artificial intelligence-powered symptom checker and telehealth consultations with primary care physicians,"
     publishedDateTime: 2020-11-18T22:36:00Z

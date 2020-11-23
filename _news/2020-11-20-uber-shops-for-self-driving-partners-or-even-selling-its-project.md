@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "UPDATE 1-Uber looks to partner with other self-driving companies -CEO"
-    excerpt: "Uber Technologies Inc's self-driving unit is looking to partner with other companies working on autonomous driving, the company's chief executive officer said on Wednesday."
-    publishedDateTime: 2020-11-18T19:25:00Z
-    webUrl: "https://www.reuters.com/article/uber-autonomous-idUSL1N2I42FE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OT"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OT"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541676648&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1NQ"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Uber's self-driving vehicle unit is seeking partners, says CEO Khosrowshahi"
     excerpt: "CEO Dara Knosrowshahi says the company's autonomous vehicle unit wants to partner with other companies in the space.Khosrowshahi, speaking at the RBC Capital Markets conference, was responding to a question about reports the company wanted to sell the Advanced Group."
     publishedDateTime: 2020-11-19T00:03:00Z

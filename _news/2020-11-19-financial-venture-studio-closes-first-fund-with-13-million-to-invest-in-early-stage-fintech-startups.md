@@ -98,6 +98,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "4 Greek FinTech companies revolutionising the financial space"
+    excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
+    publishedDateTime: 2020-11-23T12:23:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-greek-fintech-companies-revolutionising-the-financial-space/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
+        width: 300
+        height: 300
+        isCached: true
   - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
     excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
     publishedDateTime: 2020-11-19T17:46:00Z

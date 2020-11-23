@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study"
+    excerpt: "On which would be the most important technologies, nearly one-third of the total respondents (32 per cent) said AI and ML followed by 5G (20 per cent) and IoT (14 per cent), according to an IEEE statement."
+    publishedDateTime: 2020-11-23T11:39:00Z
+    webUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/"
+    ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 63
+    images:
+      - url: "https://images.financialexpress.com/2020/09/Artificial-intelligence.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021"
     excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
     publishedDateTime: 2020-11-20T16:16:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/forter-raises-125-million-at-a-1-3-billion-valuation-to-combat-ecommerce-fraud-with-ai/amp/"
 type: article
 quality: 78
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,6 +30,38 @@ images:
     isCached: true
 
 related:
+  - title: "BeyondMinds raises $15 million to drive enterprise AI adoption"
+    excerpt: "BeyondMinds, which is developing a platform to facilitate enterprise AI deployments, has raised $15 million in venture capital."
+    publishedDateTime: 2020-11-19T13:02:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/8-e1605647757610.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Afresh raises $13 million for AI that optimizes grocery supply chains"
+    excerpt: "Afresh, a startup developing an AI platform that optimizes grocery supply chains, has raised $13 million in funding."
+    publishedDateTime: 2020-11-19T20:00:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Store2-e1605763831945.jpg?w=1200&strip=all"
+        width: 1200
+        height: 598
+        isCached: true
   - title: "ClosedLoop.ai raises $11 million for off-the-shelf AI solutions tailored for health care scenarios"
     excerpt: "ClosedLoop.ai, a startup developing a data science platform for health care, has raised $11 million in venture capital."
     publishedDateTime: 2020-11-19T21:00:00Z
@@ -57,6 +89,34 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 54
+  - title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
+    excerpt: "B eyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15 million co-led by leading Israeli venture capital fund Grove Ventures and private investor Marius Nacht."
+    publishedDateTime: 2020-11-20T11:42:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-4bce3d13e03ce1bb2d7a819050076d07"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
+    excerpt: "BeyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15"
+    publishedDateTime: 2020-11-20T21:00:00Z
+    webUrl: "https://www.prnewswire.com/il/news-releases/beyondminds-raises-15m-to-take-on-massive-ai-market-failure-rate-with-production-ready-customizable-enterprise-solutions-301177551.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 11
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "mcj7e7MepnjKBsmaz7QyRhdu53EEtbQ7eYnTfX4y+/hp09LwYuHwc1rvHxInuqmeYC5Cd4z2V8AucBMHAn5v9/9rz42IlWjVD5z3u5PJIgN+aUHYBzPzNwWy/nIXARZof+PYYDHPnzH2DbJ0NBHpigPbPaYRyR2rlWSPbkJntUIFOpT5kptQsd+v/zcQUVpKHF1G8Ux/ce4XEWaEQfJfwrjnntycbXbhMUl0uPuJadxe1A5z2cKQAeIAXPM6atNPWhXdozI1lVuDsjqmaBb2lYikLlIp0tBMNoyRH4efSrRdE+fYumVu8E0sU8KfEGxLuev2SUIrIsgmIRn4Q/UCv/tXoWfvzpW6tguK34tBROfqZ7YW4IKg6nSH51PhGW4IaemVJb3bjBqbE7fqoJF+RJISuvEM51IpOACx1HUFwmUnUZsALWQ1m390broHgtqaFgi3H/y0PmU6XyGtSYeKsjfe6DsTebAGFeb1UPXUkVByYNXmJbEfKZgM/bHBL7Uru+rO8sBuI2HSqVpBI+FHSg==;roumIgJrZe49ndkZRq9aaQ=="
 ---

@@ -74,22 +74,6 @@ related:
         width: 1200
         height: 805
         isCached: true
-  - title: "Google releases new version of TensorFlow optimized for MacOS"
-    excerpt: "Google today released a new version of TensorFlow, its AI and machine learning development environment, optimized for Intel Macs and Macs powered by Apple’s new M1 chip. Taking advantage of the ..."
-    publishedDateTime: 2020-11-18T19:34:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 106
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/04/TensorFlow-logo-Google.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "An introduction to TensorFlow Lite development on Android"
     excerpt: "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases."
     publishedDateTime: 2020-11-22T07:12:00Z
