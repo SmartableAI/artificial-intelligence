@@ -143,41 +143,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-19-moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai-systems-into-popular-video-creation-platform.md",
-      "title": "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform",
-      "excerpt": "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
-      "originalUrl": "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-natural-language-processing-nlp-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research.md",
       "title": "Natural Language Processing (NLP) Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research",
       "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in",
@@ -1513,6 +1478,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech.md",
+      "title": "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech",
+      "excerpt": "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,",
+      "sourceUrl": null,
+      "webUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
+      "originalUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.pitchfork.com/photos/5fa7288e043ba2867b8ec85a/2:1/w_648/trent-reznor.jpg",
+          "width": 648,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
+      "cdnAmpWebUrl": "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
+      "publishedDateTime": "2020-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pitchfork",
+        "domain": "pitchfork.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

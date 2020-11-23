@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Wrongful arrest exposes racial bias in facial recognition technology"
+    excerpt: "Detroit police defend the system, even though the police chief once said technology alone may misidentify people 96% of the time."
+    publishedDateTime: 2020-11-19T12:00:00Z
+    webUrl: "https://www.cbsnews.com/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 59
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/07d3d65a-fe56-4311-8a0b-38d42b352641/thumbnail/1200x630g6/d46cd602dc62d704f9da5ff7f20af4e6/detroit-police-surveillance-monitors.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
     excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
     publishedDateTime: 2020-11-20T23:58:00Z
@@ -74,6 +90,20 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F11%2F20%2Fdelta-ID1120.jpg"
         width: 1800
         height: 938
+        isCached: true
+  - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
+    excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
+    publishedDateTime: 2020-11-20T00:06:00Z
+    webUrl: "https://www.colorlines.com/articles/lapd-bans-use-commercial-facial-recognition-technology"
+    type: article
+    provider:
+      name: ColorLines
+      domain: colorlines.com
+    quality: 39
+    images:
+      - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
+        width: 800
+        height: 533
         isCached: true
   - title: "CBP wants to expand facial recognition"
     excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."

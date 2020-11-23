@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automat
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Boba Tea and Advanced AI, Automation and Robotics"
-    excerpt: "A new start-up called Bobacino plans to deliver the boba tea experience through advanced AI, automation and robotics."
-    publishedDateTime: 2020-11-18T18:02:00Z
-    webUrl: "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics"
-    type: article
-    provider:
-      name: World Tea News
-      domain: worldteanews.com
-    quality: 69
-    images:
-      - url: "https://qtxasset.com/worldteanews/uploads/2020/11/Bobacino-3-1024x734.jpg"
-        width: 1024
-        height: 734
-        isCached: true
   - title: "This Boba Robot Booth Could Be Coming to a Corner Near You"
     excerpt: "This robotic, fully autonomous boba-making robot can make the delicious drinks for far less than normal and may be appearing on street corners soon."
     publishedDateTime: 2020-11-20T22:12:00Z

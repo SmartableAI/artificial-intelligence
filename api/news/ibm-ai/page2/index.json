@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-21-ai-powered-fund-thrashing-sp-500-is-wary-of-cyclical-bounce.md",
+      "title": "AI-Powered Fund Thrashing S&P 500 Is Wary of Cyclical Bounce",
+      "excerpt": "The AI Powered Equity ETF (AIEQ), an exchange-traded ... The fund’s “manager,” a model which runs 24/7 on IBM Corp.’s Watson platform, is heavily overweight health care and consumer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASFtRpJzvRA/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "publishedDateTime": "2020-10-20T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-ibm-and-servicenow-are-helping-businesses-reduce-costs-using-ai.md",
       "title": "IBM and ServiceNow are helping businesses reduce costs using AI",
       "excerpt": "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud ...",

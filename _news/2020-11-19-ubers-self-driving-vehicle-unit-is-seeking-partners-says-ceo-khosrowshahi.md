@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Uber looks to partner with other self-driving companies: CEO"
-    excerpt: "Uber Technologies Inc's self-driving unit is looking to partner with other companies working on autonomous driving, the company's chief executive officer said on Wednesday."
-    publishedDateTime: 2020-11-18T18:49:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-autonomous-idUSKBN27Y2OZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541671697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1MH"
-        width: 822
-        height: 545
-        isCached: true
   - title: "Uber Looks to Partner With Self-Driving Companies, CEO Says"
     excerpt: "The remarks come days after a media report said the company was in discussions to sell its autonomous-vehicle unit."
     publishedDateTime: 2020-11-19T14:36:00Z

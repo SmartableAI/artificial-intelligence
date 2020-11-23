@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
 type: article
 quality: 69
-heat: -1
+heat: 69
 published: false
 
 provider:
@@ -23,24 +23,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "Abacus.AI raises another $22M and launches new AI modules"
-    excerpt: "AI startup RealityEngines.AI changed its name to Abacus.AI in July. At the same time, it announced a $13 million Series A round. Today, only a few months later, it is not changing its name again, but it is announcing a $22 million Series B round,"
-    publishedDateTime: 2020-11-18T17:13:00Z
-    webUrl: "https://techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/"
-    ampWebUrl: "https://techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/abacus-ai-raises-another-22m-and-launches-new-ai-modules/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Founder-Collage2.jpg"
-        width: 2048
-        height: 2048
-        isCached: true
 
 secured: "VFDKdxsIhGDE+mG11IGGRWxOpNcoIfwpSWyku1r5k7WWWlVvpnQd4Z0VkzfeRY9G9UiDu2nmnT8+2HkI8tagt4OIffG2cESxTpHJ5yKs2Qx0sOg9epv87T0drxNjjJ5AHkNYzxdsgao5J+f+rQCQmDFKRpEoA8UNp0ZCU3RgOwEfSghwpX7a9wkuCrdFvOIXWvtxmD5A4gZ1bE6iRWvxoEW3wERqqoyUQqGQk710mVTpHsSuzOKARaFzrxHCACs2GSjJv4x66xaLu/Dp5fz59A7JTi/eeUtYAF8TWH9Omba/9k2vvXxMSfuy/QnSoVNu2BTcRxQW/PqoRMhCYHNBGerj03zRq4Dnzn/icTj769g=;3pTj1KI8ue2wdOJwHP4puA=="
 ---

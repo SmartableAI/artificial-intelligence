@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Checkout the Unexpected Future 2027 Key Players – IBM Corporation, Microsoft Corporation, SAP SE, Dell Inc"
-    excerpt: "The Global Machine Learning Market provides an investigative study that offers detailed information about the Machine Learning market that is beneficial to the business strategists and new players of the industry."
-    publishedDateTime: 2020-11-18T17:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Aisera’s Conservational AI for Microsoft Teams Will Change the Future of Work"
     excerpt: "Aisera, the leader in artificial intelligence innovation and customer service, announced today the integration of its AI Service Desk with Microsoft Teams. This integration will speed up and simplify Microsoft’s resolution of internal support tickets for ..."
     publishedDateTime: 2020-11-19T06:24:00Z

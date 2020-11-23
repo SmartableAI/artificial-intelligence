@@ -49,22 +49,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 80
-  - title: "Microsoft wants to partner, not compete, with operators on 5G"
-    excerpt: "Microsoft isn't looking to bypass carriers in delivering 5G services; the cloud and technology giant sees operators and NEPs as partners."
-    publishedDateTime: 2020-11-18T17:04:00Z
-    webUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g"
-    ampWebUrl: "https://www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
-    cdnAmpWebUrl: "https://www-rcrwireless-com.cdn.ampproject.org/c/s/www.rcrwireless.com/20201118/5g/microsoft-wants-to-partner-not-compete-with-operators-on-5g/amp"
-    type: article
-    provider:
-      name: RCR Wireless News
-      domain: rcrwireless.com
-    quality: 59
-    images:
-      - url: "https://www.rcrwireless.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-18-at-10.49.00-AM.png"
-        width: 2048
-        height: 2048
-        isCached: true
 
 secured: "6pZhfR+xrLpqhvGCE4bczxefpU31tQgWL6JkTgoxJ+zHx1ZYAVz0g6hi/z0IvLVU64FOCWdj5m+ZnSR98OHi3GOR3GQFsPxCrkqDD0Z21NK6reIdnfXc3nkyTIcwBzxYIrd7FY3JUks2Bc3tzmZGqlpm8rvWOX1w+/doODpl+8d33M41cNNd73qsk4UdmIQeFJGQpa391ikCAAAUUn23/fPVbhH4YqTB70o8zVH0ZGnFImbaZ1fUHdWoLG+iuVkAKE2DMp37VlYGtvd7ueTmobDePiu07YG/6EblhzPiI0Reg6ItIBiiFSRvFoK1nerKdaV8Nakrdgs8lbzDIIvgH3G0gOiZ2SI9OsW0HxRc0qAoRGd2urPw1VEJWSg4LoIcqBZ1Mv4+fhKNKWZtNG5+Z3Vff0HlDaOaoAhPBiFWsDr5BuSH8r55vo0VtbZ5neYUQx32HOUd4FUD5EnvDszHqjsCn0MWL2yswxfTYfUd1bu7bHYBvzpR/9wO+3DLyOsAwN+CR4YCwGMKoki7sEkjjQ==;Ar+BG2LQH13K1o6DaNTyEw=="
 ---

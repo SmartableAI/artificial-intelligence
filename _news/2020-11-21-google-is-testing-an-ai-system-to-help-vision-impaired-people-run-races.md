@@ -7,7 +7,7 @@ originalUrl: "https://www.engadget.com/google-project-guideline-blind-vision-imp
 webUrl: "https://www.engadget.com/google-project-guideline-blind-vision-impaired-accessibility-202659152.html"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1041
     height: 630
     isCached: true
+
+related:
+  - title: "Google’s Project Guideline uses AI to help low-vision users navigate running courses"
+    excerpt: "The company also continues to develop Lookout, an accessibility-focused app that can identify packaged foods using computer vision, scan documents to make it easier to review letters and mail ..."
+    publishedDateTime: 2020-11-19T20:01:00Z
+    webUrl: "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/"
+    ampWebUrl: "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 82
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/a577f9c4-b652-4554-9655-39dc580ad1d7-e1605769616203.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "+GcfpTlkQBLRN/zqswvUH46g3d+BEGdXEHWCu49fNgyjmc0X4YqcZXde+PnSVwpUpZIbRAgxA+eATWMQE+R0rH+9YL3rwuYbadmS5ksrOF6rZEZic2avGPvzTYNG4L9+TYqL5uXzUp0w4R0G86qOox0FyI/E8We1Ku9FDIX7DzBUQcHIchZmdcJU5ERDWznQQQ49dHYYNGr6jGW2o69VN1szEHU8CkJwPJJhIcwuumc1tfsWT+2SmxYob6fkCf/3uSe5G3vJX8RSGBHhvcvdVlzlsXsG4utDgS/lcO46pTTPptNROl5kwTzxq3fJuNR/PeU/Twlb7EdZ052+Ul1QiiHuK6I/LIMZ9zmHPVaajcPr7SMmAmzRvHzdipUgg0f60XdfCa11I7H0J/clSckkcpTkW88Qaww8tumWL2WIyi5Za5zWjE/00A2/L1QpG4gfyUBFeuH0ckmHArWQFENpxo6frbbJ5asjcpf9rjRftBTgeyoDK0nmLVw9w0l8csIdVbhkNnX3pMC45Ssy9UVZYw==;CEluJL7rSy0OfH7m77P0ZQ=="
 ---

@@ -25,9 +25,9 @@ images:
 
 related:
   - title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
-    excerpt: "BeyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15 million co-led by leading Israeli venture capital fund Grove Ventures and private investor Marius Nacht."
+    excerpt: "B eyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15 million co-led by leading Israeli venture capital fund Grove Ventures and private investor Marius Nacht."
     publishedDateTime: 2020-11-20T11:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-79dfe8802fbe6c0e881cf89a1baf0715"
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-4bce3d13e03ce1bb2d7a819050076d07"
     type: article
     provider:
       name: Associated Press

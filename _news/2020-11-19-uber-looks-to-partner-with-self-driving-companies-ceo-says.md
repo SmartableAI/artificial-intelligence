@@ -9,8 +9,8 @@ ampWebUrl: "https://www.fool.com/amp/investing/2020/11/19/uber-looking-to-partne
 cdnAmpWebUrl: "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 104
+published: true
 
 provider:
   name: The Motley Fool
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Uber looks to partner with other self-driving companies: CEO"
-    excerpt: "Uber Technologies Inc's self-driving unit is looking to partner with other companies working on autonomous driving, the company's chief executive officer said on Wednesday."
-    publishedDateTime: 2020-11-18T18:49:00Z
-    webUrl: "https://www.reuters.com/article/us-uber-autonomous-idUSKBN27Y2OZ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Y2OZ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201118&t=2&i=1541671697&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAH1MH"
-        width: 822
-        height: 545
-        isCached: true
   - title: "UPDATE 1-Uber looks to partner with other self-driving companies -CEO"
     excerpt: "Uber Technologies Inc's self-driving unit is looking to partner with other companies working on autonomous driving, the company's chief executive officer said on Wednesday."
     publishedDateTime: 2020-11-18T19:25:00Z

@@ -27,51 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Los Angeles Police Department bans the use of third-party facial recognition technology"
-    excerpt: "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ..."
-    publishedDateTime: 2020-11-18T18:44:00Z
-    webUrl: "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
+  - title: "Houston implements facial recognition technology at airports"
+    excerpt: "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals."
+    publishedDateTime: 2020-11-20T16:14:00Z
+    webUrl: "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 81
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 74
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-18-image-22.jpg"
-        width: 1680
-        height: 793
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
-  - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
-    excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
-    publishedDateTime: 2020-11-18T19:32:00Z
-    webUrl: "https://hothardware.com/news/lapd-facial-recognition-ban"
-    ampWebUrl: "https://amp.hothardware.com/news/lapd-facial-recognition-ban"
-    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban"
+  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
+    excerpt: "Houston is the only U.S. city to have two airports (Bush Intercontinental and William P. Hobby) equipped with facial comparison technology at international arrivals checkpoints. If a passenger cannot be matched to a photo on record, the CBP officer will ..."
+    publishedDateTime: 2020-11-19T22:57:00Z
+    webUrl: "https://www.khou.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    ampWebUrl: "https://www.khou.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
     type: article
     provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 54
+      name: KHOU 11
+      domain: khou.com
+    quality: 59
     images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
-        width: 708
-        height: 470
+      - url: "https://media.khou.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
-  - title: "LAPD bars use of third-party facial recognition systems"
-    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
-    publishedDateTime: 2020-11-18T22:26:00Z
-    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21163317/lapd-bars-use-of-thirdparty-facial-recognition-systems"
+  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
+    excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
+    publishedDateTime: 2020-11-20T23:58:00Z
+    webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
     type: article
     provider:
-      name: Security
-      domain: securityinfowatch.com
-    quality: 39
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
     images:
-      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 676
+      - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Delta Tests Facial Recognition Technology in Detroit, the First of Its Kind for Domestic Flights"
+    excerpt: "Delta Air Lines is expanding its use of facial recognition technology with a first-of-its-kind pilot program for domestic flights, the airline announced Thursday. Starting next month, Delta will test the digital ID technology for domestic flights at the Detroit Metropolitan Wayne County Airport,"
+    publishedDateTime: 2020-11-20T15:41:00Z
+    webUrl: "https://www.travelandleisure.com/travel-news/delta-facial-recognition-covid"
+    ampWebUrl: "https://www.travelandleisure.com/travel-news/delta-facial-recognition-covid?amp=true"
+    cdnAmpWebUrl: "https://www-travelandleisure-com.cdn.ampproject.org/c/s/www.travelandleisure.com/travel-news/delta-facial-recognition-covid?amp=true"
+    type: article
+    provider:
+      name: Travel + Leisure
+      domain: travelandleisure.com
+    quality: 46
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1800&h=942&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F28%2F2020%2F11%2F20%2Fdelta-ID1120.jpg"
+        width: 1800
+        height: 938
         isCached: true
   - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
     excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
@@ -86,6 +104,20 @@ related:
       - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
         width: 800
         height: 533
+        isCached: true
+  - title: "CBP wants to expand facial recognition"
+    excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
+    publishedDateTime: 2020-11-20T19:18:00Z
+    webUrl: "https://fcw.com/articles/2020/11/20/cbp-biometrics-facial-recog.aspx"
+    type: article
+    provider:
+      name: Federal Computer Week
+      domain: fcw.com
+    quality: 39
+    images:
+      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
+        width: 620
+        height: 300
         isCached: true
 
 secured: "SLb75Zl1oRlLWCm2Dd3hNSr2Zh9xB9G+n8qPgcSRl0eMmK3hExNnCOCED9rWotFE5YcRVkpnJagfNt5z5rIdgF6hMBlGV8IFaFOKzDbv61+WHK98cExoEJER+47klkBSOYkqAgrDExRKO7JQwWpc3PGwkOzGQJf74+LASm83HPo7ud3XDrh6KkLFaLni04aFusJDU0kfTfxYXd9+sPgHZS76G/G/QX9UKahYVnFcagGr0Kc+EhXq5kqSz3yxyWHtVaTKeZEEfVqMJX8hIYLdxxr2k1OIGS6xo5odTAR/qvU5lgZFf2olCEWkUccfHffEKTlpxgS+JQSkhd1+lZ0WKKXSzVcmtZbcfJuT5a3eqpv0vIhLb7xhG5LOtaxwCDsyxPKbdmAACD8nZ+twUop1lSJ4FTaJNbDC/sfBn27UkPgHN1F8RS0sEVndid//MqwcnmUrgYARjqemTIZKCokVmW1eZazsotbWD8+EEfP1wlFvkhZUKMxd92OaWZK/LN3U2IPpq/1XMNgLWWHMkSe/JQ==;5Osx5TVSeNpNn6RfC8hnow=="

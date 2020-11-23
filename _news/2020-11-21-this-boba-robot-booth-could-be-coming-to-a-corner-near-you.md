@@ -43,20 +43,6 @@ related:
         width: 800
         height: 438
         isCached: true
-  - title: "Boba Tea and Advanced AI, Automation and Robotics"
-    excerpt: "A new start-up called Bobacino plans to deliver the boba tea experience through advanced AI, automation and robotics."
-    publishedDateTime: 2020-11-18T18:02:00Z
-    webUrl: "https://worldteanews.com/editors-choice/boba-tea-and-ai-automation-and-robotics"
-    type: article
-    provider:
-      name: World Tea News
-      domain: worldteanews.com
-    quality: 69
-    images:
-      - url: "https://qtxasset.com/worldteanews/uploads/2020/11/Bobacino-3-1024x734.jpg"
-        width: 1024
-        height: 734
-        isCached: true
 
 secured: "yanrAGuONcXyGetvPM3KApqCKQuFTXU8wB9nvVuzsgVGECdJOsJH42a3ru82DOq/ENlppRjiY2+ZEUfkOj002xttjs4QAm8UZB+0nqwmLP4R5Csqt1vvjgkxiBTZ+bil3uvrbaP3ARsdwoYCAuzSPZvfe52M9HqvR8ENm3tWGH/uUC3J+kLucWYulZWzDZUEJMs9zahNsMGwco6bKncYe95LVnESkOkRzKuKQAt+kgYzPJaGImnAjXzcr2Ch9ufFZTO6ybHWI2NVDjIywOPxRO5Nxjbet9lqdfnURQxbL3XnT9x9QCrBeUbZ4imTRVZKNApheBiiiKvYVgsABRUo2FsO3g01lFFhcWeMQpXjMomwxU6xOZZe1ySQHKwjMfDpQkNr2+zf5MrySTVMZOF8+F0Svxdv+H9H3PLtEf/QhkTO/fVkKPSOqMGmmknhePSst6Hq635LTEC86YIHmPnqmxXb3jjUlc8OJ1MmpxrGnckRIBfbDqTR4vceNvywTAM6XipSwQHzSHUPx4l32fmBOA==;/f58cqz32MZKiQxY3rR1fw=="
 ---

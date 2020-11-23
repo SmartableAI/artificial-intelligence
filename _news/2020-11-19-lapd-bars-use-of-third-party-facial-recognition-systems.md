@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Los Angeles Police Department bans the use of third-party facial recognition technology"
-    excerpt: "(Lack of) privacy: Facial recognition technology has always been the source of much debate surrounding privacy in the digital era. While many companies and governments have embraced the tech for purposes like law enforcement or machine learning, some have ..."
-    publishedDateTime: 2020-11-18T18:44:00Z
-    webUrl: "https://www.techspot.com/news/87660-los-angeles-police-department-bans-use-third-party.html"
-    ampWebUrl: "https://www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
-    cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 81
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-18-image-22.jpg"
-        width: 1680
-        height: 793
-        isCached: true
-  - title: "Wrongful arrest exposes racial bias in facial recognition technology"
-    excerpt: "Detroit police defend the system, even though the police chief once said technology alone may misidentify people 96% of the time."
-    publishedDateTime: 2020-11-19T12:00:00Z
-    webUrl: "https://www.cbsnews.com/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/07d3d65a-fe56-4311-8a0b-38d42b352641/thumbnail/1200x630g6/d46cd602dc62d704f9da5ff7f20af4e6/detroit-police-surveillance-monitors.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
     excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
     publishedDateTime: 2020-11-18T19:32:00Z
@@ -73,19 +41,33 @@ related:
         width: 708
         height: 470
         isCached: true
-  - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
-    excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
-    publishedDateTime: 2020-11-20T00:06:00Z
-    webUrl: "https://www.colorlines.com/articles/lapd-bans-use-commercial-facial-recognition-technology"
+  - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
+    excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
+    publishedDateTime: 2020-11-18T19:58:00Z
+    webUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/161364/"
     type: article
     provider:
-      name: ColorLines
-      domain: colorlines.com
+      name: Threat Post
+      domain: threatpost.com
     quality: 39
     images:
-      - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
-        width: 800
-        height: 533
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/18145456/LAPD.jpg"
+        width: 780
+        height: 438
+        isCached: true
+  - title: "LAPD ban facial recognition following alleged unauthorised use"
+    excerpt: "The Los Angeles Police Department (LAPD) has banned the use of facial recognition after officers allegedly used it without authorisation."
+    publishedDateTime: 2020-11-19T16:21:00Z
+    webUrl: "https://iottechnews.com/news/2020/nov/19/lapd-ban-facial-recognition-unauthorised-use/"
+    type: article
+    provider:
+      name: iottechnews.com
+      domain: iottechnews.com
+    quality: 39
+    images:
+      - url: "https://iottechnews.com/wp-content/uploads/sites/5/2020/11/lapd-facial-recognition-ai-surveillance-policing-police-los-angeles.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "m8ejnKrif4FRt/XSfQJ5UW4HZZKJTkP7Rh9dNqTdrRKVUBgjcO3bs74HmYpQDj2vm0RilkjUPLbhCCuVAL6cwBD2dCeH1tHozgmudFYYAkDvaRnq2kMOPj/y1uZnSdhDPD2V7PJCyH4A+5SGK8/Jg/1Ve0tO2503GumKTpSJzOXiUDA6MB71BFDBqIjy4ojdsnSKgMFCZkVZ8bbPk5kHXQX0GOodxdl/Rea3AHQERzGGc/XvExA1Vz5jWPoO9Uxa/WB8JQiMV0UGIm5ISr6uHn9KzfJ/aHqTCowEU9tZvdRhpMWRFrvoqWyF3hfKYGcKaqN/TTx+7TJIdd+JyjKe4H2DnTecMCumNVpIa/59Rs8=;OjGsZ7vjONS6c1JS3uSmbg=="

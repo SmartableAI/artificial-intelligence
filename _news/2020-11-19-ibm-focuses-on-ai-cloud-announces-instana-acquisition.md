@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-in
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 189
+published: true
 
 provider:
   name: Nasdaq
@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM acquires Instana for its AI-powered app performance monitoring"
-    excerpt: "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues."
-    publishedDateTime: 2020-11-18T17:27:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
     excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
     publishedDateTime: 2020-11-19T01:38:00Z
@@ -62,6 +46,15 @@ related:
         width: 1836
         height: 2461
         isCached: true
+  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    excerpt: "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,"
+    publishedDateTime: 2020-11-19T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
   - title: "IBM Buys APM Startup Instana To Boost AI Automation"
     excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
     publishedDateTime: 2020-11-19T18:02:00Z
@@ -90,6 +83,17 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "The Alberta Machine Intelligence Institute launches a program to empower startups to accelerate AI adoption related to supply chain management"
+    excerpt: "The Alberta Machine Intelligence Institute (Amii) has launched applications for Supply Chain AI West, an eight-month accelerator focused on empowering startups and early-stage founders to incorporate artificial intelligence (AI) technologies toward creating AI-powered supply chains."
+    publishedDateTime: 2020-11-19T21:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-alberta-machine-intelligence-institute-launches-a-program-to-empower-startups-to-accelerate-ai-adoption-related-to-supply-chain-management-1029822868"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
     publishedDateTime: 2020-11-19T02:49:00Z
@@ -117,6 +121,20 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/ibmthroughleaves_shutterstock.jpg"
         width: 1000
         height: 637
+        isCached: true
+  - title: "IBM Announces Its Second Cloud-Related Acquisition This Week"
+    excerpt: "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises."
+    publishedDateTime: 2020-11-19T06:35:00Z
+    webUrl: "https://www.ibtimes.com/ibm-announces-its-second-cloud-related-acquisition-week-3085232"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/01/28/ibm.jpg"
+        width: 1200
+        height: 816
         isCached: true
   - title: "IBM To Acquire Instana"
     excerpt: "IBM (NYSE:IBM) is to acquire Instana, a Chicago, IL-based application performance monitoring and observability company. The financial details of the deal were not disclosed. With the acquisition ..."
@@ -146,6 +164,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    publishedDateTime: 2020-11-19T19:33:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/11/19/moovly-media-announces-integration-of-amazon-transcribe-and-google-translation"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 22
 
 secured: "0PRfVo8Jj/fA/Pc3xK2mTI+suv16z76DxFQ+cG7VzXrhxovDZq2sxCsNMjfi2vN0JkqtcjosoqdaWb2Ug746AZ1/wjwb9EyvCHGe1+IdhLyOgl637fj7HjMW1ktfZjlNdsG4GDsRo1lyH1Ue6maREPXaCeUE7vyFbS8mosUs6cNYnrobAh0ncnMtg3LGydj9mre5l8FHcBiYRxSPQDzHKaTC08n2mApQfUlzkTr/MSxbzqAji5h0V7iSV88L1NBqQ/nZpgjL0JerPVohsy/YSqvpqBmu7rD1guMsIHEbrcAjpcmfTIEU2V5okkflJQI6ZGHVsVjwdAHHQ1p1wfGzz1LA9HbwWxCmCO+jIJx2GS4=;d9pMweZRr5hcb9Oq+5bHTw=="
 ---

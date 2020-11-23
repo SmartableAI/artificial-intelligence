@@ -1,10 +1,10 @@
 ---
 category: news
 title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
-excerpt: "BeyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15 million co-led by leading Israeli venture capital fund Grove Ventures and private investor Marius Nacht."
+excerpt: "B eyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15 million co-led by leading Israeli venture capital fund Grove Ventures and private investor Marius Nacht."
 publishedDateTime: 2020-11-20T11:42:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-79dfe8802fbe6c0e881cf89a1baf0715"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-79dfe8802fbe6c0e881cf89a1baf0715"
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-4bce3d13e03ce1bb2d7a819050076d07"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-4bce3d13e03ce1bb2d7a819050076d07"
 type: article
 quality: 11
 heat: 11
@@ -39,6 +39,6 @@ related:
         height: 315
         isCached: true
 
-secured: "5U84ftmKL5vcFtCUaAmUjsDafAj1B4DxxWaAUZTf+zcS5JWcP9NZZ+6xWJXPhq18iZ+u+cb0G5ppuixvmbbCJGx8HJ5c7/1Yr0N0urZ51/llGYFqmQImWG2qJskzYDMVSeYnZJXOnJ0p8hWloV/uWzPjUpQ46/MG8ZUHx0e7D32d2lcE1Tg4wbvRHRilxoXg7xv+gtj1ECAbxUZ8mWbBs+xnPFkhooVdmAZaqxouZXYqoOAddBH/b/20/f3zMwAJ+AaAXcazXR8TiPAYjGamDvqSJpa2yPHBFR72rt4PN6PFQ/ZzwgqTf5v64y2yR03493ZikXBE+49ekoJOdodxf7pl1MFmypio62k0543w5zk=;mB1G4g8O2nlJvid52ozEdA=="
+secured: "0qfq/iMMJOpIV++oiDeILt8YiuBVEKu/XA5yrPlpSUAt3cgj9JWt4Asm33JqtlL5BCHXExRf1vItHtuK+PoFZH9RkzznUfjJ9HWAr3ZctcoiC+dqRNDtKjEexe7hnOzt2VBNmuU6+0MgU28Lt3y2kMBZ9QetO9/HeDz/9exbZVopEsqQcNvEtLedCJc5fWUy6hY+ylT4rZ08Qs47t33opy54nJFeNVXa449DhgFA60mHJIZlkmbbLrPHFe6Ypo4YAnxb1Bp2YbjQErCrN7hNvlxy7KRT20/qSKEHZxO/08YQLxw772/LjwERKAnfPE9Oozd3ZIE0860+wFly/2+QaJi7SHd5gfvvWd3UdnY7dm4=;CQEGphzawGCFfmz2nkZxtQ=="
 ---
 

@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Bringing Quantum to Machine Learning"
-    excerpt: "But then, she says, “life happened”—jobs fell through and other opportunities opened up—and she found herself with a career in quantum machine learning. Today Schuld, who works for the Canadian quantum computing company Xanadu from her home in ..."
-    publishedDateTime: 2020-11-18T18:58:00Z
-    webUrl: "https://physics.aps.org/articles/v13/179"
-    type: article
-    provider:
-      name: American Physical Society
-      domain: aps.org
-    quality: 39
-    images:
-      - url: "https://physics.aps.org/assets/d8de94a6-c27e-4ed1-9e04-2490967a91d3/e179_1_thumb.png"
-        width: 500
-        height: 250
-        isCached: true
 
 secured: "AVKfwVPszZmB2vZMWkH9GoQhFzzL863/DCye48Ch3fVZzNZxNvC0JHmzjQW4od8XmsdsFUwl88hCr96n+NleshJZ3y9qoafmajlAOvEVJIjPUwaZRbueohIZBqeDyxq3QkMo4wnjLtW4AKmIJ5UTd3FmV1RzITI4v+FWuceA07lVmohND5KCLT5FIRPSuYfn9nhnSEtNPpOvPGldUptbqDmk4EMav7rPwbA9hlKVLUTUTS38fRnRD+KCFFsccpix30cTwAD30PT0Ji5NlJQ4/PS28Mjc94Q2ZFWR31Oh3eqCbcQVrmI9p6EW1XiwqW6G40tUaYtodGVecEOeUlbNdVl1N5cmF9nKIwkbyBwYU8E=;TX7ZPcqULmtmooqHRHJ5Eg=="
 ---

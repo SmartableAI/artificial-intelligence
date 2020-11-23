@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "IBM acquires Instana for its AI-powered app performance monitoring"
-    excerpt: "IBM will acquire Instana, an app performance monitoring platform that uses an agent-based approach to detecting performance issues."
-    publishedDateTime: 2020-11-18T17:27:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/ibm-acquires-instana-for-its-ai-powered-app-performance-monitoring/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "IBM Focuses on AI & Cloud, Announces Instana Acquisition"
     excerpt: "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
     publishedDateTime: 2020-11-19T15:11:00Z
@@ -66,6 +50,15 @@ related:
         width: 1836
         height: 2461
         isCached: true
+  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    excerpt: "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,"
+    publishedDateTime: 2020-11-19T13:00:00Z
+    webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 52
   - title: "IBM Buys APM Startup Instana To Boost AI Automation"
     excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
     publishedDateTime: 2020-11-19T18:02:00Z
@@ -94,6 +87,17 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "The Alberta Machine Intelligence Institute launches a program to empower startups to accelerate AI adoption related to supply chain management"
+    excerpt: "The Alberta Machine Intelligence Institute (Amii) has launched applications for Supply Chain AI West, an eight-month accelerator focused on empowering startups and early-stage founders to incorporate artificial intelligence (AI) technologies toward creating AI-powered supply chains."
+    publishedDateTime: 2020-11-19T21:18:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-alberta-machine-intelligence-institute-launches-a-program-to-empower-startups-to-accelerate-ai-adoption-related-to-supply-chain-management-1029822868"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
     publishedDateTime: 2020-11-19T02:49:00Z
@@ -121,6 +125,20 @@ related:
       - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/ibmthroughleaves_shutterstock.jpg"
         width: 1000
         height: 637
+        isCached: true
+  - title: "IBM Announces Its Second Cloud-Related Acquisition This Week"
+    excerpt: "The shopping spree at IBM (NYSE:IBM) continues. In its second acquisition of the week, the company announced an agreement to buy Instana. This closely follows IBM's announcement on Monday that it would buy finance and analytics company TruQua Enterprises."
+    publishedDateTime: 2020-11-19T06:35:00Z
+    webUrl: "https://www.ibtimes.com/ibm-announces-its-second-cloud-related-acquisition-week-3085232"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 24
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/01/28/ibm.jpg"
+        width: 1200
+        height: 816
         isCached: true
   - title: "IBM To Acquire Instana"
     excerpt: "IBM (NYSE:IBM) is to acquire Instana, a Chicago, IL-based application performance monitoring and observability company. The financial details of the deal were not disclosed. With the acquisition ..."
@@ -150,6 +168,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
+    publishedDateTime: 2020-11-19T19:33:00Z
+    webUrl: "https://stockhouse.com/news/press-releases/2020/11/19/moovly-media-announces-integration-of-amazon-transcribe-and-google-translation"
+    type: article
+    provider:
+      name: Stockhouse
+      domain: stockhouse.com
+    quality: 22
 
 secured: "fQcjMdNJZBMz+x8VAXEJTpBWkhtAF/N72/RwhGgMKj6jIv1EeNl9060VQi/m8rljd+kLKxrlpFLFvXt8/izSk3M7PjENRtzHDdwFUOUT+t0ekkopc8sRMMTaFTKV5jWJn4TEM/C9BU3MM6QgK8GYw43bfl5xmNbhJWvaOcCefBiVom3Uvl4QFkxLfIN5o5M3YOYpk77lxGO8k52D+/0xq1EVRxqPikHKIgogFedgwcxoaVsDKjcXpOkLoAX4yijq1Wphn9fQQ7BeNtiooe97xv94Y11pJ1B/LJCv0KICB0pMmzzZtVkYvX873kSYIz9tijCoz3s+joPW3U8GAWx6NPsx2hBQZBdQYV71WD69Gdg=;HFAqM3TS52nv3pbn6r4S6g=="
 ---

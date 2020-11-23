@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Autonomous Vehicle Market : Incredible Possibilities, Growth With Industry Study, Detailed Analysis and Forecast"
-    excerpt: "Globally, automakers are aggressively focusing on autonomous vehicles to satisfy customer demand, to remain competitive"
-    publishedDateTime: 2020-11-18T18:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/autonomous-vehicle-market-incredible-possibilities-growth-with-industry-study-detailed-analysis-and-forecast-2020-11-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Swarm Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
     excerpt: "The scope of the report includes a detailed study of Swarm Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The Swarm Intelligence Market is segmented on the Basis of Model Type,"
     publishedDateTime: 2020-11-23T08:47:00Z
@@ -218,6 +204,15 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
+    excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
+    publishedDateTime: 2020-11-23T09:03:00Z
+    webUrl: "https://www.medgadget.com/2020/11/ai-in-healthcare-market-size-competitive-strategies-application-analysis-regional-and-forecasts-2020-to-2030.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 13
 
 secured: "aLB8CrE8/nmxK2Ak0zBKUGB030Q2KrpOSlq4AnHUEBLPA2ppagWIrHzCOL5e1UBvZDtgoRaqFW3GCVOr5uV5gNMWjAwCIYGlJ/kMdpdSLbQLKZ3u+TmSF+bzV0+L05G8kybVsgCcDzPAgPRp5ZSjHcvpcbARLXQddcBcRyZ0YIOgRgwGFqSjPnTLgqHtLD73o/88TOoR8B8Ur6Oorgwq9zLcPRXLrBgxCddfZr/5O+KNFzAW/ayuZ5P+3ar/lcKn4RvxYjj+QDD6BIW7D1lIaIrSMhupQJ1kuLpp8myaJ60RW4wwD4OhlMj5xGWhBFNLwf1QlVWmYqPtDFqc//LlPgCX17mtS6zSy2t98/7A4J8=;4fk18q3zFi17iv0VizztuQ=="
 ---

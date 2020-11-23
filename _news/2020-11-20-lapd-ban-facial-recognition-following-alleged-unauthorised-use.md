@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
+    excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
+    publishedDateTime: 2020-11-18T19:32:00Z
+    webUrl: "https://hothardware.com/news/lapd-facial-recognition-ban"
+    ampWebUrl: "https://amp.hothardware.com/news/lapd-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
+        width: 708
+        height: 470
+        isCached: true
   - title: "LAPD Bans Facial Recognition, Citing Privacy Concerns"
     excerpt: "The department has said no thanks to the Clearview AI platform, after an expose showing that officers had used it 475 times during a trial period alone."
     publishedDateTime: 2020-11-18T19:58:00Z
@@ -39,19 +55,19 @@ related:
         width: 780
         height: 438
         isCached: true
-  - title: "Facial recognition critics consider the options in OBVIA webinar"
-    excerpt: "The current legal landscape throughout North America and Europe is inadequate to deal with the risks to public rights created by increasing facial recognition use, according to panelists in a"
-    publishedDateTime: 2020-11-19T22:55:00Z
-    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-critics-consider-the-options-in-obvia-webinar"
+  - title: "LAPD bars use of third-party facial recognition systems"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
+    publishedDateTime: 2020-11-18T22:26:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21163317/lapd-bars-use-of-thirdparty-facial-recognition-systems"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: Security
+      domain: securityinfowatch.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "D2cpgIn3vF32Puyi10CcExuJmsxVelPp66rij4J92GGIhFhki/lyHgdBX+rfqbW9XlrSUSYZaxFqd5vNDWuLBPKVHt+eJojllkytH9B0y5k6F+oT/iIHiGeHGN8Ai0+zM0eH8HmMA0p0G5KYPj16KsttW/Z7bEaomYmevGgRfcziqDd+EeNPBK+lXDm3EZF3cd4NLBAxLbEoD4TgXFpEqO8GlWwRGle+lnikuXGIvcEPIBheA/Ghvamkun6IrKyMierqUhc5daUPp1rwNyDD5cBebFGmJhRVBseSgXV9dilbrjI2w3QGVeQk+WgUf6bWfHegP6od8HYgKqSBa3Kgo4qBRAQP4NMv9y1IKAWRkhQ=;697jp0d8rSoKXdM7kXQLAQ=="

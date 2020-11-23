@@ -8,9 +8,6 @@ webUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-
 ampWebUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp"
 cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp"
 type: article
-quality: 59
-heat: 59
-published: false
 
 provider:
   name: Asia One
@@ -26,6 +23,6 @@ images:
     height: 509
     isCached: true
 
-secured: "4fy/UX1mZeJkFPmvOze1aWObOvmMJZViCThU+E9q1O0cNeGbo5wmTYAxhkcUqMPs/wKQPBjIf18Guq3puG7V3OHMqDM4k3Z5ATidRKmMVuFrjYUXdPrbQt7FJ/Llyb8hsIn6v0wKYrTUbzNxaBMYctDuTE6WJIOKWh6w0TfrNPVetHXZUCT+RrQ/9oMht/c/NegYiSjG4vFkVv53l0gbSytr7ocpe4zHvi//r3ST7rTEADPAoQ+VKkHCeLxtjJT4UjRi1LX1Ymv2tBziUkd/qK4XEyJPr9KJcYUpH2TVjVscNVlkKFRTMmXJAH4FJNqQ8SD2Qx/4eok7wOoVJVd7YzopZ6LzPqxjPohLw1lT7mA=;yJ6rUxMtcILs7MAEbjO94Q=="
+secured: "LR0wgHamuREz94xXoUfjauu0/3F4XN2sGeY3ciYzrZYIfNM8JswmQNfwRyC9NPtZBuqGG+UwZCoH++/Qe5CSeoq/8AtJ71mwN3GsaysTdgdIVRURWMJK6a+k0Uq4I79szjc9pkZFg9dbny4suQtw+Hi9gS7zecF7Ub9y786sv8jHcuv8N6kQGwMISFqyZfuaYcyHVeBwo43SFi2HnZDnJqUE+Uv+AFT1lMvlxa6F8gfdYXgZIQPmRHhwaM53QR37W6/MP3OryhS53JC/OzAkNWoQ1EUE6JuvxCLiNkhB+uyRrAQOXuDO+5wonImyq+lZpyg5no48P6MnCaJCrqbcdJ4CLFbacfzwmq3IhuysAIY=;wBKOBgBQxG7o2s26x+HeMQ=="
 ---
 

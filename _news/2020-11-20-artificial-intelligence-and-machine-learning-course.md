@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligen
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Free Webinar on the Booming Global AI-based Learning Market"
-    excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
-    publishedDateTime: 2020-11-18T18:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
   - title: "Dell to explore AI and machine learning at GITEX 2020"
     excerpt: "US tech giant Dell is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai World Trade Centre-based tech show from the 6-10 December 2020."
     publishedDateTime: 2020-11-22T08:44:00Z

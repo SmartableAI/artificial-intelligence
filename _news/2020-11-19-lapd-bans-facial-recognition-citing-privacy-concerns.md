@@ -7,7 +7,7 @@ originalUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/16
 webUrl: "https://threatpost.com/lapd-facial-recognition-privacy-concerns/161364/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition critics consider the options in OBVIA webinar"
-    excerpt: "The current legal landscape throughout North America and Europe is inadequate to deal with the risks to public rights created by increasing facial recognition use, according to panelists in a"
-    publishedDateTime: 2020-11-19T22:55:00Z
-    webUrl: "https://www.biometricupdate.com/202011/facial-recognition-critics-consider-the-options-in-obvia-webinar"
+  - title: "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work"
+    excerpt: "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern"
+    publishedDateTime: 2020-11-18T19:32:00Z
+    webUrl: "https://hothardware.com/news/lapd-facial-recognition-ban"
+    ampWebUrl: "https://amp.hothardware.com/news/lapd-facial-recognition-ban"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
+      name: HotHardware
+      domain: hothardware.com
+    quality: 54
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
+        width: 708
+        height: 470
+        isCached: true
+  - title: "LAPD bars use of third-party facial recognition systems"
+    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
+    publishedDateTime: 2020-11-18T22:26:00Z
+    webUrl: "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/news/21163317/lapd-bars-use-of-thirdparty-facial-recognition-systems"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
     quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2020/11/20201118_AMX_US_NEWS_LAPD_FACIALRECOGNITION_LA.5fb59ccecb9ec.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 676
         isCached: true
   - title: "LAPD ban facial recognition following alleged unauthorised use"
     excerpt: "The Los Angeles Police Department (LAPD) has banned the use of facial recognition after officers allegedly used it without authorisation."
