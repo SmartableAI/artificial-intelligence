@@ -7,7 +7,7 @@ originalUrl: "https://www.shdlogistics.com/robotics-automation/time-send-robots"
 webUrl: "https://www.shdlogistics.com/robotics-automation/time-send-robots"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Making robots useful in the warehouse"
-    excerpt: "Working in a warehouse is tough for robots. Unlike on a production line, where the same motion is constantly repeated, orders and tasks can change, requiring them to adapt. On top of that, different objects require different – and often delicate – handling,"
-    publishedDateTime: 2020-11-18T21:28:00Z
-    webUrl: "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/"
-    ampWebUrl: "https://cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp"
-    cdnAmpWebUrl: "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/news/making-robots-useful-in-the-warehouse/?amp"
+  - title: "RobotSafe, The first “Made in Greece” autonomous robot"
+    excerpt: "RobotSafe™, the first autonomous disinfection mobile robot with fogging technology is being launched by Gizelis Robotics, a major industrial-robot"
+    publishedDateTime: 2020-11-20T06:39:00Z
+    webUrl: "https://greekcitytimes.com/2020/11/20/robotsafe-autonomous-robot-greece/"
     type: article
     provider:
-      name: Cosmos
-      domain: cosmosmagazine.com
-    quality: 59
+      name: Greek City Times
+      domain: greekcitytimes.com
+    quality: 39
     images:
-      - url: "https://cosmosmagazine.com/wp-content/uploads/2020/11/201119-Robot.jpg"
-        width: 850
-        height: 478
+      - url: "https://greekcitytimes.com/wp-content/uploads/2020/11/robot-logo-grafeia.jpg"
+        width: 768
+        height: 384
         isCached: true
 
 secured: "7Lgv8DZz2N2Y+VdPsIOeV6+4cRH9R0DybmSoCWJ4altb63HbaT3KmnELVg6Zkiz9WfQUdIZcw8JX1KUL07C8wNdGVAdeNrxyRtJrIobi0bRQX3rScYat8npzXaXO6anYyOdIynaYljB5emeY7bkPsf70kvAsQY5LNk1WkSn0wAgmAhEAyktm/AQ5tGlu616nyal5KuunBRwYe2H/gFkvfgHX28zLekB5HpSZTozdv9BGtdz4mKBJhS9GzdwBTemL9piUyoj2donlCi8Zag5fyA/cg1ogND/mv+QhE46FS2JBnw3YL4xqjGKCcATb1naKUq6rTGLzuIRN1dq3Vc2fva/K9dCkO8AmOAflaPQ3COo=;1bJH+c8Une5MVSYkFntLFg=="

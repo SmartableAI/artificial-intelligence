@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
-    publishedDateTime: 2020-11-19T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
     excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
     publishedDateTime: 2020-11-21T06:20:00Z
@@ -240,6 +226,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Global Cognitive Analytics Solutions Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2026"
+    excerpt: "The latest informative study entitled Global Cognitive Analytics Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2020-11-23T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-solutions-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2026-2020-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Technavio Research: Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
     excerpt: "The deep learning market is expected to grow by 7.2 billion, progressing at a CAGR of almost 45% during the forecast period. This press release features multimedia. View the full release here:"
     publishedDateTime: 2020-11-20T17:46:00Z
@@ -253,6 +253,20 @@ related:
       - url: "https://mms.businesswire.com/media/20201120005431/en/840838/4/IRTNTR41147.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
+    excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
+    publishedDateTime: 2020-11-23T14:07:00Z
+    webUrl: "https://galusaustralis.com/2020/11/1041977/global-self-driving-cars-market-2020-key-drivers-challenges-opportunities-and-forecast-insights-by-2025/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 7
+    images:
+      - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
+        width: 981
+        height: 576
         isCached: true
 
 secured: "Eor6U9ibmYP6IsumOOthRl+ZVyRh4WizvYVs9gh/erDBAp64tmeaApKxhO0Ra/TNWjBQr1HVIWMT7kXIaikiCE6fHQLsIay8+b+z3WPeliTlKyNgsJLiD0GO83pOv4P0krovSYT9MO97Dotak4BtBISVTY+YPaUfYJt8Z/WuHGGS9X2Bp7I0ssgiLUxmYVyONO0kVPYBw8PJmGv4g6921bSQrKv0uhuF3O+Ik2YA3el1MzbWwSonFcWVVpSwgjJmWnowENoxAtAAMWEJPyL4RbRpNJjYfUQ+nsFFiyegJwz21ReExzcxJeczKv8tJcoSaERjLGolgbiFr0bsgQnVXzzyrtxfpoxK0KE8DQY8Rp1vH06pftmh9GAgur/Tvbp8ZlAV9a07xj6mQkrHpg3aW+ZGzkAFZpS/7hvAvpi+ZqwShd5/kq22r0PybGpDpOAe3n6jD0v2pSExcCXfPFJQ6seZ6RRSKaAa/EXu/VRauGXgYdD8j+F+xugahHyQNwZxCpSBelDSsYgnr6aWvJkVdw==;P+XGo6RaxVUroU4q/HRhPQ=="

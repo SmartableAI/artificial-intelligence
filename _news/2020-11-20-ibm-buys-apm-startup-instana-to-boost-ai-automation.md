@@ -148,20 +148,6 @@ related:
         width: 1200
         height: 816
         isCached: true
-  - title: "IBM To Acquire Instana"
-    excerpt: "IBM (NYSE:IBM) is to acquire Instana, a Chicago, IL-based application performance monitoring and observability company. The financial details of the deal were not disclosed. With the acquisition ..."
-    publishedDateTime: 2020-11-18T22:04:00Z
-    webUrl: "https://www.finsmes.com/2020/11/ibm-to-acquire-instana.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
-        isCached: true
   - title: "IBM to Buy Software Company Instana"
     excerpt: "IBM said once Instana’s capabilities are integrated into IBM, companies will be able to feed these insights into Watson AIOps. The deal comes days ... while focusing on its cloud platform and AI. “IBM is essentially getting rid of a shrinking, low ..."
     publishedDateTime: 2020-11-19T00:02:00Z

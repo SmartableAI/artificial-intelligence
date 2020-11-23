@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-app
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
 type: article
 quality: 123
-heat: 173
+heat: 153
 published: true
 
 provider:
@@ -33,38 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mac-optimized TensorFlow flexes new M1 and GPU muscles"
-    excerpt: "A new Mac-optimized fork of machine learning environment TensorFlow posts some major performance increases. Although a big part of that is that until now the GPU wasn’t used for training tasks (!), M1-based devices see even further gains,"
-    publishedDateTime: 2020-11-18T22:40:00Z
-    webUrl: "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/"
-    ampWebUrl: "https://techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/mac-optimized-tensorflow-flexes-new-m1-and-gpu-muscles/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 123
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/Apple-m1-chip.jpg?w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Apple releases TensorFlow fork with speedups for M1 Macs"
-    excerpt: "Apple has released its own fork of the TensorFlow 2.4 machine learning framework, specifically optimized for its newly released M1 processor. According to Apple, the M1-compiled version of TensorFlow delivers several times faster performance on a number of ..."
-    publishedDateTime: 2020-11-18T21:46:00Z
-    webUrl: "https://www.infoworld.com/article/3596904/apple-releases-tensorflow-fork-with-speedups-for-m1-macs.html"
-    ampWebUrl: "https://www.infoworld.com/article/3596904/apple-releases-tensorflow-fork-with-speedups-for-m1-macs.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596904/apple-releases-tensorflow-fork-with-speedups-for-m1-macs.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 106
-    images:
-      - url: "https://images.techhive.com/images/article/2014/04/bolts-of-light-speeding-through-the-acceleration-tunnel-95535268-100264665-large.jpg"
-        width: 1200
-        height: 805
-        isCached: true
   - title: "An introduction to TensorFlow Lite development on Android"
     excerpt: "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases."
     publishedDateTime: 2020-11-22T07:12:00Z

@@ -50,20 +50,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
-  - title: "Mayo Clinic inks data analytics partnership with AI-powered telehealth startup"
-    excerpt: "Mayo Clinic formed a new collaboration focused on expanding clinical data analytics with K Health, a startup offering patients an artificial intelligence-powered symptom checker and telehealth consultations with primary care physicians,"
-    publishedDateTime: 2020-11-18T22:36:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/mayo-clinic-inks-data-analytics-partnership-with-ai-powered-telehealth-startup.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "j8X8StlhI1kRHbmuED29qlngFiofK3gpAjKSdiNjtwzXcBBYfBPl4SJr8kVL7pDGvU/tScIMOvQObCAE0Psft+xyDAKGldqCc99hg2z6FPg+Xg7EVXUEQSVNaLl53MuU4bfkHMFB+Dd3VBo1Zgage11AV+Vgrbhz+JnGXz2r5JWbXF22f7ovT1Whg9EiBBBqxUzHfQ/kIIxYPTzpTfTAnVBH4I9OOiWPWRfthwydL/SXNeBRIIjqwn5Udc2HdYgqcdHrOQZDrT2clDGNiiJSrOAEVqQLKzscpbsj0abdMDBp7QYsjfyPeCtJjt27VY2D3unay1mr7LXWyxxn9TpDiieifpkc4t+K+74kSHnFg2w=;m2uGmJ7K/ZQJV6i3/JqZVA=="
 ---

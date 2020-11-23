@@ -20,6 +20,17 @@ topics:
   - IBM AI
   - AI
 
+related:
+  - title: "Call for Code Names India-Based AI Farm as the APAC Regional Winner"
+    excerpt: "Call for Code founding partner IBM (NYSE: IBM) and its creator, David Clark Cause, announced the Asia Pacific Regional Winner. AI Farm – an Indian entry – was named the Asia Pacific Regional Winner for an intelligent system that evaluates climate and soil conditions to provide farmers with information to adapt their crop strategies."
+    publishedDateTime: 2020-11-23T13:47:00Z
+    webUrl: "https://www.businesswireindia.com/call-for-code-names-india-based-ai-farm-as-the-apac-regional-winner-70508.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 19
+
 secured: "I6RN1gexFWu3CyXydky/2BSFC6VmpM+69gtuGGzIw1BNqkLqAvl0ZQBUBQuElcuoF+W3c1NeCMO4QieUVczyvbIval5i/HSGRPZjzymhDdSOs0tvsQ+AyXYKrXD1RVJDnRM53q9pP7OBtaOexzGatfFUupfj16DWtnHqRSeKOJBuf9MAA+osDiufzX4oUMXndZn2IOKchTEI09K3PJkc099EY0rYzXukqShw+ADlubf7s+FshLpss0VqOqlAKsjE3WXlzXBmU990fGpnj7LGBvre/g/2qr3B7aKbMPqImnLjHBJco3NZJQV5cDeUcF6ASqii0SoinJIF35Y2f1EVWdYxgN3OU5CeminwZJQlXvc=;a2xzLvyvQbGjHkoSwvKXHg=="
 ---
 

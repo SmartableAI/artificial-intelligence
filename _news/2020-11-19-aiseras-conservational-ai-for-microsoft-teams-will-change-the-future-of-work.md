@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/newswire/technology-business-corp
 webUrl: "https://apnews.com/press-release/newswire/technology-business-corporate-news-north-america-products-and-services-c80fc29710aaf0f9506bdf3c2b8df8dc"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "Aisera's Conversational AI Solution for Microsoft Teams Will Help Change the Future of Work"
-    excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, announced today the availability of its AI Service Desk"
-    publishedDateTime: 2020-11-18T22:42:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/aiseras-conversational-ai-solution-for-microsoft-teams-will-help-change-the-future-of-work-301176477.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 44
-    images:
-      - url: "https://mma.prnewswire.com/media/1338156/Aisera_Logo.jpg?p=facebook"
-        width: 1500
-        height: 784
-        isCached: true
 
 secured: "sypbWLAF6K/Ckz2T/I1VdbcSBxYJkp94FXhUxq5knjXKAby0P82S4JcLD3EjNsAKGx47zTHBza/vMlgpmIIeUuPXNPDkDLF2pq1Xjzxkyi5aa0uplJPgsOZOAbMKSjpHxXjryVcr7aw3VXLSWdP2wNj5fLwIbp6POXtb6AHMXkHi77pMQmHkx9vllK2V/KhpsNyEUIH+k5CrYfl8t/YATNXAEkIoVm3l4wz8mimeMXilh0D3m14Slhbw3bR4X1x5A2NOBZpbrQfOB46GzjaihsuDTqDUBoZ9/xet8gVdHm5bQxSclSz2Z8xQyHCjIaXcG0nG02FXclGEzcPh5eehNtstYImCp37kuBBuKRl+Jwo=;z/75okKk/lvsf91adBCYUg=="
 ---

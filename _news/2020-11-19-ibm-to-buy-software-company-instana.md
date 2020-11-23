@@ -162,20 +162,6 @@ related:
         width: 1200
         height: 816
         isCached: true
-  - title: "IBM To Acquire Instana"
-    excerpt: "IBM (NYSE:IBM) is to acquire Instana, a Chicago, IL-based application performance monitoring and observability company. The financial details of the deal were not disclosed. With the acquisition ..."
-    publishedDateTime: 2020-11-18T22:04:00Z
-    webUrl: "https://www.finsmes.com/2020/11/ibm-to-acquire-instana.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 24
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2016/03/IBM_LOGO.jpe"
-        width: 2700
-        height: 1411
-        isCached: true
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     publishedDateTime: 2020-11-19T19:33:00Z

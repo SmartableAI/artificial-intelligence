@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
-    publishedDateTime: 2020-11-19T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
     excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
     publishedDateTime: 2020-11-21T06:20:00Z
@@ -236,6 +222,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Global Cognitive Analytics Solutions Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2026"
+    excerpt: "The latest informative study entitled Global Cognitive Analytics Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
+    publishedDateTime: 2020-11-23T13:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-solutions-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2026-2020-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
     excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
     publishedDateTime: 2020-11-23T09:03:00Z
@@ -258,6 +258,20 @@ related:
       - url: "https://mms.businesswire.com/media/20201120005431/en/840838/4/IRTNTR41147.jpg"
         width: 480
         height: 270
+        isCached: true
+  - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
+    excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
+    publishedDateTime: 2020-11-23T14:07:00Z
+    webUrl: "https://galusaustralis.com/2020/11/1041977/global-self-driving-cars-market-2020-key-drivers-challenges-opportunities-and-forecast-insights-by-2025/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 7
+    images:
+      - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
+        width: 981
+        height: 576
         isCached: true
 
 secured: "OSMefaOumVq10pItxfysAZCt/SmPV9ymNh5m5H+m83Q5tRCO23iHOi07vc2ic4ZiWH3PJjP8fs9m2hAGiHIOKsQxkLCLE+YtHwme/HlTRxWJZPaWkedaYjKNQOndx3ZUM5OvoX1LSDedPbXB4cfaEK4Fr5/yRa8aFXTNjZcH5TwB4MitflYHyuqOQTet8eMqhm4LzUCjZFTomscafqUCoVki9EcOcdMCOCwEkFjCnY9v11u+eSfxzGhxnHtj4vTTQYVu1MgloEPt1LKm/0yIMlXk8lZZ7UW9RtBYtMxqV/I3KbwMYh/Rm4rTiAWvYxUSnCliC0TBEfRrpfABJvSQN+8Oadrpb6y8qZw8jxx1wEs=;duersxoSGiyg9RydTjSgXA=="

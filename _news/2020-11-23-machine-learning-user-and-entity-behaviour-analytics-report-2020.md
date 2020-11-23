@@ -35,20 +35,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Mayo Clinic inks data analytics partnership with AI-powered telehealth startup"
-    excerpt: "Mayo Clinic formed a new collaboration focused on expanding clinical data analytics with K Health, a startup offering patients an artificial intelligence-powered symptom checker and telehealth consultations with primary care physicians,"
-    publishedDateTime: 2020-11-18T22:36:00Z
-    webUrl: "https://www.beckershospitalreview.com/data-analytics/mayo-clinic-inks-data-analytics-partnership-with-ai-powered-telehealth-startup.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 33
-    images:
-      - url: "https://www.beckershospitalreview.com/images/channels/data-analytics/2.jpg"
-        width: 400
-        height: 300
-        isCached: true
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z

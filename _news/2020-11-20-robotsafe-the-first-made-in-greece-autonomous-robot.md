@@ -7,7 +7,7 @@ originalUrl: "https://greekcitytimes.com/2020/11/20/robotsafe-autonomous-robot-g
 webUrl: "https://greekcitytimes.com/2020/11/20/robotsafe-autonomous-robot-greece/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 768
     height: 384
     isCached: true
+
+related:
+  - title: "Time to send in the robots"
+    excerpt: "How can automation enable organisations to meet changing expectations and cope with future unexpected peaks and troughs in demand? Steve Richmond, Director of Logistics Systems, Jungheinrich, explains."
+    publishedDateTime: 2020-11-19T10:57:00Z
+    webUrl: "https://www.shdlogistics.com/robotics-automation/time-send-robots"
+    type: article
+    provider:
+      name: SHD Logistics News
+      domain: shdlogistics.com
+    quality: 39
+    images:
+      - url: "https://www.shdlogistics.com/sites/shdlogistics.com/files/technology-4256272_1920.jpg"
+        width: 770
+        height: 400
+        isCached: true
 
 secured: "7sLveKwaifGMrTg4cCbnScwe5bJFXsL81s+JvNZvorBXud5cOjBieVqjHU+9CFKrPYOJbvtbWtQSZPCUVvxIfCOHatuZ+c3mFA3wwawulvCRFYmLouljvkQawwqmw42uMKMOXp3lhDgJ2y8oHTcP4jFmzSn5RoRY0YTVh9SY3pd4e/pQDcAgw6aoKiToGRMyf5pH5gAyl6Cc0i2bYjv5h84E7Kl0sB8QuHvgsEu/V4fRvt2kxcMfYZzfGQEIfpRIEOrEB32eNTD+9TOxRZfxFamL4bN3K2a0viMwyK8lakCBbxKDNfu3fD8mEgQlL0bo42UlifRoN6TaH/QnXBkbaszEYDbUI3LxSUt0T6Hv9Yj3RT1SDi3AtF1ldpLEsSqVOUn7vQ6MlfotDxMnS/QKLc1OdyoVOeRdbdfdkx6uJ33c6jaBEFf33611wBieuIjxZTqnaY2TtyW7xwOLRze7sA1qPAoAtDpQENI+KhXhe4KRC5MDornI9W7wh77ph0dGA1GW2tQ7QOkh4czMhpzUmA==;da5fJPagYBeCfNYUh9o3HQ=="
 ---
