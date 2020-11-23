@@ -4,121 +4,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_companies/armorblox.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/armorblox/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/armorblox/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
-      "website": "https://www.armorblox.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2942
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/armorblox"
-      },
-      "twitter": {
-        "username": "armorblox",
-        "url": "https://twitter.com/armorblox",
-        "followers": 273
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Cupertino, CA",
-        "Pasadena, CA",
-        "Pasadena, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/arterys.md",
-      "title": "Arterys",
-      "excerpt": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/arterys/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/arterys/",
-      "type": "profile",
-      "name": "Arterys",
-      "overview": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "website": "https://arterys.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2649064",
-        "followers": 6047
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/arterys"
-      },
-      "twitter": {
-        "username": "arterysinc",
-        "url": "https://twitter.com/arterysinc",
-        "followers": 1729
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=R_GU1ne-oW0"
-        }
-      ],
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Arterys",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/bearrobotics.ai.md",
       "title": "Bear Robotics",
       "excerpt": "Bear Robotics was started in 2017 to address the increased pressure faced by the food service industry around wages, labor supply, and cost efficiencies. Our company has developed a robot named Penny enabled by artificial intelligence and able to autonomously shuttle food from a kitchen out to tables and bring dishes back for cleaning.",
@@ -291,6 +176,41 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/einstein.ai.md",
+      "title": "Salesforce Einstein",
+      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/einstein.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/einstein.ai/",
+      "type": "profile",
+      "name": "Salesforce Einstein",
+      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "website": "https://einstein.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/einstein"
+      },
+      "twitter": {
+        "username": "einstein_ai",
+        "url": "https://twitter.com/einstein_ai",
+        "followers": 136
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Salesforce Einstein",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/foodvisor.io.md",
       "title": "Foodvisor",
       "excerpt": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
@@ -365,7 +285,7 @@
       "twitter": {
         "username": "gatik_ai",
         "url": "https://twitter.com/gatik_ai",
-        "followers": 320
+        "followers": 325
       },
       "size": "11-50 employees",
       "yearFounded": 2017,
@@ -1228,7 +1148,7 @@
       "twitter": {
         "username": "sophiagenetics",
         "url": "https://twitter.com/sophiagenetics",
-        "followers": 21412
+        "followers": 21411
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
@@ -1471,82 +1391,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
-      "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
-      },
-      "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1124
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1267559599135219715/dJd4U-j-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Collective[i]",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/reflektion.md",
-      "title": "Reflektion",
-      "excerpt": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/reflektion/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/reflektion/",
-      "type": "profile",
-      "name": "Reflektion",
-      "overview": "Reflektion understands the individual intent and preferences of each customer and intelligently responds in real time.",
-      "website": "https://www.reflektion.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/reflektion"
-      },
-      "twitter": {
-        "username": "ReflektionInc",
-        "url": "https://twitter.com/ReflektionInc",
-        "followers": 1444
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Mateo, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ],
-      "heat": 57,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/910264575034933248/rJvYegtU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Reflektion",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/aera-technology.md",
       "title": "Aera Technology",
       "excerpt": "Aera Technology delivers the Cognitive Operating System™ that enables the Self-Driving Enterprise™. Aera understands how businesses work; makes real-time recommendations; predicts outcomes; and acts autonomously. Using proprietary data crawling, industry models, machine learning and artificial intelligence, Aera is revolutionizing how people relate to data and how organizations function. ",
@@ -1586,6 +1430,162 @@
           "width": 400,
           "height": 400,
           "title": "Aera Technology",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aibrain.md",
+      "title": "AIBrain",
+      "excerpt": "AIBrain is an artificial intelligence company with the goal of building fully autonomous AI by unifying the three essential aspects of intelligence: Problem Solving, Learning and Memory. AIBrain is headquartered in Menlo Park, CA with offices in Berlin, Seoul, and Shenzhen.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aibrain/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aibrain/",
+      "type": "profile",
+      "name": "AIBrain",
+      "overview": "AIBrain is an artificial intelligence company with the goal of building fully autonomous AI by unifying the three essential aspects of intelligence: Problem Solving, Learning and Memory. AIBrain is headquartered in Menlo Park, CA with offices in Berlin, Seoul, and Shenzhen.",
+      "website": "https://www.aibrain.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/10234976",
+        "followers": 1028
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aibrain"
+      },
+      "twitter": {
+        "username": "aibraininc",
+        "url": "https://twitter.com/aibraininc",
+        "followers": 193
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Menlo Park, CA",
+        "Menlo Park, California"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/512355180612825088/PSK4fOEZ_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "AIBrain",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEa61lSxBjjTg/company-logo_200_200/0?e=1594857600&v=beta&t=DLAZc-FTfB5Gk89zEUyllyV1jlJR-zasHmZU0VwVZnY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aicure.md",
+      "title": "AiCure",
+      "excerpt": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aicure/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aicure/",
+      "type": "profile",
+      "name": "AiCure",
+      "overview": "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment.",
+      "website": "https://aicure.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aicure",
+        "followers": 3195
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ai-cure"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "New York, NY",
+        "New York, NY"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=xBpvK_VxiXM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "AiCure",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG1Uptq0TE__Q/company-logo_200_200/0?e=1594857600&v=beta&t=sumAmqV0-7zYBu108UOZcon224TCMDXXgvGBoHkDCZ8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aidoc.md",
+      "title": "Aidoc",
+      "excerpt": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aidoc/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aidoc/",
+      "type": "profile",
+      "name": "Aidoc",
+      "overview": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
+      "website": "http://aidoc.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/aidoc-inc/",
+        "followers": 57
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aidoc"
+      },
+      "twitter": {
+        "username": "aidocmed",
+        "url": "https://twitter.com/aidocmed",
+        "followers": 1818
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "Los Angeles, CA",
+        "Richmond Hill, Ontario"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=r3g_VCI2B4U"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Aidoc",
           "isCached": true
         }
       ],

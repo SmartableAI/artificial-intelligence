@@ -19,7 +19,7 @@
       "twitter": {
         "username": "chorus_ai",
         "url": "https://twitter.com/chorus_ai",
-        "followers": 6823
+        "followers": 6824
       },
       "yearFounded": 0,
       "locations": [
@@ -29,7 +29,7 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 97,
+      "heat": 83,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1275421448807624704/YLghymIH_400x400.jpg",
@@ -95,6 +95,41 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/einstein.ai.md",
+      "title": "Salesforce Einstein",
+      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/einstein.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/einstein.ai/",
+      "type": "profile",
+      "name": "Salesforce Einstein",
+      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
+      "website": "https://einstein.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/einstein"
+      },
+      "twitter": {
+        "username": "einstein_ai",
+        "url": "https://twitter.com/einstein_ai",
+        "followers": 136
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Salesforce Einstein",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/clearbit.md",
       "title": "Clearbit",
       "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
@@ -120,51 +155,13 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 77,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Clearbit",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
-      "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
-      },
-      "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 865
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Aviso",
           "isCached": true
         }
       ],
@@ -186,7 +183,7 @@
       "twitter": {
         "username": "collectivei",
         "url": "https://twitter.com/collectivei",
-        "followers": 1124
+        "followers": 1125
       },
       "yearFounded": 0,
       "locations": [
@@ -196,48 +193,13 @@
         "AI",
         "AI in Sales"
       ],
-      "heat": 57,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1267559599135219715/dJd4U-j-_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Collective[i]",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/einstein.ai.md",
-      "title": "Salesforce Einstein",
-      "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/einstein.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/einstein.ai/",
-      "type": "profile",
-      "name": "Salesforce Einstein",
-      "overview": "Einstein is a deep learning research and engineering organization for Salesforce.",
-      "website": "https://einstein.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/einstein"
-      },
-      "twitter": {
-        "username": "einstein_ai",
-        "url": "https://twitter.com/einstein_ai",
-        "followers": 136
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1291630668980449280/5mGdX9eY_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce Einstein",
           "isCached": true
         }
       ],
@@ -292,6 +254,44 @@
           "width": 400,
           "height": 400,
           "title": "Tact.ai",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/aviso.md",
+      "title": "Aviso",
+      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
+      "type": "profile",
+      "name": "Aviso",
+      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
+      "website": "https://www.aviso.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/aviso-inc"
+      },
+      "twitter": {
+        "username": "AvisoInc",
+        "url": "https://twitter.com/AvisoInc",
+        "followers": 865
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Redwood City, CA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ],
+      "heat": 41,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Aviso",
           "isCached": true
         }
       ],

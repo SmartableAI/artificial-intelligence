@@ -318,7 +318,7 @@
       "twitter": {
         "username": "dataminr",
         "url": "https://twitter.com/dataminr",
-        "followers": 14694
+        "followers": 14692
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -528,7 +528,7 @@
       "twitter": {
         "username": "LoveKairos",
         "url": "https://twitter.com/LoveKairos",
-        "followers": 4550
+        "followers": 4549
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -694,7 +694,7 @@
       "twitter": {
         "username": "mighty_ai",
         "url": "https://twitter.com/mighty_ai",
-        "followers": 1795
+        "followers": 1794
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -800,7 +800,7 @@
       "twitter": {
         "username": "NarrativaAI",
         "url": "https://twitter.com/NarrativaAI",
-        "followers": 603
+        "followers": 604
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -1077,7 +1077,7 @@
       "twitter": {
         "username": "ROSSIntel",
         "url": "https://twitter.com/ROSSIntel",
-        "followers": 5265
+        "followers": 5264
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1265,7 +1265,7 @@
       "twitter": {
         "username": "tempuslabs",
         "url": "https://www.twitter.com/tempuslabs",
-        "followers": 3308
+        "followers": 3309
       },
       "size": "501-1,000 employees",
       "yearFounded": 2015,
@@ -1304,44 +1304,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/aviso.md",
-      "title": "Aviso",
-      "excerpt": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/aviso/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/aviso/",
-      "type": "profile",
-      "name": "Aviso",
-      "overview": "Aviso is the AI Compass that guides Sales and Go-to-Market teams to close more deals, accelerate growth, and find their revenue True North",
-      "website": "https://www.aviso.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aviso-inc"
-      },
-      "twitter": {
-        "username": "AvisoInc",
-        "url": "https://twitter.com/AvisoInc",
-        "followers": 865
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Redwood City, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1148659795735371776/pV8lUeX3_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Aviso",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/metabiota.md",
       "title": "Metabiota",
       "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
@@ -1374,44 +1336,6 @@
           "width": 400,
           "height": 400,
           "title": "Metabiota",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/vectra.ai.md",
-      "title": "Vectra",
-      "excerpt": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/vectra.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/vectra.ai/",
-      "type": "profile",
-      "name": "Vectra",
-      "overview": "Vectra is a cybersecurity platform that uses AI to detect attackers in real-time and perform conclusive incident investigations.",
-      "website": "https://vectra.ai",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/vectra-networks"
-      },
-      "twitter": {
-        "username": "Vectra_AI",
-        "url": "https://twitter.com/Vectra_AI",
-        "followers": 2470
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Jose, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1314631586483064832/dmGlciU6_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Vectra",
           "isCached": true
         }
       ],
@@ -2028,6 +1952,121 @@
           "height": 400,
           "title": "AEYE",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/armorblox.md",
+      "title": "Deep 6 AI",
+      "excerpt": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/armorblox/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/armorblox/",
+      "type": "profile",
+      "name": "Deep 6 AI",
+      "overview": "Armorblox brings natural language understanding (NLU) to security to protect against identity-related attacks and data loss.",
+      "website": "https://www.armorblox.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/deep-6-ai/",
+        "followers": 2942
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/armorblox"
+      },
+      "twitter": {
+        "username": "armorblox",
+        "url": "https://twitter.com/armorblox",
+        "followers": 273
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Cupertino, CA",
+        "Pasadena, CA",
+        "Pasadena, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "Machine Learning"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1098146632820973568/HZsk3Drw_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Deep 6 AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_200_200/0?e=1594857600&v=beta&t=9Xzk4Ratq_4LcblVr-H41PPaQbm-C88v3QDMJjxxbiU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/arterys.md",
+      "title": "Arterys",
+      "excerpt": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/arterys/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/arterys/",
+      "type": "profile",
+      "name": "Arterys",
+      "overview": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
+      "website": "https://arterys.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2649064",
+        "followers": 6047
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/arterys"
+      },
+      "twitter": {
+        "username": "arterysinc",
+        "url": "https://twitter.com/arterysinc",
+        "followers": 1729
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=R_GU1ne-oW0"
+        }
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/573556405367517186/t84NuUrh_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Arterys",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
