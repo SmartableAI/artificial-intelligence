@@ -53,6 +53,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
+    publishedDateTime: 2020-11-23T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2026-2020-11-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
+    excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The deep learning market is expected to grow by $ 7."
+    publishedDateTime: 2020-11-20T17:45:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201120005431/en/Deep-Learning-Market-by-Type-and-by-Geography--Global-Opportunity-Analysis-and-Industry-Forecast-2020-2024"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 21
+    images:
+      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/23/IRTNTR41147.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
+    excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
+    publishedDateTime: 2020-11-23T14:07:00Z
+    webUrl: "https://galusaustralis.com/2020/11/1041977/global-self-driving-cars-market-2020-key-drivers-challenges-opportunities-and-forecast-insights-by-2025/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 7
+    images:
+      - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
+        width: 981
+        height: 576
+        isCached: true
 
 secured: "aLB8CrE8/nmxK2Ak0zBKUGB030Q2KrpOSlq4AnHUEBLPA2ppagWIrHzCOL5e1UBvZDtgoRaqFW3GCVOr5uV5gNMWjAwCIYGlJ/kMdpdSLbQLKZ3u+TmSF+bzV0+L05G8kybVsgCcDzPAgPRp5ZSjHcvpcbARLXQddcBcRyZ0YIOgRgwGFqSjPnTLgqHtLD73o/88TOoR8B8Ur6Oorgwq9zLcPRXLrBgxCddfZr/5O+KNFzAW/ayuZ5P+3ar/lcKn4RvxYjj+QDD6BIW7D1lIaIrSMhupQJ1kuLpp8myaJ60RW4wwD4OhlMj5xGWhBFNLwf1QlVWmYqPtDFqc//LlPgCX17mtS6zSy2t98/7A4J8=;4fk18q3zFi17iv0VizztuQ=="
 ---

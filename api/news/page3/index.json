@@ -2,6 +2,201 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-20-why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo.md",
+      "title": "Why Data, Software And AI Are Key To Growth: A Q&A With Blue Yonder’s CFO",
+      "excerpt": "Blue Yonder's AI-enabled supply chain solutions are mitigating disruptions in today's digital world. Learn more about how companies can face these challenges and grow their workforce in my interview with Blue Yonder's CFO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
+      "originalUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c0d24def72c0e10baee1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D293%26cropY2%3D3533",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
+      "publishedDateTime": "2020-11-20T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-fetchai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich.md",
+      "title": "Fetch.AI launches blockchain-based AI smart-city infrastructure in Munich",
+      "excerpt": "Fetch.ai and Datarella predict mass implementation of Munich’s smart-city infrastructure will reduce CO2 emissions by 34,000 tonnes per year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/19/1e89316f-bbfb-4ef3-ab72-8a17612b8bdb/datarella-2.jpg",
+          "width": 1080,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
+      "publishedDateTime": "2020-11-20T03:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-tldr-this-ai-summarizes-research-papers-so-you-dont-have-to.md",
+      "title": "TL;DR: This AI summarizes research papers so you don’t have to",
+      "excerpt": "Reading scientific papers is a tough job. It might contain language and sections that you might not understand, and not all of it would be interesting to you. My colleague Tristan is great at traversing through these papers,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-research-summary-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/20/tldr-this-ai-summarizes-research-papers-so-you-dont-have-to/amp/",
+      "publishedDateTime": "2020-11-20T02:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-artificial-intelligence-and-satellite-technologies-reveal-detailed-map-of-air-pollution-across-uk.md",
+      "title": "Artificial intelligence and satellite technologies reveal detailed map of air pollution across UK",
+      "excerpt": "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
+      "originalUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/7-pollution.jpg",
+          "width": 1920,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
+      "publishedDateTime": "2020-11-20T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-startup-circle-how-is-doceree-using-ai-and-machine-learning-to-revolutionize-the-pharma-industry.md",
       "title": "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?",
       "excerpt": "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may",
@@ -783,6 +978,57 @@
       ]
     },
     {
+      "path": "_news/2020-11-20-white-house-issues-guidance-for-federal-agencies-on-ai-applications.md",
+      "title": "White House issues guidance for federal agencies on AI applications",
+      "excerpt": "US federal agencies have now been issued a guidance by the White House on how to regulate artificial intelligence (AI) applications that are produced in the US. \"This memorandum sets out policy considerations that should guide,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/",
+      "originalUrl": "https://www.zdnet.com/article/white-house-issues-guidance-for-federal-agencies-on-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/14/5f3cc87e-8254-4831-b1c4-f0fc8bbb3e63/thumbnail/770x578/882463b353ddecc83d495a3b34c8b98a/ai.png",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T09:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-tesla-to-release-new-full-self-driving-beta-update-w-fundamental-improvements-wider-release-could-be-coming-soon.md",
       "title": "Tesla to release new Full Self-Driving Beta update w/ ‘fundamental improvements,’ wider release could be coming soon",
       "excerpt": "CEO Elon Musk announced Tesla is set to release a new Full Self-Driving Beta update with “fundamental improvements” and new functionality and that a wider release could be coming soon. Last month, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature.",
@@ -978,221 +1224,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ibm-focuses-on-ai-cloud-announces-instana-acquisition.md",
-      "title": "IBM Focuses on AI & Cloud, Announces Instana Acquisition",
-      "excerpt": "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19",
-      "originalUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp",
-      "publishedDateTime": "2020-11-19T07:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-saudi-arabia-to-invest-more-than-5-bln-in-artificial-intelligence-by-2030-state-tv.md",
-      "title": "Saudi Arabia to invest more than $5 bln in artificial intelligence by 2030 - state TV",
-      "excerpt": "Saudi Arabia plans to invest more than 20 billion riyals ($5.3 billion) in artificial intelligence projects by 2030, Saudi state TV said on Thursday, citing the chairman of the Saudi Data and Artificial Intelligence Authority Abdullah al-Ghamdi.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/saudi-economy-technology-idUKD5N2EC02L",
-      "originalUrl": "https://www.reuters.com/article/saudi-economy-technology-idUKD5N2EC02L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKD5N2EC02L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKD5N2EC02L",
-      "publishedDateTime": "2020-11-19T06:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-more-companies-are-opting-for-janitor-robots-in-retail-stores.md",
-      "title": "More companies are opting for janitor robots in retail stores",
-      "excerpt": "Companies around the world are pivoting during this pandemic, and some big brand stores are now taking a more futuristic approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/",
-      "originalUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ksat.com/resizer/WL7N1FdmWRpqkdCfgEtkn1MiscA=/1280x720/smart/d1vhqlrjc8h82r.cloudfront.net/11-19-2020/t_d9f898320fa24cdf84a4ba073eb6ddf8_name_image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ksat-com.cdn.ampproject.org/c/s/www.ksat.com/news/local/2020/11/19/more-companies-are-opting-for-janitor-robots-in-retail-stores/?outputType=amp",
-      "publishedDateTime": "2020-11-19T06:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSAT",
-        "domain": "ksat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-uber-looks-to-partner-with-self-driving-companies-ceo-says.md",
-      "title": "Uber Looks to Partner With Self-Driving Companies, CEO Says",
-      "excerpt": "The remarks come days after a media report said the company was in discussions to sell its autonomous-vehicle unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601521%2Fgettyimages-994728156.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "publishedDateTime": "2020-11-19T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-natural-language-processings-impact-on-marketing.md",
-      "title": "Natural Language Processing's Impact on Marketing",
-      "excerpt": "So what does the surge in NLP use cases and technologies mean for AI in marketing? It’s huge if you ask Paul Roetzer, CEO and founder of the PR 20/20 and the Marketing Artificial Intelligence Institute.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "originalUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cmswire.com/-/media/9b53e77ff6714bfa8801c955a1e1bfc5.ashx?mw=1024",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "cdnAmpWebUrl": "https://www-cmswire-com.cdn.ampproject.org/c/s/www.cmswire.com/digital-marketing/natural-language-processings-impact-on-marketing/amp/",
-      "publishedDateTime": "2020-11-19T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

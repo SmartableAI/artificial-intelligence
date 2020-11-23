@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-lob
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/"
 type: article
 quality: 86
-heat: 96
+heat: 116
 published: true
 
 provider:
@@ -46,6 +46,36 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCUpZpMuNAoQ/v1/360x-1.jpg"
         width: 360
         height: 236
+        isCached: true
+  - title: "Loblaw's testing Canada's first self-driving delivery fleet in Toronto"
+    excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Beginning in January, Gatik will transport goods from its automated picking facility to Loblaw’s retail locations across the Greater Toronto Area."
+    publishedDateTime: 2020-11-23T18:02:00Z
+    webUrl: "https://driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto"
+    ampWebUrl: "https://driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2018/11/speeding-traffic-police-cop-stop-speed-trap-radar-3.jpg?quality=100&strip=all"
+        width: 1860
+        height: 1200
+        isCached: true
+  - title: "Loblaw and Gatik to deploy Canada's first self-driving delivery fleet"
+    excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Begi"
+    publishedDateTime: 2020-11-23T18:46:00Z
+    webUrl: "https://driving.ca/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 24
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/10/PCNA20_0720_fine.jpg?quality=100&strip=all"
+        width: 1800
+        height: 1200
         isCached: true
 
 secured: "+Zsv/+DmFSmNLNtIR/NbcfNSJt0Jkzvi/piC6sTKlnB21Vn4+NtMsyFRLLxDSJ+1TeHnLG+wf9H5RAjFhYsWDCfOQtxF+7qvfxkFn0F64mmgl6BJsjHB5b3qEVt4vBSlo5nGdczOuNcAK/2pwS0yPwjIaIfnbIcdmQxeEdjAkA4qT5KkiyUR0/ffJcRNAYLRX91/zMog9QRGHKuFSO4v3MScdJ/+EbDFz3f1GqvtzY7znTpv2sTeMzD0Mzmid+sGITpuLDD8cGUVwilALWTrePAGLstizDv3w4zU+6XyQv7v+kXwCEKuBtdQsiI9gOuEQC/KR69PKJbfRv3S+JXznfk3LxrfO0Fb1uEZl+er05kQyBmrkAg4iOy3vo+IplD4QLo00ykgn+CTDf1QT7OvWkWuIl6Qe5QIHGGO4QrOpEEJ8KcqYI1Xjqn4PZKtmrAf7paVEVZIYA81Emnmv342ofSublpYJrAhONA7cI44uU21cZdqbT9N9rs9QT4loSHCWCRW2gC9Jv4ejgG54eeERA==;G4taSSm5sNrIOawbJXrl0Q=="

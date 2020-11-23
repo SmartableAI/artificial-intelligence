@@ -19,66 +19,75 @@ topics:
   - AI in Security
 
 related:
-  - title: "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025"
-    excerpt: "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,"
-    publishedDateTime: 2020-11-19T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19"
+  - title: "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
+    publishedDateTime: 2020-11-19T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Security Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
-    publishedDateTime: 2020-11-19T17:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
+  - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
+    publishedDateTime: 2020-11-21T06:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market Size, Definition, Development, News and significant Growth With Regional Trends By Forecast 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2020 (AmericaNewsHour) -- The Deep Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the ..."
-    publishedDateTime: 2020-11-23T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2023-2020-11-23"
+  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
+    publishedDateTime: 2020-11-19T16:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 53
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Report 2020 Industry Trends, Share and Size, Complete Data Analysis across the Region and Globe"
-    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
-    publishedDateTime: 2020-11-19T23:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-report-2020-industry-trends-share-and-size-complete-data-analysis-across-the-region-and-globe-2020-11-19"
+  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
+    excerpt: "GE Healthcare today announced a new artificial intelligence algorithm to help clinicians assess Endotracheal Tube placements, a necessary and important step when ventilating critically ill COVID-19 patients."
+    publishedDateTime: 2020-11-23T13:04:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
+  - title: "Swarm Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The scope of the report includes a detailed study of Swarm Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The Swarm Intelligence Market is segmented on the Basis of Model Type,"
+    publishedDateTime: 2020-11-23T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Neural Network Software Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2023"
-    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-growth-rate-key-manufacturers-industry-size-share-and-latest-opportunities-forecast-to-2023-2020-11-19"
+  - title: "Global LegalTech Artificial Intelligence Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2026"
+    excerpt: "Global LegalTech Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 interprets market overview, value chain structure, industrial environment, regional analysis,"
+    publishedDateTime: 2020-11-23T08:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2026-2020-11-22"
     type: article
     provider:
       name: MarketWatch
@@ -89,45 +98,31 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Size Estimation, Industry Share, Future Demand, Dynamics, Drivers, Research Methodology by 2025"
-    excerpt: "Selbyville, Delaware Recently, Market Study Report, LLC, added a research on the ‘Artificial Intelligence (AI)"
-    publishedDateTime: 2020-11-19T22:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-size-estimation-industry-share-future-demand-dynamics-drivers-research-methodology-by-2025-2020-11-19"
+  - title: "Impacts of COVID-19 on the Global Automatic Content Recognition Market Report Research Industry 2020"
+    excerpt: "Nov (MarketResearch.biz via Comtex) -- “The Impacts of COVID-19 on the Automatic Content Recognition Market Report Research Industry – 2020″"
+    publishedDateTime: 2020-11-19T12:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/impacts-of-covid-19-on-the-global-automatic-content-recognition-market-report-research-industry-2020-2020-11-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 30
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
-    publishedDateTime: 2020-11-23T03:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
-    excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The deep learning market is expected to grow by $ 7."
-    publishedDateTime: 2020-11-20T17:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201120005431/en/Deep-Learning-Market-by-Type-and-by-Geography--Global-Opportunity-Analysis-and-Industry-Forecast-2020-2024"
+  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
+    excerpt: "Critical Care Suite 2.0 helps clinicians assess Endotracheal Tube (ETT) placement for intubated patients, including critical COVID-19 patients."
+    publishedDateTime: 2020-11-23T17:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123005895/en/GE-Healthcare-Announces-First-X-ray-AI-to-Help-Assess-Endotracheal-Tube-Placement-for-COVID-19-Patients"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 21
+    quality: 38
     images:
-      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/23/IRTNTR41147.jpg"
+      - url: "https://mms.businesswire.com/media/20201123005895/en/841166/23/GEHC_logo.jpg"
         width: 1200
         height: 627
         isCached: true
@@ -140,20 +135,6 @@ related:
       name: Medgadget
       domain: medgadget.com
     quality: 13
-  - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
-    excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
-    publishedDateTime: 2020-11-23T14:07:00Z
-    webUrl: "https://galusaustralis.com/2020/11/1041977/global-self-driving-cars-market-2020-key-drivers-challenges-opportunities-and-forecast-insights-by-2025/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 7
-    images:
-      - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
-        width: 981
-        height: 576
-        isCached: true
 
 secured: "qk+5p2j/fv074jI+JQW2VWjnY5Q9ivNjVwf5sm+1ay+WW6WbkXWFBlUGFmFnhIKyEZLh4Gj9UN983752khU/Rv8jS/1XVd2AzZgz+MhlqI27LdqkxmSWz2Xa7UzOvTUIjmvtvBMxyaZBMxKeMgxbl3hNJdSvWuVH7IaUDBnPbec6ufenMLaUrIez2/OzcAujMnDEDhX8W/UFhbgP0ltUp0LK3F1OT9JBTRKfqIiGRHzgHcRtvvrptKjnYF/HKGy31HE35KZ18n315VzZJYWktImHCfnzoeP9mYUaipAVhg/waguo9fqqRyl6h24xfiU8P/j68Cv2gLafS9GS7vkjBeNiB+78JCRps8Lw9ZmFgUg=;XrANhdGXiIMvWFYyFwhQJw=="
 ---

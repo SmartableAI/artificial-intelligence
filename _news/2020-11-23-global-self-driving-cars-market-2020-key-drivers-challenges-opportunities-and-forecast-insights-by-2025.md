@@ -25,85 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025"
-    excerpt: "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,"
-    publishedDateTime: 2020-11-19T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19"
+  - title: "Self-Driving Car Market Opportunity Assessment and Industry Expansion Strategies 2024"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2020-11-20T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-opportunity-assessment-and-industry-expansion-strategies-2024-2020-11-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 65
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Security Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
-    publishedDateTime: 2020-11-19T17:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
+  - title: "Self – Driving Car Market key players and manufacturers, Top Countries Analysis 2024"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2020-11-23T11:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-key-players-and-manufacturers-top-countries-analysis-2024-2020-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Size, Definition, Development, News and significant Growth With Regional Trends By Forecast 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2020 (AmericaNewsHour) -- The Deep Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the ..."
-    publishedDateTime: 2020-11-23T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2023-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Report 2020 Industry Trends, Share and Size, Complete Data Analysis across the Region and Globe"
-    excerpt: "The Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT"
-    publishedDateTime: 2020-11-19T23:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-report-2020-industry-trends-share-and-size-complete-data-analysis-across-the-region-and-globe-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market by Growth Rate, Key Manufacturers, Industry Size, Share and Latest Opportunities Forecast to 2023"
-    excerpt: "As per the Eurostat, the total value of the ICT sector in Europe, including the ICT manufacturing and ICT services,"
-    publishedDateTime: 2020-11-19T16:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-growth-rate-key-manufacturers-industry-size-share-and-latest-opportunities-forecast-to-2023-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Precision Medicine Market Size Estimation, Industry Share, Future Demand, Dynamics, Drivers, Research Methodology by 2025"
-    excerpt: "Selbyville, Delaware Recently, Market Study Report, LLC, added a research on the ‘Artificial Intelligence (AI)"
-    publishedDateTime: 2020-11-19T22:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-precision-medicine-market-size-estimation-industry-share-future-demand-dynamics-drivers-research-methodology-by-2025-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -137,24 +81,20 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
-    excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
-    publishedDateTime: 2020-11-23T09:03:00Z
-    webUrl: "https://www.medgadget.com/2020/11/ai-in-healthcare-market-size-competitive-strategies-application-analysis-regional-and-forecasts-2020-to-2030.html"
+  - title: "Technavio Research: Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
+    excerpt: "The deep learning market is expected to grow by 7.2 billion, progressing at a CAGR of almost 45% during the forecast period. This press release features multimedia. View the full release here:"
+    publishedDateTime: 2020-11-20T17:46:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51306889-technavio-research-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024-004.htm"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 13
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
-    publishedDateTime: 2020-11-23T15:07:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 11
+    images:
+      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/4/IRTNTR41147.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "NzSzquG0bw+Cbkqxm6dHTaV8OY9CduuLGqj7MqQdxwVkU0XR0NBibhWrDduvDHD7BpTcl5JyZ1t/7KEV2qHgYC1EFWZ4KT94p2eXQpVyvD1L44WExuSGaRod28zT+NR8QOeufTy2ooXh1CcDBGxZuamjvjWOOEElZkIwRDIgzO5XGh8NVOkhvFHZIgHpVdLMQZNFvDwc3ndUbAAIkq2Y3etdYe5dcemQM6rlSYulVLDGh/Sjo2fuyaC4XZlH1DuRL+BCmcCnnKppUiPOWBRi5G05/R/g+Iyvx7pKykCq6s/DlP/K4V7J3kZ2rjQmJc7pilJoD1l+BZ+3Nid6RNxGVn/hcy1WLhfzdn/EbDGbvv4=;Oh2K0NeWvoNb77PO5C7srQ=="
 ---

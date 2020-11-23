@@ -40,17 +40,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ..."
-    publishedDateTime: 2020-11-19T01:38:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 61
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,"
     publishedDateTime: 2020-11-19T13:00:00Z
@@ -110,20 +99,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "IBM acquires application observability startup Instana"
-    excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
-    publishedDateTime: 2020-11-19T02:49:00Z
-    webUrl: "https://siliconangle.com/2020/11/18/ibm-acquires-application-observability-startup-instana/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 24
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/32722481855_a6683b2ccc_k-768x512.jpg"
-        width: 768
-        height: 512
-        isCached: true
   - title: "IBM acquires cloud app monitoring service Instana"
     excerpt: "The newly acquired tech will be used to free up IT teams and automate application monitoring across services like Watson AIOps"
     publishedDateTime: 2020-11-19T11:47:00Z

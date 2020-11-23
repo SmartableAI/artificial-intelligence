@@ -9,8 +9,8 @@ ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/am
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 116
+published: true
 
 provider:
   name: Android Authority
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google TensorFlow ML framework gets an Apple M1-optimized version"
-    excerpt: "The Google-developed TensorFlow AI and machine learning environment is one of the most popular tools in that industry but it has so far been limited to using only the CPUs in Macs. Given that most Macs only have an Intel CPU with an integrated GPU ..."
-    publishedDateTime: 2020-11-19T02:51:00Z
-    webUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/"
-    ampWebUrl: "https://www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/google-tensorflow-ml-framework-gets-an-apple-m1-optimized-version-18648038/amp/"
-    type: article
-    provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 123
-    images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/Apple_Events_-_Special_Event_Stream_-_Apple-33-1.jpg"
-        width: 1280
-        height: 800
-        isCached: true
   - title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
     excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
     publishedDateTime: 2020-11-21T12:39:00Z

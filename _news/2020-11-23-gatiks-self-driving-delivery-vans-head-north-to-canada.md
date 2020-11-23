@@ -47,6 +47,36 @@ related:
         width: 1199
         height: 899
         isCached: true
+  - title: "Loblaw's testing Canada's first self-driving delivery fleet in Toronto"
+    excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Beginning in January, Gatik will transport goods from its automated picking facility to Loblaw’s retail locations across the Greater Toronto Area."
+    publishedDateTime: 2020-11-23T18:02:00Z
+    webUrl: "https://driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto"
+    ampWebUrl: "https://driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto/amp"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto/amp"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2018/11/speeding-traffic-police-cop-stop-speed-trap-radar-3.jpg?quality=100&strip=all"
+        width: 1860
+        height: 1200
+        isCached: true
+  - title: "Loblaw and Gatik to deploy Canada's first self-driving delivery fleet"
+    excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Begi"
+    publishedDateTime: 2020-11-23T18:46:00Z
+    webUrl: "https://driving.ca/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+    type: article
+    provider:
+      name: driving.ca
+      domain: driving.ca
+    quality: 24
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/10/PCNA20_0720_fine.jpg?quality=100&strip=all"
+        width: 1800
+        height: 1200
+        isCached: true
 
 secured: "miZj1TLwA9tIjKJL3CzwGSaeZByZ/krxxzOQHjKiZ1NMwosoQADd1X1m3sdzPTySR38ojddA/2eFMOo3imiTrHcixBBkKlXuKUhcHigHBOcKOE23kuAJ/iJ51f3T3PqJcbJxC4meOT3ym5aQbb1I+4zffIgUnY7+83rfVOedz8+Zq7H+wFE1IJ/dpxpZ0RhN0mpMVrZtMqus1jXCKJ0THs77XIyqQZpF6dOexnqm91D78IZq4kmMPsd1HZkJ+aOuWvAqg55jZmlfb38LnGTm6HkhkxCrR+0hcWn9R34jxatuQWBv0zA1rqiG30NYstfw7BQYNSxV1a/Mw7kGhkUb2FPxv8+v1I8NJvIMsBRl+PQ=;SQww7y3+EdjTOeS+awcXGg=="
 ---

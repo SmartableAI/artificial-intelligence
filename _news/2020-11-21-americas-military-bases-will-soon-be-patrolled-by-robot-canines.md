@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalinterest.org/blog/buzz/america%E2%80%99s-military-ba
 cdnAmpWebUrl: "https://nationalinterest-org.cdn.ampproject.org/c/s/nationalinterest.org/blog/buzz/america%E2%80%99s-military-bases-will-soon-be-patrolled-robot-canines-172919?amp"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 1600
     height: 1265
     isCached: true
+
+related:
+  - title: "Find your inner poet with help from America's greats"
+    excerpt: "Behold! the living thrilling linesThat course the blood like madd'ning wines,And leap with scintillating sprayAcross the guards of ecstasy.The flame that lights the lurid spellSprings from the soul's artesian well,Its fairy filament of artEntwines the fragments of a heart.Poetry by Georgia Douglas JohnsonWhen"
+    publishedDateTime: 2020-11-23T18:00:00Z
+    webUrl: "https://blog.google/technology/ai/verse-by-verse/"
+    ampWebUrl: "https://blog.google/technology/ai/verse-by-verse/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/verse-by-verse/amp/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 94
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/versre-by-verse-hero.max-1300x1300.jpg"
+        width: 1300
+        height: 541
+        isCached: true
 
 secured: "xJsMnoB8TczRU5FgNqVhSYLno+6MO1KQEDUeVrlA8fBvLRKL12X+5tRT0B5peRxXrK2AeGiNnU9jXEvNnQkOOYYzJjbMCsnQjuSUal9F8PzQ4mhHk6IhCs/9psGmHFdcbC5ybROQ3u+g7w906/aNhVwX4qLPbP3VWXk/LKcx2bQ2gIETQBXBHoLEoYgVmwAyHsOGRJ7eBXEEDhiNqC4HiZz1wG5dMxGpXmjaGLcPD5g0O1qf15ugrzrlq8Dps3LFAGdHBMzS2QI62zMKXGaaz6IdRK9+wNM/B2HdOhSY8qzZyccoTgb80YaMDO3G7wks3qZ/ZjsjTWL2AyxcKBE7Q+AxUl84HsdA4KUGAGqLF5w=;enMUv4fOBrUklDcPJ7Y6fQ=="
 ---

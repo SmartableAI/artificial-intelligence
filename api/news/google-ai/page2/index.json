@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-27-lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers.md",
+      "title": "Lightmatter details Passage, a light-based chip interconnect that enables 1Tbps data transfers",
+      "excerpt": "Lightmatter says that Passage, which allows arrays of heterogeneous chips including processors, graphics cards, memory, and AI accelerators to communicate with each other, operates at ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/08/2d3585e0-3f62-4759-bf51-85ee9f7404af-e1597264833261.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/lightmatter-details-passage-a-light-based-chip-interconnect-that-enables-1tbps-data-transfers/amp/",
+      "publishedDateTime": "2020-10-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-how-eurovision-inspired-a-research-interns-project.md",
+      "title": "How Eurovision inspired a research intern's project",
+      "excerpt": "Research happens at Google everyday, on many different embedded teams throughout the company. For example, Amit Moryossef developed a machine learning model for sign language detection while interning this year with our Language team in Zurich. Since our 2021 Research Internship applications opened this",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/",
+      "originalUrl": "https://blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/DSC_5068.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/life-at-google/how-eurovision-inspired-research-interns-project/amp/",
+      "publishedDateTime": "2020-10-27T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-partnerships-for-advanced-weather-and-climate-prediction.md",
       "title": "Partnerships for advanced weather and climate prediction",
       "excerpt": "When I was a child, growing up on an almond farm in central California, the day always began by turning on the radio and listening to the forecasters talking about temperature, precipitation, and something called “evapotranspiration rate.” I didn’t know what all those terms meant at the time, but I could",

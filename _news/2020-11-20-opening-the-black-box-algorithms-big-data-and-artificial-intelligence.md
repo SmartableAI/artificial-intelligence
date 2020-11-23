@@ -9,7 +9,7 @@ ampWebUrl: "https://www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting
 cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 459
     height: 306
     isCached: true
-
-related:
-  - title: "Opening the black box: reporting on algorithms, big data and artificial intelligence"
-    excerpt: "Algorithms, big data and artificial intelligence. These are tricky topics to navigate ... Subsequent articles which reported that 1.8m truck drivers could lose their jobs to robots were criticised for being speculative and inaccurate."
-    publishedDateTime: 2020-11-19T02:39:00Z
-    webUrl: "https://www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/?__twitter_impression=true"
-    ampWebUrl: "https://www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/?__twitter_impression=true"
-    cdnAmpWebUrl: "https://www-journalism-co-uk.cdn.ampproject.org/c/s/www.journalism.co.uk/ampnews/opening-the-black-box-rpeorting-on-algorithms-big-data-and-artificial-intelligence/s435/a770585/?__twitter_impression=true"
-    type: article
-    provider:
-      name: Journalism.co.uk
-      domain: journalism.co.uk
-    quality: 52
-    images:
-      - url: "https://www.journalism.co.uk/assets/1/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg_resized_460_.jpeg"
-        width: 459
-        height: 306
-        isCached: true
 
 secured: "Zdf39JE45RJnMxMJ3DjPkxgBL4tr1/+4Ht7ZcDPqbGBWnVFXJPCXwl8E6x9beZGM8fcTwB75iCF4eRynOO8nMshbtwM6RDMZpLo49AO+hYini4qqPSLBZyH/WQCsV3+NB4xw2vB0a2tgvcIDGo8ygOA407z5GNGl92BOMuy4LBLXv7mg7cBV9bnAdTqPir0NNntFJmlQu753aCeEYIzHo9juXlDc3dnr17I6MFGyt1MKovrvO/CjF5MEQNUb7f01C2HEc9NtmfNylC5QJhrlRVSEfHFEQbfN04WcVb+TreSYmYUq7ThZb4m3ovWqbLGTR/OGJ9+KforG2pdFfSZdhrYRPHmjtYnCMzNKD6QYD2s=;fnvNTy4tAvgzj+JxF7/Zhg=="
 ---

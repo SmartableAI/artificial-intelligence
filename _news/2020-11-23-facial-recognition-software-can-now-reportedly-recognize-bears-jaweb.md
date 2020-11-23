@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reported
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
         width: 1200
+        height: 800
+        isCached: true
+  - title: "Committee recommends ban on facial recognition software despite MPD pushback"
+    excerpt: "Following presentations by the MPD, Madison’s Public Safety Review Committee voted to recommend legislation banning facial recognition software."
+    publishedDateTime: 2020-11-23T16:53:00Z
+    webUrl: "https://www.dailycardinal.com/article/2020/11/committee-recommends-ban-on-facial-recognition-software-despite-mpd-pushback"
+    type: article
+    provider:
+      name: Daily Cardinal
+      domain: dailycardinal.com
+    quality: 38
+    images:
+      - url: "https://snworksceo.imgix.net/car/1d63eb1a-06e7-495e-b297-ce276107c9c3.sized-1000x1000.jpg?w=1000"
+        width: 1000
         height: 800
         isCached: true
   - title: "Voluntary Recognition: Worker Wins"

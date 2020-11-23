@@ -2,6 +2,247 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-16-nvidia-launches-a100-80gb-gpu-for-supercomputers.md",
+      "title": "Nvidia launches A100 80GB GPU for supercomputers",
+      "excerpt": "Nvidia has launched its 80GB version of the A100 graphics processing unit (GPU), targeting the graphics and AI chip at supercomputing applications. The chip is based on the company’s Ampere ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/nvidia-a100.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "publishedDateTime": "2020-11-15T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-fujitsu-to-develop-supercomputer-for-ai-research-in-japan.md",
+      "title": "Fujitsu to develop supercomputer for AI research in Japan",
+      "excerpt": "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "originalUrl": "https://www.zdnet.com/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/4c1195d3-a430-4c56-af53-e55d055a621f/low-aibridginggreencloudfig.jpg",
+          "width": 415,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fujitsu-to-develop-supercomputer-for-ai-research-in-japan/",
+      "publishedDateTime": "2020-11-15T17:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-seven-things-cios-and-software-buyers-should-know-about-artificial-intelligence-before-making-decisions.md",
+      "title": "Seven things CIOs and Software Buyers should know about Artificial Intelligence before making decisions",
+      "excerpt": "First-hand insights into AI Applications Less then a year ago I joined ExB Group, one of the top tech companies in Europe dealing with Natural Language Processing (NLP) and Computer Vision applied to the field of Intelligent Document Processing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.linkedin.com/pulse/seven-things-cios-software-buyers-should-know-artificial-andy-mura/?trackingId=FSNeoNQvR%2BCuJ54o0nTz4w%3D%3D",
+      "originalUrl": "https://www.linkedin.com/pulse/seven-things-cios-software-buyers-should-know-artificial-andy-mura/?trackingId=FSNeoNQvR%2BCuJ54o0nTz4w%3D%3D",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGn_tzl6uxl_Q/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=VOGcVUkYMYN7c_HdwyGFuhaBRvDyex9IlkpWBVmqeDA",
+          "width": 1082,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LinkedIn",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
+      "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
+      "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "originalUrl": "https://mashable.com/2016/10/14/paralyzed-man-feels-fingers-again/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mondrian.mashable.com/2016%252F10%252F14%252Fb6%252FAP_16287736330662.d3659.jpg%252F1200x630.jpg?signature=FcoGOanYXavhwhQJ5dHhaSbAjk4=",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb.md",
+      "title": "Austria wants ethical rules on battlefield killer robots – Jaweb",
+      "excerpt": "Vienna is embarking on a diplomatic initiative to draw up an ethical framework for the use of killer robots on the battlefields of the future. Foreign Minister Alexander Schallenberg said similar standards should be adopted as those established for landmines and cluster weapons.",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Austria-wants-ethical-rules-on-battlefield-killer-robots-–-Jaweb.jpg",
+          "width": 940,
+          "height": 529,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/austria-wants-ethical-rules-on-battlefield-killer-robots-jaweb/?amp",
+      "publishedDateTime": "2020-11-15T11:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
       "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
       "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
@@ -964,266 +1205,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features.md",
-      "title": "Alexa now runs on more powerful cloud instances, opening the door for complex new features",
-      "excerpt": "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "originalUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "publishedDateTime": "2020-11-13T15:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-from-the-data-and-ai-expert-labs.md",
-      "title": "From the Data and AI Expert Labs",
-      "excerpt": "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Last time, we covered the simple formula we use to help",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V2.jpg",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T14:58:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-in-talks-to-sell-atg-self-driving-unit-to-aurora.md",
-      "title": "Uber in talks to sell ATG self-driving unit to Aurora",
-      "excerpt": "Uber’s self-driving car unit, Uber Advanced Technologies Group, was valued at $7.25 billion following a $1 billion investment from Toyota, DENSO and Softbank’s Vision Fund. Now, it’s up for sale and a competing autonomous vehicle technology startup is in talks with Uber to buy",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
-      "originalUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1142303764.jpg?w=1024",
-          "width": 1024,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
-      "publishedDateTime": "2020-11-13T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next.md",
-      "title": "Apple blamed IBM and Intel for Mac chip delays, but TSMC won’t be next",
-      "excerpt": "Apple's deals with top chipmakers have historically fizzled out, but its relationship with leading chip fabricator TSMC will likely last.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/tsmc-e1605303213438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
-      "publishedDateTime": "2020-11-13T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-microsofts-new-azure-data-services-explained.md",
-      "title": "Microsoft's new Azure data services explained",
-      "excerpt": "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "publishedDateTime": "2020-11-13T12:42:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,214 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-24-gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025.md",
+      "title": "GPU as a Service Market – 38% Growth Forecast from 2020 to 2025",
+      "excerpt": "Industry analysts predict GPU as a Service market to be strongly driven by the rising demand for enhanced gaming experience from different parts of the world. The ability of GPU to give real-time data and improve the overall experience & graphics of gaming shall bring growth renewed prospects to the business sphere.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025-2020-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025-2020-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-seattle-startup-vets-launch-fintech-platform-that-lets-companies-provide-emergency-savings-accounts.md",
+      "title": "Seattle startup vets launch fintech platform that lets companies provide emergency savings accounts",
+      "excerpt": "which built an AI-powered smart camera tool Secure, which employs seven people and raised an undisclosed investment from PSL, is also the latest fintech startup out of the Pacific Northwest. The Seattle region has a growing cohort of fintech startups ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/",
+      "originalUrl": "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-23-at-9.18.33-AM-630x313.png",
+          "width": 630,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/",
+      "publishedDateTime": "2020-11-23T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-find-your-inner-poet-with-help-from-americas-greats.md",
+      "title": "Find your inner poet with help from America's greats",
+      "excerpt": "Behold! the living thrilling linesThat course the blood like madd'ning wines,And leap with scintillating sprayAcross the guards of ecstasy.The flame that lights the lurid spellSprings from the soul's artesian well,Its fairy filament of artEntwines the fragments of a heart.Poetry by Georgia Douglas JohnsonWhen",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/verse-by-verse/",
+      "originalUrl": "https://blog.google/technology/ai/verse-by-verse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/versre-by-verse-hero.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 541,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/verse-by-verse/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/verse-by-verse/amp/",
+      "publishedDateTime": "2020-11-23T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-self-driving-cars-a-level-by-level-explainer-of-the-road-to-autonomy.md",
+      "title": "Self-driving cars: A level-by-level explainer of the road to autonomy",
+      "excerpt": "Do you really understand autonomous cars? Here's why the SAE's Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "publishedDateTime": "2020-11-23T09:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
       "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
       "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
@@ -104,38 +312,29 @@
       ]
     },
     {
-      "path": "_news/2020-11-23-do-you-really-understand-autonomous-cars.md",
-      "title": "Do you really understand autonomous cars?",
-      "excerpt": "Here's why Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet. Much of the promise and disappointment around them centers on Level 4,",
+      "path": "_news/2020-11-23-dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020.md",
+      "title": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020",
+      "excerpt": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The “Paris Region Challenge",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/do-you-really-understand-autonomous-cars/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/do-you-really-understand-autonomous-cars/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 75,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/do-you-really-understand-autonomous-cars/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/do-you-really-understand-autonomous-cars/",
-      "publishedDateTime": "2020-11-23T06:07:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
+      "publishedDateTime": "2020-11-23T05:24:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -151,59 +350,6 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for-covid-19-patients.md",
-      "title": "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients",
-      "excerpt": "GE Healthcare today announced a new artificial intelligence (AI) algorithm to help clinicians assess Endotracheal Tube (ETT) placements, a necessary",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for-covid-19-patients-2020-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for-covid-19-patients-2020-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T06:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -216,7 +362,7 @@
       "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -423,7 +569,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -675,7 +821,7 @@
       "originalUrl": "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -918,6 +1064,59 @@
       ]
     },
     {
+      "path": "_news/2020-11-22-an-introduction-to-tensorflow-lite-development-on-android.md",
+      "title": "An introduction to TensorFlow Lite development on Android",
+      "excerpt": "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
+      "originalUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
+      "publishedDateTime": "2020-11-21T23:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2020-11-22-mumbai-bmc-introduces-face-recognition-in-hospital-to-prevent-covid-19-spread.md",
       "title": "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread",
       "excerpt": "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,",
@@ -1044,213 +1243,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-practical-strategies-to-minimize-bias-in-machine-learning.md",
-      "title": "Practical strategies to minimize bias in machine learning",
-      "excerpt": "But the question isn’t if a machine learning model will systematically discriminate against people, it’s who, when, and how. There are several practical strategies that you can adopt to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/mitigate-ml-bias-parkey.jpg?resize=512%2C454&strip=all",
-          "width": 512,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
-      "publishedDateTime": "2020-11-21T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis.md",
-      "title": "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis",
-      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-c3ai-ipo-what-it-means-for-enterprise-ai.md",
-      "title": "C3.ai IPO: What It Means For Enterprise AI",
-      "excerpt": "The CEO and founder of C3.ai is Tom Siebel, who is a legend in Silicon Valley. He got his start in the mid-1980s with Oracle and helped lead the growth of the relational database market. Then in 1993 he founded Siebel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb867fd910632f442f29d6d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D205%26cropY2%3D3580",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/",
-      "publishedDateTime": "2020-11-20T17:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-getting-started-with-amazon-kendra-servicenow-online-connector.md",
-      "title": "Getting started with Amazon Kendra ServiceNow Online connector",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To make it simple to search data across multiple content repositories, Amazon Kendra offers a number of native data source connectors to help get your documents easily ingested and indexed.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-kendra-servicenow-online-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-kendra-servicenow-online-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Amazon-Kendra-2.jpg",
-          "width": 798,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T16:06:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

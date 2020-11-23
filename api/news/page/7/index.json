@@ -2,6 +2,239 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-18-artificial-intelligence-based-tool-may-help-diagnose-opioid-addiction-earlier.md",
+      "title": "Artificial intelligence-based tool may help diagnose opioid addiction earlier",
+      "excerpt": "Researchers have used machine learning, a type of artificial intelligence, to develop a prediction model for the early diagnosis of opioid use disorder. The advance is described in Pharmacology Research & Perspectives.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
+      "originalUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/23-artificialin.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-based-tool-opioid-addiction.amp",
+      "publishedDateTime": "2020-11-18T00:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-bfsi-turning-to-ai-moving-from-sms-to-omnichannel-chatbots.md",
+      "title": "BFSI Turning To AI, Moving From SMS To Omnichannel Chatbots",
+      "excerpt": "AI is transforming every aspect of our lives and it’s quite prominent in the banking industry. Today, with the help of omnichannel chatbots, customers enjoy seamless and personalized service across ev",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/359915",
+      "originalUrl": "https://www.entrepreneur.com/article/359915",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605679433-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359915",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359915",
+      "publishedDateTime": "2020-11-17T22:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-plaza-las-vegas-turning-to-artificial-intelligence-for-added-security.md",
+      "title": "Plaza Las Vegas turning to artificial intelligence for added security",
+      "excerpt": "After months of violent incidents on the Las Vegas Strip and downtown The Plaza hotel-casino is turning to artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
+      "originalUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/81b751f/2147483647/strip/true/crop/1166x656+0+8/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F5f%2F79%2F1e0f07ad4f8ba8e43d8c70829010%2Fpatscan.PNG",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/plaza-las-vegas-turning-to-artificial-intelligence-for-added-security?_amp=true",
+      "publishedDateTime": "2020-11-17T21:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract.md",
+      "title": "Store output in custom Amazon S3 bucket and encrypt using AWS KMS for multi-page document processing with Amazon Textract",
+      "excerpt": "Amazon Textract is a fully managed machine learning (ML) service that makes it easy to process documents at scale by automatically extracting printed text, handwriting, and other data from virtually any type of document. Amazon Textract goes beyond simple optical character recognition (OCR) to also identify",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/store-output-in-custom-amazon-s3-bucket-and-encrypt-using-aws-kms-for-multi-page-document-processing-with-amazon-textract/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/image02.png",
+          "width": 800,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T21:30:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-aws-announces-general-availability-of-aws-network-firewall.md",
+      "title": "AWS Announces General Availability of AWS Network Firewall",
+      "excerpt": "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall",
+      "originalUrl": "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
       "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
       "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,",
@@ -944,245 +1177,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-ai-can-help-organizations-to-slash-16-greenhouse-gas-emission-in-next-3-5-yrs-report.md",
-      "title": "AI Can Help Organizations To Slash 16% GreenHouse Gas Emission In Next 3-5 Yrs: Report",
-      "excerpt": "According to the survey, around 48 per cent of the organizations surveyed are using AI for climate action and have witnessed drop in greenhouse gas emission",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359835",
-      "originalUrl": "https://www.entrepreneur.com/article/359835",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605624351-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359835",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359835",
-      "publishedDateTime": "2020-11-17T06:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash.md",
-      "title": "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash",
-      "excerpt": "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T06:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid.md",
-      "title": "Pairing AI With Human Judgment Is Key To Avoiding 'Mount Stupid'",
-      "excerpt": "Just as humans can use time and experience to build both our competence and confidence, so too can machines — but much, much faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
-      "publishedDateTime": "2020-11-17T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-artificial-intelligence-technology-solutions-receives-rosa-order-from-large-construction-company.md",
-      "title": "Artificial Intelligence Technology Solutions Receives ROSA Order from Large Construction Company",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) has received an order from a large construction company for what RAD expects as the first of many ROSA units to be deployed at the client’s managed properties across the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections.md",
-      "title": "Beyond Smart Cities: How Drones And Robotics Revolutionize Building Inspections",
-      "excerpt": "H3 Dynamics, a cloud-based inspection services platform uses drones and ground robots as the eyes and ears of engineers currently grounded by the pandemic, and long hampered by last century norms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaafd12c9bea733d9babce%2F0x0.jpg",
-          "width": 1200,
-          "height": 809,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/11/17/beyond-smart-cities-how-drones-and-robotics-revolutionize-building-inspections/amp/",
-      "publishedDateTime": "2020-11-17T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

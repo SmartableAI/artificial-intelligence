@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Committee recommends ban on facial recognition software despite MPD pushback"
+    excerpt: "Following presentations by the MPD, Madison’s Public Safety Review Committee voted to recommend legislation banning facial recognition software."
+    publishedDateTime: 2020-11-23T16:53:00Z
+    webUrl: "https://www.dailycardinal.com/article/2020/11/committee-recommends-ban-on-facial-recognition-software-despite-mpd-pushback"
+    type: article
+    provider:
+      name: Daily Cardinal
+      domain: dailycardinal.com
+    quality: 38
+    images:
+      - url: "https://snworksceo.imgix.net/car/1d63eb1a-06e7-495e-b297-ce276107c9c3.sized-1000x1000.jpg?w=1000"
+        width: 1000
+        height: 800
+        isCached: true
   - title: "Voluntary Recognition: Worker Wins"
     excerpt: "Despite the challenges of organizing during a deadly pandemic, working people across the country (and beyond) continue organizing, bargaining and mobilizing for a better life. This edition begins with several groups of organizers who won voluntary recognition of their new unions."
     publishedDateTime: 2020-11-20T17:07:00Z

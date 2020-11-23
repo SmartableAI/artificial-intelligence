@@ -2,15 +2,15 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-23-do-you-really-understand-autonomous-cars.md",
-      "title": "Do you really understand autonomous cars?",
-      "excerpt": "Here's why Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet. Much of the promise and disappointment around them centers on Level 4,",
+      "path": "_news/2020-11-24-self-driving-cars-a-level-by-level-explainer-of-the-road-to-autonomy.md",
+      "title": "Self-driving cars: A level-by-level explainer of the road to autonomy",
+      "excerpt": "Do you really understand autonomous cars? Here's why the SAE's Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/do-you-really-understand-autonomous-cars/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/do-you-really-understand-autonomous-cars/",
+      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/do-you-really-understand-autonomous-cars/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/do-you-really-understand-autonomous-cars/",
-      "publishedDateTime": "2020-11-23T06:07:00-08:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
+      "publishedDateTime": "2020-11-23T09:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -62,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 116,
       "tags": null,
       "images": [
         {
