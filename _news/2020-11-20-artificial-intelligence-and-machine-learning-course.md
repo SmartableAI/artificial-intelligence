@@ -9,7 +9,7 @@ ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligen
 cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
 type: article
 quality: 74
-heat: 95
+heat: 94
 published: true
 
 provider:

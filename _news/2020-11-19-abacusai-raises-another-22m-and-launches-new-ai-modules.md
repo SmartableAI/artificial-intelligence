@@ -31,19 +31,16 @@ images:
 
 related:
   - title: "Booklyn.co Launches New AI-Powered e-Reader Site"
-    excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read"
+    excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read better. Offering the widest available range of digital features,"
     publishedDateTime: 2020-11-19T12:39:00Z
-    webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
+    webUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
     type: article
     provider:
-      name: WFMZ-TV
-      domain: wfmz.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267"
-        width: 400
-        height: 267
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
 
 secured: "efKypmy4g+jUCHXdAMGxq0jAxniEEktvE9UFsuns20pCeqB31BdFNwMktiWu7TSiak5MDDiDrosSXuKhIOQWmapqi8j+B2Syl/vf+lLCawE1fAy1RGi9DEX1gbBT9w2GGHy/MTR6jSsPK2I3WxCaQvfdLlPgKGXE7AUXoL7kk39lTgTWj9qUu7+qDJ6XdFdOXW7mUMlYkmigz2TnWAhC1puBrvKE0hD+J5LXPyxY4GLUqom4X/uP3hCKzKGkZ7H380laL8QWhZNkZWKU93evhfT5yRRxuMw1TAak24oaKHnnn/5D0C9xRaaEMzu5EOMf873wPBIEALmG+39NT335fwH4nX47S57MUpoYv/miotDm0YKjGA7O3Et4iNSL+4iUgL5ShH9CWXA316hhIEDXA3uuMrnRTT9uW4x1onhVZrltacvej5JanrA9lfHWZeUt9DDrdtMzF2bk5MlN9dE9+Podgv+ciS56WKKQW5+EVT+OyflQqhao9wbZieYVIDyF4ukhUkxg2qmn41Utf/oMJg==;sVtxfx2o02bpbNqBcZEaqA=="
 ---

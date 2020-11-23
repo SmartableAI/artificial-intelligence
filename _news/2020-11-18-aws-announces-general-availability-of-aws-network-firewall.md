@@ -1,49 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Network Firewall"
-excerpt: "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS"
-publishedDateTime: 2020-11-18T05:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
-webUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
+excerpt: "Amazon Web Services Inc., an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS Network Firewall, a new managed security service that makes it easier for customers to enable network protections across all of their AWS workloads."
+publishedDateTime: 2020-11-18T01:17:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6"
 type: article
-quality: 54
-heat: 74
-published: true
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-related:
-  - title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-    excerpt: "CrowdStrike Holdings, Inc., a leader in cloud-delivered endpoint and workload protection, today announced it is a Launch Partner for AWS Network Firewall, a managed service that makes it easy to deploy essential network protections for all of a customer’ s Amazon Virtual Private Clouds."
-    publishedDateTime: 2020-11-18T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 25
-  - title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-    excerpt: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-    publishedDateTime: 2020-11-18T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
-secured: "REDuJHeGvQBwOW35n8GKd7pLwvg1//d36tmvsAxv/LE8/hntPw7UVGC0LhaIRc1BZ2LoYcYvMImvdy/Cjgi5gG6V97jlWwUdrJN5GjlqWgkSleEupAKr9VFkrVNTs6Bbf3TrkgmaUBqj93Ukf0UR1AMrEzmHoARK0nB/q4REw7x+kJCFx/0HUuxsz9uzk56VBBS6mlel0xID7EOefB6bsc+cZd/cSqvr0gu5TnZDrgUMRc/OeKi/NJy9MKL7ZL7l1hfeghNP25LZADoH6MjHZxRMEMQKZXirUGbyEcwODOt1/xEJkewm56PznoYkhmLNJDwTpraDKnTPsdoJMuyb0CVh34Ntca3g5eyoBTptwJI=;XrM8N34lF+YRNNBo4vTFGQ=="
+secured: "R3Zkd8Z5waJwO25iUvikT5lfllLukKRYv04FeMePnq++TdkLACgncBp7Mg6rrfQYR5IxKn5geUaeqOMR1YRg1YeOwNnzUnq/ebvo0ugX75A6SQ0TmvsLX1C3G13Lvf+4Q2Wjwdjdv34UYjx873RKQ3E6YjkPkXKNrYcgQbRMj7viO6XzJP9wnNBWV5dAcA5mIg0S/pRjqoiU7JWquFFQmjLs6ovbm/BgU10uaMKOnW3ZJWk+64SeD7xQHeCSSy1JV+FmML/jrB0lZZMm7mXdp0feXKnQ4ralm80506uA5LXX3PGpZg4G9Lh30mQNyoVx5pjr/Q55o1Fq+Dki18a49/cTxT4A4rqs6TUPOR40Uto=;0j2yxRtRguI1S8OR48Tggg=="
 ---
 

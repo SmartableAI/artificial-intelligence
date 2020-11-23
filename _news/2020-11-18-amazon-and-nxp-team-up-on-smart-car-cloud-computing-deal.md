@@ -1,16 +1,13 @@
 ---
 category: news
 title: "Amazon and NXP team up on smart car cloud computing deal"
-excerpt: "It also uses Amazon SageMaker and SageMaker Neo to build, train and deploy optimized machine learning models. Connected cars have numerous benefits but before these can be realized, automakers ..."
-publishedDateTime: 2020-11-18T00:35:00Z
-originalUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-webUrl: "https://www.techradar.com/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-ampWebUrl: "https://www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+excerpt: "NXP has announced a new strategic relationship with Amazon's cloud computing arm AWS focused on extending the opportunities of connect vehicles. The collaboration between the two companies aims to deliver a secure,"
+publishedDateTime: 2020-11-18T00:00:00Z
+originalUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+webUrl: "https://www.techradar.com/sg/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+ampWebUrl: "https://www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal"
 type: article
-quality: 74
-heat: 74
-published: true
 
 provider:
   name: TechRadar
@@ -30,6 +27,6 @@ images:
     height: 548
     isCached: true
 
-secured: "swYho3uZs0rlexKhQDBpPMuj8/LZmQdlsZBsJe/GFgDRJ0pDY60A60htg+e2SmgSH+4cHEDBHnvl1C/uuMaahbwdQVhPqMqpsdw+dTFOjc3lxUx3peESF6SRSY/dcAagHcnwbNi5a7DIuinz8FmkagZjN6EDMhXQfrzbY6LpgA63jrTETDVDh1Ji85jjMFdn6s7/up0NPWyAuzHjNyt6Sy985VXkfkd7eovF48/nwoWKc/a18WgVvchQhGGqQmlwkl0aBcQe22DJnuxZXsYqJInMtPoIjgGlYWuGQRUTqQSohDusY+NsomiAefT/CACfMskgG4gL+x3PCSKkgDII8lMYZHmlbNxMi5btcLPZsmE=;C/BLi7jDmdEIeHs1cCv8XA=="
+secured: "u5hTIX20K9qKCZK234FY1ZxuIXYwubkfKmx4/5StZagzAjIvxAH6aGKbP2g7OtR6YxzvMU7oJSFC9tGRbSqmYuaOG4j2PN37hxxj0rzGOMWaw0auk05XL39p9PGF23p4ks/Fbvti8y6SjIauNxZyoFQkgdQ44kjcX2OOmje02HyFa8cogrXTd+LMLOoZfVYdf0CLp0HCKSDPO2F6R4GyfcQsGN35aBWPZo5bgTrieyN4G7Uv0uTQ786onUHpMRuCqQr+slBYk5k/0El49hlQnU/C8ggYrh96td9bMmPvzdRYZLsMlafRVxMKsLcgo6stdogHvW0CQvirxWjTLB5Kt6sh3eqHXIo+qL6yJZmwY9A=;7CEqLt6HEYSFu8obL3xBhg=="
 ---
 
