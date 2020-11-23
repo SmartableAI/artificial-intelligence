@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techspot.com/amp/news/87660-los-angeles-police-departmen
 cdnAmpWebUrl: "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87660-los-angeles-police-department-bans-use-third-party.html"
 type: article
 quality: 81
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg"
         width: 708
         height: 470
-        isCached: true
-  - title: "LAPD Bars Use of Unauthorized Facial Recognition Platforms"
-    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission,"
-    publishedDateTime: 2020-11-18T13:42:00Z
-    webUrl: "https://mynewsla.com/crime/2020/11/18/lapd-bars-use-of-unauthorized-facial-recognition-platforms/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 39
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-        width: 583
-        height: 300
         isCached: true
   - title: "LAPD bars use of third-party facial recognition systems"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."

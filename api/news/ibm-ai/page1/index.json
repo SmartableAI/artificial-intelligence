@@ -104,6 +104,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
+      "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
+      "excerpt": "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-test-post.md",
       "title": "Test post",
       "excerpt": "The post Test post appeared first on Watson Blog.\n",
@@ -1366,58 +1409,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ibm-and-servicenow-are-helping-businesses-reduce-costs-using-ai.md",
-      "title": "IBM and ServiceNow are helping businesses reduce costs using AI",
-      "excerpt": "IBM and ServiceNow have expanded their strategic partnership to help companies use artificial intelligence (AI) to automate their IT operations. The joint solution will employ IBM's hybrid cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/357462/ibm-and-servicenow-helping-businesses-reduce-costs",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/v1602872906/itpro/ibm_logo.jpg",
-          "width": 2700,
-          "height": 1411,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

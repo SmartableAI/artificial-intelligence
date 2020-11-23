@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’"
-    excerpt: "AI is becoming increasingly central to our everyday lives, from driverless cars to medical diagnosis. But although such next-gen networks excel at recognising patterns in complex datasets, engineers are only now understanding how we know when they are correct."
-    publishedDateTime: 2020-11-22T12:18:00Z
-    webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 71
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248"
-        width: 590
-        height: 350
-        isCached: true
   - title: "A neural network learns when it should not be trusted"
     excerpt: "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,"
     publishedDateTime: 2020-11-20T05:13:00Z
@@ -52,6 +36,22 @@ related:
       - url: "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’"
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) has been refined so it can significantly improve decision-making, Massachusetts Institute of Technology (MIT) experts have announced."
+    publishedDateTime: 2020-11-22T12:18:00Z
+    webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg"
+    ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 69
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248"
+        width: 590
+        height: 350
         isCached: true
   - title: "Artificial Intelligence Neural Network Learns When It Should Not Be Trusted"
     excerpt: "A faster way to estimate uncertainty in AI-assisted decision-making could lead to safer outcomes. Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety,"

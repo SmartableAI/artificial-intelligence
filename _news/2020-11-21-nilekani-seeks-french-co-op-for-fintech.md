@@ -113,22 +113,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
-  - title: "Regulators of Israel, Abu Dhabi markets to cooperate on FinTech"
-    excerpt: "The securities regulators of Israel and Abu Dhabi said on Wednesday they would cooperate in innovation and financial technologies, the latest collaboration after Israel and the United Arab Emirates agreed to normalize relations in September."
-    publishedDateTime: 2020-11-18T13:41:00Z
-    webUrl: "https://english.alarabiya.net/en/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
-    ampWebUrl: "https://english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
-    cdnAmpWebUrl: "https://english-alarabiya-net.cdn.ampproject.org/c/s/english.alarabiya.net/en/amp/business/technology/2020/11/18/Regulators-of-Israel-Abu-Dhabi-markets-to-cooperate-on-FinTech"
-    type: article
-    provider:
-      name: العربية.نت
-      domain: alarabiya.net
-    quality: 44
-    images:
-      - url: "https://vid.alarabiya.net/images/2020/10/06/96dc4b2c-7024-4526-b673-24628317a26c/96dc4b2c-7024-4526-b673-24628317a26c_16x9_600x338.JPG?width=466"
-        width: 466
-        height: 263
-        isCached: true
   - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
     excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"
     publishedDateTime: 2020-11-19T15:20:00Z

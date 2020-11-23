@@ -2,50 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-20-how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade.md",
-      "title": "How role-playing a dragon can teach an AI to manipulate and persuade",
-      "excerpt": "An AI that completes quests in a text-based adventure game by talking to the characters has learned not only how to do things, but how to get others to do things for it. The system is a step towards machines that can use language as a way to achieve their goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
-      "originalUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
-      "publishedDateTime": "2020-11-20T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows.md",
       "title": "Onit acquires legal startup McCarthyFinch to inject AI into legal workflows",
       "excerpt": "Onit, a workflow software company based in Houston with a legal component, announced this week that it has acquired 2018 TechCrunch Disrupt Battlefield alum McCarthyFinch.  Onit intends to use the startup’s AI skills to beef up its legal workflow software offerings.",
@@ -356,7 +312,7 @@
       "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -578,6 +534,58 @@
         "AI Ethics",
         "AI",
         "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
+      "title": "A neural network learns when it should not be trusted",
+      "excerpt": "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {

@@ -81,17 +81,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
-    excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
-    publishedDateTime: 2020-11-18T14:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "IBM to acquire application performance monitoring company Instana"
     excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
     publishedDateTime: 2020-11-19T17:14:00Z
@@ -120,20 +109,6 @@ related:
         width: 399
         height: 399
         isCached: true
-  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ..."
-    publishedDateTime: 2020-11-18T14:03:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
-        isCached: true
   - title: "IBM to Acquire APM Startup Instana to Boost Hybrid Cloud and AI-powered Automation"
     excerpt: "IBM recently announced an agreement to acquire Instana, an application performance monitoring and observability company."
     publishedDateTime: 2020-11-23T03:47:00Z
@@ -142,7 +117,7 @@ related:
     provider:
       name: Deep
       domain: thefastmode.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://www.thefastmode.com/media/k2/items/src/8e0cc8b5aa4bbdee8df5c1a32381f369.jpg?t=20201123_034157"
         width: 752

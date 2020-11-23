@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AI-powered tutors in schools to make learning fun in UAE"
+    excerpt: "A new artificial intelligence (AI)-powered platform is set to supplement school education with live and inclusive learning opportunities for students, not only in the UAE but even across the world.</p> <p>Launched by Sheikh Mohammed bin Hamad bin Mohammed Al Sharqi,"
+    publishedDateTime: 2020-11-23T06:56:00Z
+    webUrl: "https://menafn.com/1101166283/AI-powered-tutors-in-schools-to-make-learning-fun-in-UAE&source=246"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/22/KT_2e18237a-4image_story.jpg"
+        width: 850
+        height: 567
+        isCached: true
 
 secured: "seYwdY6RzeKKvd6bY4ayf2VdTqwyDk8FC5npshrSOM2Mia1PND7QtJtCA8YN7b390qVYhxWx2qB17nn0E7IiLLkLx/mfT96RUFcx6mtDrpX8zfHAAKM5xoIqkzSLJ3gbagXqUe6KWZ3JElMRQeUKmyIW61anUIy+nqIvodatT+PQ79A1k0Du53VBvhwzX+CRSe08paYOYi3mInkTHCgD3xxR9jRXwAHaChG+j+OacwlvF4Z/dVGexb/bozo1Op9zeUXKoD6npbRaK4gBhmIn9VGcs9eqE8tid57Ec4lHSFYusoZtLoEYz0EYGrwytiuJwTdY0gNGG4+pB7AO2V8hiIKc8ElKV9hF00yLVjhfu/iZX9CkXOGnSgH7Qpnqb7MF/9mQNYAKLIETZxNrhqkGtmtcY6zzsq6cgoHEfjsOKKD4DBFsW7SiisckU+1wKWd0PZxxL073Uvo/oCOZDY5X7Pww8Yhlg5Ara8mUWLwTLK5HZfpHWo9aLkqJv0qdR2S9Z1JJ9AYCJ8xcwRVF0zLCwA==;b+xgZK2tCMAvcNnypVUmWw=="
 ---

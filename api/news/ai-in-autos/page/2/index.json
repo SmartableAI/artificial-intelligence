@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-11-walmart-and-gms-cruise-partner-for-self-driving-deliveries-in-arizona.md",
-      "title": "Walmart and GM's Cruise partner for self-driving deliveries in Arizona",
-      "excerpt": "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "publishedDateTime": "2020-11-10T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
       "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
       "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",
@@ -1413,6 +1361,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-31-waymo-shares-in-depth-details-of-self-driving-car-activity-in-phoenix.md",
+      "title": "Waymo shares in-depth details of self-driving car activity in Phoenix",
+      "excerpt": "Waymo’s vehicles have driven a total of 6.1 million miles in Phoenix, Arizona, where it first started testing its self-driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "originalUrl": "https://www.engadget.com/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2Feda031a0-1b7e-11eb-aeff-c6d8e3737344&client=amp-blogside-v2&signature=64755fdb1c313a1eb2bd21d17cef2c2065e20715",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/waymo-indepth-details-selfdriving-activities-phoenix-163000481.html",
+      "publishedDateTime": "2020-10-31T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

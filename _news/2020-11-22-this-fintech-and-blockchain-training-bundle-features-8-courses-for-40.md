@@ -41,6 +41,17 @@ related:
         width: 1080
         height: 578
         isCached: true
+  - title: "This fintech and blockchain training bundle features 8 courses for $40"
+    excerpt: "With investments in blockchain tech growing, so will the job opportunities. This 8-course bundle can help. By ZDNet Academy | November 22, 2020 -- 13:00 GMT (05:00 PST) | Topic: Blockchain Blockchain could very well be the technology of the future."
+    publishedDateTime: 2020-11-22T22:58:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
 
 secured: "lschGiCFKaluDf3TY3aZi1uy/fK8GZg5ivoMZZsZuDS/KUkFEUSVDa+seTBSeEtXBcGp9FzcQTam/1VgH1H/qp9w7IwHFfndCC5sbQ0UhPt6D2r9F+r5aENMIAvdDmasmgS+mmRpa4H87NN1+tfqwflUP9vkKUIKmm4i+Yr2w6tghB8VxVFS1HHG8E2FarZxMv1096nm9DtfhvnZxoKZyIIfeun24/edjEYIsiSzdBNVA2pHy18LMG7e1q9jdA5MfmM9QH8usFZQWW40AB62OZrIU/zp7uSMw3Yqx8e7WNgvuAHe5wB/m8JR0QmqQ+qWiaW2dYnxV8vDy/kBf2vzJwgQqiQPjUMoqj+zfo0vuFKdorZDcSbkNZoa2pKoUwYWn676W2VsT+cdlvssCaDIBbiqCJxhkFiATl60+blSPw+OuhQnedUtgf8CXiMr29WZaP5is5p1G/x41r2MA9yHG+H8JtVIVmj1qRJ+loYT2m3FYYAKofcjvVT4hCSh7Lo4twyXiq32JErlTlb9YUy5MQ==;GduuDryDSNc0Jo1qtcILuw=="
 ---

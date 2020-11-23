@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "LAPD Bars Use of Unauthorized Facial Recognition Platforms"
-    excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission,"
-    publishedDateTime: 2020-11-18T13:42:00Z
-    webUrl: "https://mynewsla.com/crime/2020/11/18/lapd-bars-use-of-unauthorized-facial-recognition-platforms/"
-    type: article
-    provider:
-      name: MyNewsLA
-      domain: mynewsla.com
-    quality: 39
-    images:
-      - url: "https://mynewsla.com/wp-content/uploads/2016/04/MyNewsLA-AMP-Logo.png"
-        width: 583
-        height: 300
-        isCached: true
   - title: "LAPD bars use of third-party facial recognition systems"
     excerpt: "The Los Angeles Police Department has barred officers and detectives from using outside facial recognition platforms in their investigations after uncovering a handful of detectives had used a powerful commercial software platform known as Clearview AI without permission."
     publishedDateTime: 2020-11-18T22:26:00Z

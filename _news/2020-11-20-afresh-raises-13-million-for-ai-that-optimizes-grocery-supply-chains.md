@@ -46,22 +46,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Cogito raises $25 million to analyze phone calls with AI"
-    excerpt: "Cogito, a startup developing a platform to measure the sentiment of call center agents, has raised $25 million in capital."
-    publishedDateTime: 2020-11-18T14:04:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/cogito-raises-25-million-to-analyze-phone-calls-with-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2016/11/download-2.png?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "BeyondMinds raises $15 million to drive enterprise AI adoption"
     excerpt: "BeyondMinds, which is developing a platform to facilitate enterprise AI deployments, has raised $15 million in venture capital."
     publishedDateTime: 2020-11-19T13:02:00Z

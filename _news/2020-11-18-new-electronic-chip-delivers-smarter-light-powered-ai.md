@@ -2,56 +2,25 @@
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
 excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-publishedDateTime: 2020-11-18T15:15:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+publishedDateTime: 2020-11-18T05:04:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
 type: article
-quality: 64
-heat: 84
-published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Smarter Artificial Intelligence Technology in a New Light-Powered Chip"
-    excerpt: "Prototype tech shrinks AI to deliver brain-like functionality in one powerful device. Researchers have developed artificial intelligence technology that brings together imaging, processing, machine learning,"
-    publishedDateTime: 2020-11-18T14:34:00Z
-    webUrl: "https://scitechdaily.com/smarter-artificial-intelligence-technology-in-a-new-light-powered-chip/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 56
-    images:
-      - url: "https://scitechdaily.com/images/AI-Electronic-Chip-scaled.jpg"
-        width: 2560
-        height: 1600
-        isCached: true
-  - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
-    excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
-    publishedDateTime: 2020-11-22T13:49:00Z
-    webUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai-smarter-and-smaller/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:960/h:540/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/processor-2217771_960_720.jpg"
-        width: 960
-        height: 540
-        isCached: true
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
 
-secured: "w9gSICkvKpWZo/BAMqFf1MNQpRqWkJp5DMiMl+TaxZWYPj78Rvu4siWgn9+9xQOj0oabdYn1Jl21gTdlMihcN3W1tg4AbxHiQECMV1Da4LGr95Sch0KoUUhHBNFutFRk0sysG1lmILxqUzvgNhsqR6WEsxX6fB+Ioyds5dsaaRnKY8ebVV31hT7sSGZWVJr6EJW4BxFpm7pciqSFTWfNZk/GPS+tpGmSSnTEpwKyUp5mUnzbwNgkJghGBt3tPFMxTT8YWKgB6Sh77OzREhoDgraCE+0+HBNMESLZYm/F5cUnFo3osmyxWJi/Mlk9eT1Tvrf5SYnAOSDjAUmeXPPhhPxayE4ApGHFOHQxmzJ3C9g=;adPfHNbycakQwQAmJJT/tg=="
+secured: "af2Reol4T2tkx1C8PFuavYvnupu+kU8lTwmwAWcJyLmHzWCZWU3phULNeC4jCjSB0qZSroUdv+sxWLV6TDnwF4WiLDbf0QJo8Z+DrTrg5r/2Wsa3uPzJcEklXPW3GQis8nz2aob3d9Dyu3+VoC/Iw6+uFTKawu7uKb9rtFTeyx91IeFdGgn8nn4KQuLjhWqhSijg+xuEyfZReUXD8ix1GUHbUCxovi6Pm7kD1vDCgXI7bg7bQ9puHaTmEPspBXDCRS4H/UGYOE0GcbWy1b8UJcibDN45qdkcaZLDq5r7M7v5h/oGryZDj5pCrAtAKmhWFBGHaPVY6PACztWOYzqbjxeSWprcl9AbfV46bLX+ToE=;/nOYNHqkS+O5LXYuvTb3Aw=="
 ---
 

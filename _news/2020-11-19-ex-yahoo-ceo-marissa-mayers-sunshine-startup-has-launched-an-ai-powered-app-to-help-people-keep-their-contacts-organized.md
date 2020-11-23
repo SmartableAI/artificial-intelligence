@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/marissa-mayer-launches-sunshine-cont
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marissa-mayer-launches-sunshine-contacts-ai-app-2020-11?amp"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -46,17 +46,6 @@ related:
         width: 720
         height: 406
         isCached: true
-  - title: "Marissa Mayer's new Palo Alto startup Sunshine brings AI to your contact list"
-    excerpt: "Marissa Mayer is back in business. The ex-Yahoo CEO co-founded a #startup that launched an address book app enhanced by artificial intelligence. #ai #siliconvalley"
-    publishedDateTime: 2020-11-18T14:31:00Z
-    webUrl: "https://www.bizjournals.com/sanjose/news/2020/11/18/marissa-mayers-sunshine-brings-ai-to-contact-list.html"
-    ampWebUrl: "https://www.bizjournals.com/sanjose/news/2020/11/18/marissa-mayers-sunshine-brings-ai-to-contact-list.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/18/marissa-mayers-sunshine-brings-ai-to-contact-list.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 34
 
 secured: "J6qsqD5xIJX2lJqN0UEP7x75Usx+qJ9vNN0Yzpz6aPYtxDHuCskqRu0LajISulTXNtN4K57B+XAJajL0LiVDz0MEehnOJF9jiohJx4+yASwhqnJqs2Wn5UJ647KGXzFvLYPxSuKirddQsm7fzyLjwVNU4oioT/RM3e4/Yjk1glH0NYFzp34KdmhxZHFLg7vQHREP+P4SdOnvLB4hews6lvLiKm1Spp3AkDvuUHVZ92vWWmvaYkLrj9HN2sBvzrvtuBgq/YwB26NyVnsE8i8RTvYu1Lzfj/0dTY1oGFoBYxI0WY7gT0Q63RhcFslkyoIiDBVR0z1DGYxmdt/knjz3Kn4gUtcOjj4xb9dOmaruv25pD9tBg15+N0goazzbxiNt/UJx+B0x2RD3zUBS6J/G+UHDnczyGQ3nYrhhM5y8BjTLc2YNcdyggdhRc0eHKUpX2ktWPb+Abm2M1ytuNcUc8bKnqCPX2GKvdsB882nsBCuUvB5ZXYxgDPLNXvlvNwlkqiwUQniGymAjFaPmu03PSw==;oLjEGWGmftzOJv4Fn+LxkA=="
 ---

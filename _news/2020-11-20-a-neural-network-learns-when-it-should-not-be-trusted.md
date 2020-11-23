@@ -7,8 +7,8 @@ originalUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
 webUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Massachusetts Institute of Technology
@@ -30,16 +30,16 @@ images:
 
 related:
   - title: "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’"
-    excerpt: "AI is becoming increasingly central to our everyday lives, from driverless cars to medical diagnosis. But although such next-gen networks excel at recognising patterns in complex datasets, engineers are only now understanding how we know when they are correct."
+    excerpt: "ARTIFICIAL INTELLIGENCE (AI) has been refined so it can significantly improve decision-making, Massachusetts Institute of Technology (MIT) experts have announced."
     publishedDateTime: 2020-11-22T12:18:00Z
-    webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
+    webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg"
     ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
     cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
     type: article
     provider:
       name: Daily Express
       domain: express.co.uk
-    quality: 71
+    quality: 69
     images:
       - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248"
         width: 590

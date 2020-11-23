@@ -2,6 +2,100 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-17-ai-can-help-organizations-to-slash-16-greenhouse-gas-emission-in-next-3-5-yrs-report.md",
+      "title": "AI Can Help Organizations To Slash 16% GreenHouse Gas Emission In Next 3-5 Yrs: Report",
+      "excerpt": "According to the survey, around 48 per cent of the organizations surveyed are using AI for climate action and have witnessed drop in greenhouse gas emission",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/359835",
+      "originalUrl": "https://www.entrepreneur.com/article/359835",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605624351-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359835",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359835",
+      "publishedDateTime": "2020-11-17T06:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash.md",
+      "title": "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash",
+      "excerpt": "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid.md",
       "title": "Pairing AI With Human Judgment Is Key To Avoiding 'Mount Stupid'",
       "excerpt": "Just as humans can use time and experience to build both our competence and confidence, so too can machines — but much, much faster.",
@@ -1119,111 +1213,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-it-is-going-to-be-a-race-with-tesla-says-vw-about-new-investments-in-electric-cars-and-self-driving.md",
-      "title": "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving",
-      "excerpt": "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
-      "originalUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all",
-          "width": 1600,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
-      "publishedDateTime": "2020-11-16T12:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-deep-vision-announces-its-low-latency-ai-processor-for-the-edge.md",
-      "title": "Deep Vision announces its low-latency AI processor for the edge",
-      "excerpt": "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "originalUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
-          "width": 1024,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
-      "publishedDateTime": "2020-11-16T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

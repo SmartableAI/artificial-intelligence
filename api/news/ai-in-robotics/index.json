@@ -62,7 +62,7 @@
       "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -566,6 +566,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi.md",
+      "title": "Artificial Intelligence, Robotics Key To Fourth Industrial Revolution – Abdullahi",
+      "excerpt": "The director-general of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has identified emerging",
+      "sourceUrl": null,
+      "webUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
+      "originalUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://leadership.ng/wp-content/uploads/2020/08/Kashifu-Inuwa-Abdullahi-NITDA.jpg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
+      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
+      "publishedDateTime": "2020-11-19T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEADERSHIP Newspaper",
+        "domain": "leadership.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1372,58 +1415,6 @@
         "name": "The Punch Newspapers",
         "domain": "punchng.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
-      "title": "Ocado shops its way to a robotics platform for groceries and beyond",
-      "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ocado-Warehouse.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
-      "publishedDateTime": "2020-11-13T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

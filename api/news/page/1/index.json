@@ -97,50 +97,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-22-ai-news-neural-network-learns-when-it-should-not-be-trusted-99-wont-cut-it.md",
-      "title": "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’",
-      "excerpt": "AI is becoming increasingly central to our everyday lives, from driverless cars to medical diagnosis. But although such next-gen networks excel at recognising patterns in complex datasets, engineers are only now understanding how we know when they are correct.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "originalUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "publishedDateTime": "2020-11-22T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-11-22-robots-invade-the-construction-site.md",
       "title": "Robots invade the construction site",
       "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
@@ -201,7 +157,7 @@
       "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -943,7 +899,7 @@
       "originalUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -1226,6 +1182,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade.md",
+      "title": "How role-playing a dragon can teach an AI to manipulate and persuade",
+      "excerpt": "An AI that completes quests in a text-based adventure game by talking to the characters has learned not only how to do things, but how to get others to do things for it. The system is a step towards machines that can use language as a way to achieve their goals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
+      "originalUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
+      "publishedDateTime": "2020-11-20T07:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

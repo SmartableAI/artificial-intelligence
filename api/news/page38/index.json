@@ -2,6 +2,92 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-10-23-australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems.md",
+      "title": "Australian and Korean researchers warn of loopholes in AI security systems",
+      "excerpt": "Topic: Security Research from Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, the Australian Cyber Security Cooperative Research Centre (CSCRC), and South Korea's Sungkyunkwan University have highlighted how certain triggers could be loopholes in smart security cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "originalUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/11/01/eb254cf0-d63d-44bd-ac1e-6a56df4123b8/istock-1160977168.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "publishedDateTime": "2020-10-22T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.md",
+      "title": "Dell Technologies World: Weaving Together Human And Machine Interaction For AI And Robotics",
+      "excerpt": "We are prematurely comparing robots and AI to humans and human intelligence. We are decades away from that. This false bridge between robotics and people creates vast problems with robots' deployment because people aren't looking at what robots are.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "publishedDateTime": "2020-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-how-smart-are-ai-chips-really.md",
       "title": "How Smart Are AI Chips, Really?",
       "excerpt": "The best part about the term “Artificial Intelligence” is that nobody can really tell you what it exactly means. The main reason for this stems from the term “intelligence”, with ...",
@@ -1029,110 +1115,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tesla-full-self-driving-beta-lands-but-its-about-to-get-more-expensive.md",
-      "title": "Tesla Full-Self Driving beta lands, but it's about to get more expensive",
-      "excerpt": "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 493,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "publishedDateTime": "2020-10-22T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-robot-artist-thats-challenging-humanitys-concept-of-creativity.md",
-      "title": "The robot ‘artist’ that’s challenging humanity’s concept of creativity",
-      "excerpt": "I picked up his robot, and I thought ... But it does highlight one of the problematic aspects of creativity as a benchmark of artificial intelligence (not that this is necessarily what the endeavor is designed to prove.) Simply put, art is too subjective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "originalUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/ai-da-in-a-seat-photographer-victor-frankowski-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "publishedDateTime": "2020-10-22T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-23T03:47:00Z
 originalUrl: "https://www.thefastmode.com/solution-vendors-m-a/18543-ibm-to-acquire-apm-startup-instana-to-boost-hybrid-cloud-and-ai-powered-automation"
 webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18543-ibm-to-acquire-apm-startup-instana-to-boost-hybrid-cloud-and-ai-powered-automation"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.thefastmode.com/media/k2/items/src/8e0cc8b5aa4bbdee8df5c1a32381f369.jpg?t=20201123_034157"
@@ -78,17 +79,6 @@ related:
         width: 1200
         height: 633
         isCached: true
-  - title: "IBM To Acquire Instana For Undisclosed Terms - Quick Facts"
-    excerpt: "(IBM) said Wednesday it has agreed to acquire Instana, an application performance monitoring and observability company, for undisclosed financial terms. The transaction is expected to close within several months."
-    publishedDateTime: 2020-11-18T14:26:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-to-acquire-instana-for-undisclosed-terms-quick-facts-2020-11-18?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
   - title: "IBM to acquire application performance monitoring company Instana"
     excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
     publishedDateTime: 2020-11-19T17:14:00Z
@@ -132,20 +122,6 @@ related:
       - url: "https://247wallst.com/wp-content/uploads/2018/10/thinkstockphotos-468340908.jpg?w=400"
         width: 400
         height: 225
-        isCached: true
-  - title: "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy"
-    excerpt: "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ..."
-    publishedDateTime: 2020-11-18T14:03:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 31
-    images:
-      - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook"
-        width: 2698
-        height: 1414
         isCached: true
   - title: "IBM acquires application observability startup Instana"
     excerpt: "The deal buys IBM new artificial intelligence capabilities ... IBM plans to integrate Instana’s technology with its Watson AIOps platform. Watson AIOps creates a baseline model of how a ..."
@@ -204,6 +180,6 @@ related:
         height: 683
         isCached: true
 
-secured: "jrU/Z7wtVQiVqdvq+USjkrzBie4nypkOrhSbR1uRU2ZazUWPkqHyPFCuTyR0c+GPUrUJWlmfKfkawqUNY6UBCmC235C+qpy7dYJcgZB/F/sNRVykGkT0meZKyttXqqSvWEEdYwlBzvaxx+mhjCCnCQ9ZcD97nXr91o5lybvb7gHkApRhPoKKoIMJUGWgyskCC9RQYAjrpUrQnCq9QKyaCg9L0ejH31VjA+OnaQ4QKR+hizU231wbi1MYcKprSau7FDr22bYSnDyZC74nlaVZy98QvP7I5E296xAS1Ug155JjnAX/D+So4rkPbpomB4ivqK5KNbQGUKEAOxKkYSZ3EDBYYQps9RG+2c7GdRjda9s=;j0rqzamYlU/D2c0thOJDEA=="
+secured: "ZXRB6VG+pKJ4IOlQM1gRQvh8Dnv0pWzpUBzIbChssLWl5iBVezVsEYj4UCsaCfAveRFQm871zeLKLeznpfsgwE7nPaONaH0K3Le5swM3sHDSz2BizZImn4ingLXanwapoZDMhb1QZP2xLm+udwu/UjGs9VIwyky0DARAtl1m2CJ603Exdb0lpwXkHlMk/a9iivd02L8dNUqqsfaIMLlvNpIFS0cI/FH/+uA997IHTHLq6XNwO1fppLCrCe+C3z386qgjQmFsO7UAnF8T1c38lrCZF9REu6iOhs2WrreJ8vg7g15IJZ38SzZ/AYHuG2ZNZKtYAfruFKLoJIbEQDAtE1odpCwf6aubzKx/Y48NeBn8icYagEVhoKbHaQ4AW/CYAo/4yMm0Tt77+mK7Z/QqQN8CP/TG40CPmnLqzOLQ0IVmNlF79Vk8LDmxw1z869YZMp3t1haDk40i00sUuZ/l915P4BoZs8w5Ootnd8pPBv0qAo4F4dGXrWF0ZVW5Xzi+KAPqcZ9qPaN/LlqKo7QGCA==;KEMfFpE3tOwlkkI8nJBMBg=="
 ---
 

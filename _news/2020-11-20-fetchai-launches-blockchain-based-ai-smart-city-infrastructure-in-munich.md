@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -36,6 +36,17 @@ related:
     webUrl: "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
     ampWebUrl: "https://www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
     cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
+  - title: "This fintech and blockchain training bundle features 8 courses for $40"
+    excerpt: "With investments in blockchain tech growing, so will the job opportunities. This 8-course bundle can help. By ZDNet Academy | November 22, 2020 -- 13:00 GMT (05:00 PST) | Topic: Blockchain Blockchain could very well be the technology of the future."
+    publishedDateTime: 2020-11-22T22:58:00Z
+    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
     type: article
     provider:
       name: ZDNet

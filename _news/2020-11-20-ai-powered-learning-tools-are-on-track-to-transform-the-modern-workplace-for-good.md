@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/sc/how-ai-powered-learning-is-tran
 webUrl: "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11"
 type: article
 quality: 62
-heat: 72
+heat: 82
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered tutors in schools to make learning fun in UAE"
+    excerpt: "A new artificial intelligence (AI)-powered platform is set to supplement school education with live and inclusive learning opportunities for students, not only in the UAE but even across the world.</p> <p>Launched by Sheikh Mohammed bin Hamad bin Mohammed Al Sharqi,"
+    publishedDateTime: 2020-11-23T06:56:00Z
+    webUrl: "https://menafn.com/1101166283/AI-powered-tutors-in-schools-to-make-learning-fun-in-UAE&source=246"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 37
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/22/KT_2e18237a-4image_story.jpg"
+        width: 850
+        height: 567
+        isCached: true
   - title: "Tech Tracker: Papa John’s is testing AI-powered voice assistants for phone orders"
     excerpt: "The voice assistants can tackle multiple calls at once ... Sme brands use ghost kitchens to enter new markets, where there's no brand recognition. Miles said that's not in the cards for Mendocino. One thing's for sure: Mendocino won't go into a ..."
     publishedDateTime: 2020-11-19T19:57:00Z

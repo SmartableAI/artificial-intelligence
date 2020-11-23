@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/monash-university-and-the-alfred-to-devel
 ampWebUrl: "https://www.zdnet.com/google-amp/article/monash-university-and-the-alfred-to-develop-ai-based-superbug-detection-system/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/monash-university-and-the-alfred-to-develop-ai-based-superbug-detection-system/"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 secured: "ac2B2zaJ4MNUUFH+NmyKnbGlOjsJKPIUR/WLksvR5G4uuYvQK02T+mjlYQbFJ+BhLKlfMm08kjkZ2LfHl9wVvXEDr8Xnpry5dcX3w/PvEYDPb0TeCtMy4tFARj24tWPILaDn0tHwWWrEUY+43ExfVTWbnRJDl+Ceg5SFGXychY0P3ZIOTeX28vTE63nfmcQaf+2GHCMEtc2B1ybDKyBx404s23HGucthYgKbHSpExKOvvCT/7LoKKSfn6RJ7ohWsEZFQWhBcRsM9UjrwCjTV71k5LGzPqwNJ0tCgBJWTsE0kMUP22AfgPYffPIamXCocoEc+C2JQzwzjxQdiqqaa0BGZxsRQCSrYKkE3oSWtgIqfdQ8RBKxBE5v9PnleQ2Np1CUQV4tD5bHsP3okgsH/K3ew0z9dguykFkaTEjPbF8ZLEQMjMN1SoxsvTOOHNnXfV9LdYq7noJzRIhiS4PWgttYpAzfqj0SYBAT/w6uVB26Ha0LjoH3tb0gerXHZBojoYlc/1ePslUUFR/nERSVB8A==;nSKPhFv/gXXWO6Bn5z2icQ=="
 ---

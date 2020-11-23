@@ -47,22 +47,6 @@ related:
         width: 1300
         height: 541
         isCached: true
-  - title: "How to make money with AI in 2030"
-    excerpt: "Research in artificial intelligence is turning to money-making mass applications for consumers in the physical world. The next ten years could be crucial."
-    publishedDateTime: 2020-11-18T13:33:00Z
-    webUrl: "https://www.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
-    ampWebUrl: "https://amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/how-to-make-money-with-ai-in-2030/a-55647845"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://www.dw.com/image/54879435_403.jpg"
-        width: 940
-        height: 529
-        isCached: true
   - title: "An AI helps you summarize the latest in AI"
     excerpt: "Semantic Scholar, a scientific literature search engine, is using recent breakthroughs in natural-language processing to give researchers the tl;dr on papers."
     publishedDateTime: 2020-11-18T16:40:00Z

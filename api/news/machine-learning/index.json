@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-22-ai-news-neural-network-learns-when-it-should-not-be-trusted-99-wont-cut-it.md",
-      "title": "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’",
-      "excerpt": "AI is becoming increasingly central to our everyday lives, from driverless cars to medical diagnosis. But although such next-gen networks excel at recognising patterns in complex datasets, engineers are only now understanding how we know when they are correct.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "originalUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606047635248",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp",
-      "publishedDateTime": "2020-11-22T04:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2020-11-22-practical-strategies-to-minimize-bias-in-machine-learning.md",
       "title": "Practical strategies to minimize bias in machine learning",
       "excerpt": "But the question isn’t if a machine learning model will systematically discriminate against people, it’s who, when, and how. There are several practical strategies that you can adopt to ...",
@@ -334,6 +290,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-20-a-neural-network-learns-when-it-should-not-be-trusted.md",
+      "title": "A neural network learns when it should not be trusted",
+      "excerpt": "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "originalUrl": "https://news.mit.edu/2020/neural-network-uncertainty-1120",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T21:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-artificial-intelligence-and-machine-learning-course.md",
       "title": "Artificial intelligence and machine learning course",
       "excerpt": "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning.",
@@ -587,7 +595,7 @@
       "originalUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -635,11 +643,11 @@
       "title": "3 rising AI/ML startups from South Korea",
       "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663374",
-      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663374",
+      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663147",
+      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663147",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 76,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -671,8 +679,7 @@
       "topics": [
         "AWS AI",
         "AI",
-        "Machine Learning",
-        "Facebook AI"
+        "Machine Learning"
       ]
     },
     {
@@ -834,7 +841,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/18/controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
