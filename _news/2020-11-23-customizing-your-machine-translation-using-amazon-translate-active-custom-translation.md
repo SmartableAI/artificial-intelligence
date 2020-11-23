@@ -40,6 +40,6 @@ related:
       domain: nasdaq.com
     quality: 52
 
-secured: "W7xRd3h3rsosVrN4F3w26vdAH80A8LUe0y+PLdSozx4uEwyyPH9t3KV/Z/Syl5LiBsMgIvQouSa1FW7P2hv5hQSDk1U4PDyxV/nu9tZKBCK3yIMOgdAHePUaQPA9ZMbX6ZvmINNaSkMtMlZFEVMLPwdGJOkEsXzlL48YVObF+EgARDDxzO4cAn0ErYtCTHAXUNaAFeK7OjHGfE3GkEwqt6v1UasN/Gp21zu5pcz8UcJmlUUv6EgWXIC+OwMDPVkX0B2PieOV+C8+fh/owR+hFlnnXmo5EGaTaAsry55zUsITwT+rSPTqkAUrYAd0TZ5HftkuYntn+RWEUpEpgmcm3KX5i1kVasTrxu8koxYuFoU=;itCkV/Gfgl64MkvU+1Mq0g=="
+secured: "185DsrJgMsAx38OmlVvPhksMsuX/va8d8vsQ+SHpLsaS4438z/sdxs1lJgC17davcdxYxQuSL8P8+tS6+6ftACV5Wq9lXsNyfuLtBh3jrMcmk5qUzR2mYlO6GifCMSDiZ5GPHRwods4+mLNxsvkDBlSDPrWxPEDBAGte19p4nMOD2MNSOcIEGEpZkcxe2vu2UD8498dOLbUCTgpv6JbXotANB02+NPvLigcOcGjCPgigYlZmJjqOso3yxPdqEF2QSDpElOQ+wsugriGI6XQb+wqXM791e2UODjjTjBPqx+SouJlKXwOPDkuIP1xJAOl0e3oi7zjXOCG4z2NHsHt+og2AIUp2COv7mXppeDsNGMk=;fiL2PgEVVamPA/8D+0VNGg=="
 ---
 
