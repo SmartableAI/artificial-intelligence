@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recogn
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Houston Airports Add Facial Recognition Tech to Arrival Process"
+    excerpt: "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic."
+    publishedDateTime: 2020-11-23T23:47:00Z
+    webUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "Bush Intercontinental Joins Hobby Airport In Using Facial Recognition Technology"
     excerpt: "Bush Intercontinental this month joined Hobby and 17 other U.S. airports that use facial recognition technology at its international entry terminals. With the technology, arriving passengers have their picture taken and a computer then matches it with their passport photo."
     publishedDateTime: 2020-11-23T19:47:00Z

@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025"
-    excerpt: "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,"
-    publishedDateTime: 2020-11-19T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The AI in cyber security market is projected to generate a revenue of $101.8 billion in 2030, increasing from $8.6 billion in 2019, progressing at a 25.7% CAGR during the forecast period (2020-2030)."
     publishedDateTime: 2020-11-23T18:50:00Z

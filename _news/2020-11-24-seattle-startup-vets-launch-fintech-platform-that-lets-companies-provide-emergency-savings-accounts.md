@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-pl
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
 type: article
 quality: 60
-heat: 70
+heat: 71
 published: true
 
 provider:

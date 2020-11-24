@@ -86,6 +86,22 @@ related:
         width: 1668
         height: 834
         isCached: true
+  - title: "Learn how to code through animation; Here's what the future holds for fintech"
+    excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
+    publishedDateTime: 2020-11-24T00:47:00Z
+    webUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence"
+    ampWebUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 41
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
     excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"
     publishedDateTime: 2020-11-19T15:20:00Z

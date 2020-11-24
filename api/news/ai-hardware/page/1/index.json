@@ -10,7 +10,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025-2020-11-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1457,21 +1457,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-intels-first-discrete-xe-server-gpu-aimed-at-hyperscalers.md",
-      "title": "Intel’s First Discrete Xe Server GPU Aimed At Hyperscalers",
-      "excerpt": "We have been waiting for years to see the first discrete Xe GPU from Intel that is aimed at the datacenter, and as it turns out, the first one is not the",
+      "path": "_news/2020-11-13-nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes.md",
+      "title": "NextVPU breaks the Performance Records of AI Chips on the Edge Side, and supports \"Algorithm Deployment Within 5 Minutes\"",
+      "excerpt": "In less than five years after its establishment, NextVPU has reinforced its leading position in the computer vision industry. Its",
       "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2020/11/12/intels-first-discrete-xe-server-gpu-aimed-at-hyperscalers/",
-      "originalUrl": "https://www.nextplatform.com/2020/11/12/intels-first-discrete-xe-server-gpu-aimed-at-hyperscalers/",
+      "webUrl": "https://www.prnewswire.com/news-releases/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-301172501.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-301172501.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/intel-server-gpu-logo.jpg",
-          "width": 1147,
-          "height": 747,
+          "url": "https://mma.prnewswire.com/media/1333196/NextVPU_N1_Series_Chips.jpg?p=facebook",
+          "width": 1003,
+          "height": 525,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1479,13 +1479,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2020/11/12/intels-first-discrete-xe-server-gpu-aimed-at-hyperscalers/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2020/11/12/intels-first-discrete-xe-server-gpu-aimed-at-hyperscalers/amp/",
-      "publishedDateTime": "2020-11-12T11:11:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T17:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null

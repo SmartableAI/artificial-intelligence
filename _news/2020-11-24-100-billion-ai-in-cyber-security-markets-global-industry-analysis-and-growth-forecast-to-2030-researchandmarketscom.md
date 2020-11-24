@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Smart Home Healthcare Market by Size, Growth, Opportunity and Forecast to 2025"
-    excerpt: "Selbyville, Delaware Global Smart Home Healthcare Market Report added at Market Study Report LLC offers industry size, share, growth, trends and forecast analysis up to 2025. Smart Home Healthcare Market Report also covers top key players,"
-    publishedDateTime: 2020-11-19T08:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-home-healthcare-market-by-size-growth-opportunity-and-forecast-to-2025-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 20, 2020 (Heraldkeepers) -- Machine learning as a service Market incorporates a comprehensive vary of services and solutions and techniques reticular closely to computing ..."
     publishedDateTime: 2020-11-20T12:13:00Z

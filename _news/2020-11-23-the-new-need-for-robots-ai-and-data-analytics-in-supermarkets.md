@@ -8,8 +8,8 @@ webUrl: "https://www.entrepreneur.com/article/359653"
 ampWebUrl: "https://www.entrepreneur.com/amphtml/359653"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653"
 type: article
-quality: 87
-heat: 137
+quality: 89
+heat: 139
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9"
@@ -98,6 +99,6 @@ related:
         height: 630
         isCached: true
 
-secured: "82CH38G6Rk3UDLirHuPClwsrFKkNbSyOLzzuQP7P1+4vG3vysmHAz+kl8WtpdcROtCwURsLY0YOCWYR0QBxLGhSS7zAwXz+1JVyaPl+2+u2E28oEwVrZSnTbrcnGOnAZ0aO5xFexSvf2cQ1No0yMFeRtilkIWmsR6Jf+y/hVspy69QyZroQGod+qM+xmO0aZ9hXv/mjU+CE3PxJ7pFAkRBmRDsIZ4/pJNAtl/r/gUxhOwc9kRJ2kf/rr3OYxEzLiMOwLBqnCZh2GiB8/VuVRQLqDZFAzpE0MjbJUaL/ZWwWd9nx5v6zlQt5MQo8TBJ/20IuibojkJ6kGjKrU/ypE3qwP0CVR/jLdiEXCq29RpqM=;PI+GYB441LzUpZuLF8QOQg=="
+secured: "y4JfP1q5z98ZtN3B43OgJ0HdyL0RtERrfNMvN0xfKLyvJsqDRIaDgkskiTgsAP3XKIb7xvnj29BRUcNsFSOIfTmcRq10mt3YXGWkf37qIjjicMZEzTnqZg9RyuhZDD3WddhrvBumEXsUqY+yCaJK2X2qTi7wPZ+ybzuRMyJu5eCSApbDEon62Oi6xRexK+KY0oH+P6L4znESihH4CbVBQj2sY/RVXBy184cs5WqqCfsRb5Njlq275B/z2qt3tLCLITz5rPw1SEB7fLi3eWai7k6IQKh28G196I2K2Or/xYBAmKo7OpaJHAMyveA4KDmgxkRainUm32tAl2QVNsN9/ZZDrNqHGRBNTMbXPjs7Fs+xCwdDYQHWkAVuVv1ZM+nuCpvSEjXQKrLLHtUf8LsTpH4efQC0W72hIA10hE9jwGi4GJ9AXNJh++yQCcHn2Pp+MYmowboMW/exteB8+8PweTC9uf6N7x0C46R0xx0Rc5Hvo0Mwx6RKjfku+l0Wb7K0kSwkVuZj6zL5ezoNidycNw==;oOaE1kGOOJj9sMq/EUhTbQ=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-23T22:00:00Z
 originalUrl: "https://mb.com.ph/2020/11/24/artificial-intelligence-a-path-to-be-trodden-carefully/"
 webUrl: "https://mb.com.ph/2020/11/24/artificial-intelligence-a-path-to-be-trodden-carefully/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mb.com.ph/wp-content/uploads/2020/09/fernandez-new.jpg"
@@ -23,6 +24,6 @@ images:
     height: 540
     isCached: true
 
-secured: "YolT3Rw28CGYhiwYRJKSyQTGg0/jUDJ3J1G30Lt/eXv7mbBkHS9MSR6h5peCbqe9QrHTwaaGwsfU56qaWLlTz7Du6DOA3Qvf5cMA4c8dpmiHKTYIk9HzDz2RPE+wTlsEhp6sWOhAQDDfz1oxoyL8NjMCVZEdhCKGGM66elUfBl5MQYkp//RZfpjaSwfrsg+Xd0BC7eMvxSV/DTXz+3Yk24GmcZLq9f0yFcCE9wDU6vGv3lBQfOI15OYsePnl+BYGd6UQ8QJ1FKY520rP31tLicT3l/Tnu87UNf92EZlVHCpU2b56jlkAIaEp8nBrezUVKcBnHSTN6pjOXMvWVpJC0trx0NI+N8nFTxpaPiCzHGk=;q9VoYIVenubCU1CjiyvbDQ=="
+secured: "5BTrFMWuHfab0+jKMb91m/OFhcExizOqo9WXFiVGuOK3yqYqpQX3N9Umh/AoRiVJrhu4g3RmTJXEDRxZjhJMgZdN6pqpFoi0JlYavTyBJGEiWZJoEykMST/78dwQXKALJdGu6GmsNS2FvE1vvuGQHrdBc0iqH1m3ljDUCIveyONwaUYNMQqLj+OdNYu3olmneBmCBqd9HtKTLlejpY5bXWwbxRKgtC5kjJbjgcyAK52ZEMiswoYqCGk1lAnR6cPV+ZXFWj1ciDT3wE23odMyG10JHWxTLjnOTTNHXhu0jyrVUhYtzqlAQwhvoXLHKRIdRRI/Kp8F+LSrC3zhan6OpiV814WkPr1fv/1QNu+WOEbZ4+3z9Ie1bj98QY1D4lwmSaZ4xHtIw6i8/x84nHfJWy6Yh5+RdQHDgHdLCoD/8q2wEy7Kr0Ja4H7RIb7/9axglKaAyjDZgYfcNY5WitzVGJyDREEinFYbgTVeaUtkL2lF5JgrXbY3f5IQjCM4emKeeqj1uZZ/Ku02+kIdYdbVwQ==;l9pGSYsGzzutR5DCc/NtZg=="
 ---
 

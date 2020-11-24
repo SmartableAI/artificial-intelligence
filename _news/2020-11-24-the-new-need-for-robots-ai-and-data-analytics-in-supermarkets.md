@@ -35,7 +35,7 @@ related:
     provider:
       name: Entrepreneur
       domain: entrepreneur.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9"
         width: 600
@@ -95,6 +95,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Xaebuk8mFjRJZf0IN4/WVGq4TKnW6S6TPXi/bPuSjj7Xak1jTTYBzQRLO6HsL3VFpT+ELIreySQEfHpVWkHqsgBhYoBg5QCLnI9TfjaOzD4j6gixaq3lwoJ1qpeCjtkm4ppo+1lq33QOAmLaB8xtkJqsCR37Z/gChZmNDJ8g+WkANsZhcYejxiD+La29+3DGQzs97/qNxEEDaM1xs+wbp1t+/0oXHfVhzhU2gNpu9JEONu+Jzr692G5ZjzCr/BcVN3ex0Ub90Gk5zwyNyz3U53kON+0sgR81rwMwZ7W5l0Ahf/LUUN3Pj6gLPAs8akUsHr91xFyXLa+ydqFZbBPZlH5MkdTFbvq2YLgzZVjRB8c=;tjwl/IgXw/Ecl6oE/Q+5eA=="
+secured: "L92RbmFackxII61QY8+pL/MQxkEyd3CQ4vuPPXgcvkAfVWnyLdOqG7f9aH40FQm55pkMpK1XSmKbGZkWjjxEI0mJvePzj7DflaWV3TPOmG1pK7189WSQ8Eyd4K4Q6iCI5dNskMetswrdmtea8bQcWoRMnC3djdaejXf3A5LOMLXtgNhNDNReJu5rbtiEpVA8sO2zW9MUoZkGMS43FhXxDBwrVPT77hXDRB6Xw3LpYMyr0qOfSVO8pc0aKl1qoSrbWNHUosMg+gNZjX5lAf9wA2fjx6rjqOc9GBWD98pRwY9tdhpnRTi//YdFUNSGHChDhIjd1S6NM7Sall5pVnr8WICuKrDWHmy1e+Z7kXuuOZ4SD9NpxTIvRZ1/Ae84nh8+K4D/tvEdUu60OcBdHkBIPyRzZdvg2+lEd+jD+YxtuSGlRffIMnLUOhkXcwYB52PT9llIaXMtTJB7kZQEf8zK7FQg1OwG15yBK8Or7MmiEUAjdTexWwSqDy/h1HuYSoq7EyuSGNYIyOgcKj8iFx0+yQ==;l/Q/SsN5zPQmpCanE4bdRw=="
 ---
 

@@ -35,22 +35,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "What enterprise CISOs need to know about AI and cybersecurity"
-    excerpt: "Enterprise security is like guarding a fortress that is being attacked on all fronts, from digital infrastructure to network endpoints."
-    publishedDateTime: 2020-11-19T08:20:00Z
-    webUrl: "https://venturebeat.com/2020/11/18/what-enterprise-cisos-need-to-know-about-ai-and-cybersecurity/"
-    ampWebUrl: "https://venturebeat.com/2020/11/18/what-enterprise-cisos-need-to-know-about-ai-and-cybersecurity/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/what-enterprise-cisos-need-to-know-about-ai-and-cybersecurity/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/binary-2175285-1.jpg?w=1200&strip=all"
-        width: 1200
-        height: 607
-        isCached: true
 
 secured: "q1zRHm+rBwAvljO1vWmC3RAwElAR8FzJujNLaqdJfjJUV2VA6i3ve0W1t35LCXhyAX4FCrWoDdgKPBm+4rjoIP8zdF/11jRM0JK4GEHK8BapySjEegijKY4pr6kmzo7we04BXHQUVtLu2+MqLsoue9GaGObQIjNSgKYSrdHeXDrXvbjjYpMls6fDPj8/xRDOicx/X9t3RblWymnbzbeEBbc7fUWfvcYfESdbs9ZDJC4HWVBVfRrCV1/yjr4tG2asgexH4HK/tX7DLtrG3lVjJ6I3Rauh6nut6HNQPIY2rCRclJiwdUjZLRjZ35mgLEPfUZo6gyQKdz+cyuFvNNTMgsanUMmhiSJ+mnVFncU/Xcs=;ACymG1xJUVBnQTKtO2IvXw=="
 ---

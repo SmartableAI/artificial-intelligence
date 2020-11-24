@@ -38,6 +38,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 65
+  - title: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020"
+    excerpt: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The \"Paris Region Challenge AI for Industry 2020\" kicks"
+    publishedDateTime: 2020-11-24T00:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18488460/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18488460"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488460"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "TCP6tmGaxvdTIXGIiElsQIRr1qKv3qmPHj0K9LxzkozBFe6L41UY5DY06sVn1Ft/d2Eu9rGRP+jhZPtt3+hSSg9eaFkjzXlnGBYL3NMrXkmkj6lt+Q0qeVTfiurswuvRnI/75TknrU+ufrndvqfyurnTrbJJWaFCNmP7WGAh2I01TE4TbZenpvjlfGJDfBmXq62EpBJey7+hIFSOHrREFXIUnrqcXk9eMo0svqEvwaEQOkr6z9WLGM7HcS/Ba/h8gq38xFoWRB4vWuSdKsofRZeZE09DgXHEKLzxG3xtrSnLlx7SHNGSxuJkBAoarH8X6yRUYYFVBQfuqEghl9lxDPIelspCx26z//Loz5E55kjIcUFmHD7wFAKvSQnzbdhR3kbfP8lSVArmmITcy9da3mEEy08hAKD3hnH7AJeRGBamNz1uc1baR1Rnad0NE2YC5gJ0NIx7wULaqMAFYTnMJLuttmuYFI6c15GnBcgFnyjfMlBKTXT3SmfJE/G7nt4zw+hbRjW6tUW1Y8SyyeOupg==;DmL5ikO89erMsfSQyKpOng=="
 ---

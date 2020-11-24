@@ -99,6 +99,20 @@ related:
       name: Pulse 2.0
       domain: pulse2.com
     quality: 54
+  - title: "Israeli Startup BeyondMinds Raises $15M For AI-As-A-Service Solution"
+    excerpt: "BeyondMinds' customer base includes Microsoft, Samsung, KPMG, and leading defense companies and financial institutions."
+    publishedDateTime: 2020-11-23T12:37:00Z
+    webUrl: "https://nocamels.com/2020/11/beyondminds-15m-ai-as-a-service/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 37
+    images:
+      - url: "https://nocamels.com/wp-content/uploads/2020/03/AI.jpg"
+        width: 1495
+        height: 894
+        isCached: true
   - title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
     excerpt: "BeyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15"
     publishedDateTime: 2020-11-20T21:00:00Z

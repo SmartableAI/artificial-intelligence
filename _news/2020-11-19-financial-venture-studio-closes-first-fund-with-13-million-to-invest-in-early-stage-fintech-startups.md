@@ -100,6 +100,22 @@ related:
         width: 1668
         height: 834
         isCached: true
+  - title: "Learn how to code through animation; Here's what the future holds for fintech"
+    excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
+    publishedDateTime: 2020-11-24T00:47:00Z
+    webUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence"
+    ampWebUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 41
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
     excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
     publishedDateTime: 2020-11-19T21:30:00Z

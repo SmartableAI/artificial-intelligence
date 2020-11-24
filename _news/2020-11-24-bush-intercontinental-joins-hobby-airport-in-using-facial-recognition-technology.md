@@ -43,6 +43,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Houston Airports Add Facial Recognition Tech to Arrival Process"
+    excerpt: "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic."
+    publishedDateTime: 2020-11-23T23:47:00Z
+    webUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
   - title: "Wrongful arrest exposes racial bias in facial recognition technology"
     excerpt: "Detroit police defend the system, even though the police chief once said technology alone may misidentify people 96% of the time."
     publishedDateTime: 2020-11-19T12:00:00Z
