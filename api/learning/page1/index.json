@@ -163,31 +163,21 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-ai-for-everyone.md",
-      "title": "AI For Everyone",
-      "excerpt": "Learn AI For Everyone from deeplearning.ai. AI is not only for engineers. If you want your organization to become better at using AI, this is the course to tell everyone--especially your non-technical colleagues--to take.   In this course, you ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-ai-for-everyone/index.json",
-      "webUrl": "https://www.coursera.org/learn/ai-for-everyone",
-      "length": "9 hours",
-      "ratings": {
-        "count": 7203,
-        "average": 4.8
-      },
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees.md",
+      "title": "Machine Learning and AI Foundations: Decision Trees",
+      "excerpt": "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees",
+      "length": "1:16",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai"
           }
         ]
       },
@@ -197,120 +187,111 @@
       "heat": 130,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b2/65f2d3143d48b29c346332efac1118/AI4ESquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "AI For Everyone",
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=bM%2FVK%2FaWoKtulsEs9YA3iNBGQWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWSyp-dafZXXgesTcZLSio10WeCwGlwMweOitSDfiEo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Decision Trees",
           "isCached": false
         }
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-image-understanding-with-tensorflow-on-gcp.md",
-      "title": "Image Understanding with TensorFlow on GCP",
-      "excerpt": "Learn Image Understanding with TensorFlow on GCP from Google Cloud. This is the third course of the Advanced Machine Learning on GCP specialization. In this course, We will take a look at different strategies for building an image classifier ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-image-understanding-with-tensorflow-on-gcp/index.json",
-      "webUrl": "https://www.coursera.org/learn/image-understanding-tensorflow-gcp",
-      "length": "12 hours",
-      "ratings": {
-        "count": 341,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 130,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a4/99eae0bd3f11e88d1bdf247fdfe9da/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Image Understanding with TensorFlow on GCP",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "price": "$29.99",
       "topics": [
         "AI",
-        "Google AI",
-        "TensorFlow"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-practical-machine-learning.md",
-      "title": "Practical Machine Learning",
-      "excerpt": "Learn Practical Machine Learning from Johns Hopkins University. One of the most common tasks performed by data scientists and data analysts are prediction and machine learning. This course will cover the basic components of building and applying ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-practical-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/practical-machine-learning",
-      "length": "14 hours",
-      "ratings": {
-        "count": 2700,
-        "average": 4.5
-      },
+      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
+      "title": "Building Regression Models with scikit-learn",
+      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
+      "length": "2h 42m",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "Johns Hopkins University"
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
           }
         ]
       },
       "levels": [
-        "Beginner",
         "Intermediate"
       ],
       "heat": 130,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a1/e7472069b611e3ae92c39913bb30e0/PredictionMachineLearning.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Practical Machine Learning",
+          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Regression Models with scikit-learn",
           "isCached": false
         }
       ],
       "content": "\r\n",
       "type": "course",
-      "price": "Free+",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work.md",
+      "title": "What is machine learning, and how does it work?",
+      "excerpt": "Have you heard of machine learning, and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning works.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work/index.json",
+      "webUrl": "https://www.youtube.com/watch?v=elojMnjn4kk",
+      "provider": {
+        "name": "YouTube",
+        "domain": "youtube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/youtube.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Data School",
+            "domain": "dataschool.io"
+          }
+        ]
+      },
+      "heat": 130,
+      "images": [
+        {
+          "url": "http://i3.ytimg.com/vi/elojMnjn4kk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What is machine learning, and how does it work?",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"

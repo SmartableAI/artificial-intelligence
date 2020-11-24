@@ -4,6 +4,57 @@
   "page": 15,
   "value": [
     {
+      "path": "_learning/courses/pluralsight-building-sentiment-analysis-systems-in-python.md",
+      "title": "Building Sentiment Analysis Systems in Python",
+      "excerpt": "Sentiment Analysis has become increasingly important as more opinions are expressed online, in unstructured form. This course covers rule-based and ML-based approaches to extracting sentiment from opinions, including VADER, Sentiwordnet, and more.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-sentiment-analysis-systems-in-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-sentiment-analysis-systems-python",
+      "length": "2h 31m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Vitthal Srinivasan",
+            "type": "profile",
+            "name": "Vitthal Srinivasan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-sentiment-analysis-systems-python-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Sentiment Analysis Systems in Python",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/courses/pluralsight-building-your-first-machine-learning-solution.md",
       "title": "Building Your First Machine Learning Solution",
       "excerpt": "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.",
@@ -1457,58 +1508,6 @@
           "width": 1280,
           "height": 720,
           "title": "Reducing Dimensions in Data with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-scaling-scikit-learn-solutions.md",
-      "title": "Scaling scikit-learn Solutions",
-      "excerpt": "This course covers the important considerations for scikit-learn models in improving prediction latency and throughput; specific feature representation and partial learning techniques, as well as implementations of incremental learning, out-of-core learning, and multicore parallelism.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-scaling-scikit-learn-solutions/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/scaling-scikit-learn-solutions",
-      "length": "2h 53m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/scaling-scikit-learn-solutions-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Scaling scikit-learn Solutions",
           "isCached": false
         }
       ],

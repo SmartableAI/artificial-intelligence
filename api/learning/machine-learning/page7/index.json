@@ -4,6 +4,107 @@
   "page": 7,
   "value": [
     {
+      "path": "_learning/books/amazon-learning-from-data.md",
+      "title": "Learning From Data",
+      "excerpt": "This book, together with specially prepared online material freely accessible to our readers, provides a complete introduction to Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-from-data/index.json",
+      "webUrl": "https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/",
+      "ratings": {
+        "count": 172,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Yaser S. Abu-Mostafa",
+            "type": "profile",
+            "name": "Yaser S. Abu-Mostafa"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81k-OvvReZL._AC_UY218_ML3_.jpg",
+          "width": 142,
+          "height": 218,
+          "title": "Learning From Data",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$28.00",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library.md",
+      "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
+      "excerpt": "\"This library is useful for practitioners, and is an excellent tool for those entering the field: it is a set of computer vision algorithms that work as advertised.\"-William T. Freeman, Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library/index.json",
+      "webUrl": "https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/",
+      "ratings": {
+        "count": 771,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Gary Bradski",
+            "type": "profile",
+            "name": "Gary Bradski"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51KZWTKsUBL._SX383_BO1,204,203,200_.jpg",
+          "width": 385,
+          "height": 499,
+          "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/books/amazon-life-30-being-human-in-the-age-of-artificial-intelligence.md",
       "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
       "excerpt": "How will artificial intelligence affect crime, war, justice, jobs, society, and our very sense of being human? The rise of AI has the potential to transform our future more than any other technology - and there's nobody better qualified or situated to explore that future than Max Tegmark, an MIT professor who's helped mainstream research on how to keep AI beneficial.",
@@ -1457,106 +1558,6 @@
           "width": 400,
           "height": 400,
           "title": "Applied Machine Learning in Python",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-applied-social-network-analysis-in-python.md",
-      "title": "Applied Social Network Analysis in Python",
-      "excerpt": "Learn Applied Social Network Analysis in Python from University of Michigan. This course will introduce the learner to network analysis through tutorials using the NetworkX library. The course begins with an understanding of what network analysis ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-applied-social-network-analysis-in-python/index.json",
-      "webUrl": "https://www.coursera.org/learn/python-social-network-analysis",
-      "length": "16 hours",
-      "ratings": {
-        "count": 1451,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Michigan"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/24/2ca1701e1511e6846dd70314906f93/python_datascience_thumbnail_social_1x1.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Applied Social Network Analysis in Python",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-applying-machine-learning-to-your-data-with-gcp.md",
-      "title": "Applying Machine Learning to your Data with GCP",
-      "excerpt": "Learn Applying Machine Learning to your Data with GCP from Google Cloud. In this module, we define what Machine Learning is and how it can benefit your business. You'll see a few demos of ML in action and learn key ML terms like instances, ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-applying-machine-learning-to-your-data-with-gcp/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-insights-gcp-apply-ml",
-      "length": "7 hours",
-      "ratings": {
-        "count": 381,
-        "average": 4.7
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/91/6faca0dea311e786ef199d01464c92/course-4_v2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Applying Machine Learning to your Data with GCP",
           "isCached": false
         }
       ],

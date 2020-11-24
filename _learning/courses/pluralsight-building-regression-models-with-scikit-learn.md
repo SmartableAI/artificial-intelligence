@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/building-regression-models-scikit-le
 type: course
 price: $$
 length: 2h 42m
-heat: 50
+heat: 130
 
 provider:
   name: Pluralsight

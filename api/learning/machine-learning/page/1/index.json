@@ -123,22 +123,109 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-practical-machine-learning.md",
-      "title": "Practical Machine Learning",
-      "excerpt": "Learn Practical Machine Learning from Johns Hopkins University. One of the most common tasks performed by data scientists and data analysts are prediction and machine learning. This course will cover the basic components of building and applying ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-practical-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/practical-machine-learning",
-      "length": "14 hours",
-      "ratings": {
-        "count": 2700,
-        "average": 4.5
-      },
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees.md",
+      "title": "Machine Learning and AI Foundations: Decision Trees",
+      "excerpt": "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees",
+      "length": "1:16",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 130,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=bM%2FVK%2FaWoKtulsEs9YA3iNBGQWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWSyp-dafZXXgesTcZLSio10WeCwGlwMweOitSDfiEo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Decision Trees",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$29.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
+      "title": "Building Regression Models with scikit-learn",
+      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
+      "length": "2h 42m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 130,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Regression Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work.md",
+      "title": "What is machine learning, and how does it work?",
+      "excerpt": "Have you heard of machine learning, and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning works.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work/index.json",
+      "webUrl": "https://www.youtube.com/watch?v=elojMnjn4kk",
+      "provider": {
+        "name": "YouTube",
+        "domain": "youtube.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/youtube.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
@@ -147,27 +234,24 @@
         "publishers": [
           {
             "path": "",
-            "name": "Johns Hopkins University"
+            "name": "Data School",
+            "domain": "dataschool.io"
           }
         ]
       },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
       "heat": 130,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a1/e7472069b611e3ae92c39913bb30e0/PredictionMachineLearning.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Practical Machine Learning",
+          "url": "http://i3.ytimg.com/vi/elojMnjn4kk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "What is machine learning, and how does it work?",
           "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
@@ -1120,89 +1204,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2.md",
-      "title": "Basic Computer Vision with ML (ML Zero to Hero - Part 2)",
-      "excerpt": "In part two of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) walks through basic computer vision with machine learning by teaching a computer how to see and recognize different objects.  Beyond Hello World, a Computer Vision Example: https://goo.gle/34cHkDk  This video is also",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/",
-      "originalUrl": "https://youtube.com/watch?v=bemDFpNooA8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bemDFpNooA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M24S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-04T09:43:09-07:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/bemDFpNooA8/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-introducing-convolutional-neural-networks-ml-zero-to-hero-part-3.md",
-      "title": "Introducing convolutional neural networks (ML Zero to Hero - Part 3)",
-      "excerpt": "In part three of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) discusses convolutional neural networks and why they are so powerful in Computer vision scenarios. A convolution is a filter that passes over an image, processes it, and extracts features that show a commonality",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/tensorflow-introducing-convolutional-neural-networks-ml-zero-to-hero-part-3/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/tensorflow-introducing-convolutional-neural-networks-ml-zero-to-hero-part-3/",
-      "originalUrl": "https://youtube.com/watch?v=x_VrgWTKkiM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/x_VrgWTKkiM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M33S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-11T09:10:53-07:00",
-      "heat": 74,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/x_VrgWTKkiM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

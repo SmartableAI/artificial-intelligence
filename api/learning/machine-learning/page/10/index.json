@@ -4,6 +4,165 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/coursera-reinforcement-learning-in-finance.md",
+      "title": "Reinforcement Learning in Finance",
+      "excerpt": "Learn Reinforcement Learning in Finance from New York University Tandon School of Engineering. This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-reinforcement-learning-in-finance/index.json",
+      "webUrl": "https://www.coursera.org/learn/reinforcement-learning-in-finance",
+      "length": "21 hours",
+      "ratings": {
+        "count": 69,
+        "average": 3.4
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "New York University Tandon School of Engineering"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/37/e2ad705d1c11e89d97d1bd932bfd30/Reinforcement-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Reinforcement Learning in Finance",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark.md",
+      "title": "Scalable Machine Learning on Big Data using Apache Spark",
+      "excerpt": "Learn Scalable Machine Learning on Big Data using Apache Spark from IBM. This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
+      "length": "10 hours",
+      "ratings": {
+        "count": 438,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/3942fb8d2e4ad48ab23f26dbfde712/ScaleMLwBigData.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Scalable Machine Learning on Big Data using Apache Spark",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform.md",
+      "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+      "excerpt": "Learn Serverless Machine Learning with Tensorflow on Google Cloud Platform from Google Cloud. This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform/index.json",
+      "webUrl": "https://www.coursera.org/learn/serverless-machine-learning-gcp",
+      "length": "12 hours",
+      "ratings": {
+        "count": 2407,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/822130593d11e7b1e257a03557c934/Serverless-ML-v2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/coursera-structuring-machine-learning-projects.md",
       "title": "Structuring Machine Learning Projects",
       "excerpt": "Learn Structuring Machine Learning Projects from deeplearning.ai. You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course ...",
@@ -155,46 +314,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees.md",
-      "title": "Machine Learning and AI Foundations: Decision Trees",
-      "excerpt": "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees/index.json",
-      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees",
-      "length": "1:16",
-      "provider": {
-        "name": "LinkedIn Learning",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=bM%2FVK%2FaWoKtulsEs9YA3iNBGQWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWSyp-dafZXXgesTcZLSio10WeCwGlwMweOitSDfiEo69LcLmY4Yx3A",
-          "width": 512,
-          "height": 288,
-          "title": "Machine Learning and AI Foundations: Decision Trees",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$29.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -887,58 +1006,6 @@
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
-      "title": "Building Regression Models with scikit-learn",
-      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
-      "length": "2h 42m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Regression Models with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/courses/pluralsight-building-your-first-machine-learning-solution.md",
       "title": "Building Your First Machine Learning Solution",
       "excerpt": "Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.",
@@ -1435,58 +1502,6 @@
           "width": 1280,
           "height": 720,
           "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-foundations-of-pytorch.md",
-      "title": "Foundations of PyTorch",
-      "excerpt": "This course covers many aspects of building deep learning models in PyTorch, including neurons and neural networks, and how PyTorch uses differential calculus to train such models and create dynamic computation graphs in deep learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-foundations-of-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/foundations-pytorch",
-      "length": "2h 51m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/foundations-pytorch-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Foundations of PyTorch",
           "isCached": false
         }
       ],
