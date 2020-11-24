@@ -5,7 +5,7 @@ webUrl: https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-
 type: course
 price: $$
 length: 1h 33m
-heat: 50
+heat: 130
 
 provider:
   name: Pluralsight

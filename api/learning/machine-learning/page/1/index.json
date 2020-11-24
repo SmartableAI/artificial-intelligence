@@ -123,52 +123,65 @@
       ]
     },
     {
-      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees.md",
-      "title": "Machine Learning and AI Foundations: Decision Trees",
-      "excerpt": "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees/index.json",
-      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees",
-      "length": "1:16",
+      "path": "_learning/books/amazon-deep-learning-with-python.md",
+      "title": "Deep Learning with Python",
+      "excerpt": "Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-deep-learning-with-python/index.json",
+      "webUrl": "https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/",
+      "ratings": {
+        "count": 379,
+        "average": 4.5
+      },
       "provider": {
-        "name": "LinkedIn Learning",
-        "domain": "linkedin.com",
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Francois Chollet",
+            "type": "profile",
+            "name": "Francois Chollet"
+          }
         ]
       },
       "levels": [
-        "Beginner"
+        "Intermediate",
+        "Advanced"
       ],
       "heat": 130,
       "images": [
         {
-          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=bM%2FVK%2FaWoKtulsEs9YA3iNBGQWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWSyp-dafZXXgesTcZLSio10WeCwGlwMweOitSDfiEo69LcLmY4Yx3A",
-          "width": 512,
-          "height": 288,
-          "title": "Machine Learning and AI Foundations: Decision Trees",
+          "url": "https://m.media-amazon.com/images/I/81rBwolAvOL._AC_UY218_ML3_.jpg",
+          "width": 175,
+          "height": 218,
+          "title": "Deep Learning with Python",
           "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "$29.99",
+      "type": "book",
+      "price": "$22.00",
       "topics": [
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI"
       ]
     },
     {
-      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
-      "title": "Building Regression Models with scikit-learn",
-      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
-      "length": "2h 42m",
+      "path": "_learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python.md",
+      "title": "Machine Learning with XGBoost Using scikit-learn in Python",
+      "excerpt": "XGBoost is the most winning supervised machine learning approach in competitive modeling on structured datasets. This course will teach you the basics of XGBoost, including basic syntax, functions, and implementing the model in the real world. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning",
+      "length": "1h 33m",
       "provider": {
         "name": "Pluralsight",
         "domain": "pluralsight.com",
@@ -183,9 +196,9 @@
         "authors": [
           {
             "path": "",
-            "title": "Janani Ravi",
+            "title": "Mike West",
             "type": "profile",
-            "name": "Janani Ravi"
+            "name": "Mike West"
           }
         ]
       },
@@ -199,59 +212,16 @@
       ],
       "images": [
         {
-          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
+          "url": "https://pluralsight.imgix.net/course-images/xgboost-python-scikit-learn-machine-learning-v1.png",
           "width": 1280,
           "height": 720,
-          "title": "Building Regression Models with scikit-learn",
+          "title": "Machine Learning with XGBoost Using scikit-learn in Python",
           "isCached": false
         }
       ],
       "content": "\r\n",
       "type": "course",
       "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work.md",
-      "title": "What is machine learning, and how does it work?",
-      "excerpt": "Have you heard of machine learning, and you're trying to figure out exactly what that means? I'll give you my definition, provide some examples of machine learning, and explain at a high level how machine learning works.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/youtube-data-school-what-is-machine-learning-and-how-does-it-work/index.json",
-      "webUrl": "https://www.youtube.com/watch?v=elojMnjn4kk",
-      "provider": {
-        "name": "YouTube",
-        "domain": "youtube.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/youtube.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Data School",
-            "domain": "dataschool.io"
-          }
-        ]
-      },
-      "heat": 130,
-      "images": [
-        {
-          "url": "http://i3.ytimg.com/vi/elojMnjn4kk/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "What is machine learning, and how does it work?",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
@@ -1204,6 +1174,48 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2.md",
+      "title": "Basic Computer Vision with ML (ML Zero to Hero - Part 2)",
+      "excerpt": "In part two of Machine Learning Zero to Hero, AI Advocate Laurence Moroney (lmoroney@) walks through basic computer vision with machine learning by teaching a computer how to see and recognize different objects.  Beyond Hello World, a Computer Vision Example: https://goo.gle/34cHkDk  This video is also",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/tensorflow-basic-computer-vision-with-ml-ml-zero-to-hero-part-2/",
+      "originalUrl": "https://youtube.com/watch?v=bemDFpNooA8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bemDFpNooA8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M24S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-04T09:43:09-07:00",
+      "heat": 74,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/bemDFpNooA8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
       ]
     }
   ],
