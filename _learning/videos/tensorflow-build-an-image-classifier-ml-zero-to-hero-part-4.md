@@ -4,9 +4,9 @@ excerpt: "In part four of Machine Learning Zero to Hero, AI Advocate Laurence Mo
 originalUrl: https://youtube.com/watch?v=u2TjZzNuly8
 type: video
 price: Free
-length: PT5M27S
+length: PT5M26S
 publishedDateTime: 2019-09-18T17:00:16Z
-heat: 64
+heat: 65
 
 featuredContent: "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/u2TjZzNuly8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
 
@@ -30,6 +30,6 @@ images:
     height: 720
     isCached: true
 
-secured: "0lukvSent5jUTR9APooh0SNVeuFQJVh9HLfaOFBK+Tb1Wkc1JnheLeS1zB7OjCng73nXJ21J1FcUUhdj9c4f+Km6a92xtVSSmlfF7rkDwlToNwfoeIGxiwOzBtl/FpM68Wal6r4e8mZPazDwlHUXBXvIDkJsgXWLyEemg16r+Mm4SLex5fl0t8nfcElJg6KCWcjFdhZAY0hkWRxlUBJXqXw6tYk/6W/KRJ4+8snfHUEacmeqEtoCQsF+kUjQuPuZiD2PTaOE1zkmmaM20BPdZ6wCW8Fsm1rvn+oyksVH09AFyyGkkOrxIrWfvCK/8BB9JMQ99EYGSbujohFKhmgnUbMShV/SZn7FVPx3QqUEkDNL1ug0t47Cld7ihccfhVzBOZk0iCSjmRiZYEm4eY6SqMhjlTmyY3vQinkjX7ST1OU=;XuLjIFo4sR3tkz66+8lDvw=="
+secured: "Bob/vlrpKfR4aCHaVurZa60nV0tEAXigqXUzv8gEysW1cLOod6KxblnpXP18gwnvWwIhEemOwEgdKh/eOEvlbB5dYCLTuwQqNpoDfZrcJHks9xojjg9QrCT5j8gTQ0wYvvS4ExoXGrYx1jtQKwm/o0RO08mglzh1tNSK4Nsf3wmdHslRiLs2+UGcsMyMcHs/vDZbTstiDAtUL7oSSU9+OOQbEDIZ1UZY83BXP2jIJJGFiIIXX0c3BfwRCZhvXsNh6R336amOfXlNfDn3P9Cux2LR9lo13AXfekLobeKTXecXqnjPNVnYy0r3CeiqMVTVNpjUj23VE1GYyWvBXu37PhylfH9/F/XS+MZPrVMdgLGqPMCut2syoQg9Yme0RKzCLoJYBx3OCl1kTOGNuWxCf5k0t9rtJP1l19yiWGajrlA=;1DsfhIoqjCq9RdOS3XlI2g=="
 ---
 

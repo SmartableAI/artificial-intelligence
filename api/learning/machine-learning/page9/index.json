@@ -4,6 +4,168 @@
   "page": 9,
   "value": [
     {
+      "path": "_learning/courses/coursera-introduction-to-deep-learning-neural-networks-with-keras.md",
+      "title": "Introduction to Deep Learning & Neural Networks with Keras",
+      "excerpt": "Learn Introduction to Deep Learning & Neural Networks with Keras from IBM. Looking to start a career in Deep Learning? Look no further. This course will introduce you to the field of deep learning and help you answer many questions that people ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-introduction-to-deep-learning-neural-networks-with-keras/index.json",
+      "webUrl": "https://www.coursera.org/learn/introduction-to-deep-learning-with-keras",
+      "length": "9 hours",
+      "ratings": {
+        "count": 344,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "Keras"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/25/015d50594c4e74b6e2099114a37905/Brain-under-layers-of-circuit-boards.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Deep Learning &amp; Neural Networks with Keras",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-deep-learning.md",
+      "title": "Introduction to Deep Learning",
+      "excerpt": "Learn Introduction to Deep Learning from National Research University Higher School of Economics. The goal of this course is to give learners basic understanding of modern neural networks and their applications in computer vision and natural ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-introduction-to-deep-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/intro-to-deep-learning",
+      "length": "36 hours",
+      "ratings": {
+        "count": 1192,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/30/4d89508f2111e7be561d79af9860d8/Introduction-to-deep-learning2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Deep Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-introduction-to-machine-learning.md",
+      "title": "Introduction to Machine Learning",
+      "excerpt": "Learn Introduction to Machine Learning from Duke University. This course will provide you a foundational understanding of machine learning models (logistic regression, multilayer perceptrons, convolutional neural networks, natural language ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-introduction-to-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-duke",
+      "length": "15 hours",
+      "ratings": {
+        "count": 155,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Duke University"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/7afa60cbe911e8a233973e775a70ad/machine-learning-3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning.md",
       "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
       "excerpt": "Learn Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools ...",
@@ -309,56 +471,6 @@
           "width": 400,
           "height": 400,
           "title": "Machine Learning: Clustering &amp; Retrieval",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-machine-learning-for-all.md",
-      "title": "Machine Learning for All",
-      "excerpt": "Learn Machine Learning for All from University of London. Machine Learning, often called Artificial Intelligence or AI, is one of the most exciting areas of technology at the moment. We see daily news stories that herald new breakthroughs in ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-for-all/index.json",
-      "webUrl": "https://www.coursera.org/learn/uol-machine-learning-for-all",
-      "length": "13 hours",
-      "ratings": {
-        "count": 0,
-        "average": 0.0
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of London"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b5/8cd52cec40414c86470014b8042ecf/3657_UoL_Online-BSc-Computer-Science-Programme_MOOC-Icons_How-Comps-Work_05.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Machine Learning for All",
           "isCached": false
         }
       ],
@@ -1434,115 +1546,6 @@
           "width": 400,
           "height": 400,
           "title": "Python and Machine Learning for Asset Management",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-reinforcement-learning-in-finance.md",
-      "title": "Reinforcement Learning in Finance",
-      "excerpt": "Learn Reinforcement Learning in Finance from New York University Tandon School of Engineering. This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-reinforcement-learning-in-finance/index.json",
-      "webUrl": "https://www.coursera.org/learn/reinforcement-learning-in-finance",
-      "length": "21 hours",
-      "ratings": {
-        "count": 69,
-        "average": 3.4
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "New York University Tandon School of Engineering"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/37/e2ad705d1c11e89d97d1bd932bfd30/Reinforcement-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Reinforcement Learning in Finance",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark.md",
-      "title": "Scalable Machine Learning on Big Data using Apache Spark",
-      "excerpt": "Learn Scalable Machine Learning on Big Data using Apache Spark from IBM. This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
-      "length": "10 hours",
-      "ratings": {
-        "count": 438,
-        "average": 4.0
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/3942fb8d2e4ad48ab23f26dbfde712/ScaleMLwBigData.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Scalable Machine Learning on Big Data using Apache Spark",
           "isCached": false
         }
       ],

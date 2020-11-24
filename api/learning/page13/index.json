@@ -4,6 +4,526 @@
   "page": 13,
   "value": [
     {
+      "path": "_learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning.md",
+      "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+      "excerpt": "Learn Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/introduction-tensorflow",
+      "length": "9 hours",
+      "ratings": {
+        "count": 6138,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-launching-into-machine-learning.md",
+      "title": "Launching into Machine Learning",
+      "excerpt": "Learn Launching into Machine Learning from Google Cloud. Starting from a history of machine learning, we discuss why neural networks today perform so well in a variety of data science problems. We then discuss how to set up a supervised learning ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-launching-into-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/launching-machine-learning",
+      "length": "7 hours",
+      "ratings": {
+        "count": 3078,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a8/c5509017f511e8841b697778604607/new-ml-on-gcp-logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Launching into Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-leveraging-unstructured-data-with-cloud-dataproc-on-google-cloud-platform.md",
+      "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
+      "excerpt": "Learn Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform from Google Cloud. This 1-week, accelerated course builds upon previous courses in the Data Engineering on Google Cloud Platform specialization. Through a combination ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-leveraging-unstructured-data-with-cloud-dataproc-on-google-cloud-platform/index.json",
+      "webUrl": "https://www.coursera.org/learn/leveraging-unstructured-data-dataproc-gcp",
+      "length": "9 hours",
+      "ratings": {
+        "count": 3968,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a4/8304e0593811e7af1c57a4dfe97731/Dataproc.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-algorithms-supervised-learning-tip-to-tail.md",
+      "title": "Machine Learning Algorithms: Supervised Learning Tip to Tail",
+      "excerpt": "Learn Machine Learning Algorithms: Supervised Learning Tip to Tail from Alberta Machine Intelligence Institute. This course takes you from understanding the fundamentals of a machine learning project. Learners will understand and implement ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-algorithms-supervised-learning-tip-to-tail/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-classification-algorithms",
+      "length": "11 hours",
+      "ratings": {
+        "count": 31,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Alberta Machine Intelligence Institute"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/3d961d3f3947fb9cac508a4f4ca41a/ML-Supervised-Learning-Tip-to-Tail_1.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning Algorithms: Supervised Learning Tip to Tail",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-classification.md",
+      "title": "Machine Learning: Classification",
+      "excerpt": "Learn Machine Learning: Classification from University of Washington. Case Studies: Analyzing Sentiment & Loan Default Prediction  In our case study on analyzing sentiment, you will create models that predict a class (positive/negative sentiment) ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-classification/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-classification",
+      "length": "42 hours",
+      "ratings": {
+        "count": 2918,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b1/37a1a04d0011e59bd777c2a1ef6a6e/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning: Classification",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-clustering-amp-retrieval.md",
+      "title": "Machine Learning: Clustering &amp; Retrieval",
+      "excerpt": "Learn Machine Learning: Clustering & Retrieval from University of Washington. Case Studies: Finding Similar Documents  A reader is interested in a specific news article and you want to find similar articles to recommend.  What is the right notion ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-clustering-amp-retrieval/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-clustering-and-retrieval",
+      "length": "48 hours",
+      "ratings": {
+        "count": 1792,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/80/907e004d0011e5aa3207874406679c/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning: Clustering &amp; Retrieval",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-for-business-professionals.md",
+      "title": "Machine Learning for Business Professionals",
+      "excerpt": "Learn Machine Learning for Business Professionals from Google Cloud. This course is intended to be an introduction to machine learning for non-technical business professionals. There is a lot of hype around machine learning and many people are ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-for-business-professionals/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-business-professionals",
+      "length": "17 hours",
+      "ratings": {
+        "count": 174,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/dc/baa94699e3438ca23e8be683f83591/machine-learning-business_icon.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning for Business Professionals",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-for-data-analysis.md",
+      "title": "Machine Learning for Data Analysis",
+      "excerpt": "Learn Machine Learning for Data Analysis from Wesleyan University. Are you interested in predicting future outcomes using your data? This course helps you do just that! Machine learning is the process of developing, testing, and applying ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-for-data-analysis/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-data-analysis",
+      "length": "12 hours",
+      "ratings": {
+        "count": 235,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Wesleyan University"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5d/58ff4036f111e589be778d9d098112/big-dataG.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning for Data Analysis",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-foundations-a-case-study-approach.md",
+      "title": "Machine Learning Foundations: A Case Study Approach",
+      "excerpt": "Learn Machine Learning Foundations: A Case Study Approach from University of Washington. Do you have data and wonder what it can tell you?  Do you need a deeper understanding of the core ways in which machine learning can improve your business?  ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-foundations-a-case-study-approach/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-foundations",
+      "length": "24 hours",
+      "ratings": {
+        "count": 9090,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/e4/3283d04d0111e5970145eef7ee0b59/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning Foundations: A Case Study Approach",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-machine-learning-regression.md",
+      "title": "Machine Learning: Regression",
+      "excerpt": "Learn Machine Learning: Regression from University of Washington. Case Study - Predicting Housing Prices  In our first case study, predicting house prices, you will create models that predict a continuous value (price) from input features (square ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-machine-learning-regression/index.json",
+      "webUrl": "https://www.coursera.org/learn/ml-regression",
+      "length": "36 hours",
+      "ratings": {
+        "count": 4454,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Washington"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ce/a819904d0011e5831033199a566ffe/gears-818461_1280.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Machine Learning: Regression",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/coursera-machine-learning-using-sas-viya.md",
       "title": "Machine Learning Using SAS Viya",
       "excerpt": "Learn Machine Learning Using SAS Viya from SAS. This course covers the theoretical foundation for different techniques associated with supervised machine learning models. In addition, a business case study is defined to guide participants through ...",
@@ -1037,529 +1557,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-python-and-machine-learning-for-asset-management.md",
-      "title": "Python and Machine Learning for Asset Management",
-      "excerpt": "Learn Python and Machine Learning for Asset Management  from EDHEC Business School. This course will enable you mastering machine-learning approaches in the area of investment management. It has been designed by two thought leaders in their ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-python-and-machine-learning-for-asset-management/index.json",
-      "webUrl": "https://www.coursera.org/learn/python-machine-learning-for-investment-management",
-      "length": "13 hours",
-      "ratings": {
-        "count": 12,
-        "average": 4.2
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "EDHEC Business School"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7a/8ad137c64a4d349185e3cdab90d03f/Screens_shutterstock_1421873486.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Python and Machine Learning for Asset Management",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-recommendation-systems-with-tensorflow-on-gcp.md",
-      "title": "Recommendation Systems with TensorFlow on GCP",
-      "excerpt": "Learn Recommendation Systems with TensorFlow on GCP from Google Cloud. In this course, you'll apply your knowledge of classification models and embeddings to build a ML pipeline that functions as a recommendation engine.  • Devise a content-based ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-recommendation-systems-with-tensorflow-on-gcp/index.json",
-      "webUrl": "https://www.coursera.org/learn/recommendation-models-gcp",
-      "length": "11 hours",
-      "ratings": {
-        "count": 261,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ab/8c0ea0bc6d11e8bb1fbf678b061c16/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Recommendation Systems with TensorFlow on GCP",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-reinforcement-learning-in-finance.md",
-      "title": "Reinforcement Learning in Finance",
-      "excerpt": "Learn Reinforcement Learning in Finance from New York University Tandon School of Engineering. This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-reinforcement-learning-in-finance/index.json",
-      "webUrl": "https://www.coursera.org/learn/reinforcement-learning-in-finance",
-      "length": "21 hours",
-      "ratings": {
-        "count": 69,
-        "average": 3.4
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "New York University Tandon School of Engineering"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/37/e2ad705d1c11e89d97d1bd932bfd30/Reinforcement-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Reinforcement Learning in Finance",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-robotics-aerial-robotics.md",
-      "title": "Robotics: Aerial Robotics",
-      "excerpt": "Learn Robotics: Aerial Robotics from University of Pennsylvania. How can we create agile micro aerial vehicles that are able to operate autonomously in cluttered indoor and outdoor environments?  You will gain an introduction to the mechanics of ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-aerial-robotics/index.json",
-      "webUrl": "https://www.coursera.org/learn/robotics-flight",
-      "length": "25 hours",
-      "ratings": {
-        "count": 2117,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Pennsylvania"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a0/01fb207cd911e58108cf8cb753e7a9/Aerial-Robotics-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Robotics: Aerial Robotics",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-robotics-estimation-and-learning.md",
-      "title": "Robotics: Estimation and Learning",
-      "excerpt": "Learn Robotics: Estimation and Learning from University of Pennsylvania. How can robots determine their state and properties of the surrounding environment from noisy sensor measurements in time?  In this module you will learn how to get robots ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-estimation-and-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/robotics-learning",
-      "length": "12 hours",
-      "ratings": {
-        "count": 400,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Pennsylvania"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/05/679f607cda11e59e62dbe4ba62c1d4/Estimation-and-Learning-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Robotics: Estimation and Learning",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-robotics-perception.md",
-      "title": "Robotics: Perception",
-      "excerpt": "Learn Robotics: Perception from University of Pennsylvania. How can robots perceive the world and their own movements so that they accomplish navigation and manipulation tasks?  In this module, we will study how images and videos acquired by ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-perception/index.json",
-      "webUrl": "https://www.coursera.org/learn/robotics-perception",
-      "length": "29 hours",
-      "ratings": {
-        "count": 495,
-        "average": 4.4
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Pennsylvania"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/5971e07cda11e58108cf8cb753e7a9/Perception-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Robotics: Perception",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark.md",
-      "title": "Scalable Machine Learning on Big Data using Apache Spark",
-      "excerpt": "Learn Scalable Machine Learning on Big Data using Apache Spark from IBM. This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
-      "length": "10 hours",
-      "ratings": {
-        "count": 438,
-        "average": 4.0
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/3942fb8d2e4ad48ab23f26dbfde712/ScaleMLwBigData.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Scalable Machine Learning on Big Data using Apache Spark",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing.md",
-      "title": "Sequence Models for Time Series and Natural Language Processing",
-      "excerpt": "This course is an introduction to sequence models and their applications, including an overview of sequence model architectures and how to handle inputs of variable length.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing/index.json",
-      "webUrl": "https://www.coursera.org/learn/sequence-models-tensorflow-gcp",
-      "length": "13 hours",
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/2e6640bc6d11e8b73f2961737adc73/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Sequence Models for Time Series and Natural Language Processing",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-sequence-models.md",
-      "title": "Sequence Models",
-      "excerpt": "Learn Sequence Models from deeplearning.ai. This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequence-models/index.json",
-      "webUrl": "https://www.coursera.org/learn/nlp-sequence-models",
-      "length": "17 hours",
-      "ratings": {
-        "count": 19788,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai",
-            "domain": "deeplearning.ai",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/38/1d2dd0104e11e8a9fde55ba46c309d/CarouselAds_DL_Sequence.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Sequence Models",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-sequences-time-series-and-prediction.md",
-      "title": "Sequences, Time Series and Prediction",
-      "excerpt": "Learn Sequences, Time Series and Prediction from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequences-time-series-and-prediction/index.json",
-      "webUrl": "https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction",
-      "length": "8 hours",
-      "ratings": {
-        "count": 853,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/075c1fda9d419b8d763b1b988d36ba/TFC4SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Sequences, Time Series and Prediction",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI"
       ]
     }
   ],

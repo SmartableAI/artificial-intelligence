@@ -4,6 +4,203 @@
   "page": 6,
   "value": [
     {
+      "path": "_learning/videos/edureka-pubg-data-science-tutorial-part-1-pubg-data-analysis-data-science-training-edureka.md",
+      "title": "PUBG Data Science Tutorial - Part 1 | PUBG Data Analysis | Data Science Training | Edureka",
+      "excerpt": "🔥Edureka Python for Data Science Certification Training:     https://www.edureka.co/data-science-python-certification-course   This Edureka Data Science Tutorial (Part 2 - https://youtu.be/l2AbVQ4GPQ4) takes PUBG Statistics of players to build a Regression model using the Random Forest Algorithm to",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-pubg-data-science-tutorial-part-1-pubg-data-analysis-data-science-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-pubg-data-science-tutorial-part-1-pubg-data-analysis-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=N-E2_Lq4Yzs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N-E2_Lq4Yzs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT57M11S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-04-19T05:13:54-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/N-E2_Lq4Yzs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka.md",
+      "title": "Python Certification | Data Science with Python Certification | Python Online Training | Edureka",
+      "excerpt": "🔵 Python for Data Science Training : https://www.edureka.co/data-science-python-certification-course This Edureka video on \"Python Certification\" will give you a complete insight of Python Certification, how to crack it and hands-on knowledge on various real-time projects offered by Edureka Python Certification",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=rwuXmw5hxOU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwuXmw5hxOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M6S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-25T09:20:07-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/rwuXmw5hxOU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka.md",
+      "title": "Python Programming Language: Interesting Facts You Need To Know | Python Training | Edureka",
+      "excerpt": "** Python Certification Training: https://www.edureka.co/data-science-python-certification-course **   Meet Python, a friendly programming language and get to know interesting facts about it. This is a short story about Python as a trending language.  #python #pythonlanguage #pythononlinetraining  Check",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=sn4eOEfaYRo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sn4eOEfaYRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2M6S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-07T02:46:00-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/sn4eOEfaYRo/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-python-tutorial-for-beginners-python-full-course-python-programming-tutorial-edureka.md",
+      "title": "Python Tutorial For Beginners | Python Full Course | Python Programming Tutorial | Edureka",
+      "excerpt": "** Python Certification Training: https://www.edureka.co/data-science-python-certification-course ** This Edureka video on Python Tutorial (Python Tutorial Blog: https://goo.gl/wd28Zr) covers all the basic knowledge for beginners who are planning to switch over to Python Development.  01:19 Introduction",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-python-tutorial-for-beginners-python-full-course-python-programming-tutorial-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-python-tutorial-for-beginners-python-full-course-python-programming-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=GRN_9YkfN5w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GRN_9YkfN5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H12M41S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-09-13T23:05:42-07:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GRN_9YkfN5w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka.md",
+      "title": "TensorBoard Tutorial | Graph Visualization Using TensorBoard | TensorFlow Tutorial | Edureka",
+      "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka video on \"TensorBoard Tutorial\" will provide you with a comprehensive knowledge about the TensorFlow utility and how it is used. It will also provide a hands-on knowledge about",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=95Mc4Sdz9oA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/95Mc4Sdz9oA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M1S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-12-09T21:34:36-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/95Mc4Sdz9oA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_learning/videos/edureka-top-10-technologies-to-learn-in-2018-trending-technologies-2018-edureka.md",
       "title": "Top 10 Technologies To Learn In 2018 | Trending Technologies 2018 | @edureka!",
       "excerpt": "** Flat 20% Off ( Use Code: YOUTUBE ) Edureka Online Courses: https://www.edureka.co ** UPDATED 2019 Trending Technologies video: http://bit.ly/2S41ubS Subscribe to our Edureka YouTube channel to get video updates : https://goo.gl/6ohpTV This Edureka \"Top 10 Technologies in 2018\" video will introduce",
@@ -160,69 +357,6 @@
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live.md",
-      "title": "Generative Adversarial Networks for Style Transfer (LIVE)",
-      "excerpt": "Generative Adversarial Nets are such a rich topic for exploration, we're going to build one that was released just 2 months ago called the \"DiscoGAN\" that lets us transfer the style between 2 datasets. And I'll be building this using Tensorflow.  Code for this video: https://github.com/llSourcell/GANS-for-style-transfer",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-generative-adversarial-networks-for-style-transfer-live/",
-      "originalUrl": "https://youtube.com/watch?v=MgdAe-T8obE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/MgdAe-T8obE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H3M42S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-05-09T20:24:38-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/MgdAe-T8obE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4.md",
-      "title": "How to Do Mathematics Easily - Intro to Deep Learning #4",
-      "excerpt": "Let's learn about some key math concepts behind deep learning shall we? We'll build a 3 layer neural network and dive into some key concepts that makes deep learning give us such incredible results.  Coding challenge for this video: https://github.com/llSourcell/how_to_do_math_for_deep_learning  Jovian's",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-do-mathematics-easily-intro-to-deep-learning-4/",
-      "originalUrl": "https://youtube.com/watch?v=N4gDikiec8E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N4gDikiec8E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M51S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-02-04T19:15:46-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/N4gDikiec8E/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
       "path": "_learning/videos/siraj-raval-how-to-generate-music-intro-to-deep-learning-9.md",
       "title": "How to Generate Music - Intro to Deep Learning #9",
       "excerpt": "We're going to build a music generating neural network trained on jazz songs in Keras. I'll go over the history of algorithmic generation, then we'll walk step by step through the process of how LSTM networks help us generate music.  Coding Challenge for this video: https://github.com/llSourcell/How-to-Generate-Music-Demo",
@@ -346,47 +480,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow.md",
-      "title": "Build a neural network to perform classification | TensorFlow.js (Coding TensorFlow)",
-      "excerpt": "In part 3 of this series on TensorFlow.js, Laurence Moroney (@lmoroney) looks at taking the processed data from part 2, and building a neural network to perform classification with it. You’ll see how to create and stack multiple layers, use these to create a classifier, and then test that classifier",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/",
-      "originalUrl": "https://youtube.com/watch?v=4vN1tHpCkA0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vN1tHpCkA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M45S",
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-08-07T11:46:23-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/4vN1tHpCkA0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1003,6 +1096,59 @@
       ]
     },
     {
+      "path": "_learning/books/amazon-deep-learning-with-python.md",
+      "title": "Deep Learning with Python",
+      "excerpt": "Deep Learning with Python introduces the field of deep learning using the Python language and the powerful Keras library. Written by Keras creator and Google AI researcher François Chollet, this book builds your understanding through intuitive explanations and practical examples.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-deep-learning-with-python/index.json",
+      "webUrl": "https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438/",
+      "ratings": {
+        "count": 379,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Francois Chollet",
+            "type": "profile",
+            "name": "Francois Chollet"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate",
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81rBwolAvOL._AC_UY218_ML3_.jpg",
+          "width": 175,
+          "height": 218,
+          "title": "Deep Learning with Python",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$22.00",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_learning/books/amazon-discovering-statistics-using-r.md",
       "title": "Discovering Statistics Using R",
       "excerpt": "The R version of Andy Field′s hugely popular Discovering Statistics Using SPSS takes students on a journey of statistical discovery using the freeware R. Like its sister textbook, Discovering Statistics Using R is written in an irreverent style and follows the same ground breaking structure and pedagogical approach. The core material is enhanced by a cast of characters to help the reader on their way, hundreds of examples, self assessment tests to consolidate knowledge, and additional website material for those wanting to learn more.",
@@ -1051,163 +1197,6 @@
       "topics": [
         "AI",
         "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems.md",
-      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
-      "excerpt": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/index.json",
-      "webUrl": "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/",
-      "ratings": {
-        "count": 745,
-        "average": 4.4
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Aur&amp;eacute;lien G&amp;eacute;ron",
-            "type": "profile",
-            "name": "Aur&amp;eacute;lien G&amp;eacute;ron"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71P4atQpTbL._AC_UY218_ML3_.jpg",
-          "width": 156,
-          "height": 218,
-          "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$50.99",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-learning-from-data.md",
-      "title": "Learning From Data",
-      "excerpt": "This book, together with specially prepared online material freely accessible to our readers, provides a complete introduction to Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-from-data/index.json",
-      "webUrl": "https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/",
-      "ratings": {
-        "count": 172,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Yaser S. Abu-Mostafa",
-            "type": "profile",
-            "name": "Yaser S. Abu-Mostafa"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81k-OvvReZL._AC_UY218_ML3_.jpg",
-          "width": 142,
-          "height": 218,
-          "title": "Learning From Data",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$28.00",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library.md",
-      "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
-      "excerpt": "\"This library is useful for practitioners, and is an excellent tool for those entering the field: it is a set of computer vision algorithms that work as advertised.\"-William T. Freeman, Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library/index.json",
-      "webUrl": "https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/",
-      "ratings": {
-        "count": 771,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Gary Bradski",
-            "type": "profile",
-            "name": "Gary Bradski"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/51KZWTKsUBL._SX383_BO1,204,203,200_.jpg",
-          "width": 385,
-          "height": 499,
-          "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "topics": [
-        "AI",
         "Machine Learning"
       ]
     }

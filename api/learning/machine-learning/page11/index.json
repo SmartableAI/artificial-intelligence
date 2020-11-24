@@ -4,6 +4,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn.md",
+      "title": "Employing Ensemble Methods with scikit-learn",
+      "excerpt": "This course covers the theoretical and practical aspects of building ensemble learning solutions in scikit-learn; from random forests built using bagging and pasting to adaptive and gradient boosting and model stacking and hyperparameter tuning. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-learn",
+      "length": "2h 14m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/employing-ensemble-methods-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Employing Ensemble Methods with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook.md",
+      "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
+      "excerpt": "This course covers the important design choices that a data professional must make while leveraging pre-trained models using Transfer Learning. It also covers the implementation aspects of different Transfer Learning approaches in PyTorch. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/expediting-deep-learning-transfer-pytorch-playbook",
+      "length": "1h 46m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/expediting-deep-learning-transfer-pytorch-playbook-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/pluralsight-foundations-of-pytorch.md",
       "title": "Foundations of PyTorch",
       "excerpt": "This course covers many aspects of building deep learning models in PyTorch, including neurons and neural networks, and how PyTorch uses differential calculus to train such models and create dynamic computation graphs in deep learning.",
@@ -157,6 +261,58 @@
       "topics": [
         "AI",
         "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python.md",
+      "title": "Machine Learning with XGBoost Using scikit-learn in Python",
+      "excerpt": "XGBoost is the most winning supervised machine learning approach in competitive modeling on structured datasets. This course will teach you the basics of XGBoost, including basic syntax, functions, and implementing the model in the real world. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-machine-learning-with-xgboost-using-scikit-learn-in-python/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/xgboost-python-scikit-learn-machine-learning",
+      "length": "1h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mike West",
+            "type": "profile",
+            "name": "Mike West"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/xgboost-python-scikit-learn-machine-learning-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Machine Learning with XGBoost Using scikit-learn in Python",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
         "Machine Learning"
       ]
     },
@@ -943,6 +1099,47 @@
       ]
     },
     {
+      "path": "_learning/videos/edureka-introduction-to-tensorflow-deep-learning-with-tensorflow-tensorflow-for-beginners-edureka.md",
+      "title": "Introduction To TensorFlow | Deep Learning with TensorFlow | TensorFlow For Beginners | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** This Edureka video on \"Introduction to TensorFlow\" provides you an insight into one of the top Deep Learning frameworks that you should consider learning!  Check out our Deep Learning blog series: https://bit.ly/2xVIMe1  Check out",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-introduction-to-tensorflow-deep-learning-with-tensorflow-tensorflow-for-beginners-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-introduction-to-tensorflow-deep-learning-with-tensorflow-tensorflow-for-beginners-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Yf-grlh-moY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yf-grlh-moY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M26S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-11T23:00:45-08:00",
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/Yf-grlh-moY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_learning/videos/edureka-machine-learning-in-python-python-machine-learning-tutorial-deep-learning-python-edureka.md",
       "title": "Machine Learning In Python | Python Machine Learning Tutorial | Deep Learning Python | Edureka",
       "excerpt": "** Data Science Master's Program: https://www.edureka.co/masters-program/data-scientist-certification ** In this Edureka tutorial on \"Machine Learning In Python\", we will be covering all the fundamentals of Machine Learning. This is the second video in the \"Python for Deep Learning\" series, below are",
@@ -1176,168 +1373,6 @@
         "Machine Learning",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-tensorflow-tflearn-tutorial-deep-learning-with-neural-networks-and-tensorflow-edureka.md",
-      "title": "TensorFlow TFLearn Tutorial | Deep Learning with Neural Networks and TensorFlow | Edureka",
-      "excerpt": "** TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka TensorFlow TFLearn Tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding basics of TFLearn with examples. Below are the topics covered in this tutorial:  1. What is TFLearn 2. Building",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-tensorflow-tflearn-tutorial-deep-learning-with-neural-networks-and-tensorflow-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-tensorflow-tflearn-tutorial-deep-learning-with-neural-networks-and-tensorflow-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=Mgn5ZRZxtIo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mgn5ZRZxtIo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT33M18S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-06-04T22:21:58-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Mgn5ZRZxtIo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-theano-vs-tensorflow-deep-learning-frameworks-compared-edureka.md",
-      "title": "Theano vs TensorFlow |  Deep Learning Frameworks Compared | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training:  https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video will provide you with a crisp comparison between the two Deep Learning Frameworks - Theano and TensorFlow and will help you choose the right one for yourself.  Subscribe to our",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-theano-vs-tensorflow-deep-learning-frameworks-compared-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-theano-vs-tensorflow-deep-learning-frameworks-compared-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=SpZSMvI-keU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/SpZSMvI-keU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M45S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-08-12T21:12:38-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/SpZSMvI-keU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka.md",
-      "title": "What Are Autoencoders? | Autoencoders Using TensorFlow  | Deep Learning Using TensorFlow | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** ) This Edureka tutorial video of \"What are autoencoders\" provides you with a brief introduction about autoencoders and how they compress unsupervised data. You will see the various applications and types of autoencoders used in",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-what-are-autoencoders-autoencoders-using-tensorflow-deep-learning-using-tensorflow-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=QujriOAtps4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QujriOAtps4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M12S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-01T07:02:57-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/QujriOAtps4/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka.md",
-      "title": "What's New in Pandas 1.0.0 | Python Pandas New Features | Python Training | Edureka",
-      "excerpt": "🔥Edureka Python Certification Training: https://www.edureka.co/data-science-python-certification-course This Edureka video on 'What's New In Pandas 1.0.0' will guide you through the various new features, changes and performance enhancements in the new pandas 1.0.0 release. Following are the topics discussed:",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-whats-new-in-pandas-100-python-pandas-new-features-python-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=m6YjI_nG7VM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/m6YjI_nG7VM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M28S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2020-03-09T06:51:14-07:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/m6YjI_nG7VM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

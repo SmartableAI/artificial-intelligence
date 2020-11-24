@@ -4,6 +4,896 @@
   "page": 4,
   "value": [
     {
+      "path": "_learning/collections/coursera-tensorflow-data-and-deployment.md",
+      "title": "TensorFlow: Data and Deployment Specialization",
+      "excerpt": "In this four-course Specialization, you’ll learn how to get your machine learning models into the hands of real people on all kinds of devices. Start by understanding how to train and run machine learning models in browsers and in mobile applications. Learn how to leverage built-in datasets with just a few lines of code, learn about data pipelines with TensorFlow data services, use APIs to control data splitting, process all types of unstructured data and retrain deployed models with user data while maintaining data privacy. Apply your knowledge in various deployment scenarios and get introduced to TensorFlow Serving, TensorFlow, Hub, TensorBoard, and more.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/coursera-tensorflow-data-and-deployment/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/collections/coursera-tensorflow-data-and-deployment/",
+      "levels": [
+        "Intermediate",
+        "Advanced"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/coursera-browser-based-models-with-tensorflowjs.md",
+          "title": "Browser-based Models with TensorFlow.js",
+          "excerpt": "Learn Browser-based Models with TensorFlow.js from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-browser-based-models-with-tensorflowjs/index.json",
+          "webUrl": "https://www.coursera.org/learn/browser-based-models-tensorflow",
+          "length": "13 hours",
+          "ratings": {
+            "count": 202,
+            "average": 4.7
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai",
+                "domain": "deeplearning.ai",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ae/645d13953d4181bd191b155704af41/TFS2C1CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Browser-based Models with TensorFlow.js",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/courses/coursera-device-based-models-with-tensorflow-lite.md",
+          "title": "Device-based Models with TensorFlow Lite",
+          "excerpt": "Learn Device-based Models with TensorFlow Lite from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios and ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-device-based-models-with-tensorflow-lite/index.json",
+          "webUrl": "https://www.coursera.org/learn/device-based-models-tensorflow",
+          "length": "11 hours",
+          "ratings": {
+            "count": 99,
+            "average": 4.6
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai",
+                "domain": "deeplearning.ai",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a2/59d204ec3e40b78a9692b3b33a688f/TFS2C2CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Device-based Models with TensorFlow Lite",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/courses/coursera-data-pipelines-with-tensorflow-data-services.md",
+          "title": "Data Pipelines with TensorFlow Data Services",
+          "excerpt": "Learn Data Pipelines with TensorFlow Data Services from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment scenarios ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-data-pipelines-with-tensorflow-data-services/index.json",
+          "webUrl": "https://www.coursera.org/learn/data-pipelines-tensorflow",
+          "length": "13 hours",
+          "ratings": {
+            "count": 55,
+            "average": 3.9
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai",
+                "domain": "deeplearning.ai",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/16/6f37ad30ea4653bed72ed095189111/TFS2C3CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Data Pipelines with TensorFlow Data Services",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow.md",
+          "title": "Advanced Deployment Scenarios with TensorFlow",
+          "excerpt": "Learn Advanced Deployment Scenarios with TensorFlow from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow/index.json",
+          "webUrl": "https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow",
+          "length": "9 hours",
+          "ratings": {
+            "count": 40,
+            "average": 4.5
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai",
+                "domain": "deeplearning.ai",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c7/c372f1915c434cbb08e84046521aa5/TFS2C4CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Advanced Deployment Scenarios with TensorFlow",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI",
+            "Google AI",
+            "TensorFlow"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ae/645d13953d4181bd191b155704af41/TFS2C1CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Browser-based Models with TensorFlow.js",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/collections/coursera-tensorflow-in-practice.md",
+      "title": "TensorFlow in Practice Specialization",
+      "excerpt": "In this four-course Specialization, you’ll explore exciting opportunities for AI applications. Begin by developing an understanding of how to build and train neural networks. Improve a network’s performance using convolutions as you train it to identify real-world images. You’ll teach machines to understand, analyze, and respond to human speech with natural language processing systems. Learn to process text, represent sentences as vectors, and input data to a neural network. You’ll even train an AI to create original poetry!",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/coursera-tensorflow-in-practice/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/collections/coursera-tensorflow-in-practice/",
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning.md",
+          "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+          "excerpt": "Learn Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-introduction-to-tensorflow-for-artificial-intelligence-machine-learning-and-deep-learning/index.json",
+          "webUrl": "https://www.coursera.org/learn/introduction-tensorflow",
+          "length": "9 hours",
+          "ratings": {
+            "count": 6138,
+            "average": 4.7
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai",
+                "domain": "deeplearning.ai",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI",
+            "Machine Learning",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/courses/coursera-convolutional-neural-networks-in-tensorflow.md",
+          "title": "Convolutional Neural Networks in TensorFlow",
+          "excerpt": "Learn Convolutional Neural Networks in TensorFlow from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This course is part of the ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-convolutional-neural-networks-in-tensorflow/index.json",
+          "webUrl": "https://www.coursera.org/learn/convolutional-neural-networks-tensorflow",
+          "length": "7 hours",
+          "ratings": {
+            "count": 2716,
+            "average": 4.7
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai",
+                "domain": "deeplearning.ai",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1e/b9a22461864399a689eb74c7ae1fc6/TFC2SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Convolutional Neural Networks in TensorFlow",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/courses/coursera-natural-language-processing-in-tensorflow.md",
+          "title": "Natural Language Processing in TensorFlow",
+          "excerpt": "Learn Natural Language Processing in TensorFlow from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-natural-language-processing-in-tensorflow/index.json",
+          "webUrl": "https://www.coursera.org/learn/natural-language-processing-tensorflow",
+          "length": "9 hours",
+          "ratings": {
+            "count": 2019,
+            "average": 4.6
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai",
+                "domain": "deeplearning.ai",
+                "images": [
+                  {
+                    "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                    "width": 50,
+                    "height": 50,
+                    "isCached": false
+                  }
+                ]
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "tags": [
+            "TensorFlow"
+          ],
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/9b/d0102c0053480d9e2e9001c8f0e645/TFC3SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Natural Language Processing in TensorFlow",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI",
+            "Natural Language Processing",
+            "Google AI",
+            "TensorFlow"
+          ]
+        },
+        {
+          "path": "_learning/courses/coursera-sequences-time-series-and-prediction.md",
+          "title": "Sequences, Time Series and Prediction",
+          "excerpt": "Learn Sequences, Time Series and Prediction from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ...",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequences-time-series-and-prediction/index.json",
+          "webUrl": "https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction",
+          "length": "8 hours",
+          "ratings": {
+            "count": 853,
+            "average": 4.6
+          },
+          "provider": {
+            "name": "Coursera",
+            "domain": "coursera.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ],
+            "publishers": [
+              {
+                "path": "",
+                "name": "deeplearning.ai"
+              }
+            ]
+          },
+          "levels": [
+            "Intermediate"
+          ],
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/075c1fda9d419b8d763b1b988d36ba/TFC4SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+              "width": 400,
+              "height": 400,
+              "title": "Sequences, Time Series and Prediction",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "course",
+          "price": "Free+",
+          "topics": [
+            "AI"
+          ]
+        }
+      ],
+      "size": 4,
+      "heat": 60,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/84/01ea39d1be4ab0aab85911baba4786/TFC1SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/collections/machine-learning-overview.md",
+      "title": "Machine Learning Overview",
+      "excerpt": "A collection of short articles and videos to help you get started with machine learning",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/machine-learning-overview/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/collections/machine-learning-overview/",
+      "levels": [
+        "Beginner"
+      ],
+      "topItems": [
+        {
+          "path": "_learning/articles/vas3k-blog-machine-learning-for-everyone.md",
+          "title": "Machine Learning for Everyone",
+          "excerpt": "A long blog post that explains machine learning in simple terms, with real-world examples and lots of visuals.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/vas3k-blog-machine-learning-for-everyone/index.json",
+          "webUrl": "https://vas3k.com/blog/machine_learning/",
+          "provider": {
+            "name": "vas3k blog",
+            "domain": "vas3k.com"
+          },
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.vas3k.ru/full/80c.jpg",
+              "width": 1400,
+              "height": 715,
+              "title": "Machine Learning for Everyone",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "article",
+          "price": "Free",
+          "topics": [
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/articles/r2d3-a-visual-intro-to-machine-learning.md",
+          "title": "A visual introduction to machine learning",
+          "excerpt": "In machine learning, computers apply statistical learning techniques to automatically identify patterns in data. These techniques can be used to make highly accurate predictions.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/r2d3-a-visual-intro-to-machine-learning/index.json",
+          "webUrl": "http://www.r2d3.us/visual-intro-to-machine-learning-part-1/",
+          "provider": {
+            "name": "r2d3.us",
+            "domain": "r2d3.us"
+          },
+          "heat": 50,
+          "images": [
+            {
+              "url": "http://www.r2d3.us/static/pages/decision-trees-part-1/preview-en.png",
+              "width": 1120,
+              "height": 600,
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "article",
+          "price": "Free",
+          "topics": [
+            "AI"
+          ]
+        },
+        {
+          "path": "_learning/articles/monkeylearn-gentle-guide-to-machine-learning.md",
+          "title": "A Gentle Guide to Machine Learning",
+          "excerpt": "Machine Learning is a subfield within Artificial Intelligence that builds algorithms that allow computers to learn to perform tasks from data instead of being explicitly programmed.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/monkeylearn-gentle-guide-to-machine-learning/index.json",
+          "webUrl": "https://monkeylearn.com/blog/gentle-guide-to-machine-learning/",
+          "provider": {
+            "name": "MonkeyLearn",
+            "domain": "monkeylearn.com"
+          },
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://monkeylearn.com/blog/wp-content/uploads/2015/08/guide_to_machine_learning-2_thumb-1.png",
+              "width": 720,
+              "height": 336,
+              "title": "A Gentle Guide to Machine Learning",
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "article",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        },
+        {
+          "path": "_learning/articles/towardsdatascience-machine-learning-101-for-dummies-like-me.md",
+          "title": "Machine Learning 101 for Dummies like Me",
+          "excerpt": "The purpose of this article in the 101 for Dummies like Me series is to simplify the definition and understanding of machine learning.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/articles/towardsdatascience-machine-learning-101-for-dummies-like-me/index.json",
+          "webUrl": "https://towardsdatascience.com/machine-learning-101-for-dummies-like-me-bdc6d03e1a38",
+          "provider": {
+            "name": "towardsdatascience.com",
+            "domain": "towardsdatascience.com"
+          },
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://miro.medium.com/max/1400/1*yCrFCAmgOukq6SKrO-dBJw.png",
+              "width": 1400,
+              "height": 715,
+              "isCached": false
+            }
+          ],
+          "content": "\r\n",
+          "type": "article",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Machine Learning"
+          ]
+        }
+      ],
+      "size": 6,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.vas3k.ru/full/80c.jpg",
+          "width": 1400,
+          "height": 715,
+          "title": "Machine Learning for Everyone",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university.md",
+      "title": "From Languages to Information Week 1: Basic Text Processing and Edit Distance | Stanford University",
+      "excerpt": "This is the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/collections/stanford-university-from-languages-to-information-week-1-basic-text-processing-and-edit-distance-stanford-university/",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
+          "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
+          "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance/",
+          "originalUrl": "https://youtube.com/watch?v=808M7q8QX0E",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/808M7q8QX0E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT11M26S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:34:51-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance.md",
+          "title": "1.2 Sentence Segmentation | Basic Text Processing and Edit Distance",
+          "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/",
+          "originalUrl": "https://youtube.com/watch?v=Ljn8YkZrce8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ljn8YkZrce8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT5M35S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:34:51-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/Ljn8YkZrce8/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance.md",
+          "title": "1.3 Word Tokenization | Basic Text Processing and Edit Distance",
+          "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/",
+          "originalUrl": "https://youtube.com/watch?v=NJaxfxRtKV0",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NJaxfxRtKV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT14M26S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:34:51-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/NJaxfxRtKV0/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance.md",
+          "title": "1.4 Word Normalization and Stemming | Basic Text Processing and Edit Distance",
+          "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/",
+          "originalUrl": "https://youtube.com/watch?v=k5UCoz79OL8",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k5UCoz79OL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT11M48S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:34:51-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/k5UCoz79OL8/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 9,
+      "heat": 60,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/collections/stanford-university-from-languages-to-information-week-2-language-modeling-and-spelling-correction-stanford-university.md",
       "title": "From Languages to Information Week 2: Language Modeling and Spelling Correction | Stanford University",
       "excerpt": "This is the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
@@ -430,7 +1320,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T10:43:51-08:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/5SUzf6252_0/hqdefault.jpg",
@@ -1363,6 +2253,46 @@
       ]
     },
     {
+      "path": "_learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka.md",
+      "title": "Azure Machine Learning Tutorial | Azure Tutorial | Azure Training | Edureka",
+      "excerpt": "(Microsoft Azure Certification Training: https://www.edureka.co/microsoft-certified-azure-solution-architect-certification-training )  This Edureka \"Azure Machine Learning” tutorial will give you a thorough and insightful overview of Microsoft Azure ML Studio and also help you understand the fundamentals",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=nNHSlpJMOJs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nNHSlpJMOJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT36M24S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-11-08T06:04:32-08:00",
+      "heat": 59,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/nNHSlpJMOJs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_learning/videos/edureka-keras-vs-tensorflow-vs-pytorch-deep-learning-frameworks-comparison-edureka.md",
       "title": "Keras vs Tensorflow vs PyTorch | Deep Learning Frameworks Comparison | Edureka",
       "excerpt": "** AI & Deep Learning with Tensorflow Training:  https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video on \"Keras vs TensorFlow vs PyTorch\" will provide you with a crisp comparison among the top three deep learning frameworks. It provides a detailed and comprehensive knowledge",
@@ -1384,7 +2314,7 @@
         ]
       },
       "publishedDateTime": "2018-11-25T21:34:50-08:00",
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/DmI58jz2i6w/maxresdefault.jpg",
@@ -1426,7 +2356,7 @@
         ]
       },
       "publishedDateTime": "2019-02-25T06:23:14-08:00",
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/b2q5OFtxm6A/maxresdefault.jpg",
@@ -1465,7 +2395,7 @@
         ]
       },
       "publishedDateTime": "2019-01-02T21:41:47-08:00",
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/uMxQI2tJtKQ/maxresdefault.jpg",
@@ -1483,31 +2413,31 @@
       ]
     },
     {
-      "path": "_learning/videos/freecodecamporg-how-deep-neural-networks-work-full-course-for-beginners.md",
-      "title": "How Deep Neural Networks Work - Full Course for Beginners",
-      "excerpt": "Even if you are completely new to neural networks, this course will get you comfortable with the concepts and math behind them.  Neural networks are at the core of what we are calling Artificial Intelligence today. They can seem impenetrable, even mystical, if you are trying to understand them for the",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/freecodecamporg-how-deep-neural-networks-work-full-course-for-beginners/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/freecodecamporg-how-deep-neural-networks-work-full-course-for-beginners/",
-      "originalUrl": "https://youtube.com/watch?v=dPWYUELwIdM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/dPWYUELwIdM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3H50M57S",
+      "path": "_learning/videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka.md",
+      "title": "Scikit Learn Tutorial | Machine Learning with Python | Python for Data Science Training | Edureka",
+      "excerpt": "Python Certification Training for Data Science : https://www.edureka.co/python-programming-certification-training This Edureka video on \"Scikit-learn Tutorial\" introduces you to machine learning in Python. It will also takes you through regression and clustering techniques along with a demo on SVM classification",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-scikit-learn-tutorial-machine-learning-with-python-python-for-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=bwZ3Qiuj3i8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/bwZ3Qiuj3i8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT37M8S",
       "provider": {
-        "name": "freeCodeCamp.org",
-        "domain": "freecodecamp.org",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2019-04-16T08:56:20-07:00",
-      "heat": 60,
+      "publishedDateTime": "2018-04-18T05:26:59-07:00",
+      "heat": 59,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/dPWYUELwIdM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/bwZ3Qiuj3i8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -1519,37 +2449,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-stock-price-prediction.md",
-      "title": "Stock Price Prediction",
-      "excerpt": "Can AI be used in the financial sector? Of course! In fact, finance was one of the pioneering industries that started using AI in the early 80s for market prediction. Since then, major financial firms and hedge funds have adopted AI technologies for everything from portfolio optimization, to credit lending,",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-stock-price-prediction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-stock-price-prediction/",
-      "originalUrl": "https://youtube.com/watch?v=7vunJlqLZok",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7vunJlqLZok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT24M19S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2018-04-29T10:00:30-07:00",
-      "heat": 60,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/7vunJlqLZok/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     },
     {
@@ -1574,7 +2473,7 @@
         ]
       },
       "publishedDateTime": "2019-02-21T15:58:45-08:00",
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/tCYSce6l8gA/maxresdefault.jpg",
@@ -1615,7 +2514,7 @@
         ]
       },
       "publishedDateTime": "2018-12-04T09:25:54-08:00",
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/oFFbKogYdfc/maxresdefault.jpg",
@@ -1655,7 +2554,7 @@
         ]
       },
       "publishedDateTime": "2018-03-28T11:52:45-07:00",
-      "heat": 60,
+      "heat": 59,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/JnhW5tQ_7Vo/maxresdefault.jpg",
@@ -1671,240 +2570,6 @@
         "TensorFlow",
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka.md",
-      "title": "Azure Machine Learning Tutorial | Azure Tutorial | Azure Training | Edureka",
-      "excerpt": "(Microsoft Azure Certification Training: https://www.edureka.co/microsoft-certified-azure-solution-architect-certification-training )  This Edureka \"Azure Machine Learning” tutorial will give you a thorough and insightful overview of Microsoft Azure ML Studio and also help you understand the fundamentals",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-azure-machine-learning-tutorial-azure-tutorial-azure-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=nNHSlpJMOJs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nNHSlpJMOJs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT36M24S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-08T06:04:32-08:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/nNHSlpJMOJs/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-data-science-vs-machine-learning-whats-the-difference-data-science-course-edureka.md",
-      "title": "Data Science vs Machine Learning – What’s The Difference? | Data Science Course | Edureka",
-      "excerpt": "** Python Data Science Training: https://www.edureka.co/data-science-python-certification-course ** In this video on Data Science vs Machine Learning, we’ll be discussing the importance of Data Science and Machine Learning and we’ll compare them based on a few key parameters. The following topics are",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-data-science-vs-machine-learning-whats-the-difference-data-science-course-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-data-science-vs-machine-learning-whats-the-difference-data-science-course-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=0cSFjaXMHpM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cSFjaXMHpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT16M9S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-02-06T06:00:11-08:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/0cSFjaXMHpM/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-keras-tutorial-for-beginners-creating-deep-learning-models-using-keras-in-python-edureka.md",
-      "title": "Keras Tutorial For Beginners | Creating Deep Learning Models Using Keras In Python | Edureka",
-      "excerpt": "** AI & Deep Learning Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka Tutorial on \"Keras Tutorial\" (Deep Learning Blog Series: https://goo.gl/4zxMfU) provides you a quick and insightful tutorial on the working of Keras along with an interesting use-case! We will be checking",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-keras-tutorial-for-beginners-creating-deep-learning-models-using-keras-in-python-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-keras-tutorial-for-beginners-creating-deep-learning-models-using-keras-in-python-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=XNKeayZW4dY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XNKeayZW4dY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT27M28S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-28T22:35:53-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XNKeayZW4dY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-knowledge-representation-in-ai-semantic-networks-artificial-intelligence-tutorial-edureka.md",
-      "title": "Knowledge Representation in AI | Semantic Networks | Artificial Intelligence Tutorial | Edureka",
-      "excerpt": "*** AI & ML Masters Program -  https://www.edureka.co/masters-program/machine-learning-engineer-training  *** This Edureka video on \"Knowledge Representation in AI\" will explain what is knowledge representation and how reasoning works in AI. It will explain the different techniques to represent knowledge.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-knowledge-representation-in-ai-semantic-networks-artificial-intelligence-tutorial-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-knowledge-representation-in-ai-semantic-networks-artificial-intelligence-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=V-O-RFSRe-E",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V-O-RFSRe-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M43S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-12-27T05:10:02-08:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V-O-RFSRe-E/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-machine-learning-projects-machine-learning-project-ideas-for-beginners-edureka.md",
-      "title": "Machine Learning Projects | Machine Learning Project Ideas For Beginners | Edureka",
-      "excerpt": "** Machine Learning Certification Training - https://www.edureka.co/machine-learning-certification-training ** ** Machine Learning Podcast - https://castbox.fm/channel/id1832236 **  This Video covers the Different Trending Machine Learning Projects in the industry that are open source and are helpful",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-machine-learning-projects-machine-learning-project-ideas-for-beginners-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-machine-learning-projects-machine-learning-project-ideas-for-beginners-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=tTijEvJqTzI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/tTijEvJqTzI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT28M58S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-04-01T07:12:46-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/tTijEvJqTzI/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-top-deep-learning-projects-artificial-intelligence-projects-deep-learning-training-edureka.md",
-      "title": "Top Deep Learning Projects | Artificial Intelligence Projects | Deep Learning Training | Edureka",
-      "excerpt": "**AI and Deep Learning with TensorFlow:  https://www.edureka.co/ai-deep-learning-with-tensorflow **   This video on Deep Learning Projects will provide you with a list of the top open-source deep learning projects you must try in 2019.    Lung Cancer Detection: https://github.com/ddhaval04/Lung-Cancer-Detection",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-top-deep-learning-projects-artificial-intelligence-projects-deep-learning-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-top-deep-learning-projects-artificial-intelligence-projects-deep-learning-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=09hTTPYV3Jg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/09hTTPYV3Jg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M41S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-05T06:41:33-07:00",
-      "heat": 59,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/09hTTPYV3Jg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1986,14 +2651,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-autoencoders-tutorial-autoencoders-in-deep-learning-tensorflow-training-edureka.md",
-      "title": "Autoencoders Tutorial | Autoencoders In Deep Learning | Tensorflow Training | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training:  www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video of \"Autoencoders Tutorial\" provides you with a brief introduction about autoencoders and how they compress unsupervised data. You will get detailed information on the different types",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-autoencoders-tutorial-autoencoders-in-deep-learning-tensorflow-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-autoencoders-tutorial-autoencoders-in-deep-learning-tensorflow-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=nTt_ajul8NY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nTt_ajul8NY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M58S",
+      "path": "_learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka.md",
+      "title": "Hill Climbing Algorithm | Hill Climbing in Artificial Intelligence | Data Science Tutorial | Edureka",
+      "excerpt": "* Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training * Hill Climbing is an Algorithm is one that will find you the best possible solution to your problem in the most reasonable period of time! This tutorial is a complete breakdown of the",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=_ThdIOA9Lbk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ThdIOA9Lbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M33S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -2006,95 +2671,13 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-09T07:18:34-07:00",
+      "publishedDateTime": "2019-12-30T20:37:45-08:00",
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/nTt_ajul8NY/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/_ThdIOA9Lbk/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-creating-chatbots-using-tensorflow-chatbot-tutorial-deep-learning-training-edureka.md",
-      "title": "Creating Chatbots Using TensorFlow | Chatbot Tutorial | Deep Learning Training | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training : https://www.edureka.co/ai-deep-learning-with-tensorflow  ** This Edureka video of \"Chatbots using TensorFlow\" gives you an idea about what are chatbots and how did they come into existence. It provides a brief introduction about all the layers involved",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-creating-chatbots-using-tensorflow-chatbot-tutorial-deep-learning-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-creating-chatbots-using-tensorflow-chatbot-tutorial-deep-learning-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=YyKHwczZOMg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YyKHwczZOMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M59S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-08T23:20:20-07:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/YyKHwczZOMg/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-introduction-to-artificial-intelligence-deep-learning-edureka.md",
-      "title": "Introduction to Artificial Intelligence | Deep Learning | Edureka",
-      "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This video on Artificial intelligence gives you an introduction to artificial intelligence with futuristic applications of AI. It also tells you how to implement artificial intelligence using deep neural networks.  The",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-introduction-to-artificial-intelligence-deep-learning-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-introduction-to-artificial-intelligence-deep-learning-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=5hNK7-N23eU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5hNK7-N23eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M54S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-14T22:24:48-08:00",
-      "heat": 58,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5hNK7-N23eU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
           "isCached": true
         }
       ],
@@ -2107,14 +2690,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka.md",
-      "title": "PyTorch vs TensorFlow: The Force Is Strong With Which One? | Which One You Should Learn? | Edureka",
-      "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka comparison video of \"PyTorch vs TensorFlow\" provides you with a detailed comparison between the top 2 Python Deep Learning Frameworks.  Do subscribe to our channel and hit the bell",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-pytorch-vs-tensorflow-the-force-is-strong-with-which-one-which-one-you-should-learn-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=Mn1AACvK-YI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Mn1AACvK-YI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M22S",
+      "path": "_learning/videos/edureka-knowledge-representation-in-ai-semantic-networks-artificial-intelligence-tutorial-edureka.md",
+      "title": "Knowledge Representation in AI | Semantic Networks | Artificial Intelligence Tutorial | Edureka",
+      "excerpt": "*** AI & ML Masters Program -  https://www.edureka.co/masters-program/machine-learning-engineer-training  *** This Edureka video on \"Knowledge Representation in AI\" will explain what is knowledge representation and how reasoning works in AI. It will explain the different techniques to represent knowledge.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-knowledge-representation-in-ai-semantic-networks-artificial-intelligence-tutorial-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-knowledge-representation-in-ai-semantic-networks-artificial-intelligence-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=V-O-RFSRe-E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V-O-RFSRe-E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT17M43S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -2127,11 +2710,11 @@
           }
         ]
       },
-      "publishedDateTime": "2018-10-04T22:28:07-07:00",
+      "publishedDateTime": "2019-12-27T05:10:02-08:00",
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Mn1AACvK-YI/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/V-O-RFSRe-E/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -2141,31 +2724,27 @@
       "type": "video",
       "price": "Free",
       "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "Facebook AI",
-        "TensorFlow"
+        "AI"
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-make-a-text-summarizer-intro-to-deep-learning-10.md",
-      "title": "How to Make a Text Summarizer - Intro to Deep Learning #10",
-      "excerpt": "I'll show you how you can turn an article into a one-sentence summary in Python with the Keras machine learning library. We'll go over word embeddings, encoder-decoder architecture, and the role of attention in learning theory.  Code for this video (Challenge included): https://github.com/llSourcell/How_to_make_a_text_summarizer",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-make-a-text-summarizer-intro-to-deep-learning-10/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-make-a-text-summarizer-intro-to-deep-learning-10/",
-      "originalUrl": "https://youtube.com/watch?v=ogrJaOIuBx4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ogrJaOIuBx4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M6S",
+      "path": "_learning/videos/siraj-raval-stock-price-prediction.md",
+      "title": "Stock Price Prediction",
+      "excerpt": "Can AI be used in the financial sector? Of course! In fact, finance was one of the pioneering industries that started using AI in the early 80s for market prediction. Since then, major financial firms and hedge funds have adopted AI technologies for everything from portfolio optimization, to credit lending,",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-stock-price-prediction/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-stock-price-prediction/",
+      "originalUrl": "https://youtube.com/watch?v=7vunJlqLZok",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7vunJlqLZok\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT24M19S",
       "provider": {
         "name": "Siraj Raval",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-03-18T01:02:00-07:00",
+      "publishedDateTime": "2018-04-29T10:00:30-07:00",
       "heat": 58,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/ogrJaOIuBx4/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/7vunJlqLZok/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -2176,7 +2755,7 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
+        "AI in Finance"
       ]
     },
     {
@@ -2222,14 +2801,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka.md",
-      "title": "Hill Climbing Algorithm | Hill Climbing in Artificial Intelligence | Data Science Tutorial | Edureka",
-      "excerpt": "* Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training * Hill Climbing is an Algorithm is one that will find you the best possible solution to your problem in the most reasonable period of time! This tutorial is a complete breakdown of the",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-hill-climbing-algorithm-hill-climbing-in-artificial-intelligence-data-science-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=_ThdIOA9Lbk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/_ThdIOA9Lbk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT17M33S",
+      "path": "_learning/videos/edureka-autoencoders-tutorial-autoencoders-in-deep-learning-tensorflow-training-edureka.md",
+      "title": "Autoencoders Tutorial | Autoencoders In Deep Learning | Tensorflow Training | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training:  www.edureka.co/ai-deep-learning-with-tensorflow ** This Edureka video of \"Autoencoders Tutorial\" provides you with a brief introduction about autoencoders and how they compress unsupervised data. You will get detailed information on the different types",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-autoencoders-tutorial-autoencoders-in-deep-learning-tensorflow-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-autoencoders-tutorial-autoencoders-in-deep-learning-tensorflow-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=nTt_ajul8NY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nTt_ajul8NY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M58S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -2242,13 +2821,173 @@
           }
         ]
       },
-      "publishedDateTime": "2019-12-30T20:37:45-08:00",
+      "publishedDateTime": "2018-10-09T07:18:34-07:00",
       "heat": 57,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/_ThdIOA9Lbk/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nTt_ajul8NY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-creating-chatbots-using-tensorflow-chatbot-tutorial-deep-learning-training-edureka.md",
+      "title": "Creating Chatbots Using TensorFlow | Chatbot Tutorial | Deep Learning Training | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training : https://www.edureka.co/ai-deep-learning-with-tensorflow  ** This Edureka video of \"Chatbots using TensorFlow\" gives you an idea about what are chatbots and how did they come into existence. It provides a brief introduction about all the layers involved",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-creating-chatbots-using-tensorflow-chatbot-tutorial-deep-learning-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-creating-chatbots-using-tensorflow-chatbot-tutorial-deep-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=YyKHwczZOMg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/YyKHwczZOMg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M59S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-08T23:20:20-07:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/YyKHwczZOMg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-data-science-vs-machine-learning-whats-the-difference-data-science-course-edureka.md",
+      "title": "Data Science vs Machine Learning – What’s The Difference? | Data Science Course | Edureka",
+      "excerpt": "** Python Data Science Training: https://www.edureka.co/data-science-python-certification-course ** In this video on Data Science vs Machine Learning, we’ll be discussing the importance of Data Science and Machine Learning and we’ll compare them based on a few key parameters. The following topics are",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-data-science-vs-machine-learning-whats-the-difference-data-science-course-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-data-science-vs-machine-learning-whats-the-difference-data-science-course-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=0cSFjaXMHpM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/0cSFjaXMHpM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M9S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-02-06T06:00:11-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/0cSFjaXMHpM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-em-algorithm-in-machine-learning-expectation-maximization-machine-learning-tutorial-edureka.md",
+      "title": "EM Algorithm In Machine Learning | Expectation-Maximization | Machine Learning Tutorial | Edureka",
+      "excerpt": "** Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training  ** This Edureka video on 'EM Algorithm In Machine Learning' covers the EM algorithm along with the problem of latent variables in maximum likelihood and Gaussian mixture model. Following are the",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-em-algorithm-in-machine-learning-expectation-maximization-machine-learning-tutorial-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-em-algorithm-in-machine-learning-expectation-maximization-machine-learning-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=DIADjJXrgps",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/DIADjJXrgps\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M49S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-01-07T20:28:37-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/DIADjJXrgps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-introduction-to-artificial-intelligence-deep-learning-edureka.md",
+      "title": "Introduction to Artificial Intelligence | Deep Learning | Edureka",
+      "excerpt": "( TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This video on Artificial intelligence gives you an introduction to artificial intelligence with futuristic applications of AI. It also tells you how to implement artificial intelligence using deep neural networks.  The",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-introduction-to-artificial-intelligence-deep-learning-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-introduction-to-artificial-intelligence-deep-learning-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=5hNK7-N23eU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5hNK7-N23eU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT19M54S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-14T22:24:48-08:00",
+      "heat": 57,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5hNK7-N23eU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],

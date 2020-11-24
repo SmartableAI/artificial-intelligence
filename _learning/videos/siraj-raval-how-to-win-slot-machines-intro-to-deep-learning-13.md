@@ -4,7 +4,7 @@ excerpt: "We'll learn how to solve the multi-armed bandit problem (maximizing su
 originalUrl: https://youtube.com/watch?v=AIeWLTUYLZQ
 type: video
 price: Free
-length: PT9M39S
+length: PT9M38S
 publishedDateTime: 2017-04-10T23:16:33Z
 heat: 50
 
@@ -24,6 +24,6 @@ images:
     height: 360
     isCached: true
 
-secured: "7DHB2ta0g5Ct74eaomn46f0abWq9TmmzBgBEqCI+4H4g1ZLOGbTnS3tlLOAeZaB4CeonO49E3TTunnpernR2Gjomy7vimq1YuBYtBKBvuLOR9wFLeIQj6cc4306jVPBPyXlcFrX0e7S7L6nINBWHfNO8THUMXUpr6aAixvnNmLZ7usA5eIs5JDopaCzERCUXZo+ie9GvmmnOSWcp/Qald/k/PMhBTIPXwvp2gf6Jn5j3TEKJaIbiyGVQwHzVhkUlCSBO0Y4heha9tJl3uhXyLfhd9mqbH27CaPi+v7zM4cJb5Zb4JfrC4iquCirEhlSoML3MDxOLbTIveV1KReNS4rUbEUDS8GWpFOBOG1hc6kPPAQ6W25H5xOVaasA26GlOegvpupTkPAdVTT04SJ1nZiS2Hcnryl+0QqtRQnhfu48=;v8xz8rWQEwzoGVbnyxQCEQ=="
+secured: "Qf2+NNWX0eHlyVyLiTRx9J/E6xnmad1o2go4HtTsOueGiIkiornkrMvJrRYMmfo+Y5NOUJCYBW9X0U/ZxmIlSncEkdk8bGIrkdequAVbYE2RZ4dYlWs+swk6V3PxykFqd0cGPtlWe3z2uCF7omR04Y4GLuk/MiJ3V+iTlTCr5zMMR3TaDYcBl6uHYaRbQBDQHSBSOd4JUqgRXzhLmdQe+/VvZijJeEhAIsjkFXAlY5YZGopBjgImAUz0h4cVxMRafQrctT8Knb9JJpYyukU53DyaBXKOdcF7YoMY+ws49l3+Oq7UocaKsmoaBDvmqVmxqP7yckMx9/miq2I1gEmv1dH/rJ6svupbH5fI5zBsqJcq+9HGdBn7esl+4qL6bIvnDN/vlinSl6iVpOr6MMnEp/8Gqze4Tqy97SyDlku038I=;Eh0z4AAvqiTkVk90yiTB8w=="
 ---
 

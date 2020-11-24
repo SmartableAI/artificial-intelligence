@@ -4,6 +4,115 @@
   "page": 10,
   "value": [
     {
+      "path": "_learning/courses/coursera-reinforcement-learning-in-finance.md",
+      "title": "Reinforcement Learning in Finance",
+      "excerpt": "Learn Reinforcement Learning in Finance from New York University Tandon School of Engineering. This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-reinforcement-learning-in-finance/index.json",
+      "webUrl": "https://www.coursera.org/learn/reinforcement-learning-in-finance",
+      "length": "21 hours",
+      "ratings": {
+        "count": 69,
+        "average": 3.4
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "New York University Tandon School of Engineering"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/37/e2ad705d1c11e89d97d1bd932bfd30/Reinforcement-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Reinforcement Learning in Finance",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark.md",
+      "title": "Scalable Machine Learning on Big Data using Apache Spark",
+      "excerpt": "Learn Scalable Machine Learning on Big Data using Apache Spark from IBM. This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
+      "length": "10 hours",
+      "ratings": {
+        "count": 438,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/3942fb8d2e4ad48ab23f26dbfde712/ScaleMLwBigData.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Scalable Machine Learning on Big Data using Apache Spark",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform.md",
       "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
       "excerpt": "Learn Serverless Machine Learning with Tensorflow on Google Cloud Platform from Google Cloud. This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google ...",
@@ -1390,110 +1499,6 @@
       "price": "$$",
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn.md",
-      "title": "Employing Ensemble Methods with scikit-learn",
-      "excerpt": "This course covers the theoretical and practical aspects of building ensemble learning solutions in scikit-learn; from random forests built using bagging and pasting to adaptive and gradient boosting and model stacking and hyperparameter tuning. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-employing-ensemble-methods-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/employing-ensemble-methods-scikit-learn",
-      "length": "2h 14m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/employing-ensemble-methods-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Employing Ensemble Methods with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook.md",
-      "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
-      "excerpt": "This course covers the important design choices that a data professional must make while leveraging pre-trained models using Transfer Learning. It also covers the implementation aspects of different Transfer Learning approaches in PyTorch. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-expediting-deep-learning-with-transfer-learning-pytorch-playbook/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/expediting-deep-learning-transfer-pytorch-playbook",
-      "length": "1h 46m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/expediting-deep-learning-transfer-pytorch-playbook-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Expediting Deep Learning with Transfer Learning: PyTorch Playbook",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
         "Machine Learning"
       ]
     }

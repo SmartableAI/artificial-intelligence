@@ -1120,7 +1120,7 @@
         ]
       },
       "publishedDateTime": "2019-02-07T11:53:56-08:00",
-      "heat": 67,
+      "heat": 68,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/X2vAabgKiuM/maxresdefault.jpg",
@@ -2033,7 +2033,7 @@
             ]
           },
           "publishedDateTime": "2018-01-25T10:43:51-08:00",
-          "heat": 51,
+          "heat": 52,
           "images": [
             {
               "url": "https://i.ytimg.com/vi/5SUzf6252_0/hqdefault.jpg",
@@ -2290,7 +2290,7 @@
         ]
       },
       "publishedDateTime": "2020-02-08T04:28:10-08:00",
-      "heat": 55,
+      "heat": 54,
       "images": [
         {
           "url": "https://i.ytimg.com/vi/B2q5cRJvqI8/maxresdefault.jpg",
@@ -2308,46 +2308,6 @@
         "Natural Language Processing",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka.md",
-      "title": "Stemming And Lemmatization Tutorial | Natural Language Processing (NLP) With Python | Edureka",
-      "excerpt": "( **Natural Language Processing Using Python: - https://www.edureka.co/python-natural-language-processing-course **  ) This video will provide you with a detailed and comprehensive knowledge of the two important aspects of Natural Language Processing ie. Stemming and Lemmatization. It will also provide",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=p1ccbR2P_xA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p1ccbR2P_xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT12M45S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-28T21:21:30-08:00",
-      "heat": 54,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/p1ccbR2P_xA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
       ]
     },
     {
@@ -2390,33 +2350,33 @@
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-75-the-boolean-retrieval-model-information-retrieval.md",
-      "title": "7.5 The Boolean Retrieval Model | Information Retrieval",
-      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-75-the-boolean-retrieval-model-information-retrieval/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-75-the-boolean-retrieval-model-information-retrieval/",
-      "originalUrl": "https://youtube.com/watch?v=TIN_02pJU-Y",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TIN_02pJU-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M7S",
+      "path": "_learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka.md",
+      "title": "Stemming And Lemmatization Tutorial | Natural Language Processing (NLP) With Python | Edureka",
+      "excerpt": "( **Natural Language Processing Using Python: - https://www.edureka.co/python-natural-language-processing-course **  ) This video will provide you with a detailed and comprehensive knowledge of the two important aspects of Natural Language Processing ie. Stemming and Lemmatization. It will also provide",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=p1ccbR2P_xA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p1ccbR2P_xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M45S",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:42:38-08:00",
-      "heat": 52,
+      "publishedDateTime": "2018-11-28T21:21:30-08:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/TIN_02pJU-Y/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/p1ccbR2P_xA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -2425,6 +2385,7 @@
       "price": "Free",
       "topics": [
         "AI",
+        "Machine Learning",
         "Natural Language Processing"
       ]
     },
@@ -2468,6 +2429,45 @@
       ]
     },
     {
+      "path": "_learning/videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering.md",
+      "title": "9.1 Information Extraction and Named Entity Recognition  Introducing the tasks | Relation Extraction and Question Answering",
+      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering/",
+      "originalUrl": "https://youtube.com/watch?v=5SUzf6252_0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5SUzf6252_0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M19S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5SUzf6252_0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/videos/stanford-university-11-regular-expressions-basic-text-processing-and-edit-distance.md",
       "title": "1.1 Regular Expressions | Basic Text Processing and Edit Distance",
       "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
@@ -2493,6 +2493,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/808M7q8QX0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering.md",
+      "title": "14   2   PageRank Overview and Markov Chains | Relation Extraction and Question Answering",
+      "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/",
+      "originalUrl": "https://youtube.com/watch?v=29Tx-s0ybiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29Tx-s0ybiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M11S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:46:05-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -2624,6 +2663,45 @@
       ]
     },
     {
+      "path": "_learning/videos/stanford-university-75-the-boolean-retrieval-model-information-retrieval.md",
+      "title": "7.5 The Boolean Retrieval Model | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-75-the-boolean-retrieval-model-information-retrieval/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-75-the-boolean-retrieval-model-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=TIN_02pJU-Y",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TIN_02pJU-Y\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M7S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:42:38-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/TIN_02pJU-Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_learning/videos/stanford-university-76-phrase-queries-and-positional-indexes-information-retrieval.md",
       "title": "7.6 Phrase Queries and Positional Indexes | Information Retrieval",
       "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
@@ -2688,6 +2766,45 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/9UXM2NXVYY0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/stanford-university-85-tf-idf-weighting-information-retrieval.md",
+      "title": "8.5 TF IDF Weighting | Information Retrieval",
+      "excerpt": "This is part of the Week 4 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-85-tf-idf-weighting-information-retrieval/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-85-tf-idf-weighting-information-retrieval/",
+      "originalUrl": "https://youtube.com/watch?v=4-P3ckZprBk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-P3ckZprBk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT3M43S",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-01-25T10:42:38-08:00",
+      "heat": 51,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4-P3ckZprBk/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -2774,314 +2891,6 @@
       "content": "\r\n",
       "type": "video",
       "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering.md",
-      "title": "9.1 Information Extraction and Named Entity Recognition  Introducing the tasks | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-91-information-extraction-and-named-entity-recognition-introducing-the-tasks-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=5SUzf6252_0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/5SUzf6252_0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M19S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/5SUzf6252_0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university.md",
-      "title": "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University",
-      "excerpt": "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics.md",
-          "title": "13.8 Word Similarity  Distributional Similarity I | Recommendation Systems and Vector Semantics",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/index.json",
-          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/",
-          "originalUrl": "https://youtube.com/watch?v=swDoFpuHpzQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/swDoFpuHpzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT13M15S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:45:08-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics.md",
-          "title": "13.10 Word Similarity  Distributional Similarity II | Recommendation Systems and Vector Semantics",
-          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/index.json",
-          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/",
-          "originalUrl": "https://youtube.com/watch?v=eSdBnha0xJc",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eSdBnha0xJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M16S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:45:08-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/eSdBnha0xJc/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 2,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university.md",
-      "title": "From Languages to Information Week 8: PageRank | Stanford University",
-      "excerpt": "This is the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topItems": [
-        {
-          "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
-          "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=-rfVrRAgzHM",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rfVrRAgzHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT3M40S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:46:05-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering.md",
-          "title": "14   2   PageRank Overview and Markov Chains | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=29Tx-s0ybiQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29Tx-s0ybiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT12M11S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:46:05-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        },
-        {
-          "path": "_learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering.md",
-          "title": "14   3   Computing PageRank | Relation Extraction and Question Answering",
-          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/index.json",
-          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/",
-          "originalUrl": "https://youtube.com/watch?v=TlVs9nMyZyQ",
-          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TlVs9nMyZyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-          "length": "PT8M10S",
-          "provider": {
-            "name": "Stanford University",
-            "domain": "stanford.edu",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          },
-          "publishedDateTime": "2018-01-25T10:46:05-08:00",
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://i.ytimg.com/vi/TlVs9nMyZyQ/hqdefault.jpg",
-              "width": 480,
-              "height": 360,
-              "isCached": true
-            }
-          ],
-          "content": "\r\n",
-          "type": "video",
-          "price": "Free",
-          "topics": [
-            "AI",
-            "Natural Language Processing"
-          ]
-        }
-      ],
-      "size": 3,
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "collection",
       "topics": [
         "AI",
         "Natural Language Processing"

@@ -4,6 +4,45 @@
   "page": 5,
   "value": [
     {
+      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka.md",
+      "title": "Top 10 Reasons to Learn Data Science | Why Data Science? | Data Science Training | Edureka",
+      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science\" will give you enough reasons",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M22S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-13T05:47:12-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/freecodecamporg-deep-reinforcement-learning-in-python-tutorial-a-course-on-how-to-implement-deep-learning-papers.md",
       "title": "Deep Reinforcement Learning in Python Tutorial - A Course on How to Implement Deep Learning Papers",
       "excerpt": "In this intermediate deep learning tutorial, you will learn how to go from reading a paper on deep deterministic policy gradients to implementing the concepts in Tensorflow. This process can be applied to any deep learning paper, not just deep reinforcement learning.  In the second part, you will learn",
@@ -43,25 +82,25 @@
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16.md",
-      "title": "How to Convert Text to Images - Intro to Deep Learning #16",
-      "excerpt": "Generative Adversarial Networks are back! We'll use the cutting edge StackGAN architecture to let us generate images from text descriptions alone. This is pretty wild stuff and there is so much room for improvement. The possibilities are endless. I'll go through the architecture, code, and the implications",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/",
-      "originalUrl": "https://youtube.com/watch?v=gmvRStL_Dag",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmvRStL_Dag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M33S",
+      "path": "_learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained.md",
+      "title": "How To Make A Neural Network (Neural Networks Explained)",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/",
+      "originalUrl": "https://youtube.com/watch?v=wieryfWkOl0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wieryfWkOl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M37S",
       "provider": {
-        "name": "Siraj Raval",
+        "name": "Futurology",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-05-09T20:24:38-07:00",
+      "publishedDateTime": "2020-07-19T07:14:15-07:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gmvRStL_Dag/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
+          "url": "https://i.ytimg.com/vi/wieryfWkOl0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
           "isCached": true
         }
       ],
@@ -105,23 +144,23 @@
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3.md",
-      "title": "How to Do Sentiment Analysis - Intro to Deep Learning #3",
-      "excerpt": "In this video, we'll use machine learning to help classify emotions! The example we'll use is classifying a movie review as either positive or negative via TF Learn in 20 lines of Python.  Coding Challenge for this video: https://github.com/llSourcell/How_to_do_Sentiment_Analysis  Ludo's winning code:",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3/",
-      "originalUrl": "https://youtube.com/watch?v=si8zZHkufRY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/si8zZHkufRY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M21S",
+      "path": "_learning/videos/siraj-raval-how-to-generate-music-with-tensorflow-live.md",
+      "title": "How to Generate Music with Tensorflow (LIVE)",
+      "excerpt": "This live session will focus on the details of music generation using the Tensorflow library. The goal is for you to understand the details of how to encode music, feed it to a well tuned model, and use it to generate really cool sounds. And I'm going to NOT use Google Hangouts, instead I'll do this",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-generate-music-with-tensorflow-live/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-generate-music-with-tensorflow-live/",
+      "originalUrl": "https://youtube.com/watch?v=pg9apmwf7og",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pg9apmwf7og\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M10S",
       "provider": {
         "name": "Siraj Raval",
         "domain": "youtube.com"
       },
-      "publishedDateTime": "2017-02-04T19:15:46-08:00",
+      "publishedDateTime": "2017-03-18T01:02:00-07:00",
       "heat": 53,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/si8zZHkufRY/hqdefault.jpg",
+          "url": "https://i.ytimg.com/vi/pg9apmwf7og/hqdefault.jpg",
           "width": 480,
           "height": 360,
           "isCached": true
@@ -132,38 +171,9 @@
       "price": "Free",
       "topics": [
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/siraj-raval-how-to-make-a-chatbot-intro-to-deep-learning-12.md",
-      "title": "How to Make a Chatbot - Intro to Deep Learning #12",
-      "excerpt": "Lets Make a Question Answering chatbot using the bleeding edge in deep learning (Dynamic Memory Network). We'll go over different chatbot methodologies, then dive into how memory networks work, with accompanying code in Keras.   Code + Challenge for this video: https://github.com/llSourcell/How_to_make_a_chatbot",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-make-a-chatbot-intro-to-deep-learning-12/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-make-a-chatbot-intro-to-deep-learning-12/",
-      "originalUrl": "https://youtube.com/watch?v=t5qgjJIBy9g",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t5qgjJIBy9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M34S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
-      },
-      "publishedDateTime": "2017-04-10T16:16:33-07:00",
-      "heat": 53,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/t5qgjJIBy9g/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
@@ -208,6 +218,46 @@
       ]
     },
     {
+      "path": "_learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8.md",
+      "title": "Build a ML model for predicting taxi fares | ML.NET [6 of 8]",
+      "excerpt": "There are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=CnmmhxGUgqg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CnmmhxGUgqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M32S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-19T19:22:31-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/CnmmhxGUgqg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8.md",
       "title": "Build a ML model for Sentiment Analysis | ML.NET [4 of 8]",
       "excerpt": "In this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
@@ -233,6 +283,46 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/p3kHlpLvWNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8.md",
+      "title": "Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]",
+      "excerpt": "Deep learning enables many more scenarios using sound, images, text and other data types. Learn how to build an Image Classification model to classify flowers (daisies, roses etc.).  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=C9p38jXKhB0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C9p38jXKhB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M46S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-19T19:40:52-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C9p38jXKhB0/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -326,14 +416,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka.md",
-      "title": "How to Select the Correct Predictive Modeling Technique | Machine Learning Training | Edureka",
-      "excerpt": "🔥Edureka Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training This Edureka video on 'Selecting The Correct Predictive Modeling Technique' covers the various deciding factors to choose the correct predictive modeling technique. Following are the topics",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=1xw915rbyG4",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1xw915rbyG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M7S",
+      "path": "_learning/videos/edureka-how-to-become-a-python-developer-python-tutorial-python-certification-training-edureka.md",
+      "title": "How To Become A Python Developer? | Python Tutorial | Python Certification Training | Edureka",
+      "excerpt": "🔵 Python Certification Training: https://www.edureka.co/data-science-python-certification-course  This Edureka video on 'How To Become A Python Developer?' will help you establish a structured approach to become a python developer. Below are the topics covered in this video: 1:45 Who Is A Python Developer",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-how-to-become-a-python-developer-python-tutorial-python-certification-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-how-to-become-a-python-developer-python-tutorial-python-certification-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=A6UVS9lcJOY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/A6UVS9lcJOY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M32S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -346,11 +436,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-06-01T03:02:13-07:00",
+      "publishedDateTime": "2019-03-28T08:14:45-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/1xw915rbyG4/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/A6UVS9lcJOY/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -406,14 +496,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-probabilistic-graphical-models-pgms-in-python-graphical-models-tutorial-edureka.md",
-      "title": "Probabilistic Graphical Models (PGMs) In Python | Graphical Models Tutorial | Edureka",
-      "excerpt": "(** www.edureka.co/graphical-modelling-course **) This Edureka \"Graphical Models\" video answers the question \"Why do we need Probabilistic Graphical Models?\" and how are they compare to Neural Networks. It takes you through the basics of PGMs and gives real-world examples of its applications.  [01:02]",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-probabilistic-graphical-models-pgms-in-python-graphical-models-tutorial-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-probabilistic-graphical-models-pgms-in-python-graphical-models-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=gpKzZiUDjxM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gpKzZiUDjxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT32M57S",
+      "path": "_learning/videos/edureka-python-machine-learning-tutorial-machine-learning-algorithms-python-training-edureka.md",
+      "title": "Python Machine Learning Tutorial | Machine Learning Algorithms | Python Training | Edureka",
+      "excerpt": "( Python Training: https://www.edureka.co/data-science-python-certification-course ) This Edureka Python tutorial (Python Tutorial Blog: https://goo.gl/wd28Zr) gives an introduction to Machine Learning and how to implement machine learning algorithms in Python.  Below are the topics covered in this tutorial:",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-python-machine-learning-tutorial-machine-learning-algorithms-python-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-python-machine-learning-tutorial-machine-learning-algorithms-python-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=nJKxWbQ1jaw",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nJKxWbQ1jaw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT23M12S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -426,11 +516,50 @@
           }
         ]
       },
-      "publishedDateTime": "2019-02-27T21:45:56-08:00",
+      "publishedDateTime": "2018-03-16T06:25:43-07:00",
       "heat": 52,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/gpKzZiUDjxM/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/nJKxWbQ1jaw/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-restricted-boltzmann-machine-neural-network-tutorial-deep-learning-tutorial-edureka.md",
+      "title": "Restricted Boltzmann Machine | Neural Network Tutorial | Deep Learning Tutorial | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training:  https://www.edureka.co/ai-deep-learning-with-tensorflow  ** This Edureka video on \"Restricted Boltzmann Machine\" will provide you with a detailed and comprehensive knowledge of Restricted Boltzmann Machines, also known as RBM. You will also get to know",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-restricted-boltzmann-machine-neural-network-tutorial-deep-learning-tutorial-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-restricted-boltzmann-machine-neural-network-tutorial-deep-learning-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=i64KpxyaLpo",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/i64KpxyaLpo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M12S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-10-17T22:47:58-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/i64KpxyaLpo/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -484,45 +613,6 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka.md",
-      "title": "Top 10 Reasons to Learn Data Science | Why Data Science? | Data Science Training | Edureka",
-      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science\" will give you enough reasons",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M22S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-05-13T05:47:12-07:00",
-      "heat": 52,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_learning/videos/freecodecamporg-theory-of-neural-networks-deep-learning-without-frameworks.md",
       "title": "Theory of Neural Networks - Deep Learning Without Frameworks",
       "excerpt": "Finally understand how deep learning and neural networks actually work. In this talk by Beau Carnes, you will learn the theory of neural networks. Instead of teaching about a framework such as Karas or TensorFlow, Beau gives an overview of the methods behind those frameworks.  First, he explaining the",
@@ -550,6 +640,68 @@
           "url": "https://i.ytimg.com/vi/u7n9t1cBei8/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16.md",
+      "title": "How to Convert Text to Images - Intro to Deep Learning #16",
+      "excerpt": "Generative Adversarial Networks are back! We'll use the cutting edge StackGAN architecture to let us generate images from text descriptions alone. This is pretty wild stuff and there is so much room for improvement. The possibilities are endless. I'll go through the architecture, code, and the implications",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-convert-text-to-images-intro-to-deep-learning-16/",
+      "originalUrl": "https://youtube.com/watch?v=gmvRStL_Dag",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gmvRStL_Dag\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M33S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-05-09T20:24:38-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/gmvRStL_Dag/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3.md",
+      "title": "How to Do Sentiment Analysis - Intro to Deep Learning #3",
+      "excerpt": "In this video, we'll use machine learning to help classify emotions! The example we'll use is classifying a movie review as either positive or negative via TF Learn in 20 lines of Python.  Coding Challenge for this video: https://github.com/llSourcell/How_to_do_Sentiment_Analysis  Ludo's winning code:",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-do-sentiment-analysis-intro-to-deep-learning-3/",
+      "originalUrl": "https://youtube.com/watch?v=si8zZHkufRY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/si8zZHkufRY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M21S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-02-04T19:15:46-08:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/si8zZHkufRY/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "isCached": true
         }
       ],
@@ -593,6 +745,37 @@
       ]
     },
     {
+      "path": "_learning/videos/siraj-raval-how-to-make-a-chatbot-intro-to-deep-learning-12.md",
+      "title": "How to Make a Chatbot - Intro to Deep Learning #12",
+      "excerpt": "Lets Make a Question Answering chatbot using the bleeding edge in deep learning (Dynamic Memory Network). We'll go over different chatbot methodologies, then dive into how memory networks work, with accompanying code in Keras.   Code + Challenge for this video: https://github.com/llSourcell/How_to_make_a_chatbot",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-make-a-chatbot-intro-to-deep-learning-12/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-make-a-chatbot-intro-to-deep-learning-12/",
+      "originalUrl": "https://youtube.com/watch?v=t5qgjJIBy9g",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/t5qgjJIBy9g\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M34S",
+      "provider": {
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-04-10T16:16:33-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/t5qgjJIBy9g/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_learning/videos/siraj-raval-word2vec-tutorial.md",
       "title": "Word2Vec (tutorial)",
       "excerpt": "In this video, we'll use a Game of Thrones dataset to create word vectors. Then we'll map these word vectors out on a graph and use them to tell us related words that we input. We'll learn how to process a dataset from scratch, go over the word vectorization process, and visualization techniques all",
@@ -619,6 +802,47 @@
       "type": "video",
       "price": "Free",
       "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow.md",
+      "title": "Build a neural network to perform classification | TensorFlow.js (Coding TensorFlow)",
+      "excerpt": "In part 3 of this series on TensorFlow.js, Laurence Moroney (@lmoroney) looks at taking the processed data from part 2, and building a neural network to perform classification with it. You’ll see how to create and stack multiple layers, use these to create a classifier, and then test that classifier",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/tensorflow-build-a-neural-network-to-perform-classification-tensorflowjs-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=4vN1tHpCkA0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4vN1tHpCkA0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M45S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-08-07T11:46:23-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/4vN1tHpCkA0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "TensorFlow",
+        "Google AI",
         "AI",
         "Machine Learning"
       ]
@@ -689,46 +913,6 @@
       "images": [
         {
           "url": "https://i.ytimg.com/vi/f2KIjQCVN0A/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8.md",
-      "title": "Build a ML model for predicting taxi fares | ML.NET [6 of 8]",
-      "excerpt": "There are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/",
-      "originalUrl": "https://youtube.com/watch?v=CnmmhxGUgqg",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CnmmhxGUgqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M32S",
-      "provider": {
-        "name": "dotNET",
-        "domain": "dotnet.microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2019-09-19T19:22:31-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/CnmmhxGUgqg/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -822,47 +1006,6 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-introduction-to-tensorflow-deep-learning-with-tensorflow-tensorflow-for-beginners-edureka.md",
-      "title": "Introduction To TensorFlow | Deep Learning with TensorFlow | TensorFlow For Beginners | Edureka",
-      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 ** This Edureka video on \"Introduction to TensorFlow\" provides you an insight into one of the top Deep Learning frameworks that you should consider learning!  Check out our Deep Learning blog series: https://bit.ly/2xVIMe1  Check out",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-introduction-to-tensorflow-deep-learning-with-tensorflow-tensorflow-for-beginners-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-introduction-to-tensorflow-deep-learning-with-tensorflow-tensorflow-for-beginners-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=Yf-grlh-moY",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yf-grlh-moY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT15M26S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-11-11T23:00:45-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Yf-grlh-moY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
       "path": "_learning/videos/edureka-machine-learning-tutorial-machine-learning-algorithm-machine-learning-engineer-program-edureka.md",
       "title": "Machine Learning Tutorial | Machine Learning Algorithm | Machine Learning Engineer Program | Edureka",
       "excerpt": "***** Python Certification Training for Data Science: https://www.edureka.co/data-science-python-certification-course ***** This Edureka video on \"Machine Learning Tutorial\" will help you get started with all the Machine Learning concepts. Below are the topics covered in this video:  1. Why Machine Learning?",
@@ -941,14 +1084,14 @@
       ]
     },
     {
-      "path": "_learning/videos/edureka-pubg-data-science-tutorial-part-1-pubg-data-analysis-data-science-training-edureka.md",
-      "title": "PUBG Data Science Tutorial - Part 1 | PUBG Data Analysis | Data Science Training | Edureka",
-      "excerpt": "🔥Edureka Python for Data Science Certification Training:     https://www.edureka.co/data-science-python-certification-course   This Edureka Data Science Tutorial (Part 2 - https://youtu.be/l2AbVQ4GPQ4) takes PUBG Statistics of players to build a Regression model using the Random Forest Algorithm to",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-pubg-data-science-tutorial-part-1-pubg-data-analysis-data-science-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-pubg-data-science-tutorial-part-1-pubg-data-analysis-data-science-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=N-E2_Lq4Yzs",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/N-E2_Lq4Yzs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT57M11S",
+      "path": "_learning/videos/edureka-probabilistic-graphical-models-pgms-in-python-graphical-models-tutorial-edureka.md",
+      "title": "Probabilistic Graphical Models (PGMs) In Python | Graphical Models Tutorial | Edureka",
+      "excerpt": "(** www.edureka.co/graphical-modelling-course **) This Edureka \"Graphical Models\" video answers the question \"Why do we need Probabilistic Graphical Models?\" and how are they compare to Neural Networks. It takes you through the basics of PGMs and gives real-world examples of its applications.  [01:02]",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-probabilistic-graphical-models-pgms-in-python-graphical-models-tutorial-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-probabilistic-graphical-models-pgms-in-python-graphical-models-tutorial-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=gpKzZiUDjxM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gpKzZiUDjxM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT32M57S",
       "provider": {
         "name": "Edureka",
         "domain": "edureka.co",
@@ -961,11 +1104,11 @@
           }
         ]
       },
-      "publishedDateTime": "2020-04-19T05:13:54-07:00",
+      "publishedDateTime": "2019-02-27T21:45:56-08:00",
       "heat": 51,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/N-E2_Lq4Yzs/maxresdefault.jpg",
+          "url": "https://i.ytimg.com/vi/gpKzZiUDjxM/maxresdefault.jpg",
           "width": 1280,
           "height": 720,
           "isCached": true
@@ -977,164 +1120,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka.md",
-      "title": "Python Certification | Data Science with Python Certification | Python Online Training | Edureka",
-      "excerpt": "🔵 Python for Data Science Training : https://www.edureka.co/data-science-python-certification-course This Edureka video on \"Python Certification\" will give you a complete insight of Python Certification, how to crack it and hands-on knowledge on various real-time projects offered by Edureka Python Certification",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-python-certification-data-science-with-python-certification-python-online-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=rwuXmw5hxOU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/rwuXmw5hxOU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT23M6S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-12-25T09:20:07-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/rwuXmw5hxOU/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka.md",
-      "title": "Python Programming Language: Interesting Facts You Need To Know | Python Training | Edureka",
-      "excerpt": "** Python Certification Training: https://www.edureka.co/data-science-python-certification-course **   Meet Python, a friendly programming language and get to know interesting facts about it. This is a short story about Python as a trending language.  #python #pythonlanguage #pythononlinetraining  Check",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-python-programming-language-interesting-facts-you-need-to-know-python-training-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=sn4eOEfaYRo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/sn4eOEfaYRo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M6S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-10-07T02:46:00-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/sn4eOEfaYRo/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-python-tutorial-for-beginners-python-full-course-python-programming-tutorial-edureka.md",
-      "title": "Python Tutorial For Beginners | Python Full Course | Python Programming Tutorial | Edureka",
-      "excerpt": "** Python Certification Training: https://www.edureka.co/data-science-python-certification-course ** This Edureka video on Python Tutorial (Python Tutorial Blog: https://goo.gl/wd28Zr) covers all the basic knowledge for beginners who are planning to switch over to Python Development.  01:19 Introduction",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-python-tutorial-for-beginners-python-full-course-python-programming-tutorial-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-python-tutorial-for-beginners-python-full-course-python-programming-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=GRN_9YkfN5w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GRN_9YkfN5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H12M41S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-09-13T23:05:42-07:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/GRN_9YkfN5w/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka.md",
-      "title": "TensorBoard Tutorial | Graph Visualization Using TensorBoard | TensorFlow Tutorial | Edureka",
-      "excerpt": "( ** AI & Deep Learning with Tensorflow Training: https://www.edureka.co/ai-deep-learning-with-tensorflow ** ) This Edureka video on \"TensorBoard Tutorial\" will provide you with a comprehensive knowledge about the TensorFlow utility and how it is used. It will also provide a hands-on knowledge about",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-tensorboard-tutorial-graph-visualization-using-tensorboard-tensorflow-tutorial-edureka/",
-      "originalUrl": "https://youtube.com/watch?v=95Mc4Sdz9oA",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/95Mc4Sdz9oA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M1S",
-      "provider": {
-        "name": "Edureka",
-        "domain": "edureka.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-12-09T21:34:36-08:00",
-      "heat": 51,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/95Mc4Sdz9oA/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],

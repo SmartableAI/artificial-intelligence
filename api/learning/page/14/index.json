@@ -4,6 +4,529 @@
   "page": 14,
   "value": [
     {
+      "path": "_learning/courses/coursera-python-and-machine-learning-for-asset-management.md",
+      "title": "Python and Machine Learning for Asset Management",
+      "excerpt": "Learn Python and Machine Learning for Asset Management  from EDHEC Business School. This course will enable you mastering machine-learning approaches in the area of investment management. It has been designed by two thought leaders in their ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-python-and-machine-learning-for-asset-management/index.json",
+      "webUrl": "https://www.coursera.org/learn/python-machine-learning-for-investment-management",
+      "length": "13 hours",
+      "ratings": {
+        "count": 12,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "EDHEC Business School"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7a/8ad137c64a4d349185e3cdab90d03f/Screens_shutterstock_1421873486.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Python and Machine Learning for Asset Management",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-recommendation-systems-with-tensorflow-on-gcp.md",
+      "title": "Recommendation Systems with TensorFlow on GCP",
+      "excerpt": "Learn Recommendation Systems with TensorFlow on GCP from Google Cloud. In this course, you'll apply your knowledge of classification models and embeddings to build a ML pipeline that functions as a recommendation engine.  • Devise a content-based ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-recommendation-systems-with-tensorflow-on-gcp/index.json",
+      "webUrl": "https://www.coursera.org/learn/recommendation-models-gcp",
+      "length": "11 hours",
+      "ratings": {
+        "count": 261,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ab/8c0ea0bc6d11e8bb1fbf678b061c16/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Recommendation Systems with TensorFlow on GCP",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-reinforcement-learning-in-finance.md",
+      "title": "Reinforcement Learning in Finance",
+      "excerpt": "Learn Reinforcement Learning in Finance from New York University Tandon School of Engineering. This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-reinforcement-learning-in-finance/index.json",
+      "webUrl": "https://www.coursera.org/learn/reinforcement-learning-in-finance",
+      "length": "21 hours",
+      "ratings": {
+        "count": 69,
+        "average": 3.4
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "New York University Tandon School of Engineering"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/37/e2ad705d1c11e89d97d1bd932bfd30/Reinforcement-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Reinforcement Learning in Finance",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-robotics-aerial-robotics.md",
+      "title": "Robotics: Aerial Robotics",
+      "excerpt": "Learn Robotics: Aerial Robotics from University of Pennsylvania. How can we create agile micro aerial vehicles that are able to operate autonomously in cluttered indoor and outdoor environments?  You will gain an introduction to the mechanics of ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-aerial-robotics/index.json",
+      "webUrl": "https://www.coursera.org/learn/robotics-flight",
+      "length": "25 hours",
+      "ratings": {
+        "count": 2117,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a0/01fb207cd911e58108cf8cb753e7a9/Aerial-Robotics-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Robotics: Aerial Robotics",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-robotics-estimation-and-learning.md",
+      "title": "Robotics: Estimation and Learning",
+      "excerpt": "Learn Robotics: Estimation and Learning from University of Pennsylvania. How can robots determine their state and properties of the surrounding environment from noisy sensor measurements in time?  In this module you will learn how to get robots ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-estimation-and-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/robotics-learning",
+      "length": "12 hours",
+      "ratings": {
+        "count": 400,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/05/679f607cda11e59e62dbe4ba62c1d4/Estimation-and-Learning-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Robotics: Estimation and Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-robotics-perception.md",
+      "title": "Robotics: Perception",
+      "excerpt": "Learn Robotics: Perception from University of Pennsylvania. How can robots perceive the world and their own movements so that they accomplish navigation and manipulation tasks?  In this module, we will study how images and videos acquired by ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-perception/index.json",
+      "webUrl": "https://www.coursera.org/learn/robotics-perception",
+      "length": "29 hours",
+      "ratings": {
+        "count": 495,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Pennsylvania"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/5971e07cda11e58108cf8cb753e7a9/Perception-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Robotics: Perception",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark.md",
+      "title": "Scalable Machine Learning on Big Data using Apache Spark",
+      "excerpt": "Learn Scalable Machine Learning on Big Data using Apache Spark from IBM. This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
+      "length": "10 hours",
+      "ratings": {
+        "count": 438,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/3942fb8d2e4ad48ab23f26dbfde712/ScaleMLwBigData.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Scalable Machine Learning on Big Data using Apache Spark",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing.md",
+      "title": "Sequence Models for Time Series and Natural Language Processing",
+      "excerpt": "This course is an introduction to sequence models and their applications, including an overview of sequence model architectures and how to handle inputs of variable length.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing/index.json",
+      "webUrl": "https://www.coursera.org/learn/sequence-models-tensorflow-gcp",
+      "length": "13 hours",
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/2e6640bc6d11e8b73f2961737adc73/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Sequence Models for Time Series and Natural Language Processing",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-sequence-models.md",
+      "title": "Sequence Models",
+      "excerpt": "Learn Sequence Models from deeplearning.ai. This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequence-models/index.json",
+      "webUrl": "https://www.coursera.org/learn/nlp-sequence-models",
+      "length": "17 hours",
+      "ratings": {
+        "count": 19788,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai",
+            "domain": "deeplearning.ai",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deeplearning.ai-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/38/1d2dd0104e11e8a9fde55ba46c309d/CarouselAds_DL_Sequence.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Sequence Models",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-sequences-time-series-and-prediction.md",
+      "title": "Sequences, Time Series and Prediction",
+      "excerpt": "Learn Sequences, Time Series and Prediction from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequences-time-series-and-prediction/index.json",
+      "webUrl": "https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction",
+      "length": "8 hours",
+      "ratings": {
+        "count": 853,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/075c1fda9d419b8d763b1b988d36ba/TFC4SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Sequences, Time Series and Prediction",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform.md",
       "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
       "excerpt": "Learn Serverless Machine Learning with Tensorflow on Google Cloud Platform from Google Cloud. This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google ...",
@@ -51,6 +574,56 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars.md",
+      "title": "State Estimation and Localization for Self-Driving Cars",
+      "excerpt": "Learn State Estimation and Localization for Self-Driving Cars from University of Toronto. Welcome to State Estimation and Localization for Self-Driving Cars, the second course in University of Toronto’s Self-Driving Cars Specialization. We ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/state-estimation-localization-self-driving-cars",
+      "length": "24 hours",
+      "ratings": {
+        "count": 190,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/46/f68ed0145511e9af5373d793509056/Course2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "State Estimation and Localization for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -856,572 +1429,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started.md",
-      "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
-      "excerpt": "This course is an introduction to the Microsoft Bot Framework v4 - a centralized framework that allows you to create, edit and deploy Chatbots quickly and easily. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/microsoft-bot-framework-building-bots-getting-started-2019",
-      "length": "3h 27m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Matthew Kruczek",
-            "type": "profile",
-            "name": "Matthew Kruczek"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "Chatbot"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/microsoft-bot-framework-building-bots-getting-started-2019-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-classification-models-with-scikit-learn.md",
-      "title": "Building Classification Models with scikit-learn",
-      "excerpt": "This course covers several important techniques used to implement classification in scikit-learn, starting with logistic regression, moving on to Discriminant Analysis, Naive Bayes and the use of Decision Trees, and then even more advanced techniques such as Support Vector Classification and Stochastic Gradient Descent Classification.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-classification-models-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-classification-models-scikit-learn",
-      "length": "2h 33m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-classification-models-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Classification Models with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-clustering-models-with-scikit-learn.md",
-      "title": "Building Clustering Models with scikit-learn",
-      "excerpt": "This course covers several important techniques used to implement clustering in scikit-learn, including the K-means, mean-shift and DBScan clustering algorithms, as well as the role of hyperparameter tuning, and performing clustering on image data.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-clustering-models-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-clustering-models-scikit-learn",
-      "length": "2h 33m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-clustering-models-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Clustering Models with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-deep-learning-models-using-pytorch.md",
-      "title": "Building Deep Learning Models Using PyTorch",
-      "excerpt": "In this course, you will learn to work with PyTorch and all the libraries that it has to offer, from first principles - starting with Torch tensors, dynamic computation graphs, and the autograd library, to compute gradients.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-deep-learning-models-using-pytorch/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/pytorch-building-deep-learning-models",
-      "length": "3h 18m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/pytorch-building-deep-learning-models-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Deep Learning Models Using PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Facebook AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-features-from-numeric-data.md",
-      "title": "Building Features from Numeric Data",
-      "excerpt": "This course exhaustively covers data preprocessing techniques and transforms available in scikit-learn, allowing the construction of highly optimized features that are scaled, normalized and transformed in mathematically sound ways to fully harness the power of machine learning techniques. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-features-from-numeric-data/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-features-numeric-data",
-      "length": "2h 25m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-features-numeric-data-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Features from Numeric Data",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure.md",
-      "title": "Building Features from Text Data in Microsoft Azure",
-      "excerpt": "This course covers aspects of building text features for machine learning using Azure Machine Learning Service virtual machines, including tokenization, stopword removal, feature vectorization, and more from natural language processing. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-building-features-text-data",
-      "length": "1h 54m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Michael Heydt",
-            "type": "profile",
-            "name": "Michael Heydt"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-building-features-text-data-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Features from Text Data in Microsoft Azure",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-features-from-text-data.md",
-      "title": "Building Features from Text Data",
-      "excerpt": "This course covers aspects of extracting information from text documents and constructing classification models including feature vectorization, locality-sensitive hashing, stopword removal, lemmatization, and more from natural language processing. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-features-from-text-data/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-features-text-data",
-      "length": "2h 36m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-features-text-data-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Features from Text Data",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-image-processing-applications-using-scikit-image.md",
-      "title": "Building Image Processing Applications Using scikit-image",
-      "excerpt": "In this course, you'll explore the scikit-image Python library which allows you to apply sophisticated image processing techniques to images and to quickly extract important insights or pre-process images for input to machine learning models.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-image-processing-applications-using-scikit-image/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/scikit-image-building-image-processing-applications",
-      "length": "1h 49m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/scikit-image-building-image-processing-applications-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Image Processing Applications Using scikit-image",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn.md",
-      "title": "Building Machine Learning Models in Python with scikit-learn",
-      "excerpt": "Scikit-learn is one of the most popular ML libraries in Python. Use libraries specialized regression models such as Lasso and Ridge to build and train your ML models.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models",
-      "length": "3h 13m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/python-scikit-learn-building-machine-learning-models-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Machine Learning Models in Python with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-neural-networks-with-scikit-learn.md",
-      "title": "Building Neural Networks with scikit-learn",
-      "excerpt": "This course covers all the important aspects of support currently available in scikit-learn for the construction and training of neural networks, including the perceptron, MLPClassifier, and MLPRegressor, as well as Restricted Boltzmann Machines. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-neural-networks-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-neural-networks-scikit-learn",
-      "length": "1h 55m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-neural-networks-scikit-learn-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Neural Networks with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-regression-models-with-scikit-learn.md",
-      "title": "Building Regression Models with scikit-learn",
-      "excerpt": "This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-regression-models-with-scikit-learn/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/building-regression-models-scikit-learn",
-      "length": "2h 42m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Janani Ravi",
-            "type": "profile",
-            "name": "Janani Ravi"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/building-regression-models-scikit-learn-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Building Regression Models with scikit-learn",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
