@@ -2,7 +2,7 @@
 name: "Mythic"
 overview: "Isocline's microchip technology adds high-quality artificial intelligence to any device. By providing unmatched performance under a tiny power budget, devices can unhook from the cloud and process intelligence locally in real-time. As a hyperscalable technology, Isocline's target products range from assisting voice controlled fitness trackers to fully autonomous vehicles."
 type: "profile"
-heat: 65
+heat: 72
 
 website: https://www.mythic-ai.com
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=q59k-4c-hbk"
 
-secured: "PTG32Qn73AcmFom2XCmsRpTqp8/GQQJ+rPfT8nSC/oG+Vep/lCeMv/cd7Jul9E4u/0RI0trp5uIiXy7pIW7EBPHKdjT3UCyXjbpMIAAsfyLGvwQAMmMxV4cAq6aBe/YznHKb2Oxf16cNycrCLpbb71TRe9++PzpslA/6g8K8S1a7m60h/qiK7gdqYW/5dpAOSKUfv3lhjFrRXNInPsCOigxAa90+3MIhL0SUFTelRfn2ZfRHU9RcCA/bFITPorJKNAQiD0MNOk0OL1HAqLXArTv9LkRWONLlmUxYnK9Fk1vfLqBJ05arSpvabatbMZzEptSssuQeSYBSwc9w1XuTz6ikWdZOBbiFP2REXzgllqXNdy4MxaZv9681ahuodjaHstuiP51TEPYncZF/KfqPnA==;MA9Fdnyl9IHyfAtZ5m+3LQ=="
+secured: "Tg6O3l36h6pmoh+RkG0mv8dAGxo2YMhE8K8K0IaW0wexELAFhafPMJv5qOMEkZPXhBIn91cetkymMZ0IRQQ6fVtFUPWrPMERYfepfd43GRDBU9gjcK6+eMUZTOmCi6/7Dr/IanQrAUxEa/B6/e3mwYo69TBnKdo6sq0wFQcCofTO5/TJhGFj/yTVdT0e4h5RGF2oTK+MEli2jQk9e6+P2uoJlQrGXWeBaGBGXQO8xbLQmaxjJ29MKohg7FDIR0NY7wyVtdFMppyQzZji+40ZA8M4ujkuJuHsnSUvwKDSNIx0y+IYPDw26A5jiUame59gjRHlkmQSZN8mlyDvyCB2V1AoqdyFHxLnhsdFXUEL2GcayYpOGVX/1xKVpR2snPdcQcNVOkNffPFjqsEo3y0Evw==;ruVpjiS6WKnlqo4vLPG5EQ=="
 ---
 

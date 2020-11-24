@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bossanova"
   url: "https://twitter.com/bossanova"
-  followers: 1230
+  followers: 1229
 
 size: 51-200 employees
 yearFounded: 2005
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=KykP6wTp1Qk"
 
-secured: "TUuMmI3HQxsVcia3zOlmm9ChgV2eXa8alk/Xtox3cvAeOwnUoG26ged5DKCKPTOW2+KTF8L7sQJ2/HyoAfg+CT/kRBmo//inZPMcZehdDMn4Mu1vJNnZwWcYUET99xu2KLDXcB8Y78LgxD8zUaaA4u2mC+S0ZNGRIGiyEkVh8Kpf6peAn8UrN76a+RuLBT2w8LOQXnvpOUJJ5EOsxrQpyz30okz5FqWioS7tFHuTd+0xv2Y5r5IdMgVyf2qJ9PZE38XNelbPrDKWAbrqYWp+Kmyx64cNm78sHFXReZPQwxwkLrzVTxb8q2VUc0ox3HNUHqFmvlypucE+izxag+lWC7tglIyigg5VoMxxgQO6IW1tirnIsBKS+uk+AlGbNeK2jaYzwlYOB/W4zCE7SXtFmd6EXgYh3BNSqy2pSF0qSts=;znzi/LJZHggW0atsiShHQQ=="
+secured: "81abBmHvHcjrUlvK/3ERHllulnTZgAm5vYgDf9WQimkQiQQOU+0f8meOgC0GoZ3ix6gK95ES8AaBykSe98aem0Vfz4H6WthDLGcBUPw1yseJEbSHZghEurFyxd0KWExd9Ec9KmsiG7r5VMS/TFORWhfNMcFQi8LVFT4BKGJBzNzfKtSMDXO6dVw3xqj99ILLUlDOFa4TSbk+vipQ/ibI2ZnwbKsGsTLqOfcMeVYzB9toorLfPMufZobw+4JVO/GOR1X2BJR7ZYGWRiQI8Sq+TmquGIFAc4XQLl0r4krn4MVVZk/iDhxffELxEdcHVX+y4XwNiSqDO/R3f7/9O71IMre0rIr+1fN4NIK3QXsz+q3IoNA+5CX50JPdkjx5lv1AjVw9LfhKzyGog8WVYEha4SmgJzK0qQCIrJ2TRjlfQws=;TmD2qz/YI2hKTRJKEMk9zg=="
 ---
 

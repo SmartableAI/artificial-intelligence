@@ -2,7 +2,7 @@
 name: "Bear Robotics"
 overview: "Bear Robotics was started in 2017 to address the increased pressure faced by the food service industry around wages, labor supply, and cost efficiencies. Our company has developed a robot named Penny enabled by artificial intelligence and able to autonomously shuttle food from a kitchen out to tables and bring dishes back for cleaning."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://bearrobotics.ai/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Dojvmqx49fw"
 
-secured: "EoTjfPX9Zg1EcKrU4PAzl85TvDt8MNcAb6g5yzwN8jWT+19REzb09lPtrz7baz+Oc7lJwFeTVUEUPtjaJc4HsdrArsIIsbVn5AYoq1FnH/iumWyPGLT9FgGSaNHoAEnsu2/Ykf8haHN3aQkaYwl4Q/8ivYIsrGjTTFavX1J8KzMGo9Geb9HVvAc8np8VZj7LEbD3mD3aRkL3uCY9ebSTAQ0Ycz5bC5GwuW8JY1UbYNDNI/EZMa0kCkYL5elBxxlm6mlVNFUlmi5/MeEneSNBDfcI4nPCIbFeJcHYlIOGiJ9YXaOHKZOg4OK0NB7o4+QtOSKXZ8Z8qWWTQQ6AFOyXBmOzMe0NrIoRy9vxgefj0Z2GK4hHRqDNbCy1/wm+Vp3satgSIIIjtiV/oteE8otLiw==;6HXQswOgfNZXip1AxMcKLA=="
+secured: "1yFWjW2Hor2QAUqBEIMfz5sMfOGmT251tzX4YQB6i1PBntP86TgjLN1t5c1W1riszSNAcKPswevXfah+ldivyTmP2r5Aa61SXCRdq6Zeh5WOkDfLs7IFiL5pvOEOPo43kRNMxjf1G7DDOLw/OLpshiUd+LEd1DQDnEVate14Cv76h6EQQJ3dHqNb8VTApqeQ7+BHZs/sj8o4eBSvQWVeGKe4qX7eSIaPqwdlS3VmfFVORHXXFB8LQCSsGT9h43r2DXE3JvO8VVVVnJ5YHK5HADe/EqMCQ2b1VRaEkNi2mMuBS3KkfblbmPrkwceZAaPWDe1AXlWSlLUlVa8DuvjUk0RckW0ecUTAC/Uq0qqS2YYrw9kRsr50qJmRwHsO8I32v/jiBumvCfw8nnpN4NrOuA==;m7VqTbw/GYgYv0dNz2f9xA=="
 ---
 
