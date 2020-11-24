@@ -4,54 +4,156 @@
   "page": 7,
   "value": [
     {
-      "path": "_learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems.md",
-      "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
-      "excerpt": "Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-hands-on-machine-learning-with-scikit-learn-and-tensorflow-concepts-tools-and-techniques-to-build-intelligent-systems/index.json",
-      "webUrl": "https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291/",
-      "ratings": {
-        "count": 745,
-        "average": 4.4
-      },
+      "path": "_learning/videos/simplilearn-machine-learning-projects-machine-learning-applications-machine-learning-training-simplilearn.md",
+      "title": "Machine Learning Projects | Machine Learning Applications | Machine Learning Training | Simplilearn",
+      "excerpt": "In this Machine Learning video, we'll look at the Top 10 Machine Learning Projects that are majorly used in the industries. You'll learn the different algorithms and the models that are required for the projects. This video will also help any Machine Learning enthusiast to get an idea about how these",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-machine-learning-projects-machine-learning-applications-machine-learning-training-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-machine-learning-projects-machine-learning-applications-machine-learning-training-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=ryrIivu4dWA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/ryrIivu4dWA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M13S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Aur&amp;eacute;lien G&amp;eacute;ron",
-            "type": "profile",
-            "name": "Aur&amp;eacute;lien G&amp;eacute;ron"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
+      "publishedDateTime": "2020-08-21T22:11:14-07:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71P4atQpTbL._AC_UY218_ML3_.jpg",
-          "width": 156,
-          "height": 218,
-          "title": "Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/ryrIivu4dWA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$50.99",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-random-forest-in-r-random-forest-algorithm-random-forest-tutorial-machine-learning-simplilearn.md",
+      "title": "Random Forest In R | Random Forest Algorithm | Random Forest Tutorial |Machine Learning |Simplilearn",
+      "excerpt": "This Random Forest in R tutorial will help you understand what is Random Forest, how does a Random Forest work, applications of Random Forest, important terms to know and you will also see a use case implementation where we predict the quality of wine using a given dataset.   Below topics are explained",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-random-forest-in-r-random-forest-algorithm-random-forest-tutorial-machine-learning-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-random-forest-in-r-random-forest-algorithm-random-forest-tutorial-machine-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=HeTT73WxKIc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/HeTT73WxKIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT27M1S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T01:13:11-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/HeTT73WxKIc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-support-vector-machine-in-r-svm-algorithm-example-data-science-with-r-tutorial-simplilearn.md",
+      "title": "Support Vector Machine in R | SVM Algorithm Example | Data Science With R Tutorial | Simplilearn",
+      "excerpt": "This Support Vector Machine in R tutorial video will help you understand what is Machine Learning, what is classification, what is Support Vector Machine (SVM), what is SVM kernel and you will also see a use case in which we will classify horses and mules from a given data set using SVM algorithm. SVM",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-support-vector-machine-in-r-svm-algorithm-example-data-science-with-r-tutorial-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-support-vector-machine-in-r-svm-algorithm-example-data-science-with-r-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=QkAmOb1AMrY",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/QkAmOb1AMrY\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT21M3S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-01-07T01:13:41-08:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/QkAmOb1AMrY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-tensorflow-object-detection-realtime-object-detection-with-tensorflow-tensorflow-simplilearn.md",
+      "title": "TensorFlow Object Detection | Realtime Object Detection With TensorFlow | TensorFlow | Simplilearn",
+      "excerpt": "Object detection is a popular application of machine learning. In this video, we'll understand object detection using the TensorFlow library. TensorFlow object detection API supports a wide range of functions to perform object detection on images and videos. We'll deploy pre-trained models using the",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-tensorflow-object-detection-realtime-object-detection-with-tensorflow-tensorflow-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-tensorflow-object-detection-realtime-object-detection-with-tensorflow-tensorflow-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=LY0YxXvEOsQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LY0YxXvEOsQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT11M15S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-09-25T08:00:39-07:00",
+      "heat": 54,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LY0YxXvEOsQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning",
@@ -60,579 +162,171 @@
       ]
     },
     {
-      "path": "_learning/books/amazon-learning-from-data.md",
-      "title": "Learning From Data",
-      "excerpt": "This book, together with specially prepared online material freely accessible to our readers, provides a complete introduction to Machine Learning, the technology that enables computational systems to adaptively improve their performance with experience accumulated from the observed data.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-from-data/index.json",
-      "webUrl": "https://www.amazon.com/Learning-Data-Yaser-S-Abu-Mostafa/dp/1600490069/",
-      "ratings": {
-        "count": 172,
-        "average": 4.5
-      },
+      "path": "_learning/videos/simplilearn-what-is-a-neural-network-how-deep-neural-networks-work-neural-network-tutorial-simplilearn.md",
+      "title": "What is a Neural Network? | How Deep Neural Networks Work | Neural Network Tutorial | Simplilearn",
+      "excerpt": "This Neural Network tutorial will help you understand what is deep learning, what is a neural network, how deep neural network works, advantages of neural network, applications of neural network and the future of neural network. Deep Learning uses advanced computing power and special types of neural",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-what-is-a-neural-network-how-deep-neural-networks-work-neural-network-tutorial-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-what-is-a-neural-network-how-deep-neural-networks-work-neural-network-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=VB1ZLvgHlYs",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/VB1ZLvgHlYs\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M6S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Yaser S. Abu-Mostafa",
-            "type": "profile",
-            "name": "Yaser S. Abu-Mostafa"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-01-07T01:16:01-08:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/81k-OvvReZL._AC_UY218_ML3_.jpg",
-          "width": 142,
-          "height": 218,
-          "title": "Learning From Data",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/VB1ZLvgHlYs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$28.00",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library.md",
-      "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
-      "excerpt": "\"This library is useful for practitioners, and is an excellent tool for those entering the field: it is a set of computer vision algorithms that work as advertised.\"-William T. Freeman, Computer Science and Artificial Intelligence Laboratory, Massachusetts Institute of Technology Learning OpenCV puts you in the middle of the rapidly expanding field of computer vision. Written by the creators of the",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-learning-opencv-computer-vision-with-the-opencv-library/index.json",
-      "webUrl": "https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/",
-      "ratings": {
-        "count": 771,
-        "average": 4.3
-      },
+      "path": "_learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8.md",
+      "title": "How to Generate Art - Intro to Deep Learning #8",
+      "excerpt": "We're going to learn how to use deep learning to convert an image into the style of an artist that we choose. We'll go over the history of computer generated art, then dive into the details of how this process works and why deep learning does it so well.  Coding challenge for this video: https://github.com/llSourcell/How-to-Generate-Art-Demo",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-generate-art-intro-to-deep-learning-8/",
+      "originalUrl": "https://youtube.com/watch?v=Oex0eWoU7AQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Oex0eWoU7AQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M57S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Gary Bradski",
-            "type": "profile",
-            "name": "Gary Bradski"
-          }
-        ]
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2017-03-18T01:02:00-07:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/51KZWTKsUBL._SX383_BO1,204,203,200_.jpg",
-          "width": 385,
-          "height": 499,
-          "title": "Learning OpenCV: Computer Vision with the OpenCV Library",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/Oex0eWoU7AQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-life-30-being-human-in-the-age-of-artificial-intelligence.md",
-      "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
-      "excerpt": "How will artificial intelligence affect crime, war, justice, jobs, society, and our very sense of being human? The rise of AI has the potential to transform our future more than any other technology - and there's nobody better qualified or situated to explore that future than Max Tegmark, an MIT professor who's helped mainstream research on how to keep AI beneficial.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-life-30-being-human-in-the-age-of-artificial-intelligence/index.json",
-      "webUrl": "https://www.amazon.com/Life-3-0-Being-Artificial-Intelligence/dp/B0742JQF31/",
-      "ratings": {
-        "count": 310,
-        "average": 4.3
-      },
+      "path": "_learning/videos/siraj-raval-how-to-make-a-language-translator-intro-to-deep-learning-11.md",
+      "title": "How to Make a Language Translator - Intro to Deep Learning #11",
+      "excerpt": "Let's build our own language translator using Tensorflow! We'll go over several translation methods and talk about how Google Translate is able to achieve state of the art performance.   Code for this video: https://github.com/llSourcell/How_to_make_a_language_translator  Ryan's Winning Code: https://github.com/rtlee9/recipe-summarization",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-make-a-language-translator-intro-to-deep-learning-11/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-make-a-language-translator-intro-to-deep-learning-11/",
+      "originalUrl": "https://youtube.com/watch?v=nRBnh4qbPHI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nRBnh4qbPHI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT8M48S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Max Tegmark",
-            "type": "profile",
-            "name": "Max Tegmark"
-          }
-        ]
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2017-03-27T22:15:26-07:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71L0Wz980PL._AC_UY218_ML3_.jpg",
-          "width": 239,
-          "height": 218,
-          "title": "Life 3.0: Being Human in the Age of Artificial Intelligence",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/nRBnh4qbPHI/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$17.00",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-linear-algebra-step-by-step.md",
-      "title": "Linear Algebra: Step by Step",
-      "excerpt": "Linear algebra is a fundamental area of mathematics, and is arguably the most powerful mathematical tool ever developed. It is a core topic of study within fields as diverse as: business, economics, engineering, physics, computer science, ecology, sociology, demography and genetics.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-linear-algebra-step-by-step/index.json",
-      "webUrl": "https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh-ebook/dp/B016WNBNGI/",
-      "ratings": {
-        "count": 132,
-        "average": 4.8
-      },
+      "path": "_learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1.md",
+      "title": "How to Make a Prediction - Intro to Deep Learning #1",
+      "excerpt": "Welcome to Intro to Deep Learning! This course is for anyone who wants to become a deep learning engineer. I'll take you from the very basics of deep learning to the bleeding edge over the course of 4 months. In this video, we’ll predict an animal’s body weight given it’s brain weight using linear regression",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-make-a-prediction-intro-to-deep-learning-1/",
+      "originalUrl": "https://youtube.com/watch?v=vOppzHpvTiQ",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vOppzHpvTiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M52S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Kuldeep Singh",
-            "type": "profile",
-            "name": "Kuldeep Singh"
-          }
-        ]
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2017-01-17T23:47:34-08:00",
+      "heat": 54,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71dfHU9VTEL._AC_UY218_ML3_.jpg",
-          "width": 168,
-          "height": 218,
-          "title": "Linear Algebra: Step by Step",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/vOppzHpvTiQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$37.72",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science.md",
-      "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science",
-      "excerpt": "Master the World of Machine Learning – Even if You’re a Complete Beginner.  Are you an aspiring entrepreneur? Or are you an amateur software developer looking for a break in the world of machine learning? Then this is the book for you.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-machine-learning-mathematics-study-deep-learning-through-data-science/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Mathematics-Artificial-Intelligence-ebook/dp/B07Z413J9J/",
-      "ratings": {
-        "count": 25,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Samuel Hack",
-            "type": "profile",
-            "name": "Samuel Hack"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91jusWlaXVL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Machine Learning Mathematics: Study Deep Learning Through Data Science. How to Build Artificial Intelligence Through Concepts of Statistics, Algorithms, Analysis and Data Mining",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$19.38",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts.md",
-      "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
-      "excerpt": "In this book, you find out types of machine learning techniques, models, and algorithms that can help achieve results for your company. This data helps each business and technical leaders find out how to use machine learning to anticipate and predict the future.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Beginners-Understand-Intermediate-ebook/dp/B07RHG1WGF/",
-      "ratings": {
-        "count": 12,
-        "average": 3.5
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Steven Samelson",
-            "type": "profile",
-            "name": "Steven Samelson"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced",
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81xbTFIyCmL._AC_UY218_ML3_.jpg",
-          "width": 136,
-          "height": 218,
-          "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$18.59",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition.md",
-      "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
-      "excerpt": "Third edition of the bestselling, widely acclaimed R machine learning book, updated and improved for R 3.6 and beyond",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/",
-      "ratings": {
-        "count": 41,
-        "average": 4.7
-      },
+      "path": "_learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8.md",
+      "title": "Getting started with ML.NET | ML.NET [3 of 8]",
+      "excerpt": "Learn how you can get started with ML.NET on Windows, Mac, and Linux using tools (ML.NET Model Builder, ML.NET CLI) or code-first using ML.NET API.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/dotnet-getting-started-with-mlnet-mlnet-3-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=7U14iupLMdk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7U14iupLMdk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT15M51S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Brett Lantz",
-            "type": "profile",
-            "name": "Brett Lantz"
-          }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-09-19T18:05:43-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71FSR2wHzhL._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/7U14iupLMdk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$35.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-numsense-data-science-for-the-layman-no-math-added.md",
-      "title": "Numsense! Data Science for the Layman: No Math Added",
-      "excerpt": "This book has been written in layman's terms as a gentle introduction to data science and its algorithms. Each algorithm has its own dedicated chapter that explains how it works, and shows an example of a real-world application. To help you grasp key concepts, we stick to intuitive explanations and visuals. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-numsense-data-science-for-the-layman-no-math-added/index.json",
-      "webUrl": "https://www.amazon.com/Numsense-Data-Science-Layman-Added-ebook/dp/B01N29ZEM6/",
-      "ratings": {
-        "count": 154,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Annalyn Ng",
-            "type": "profile",
-            "name": "Annalyn Ng"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/71IWFmZDhcL._AC_UY218_ML3_.jpg",
-          "width": 160,
-          "height": 218,
-          "title": "Numsense! Data Science for the Layman: No Math Added",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$27.54",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era.md",
-      "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
-      "excerpt": "In as little as a decade, artificial intelligence could match and then surpass human intelligence. Corporations and government agencies around the world are pouring billions into achieving AI's Holy Grail―human-level intelligence. Once AI has attained it, scientists argue, it will have survival drives much like our own. We may be forced to compete with a rival more cunning, more powerful, and more alien than we can imagine.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era/index.json",
-      "webUrl": "https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/",
-      "ratings": {
-        "count": 467,
-        "average": 4.1
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "James Barrat",
-            "type": "profile",
-            "name": "James Barrat"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41ozMLdzJHL._AC_UY218_ML3_.jpg",
-          "width": 146,
-          "height": 218,
-          "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$10.88",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics.md",
-      "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
-      "excerpt": "This is the first textbook on pattern recognition to present the Bayesian viewpoint. The book presents approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. It uses graphical models to describe probability distributions when no other books apply graphical models to machine learning. No previous knowledge of pattern recognition or machine learning concepts is assumed. Familiarity with multivariate calculus and basic linear algebra is required, and some experience in the use of probabilities would be helpful though not essential as the book includes a self-contained introduction to basic probability theory.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics/index.json",
-      "webUrl": "https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/",
-      "ratings": {
-        "count": 324,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Christopher M. Bishop",
-            "type": "profile",
-            "name": "Christopher M. Bishop"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate",
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/61FKyOeM7KL._AC_UY218_ML3_.jpg",
-          "width": 161,
-          "height": 218,
-          "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$50.76",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions.md",
-      "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-      "excerpt": "Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply Automated Machine Learning, a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/",
-      "ratings": {
-        "count": 3,
-        "average": 4.3
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Deepak Mukunthu",
-            "type": "profile",
-            "name": "Deepak Mukunthu"
-          },
-          {
-            "path": "",
-            "title": "Parashar Shah",
-            "type": "profile",
-            "name": "Parashar Shah"
-          },
-          {
-            "path": "",
-            "title": "Wee Hyong Tok",
-            "type": "profile",
-            "name": "Wee Hyong Tok"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81-SGy1qqGL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$44.65",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Microsoft AI",
@@ -640,936 +334,807 @@
       ]
     },
     {
-      "path": "_learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts.md",
-      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-      "excerpt": "Statistical methods are a key part of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/",
-      "ratings": {
-        "count": 173,
-        "average": 4.3
-      },
+      "path": "_learning/videos/edureka-backpropagation-and-gradient-descent-tutorial-deep-learning-tutorial-part-2-edureka.md",
+      "title": "Backpropagation And Gradient Descent Tutorial | Deep Learning Tutorial - Part 2 | Edureka",
+      "excerpt": "TensorFlow Training - https://www.edureka.co/ai-deep-learning-with-tensorflow    Part - 1 Introduction to Neural Networks: https://www.youtube.com/watch?v=WLxI4D01nj8 This Edureka video on \"Backpropagation and Gradient Descent Tutorial\" is part 2 of the neural network series. It will provide you with",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-backpropagation-and-gradient-descent-tutorial-deep-learning-tutorial-part-2-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-backpropagation-and-gradient-descent-tutorial-deep-learning-tutorial-part-2-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Dws9Zveu9ug",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Dws9Zveu9ug\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M11S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Peter Bruce",
-            "type": "profile",
-            "name": "Peter Bruce"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-09-04T04:29:11-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/91-41U+btKL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/Dws9Zveu9ug/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$28.40",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning.md",
-      "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
-      "excerpt": "Time series data analysis is increasingly important due to the massive production of such data through the internet of things, the digitalization of healthcare, and the rise of smart cities. As continuous monitoring and data collection become more common, the need for competent time series analysis with both statistical and machine learning techniques will increase.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning/index.json",
-      "webUrl": "https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/",
-      "ratings": {
-        "count": 24,
-        "average": 3.9
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Aileen Nielsen",
-            "type": "profile",
-            "name": "Aileen Nielsen"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/91vNT0C2lrL._AC_UY218_ML3_.jpg",
-          "width": 166,
-          "height": 218,
-          "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$42.99",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die.md",
-      "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
-      "excerpt": "An introduction for everyone. In this rich, fascinating — surprisingly accessible — introduction, leading expert Eric Siegel reveals how predictive analytics (aka machine learning) works, and how it affects everyone every day. Rather than a “how to” for hands-on techies, the book serves lay readers and experts alike by covering new case studies and the latest state-of-the-art techniques.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die/index.json",
-      "webUrl": "https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/",
-      "ratings": {
-        "count": 211,
-        "average": 4.0
-      },
+      "path": "_learning/videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka.md",
+      "title": "Bias-Variance In Machine Learning | Bias Variance Trade Off | Machine Learning Training | Edureka",
+      "excerpt": "** Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training  ** This Edureka video on 'Bias Variance In Machine Learning' covers the concept of bias and variance in a machine learning model and how it affects the performance of the model. Following are the",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-bias-variance-in-machine-learning-bias-variance-trade-off-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=Yl8vbEcWxOc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Yl8vbEcWxOc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT9M11S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Eric Siegel",
-            "type": "profile",
-            "name": "Eric Siegel"
-          }
         ]
       },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-01-15T20:18:41-08:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/51JX7J+2QeL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/Yl8vbEcWxOc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$19.99",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data.md",
-      "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
-      "excerpt": "Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data/index.json",
-      "webUrl": "https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/",
-      "ratings": {
-        "count": 386,
-        "average": 4.7
-      },
+      "path": "_learning/videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka.md",
+      "title": "Deep Learning Tutorial | Deep Learning Tutorial for Beginners | Neural Networks | Edureka",
+      "excerpt": "( Deep Learning Training - https://www.edureka.co/ai-deep-learning-with-tensorflow ) This Edureka \"Deep Learning Tutorial\" video (Blog: https://goo.gl/4zxMfU) will help you to understand about Deep Learning concepts in detail with multiple examples using TensorFlow. This Deep Learning tutorial is ideal",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-deep-learning-tutorial-deep-learning-tutorial-for-beginners-neural-networks-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=nl_4WFHQ4LU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/nl_4WFHQ4LU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H24M2S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Hadley Wickham",
-            "type": "profile",
-            "name": "Hadley Wickham"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-01-14T22:24:48-08:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71PFVFcIXnL._AC_UY218_ML3_.jpg",
-          "width": 134,
-          "height": 218,
-          "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/nl_4WFHQ4LU/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$38.79",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability.md",
-      "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
-      "excerpt": "A sparse statistical model has only a small number of nonzero parameters or weights; therefore, it is much easier to estimate and interpret than a dense model. Statistical Learning with Sparsity: The Lasso and Generalizations presents methods that exploit sparsity to help recover the underlying signal in a set of data.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability/index.json",
-      "webUrl": "https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/",
-      "ratings": {
-        "count": 11,
-        "average": 4.8
-      },
+      "path": "_learning/videos/edureka-future-of-aiml-rise-of-artificial-intelligence-machine-learning-ai-and-ml-training-edureka.md",
+      "title": "Future of AI/ML | Rise Of Artificial Intelligence & Machine Learning | AI and ML Training | Edureka",
+      "excerpt": "🔥Edureka NIT Warangal Post Graduate Program on AI and Machine Learning: https://www.edureka.co/post-graduate/machine-learning-and-ai This Edureka Tutorial on \"Future Of AI/ML\" talks about the future possibilities of artificial intelligence and Machine Learning and how we can get a job in AI/ML. Below",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-future-of-aiml-rise-of-artificial-intelligence-machine-learning-ai-and-ml-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-future-of-aiml-rise-of-artificial-intelligence-machine-learning-ai-and-ml-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=JFB_751d2uc",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JFB_751d2uc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT16M21S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Trevor Hastie",
-            "type": "profile",
-            "name": "Trevor Hastie"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-03-17T06:53:12-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/51Q6p6XXw3L._AC_UY218_ML3_.jpg",
-          "width": 142,
-          "height": 218,
-          "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/JFB_751d2uc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$83.05",
-      "topics": [
-        "AI",
-        "Math for AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/books/amazon-superintelligence-paths-dangers-strategies.md",
-      "title": "Superintelligence: Paths, Dangers, Strategies",
-      "excerpt": "Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-superintelligence-paths-dangers-strategies/index.json",
-      "webUrl": "https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/",
-      "ratings": {
-        "count": 862,
-        "average": 4.1
-      },
-      "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Nick Bostrom",
-            "type": "profile",
-            "name": "Nick Bostrom"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/81NHfj5hhgL._AC_UY218_ML3_.jpg",
-          "width": 143,
-          "height": 218,
-          "title": "Superintelligence: Paths, Dangers, Strategies",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "book",
-      "price": "$9.99",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect.md",
-      "title": "The Book of Why: The New Science of Cause and Effect",
-      "excerpt": "A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect/index.json",
-      "webUrl": "https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/",
-      "ratings": {
-        "count": 295,
-        "average": 4.3
-      },
+      "path": "_learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka.md",
+      "title": "How to Select the Correct Predictive Modeling Technique | Machine Learning Training | Edureka",
+      "excerpt": "🔥Edureka Machine Learning Certification Training: https://www.edureka.co/machine-learning-certification-training This Edureka video on 'Selecting The Correct Predictive Modeling Technique' covers the various deciding factors to choose the correct predictive modeling technique. Following are the topics",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-how-to-select-the-correct-predictive-modeling-technique-machine-learning-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=1xw915rbyG4",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/1xw915rbyG4\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M7S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Judea Pearl",
-            "type": "profile",
-            "name": "Judea Pearl"
-          },
-          {
-            "path": "",
-            "title": "Dana Mackenzie",
-            "type": "profile",
-            "name": "Dana Mackenzie"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-06-01T03:02:13-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/41GY4+3eAyL._AC_UY218_ML3_.jpg",
-          "width": 119,
-          "height": 218,
-          "title": "The Book of Why: The New Science of Cause and Effect",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/1xw915rbyG4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$19.16",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics.md",
-      "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
-      "excerpt": "This book describes the important ideas in a variety of fields such as medicine, biology, finance, and marketing in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of colour graphics. It is a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics/index.json",
-      "webUrl": "https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/",
-      "ratings": {
-        "count": 325,
-        "average": 4.2
-      },
+      "path": "_learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka.md",
+      "title": "PyTorch Python Tutorial | Deep Learning Using PyTorch | Image Classifier Using PyTorch | Edureka",
+      "excerpt": "( ** Deep Learning Training: https://goo.gl/4it6DE ** ) This Edureka PyTorch Tutorial video (Blog: https://goo.gl/4zxMfU) will help you in understanding various important basics of PyTorch. It also includes a use-case in which we will create an image classifier that will predict the accuracy of an image",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-pytorch-python-tutorial-deep-learning-using-pytorch-image-classifier-using-pytorch-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=XriwHXfLi6M",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XriwHXfLi6M\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT42M12S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Trevor Hastie",
-            "type": "profile",
-            "name": "Trevor Hastie"
-          },
-          {
-            "path": "",
-            "title": "Robert Tibshirani",
-            "type": "profile",
-            "name": "Robert Tibshirani"
-          },
-          {
-            "path": "",
-            "title": "Jerome Friedman",
-            "type": "profile",
-            "name": "Jerome Friedman"
-          }
         ]
       },
-      "levels": [
-        "Intermediate",
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-09-25T06:41:25-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/41aQrQaPseL._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/XriwHXfLi6M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$62.93",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning",
-        "Math for AI"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_learning/books/amazon-the-hundred-page-machine-learning-book.md",
-      "title": "The Hundred-Page Machine Learning Book",
-      "excerpt": "Everything you really need to know in Machine Learning in a hundred pages.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-hundred-page-machine-learning-book/index.json",
-      "webUrl": "https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/",
-      "ratings": {
-        "count": 326,
-        "average": 4.6
-      },
+      "path": "_learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka.md",
+      "title": "Stemming And Lemmatization Tutorial | Natural Language Processing (NLP) With Python | Edureka",
+      "excerpt": "( **Natural Language Processing Using Python: - https://www.edureka.co/python-natural-language-processing-course **  ) This video will provide you with a detailed and comprehensive knowledge of the two important aspects of Natural Language Processing ie. Stemming and Lemmatization. It will also provide",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-stemming-and-lemmatization-tutorial-natural-language-processing-nlp-with-python-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=p1ccbR2P_xA",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p1ccbR2P_xA\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT12M45S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Andriy Burkov",
-            "type": "profile",
-            "name": "Andriy Burkov"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-11-28T21:21:30-08:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/41hnD5LLz5L._AC_UY218_ML3_.jpg",
-          "width": 177,
-          "height": 218,
-          "title": "The Hundred-Page Machine Learning Book",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/p1ccbR2P_xA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$31.03",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning",
-        "Google AI"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/books/amazon-the-industries-of-the-future.md",
-      "title": "The Industries of the Future",
-      "excerpt": "The New York Times bestseller, from leading innovation expert Alec Ross, a “fascinating vision” (Forbes) of what’s next for the world and how to navigate the changes the future will bring.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-industries-of-the-future/index.json",
-      "webUrl": "https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/",
-      "ratings": {
-        "count": 514,
-        "average": 4.4
-      },
+      "path": "_learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka.md",
+      "title": "TensorFlow in 5 Minutes | Introduction To TensorFlow | Deep Learning Using TensorFlow | Edureka",
+      "excerpt": "** AI & Deep Learning with Tensorflow Training: https://goo.gl/vDxgi5 **  This Edureka video of \"TensorFlow in 5 minutes\" provides you a quick insight on the TensorFlow Framework along with TensorBoard and an example.  Do subscribe to our channel and hit the bell icon to never miss an update from us",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-tensorflow-in-5-minutes-introduction-to-tensorflow-deep-learning-using-tensorflow-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=eGjDYm86H_E",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eGjDYm86H_E\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT5M7S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "Edureka",
+        "domain": "edureka.co",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Alec Ross",
-            "type": "profile",
-            "name": "Alec Ross"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-10-10T22:35:26-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/71s-MrcZOTL._AC_UY218_ML3_.jpg",
-          "width": 143,
-          "height": 218,
-          "title": "The Industries of the Future",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/eGjDYm86H_E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$10.00",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka.md",
+      "title": "Top 10 Reasons to Learn Data Science | Why Data Science? | Data Science Training | Edureka",
+      "excerpt": "** Data Science Training with R : https://www.edureka.co/data-science-r-programming-certification-course ** ** Data Science Training with Python: https://www.edureka.co/python-programming-certification-training ** This Edureka video on \"Top 10 reasons to learn Data Science\" will give you enough reasons",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-top-10-reasons-to-learn-data-science-why-data-science-data-science-training-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=qOraDpY3Ta0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/qOraDpY3Ta0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT14M22S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2018-05-13T05:47:12-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/qOraDpY3Ta0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch.md",
-      "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
-      "excerpt": "Ready to crank up a virtual server and smash through petabytes of data? Want to add 'Machine Learning' to your LinkedIn profile? Well, hold on there...Before you embark on your epic journey into the world of machine learning, there is some theory and statistical principles to march through first.  This book has been written and designed for absolute beginners. This means plain-English explanations and no coding experience required. Where core algorithms are introduced, clear explanations and visual examples are added to make it easy and engaging to follow along at home.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch/index.json",
-      "webUrl": "https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/",
-      "ratings": {
-        "count": 198,
-        "average": 4.4
-      },
+      "path": "_learning/videos/freecodecamporg-deep-reinforcement-learning-in-python-tutorial-a-course-on-how-to-implement-deep-learning-papers.md",
+      "title": "Deep Reinforcement Learning in Python Tutorial - A Course on How to Implement Deep Learning Papers",
+      "excerpt": "In this intermediate deep learning tutorial, you will learn how to go from reading a paper on deep deterministic policy gradients to implementing the concepts in Tensorflow. This process can be applied to any deep learning paper, not just deep reinforcement learning.  In the second part, you will learn",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/freecodecamporg-deep-reinforcement-learning-in-python-tutorial-a-course-on-how-to-implement-deep-learning-papers/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/freecodecamporg-deep-reinforcement-learning-in-python-tutorial-a-course-on-how-to-implement-deep-learning-papers/",
+      "originalUrl": "https://youtube.com/watch?v=GJJc1t0rtSU",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/GJJc1t0rtSU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT2H57M11S",
       "provider": {
-        "name": "Amazon",
-        "domain": "amazon.com",
+        "name": "freeCodeCamp.org",
+        "domain": "freecodecamp.org",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/freecodecamp.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Oliver Theobald",
-            "type": "profile",
-            "name": "Oliver Theobald"
-          }
         ]
       },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-07-16T07:18:52-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://m.media-amazon.com/images/I/61k3cuvIl9L._AC_UY218_ML3_.jpg",
-          "width": 145,
-          "height": 218,
-          "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/GJJc1t0rtSU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "$13.32",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/books/manning-machine-learning-with-r-tidyverse-and-mlr.md",
-      "title": "Machine Learning with R, tidyverse, and mlr",
-      "excerpt": "Early access book that provides basics of machine learning and using R programming language.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/manning-machine-learning-with-r-tidyverse-and-mlr/index.json",
-      "webUrl": "https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr",
+      "path": "_learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained.md",
+      "title": "How To Make A Neural Network (Neural Networks Explained)",
+      "excerpt": "This video was made possible by Brilliant. Be one of the first 200 people to sign up with this link and get 20% off your premium subscription with Brilliant.org! https://brilliant.org/futurology  Visit Our Parent Company EarthOne For Sustainable Living Made Simple ➤ https://earthone.io/   In the last",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/futurology-how-to-make-a-neural-network-neural-networks-explained/",
+      "originalUrl": "https://youtube.com/watch?v=wieryfWkOl0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/wieryfWkOl0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT13M37S",
       "provider": {
-        "name": "Manning",
-        "domain": "manning.com"
+        "name": "Futurology",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-07-19T07:14:15-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://images.manning.com/720/960/resize/book/d/f6ea29a-3695-4ba3-804f-3db01327a7f7/Rhys-ML-MEAP-HI.png",
-          "width": 720,
-          "height": 903,
-          "title": "Machine Learning with R, tidyverse, and mlr",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/wieryfWkOl0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "book",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-a-crash-course-in-data-science.md",
-      "title": "A Crash Course in Data Science",
-      "excerpt": "Learn A Crash Course in Data Science from Johns Hopkins University. By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-a-crash-course-in-data-science/index.json",
-      "webUrl": "https://www.coursera.org/learn/data-science-course",
-      "length": "5 hours",
-      "ratings": {
-        "count": 5201,
-        "average": 4.5
-      },
+      "path": "_learning/videos/simplilearn-natural-language-processing-nlp-text-mining-tutorial-machine-learning-tutorial-simplilearn.md",
+      "title": "Natural Language Processing (NLP) & Text Mining Tutorial | Machine Learning Tutorial | Simplilearn",
+      "excerpt": "The Natural Language Processing video gives you a detailed look at the science of applying machine learning algorithms to process large amounts of natural language data. NLP is driving the growth of the AI market, and this video helps you develop the skills required to get started with NLP & text mining.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-natural-language-processing-nlp-text-mining-tutorial-machine-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-natural-language-processing-nlp-text-mining-tutorial-machine-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=7WfoYl-EPtI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/7WfoYl-EPtI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT44M28S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Johns Hopkins University"
-          }
         ]
       },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-06-03T03:58:31-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f0/399ec045ea11e5ba8e4bc295fed462/9990024683_955f8f043b_h.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "A Crash Course in Data Science",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/7WfoYl-EPtI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/videos/simplilearn-pca-in-machine-learning-principal-component-analysis-machine-learning-tutorial-simplilearn.md",
+      "title": "PCA In Machine Learning | Principal Component Analysis | Machine Learning Tutorial | Simplilearn",
+      "excerpt": "Principal Component Analysis is a crucial technique used in machine learning. This video on Principal Component Analysis in Machine Learning will help you learn the basics of PCA and how it helps to reduce the dimensionality of a dataset. You will understand the essential terminologies and properties",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-pca-in-machine-learning-principal-component-analysis-machine-learning-tutorial-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-pca-in-machine-learning-principal-component-analysis-machine-learning-tutorial-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=2NEu9dbM4A8",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/2NEu9dbM4A8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT31M10S",
+      "provider": {
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2020-10-06T05:27:30-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/2NEu9dbM4A8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning.md",
-      "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
-      "excerpt": "Learn Addressing Large Hadron Collider Challenges by Machine Learning from National Research University Higher School of Economics. The Large Hadron Collider (LHC) is the largest data generation machine for the time being. It doesn’t produce the ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/hadron-collider-machine-learning",
-      "length": "19 hours",
-      "ratings": {
-        "count": 45,
-        "average": 4.5
-      },
+      "path": "_learning/videos/simplilearn-text-classification-using-naive-bayes-naive-bayes-algorithm-in-machine-learning-simplilearn.md",
+      "title": "Text Classification Using Naive Bayes | Naive Bayes Algorithm In Machine Learning | Simplilearn",
+      "excerpt": "This video on \"Text Classification Using Naive Bayes\" is a brilliant introductory walk through to the Classification of Text using Naive Bayes Algorithm.  ✅Subscribe to our Channel to learn more about the top Technologies: https://bit.ly/2VT4WtH  ⏩ Check out the Machine Learning tutorial videos: https://bit.ly/3fFR4f4",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/simplilearn-text-classification-using-naive-bayes-naive-bayes-algorithm-in-machine-learning-simplilearn/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/simplilearn-text-classification-using-naive-bayes-naive-bayes-algorithm-in-machine-learning-simplilearn/",
+      "originalUrl": "https://youtube.com/watch?v=60pqgfT5tZM",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/60pqgfT5tZM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT20M15S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Simplilearn",
+        "domain": "simplilearn.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/simplilearn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "National Research University Higher School of Economics"
-          }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2020-10-05T05:19:31-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/58/773690b06611e7a6c2e3b47ae99c55/LCH_ML2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/60pqgfT5tZM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-advanced-data-science-capstone.md",
-      "title": "Advanced Data Science Capstone",
-      "excerpt": "Learn Advanced Data Science Capstone from IBM. This project completer has proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-data-science-capstone/index.json",
-      "webUrl": "https://www.coursera.org/learn/advanced-data-science-capstone",
-      "length": "10 hours",
-      "ratings": {
-        "count": 199,
-        "average": 4.6
-      },
+      "path": "_learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent.md",
+      "title": "How to Do Linear Regression using Gradient Descent",
+      "excerpt": "The point of this is to demonstrate the concept of gradient descent. Gradient descent is the most popular optimization strategy in deep learning, in particular an implementation of it called backpropagation. We are using gradient descent as our optimization strategy for linear regression. We'll draw",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-do-linear-regression-using-gradient-descent/",
+      "originalUrl": "https://youtube.com/watch?v=XdM6ER7zTLk",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XdM6ER7zTLk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT53M18S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2017-04-10T16:17:20-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b0/b87e208be611e89f604728676b46b0/Advanced_Data_Science_Capstone.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Advanced Data Science Capstone",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/XdM6ER7zTLk/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-advanced-machine-learning-and-signal-processing.md",
-      "title": "Advanced Machine Learning and Signal Processing",
-      "excerpt": "Learn Advanced Machine Learning and Signal Processing from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-machine-learning-and-signal-processing/index.json",
-      "webUrl": "https://www.coursera.org/learn/advanced-machine-learning-signal-processing",
-      "length": "16 hours",
-      "ratings": {
-        "count": 505,
-        "average": 4.5
-      },
+      "path": "_learning/videos/siraj-raval-how-to-generate-music-with-tensorflow-live.md",
+      "title": "How to Generate Music with Tensorflow (LIVE)",
+      "excerpt": "This live session will focus on the details of music generation using the Tensorflow library. The goal is for you to understand the details of how to encode music, feed it to a well tuned model, and use it to generate really cool sounds. And I'm going to NOT use Google Hangouts, instead I'll do this",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-generate-music-with-tensorflow-live/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-generate-music-with-tensorflow-live/",
+      "originalUrl": "https://youtube.com/watch?v=pg9apmwf7og",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/pg9apmwf7og\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT1H3M10S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Siraj Raval",
+        "domain": "youtube.com"
+      },
+      "publishedDateTime": "2017-03-18T01:02:00-07:00",
+      "heat": 53,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pg9apmwf7og/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow.md",
+      "title": "Designing a neural network | Text Classification Tutorial Pt. 2 (Coding TensorFlow)",
+      "excerpt": "In Part 2, we continue our tutorial on Text Classification, which assigns categories to text documents. In the last episode, we pre-processed the data so it would be ready to train a neural network. But, how do we design the neural network so it can learn from the data we prepared? Find out in this episode",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/tensorflow-designing-a-neural-network-text-classification-tutorial-pt-2-coding-tensorflow/",
+      "originalUrl": "https://youtube.com/watch?v=vPrSca-YjFg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/vPrSca-YjFg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M3S",
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/tensorflow.org-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM"
-          }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2018-09-20T11:46:49-07:00",
+      "heat": 53,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8a/7607508be611e89f604728676b46b0/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Advanced Machine Learning and Signal Processing",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/vPrSca-YjFg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
+        "TensorFlow",
+        "Google AI",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-an-introduction-to-practical-deep-learning.md",
-      "title": "An Introduction to Practical Deep Learning",
-      "excerpt": "Learn An Introduction to Practical Deep Learning from Intel. This course provides an introduction to Deep Learning, a field that aims to harness the enormous amounts of data that we are surrounded by with artificial neural networks, allowing for ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-an-introduction-to-practical-deep-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/intro-practical-deep-learning",
-      "length": "12 hours",
-      "ratings": {
-        "count": 67,
-        "average": 4.3
-      },
+      "path": "_learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8.md",
+      "title": "Build a ML model for predicting taxi fares | ML.NET [6 of 8]",
+      "excerpt": "There are tons of different ways to use the model builder with ML.NET. In this video, we learn how to predict taxi fares based on distance traveled, trip time etc. using a regression algorithm.   Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/dotnet-build-a-ml-model-for-predicting-taxi-fares-mlnet-6-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=CnmmhxGUgqg",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/CnmmhxGUgqg\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M32S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Intel"
-          }
         ]
       },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-09-19T19:22:31-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/72/b3a54097ff11e79acebb98a73e7be6/intel_software_blue.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "An Introduction to Practical Deep Learning",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/CnmmhxGUgqg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
+        "Microsoft AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-applied-ai-with-deeplearning.md",
-      "title": "Applied AI with DeepLearning",
-      "excerpt": "Learn Applied AI with DeepLearning from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, Applied Artificial ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-applied-ai-with-deeplearning/index.json",
-      "webUrl": "https://www.coursera.org/learn/ai",
-      "length": "18 hours",
-      "ratings": {
-        "count": 668,
-        "average": 4.5
-      },
+      "path": "_learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8.md",
+      "title": "Build a ML model for Sentiment Analysis | ML.NET [4 of 8]",
+      "excerpt": "In this video, we will cover how to build a ML model for sentiment analysis of customer reviews using a binary classification algorithm.  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download Visual Studio 2019 here: https://aka.ms/VisualStudio-dotnetconf19",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/dotnet-build-a-ml-model-for-sentiment-analysis-mlnet-4-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=p3kHlpLvWNI",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/p3kHlpLvWNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT7M18S",
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
         ]
       },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
+      "publishedDateTime": "2019-09-19T18:21:27-07:00",
+      "heat": 52,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/59/4408d08be611e8ae9f27056f38fbe9/Applied_AI_with_Deep_Learning.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Applied AI with DeepLearning",
-          "isCached": false
+          "url": "https://i.ytimg.com/vi/p3kHlpLvWNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8.md",
+      "title": "Deep learning with ML.NET: Image Classification | ML.NET [8 of 8]",
+      "excerpt": "Deep learning enables many more scenarios using sound, images, text and other data types. Learn how to build an Image Classification model to classify flowers (daisies, roses etc.).  Follow Pranav Rastogi: https://twitter.com/rustd  Watch the entire series here: https://aka.ms/dotnet3-mlnet Download",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/dotnet-deep-learning-with-mlnet-image-classification-mlnet-8-of-8/",
+      "originalUrl": "https://youtube.com/watch?v=C9p38jXKhB0",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/C9p38jXKhB0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT6M46S",
+      "provider": {
+        "name": "dotNET",
+        "domain": "dotnet.microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/dotnet.microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-09-19T19:40:52-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/C9p38jXKhB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka.md",
+      "title": "Best Python Libraries For Data Science & Machine Learning | Data Science Python Libraries | Edureka",
+      "excerpt": "** Machine Learning Engineer Masters Program: https://www.edureka.co/masters-program/machine-learning-engineer-training **   This Edureka session will focus on the top Python libraries that you should know to master Data Science and Machine Learning. Here’s a list of topics that are covered in this session:",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/videos/edureka-best-python-libraries-for-data-science-machine-learning-data-science-python-libraries-edureka/",
+      "originalUrl": "https://youtube.com/watch?v=LepMvJdr2-w",
+      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/LepMvJdr2-w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+      "length": "PT41M10S",
+      "provider": {
+        "name": "Edureka",
+        "domain": "edureka.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edureka.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "publishedDateTime": "2019-08-12T06:13:29-07:00",
+      "heat": 52,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/LepMvJdr2-w/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "video",
+      "price": "Free",
       "topics": [
         "AI",
         "Machine Learning"

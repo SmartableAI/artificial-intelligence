@@ -4,61 +4,350 @@
   "page": 18,
   "value": [
     {
-      "path": "_learning/videos/siraj-raval-how-to-use-tensorboard-live.md",
-      "title": "How to Use Tensorboard (LIVE)",
-      "excerpt": "We're going to learn how the visualizer that comes with Tensorflow works in this live stream. We'll go through a bunch of different features and test out its functionality both programmatically and visually.  4:41 code begins 37:07 tensorboard visualization begins  Code for this video:  https://github.com/llSourcell/how_to_use_tensorboard_live/tree/master",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-use-tensorboard-live/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-use-tensorboard-live/",
-      "originalUrl": "https://youtube.com/watch?v=fBVEXKp4DIc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/fBVEXKp4DIc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT56M4S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+      "path": "_learning/courses/coursera-sequences-time-series-and-prediction.md",
+      "title": "Sequences, Time Series and Prediction",
+      "excerpt": "Learn Sequences, Time Series and Prediction from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequences-time-series-and-prediction/index.json",
+      "webUrl": "https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction",
+      "length": "8 hours",
+      "ratings": {
+        "count": 853,
+        "average": 4.6
       },
-      "publishedDateTime": "2017-04-10T16:16:33-07:00",
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/fBVEXKp4DIc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/075c1fda9d419b8d763b1b988d36ba/TFC4SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Sequences, Time Series and Prediction",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform.md",
+      "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+      "excerpt": "Learn Serverless Machine Learning with Tensorflow on Google Cloud Platform from Google Cloud. This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform/index.json",
+      "webUrl": "https://www.coursera.org/learn/serverless-machine-learning-gcp",
+      "length": "12 hours",
+      "ratings": {
+        "count": 2407,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "Google Cloud"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/822130593d11e7b1e257a03557c934/Serverless-ML-v2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live.md",
-      "title": "How to Use Tensorflow for Classification (LIVE)",
-      "excerpt": "In this live session I'll introduce & give an overview of Google's Deep Learning library, Tensorflow. Then we'll use it to build a neural network capable of predicting housing prices, with me explaining every step along the way.  Code for this video: https://github.com/llSourcell/How_to_use_Tensorflow_for_classification-LIVE",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-use-tensorflow-for-classification-live/",
-      "originalUrl": "https://youtube.com/watch?v=4urPuRoT1sE",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4urPuRoT1sE\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H1M16S",
-      "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+      "path": "_learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars.md",
+      "title": "State Estimation and Localization for Self-Driving Cars",
+      "excerpt": "Learn State Estimation and Localization for Self-Driving Cars from University of Toronto. Welcome to State Estimation and Localization for Self-Driving Cars, the second course in University of Toronto’s Self-Driving Cars Specialization. We ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/state-estimation-localization-self-driving-cars",
+      "length": "24 hours",
+      "ratings": {
+        "count": 190,
+        "average": 4.6
       },
-      "publishedDateTime": "2017-02-04T19:16:01-08:00",
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4urPuRoT1sE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/46/f68ed0145511e9af5373d793509056/Course2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "State Estimation and Localization for Self-Driving Cars",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-structuring-machine-learning-projects.md",
+      "title": "Structuring Machine Learning Projects",
+      "excerpt": "Learn Structuring Machine Learning Projects from deeplearning.ai. You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-structuring-machine-learning-projects/index.json",
+      "webUrl": "https://www.coursera.org/learn/machine-learning-projects",
+      "length": "7 hours",
+      "ratings": {
+        "count": 33286,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "deeplearning.ai"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f6/53bf90104d11e8b2d89d7efe59d41d/CarouselAds_DL_ML.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Structuring Machine Learning Projects",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-visual-perception-for-self-driving-cars.md",
+      "title": "Visual Perception for Self-Driving Cars",
+      "excerpt": "Learn Visual Perception for Self-Driving Cars from University of Toronto. Welcome to Visual Perception for Self-Driving Cars, the third course in University of Toronto’s Self-Driving Cars Specialization.  This course will introduce you to the ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-visual-perception-for-self-driving-cars/index.json",
+      "webUrl": "https://www.coursera.org/learn/visual-perception-self-driving-cars",
+      "length": "20 hours",
+      "ratings": {
+        "count": 118,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "University of Toronto"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5e/55d590145511e99e65b5a6b6fb8568/Course3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Visual Perception for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/courses/edx-deep-learning-with-python-and-pytorch.md",
+      "title": "Deep Learning with Python and PyTorch",
+      "excerpt": "Learn how to use Python and its popular libraries such as NumPy and Pandas, as well as the PyTorch Deep Learning library. You'll then apply them to build Neural Networks and Deep Learning models.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/edx-deep-learning-with-python-and-pytorch/index.json",
+      "webUrl": "https://www.edx.org/course/deep-learning-with-python-and-pytorch",
+      "length": "6 Weeks",
+      "provider": {
+        "name": "edX",
+        "domain": "edx.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edx.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "IBM",
+            "domain": "ibm.com",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://prod-discovery.edx-cdn.org/media/course/image/17920e6b-e3ed-4819-8116-e48854e62cce-d390fea6c901.small.jpg",
+          "width": 378,
+          "height": 224,
+          "title": "Deep Learning with Python and PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/google-developers-machine-learning-crash-course.md",
+      "title": "Machine Learning Crash Course with TensorFlow APIs",
+      "excerpt": "Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/google-developers-machine-learning-crash-course/index.json",
+      "webUrl": "https://developers.google.com/machine-learning/crash-course/",
+      "length": "15 hours",
+      "provider": {
+        "name": "Google Developers",
+        "domain": "developers.google.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/developers.google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://developers.google.com/machine-learning/crash-course/images/mlcc-hero.png",
+          "width": 3288,
+          "height": 1818,
+          "title": "Machine Learning Crash Course with TensorFlow APIs",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "AI",
@@ -68,102 +357,350 @@
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-use-tensorflow-for-time-series-live.md",
-      "title": "How to Use Tensorflow for Time Series (Live)",
-      "excerpt": "We're going to use Tensorflow to predict the next event in a time series dataset. This can be applied to any kind of sequential data.   Code for this video: https://github.com/llSourcell/rnn_tutorial  Please Subscribe! And Like. And comment. That's what keeps me going.   More learning resources: https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-use-tensorflow-for-time-series-live/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-use-tensorflow-for-time-series-live/",
-      "originalUrl": "https://youtube.com/watch?v=hhJIztWR_vo",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hhJIztWR_vo\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT1H6M31S",
+      "path": "_learning/courses/linkedin-learning-artificial-intelligence-foundations-thinking-machines.md",
+      "title": "Artificial Intelligence Foundations: Thinking Machines",
+      "excerpt": "This course will introduce you to some of the key concepts behind artificial intelligence, including the differences between \"strong\" and \"weak\" AI. You'll see how AI has created questions around what it means to be intelligent and how much trust we should put in machines. Instructor Doug Rose explains the different approaches to AI, including machine learning and deep learning, and the practical uses for new AI-enhanced technologies. Plus, learn how to integrate AI with other technology, such as big data, and avoid some common pitfalls associated with programming AI.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-artificial-intelligence-foundations-thinking-machines/index.json",
+      "webUrl": "https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines",
       "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2017-03-18T01:02:00-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/hhJIztWR_vo/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=hu6OfqGPVBmEWub%2FiNG0pcqyks0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-nWySt892fZnfofs7XZLSiolQUeSkClgQzdumoRTnmE469LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Artificial Intelligence Foundations: Thinking Machines",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$24.99",
       "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
+        "AI"
       ]
     },
     {
-      "path": "_learning/videos/siraj-raval-how-to-win-slot-machines-intro-to-deep-learning-13.md",
-      "title": "How to Win Slot Machines - Intro to Deep Learning #13",
-      "excerpt": "We'll learn how to solve the multi-armed bandit problem (maximizing success for a given slot machine) using a reinforcement learning technique called policy gradients.  Code for this video: https://github.com/llSourcell/how_to_win_slot_machines  Mike's winning code: https://github.com/xkortex/Siraj_Chatbot_Challenge",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/siraj-raval-how-to-win-slot-machines-intro-to-deep-learning-13/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/siraj-raval-how-to-win-slot-machines-intro-to-deep-learning-13/",
-      "originalUrl": "https://youtube.com/watch?v=AIeWLTUYLZQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/AIeWLTUYLZQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M38S",
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees.md",
+      "title": "Machine Learning and AI Foundations: Decision Trees",
+      "excerpt": "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees",
+      "length": "1:16",
       "provider": {
-        "name": "Siraj Raval",
-        "domain": "youtube.com"
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
       },
-      "publishedDateTime": "2017-04-10T16:16:33-07:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/AIeWLTUYLZQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=bM%2FVK%2FaWoKtulsEs9YA3iNBGQWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWSyp-dafZXXgesTcZLSio10WeCwGlwMweOitSDfiEo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Decision Trees",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$29.99",
       "topics": [
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering.md",
-      "title": "10.1 What is Question Answering  | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-101-what-is-question-answering-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=4-ABqPEPt28",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/4-ABqPEPt28\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M29S",
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-recommendations.md",
+      "title": "Machine Learning and AI Foundations: Recommendations",
+      "excerpt": "This project-based course shows programmers of all skill levels how to use machine learning to build programs that can make recommendations. In this course, Adam Geitgey walks you through a hands-on lab building a recommendation system that is able to suggest similar products to customers based on past products they have reviewed or purchased. The system can also identify which products are similar to each other.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-recommendations/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations",
+      "length": "0:58",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/4-ABqPEPt28/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=%2FtL12xbFm9drn%2BYMNJa6loKfeJk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kXSaq-dWfZXHqecTfZLSiol8ReCsGmAMyf-2rQzngEo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Recommendations",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
+      "type": "course",
+      "price": "$44.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-value-estimations.md",
+      "title": "Machine Learning and AI Foundations: Value Estimations",
+      "excerpt": "Value estimation—one of the most common types of machine learning algorithms—can automatically estimate values by looking at related information. For example, a website can determine how much a house is worth based on the property's location and characteristics. In this project-based course, discover how to use machine learning to build a value estimation system that can deduce the value of a home. Follow Adam Geitgey as he walks through how to use sample data to build a machine learning model, and then use that model in your own programs. Although the project featured in this course focuses on real estate, you can use the same approach to solve any kind of value estimation problem with machine learning.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-value-estimations/index.json",
+      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-value-estimations",
+      "length": "1:4",
+      "provider": {
+        "name": "LinkedIn Learning",
+        "domain": "linkedin.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=X9X%2BFV5GrLMXZUW2d5VTCpH0JxU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kXy2v89GfZXPhfM7bZLSiolQffSsJkw06fuquQzboGo69LcLmY4Yx3A",
+          "width": 512,
+          "height": 288,
+          "title": "Machine Learning and AI Foundations: Value Estimations",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$39.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-recognize-specific-voices-with-the-speaker-recognition-apis-in-azure-cognitive-services.md",
+      "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
+      "excerpt": "Learn how to use the Speaker Recognition APIs to identify specific people through their voices.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/microsoft-learn-recognize-specific-voices-with-the-speaker-recognition-apis-in-azure-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/",
+      "length": "0:52",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/en-us/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services.md",
+      "title": "Translate speech in real time with Azure Cognitive Services",
+      "excerpt": "Learn how to translate speech and convert it to text through real-time transcription with the Speech Translation API in Azure Cognitive Services.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services/index.json",
+      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
+      "length": "0:42",
+      "provider": {
+        "name": "Microsoft Learn",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
+          "width": 800,
+          "height": 400,
+          "title": "Translate speech in real time with Azure Cognitive Services",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/mit-deep-learning-for-self-driving-cars.md",
+      "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+      "excerpt": "This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/mit-deep-learning-for-self-driving-cars/index.json",
+      "webUrl": "https://selfdrivingcars.mit.edu/",
+      "length": "2 weeks",
+      "provider": {
+        "name": "MIT",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi_webp/O5xeyoRL95U/hqdefault.webp",
+          "width": 480,
+          "height": 360,
+          "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free",
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/mit-linear-algebra.md",
+      "title": "Linear Algebra",
+      "excerpt": "This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/mit-linear-algebra/index.json",
+      "webUrl": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/",
+      "length": "10 weeks",
+      "provider": {
+        "name": "MIT",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/18.06.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": "Linear Algebra",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/oxford-deep-learning-for-natural-language-processing-2017.md",
+      "title": "Oxford Deep NLP 2017 course",
+      "excerpt": "This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence. The ambiguities and noise inherent in human communication render traditional symbolic AI techniques ineffective for representing and analysing language data. Recently statistical techniques based on neural networks have achieved a number of remarkable successes in natural language processing leading to a great deal of commercial and academic interest in the field",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/oxford-deep-learning-for-natural-language-processing-2017/index.json",
+      "webUrl": "https://github.com/oxford-cs-deepnlp-2017/lectures",
+      "length": "3 months",
+      "provider": {
+        "name": "Oxford",
+        "domain": "ox.ac.uk"
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1055770897091649536/1qDq-m41_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Oxford University",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
       "price": "Free",
       "topics": [
         "AI",
@@ -171,978 +708,715 @@
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering.md",
-      "title": "10.2 Answer Types and Query Formulation | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-102-answer-types-and-query-formulation-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=mRJ1_3QGtkk",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/mRJ1_3QGtkk\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M48S",
+      "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
+      "title": "Analyzing Text on AWS with Amazon Comprehend",
+      "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+      "length": "1h 56m",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Mark Nunnikhoven",
+            "type": "profile",
+            "name": "Mark Nunnikhoven"
+          }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/mRJ1_3QGtkk/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://pluralsight.imgix.net/course-images/aws-comprehend-analyzing-text-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Analyzing Text on AWS with Amazon Comprehend",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
+        "AWS AI",
         "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering.md",
-      "title": "10.3 Passage Retrieval and Answer Extraction | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-103-passage-retrieval-and-answer-extraction-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=Y_X7y3WP9WU",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Y_X7y3WP9WU\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M39S",
+      "path": "_learning/courses/pluralsight-applying-machine-learning-to-your-data-with-gcp.md",
+      "title": "Applying Machine Learning to your Data with GCP",
+      "excerpt": "Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course! This accelerated online course teaches participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The course features interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The course covers data loading, querying, schema modeling, optimizing performance, query pricing,  and data visualization.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-applying-machine-learning-to-your-data-with-gcp/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/applying-machine-learning-data-gcp",
+      "length": "2h 52m",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Google Cloud",
+            "type": "profile",
+            "name": "Google Cloud"
+          }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Y_X7y3WP9WU/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://pluralsight.imgix.net/course-images/applying-machine-learning-data-gcp-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Applying Machine Learning to your Data with GCP",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-architecting-production-ready-ml-models-using-google-cloud-ml-engine.md",
+      "title": "Architecting Production-ready ML Models Using Google Cloud ML Engine",
+      "excerpt": "This course covers Cloud ML Engine, a powerful service that supports distributed training and evaluation for models built in TensorFlow, Scikit-learn and XGBoost. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-architecting-production-ready-ml-models-using-google-cloud-ml-engine/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/google-ml-engine-architecting-production-ready-models",
+      "length": "2h 12m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Vitthal Srinivasan",
+            "type": "profile",
+            "name": "Vitthal Srinivasan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python",
+        "TensorFlow"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/google-ml-engine-architecting-production-ready-models-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Architecting Production-ready ML Models Using Google Cloud ML Engine",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker.md",
+      "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
+      "excerpt": "A fully managed machine learning service is a great place to start if you want to quickly get machine learning into your applications. In this course, Build, Train, and Deploy Machine Learning Models with AWS SageMaker, you will gain the ability to create machine learning models in AWS SageMaker and to integrate them into your applications. First, you’ll learn the basics and how to set up SageMaker. Next, you’ll discover how to build, train, and deploy models applied to Image Classification for breast cancer detection and how to integrate them into a REST API. Finally, you will even discover how to manage security and scalability in AWS SageMaker. When you’re finished with this course, you will have a foundational understanding of AWS SageMaker that will help you immensely as you move forward to create your own machine-learning-enabled applications applied to different real-life scenarios.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-models",
+      "length": "2h 40m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jorge Vasquez",
+            "type": "profile",
+            "name": "Jorge Vasquez"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-sagemaker-machine-learning-models-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly.md",
+      "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+      "excerpt": "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
+      "length": "1h 46m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ralu Bolovan",
+            "type": "profile",
+            "name": "Ralu Bolovan"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/aws-polly-voice-enabled-serverless-website-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building a Voice-enabled Serverless Website with AWS Polly",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "AWS AI",
         "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering.md",
-      "title": "10.4 Using Knowledge in QA | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-104-using-knowledge-in-qa-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=WGxgNt4ghlI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/WGxgNt4ghlI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M26S",
+      "path": "_learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started.md",
+      "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
+      "excerpt": "This course is an introduction to the Microsoft Bot Framework v4 - a centralized framework that allows you to create, edit and deploy Chatbots quickly and easily. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-bots-with-microsofts-bot-framework-getting-started/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-bot-framework-building-bots-getting-started-2019",
+      "length": "3h 27m",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Matthew Kruczek",
+            "type": "profile",
+            "name": "Matthew Kruczek"
+          }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "levels": [
+        "Intermediate"
+      ],
       "heat": 50,
+      "tags": [
+        "Chatbot"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/WGxgNt4ghlI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-bot-framework-building-bots-getting-started-2019-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Bots with Microsoft’s Bot Framework: Getting Started",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-classification-models-with-scikit-learn.md",
+      "title": "Building Classification Models with scikit-learn",
+      "excerpt": "This course covers several important techniques used to implement classification in scikit-learn, starting with logistic regression, moving on to Discriminant Analysis, Naive Bayes and the use of Decision Trees, and then even more advanced techniques such as Support Vector Classification and Stochastic Gradient Descent Classification.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-classification-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-classification-models-scikit-learn",
+      "length": "2h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-classification-models-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Classification Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-clustering-models-with-scikit-learn.md",
+      "title": "Building Clustering Models with scikit-learn",
+      "excerpt": "This course covers several important techniques used to implement clustering in scikit-learn, including the K-means, mean-shift and DBScan clustering algorithms, as well as the role of hyperparameter tuning, and performing clustering on image data.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-clustering-models-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-clustering-models-scikit-learn",
+      "length": "2h 33m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-clustering-models-scikit-learn-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Clustering Models with scikit-learn",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-deep-learning-models-using-pytorch.md",
+      "title": "Building Deep Learning Models Using PyTorch",
+      "excerpt": "In this course, you will learn to work with PyTorch and all the libraries that it has to offer, from first principles - starting with Torch tensors, dynamic computation graphs, and the autograd library, to compute gradients.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-deep-learning-models-using-pytorch/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/pytorch-building-deep-learning-models",
+      "length": "3h 18m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "PyTorch"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/pytorch-building-deep-learning-models-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Deep Learning Models Using PyTorch",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-features-from-numeric-data.md",
+      "title": "Building Features from Numeric Data",
+      "excerpt": "This course exhaustively covers data preprocessing techniques and transforms available in scikit-learn, allowing the construction of highly optimized features that are scaled, normalized and transformed in mathematically sound ways to fully harness the power of machine learning techniques. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-features-from-numeric-data/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-features-numeric-data",
+      "length": "2h 25m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/building-features-numeric-data-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Features from Numeric Data",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure.md",
+      "title": "Building Features from Text Data in Microsoft Azure",
+      "excerpt": "This course covers aspects of building text features for machine learning using Azure Machine Learning Service virtual machines, including tokenization, stopword removal, feature vectorization, and more from natural language processing. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-features-from-text-data-in-microsoft-azure/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/microsoft-azure-building-features-text-data",
+      "length": "1h 54m",
+      "provider": {
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Michael Heydt",
+            "type": "profile",
+            "name": "Michael Heydt"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pluralsight.imgix.net/course-images/microsoft-azure-building-features-text-data-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Features from Text Data in Microsoft Azure",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "$$",
+      "topics": [
+        "AI",
+        "Microsoft AI",
         "Natural Language Processing"
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering.md",
-      "title": "10.5 Advanced  Answering Complex Questions | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 5 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-105-advanced-answering-complex-questions-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=08NxMPiQi7s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/08NxMPiQi7s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT4M53S",
+      "path": "_learning/courses/pluralsight-building-features-from-text-data.md",
+      "title": "Building Features from Text Data",
+      "excerpt": "This course covers aspects of extracting information from text documents and constructing classification models including feature vectorization, locality-sensitive hashing, stopword removal, lemmatization, and more from natural language processing. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-features-from-text-data/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/building-features-text-data",
+      "length": "2h 36m",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:43:51-08:00",
+      "levels": [
+        "Advanced"
+      ],
       "heat": 50,
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/08NxMPiQi7s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://pluralsight.imgix.net/course-images/building-features-text-data-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Features from Text Data",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "Natural Language Processing",
+        "Machine Learning"
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance.md",
-      "title": "1.2 Sentence Segmentation | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-12-sentence-segmentation-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=Ljn8YkZrce8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Ljn8YkZrce8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M35S",
+      "path": "_learning/courses/pluralsight-building-image-processing-applications-using-scikit-image.md",
+      "title": "Building Image Processing Applications Using scikit-image",
+      "excerpt": "In this course, you'll explore the scikit-image Python library which allows you to apply sophisticated image processing techniques to images and to quickly extract important insights or pre-process images for input to machine learning models.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-image-processing-applications-using-scikit-image/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/scikit-image-building-image-processing-applications",
+      "length": "1h 49m",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
+          }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/Ljn8YkZrce8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://pluralsight.imgix.net/course-images/scikit-image-building-image-processing-applications-v1.png",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Image Processing Applications Using scikit-image",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "Machine Learning",
+        "Computer Vision"
       ]
     },
     {
-      "path": "_learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance.md",
-      "title": "1.3 Word Tokenization | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-13-word-tokenization-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=NJaxfxRtKV0",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NJaxfxRtKV0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT14M26S",
+      "path": "_learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn.md",
+      "title": "Building Machine Learning Models in Python with scikit-learn",
+      "excerpt": "Scikit-learn is one of the most popular ML libraries in Python. Use libraries specialized regression models such as Lasso and Ridge to build and train your ML models.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-machine-learning-models-in-python-with-scikit-learn/index.json",
+      "webUrl": "https://www.pluralsight.com/courses/python-scikit-learn-building-machine-learning-models",
+      "length": "3h 13m",
       "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
+        "name": "Pluralsight",
+        "domain": "pluralsight.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NJaxfxRtKV0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics.md",
-      "title": "13.10 Word Similarity  Distributional Similarity II | Recommendation Systems and Vector Semantics",
-      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/",
-      "originalUrl": "https://youtube.com/watch?v=eSdBnha0xJc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eSdBnha0xJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M16S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
+        ],
+        "authors": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
+            "path": "",
+            "title": "Janani Ravi",
+            "type": "profile",
+            "name": "Janani Ravi"
           }
         ]
       },
-      "publishedDateTime": "2018-01-25T10:45:08-08:00",
+      "levels": [
+        "Beginner"
+      ],
       "heat": 50,
+      "tags": [
+        "scikit-learn",
+        "Python"
+      ],
       "images": [
         {
-          "url": "https://i.ytimg.com/vi/eSdBnha0xJc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
+          "url": "https://pluralsight.imgix.net/course-images/python-scikit-learn-building-machine-learning-models-v1.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": "Building Machine Learning Models in Python with scikit-learn",
+          "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "video",
-      "price": "Free",
+      "type": "course",
+      "price": "$$",
       "topics": [
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics.md",
-      "title": "13.8 Word Similarity  Distributional Similarity I | Recommendation Systems and Vector Semantics",
-      "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/",
-      "originalUrl": "https://youtube.com/watch?v=swDoFpuHpzQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/swDoFpuHpzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT13M15S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:45:08-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
-      "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=-rfVrRAgzHM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rfVrRAgzHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT3M40S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering.md",
-      "title": "14   3   Computing PageRank | Relation Extraction and Question Answering",
-      "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/",
-      "originalUrl": "https://youtube.com/watch?v=TlVs9nMyZyQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TlVs9nMyZyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M10S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:46:05-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/TlVs9nMyZyQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance.md",
-      "title": "1.4 Word Normalization and Stemming | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-word-normalization-and-stemming-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=k5UCoz79OL8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/k5UCoz79OL8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M48S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/k5UCoz79OL8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance.md",
-      "title": "2.1 Defining Minimum Edit Distance | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-21-defining-minimum-edit-distance-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=V14ikwzaLds",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/V14ikwzaLds\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT7M5S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/V14ikwzaLds/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance.md",
-      "title": "2.2 Computing Minimum Edit Distance | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-22-computing-minimum-edit-distance-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=NlGoRN1C13w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/NlGoRN1C13w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M55S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/NlGoRN1C13w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance.md",
-      "title": "2.3 Backtrace for Computing Alignments | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-23-backtrace-for-computing-alignments-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=quDUYXXLZsM",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/quDUYXXLZsM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M56S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/quDUYXXLZsM/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance.md",
-      "title": "2.4 Weighted Minimum Edit Distance | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-24-weighted-minimum-edit-distance-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=gx7Fkf1n_5w",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gx7Fkf1n_5w\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT2M48S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gx7Fkf1n_5w/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance.md",
-      "title": "2.5 Minimum Edit Distance in Computational Biology | Basic Text Processing and Edit Distance",
-      "excerpt": "This is part of the Week 1 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-25-minimum-edit-distance-in-computational-biology-basic-text-processing-and-edit-distance/",
-      "originalUrl": "https://youtube.com/watch?v=gVe8SAE-O1s",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gVe8SAE-O1s\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M31S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:34:51-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gVe8SAE-O1s/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction.md",
-      "title": "3.1 Introduction to N grams | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-31-introduction-to-n-grams-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=hM49MPmakNI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/hM49MPmakNI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT8M42S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/hM49MPmakNI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction.md",
-      "title": "3.2 Estimating N gram Probabilities | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-32-estimating-n-gram-probabilities-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=UyC0bBiZY-A",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/UyC0bBiZY-A\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M39S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/UyC0bBiZY-A/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction.md",
-      "title": "3.3 Evaluation and Perplexity | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-33-evaluation-and-perplexity-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=gTxlO_pCFaI",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/gTxlO_pCFaI\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT11M10S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/gTxlO_pCFaI/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction.md",
-      "title": "3.4 Generalization and Zeros | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-34-generalization-and-zeros-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=XjwVAMWrmrw",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/XjwVAMWrmrw\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M16S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/XjwVAMWrmrw/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-35-smoothing-add-one-language-modeling-and-spelling-correction.md",
-      "title": "3.5 Smoothing  Add One | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-35-smoothing-add-one-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-35-smoothing-add-one-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=Hr6UWRwAIEQ",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/Hr6UWRwAIEQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT6M31S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Hr6UWRwAIEQ/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-36-interpolation-language-modeling-and-spelling-correction.md",
-      "title": "3.6 Interpolation | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-36-interpolation-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-36-interpolation-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=JpOZqXsop3Q",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/JpOZqXsop3Q\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT10M26S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/JpOZqXsop3Q/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-38-kneser-ney-smoothing-language-modeling-and-spelling-correction.md",
-      "title": "3.8 Kneser Ney Smoothing | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-38-kneser-ney-smoothing-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-38-kneser-ney-smoothing-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=8BxqdxXT2M8",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8BxqdxXT2M8\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT9M",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8BxqdxXT2M8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-41-the-spelling-correction-task-language-modeling-and-spelling-correction.md",
-      "title": "4.1 The Spelling Correction Task | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-41-the-spelling-correction-task-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-41-the-spelling-correction-task-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=iCbDMHBzYhc",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/iCbDMHBzYhc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT5M40S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/iCbDMHBzYhc/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/videos/stanford-university-42-the-noisy-channel-model-of-spelling-language-modeling-and-spelling-correction.md",
-      "title": "4.2 The Noisy Channel Model of Spelling | Language Modeling and Spelling Correction",
-      "excerpt": "This is part of the Week 2 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-42-the-noisy-channel-model-of-spelling-language-modeling-and-spelling-correction/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-42-the-noisy-channel-model-of-spelling-language-modeling-and-spelling-correction/",
-      "originalUrl": "https://youtube.com/watch?v=8bkQ3erVk7c",
-      "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/8bkQ3erVk7c\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
-      "length": "PT19M31S",
-      "provider": {
-        "name": "Stanford University",
-        "domain": "stanford.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "publishedDateTime": "2018-01-25T10:39:27-08:00",
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/8bkQ3erVk7c/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "video",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
+        "Machine Learning"
       ]
     }
   ],

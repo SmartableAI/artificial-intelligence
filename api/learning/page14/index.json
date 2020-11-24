@@ -4,236 +4,610 @@
   "page": 14,
   "value": [
     {
-      "path": "_learning/courses/coursera-python-and-machine-learning-for-asset-management.md",
-      "title": "Python and Machine Learning for Asset Management",
-      "excerpt": "Learn Python and Machine Learning for Asset Management  from EDHEC Business School. This course will enable you mastering machine-learning approaches in the area of investment management. It has been designed by two thought leaders in their ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-python-and-machine-learning-for-asset-management/index.json",
-      "webUrl": "https://www.coursera.org/learn/python-machine-learning-for-investment-management",
-      "length": "13 hours",
+      "path": "_learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts.md",
+      "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
+      "excerpt": "In this book, you find out types of machine learning techniques, models, and algorithms that can help achieve results for your company. This data helps each business and technical leaders find out how to use machine learning to anticipate and predict the future.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-machine-learning-the-absolute-complete-beginners-guide-to-learn-and-understand-machine-learning-from-beginners-intermediate-advanced-to-expert-concepts/index.json",
+      "webUrl": "https://www.amazon.com/Machine-Learning-Beginners-Understand-Intermediate-ebook/dp/B07RHG1WGF/",
       "ratings": {
         "count": 12,
-        "average": 4.2
+        "average": 3.5
       },
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "EDHEC Business School"
+            "title": "Steven Samelson",
+            "type": "profile",
+            "name": "Steven Samelson"
           }
         ]
       },
       "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7a/8ad137c64a4d349185e3cdab90d03f/Screens_shutterstock_1421873486.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Python and Machine Learning for Asset Management",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-recommendation-systems-with-tensorflow-on-gcp.md",
-      "title": "Recommendation Systems with TensorFlow on GCP",
-      "excerpt": "Learn Recommendation Systems with TensorFlow on GCP from Google Cloud. In this course, you'll apply your knowledge of classification models and embeddings to build a ML pipeline that functions as a recommendation engine.  • Devise a content-based ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-recommendation-systems-with-tensorflow-on-gcp/index.json",
-      "webUrl": "https://www.coursera.org/learn/recommendation-models-gcp",
-      "length": "11 hours",
-      "ratings": {
-        "count": 261,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ab/8c0ea0bc6d11e8bb1fbf678b061c16/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Recommendation Systems with TensorFlow on GCP",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-reinforcement-learning-in-finance.md",
-      "title": "Reinforcement Learning in Finance",
-      "excerpt": "Learn Reinforcement Learning in Finance from New York University Tandon School of Engineering. This course aims at introducing the fundamental concepts of Reinforcement Learning (RL), and develop use cases for applications of RL for option ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-reinforcement-learning-in-finance/index.json",
-      "webUrl": "https://www.coursera.org/learn/reinforcement-learning-in-finance",
-      "length": "21 hours",
-      "ratings": {
-        "count": 69,
-        "average": 3.4
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "New York University Tandon School of Engineering"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/37/e2ad705d1c11e89d97d1bd932bfd30/Reinforcement-Learning-in-Finance.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Reinforcement Learning in Finance",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-robotics-aerial-robotics.md",
-      "title": "Robotics: Aerial Robotics",
-      "excerpt": "Learn Robotics: Aerial Robotics from University of Pennsylvania. How can we create agile micro aerial vehicles that are able to operate autonomously in cluttered indoor and outdoor environments?  You will gain an introduction to the mechanics of ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-aerial-robotics/index.json",
-      "webUrl": "https://www.coursera.org/learn/robotics-flight",
-      "length": "25 hours",
-      "ratings": {
-        "count": 2117,
-        "average": 4.5
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Pennsylvania"
-          }
-        ]
-      },
-      "levels": [
+        "Advanced",
         "Beginner",
         "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/a0/01fb207cd911e58108cf8cb753e7a9/Aerial-Robotics-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Robotics: Aerial Robotics",
+          "url": "https://m.media-amazon.com/images/I/81xbTFIyCmL._AC_UY218_ML3_.jpg",
+          "width": 136,
+          "height": 218,
+          "title": "Machine Learning: The Absolute Complete Beginner’s Guide to Learn and Understand Machine Learning From Beginners, Intermediate, Advanced, To Expert Concepts",
           "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "book",
+      "price": "$18.59",
       "topics": [
         "AI",
-        "AI in Robotics"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-robotics-estimation-and-learning.md",
-      "title": "Robotics: Estimation and Learning",
-      "excerpt": "Learn Robotics: Estimation and Learning from University of Pennsylvania. How can robots determine their state and properties of the surrounding environment from noisy sensor measurements in time?  In this module you will learn how to get robots ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-estimation-and-learning/index.json",
-      "webUrl": "https://www.coursera.org/learn/robotics-learning",
-      "length": "12 hours",
+      "path": "_learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition.md",
+      "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
+      "excerpt": "Third edition of the bestselling, widely acclaimed R machine learning book, updated and improved for R 3.6 and beyond",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-machine-learning-with-r-expert-techniques-for-predictive-modeling-3rd-edition/index.json",
+      "webUrl": "https://www.amazon.com/Machine-Learning-techniques-predictive-modeling/dp/1788295862/",
       "ratings": {
-        "count": 400,
+        "count": 41,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Brett Lantz",
+            "type": "profile",
+            "name": "Brett Lantz"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71FSR2wHzhL._AC_UY218_ML3_.jpg",
+          "width": 177,
+          "height": 218,
+          "title": "Machine Learning with R: Expert techniques for predictive modeling, 3rd Edition",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$35.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-multiple-view-geometry-in-computer-vision.md",
+      "title": "Multiple View Geometry in Computer Vision",
+      "excerpt": "A basic problem in computer vision is to understand the structure of a real world scene. This book covers relevant geometric principles and how to represent objects algebraically so they can be computed and applied. Recent major developments in the theory and practice of scene reconstruction are described in detail in a unified framework. Richard Hartley and Andrew Zisserman provide comprehensive background material and explain how to apply the methods and implement the algorithms. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-multiple-view-geometry-in-computer-vision/index.json",
+      "webUrl": "https://www.amazon.com/Multiple-View-Geometry-Computer-Vision/dp/0521540518/",
+      "ratings": {
+        "count": 38,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Richard Hartley",
+            "type": "profile",
+            "name": "Richard Hartley"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61OZ9p95mqL._AC_UY218_ML3_.jpg",
+          "width": 152,
+          "height": 218,
+          "title": "Multiple View Geometry in Computer Vision",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$92.19",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-numsense-data-science-for-the-layman-no-math-added.md",
+      "title": "Numsense! Data Science for the Layman: No Math Added",
+      "excerpt": "This book has been written in layman's terms as a gentle introduction to data science and its algorithms. Each algorithm has its own dedicated chapter that explains how it works, and shows an example of a real-world application. To help you grasp key concepts, we stick to intuitive explanations and visuals. ",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-numsense-data-science-for-the-layman-no-math-added/index.json",
+      "webUrl": "https://www.amazon.com/Numsense-Data-Science-Layman-Added-ebook/dp/B01N29ZEM6/",
+      "ratings": {
+        "count": 154,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Annalyn Ng",
+            "type": "profile",
+            "name": "Annalyn Ng"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71IWFmZDhcL._AC_UY218_ML3_.jpg",
+          "width": 160,
+          "height": 218,
+          "title": "Numsense! Data Science for the Layman: No Math Added",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$27.54",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-opencv-with-python-blueprints.md",
+      "title": "OpenCV with Python Blueprints",
+      "excerpt": "Design and develop advanced computer vision projects using OpenCV with Python",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-opencv-with-python-blueprints/index.json",
+      "webUrl": "https://www.amazon.com/OpenCV-Python-Blueprints-Michael-Beyeler/dp/1785282697/",
+      "ratings": {
+        "count": 14,
+        "average": 3.9
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Michael Beyeler",
+            "type": "profile",
+            "name": "Michael Beyeler"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51aUGE1GaZL._AC_UY218_ML3_.jpg",
+          "width": 177,
+          "height": 218,
+          "title": "OpenCV with Python Blueprints",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$37.49",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era.md",
+      "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
+      "excerpt": "In as little as a decade, artificial intelligence could match and then surpass human intelligence. Corporations and government agencies around the world are pouring billions into achieving AI's Holy Grail―human-level intelligence. Once AI has attained it, scientists argue, it will have survival drives much like our own. We may be forced to compete with a rival more cunning, more powerful, and more alien than we can imagine.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-our-final-invention-artificial-intelligence-and-the-end-of-the-human-era/index.json",
+      "webUrl": "https://www.amazon.com/Our-Final-Invention-Artificial-Intelligence/dp/1250058783/",
+      "ratings": {
+        "count": 467,
+        "average": 4.1
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "James Barrat",
+            "type": "profile",
+            "name": "James Barrat"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41ozMLdzJHL._AC_UY218_ML3_.jpg",
+          "width": 146,
+          "height": 218,
+          "title": "Our Final Invention: Artificial Intelligence and the End of the Human Era",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$10.88",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics.md",
+      "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
+      "excerpt": "This is the first textbook on pattern recognition to present the Bayesian viewpoint. The book presents approximate inference algorithms that permit fast approximate answers in situations where exact answers are not feasible. It uses graphical models to describe probability distributions when no other books apply graphical models to machine learning. No previous knowledge of pattern recognition or machine learning concepts is assumed. Familiarity with multivariate calculus and basic linear algebra is required, and some experience in the use of probabilities would be helpful though not essential as the book includes a self-contained introduction to basic probability theory.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-pattern-recognition-and-machine-learning-information-science-and-statistics/index.json",
+      "webUrl": "https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/",
+      "ratings": {
+        "count": 324,
         "average": 4.3
       },
       "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
+        "name": "Amazon",
+        "domain": "amazon.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "isCached": false
           }
         ],
-        "publishers": [
+        "authors": [
           {
             "path": "",
-            "name": "University of Pennsylvania"
+            "title": "Christopher M. Bishop",
+            "type": "profile",
+            "name": "Christopher M. Bishop"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate",
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61FKyOeM7KL._AC_UY218_ML3_.jpg",
+          "width": 161,
+          "height": 218,
+          "title": "Pattern Recognition and Machine Learning (Information Science and Statistics)",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$50.76",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions.md",
+      "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
+      "excerpt": "Develop smart applications without spending days and weeks building machine-learning models. With this practical book, you’ll learn how to apply Automated Machine Learning, a process that uses machine learning to help people build machine learning models. Deepak Mukunthu, Parashar Shah, and Wee Hyong Tok provide a mix of technical depth, hands-on examples, and case studies that show how customers are solving real-world problems with this technology.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-automated-machine-learning-on-azure-using-azure-machine-learning-to-quickly-build-ai-solutions/index.json",
+      "webUrl": "https://www.amazon.com/Practical-Automated-Machine-Learning-Azure/dp/149205559X/",
+      "ratings": {
+        "count": 3,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Deepak Mukunthu",
+            "type": "profile",
+            "name": "Deepak Mukunthu"
+          },
+          {
+            "path": "",
+            "title": "Parashar Shah",
+            "type": "profile",
+            "name": "Parashar Shah"
+          },
+          {
+            "path": "",
+            "title": "Wee Hyong Tok",
+            "type": "profile",
+            "name": "Wee Hyong Tok"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81-SGy1qqGL._AC_UY218_ML3_.jpg",
+          "width": 166,
+          "height": 218,
+          "title": "Practical Automated Machine Learning on Azure: Using Azure Machine Learning to Quickly Build AI Solutions",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$44.65",
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts.md",
+      "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
+      "excerpt": "Statistical methods are a key part of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-statistics-for-data-scientists-50-essential-concepts/index.json",
+      "webUrl": "https://www.amazon.com/Practical-Statistics-Data-Scientists-Essential/dp/1491952962/",
+      "ratings": {
+        "count": 173,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Peter Bruce",
+            "type": "profile",
+            "name": "Peter Bruce"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/91-41U+btKL._AC_UY218_ML3_.jpg",
+          "width": 166,
+          "height": 218,
+          "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$28.40",
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning.md",
+      "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
+      "excerpt": "Time series data analysis is increasingly important due to the massive production of such data through the internet of things, the digitalization of healthcare, and the rise of smart cities. As continuous monitoring and data collection become more common, the need for competent time series analysis with both statistical and machine learning techniques will increase.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-practical-time-series-analysis-prediction-with-statistics-and-machine-learning/index.json",
+      "webUrl": "https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/",
+      "ratings": {
+        "count": 24,
+        "average": 3.9
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Aileen Nielsen",
+            "type": "profile",
+            "name": "Aileen Nielsen"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/91vNT0C2lrL._AC_UY218_ML3_.jpg",
+          "width": 166,
+          "height": 218,
+          "title": "Practical Time Series Analysis: Prediction with Statistics and Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$42.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence.md",
+      "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
+      "excerpt": "Artificial intelligence does the seemingly impossible, magically bringing machines to life--driving cars, trading stocks, and teaching children. But facing the sea change that AI will bring can be paralyzing. How should companies set strategies, governments design policies, and people plan their lives for a world so different from what we know? In the face of such uncertainty, many analysts either cower in fear or predict an impossibly sunny future.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-prediction-machines-the-simple-economics-of-artificial-intelligence/index.json",
+      "webUrl": "https://www.amazon.com/Prediction-Machines-Economics-Artificial-Intelligence/dp/1633695670/",
+      "ratings": {
+        "count": 184,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Ajay Agrawal",
+            "type": "profile",
+            "name": "Ajay Agrawal"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41qb3jwhk-L._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "Prediction Machines: The Simple Economics of Artificial Intelligence",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$18.39",
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die.md",
+      "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
+      "excerpt": "An introduction for everyone. In this rich, fascinating — surprisingly accessible — introduction, leading expert Eric Siegel reveals how predictive analytics (aka machine learning) works, and how it affects everyone every day. Rather than a “how to” for hands-on techies, the book serves lay readers and experts alike by covering new case studies and the latest state-of-the-art techniques.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-predictive-analytics-the-power-to-predict-who-will-click-buy-lie-or-die/index.json",
+      "webUrl": "https://www.amazon.com/Predictive-Analytics-Power-Predict-Click/dp/1119145678/",
+      "ratings": {
+        "count": 211,
+        "average": 4.0
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Eric Siegel",
+            "type": "profile",
+            "name": "Eric Siegel"
           }
         ]
       },
@@ -244,31 +618,865 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/05/679f607cda11e59e62dbe4ba62c1d4/Estimation-and-Learning-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Robotics: Estimation and Learning",
+          "url": "https://m.media-amazon.com/images/I/51JX7J+2QeL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "Predictive Analytics: The Power to Predict Who Will Click, Buy, Lie, or Die",
           "isCached": false
         }
       ],
       "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
+      "type": "book",
+      "price": "$19.99",
       "topics": [
         "AI",
-        "AI in Robotics"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-robotics-perception.md",
-      "title": "Robotics: Perception",
-      "excerpt": "Learn Robotics: Perception from University of Pennsylvania. How can robots perceive the world and their own movements so that they accomplish navigation and manipulation tasks?  In this module, we will study how images and videos acquired by ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-robotics-perception/index.json",
-      "webUrl": "https://www.coursera.org/learn/robotics-perception",
-      "length": "29 hours",
+      "path": "_learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images.md",
+      "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
+      "excerpt": "If you want a basic understanding of computer vision’s underlying theory and algorithms, this hands-on introduction is the ideal place to start. You’ll learn techniques for object recognition, 3D reconstruction, stereo imaging, augmented reality, and other computer vision applications as you follow clear examples written in Python.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-programming-computer-vision-with-python-tools-and-algorithms-for-analyzing-images/index.json",
+      "webUrl": "https://www.amazon.com/Programming-Computer-Vision-Python-algorithms/dp/1449316549/",
       "ratings": {
-        "count": 495,
+        "count": 34,
+        "average": 3.9
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Jan Erik Solem",
+            "type": "profile",
+            "name": "Jan Erik Solem"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/712sPsQBu1L._AC_UY218_ML3_.jpg",
+          "width": 164,
+          "height": 218,
+          "title": "Programming Computer Vision with Python: Tools And Algorithms For Analyzing Images",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$38.66",
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data.md",
+      "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+      "excerpt": "Learn how to use R to turn raw data into insight, knowledge, and understanding. This book introduces you to R, RStudio, and the tidyverse, a collection of R packages designed to work together to make data science fast, fluent, and fun. Suitable for readers with no previous programming experience, R for Data Science is designed to get you doing data science as quickly as possible.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-r-for-data-science-import-tidy-transform-visualize-and-model-data/index.json",
+      "webUrl": "https://www.amazon.com/Data-Science-Transform-Visualize-Model/dp/1491910399/",
+      "ratings": {
+        "count": 386,
+        "average": 4.7
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Hadley Wickham",
+            "type": "profile",
+            "name": "Hadley Wickham"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71PFVFcIXnL._AC_UY218_ML3_.jpg",
+          "width": 134,
+          "height": 218,
+          "title": "R for Data Science: Import, Tidy, Transform, Visualize, and Model Data",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$38.79",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability.md",
+      "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
+      "excerpt": "A sparse statistical model has only a small number of nonzero parameters or weights; therefore, it is much easier to estimate and interpret than a dense model. Statistical Learning with Sparsity: The Lasso and Generalizations presents methods that exploit sparsity to help recover the underlying signal in a set of data.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-statistical-learning-with-sparsity-the-lasso-and-generalizations-chapman-amp-hallcrc-monographs-on-statistics-and-applied-probability/index.json",
+      "webUrl": "https://www.amazon.com/Statistical-Learning-Sparsity-Generalizations-Probability/dp/1498712169/",
+      "ratings": {
+        "count": 11,
+        "average": 4.8
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Trevor Hastie",
+            "type": "profile",
+            "name": "Trevor Hastie"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/51Q6p6XXw3L._AC_UY218_ML3_.jpg",
+          "width": 142,
+          "height": 218,
+          "title": "Statistical Learning with Sparsity: The Lasso and Generalizations (Chapman & Hall/CRC Monographs on Statistics and Applied Probability)",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$83.05",
+      "topics": [
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-superintelligence-paths-dangers-strategies.md",
+      "title": "Superintelligence: Paths, Dangers, Strategies",
+      "excerpt": "Superintelligence asks the questions: What happens when machines surpass humans in general intelligence? Will artificial agents save or destroy us? Nick Bostrom lays the foundation for understanding the future of humanity and intelligent life.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-superintelligence-paths-dangers-strategies/index.json",
+      "webUrl": "https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/",
+      "ratings": {
+        "count": 862,
+        "average": 4.1
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Nick Bostrom",
+            "type": "profile",
+            "name": "Nick Bostrom"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/81NHfj5hhgL._AC_UY218_ML3_.jpg",
+          "width": 143,
+          "height": 218,
+          "title": "Superintelligence: Paths, Dangers, Strategies",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$9.99",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect.md",
+      "title": "The Book of Why: The New Science of Cause and Effect",
+      "excerpt": "A Turing Award-winning computer scientist and statistician shows how understanding causality has revolutionized science and will revolutionize artificial intelligence",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-book-of-why-the-new-science-of-cause-and-effect/index.json",
+      "webUrl": "https://www.amazon.com/Book-Why-Science-Cause-Effect/dp/046509760X/",
+      "ratings": {
+        "count": 295,
+        "average": 4.3
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Judea Pearl",
+            "type": "profile",
+            "name": "Judea Pearl"
+          },
+          {
+            "path": "",
+            "title": "Dana Mackenzie",
+            "type": "profile",
+            "name": "Dana Mackenzie"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41GY4+3eAyL._AC_UY218_ML3_.jpg",
+          "width": 119,
+          "height": 218,
+          "title": "The Book of Why: The New Science of Cause and Effect",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$19.16",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future.md",
+      "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
+      "excerpt": "Tech experts Vivek Wadhwa and Alex Salkever describe dozens of astonishing technological advances in this fascinating and thought-provoking book, which asks what kind of future lies ahead—Star Trek or Mad Max?",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-driver-in-the-driverless-car-how-your-technology-choices-create-the-future/index.json",
+      "webUrl": "https://www.amazon.com/Driver-Driverless-Car-Technology-Choices-ebook/dp/B07PM8QWP9/",
+      "ratings": {
+        "count": 47,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Vivek Wadhwa",
+            "type": "profile",
+            "name": "Vivek Wadhwa"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71V1qmWUoFL._AC_UY218_ML3_.jpg",
+          "width": 141,
+          "height": 218,
+          "title": "The Driver in the Driverless Car: How Your Technology Choices Create the Future",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$11.99",
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics.md",
+      "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
+      "excerpt": "This book describes the important ideas in a variety of fields such as medicine, biology, finance, and marketing in a common conceptual framework. While the approach is statistical, the emphasis is on concepts rather than mathematics. Many examples are given, with a liberal use of colour graphics. It is a valuable resource for statisticians and anyone interested in data mining in science or industry. The book's coverage is broad, from supervised learning (prediction) to unsupervised learning. The many topics include neural networks, support vector machines, classification trees and boosting---the first comprehensive treatment of this topic in any book.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-elements-of-statistical-learning-data-mining-inference-and-prediction-second-edition-springer-series-in-statistics/index.json",
+      "webUrl": "https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/",
+      "ratings": {
+        "count": 325,
+        "average": 4.2
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Trevor Hastie",
+            "type": "profile",
+            "name": "Trevor Hastie"
+          },
+          {
+            "path": "",
+            "title": "Robert Tibshirani",
+            "type": "profile",
+            "name": "Robert Tibshirani"
+          },
+          {
+            "path": "",
+            "title": "Jerome Friedman",
+            "type": "profile",
+            "name": "Jerome Friedman"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate",
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41aQrQaPseL._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Second Edition (Springer Series in Statistics)",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$62.93",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-hundred-page-machine-learning-book.md",
+      "title": "The Hundred-Page Machine Learning Book",
+      "excerpt": "Everything you really need to know in Machine Learning in a hundred pages.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-hundred-page-machine-learning-book/index.json",
+      "webUrl": "https://www.amazon.com/Hundred-Page-Machine-Learning-Book/dp/199957950X/",
+      "ratings": {
+        "count": 326,
+        "average": 4.6
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Andriy Burkov",
+            "type": "profile",
+            "name": "Andriy Burkov"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41hnD5LLz5L._AC_UY218_ML3_.jpg",
+          "width": 177,
+          "height": 218,
+          "title": "The Hundred-Page Machine Learning Book",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$31.03",
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_learning/books/amazon-the-industries-of-the-future.md",
+      "title": "The Industries of the Future",
+      "excerpt": "The New York Times bestseller, from leading innovation expert Alec Ross, a “fascinating vision” (Forbes) of what’s next for the world and how to navigate the changes the future will bring.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazon-the-industries-of-the-future/index.json",
+      "webUrl": "https://www.amazon.com/Industries-Future-Alec-Ross/dp/1476753660/",
+      "ratings": {
+        "count": 514,
         "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Alec Ross",
+            "type": "profile",
+            "name": "Alec Ross"
+          }
+        ]
+      },
+      "levels": [
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/71s-MrcZOTL._AC_UY218_ML3_.jpg",
+          "width": 143,
+          "height": 218,
+          "title": "The Industries of the Future",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$10.00",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch.md",
+      "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
+      "excerpt": "Ready to crank up a virtual server and smash through petabytes of data? Want to add 'Machine Learning' to your LinkedIn profile? Well, hold on there...Before you embark on your epic journey into the world of machine learning, there is some theory and statistical principles to march through first.  This book has been written and designed for absolute beginners. This means plain-English explanations and no coding experience required. Where core algorithms are introduced, clear explanations and visual examples are added to make it easy and engaging to follow along at home.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/amazonmachine-learning-for-absolute-beginners-a-plain-english-introduction-machine-learning-from-scratch/index.json",
+      "webUrl": "https://www.amazon.com/Machine-Learning-Absolute-Beginners-Introduction/dp/1549617214/",
+      "ratings": {
+        "count": 198,
+        "average": 4.4
+      },
+      "provider": {
+        "name": "Amazon",
+        "domain": "amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "authors": [
+          {
+            "path": "",
+            "title": "Oliver Theobald",
+            "type": "profile",
+            "name": "Oliver Theobald"
+          }
+        ]
+      },
+      "levels": [
+        "Beginner"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/61k3cuvIl9L._AC_UY218_ML3_.jpg",
+          "width": 145,
+          "height": 218,
+          "title": "Machine Learning For Absolute Beginners: A Plain English Introduction (Machine Learning From Scratch)",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "$13.32",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/books/manning-machine-learning-with-r-tidyverse-and-mlr.md",
+      "title": "Machine Learning with R, tidyverse, and mlr",
+      "excerpt": "Early access book that provides basics of machine learning and using R programming language.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/books/manning-machine-learning-with-r-tidyverse-and-mlr/index.json",
+      "webUrl": "https://www.manning.com/books/machine-learning-with-r-tidyverse-and-mlr",
+      "provider": {
+        "name": "Manning",
+        "domain": "manning.com"
+      },
+      "levels": [
+        "Beginner",
+        "Intermediate"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://images.manning.com/720/960/resize/book/d/f6ea29a-3695-4ba3-804f-3db01327a7f7/Rhys-ML-MEAP-HI.png",
+          "width": 720,
+          "height": 903,
+          "title": "Machine Learning with R, tidyverse, and mlr",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "book",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university.md",
+      "title": "From Languages to Information Week 7: Recommendation Systems and Vector Semantics | Stanford University",
+      "excerpt": "This is the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/collections/stanford-university-from-languages-to-information-week-7-recommendation-systems-and-vector-semantics-stanford-university/",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics.md",
+          "title": "13.8 Word Similarity  Distributional Similarity I | Recommendation Systems and Vector Semantics",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-138-word-similarity-distributional-similarity-i-recommendation-systems-and-vector-semantics/",
+          "originalUrl": "https://youtube.com/watch?v=swDoFpuHpzQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/swDoFpuHpzQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT13M15S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:45:08-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics.md",
+          "title": "13.10 Word Similarity  Distributional Similarity II | Recommendation Systems and Vector Semantics",
+          "excerpt": "This is part of the Week 7 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-1310-word-similarity-distributional-similarity-ii-recommendation-systems-and-vector-semantics/",
+          "originalUrl": "https://youtube.com/watch?v=eSdBnha0xJc",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/eSdBnha0xJc\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT8M16S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:45:08-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/eSdBnha0xJc/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 2,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/swDoFpuHpzQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university.md",
+      "title": "From Languages to Information Week 8: PageRank | Stanford University",
+      "excerpt": "This is the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/learning/collections/stanford-university-from-languages-to-information-week-8-pagerank-stanford-university/",
+      "provider": {
+        "name": "Stanford University",
+        "domain": "stanford.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ]
+      },
+      "topItems": [
+        {
+          "path": "_learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering.md",
+          "title": "14   1   Anchor Text | Relation Extraction and Question Answering",
+          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-1-anchor-text-relation-extraction-and-question-answering/",
+          "originalUrl": "https://youtube.com/watch?v=-rfVrRAgzHM",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/-rfVrRAgzHM\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT3M40S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:46:05-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering.md",
+          "title": "14   2   PageRank Overview and Markov Chains | Relation Extraction and Question Answering",
+          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-2-pagerank-overview-and-markov-chains-relation-extraction-and-question-answering/",
+          "originalUrl": "https://youtube.com/watch?v=29Tx-s0ybiQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/29Tx-s0ybiQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT12M11S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:46:05-08:00",
+          "heat": 51,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/29Tx-s0ybiQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        },
+        {
+          "path": "_learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering.md",
+          "title": "14   3   Computing PageRank | Relation Extraction and Question Answering",
+          "excerpt": "This is part of the Week 8 series of Dan Jurafsky's “From Languages to Information” Stanford CS124/LINGUIST 180 course.",
+          "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/index.json",
+          "webUrl": "https://smartable.ai/apps/ai/learning/videos/stanford-university-14-3-computing-pagerank-relation-extraction-and-question-answering/",
+          "originalUrl": "https://youtube.com/watch?v=TlVs9nMyZyQ",
+          "featuredContent": "<iframe width=\"800\" height=\"500\" frameborder=\"0\" src=\"https://www.youtube.com/embed/TlVs9nMyZyQ\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>",
+          "length": "PT8M10S",
+          "provider": {
+            "name": "Stanford University",
+            "domain": "stanford.edu",
+            "images": [
+              {
+                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/stanford.edu-50x50.jpg",
+                "width": 50,
+                "height": 50,
+                "isCached": false
+              }
+            ]
+          },
+          "publishedDateTime": "2018-01-25T10:46:05-08:00",
+          "heat": 50,
+          "images": [
+            {
+              "url": "https://i.ytimg.com/vi/TlVs9nMyZyQ/hqdefault.jpg",
+              "width": 480,
+              "height": 360,
+              "isCached": true
+            }
+          ],
+          "content": "\r\n",
+          "type": "video",
+          "price": "Free",
+          "topics": [
+            "AI",
+            "Natural Language Processing"
+          ]
+        }
+      ],
+      "size": 3,
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/-rfVrRAgzHM/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "collection",
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-a-crash-course-in-data-science.md",
+      "title": "A Crash Course in Data Science",
+      "excerpt": "Learn A Crash Course in Data Science from Johns Hopkins University. By now you have definitely heard about data science and big data. In this one-week class, we will provide a crash course in what these terms mean and how they play a role in ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-a-crash-course-in-data-science/index.json",
+      "webUrl": "https://www.coursera.org/learn/data-science-course",
+      "length": "5 hours",
+      "ratings": {
+        "count": 5201,
+        "average": 4.5
       },
       "provider": {
         "name": "Coursera",
@@ -284,20 +1492,21 @@
         "publishers": [
           {
             "path": "",
-            "name": "University of Pennsylvania"
+            "name": "Johns Hopkins University"
           }
         ]
       },
       "levels": [
+        "Beginner",
         "Intermediate"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/5971e07cda11e58108cf8cb753e7a9/Perception-Logo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f0/399ec045ea11e5ba8e4bc295fed462/9990024683_955f8f043b_h.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
           "width": 400,
           "height": 400,
-          "title": "Robotics: Perception",
+          "title": "A Crash Course in Data Science",
           "isCached": false
         }
       ],
@@ -306,19 +1515,69 @@
       "price": "Free+",
       "topics": [
         "AI",
-        "AI in Robotics"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark.md",
-      "title": "Scalable Machine Learning on Big Data using Apache Spark",
-      "excerpt": "Learn Scalable Machine Learning on Big Data using Apache Spark from IBM. This course will empower you with the skills to scale data science and machine learning (ML) tasks on Big Data sets using Apache Spark. Most real world machine learning work ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-scalable-machine-learning-on-big-data-using-apache-spark/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-big-data-apache-spark",
+      "path": "_learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning.md",
+      "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
+      "excerpt": "Learn Addressing Large Hadron Collider Challenges by Machine Learning from National Research University Higher School of Economics. The Large Hadron Collider (LHC) is the largest data generation machine for the time being. It doesn’t produce the ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-addressing-large-hadron-collider-challenges-by-machine-learning/index.json",
+      "webUrl": "https://www.coursera.org/learn/hadron-collider-machine-learning",
+      "length": "19 hours",
+      "ratings": {
+        "count": 45,
+        "average": 4.5
+      },
+      "provider": {
+        "name": "Coursera",
+        "domain": "coursera.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          }
+        ],
+        "publishers": [
+          {
+            "path": "",
+            "name": "National Research University Higher School of Economics"
+          }
+        ]
+      },
+      "levels": [
+        "Advanced"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/58/773690b06611e7a6c2e3b47ae99c55/LCH_ML2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "width": 400,
+          "height": 400,
+          "title": "Addressing Large Hadron Collider Challenges by Machine Learning",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n",
+      "type": "course",
+      "price": "Free+",
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_learning/courses/coursera-advanced-data-science-capstone.md",
+      "title": "Advanced Data Science Capstone",
+      "excerpt": "Learn Advanced Data Science Capstone from IBM. This project completer has proven a deep understanding on massive parallel data processing, data exploration and visualization, advanced machine learning and deep learning and how to apply his ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-data-science-capstone/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-data-science-capstone",
       "length": "10 hours",
       "ratings": {
-        "count": 438,
-        "average": 4.0
+        "count": 199,
+        "average": 4.6
       },
       "provider": {
         "name": "Coursera",
@@ -348,15 +1607,15 @@
         ]
       },
       "levels": [
-        "Intermediate"
+        "Advanced"
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/eb/3942fb8d2e4ad48ab23f26dbfde712/ScaleMLwBigData.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b0/b87e208be611e89f604728676b46b0/Advanced_Data_Science_Capstone.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
           "width": 400,
           "height": 400,
-          "title": "Scalable Machine Learning on Big Data using Apache Spark",
+          "title": "Advanced Data Science Capstone",
           "isCached": false
         }
       ],
@@ -369,61 +1628,15 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing.md",
-      "title": "Sequence Models for Time Series and Natural Language Processing",
-      "excerpt": "This course is an introduction to sequence models and their applications, including an overview of sequence model architectures and how to handle inputs of variable length.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequence-models-for-time-series-and-natural-language-processing/index.json",
-      "webUrl": "https://www.coursera.org/learn/sequence-models-tensorflow-gcp",
-      "length": "13 hours",
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8f/2e6640bc6d11e8b73f2961737adc73/adv-ml-gcp-3x.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Sequence Models for Time Series and Natural Language Processing",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-sequence-models.md",
-      "title": "Sequence Models",
-      "excerpt": "Learn Sequence Models from deeplearning.ai. This course will teach you how to build models for natural language, audio, and other sequence data. Thanks to deep learning, sequence algorithms are working far better than just two years ago, and this ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequence-models/index.json",
-      "webUrl": "https://www.coursera.org/learn/nlp-sequence-models",
-      "length": "17 hours",
+      "path": "_learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow.md",
+      "title": "Advanced Deployment Scenarios with TensorFlow",
+      "excerpt": "Learn Advanced Deployment Scenarios with TensorFlow from deeplearning.ai. Bringing a machine learning model into the real world involves a lot more than just modeling. This Specialization will teach you how to navigate various deployment ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-deployment-scenarios-with-tensorflow/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-deployment-scenarios-tensorflow",
+      "length": "9 hours",
       "ratings": {
-        "count": 19788,
-        "average": 4.8
+        "count": 40,
+        "average": 4.5
       },
       "provider": {
         "name": "Coursera",
@@ -461,10 +1674,10 @@
       ],
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/38/1d2dd0104e11e8a9fde55ba46c309d/CarouselAds_DL_Sequence.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c7/c372f1915c434cbb08e84046521aa5/TFS2C4CourseraSquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
           "width": 400,
           "height": 400,
-          "title": "Sequence Models",
+          "title": "Advanced Deployment Scenarios with TensorFlow",
           "isCached": false
         }
       ],
@@ -478,63 +1691,14 @@
       ]
     },
     {
-      "path": "_learning/courses/coursera-sequences-time-series-and-prediction.md",
-      "title": "Sequences, Time Series and Prediction",
-      "excerpt": "Learn Sequences, Time Series and Prediction from deeplearning.ai. If you are a software developer who wants to build scalable AI-powered algorithms, you need to understand how to use the tools to build them. This Specialization will teach you ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-sequences-time-series-and-prediction/index.json",
-      "webUrl": "https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction",
-      "length": "8 hours",
+      "path": "_learning/courses/coursera-advanced-machine-learning-and-signal-processing.md",
+      "title": "Advanced Machine Learning and Signal Processing",
+      "excerpt": "Learn Advanced Machine Learning and Signal Processing from IBM. >>> By enrolling in this course you agree to the End User License Agreement as set out in the FAQ.  Once enrolled you can access the license in the Resources area <<<  This course, ...",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-advanced-machine-learning-and-signal-processing/index.json",
+      "webUrl": "https://www.coursera.org/learn/advanced-machine-learning-signal-processing",
+      "length": "16 hours",
       "ratings": {
-        "count": 853,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/7e/075c1fda9d419b8d763b1b988d36ba/TFC4SquareLogo.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Sequences, Time Series and Prediction",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform.md",
-      "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
-      "excerpt": "Learn Serverless Machine Learning with Tensorflow on Google Cloud Platform from Google Cloud. This one-week accelerated on-demand course provides participants a a hands-on introduction to designing and building machine learning models on Google ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-serverless-machine-learning-with-tensorflow-on-google-cloud-platform/index.json",
-      "webUrl": "https://www.coursera.org/learn/serverless-machine-learning-gcp",
-      "length": "12 hours",
-      "ratings": {
-        "count": 2407,
+        "count": 505,
         "average": 4.5
       },
       "provider": {
@@ -551,57 +1715,7 @@
         "publishers": [
           {
             "path": "",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/822130593d11e7b1e257a03557c934/Serverless-ML-v2.jpg?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Serverless Machine Learning with Tensorflow on Google Cloud Platform",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars.md",
-      "title": "State Estimation and Localization for Self-Driving Cars",
-      "excerpt": "Learn State Estimation and Localization for Self-Driving Cars from University of Toronto. Welcome to State Estimation and Localization for Self-Driving Cars, the second course in University of Toronto’s Self-Driving Cars Specialization. We ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-state-estimation-and-localization-for-self-driving-cars/index.json",
-      "webUrl": "https://www.coursera.org/learn/state-estimation-localization-self-driving-cars",
-      "length": "24 hours",
-      "ratings": {
-        "count": 190,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Toronto"
+            "name": "IBM"
           }
         ]
       },
@@ -611,60 +1725,10 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/46/f68ed0145511e9af5373d793509056/Course2.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
+          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/8a/7607508be611e89f604728676b46b0/IBM_Watson_IoT-_Advanced_Machine_Learning_and_Signal_Processing.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
           "width": 400,
           "height": 400,
-          "title": "State Estimation and Localization for Self-Driving Cars",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-structuring-machine-learning-projects.md",
-      "title": "Structuring Machine Learning Projects",
-      "excerpt": "Learn Structuring Machine Learning Projects from deeplearning.ai. You will learn how to build a successful machine learning project. If you aspire to be a technical leader in AI, and know how to set direction for your team's work, this course ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-structuring-machine-learning-projects/index.json",
-      "webUrl": "https://www.coursera.org/learn/machine-learning-projects",
-      "length": "7 hours",
-      "ratings": {
-        "count": 33286,
-        "average": 4.8
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "deeplearning.ai"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/f6/53bf90104d11e8b2d89d7efe59d41d/CarouselAds_DL_ML.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Structuring Machine Learning Projects",
+          "title": "Advanced Machine Learning and Signal Processing",
           "isCached": false
         }
       ],
@@ -674,761 +1738,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/coursera-visual-perception-for-self-driving-cars.md",
-      "title": "Visual Perception for Self-Driving Cars",
-      "excerpt": "Learn Visual Perception for Self-Driving Cars from University of Toronto. Welcome to Visual Perception for Self-Driving Cars, the third course in University of Toronto’s Self-Driving Cars Specialization.  This course will introduce you to the ...",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/coursera-visual-perception-for-self-driving-cars/index.json",
-      "webUrl": "https://www.coursera.org/learn/visual-perception-self-driving-cars",
-      "length": "20 hours",
-      "ratings": {
-        "count": 118,
-        "average": 4.6
-      },
-      "provider": {
-        "name": "Coursera",
-        "domain": "coursera.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/coursera.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "University of Toronto"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/5e/55d590145511e99e65b5a6b6fb8568/Course3.png?auto=format%2Ccompress&dpr=1&w=400&h=400&fit=fill&bg=FFF",
-          "width": 400,
-          "height": 400,
-          "title": "Visual Perception for Self-Driving Cars",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_learning/courses/edx-deep-learning-with-python-and-pytorch.md",
-      "title": "Deep Learning with Python and PyTorch",
-      "excerpt": "Learn how to use Python and its popular libraries such as NumPy and Pandas, as well as the PyTorch Deep Learning library. You'll then apply them to build Neural Networks and Deep Learning models.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/edx-deep-learning-with-python-and-pytorch/index.json",
-      "webUrl": "https://www.edx.org/course/deep-learning-with-python-and-pytorch",
-      "length": "6 Weeks",
-      "provider": {
-        "name": "edX",
-        "domain": "edx.org",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/edx.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "publishers": [
-          {
-            "path": "",
-            "name": "IBM",
-            "domain": "ibm.com",
-            "images": [
-              {
-                "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-                "width": 50,
-                "height": 50,
-                "isCached": false
-              }
-            ]
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "PyTorch"
-      ],
-      "images": [
-        {
-          "url": "https://prod-discovery.edx-cdn.org/media/course/image/17920e6b-e3ed-4819-8116-e48854e62cce-d390fea6c901.small.jpg",
-          "width": 378,
-          "height": 224,
-          "title": "Deep Learning with Python and PyTorch",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free+",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/google-developers-machine-learning-crash-course.md",
-      "title": "Machine Learning Crash Course with TensorFlow APIs",
-      "excerpt": "Machine Learning Crash Course features a series of lessons with video lectures, real-world case studies, and hands-on practice exercises.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/google-developers-machine-learning-crash-course/index.json",
-      "webUrl": "https://developers.google.com/machine-learning/crash-course/",
-      "length": "15 hours",
-      "provider": {
-        "name": "Google Developers",
-        "domain": "developers.google.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/developers.google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "tags": [
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://developers.google.com/machine-learning/crash-course/images/mlcc-hero.png",
-          "width": 3288,
-          "height": 1818,
-          "title": "Machine Learning Crash Course with TensorFlow APIs",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_learning/courses/linkedin-learning-artificial-intelligence-foundations-thinking-machines.md",
-      "title": "Artificial Intelligence Foundations: Thinking Machines",
-      "excerpt": "This course will introduce you to some of the key concepts behind artificial intelligence, including the differences between \"strong\" and \"weak\" AI. You'll see how AI has created questions around what it means to be intelligent and how much trust we should put in machines. Instructor Doug Rose explains the different approaches to AI, including machine learning and deep learning, and the practical uses for new AI-enhanced technologies. Plus, learn how to integrate AI with other technology, such as big data, and avoid some common pitfalls associated with programming AI.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-artificial-intelligence-foundations-thinking-machines/index.json",
-      "webUrl": "https://www.linkedin.com/learning/artificial-intelligence-foundations-thinking-machines",
-      "provider": {
-        "name": "LinkedIn Learning",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=hu6OfqGPVBmEWub%2FiNG0pcqyks0%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-nWySt892fZnfofs7XZLSiolQUeSkClgQzdumoRTnmE469LcLmY4Yx3A",
-          "width": 512,
-          "height": 288,
-          "title": "Artificial Intelligence Foundations: Thinking Machines",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$24.99",
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees.md",
-      "title": "Machine Learning and AI Foundations: Decision Trees",
-      "excerpt": "Many data science specialists are looking to pivot toward focusing on machine learning. This course covers the essentials of machine learning, including predictive analytics and working with decision trees. Explore several popular tree algorithms and learn how to use reverse engineering to identify specific variables. Demonstrations of using the IBM SPSS Modeler are included so you can understand how decisions trees work. This course is designed to give you a solid foundation on which to build more advanced data science skills.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-decision-trees/index.json",
-      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-decision-trees",
-      "length": "1:16",
-      "provider": {
-        "name": "LinkedIn Learning",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=bM%2FVK%2FaWoKtulsEs9YA3iNBGQWw%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kWSyp-dafZXXgesTcZLSio10WeCwGlwMweOitSDfiEo69LcLmY4Yx3A",
-          "width": 512,
-          "height": 288,
-          "title": "Machine Learning and AI Foundations: Decision Trees",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$29.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-recommendations.md",
-      "title": "Machine Learning and AI Foundations: Recommendations",
-      "excerpt": "This project-based course shows programmers of all skill levels how to use machine learning to build programs that can make recommendations. In this course, Adam Geitgey walks you through a hands-on lab building a recommendation system that is able to suggest similar products to customers based on past products they have reviewed or purchased. The system can also identify which products are similar to each other.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-recommendations/index.json",
-      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-recommendations",
-      "length": "0:58",
-      "provider": {
-        "name": "LinkedIn Learning",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=%2FtL12xbFm9drn%2BYMNJa6loKfeJk%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kXSaq-dWfZXHqecTfZLSiol8ReCsGmAMyf-2rQzngEo69LcLmY4Yx3A",
-          "width": 512,
-          "height": 288,
-          "title": "Machine Learning and AI Foundations: Recommendations",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$44.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/linkedin-learning-machine-learning-and-ai-foundations-value-estimations.md",
-      "title": "Machine Learning and AI Foundations: Value Estimations",
-      "excerpt": "Value estimation—one of the most common types of machine learning algorithms—can automatically estimate values by looking at related information. For example, a website can determine how much a house is worth based on the property's location and characteristics. In this project-based course, discover how to use machine learning to build a value estimation system that can deduce the value of a home. Follow Adam Geitgey as he walks through how to use sample data to build a machine learning model, and then use that model in your own programs. Although the project featured in this course focuses on real estate, you can use the same approach to solve any kind of value estimation problem with machine learning.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/linkedin-learning-machine-learning-and-ai-foundations-value-estimations/index.json",
-      "webUrl": "https://www.linkedin.com/learning/machine-learning-and-ai-foundations-value-estimations",
-      "length": "1:4",
-      "provider": {
-        "name": "LinkedIn Learning",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/media-proxy/ext?w=512&h=288&f=n&hash=X9X%2BFV5GrLMXZUW2d5VTCpH0JxU%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6plxVUzgUv5K_PrkC9q0RIUJDPBy-kXy2v89GfZXPhfM7bZLSiolQffSsJkw06fuquQzboGo69LcLmY4Yx3A",
-          "width": 512,
-          "height": 288,
-          "title": "Machine Learning and AI Foundations: Value Estimations",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$39.99",
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-recognize-specific-voices-with-the-speaker-recognition-apis-in-azure-cognitive-services.md",
-      "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
-      "excerpt": "Learn how to use the Speaker Recognition APIs to identify specific people through their voices.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/microsoft-learn-recognize-specific-voices-with-the-speaker-recognition-apis-in-azure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/recognize-voices-with-speaker-recognition/",
-      "length": "0:52",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/en-us/learn/achievements/data-ai/recognize-voices-with-speaker-recognition-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Recognize specific voices with the Speaker Recognition APIs in Azure Cognitive Services",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services.md",
-      "title": "Translate speech in real time with Azure Cognitive Services",
-      "excerpt": "Learn how to translate speech and convert it to text through real-time transcription with the Speech Translation API in Azure Cognitive Services.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/microsoft-learn-translate-speech-in-real-time-with-azure-cognitive-services/index.json",
-      "webUrl": "https://docs.microsoft.com/en-us/learn/modules/convert-speech-to-text/",
-      "length": "0:42",
-      "provider": {
-        "name": "Microsoft Learn",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://docs.microsoft.com/learn/achievements/data-ai/convert-speech-to-text-social.png",
-          "width": 800,
-          "height": 400,
-          "title": "Translate speech in real time with Azure Cognitive Services",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/mit-deep-learning-for-self-driving-cars.md",
-      "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
-      "excerpt": "This class is an introduction to the practice of deep learning through the applied theme of building a self-driving car. It is open to beginners and is designed for those who are new to machine learning, but it can also benefit advanced researchers in the field looking for a practical overview of deep learning methods and their application. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/mit-deep-learning-for-self-driving-cars/index.json",
-      "webUrl": "https://selfdrivingcars.mit.edu/",
-      "length": "2 weeks",
-      "provider": {
-        "name": "MIT",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Beginner",
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi_webp/O5xeyoRL95U/hqdefault.webp",
-          "width": 480,
-          "height": 360,
-          "title": "MIT 6.S094: Deep Learning for Self-Driving Cars",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/mit-linear-algebra.md",
-      "title": "Linear Algebra",
-      "excerpt": "This is a basic subject on matrix theory and linear algebra. Emphasis is given to topics that will be useful in other disciplines, including systems of equations, vector spaces, determinants, eigenvalues, similarity, and positive definite matrices.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/mit-linear-algebra/index.json",
-      "webUrl": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/",
-      "length": "10 weeks",
-      "provider": {
-        "name": "MIT",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/instructor-insights/an-interview-with-gilbert-strang-on-teaching-linear-algebra/18.06.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": "Linear Algebra",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/oxford-deep-learning-for-natural-language-processing-2017.md",
-      "title": "Oxford Deep NLP 2017 course",
-      "excerpt": "This is an advanced course on natural language processing. Automatically processing natural language inputs and producing language outputs is a key component of Artificial General Intelligence. The ambiguities and noise inherent in human communication render traditional symbolic AI techniques ineffective for representing and analysing language data. Recently statistical techniques based on neural networks have achieved a number of remarkable successes in natural language processing leading to a great deal of commercial and academic interest in the field",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/oxford-deep-learning-for-natural-language-processing-2017/index.json",
-      "webUrl": "https://github.com/oxford-cs-deepnlp-2017/lectures",
-      "length": "3 months",
-      "provider": {
-        "name": "Oxford",
-        "domain": "ox.ac.uk"
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1055770897091649536/1qDq-m41_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Oxford University",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "Free",
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend.md",
-      "title": "Analyzing Text on AWS with Amazon Comprehend",
-      "excerpt": "At the core of text analysis in the AWS Cloud is a thorough knowledge of Amazon Comprehend. In this course, Analyzing Text on AWS with Amazon Comprehend, you’ll learn how to use the service to extract insights and deep analysis about a given text. First, you’ll discover how the service is structured and common usage patterns for all of its features. Next, you’ll explore more advanced analysis concepts using an asynchronous request pattern. Finally, you’ll see how easy it can be to conduct complex topic modeling analysis. When you’re finished with this course, you’ll have a foundational knowledge of how to use Amazon Comprehend to analyze and understand any document set that will help you as you move forward and understand how to apply machine learning to real world problems.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-analyzing-text-on-aws-with-amazon-comprehend/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
-      "length": "1h 56m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Mark Nunnikhoven",
-            "type": "profile",
-            "name": "Mark Nunnikhoven"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-comprehend-analyzing-text-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Analyzing Text on AWS with Amazon Comprehend",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-applying-machine-learning-to-your-data-with-gcp.md",
-      "title": "Applying Machine Learning to your Data with GCP",
-      "excerpt": "Want to know how to query and process petabytes of data in seconds? Curious about data analysis that scales automatically as your data grows? Welcome to the Data Insights course! This accelerated online course teaches participants how to derive insights through data analysis and visualization using the Google Cloud Platform. The course features interactive scenarios and hands-on labs where participants explore, mine, load, visualize, and extract insights from diverse Google BigQuery datasets. The course covers data loading, querying, schema modeling, optimizing performance, query pricing,  and data visualization.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-applying-machine-learning-to-your-data-with-gcp/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/applying-machine-learning-data-gcp",
-      "length": "2h 52m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Google Cloud",
-            "type": "profile",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      "levels": [
-        "Beginner"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/applying-machine-learning-data-gcp-v1.png",
-          "width": 1280,
-          "height": 720,
-          "title": "Applying Machine Learning to your Data with GCP",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-architecting-production-ready-ml-models-using-google-cloud-ml-engine.md",
-      "title": "Architecting Production-ready ML Models Using Google Cloud ML Engine",
-      "excerpt": "This course covers Cloud ML Engine, a powerful service that supports distributed training and evaluation for models built in TensorFlow, Scikit-learn and XGBoost. ",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-architecting-production-ready-ml-models-using-google-cloud-ml-engine/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/google-ml-engine-architecting-production-ready-models",
-      "length": "2h 12m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Vitthal Srinivasan",
-            "type": "profile",
-            "name": "Vitthal Srinivasan"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "tags": [
-        "scikit-learn",
-        "Python",
-        "TensorFlow"
-      ],
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/google-ml-engine-architecting-production-ready-models-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Architecting Production-ready ML Models Using Google Cloud ML Engine",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker.md",
-      "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
-      "excerpt": "A fully managed machine learning service is a great place to start if you want to quickly get machine learning into your applications. In this course, Build, Train, and Deploy Machine Learning Models with AWS SageMaker, you will gain the ability to create machine learning models in AWS SageMaker and to integrate them into your applications. First, you’ll learn the basics and how to set up SageMaker. Next, you’ll discover how to build, train, and deploy models applied to Image Classification for breast cancer detection and how to integrate them into a REST API. Finally, you will even discover how to manage security and scalability in AWS SageMaker. When you’re finished with this course, you will have a foundational understanding of AWS SageMaker that will help you immensely as you move forward to create your own machine-learning-enabled applications applied to different real-life scenarios.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-build-train-and-deploy-machine-learning-models-with-aws-sagemaker/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-sagemaker-machine-learning-models",
-      "length": "2h 40m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Jorge Vasquez",
-            "type": "profile",
-            "name": "Jorge Vasquez"
-          }
-        ]
-      },
-      "levels": [
-        "Advanced"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-sagemaker-machine-learning-models-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Build, Train, and Deploy Machine Learning Models with AWS SageMaker",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly.md",
-      "title": "Building a Voice-enabled Serverless Website with AWS Polly",
-      "excerpt": "With all the new technology trends like AI, Serverless, and DevOps, tieing everything together can be overwhelming. In this course, you'll not only demystify this process but also see how using voice can save you time and keep your users engaged.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/learning/courses/pluralsight-building-a-voice-enabled-serverless-website-with-aws-polly/index.json",
-      "webUrl": "https://www.pluralsight.com/courses/aws-comprehend-analyzing-text",
-      "length": "1h 46m",
-      "provider": {
-        "name": "Pluralsight",
-        "domain": "pluralsight.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pluralsight.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ],
-        "authors": [
-          {
-            "path": "",
-            "title": "Ralu Bolovan",
-            "type": "profile",
-            "name": "Ralu Bolovan"
-          }
-        ]
-      },
-      "levels": [
-        "Intermediate"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pluralsight.imgix.net/course-images/aws-polly-voice-enabled-serverless-website-v1.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": "Building a Voice-enabled Serverless Website with AWS Polly",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n",
-      "type": "course",
-      "price": "$$",
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],
