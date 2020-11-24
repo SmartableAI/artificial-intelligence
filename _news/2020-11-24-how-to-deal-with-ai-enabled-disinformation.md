@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disin
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 6720
     height: 4480
     isCached: true
+
+related:
+  - title: "Emerald Jewellery unveils AI enabled Mobile Application Platform for Jewellery B2B Business in collaboration with IBM"
+    excerpt: "Emerald Jewellery, in collaboration with IBM, introduced AI-enabled Mobile Application Platform for Jewellery B2B Business in India."
+    publishedDateTime: 2020-11-24T08:10:00Z
+    webUrl: "https://www.analyticsinsight.net/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 16
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Press-scaled-e1606204594938.jpg"
+        width: 900
+        height: 626
+        isCached: true
 
 secured: "BV3Wj0DCMuV1FerhjGKTJKqAdWVEWGlQQ55mGdU8JDd/04OmCP2VZPJgfiz6qDYJY76QjEtABR/HBApI8O4GZQ24LMUxhZWXUm75HxOZJwRGhwoF9jXjm3B9z1Qp2UU1BtS5ffd8ho38mk//cro4htcv3rU35mW9Ts+bGEcaEsFuUVDw06S0JHfKpzugVLPwjOAK0bHO5LceHnx8KmDwZR6o+IeHsjZjpuRXi1WY3HhJN8AVwhiBflOyAcmurJKlFHsJu4B36Ft7eR4nMHN2zkSI7DgZ03/SaW45QqDkAmXSJGMvpFCmaJzpVkKB8P2CcDal727nMZS4SIALqzwu6UPiUJynl4PhTdt0eEXd9OY=;bZGs2de1EWVV1yWBcPVGAQ=="
 ---

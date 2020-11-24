@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
-    publishedDateTime: 2020-11-19T16:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Swarm Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
     excerpt: "The scope of the report includes a detailed study of Swarm Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The Swarm Intelligence Market is segmented on the Basis of Model Type,"
     publishedDateTime: 2020-11-23T08:47:00Z

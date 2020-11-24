@@ -100,6 +100,20 @@ related:
         width: 1668
         height: 834
         isCached: true
+  - title: "Interview with an AI - Insights into Education, Technology, Health, Innovation and Climate Change"
+    excerpt: "As part of my research into AI and machine learning, I am formulating the core principles that contribute to the foundation of my future product offering for digital business development that I believe organisations should embrace as we advance into the \"Information Learning Age\"."
+    publishedDateTime: 2020-11-21T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/interview-ai-insights-education-technology-health-climate-bennett"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEARIAApn2yyw/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=hxKq20SHLo4KEI0GaS8kByJmOu8YBox0XktmM-_Si3E"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Learn how to code through animation; Here's what the future holds for fintech"
     excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
     publishedDateTime: 2020-11-24T00:47:00Z
@@ -116,17 +130,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
-    excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"
-    publishedDateTime: 2020-11-19T15:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/financial-venture-studio-closes-first-fund-with-13-million-to-invest-in-early-stage-fintech-startups-1029821434"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "4 Greek FinTech companies revolutionising the financial space"
     excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
     publishedDateTime: 2020-11-23T12:23:00Z

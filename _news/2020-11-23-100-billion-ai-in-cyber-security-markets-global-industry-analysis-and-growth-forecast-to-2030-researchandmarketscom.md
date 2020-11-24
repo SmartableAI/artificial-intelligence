@@ -19,19 +19,19 @@ topics:
   - AI in Security
 
 related:
-  - title: "Grand View Research Forecasts $19.1 Billion Computer Vison Market in 2027"
-    excerpt: "Grand View Research is predicting that the market for computer vision technology will climb to $19.1 billion between 2020 and 2027."
-    publishedDateTime: 2020-11-24T02:34:00Z
-    webUrl: "https://mobileidworld.com/grand-view-research-forecasts-19-1-billion-computer-vison-market-in-2027-911231/"
+  - title: "Artificial Intelligence in Drug Discovery Market Size, Share to Witness Unprecedented Growth Through 2027-Industry News"
+    excerpt: "Global Artificial Intelligence in Drug Discovery Market is valued approximately at USD 259 million in 2019 and is anticipated to grow at a CAGR of 40.80% over the forecast period 2020-2027. Request Sample Copy of this report at:  Artificial Intelligence in Drug discovery has been gaining popularity as this technology adds value for scientists and researchers in the industry in decision making processes."
+    publishedDateTime: 2020-11-19T22:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-share-to-witness-unprecedented-growth-through-2027-industry-news-2020-11-19"
     type: article
     provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 23
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
-      - url: "https://mobileidworld.com/wp-content/uploads/iStock-910132252-3-e1532352748309.jpg"
-        width: 800
-        height: 621
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "qk+5p2j/fv074jI+JQW2VWjnY5Q9ivNjVwf5sm+1ay+WW6WbkXWFBlUGFmFnhIKyEZLh4Gj9UN983752khU/Rv8jS/1XVd2AzZgz+MhlqI27LdqkxmSWz2Xa7UzOvTUIjmvtvBMxyaZBMxKeMgxbl3hNJdSvWuVH7IaUDBnPbec6ufenMLaUrIez2/OzcAujMnDEDhX8W/UFhbgP0ltUp0LK3F1OT9JBTRKfqIiGRHzgHcRtvvrptKjnYF/HKGy31HE35KZ18n315VzZJYWktImHCfnzoeP9mYUaipAVhg/waguo9fqqRyl6h24xfiU8P/j68Cv2gLafS9GS7vkjBeNiB+78JCRps8Lw9ZmFgUg=;XrANhdGXiIMvWFYyFwhQJw=="

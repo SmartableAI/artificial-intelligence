@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-24-spotcam-brings-ai-to-cloud-cameras-for-painless-home-security.md",
+      "title": "SpotCam brings AI to cloud cameras for painless home security",
+      "excerpt": "Home security cameras utilizing the cloud to store video footage is a clear trend. Taiwanese company, SpotCam, has made cloud home monitoring cameras its focus for many years. SpotCam is best known for being the only company to offer free full time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
+      "originalUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=605",
+          "width": 605,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
+      "title": "How Archaeologists Are Using Deep Learning to Dig Deeper",
+      "excerpt": "Dr. Caspari hopes that their creation will give archaeologists a way to find new tombs and to identify important sites so that they can be protected from looters. Other convolutional neural networks are beginning to automate a variety of repetitive tasks that are usually foisted on to graduate students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/21SCI-AI-ARCHAEOLOGY1/merlin_180180867_e06b03e9-8617-426b-add7-98e70a1f46fd-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/24/science/artificial-intelligence-archaeology-cnn.amp.html",
+      "publishedDateTime": "2020-11-23T23:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-softbank-led-round-values-uber-like-truck-startup-at-12-billion.md",
       "title": "SoftBank-Led Round Values Uber-Like Truck Startup at $12 Billion",
       "excerpt": "known as Manbang in Chinese, said Tuesday it broke even this year and currently handles transactions for some 10 million truckers and 5 million shippers. It’s also expanding into automotive technology and backs autonomous trucking startup Plus.AI.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -269,7 +373,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -529,7 +633,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/359653",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1157,110 +1261,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-vision-ai-will-be-the-next-worldwide-web.md",
-      "title": "Vision AI will be the next worldwide web",
-      "excerpt": "Combine this with emerging computer vision technology powered by AI, and together you have Vision AI. Vision AI has the power to unlock the future of automation in a way not seen since the Web ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/",
-      "originalUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/",
-      "publishedDateTime": "2020-11-22T10:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-robots-invade-the-construction-site.md",
-      "title": "Robots invade the construction site",
-      "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80",
-      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/construction-robot-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-22T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

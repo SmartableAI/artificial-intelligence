@@ -53,6 +53,20 @@ related:
         width: 640
         height: 428
         isCached: true
+  - title: "Wemlo boosts mortgage processing service with AI-powered tech"
+    excerpt: "Fintech startup wemlo, a subsidiary of RE/MAX Holdings, has launched an artificial intelligence-powered technology created to boost and automate mortgage loan processing. The new tech, called Athena,"
+    publishedDateTime: 2020-11-24T08:02:00Z
+    webUrl: "https://www.mpamag.com/news/wemlo-boosts-mortgage-processing-service-with-aipowered-tech-239969.aspx"
+    type: article
+    provider:
+      name: Mortgage
+      domain: mpamag.com
+    quality: 39
+    images:
+      - url: "https://cdn-res.keymedia.com/cms/images/us/001/0248_637418010040614713.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "4nPEcNyaOkr2m4tWAW0uNCnCK4NvTPT8EmFB5O/hDcPz74oGtEeq0ibxqDySDvxeemEX5zEH+RD9MqW4x7fE9d5GoxNHXDapfhvK8EtrRqhUzQukVDkntWjs1Je7cluMh39R778cSE/kaoY7FPOq8iuKmRVtyhOhzHIjZgypaktqS/rC24KfwY8p/qJpbh1sBSOhjFN0nbuZE0y/jGlrnhPcR8vXUuNwaImHLu6BG/Jdb3m6c1E+Q+VnVmxKvkS9LCQw8+pqkYggAkANmC5iHi96ycau5unpHMPhZh6omi4q6nLimSpa5cnCzawHE0QZBH4wg9Et/bu6fBnpMf3PqsshOZaTd6wbRsU7zTgqhRk=;IFLmaBpn+dcbBjX+HxMzHA=="
 ---

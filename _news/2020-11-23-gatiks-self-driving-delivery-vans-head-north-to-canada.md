@@ -63,6 +63,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Loblaw and Gatik to deploy Canada's first self-driving delivery fleet"
+    excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Begi"
+    publishedDateTime: 2020-11-24T08:47:00Z
+    webUrl: "https://www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+    ampWebUrl: "https://www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895/amp"
+    cdnAmpWebUrl: "https://www-thewhig-com.cdn.ampproject.org/c/s/www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895/amp"
+    type: article
+    provider:
+      name: Kingston Whig-Standard
+      domain: thewhig.com
+    quality: 44
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/gatik1123.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Loblaw's testing Canada's first self-driving delivery fleet in Toronto"
     excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Beginning in January, Gatik will transport goods from its automated picking facility to Loblaw’s retail locations across the Greater Toronto Area."
     publishedDateTime: 2020-11-23T18:02:00Z
@@ -77,20 +93,6 @@ related:
     images:
       - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2018/11/speeding-traffic-police-cop-stop-speed-trap-radar-3.jpg?quality=100&strip=all"
         width: 1860
-        height: 1200
-        isCached: true
-  - title: "Loblaw and Gatik to deploy Canada's first self-driving delivery fleet"
-    excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Begi"
-    publishedDateTime: 2020-11-23T18:46:00Z
-    webUrl: "https://driving.ca/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
-    type: article
-    provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 24
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/10/PCNA20_0720_fine.jpg?quality=100&strip=all"
-        width: 1800
         height: 1200
         isCached: true
 

@@ -24,93 +24,20 @@ topics:
   - AI
 
 related:
-  - title: "IBM Focuses on AI & Cloud, Announces Instana Acquisition"
-    excerpt: "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
-    publishedDateTime: 2020-11-19T15:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp"
+  - title: "NICE Actimize IFM-X: Detection capabilities powered by AI and ML"
+    excerpt: "NICE Actimize announced the latest version of its Integrated Fraud Management (IFM-X) platform that delivers advanced detection capabilities powered by artificial intelligence and machine learning. Providing a real-time response in detection and decisioning across some of the most extensive fraud coverage available on the market,"
+    publishedDateTime: 2020-11-24T01:33:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/24/nice-actimize-ifm-x/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "IBM to acquire application performance monitoring company Instana"
-    excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
-    publishedDateTime: 2020-11-19T17:14:00Z
-    webUrl: "https://sdtimes.com/apm/ibm-to-acquire-application-performance-monitoring-company-instana/"
-    type: article
-    provider:
-      name: SD Times
-      domain: sdtimes.com
+      name: Help Net Security
+      domain: helpnetsecurity.com
     quality: 54
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2017/10/20171016_210707_HDR-1.jpg"
-        width: 1836
-        height: 2461
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
         isCached: true
-  - title: "Interview with an AI - Insights into Education, Technology, Health, Innovation and Climate Change"
-    excerpt: "As part of my research into AI and machine learning, I am formulating the core principles that contribute to the foundation of my future product offering for digital business development that I believe organisations should embrace as we advance into the \"Information Learning Age\"."
-    publishedDateTime: 2020-11-21T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/interview-ai-insights-education-technology-health-climate-bennett"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEARIAApn2yyw/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=hxKq20SHLo4KEI0GaS8kByJmOu8YBox0XktmM-_Si3E"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "IBM Buys APM Startup Instana To Boost AI Automation"
-    excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
-    publishedDateTime: 2020-11-19T18:02:00Z
-    webUrl: "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
-        width: 399
-        height: 399
-        isCached: true
-  - title: "IBM to Acquire APM Startup Instana to Boost Hybrid Cloud and AI-powered Automation"
-    excerpt: "IBM recently announced an agreement to acquire Instana, an application performance monitoring and observability company."
-    publishedDateTime: 2020-11-23T03:47:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18543-ibm-to-acquire-apm-startup-instana-to-boost-hybrid-cloud-and-ai-powered-automation"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 33
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/8e0cc8b5aa4bbdee8df5c1a32381f369.jpg?t=20201123_034157"
-        width: 752
-        height: 408
-        isCached: true
-  - title: "The Alberta Machine Intelligence Institute launches a program to empower startups to accelerate AI adoption related to supply chain management"
-    excerpt: "The Alberta Machine Intelligence Institute (Amii) has launched applications for Supply Chain AI West, an eight-month accelerator focused on empowering startups and early-stage founders to incorporate artificial intelligence (AI) technologies toward creating AI-powered supply chains."
-    publishedDateTime: 2020-11-19T21:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-alberta-machine-intelligence-institute-launches-a-program-to-empower-startups-to-accelerate-ai-adoption-related-to-supply-chain-management-1029822868"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    publishedDateTime: 2020-11-19T19:33:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/11/19/moovly-media-announces-integration-of-amazon-transcribe-and-google-translation"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 22
 
 secured: "f5nRYf9lTFlakiuoKPbG21GUp4W1ilTfEqmCy27w02FnpWJ63P3t0VeXt8/IwAwLIH1JDDwWiP4moO09dwFLboZudcIT9w8U162PR2m0pyryzTDpSoT8Lj5HYDMNUZSsAwQYZRWF9fLjDsstfLHpRztEJobZ52rp6UAbs0X+W39Gn6QnvrDLN2SIrpbIScaphABBrTJx+EnwM5Gj6MQYLRuQtRMoB25PxFKSbIA3xeebrWB8biu6L/MRsEL/uewxEPrQB4sOhfC+K9XD1++RZ5nG0zsqViHSWeqsUY/Ojw/4U6QP7RxU0kaSpb264TkNg2PdDq7BmRaY4mHZ2y1xOVxUqPzprKbab2BxbovEuV4=;5gDfrneuvDw7FbJR882HDw=="
 ---

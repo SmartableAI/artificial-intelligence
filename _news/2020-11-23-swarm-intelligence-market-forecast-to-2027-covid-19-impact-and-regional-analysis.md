@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
-    publishedDateTime: 2020-11-19T16:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global LegalTech Artificial Intelligence Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2026"
     excerpt: "Global LegalTech Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 interprets market overview, value chain structure, industrial environment, regional analysis,"
     publishedDateTime: 2020-11-23T08:57:00Z

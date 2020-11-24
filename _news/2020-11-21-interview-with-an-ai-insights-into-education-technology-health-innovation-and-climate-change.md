@@ -29,90 +29,139 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Focuses on AI & Cloud, Announces Instana Acquisition"
-    excerpt: "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
-    publishedDateTime: 2020-11-19T15:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp"
+  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
+    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
+    publishedDateTime: 2020-11-20T16:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
+    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
     type: article
     provider:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "IBM to acquire application performance monitoring company Instana"
-    excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
-    publishedDateTime: 2020-11-19T17:14:00Z
-    webUrl: "https://sdtimes.com/apm/ibm-to-acquire-application-performance-monitoring-company-instana/"
+  - title: "Learn The Future of Finance with the Ultimate FinTech Bundle"
+    excerpt: "The future of finance is digital. You know this by now. While cryptocurrencies and blockchain draw plenty of attention, there’s even more going on inside the finance industry rapidly changing how we invest,"
+    publishedDateTime: 2020-11-19T19:47:00Z
+    webUrl: "https://futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle"
+    ampWebUrl: "https://futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle/amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle/amp"
     type: article
     provider:
-      name: SD Times
-      domain: sdtimes.com
-    quality: 54
+      name: Futurism
+      domain: futurism.com
+    quality: 59
     images:
-      - url: "https://sdtimes.com/wp-content/uploads/2017/10/20171016_210707_HDR-1.jpg"
-        width: 1836
-        height: 2461
+      - url: "https://cdnp3.stackassets.com/062135191a9ca5dec3d60996826560b714debf98/store/8c4376d6d480f5e163531cb45824b6d4fe8ec566fc91218f6a23bd37ac14/product_59209_product_shots1.jpg"
+        width: 630
+        height: 473
         isCached: true
-  - title: "IBM Buys APM Startup Instana To Boost AI Automation"
-    excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
-    publishedDateTime: 2020-11-19T18:02:00Z
-    webUrl: "https://www.crn.com/news/applications-os/ibm-buys-apm-startup-instana-to-boost-ai-automation"
+  - title: "U.S. Fintech Wemlo Introduces AI Tech For Mortgage Processing"
+    excerpt: "Wemlo, a U.S.-based fintech that’s focused on mortgage loan processing, announced on Friday the launch of its new AI technology called Athena. According to Wemlo, Athena is a virtual assistant AI deve"
+    publishedDateTime: 2020-11-20T19:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
     images:
-      - url: "https://www.crn.com/resources/025f-0fe4ec4dc442-c4fa3416b5d7-1000/123200924.jpeg"
-        width: 399
-        height: 399
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/mortgage-precondo-ca-unsplash-600x338.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "IBM to Acquire APM Startup Instana to Boost Hybrid Cloud and AI-powered Automation"
-    excerpt: "IBM recently announced an agreement to acquire Instana, an application performance monitoring and observability company."
-    publishedDateTime: 2020-11-23T03:47:00Z
-    webUrl: "https://www.thefastmode.com/solution-vendors-m-a/18543-ibm-to-acquire-apm-startup-instana-to-boost-hybrid-cloud-and-ai-powered-automation"
+  - title: "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round"
+    excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners."
+    publishedDateTime: 2020-11-23T18:28:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
     type: article
     provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 33
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
     images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/8e0cc8b5aa4bbdee8df5c1a32381f369.jpg?t=20201123_034157"
-        width: 752
-        height: 408
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg"
+        width: 600
+        height: 400
         isCached: true
-  - title: "The Alberta Machine Intelligence Institute launches a program to empower startups to accelerate AI adoption related to supply chain management"
-    excerpt: "The Alberta Machine Intelligence Institute (Amii) has launched applications for Supply Chain AI West, an eight-month accelerator focused on empowering startups and early-stage founders to incorporate artificial intelligence (AI) technologies toward creating AI-powered supply chains."
-    publishedDateTime: 2020-11-19T21:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-alberta-machine-intelligence-institute-launches-a-program-to-empower-startups-to-accelerate-ai-adoption-related-to-supply-chain-management-1029822868"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
+  - title: "Namaste, France and Bonjour, India: The future of fintech is French"
+    excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
+    publishedDateTime: 2020-11-21T03:41:00Z
+    webUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french"
+    ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "NICE Actimize Announces Next-Gen Fraud Management Platform Leveraging Advanced AI and the Cloud to Fight Fraud and Enhance Customer Experience"
-    excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE), today announced the latest version of its Integrated Fraud Management (IFM-X) platform that"
-    publishedDateTime: 2020-11-23T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
+      name: Your Story
+      domain: yourstory.com
+    quality: 44
+    images:
+      - url: "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1605894676099.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 1668
+        height: 834
+        isCached: true
+  - title: "Learn how to code through animation; Here's what the future holds for fintech"
+    excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
+    publishedDateTime: 2020-11-24T00:47:00Z
+    webUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence"
+    ampWebUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    publishedDateTime: 2020-11-19T19:33:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/11/19/moovly-media-announces-integration-of-amazon-transcribe-and-google-translation"
+      name: Your Story
+      domain: yourstory.com
+    quality: 41
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
+    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
+    publishedDateTime: 2020-11-19T21:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
     type: article
     provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 22
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
+  - title: "4 Greek FinTech companies revolutionising the financial space"
+    excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
+    publishedDateTime: 2020-11-23T12:23:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/4-greek-fintech-companies-revolutionising-the-financial-space/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
+        width: 300
+        height: 300
+        isCached: true
+  - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
+    excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
+    publishedDateTime: 2020-11-19T17:46:00Z
+    webUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-to-novel-technology-that-empowers-breach-victims-to-fight-back"
+    type: article
+    provider:
+      name: Credit Union Insight
+      domain: cuinsight.com
+    quality: 14
+    images:
+      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
+        width: 792
+        height: 266
+        isCached: true
 
 secured: "UOOlz9XtrrInhO7J9loC6ETKaAZmCpHDMRCndgHWDunfdlbJ4lLbBqPjNzxyXV7u0GPb0nLgh4Yp2MmNW2xq+gfcs3uObt0zRuvuvsGd8Mt2gJbThb05SzT211chm137qBPtMuGLU4QzW3Ofy3uATrhco0IJxhQUR0+vilyIJ//k9bVok5wbIYcamLWRistAYKME4pMKvvx8AtCbCIPJYbxnhhhIeOisgNU73pYw7BTodeypmXvRo7it9wPsGRzJ3FoStMrsiEmLPy0dB7NN8IdyUjpLrYrCuLUXBCQE5VLQ8aFHjTi1uJ7HehhrmVD6XpMBZq1Zptf18mDFGiUAVZZ+4poYs+y3Y/OHTH/hyvc=;yLMIwSnvFHfa+okMz/fcbA=="
 ---

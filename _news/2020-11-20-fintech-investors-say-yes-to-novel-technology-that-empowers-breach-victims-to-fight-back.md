@@ -100,6 +100,20 @@ related:
         width: 1668
         height: 834
         isCached: true
+  - title: "Interview with an AI - Insights into Education, Technology, Health, Innovation and Climate Change"
+    excerpt: "As part of my research into AI and machine learning, I am formulating the core principles that contribute to the foundation of my future product offering for digital business development that I believe organisations should embrace as we advance into the \"Information Learning Age\"."
+    publishedDateTime: 2020-11-21T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/interview-ai-insights-education-technology-health-climate-bennett"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEARIAApn2yyw/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=hxKq20SHLo4KEI0GaS8kByJmOu8YBox0XktmM-_Si3E"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Learn how to code through animation; Here's what the future holds for fintech"
     excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
     publishedDateTime: 2020-11-24T00:47:00Z
@@ -116,17 +130,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Financial Venture Studio Closes First Fund with $13 Million to Invest in Early Stage Fintech Startups"
-    excerpt: "Financial Venture Studio, a venture firm focused on early stage fintech startups in the US, today announced the final close of its inaugural fund, FVS Fund I. The Fund closed with over $13 million in commitments from an array of leading institutional investors,"
-    publishedDateTime: 2020-11-19T15:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/financial-venture-studio-closes-first-fund-with-13-million-to-invest-in-early-stage-fintech-startups-1029821434"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Financial-Venture-Studio-Closes-First-Fund-with-13-Million-to-Invest-in-Early-Stage-Fintech-Startups-1029821434"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 39
   - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
     excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
     publishedDateTime: 2020-11-19T21:30:00Z

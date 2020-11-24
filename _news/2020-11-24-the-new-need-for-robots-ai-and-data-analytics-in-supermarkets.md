@@ -42,20 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
-    publishedDateTime: 2020-11-19T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning User and Entity Behaviour Analytics Report 2020"
     excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
     publishedDateTime: 2020-11-23T11:04:00Z

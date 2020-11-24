@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -158,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-23-self-driving-cars-could-become-your-neighborhood-ice-cream-truck.md",
+      "title": "Self-Driving Cars Could Become Your Neighborhood Ice Cream Truck",
+      "excerpt": "Anticipating the advent of self-driving ice cream trucks. getty. As a freezing cold winter begins to descend upon us, your thoughts undoubtedly turn toward a summertime pastime th",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb306f7f4dd0e453d0deb0b%2F0x0.jpg",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/",
+      "publishedDateTime": "2020-11-22T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet.md",
       "title": "Luminar to supply lidar sensors for Mobileye's self-driving fleet",
       "excerpt": "Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's <INTC.O> Mobileye subsidiary for its test fleet of self-driving vehicles.",
@@ -252,6 +304,58 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-uber-shops-for-self-driving-partners-or-even-selling-its-project.md",
+      "title": "Uber Shops For Self-Driving Partners Or Even Selling Its Project",
+      "excerpt": "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/",
+      "originalUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/",
+      "publishedDateTime": "2020-11-19T14:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1389,110 +1493,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars.md",
-      "title": "Top Reasons The Investment Spigot Is Reopening For Self-Driving Cars",
-      "excerpt": "Recent spate of investments in self-driving cars is due to key factors that are dovetailing at this moment in time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab29cca3f8041667ea2da7%2F0x0.jpg%3FcropX1%3D650%26cropX2%3D6824%26cropY1%3D95%26cropY2%3D3815",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-11-11T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-honda-claims-itll-be-the-first-to-mass-produce-level-3-self-driving-cars.md",
-      "title": "Honda claims it'll be the first to mass produce level 3 self-driving cars",
-      "excerpt": "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "originalUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "publishedDateTime": "2020-11-11T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

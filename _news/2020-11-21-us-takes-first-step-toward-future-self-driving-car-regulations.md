@@ -31,120 +31,44 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us"
-    excerpt: "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen."
-    publishedDateTime: 2020-11-19T16:29:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
+  - title: "U.S. regulators open process to ensure self-driving car safety"
+    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles."
+    publishedDateTime: 2020-11-19T22:32:00Z
+    webUrl: "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Reuters
+      domain: reuters.com
     quality: 74
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387"
-        width: 1200
-        height: 675
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Uber Shops For Self-Driving Partners Or Even Selling Its Project"
-    excerpt: "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off."
-    publishedDateTime: 2020-11-19T22:37:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+  - title: "NHTSA Seeks Input On Self-Driving Car Safety Rules"
+    excerpt: "The National Highway Traffic Safety Administration announced Thursday that it will be seeking public comment on a possible framework of principles for safety in cars equipped with automated driving systems,"
+    publishedDateTime: 2020-11-19T22:51:00Z
+    webUrl: "https://www.law360.com/articles/1330761/nhtsa-seeks-input-on-self-driving-car-safety-rules"
+    ampWebUrl: "https://www.law360.com/amp/articles/1330761"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1330761"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Self-Driving Cars Could Become Your Neighborhood Ice Cream Truck"
-    excerpt: "Anticipating the advent of self-driving ice cream trucks. getty. As a freezing cold winter begins to descend upon us, your thoughts undoubtedly turn toward a summertime pastime th"
-    publishedDateTime: 2020-11-22T16:35:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb306f7f4dd0e453d0deb0b%2F0x0.jpg"
-        width: 1200
-        height: 798
-        isCached: true
-  - title: "Another Study Shows Just How Careless Self-Driving Tech Is Making Us"
-    excerpt: "The closer cars get to driving themselves, the more distracted we’ll become behind the wheel. It’s hardly a surprising thought, but it’s been supported once again by a new study from the Insurance Institute for Highway Safety and the Massachusetts Institute of Technology’s AgeLab."
-    publishedDateTime: 2020-11-19T23:41:00Z
-    webUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398"
-    ampWebUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wu3h3sgovcjyqx3rkcim.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "U.S. Agency Opens Regulatory Proceeding to Ensure Self-Driving Car Safety"
-    excerpt: "U.S. auto safety regulators said Thursday they are opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA)said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-19T16:32:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-11-19/us-agency-opens-regulatory-proceeding-to-ensure-self-driving-car-safety"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 33
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-20T00:48:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117192605.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 29
-  - title: "NHTSA opens regulatory proceeding on self-driving vehicle safety"
-    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles. NHTSA said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-19T16:47:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/nhtsa-opens-regulatory-proceeding-self-driving-vehicle-safety"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
+      name: Law360
+      domain: law360.com
     quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/AVs%20Bloomberg.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Video: Using radar to help self-driving cars navigate in bad weather"
-    excerpt: "To help these vehicles see better in bad weather, researchers from the University of California (UC), San Diego have developed a new type of radar that improves the image capability of radar sensors to help predict the shape and size of objects in a scene."
-    publishedDateTime: 2020-11-20T13:39:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16004/video-using-radar-to-help-self-driving-cars-navigate-in-bad-weather"
+  - title: "NHTSA Eyes New Self-Driving Car Regulatory Framework"
+    excerpt: "The U.S. Department of Transportation has signaled that it may eventually adopt new safety standards for vehicles with automated driving systems, taking a big step that could boost development of passenger-carrying autonomous vehicles while ensuring that new technologies still undergo sharp scrutiny."
+    publishedDateTime: 2020-11-24T03:41:00Z
+    webUrl: "https://www.law360.com/articles/1331573/nhtsa-eyes-new-self-driving-car-regulatory-framework"
+    ampWebUrl: "https://www.law360.com/amp/articles/1331573"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1331573"
     type: article
     provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
-  - title: "The world's longest indoor test track for self-driving vehicles"
-    excerpt: "AstaZero is now building the world's longest indoor track for testing self-driving vehicles. AstaZero is the leading test bed for the automated transport systems of the future. With the new indoor track,"
-    publishedDateTime: 2020-11-23T13:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=379223"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 4
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "UVmvx8Pd6fN6rsRXJdLcx4k929QwsSS3b9a5C0bNnUnTwZyOC0nRQAT3VUb05qg6+4JRHbTO7nXr6pQ/M/dVryW05xNr8BZNCoAP3PG3NM9+oXNafV+GBhdGwzufcTZ3iObsr3bj3oXLmwHqLE9KsgAYRStm4HPEAQP0mZBuAmt/zDKIGxF3+0TIEW6uMXHDm7juUwUuLmIoXSxhNqq/XxPLuXUttAp6ffRA7em0to7MQYhnMHuxZ14ymSEyI8enPNLiJSJuzrN680x4Om67ZectKnjktF3J6VOJtVvLC5yhhWx/7u9h5eNGsM7SYTSYiiQHWHQc+XsScjjQjYLEpK+XM7/rYf9d5r6mdPU0pjbE1l42G6fJOiC/mS/uC3Rwtg+7H4QTNiG/BjdngVIlP19FlvkFlrOA+Rv/z0OBgo6MTJ6zz6eVO4NrpwZzjwpio0ooU9gWRVrAUg1VpjL+C3yTFWhLPNk5zc6utZsBv9tLfZFjnGu6EU8bF/bXb8UCurPzHyUj9ip/00BRc3j+ww==;VhTCAs3U7QDap+yOiMmdpA=="
 ---

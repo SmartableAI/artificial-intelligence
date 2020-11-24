@@ -2,6 +2,247 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2020-10-15-virtual-primary-care-startup-98point6-raises-118m-as-pandemic-sparks-demand-for-digital-health-tech.md",
+      "title": "Virtual primary care startup 98point6 raises $118M as pandemic sparks demand for digital health tech",
+      "excerpt": "Demand is through the roof for Seattle telemedicine startup 98point6. The company, which helps facilitate virtual primary care appointments, has seen its membership base skyrocket 274%",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
+      "originalUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/02/20190502_GeekWire_Awards_1195-630x420-1.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/virtual-primary-care-startup-98point6-raises-118m-pandemic-sparks-demand-digital-health-tech/amp/",
+      "publishedDateTime": "2020-10-15T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform.md",
+      "title": "98point6 nabs $112 million for its AI-powered telemedicine platform",
+      "excerpt": "98point6, a telemedicine startup whose platform pairs clinicians with AI to provide text-based care, today closed a $119 million venture funding round. The company says it will use the proceeds to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
+      "originalUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/254d1bd4-41d8-4081-8bc9-2f7cb51956b3-e1585848851613.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/15/98point6-nabs-112-million-for-its-ai-powered-telemedicine-platform/amp/",
+      "publishedDateTime": "2020-10-15T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-five-reasons-your-ai-project-never-made-it-to-market.md",
+      "title": "Five Reasons Your AI Project Never Made It To Market",
+      "excerpt": "But I’m not — I’m a data scientist. Having worked in AI at Uber and now as the CTO of Evisort, a startup automating contract management, I know what it takes to launch AI products successfully.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-reasons-your-ai-project-never-made-it-to-market/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-reasons-your-ai-project-never-made-it-to-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f16efbceb004e0006edc334%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/15/five-reasons-your-ai-project-never-made-it-to-market/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/15/five-reasons-your-ai-project-never-made-it-to-market/amp/",
+      "publishedDateTime": "2020-10-15T04:20:55-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-udacity-and-microsoft-partner-up-to-launch-new-machine-learning-program-to-skill-students.md",
+      "title": "Udacity and Microsoft partner up to launch new machine learning program to skill students",
+      "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learn",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
+      "originalUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/articleshow/78680180.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.businessinsider.in/thumb/78680236.cms?height=275&width=412",
+          "width": 412,
+          "height": 275,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
+      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/india/news/udacity-partners-with-microsoft-to-launch-nanodegree-programme-to-skill-students/amp_articleshow/78680180.cms",
+      "publishedDateTime": "2020-10-15T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider India",
+        "domain": "businessinsider.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-lantronix-brings-advanced-ai-and-machine-learning-to-smart-cameras-with-new-open-q-610-som.md",
+      "title": "Lantronix Brings Advanced AI and Machine Learning to Smart Cameras With New Open-Q 610 µSOM ...",
+      "excerpt": "The new Lantronix ultra-compact (50mm x 25mm), production-ready Open-Q 610 μSOM is based on the powerful Qualcomm QCS610 SOC, the latest in the Qualcomm® Vision Intelligence Platform lineup targeting smart cameras with edge computing.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-products-and-services-e68728e1c5882a075073f3030ca7359e",
+      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-transportation-equipment-manufacturing-industrial-products-and-services-products-and-services-e68728e1c5882a075073f3030ca7359e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-sicks-deep-learning-brings-simplicity-to-complex-ai-inspection.md",
       "title": "SICK’s Deep Learning Brings Simplicity to Complex AI Inspection",
       "excerpt": "SICK has launched a suite of Deep Learning apps and services to simplify machine vision quality inspection for challenging components, assemblies, surfaces or food produce, especially those that have previously defied automation and remained ...",
@@ -908,257 +1149,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-toronto-will-trial-self-driving-shuttles-in-early-2021.md",
-      "title": "Toronto will trial self-driving shuttles in early 2021",
-      "excerpt": "Local Motors will supply the latest iteration of its autonomous shuttle, dubbed Olli 2.0, for the trial. Olli 2.0 can accommodate up to eight passengers and",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "originalUrl": "https://www.techspot.com/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/10/2020-10-14-image-22.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87111-toronto-trial-driverless-shuttles-starting-early-next-year.html",
-      "publishedDateTime": "2020-10-14T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-cohesity-announces-aws-partnership-for-data-management-service.md",
-      "title": "Cohesity Announces AWS Partnership For Data Management Service",
-      "excerpt": "Backup vendor Cohesity has announced a \"strategic partnership\" with AWS for a Data Management as a Service offer that it claims is unlike any offer on the market today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/",
-      "originalUrl": "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f87719fb5aaa5aa86190ecf%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D1632%26cropY1%3D192%26cropY2%3D1416",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/justinwarren/2020/10/14/cohesity-announces-aws-partnership-for-data-management-service/amp/",
-      "publishedDateTime": "2020-10-14T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-building-a-medical-image-search-platform-on-aws.md",
-      "title": "Building a medical image search platform on AWS",
-      "excerpt": "Improving radiologist efficiency and preventing burnout is a primary goal for healthcare providers. A nationwide study published in Mayo Clinic Proceedings in 2015 showed radiologist burnout percentage at a concerning 61% [1]. In additon, the report concludes that “burnout and satisfaction with work-life",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/building-a-medical-image-search-platform-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/09/17/2-Solution-Architecture.jpg",
-          "width": 900,
-          "height": 415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T14:39:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-this-high-growth-chip-stock-just-beat-guidance-and-raised-its-dividend.md",
-      "title": "This High-Growth Chip Stock Just Beat Guidance and Raised Its Dividend",
-      "excerpt": "High-growth semi-cap equipment maker ASML Holdings (NASDAQ:ASML) just had its third-quarter earnings report today, October 14. The company is the sole provider of extreme ultravio",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595184%2Fgettyimages-1211223669.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 634,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/14/this-high-growth-chip-stock-just-beat-guidance-and/",
-      "publishedDateTime": "2020-10-14T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy.md",
-      "title": "Army’s ‘Team Ignite’ Sets Futuristic R&D Targets: AI, Robotics, Autonomy",
-      "excerpt": "\"We ultimately want this Team Ignite to become the way we do business -- it's increased collaboration with the right partners in the right events,\" says Maj. Gen. John George, head of Army Combat Capabilities and Development Command (CCDC).",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/",
-      "originalUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/10/Maj.-Gen.-John-George.jpg",
-          "width": 640,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/10/armys-team-ignite-sets-futuristic-rd-targets-ai-robotics-autonomy/amp/",
-      "publishedDateTime": "2020-10-14T14:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

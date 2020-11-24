@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM Focuses on AI & Cloud, Announces Instana Acquisition"
-    excerpt: "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities."
-    publishedDateTime: 2020-11-19T15:11:00Z
-    webUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19"
-    ampWebUrl: "https://www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/ibm-focuses-on-ai-cloud-announces-instana-acquisition-2020-11-19?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "IBM to acquire application performance monitoring company Instana"
     excerpt: "IBM has announced that it will be acquiring monitoring company Instana. This acquisition will help bolster IBM’s hybrid cloud and AI strategy."
     publishedDateTime: 2020-11-19T17:14:00Z
@@ -49,20 +38,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2017/10/20171016_210707_HDR-1.jpg"
         width: 1836
         height: 2461
-        isCached: true
-  - title: "Interview with an AI - Insights into Education, Technology, Health, Innovation and Climate Change"
-    excerpt: "As part of my research into AI and machine learning, I am formulating the core principles that contribute to the foundation of my future product offering for digital business development that I believe organisations should embrace as we advance into the \"Information Learning Age\"."
-    publishedDateTime: 2020-11-21T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/interview-ai-insights-education-technology-health-climate-bennett"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEARIAApn2yyw/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=hxKq20SHLo4KEI0GaS8kByJmOu8YBox0XktmM-_Si3E"
-        width: 1280
-        height: 720
         isCached: true
   - title: "IBM Buys APM Startup Instana To Boost AI Automation"
     excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
@@ -78,37 +53,6 @@ related:
         width: 399
         height: 399
         isCached: true
-  - title: "The Alberta Machine Intelligence Institute launches a program to empower startups to accelerate AI adoption related to supply chain management"
-    excerpt: "The Alberta Machine Intelligence Institute (Amii) has launched applications for Supply Chain AI West, an eight-month accelerator focused on empowering startups and early-stage founders to incorporate artificial intelligence (AI) technologies toward creating AI-powered supply chains."
-    publishedDateTime: 2020-11-19T21:18:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-alberta-machine-intelligence-institute-launches-a-program-to-empower-startups-to-accelerate-ai-adoption-related-to-supply-chain-management-1029822868"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/The-Alberta-Machine-Intelligence-Institute-launches-a-program-to-empower-startups-to-accelerate-AI-adoption-related-to-supply-chain-management-1029822868"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "NICE Actimize Announces Next-Gen Fraud Management Platform Leveraging Advanced AI and the Cloud to Fight Fraud and Enhance Customer Experience"
-    excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE), today announced the latest version of its Integrated Fraud Management (IFM-X) platform that"
-    publishedDateTime: 2020-11-23T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
-  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    publishedDateTime: 2020-11-19T19:33:00Z
-    webUrl: "https://stockhouse.com/news/press-releases/2020/11/19/moovly-media-announces-integration-of-amazon-transcribe-and-google-translation"
-    type: article
-    provider:
-      name: Stockhouse
-      domain: stockhouse.com
-    quality: 22
 
 secured: "ZXRB6VG+pKJ4IOlQM1gRQvh8Dnv0pWzpUBzIbChssLWl5iBVezVsEYj4UCsaCfAveRFQm871zeLKLeznpfsgwE7nPaONaH0K3Le5swM3sHDSz2BizZImn4ingLXanwapoZDMhb1QZP2xLm+udwu/UjGs9VIwyky0DARAtl1m2CJ603Exdb0lpwXkHlMk/a9iivd02L8dNUqqsfaIMLlvNpIFS0cI/FH/+uA997IHTHLq6XNwO1fppLCrCe+C3z386qgjQmFsO7UAnF8T1c38lrCZF9REu6iOhs2WrreJ8vg7g15IJZ38SzZ/AYHuG2ZNZKtYAfruFKLoJIbEQDAtE1odpCwf6aubzKx/Y48NeBn8icYagEVhoKbHaQ4AW/CYAo/4yMm0Tt77+mK7Z/QqQN8CP/TG40CPmnLqzOLQ0IVmNlF79Vk8LDmxw1z869YZMp3t1haDk40i00sUuZ/l915P4BoZs8w5Ootnd8pPBv0qAo4F4dGXrWF0ZVW5Xzi+KAPqcZ9qPaN/LlqKo7QGCA==;KEMfFpE3tOwlkkI8nJBMBg=="
 ---

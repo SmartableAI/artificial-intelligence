@@ -77,17 +77,19 @@ related:
         isCached: true
   - title: "Loblaw and Gatik to deploy Canada's first self-driving delivery fleet"
     excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Begi"
-    publishedDateTime: 2020-11-23T18:46:00Z
-    webUrl: "https://driving.ca/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+    publishedDateTime: 2020-11-24T08:47:00Z
+    webUrl: "https://www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+    ampWebUrl: "https://www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895/amp"
+    cdnAmpWebUrl: "https://www-thewhig-com.cdn.ampproject.org/c/s/www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895/amp"
     type: article
     provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 24
+      name: Kingston Whig-Standard
+      domain: thewhig.com
+    quality: 44
     images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/10/PCNA20_0720_fine.jpg?quality=100&strip=all"
-        width: 1800
-        height: 1200
+      - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/gatik1123.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "Lw7MCA2Nqm45lYVkDvtFbzMDj0rLeQqUUJx8xNkHZAWdL/ID0Z+ozUX+TiF1FvmyvVoetLhiZJ/vNMwpiCypELkI5ECkTu0GxWF/SzyjZuWO2hjih78EXhIooo5EMyP/shaNYCiNbUlntrbVLLdeFf3hdkeYdzmvOQGYVAsrrYyQ+2neMJ7Kuw96U85LGy7Axq+1Ozk0ab8pTw4oGJQMqpxnslA3YzYUgje0sX2EE2Ds6lzN8+UrNaqCvkbEGE/5UrFMEkNRzejXqsa55y2HWFKnl0vvkXpS2vgeXIHT46EcJQGgDDZu6nPTMK9wS0qFWRXXziSQso3NE3xLMhll3TiWnBN6yzDnm6btAYyHLMY=;Y9xaP3aQ5Skbr+dlDZRsCw=="

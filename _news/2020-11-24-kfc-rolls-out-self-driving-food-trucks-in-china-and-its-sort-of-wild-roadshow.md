@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "KFC Has Self-Driving Food Trucks in China And I Thirst For Chicken"
-    excerpt: "The self-driving vehicles allow customers to select their KFC item of choice and pay by scanning a QR code. Upon payment the door will open so the customer can take their food. The trucks seem to have been first spotted on Twitter earlier this month."
-    publishedDateTime: 2020-11-23T23:31:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 44
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/24/kfc-self-driving-food-truck.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "nEH7LTVC3NehjhSOsUDfpa8JgC3zoOHOwxZ+S8omhx4Mne80CL0rPtLmnmn8xchtuPLPQat9c+8Ss6YDmvpLsJqFts0X25uyXLXFFhbNrZ6SC0FrZxR5oPZ3PSYkS39WN9v1EE+4PIIJa23kt+ce7aFaSA6qPKXi3ZZzHtiSOQYUJoui3cRvev6+iXRG7bkozH3uMjLmn2lrrE8hsXQMHaFucnc51NOMUCqZ0RmIHWBr/jpOZYOHai75cYCgVxGs17whWyV4t4abRQNZ4aC3o9K/zGEScmm2iYJIKGszG3wKYCVxSWnc4ht8MRVhXoU/T0RfJ4yBfPyyhYMflXxlsRDCsmIfEieuAtKRJFup48Q=;qxIFxSATGIG7XCndT1Ql0w=="
 ---

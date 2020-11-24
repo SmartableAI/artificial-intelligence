@@ -25,33 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered learning tools are on track to transform the modern workplace for good"
-    excerpt: "A new era of automation will help workers constantly acquire new skills on the job and at large scale through the use of AI-powered tools."
-    publishedDateTime: 2020-11-19T16:21:00Z
-    webUrl: "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11"
+  - title: "How AI bots and voice assistants reinforce gender bias"
+    excerpt: "The world may soon have more voice assistants than people—yet another indicator of the rapid, large-scale adoption of artificial intelligence (AI) across many fields. The benefits of AI are significant: it can drive efficiency,"
+    publishedDateTime: 2020-11-23T17:49:00Z
+    webUrl: "https://www.brookings.edu/research/how-ai-bots-and-voice-assistants-reinforce-gender-bias/"
+    ampWebUrl: "https://www.brookings.edu/research/how-ai-bots-and-voice-assistants-reinforce-gender-bias/amp/"
+    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/how-ai-bots-and-voice-assistants-reinforce-gender-bias/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
+      name: Brookings Institution
+      domain: brookings.edu
+    quality: 59
     images:
-      - url: "https://i.insider.com/5faecfbe1c741f0019ac9b58?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "AI-powered tutors in schools to make learning fun in UAE"
-    excerpt: "A new artificial intelligence (AI)-powered platform is set to supplement school education with live and inclusive learning opportunities for students, not only in the UAE but even across the world.</p> <p>Launched by Sheikh Mohammed bin Hamad bin Mohammed Al Sharqi,"
-    publishedDateTime: 2020-11-23T06:56:00Z
-    webUrl: "https://menafn.com/1101166283/AI-powered-tutors-in-schools-to-make-learning-fun-in-UAE&source=246"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 37
-    images:
-      - url: "https://menafn.com/updates/pr/2020-11/22/KT_2e18237a-4image_story.jpg"
-        width: 850
-        height: 567
+      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/iphone_hello_siri.jpg"
+        width: 4589
+        height: 3060
         isCached: true
 
 secured: "seYwdY6RzeKKvd6bY4ayf2VdTqwyDk8FC5npshrSOM2Mia1PND7QtJtCA8YN7b390qVYhxWx2qB17nn0E7IiLLkLx/mfT96RUFcx6mtDrpX8zfHAAKM5xoIqkzSLJ3gbagXqUe6KWZ3JElMRQeUKmyIW61anUIy+nqIvodatT+PQ79A1k0Du53VBvhwzX+CRSe08paYOYi3mInkTHCgD3xxR9jRXwAHaChG+j+OacwlvF4Z/dVGexb/bozo1Op9zeUXKoD6npbRaK4gBhmIn9VGcs9eqE8tid57Ec4lHSFYusoZtLoEYz0EYGrwytiuJwTdY0gNGG4+pB7AO2V8hiIKc8ElKV9hF00yLVjhfu/iZX9CkXOGnSgH7Qpnqb7MF/9mQNYAKLIETZxNrhqkGtmtcY6zzsq6cgoHEfjsOKKD4DBFsW7SiisckU+1wKWd0PZxxL073Uvo/oCOZDY5X7Pww8Yhlg5Ara8mUWLwTLK5HZfpHWo9aLkqJv0qdR2S9Z1JJ9AYCJ8xcwRVF0zLCwA==;b+xgZK2tCMAvcNnypVUmWw=="

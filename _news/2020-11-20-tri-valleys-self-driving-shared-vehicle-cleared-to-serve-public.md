@@ -43,22 +43,6 @@ related:
         width: 628
         height: 471
         isCached: true
-  - title: "Self-driving shuttle service comes to Tradition next month"
-    excerpt: "By the end of the year, a self-driving shuttle will transport Tradition residents to various locations throughout town such as Cleveland Clinic hospital"
-    publishedDateTime: 2020-11-20T22:46:00Z
-    webUrl: "https://www.tcpalm.com/story/news/2020/11/20/mattamy-homes-partners-beep-self-driving-shuttles-tradition/3765183001/"
-    ampWebUrl: "https://amp.tcpalm.com/amp/3765183001"
-    cdnAmpWebUrl: "https://amp-tcpalm-com.cdn.ampproject.org/c/s/amp.tcpalm.com/amp/3765183001"
-    type: article
-    provider:
-      name: Treasure Coast Newspapers
-      domain: tcpalm.com
-    quality: 44
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2020/11/20/PTCN/98ebe360-8270-4119-8780-e8d8f0c9362a-TCN_TRADITION_SELF_DRIVING_02.jpg?auto=webp&crop=3599,2024,x1,y243&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "V0W9ZNnkA4vPdISeGWiVVZjR1D6/Ms7Rn0ciH9XQBNyPJqaXNpdkIsBc9dpnk6Q4s/iJRCoWWXhztKlCXGejKQqCmbDIPF5i+hIuxHMR5Mi9jGyZkF5hWD9iLOVPukWIw85+q47b6YbrIsqKMVMZudI5wIus9N+LnzCjWrFfBS3x4dH1/+z6gckQmhAJ4Sin+snAxBawl3AypYDbjvSA73OTm0mBd5AMBKlCD6B7eNCXsUCbOaA86KKqrOsHAh5RlZ4uhX+k4POsj7KPfB/sSBW6s2CeA76UWQf8lH4dwGOeivEcx7albwZz2mIj9GsEx0F0Mk9J1AgWhX7G967zio0tm6dqJTfjpfJB1BBQBslFaMitpU2NuXDLUy/WLvIcixZ0OqKIBZyhaMTylf/UR4t5bl2CbIZ6yiAAvXNUWPbr7wrhvCkK1BQRK9eRd6jD+8VYCFf7qVK46h31L4y1eFIePZcOyvVtVV0ab2XAxgF6NPY4NTFJIrFqs6L2kdzC0unud2PRCRVCPezzLYtgNA==;3rPNNs8HJ/iuW/d6NjoZow=="
 ---

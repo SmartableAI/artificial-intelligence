@@ -2,26 +2,28 @@
 category: news
 title: "Loblaw and Gatik to deploy Canada's first self-driving delivery fleet"
 excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Begi"
-publishedDateTime: 2020-11-23T18:46:00Z
-originalUrl: "https://driving.ca/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
-webUrl: "https://driving.ca/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+publishedDateTime: 2020-11-24T08:47:00Z
+originalUrl: "https://www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+webUrl: "https://www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895"
+ampWebUrl: "https://www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895/amp"
+cdnAmpWebUrl: "https://www-thewhig-com.cdn.ampproject.org/c/s/www.thewhig.com/news/retail-marketing/loblaw-and-gatik-to-deploy-canadas-first-self-driving-delivery-fleet/wcm/34ee5055-7312-4f8d-8b62-db208c82d895/amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: driving.ca
-  domain: driving.ca
+  name: Kingston Whig-Standard
+  domain: thewhig.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2020/10/PCNA20_0720_fine.jpg?quality=100&strip=all"
-    width: 1800
-    height: 1200
+  - url: "https://smartcdn.prod.postmedia.digital/financialpost/wp-content/uploads/2020/11/gatik1123.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
 related:
@@ -90,6 +92,6 @@ related:
         height: 1200
         isCached: true
 
-secured: "tJTSO5IipP7lceCdQx6NBVSZpx+xMVwKi8cYWg4rxfDxBQiyReRimyyH9x5qNZPO53SPaBd+mfmN3Pby7lpkxQzh6dj+bRf1dWFZ6h4TPWrzgYN5KdveKrX/YyjTXS/bSHv5Sd6V8wuNQ903VNxMwNDc/Oq/osiB2stZiMPe0bJJgZuOjzzZcASRzvD1I2GKIDNdnmkJ3U2Fro9GXjz1eFIDnUu3NEQ6rqcNH5CTRiabJVzwuiVhpDRATXz2MO4dtMPzkyr2E4Ze+Kk4FMHV2PbGltF6kHavAH4NLjCkj9/2k/XR1vcoJW9AvwUpb4EAXLlIGCvlrCkVMuh0SW3m59GdTY8rDigMy+QPz8VdTeA=;EmMlzlnPB0Opgiy5Py4P7w=="
+secured: "dJKGZU3vxViRog3VePsQf4xMQsUanE7NU2Ak3UzlLLLQaAwI6fy5xE4HFVOkfttCNgN/+gEdNCgHO+K+y+CF4/5hh5Kyo/jlCJTN681Bt3t/tGhs92mTFGhFuO6wK/ixVHD4A9l5u9tIq1WmdU41DRvUDpqC20ygtqt4xMoNL+7O9chp/YY8OTXW6IhbBVYBYvP7nQDjLLcCvCJq/oesLEYCjz0EndHF5Wd4sMOOxFxcnodfPZ/gxRss8xID8Y5lwGEVtp3PDbVHH47zKCe8oMPQ9DIcqOnNoVS2VwesbyOUnyafB0LvXIdNuJJlkrKCswDk7DQ/tezPxkgYZWMkfu8gBPvFrSPT1Af8S2wPyyI=;5yg2yePq6ymCVH5Vd3+TZg=="
 ---
 

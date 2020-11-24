@@ -40,20 +40,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Artificial Intelligence Robots Market Analysis - Global Industry Size, Share, Trends and Forecast 2020 - 2027"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence (AI) Robots Market with the reasons given for variations in the growth of the industry in certain regions. Browse the full report here:  Artificial intelligence (AI) Robots is arguably the foremost exciting field in artificial intelligence."
-    publishedDateTime: 2020-11-19T16:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-analysis---global-industry-size-share-trends-and-forecast-2020---2027-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
     excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
     publishedDateTime: 2020-11-23T18:37:00Z

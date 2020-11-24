@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dublin's Self-Driving Shared Vehicle Cleared To Serve Public"
-    excerpt: "Valley residents using the Dublin/Pleasanton BART station can catch a last-mile ride on LAVTA's new self-driving vehicle."
-    publishedDateTime: 2020-11-19T21:04:00Z
-    webUrl: "https://patch.com/california/dublin/dublins-self-driving-shared-vehicle-cleared-serve-public"
-    ampWebUrl: "https://patch.com/california/dublin/amp/29091203/dublins-self-driving-shared-vehicle-cleared-to-serve-public"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/29091203/dublins-self-driving-shared-vehicle-cleared-to-serve-public"
+  - title: "Self-Driving Cars Could Become Your Neighborhood Ice Cream Truck"
+    excerpt: "Anticipating the advent of self-driving ice cream trucks. getty. As a freezing cold winter begins to descend upon us, your thoughts undoubtedly turn toward a summertime pastime th"
+    publishedDateTime: 2020-11-22T16:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/"
     type: article
     provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://patch.com/img/cdn20/users/23681188/20201119/024920/styles/patch_image/public/bart___19144821408.png?width=984"
-        width: 628
-        height: 471
-        isCached: true
-  - title: "Tri-Valley's Self-Driving Shared Vehicle Cleared To Serve Public"
-    excerpt: "Valley residents using the Dublin/Pleasanton BART station can catch a last-mile ride on LAVTA's new self-driving vehicle."
-    publishedDateTime: 2020-11-19T21:25:00Z
-    webUrl: "https://patch.com/california/dublin/tri-valleys-self-driving-shared-vehicle-cleared-serve-public"
-    ampWebUrl: "https://patch.com/california/dublin/amp/29091293/tri-valleys-self-driving-shared-vehicle-cleared-to-serve-public"
-    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/dublin/amp/29091293/tri-valleys-self-driving-shared-vehicle-cleared-to-serve-public"
-    type: article
-    provider:
-      name: Patch
-      domain: patch.com
-    quality: 44
-    images:
-      - url: "https://patch.com/img/cdn20/users/23681188/20201119/024920/styles/patch_image/public/bart___19144821408.png?width=984"
-        width: 628
-        height: 471
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb306f7f4dd0e453d0deb0b%2F0x0.jpg"
+        width: 1200
+        height: 798
         isCached: true
 
 secured: "Ui91pMW8zQu8Z3Uyx35sRcLjebq1IRVqpZx4x1xarM2WB1VyxKXVx8FEayxeIE5Fql+2uv9g5FayaH9JHKfZRgOleAkEp6hpTLExfwGA8iCMyBNEbP080v/jo4JYq+Cg+M1IpuZ4DjdIu4Vy8QWbSCyuwMKARPxTKxtw4t5dGHsq+mkbl0xycBb8qjrRrN/hG62NXR0xLEarm2/4w4XsMBXA1it+i229QPGJhgiBnV5cLesFkOuSpWtYs1v9kyLGANakZjonp0Mx8EfuNrf3FTjKWrAptI59n0tyL0pxHHNp0M5jjsHxs6dvh6yxf8HlB05VLXmWvp41gXaL+FJaUnreaTdQ/4gSFQK8JwMSPY4=;MujUGnlTUWSbL6gq9XKHYg=="

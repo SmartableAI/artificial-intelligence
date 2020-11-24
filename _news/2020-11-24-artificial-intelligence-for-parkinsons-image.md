@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/multimedia/pub/249699.php"
 webUrl: "https://www.eurekalert.org/multimedia/pub/249699.php"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,33 @@ images:
     width: 720
     height: 540
     isCached: true
+
+related:
+  - title: "Researchers use AI technology to evaluate speech disorders related to Parkinson's disease"
+    excerpt: "The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson's disease."
+    publishedDateTime: 2020-11-24T07:12:00Z
+    webUrl: "https://www.news-medical.net/news/20201124/Researchers-use-AI-technology-to-evaluate-speech-disorders-related-to-Parkinsons-disease.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201124/Researchers-use-AI-technology-to-evaluate-speech-disorders-related-to-Parkinsons-disease.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201124/Researchers-use-AI-technology-to-evaluate-speech-disorders-related-to-Parkinsons-disease.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 48
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Ardigen and BioCollective partner to detect early signs of Parkinson’s Disease for better diagnosis and treatment"
+    excerpt: "Kraków, Poland and Denver, CO, USA, 18th November 2020 / Sciad Newswire / Ardigen and The BioCollective today announced a research collaboration aimed at the development of the world’s first microbiome-based biomarker candidates for Parkinson’s Disease."
+    publishedDateTime: 2020-11-19T20:12:00Z
+    webUrl: "https://www.bio-itworld.com/pressreleases/2020/11/19/ardigen-and-biocollective-partner-to-detect-early-signs-of-parkinson-s-disease-for-better-diagnosis-and-treatment"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 0
 
 secured: "VHVhG4m5wwHyZ2vj+NUlQv5edJHhwjncQ4TVq29sTWbmIT66oY/GSNY/vwlyoqsVIuA3aINBo92rbkHxYaYOxA3Tw342AyhsBvZDD77BDL6FjYoy4tDTX/fTCYzG0HOXbD7BNkG97vMbKKc6r5d2nAC7Z6TEYaU3mzzGBR9M1N6By1CBQpa27WKR35EZ70mX6lvgeX5qqBcMjsl5onViRATdKad5JwUCSUs5TTkBwjzyl+elvilEZNkee4/3lORAr1Ahcubp+UKY3DWiEc66U0v8onXLTHJ/wKccwQE54jb9Avu70rLaZNAhSEPNHpK2ZdfS2xBlC3298Tgp4Vk3+egq6zPMkk313OTi5436kUw=;KtdpnOmk9HLWRqdcjvUBNg=="
 ---

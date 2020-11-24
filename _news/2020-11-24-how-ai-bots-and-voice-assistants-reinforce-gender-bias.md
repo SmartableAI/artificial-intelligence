@@ -9,7 +9,7 @@ ampWebUrl: "https://www.brookings.edu/research/how-ai-bots-and-voice-assistants-
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/how-ai-bots-and-voice-assistants-reinforce-gender-bias/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 4589
     height: 3060
     isCached: true
+
+related:
+  - title: "Tech Tracker: Papa John’s is testing AI-powered voice assistants for phone orders"
+    excerpt: "The voice assistants can tackle multiple calls at once ... Sme brands use ghost kitchens to enter new markets, where there's no brand recognition. Miles said that's not in the cards for Mendocino. One thing's for sure: Mendocino won't go into a ..."
+    publishedDateTime: 2020-11-19T19:57:00Z
+    webUrl: "https://www.nrn.com/technology/tech-tracker-papa-john-s-testing-ai-powered-voice-assistants-phone-orders"
+    type: article
+    provider:
+      name: Nation's Restaurant News
+      domain: nrn.com
+    quality: 34
+    images:
+      - url: "https://www.nrn.com/sites/nrn.com/files/Mendo-delivery.jpeg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "07/WvwsZK8Pu2lUNtuP+h70G9gq1cVHf6aADc+asPvnnQqfuf3TxpYH2OBiV8o0XG+g6gzGJr6Wn1NnlqIe5oa/5YINOMB305qck1H0d1R2dZ26soYfFmbGBwcnXIO4wtNTHwPOSDz4VBl6T7qoy2ZXeDH895jXKtER3zzNiz0FdL5AmPn53Y8HEJztC88O9wLFLc+8tGd/fm6LPDqaKVVxUni+gCxg371LvZZRPZcg6Fu8fMWyFfzA5VJ/xfB4WU5XFA2oRZKoOoo+DfnKSjaq5SdtetCyb49dY+fVuZnAHDdIvP3czYPwKyxCKw5bRMD9yEWNj/ViQDhzMUN3AdhE7UlWmEiPvBnoPbPhC1Hg=;HsKUf+u5EQfgoWHEGna+6g=="
 ---

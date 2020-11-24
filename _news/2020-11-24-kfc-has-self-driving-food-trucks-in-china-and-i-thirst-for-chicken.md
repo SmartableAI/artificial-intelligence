@@ -27,36 +27,72 @@ images:
     isCached: true
 
 related:
-  - title: "KFC rolls out self-driving food trucks in China and it's sort of wild"
-    excerpt: "Some experts believe the self-driving cars are in for a boom, thanks to how the coronavirus pandemic has started to reshape how we purchase goods. When a top priority is to slow the spread of a contagious virus, having things delivered can help some people."
-    publishedDateTime: 2020-11-23T19:35:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/"
+  - title: "Uber Shops For Self-Driving Partners Or Even Selling Its Project"
+    excerpt: "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off."
+    publishedDateTime: 2020-11-19T22:37:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 74
     images:
-      - url: "https://cnet4.cbsistatic.com/img/vVVJc_UXS8zKfNCqn1-Zu_LkhS4=/2020/11/23/194f0a35-6f2b-4fe6-a886-776ba77b6ef3/ogi-kfc.jpg"
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
         width: 1200
-        height: 630
+        height: 900
         isCached: true
-  - title: "KFC rolls out self-driving food trucks in China and it's sort of wild - Roadshow"
-    excerpt: "Contactless Kentucky Fried Chicken is totally a thing now."
-    publishedDateTime: 2020-11-23T21:00:00Z
-    webUrl: "https://www.newsoneplace.com/38273151911/kfc-china-roadshow"
+  - title: "U.S. regulators seek public input on new safety standards for self-driving cars"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-20T10:03:00Z
+    webUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
     type: article
     provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 19
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
     images:
-      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/mP7AwEW-SESw85apYdfsVLDgcCI=/300x0/2020/11/23/092f3982-84cc-4945-a7b5-f4f7f22fb2c7/enfmt8yuuaexkie.jpg&h=250"
-        width: 375
-        height: 250
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 647
         isCached: true
+  - title: "Another Study Shows Just How Careless Self-Driving Tech Is Making Us"
+    excerpt: "The closer cars get to driving themselves, the more distracted we’ll become behind the wheel. It’s hardly a surprising thought, but it’s been supported once again by a new study from the Insurance Institute for Highway Safety and the Massachusetts Institute of Technology’s AgeLab."
+    publishedDateTime: 2020-11-19T23:41:00Z
+    webUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398"
+    ampWebUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wu3h3sgovcjyqx3rkcim.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
+    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
+    publishedDateTime: 2020-11-20T00:48:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117192605.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 29
+  - title: "The world's longest indoor test track for self-driving vehicles"
+    excerpt: "AstaZero is now building the world's longest indoor track for testing self-driving vehicles. AstaZero is the leading test bed for the automated transport systems of the future. With the new indoor track,"
+    publishedDateTime: 2020-11-23T13:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=379223"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 4
 
 secured: "MJR8qDHXSoh17eJyB45Em+vDSgtZmaC5lUj2pA5Tt2zkWmspaeiAX4idlR1QNZhVey/5W2G5lzBLj8Yy91SowvHxzl5/txBYWm8nN9eIuroqlZAiGZTf97GoK0VklMoi7HHBFwhcgc7/3R3QhmV9LerNh3qh9bHIxq4IuvJ7JdssEj51Egv5SwVZnNQGpDKnRRk2z9RHzoWtU5ng3AoRwW0OdfCCmixu/PV+PMND4SqLWetiY2WpzI4+AKji7Uy1iDrpBlOSZQFZq3QiGe4L7Rk4oUJbs6le/Jes/kUyZBbj9jj2IlP+X1IJakB3LUiyh9QaufqP8FFA77O1Lj2mLMUQEuUcJBuzIElu8YrpT3A=;qqxmSLbGZok+5YLBVykOsA=="
 ---

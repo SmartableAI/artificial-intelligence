@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-am
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/"
 type: article
 quality: 86
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Winstek set to land more backend orders for blockchain AI chips"
+    excerpt: "IC backend service provider Winstek Semiconductor (formerly STATS ChipPAC Taiwan) is expected to see a surge in demand for blockchain-use AI chips in December, according to company president Richard Weng."
+    publishedDateTime: 2020-11-24T05:47:00Z
+    webUrl: "https://www.digitimes.com/news/a20201124PD206.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201124PD206_files/1_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "k1l3scAoO+XWUrBXhMXDerg6EPIF2mRQo6tUnIOuhhOvHjUUHLfat+0pxc9CSNPu9whmQGxsqDChSceSEHlV7Cz7l46qjOeh9IiROSNASEdC4rKSfN6jIALttepA609WNGspbZpZDogybYZX+5D6s/40NN0asKaM1JYxvG9FQA1OQyJJUsWEhQAPFYDJmwCi+NFb+TNN7ZZrNPhVPyzGKnL9ihGF8mgQsq0KcVB9kQsHiO4+p0uXVQtfl7MJCS2fLcvkwjd41+XY3coOyKV/U8X4yzo6x4IkaMsMlhcmfP8EKJ3p0/w3laWIgDrCzBfXKwccapuGgb6Ss5X9KKmPbZzz9A3+ABjvh1AlN3X2XvbM5gg4PTXhOFImFY5gupiwK9s8KJ0gKgJU0WdOhKXO0n1og29FcyJ0KmuS/PpYFRXjsz+goAgw4EMRha6FpyN8M+WkNoayUXjdtmWvBg4DfQbIilGX7KXkHxz5M/8aDd8NE0EtvhyzQgLfiyR63EmAOrelWN9c5ooTCspmdUv7VQ==;3vKTja9Nget48MLtmfgpSQ=="
 ---

@@ -37,21 +37,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "U.S. regulators seek public input on new safety standards for self-driving cars"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-20T10:03:00Z
-    webUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
+  - title: "US takes first step toward future self-driving car regulations"
+    excerpt: "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,"
+    publishedDateTime: 2020-11-20T17:24:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
+      name: CNET
+      domain: cnet.com
+    quality: 74
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
+      - url: "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg"
         width: 1200
-        height: 647
+        height: 630
         isCached: true
   - title: "NHTSA Seeks Input On Self-Driving Car Safety Rules"
     excerpt: "The National Highway Traffic Safety Administration announced Thursday that it will be seeking public comment on a possible framework of principles for safety in cars equipped with automated driving systems,"

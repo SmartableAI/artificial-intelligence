@@ -7,7 +7,7 @@ originalUrl: "https://www.helpnetsecurity.com/2020/11/24/nice-actimize-ifm-x/"
 webUrl: "https://www.helpnetsecurity.com/2020/11/24/nice-actimize-ifm-x/"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,19 @@ images:
     width: 1200
     height: 627
     isCached: true
+
+related:
+  - title: "NICE Actimize Announces Next-Gen Fraud Management Platform Leveraging Advanced AI and the Cloud to Fight Fraud and Enhance Customer Experience"
+    excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE), today announced the latest version of its Integrated Fraud Management (IFM-X) platform that"
+    publishedDateTime: 2020-11-23T11:50:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 31
 
 secured: "NqYVI8MgubZJYXHIpBLFqnBKeh8qfuoyX1++F/ERZiLfMlgbt6DkMd5jCEP9hztNIGFDieLil8XxrmBEpXzN9C5AjThlaWzKkLE621LE2m+xXm6Xme8LwzB7ItdY3hVGqADngfw5IPRXWpF9ruk+7XJSlWudqVOqxDoTMsWa8wbw0BBkbZ78PAXNbExhNI9hNRtti5rYS/NPH0JJYGwP7xmkj28sIeY35J5d/E1wyhI+PM+7IthmU3B3U4iq5K90l7i1+ZDTGMY4lszWj+P8qf+zfGkRY0WHrov20WHnhlZQrjH6v5K7j6hnIDby/KH20N8+89wewZH2jBr29zZrbNFfL4XnUCCxkGdXmPxz1Mk=;w510MqPE16q8lVPu2vtWhQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-size-share-to-witness-unprecedented-growth-through-2027-industry-news-2020-11-19"
 type: article
 quality: 43
-heat: -1
+heat: 43
 published: false
 
 provider:
@@ -28,20 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Drug Discovery Market anticipated to grow with a healthy growth rate of more than 40.7% by 2026"
-    excerpt: "Global Artificial Intelligence (AI) in Drug Discovery Market is valued approximately at USD 260 million in 2019 and is anticipated to grow with a healthy growth rate of more than 40.7% over the forecast period 2019-2026."
-    publishedDateTime: 2020-11-19T15:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-drug-discovery-market-anticipated-to-grow-with-a-healthy-growth-rate-of-more-than-407-by-2026-2020-11-19"
+  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
+    publishedDateTime: 2020-11-23T15:07:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 8
 
 secured: "VbW6L+MxgeHIWSSwzkCyqysUdZwi1+tFSV53lPz8+J/rRRm6WMhXw6FbeHT4zsyfSIZLqYrxnYvm+xA/jHIqja80QuwvRSv8V/PCmkZQY84uJMgIGtY8tD9mY6bNwUpAzo0fKwfxIWJh8mdRqMedfAnUz5kf9hbjDCSI2SYVmf+LxOTTtV5ioXnsTIZqnc84u3COk48yDMjkMNxY/WxVvXCX5XkK1roSc7b/5vBCWfPB02y/XCzUyIZpB6M3h6TtREJGeyw7rQCDbctyO2oIh7MyjggEiGcpaZLJVUk0SR/6Vdc6pl6tO7LOlHig3lsGUMVsd72jnh8CTafXsah0EtMilsEOFqR3bmMkDTQWsFE=;wB3UvwW8f6wGV/bBG9m9uA=="
 ---
