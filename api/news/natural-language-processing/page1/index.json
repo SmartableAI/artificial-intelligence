@@ -154,34 +154,34 @@
     {
       "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
       "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
-      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read better. Offering the widest available range of digital features,",
+      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-19T04:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1131,58 +1131,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally.md",
-      "title": "Speech and Voice Recognition Market Is Expected To Generate US$ 43 billion revenue By 2030, Globally",
-      "excerpt": "The Global Speech and Voice Recognition Market was valued at US$ 7.8 billion and expected to reach US$ 43 billion by 2030. Speech and voice recognition software is built on NLP algorithms to detect voice commands,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-review-google-cloud-ai-lights-up-machine-learning.md",
       "title": "Review: Google Cloud AI lights up machine learning",
       "excerpt": "The feature engineering built into Cloud AutoML Tables is promising, however, and it would be useful to have that sort of service available for other scenarios. The seamy underside of AI has to do ...",
@@ -1280,6 +1228,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally.md",
+      "title": "Speech and Voice Recognition Market Is Expected To Generate US$ 43 billion revenue By 2030, Globally",
+      "excerpt": "The Global Speech a nd Voice Recognition Market Share, Trends, Analysis and Forecasts, 2020-2030 provides insights on key developments, business strategies, research & development activities ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-1029788891",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-1029788891",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Speech-and-Voice-Recognition-Market-Is-Expected-To-Generate-US-43-billion-revenue-By-2030-Globally-1029788891",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Speech-and-Voice-Recognition-Market-Is-Expected-To-Generate-US-43-billion-revenue-By-2030-Globally-1029788891",
+      "publishedDateTime": "2020-11-10T12:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts.md",
       "title": "NLP vs. NLU vs. NLG: the differences between three natural language processing concepts",
       "excerpt": "While natural language processing (NLP), natural language understanding (NLU), and natural language generation (NLG) are all related topics, they are distinct ones. At a high level, NLU and NLG are just components of NLP. Given how they intersect, they are commonly confused within conversation, but in",
@@ -1333,20 +1324,20 @@
     },
     {
       "path": "_news/2020-11-11-soundhound-incs-houndify-voice-ai-powers-dynamic-voice-recognition-system-in-2021-hyundai-elantra-and-elantra-hybrid.md",
-      "title": "SoundHound Inc.'s Houndify Voice AI Powers Dynamic Voice Recognition System in 2021 Hyundai Elantra and Elantra Hybrid",
-      "excerpt": "Hyundai's new Dynamic Voice Recognition System—powered by Houndify's Speech-to-Meaning® and Deep Meaning Understanding™ technologies—provides drivers with voice access to cloud-based ...",
+      "title": "SoundHound Inc.’s Houndify Voice AI Powers Dynamic Voice Recognition System in 2021 Hyundai Elantra and Elantra Hybrid",
+      "excerpt": "SoundHound Inc., the leading innovator of voice AI and conversational intelligence technologies, announced the integration of its Houndify Voice AI platform into Hyundai’s all-new 2021 Elantra and Elantra Hybrid with select models now available for sale in North America.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201110006017/en/SoundHound-Inc.s-Houndify-Voice-AI-Powers-Dynamic-Voice-Recognition-System-in-2021-Hyundai-Elantra-and-Elantra-Hybrid",
-      "originalUrl": "https://www.businesswire.com/news/home/20201110006017/en/SoundHound-Inc.s-Houndify-Voice-AI-Powers-Dynamic-Voice-Recognition-System-in-2021-Hyundai-Elantra-and-Elantra-Hybrid",
+      "webUrl": "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f",
+      "originalUrl": "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20201110006017/en/837736/23/2021-Elantra-CN7_1200x628.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1356,11 +1347,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:13:00-08:00",
+      "publishedDateTime": "2020-11-10T10:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

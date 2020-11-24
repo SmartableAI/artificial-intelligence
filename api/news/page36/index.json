@@ -2,6 +2,108 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-27-ai-cures-data-driven-clinical-solutions-for-covid-19.md",
+      "title": "AI Cures: data-driven clinical solutions for Covid-19",
+      "excerpt": "The AI Cures Conference: Data-driven Clinical Solutions for Covid-19 described technologies developed in response to the Covid-19 pandemic and new opportunities for AI solutions for clinical management.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
+      "originalUrl": "https://news.mit.edu/2020/ai-cures-data-driven-clinical-solutions-covid-19-1027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202010/AI-Cures-Conference-panel.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-human-api-raises-20-million-to-standardize-health-records-with-ai.md",
+      "title": "Human API raises $20 million to standardize health records with AI",
+      "excerpt": "California-based company developing an AI pipeline that structures health data into a standardized format, this week raised over $20 million. A spokesperson for the startup says the capital will ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/02/shutterstock_400845934-e1572448996720.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/human-api-raises-20-million-to-standardize-health-records-with-ai/amp/",
+      "publishedDateTime": "2020-10-27T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-eagle-genomics-closes-9m-funding-round.md",
       "title": "Eagle Genomics Closes $9M Funding Round",
       "excerpt": "The platform harnesses the latest graph technology, and Microsoft’s advanced machine learning and cognitive services. Eagle Genomics became Microsoft Genomics’ first microbiome partner in 2018.",
@@ -1090,109 +1192,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision.md",
-      "title": "Skan raises $14 million to automate repetitive business processes with computer vision",
-      "excerpt": "Skan.ai, an AI-enabled process discovery and operational intelligence platform, today closed $14 million in funding. The company says the proceeds will be put toward accelerating Skan’s go-to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
-      "originalUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
-      "publishedDateTime": "2020-10-27T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-eightfold-recruiting-software-startup-reaches-1-billion-value.md",
-      "title": "Eightfold Recruiting Software Startup Reaches $1 Billion Value",
-      "excerpt": "Recruiting software startup Eightfold AI said it was valued at $1 billion in a $125 million financing round led by General Catalyst.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwPF2wRC.Ws0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-27/eightfold-recruiting-software-startup-reaches-1-billion-value",
-      "publishedDateTime": "2020-10-27T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

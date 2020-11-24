@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-20-tesla-to-release-new-full-self-driving-beta-update-w-fundamental-improvements-wider-release-could-be-coming-soon.md",
+      "title": "Tesla to release new Full Self-Driving Beta update w/ ‘fundamental improvements,’ wider release could be coming soon",
+      "excerpt": "CEO Elon Musk announced Tesla is set to release a new Full Self-Driving Beta update with “fundamental improvements” and new functionality and that a wider release could be coming soon. Last month, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/",
+      "originalUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all",
+          "width": 1851,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/",
+      "publishedDateTime": "2020-11-19T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us.md",
+      "title": "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us",
+      "excerpt": "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
+      "publishedDateTime": "2020-11-19T08:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-ai-powered-learning-tools-are-on-track-to-transform-the-modern-workplace-for-good.md",
       "title": "AI-powered learning tools are on track to transform the modern workplace for good",
       "excerpt": "A new era of automation will help workers constantly acquire new skills on the job and at large scale through the use of AI-powered tools.",
@@ -564,34 +668,34 @@
     {
       "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
       "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
-      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read better. Offering the widest available range of digital features,",
+      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-19T04:39:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1082,101 +1186,6 @@
         "Facebook AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-bobacino-launches-robotic-tea-bar.md",
-      "title": "Bobacino launches robotic tea bar",
-      "excerpt": "A startup company called Bobacino has launched its automated Boba Tea Bar, which uses a robotic arm to make beverages for customers. (See video below.) Bobacino says it is bringing the “unique",
-      "sourceUrl": null,
-      "webUrl": "https://roboticsandautomationnews.com/2020/11/19/bobacino-launches-robotic-tea-bar/38338/",
-      "originalUrl": "https://roboticsandautomationnews.com/2020/11/19/bobacino-launches-robotic-tea-bar/38338/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://roboticsandautomationnews.com/wp-content/uploads/2020/11/01-Bobacino-Machine.jpg",
-          "width": 800,
-          "height": 908,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T00:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Robotics & Automation News",
-        "domain": "roboticsandautomationnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims.md",
-      "title": "World's biggest computing chip is '10,000 times faster' than a GPU, maker claims",
-      "excerpt": "can now claim to be the “fastest AI computer in existence.” According to Cerebras and the Department of Energy’s National Energy Technology Laboratory (NETL), the CS-1 is more than 10,000 times faster than leading GPU competitors and 200 times faster ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "originalUrl": "https://www.techradar.com/sg/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/yky93teYjYQmAYjmkSH3EG-1200-80.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/sg/amp/news/worlds-biggest-computing-chip-is-10000-times-faster-than-a-gpu-maker-claims",
-      "publishedDateTime": "2020-11-18T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-24-bringing-your-own-r-environment-to-amazon-sagemaker-studio.md",
+      "title": "Bringing your own R environment to Amazon SageMaker Studio",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up SageMaker Studio notebooks to explore datasets and build models. On October 27, 2020, Amazon released a custom images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/5-R-notebook.png",
+          "width": 800,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T11:40:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring.md",
+      "title": "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring",
+      "excerpt": "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
+      "originalUrl": "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
+      "publishedDateTime": "2020-11-24T10:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative.md",
       "title": "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative",
       "excerpt": "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,",
@@ -146,7 +250,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -478,8 +582,8 @@
       "title": "This AI chip claims to mimic the human brain",
       "excerpt": "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "originalUrl": "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "webUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "originalUrl": "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
@@ -496,8 +600,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "ampWebUrl": "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
       "publishedDateTime": "2020-11-24T03:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -585,7 +689,7 @@
       "originalUrl": "https://thenextweb.com/shift/2020/11/24/california-paves-way-to-let-self-driving-taxis-charge-for-rides/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -730,6 +834,57 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-csiro-wants-to-use-ai-to-end-australias-plastic-waste.md",
+      "title": "CSIRO wants to use AI to end Australia's plastic waste",
+      "excerpt": "Microsoft and Hobart City Council are working with the government agency to develop these technology solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/video/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "originalUrl": "https://www.zdnet.com/video/csiro-to-use-artificial-intelligence-machine-learning-and-sensors-to-end-plastic-waste/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2020/11/09/5ca01cf2-98c4-4a98-b8d3-ab2cccb7a4c9/thumbnail/770x578/94918bcad0df8e93d29f6b864475f246/csiro-to-use-artificial-intelligence-mac-5fa899016df74d74600b5d6d-1-nov-09-2020-5-21-09-poster.jpg",
+          "width": 770,
+          "height": 578,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T23:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1093,153 +1248,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025.md",
-      "title": "GPU as a Service Market – 38% Growth Forecast from 2020 to 2025",
-      "excerpt": "Industry analysts predict GPU as a Service market to be strongly driven by the rising demand for enhanced gaming experience from different parts of the world. The ability of GPU to give real-time data and improve the overall experience & graphics of gaming shall bring growth renewed prospects to the business sphere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025-2020-11-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025-2020-11-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-find-your-inner-poet-with-help-from-americas-greats.md",
-      "title": "Find your inner poet with help from America's greats",
-      "excerpt": "Behold! the living thrilling linesThat course the blood like madd'ning wines,And leap with scintillating sprayAcross the guards of ecstasy.The flame that lights the lurid spellSprings from the soul's artesian well,Its fairy filament of artEntwines the fragments of a heart.Poetry by Georgia Douglas JohnsonWhen",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/verse-by-verse/",
-      "originalUrl": "https://blog.google/technology/ai/verse-by-verse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/versre-by-verse-hero.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/verse-by-verse/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/verse-by-verse/amp/",
-      "publishedDateTime": "2020-11-23T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-how-to-deal-with-ai-enabled-disinformation.md",
-      "title": "How to deal with AI-enabled disinformation",
-      "excerpt": "Rapid disinformation attacks—i.e., attacks in which disinformation is unleashed quickly and broadly with the goal of creating an immediate disruptive effect—are one of the most significant",
-      "sourceUrl": null,
-      "webUrl": "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/",
-      "originalUrl": "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.brookings.edu/wp-content/uploads/2020/11/USA-ELECTION-DISINFORMATION-.jpg",
-          "width": 6720,
-          "height": 4480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/",
-      "cdnAmpWebUrl": "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/",
-      "publishedDateTime": "2020-11-23T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Brookings Institution",
-        "domain": "brookings.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

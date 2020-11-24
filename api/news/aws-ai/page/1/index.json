@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-24-bringing-your-own-r-environment-to-amazon-sagemaker-studio.md",
+      "title": "Bringing your own R environment to Amazon SageMaker Studio",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up SageMaker Studio notebooks to explore datasets and build models. On October 27, 2020, Amazon released a custom images",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/5-R-notebook.png",
+          "width": 800,
+          "height": 474,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T11:40:26-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-zalando-selects-aws-as-its-preferred-cloud-provider.md",
       "title": "Zalando Selects AWS as Its Preferred Cloud Provider",
       "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -236,58 +288,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-20T15:58:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing.md",
-      "title": "How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing",
-      "excerpt": "Although we might think the world is already sufficiently mapped by the advent of global satellite images and street views, it’s far from complete because much of the world is still uncharted territory. Maps are designed for humans, and can’t be consumed by autonomous vehicles, which need a very different",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/How-DeepMap-optimizes-2.jpg",
-          "width": 658,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T15:08:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

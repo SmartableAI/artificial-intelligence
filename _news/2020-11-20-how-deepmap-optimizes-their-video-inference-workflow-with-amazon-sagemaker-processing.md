@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimize
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Bringing your own R environment to Amazon SageMaker Studio"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up SageMaker Studio notebooks to explore datasets and build models. On October 27, 2020, Amazon released a custom images"
+    publishedDateTime: 2020-11-24T19:40:26Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/5-R-notebook.png"
+        width: 800
+        height: 474
+        isCached: true
   - title: "Amazon SageMaker Studio arrives in Sydney"
     excerpt: "AWS' Amazon SageMaker Studio IDE for machine learning is now available in the Asia Pacific (Sydney) region. SageMaker Studio, which is based on JupyterLab, is said to provide a visual interface for all ML development steps."
     publishedDateTime: 2020-11-24T03:30:00Z

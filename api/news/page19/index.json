@@ -2,6 +2,101 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-10-walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars.md",
+      "title": "Walmart and Cruise launch pilot to deliver orders via self-driving cars",
+      "excerpt": "As part of the pilot, which is scheduled to begin in early 2021, customers will be able to place orders from a Walmart and have them delivered via one of Cruise’s electric self-driving Chevy Bolts.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "originalUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 324,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Walmart-Cruise-e1604958243157.png?fit=800%2C450&strip=all",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/walmart-and-cruise-launch-pilot-to-deliver-orders-via-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-10T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-aveva-expands-microsoft-collaboration-with-a-focus-on-cloud-and-ai.md",
+      "title": "AVEVA expands Microsoft collaboration with a focus on Cloud and AI",
+      "excerpt": "AVEVA has extended its existing strategic collaboration with Microsoft to focus on accelerating digital transformation in the industrial sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.controlengeurope.com/article/181914/index.aspx",
+      "originalUrl": "https://www.controlengeurope.com/article/181914/index.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.controlengeurope.com/global/showimage/Article/191004/",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IML Group",
+        "domain": "controlengeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-hyundai-kia-genesis-will-get-chip-maker-nvidias-infotainment-in-deal.md",
       "title": "Hyundai, Kia, Genesis will get chip maker NVIDIA's infotainment in deal",
       "excerpt": "NVIDIA said the luxury vehicle division of Hyundai, Genesis, already uses NVIDIA DRIVE for its GV80 and G80 models. NVIDIA declined to say how many vehicles NVIDIA DRIVE would be installed in, but said it is a large number and pointed to the fact that in 2019 Hyundai Motor Group shipped over 7 million vehicles.",
@@ -1082,111 +1177,6 @@
         "Machine Learning",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-robot-soldiers-could-soon-make-up-a-quarter-of-the-army.md",
-      "title": "Robot soldiers could soon make up a quarter of the army",
-      "excerpt": "In the age of artificial intelligence, robots will soon represent a large part of the armed forces, according to the UK's chief of the defence staff Nick Carter, who predicted that up to a quarter of the army could be made up of autonomous systems in the near future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2019/11/06/a1e2b9a4-9330-4565-8e20-f6fb00e3d1a9/thumbnail/1200x675/251d1466033401dd47e80d969b17de3e/20191106-daphne-karen-war.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/robots-soldiers-could-soon-make-up-a-quarter-of-the-army/",
-      "publishedDateTime": "2020-11-09T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-machine-translation-market-to-cross-15-bn-us-dollar-by-2026.md",
-      "title": "Machine Translation Market to cross 1.5 Bn US-dollar by 2026",
-      "excerpt": "The machine translation market is likely to register lucrative growth over the coming years owing to increasing popularity of cloud-based applications. Cloud technologies have effectively enabled users to proficiently run machine translation solutions over the internet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-translation-market-to-cross-15-bn-us-dollar-by-2026-2020-11-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T07:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -38,14 +38,14 @@ related:
         height: 338
         isCached: true
   - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
-    publishedDateTime: 2020-11-23T20:07:00Z
-    webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
+    publishedDateTime: 2020-11-23T18:37:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
     type: article
     provider:
-      name: My San Antonio
-      domain: mysanantonio.com
-    quality: 39
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 56
     images:
       - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
         width: 2000

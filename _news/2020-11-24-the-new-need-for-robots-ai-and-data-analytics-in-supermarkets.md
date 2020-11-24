@@ -1,22 +1,23 @@
 ---
 category: news
 title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
-publishedDateTime: 2020-11-23T20:07:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
+publishedDateTime: 2020-11-23T18:37:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 type: article
-quality: 39
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - Microsoft AI
+  - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
@@ -95,6 +96,6 @@ related:
         height: 627
         isCached: true
 
-secured: "c2weVCUAphPVpM533a615KiX2riF8uitVy3UgvSl6nvZLOxBH5aY5xptNjWwJiFPUqJgy0YhTDlS64hRiZMq6NjHEZtZHW30WPD/qp3UQs5wxAvjMWanJt7XY6BD++03iaf3BXoXe2+Ziu9qvlmusU8o6SbNLyroIIWHxGvGUsGCwga+MK+qKALTolCDg5H0HwgNAT+yDliuUjj/KZkSaPKckw+lTmYGyH0XohLTXx+WbXnZoooOtCuiH6fzeDuTGpNzeUFYZjLLTx9SSc8P9lrnSH5BUbbFWitj9F42UWeqdI+UU9N5gLXVf/gOU7mCnDMmzNSCXvw8HJeEWb8goCyrbCrrY/74SFDYxYua/iA=;n0rffumv73FMvrV2Dyzwiw=="
+secured: "SHT+hUIb9E/A30fcM8Nu/zVho3ZW1hxqm5gizDpb9D2p5KmOPw7g25WoFGtYPUxmusjhtBUHqCswhiLigqZY1fRwANlyOSwaiMdCe4AoLcq9aUQrSHgaNzB7P2bIyKmpn2IAvSuQ5AIiGJDZBXyyVLD4rOeMT1ymRy+Tp98tw1tR1mDKwiZefwoZcu7oOCtcsiwT/82RSsJbxXxZEZx8rqw/ZOYrVXRf1TQArKptn/locuUJoCyj5paTiwx2gtehBdIFfBTLZaLuF4NJi5sQL06gOvDKZDLy4HpQy1T5RFwV+fh5q5sQ7YysD5ENSs/iFLowfcFHXQB493iIp7AW3bP/zu7jo2HibGS1MyoKwdY=;S3fc68TzMf8grFZ//l8o6A=="
 ---
 

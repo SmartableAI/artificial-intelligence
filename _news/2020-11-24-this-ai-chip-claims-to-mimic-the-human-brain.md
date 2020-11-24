@@ -3,10 +3,10 @@ category: news
 title: "This AI chip claims to mimic the human brain"
 excerpt: "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,"
 publishedDateTime: 2020-11-24T11:13:00Z
-originalUrl: "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain"
-webUrl: "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain"
-ampWebUrl: "https://www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+originalUrl: "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain"
+webUrl: "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain"
+ampWebUrl: "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
 type: article
 quality: 104
 heat: 114
@@ -46,6 +46,6 @@ related:
         height: 540
         isCached: true
 
-secured: "mCt9zScprc0yg+01FajKKqp9dasugJVCzYUcgvSRDFTfl3wLcW3NDSHltWCyP3+Jnk1dhp3EVRc9hsqz68eJxFyEld9HDR58bkQkQmLS8+eJ2CflDJZ8Z3mrw2Ht9ncLZ0dnwLyDLU4tmujejrTL1j4qEHD5jJQvEcv2fbPSwStqQLxGbze8fgejT689RdenTZ8JpkURMwPtgjJje1bThyCBCnTcdeFfs7PJtTZqmddQf754JUY8actjBv1lBHPo3qce8k9Wz8DL7kQgu+9AN19SaUvPQemV6Ha4XM5C7x1vSmfi3YAoDWmaZRYwHyCHbDSpJfDvM359YroLBdkKcyqgkXSMwW0Ia8gR69TOKFnAxvvMQZ1Q4FQVPLDcThbJMiiRjRvyn+lOY8axmD1RJTOGqS//ibtQMYoWGJxmHLuB1wJOi2dN30WyNXyB565+Br4cQ9DxbwXknyOSyjS+8B1OBcIxbbV6nXvd6FtvnEZgKscA5F/cycbfLKhmLIRneqmJeVJJvWgmAv6RGVmEiA==;5VtYFTkkPjngRYyn9lDP6A=="
+secured: "HDnf1BN7Jib/6NnVTdzwP2q7wbfcdBC1TvzYeJkOPm/safQKF8XXV6wOtm66isstp2cZMF7WyDXLXc+G+vMLhwPYeGCQ3tVMtbjROl9WM4yBgEou+L48w850wr8o0/vdmdnuBYI4fqahyWdgfajTkqyljsTTbFBko8J/AS7W8N4W6GsPhC1abZGSQPeABU4JvNX0F7vmMhrgey2ZUQOy0BqcsSIm+jpp/563s4RqpHP4nGUsGtDfs0D5Q7H/zn+fM57eWHD9/ESWxye9nmPg7Gdh0QsSRIoxNaeVWSEdlvBz72dGima0anzvDJH3yB9y5I4yM7go4/4NRsb3lJ0vMeMouj9edvCMbuWWqTQvHiI=;ltAbKKTprWAxbF0n+Ow0wQ=="
 ---
 

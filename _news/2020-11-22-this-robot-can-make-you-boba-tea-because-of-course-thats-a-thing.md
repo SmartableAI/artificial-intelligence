@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing"
-    excerpt: "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,"
-    publishedDateTime: 2020-11-20T03:59:00Z
-    webUrl: "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388"
-    ampWebUrl: "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 81
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/obl0feili4mg3ytimcml.jpg"
-        width: 800
-        height: 438
-        isCached: true
   - title: "This Boba Robot Booth Could Be Coming to a Corner Near You"
     excerpt: "This robotic, fully autonomous boba-making robot can make the delicious drinks for far less than normal and may be appearing on street corners soon."
     publishedDateTime: 2020-11-20T22:12:00Z

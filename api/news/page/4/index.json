@@ -2,6 +2,109 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-20-rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live.md",
+      "title": "Rethinking your tech stack to stay relevant in an AI-powered world (VB Live)",
+      "excerpt": "To stay on top of cutting-edge AI innovation, it’s time to upgrade ... Putting many of those together on a chip just increases that inefficiency. And then putting many of those inefficient ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
+      "originalUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/globe.world_.GettyImages-1183741336.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 623,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
+      "publishedDateTime": "2020-11-20T04:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo.md",
+      "title": "Why Data, Software And AI Are Key To Growth: A Q&A With Blue Yonder’s CFO",
+      "excerpt": "Blue Yonder's AI-enabled supply chain solutions are mitigating disruptions in today's digital world. Learn more about how companies can face these challenges and grow their workforce in my interview with Blue Yonder's CFO,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
+      "originalUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c0d24def72c0e10baee1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D293%26cropY2%3D3533",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
+      "publishedDateTime": "2020-11-20T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-fetchai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich.md",
       "title": "Fetch.AI launches blockchain-based AI smart-city infrastructure in Munich",
       "excerpt": "Fetch.ai and Datarella predict mass implementation of Munich’s smart-city infrastructure will reduce CO2 emissions by 34,000 tonnes per year.",
@@ -1137,110 +1240,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-tesla-to-release-new-full-self-driving-beta-update-w-fundamental-improvements-wider-release-could-be-coming-soon.md",
-      "title": "Tesla to release new Full Self-Driving Beta update w/ ‘fundamental improvements,’ wider release could be coming soon",
-      "excerpt": "CEO Elon Musk announced Tesla is set to release a new Full Self-Driving Beta update with “fundamental improvements” and new functionality and that a wider release could be coming soon. Last month, Tesla started to release its first Full Self-Driving Beta software update to a limited group of owners to test the feature.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/",
-      "originalUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-Self-Driving-Beta-Demo-e1603460621557.jpg?quality=82&strip=all",
-          "width": 1851,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/19/tesla-release-full-self-driving-beta-update/amp/",
-      "publishedDateTime": "2020-11-19T08:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us.md",
-      "title": "Self-Driving Cars Are Subject To Being Towed, Just Like The Rest Of Us",
-      "excerpt": "Yes, self-driving cars will be subject to getting towed, which seems counterintuitive but the case is made that it will indeed happen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f558185d340773d26f8bba6%2F0x0.jpg%3FcropX1%3D1522%26cropX2%3D5766%26cropY1%3D0%26cropY2%3D2387",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/",
-      "publishedDateTime": "2020-11-19T08:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

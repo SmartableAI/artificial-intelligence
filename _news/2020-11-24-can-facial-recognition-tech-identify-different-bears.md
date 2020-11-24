@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software can now reportedly recognize bears – Jaweb"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday. Melanie Clapham, a postdoctoral fellow at the University of Victoria and bear biologist,"
-    publishedDateTime: 2020-11-22T22:47:00Z
-    webUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
+  - title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
+    excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
+    publishedDateTime: 2020-11-24T18:52:00Z
+    webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
     type: article
     provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 71
     images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facial-recognition-software-can-now-reportedly-recognize-bears-–-Jaweb.jpg"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
         width: 1200
-        height: 800
+        height: 900
         isCached: true
   - title: "Facial recognition software can now reportedly recognize bears"
     excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
@@ -58,34 +58,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Committee recommends ban on facial recognition software despite MPD pushback"
-    excerpt: "Following presentations by the MPD, Madison’s Public Safety Review Committee voted to recommend legislation banning facial recognition software."
-    publishedDateTime: 2020-11-23T16:53:00Z
-    webUrl: "https://www.dailycardinal.com/article/2020/11/committee-recommends-ban-on-facial-recognition-software-despite-mpd-pushback"
-    type: article
-    provider:
-      name: Daily Cardinal
-      domain: dailycardinal.com
-    quality: 38
-    images:
-      - url: "https://snworksceo.imgix.net/car/1d63eb1a-06e7-495e-b297-ce276107c9c3.sized-1000x1000.jpg?w=1000"
-        width: 1000
-        height: 800
-        isCached: true
-  - title: "Voluntary Recognition: Worker Wins"
-    excerpt: "Despite the challenges of organizing during a deadly pandemic, working people across the country (and beyond) continue organizing, bargaining and mobilizing for a better life. This edition begins with several groups of organizers who won voluntary recognition of their new unions."
-    publishedDateTime: 2020-11-20T17:07:00Z
-    webUrl: "https://aflcio.org/2020/11/20/voluntary-recognition-worker-wins"
-    type: article
-    provider:
-      name: AFL-CIO
-      domain: aflcio.org
-    quality: 24
-    images:
-      - url: "https://aflcio.org/sites/default/files/2020-11/afl-cio.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "gSlmrXLkY+TICUSleeZzaCASj8o/rRQXDsXq8G9xC+qpRh5KQD2jcxMIGSA66cojwK5Pmi1PMTuyiMY2ePd0fh1vR2Qdk9nNa7IQWWRIYrso4W+jN1vcxZyAs93EEbeE9WUYoTpqHCFRGG4Ve8Xis7Z8mcktFwMNezu7nxRizJORL3LQ1jgKSg+OQ4Bg+piBFD2a/uZIGjrCQuTjmSVqyDmCX5BfJxSGrdA5gGNFJnqoxmgu8coNuzSGvhBwXegiweO/dGhsqTU+P0/vgey1wKyDZVMpFu6qNlQaYTWQHwK7KgC/YrEf9xxqDBqtWeoG+netyKrTnO2oJ6DtXtCWFUSxbdVu/Ce9xIDC1USyb6JJpHvqVI7f4OzxuLh5dSIXxKwfPoclwAKcc3i2tc6dEx8Vc9uutpjOasECCWEB+rzAyf3WSXGe1dW/YNSbMqWp+wsOFnLMeURnLg3ZzBd7yKyT9mB9X/Z2yzmYfT+s/3Onom7sZNk88QXZZVHBuLCHovS7fVq/DN7CmAxmojpIdQ==;gXsyjBMhuATZdPYn9dQu/g=="

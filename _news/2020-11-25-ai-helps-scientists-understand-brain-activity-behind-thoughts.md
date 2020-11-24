@@ -1,25 +1,29 @@
 ---
 category: news
 title: "AI helps scientists understand brain activity behind thoughts"
-excerpt: "Researchers have developed artificial intelligence (AI) models that help them better understand the brain computations that underlie thoughts."
-publishedDateTime: 2020-11-24T18:42:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201124092205.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201124092205.htm"
+excerpt: "A team led by researchers at Baylor College of Medicine and Rice University has developed artificial intelligence (AI) models that help them better understand the brain computations that underlie thoughts."
+publishedDateTime: 2020-11-24T17:55:00Z
+originalUrl: "https://medicalxpress.com/news/2020-11-ai-scientists-brain-thoughts.html"
+webUrl: "https://medicalxpress.com/news/2020-11-ai-scientists-brain-thoughts.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-11-ai-scientists-brain-thoughts.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-scientists-brain-thoughts.amp"
 type: article
-quality: 47
-heat: 47
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/11-brain.jpg"
+    width: 1920
+    height: 1462
+    isCached: true
 
 related:
   - title: "AI helps scientists understand brain activity behind thoughts"
@@ -37,6 +41,6 @@ related:
         height: 444
         isCached: true
 
-secured: "8Wf8li0qTpmzxTYy1Q3dBvQ6hHJjyL+qzUFxarujLr+BpAd42sXmczKrMEbNxMwRdqm9irH13BD0SyZ8+wJRECTdHuFCNX7WLN+/ucdFYRp2L8F7j+Ul/GiCDFWkhPtjMnwDOm2OLhJQNOV70+nIxvps9ta2hPIpNpgbf1MHqQgb8yw5Wet4yD9z146iI0jW2HMfT9OqgdvQDYMSiCqKiIWPhbNr63Q5R5qpocZiBXDx5xF1CzaASWkdqP96j/X7RGyQP1VOjbqB8ZFP3M+4KbckwKdL/v2qLzvcEk/dcs5a+e20XeNpe5CvZJjD/KwIsdjyo2+fQdiaSkIUiVQaIrI9/eDY6jh+Jni7y4THEbw=;GiuZFyj/ikUZ98oMN8gipg=="
+secured: "4qOKhtn9OBFyr7CAmHsprrs8wYjjxZaOIWNJ6T/q5b/ckjDQvWK3wWWMDhE5b5gzKTJgYJuzUYbrjWRASKM1FiosLGGSsGwY4HiPwWwIU2QLHQsPh3FCQI4jE8R4cmvzkjbdb55xLeVPQDD5uYe0WDM1jR5l+qOZLcUXCXDxoZBM+lezWee0kWcdERDN26iHBlPF6QWkrrJekdIY/hGtKESueY5AQH9MTuvi80RJ1sCS0WEXo9CXNotL1t1eiZC5PV5f1DoIyY1wn4a9NLoxHcSbv00lIxYnhEvnr2DI78FfccFqiVFqw6XNqO++lmkePsLbykiLRsEen6DKuUEIMQ96m9Zkgt0T/dDfb44t46A=;wd4f9yM5JvxP4Hn76XADIQ=="
 ---
 
