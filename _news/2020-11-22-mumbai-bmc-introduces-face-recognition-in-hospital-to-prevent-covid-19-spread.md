@@ -9,7 +9,7 @@ ampWebUrl: "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recogn
 cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://cnt.trvdp.com/truvid_default/640X480.jpg"
         width: 640
         height: 480
+        isCached: true
+  - title: "Facebook using artificial intelligence to forecast COVID-19 spread in every U.S. county"
+    excerpt: "A new county-by-county forecast from Facebook projects San Diego will see another 10,000 cases by the end of the month."
+    publishedDateTime: 2020-11-20T22:15:00Z
+    webUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county"
+    ampWebUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
+    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
+    type: article
+    provider:
+      name: ABC 10 News
+      domain: 10news.com
+    quality: 49
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/061f821/2147483647/strip/true/crop/1616x909+0+71/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2Fee%2F5aefd9c843668d1285e44d2407ec%2Fscreen-shot-2020-11-20-at-3.24.46%20PM.png"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "d875yP8leufKNV/GnO8g1Z/VGdxbiXNtKAAyUKqDFbdhCvdkc7SBVQSnRZBnNmrbAUDDg5LkWqIzc1FCVa4P3fZIezKqSmvTZJ1/CTQnUQRCZLg0USjNoSViZdgrayTeKxmWea+j5xNT8PUX/Si/1AhT/vV1sfLsjxEv1mJjK1O3NLICvMYnqYG7BTlJ0ijZD6LVe+uv/jjl8on8MkOgNLJO9EmWoLGz8fdD7hfeq2Kt1OZ6gRxcdtFlxjJ5lcd9Zggi96FrfSYdBZ/51OiZNUyCk+xiRKLUFBOVGNrsPeFFwaw31HsStfNl22UNXzycTVKR+yRjhzVai+6A6EaxP+vRhvY9/cAxIrMBjB2vuL9osk6bpfQSaCkSuYxUMObSWFnfgz5GbXaB5URKZ+4Qw/clv5kMijg/skFBeqI5ZB6a0P3Kw6SP0YjgdKPJKWDJZnc3wdwRpNbCS4fpHb9rmT1X2/tERoHxYMrqPke/zExgxDb/2NayypJd2bc0H8IWKts8dF8dP2ppyp+iLL73pA==;m6+iou4q3QKNzxh9ewGNVA=="

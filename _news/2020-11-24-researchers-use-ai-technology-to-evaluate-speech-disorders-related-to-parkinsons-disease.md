@@ -40,15 +40,6 @@ related:
         width: 720
         height: 540
         isCached: true
-  - title: "Ardigen and BioCollective partner to detect early signs of Parkinson’s Disease for better diagnosis and treatment"
-    excerpt: "Kraków, Poland and Denver, CO, USA, 18th November 2020 / Sciad Newswire / Ardigen and The BioCollective today announced a research collaboration aimed at the development of the world’s first microbiome-based biomarker candidates for Parkinson’s Disease."
-    publishedDateTime: 2020-11-19T20:12:00Z
-    webUrl: "https://www.bio-itworld.com/pressreleases/2020/11/19/ardigen-and-biocollective-partner-to-detect-early-signs-of-parkinson-s-disease-for-better-diagnosis-and-treatment"
-    type: article
-    provider:
-      name: Bio IT World
-      domain: bio-itworld.com
-    quality: 0
 
 secured: "qay6aOkov4r6Xt4gzjQGUQNsM577p0jLQYGasnnSMU18Go6qZnWlW6IijX7AQwwfcKg8GR8ckxG/i/e2brhK5/8h/6Y/Xih8lunnk0udrnE9l8ZUbXt/GiYaia5rK8a+dh8fbGCAPz4EeRZ4iJeqNjDkGI41tsT7D1cznFDfBKiBNcOt08QqvlPPvac7USdZNaTwZrv9pic/FOVbw6lVtcFj3s0usqC7bVLLShlLH35nO8HFR71lP6JlgAcevXoASiwX+7ywakMkpwnmPk2LOtqEqztonYH0j8TL/9wX6VnD67WzU+owg/QdszrQGSoGuDnchDl5WHneqAfxpYyeO2BqaaFx4p0a9TUOIye1sZs=;G0PDUYpxjfFEUlCzF9F1pw=="
 ---

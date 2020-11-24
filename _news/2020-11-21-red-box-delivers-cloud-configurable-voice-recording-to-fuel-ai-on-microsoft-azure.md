@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers"
-    excerpt: "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic."
-    publishedDateTime: 2020-11-19T19:35:00Z
-    webUrl: "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/"
-    ampWebUrl: "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/"
+  - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
+    excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
+    publishedDateTime: 2020-11-20T13:08:00Z
+    webUrl: "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 99
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c87ffb80008a1cb4cd7c%2F0x0.jpg"
-        width: 1200
-        height: 900
-        isCached: true
+      name: ZDNet
+      domain: zdnet.com
+    quality: 80
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box’s enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
     publishedDateTime: 2020-11-20T12:04:00Z
@@ -69,19 +64,19 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "AdventHealth to study COVID-19 outcomes with AI biotech firm"
-    excerpt: "AdventHealth on Monday announced a project with biotechnology company Berg to try to better tailor treatments for COVID-19 patients. AdventHealth and Berg are kicking off the project as a research effort,"
-    publishedDateTime: 2020-11-23T15:04:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/adventhealth-study-covid-19-outcomes-ai-biotech-firm"
+  - title: "Transport for NSW trials machine learning to detect crash blackspots"
+    excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
+    publishedDateTime: 2020-11-24T07:35:00Z
+    webUrl: "https://www.iothub.com.au/news/transport-for-nsw-trials-machine-learning-to-detect-crash-blackspots-558192"
     type: article
     provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
+      name: iothub.com.au
+      domain: iothub.com.au
+    quality: 39
     images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://i.nextmedia.com.au/News/busy_road.jpg"
+        width: 1254
+        height: 836
         isCached: true
 
 secured: "JX0RCX33eLlnbdoQAOXfihgJIyZUpG2/07UgaoNfAmyEfR/iQP8piSchmqjqoTS8LMxrFK4m8FIFU6J0Tur47RNlWiF05CU3SIROcknOj0mYJnfKGVeaBuTdJ219rxRfUg+ELnVIijifoYjfFXHpdCDM+yiedPHiuQy+Xxw3DIiHXflRcjjUJpV5jNRp+VtAgk/fba5y/00ezD7bfim+bnH2bsxTSER/zS5lI6rbs2LOxEtQykSuUdreLP4ujsWTooSgERXHZoHO0fDCzroaLThoRrSw1EXo9at0D9sapLwz38brbOYgmZuYEtqu0lY5kTGrH+not0ibFU1Cc3fOtiAU49AZvgap4/6OghJFTL8=;ouDLnRs/oTL99jFfvUS+aw=="

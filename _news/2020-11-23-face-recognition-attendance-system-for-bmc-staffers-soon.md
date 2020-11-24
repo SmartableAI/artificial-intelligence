@@ -43,6 +43,22 @@ related:
         width: 670
         height: 440
         isCached: true
+  - title: "Facebook using artificial intelligence to forecast COVID-19 spread in every U.S. county"
+    excerpt: "A new county-by-county forecast from Facebook projects San Diego will see another 10,000 cases by the end of the month."
+    publishedDateTime: 2020-11-20T22:15:00Z
+    webUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county"
+    ampWebUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
+    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
+    type: article
+    provider:
+      name: ABC 10 News
+      domain: 10news.com
+    quality: 49
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/061f821/2147483647/strip/true/crop/1616x909+0+71/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2Fee%2F5aefd9c843668d1285e44d2407ec%2Fscreen-shot-2020-11-20-at-3.24.46%20PM.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xOzVqLVNgQqa/qUzHL56n+IqhyqwqFLlYeiGdXmHkqHFGsLCOCHJt9TAROEQbfLoAk4g3H51nRPt0X6FQKHBkE/EYjeDmm7bSCtxWxJl2SYTXc1esNMdQ92T06E6EiRiv7STU12qCwnATXYObeQqLICYwF8SsTdxL++hxvTEw2ob9Rpq5BdpYuxdswFd5zAEWh6ABn4FQ2csJQM6bQS27VGWLZODK4o+5eoZBNmJUZdUBqgy2qEI1NvR9HXrD2zyFhcwpb2wTyyj9AQhI9b/wmZNTo8ClGld8KKy4+A+Eu3AR5zHDVEOxfEXmzVm6aBuJG6HgRhn78w7/lFdki6312YVeFW/bQx2H/j868ee5+4=;mdTvWDeNFOHC5yjLtWCmxw=="
 ---

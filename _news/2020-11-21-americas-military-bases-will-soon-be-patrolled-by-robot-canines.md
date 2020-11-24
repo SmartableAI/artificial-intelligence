@@ -43,6 +43,20 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "PreludeDx™ Announces Partnership with America's Choice Provider Network"
+    excerpt: "PRNewswire/ -- Prelude Corporation (PreludeDx™), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today"
+    publishedDateTime: 2020-11-24T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/613101/PreludeDXLogoPMS_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
 
 secured: "xJsMnoB8TczRU5FgNqVhSYLno+6MO1KQEDUeVrlA8fBvLRKL12X+5tRT0B5peRxXrK2AeGiNnU9jXEvNnQkOOYYzJjbMCsnQjuSUal9F8PzQ4mhHk6IhCs/9psGmHFdcbC5ybROQ3u+g7w906/aNhVwX4qLPbP3VWXk/LKcx2bQ2gIETQBXBHoLEoYgVmwAyHsOGRJ7eBXEEDhiNqC4HiZz1wG5dMxGpXmjaGLcPD5g0O1qf15ugrzrlq8Dps3LFAGdHBMzS2QI62zMKXGaaz6IdRK9+wNM/B2HdOhSY8qzZyccoTgb80YaMDO3G7wks3qZ/ZjsjTWL2AyxcKBE7Q+AxUl84HsdA4KUGAGqLF5w=;enMUv4fOBrUklDcPJ7Y6fQ=="
 ---

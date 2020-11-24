@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-ai-algorithm-compound-potentially-phot
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-ai-algorithm-compound-potentially-photonic.amp"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
-    excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
-    publishedDateTime: 2020-11-22T13:49:00Z
-    webUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai-smarter-and-smaller/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:960/h:540/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/processor-2217771_960_720.jpg"
-        width: 960
-        height: 540
-        isCached: true
-
-secured: "cJA7zm/W0L9dVY99jXbQQVvojfj4koxC+dH2g38QRTbhxq2FoS3ms2z8Cdhe2IA+RXkQIhRPdBsLGpKY9L7Y1Zn9hF4+DuqGHZp/wisq/Jogz7OCVNdFgfT1vKxFQAycz0ZK5b/aAIX0vamtSHWaKOKPMaW1awWkxTHKDcuu0idGag4GRrmnAZpstzDwzIyv9Xdza3Uq9hMq7BruOR0m2tPlqRAzLD0JF7owGxIxZUDcUI6Tw1OITF1em95Um0VSgD7NG9vF4Ang0MnuXw+JouJbFsMkbpsvD67t2H1YL50F4EtfBXpiZ4UUx7S/BZCpWJw77IZTAwgI7WeKMXfYudyPbRhUR3+lBfkYctc/Yb8=;hkW+XSS5Wa2kE07UkJilmQ=="
+secured: "p/wL6RF2SKzIBYyLEQ32jczJCfxdzJJUsUSOU6hSl5Y5hofuLC0T44QW3syw6M3tUcdzsuH5e5HAGgLarPOYe/co4WQMhcJ72P/uHFUCJduVMkIVzCJ3VlIc9dA31kXhwG5CJFKTPgt6exlaKg7BS2DA0wE0l/R6IoGM7yYiQN4UzQA7fkak+H1WjhhYxmYKKlV1OLOoCxzugOnjtl8k7ljdqTrijr6tpdlnSJ7qxPoDA3sG22dF8uEGHU3K2G2qB2z32ynS+RsU8e1nyAsS5qWB6N2mSxmW7/zL6MPdbudYScKDLZS0XNuc8YF2SdNQ2nszYFp/15xyg14VXZNzHaU53XyxZJF0CMNMQzc0rUBc/Kg2N4bdzVCOSY1RBl0B2vF4bse8vlxAKJFaHh7uJywp59jXt8UpUvAm5iqjI7zzJlux14M01Xo+7ZJh0pFwy4FbOF09FQcESWhnK7RsldV75pTVnxFBNQY49LMfz/UTrvxBOMnT0uTY2Xo6GyTqZSAxHlLlHgEHYte9I2Pkxw==;nh1ziJ6L23NV75hcjxx/2A=="
 ---
 

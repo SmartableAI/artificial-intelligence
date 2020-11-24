@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driving Facial Recognition Market Report 2020 Share and Size, Expected CAGR, Top Region and Globe, Opportunities and Growth till 2023"
+    excerpt: "The Driving Facial Recognition Market is estimated to record a significant growth throughout the forecast period. The"
+    publishedDateTime: 2020-11-23T05:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/driving-facial-recognition-market-report-2020-share-and-size-expected-cagr-top-region-and-globe-opportunities-and-growth-till-2023-2020-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Fdwbf3SquYlr14xKkpF26DrrBk+XBAmiJpB0etJ/+RJp0YQAXkPKF9x44n7f58EvmaEt++xeEafCeX1ZKe4paQerKQy1yC54ISokLAAsF8k2gSH5DroABdEQ/HRczPATqDFjp4/BITQaY7xRZyF7zWYS4PLr0oFF/m2UfrhRNLs1dAMRkInPEVwbt7hq4Brg20Lj3OYWID0UfE6t1p8MPDGjMkGb4FTFHP+WW3YVX4GbwfRahZR7y6KrEWbkBU9+FtwxKwig16sdj/88XUF+WfaVI9wwl2y189lCLMFC2cqmBqRoMyLsrFnkkrjvaY/RJIRE3ukp8ciQAYPEqvAosotENqtkXbH2qTOjYt+wSjY=;C2PRTyecVTlTIo7K7t2w+w=="
 ---

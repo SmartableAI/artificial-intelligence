@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai
 webUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai-smarter-and-smaller/"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI algorithm identifies new compound potentially useful for photonic devices, biologically inspired computers"
-    excerpt: "When the words \"artificial intelligence\" (AI) come to mind, your first thoughts may be of super-smart computers, or robots that perform tasks without needing any help from humans. Now, a multi-institutional team including researchers from the National Institute of Standards and Technology (NIST) has accomplished something not too far off: They developed an AI algorithm called CAMEO that discovered a potentially useful new material without requiring additional training from scientists."
-    publishedDateTime: 2020-11-24T10:28:00Z
-    webUrl: "https://phys.org/news/2020-11-ai-algorithm-compound-potentially-photonic.html"
-    ampWebUrl: "https://phys.org/news/2020-11-ai-algorithm-compound-potentially-photonic.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-ai-algorithm-compound-potentially-photonic.amp"
+  - title: "This AI chip claims to mimic the human brain"
+    excerpt: "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,"
+    publishedDateTime: 2020-11-24T11:13:00Z
+    webUrl: "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain"
+    ampWebUrl: "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 38
+      name: TechRadar
+      domain: techradar.com
+    quality: 104
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/10-artificialin.jpg"
-        width: 1920
-        height: 1280
+      - url: "https://cdn.mos.cms.futurecdn.net/CLZPLUtqihEEeJiUsPGteP-1200-80.jpg"
+        width: 970
+        height: 545
         isCached: true
 
 secured: "bkf8fQSMZEa1DSoIJo/U6wnVlP5lJP2BOCx7Uer2rWbHBKV0ci9mUC3iiihfzsY6sBJM2cdaMItJVcRacNcFMPdBy7XmKb8REJl6dUW0oRHcwZPVJPDEO5dLyCe/Vbig+5Jh07lsgBZrdKN+mcn9cDL969VUZQAc/JUqvqjKiLu9fDGf2kP9j0iygHqN1jaryeMtxsT4hCgq8wGu2PaWKfSzXx1A2kfl4jpT9OO9h2gjOPxzZqVAe4d7zDqEkq8mbmdOitQZz6UVW3Rt2o5WqOBPGglTWrmfUWZHgsrvLxSK3WeA6vLWjxFC6dYt5haBXOOXalDXOq05skAtjAYKW+rMcMe0H7abbBXdBFHKT0gCaSdnJlsVvJB6lgZFUv4jVzCjtJG0Wt0F2rLE172xTx5EH6BOxT0WInyIZkYoAQPl/pyOYSfihjQJIb3LvcXOdMxJomKtbAP3Wg4z8W/3oRPR1mfAKlkGEaVXV3sZh/vhDDjtsIsvlNY7F+W0nAjrqYVlJ1N9+qIj0bvCbzAT6g==;VsbFqb7VQ37vli4HjoWjew=="

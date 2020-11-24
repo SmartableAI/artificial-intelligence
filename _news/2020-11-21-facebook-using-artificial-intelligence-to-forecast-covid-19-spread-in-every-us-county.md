@@ -26,65 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook's AI is flagging more hate speech before you report it"
-    excerpt: "The social network says its automated tools are improving, but it's still under pressure to do more to tackle harmful content."
-    publishedDateTime: 2020-11-19T20:41:00Z
-    webUrl: "https://www.cnet.com/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
+  - title: "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread"
+    excerpt: "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,"
+    publishedDateTime: 2020-11-22T01:56:00Z
+    webUrl: "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
+    ampWebUrl: "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
+    cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 87
+      name: Mid Day
+      domain: mid-day.com
+    quality: 70
     images:
-      - url: "https://cnet3.cbsistatic.com/img/nJG0qfV5rH_EZwuAYPpcwqBRSsU=/1200x630/2019/05/01/3024034b-a20c-4651-8db1-daa65b6af6c1/facebook-f8-2019-mike-schreopfer-0032.jpg"
-        width: 1200
-        height: 630
+      - url: "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg"
+        width: 670
+        height: 440
         isCached: true
-  - title: "AI Governance Market May see a Big Move | Major Giants IBM, Google, Facebook"
-    excerpt: "The Global AI Governance Market to witnessed good recovery in growth post first half of 2020 and is projected coverup"
-    publishedDateTime: 2020-11-24T01:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-may-see-a-big-move-major-giants-ibm-google-facebook-2020-11-23"
+  - title: "Face recognition attendance system for BMC staffers soon"
+    excerpt: "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,"
+    publishedDateTime: 2020-11-23T00:30:00Z
+    webUrl: "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon"
+    ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facebook says sophisticated AI catches 95% of hate speech posts"
-    excerpt: "Facebook said Thursday that its artificial intelligence tools and systems are now removing 95% of hate speech content and removing it before users can report it."
-    publishedDateTime: 2020-11-19T19:53:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2020/11/19/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts/5271605811925/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 57
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5271605811925/2020/1/3322cb68699ceb551d7c2f4e6512c4ce/v1.5/Facebook-says-sophisticated-AI-catches-95-of-hate-speech-posts.jpg"
-        width: 800
-        height: 534
-        isCached: true
-  - title: "Facebook says upgraded AI models spot nearly 95% of hate speech it removes"
-    excerpt: "Facebook Inc. removed 22.1 million pieces of hate speech content on its namesake social network in the third quarter, 94.7% of which was detected automatically by artificial intelligence models. The company shared the figures in the latest edition of its Community Standards Enforcement Report that was published today."
-    publishedDateTime: 2020-11-19T20:38:00Z
-    webUrl: "https://siliconangle.com/2020/11/19/facebook-says-upgraded-ai-models-spot-nearly-95-hate-speech-removes/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/facebook-2.png"
-        width: 718
-        height: 400
+      - url: "https://cnt.trvdp.com/truvid_default/640X480.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "x6hoiSUWFrBUMckhMoG6xFXDsL4IB+TD6dbqDUz1ZrYwiZDlPcyj95YxzH4Vl/neOA0zf1eb0Gmpufs9sYBCtz2gLnJuunzx6ET/HhIM3Awf6vKbjnvGnttH/NpLxa5esAJgGlWnwfCI3FCjzhXAICX9OVKgxFLM3Qc8Yx1daCS/JUrYLjLmjIaj1lEhL6D1H+BrIs3ogyJjfgaTQS0dI+xSb/xb9CO/Sdqzu5peJXrQuxWnHWZMV5SwECzB+GNHR2yi6wjOg01Kei4SVzKE+AkQSL/w28R+oMe8dmPsJiCKuRWgoQoUj9LJ95E+X7pd6SBc1Vpw1CyLbPdsDSepWjXND7bv3lBbxgT5uC0QFVZ+/rc1eT031yi4CL9ObkYmWdO/B7bcN5BY4w2AlzxPs7OpZyKMjtFqTEbhgZuFtGHdWXMC/wgNpZ5zZSbxUyTzZRiw0q5MLcR3thM9Tn+xozuEQe3c657nvbzhi/JHHHKUXgeeSgdeXx/4oaeD5vUeHYz7804NPvtxqWjp4W9BxQ==;X9Pekm1jxScdZUms6XZSYA=="

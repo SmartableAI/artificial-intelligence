@@ -24,17 +24,6 @@ images:
     height: 3456
     isCached: true
 
-related:
-  - title: "Artificial Intelligence Possesses Potential to Predict Response to Immunotherapy in Advanced Melanoma"
-    excerpt: "A computational method comprised of clinicodemographic variables with deep learning of pretreatment histology images may be able to effectively predict response to immunotherapy in patients with advanced melanoma."
-    publishedDateTime: 2020-11-19T20:55:00Z
-    webUrl: "https://www.onclive.com/view/artificial-intelligence-possesses-potential-to-predict-response-to-immunotherapy-in-advanced-melanoma"
-    type: article
-    provider:
-      name: OncLive.com
-      domain: onclive.com
-    quality: 19
-
 secured: "8Rg4C19ukOFuHN/0apzCJwjer9bV15eNqwwC87xB+F1KK1XCPLLnkqDQKfaiAuss/Xa4LtIxsDcxxOef7CPSI/XxZ/VDqZKFLAhu/4MfnP0SA9mefi481eROngzHUguRQOIM4SQ2w4Qhw+lZdMe34BK0RG9vgdxOBYgMN6yZkbR7/yFP6kEFyDuMle5NPfOl6ytbsf68huXJzWdPMjExoiwuYJTioDP6C9uI5DVGVVjFNK7rizf35zrbi587aqCEJwoptsYHG99zCU260Ax7QH83Pe0rneVJXU9HBabG9nEWvSZ04GtuVXr5tFxzUVuClOGkt1Te8lX7KrvcSkY9Nw3RAVn7HUQjOs1y3DOCdQM=;TB85d5p8oO8sVA9zdGAzYQ=="
 ---
 

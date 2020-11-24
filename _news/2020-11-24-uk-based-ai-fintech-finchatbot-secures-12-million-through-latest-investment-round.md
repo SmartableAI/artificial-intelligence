@@ -38,22 +38,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
-  - title: "Learn The Future of Finance with the Ultimate FinTech Bundle"
-    excerpt: "The future of finance is digital. You know this by now. While cryptocurrencies and blockchain draw plenty of attention, there’s even more going on inside the finance industry rapidly changing how we invest,"
-    publishedDateTime: 2020-11-19T19:47:00Z
-    webUrl: "https://futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle"
-    ampWebUrl: "https://futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://cdnp3.stackassets.com/062135191a9ca5dec3d60996826560b714debf98/store/8c4376d6d480f5e163531cb45824b6d4fe8ec566fc91218f6a23bd37ac14/product_59209_product_shots1.jpg"
-        width: 630
-        height: 473
-        isCached: true
   - title: "Namaste, France and Bonjour, India: The future of fintech is French"
     excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
     publishedDateTime: 2020-11-21T03:41:00Z

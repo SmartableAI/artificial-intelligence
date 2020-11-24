@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/verse-by-verse/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/verse-by-verse/amp/"
 type: article
 quality: 94
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://nationalinterest.org/sites/default/files/main_images/D868%20%281%29.jpg"
         width: 1600
         height: 1265
+        isCached: true
+  - title: "PreludeDx™ Announces Partnership with America's Choice Provider Network"
+    excerpt: "PRNewswire/ -- Prelude Corporation (PreludeDx™), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today"
+    publishedDateTime: 2020-11-24T11:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 24
+    images:
+      - url: "https://mma.prnewswire.com/media/613101/PreludeDXLogoPMS_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
         isCached: true
 
 secured: "opk/69aoK8HddJi0WOSaq0ppDL4BLUxcxRE5UK8ie9cDNi276bcb4Qp2nEm7K2VkDWeStZoa//ZCoFIK5urUByazeq+Tno2xnn4XaRoKQHzNnDYZFYrZ+IWadvDRTzMceM2OpyNP8m2g/8yeJo67gK7oWZRBBCwFZ/EMN+T4neX93YcwNz6D+a5aardsuVfaTVJLswud2CczZhpT/X2VZVmsdf0/NondULfT1GbPIBvnNkh1TB1tvc2Nec6ojhJAuk/cSfxs/AW3boWfy1Y8yXZX7ywPIWAPwc/WmEe+u99zYzVITn5nldKCRB4V0H1DomsL7cr5fEMq5Km6HIf2v4AM1/TVfZOUhoMm9QJilUc=;liuv1Hl0tvjlBtH0WRGduA=="

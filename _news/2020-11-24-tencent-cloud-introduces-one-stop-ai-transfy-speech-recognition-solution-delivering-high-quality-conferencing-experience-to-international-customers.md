@@ -48,6 +48,15 @@ related:
       name: Business Wire
       domain: businesswireindia.com
     quality: 13
+  - title: "National Debt Relief Delivers Empathetic Customer Experiences By Leveraging Contact Center AI from Observe.AI"
+    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that its platform has enabled National Debt Relief (NDR) to improve customer experience, au"
+    publishedDateTime: 2020-11-24T12:30:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201124005188/en/National-Debt-Relief-Delivers-Empathetic-Customer-Experiences-By-Leveraging-Contact-Center-AI-from-Observe.AI"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "u315ufaZbIdLl1S23YeUT0iNpqlPMBK1JPlHN1cK1ImU/CdBN2+j6UUGBOgoZlQb7vV27tvwfAnZJq1CEFnZACWrvnD+Wfe9GlIM2HMOG7NtT016C2dpUWYMpHGfqP/h7i8t4Z2R7EJQgSMgG/jCz5VpmSP6DF1RYDENXCkQv1zNEtD0eNeaKzJPrb71Y09H9zpIjuBXtdz4tZEzEkkl6KHRNoiGG8xjAE0cRngsqEE/dgDIhkyXVXDRMT8K+lIXU8Z2zOBGOF5YwzEtvtoDY197/Hlkj+mu4HBF/QUoGBUW6TY9RVmDXWXcyKOT6gp3/GKGeOrQOVMW9B/+5wlA7ykBX6S/I7jqyLAUq5wtz9w=;8gGXO0GHORQ6bA7Izxkx8g=="
 ---

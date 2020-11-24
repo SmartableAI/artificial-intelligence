@@ -25,48 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Car Market Opportunity Assessment and Industry Expansion Strategies 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-11-20T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-opportunity-assessment-and-industry-expansion-strategies-2024-2020-11-20"
+  - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
+    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
+    publishedDateTime: 2020-11-24T11:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market2020-research-growth-opportunities-analysis-and-forecasts-report-till-2026-2020-11-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Self – Driving Car Market key players and manufacturers, Top Countries Analysis 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-11-23T11:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-key-players-and-manufacturers-top-countries-analysis-2024-2020-11-23"
+  - title: "Call Center AI Market Size Segmentation: Research, Analysis, Trends, Market Share, Competitors, Regions, Applications and Forecasts Up to 2026"
+    excerpt: "Global Call Center AIMarket is growing due to growing requirements for quality inspection and surge in demand. It also provides pin-point analysis for changing competitive dynamics and provides healthy CAGR during the period 2026 and calculate the market size,"
+    publishedDateTime: 2020-11-24T10:16:00Z
+    webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-size-segmentation-research-analysis-trends-market-share-competitors-regions-applications-and-forecasts-up-to-2026-2020-11-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
-    publishedDateTime: 2020-11-23T03:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2026-2020-11-22"
+  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
+    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
+  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
+    publishedDateTime: 2020-11-23T15:07:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 8
   - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
     excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
     publishedDateTime: 2020-11-23T14:07:00Z
