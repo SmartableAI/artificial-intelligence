@@ -52,22 +52,6 @@ related:
         width: 630
         height: 473
         isCached: true
-  - title: "U.S. Fintech Wemlo Introduces AI Tech For Mortgage Processing"
-    excerpt: "Wemlo, a U.S.-based fintech that’s focused on mortgage loan processing, announced on Friday the launch of its new AI technology called Athena. According to Wemlo, Athena is a virtual assistant AI deve"
-    publishedDateTime: 2020-11-20T19:24:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/mortgage-precondo-ca-unsplash-600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round"
     excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners."
     publishedDateTime: 2020-11-23T18:28:00Z
@@ -129,34 +113,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
-    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
-    publishedDateTime: 2020-11-19T21:30:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
-    excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
-    publishedDateTime: 2020-11-19T17:46:00Z
-    webUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-to-novel-technology-that-empowers-breach-victims-to-fight-back"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 14
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
         isCached: true
 
 secured: "PwegHO+WWvPHCer8DS9hv6cioQpaPehSjHD2SIlfHM5qHbqdpuaaKCzyoSB/wCfCnFNjvWvQkSTllNcnenDir1fjsqFiEHCzUnnZlwaAMddm7qdrnbnlHdSixI8vK9ukNr4X714IB+SW/OsSrzE3w6qkdz8MYsykh0YIf7t5VW1ht7rNsKy4qAPTalV1h8Uj2T+Zh6Z7gnBe1QADLy+6eebIOP5fl8vXSf3cn43/ygZACLoi5f/J7j5hcOpnfINcGvSmdJ2AmimEOfT0N0zB3VNMc0rMduvLvyeyBfNj4QWoONaU00F8sZihsiAl12bS38hLS9QOE4LGnJll2CabJjOTCw1c1f98IUSxjnUHG6s=;Gu2cYykT8fFT4XF+WGBRqQ=="

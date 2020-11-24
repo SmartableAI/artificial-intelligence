@@ -121,6 +121,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
+    excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-24T10:57:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Facial_recognition_Etihad_plans_to_deploy_touchfree_checkin_for_cabin_crew-ZAWYA20201124094646/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://www.zawya.com/images/cia/zAmp/201124101510EUJS.JPG"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "uYVEMMDOXhg2/W41fveCbLf+fL/4CAVzYlqxZp4xUfbkIMYsmhmKO++FtmDyyUxDkdwyB1CGqxwF9L7W4Wq4tyFQERoAjfUkH1MsX4rL1jEOWgMp97C0FfvIFIWPJuuFZScK21J1T35GrGZy9AjcOPXnoieLlEaeJQmSieXjocyBVOEErEMIRBt+6mrgFm3jlNxW5oMia1b5u+qAnwnC1dU8BouN3UKeS3HY+FJaHEQ34A0Y62/Cmycwr0EEETX7f7t8m2W61MLFYeXmmxX+ASmBOoedZYyQhu8EDFM22uLexQUuF9FRaTM3fSZmvV/S8dgaMPbMvV/pWlFKMhfhy7zeySs1DVPpyVKFwQhNOh6Ke/Li9bMEvwbE+aZ/GlnXDq75GLLI1xxTuqGsUZLDSOvBGymwW40g3M5oSmNqZ6u69+kw89GgvQndggrpyb3UztUHQP0cWL6oe5sVWTQltMFu3nPouHyfb5ymrIESt27GwlpRXVvfYTrh2eC0QLoSKc9AEeRd+WTGOPtkkAa/CQ==;BCdfL66GzSMjrHR1YNc3yw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
 type: article
 quality: 88
-heat: 138
+heat: 148
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
         width: 1920
         height: 1200
+        isCached: true
+  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
+    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
+    publishedDateTime: 2020-11-24T02:37:00Z
+    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    type: article
+    provider:
+      name: CBS News 8
+      domain: cbs8.com
+    quality: 44
+    images:
+      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
     excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."

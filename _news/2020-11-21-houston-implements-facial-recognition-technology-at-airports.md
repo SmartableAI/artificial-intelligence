@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recogn
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -120,6 +120,20 @@ related:
       - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
         width: 800
         height: 533
+        isCached: true
+  - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
+    excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-24T10:57:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Facial_recognition_Etihad_plans_to_deploy_touchfree_checkin_for_cabin_crew-ZAWYA20201124094646/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://www.zawya.com/images/cia/zAmp/201124101510EUJS.JPG"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "AH8WlYKk274+P2KWpV056Z/tMcQMckwVtsq0ijajZAOqxkG3CSJhM6k2bqPEPnFsE/5qoAcx/JJkOWHg7i1A5lltRCB2zc8J/a+KgjonwjY0Z0hDENOslnXtOKuAialc2Cqi1bYJXodD1obXbBo/S3ZYlcC2hEPbJa63DfFJ8cf2UNnrDMdy8S2Y2b+k3Yw3g5DYQ1NUe1IaAouEZKgwnDotxopWWM3wtXYfanP9FAzvgWSn7S1NkUp5VgwmnLsJTAlGN1y/FFeE/GxaV8AIHpGUPzn2QzbA2U5SZdISBmEjlFYEcddRSGxXsWwdk7niBF7kpdG6SPTz4Arecfruet/hdfVmePw7Q0MtClPGBA7EWF5wZvn0WW9JV1cPuT47r1bkUEF8fVRCSqVsNPwd2zYfAKJEN1V0NjzA08t5CKma96HfQoON0eHO1JUg/hYOV+AsLcl1tbeI1pItcAx75eyezAn0IPfI5i2xPAXb8J36YKlYyxBujJvMNOKOssir3x0M2+2sv3Um4TextY8ubg==;NFDwg3osVeCnxU8+F9dN1Q=="

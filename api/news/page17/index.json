@@ -2,6 +2,239 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-11-uae-based-fintech-firm-launches-ai-powered-kyc.md",
+      "title": "UAE-based fintech firm launches AI-powered KYC",
+      "excerpt": "Fintech company PayBy has launched an AI-powered Know Your Customer (KYC; also termed Know Your Client) process in the UAE. The KYC is 100% paperless process and takes only 30 seconds to complete, doing away with the need for extensive documents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "originalUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "publishedDateTime": "2020-11-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-joshai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin.md",
+      "title": "Josh.ai launches a ‘nearly invisible’ Amazon Echo competitor that’s the size of a coin",
+      "excerpt": "In the past several weeks we’ve seen refreshes and product expansions from about every facet of the smart home virtual assistant world. Apple launched the HomePod Mini, Google offered a long-overdue refresh of the Google Home,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
+      "originalUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/20_10_13_Josh_AI_3126.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/josh-ai-launches-a-nearly-invisible-amazon-echo-competitor-thats-the-size-of-a-coin/amp/",
+      "publishedDateTime": "2020-11-10T15:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-walmart-tests-self-driving-car-deliveries-in-arizona.md",
+      "title": "Walmart Tests Self-Driving Car Deliveries in Arizona",
+      "excerpt": "When customers in Scottsdale order items from their local Walmart, they will be able to choose a contact-free delivery from one of Cruise’s cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona",
+      "originalUrl": "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03PN0mWV278CIW8clSXdlaW-1.1605047430.fit_lim.size_1200x630.png",
+          "width": 920,
+          "height": 518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/walmart-tests-self-driving-car-deliveries-in-arizona?amp=true",
+      "publishedDateTime": "2020-11-10T15:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-education-key-to-developing-lifelike-intelligent-robots-study-argues.md",
+      "title": "Education key to developing lifelike intelligent robots, study argues",
+      "excerpt": "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "originalUrl": "https://www.upi.com/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/i/5361605037906/2020/1/16050481937990/v1.5/Education-key-to-developing-lifelike-intelligent-robots-study-argues.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Science_News/2020/11/10/Education-key-to-developing-lifelike-intelligent-robots-study-argues/5361605037906/",
+      "publishedDateTime": "2020-11-10T14:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally.md",
+      "title": "Speech and Voice Recognition Market Is Expected To Generate US$ 43 billion revenue By 2030, Globally",
+      "excerpt": "The Global Speech and Voice Recognition Market was valued at US$ 7.8 billion and expected to reach US$ 43 billion by 2030. Speech and voice recognition software is built on NLP algorithms to detect voice commands,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-is-expected-to-generate-us-43-billion-revenue-by-2030-globally-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-mac-mini-with-apples-new-m1-chip-will-ship-for-100-less-than-the-previous-model.md",
       "title": "Mac Mini with Apple’s new M1 chip will ship for $100 less than the previous model",
       "excerpt": "Apple announced a bunch of machines powered by its first chip, M1. But there was only one desktop machine announced, a new Mac Mini. The new machine costs just $699  — $100 less than its current Intel-based version with a quad-core CPU.",
@@ -978,239 +1211,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-smarsh-to-acquire-ai-company-digital-reasoning.md",
-      "title": "Smarsh to Acquire AI Company Digital Reasoning",
-      "excerpt": "Smarsh says Digital Reasoning’s artificial intelligence and machine-learning technology will allow it to more efficiently sift through the virtual reams of communications it archives for financial-services firms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "originalUrl": "https://www.barrons.com/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-257802/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/smarsh-to-acquire-artificial-intelligence-company-digital-reasoning-51605021943",
-      "publishedDateTime": "2020-11-10T07:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-artificial-intelligence-technology-solutions-receives-first-auto-dealership-order.md",
-      "title": "Artificial Intelligence Technology Solutions Receives First Auto Dealership Order",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly owned subsidiary Robotic Assistance",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-first-auto-dealership-order-1029787164",
-      "publishedDateTime": "2020-11-10T07:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026.md",
-      "title": "Global Service Robotics Market Size & Share By Sales Revenue, Future Demands, Growth Factors and Emerging Trends Forecast to 2026",
-      "excerpt": "The global “Service Robotics Market” is expected to rise with an impressive CAGR and generate the highest revenue by",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-service-robotics-market-size-share-by-sales-revenue-future-demands-growth-factors-and-emerging-trends-forecast-to-2026-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T07:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-why-ai-tech-stacks-is-the-new-hack-for-pr-hacks.md",
-      "title": "Why AI Tech Stacks Is The New Hack… For PR Hacks",
-      "excerpt": "AI is going to have a huge influence on how PR professionals engage with journalists going forward. The trick will be relying on our professional and creative instincts to find inspiration – and leveraging AI to improve performance and refine our pitch strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
-      "originalUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faaa9cae613bff5ddfe3595%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2997%26cropY1%3D0%26cropY2%3D1998",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aaronkwittken/2020/11/10/why-ai-tech-stacks-is-the-new-hack-for-pr-hacks/amp/",
-      "publishedDateTime": "2020-11-10T06:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-data-trusts-could-be-the-key-to-better-ai.md",
-      "title": "“Data Trusts” Could Be the Key to Better AI",
-      "excerpt": "One of the challenges in developing AI applications is obtaining the vast amount of data that’s required. Making matters worse, regulations and privacy issues",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/data-trusts-could-be-the-key-to-better-ai",
-      "originalUrl": "https://hbr.org/2020/11/data-trusts-could-be-the-key-to-better-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_10_2835584.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/data-trusts-could-be-the-key-to-better-ai",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/data-trusts-could-be-the-key-to-better-ai",
-      "publishedDateTime": "2020-11-10T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

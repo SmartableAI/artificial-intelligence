@@ -7,7 +7,7 @@ originalUrl: "https://www.dailycal.org/2020/11/20/uc-berkeley-researchers-create
 webUrl: "https://www.dailycal.org/2020/11/20/uc-berkeley-researchers-create-artificial-intelligence-to-grasp-move-objects/"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 900
     height: 580
     isCached: true
-
-related:
-  - title: "Deep learning helps robots grasp and move objects with ease"
-    excerpt: "Researchers have created new artificial intelligence software that gives robots the speed and skill to grasp and smoothly move objects, making it feasible for them to soon assist humans in warehouse environments."
-    publishedDateTime: 2020-11-19T17:46:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201118141827.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 66
 
 secured: "7aHrOolGe6tHGGDWpFQcJBkpZhgqPuf/YM4janDHeltVHLzeXRqi4QvPr6eplQJc1U43GPOOXUuQKz8jY43iCBkyVAX+xfsfYGstH0iSzrN/xsN/TKOTKM8j9xt20uub8K9Al0QgT5CKd3hhGNgdohZ6gtUZvHytTKqgWpD3mEtY0vLxmluk0k0QhOIiig7MjaQhc7fGEcMb6ufeUITMuxRj6mvR8nymDTVjQnog1GA0S+ycuqiTQ7RmgNUr1H0nWOBt7Sq/4f4f5ry51lJB2/QN7SdeTb4ytSJIh9jTX1a4oe+u1Nsra1faIkvETVSu9RhfRrqTCmK5XU6XoTnMUhv8U+H0UQ0htfjKafNu9tDGg8Bb2KeSV5XKLLBFC8+71jP5G8jzwbviWtTdaVis67ck0QXLtAQD21I8OrHbELMkbaa2TwdGUObn9IoUdW+6hiMbqUJ1ath92fDxTf2pMENQJ2wwdPEKlMmfum/lzeWMbWgeQO44FoI3KOjAB/fppv9Q7f4qXgoVHaPlxPM3yw==;+EPVpuwCTX0KuLBoCEwzfA=="
 ---

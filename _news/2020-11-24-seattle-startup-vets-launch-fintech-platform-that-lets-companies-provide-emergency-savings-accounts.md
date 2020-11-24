@@ -9,8 +9,8 @@ ampWebUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-pl
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
 type: article
 quality: 60
-heat: 81
-published: true
+heat: -1
+published: false
 
 provider:
   name: GeekWire
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "India FinTech Forum Selects 27 Fintech Startups for IFTA 2020"
+    excerpt: "Non-profit fintech advocacy group India FinTech Forum announced on Tuesday the list of 27 fintech startups shortlisted for the 5 th edition of India Fintech Awards (IFTA). The startups will be giving live demos to the jury from 30 November till 2 December 2020 to compete for the Fintech Startup of the Year at the award ceremony."
+    publishedDateTime: 2020-11-24T09:04:00Z
+    webUrl: "https://www.entrepreneur.com/article/360295"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/360295"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360295"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1606208672-austin-distel-EMPZ7yRZoGw-unsplash1.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "U.S. Fintech Wemlo Introduces AI Tech For Mortgage Processing"
+    excerpt: "Wemlo, a U.S.-based fintech that’s focused on mortgage loan processing, announced on Friday the launch of its new AI technology called Athena. According to Wemlo, Athena is a virtual assistant AI deve"
+    publishedDateTime: 2020-11-20T19:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 59
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/mortgage-precondo-ca-unsplash-600x338.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Nilekani seeks French co-op for fintech"
     excerpt: "Infosys Chairperson and India’s Aadhaar architect Nandan Nilekani on Friday said that countries like France and India have the potential to work together on Aadhaar-like account-aggregator infrastructure that leverages data for accessibility to financial services."
     publishedDateTime: 2020-11-20T23:59:00Z
@@ -47,17 +79,36 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "Singapore Fintech startup Sleek secures US $4M from Enterprise Singapore's SEEDS Capital and business angels"
-    excerpt: "Sleek, a fintech startup that is disrupting the traditional corporate services industry, has raised US $4M in a new funding round. Led by SEEDS Capital, the investment arm of Enterprise Singapore, the funding was also joined by MI8 Limited,"
-    publishedDateTime: 2020-11-24T01:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+  - title: "India FinTech Forum unveils 27 high potential fintech startups for IFTA 2020"
+    excerpt: "Companies including Amazon Pay, PayU, CashRich, TransUnion CIBIL and Deloitte are supporting this initiative to celebrate global fintech excellence. IFTA finalists will demo innovations in diverse fintech verticals including banking infrastructure,"
+    publishedDateTime: 2020-11-24T09:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/india-fintech-forum-unveils-27-high-potential-fintech-startups-for-ifta-2020-6151601.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/india-fintech-forum-unveils-27-high-potential-fintech-startups-for-ifta-2020-6151601.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/india-fintech-forum-unveils-27-high-potential-fintech-startups-for-ifta-2020-6151601.html/amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 41
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/11/Fintech-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
+        isCached: true
+  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
+    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
+    publishedDateTime: 2020-11-19T21:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 24
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "aPmZieTAwyXrFdxnoYp02TA30flJ0LaVMIt7dgSj5yxyeIqBrtz8f+z/S9OIwSRG6cJTI3bfmMoCXrldd9F55w+2k6zoXkKFisjGPwM+Ttdxedzh2H/+T6mWKAl1SEkDdc7aRZUaE0rCpLTehHGSCACFs4rEH60lk74RDnX2rvS5zN9R3KL0JkrZizeL2d8dNQg/45dLkmJUi1QmVB/jJK+teEj7HFvnUPCP0M0M6on6pC5BMisFWBgfd1dB40jnTQusURj32W/DNgWeYmG/BVb4m9YTpNTjTc5j6yWR1RcLGOwM/sQbMqzJPHR6chNKbMoV1LQIQMUlIRZ9ks4i92IkLK00juxyhWr76w5wH5OCwPaDSNEx97tJaJn2WaN7JLhgcEmGrHPcVq0hfMwn4FUxOqN9CGchcUbQXas3Lk5v1Cbx3BBbUTPQw2ufgpTLMmUPjI8ljkFCJHduilnG0vAFP3StFMw5e12ZYGk4Eat2AwYkT8KOCKj3wKutfD59MesmceSZok0S/B8yECWT3w==;Ok7ckNLXr79tv3Rd0SQoPQ=="
 ---

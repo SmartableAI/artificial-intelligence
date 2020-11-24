@@ -59,6 +59,20 @@ related:
         width: 800
         height: 360
         isCached: true
+  - title: "Global AI in IoT Market 2020 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
+    excerpt: "MarketsandResearch.biz has added a new report Global AI in IoT Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
+    publishedDateTime: 2020-11-24T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-iot-market-2020-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2020-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "pPVzDhHcB7hNz7UFE2tIQmlo3FW5X5R/Vm/NIk4AexXmKNNkMw+ASn5NpEoivmkqN2+iS2Z7Z7oYr4LKa1/9hpmqoJnsCzQ32YIH60E8qsnEVG/GbRrKemVa+ip3qC9Q0j76jC/vODCD/W7+iJi3AGJwR9ZmHNBgTLhfBpPQ8r+/QOjXd7sKG+lhGP0bKFd+zKKdfNiNsNl+4swjsMeQfkyWq9BkbSMuG449W0OR3MWQbG8rVQHkK3bAPD6WIjiKj8qCiLGBJsFWI8Ew2Kv6xLR8cM9jRBZvChq+M10Bs4iMckIb/sXJC/YZ9J2FfTnXszQqKxHZQ3/iLvL1O2ZAm8CkawzUQkyGRDoB/Kcvuic=;pDkJShXq3oJF+06je4iYfg=="
 ---

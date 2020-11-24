@@ -152,6 +152,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
+      "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
+      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-natural-language-processing-nlp-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research.md",
       "title": "Natural Language Processing (NLP) Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research",
       "excerpt": "The Global Natural Language Processing (NLP) in Healthcare and Life Sciences Market was valued at USD 1.12 billion in",
@@ -1489,58 +1532,6 @@
         "AI Ethics",
         "Natural Language Processing",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-buddhist-nuns-and-their-crusade-for-recognition-in-southeast-asia.md",
-      "title": "Buddhist Nuns and Their Crusade for Recognition in Southeast Asia",
-      "excerpt": "\"The Buddha is my first feminist … in a very traditional society, he opened the space for women by recognizing they can achieve a highest spiritual goal.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "originalUrl": "https://www.vice.com/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fa8af370bb14e0095416283/lede/1604891135349-1-1.jpeg?crop=1xw:0.4428xh;0xw,0.0389xh",
-          "width": 1440,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/y3gd3b/buddhist-nuns-bhikkhuni-ordination-women-recognition-southeast-asia",
-      "publishedDateTime": "2020-11-08T21:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

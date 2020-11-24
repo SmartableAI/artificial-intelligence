@@ -570,6 +570,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-aidp-and-andy-khawaja-are-working-to-create-new-ai-defense-technology.md",
+      "title": "AIDP and Andy Khawaja are Working to Create New AI Defense Technology",
+      "excerpt": "Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja are integrating new AI advancements for defense technology.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-military-technology-weapons-manufacturing-weapons-technology-d969cb461ca54c78a44510bab1787500",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-military-technology-weapons-manufacturing-weapons-technology-d969cb461ca54c78a44510bab1787500",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-pope-francis-wants-you-to-pray-for-ethical-robots.md",
       "title": "Pope Francis Wants You to Pray for Ethical Robots",
       "excerpt": "There’s a lot of folks worried about the ethics and future of AI and robotics. Apparently, you can count Pope Francis among them.",
@@ -1377,49 +1420,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ai-fairness-isnt-just-an-ethical-issue.md",
-      "title": "AI Fairness Isn’t Just an Ethical Issue",
-      "excerpt": "We need to start looking at eliminating AI bias less as merely a “nice thing to do,” and more as an economic and competitive imperative. Business leaders take note: By making our AI systems ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "originalUrl": "https://hbr.org/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_20_1219846824.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/ai-fairness-isnt-just-an-ethical-issue",
-      "publishedDateTime": "2020-10-20T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

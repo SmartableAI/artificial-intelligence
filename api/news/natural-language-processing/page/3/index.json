@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-23-can-ai-fix-our-broken-debates.md",
+      "title": "Can AI Fix Our Broken Debates?",
+      "excerpt": "By contrast, IBM’s Watson analyzed 3,500 questions submitted online using a new capability called Key Point Analysis. It’s an AI-based summary developed by the IBM Research Project Debater team.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/can-ai-fix-our-broken-debates-1845461790",
+      "originalUrl": "https://gizmodo.com/can-ai-fix-our-broken-debates-1845461790",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/x3z7t5munvysuewmv7xi.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/can-ai-fix-our-broken-debates-1845461790/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/can-ai-fix-our-broken-debates-1845461790/amp",
+      "publishedDateTime": "2020-10-23T08:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-cloud-natural-language-processing-market-to-witness-astonishing-growth-with.md",
       "title": "Cloud Natural Language Processing Market to Witness Astonishing Growth with",
       "excerpt": "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Cloud Natural Language Processing Market various segments and emerging territory. The research report presents a ...",
@@ -1336,49 +1389,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-kb-home-launches-company-wide-ai-powered-chatbot-platform-designed-to-deliver-a-modern-real-time-online-customer-experience.md",
-      "title": "KB Home Launches Company-wide AI-powered Chatbot Platform Designed to Deliver a Modern, Real-time, Online Customer Experience",
-      "excerpt": "KB Home launches company-wide AI-powered chatbot platform designed to deliver a modern, real-time, online customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201014005255/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201014005255/en/668370/23/New_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
         "images": null,
         "publishers": null,
         "authors": null

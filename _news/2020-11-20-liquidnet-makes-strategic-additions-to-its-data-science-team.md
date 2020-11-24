@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Liquidnet appoints Steven Nichols head, NLP and unstructured data"
-    excerpt: "Liquidnet, the global institutional investment network, today announced the appointment of Steven Nichols as its Head of NLP (Natural Language Processing) and Unstructured Data."
-    publishedDateTime: 2020-11-19T18:48:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85096/liquidnet-appoints-steven-nichols-head-nlp-and-unstructured-data"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Liquidnet expands data science team with three new hires and NLP head"
     excerpt: "Steven Nichols has been promoted to head of NLP and unstructured data at Liquidnet, as three new data scientists also join the trading network."
     publishedDateTime: 2020-11-20T10:29:00Z

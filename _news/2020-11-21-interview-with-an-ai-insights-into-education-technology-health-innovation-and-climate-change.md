@@ -56,22 +56,6 @@ related:
         width: 630
         height: 473
         isCached: true
-  - title: "U.S. Fintech Wemlo Introduces AI Tech For Mortgage Processing"
-    excerpt: "Wemlo, a U.S.-based fintech that’s focused on mortgage loan processing, announced on Friday the launch of its new AI technology called Athena. According to Wemlo, Athena is a virtual assistant AI deve"
-    publishedDateTime: 2020-11-20T19:24:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/mortgage-precondo-ca-unsplash-600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round"
     excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners."
     publishedDateTime: 2020-11-23T18:28:00Z
@@ -120,20 +104,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
-    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
-    publishedDateTime: 2020-11-19T21:30:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "4 Greek FinTech companies revolutionising the financial space"
     excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
     publishedDateTime: 2020-11-23T12:23:00Z
@@ -147,20 +117,6 @@ related:
       - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
         width: 300
         height: 300
-        isCached: true
-  - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
-    excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
-    publishedDateTime: 2020-11-19T17:46:00Z
-    webUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-to-novel-technology-that-empowers-breach-victims-to-fight-back"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 14
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
         isCached: true
 
 secured: "UOOlz9XtrrInhO7J9loC6ETKaAZmCpHDMRCndgHWDunfdlbJ4lLbBqPjNzxyXV7u0GPb0nLgh4Yp2MmNW2xq+gfcs3uObt0zRuvuvsGd8Mt2gJbThb05SzT211chm137qBPtMuGLU4QzW3Ofy3uATrhco0IJxhQUR0+vilyIJ//k9bVok5wbIYcamLWRistAYKME4pMKvvx8AtCbCIPJYbxnhhhIeOisgNU73pYw7BTodeypmXvRo7it9wPsGRzJ3FoStMrsiEmLPy0dB7NN8IdyUjpLrYrCuLUXBCQE5VLQ8aFHjTi1uJ7HehhrmVD6XpMBZq1Zptf18mDFGiUAVZZ+4poYs+y3Y/OHTH/hyvc=;yLMIwSnvFHfa+okMz/fcbA=="

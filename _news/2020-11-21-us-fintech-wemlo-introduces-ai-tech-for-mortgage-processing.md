@@ -27,94 +27,69 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
-    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
-    publishedDateTime: 2020-11-20T16:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
+  - title: "India FinTech Forum Selects 27 Fintech Startups for IFTA 2020"
+    excerpt: "Non-profit fintech advocacy group India FinTech Forum announced on Tuesday the list of 27 fintech startups shortlisted for the 5 th edition of India Fintech Awards (IFTA). The startups will be giving live demos to the jury from 30 November till 2 December 2020 to compete for the Fintech Startup of the Year at the award ceremony."
+    publishedDateTime: 2020-11-24T09:04:00Z
+    webUrl: "https://www.entrepreneur.com/article/360295"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/360295"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360295"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Learn The Future of Finance with the Ultimate FinTech Bundle"
-    excerpt: "The future of finance is digital. You know this by now. While cryptocurrencies and blockchain draw plenty of attention, there’s even more going on inside the finance industry rapidly changing how we invest,"
-    publishedDateTime: 2020-11-19T19:47:00Z
-    webUrl: "https://futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle"
-    ampWebUrl: "https://futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/learn-the-future-of-finance-with-the-ultimate-fintech-bundle/amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 74
     images:
-      - url: "https://cdnp3.stackassets.com/062135191a9ca5dec3d60996826560b714debf98/store/8c4376d6d480f5e163531cb45824b6d4fe8ec566fc91218f6a23bd37ac14/product_59209_product_shots1.jpg"
-        width: 630
-        height: 473
-        isCached: true
-  - title: "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round"
-    excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners."
-    publishedDateTime: 2020-11-23T18:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg"
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1606208672-austin-distel-EMPZ7yRZoGw-unsplash1.jpg?width=600&crop=16:9"
         width: 600
-        height: 400
+        height: 338
         isCached: true
-  - title: "Namaste, France and Bonjour, India: The future of fintech is French"
-    excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
-    publishedDateTime: 2020-11-21T03:41:00Z
-    webUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french"
-    ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+  - title: "Seattle startup vets launch fintech platform that lets companies provide emergency savings accounts"
+    excerpt: "which built an AI-powered smart camera tool Secure, which employs seven people and raised an undisclosed investment from PSL, is also the latest fintech startup out of the Pacific Northwest. The Seattle region has a growing cohort of fintech startups ..."
+    publishedDateTime: 2020-11-23T18:45:00Z
+    webUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/"
+    ampWebUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
+    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
+      name: GeekWire
+      domain: geekwire.com
+    quality: 60
+    images:
+      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-23-at-9.18.33-AM-630x313.png"
+        width: 630
+        height: 313
+        isCached: true
+  - title: "Nilekani seeks French co-op for fintech"
+    excerpt: "Infosys Chairperson and India’s Aadhaar architect Nandan Nilekani on Friday said that countries like France and India have the potential to work together on Aadhaar-like account-aggregator infrastructure that leverages data for accessibility to financial services."
+    publishedDateTime: 2020-11-20T23:59:00Z
+    webUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
     quality: 44
     images:
-      - url: "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1605894676099.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 1668
-        height: 834
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/11/21/w600X390/Nilekani.jpg"
+        width: 600
+        height: 390
         isCached: true
-  - title: "Interview with an AI - Insights into Education, Technology, Health, Innovation and Climate Change"
-    excerpt: "As part of my research into AI and machine learning, I am formulating the core principles that contribute to the foundation of my future product offering for digital business development that I believe organisations should embrace as we advance into the \"Information Learning Age\"."
-    publishedDateTime: 2020-11-21T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/interview-ai-insights-education-technology-health-climate-bennett"
+  - title: "India FinTech Forum unveils 27 high potential fintech startups for IFTA 2020"
+    excerpt: "Companies including Amazon Pay, PayU, CashRich, TransUnion CIBIL and Deloitte are supporting this initiative to celebrate global fintech excellence. IFTA finalists will demo innovations in diverse fintech verticals including banking infrastructure,"
+    publishedDateTime: 2020-11-24T09:03:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/india-fintech-forum-unveils-27-high-potential-fintech-startups-for-ifta-2020-6151601.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/india-fintech-forum-unveils-27-high-potential-fintech-startups-for-ifta-2020-6151601.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/india-fintech-forum-unveils-27-high-potential-fintech-startups-for-ifta-2020-6151601.html/amp"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
+      name: moneycontrol.com
+      domain: moneycontrol.com
     quality: 41
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEARIAApn2yyw/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=hxKq20SHLo4KEI0GaS8kByJmOu8YBox0XktmM-_Si3E"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Learn how to code through animation; Here's what the future holds for fintech"
-    excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
-    publishedDateTime: 2020-11-24T00:47:00Z
-    webUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence"
-    ampWebUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 41
-    images:
-      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/11/Fintech-770x433.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
     excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
@@ -129,34 +104,6 @@ related:
       - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
         width: 480
         height: 270
-        isCached: true
-  - title: "4 Greek FinTech companies revolutionising the financial space"
-    excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
-    publishedDateTime: 2020-11-23T12:23:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-greek-fintech-companies-revolutionising-the-financial-space/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
-        isCached: true
-  - title: "Fintech investors say ‘Yes’ to novel technology that empowers Breach victims to fight back"
-    excerpt: "Credit union industry investors chose San Francisco-based fintech startup Breach Clarity as the winner of this year’s VentureTech event. The nod signifies investor belief in Breach Clarity’s novel approach to empowering consumers with hyper-personalized intelligence in the face of massive data theft."
-    publishedDateTime: 2020-11-19T17:46:00Z
-    webUrl: "https://www.cuinsight.com/press-release/fintech-investors-say-yes-to-novel-technology-that-empowers-breach-victims-to-fight-back"
-    type: article
-    provider:
-      name: Credit Union Insight
-      domain: cuinsight.com
-    quality: 14
-    images:
-      - url: "https://www.cuinsight.com/wp-content/uploads/2017/06/cuinsight-logo-white-horizontal.png"
-        width: 792
-        height: 266
         isCached: true
 
 secured: "R5GQjqrbv8PZ2rny77xJV/1Ty9gyy/yl59ZfSqig5PaNI1v+a536rH24EQoFDe131BymIDIy+5H73va4QvhNA7pvNR55RoT7DmGqtcDmwiQ+Rvty94OJl4hyyMA8YGASmKooO4O+tCIuDI7SUj4Wnns3EGqT9d+R2XDEgDyE02zdZMJ/aQ5Nnzka/FwTYFv0pOOjJFQYnGMqql91KWj0Z5G8+Z67RCctD/jFNjGeapoHMz0ety8a6nAbHwJTKb4lQOdYBSKun3jAhBrGX942t+hremrrPNataRIwV7RyGHhWNdGuRiCPTQjayi8RNetHUqP23pzEgEjqHQt/h3B91g4ditV60x3IAUfqJWFU7fuA7kGyyIE00Fz4U3/pdMgvhiqM6baMvJ+dNxliI9fG5ZxBlIX12k2XjXkYXF0PCTbAAeNgPUbk/HgTa4n4XOGk1bYbTZi4IEQS1C3Bq3NF465syuhcUsq2ounPQ6dwzNUT2auY+OOWL72DQPuFH6F+poU63FE6gBSSTxbj2nutPw==;KAbbhHReh2HVz6SaqNmkAA=="

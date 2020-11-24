@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Global AI in IoT Market 2020 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
+    excerpt: "MarketsandResearch.biz has added a new report Global AI in IoT Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
+    publishedDateTime: 2020-11-24T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-iot-market-2020-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2020-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021, According to new IEEE Study"
     excerpt: "Most Important Technologies and Challenges Which will be the most important technologies in 2021? Among total respondents, nearly one-third (32%) say AI and machine learning, followed by 5G (20%) and IoT (14%)."
     publishedDateTime: 2020-11-20T12:44:00Z

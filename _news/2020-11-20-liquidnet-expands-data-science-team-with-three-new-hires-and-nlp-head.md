@@ -7,7 +7,7 @@ originalUrl: "https://www.thetradenews.com/liquidnet-expands-data-science-team-w
 webUrl: "https://www.thetradenews.com/liquidnet-expands-data-science-team-with-three-new-hires-and-nlp-head/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Liquidnet appoints Steven Nichols head, NLP and unstructured data"
-    excerpt: "Liquidnet, the global institutional investment network, today announced the appointment of Steven Nichols as its Head of NLP (Natural Language Processing) and Unstructured Data."
-    publishedDateTime: 2020-11-19T18:48:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85096/liquidnet-appoints-steven-nichols-head-nlp-and-unstructured-data"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Liquidnet Makes Strategic Additions to its Data Science Team"
     excerpt: "Additionally, the company has added three new data scientists – Dr. Nicholas Burtch, Dr. Anthony Schramm and Yusong Liu - to its fast-growing team. Nichols joined Liquidnet through Liquidnet’s 2019 acquisition of the NLP technology company Prattle,"
     publishedDateTime: 2020-11-20T09:32:00Z

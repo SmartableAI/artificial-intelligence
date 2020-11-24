@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-h
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: CNET
@@ -30,70 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook says AI has fueled a hate speech crackdown"
-    excerpt: "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,"
-    publishedDateTime: 2020-11-19T18:00:00Z
-    webUrl: "https://www.theverge.com/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
-    ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
-    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 89
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wmU-utJ-VdG500pIqIArOrBSpbQ=/0x0:2040x1360/1400x933/filters:focal(857x517:1183x843):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67818040/mdoying_180411_2400_0043still.0.jpg"
-        width: 1400
-        height: 933
-        isCached: true
-  - title: "Facebook’s improved AI isn’t preventing harmful content from spreading"
-    excerpt: "Facebook’s continued investment in AI content-filtering technologies comes ... political favoritism and reluctance to act on research suggesting its algorithms stoke polarization."
-    publishedDateTime: 2020-11-19T18:01:00Z
-    webUrl: "https://venturebeat.com/2020/11/19/facebooks-improved-ai-isnt-preventing-harmful-content-from-spreading/"
-    ampWebUrl: "https://venturebeat.com/2020/11/19/facebooks-improved-ai-isnt-preventing-harmful-content-from-spreading/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/facebooks-improved-ai-isnt-preventing-harmful-content-from-spreading/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/moderator-e1591354274848.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Facebook details AI advances in catching misinformation and hate speech"
-    excerpt: "Facebook’s battle against misinformation will never be over at this rate, but that doesn’t mean the company has given up. On the contrary it is only by dint of constant improvement to its automated systems that it is able to keep itself even remotely free of hate speech and"
-    publishedDateTime: 2020-11-19T18:42:00Z
-    webUrl: "https://techcrunch.com/2020/11/19/facebook-details-ai-advances-in-catching-misinformation-and-hate-speech/"
-    ampWebUrl: "https://techcrunch.com/2020/11/19/facebook-details-ai-advances-in-catching-misinformation-and-hate-speech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/19/facebook-details-ai-advances-in-catching-misinformation-and-hate-speech/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/11/fb-misinfo.jpg?w=1024"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "Facebook says it's getting better at using AI to take down hate speech"
-    excerpt: "Facebook has spent years building and deploying artificial intelligence to stamp out hate speech on its massive social network. The company says it's now using the technology to proactively spot nearly 95% of such content that it takes down."
-    publishedDateTime: 2020-11-19T18:00:00Z
-    webUrl: "https://www.cnn.com/2020/11/19/tech/facebook-ai-hate-speech/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/11/19/tech/facebook-ai-hate-speech/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201118174256-facebook-on-smartphone-stock-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "AI Governance Market May see a Big Move | Major Giants IBM, Google, Facebook"
     excerpt: "The Global AI Governance Market to witnessed good recovery in growth post first half of 2020 and is projected coverup"
     publishedDateTime: 2020-11-24T01:29:00Z
@@ -139,22 +75,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/061f821/2147483647/strip/true/crop/1616x909+0+71/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2Fee%2F5aefd9c843668d1285e44d2407ec%2Fscreen-shot-2020-11-20-at-3.24.46%20PM.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
-    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
-    publishedDateTime: 2020-11-24T02:37:00Z
-    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    type: article
-    provider:
-      name: CBS News 8
-      domain: cbs8.com
-    quality: 44
-    images:
-      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Facebook says upgraded AI models spot nearly 95% of hate speech it removes"
     excerpt: "Facebook Inc. removed 22.1 million pieces of hate speech content on its namesake social network in the third quarter, 94.7% of which was detected automatically by artificial intelligence models. The company shared the figures in the latest edition of its Community Standards Enforcement Report that was published today."

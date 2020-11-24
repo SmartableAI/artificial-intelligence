@@ -2,6 +2,257 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2020-11-05-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "The artificial intelligence market is often associated ... NVIDIA also sells its Arm-based Tegra CPUs for connected and driverless cars. Those high-end chips power infotainment and navigation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "originalUrl": "https://www.fool.com/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F598647%2Fgettyimages-687831316.jpg&w=1200&op=resize",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/05/3-top-artificial-intelligence-stocks-to-buy-right/",
+      "publishedDateTime": "2020-11-05T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-realpage-adds-online-reputation-assessment-ora-scores.md",
+      "title": "RealPage Adds Online Reputation Assessment (ORA) Scores",
+      "excerpt": "RealPage, a provider of software and data analytics to the real estate industry, has added Online Reputation Assessment (ORA) Scores into its Performance Analytics Benchmarking and AI Revenue Management solutions. ORA scores from J Turner Research measure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143776",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=143776",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133925-1120_SmartIVRs_Verint_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-dances-with-robots-and-other-tales-from-the-outer-limits.md",
+      "title": "Dances With Robots, and Other Tales From the Outer Limits",
+      "excerpt": "Artificial intelligence and dance may seem like strange bedfellows, but artists and engineers are using technology to expand the possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/08/arts/01artificial-dance-1/01artificial-dance-1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/05/arts/dance/dance-and-artificial-intelligence.amp.html",
+      "publishedDateTime": "2020-11-05T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025.md",
+      "title": "Global Face Recognition Device Market Size to Reach 2054.8 million USD by 2025",
+      "excerpt": "According to this study, over the next five years the Face Recognition Device market will register a 18.2% CAGR in terms of revenue, the global market size will reach $ 2054.8 million by 2025, from $ 1054.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-face-recognition-device-market-size-to-reach-20548-million-usd-by-2025-2020-11-05",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T06:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-amazing-new-headset-translates-thoughts-into-speech-for-vocally-impaired-wearers.md",
+      "title": "Amazing new headset translates thoughts into speech for vocally impaired wearers",
+      "excerpt": "A craniotomy, as he points out, is invasive brain surgery. The goal of his work at the University of Bath is to achieve the effect of “imagined speech recognition,” but without the need for someone to cut open your head and plant sensors onto the surfa ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
+      "originalUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/headset-2-1200x630-c-ar1.91.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/synthetic-voice-gaming-headset/?amp",
+      "publishedDateTime": "2020-11-05T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-how-machine-learning-and-4d-analytics-can-protect-australians-from-financial-fraud.md",
       "title": "How machine learning and 4D analytics can protect Australians from financial fraud",
       "excerpt": "While COVID-19 is changing the face of reality on a global scale, it is also bringing many Australians unprecedented financial struggles ... The Government now also provides very substantial services for institutions to verify their customers through ...",
@@ -924,256 +1175,6 @@
         "AI in Healthcare",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-portland-maine-bans-police-from-using-facial-recognition-software.md",
-      "title": "Portland, Maine bans police from using facial recognition software",
-      "excerpt": "On Tuesday, citizens of Portland, Maine passed a ballot measure banning use of facial recognition and surveillance technology by law enforcement, the Bangor Daily News reported. The Portland City Council had banned use of this software by police and city ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
-      "originalUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
-      "publishedDateTime": "2020-11-04T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview.md",
-      "title": "Google launches Document AI suite of parsing and processing tools in preview",
-      "excerpt": "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/",
-      "originalUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/",
-      "publishedDateTime": "2020-11-04T11:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-museum-exhibit-explores-being-human-in-the-age-of-ai.md",
-      "title": "Museum exhibit explores being human in the age of AI",
-      "excerpt": "The de Young Museum cleared out its cavernous contemporary art galleries, painted many of the walls black and set up a harrowing tour through the landscape of artificial intelligence in the exhibit “Uncanny Valley.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
-      "originalUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marinij.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01-2.jpg?w=1024&h=576",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
-      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
-      "publishedDateTime": "2020-11-04T11:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Marin Independent Journal",
-        "domain": "marinij.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.md",
-      "title": "Intel's Iris Xe Max GPU to take on Nvidia's GeForce MX350, RTX 2080 in notebook PCs",
-      "excerpt": "Intel has unwrapped the Iris Xe Max discrete GPU for notebooks, detailing how it depends on the Tiger Lake Core GPU for enhanced performance in gaming, AI, and encoding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
-      "originalUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg",
-          "width": 1199,
-          "height": 854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
-      "publishedDateTime": "2020-11-04T10:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-sales-enablement-enhanced-with-artificial-intelligence.md",
-      "title": "Sales Enablement Enhanced With Artificial Intelligence",
-      "excerpt": "The amount of data collected in both sales and marketing has had developers focused on each, with only a little thought given to a true integration. That has slowly begun to change; and artificial intelligence (AI) might be providing the final piece necessary to supply a more robust solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-04T09:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
       ]
     }
   ],
