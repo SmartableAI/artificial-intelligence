@@ -40,20 +40,6 @@ related:
         height: 270
         isCached: true
   - title: "Liquidnet Makes Strategic Additions to its Data Science Team"
-    excerpt: "Liquidnet, the global institutional investment network, today announced the appointment of Steven Nichols as its Head of NLP (Natural Language Process"
-    publishedDateTime: 2020-11-19T13:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005736/en/Liquidnet-Makes-Strategic-Additions-to-its-Data-Science-Team"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20201119005736/en/693522/23/Liquidnet_Logo_-_December_2018.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Liquidnet Makes Strategic Additions to its Data Science Team"
     excerpt: "Additionally, the company has added three new data scientists – Dr. Nicholas Burtch, Dr. Anthony Schramm and Yusong Liu - to its fast-growing team. Nichols joined Liquidnet through Liquidnet’s 2019 acquisition of the NLP technology company Prattle,"
     publishedDateTime: 2020-11-20T09:32:00Z
     webUrl: "https://apnews.com/press-release/business-wire/science-business-technology-new-york-government-business-and-finance-d6548ff034c346ce920dc98b281dac92"

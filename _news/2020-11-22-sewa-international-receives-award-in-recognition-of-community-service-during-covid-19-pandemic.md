@@ -83,6 +83,20 @@ related:
         width: 1285
         height: 722
         isCached: true
+  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
+    excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
+    publishedDateTime: 2020-11-24T05:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
+        width: 720
+        height: 540
+        isCached: true
 
 secured: "Cbfxn0pqGxQ/maivNFTMl/jYGKT/WRYJScfI/vteiGE5vBXGV7Xw/SDNW1evgpIWZDQpzhHn0DLlqAFp87H+WOrC5Tw9uZ8b+d+W5qmioGVqcF1mgw+dN9QipS6rWmrcy28zrLsHfIz3FgyCC7cs3jNc/5ZMkdEmW8L5SOEo5LXH5Bv/YEjpC2SyH96PhpXG2n9iXuiuTD68CHimJmI+dcyLXi/lwdB+A33UdKH+TrmYVJvbuRhIdiPFsLiPtW/lTUAwaz+Q6Zp2PbzC+7tFCHBZLRN5NOvvtASt4fVQBDxniyug4qqecZmXsyy5DTaXpsi/U1ORV60VoxpfNW9w3HRKEQFL0UzX1fxxRwd8Svc=;wedudzGj2h7XMbNoZL/VSw=="
 ---

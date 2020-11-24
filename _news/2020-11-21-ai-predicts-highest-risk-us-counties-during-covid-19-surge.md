@@ -69,6 +69,20 @@ related:
         width: 1285
         height: 722
         isCached: true
+  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
+    excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
+    publishedDateTime: 2020-11-24T05:03:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
+        width: 720
+        height: 540
+        isCached: true
   - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
     excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
     publishedDateTime: 2020-11-22T04:57:00Z

@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-20-adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers.md",
-      "title": "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers",
-      "excerpt": "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c87ffb80008a1cb4cd7c%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/",
-      "publishedDateTime": "2020-11-19T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown.md",
       "title": "Facebook says AI has fueled a hate speech crackdown",
       "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
@@ -210,7 +158,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1196,6 +1144,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-uk-announces-biggest-military-investment-in-30-years.md",
+      "title": "UK announces biggest military investment in 30 years",
+      "excerpt": "The U.K. has announced the biggest program of investment in British defense in 30 years. Prime Minister Boris Johnson told the House of Commons that the government will spend £16.5 billion ($21.8 billion) more on defense over the next four years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+      "originalUrl": "https://www.msn.com/en-us/news/world/uk-announces-biggest-military-investment-in-30-years/ar-BB1b9UJ9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/2/s960_number10.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T01:09:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "domain": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "images": null,
         "publishers": null,
         "authors": null
       },

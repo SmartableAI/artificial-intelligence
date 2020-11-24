@@ -53,20 +53,6 @@ related:
         width: 300
         height: 225
         isCached: true
-  - title: "Liquidnet Makes Strategic Additions to its Data Science Team"
-    excerpt: "Liquidnet, the global institutional investment network, today announced the appointment of Steven Nichols as its Head of NLP (Natural Language Process"
-    publishedDateTime: 2020-11-19T13:31:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005736/en/Liquidnet-Makes-Strategic-Additions-to-its-Data-Science-Team"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20201119005736/en/693522/23/Liquidnet_Logo_-_December_2018.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "K5bmjiZSwCB+8q4pOPaQ9+97d2VMnnWxYFO/fuWNnVzvHBfSj8Izv6SEShCkXqwHiFgI7aeIE1fCC/RaiboYxKPS6QR9zATn3+nGLddwPrpoVv2Gi32f/OAVTbdncsiscaJ9DULWRxsyGLVSMzy/Ag8Wu0HcuVXq2kLk0KvqHbUkjTJBPMjtpjgM7Vnvz2bY8suq/ZbXHj/ezCQQElyATiyntefZFFUqwmEJnR+VZgLFqMZI9dpea8qmJd2QbfvsgQ+eUbl9EbJw/RpVlm9hJ/z/Y5Rx2010LGrYFzDgELWYNyS9gT1DCUqGl12MKath+RAP56FlNORm7yaII/6V9eFL5kNy4kPJQef1uMzfM4w=;FDOQvcFnQ0oUHu7dK+b+yw=="
 ---

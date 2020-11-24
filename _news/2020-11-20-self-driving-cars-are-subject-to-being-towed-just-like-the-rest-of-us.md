@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Uber Shops For Self-Driving Partners Or Even Selling Its Project"
+    excerpt: "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off."
+    publishedDateTime: 2020-11-19T22:37:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "US takes first step toward future self-driving car regulations"
     excerpt: "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,"
     publishedDateTime: 2020-11-20T17:24:00Z

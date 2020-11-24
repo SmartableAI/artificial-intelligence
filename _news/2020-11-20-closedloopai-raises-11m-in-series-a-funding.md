@@ -39,15 +39,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
-    excerpt: "Healthcare's Data Science Platform raises Series A to help healthcare organizations improve clinical and financial outcomes."
-    publishedDateTime: 2020-11-19T13:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005052/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 14
 
 secured: "eo3xeE3TGoNRA2GMBNF4Jn8TM07pPunXwfHSeKmY+t5es7oS7c+//pLLTgfSPmCOAgD1sOGb69a7BxToCOPmXWyL0NhnDwIH7/YOv7o01ENmWRonovJ777PiIZanr+EcRQj9E4zsbztJlAXyL+iqlSC3THqEc3qgbRhomvo/s/+LbY+CT0ypjHAzUwe/8ukeUi30rqzrtaW85HwWbmLQKMieMObohtP55fP2a5eRfx7tfjDQtbugC6UPzs23JcSaEwhPV/59bpMiw5jr/z78cVwO7vauKnVyNRiks5+GEAasaMIAuMFjZtGr96DSuaD7ueTa5atypB9iD5HSGJRh//mMHpK/wgb5c5+CFyta2XU=;J1P60j5uYGDt5oGVObILgw=="
 ---

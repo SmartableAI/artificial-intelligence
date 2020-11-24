@@ -24,20 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "AIDP and Andy Khawaja are Integrating AI to Create a Healthier Workforce"
-    excerpt: "Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja are revolutionizing"
-    publishedDateTime: 2020-11-19T14:14:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/b18442221/aidp-and-andy-khawaja-are-integrating-ai-to-create-a-healthier-workforce"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18442221"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18442221"
+  - title: "New project integrates genomics, electronic healthcare data and AI to address antimicrobial resistance"
+    excerpt: "A Monash University project will harness the power of technology to help diagnose, treat and prevent one of the most pressing worldwide health issues - antimicrobial resistance."
+    publishedDateTime: 2020-11-24T06:22:00Z
+    webUrl: "https://www.news-medical.net/news/20201124/New-project-integrates-genomics-electronic-healthcare-data-and-AI-to-address-antimicrobial-resistance.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201124/New-project-integrates-genomics-electronic-healthcare-data-and-AI-to-address-antimicrobial-resistance.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201124/New-project-integrates-genomics-electronic-healthcare-data-and-AI-to-address-antimicrobial-resistance.aspx"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
+      name: News Medical
+      domain: news-medical.net
+    quality: 58
     images:
-      - url: "https://mms.businesswire.com/media/20201119005226/en/840163/4/Andy-Khawaja-Artifical-Intelligence-Defense_Platform-1118.jpg"
-        width: 365
+      - url: "https://www.news-medical.net/image.axd?picture=2017%2f1%2fHEALTHCARE_shutterstock_493063267_99928a5e003043f896998f01b025b9f6-620x480.jpg"
+        width: 620
         height: 480
         isCached: true
 

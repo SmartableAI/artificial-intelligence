@@ -20,20 +20,6 @@ topics:
 
 related:
   - title: "Ternium Expands Adoption of Falkonry Operational AI for Steel Predictive Operational Excellence"
-    excerpt: "Falkonry and Ternium collaborate to accelerate reduction of planned and unplanned downtime across steel production operations"
-    publishedDateTime: 2020-11-19T14:58:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201119005576/en/Ternium-Expands-Adoption-of-Falkonry-Operational-AI-for-Steel-Predictive-Operational-Excellence"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20201119005576/en/785035/23/Falkonry_logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Ternium Expands Adoption of Falkonry Operational AI for Steel Predictive Operational Excellence"
     excerpt: "Ternium, Latin America’s leading steel producer has developed, validated and industrialized a Predictive Operational Excellence solution using the Falkonry Operational AI suite to reduce planned and unplanned downtime across steel production operations."
     publishedDateTime: 2020-11-20T09:25:00Z
     webUrl: "https://apnews.com/press-release/business-wire/technology-business-materials-industry-base-metals-industry-steel-manufacturing-410be4da04fb42fe9e1da6668b1a578f"

@@ -3,8 +3,8 @@ category: news
 title: "Ethics Considerations For Law Firms Implementing AI"
 excerpt: "Richard Finkelman and Yihua Astle at Berkeley Research Group discuss the ethical and bias concerns law firms must address when implementing artificial intelligence-powered applications for recruiting,"
 publishedDateTime: 2020-11-23T18:19:00Z
-originalUrl: "https://www.law360.com/employment/articles/1330317/ethics-considerations-for-law-firms-implementing-ai"
-webUrl: "https://www.law360.com/employment/articles/1330317/ethics-considerations-for-law-firms-implementing-ai"
+originalUrl: "https://www.law360.com/articles/1330317/ethics-considerations-for-law-firms-implementing-ai"
+webUrl: "https://www.law360.com/articles/1330317/ethics-considerations-for-law-firms-implementing-ai"
 ampWebUrl: "https://www.law360.com/amp/articles/1330317"
 cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1330317"
 type: article
@@ -17,9 +17,9 @@ provider:
   domain: law360.com
 
 topics:
-  - AI
   - AI Ethics
+  - AI
 
-secured: "LJ7JGofLgvgRODy9honzoKGJw7Tg3l58M9HErhgNv8ddKKSXqjQIkl6bkBjW/1Hd3p5vGkrLzyTugIPTUCJDaGUB3vdtsa4HYkS5RT2T7jukRIJAw9xlxwaR+LTW47JaxY3mnYkRYWZ3bL9wZOFUzaCmtIJ3JhVi9lvRmYpEOytDwMcPS4ldmiK5qS5vOZyijk1O910qKpZyyXYXw4HZXGzLu+3+4GVe3onjRxb23wSuA6UAgTx14rOZrTk2JurhoYof5ZRV3w9MRrcgZYl0/nzmNiZltTXus9/tPuKHfVH1NIoBEx4m63kUm5MDQivY6UQJwL9RsD3bWA+6TpY+f4UDq8MvL7GqUsmhQQ9AVJI=;Ym2Bwaxti5Vhi/QOsU33lg=="
+secured: "43qSHnTEK2AJWwyBmWYL2K9sRTWi4Gpm8nYBFwSkt9p1UC4FGQq4z/H8CSx2GClERWXxm+EFRa3cazSnl232y2IP9VLJoOBQ1of+gcajBpORSm5QqbKJtgoy455nMpaF4pgXdhogzF7aslJeWuylpq1QXeywQqCtj5uf5QciBRFQ7u1NirsnvXDQDr/PH8llqruMG0FHLt6mBo/Oa33FgnomGzcK46pHJgQP+6CZWwct9t9V2OIH5VGqDu4nhOOjoHy5KKWaVS9XROF4LTU0LhNrM674jcshwnDCFusNWreblxHz5MhOM8063c+CqRAKWKgj3AjsPcYP5Y+ecE3K0gIDNQ+VKqGeH0U51SzgiYA=;dCSmpajRjM21htvfAlB3pw=="
 ---
 

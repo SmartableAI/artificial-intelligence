@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Uber Shops For Self-Driving Partners Or Even Selling Its Project"
+    excerpt: "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off."
+    publishedDateTime: 2020-11-19T22:37:00Z
+    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/"
+    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Self-Driving Cars Could Become Your Neighborhood Ice Cream Truck"
     excerpt: "Anticipating the advent of self-driving ice cream trucks. getty. As a freezing cold winter begins to descend upon us, your thoughts undoubtedly turn toward a summertime pastime th"
     publishedDateTime: 2020-11-22T16:35:00Z

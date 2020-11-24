@@ -9,8 +9,8 @@ ampWebUrl: "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summ
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: Your Story
@@ -27,49 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Companies Can Develop Ethical AI Technology For The Future"
-    excerpt: "Companies cannot ignore the risks associated with ethical AI applications, but guidelines need to be more palatable and concrete in order to fuel progress."
-    publishedDateTime: 2020-11-19T13:40:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/"
+  - title: "How role-playing a dragon can teach an AI to manipulate and persuade"
+    excerpt: "An AI that completes quests in a text-based adventure game by talking to the characters has learned not only how to do things, but how to get others to do things for it. The system is a step towards machines that can use language as a way to achieve their goals."
+    publishedDateTime: 2020-11-20T15:59:00Z
+    webUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/"
+    ampWebUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 61
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c1982f850761b32c1bbb0%2F0x0.jpg"
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200"
         width: 1200
-        height: 800
-        isCached: true
-  - title: "Viewpoint: The technologies powering the future of artificial intelligence"
-    excerpt: "Artificial intelligence (AI) has been an industry buzzword for years, writes Richard Walsh, head of memory at Samsung Semiconductor Europe, but he consider"
-    publishedDateTime: 2020-11-19T16:39:00Z
-    webUrl: "https://www.electronicsweekly.com/news/viewpoint-technologies-powering-future-artificial-intelligence-2020-11/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 37
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/11/18125803/Richard-Walsh-head-of-memory-marketing-Samsung-Semiconductor-Europe.png"
-        width: 1937
-        height: 1036
-        isCached: true
-  - title: "How AI technology is capable of changing the world for good"
-    excerpt: "Artificial Intelligence (AI) is already being widely used in a wide number of industry sectors and consumer-facing businesses - we might just not realise it yet or the extent to which our day-to-day lives already benefit."
-    publishedDateTime: 2020-11-24T04:11:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-ai-technology-capable-changing-world-good-tim-bennett/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGg6cCZ8Rne8A/article-cover_image-shrink_600_2000/0/1604448036281?e=1611792000&v=beta&t=2hZkY6xD6NAppNlU1gzdGF4P1S7mqJ9qZcJoKpRkwUY"
-        width: 744
-        height: 400
+        height: 675
         isCached: true
 
 secured: "NZhtEAEl88SawD5t6TNZcpzQjVgSxM5I9qtT/CSZGV504JbBopc4JIceup0036ye5lyCrZ/8ssmZ4mFn4X8JdwKqGwHVMo3yEGpaqztPHcl1oPRxdbQMpvowNqjHPuQGZtWC1gvRLScWRSj9MGyiTTmDvF69Pc0SI0NKFiTStvzz4tUrUj9xms3giB117NtCWW0jmNI25OK2g3utpf3j0vVhK213L1GTH0BE6FSbrP5UvsNDkYjSny9yTiyRoHR8tk0U6lLpelQzsQWL3kI8Y+LLjAjNfLBxI2aU4wZeO0amBmJzruaVcqLI4U53FCJaXp083is45/q/6iidIlLoN4TTFfD6FIk6VFrg1l2YN5uYC+AAdbDQAfUX0JIEcSKGX4pdqBdys/yyTXbYM6lAKSb9xTy1AhfR76n9ZMlSouKCbW/QF+mIdhO4bS22ccym/WPOBHTiltuyvxd9V+qhr0WAL2CIzqtUvV5lT7PwuY6sRcK6WYHM76ifCWUNeHeeirJkfIP5tYmZa64Kwn4aZQ==;WMHvHePj+TVRBtdd0+5bLQ=="

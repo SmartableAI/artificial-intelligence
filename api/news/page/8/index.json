@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
-      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
-      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
-      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
-          "width": 620,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
-      "publishedDateTime": "2020-11-17T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
       "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
       "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
@@ -1166,6 +1123,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-deep-learning-market-focus-on-medical-image-processing-2020-2030.md",
+      "title": "Deep Learning Market: Focus on Medical Image Processing, 2020-2030",
+      "excerpt": "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "publishedDateTime": "2020-11-17T01:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
       ]
     }
   ],

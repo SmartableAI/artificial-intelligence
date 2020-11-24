@@ -1,0 +1,102 @@
+---
+category: news
+title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
+excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
+publishedDateTime: 2020-11-24T05:03:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+type: article
+quality: 29
+heat: -1
+published: false
+
+provider:
+  name: EurekAlert!
+  domain: eurekalert.org
+
+topics:
+  - AI
+
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
+    width: 720
+    height: 540
+    isCached: true
+
+related:
+  - title: "Automating business processes with machine learning in the COVID-19 pandemic"
+    excerpt: "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning"
+    publishedDateTime: 2020-11-20T00:56:12Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 88
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
+        width: 1260
+        height: 630
+        isCached: true
+  - title: "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge"
+    excerpt: "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data"
+    publishedDateTime: 2020-11-21T01:15:00Z
+    webUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/"
+    ampWebUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+    cdnAmpWebUrl: "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+    type: article
+    provider:
+      name: Direct Relief
+      domain: directrelief.org
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1"
+        width: 1024
+        height: 574
+        isCached: true
+  - title: "To combat COVID-19 ‘infodemic’ on Twitter with machine learning, Novetta taps AWS"
+    excerpt: "Decision-makers and activists combatting misinformation about COVID-19, which Novetta calls the “infodemic,” need better information about what people believe about the pandemic. Twitter has become an excellent resource to harvest such information,"
+    publishedDateTime: 2020-11-21T01:31:00Z
+    webUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
+        width: 1920
+        height: 1200
+        isCached: true
+  - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
+    excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."
+    publishedDateTime: 2020-11-22T12:34:00Z
+    webUrl: "https://www.analyticsinsight.net/top-new-covid-influenced-ai-and-machine-learning-trends/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 33
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
+        width: 1285
+        height: 722
+        isCached: true
+  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
+    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
+    publishedDateTime: 2020-11-22T04:57:00Z
+    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 12
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
+        width: 640
+        height: 480
+        isCached: true
+
+secured: "XWyZcp9IKSIUw5w5Qy9kJ9evjXkvTkzjjfIhe9jNb5fMk6fBe579bOUc3o0KZot2m2oqS0gBJhcNIqTHyfksbYx5vF8e8Y6Kh9qL5Had9suLVm5/wxOAcYDC0gjY0YBVcmyTeotZ2ku4+Xj2xiiKeGaigRXzao/+aSKbEZlWtPIG+NBPxV8/7AdhF09MEFMe08JuZmX5nXYVqAEPds6wVLVDVKnxLX8EjqCxDHfFPCyec2BAKC2w9FWQcGTgzjf3HdvA8vCfhkIMRo2xHdcP2baEmtzs2uMgi1dMoLD0xq191yemXouo07/5llt4u7lXq5u4SzbB63sJnp3KS6kYYpZj9GpXYMuvrCoBdezSbPY=;HhDl+uOrCbvA6mziRC5dsw=="
+---
+

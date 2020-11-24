@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/building-natural-con
 webUrl: "https://aws.amazon.com/blogs/machine-learning/building-natural-conversation-flows-using-context-management-in-amazon-lex/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

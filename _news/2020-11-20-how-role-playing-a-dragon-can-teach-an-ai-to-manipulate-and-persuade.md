@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2020/11/20/1012400/games-role-playi
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: MIT Technology Review
@@ -28,21 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "To Teach an AI to Pursue Goals, Scientists Made It Play an RPG"
-    excerpt: "In order to train AI to use language with intent, scientists from Facebook and the Georgia Institute of Technology dropped an algorithm into the middle of a roleplaying game, MIT Technology Review reports."
-    publishedDateTime: 2020-11-21T15:47:00Z
-    webUrl: "https://futurism.com/the-byte/ai-goals-rpg"
-    ampWebUrl: "https://futurism.com/ai-goals-rpg/amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/ai-goals-rpg/amp"
+  - title: "How everyone can play a role in defining the future of AI and robotics"
+    excerpt: "At the Bengaluru Tech Summit 2020, experts said that collaboration between academia and industry is important for creating AI and robotics innovations."
+    publishedDateTime: 2020-11-20T16:15:00Z
+    webUrl: "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart"
+    ampWebUrl: "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
+      name: Your Story
+      domain: yourstory.com
+    quality: 89
     images:
-      - url: "https://wp-assets.futurism.com/2020/11/ai-play-rpg-learn-pursue-goals-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://images.yourstory.com/cs/2/70651a302d6d11e9aa979329348d4c3e/Imagenxvc-1605888848586.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "aws4z58GKfbKXxePs1T/WyNfqixciCSDl2o9giECGt3p1ZQyhAzLc9pAUdKjI5j5sxKCKmw+iF5SiZ+gnm33DMSS+zcnbFIVvwxDXzukffwFeFP7UkC3VPgMdvdzDtCilZvSySGy9OYNR1cJKqrBAWRnp1sSWamnaMpCoJHaNuyQGr1XTKilGGBsCTBZMhtLWIdfbdRZprbAONPnDSdmNWiwWYQ69+NIYhUdtN+XK/cJaOpqsXMDRdvHxxn0K25J9OcQvnpIXTxaN9L1947K3gJoovBjH4s+BW86vQoq0Cn/g7mEatBpbloj252SltcwXPqpZ1OikqD34F9U9cTScEyEcF8qQGYiVVV0ZzFMkhuUsJfPyvWHfvI9R93LxwjMUZOpFQgeM5d4Vs+FlO8fcKs5P1VGS1AgVAHVZ8ZVit6pS9ZJFGBV2ArUNEXm3ebSGwvmadtsKIX++p1mtWLJ9EjWk9kAcAoanyAdq+H6eqSIkUtrcZznlAJqlvAcnLzAwMBpaozbDjy+2qPc6XYLRQ==;888XFGGWpbAP4N5mE5sg/w=="

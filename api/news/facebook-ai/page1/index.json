@@ -2,50 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-20-how-role-playing-a-dragon-can-teach-an-ai-to-manipulate-and-persuade.md",
-      "title": "How role-playing a dragon can teach an AI to manipulate and persuade",
-      "excerpt": "An AI that completes quests in a text-based adventure game by talking to the characters has learned not only how to do things, but how to get others to do things for it. The system is a step towards machines that can use language as a way to achieve their goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
-      "originalUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/20/1012400/games-role-playing-teach-ai-nlp-language-tool-chatbots-facebook/amp/",
-      "publishedDateTime": "2020-11-20T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown.md",
       "title": "Facebook says AI has fueled a hate speech crackdown",
       "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
@@ -102,11 +58,11 @@
       "title": "3 rising AI/ML startups from South Korea",
       "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
       "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663546",
-      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663546",
+      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663462",
+      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663462",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1499,6 +1455,59 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies.md",
+      "title": "Access Now resigns from Partnership on AI due to lack of change among tech companies",
+      "excerpt": "More than two years after its founding, PAI began to engage with specific policy and AI ethics issues such as advocating that governments create special visas for AI researchers. PAI also opposed ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/09/partnership-on-ai.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/access-now-resigns-from-partnership-on-ai-due-to-lack-of-change-among-tech-companies/amp/",
+      "publishedDateTime": "2020-10-14T16:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI",
         "Facebook AI"
       ]
