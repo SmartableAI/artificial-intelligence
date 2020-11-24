@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Impacts of COVID-19 on the Global Automatic Content Recognition Market Report Research Industry 2020"
-    excerpt: "Nov (MarketResearch.biz via Comtex) -- “The Impacts of COVID-19 on the Automatic Content Recognition Market Report Research Industry – 2020″"
-    publishedDateTime: 2020-11-19T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impacts-of-covid-19-on-the-global-automatic-content-recognition-market-report-research-industry-2020-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Eor6U9ibmYP6IsumOOthRl+ZVyRh4WizvYVs9gh/erDBAp64tmeaApKxhO0Ra/TNWjBQr1HVIWMT7kXIaikiCE6fHQLsIay8+b+z3WPeliTlKyNgsJLiD0GO83pOv4P0krovSYT9MO97Dotak4BtBISVTY+YPaUfYJt8Z/WuHGGS9X2Bp7I0ssgiLUxmYVyONO0kVPYBw8PJmGv4g6921bSQrKv0uhuF3O+Ik2YA3el1MzbWwSonFcWVVpSwgjJmWnowENoxAtAAMWEJPyL4RbRpNJjYfUQ+nsFFiyegJwz21ReExzcxJeczKv8tJcoSaERjLGolgbiFr0bsgQnVXzzyrtxfpoxK0KE8DQY8Rp1vH06pftmh9GAgur/Tvbp8ZlAV9a07xj6mQkrHpg3aW+ZGzkAFZpS/7hvAvpi+ZqwShd5/kq22r0PybGpDpOAe3n6jD0v2pSExcCXfPFJQ6seZ6RRSKaAa/EXu/VRauGXgYdD8j+F+xugahHyQNwZxCpSBelDSsYgnr6aWvJkVdw==;P+XGo6RaxVUroU4q/HRhPQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theverge.com/platform/amp/2020/11/19/21575139/facebook-m
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/19/21575139/facebook-moderation-ai-hate-speech"
 type: article
 quality: 89
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -156,20 +156,6 @@ related:
       - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Facebook & Its Tumultuous Relationship With AI-Based Content Moderation"
-    excerpt: "We track down some of the major efforts of Facebook for AI based moderation in the past and how it has fared in tackling the issue."
-    publishedDateTime: 2020-11-19T11:32:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-its-tumultuous-relationship-with-ai-based-content-moderation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Facebook_AIM.jpg"
-        width: 1600
-        height: 1200
         isCached: true
   - title: "Facebook says upgraded AI models spot nearly 95% of hate speech it removes"
     excerpt: "Facebook Inc. removed 22.1 million pieces of hate speech content on its namesake social network in the third quarter, 94.7% of which was detected automatically by artificial intelligence models. The company shared the figures in the latest edition of its Community Standards Enforcement Report that was published today."

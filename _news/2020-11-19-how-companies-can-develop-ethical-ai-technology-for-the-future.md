@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/1
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2020/11/18125803/Richard-Walsh-head-of-memory-marketing-Samsung-Semiconductor-Europe.png"
         width: 1937
         height: 1036
+        isCached: true
+  - title: "How AI technology is capable of changing the world for good"
+    excerpt: "Artificial Intelligence (AI) is already being widely used in a wide number of industry sectors and consumer-facing businesses - we might just not realise it yet or the extent to which our day-to-day lives already benefit."
+    publishedDateTime: 2020-11-24T04:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-technology-capable-changing-world-good-tim-bennett/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGg6cCZ8Rne8A/article-cover_image-shrink_600_2000/0/1604448036281?e=1611792000&v=beta&t=2hZkY6xD6NAppNlU1gzdGF4P1S7mqJ9qZcJoKpRkwUY"
+        width: 744
+        height: 400
         isCached: true
 
 secured: "e4jjAHo4T1Sx8/5dObQKrFwA3IwB8F8/0/dWBTILK5UhlqVoFCzMP0E8VIeWcea7oK/ryKNkhWJ4UgExylSYlSIAsFtrTwRQfK68BlVugjT6cHCghFMgQAZCVt7FlgCHFUIw/JqV4/PNttrzG2EDCDpO4Rb1qBj6uBKtw19CNkFG7KPOqsba+vttNGz93W6oexr+xim23YTjIrobIZRH1wpGWnxf0uKqu5oCYrvkbWwS94F0c/cYXIwfK5m78LQynwrtWOALaBjogrsTTPU2lunWAFa/VpdghB2IbvkgyS74uPlFfsyAS2qfPtZSf364Gi/tjxHubcZOLzEMOA6p0euto4PC9uIfjE1NTyjhzIl5JrVYIPOzNbcTbF/RrGXjgyLFfnwE+jd9DA5+BWMIVzPyvMRqcwVwh0eqmlkx8fVpcLUR6D8MNuIhgJBB7FxG85CEDqndcHGFWS48j/lhBw5gb/RwsxZ0WhrHXog+Mw07AdYYnDxNlKJ5q7aexo5mDy1YzB1U/5ZC540KvbSrPA==;zB3cgdmHnRIGQJjoU1X0eg=="

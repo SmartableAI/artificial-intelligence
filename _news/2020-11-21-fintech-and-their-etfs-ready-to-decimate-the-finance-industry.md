@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-deci
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
 type: article
 quality: 69
-heat: 169
+heat: 159
 published: true
 
 provider:
@@ -154,15 +154,6 @@ related:
         width: 792
         height: 266
         isCached: true
-  - title: "Global AI in Fintech Market Latest Innovations, Drivers and Industry Status 2020 to 2025"
-    excerpt: "Here’s a recently issued report titled Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a brief analysis of the market size, demand, supply chain, futuristic trends,"
-    publishedDateTime: 2020-11-19T12:25:00Z
-    webUrl: "https://ipsnews.net/business/2020/11/19/global-ai-in-fintech-market-latest-innovations-drivers-and-industry-status-2020-to-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 10
 
 secured: "sIS9I9Mu7lxl0dYybuFrpGjSm+iyFi1rFKFL1lcIaStMhFeCc6UTpIAqsA05ReCFq2n+6CBh6TcfJEW2f/Kafnx2b30NkXXti5rfmzdypUbkP7SLFHcV+ZqB3Y6R1ccEdsEClPSY10G/6iwZ/q2UomdF1TUV6u5g65wR4ADhx/zCH2XYyL4VFlHc07Ym/Wka8cEdG5mfWaJvgqVYemPDFUTmZrqVbiduRo6s3FgOupkrzwMWGsR6wie2VGqGTrKbenRtXysm+Md/SOftEMvazuLYoEQVmg/mt9lN7jFQkbGIJqvtrpkOn1SKM39GP5NLs6lBfPobUQ7bUymkFwqfIAGDlaFduUWwTUksszakfXumqy9MNitVnqrrdkTEGoIEZzmEYVvbAeP6QCuCKUqX8VLu9SpbPFvNn+qKXQYxbr25XOkuhGj/L+KGAiZVHeF6HLhsMqcFZ4sdorv0mKFaq5JdkbLbP3YEuTsjgWj/eTGPd5TqJaxNNNbuauq2SOAUy3G4ytEo1ayKFBb+USARZg==;eySY3limRYT8GhMa3vYmcg=="
 ---

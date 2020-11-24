@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-your-mac
 webUrl: "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/"
 type: article
 quality: 114
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 800
     height: 407
     isCached: true
-
-related:
-  - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
-    excerpt: "Moovly Media Inc. is pleased to announce added functionality to Moovly's popular video creation platform through access to leading AI driven transcription and translation systems. Through the integration of Amazon Transcribe and the Google Neural Machine Translation engine,"
-    publishedDateTime: 2020-11-19T13:00:00Z
-    webUrl: "https://www.nasdaq.com/press-release/moovly-media-announces-integration-of-amazon-transcribe-and-google-translations-ai"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 52
 
 secured: "185DsrJgMsAx38OmlVvPhksMsuX/va8d8vsQ+SHpLsaS4438z/sdxs1lJgC17davcdxYxQuSL8P8+tS6+6ftACV5Wq9lXsNyfuLtBh3jrMcmk5qUzR2mYlO6GifCMSDiZ5GPHRwods4+mLNxsvkDBlSDPrWxPEDBAGte19p4nMOD2MNSOcIEGEpZkcxe2vu2UD8498dOLbUCTgpv6JbXotANB02+NPvLigcOcGjCPgigYlZmJjqOso3yxPdqEF2QSDpElOQ+wsugriGI6XQb+wqXM791e2UODjjTjBPqx+SouJlKXwOPDkuIP1xJAOl0e3oi7zjXOCG4z2NHsHt+og2AIUp2COv7mXppeDsNGMk=;fiL2PgEVVamPA/8D+0VNGg=="
 ---

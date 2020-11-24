@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box"
-excerpt: "NVIDIA today announced the NVIDIA DGX Station (TM) A100 -- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
+excerpt: "SC20--NVIDIA today announced the NVIDIADGX Station (TM) A100-- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
 publishedDateTime: 2020-11-16T14:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16"
+originalUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "N9MZg+/0XOXan91OghDRBuIsJ8zu2VrIXpMzWYO+3MhMYyY5RSKjROg4OeQjNPSFXS2/58pWMJAuJTUPE6zAPU7saLym+IIU6bQdiRmBteomxiBYoV40hoarzUrzIRhlCuB++vmBy4/D/zMnUw4qvVl1Qjuu+d32PKCqmUtTb/JNwiw2mXZgR1+rm1S0A85Orr4AIdGokUfgmW/EqM4X0Br0wbMKro+wMbC4mcFGbnun8NTi5MeNWMQVRqF1mWZhRq5skSl47OLDeO7INtRLXkuIxQ5n+3s1JeSLbZmdQzx8XSpDr4s0ABoT/bfGm3y5neqcoMaLWXqMllMI9i7tWb6ORE0RjcbguEPr33KUJUE=;+UzWIxQmLcAVIXConvs2GA=="
+secured: "vBEOadsd6AVMLheUmwzWUAal70n/HPwev8Ypb1IDF/VBEIrEVN9xwSMEg2nSuIvnyA5NKYPVhWd/6S2FmOBaRWeVklhyuWonBHyJPgdAmhqt+sR3jQhxi1LhAd3LoFWEvdm2PMNzl6DQB0BRzK41LsBEGRtZ/njBNREHrBogRyEdzv/ITz4X7LzPoSew8W4TOg0Ft5D+ee1IyCgSctv8P2JVb7bkRJb5d+I/GtxnfkMT62pGPev/74NnqUoYUEkRxLHCJqTrtamkRxRzQQaqI90gq++MtEMKEK2SE/BqIPUrqXHx03biCzulGCTGkbn1Wu9cPQn/Una+KJX2brMmbOcJDIObVqbIZab6l/e6JPI=;8aZCC/oi20YNM7uczhpQoQ=="
 ---
 

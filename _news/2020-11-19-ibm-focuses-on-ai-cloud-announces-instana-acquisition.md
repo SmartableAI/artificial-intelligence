@@ -35,6 +35,20 @@ related:
         width: 1836
         height: 2461
         isCached: true
+  - title: "Interview with an AI - Insights into Education, Technology, Health, Innovation and Climate Change"
+    excerpt: "As part of my research into AI and machine learning, I am formulating the core principles that contribute to the foundation of my future product offering for digital business development that I believe organisations should embrace as we advance into the \"Information Learning Age\"."
+    publishedDateTime: 2020-11-21T00:00:00Z
+    webUrl: "https://www.linkedin.com/pulse/interview-ai-insights-education-technology-health-climate-bennett"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 41
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEARIAApn2yyw/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=hxKq20SHLo4KEI0GaS8kByJmOu8YBox0XktmM-_Si3E"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "IBM Buys APM Startup Instana To Boost AI Automation"
     excerpt: "IBM acquires application performance monitoring startup Instana to boost its AI capabilities including IBM Watson AIOps."
     publishedDateTime: 2020-11-19T18:02:00Z
@@ -85,20 +99,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 31
-  - title: "IBM acquires cloud app monitoring service Instana"
-    excerpt: "The newly acquired tech will be used to free up IT teams and automate application monitoring across services like Watson AIOps"
-    publishedDateTime: 2020-11-19T11:47:00Z
-    webUrl: "https://www.cloudpro.co.uk/cloud-essentials/public-cloud/8846/ibm-acquires-cloud-app-monitoring-service-instana"
-    type: article
-    provider:
-      name: Cloud Pro
-      domain: cloudpro.co.uk
-    quality: 24
-    images:
-      - url: "https://cdn1.cloudpro.co.uk/sites/cloudprod7/files/2020/11/ibmthroughleaves_shutterstock.jpg"
-        width: 1000
-        height: 637
-        isCached: true
   - title: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     excerpt: "Moovly Media Announces Integration of Amazon Transcribe and Google Translation's AI Systems into Popular Video Creation Platform"
     publishedDateTime: 2020-11-19T19:33:00Z

@@ -57,6 +57,20 @@ related:
         width: 1937
         height: 1036
         isCached: true
+  - title: "How AI technology is capable of changing the world for good"
+    excerpt: "Artificial Intelligence (AI) is already being widely used in a wide number of industry sectors and consumer-facing businesses - we might just not realise it yet or the extent to which our day-to-day lives already benefit."
+    publishedDateTime: 2020-11-24T04:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-technology-capable-changing-world-good-tim-bennett/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGg6cCZ8Rne8A/article-cover_image-shrink_600_2000/0/1604448036281?e=1611792000&v=beta&t=2hZkY6xD6NAppNlU1gzdGF4P1S7mqJ9qZcJoKpRkwUY"
+        width: 744
+        height: 400
+        isCached: true
 
 secured: "NZhtEAEl88SawD5t6TNZcpzQjVgSxM5I9qtT/CSZGV504JbBopc4JIceup0036ye5lyCrZ/8ssmZ4mFn4X8JdwKqGwHVMo3yEGpaqztPHcl1oPRxdbQMpvowNqjHPuQGZtWC1gvRLScWRSj9MGyiTTmDvF69Pc0SI0NKFiTStvzz4tUrUj9xms3giB117NtCWW0jmNI25OK2g3utpf3j0vVhK213L1GTH0BE6FSbrP5UvsNDkYjSny9yTiyRoHR8tk0U6lLpelQzsQWL3kI8Y+LLjAjNfLBxI2aU4wZeO0amBmJzruaVcqLI4U53FCJaXp083is45/q/6iidIlLoN4TTFfD6FIk6VFrg1l2YN5uYC+AAdbDQAfUX0JIEcSKGX4pdqBdys/yyTXbYM6lAKSb9xTy1AhfR76n9ZMlSouKCbW/QF+mIdhO4bS22ccym/WPOBHTiltuyvxd9V+qhr0WAL2CIzqtUvV5lT7PwuY6sRcK6WYHM76ifCWUNeHeeirJkfIP5tYmZa64Kwn4aZQ==;WMHvHePj+TVRBtdd0+5bLQ=="
 ---

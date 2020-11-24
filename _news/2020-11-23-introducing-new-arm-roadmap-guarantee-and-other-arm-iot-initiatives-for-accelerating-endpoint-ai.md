@@ -41,15 +41,20 @@ related:
         width: 600
         height: 334
         isCached: true
-  - title: "Introducing new Arm roadmap guarantee and other Arm IoT initiatives for accelerating endpoint AI"
-    excerpt: "Putting endpoint AI in everyone's hands It's expected that endpoint AI (IoT endpoint devices locally processing data into actionable insights) will accelerate the value generated from IoT and drive adoption."
-    publishedDateTime: 2020-11-19T11:17:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20201119/3660605.html"
+  - title: "Researchers bring deep learning to IoT devices"
+    excerpt: "MIT researchers have developed a system that could bring deep learning neural networks to a variety of objects that constitute the IoT."
+    publishedDateTime: 2020-11-24T04:08:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/24/deep-learning-iot-devices/"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 6
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/11/09095727/iot.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "eNZwyFn6NNcfVF6CGEw3gDF2w9VMyFNy4hjz31R+E8kIZSJ7NbRUF19YkvloRT9Zu/S4RbKP1LKjHDboJWanH9rghylFeSgkofq09zp814hXzgLPKDfVGaPY7+B4+ODLIJnojTMxhaAetXfzl8cKNO/WUJfjTB7HAiAuX96ZqhLnSUPjB/jMKb1moSf6n8LowcSep3rvGVf2HPm3/6tDFIotKB3ZtxNzGubYQOjL7qsTzJSRefWF8R0/4p75gErq71qJbzMubS21B+UOho59n9HSLEHkBp3uGmBcs6SAiD5NwmbjAc9SK3KaerCwxUC6hwQs2BDx56ngJNNGMHMl2xkS1ael4bclBWkflXhqgKg=;BMCXYjk4eS7VmvGgcpURLQ=="
 ---

@@ -25,30 +25,33 @@ images:
     isCached: true
 
 related:
-  - title: "Mythic launches industry-first AI analog matrix processor"
-    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,"
-    publishedDateTime: 2020-11-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+  - title: "Wemlo introduces AI to mortgage processing"
+    excerpt: "PRNewswire/ -- wemloSM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new"
+    publishedDateTime: 2020-11-20T15:10:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/wemlo-introduces-ai-to-mortgage-processing-301178147.html"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "How will artificial intelligence affect the lending industry?"
-    excerpt: "In the US alone, the lending industry a has combined annual revenue of $36.5 Billion. This shows just how stakeholders in the industry should be in adapting new trends that will benefit them. Technology has grown over the years,"
-    publishedDateTime: 2020-11-22T03:00:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/267044612/how-will-artificial-intelligence-affect-the-lending-industry"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
+      name: PR Newswire
+      domain: prnewswire.com
     quality: 39
     images:
-      - url: "https://cdn.bignewsnetwork.com/frc1605965832.jpg"
-        width: 630
-        height: 420
+      - url: "https://mma.prnewswire.com/media/1339877/Wemlo_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
+  - title: "Wemlo introduces AI to mortgage processing"
+    excerpt: "PRNewswire/ -- wemlo SM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new technology logic and intelligence behind the wemlo platform."
+    publishedDateTime: 2020-11-20T16:11:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-consumer-banking-38822e67ef4e8ea494743f551080e0ea"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "F94Yzj3sftuzYvBaDjVgFf4HXs16BO1tcB+o5GrcYoMCkvnNCg1zzOPNSlf3GdIQ3qI4jdhhZVbz7t/uuk5A7wYcGKFvpb7snprAT049RFRgC5bNnIjN4YEmH5Bb7ttZoDb6EN7dE+ReWtiQLJYQQv6OSTnlJyl7f+15RghO6oL0UiELZnD2Gv/FHY1vzDO9H42m3Zh5/x6UFqXHwLLCMYixZaZpTzvLDAIXFULdASjJddwxgnRExYxRTG22ysJFQ5sMkpl3GNmi+YorrHfBIerjg0d9nrJPCE7QLK0Td2SiL7YjHqpH22uD0ERQwkdH8Ne6Z3s6q7xTyjnXBL0JgKL4DmjioMSqK17FSMX7wUz/XQMpWBHY8b020EvANiA5HWXZKxepvGo8iZZj4i/fw8DDcukj33tujwDphkznOAmdIFnSIQydHLJPddvFehB3nMDiG+DNZlukYto8D8kMVRghbiN30uehCE7W92KrXljCFXrgO5m2zY4UEBVOGNkajbAeihytZkpVmp3fsrcJsQ==;Sm/IPuLqgK6kLW1D0CkJTg=="

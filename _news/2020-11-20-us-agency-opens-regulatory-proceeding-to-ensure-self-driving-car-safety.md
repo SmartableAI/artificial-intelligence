@@ -119,6 +119,15 @@ related:
       name: Engineering360 News
       domain: globalspec.com
     quality: 4
+  - title: "The world's longest indoor test track for self-driving vehicles"
+    excerpt: "AstaZero is now building the world's longest indoor track for testing self-driving vehicles. AstaZero is the leading test bed for the automated transport systems of the future. With the new indoor track,"
+    publishedDateTime: 2020-11-23T13:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=379223"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 4
 
 secured: "wzdItFvMCjQLGmh1XHpKE+y7WcYnVyUD+ZQFLb3T/O48E695g4YbwkdWNiY6CXlUw29QOh++nNn7ArjKtXY9yX5yeXIJMcBBZd5dfsKcfPShemKitmrrehlRuck5h1dh4YaA7jbT+uBL7yVfjGSSTS66W7ybF1EgU0EAzJJxZrcKyF1XBKesmUv7vPtztRx4LoMbSwjCMM7jzZtKqOMatxw2UNno1LLaEygijK1Psv/Gc1oCPU9MoIlbkTy7CGA5I1RvLlBFOQg0dp70JH52eojBWc539erhxNnWxQoGj9ltwgm9Psx60BL0v5/bVXBSGtZYmS8Te8FHGq/K6T9kVqp4NJq7AcefNA1F4fN6ZuUCROYcs19ExIQD5+AFJ1hvoLWBN1TTC5/FKk4Y7Tv6F1ga3yQcxKU1Tjo+q3KogGawFT6fP+aRctq7Xpj/O6nvRhifwAlN+ZUtob/JwXAdeEvlI+TY5mAoNgl1wKn/CVoFgmNfH3Kceay4JQi41/bZAplK4GColhT7WboLNzIc/A==;F2uAAWCsVxyRHL0lbIdcPg=="
 ---

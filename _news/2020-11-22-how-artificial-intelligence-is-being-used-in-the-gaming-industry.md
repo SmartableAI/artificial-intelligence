@@ -44,6 +44,20 @@ related:
         width: 850
         height: 400
         isCached: true
+  - title: "How will artificial intelligence affect the lending industry?"
+    excerpt: "In the US alone, the lending industry a has combined annual revenue of $36.5 Billion. This shows just how stakeholders in the industry should be in adapting new trends that will benefit them. Technology has grown over the years,"
+    publishedDateTime: 2020-11-22T03:00:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267044612/how-will-artificial-intelligence-affect-the-lending-industry"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/frc1605965832.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "sxn+LhQ+k3/SvhhVpYLZqUeCRcOXucBKRXZSb+raP3FBOCFtlNAovUetwjgN+0zWTKQDjH8fpoHEvZIO0JWjP9fHasNSJUWWhjlC03iDU9mqbIjyGgTTf1qqV3gk3sKnKx0UmFUyISc4YWOhkYr34ZMcW7/taRtH5fwyyD6ymtq6iUpSzThg0phS8+cJW1/Bz2XYmz2cmVLVDkwbbTZShAlt+sW/ahfn/o4PtevFlpBKW1GPLYAj3uE752U9MCnR0BMYmFEPj1ujPNkBdCqsTTakQ/sf/NqAJJBGXrJHii0vSPM76xhWvhx1BEVtkLfFM9DlZxhxmAhcr9zFJVz6VMMgfqsU2m1ErPp5sQJ8mdgSThD4x2G6PGSiLgVP83+ZKufY+3cOLcewVwUMy6oRLy1ePOFoeudjoKTmlg64ZDxx8p2A082UX+UA5U6uH+Tecyn1lgFRmMuLjKMuluRKUdv3veTLbQ+9dmFd9PxN4VHAwjvZgW9AiOvNHUKLV2lFsOVZMdHg3VUTRmOBS9Bnpg==;zdIoOkzxkgEL87dX41040Q=="
 ---

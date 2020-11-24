@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Researchers bring deep learning to IoT devices"
+    excerpt: "MIT researchers have developed a system that could bring deep learning neural networks to a variety of objects that constitute the IoT."
+    publishedDateTime: 2020-11-24T04:08:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/24/deep-learning-iot-devices/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/11/09095727/iot.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Introducing new Arm Roadmap Guarantee and other Arm IoT initiatives for accelerating Endpoint AI"
     excerpt: "That is why it’s an incredible opportunity to step into the role of leading Arm’s IoT business and work with our ecosystem to continue harnessing and unleashing the potential of this market. Arm is in a unique position to drive the innovation and adoption of IoT everywhere,"
     publishedDateTime: 2020-11-23T00:18:00Z
@@ -45,15 +59,6 @@ related:
         width: 700
         height: 320
         isCached: true
-  - title: "Introducing new Arm roadmap guarantee and other Arm IoT initiatives for accelerating endpoint AI"
-    excerpt: "Putting endpoint AI in everyone's hands It's expected that endpoint AI (IoT endpoint devices locally processing data into actionable insights) will accelerate the value generated from IoT and drive adoption."
-    publishedDateTime: 2020-11-19T11:17:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Business/20201119/3660605.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 6
 
 secured: "aDWAKetEep19Q4recLVdFaoIilZ5IVKyiSY9nz4UGcYL1HXNnY9vzkYjLv4w40EOKOgVXRxSdbC0bFsimJTtwQufsktJrNv3t1/KxktTe4WGUXaPL/WmehibMmjH06P9PU8JrmrGUgUdCZzo0aEmOsB3HmRML6TV3hrMp3zLCzriap2+mAK4jVIBb4Dknc3rG+hYzbQ0R3joHUXKAuNFAsS2ydePMNITDQ7IEiqcbHDb/ujR83kuMehvUuJm4j2OZx3JOmesue7SaRSJpRqrgllOT7c2bZ5K+LbRUf9cVqpYeVo+zfRuAtJs3aF5C/7t7YRWmrXpVXlAQmwAyYWLoITKD12S2tkbC+o8PApjytk=;cf8i5mtnEXDXsLxj9BzTkQ=="
 ---

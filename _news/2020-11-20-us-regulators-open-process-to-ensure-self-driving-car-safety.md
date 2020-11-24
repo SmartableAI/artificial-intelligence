@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -53,6 +53,17 @@ related:
     webUrl: "https://www.law360.com/articles/1330761/nhtsa-seeks-input-on-self-driving-car-safety-rules"
     ampWebUrl: "https://www.law360.com/amp/articles/1330761"
     cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1330761"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
+  - title: "NHTSA Eyes New Self-Driving Car Regulatory Framework"
+    excerpt: "The U.S. Department of Transportation has signaled that it may eventually adopt new safety standards for vehicles with automated driving systems, taking a big step that could boost development of passenger-carrying autonomous vehicles while ensuring that new technologies still undergo sharp scrutiny."
+    publishedDateTime: 2020-11-24T03:41:00Z
+    webUrl: "https://www.law360.com/articles/1331573/nhtsa-eyes-new-self-driving-car-regulatory-framework"
+    ampWebUrl: "https://www.law360.com/amp/articles/1331573"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1331573"
     type: article
     provider:
       name: Law360

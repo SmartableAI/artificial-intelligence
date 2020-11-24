@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recogn
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
         width: 1000
         height: 668
-        isCached: true
-  - title: "Wrongful arrest exposes racial bias in facial recognition technology"
-    excerpt: "Detroit police defend the system, even though the police chief once said technology alone may misidentify people 96% of the time."
-    publishedDateTime: 2020-11-19T12:00:00Z
-    webUrl: "https://www.cbsnews.com/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/07d3d65a-fe56-4311-8a0b-38d42b352641/thumbnail/1200x630g6/d46cd602dc62d704f9da5ff7f20af4e6/detroit-police-surveillance-monitors.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
     excerpt: "Houston is the only U.S. city to have two airports (Bush Intercontinental and William P. Hobby) equipped with facial comparison technology at international arrivals checkpoints. If a passenger cannot be matched to a photo on record, the CBP officer will ..."

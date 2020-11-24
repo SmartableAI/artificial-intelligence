@@ -7,7 +7,7 @@ originalUrl: "https://investingnews.com/news/oil-and-gas-investing/sustainco-inc
 webUrl: "https://investingnews.com/news/oil-and-gas-investing/sustainco-inc.enters-into-agreement-for-proprietary-face-and-temperature-recognition-software-tech/"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,28 @@ images:
     width: 300
     height: 300
     isCached: true
+
+related:
+  - title: "Tencent Cloud introduces one-stop AI Transfy speech recognition solution, delivering high-quality conferencing experience to international customers"
+    excerpt: "The solution's outstanding features were championed at Interspeech 2020's Far-Field Speaker Verification Challenge special session in"
+    publishedDateTime: 2020-11-24T04:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Gnani.ai Launches Mandarin to English Integrated Speech Solution for Indian Defence"
+    excerpt: "Gnani.ai, a global frontrunner in Conversational AI today announced the launch of a new integrated Speech Recognition based solution for the Indian defence establishment."
+    publishedDateTime: 2020-11-24T04:35:00Z
+    webUrl: "https://www.businesswireindia.com/gnaniai-launches-mandarin-to-english-integrated-speech-solution-for-indian-defence-70507.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 13
 
 secured: "FWFK87gee3fxMVdBPor8lphXpNQk3q5vhHAzeB6tAHVjy1iY7ZpyEZr3wVmFYE4Ez+lHLIwGgY5R9aHBzs+mFUrBOI3pLQQWl6tfgNPEPae307udPObkwt1FZw4S84xoFuZilxYno/orMgWsi3skP8Pt41dl5G66PcB6XTxRzZCvg6Ohwn2stTY0xJpPi7+Snrz8H9NhZP4qyBNYz9bA597+Dx2Oq0/499pnjK7wgTgcge10b56PWLcggdSDi6Z0UE6L6tZcOFlqxZs4Q0onlAiuR7HVhaNYkCbzh0s6Z7AcdSy3G5ub+6D+nBH2L6WHiCR1/xoVudP1PKDopPCppIvpDbduBMEBkCPU60lQAM0=;doXkwNtMsRkiBs/uT69BzQ=="
 ---

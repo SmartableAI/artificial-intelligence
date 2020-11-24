@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/19/self-driving-cars-are-subject-to-being-towed-just-like-the-rest-of-us/amp/"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
     provider:
       name: Engineering360 News
       domain: globalspec.com
+    quality: 4
+  - title: "The world's longest indoor test track for self-driving vehicles"
+    excerpt: "AstaZero is now building the world's longest indoor track for testing self-driving vehicles. AstaZero is the leading test bed for the automated transport systems of the future. With the new indoor track,"
+    publishedDateTime: 2020-11-23T13:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=379223"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
     quality: 4
 
 secured: "0ccCFeCCmv7DIRBxBWg5Cj9RNZnUZ2xK1s1K5SLXpX52FFQ1NqLAlIJ11nEmcwrEk6KiU1ETyntDGcLRFsruY5pAg8fmFxKAkN38w8hxt5YXJXHdKowZLc4JNPI/b+vxe3ePk0JgZBKKlwq8pigrM8sGjb5miLptJGC9ms2eeg42M9f/wa9waFA6fJzfw8cII4Rb/NMp5ssgwRjafbkn8kif8IkUbSvxtdLaFgxwOTlq1B1x47yIPW5grK0PyVXWz2anTUH47HeZvY6397IV0PI004IrC94UVkfmg78DhSqXeKYiAUWoWMk+v1vW1sxvDnqI7uY0lqnHXAWfzBTXCCOqR6DZJro9RnZUKCwSex1gy4nFNob79ZftW7r/6/Ty/xBwSIu7RlyGPBTXiq3dOgbg6LrGwg6B1PG5zMyo78RTXH5MaHNelLci5eLjhOmntzI9xvIWrhkg/Qtao1ExJaCXCvGTPxe5NsU0lXB5iFi7/rI3EJtBttxl7gZONoN4Mc2T2JjSjiqofWgEfS4d/A==;SpfU8ftS0CVJ+QhuyMKkmQ=="

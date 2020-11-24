@@ -53,6 +53,17 @@ related:
         width: 1200
         height: 647
         isCached: true
+  - title: "NHTSA Eyes New Self-Driving Car Regulatory Framework"
+    excerpt: "The U.S. Department of Transportation has signaled that it may eventually adopt new safety standards for vehicles with automated driving systems, taking a big step that could boost development of passenger-carrying autonomous vehicles while ensuring that new technologies still undergo sharp scrutiny."
+    publishedDateTime: 2020-11-24T03:41:00Z
+    webUrl: "https://www.law360.com/articles/1331573/nhtsa-eyes-new-self-driving-car-regulatory-framework"
+    ampWebUrl: "https://www.law360.com/amp/articles/1331573"
+    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1331573"
+    type: article
+    provider:
+      name: Law360
+      domain: law360.com
+    quality: 24
 
 secured: "MpROHhF2hQq0OM0R/3Ts3T6FRJriKzHCFnwdGTt1xVUvO+/MN/d/U8G3wEdOcWXhw9se7r/WCBHSwEDczjgwbvfoOiSNZAT0sRw0TVNhJsUHXVKS2I5SVtBuigxbaEKXFXW6tSO1E7FfQh7sNc+3IpFD5ONhoVy165NT9Jw9dvHIxbkOmDOMiKiOX+lqfUUlCq9it7EWnKbXDvCHw4IftZ526MKZB8wgXHDSZ34bc16SlGBkCGPtumVc50OKPje+bbJ/ePzajr4j7SQs9OwkPXv+4mApzyEQ0RncfDQiUH5u7X4baw70fI5tdEwsRzb619nkUwOf2ILH1D3bzq3Bsbe/jrwwMWGBqQfSgXUExQM=;ISstyAs+xvxtk1gixlkyZA=="
 ---

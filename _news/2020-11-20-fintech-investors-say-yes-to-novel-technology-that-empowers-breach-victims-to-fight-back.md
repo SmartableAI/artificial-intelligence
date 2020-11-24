@@ -155,15 +155,6 @@ related:
         width: 300
         height: 300
         isCached: true
-  - title: "Global AI in Fintech Market Latest Innovations, Drivers and Industry Status 2020 to 2025"
-    excerpt: "Here’s a recently issued report titled Global AI in Fintech Market 2020 by Company, Regions, Type and Application, Forecast to 2025 offers a brief analysis of the market size, demand, supply chain, futuristic trends,"
-    publishedDateTime: 2020-11-19T12:25:00Z
-    webUrl: "https://ipsnews.net/business/2020/11/19/global-ai-in-fintech-market-latest-innovations-drivers-and-industry-status-2020-to-2025/"
-    type: article
-    provider:
-      name: Inter Press Service
-      domain: ipsnews.net
-    quality: 10
 
 secured: "gR98czvlQat+PUehkeeX2ChdSqyWo0wTHb1Ik+PCnYLbmc44h+LK91qdNvQcQzuck736fsarzaS1i67TGw7EsmwWUTfT77+IT9ZPsPHjWbyUfPH+8KdVO4O/Dmv6i9acpX32sa585I8AW6JkMqxdw8XiIsfDZvR0olRIzYTgmBqR375xbc6mA3kkZKrDkMgVLIVadHQuJsr6aK+FY2A1HpV9oTWc7fLy6FoTbeyrN2/Q2vTH31xEVfizp1f4nF+h2NbXOPysxq5xy5b8i6d5O74IxBZyPIemg6bjcZSHmtgAL1dTA3/30yuJbSAaDQYUxbuOVta5DOwyWLDevzik6QnwEPAqygW7VesMMpEoEmk=;yrIivIdlLTF2eIdTV4T/9g=="
 ---

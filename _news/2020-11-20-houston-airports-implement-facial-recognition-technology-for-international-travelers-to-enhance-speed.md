@@ -75,22 +75,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Wrongful arrest exposes racial bias in facial recognition technology"
-    excerpt: "Detroit police defend the system, even though the police chief once said technology alone may misidentify people 96% of the time."
-    publishedDateTime: 2020-11-19T12:00:00Z
-    webUrl: "https://www.cbsnews.com/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/detroit-facial-recognition-surveillance-camera-racial-bias-crime/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 59
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/11/17/07d3d65a-fe56-4311-8a0b-38d42b352641/thumbnail/1200x630g6/d46cd602dc62d704f9da5ff7f20af4e6/detroit-police-surveillance-monitors.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
     excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
     publishedDateTime: 2020-11-20T23:58:00Z

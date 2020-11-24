@@ -40,15 +40,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI health predictions startup ClosedLoop raises $11M to expand team"
-    excerpt: "ClosedLoop is also one of seven finalist in the Centers for Medicare and Medicaid Services' Artificial Intelligence Health Outcomes Challenge."
-    publishedDateTime: 2020-11-19T12:51:00Z
-    webUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2020/11/19/health-predictions-startup-raises-11m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 17
   - title: "ClosedLoop.ai Secures $11M Series A Funding to Assist Healthcare Organizations Improve Clinical and Financial Outcomes"
     excerpt: "Healthcare's Data Science Platform raises Series A to help healthcare organizations improve clinical and financial outcomes."
     publishedDateTime: 2020-11-19T13:16:00Z

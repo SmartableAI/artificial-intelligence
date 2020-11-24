@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "BeyondMinds raises $15 million to drive enterprise AI adoption"
-    excerpt: "BeyondMinds, which is developing a platform to facilitate enterprise AI deployments, has raised $15 million in venture capital."
-    publishedDateTime: 2020-11-19T13:02:00Z
-    webUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/"
-    ampWebUrl: "https://venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/beyondminds-raises-15-million-to-drive-enterprise-ai-adoption/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/8-e1605647757610.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Afresh raises $13 million for AI that optimizes grocery supply chains"
     excerpt: "Afresh, a startup developing an AI platform that optimizes grocery supply chains, has raised $13 million in funding."
     publishedDateTime: 2020-11-19T20:00:00Z
@@ -85,48 +69,17 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Israeli Startup BeyondMinds Raises $15M For AI-As-A-Service Solution"
-    excerpt: "BeyondMinds' customer base includes Microsoft, Samsung, KPMG, and leading defense companies and financial institutions."
-    publishedDateTime: 2020-11-23T12:37:00Z
-    webUrl: "https://nocamels.com/2020/11/beyondminds-15m-ai-as-a-service/"
+  - title: "Birmingham AI startup raises $1.7M"
+    excerpt: "Another Birmingham startup has secured a capital raise. AI Metrics, an early-stage company that focuses on artificial intelligence for radiology imaging analysis and reporting, has raised $1.7 million in a seed round."
+    publishedDateTime: 2020-11-19T19:36:00Z
+    webUrl: "https://www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.html"
+    ampWebUrl: "https://www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/birmingham/news/2020/11/19/ai-metrics-scores-seed-round.amp.html"
     type: article
     provider:
-      name: NoCamels - Israeli Innovation News
-      domain: nocamels.com
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 37
-    images:
-      - url: "https://nocamels.com/wp-content/uploads/2020/03/AI.jpg"
-        width: 1495
-        height: 894
-        isCached: true
-  - title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
-    excerpt: "B eyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15 million co-led by leading Israeli venture capital fund Grove Ventures and private investor Marius Nacht."
-    publishedDateTime: 2020-11-20T11:42:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-new-york-corporate-news-israel-4bce3d13e03ce1bb2d7a819050076d07"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
-    excerpt: "BeyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15"
-    publishedDateTime: 2020-11-20T21:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/beyondminds-raises-15m-to-take-on-massive-ai-market-failure-rate-with-production-ready-customizable-enterprise-solutions-301177551.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "M5Z+JAyVMxBGv/F9ZivO9EX3ECqB+c8+mESjAeaSVVhsALxyiTFaHOkWlHYSvYgMnJh1NMl9Jsjamo4KbO5MCL/e1QLmZpJA1LpB1n/3wJG8w5CQ6xM0sWdklAUk/2i1hXGZEta1dzrM2WKszu8mXzkb6FiRGBFIpZyTgVuUyHkfNlK4QvI/xKwQypY8KL2i0kgAf7n5Av0xy39fPcv+5gCH3FOB5NRlKmExlMp4Hz3MTG/mOForU9CgicRONeiYL+Ej2dIyehBb/1fN8yW0XWD9/rCYWWMsV6jyGHCbWX+vbcOWSDKM2jnpVhMsG6O/5/iyU5D08FassmJ55oxJULvH92X/Io1gUNB4e+I3wL72na7KjA02xyMm8wHwwxdaeKw/sZ0bNmCprOKNK4SySfofoaaJBChz7OzJSNInN/9n5l8hAnEr3e/COz+PBu5eu6CEZ5vuG/+XfwK9lyAt9ONtGQEGpo6kBBcM3lCdv+Aut4Y0y0xL35KWp/Qi+bye+jsehe6pxlaLx6tP7x8EFA==;pk1fIsS17yL8psZ9ykqEeg=="
 ---

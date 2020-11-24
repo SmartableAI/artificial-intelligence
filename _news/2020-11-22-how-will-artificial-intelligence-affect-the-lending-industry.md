@@ -25,30 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Mythic launches industry-first AI analog matrix processor"
-    excerpt: "Mythic, the pioneering analog AI processor company with breakthrough, patented analog compute-in-memory technology, today announced the industry's first Analog Matrix Processor (Mythic AMP™). The launch of the M1108 AMP heralds an exciting new era for AI,"
-    publishedDateTime: 2020-11-19T13:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/mythic-launches-industry-first-ai-analog-matrix-processor-1029821155"
+  - title: "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?"
+    excerpt: "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may"
+    publishedDateTime: 2020-11-20T07:47:00Z
+    webUrl: "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/"
+    ampWebUrl: "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/"
+    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-  - title: "Wemlo Launches AI Mortgage Processing Assistant"
-    excerpt: "Wemlo, a fintech company specializing in third-party mortgage loan processing services launched ATHENA, a virtual assistant that uses artificial intelligence to identify discrepancies within mortgage loan applications."
-    publishedDateTime: 2020-11-23T15:08:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/76129/wemlo-launches-mortgage-processing-assistant"
-    type: article
-    provider:
-      name: National Mortgage Professional Magazine
-      domain: nationalmortgageprofessional.com
-    quality: 39
+      name: CIOL
+      domain: ciol.com
+    quality: 64
     images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/artificial-intelligence-2167835_640.jpg"
-        width: 640
-        height: 428
+      - url: "https://www.ciol.com/wp-content/uploads/2020/11/docree.jpg"
+        width: 850
+        height: 400
+        isCached: true
+  - title: "How Artificial Intelligence is being used in the Gaming Industry.."
+    excerpt: "Artificial Intelligence in the Gaming Industry Although one of the basic goals of artificial intelligence is to know and develop intelligent systems that have all the capabilities of humans, there's very little active research directly following that goal."
+    publishedDateTime: 2020-11-21T16:52:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-being-used-gaming-ashish-bhandari"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHtQ4GUAFNZoA/article-cover_image-shrink_600_2000/0?e=1611187200&v=beta&t=wVLNknReRtM_fJSQ6BrQvwjvbReYAWdqbVbARy9r1ww"
+        width: 1355
+        height: 600
         isCached: true
 
 secured: "DnTKREo4+Yn+8JRiyziIkLHGjUFdmm3+nntGogmuP7FhLFQAgBdnfw2Oln7UQo1x6zjm3QaFgZbO23QX192JdHNu+s0zY8WfuRMY8mYMaqspmnpsuZ6vfDB6u2MeSHiT+2pZNgeuAVxLV6RBkKR77OQC/HeOE5cGAbcJC5T7wfx9JXABOpZlUDM1M/uc/vUoadLbh2/wJOFqkJyIgK/0IueVJlZvC5Hp48aId+ugkKAWfCPdpha4iD3acW03vvV6hsUEGD992lYaiS8xDxgLZWJW7QFcGNrHcxjOE2hBcEwEHjXYa4xKCigSV/Sgz7mJuo22yU/jtX+ODUnG3Uss5dzmm1uc8uaDhnFfdEXjERU=;vzaxQrtS2i5N6VRR/fin6Q=="

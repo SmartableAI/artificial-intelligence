@@ -1,23 +1,33 @@
 ---
 category: news
-title: "CEO’s of PayPal, Logiq, Peak Fintech, and Square Discuss Bitcoin, Fintech and New Growth Opportunities in Digital Wallets"
-excerpt: "The convergence of AI, Big Data, Smart Phones, and financial innovation is driving massive new growth opportunities in all aspects of financial services.Wall Street Reporter highlights the latest comments from industry thought leaders: PayPal Holdings (NASDAQ: PYPL) CEO Dan Schulman: “Rise of Digital Wallets Will Drive PayPal’s Growth”"
-publishedDateTime: 2020-11-23T23:00:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8090867/ceos-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8090867/ceos-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets"
+title: "CEO's of PayPal, Logiq, Peak Fintech, and Square Discuss Bitcoin, Fintech and New Growth Opportunities in Digital Wallets"
+excerpt: "The convergence of AI, Big Data, Smart Phones, and financial innovation is driving massive new growth opportunities in all aspects of financial services.Wall Street Reporter highlights the latest comments from industry thought leaders: PayPal Holdings (NASDAQ: PYPL) CEO Dan Schulman: \"Rise of Digital Wallets Will Drive PayPal's Growth\""
+publishedDateTime: 2020-11-23T19:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ceos-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets-2020-11-23"
+webUrl: "https://www.marketwatch.com/press-release/ceos-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-in-digital-wallets-2020-11-23"
 type: article
-quality: 0
-heat: 0
+quality: 29
+heat: 29
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "zYJzCw2jjs+cBfvy4CH7IUmUPNL612my4zdjp69heAzOWoW9iJv7guLhW48k9IFSSyZLe3sW4BWi+/OREWcmPIj2Nyki5g3A7hyN+XX6fJbeukyKA18cHKWmQfZyq4Ff8psgquKXi9zPI5XC1ttOPM15onFnxdZyCP257odzF/72027s4y9QGasZamfw06SxQgNRtAdY4Pl+9xmjNE5zhx5qT8xDCZCU7oYEoSO/p1Lhn1uu5i9g97rxtK0P+AXbFQHvQABVjnb5W2f+4unIJk8g6cq9yzAstxIjMCiNXfXa3i2SV4jtJONUHUn0+nMlcbZDUIZltueC6mNkiDicyLJWpg/nY3iEEoKkA8RTvJ4=;Cs28Tol84fLNNo/up/35gA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "v75CzaQndrlPHe67anBdYCa0wCoDCnVsHjbstJIRbplJBzJh8yb+O+rI5p93/uPkImNBuRqrMRNBnYDI19oMFLX3C2aDpyWUtxO2XDWiHCHlrL9yo1kjIzH+qMXcbZ/XJfEacIEeoXIx3IuKRH2zsURHWf0HN1XY3/+lehnOtmhiOKOJjpaNqyWPc76feUDMi2n0aX45qZzquuGUJQEDYmjX5J8dMc5oZNmk392c39dcSfI8YEGjoM1tglYnSm1MaVeVd2qs1QpW6rONQUzMrIk4dIg6JIa1Fj6r006Qzd4ASe3VcatjLog8JuzLJtezcs354baVJXS1vwhJxW4kAHWQluqLks9fPhYY/jbd5dc=;fBK6lN3r9dtHPbUhlJSonw=="
 ---
 

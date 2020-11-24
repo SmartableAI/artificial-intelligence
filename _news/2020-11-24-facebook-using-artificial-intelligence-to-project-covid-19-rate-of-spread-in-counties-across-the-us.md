@@ -153,20 +153,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Facebook & Its Tumultuous Relationship With AI-Based Content Moderation"
-    excerpt: "We track down some of the major efforts of Facebook for AI based moderation in the past and how it has fared in tackling the issue."
-    publishedDateTime: 2020-11-19T11:32:00Z
-    webUrl: "https://analyticsindiamag.com/facebook-its-tumultuous-relationship-with-ai-based-content-moderation/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/Facebook_AIM.jpg"
-        width: 1600
-        height: 1200
-        isCached: true
   - title: "Facebook says upgraded AI models spot nearly 95% of hate speech it removes"
     excerpt: "Facebook Inc. removed 22.1 million pieces of hate speech content on its namesake social network in the third quarter, 94.7% of which was detected automatically by artificial intelligence models. The company shared the figures in the latest edition of its Community Standards Enforcement Report that was published today."
     publishedDateTime: 2020-11-19T20:38:00Z
@@ -182,6 +168,6 @@ related:
         height: 400
         isCached: true
 
-secured: "xIim5NrS+a2xBIY5bnLyooE4A3DQQz5fWrj+47Ej/YLs/DH2AKdhyiimKdjh3RW3hh0OdgOI+X+1TW7pK6iW+hImPyfQA8E4fr2+fdID8Afg4Bshlx4/UHD3WClagpPfHUev7hVgVv3Z1Zs+1Ux5dnRtxBHS9zatl35uHYoQ2ZvQxzVhGGp/ivZAUvTNtrMzgv21ws7hFawxHPAFCJ8cTsYt4uXUJphK2E4dy4O9mQGolo114bwN+x+ZJYEJ0gaFsGPk/iltsvhoa7hWjvtPN5eB3UW6Ku8aiWwPkXsu8P2f/cpf37Eyd+ZEcYF/TNf6s4MbS2ekVJMiG0MEPCzgjKJffIEkjPbqyzHC7JiJj0M=;Gpau32kM5Y6CINRelf9bjA=="
+secured: "QgxaDixhF3CQDEXcPzF3IDejaWOQFfAva295LJ4OTJKGpFCT3mwvp7MTdV13eV1k3PtukV2FC2OrODoDMCaTFJhFVOtXNp2jiaxe0GhSWqpeSwNmaID6iqaXrCT3uQWHBHpHhtHzpfZxYqA5EU4nQV9+dSR1VdsfRZJtzjmZJF51oFS01Fzz65BFVLsj4G+wV6iE/dyUfAO6trmFBAjCVKeyoQMWdbngfBUIznyOvK3eGkMjo+/3qCgtjuK9qFhHwD64+wMDnDUIHwjf1zZUkfAEuvWa6oK9YZEyqnrV9m0vJTbOE15JgLfotaIakTNt7sNVcThpIo4v1lQdNW53S9cLSEC5+BIHdFm9OLwLnTXA/DaxvCN3jcLAVUL8uQC9wXXExJPiA+nPQanlz3JXQP78nKozGGmcfAs3X6lyXd8u6oAmNSheOtfn10+VSrj4N7LvjRkN/V+35Z8yBrro3ACS2OTaN2vvVEuaMOWkOmAyNV5lStnzcegV3wAYB4pZjt3fOVFKHE0o1QW4ANVBsw==;nNo1XTGa2uG7AeC9+YYOIw=="
 ---
 
