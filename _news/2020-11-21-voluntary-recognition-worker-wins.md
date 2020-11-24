@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Can facial recognition tech identify different bears?"
+    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
+    publishedDateTime: 2020-11-24T02:11:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Committee recommends ban on facial recognition software despite MPD pushback"
     excerpt: "Following presentations by the MPD, Madison’s Public Safety Review Committee voted to recommend legislation banning facial recognition software."
     publishedDateTime: 2020-11-23T16:53:00Z

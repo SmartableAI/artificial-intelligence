@@ -106,6 +106,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Governance Market May see a Big Move | Major Giants IBM, Google, Facebook"
+    excerpt: "The Global AI Governance Market to witnessed good recovery in growth post first half of 2020 and is projected coverup"
+    publishedDateTime: 2020-11-24T01:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-may-see-a-big-move-major-giants-ibm-google-facebook-2020-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facebook using artificial intelligence to forecast COVID-19 spread in every U.S. county"
     excerpt: "A new county-by-county forecast from Facebook projects San Diego will see another 10,000 cases by the end of the month."
     publishedDateTime: 2020-11-20T22:15:00Z
@@ -121,6 +135,22 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/061f821/2147483647/strip/true/crop/1616x909+0+71/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2Fee%2F5aefd9c843668d1285e44d2407ec%2Fscreen-shot-2020-11-20-at-3.24.46%20PM.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
+    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
+    publishedDateTime: 2020-11-24T02:37:00Z
+    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    type: article
+    provider:
+      name: CBS News 8
+      domain: cbs8.com
+    quality: 44
+    images:
+      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "Facebook & Its Tumultuous Relationship With AI-Based Content Moderation"
     excerpt: "We track down some of the major efforts of Facebook for AI based moderation in the past and how it has fared in tackling the issue."

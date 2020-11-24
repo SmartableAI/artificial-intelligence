@@ -67,7 +67,7 @@ related:
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
         width: 2000
@@ -97,6 +97,20 @@ related:
       - url: "https://asunow.asu.edu/sites/default/files/poly-hse-roscoe-lab-jh5269a-16x9_0.jpg"
         width: 2500
         height: 1406
+        isCached: true
+  - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
+    excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
+    publishedDateTime: 2020-11-24T02:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123005857/en/Global-Business-Intelligence-BI-and-Analytics-Platforms-Market-2020-2024-Size-Share-Outlook-and-Opportunity"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20201123005857/en/841266/23/IRTNTR44619.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "xU6YIpBpN6NvGyHOEg/MasnN1VKBjYCc/y9sKlyhbDZhJRqiTC19zHLIapoAf6jH4H6mzuC4U7hhHBnZj2jhzYIE42ATrcjWsl84fg3AOJ4KDGqKFARkgqWxFqP760s54D1P0FQPrHK8R0ea/yx8XSIvJsug+xYJySZB6UPbUAX7ukZc1TLlLu0RZPYdM9JGwg2fSdKxHWgo2vWEb5J+X0YGZo1oIQqYEfroAkASiX9vp5Q7sqUMQNJk7XQdcG0mqSeg1XEAKFjGPOx6syHxwrIIWILEBDfE4PlE5hKD+3rWMP3wmkDqPTsxRjA7QkE8wSi5/V+eX+HWl7Xt6UNXTsekuSYnF6UG7FDWPMxx778=;wHEukmYo/jMusKLKvMgU7Q=="

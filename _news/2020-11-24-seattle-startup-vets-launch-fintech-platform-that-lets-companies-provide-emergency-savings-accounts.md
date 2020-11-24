@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-pl
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
 type: article
 quality: 60
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 600
         height: 390
         isCached: true
+  - title: "Singapore Fintech startup Sleek secures US $4M from Enterprise Singapore's SEEDS Capital and business angels"
+    excerpt: "Sleek, a fintech startup that is disrupting the traditional corporate services industry, has raised US $4M in a new funding round. Led by SEEDS Capital, the investment arm of Enterprise Singapore, the funding was also joined by MI8 Limited,"
+    publishedDateTime: 2020-11-24T01:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
 
 secured: "aPmZieTAwyXrFdxnoYp02TA30flJ0LaVMIt7dgSj5yxyeIqBrtz8f+z/S9OIwSRG6cJTI3bfmMoCXrldd9F55w+2k6zoXkKFisjGPwM+Ttdxedzh2H/+T6mWKAl1SEkDdc7aRZUaE0rCpLTehHGSCACFs4rEH60lk74RDnX2rvS5zN9R3KL0JkrZizeL2d8dNQg/45dLkmJUi1QmVB/jJK+teEj7HFvnUPCP0M0M6on6pC5BMisFWBgfd1dB40jnTQusURj32W/DNgWeYmG/BVb4m9YTpNTjTc5j6yWR1RcLGOwM/sQbMqzJPHR6chNKbMoV1LQIQMUlIRZ9ks4i92IkLK00juxyhWr76w5wH5OCwPaDSNEx97tJaJn2WaN7JLhgcEmGrHPcVq0hfMwn4FUxOqN9CGchcUbQXas3Lk5v1Cbx3BBbUTPQw2ufgpTLMmUPjI8ljkFCJHduilnG0vAFP3StFMw5e12ZYGk4Eat2AwYkT8KOCKj3wKutfD59MesmceSZok0S/B8yECWT3w==;Ok7ckNLXr79tv3Rd0SQoPQ=="
 ---

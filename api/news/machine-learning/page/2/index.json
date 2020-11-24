@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-18-how-artificial-intelligence-can-democratise-education-after-covid-19.md",
+      "title": "How artificial intelligence can democratise education after Covid-19",
+      "excerpt": "New forms of AI, based on deep neural networks, can now uncover patterns about how the students perform and help teachers optimise their strategies accordingly. AI tutors, software systems that students can interact with online,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-534660,msid-79266905/.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms",
+      "publishedDateTime": "2020-11-17T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-dungeon-proves-machine-learning-games-are-the-future.md",
+      "title": "AI Dungeon Proves Machine Learning Games Are the Future",
+      "excerpt": "The innovative AI Dungeon lets players experience an endless text adventure and could change how games tell their stories in a MAJOR way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "originalUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/11/AI-Dungeon-Feature02.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "publishedDateTime": "2020-11-17T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-deep-learning-market-focus-on-medical-image-processing-2020-2030.md",
       "title": "Deep Learning Market: Focus on Medical Image Processing, 2020-2030",
       "excerpt": "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,",
@@ -1332,92 +1419,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-numenta-demonstrates-50x-speed-improvements-on-deep-learning-networks-using-brain-derived-algorithms.md",
-      "title": "Numenta Demonstrates 50x Speed Improvements on Deep Learning Networks Using Brain-Derived Algorithms",
-      "excerpt": "Using algorithms derived from its neuroscience research, Numenta announced today it has achieved dramatic performance improvements on inference tasks in deep learning networks without any loss in accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-lil-dicky-computing-and-information-technology-5f1945f266c849b791f76c4f96123908",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-science-artificial-intelligence-lil-dicky-computing-and-information-technology-5f1945f266c849b791f76c4f96123908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-review-google-cloud-ai-lights-up-machine-learning.md",
-      "title": "Review: Google Cloud AI lights up machine learning",
-      "excerpt": "The feature engineering built into Cloud AutoML Tables is promising, however, and it would be useful to have that sort of service available for other scenarios. The seamy underside of AI has to do with ethics and responsibility (or the lack thereof), along ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/",
-      "originalUrl": "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/google_cloud_1_2.jpg",
-          "width": 740,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T01:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
         "publishers": null,
         "authors": null
       },

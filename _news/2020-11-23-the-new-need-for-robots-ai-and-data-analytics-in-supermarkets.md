@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359653"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -53,7 +53,7 @@ related:
     provider:
       name: StamfordAdvocate
       domain: stamfordadvocate.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
         width: 2000
@@ -97,6 +97,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
+    excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
+    publishedDateTime: 2020-11-24T02:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123005857/en/Global-Business-Intelligence-BI-and-Analytics-Platforms-Market-2020-2024-Size-Share-Outlook-and-Opportunity"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20201123005857/en/841266/23/IRTNTR44619.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "y4JfP1q5z98ZtN3B43OgJ0HdyL0RtERrfNMvN0xfKLyvJsqDRIaDgkskiTgsAP3XKIb7xvnj29BRUcNsFSOIfTmcRq10mt3YXGWkf37qIjjicMZEzTnqZg9RyuhZDD3WddhrvBumEXsUqY+yCaJK2X2qTi7wPZ+ybzuRMyJu5eCSApbDEon62Oi6xRexK+KY0oH+P6L4znESihH4CbVBQj2sY/RVXBy184cs5WqqCfsRb5Njlq275B/z2qt3tLCLITz5rPw1SEB7fLi3eWai7k6IQKh28G196I2K2Or/xYBAmKo7OpaJHAMyveA4KDmgxkRainUm32tAl2QVNsN9/ZZDrNqHGRBNTMbXPjs7Fs+xCwdDYQHWkAVuVv1ZM+nuCpvSEjXQKrLLHtUf8LsTpH4efQC0W72hIA10hE9jwGi4GJ9AXNJh++yQCcHn2Pp+MYmowboMW/exteB8+8PweTC9uf6N7x0C46R0xx0Rc5Hvo0Mwx6RKjfku+l0Wb7K0kSwkVuZj6zL5ezoNidycNw==;oOaE1kGOOJj9sMq/EUhTbQ=="

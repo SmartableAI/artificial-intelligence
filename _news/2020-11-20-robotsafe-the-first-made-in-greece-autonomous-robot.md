@@ -7,7 +7,7 @@ originalUrl: "https://greekcitytimes.com/2020/11/20/robotsafe-autonomous-robot-g
 webUrl: "https://greekcitytimes.com/2020/11/20/robotsafe-autonomous-robot-greece/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Time to send in the robots"
-    excerpt: "How can automation enable organisations to meet changing expectations and cope with future unexpected peaks and troughs in demand? Steve Richmond, Director of Logistics Systems, Jungheinrich, explains."
-    publishedDateTime: 2020-11-19T10:57:00Z
-    webUrl: "https://www.shdlogistics.com/robotics-automation/time-send-robots"
+  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
+    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-11-20T10:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
     type: article
     provider:
-      name: SHD Logistics News
-      domain: shdlogistics.com
-    quality: 39
-    images:
-      - url: "https://www.shdlogistics.com/sites/shdlogistics.com/files/technology-4256272_1920.jpg"
-        width: 770
-        height: 400
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "7sLveKwaifGMrTg4cCbnScwe5bJFXsL81s+JvNZvorBXud5cOjBieVqjHU+9CFKrPYOJbvtbWtQSZPCUVvxIfCOHatuZ+c3mFA3wwawulvCRFYmLouljvkQawwqmw42uMKMOXp3lhDgJ2y8oHTcP4jFmzSn5RoRY0YTVh9SY3pd4e/pQDcAgw6aoKiToGRMyf5pH5gAyl6Cc0i2bYjv5h84E7Kl0sB8QuHvgsEu/V4fRvt2kxcMfYZzfGQEIfpRIEOrEB32eNTD+9TOxRZfxFamL4bN3K2a0viMwyK8lakCBbxKDNfu3fD8mEgQlL0bo42UlifRoN6TaH/QnXBkbaszEYDbUI3LxSUt0T6Hv9Yj3RT1SDi3AtF1ldpLEsSqVOUn7vQ6MlfotDxMnS/QKLc1OdyoVOeRdbdfdkx6uJ33c6jaBEFf33611wBieuIjxZTqnaY2TtyW7xwOLRze7sA1qPAoAtDpQENI+KhXhe4KRC5MDornI9W7wh77ph0dGA1GW2tQ7QOkh4czMhpzUmA==;da5fJPagYBeCfNYUh9o3HQ=="
 ---

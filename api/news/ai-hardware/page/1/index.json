@@ -994,6 +994,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-16-nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box.md",
+      "title": "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box",
+      "excerpt": "NVIDIA today announced the NVIDIA DGX Station (TM) A100 -- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-amd-goes-after-nvidia-with-new-gpu-for-the-datacenter.md",
       "title": "AMD Goes After NVIDIA With New GPU For The Datacenter",
       "excerpt": "AMD announced its first data center GPU to compete in high-performance computing (HPC) and Artificial Intelligence (AI). Last year, the company announced that it would bifurcate its GPU technology into two architectures: CDNA for computation and RDNA for graphics.",
@@ -1454,49 +1506,6 @@
         "AI",
         "Computer Vision",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes.md",
-      "title": "NextVPU breaks the Performance Records of AI Chips on the Edge Side, and supports \"Algorithm Deployment Within 5 Minutes\"",
-      "excerpt": "In less than five years after its establishment, NextVPU has reinforced its leading position in the computer vision industry. Its",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-301172501.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-301172501.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1333196/NextVPU_N1_Series_Chips.jpg?p=facebook",
-          "width": 1003,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T17:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

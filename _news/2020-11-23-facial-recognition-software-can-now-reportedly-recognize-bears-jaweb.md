@@ -9,7 +9,7 @@ ampWebUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reported
 cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Can facial recognition tech identify different bears?"
+    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
+    publishedDateTime: 2020-11-24T02:11:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Committee recommends ban on facial recognition software despite MPD pushback"
     excerpt: "Following presentations by the MPD, Madison’s Public Safety Review Committee voted to recommend legislation banning facial recognition software."

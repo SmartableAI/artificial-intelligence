@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 500
     height: 281
     isCached: true
-
-related:
-  - title: "The promise of AI in Financial Services"
-    excerpt: "Artificial Intelligence, in all of its different forms, isn’t new in the financial services space. As is often the case with new technologies, banks were early adopters of AI, with early use cases being focused on chat bots,"
-    publishedDateTime: 2020-11-19T10:37:00Z
-    webUrl: "https://www.finextra.com/blogposting/19552/the-promise-of-ai-in-financial-services"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
 
 secured: "vrXxC0NVqbaVY4ly9BkfGeAytLW41NFowvdna1AZ/zsb3eYjLGlQUxxevN+vkKm3GZ8/1tlWL/WYn1144pFzoAbWjXNAcnTN8lGH4/clmpXqgWlFNxOY0Kvg83aiQFQhZFGxD7pu6dc0y3E9z8SXaOfQdVrElMzSyFB4OBcD2L9PTqr5m4E/L6j8A1Ez2E1HOcDOehwFCZBnckGz2bzMII4GJfxip9yfpoDm4qupscqFzkAedLnU9UEf7w8UxKRaGTrdKs7Bz1iB7qVD+XYVsQtV9ox1UW7/6tD3oOik6WWsGvjpLcEQGMAd/SsNKOa5BxbwqxdBXk8V3LBIEHNuhg9NeCDayANUxQ9x/ItRZecFp0N83iV9abrBCArV0qLBtjCGt33t3QE+IxtFvF6X/DCD1wHVB6FDhIYq4H+uSSigUoBesF4TRur8etFnIeHtOsRmcn0ZvaQZ6sIfJYPJo9h41E1BGXGPGJuZDNlneHpTG7IELuCTjOVgalFkItARvsQle9lW607orJVm/cWU4Q==;qGWNUuroTKWQR+5iBh5xQg=="
 ---

@@ -19,89 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
-    publishedDateTime: 2020-11-19T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
+  - title: "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond"
+    excerpt: "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry."
+    publishedDateTime: 2020-11-23T15:37:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2020-11-21T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Aviation Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "Artificial Intelligence is nothing but a machine that mimics human psychological feature therefore on deliver the goods"
-    publishedDateTime: 2020-11-19T16:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-aviation-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
     quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Swarm Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The scope of the report includes a detailed study of Swarm Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The Swarm Intelligence Market is segmented on the Basis of Model Type,"
-    publishedDateTime: 2020-11-23T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global LegalTech Artificial Intelligence Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2026"
-    excerpt: "Global LegalTech Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 interprets market overview, value chain structure, industrial environment, regional analysis,"
-    publishedDateTime: 2020-11-23T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Impacts of COVID-19 on the Global Automatic Content Recognition Market Report Research Industry 2020"
-    excerpt: "Nov (MarketResearch.biz via Comtex) -- “The Impacts of COVID-19 on the Automatic Content Recognition Market Report Research Industry – 2020″"
-    publishedDateTime: 2020-11-19T12:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/impacts-of-covid-19-on-the-global-automatic-content-recognition-market-report-research-industry-2020-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://qtxasset.com/fiercehealthcare/1605998117/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?MrxsGtXtZcyI.Q4pV0YvFxd.yTFvo99G"
+        width: 1000
+        height: 486
         isCached: true
   - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
     excerpt: "Critical Care Suite 2.0 helps clinicians assess Endotracheal Tube (ETT) placement for intubated patients, including critical COVID-19 patients."
@@ -117,24 +47,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
-    excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
-    publishedDateTime: 2020-11-23T09:03:00Z
-    webUrl: "https://www.medgadget.com/2020/11/ai-in-healthcare-market-size-competitive-strategies-application-analysis-regional-and-forecasts-2020-to-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 13
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
-    publishedDateTime: 2020-11-23T15:07:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
 secured: "8MJV4pD7Aam7C2VjX1btKaSPQ6Yx/9gVc2IPF9LGxs8+7bF7vaTAqfoUWEE+9Ywc9PzRNhIoX1isjqqYHKL3HlhJ3NdbkCvRY8RQvf+JqCv+rRhmc1vDMHD3n3X72Hcs2pgbau9iHt96wfV5YnyxN5Rhw2MgR39unjldayUJ0FfwLobxYIkXazyh7CkZq2KixEhVZpLXxcBjaobMuKYeyr6VAbCqY1tqncncauV47Dlq8qTWjgs0KYXuoz7sjwr02C48XvOrHJhukWBvBLKqM8WwJN5nPp4nKEi2mIYbnS6Hs2Q7rvwyZ4jxdDlFdIoj9dXlvhkxi+JLlz1li43LrqQlq7kdv4AN6s5ZxYy5HJ0=;X6vLcyWLp6wi0p2Y+J8Obg=="
 ---

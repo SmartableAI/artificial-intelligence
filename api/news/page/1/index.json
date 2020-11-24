@@ -58,8 +58,8 @@
       "title": "We should hold animals accountable for their crimes. Here’s how AI can help",
       "excerpt": "Two park rangers hiding behind a tree pointing a camera at a bear in the distance so they can use facial recognition software to determine if they’ve actually found the infamous picnic-basket-snatching ursus known as Yogi.",
       "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/?via=indexdotco",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/?via=indexdotco",
+      "webUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/",
       "featuredContent": null,
       "highlight": null,
       "heat": 85,
@@ -322,7 +322,7 @@
       "originalUrl": "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -478,7 +478,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/359653",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -519,6 +519,50 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-industry-voiceshow-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19-and-beyond.md",
+      "title": "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond",
+      "excerpt": "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19",
+      "originalUrl": "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qtxasset.com/fiercehealthcare/1605998117/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?MrxsGtXtZcyI.Q4pV0YvFxd.yTFvo99G",
+          "width": 1000,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fierce Healthcare",
+        "domain": "fiercehealthcare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -676,7 +720,7 @@
       "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1031,7 +1075,7 @@
       "originalUrl": "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1218,58 +1262,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-congress-is-eyeing-face-recognition-and-companies-want-a-say.md",
-      "title": "Congress Is Eyeing Face Recognition, and Companies Want a Say",
-      "excerpt": "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "originalUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "publishedDateTime": "2020-11-22T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

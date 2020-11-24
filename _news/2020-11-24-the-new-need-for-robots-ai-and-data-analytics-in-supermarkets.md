@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-23T18:37:00Z
 originalUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
@@ -93,6 +94,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
+    excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
+    publishedDateTime: 2020-11-24T02:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123005857/en/Global-Business-Intelligence-BI-and-Analytics-Platforms-Market-2020-2024-Size-Share-Outlook-and-Opportunity"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20201123005857/en/841266/23/IRTNTR44619.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "L92RbmFackxII61QY8+pL/MQxkEyd3CQ4vuPPXgcvkAfVWnyLdOqG7f9aH40FQm55pkMpK1XSmKbGZkWjjxEI0mJvePzj7DflaWV3TPOmG1pK7189WSQ8Eyd4K4Q6iCI5dNskMetswrdmtea8bQcWoRMnC3djdaejXf3A5LOMLXtgNhNDNReJu5rbtiEpVA8sO2zW9MUoZkGMS43FhXxDBwrVPT77hXDRB6Xw3LpYMyr0qOfSVO8pc0aKl1qoSrbWNHUosMg+gNZjX5lAf9wA2fjx6rjqOc9GBWD98pRwY9tdhpnRTi//YdFUNSGHChDhIjd1S6NM7Sall5pVnr8WICuKrDWHmy1e+Z7kXuuOZ4SD9NpxTIvRZ1/Ae84nh8+K4D/tvEdUu60OcBdHkBIPyRzZdvg2+lEd+jD+YxtuSGlRffIMnLUOhkXcwYB52PT9llIaXMtTJB7kZQEf8zK7FQg1OwG15yBK8Or7MmiEUAjdTexWwSqDy/h1HuYSoq7EyuSGNYIyOgcKj8iFx0+yQ==;l/Q/SsN5zPQmpCanE4bdRw=="

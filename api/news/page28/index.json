@@ -2,6 +2,203 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2020-11-02-aws-to-open-data-centers-in-switzerland.md",
+      "title": "AWS to Open Data Centers in Switzerland",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.register-herald.com/region/aws-to-open-data-centers-in-switzerland/article_cf6bdda4-6bb3-59eb-85cd-98c199f6baf8.html",
+      "originalUrl": "https://www.register-herald.com/region/aws-to-open-data-centers-in-switzerland/article_cf6bdda4-6bb3-59eb-85cd-98c199f6baf8.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/register-herald.com/content/tncms/custom/image/b87268c4-7873-11e7-af9a-f3a04545878a.jpg?resize=600%2C600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-02T01:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Register-Herald",
+        "domain": "register-herald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-halodoc-uses-ai-to-improve-how-doctors-receive-feedback.md",
+      "title": "Halodoc uses AI to improve how doctors receive feedback",
+      "excerpt": "Due to Indonesia’s vast size and population, timely and reliable access to healthcare can sometimes be a challenge. Halodoc aims to change that with a mobile first-telemedicine platform that connects Indonesians to doctors and helps them arrange appointments, medicine deliveries and tests. What’s distinctive",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
+      "originalUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blog.google/static/blogv2/images/google-1000x1000.png",
+          "width": 1000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/around-the-globe/google-asia/halodoc-uses-ai-improve-how-doctors-receive-feedback/amp/",
+      "publishedDateTime": "2020-11-02T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-ai-mistakes-referees-bald-head-for-football-hilarity-ensued.md",
+      "title": "AI mistakes referee’s bald head for football — hilarity ensued",
+      "excerpt": "Top football leagues and teams around the world have TV crews and streaming services at their disposal to broadcast matches to fans across the globe. However, because of the coronavirus pandemic, smaller football teams are relying on AI-powered cameras to cast live matches through YouTube.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/AI-camera-referee-e1604295644927-796x419.jpg",
+          "width": 796,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/02/ai-mistakes-referees-bald-head-for-football-hilarity-ensued/amp/",
+      "publishedDateTime": "2020-11-01T23:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-ai-projects-building-vs-buying-and-what-to-consider-with-diy.md",
+      "title": "AI Projects: Building Vs. Buying And What To Consider With DIY",
+      "excerpt": "AI is vital not only to short-term survival, but to prevailing in the marketplace and growing into the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c2ffccbda05987ab38586%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/02/ai-projects-building-vs-buying-and-what-to-consider-with-diy/amp/",
+      "publishedDateTime": "2020-11-01T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-ai-in-telecommunication-market-growth-analysis-by-size-share-news-demand-opportunity-during-2020-2023.md",
       "title": "AI in Telecommunication Market Growth Analysis By Size, Share, News, Demand, Opportunity During 2020-2023",
       "excerpt": "Global AI in Telecommunication Market Research Report, By Component (Solution, Services), Deployment (On-Premise,",
@@ -1024,188 +1221,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-intels-discrete-gpu-era-begins-intel-launches-iris-xe-max-for-entry-level-laptops.md",
-      "title": "Intel’s Discrete GPU Era Begins: Intel Launches Iris Xe MAX For Entry-Level Laptops",
-      "excerpt": "Today may be Halloween, but what Intel is up to is no trick. Almost a year after showing off their alpha silicon, Intel’s first discrete GPU in over two decades has been released and is now shipping in OEM laptops.",
-      "sourceUrl": null,
-      "webUrl": "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops",
-      "originalUrl": "https://www.anandtech.com/show/16210/intels-discrete-gpu-era-begins-intel-launches-xe-max-for-entrylevel-laptops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.anandtech.com/doci/16210/Xe_Max_Car_678x452.jpg",
-          "width": 678,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-31T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AnandTech",
-        "domain": "anandtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-weeding-robot-to-save-you-cost-of-herbicides.md",
-      "title": "Weeding robot to save you cost of herbicides",
-      "excerpt": "The weeding robot seeks to solve this issue in a sustainable manner. With your unique knowledge, strengths and skills set, what unique role did each of you play in this invention? Kenneth: Since we are both Mechatronic Engineers our skill sets are similar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.standardmedia.co.ke/farmkenya/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "originalUrl": "https://www.standardmedia.co.ke/farmkenya/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://cdn.standardmedia.co.ke/images/saturday/weeding_robot_to_sav5f9d1a187f7f2.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.standardmedia.co.ke/farmkenya/amp/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "cdnAmpWebUrl": "https://www-standardmedia-co-ke.cdn.ampproject.org/c/s/www.standardmedia.co.ke/farmkenya/amp/smart-harvest/article/2001392141/weeding-robot-to-save-you-cost-of-herbicides",
-      "publishedDateTime": "2020-10-31T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Standard Digital",
-        "domain": "standardmedia.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-microsoft-lobe-to-train-ai-machine-learning-models-without-writing-code.md",
-      "title": "Microsoft Lobe to train AI, machine learning models without writing code",
-      "excerpt": "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "originalUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "publishedDateTime": "2020-10-30T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-the-robot-ships-are-coming-eventually.md",
-      "title": "The Robot Ships Are Coming … Eventually",
-      "excerpt": "is testing an AI-based navigation and operations system designed by Tel Aviv startup Orca-AI. He doesn’t foresee operating his own fleet of robot ships, but instead wants to use an AI captain to reduce the number of officers on the bridge. “It will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "originalUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f9b59334300a8c7fc0750b3/master/pass/business_ships_mayflower.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/mayflower-autonomous-ships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mayflower-autonomous-ships/amp",
-      "publishedDateTime": "2020-10-30T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

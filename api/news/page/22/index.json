@@ -2,6 +2,134 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
+      "title": "AWS Announces Plans to Launch a Second Region in India",
+      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-prop-25-fails-california-voters-reject-initiative-to-replace-cash-bail-system.md",
+      "title": "Prop 25 Fails: California Voters Reject Initiative To Replace Cash Bail System",
+      "excerpt": "Proposition 25 would uphold a state law passed last year that ended pre-trial detention and cash bail for people accused of most misdemeanors. Those accused of the most violent and serious crimes would remain locked up.",
+      "sourceUrl": null,
+      "webUrl": "https://laist.com/elections/2020/results/proposition-25-cash-bail-replacement.php",
+      "originalUrl": "https://laist.com/elections/2020/results/proposition-25-cash-bail-replacement.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://laistassets.scprdev.org/i/ba451bf8a544f447f40dbf94f2172b0d/5fa18cd6bef47b0008898548-eight.jpg",
+          "width": 974,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-05T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LAist",
+        "domain": "laist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-ai-enables-accurate-detection-of-radiographic-sacroiliitis-in-people-with-axial-spondyloarthritis.md",
+      "title": "AI enables accurate detection of radiographic sacroiliitis in people with axial spondyloarthritis",
+      "excerpt": "called an artificial neural network, enables accurate detection of definite radiographic sacroiliitis in people with axial spondyloarthritis, an advance that could be useful for both diagnosis in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201106/AI-enables-accurate-detection-of-radiographic-sacroiliitis-in-people-with-axial-spondyloarthritis.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201106/AI-enables-accurate-detection-of-radiographic-sacroiliitis-in-people-with-axial-spondyloarthritis.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2fMagnetic_Resonance_Imaging-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201106/AI-enables-accurate-detection-of-radiographic-sacroiliitis-in-people-with-axial-spondyloarthritis.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201106/AI-enables-accurate-detection-of-radiographic-sacroiliitis-in-people-with-axial-spondyloarthritis.aspx",
+      "publishedDateTime": "2020-11-05T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-deep-learning-prediction-of-likelihood-of-icu-admission-and-mortality-in-covid-19-patients-using-clinical-variables.md",
       "title": "Deep learning prediction of likelihood of ICU admission and mortality in COVID-19 patients using clinical variables",
       "excerpt": "The goal of this study was to develop a deep-learning algorithm (in contrast to previous methods) to identify the top, statistically significant predictors amongst the large array of clinical variables at admission to predict the likelihood of ICU ...",
@@ -1090,143 +1218,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-these-factory-robots-may-point-the-way-to-5gs-future.md",
-      "title": "These Factory Robots May Point the Way to 5G’s Future",
-      "excerpt": "says adding high-speed wireless links to robots and other equipment allows them to be coordinated and calibrated more precisely, helps predict costly malfunctions and downtime, and allows sophisticated software, including artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
-      "originalUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5fa1fbb2227dbb78ec30daf8/master/pass/business_5g_1003931044.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/factory-robots-may-point-way-5g-future/amp",
-      "publishedDateTime": "2020-11-04T23:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-ai-pioneer-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
-      "title": "AI pioneer Geoff Hinton: “Deep learning is going to be able to do everything”",
-      "excerpt": "That professor was Geoffrey Hinton, and the technique they used was called deep learning. Hinton had actually been working with deep learning since the 1980s, but its effectiveness had been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "publishedDateTime": "2020-11-04T22:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-how-ai-technology-is-revealing-the-hidden-world-of-bats.md",
-      "title": "How AI technology is revealing the hidden world of bats",
-      "excerpt": "How do you monitor more than a million bats in England? - these conservationists have found the answer! Forestry England and the Bat Conservation Trust have been using artificial intelligence (AI) to help them identify more than 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/newsround/54745266",
-      "originalUrl": "https://www.bbc.co.uk/newsround/54745266",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/119F7/production/_115138127_mediaitem115138126.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/newsround/amp/54745266",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/amp/54745266",
-      "publishedDateTime": "2020-11-04T22:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
