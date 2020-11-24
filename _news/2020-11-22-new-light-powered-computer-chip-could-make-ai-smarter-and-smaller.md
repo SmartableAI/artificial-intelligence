@@ -28,9 +28,9 @@ related:
   - title: "This AI chip claims to mimic the human brain"
     excerpt: "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,"
     publishedDateTime: 2020-11-24T11:13:00Z
-    webUrl: "https://www.techradar.com/nz/news/this-ai-chip-claims-to-mimic-the-human-brain"
-    ampWebUrl: "https://www.techradar.com/nz/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+    webUrl: "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain"
+    ampWebUrl: "https://www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
     type: article
     provider:
       name: TechRadar

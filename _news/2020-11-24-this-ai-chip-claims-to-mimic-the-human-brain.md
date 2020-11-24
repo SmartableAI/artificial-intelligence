@@ -3,10 +3,10 @@ category: news
 title: "This AI chip claims to mimic the human brain"
 excerpt: "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,"
 publishedDateTime: 2020-11-24T11:13:00Z
-originalUrl: "https://www.techradar.com/nz/news/this-ai-chip-claims-to-mimic-the-human-brain"
-webUrl: "https://www.techradar.com/nz/news/this-ai-chip-claims-to-mimic-the-human-brain"
-ampWebUrl: "https://www.techradar.com/nz/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+originalUrl: "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain"
+webUrl: "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain"
+ampWebUrl: "https://www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
 type: article
 quality: 104
 heat: 114
@@ -46,6 +46,6 @@ related:
         height: 540
         isCached: true
 
-secured: "PI0K15unW+twwMj0jFHEKHoOuPgdfyid8B+XggxkpPX40tR+HhLpnEFwC6mopmf4KwaythcbiJEWMeyPcwsxv4lAEe7UIZiW+N7rBrAF1mxMBReizCdHT+dXLgn9YArlC4xAyv/GaodVyGXz7EjMCBDCxw5h8WBrWKu0WRouQcPVjaIr79CdmBxqecZJPOwGNh3mJqZhudfCu3yD6v+uf7fWFJLTCAcxg14sqI9pjSY8WCRK/+Gry/ZnIIqf2moJfPtS1kwHnWkkusniitLuEmEL+DXuUBnzogOBNJar6HmeV+J765cYpEsfudCz1NCfrovGFHhTWBuT/mAgZKOdHDelcuIJCljVAuoytLJ5bss=;HSKYtEPVGYv112MLLEb/0g=="
+secured: "psF+XAjBP4r4+NrCc62GsBSUn9hd0azij/IHx8XOYCcFHFyyy5i9FRGXM16snlD0mqm6623wJ2w7FgTwbXH5sRrkset1XLFO/F6C22/2uum63iSDmrtqOezZF4J0eXS/INw74J/R8kHfIYW8+BfWtJLYWkm6ukCqXef1hNCE5g34bMa5+0KFpvHnJesN9ToieC+u2RK6FozewFnM4vFijeUaEhHkgNUkybJWSWmQgFBXzorQiwptMnI7cN/Jdv+siXtjRu+GmIrHWYg5tWmA9mP0PRPUMYUmjVyKuC0bQoiavQluM4MD2WsQqexAXkOTe07LvSZbIRIM2APo5glSBCEkrNsZXM8jXDq8L2BU+r8=;CmHgil6pSua7MHs8eXl7Bg=="
 ---
 

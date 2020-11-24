@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Voice Recognition Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2026"
+    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2020-11-24T15:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2026-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TzFy5gp+Y9sTRXtLt8ZiWnooTnIVXV0b1bKQcW6qEnwUNxa1toyUCFrqm6tq02VCvGWAUT/Sx75gWPtS7uQKr9qK2NAkoDgC0V7rz26Ba4eKlaJpo2dS+5gkbbKw46SKuWXJ/I22DGcW4qqQAgWmtbJ6/bhcfVUgyPmhT63Z7KPKRTEtxSNXfJXsK6EDY+gi8iAvRrzhA+ejqHsbuUBtJc0Nay8x5lByeFf9y7ZwEex35GZ2eyi/vIGcSEQyzcYGi6PlPL7+NGetCtMXOQbp8oVgDGYjKon6Fu1pM325VP8mQMRcSodV3zOWzK+Iu1ax21oqVeJIkPl/GlQ1GfhnTdrO2twTZ5QEEsMst7HsVWs=;dRh7rTpGG0gDKJMJ3ACe1w=="
 ---

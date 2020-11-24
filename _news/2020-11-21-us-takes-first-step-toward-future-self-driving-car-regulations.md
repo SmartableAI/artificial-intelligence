@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-futu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb306f7f4dd0e453d0deb0b%2F0x0.jpg"
         width: 1200
         height: 798
+        isCached: true
+  - title: "U.S. regulators open process to ensure self-driving car safety"
+    excerpt: "US auto safety regulators on Thursday said they were opening a formal regulatory process that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA) said it published advance notice of proposed regulations to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-24T16:15:00Z
+    webUrl: "https://www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
         isCached: true
   - title: "NHTSA Eyes New Self-Driving Car Regulatory Framework"
     excerpt: "The U.S. Department of Transportation has signaled that it may eventually adopt new safety standards for vehicles with automated driving systems, taking a big step that could boost development of passenger-carrying autonomous vehicles while ensuring that new technologies still undergo sharp scrutiny."

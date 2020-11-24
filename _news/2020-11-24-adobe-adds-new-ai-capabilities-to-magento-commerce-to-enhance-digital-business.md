@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/3598270/adobe-adds-new-ai-capabilities
 webUrl: "https://www.cio.com/article/3598270/adobe-adds-new-ai-capabilities-to-magento-commerce-to-enhance-digital-business.html"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,31 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Adobe Adds AI Capabilities to Magento"
+    excerpt: "Adobe has further integrated its Sensei artificial intelligence technology with Magento Commerce to help online merchants further personalize offerings. The new offerings include the visual similarity recommendation type for Product Recommendations,"
+    publishedDateTime: 2020-11-23T15:40:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144033"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 37
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133925-1120_SmartIVRs_Verint_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
+  - title: "New Artificial Intelligence Capabilities Improve Retail Experience for Magento Merchants"
+    excerpt: "San Jose, CA, Nov. 23, 2020 — Without a doubt, COVID-19 has been one of the greatest shocks to the way we live, communicate and work, compelling people to move … Continue Reading →"
+    publishedDateTime: 2020-11-24T14:43:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/new-artificial-intelligence-capabilities-improve-retail-experience-for-magento-merchants/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 23
 
 secured: "IaHtiLulo2vZMnuDK5VClkO1NpvARfxtTvKx4vnNZKN3NIOuebK0kqTjHTfWJuvvChBI+H3JWfDrAv9xuQPhAu5Swge6gI5Gv2x9B0reSR5emCJhih0oy1NUGoOCL6rZamsbxlX+tRIjEYN1javepCU9OqUB0qvw25b1X8t5B9FgrvlRujLKH0gd0WlLjqodP2F7s3xOHlNFXMzfASew7tJuVq5IBg5NTNxJjbClHwHdQE9g6XLj6UZ/huvAqZX7ITcdLeuaIH1+S8EyJE2dQrPXST/sWu2/1OhxTd5azmZHMguJerdhzVanA4eA/xPRtphgJiyTU1kfnZSC4cB9j6tHHBmrBc8PNMpIeILWqc43gg7FfZ47kUPP3UGi8zmu02oDzpHWvPLiUUq69oRhXzpKDAnZeBJfupmpVblKy2zQONK/q9/rHatJ5ffwAITEOiVG3WuYJ0WdRBPcOnsrYCtPSKVKpgkcxKp7ZDoOG505Q7ewf1E8onwl2qlqygB4P1pr/9giTKhc0t4Aafe2fQ==;2QF+V1l6t8r0i7JxerShtQ=="
 ---

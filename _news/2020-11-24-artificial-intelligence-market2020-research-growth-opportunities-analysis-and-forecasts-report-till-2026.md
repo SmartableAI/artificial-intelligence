@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market2020-research-growth-opportunities-analysis-and-forecasts-report-till-2026-2020-11-24"
 type: article
 quality: 53
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
+    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
+    publishedDateTime: 2020-11-24T16:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Call Center AI Market Size Segmentation: Research, Analysis, Trends, Market Share, Competitors, Regions, Applications and Forecasts Up to 2026"
     excerpt: "Global Call Center AIMarket is growing due to growing requirements for quality inspection and surge in demand. It also provides pin-point analysis for changing competitive dynamics and provides healthy CAGR during the period 2026 and calculate the market size,"
     publishedDateTime: 2020-11-24T10:16:00Z

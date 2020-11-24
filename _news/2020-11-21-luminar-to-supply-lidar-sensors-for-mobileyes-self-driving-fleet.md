@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2801R3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2801R3"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
         width: 1200
         height: 647
+        isCached: true
+  - title: "Luminar to supply lidar sensors for Mobileye’s self-driving fleet"
+    excerpt: "In today technology news, we covered about the Luminar to supply lidar sensors for Mobileye’s self-driving fleet"
+    publishedDateTime: 2020-11-24T14:56:00Z
+    webUrl: "https://www.compsmag.com/news/technology/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
         isCached: true
   - title: "Luminar to Supply Lidar Sensors for Mobileye's Self-Driving Fleet"
     excerpt: "(Reuters) - Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's Mobileye subsidiary for its test fleet of self-driving vehicles."

@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1279
         isCached: true
-  - title: "Artificial intelligence & satellite technologies reveal detailed map of air pollution across UK"
-    excerpt: "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date. Highlighted by new research led by the London School of Hygiene & Tropical Medicine (LSHTM) and published in Remote Sensing,"
-    publishedDateTime: 2020-11-19T23:34:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/lsoh-ai111820.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 40
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dell Technologies to explore AI and machine learning at GITEX 2020"
     excerpt: "US tech giant Dell Technologies is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai Worl"
     publishedDateTime: 2020-11-24T08:41:00Z

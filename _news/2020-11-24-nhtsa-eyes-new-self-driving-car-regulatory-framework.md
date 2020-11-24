@@ -53,6 +53,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "U.S. regulators open process to ensure self-driving car safety"
+    excerpt: "US auto safety regulators on Thursday said they were opening a formal regulatory process that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA) said it published advance notice of proposed regulations to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-24T16:15:00Z
+    webUrl: "https://www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
 
 secured: "ndB3WWuDfbxyS9s/PddV2FoiTQQDvCVVk4wVx7YSkFdRvDwjTzx5tdqz6pPCK3Hq6T4+ehJuZlZheNkDabVLGY0s5FROyty9Mznu53d14Og0zpptYsx93UyW601cC1ofWBKDCHqD1yNU3TE8i9CZUPkBRIypmfeyp0ZyRUaR4DNgmdpuAbpg4CwXRNfNFTJQXE3KQtOVqOfumYn5xiRPCc1UmYJeE6BsqJLzABPnCBTpsFjh8s06MD8idRj7HF78aP6JOX8qFc4nJBKRDb4wS++7J884o8yXVQfhVtcL9ytNNy3uVN0TKXJBtaAR6ob6uIoZwlxJI6S1eav23fruiAjMwfqX6skGwgrYyWPOAgc=;6iKdEw2IjnK851LRA1JDlA=="
 ---

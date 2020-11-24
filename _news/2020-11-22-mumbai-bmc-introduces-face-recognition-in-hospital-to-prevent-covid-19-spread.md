@@ -9,7 +9,7 @@ ampWebUrl: "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recogn
 cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
 type: article
 quality: 70
-heat: 90
+heat: 120
 published: true
 
 provider:
@@ -58,6 +58,50 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/061f821/2147483647/strip/true/crop/1616x909+0+71/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2Fee%2F5aefd9c843668d1285e44d2407ec%2Fscreen-shot-2020-11-20-at-3.24.46%20PM.png"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
+    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
+    publishedDateTime: 2020-11-24T02:37:00Z
+    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    type: article
+    provider:
+      name: CBS News 8
+      domain: cbs8.com
+    quality: 44
+    images:
+      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
+    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
+    publishedDateTime: 2020-11-24T15:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 39
+    images:
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
+        width: 750
+        height: 435
+        isCached: true
+  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
+    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
+    publishedDateTime: 2020-11-22T04:57:00Z
+    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 12
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "d875yP8leufKNV/GnO8g1Z/VGdxbiXNtKAAyUKqDFbdhCvdkc7SBVQSnRZBnNmrbAUDDg5LkWqIzc1FCVa4P3fZIezKqSmvTZJ1/CTQnUQRCZLg0USjNoSViZdgrayTeKxmWea+j5xNT8PUX/Si/1AhT/vV1sfLsjxEv1mJjK1O3NLICvMYnqYG7BTlJ0ijZD6LVe+uv/jjl8on8MkOgNLJO9EmWoLGz8fdD7hfeq2Kt1OZ6gRxcdtFlxjJ5lcd9Zggi96FrfSYdBZ/51OiZNUyCk+xiRKLUFBOVGNrsPeFFwaw31HsStfNl22UNXzycTVKR+yRjhzVai+6A6EaxP+vRhvY9/cAxIrMBjB2vuL9osk6bpfQSaCkSuYxUMObSWFnfgz5GbXaB5URKZ+4Qw/clv5kMijg/skFBeqI5ZB6a0P3Kw6SP0YjgdKPJKWDJZnc3wdwRpNbCS4fpHb9rmT1X2/tERoHxYMrqPke/zExgxDb/2NayypJd2bc0H8IWKts8dF8dP2ppyp+iLL73pA==;m6+iou4q3QKNzxh9ewGNVA=="

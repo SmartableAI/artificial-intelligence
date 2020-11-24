@@ -61,6 +61,20 @@ related:
         width: 620
         height: 300
         isCached: true
+  - title: "Global Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2020-11-24T16:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "y8pc4CCZjgtPzHJKYcCeUoCWxtMGYifG387OsBz8OFmBwYubpFVKzkNiBadKspLWPe04I/xFWyo/rl1zD8eqW5MON1OiRkvEkR2WBrIUXsC3yEdIzCSDt4WZQjjsUs+x0M9y4fZyYC5jbnZJm0FvSqrLzqTF2FlwYlDD+25G0n/L2wDTHUL3OaWub0b9UCcubVXaB7aKjaiRKP1YdiXFvMUWi6jWGTUfbp8XaSC2fVua62K3Pkf37AFYjz7tI2MBSxTgIM4I6gWobpbBmHse4DHJVEFAHBS3facoZebPqjuvHG/1oDgNwO2y/HYr3Q4IULkbEy9JodcQMilfxbQyCwoda9PzoDpAi99YczkjilwHXo6A8oZBv9T6bi5P90AEUYWIPh6IW4oht+USQti/wsqnT21Hj9zSqt3grks+hgEVfc3NScgua9M7gfv0702o8dquyIGE9EvrYcot7kyKvDbMuOgTcq2nwDw9UiMVooCf0v/xSsW882TS0HybQA42gSXtwg+QycmJszHl5dQjpA==;1n4NteVhRu4ai5y6oQpBFw=="
 ---

@@ -91,20 +91,6 @@ related:
         width: 1800
         height: 938
         isCached: true
-  - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
-    excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
-    publishedDateTime: 2020-11-20T00:06:00Z
-    webUrl: "https://www.colorlines.com/articles/lapd-bans-use-commercial-facial-recognition-technology"
-    type: article
-    provider:
-      name: ColorLines
-      domain: colorlines.com
-    quality: 39
-    images:
-      - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
     excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
     publishedDateTime: 2020-11-24T10:57:00Z
@@ -119,6 +105,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Rise of Facial Recognition in China’s Real Estate Market"
+    excerpt: "Some homebuyers counter the rise of facial recognition technology in real estate offices by wearing helmets during their visit."
+    publishedDateTime: 2020-11-24T16:15:00Z
+    webUrl: "https://www.whatsonweibo.com/the-rise-of-facial-recognition-in-chinas-real-estate-market/"
+    type: article
+    provider:
+      name: Overview of China's 2016
+      domain: whatsonweibo.com
+    quality: 19
 
 secured: "3x9lh/vp5labTdmbeBt1jmHSOENax61rcU27C5I66D8k6Fkrn6/Pgi+0R4nDbVt2eSPHXa06iBLDCQI0qzxxBP//b5WkdNCiXa9LzSpOFifP7G/OQ44+rUISrMiv8TYyWVW2sZeC5xDN57RRDxaN+ql1o85qTacAIZFyBis8KajGWnrCxgJO9KB9qZz9qwTxoEH5T0s65HWl3ZgkMUOA+CbH65Q4roOxB3FcqGOse9Nt/UaJT3O5B/t/5F/wmEOZUx8tU347vZvkuKuLMOPi4m6a90Itc/aoJ3w9d49MI/rKFrUh98b+KOKTckyaZRUKfZ/CGFZeatMEJZ/04hcR+r/N/sPapzeZhdvt3GN7hxybZCKh+hzVz16qudl+5agsnaOV/XQnLF3GZypploIUab+7vOdGyObAFJThXgDTEXLR6DFJpK2woLVmSV03qXT5vEaheVTr58Q5Y8eWWmkKjAKgf6ejR35yctGiChq3npoehXKc8CdNy83OtJ+hqnS/a+6zMU46doUA8Ixi8d3ctQ==;bCkqNlMuHvjRlTsAV94jZw=="
 ---

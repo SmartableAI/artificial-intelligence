@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-artificial-intelligence-satellite-tech
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence & satellite technologies reveal detailed map of air pollution across UK"
-    excerpt: "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date. Highlighted by new research led by the London School of Hygiene & Tropical Medicine (LSHTM) and published in Remote Sensing,"
-    publishedDateTime: 2020-11-19T23:34:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/lsoh-ai111820.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 40
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Regulation 2.0: The AI technology revolution is here and now"
     excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
     publishedDateTime: 2020-11-24T12:10:00Z

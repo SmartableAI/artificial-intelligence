@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summ
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/tavern.png?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Black Friday And The Ethics Of AI"
+    excerpt: "With Black Friday around the corner, many businesses have adopted artificial intelligence (AI) to identify changing consumer trends and optimise sales."
+    publishedDateTime: 2020-11-24T09:17:00Z
+    webUrl: "https://africa.com/black-friday-and-the-ethics-of-ai/"
+    type: article
+    provider:
+      name: Africa.com
+      domain: africa.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/africa.com/wp-content/uploads/2020/11/black-friday.jpg?fit=800%2C450&#038;ssl=1"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "NZhtEAEl88SawD5t6TNZcpzQjVgSxM5I9qtT/CSZGV504JbBopc4JIceup0036ye5lyCrZ/8ssmZ4mFn4X8JdwKqGwHVMo3yEGpaqztPHcl1oPRxdbQMpvowNqjHPuQGZtWC1gvRLScWRSj9MGyiTTmDvF69Pc0SI0NKFiTStvzz4tUrUj9xms3giB117NtCWW0jmNI25OK2g3utpf3j0vVhK213L1GTH0BE6FSbrP5UvsNDkYjSny9yTiyRoHR8tk0U6lLpelQzsQWL3kI8Y+LLjAjNfLBxI2aU4wZeO0amBmJzruaVcqLI4U53FCJaXp083is45/q/6iidIlLoN4TTFfD6FIk6VFrg1l2YN5uYC+AAdbDQAfUX0JIEcSKGX4pdqBdys/yyTXbYM6lAKSb9xTy1AhfR76n9ZMlSouKCbW/QF+mIdhO4bS22ccym/WPOBHTiltuyvxd9V+qhr0WAL2CIzqtUvV5lT7PwuY6sRcK6WYHM76ifCWUNeHeeirJkfIP5tYmZa64Kwn4aZQ==;WMHvHePj+TVRBtdd0+5bLQ=="

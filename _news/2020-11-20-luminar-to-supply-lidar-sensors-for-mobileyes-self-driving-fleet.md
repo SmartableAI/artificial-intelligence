@@ -55,6 +55,22 @@ related:
         width: 1200
         height: 647
         isCached: true
+  - title: "Luminar to supply lidar sensors for Mobileye’s self-driving fleet"
+    excerpt: "In today technology news, we covered about the Luminar to supply lidar sensors for Mobileye’s self-driving fleet"
+    publishedDateTime: 2020-11-24T14:56:00Z
+    webUrl: "https://www.compsmag.com/news/technology/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 44
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
   - title: "Luminar teams with Intel's Mobileye unit on self-driving vehicles"
     excerpt: "Luminar Technologies Inc. on Friday said it is teaming up to develop self-driving vehicles with Intel Corp.'s Mobileye. It's the second major partnership in a month for the Palo Alto-based lidar unicorn and the third of the year,"
     publishedDateTime: 2020-11-20T11:00:00Z

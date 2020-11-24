@@ -44,6 +44,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Black Friday And The Ethics Of AI"
+    excerpt: "With Black Friday around the corner, many businesses have adopted artificial intelligence (AI) to identify changing consumer trends and optimise sales."
+    publishedDateTime: 2020-11-24T09:17:00Z
+    webUrl: "https://africa.com/black-friday-and-the-ethics-of-ai/"
+    type: article
+    provider:
+      name: Africa.com
+      domain: africa.com
+    quality: 54
+    images:
+      - url: "https://i0.wp.com/africa.com/wp-content/uploads/2020/11/black-friday.jpg?fit=800%2C450&#038;ssl=1"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "aws4z58GKfbKXxePs1T/WyNfqixciCSDl2o9giECGt3p1ZQyhAzLc9pAUdKjI5j5sxKCKmw+iF5SiZ+gnm33DMSS+zcnbFIVvwxDXzukffwFeFP7UkC3VPgMdvdzDtCilZvSySGy9OYNR1cJKqrBAWRnp1sSWamnaMpCoJHaNuyQGr1XTKilGGBsCTBZMhtLWIdfbdRZprbAONPnDSdmNWiwWYQ69+NIYhUdtN+XK/cJaOpqsXMDRdvHxxn0K25J9OcQvnpIXTxaN9L1947K3gJoovBjH4s+BW86vQoq0Cn/g7mEatBpbloj252SltcwXPqpZ1OikqD34F9U9cTScEyEcF8qQGYiVVV0ZzFMkhuUsJfPyvWHfvI9R93LxwjMUZOpFQgeM5d4Vs+FlO8fcKs5P1VGS1AgVAHVZ8ZVit6pS9ZJFGBV2ArUNEXm3ebSGwvmadtsKIX++p1mtWLJ9EjWk9kAcAoanyAdq+H6eqSIkUtrcZznlAJqlvAcnLzAwMBpaozbDjy+2qPc6XYLRQ==;888XFGGWpbAP4N5mE5sg/w=="
 ---

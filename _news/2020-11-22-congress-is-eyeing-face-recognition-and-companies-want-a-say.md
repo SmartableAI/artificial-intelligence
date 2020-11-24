@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/congress-eyeing-face-recognition-compani
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
         width: 620
         height: 300
+        isCached: true
+  - title: "Global Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
+    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
+    publishedDateTime: 2020-11-24T16:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "JIViX/EbXYQIkBYZG3K2QH2RLAsPUA7Zgv/2O90mNbXmf7PG9X6wLVSijLdWkUuHuGYXqpi1IKb3UxyAIn65TDZxGL2GNaSsDxCokBnbOd1QSiHlk+V8ULKpMlNW1J3/HsKRsFapMsbWn1el1Fl5dPr/pu1yHdY845E4+y2RqW8E/7l2RRgGyETBwzs/MKbSBT/AlBgJctBJZRZOwWeW61W/4WlxQnnzhLnyqjZdhflZVCDeCrU0ecMRZu4s1kT36YvLQCJ015RDgC8QZTzUmD4O/tBs7z6gh/e0u4mJuu6elrDBaXsI2yq/fcOj3iMPFFb+nrIlF+U8DNqrdAGbvplHitaZSSLabkCqAdiYJ/IImOKR2BdFLAVk27o/IPAjIKYxZZTrH2F7uZ+k0b3pI0zZHzioeePg6ft86X7XR7D7Q6OrWxldFZoIExb54OX0QCaBSxhZ7yF9FdudzOikTkJriDeXQjnqIUvsLfpPRYpenNkBw9/kwVund9Bf5xbduk4b7Pl3lGXTchIj3C/D0Q==;wMh12r8qwkg9A2hJ3LHI3g=="

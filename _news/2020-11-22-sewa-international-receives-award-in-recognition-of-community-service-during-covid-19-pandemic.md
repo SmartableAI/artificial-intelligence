@@ -25,65 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Automating business processes with machine learning in the COVID-19 pandemic"
-    excerpt: "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning"
-    publishedDateTime: 2020-11-20T00:56:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
+  - title: "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread"
+    excerpt: "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,"
+    publishedDateTime: 2020-11-22T01:56:00Z
+    webUrl: "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
+    ampWebUrl: "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
+    cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
+      name: Mid Day
+      domain: mid-day.com
+    quality: 70
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
+      - url: "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg"
+        width: 670
+        height: 440
         isCached: true
-  - title: "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge"
-    excerpt: "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data"
-    publishedDateTime: 2020-11-21T01:15:00Z
-    webUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/"
-    ampWebUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
-    cdnAmpWebUrl: "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+  - title: "Face recognition attendance system for BMC staffers soon"
+    excerpt: "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,"
+    publishedDateTime: 2020-11-23T00:30:00Z
+    webUrl: "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon"
+    ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
     type: article
     provider:
-      name: Direct Relief
-      domain: directrelief.org
+      name: The Free Press Journal
+      domain: freepressjournal.in
     quality: 59
     images:
-      - url: "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1"
-        width: 1024
-        height: 574
+      - url: "https://cnt.trvdp.com/truvid_default/640X480.jpg"
+        width: 640
+        height: 480
         isCached: true
-  - title: "To combat COVID-19 ‘infodemic’ on Twitter with machine learning, Novetta taps AWS"
-    excerpt: "Decision-makers and activists combatting misinformation about COVID-19, which Novetta calls the “infodemic,” need better information about what people believe about the pandemic. Twitter has become an excellent resource to harvest such information,"
-    publishedDateTime: 2020-11-21T01:31:00Z
-    webUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
+  - title: "Facebook using artificial intelligence to forecast COVID-19 spread in every U.S. county"
+    excerpt: "A new county-by-county forecast from Facebook projects San Diego will see another 10,000 cases by the end of the month."
+    publishedDateTime: 2020-11-20T22:15:00Z
+    webUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county"
+    ampWebUrl: "https://www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
+    cdnAmpWebUrl: "https://www-10news-com.cdn.ampproject.org/c/s/www.10news.com/news/coronavirus/facebook-using-artificial-intelligence-to-forecast-covid-19-spread-in-every-u-s-county?_amp=true"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
-  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
-    excerpt: "The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson's disease."
-    publishedDateTime: 2020-11-24T08:59:00Z
-    webUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.html"
-    ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
+      name: ABC 10 News
+      domain: 10news.com
     quality: 49
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/56-artificialin.jpg"
-        width: 800
-        height: 600
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/061f821/2147483647/strip/true/crop/1616x909+0+71/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2Fd2%2Fee%2F5aefd9c843668d1285e44d2407ec%2Fscreen-shot-2020-11-20-at-3.24.46%20PM.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
     excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
@@ -101,19 +89,19 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
-    excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."
-    publishedDateTime: 2020-11-22T12:34:00Z
-    webUrl: "https://www.analyticsinsight.net/top-new-covid-influenced-ai-and-machine-learning-trends/"
+  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
+    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
+    publishedDateTime: 2020-11-24T15:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 33
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
-        width: 1285
-        height: 722
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
+        width: 750
+        height: 435
         isCached: true
 
 secured: "Cbfxn0pqGxQ/maivNFTMl/jYGKT/WRYJScfI/vteiGE5vBXGV7Xw/SDNW1evgpIWZDQpzhHn0DLlqAFp87H+WOrC5Tw9uZ8b+d+W5qmioGVqcF1mgw+dN9QipS6rWmrcy28zrLsHfIz3FgyCC7cs3jNc/5ZMkdEmW8L5SOEo5LXH5Bv/YEjpC2SyH96PhpXG2n9iXuiuTD68CHimJmI+dcyLXi/lwdB+A33UdKH+TrmYVJvbuRhIdiPFsLiPtW/lTUAwaz+Q6Zp2PbzC+7tFCHBZLRN5NOvvtASt4fVQBDxniyug4qqecZmXsyy5DTaXpsi/U1ORV60VoxpfNW9w3HRKEQFL0UzX1fxxRwd8Svc=;wedudzGj2h7XMbNoZL/VSw=="

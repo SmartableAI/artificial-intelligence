@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robots-mar
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2026"
+    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
+    publishedDateTime: 2020-11-24T15:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2026-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

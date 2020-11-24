@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-25-a-successful-ai-cameo-in-the-lab.md",
+      "title": "A successful AI cameo in the lab",
+      "excerpt": "Or, to be more precise, they developed the AI algorithm that found it, and stands ready to do so again. In the latest chapter in the unfolding and occasionally slightly creepy story of what artificial intelligence can do better than us,",
+      "sourceUrl": null,
+      "webUrl": "https://cosmosmagazine.com/uncategorized/a-successful-ai-cameo-in-the-lab/",
+      "originalUrl": "https://cosmosmagazine.com/uncategorized/a-successful-ai-cameo-in-the-lab/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cosmosmagazine.com/wp-content/uploads/2020/11/201125-Maths.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cosmosmagazine.com/uncategorized/a-successful-ai-cameo-in-the-lab/?amp",
+      "cdnAmpWebUrl": "https://cosmosmagazine-com.cdn.ampproject.org/c/s/cosmosmagazine.com/uncategorized/a-successful-ai-cameo-in-the-lab/?amp",
+      "publishedDateTime": "2020-11-24T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cosmos",
+        "domain": "cosmosmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-zalando-selects-aws-as-its-preferred-cloud-provider.md",
+      "title": "Zalando Selects AWS as Its Preferred Cloud Provider",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers.md",
       "title": "The ethical use of AI will help businesses when engaging with customers",
       "excerpt": "Dries Cronje, CEO if Deep Learning Café, says that ethics will play a critical role as more businesses leverage AI in order to tap into customer trends.",
@@ -241,7 +335,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market2020-research-growth-opportunities-analysis-and-forecasts-report-till-2026-2020-11-24",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -290,8 +384,8 @@
       "title": "This AI chip claims to mimic the human brain",
       "excerpt": "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "originalUrl": "https://www.techradar.com/nz/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "webUrl": "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "originalUrl": "https://www.techradar.com/in/news/this-ai-chip-claims-to-mimic-the-human-brain",
       "featuredContent": null,
       "highlight": null,
       "heat": 114,
@@ -308,8 +402,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techradar.com/nz/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/nz/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/this-ai-chip-claims-to-mimic-the-human-brain",
       "publishedDateTime": "2020-11-24T03:13:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1115,7 +1209,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/359653",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1156,92 +1250,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-industry-voiceshow-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19-and-beyond.md",
-      "title": "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond",
-      "excerpt": "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19",
-      "originalUrl": "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercehealthcare/1605998117/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?MrxsGtXtZcyI.Q4pV0YvFxd.yTFvo99G",
-          "width": 1000,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fierce Healthcare",
-        "domain": "fiercehealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020.md",
-      "title": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020",
-      "excerpt": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The “Paris Region Challenge",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

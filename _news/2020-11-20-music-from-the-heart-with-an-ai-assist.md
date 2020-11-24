@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/inside-google/googlers/hip-hop-artificial-intell
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1300
     height: 541
     isCached: true
-
-related:
-  - title: "Canvas emerges from stealth with AI for drywall installation"
-    excerpt: "Construction startup Canvas uses a modified lift, a robotic arm, and sensors to install drywall in the San Francisco Bay Area."
-    publishedDateTime: 2020-11-20T00:00:00Z
-    webUrl: "https://venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/"
-    ampWebUrl: "https://venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/canvas-emerges-from-stealth-with-ai-for-drywall-installation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/V155410.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "vcVhVMt39nGJfseWt2+sce+YrTVBxEsjnS0VkdoeBuJae/YAzARwlvayiRvmsxsqCo2xVqYcEXAKS0J2f7hmxCEJ5qykaVr5hUfbvf4PFMfrgQDBPWUTEiJxubqPTUntMTHaYapn5p822O7JkIt7xOX0o8gOSFG4GXe989W4+V2xvKfA1MrKt99wTubBsciCnhiKTucPKl5AEqeKtqLbkfYnu0s3fE/V4I/S9qrD3Aylghur9FeVdmMlq1y1sA8PcRY1D6Wbmrs3yb5/QKVKECLooDtHp0zPJLiwi8mMwaRdF+JfIZRGEJODrYwtC7n11WDtabbYwGlC9bCRNjz7vqzf/3Aboc620/eGLGfPwh8=;iUs7aHgeiBsoLeAepbgq5Q=="
 ---

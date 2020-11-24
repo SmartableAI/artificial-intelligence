@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/11/19/business-email-compromise-star
 webUrl: "https://siliconangle.com/2020/11/19/business-email-compromise-startup-abnormal-security-raises-50m/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1028
     height: 684
     isCached: true
-
-related:
-  - title: "Abnormal Security raises $50M to double the size of its machine learning and data science teams"
-    excerpt: "Abnormal Security announced that it raised $50 million in Series B venture capital funding, led by Menlo Ventures."
-    publishedDateTime: 2020-11-19T23:37:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/11/20/abnormal-security-series-b/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 59
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "X/ECCwhBN3rnDx5XSF94WtPkRZcsJPZKAsoOIkeVanWLH4LlCnC3x8YzU+pXPSDuhkeHUKmV7NT0EUJISTNmiFKt3LhgxM9kkQrmt95+XlzkMai5Uk0/wBJ+795ExaD3DOYhaEDXbTfI4LvAWjWED4Kis2cCobvbBkeyqhfo2q9WFKZnhIkDvUEk8EJVqxruNwqwFgxCEz03IW751ieQ0vonofEcDBj0lzkI04w6yuyUznc4EZ+ECkLx24y2y8aqLAuVj8hR5ysW5MRcQ9Swb/nyA/cCmu0kikgvu/owGw5XpS9A9OnyMCQ7SGv4GnqtMOMZJ6jK6+vJ5hm+zOQohlwC3r7UwQz0d5mByFAVn64=;TSSmKn2RZBrf6yFYA1sOYw=="
 ---

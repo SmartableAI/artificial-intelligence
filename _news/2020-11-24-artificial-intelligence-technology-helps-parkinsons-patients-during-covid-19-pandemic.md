@@ -1,45 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
-excerpt: "The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson's disease."
-publishedDateTime: 2020-11-24T08:59:00Z
-originalUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.html"
-webUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.html"
-ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
+excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
+publishedDateTime: 2020-11-24T05:03:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2020/56-artificialin.jpg"
-    width: 800
-    height: 600
+  - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
+    width: 720
+    height: 540
     isCached: true
 
 related:
-  - title: "Automating business processes with machine learning in the COVID-19 pandemic"
-    excerpt: "COVID-19 has changed our world significantly. All of this change has been almost instantaneous, forcing companies to pivot quickly and find new ways to operate. Automation is playing an increasingly important role to help companies adjust. The ability to automate business processes with machine learning"
-    publishedDateTime: 2020-11-20T00:56:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/automating-business-processes-with-machine-learning-in-the-covid-19-pandemic/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 88
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png"
-        width: 1260
-        height: 630
-        isCached: true
   - title: "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge"
     excerpt: "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data"
     publishedDateTime: 2020-11-21T01:15:00Z
@@ -56,65 +40,74 @@ related:
         width: 1024
         height: 574
         isCached: true
-  - title: "To combat COVID-19 ‘infodemic’ on Twitter with machine learning, Novetta taps AWS"
-    excerpt: "Decision-makers and activists combatting misinformation about COVID-19, which Novetta calls the “infodemic,” need better information about what people believe about the pandemic. Twitter has become an excellent resource to harvest such information,"
-    publishedDateTime: 2020-11-21T01:31:00Z
-    webUrl: "https://siliconangle.com/2020/11/20/novetta-taps-aws-grapple-covid-19-infodemic-twitter-machine-learning/"
+  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
+    excerpt: "GE Healthcare today announced a new artificial intelligence algorithm to help clinicians assess Endotracheal Tube placements, a necessary and important step when ventilating critically ill COVID-19 patients."
+    publishedDateTime: 2020-11-23T13:04:00Z
+    webUrl: "https://www.nasdaq.com/press-release/ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 51
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/07/virus-5308335_1920-PixxlTeufel-Pixabay.jpg"
-        width: 1920
-        height: 1200
-        isCached: true
-  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
-    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
-    publishedDateTime: 2020-11-24T02:37:00Z
-    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 48
+  - title: "Amid COVID-19, Yeshiva U., Eleos partner to combat mental health crisis"
+    excerpt: "We are training 21st century clinicians to provide excellent care and support in any setting, whether in face-to-face therapy sessions or through teletherapy.”"
+    publishedDateTime: 2020-11-24T14:45:00Z
+    webUrl: "https://www.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120"
+    ampWebUrl: "https://m.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120/amp"
+    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120/amp"
     type: article
     provider:
-      name: CBS News 8
-      domain: cbs8.com
+      name: The Jerusalem Post Blogs
+      domain: jpost.com
     quality: 44
     images:
-      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
-    excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."
-    publishedDateTime: 2020-11-22T12:34:00Z
-    webUrl: "https://www.analyticsinsight.net/top-new-covid-influenced-ai-and-machine-learning-trends/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 33
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
-        width: 1285
-        height: 722
-        isCached: true
-  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
-    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
-    publishedDateTime: 2020-11-22T04:57:00Z
-    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 12
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
+      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/440633"
         width: 640
-        height: 480
+        height: 428
+        isCached: true
+  - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
+    excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
+    publishedDateTime: 2020-11-24T15:12:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-s-new-chest-x-ray-ai-double-checks-ventilator-tube-placement-covid-19"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 42
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1606233616/GettyImages-1212285302.jpg?Kxy_9p9pK18xlhmAzO._1YwgdRaDXz87"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
+    excerpt: "Critical Care Suite 2.0 helps clinicians assess Endotracheal Tube (ETT) placement for intubated patients, including critical COVID-19 patients."
+    publishedDateTime: 2020-11-23T17:04:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123005895/en/GE-Healthcare-Announces-First-X-ray-AI-to-Help-Assess-Endotracheal-Tube-Placement-for-COVID-19-Patients"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 38
+    images:
+      - url: "https://mms.businesswire.com/media/20201123005895/en/841166/23/GEHC_logo.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
+    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
+    publishedDateTime: 2020-11-24T15:55:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
-secured: "DIDpCTNyy/KOKHkr9C/d+xY2I/chKzRGtUIWqCq96+8J1ZRT55PnGdHjMzpBwsdB78//xyuvtowm7+tT9CXcHV6mzw4C+66eCWxj7QBdz858dL96PoE9pzafxiNoYCvGwbvTNOoS0yb2E+DAwGfdZHm9cTZ7ihgBWRFE9BVFDygydsk9PYMfRTOeScro8LNierLemeIrPtcr66JXSGCP1JA27BgvM4pnDaGcsxVNKXAgdito84+C67+9qXB9OFlOK/BsGSQGGoVmm6qjbSVmMrrQHFWImvtcqDh9qVEMYjtIS5nUmnibxP1OfLxALdwOSsWsQXk6rmSnoh5jkK6oNfOBpkDZWlOoGCqPcMsbTcw=;03yj6nyL7SMm9P0hp+KXCg=="
+secured: "/yR37MW4FXKL8bbfMIZkSzfea/8791sz/DP15ueIv/ncslMXRqL1EJyU113g151BcG4j40yf0/CoNWpJhC4t0i69W9mt1OO5VitrRfvqXjL5tujd4iFeiSGzZdvRTo7f5KA7aCqDSQDs5+H7dfp5WaeZ5PjUM/PW4cZrFwZwAaiiYbxYDJvOe/96wFaWDuU8ngz9Wc4G1W3FT6GC9zhHH9EWrFzL2SFWhuRVEkWs95bueUmiKdyo7XrUGODPf0yF+a6eKKqfC7iDPTD795kVB69gQmc8TUnN3AOW9exLImDTp50PjIz2i0gNRoeP0x+HjjEJqfHF7rH/Htl+5HV7uq1cnZbBdc5hmMuJLU6eOBU=;7g02i+DOhfVjmv+uBaiTrw=="
 ---
 

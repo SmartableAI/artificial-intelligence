@@ -7,7 +7,7 @@ originalUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID
 webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144033"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento"
-    excerpt: "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is"
-    publishedDateTime: 2020-11-19T23:26:05Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/"
+  - title: "Adobe Adds New AI Capabilities to Magento Commerce to Enhance Digital Business"
+    excerpt: "CIO.com delivers the latest tech news, analysis, how-to, blogs, and video for IT professionals. Covers apps, careers, cloud computing, data center, mobile, outsourcing, security, social media, hardware and software."
+    publishedDateTime: 2020-11-23T20:14:00Z
+    webUrl: "https://www.cio.com/article/3598270/adobe-adds-new-ai-capabilities-to-magento-commerce-to-enhance-digital-business.html"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
+      name: CIO
+      domain: cio.com
+    quality: 33
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg"
-        width: 727
-        height: 630
+      - url: "https://images.idgesg.net/images/article/2020/11/istock-1204583853_v2-100868079-large.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "New Artificial Intelligence Capabilities Improve Retail Experience for Magento Merchants"
     excerpt: "San Jose, CA, Nov. 23, 2020 — Without a doubt, COVID-19 has been one of the greatest shocks to the way we live, communicate and work, compelling people to move … Continue Reading →"

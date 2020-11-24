@@ -105,20 +105,15 @@ related:
         width: 1800
         height: 938
         isCached: true
-  - title: "LAPD Bans Use of Commercial Facial Recognition Technology"
-    excerpt: "The decision follows a Buzzfeed News report stating that Los Angeles officers were using a platform that pulls data from social media outlets."
-    publishedDateTime: 2020-11-20T00:06:00Z
-    webUrl: "https://www.colorlines.com/articles/lapd-bans-use-commercial-facial-recognition-technology"
+  - title: "The Rise of Facial Recognition in China’s Real Estate Market"
+    excerpt: "Some homebuyers counter the rise of facial recognition technology in real estate offices by wearing helmets during their visit."
+    publishedDateTime: 2020-11-24T16:15:00Z
+    webUrl: "https://www.whatsonweibo.com/the-rise-of-facial-recognition-in-chinas-real-estate-market/"
     type: article
     provider:
-      name: ColorLines
-      domain: colorlines.com
-    quality: 39
-    images:
-      - url: "https://www.colorlines.com/sites/default/files/styles/twitter/public/2020-11/LAPD%20Bans%20Use%20of%20Commercial%20Facial%20Recognition%20Technology-11192020.jpg?itok=cRxQ4qX9"
-        width: 800
-        height: 533
-        isCached: true
+      name: Overview of China's 2016
+      domain: whatsonweibo.com
+    quality: 19
 
 secured: "KM2ss4IOi48COycM9wjeXM3NyW4qXCtQQckjB5Rzep03o4FB0b1gbEVoXatfmO6X16DhXtbKmQw2Uh7Xm3R/AHhahk3qHMHVn0YYkoKbnswQeUb7F6KZkfJGY8BXZ4NMInMQ+4oCuKdY6+CODP7/e3JWFuEHdMk6yMp8mMXktvq28yRg7O23KAnHa6qFsj0jWwN44gXF52PSNZd0cIsb/W/C29GdlxswQ1M/LsH1Ln3bqukMkkuGpbpAw5PGi6jfKiZMZiynK2k8TCRrTax5NVwfemfUVlm/QHoFlCqVeF0Jq1TPYlqQzfan7hvDm8Md1UZD2q0T6R3ZdG4d7aH/0tuB03/JBNaOmJJJqQoN1wo=;APljJmmSOTvPSBZNMSKtxQ=="
 ---

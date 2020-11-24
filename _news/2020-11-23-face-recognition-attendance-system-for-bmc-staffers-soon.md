@@ -59,6 +59,50 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
+    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
+    publishedDateTime: 2020-11-24T02:37:00Z
+    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+    type: article
+    provider:
+      name: CBS News 8
+      domain: cbs8.com
+    quality: 44
+    images:
+      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
+    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
+    publishedDateTime: 2020-11-24T15:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
+    type: article
+    provider:
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 39
+    images:
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
+        width: 750
+        height: 435
+        isCached: true
+  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
+    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
+    publishedDateTime: 2020-11-22T04:57:00Z
+    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 12
+    images:
+      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "xOzVqLVNgQqa/qUzHL56n+IqhyqwqFLlYeiGdXmHkqHFGsLCOCHJt9TAROEQbfLoAk4g3H51nRPt0X6FQKHBkE/EYjeDmm7bSCtxWxJl2SYTXc1esNMdQ92T06E6EiRiv7STU12qCwnATXYObeQqLICYwF8SsTdxL++hxvTEw2ob9Rpq5BdpYuxdswFd5zAEWh6ABn4FQ2csJQM6bQS27VGWLZODK4o+5eoZBNmJUZdUBqgy2qEI1NvR9HXrD2zyFhcwpb2wTyyj9AQhI9b/wmZNTo8ClGld8KKy4+A+Eu3AR5zHDVEOxfEXmzVm6aBuJG6HgRhn78w7/lFdki6312YVeFW/bQx2H/j868ee5+4=;mdTvWDeNFOHC5yjLtWCmxw=="
 ---

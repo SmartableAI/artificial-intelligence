@@ -1,21 +1,21 @@
 ---
 category: news
 title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
-publishedDateTime: 2020-11-23T20:07:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
+publishedDateTime: 2020-11-23T18:37:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - Microsoft AI
+  - AI in Robotics
   - AI
 
 images:
@@ -66,20 +66,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "New fellowship brings inclusivity to language analytics"
-    excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
-    publishedDateTime: 2020-11-20T00:55:00Z
-    webUrl: "https://asunow.asu.edu/20201119-new-fellowship-brings-inclusivity-language-analytics"
-    type: article
-    provider:
-      name: Asu News
-      domain: asu.edu
-    quality: 24
-    images:
-      - url: "https://asunow.asu.edu/sites/default/files/poly-hse-roscoe-lab-jh5269a-16x9_0.jpg"
-        width: 2500
-        height: 1406
-        isCached: true
   - title: "Global Cognitive Analytics Solutions Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2026"
     excerpt: "The latest informative study entitled Global Cognitive Analytics Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
     publishedDateTime: 2020-11-23T13:22:00Z
@@ -109,6 +95,6 @@ related:
         height: 627
         isCached: true
 
-secured: "CiviZS3xjTbfKdlstF6H8Ok9e6+yJVwDX0rW9g4nGw+dzc9Mh871qFsNv8GcNLemTJ8OgOO7d+ajLm2evDO48WPXJQ9rrfPxYdR1zO0+7y4c+NM6eF8cYJbVBqDkKhpeEz7p5PW6/OUEN2KiORxsQCETzIVXqIRUkIKOGotPLjdYzSc7BG2JX1DymbA/BqPMgoj9L4vO+95UrevXohdM0KCDA9lGqYNWMSJbvpmwPmbbnYfx9pRgR/JauKBOiDsFkKDZ9wWrtaEXE4RGtUM2he3I590HIUzm4P0NfIpFr9QgMWbBgfPRdIfmIhoStAwYXSbNNMr05tAcBgWn5ux3kiJC+m2kBY+FjN071DoC8EA=;kd9Jog7X/1uC7FfjnF3ajg=="
+secured: "Yx8WJ23HSfEGaIjnvt6doVYHm1BRfr6KbuZzqkVhSNQRKkeqmR1Cztaj3fo+k3DMLsGYDMwvQWd+O4TwyXi8dZuQvOuW4/sSIzSY9v0txxQeqCiebxzeBfpgLhlrf359QmO6CzJvH+LSNeA4i/I3DSWDtdDKMdUqdx+i8nLjCFe1mulhNCqZVtcUJXWo3FRDaTvAR/4N5umfsdi3Oa816T/QW8uysuorS5/UgPplDFmoLcQfRmrKXRl5LwbT4zo3nzNvg078otMA/CDiNR61DXwnipPekA/sRys3Vo5kjzXRkG6ZjW90pbD6bWTmpkRx7bitIP324CviBR4BuDt+X/uVEgjLAq8TDDCdZjNUY+o=;ANYWGzAQAo29Yb5CdjGzkg=="
 ---
 
