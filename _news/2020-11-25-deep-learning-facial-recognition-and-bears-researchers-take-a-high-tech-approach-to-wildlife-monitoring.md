@@ -8,8 +8,8 @@ webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-a
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 type: article
-quality: 71
-heat: 91
+quality: 73
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
@@ -64,6 +65,6 @@ related:
         height: 667
         isCached: true
 
-secured: "+zDxX4G0G1//IPMTK/nDdloVEZuCahCbP+xrBHEirnF2RYIOJLvjLLq2xeZH9VoyVimuDwpsQPJH4+QuL4AgWokrfw1wGzZTuWY94aaNKXl+37rXDz+L/MD4ifERxZ0yj3OqSS3Xx2GS+P3LD+XHhaMjnGV+dHqBA3eP/c+LrKrQCdcVoGPLvTkDYLQ/nXY/PG5eCr2+3qrcozzjL5ojkLwHs/+Dejf2/gu9Tr60Lw5iMJRUB/yIW0K7eu90/BoT2shug4CF93I4ROYBMm+wG79ujgROCOknVCF1N/chQKE5T3mISNRm7PcLtzfJRvy9NXe65qmaR5JJe3K3A08r/xB0bVCsRjw+BfAsVGNq2yc=;WKEVQP+jHebZ4imY9qP/Qw=="
+secured: "32GLCBp0dlyTVlI5cpYW+HTJa4882FtFtSPvzLdYwXRue354MRmfg6ILAVctQb96Q6/UQt1KXP3tf8HJTPpvp5bWShbKilRQYDGELx5i9VocIu07B8vSsurfr7X+mnSWawAd6lL+YnYg7OPPCSbzP93g2Um6W7Knflwcra/LtPX+t3UZ5h8MDZdz0zn6kHofD7S191tzGL7MyeFn0zt1/LjGSofRW0tU5aqeu5PwfaBtd1IHZ1V1wpvjWQ48J2FwPSvCOHswXcatDbTnML59mjlrOC9ViSk2sVdjEs5cWhscpQnclaIMrhRU0Co8WiiHTzcQ2y3OyU30/HsT+amjVm8/oupyl1H8WSJAtIZ4ZH03U5CwUEfk7theFUUoOZ3+5FDREYHPf+XOu8ifr7HM3l/5Qurx6fFJV8VLYYQeJ1iM1HQiH2yLAexW5znQEtsVK62aiH+r3BrWmz2biuTBmKRNzqDWPaU3cXzhH+zlOEZx+tFTPc9UD8wZHE5hD3yxW1+t/Lx05o5lGlEssSGLkQ==;yywxx8nw8zn4qobGCxNBQg=="
 ---
 

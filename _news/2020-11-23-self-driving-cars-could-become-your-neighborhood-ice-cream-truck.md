@@ -74,6 +74,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Regulators receive a roadmap toward smart self-driving vehicle policies"
+    excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Lawmakers at every level of government are still sorting the new rules of the road."
+    publishedDateTime: 2020-11-24T17:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/1CADDY-MAIN_i.jpg"
+        width: 792
+        height: 523
+        isCached: true
 
 secured: "87Ell4cfXwrMVXsju3DKcJeNgSJwER64i4tR0UonmarMey5cRoFPxobUI/2tn1/Mjc2ZZXqv0JualvfxSw6i9Pub+l80r9A091g0WlxaoWNJ1FpOjfkEm/aYDAe/Ro0W2c8dKGFVlY7o9AdpoqY+Jtj6JJaeERBepT/oeZGsZmhq1gAovSAJN+D5MzBTa9lD3XPIB+PBQwccjGs9UBe/t/Of6GtvqxUP0ldjJqk3yjgefqhOG05mHSuEy4ABPzRLwdBYaJSCkD5d1s0g2gdCSgxQpkA5XquO8aoiZAbbklLLZ7ck6nWxyoXEd2r3AhSPWvSNP+HQZD1H00IXHISs50HLqbucmqmJKXlhOoW75RvYPOeloq51cPGJNn49CsrjAUGgh6PPehq4iLoRCC9ovY6e+ca6KOjgMU6nvgtCvlW6qAr/2b+sXh7aYNq5zlK9H8Sag/9w1+joDKBF5Af/159LrO/FWqVVZX5qZ9D6EfXYIhpbNkHp84Gc0vt1PUp+h3NJRQ1gTmphk5iILxEVig==;upO6iBv1/stZPdSAU0wsPw=="
 ---

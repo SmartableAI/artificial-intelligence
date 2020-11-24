@@ -37,7 +37,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
         width: 1200

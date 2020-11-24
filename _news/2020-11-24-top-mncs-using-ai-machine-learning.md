@@ -47,6 +47,22 @@ related:
         width: 980
         height: 735
         isCached: true
+  - title: "How AI is changing workplaces forever"
+    excerpt: "With more than a century of experience partnering with governments and private enterprises to tackle the most pressing global challenges, IBM has also emerged as a leader in AI ethics. For example ..."
+    publishedDateTime: 2020-11-24T22:11:00Z
+    webUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever"
+    ampWebUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 59
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/nationalpost/wp-content/uploads/2020/11/1st-Article-Image-scaled.jpg"
+        width: 2560
+        height: 1392
+        isCached: true
 
 secured: "LDqyXu9YIb5EU3tWIGt/BZGCVZAbl9CC7x3CrQLHA8L/0CZvX9aGAnBcnODK6lAxQWv/bgL15Hyt4BLXsgEISMpTo3UpKTKMUX3br8RWkkusGwAvUYVw2u9Saufo65c14il4EBjn+PD466dzHvD1HivS5XUUgm+mOjMNDX7HsdaxYh0FocaIm95hq1QuZyWuIZQdkMRb8gCAEwWtAwrmlFP+wvLLYTB8Z0d9ofIX9Cgtyfibgyom6AZVpTzH3Pwtga4qVf1B68R5Ek7DK9zyDud7nF52pdrhuc5G53HgtcCzEM6SFG4JoUmUoUB9MZDJWlL5hS8Tf6EOc9/Y5b9sBSrN/nZaQZEdAgDESDlFWmFL5JgYSzpzbakWHx+1sipW8hnwcwmyGb67akRmcmLlcULRB8qwbD0fDKpLIeCs9rFs3sdaOi2/NA0v28ELz2xPy1mgDssmK3KdvuymVg5StEnCdEC/LWnjAbxJstgsJ7mi8kHU3vQrv4X5NVTcSgw1HFDOZjZQ+D9M2iDq4J/DMw==;xikpE6lFwm038XMKdKtMlw=="
 ---

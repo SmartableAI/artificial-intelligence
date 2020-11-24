@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meet these rising AI/ML startups from Australia and New Zealand"
-excerpt: "One exciting area of growth lies in artificial intelligence and machine learning (ML). In 2019, Australia announced its roadmap for AI technology, with a particular focus on tackling issues related to healthcare, infrastructure, and the environment."
+excerpt: "In 2019, Australia announced its roadmap for AI technology, with a particular focus on tackling issues related to healthcare, infrastructure, and the environment. Over in New Zealand, the government recently announced the launch of a regulatory framework that would govern public sector use of AI – a move that could help address some of the societal barriers surrounding the use of such emerging technology."
 publishedDateTime: 2020-11-24T19:33:00Z
-originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663730"
-webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663730"
+originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?comments=true"
+webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?comments=true"
 type: article
 quality: 64
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 578
         isCached: true
 
-secured: "TgsZ6rB6kIv9A/2SYTLHKd7RVcIZloilGC9M5woUaglKe7ndCqUjMHl6miWeoUEs6JAFXdJ81c5JwuckEwpaTSxyTONbpY+Xv6jusjbqI6hkNU504wuNOL5afusJPArSxqx84kOpEX/PpGiGnzXUNPsSdZxv/88ximlggVZlXq+LJzF+VaqOTLVDAQ4ZWsJhgg//mX55rJ1+yg2FW6lzErpMVxViWDFyiSSsLOTDRida9fF3EURjRxHNuhRR2ivRnDMk3+fow4ZXV+yjTDvMzY7i++aX0T5f1g4fWV4riU1m3Gl0wnZjT+GcxJnP/DTFK5FxPEc1qvVC04iQncexfBv2PoqlMZNxU1Dm0QodyZ7sH6DNfviT1lVZxKoBL18gfPnF8SNLQgL6X8ix2/ftwYCT397AUyYZsiOK7HAXPqiofWLalm91AXGk/TNr/VBxWMrbVMXDATUGNLAKk+UMtRArgPG6qby/7/gXoyFSZvS0PJmRPFOxYzvgcz2/aj3qqiwZCagcjefAdZIn2Ws2Zg==;gyi+8B/g4814WMlG9k25RA=="
+secured: "69WzPvGimVnQp9lHfJBComuxcm/AHisdooz1ebF5Xfrgc84k8T8P+8K9OgNVdskrsjmVkQlHavLlwesidOndW8CNTGM1e3ab3pP/RdzsDCHoqKeMSjajJbBtDEGsOxVrjU9WB0TP7M3XjDBAgBUp+onfrXjohtM3EEdU8qM/O/rW7v6WnrXvgZuBmgXldmUQlRT1AyPA/BHQPeu3FIk/Hn0EgBPQVIFeFyJHBJiDkRWUhkudEyl6d3KfrWHpZHuuaW5HkFoyEhGrHYi+uumSIscAXjs2xV0mDOAa7gqnctOn4yr5WOsBqjVpLvdtyQUbN7IdosDyo2xQdJK6D33qh7B4xPJeZVmDYUBGEkNjcesVVfqFkWuGit0RDG92T0MhMMBtQQm40XQK0FYtRai6O8RtKJI7ochWvGZS22sUSZwAQ3mfawKYjbjaHy4mmx3JJMFLq119THfwIuUlFrCNL4GJC2uTq2Zvi1tdjGreQaCY7ItLko8Phqk8QLM5RwScQYReKm7fRj3mtvmQTUQT3A==;ykyMDPMJhkpowGAOtO35zQ=="
 ---
 

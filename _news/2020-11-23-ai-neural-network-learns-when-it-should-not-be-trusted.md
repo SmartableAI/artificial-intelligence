@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "A neural network learns when it should not be trusted"
-    excerpt: "MIT researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,"
-    publishedDateTime: 2020-11-20T05:13:00Z
-    webUrl: "https://news.mit.edu/2020/neural-network-uncertainty-1120"
-    type: article
-    provider:
-      name: Massachusetts Institute of Technology
-      domain: mit.edu
-    quality: 69
-    images:
-      - url: "https://news.mit.edu/sites/default/files/images/202011/MIT-Network-Confidence-01-Press.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "Artificial Intelligence Neural Network Learns When It Should Not Be Trusted"
     excerpt: "A faster way to estimate uncertainty in AI-assisted decision-making could lead to safer outcomes. Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety,"
     publishedDateTime: 2020-11-22T16:57:00Z

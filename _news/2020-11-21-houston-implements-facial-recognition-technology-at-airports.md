@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chron.com/life/travel/amp/Houston-airports-facial-recogn
 cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -104,6 +104,20 @@ related:
       - url: "https://www.zawya.com/images/cia/zAmp/201124101510EUJS.JPG"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
+    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
+    publishedDateTime: 2020-11-24T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
         isCached: true
   - title: "The Rise of Facial Recognition in China’s Real Estate Market"
     excerpt: "Some homebuyers counter the rise of facial recognition technology in real estate offices by wearing helmets during their visit."

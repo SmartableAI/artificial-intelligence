@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-futu
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
+  - title: "Regulators receive a roadmap toward smart self-driving vehicle policies"
+    excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Lawmakers at every level of government are still sorting the new rules of the road."
+    publishedDateTime: 2020-11-24T17:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/1CADDY-MAIN_i.jpg"
+        width: 792
+        height: 523
+        isCached: true
 
 secured: "UVmvx8Pd6fN6rsRXJdLcx4k929QwsSS3b9a5C0bNnUnTwZyOC0nRQAT3VUb05qg6+4JRHbTO7nXr6pQ/M/dVryW05xNr8BZNCoAP3PG3NM9+oXNafV+GBhdGwzufcTZ3iObsr3bj3oXLmwHqLE9KsgAYRStm4HPEAQP0mZBuAmt/zDKIGxF3+0TIEW6uMXHDm7juUwUuLmIoXSxhNqq/XxPLuXUttAp6ffRA7em0to7MQYhnMHuxZ14ymSEyI8enPNLiJSJuzrN680x4Om67ZectKnjktF3J6VOJtVvLC5yhhWx/7u9h5eNGsM7SYTSYiiQHWHQc+XsScjjQjYLEpK+XM7/rYf9d5r6mdPU0pjbE1l42G6fJOiC/mS/uC3Rwtg+7H4QTNiG/BjdngVIlP19FlvkFlrOA+Rv/z0OBgo6MTJ6zz6eVO4NrpwZzjwpio0ooU9gWRVrAUg1VpjL+C3yTFWhLPNk5zc6utZsBv9tLfZFjnGu6EU8bF/bXb8UCurPzHyUj9ip/00BRc3j+ww==;VhTCAs3U7QDap+yOiMmdpA=="
 ---

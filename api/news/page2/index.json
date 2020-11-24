@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-24-we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help.md",
+      "title": "We should hold animals accountable for their crimes. Here’s how AI can help",
+      "excerpt": "Two park rangers hiding behind a tree pointing a camera at a bear in the distance so they can use facial recognition software to determine if they’ve actually found the infamous picnic-basket-snatching ursus known as Yogi.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/wantedposter_animals-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/amp/",
+      "publishedDateTime": "2020-11-23T14:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-do-you-have-a-conflict-of-interest-this-robotic-assistant-may-find-it-first.md",
+      "title": "Do You Have a Conflict of Interest? This Robotic Assistant May Find It First",
+      "excerpt": "They can’t detect all conflicts, but new computer programs serve as guard rails when scientists and publishers fail to self-police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-CONFLICTSCOLOR/24SCI-CONFLICTSCOLOR-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
+      "publishedDateTime": "2020-11-23T13:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-customizing-your-machine-translation-using-amazon-translate-active-custom-translation.md",
+      "title": "Customizing your machine translation using Amazon Translate Active Custom Translation",
+      "excerpt": "When translating the English phrase “How are you?” to Spanish, would you prefer to use “&iquest;C&oacute;mo est&aacute;s?” or “&iquest;C&oacute;mo est&aacute; usted?” instead? Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/23/Customizing-your-machine-7.jpg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T13:43:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-kfc-rolls-out-self-driving-food-trucks-in-china-and-its-sort-of-wild.md",
+      "title": "KFC rolls out self-driving food trucks in China and it's sort of wild",
+      "excerpt": "Some experts believe the self-driving cars are in for a boom, thanks to how the coronavirus pandemic has started to reshape how we purchase goods. When a top priority is to slow the spread of a contagious virus, having things delivered can help some people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/vVVJc_UXS8zKfNCqn1-Zu_LkhS4=/2020/11/23/194f0a35-6f2b-4fe6-a886-776ba77b6ef3/ogi-kfc.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/",
+      "publishedDateTime": "2020-11-23T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-gpu-as-a-service-market-38-growth-forecast-from-2020-to-2025.md",
       "title": "GPU as a Service Market – 38% Growth Forecast from 2020 to 2025",
       "excerpt": "Industry analysts predict GPU as a Service market to be strongly driven by the rising demand for enhanced gaming experience from different parts of the world. The ability of GPU to give real-time data and improve the overall experience & graphics of gaming shall bring growth renewed prospects to the business sphere.",
@@ -458,7 +666,7 @@
       "originalUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -754,6 +962,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-23-go-player-cheated-using-ai.md",
+      "title": "Go player cheated using AI",
+      "excerpt": "By Park Ji-won A 13-year-old professional Go player was suspended from competing for one year, Friday, after she admitted to using artificial intelligence (AI) to enhance her game",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/sports/2020/11/663_299695.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/sports/2020/11/663_299695.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202011/9891d6fe8a78422187d93b73fb56391e.jpg",
+          "width": 980,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695",
+      "publishedDateTime": "2020-11-22T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-facial-recognition-software-can-now-reportedly-recognize-bears-jaweb.md",
       "title": "Facial recognition software can now reportedly recognize bears – Jaweb",
       "excerpt": "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday. Melanie Clapham, a postdoctoral fellow at the University of Victoria and bear biologist,",
@@ -1000,240 +1251,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-congress-is-eyeing-face-recognition-and-companies-want-a-say.md",
-      "title": "Congress Is Eyeing Face Recognition, and Companies Want a Say",
-      "excerpt": "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "originalUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "publishedDateTime": "2020-11-22T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-an-introduction-to-tensorflow-lite-development-on-android.md",
-      "title": "An introduction to TensorFlow Lite development on Android",
-      "excerpt": "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "originalUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "publishedDateTime": "2020-11-21T23:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-mumbai-bmc-introduces-face-recognition-in-hospital-to-prevent-covid-19-spread.md",
-      "title": "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread",
-      "excerpt": "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "originalUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg",
-          "width": 670,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "publishedDateTime": "2020-11-21T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high.md",
-      "title": "Artificial Intelligence and Robotics ETF (ROBT) at a 52-Week High",
-      "excerpt": "For investors looking for momentum, First Trust Nasdaq Artificial Intelligence and Robotics ETF ROBT is probably a suitable pick. The fund just hit a 52-week high and is up 96.8% from its 52-week low price of $22.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21",
-      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21?amp",
-      "publishedDateTime": "2020-11-21T14:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-affirm-airbnb-c3ai-roblox-wish-file-for-tech-ipo-finale-of-2020.md",
-      "title": "Affirm, Airbnb, C3.ai, Roblox, Wish file for tech IPO finale of 2020",
-      "excerpt": "For some of the most awaited Silicon Valley tech companies of the decade, this week looked good enough to file for IPOs",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/",
-      "originalUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-974037824.jpg?w=1024",
-          "width": 1024,
-          "height": 693,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/amp/",
-      "publishedDateTime": "2020-11-21T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

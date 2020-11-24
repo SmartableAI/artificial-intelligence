@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summ
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/future-ai-robotics-bengaluru-tech-summit-flipkart/amp"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://i0.wp.com/africa.com/wp-content/uploads/2020/11/black-friday.jpg?fit=800%2C450&#038;ssl=1"
         width: 800
         height: 450
+        isCached: true
+  - title: "How Artificial Intelligence Will Impact The Future Of Tech Jobs"
+    excerpt: "Artificial intelligence may seem like something out of a science fiction movie, but it’s used in everything from ride-sharing apps to personalized online"
+    publishedDateTime: 2020-11-24T20:46:00Z
+    webUrl: "https://www.upr.org/post/how-artificial-intelligence-will-impact-future-tech-jobs"
+    type: article
+    provider:
+      name: Utah Public Radio
+      domain: upr.org
+    quality: 39
+    images:
+      - url: "https://www.upr.org/sites/upr/files/styles/medium/public/202011/artificial-intelligence-3685928_1280.png"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "NZhtEAEl88SawD5t6TNZcpzQjVgSxM5I9qtT/CSZGV504JbBopc4JIceup0036ye5lyCrZ/8ssmZ4mFn4X8JdwKqGwHVMo3yEGpaqztPHcl1oPRxdbQMpvowNqjHPuQGZtWC1gvRLScWRSj9MGyiTTmDvF69Pc0SI0NKFiTStvzz4tUrUj9xms3giB117NtCWW0jmNI25OK2g3utpf3j0vVhK213L1GTH0BE6FSbrP5UvsNDkYjSny9yTiyRoHR8tk0U6lLpelQzsQWL3kI8Y+LLjAjNfLBxI2aU4wZeO0amBmJzruaVcqLI4U53FCJaXp083is45/q/6iidIlLoN4TTFfD6FIk6VFrg1l2YN5uYC+AAdbDQAfUX0JIEcSKGX4pdqBdys/yyTXbYM6lAKSb9xTy1AhfR76n9ZMlSouKCbW/QF+mIdhO4bS22ccym/WPOBHTiltuyvxd9V+qhr0WAL2CIzqtUvV5lT7PwuY6sRcK6WYHM76ifCWUNeHeeirJkfIP5tYmZa64Kwn4aZQ==;WMHvHePj+TVRBtdd0+5bLQ=="

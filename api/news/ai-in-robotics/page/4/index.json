@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-31-robots-are-helping-japanese-people-feel-less-lonely-amid-the-pandemic.md",
+      "title": "Robots are helping Japanese people feel less lonely amid the pandemic",
+      "excerpt": "In Japan, they're fighting back against the loneliness by buying up friendly robots. The demand for small robots has risen steeply as more and more people are purchasing them for their parents ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/31/robots-are-helping-japanese-people-feel-less-lonely-amid-the-pandemic",
+      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/31/robots-are-helping-japanese-people-feel-less-lonely-amid-the-pandemic",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apicms.thestar.com.my/uploads/images/2020/10/30/917288.jpeg",
+          "width": 800,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T18:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "thestar.com.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial.md",
       "title": "Artificial Intelligence Platform Reduces Hospital Admissions By Over 50% In Trial",
       "excerpt": "An artificial intelligence-based diagnostic tool has reduced hospital admissions by 51% among elderly patients identified by the tool as being high-risk, according to results of a trial released by health care provider Clare Medical.",
@@ -1344,49 +1387,6 @@
       "provider": {
         "name": "Silicon Prairie News",
         "domain": "siliconprairienews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-per-aspera-has-you-tame-mars-with-cute-little-robots.md",
-      "title": "Per Aspera has you tame Mars with cute little robots",
-      "excerpt": "Per Aspera is a charming little city builder wrapped in a gargantuan strategy game. Its vast scope encompasses such intricate details as small cargo holds and worker stations, yet your playground is the entirety of the surface of Mars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo",
-      "originalUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcgamesn.com/wp-content/uploads/2020/10/per-aspera-landing-site-900x506.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcgamesn.com/per-aspera/gameplay-preview-demo?amp",
-      "cdnAmpWebUrl": "https://www-pcgamesn-com.cdn.ampproject.org/c/s/www.pcgamesn.com/per-aspera/gameplay-preview-demo?amp",
-      "publishedDateTime": "2020-10-21T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PCGamesN",
-        "domain": "pcgamesn.com",
         "images": null,
         "publishers": null,
         "authors": null

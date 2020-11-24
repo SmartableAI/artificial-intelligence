@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Research Report 2020 Size, Share, Growth, Covid-19 Impact Analysis, key Insights"
+    excerpt: "Selbyville, Delaware Market Study Report LLC: Artificial Intelligence Market Research Report provides key analysis on the market status of the Artificial Intelligence market manufacturers with best facts and figures,"
+    publishedDateTime: 2020-11-24T20:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2020-size-share-growth-covid-19-impact-analysis-key-insights-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2026"
     excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
     publishedDateTime: 2020-11-24T12:49:00Z

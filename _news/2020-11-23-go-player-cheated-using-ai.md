@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: koreatimes.co.kr
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is changing workplaces forever"
+    excerpt: "With more than a century of experience partnering with governments and private enterprises to tackle the most pressing global challenges, IBM has also emerged as a leader in AI ethics. For example ..."
+    publishedDateTime: 2020-11-24T22:11:00Z
+    webUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever"
+    ampWebUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 59
+    images:
+      - url: "https://smartcdn.prod.postmedia.digital/nationalpost/wp-content/uploads/2020/11/1st-Article-Image-scaled.jpg"
+        width: 2560
+        height: 1392
+        isCached: true
   - title: "Top MNC's using AI & Machine Learning"
     excerpt: "Google Google is regarded by experts to be the most advanced company in the field of AI, machine learning and deep learning. The main reason for this is probably the amount of money the company has spent acquiring startups Google has spent more than any other,"
     publishedDateTime: 2020-11-24T04:30:00Z

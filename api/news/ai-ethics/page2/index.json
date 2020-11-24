@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-25-theres-no-turning-back-on-ai-in-the-military.md",
+      "title": "There's No Turning Back on AI in the Military",
+      "excerpt": "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/",
+      "originalUrl": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5f876aa8bdbbaee370e7cd80/master/pass/OpEd-AI-Airforce-190304-F-NH566-9002.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp",
+      "publishedDateTime": "2020-10-24T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-24-ai-weekly-constructive-ways-to-take-power-back-from-big-tech.md",
       "title": "AI Weekly: Constructive ways to take power back from Big Tech",
       "excerpt": "Dr. Noble began by acknowledging that AI systems in social media can pick up, amplify, and deepen existing systems of inequality like racism or sexism. “Those things don’t necessarily start in ...",

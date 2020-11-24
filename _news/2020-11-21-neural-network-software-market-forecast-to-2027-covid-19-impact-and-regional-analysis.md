@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/neural-network-software-
 webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market Research Report 2020 Size, Share, Growth, Covid-19 Impact Analysis, key Insights"
+    excerpt: "Selbyville, Delaware Market Study Report LLC: Artificial Intelligence Market Research Report provides key analysis on the market status of the Artificial Intelligence market manufacturers with best facts and figures,"
+    publishedDateTime: 2020-11-24T20:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2020-size-share-growth-covid-19-impact-analysis-key-insights-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -97,6 +97,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-23-go-player-cheated-using-ai.md",
+      "title": "Go player cheated using AI",
+      "excerpt": "By Park Ji-won A 13-year-old professional Go player was suspended from competing for one year, Friday, after she admitted to using artificial intelligence (AI) to enhance her game",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/sports/2020/11/663_299695.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/sports/2020/11/663_299695.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202011/9891d6fe8a78422187d93b73fb56391e.jpg",
+          "width": 980,
+          "height": 735,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695",
+      "publishedDateTime": "2020-11-22T15:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "koreatimes.co.kr",
+        "domain": "koreatimes.co.kr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-education-about-ai-to-begin-in-high-schools-next-year.md",
       "title": "Education about AI to begin in high schools next year",
       "excerpt": "Artificial intelligence (AI) will be introduced as a new subject in local high schools next year before being expanded to the curriculums of kindergartens and elementary and middle schools by 2025, the education ministry said Friday,",
@@ -1352,58 +1395,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-theres-no-turning-back-on-ai-in-the-military.md",
-      "title": "There's No Turning Back on AI in the Military",
-      "excerpt": "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/",
-      "originalUrl": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f876aa8bdbbaee370e7cd80/master/pass/OpEd-AI-Airforce-190304-F-NH566-9002.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/opinion-theres-no-turning-back-on-ai-in-the-military/amp",
-      "publishedDateTime": "2020-10-24T13:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

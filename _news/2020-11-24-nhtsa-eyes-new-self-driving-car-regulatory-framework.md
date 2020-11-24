@@ -69,6 +69,20 @@ related:
         width: 960
         height: 675
         isCached: true
+  - title: "Regulators receive a roadmap toward smart self-driving vehicle policies"
+    excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Lawmakers at every level of government are still sorting the new rules of the road."
+    publishedDateTime: 2020-11-24T17:04:00Z
+    webUrl: "https://www.autonews.com/mobility-report-newsletter/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/width_792/public/1CADDY-MAIN_i.jpg"
+        width: 792
+        height: 523
+        isCached: true
 
 secured: "ndB3WWuDfbxyS9s/PddV2FoiTQQDvCVVk4wVx7YSkFdRvDwjTzx5tdqz6pPCK3Hq6T4+ehJuZlZheNkDabVLGY0s5FROyty9Mznu53d14Og0zpptYsx93UyW601cC1ofWBKDCHqD1yNU3TE8i9CZUPkBRIypmfeyp0ZyRUaR4DNgmdpuAbpg4CwXRNfNFTJQXE3KQtOVqOfumYn5xiRPCc1UmYJeE6BsqJLzABPnCBTpsFjh8s06MD8idRj7HF78aP6JOX8qFc4nJBKRDb4wS++7J884o8yXVQfhVtcL9ytNNy3uVN0TKXJBtaAR6ob6uIoZwlxJI6S1eav23fruiAjMwfqX6skGwgrYyWPOAgc=;6iKdEw2IjnK851LRA1JDlA=="
 ---

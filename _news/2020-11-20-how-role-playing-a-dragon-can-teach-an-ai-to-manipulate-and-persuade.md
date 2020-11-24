@@ -58,6 +58,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How Artificial Intelligence Will Impact The Future Of Tech Jobs"
+    excerpt: "Artificial intelligence may seem like something out of a science fiction movie, but it’s used in everything from ride-sharing apps to personalized online"
+    publishedDateTime: 2020-11-24T20:46:00Z
+    webUrl: "https://www.upr.org/post/how-artificial-intelligence-will-impact-future-tech-jobs"
+    type: article
+    provider:
+      name: Utah Public Radio
+      domain: upr.org
+    quality: 39
+    images:
+      - url: "https://www.upr.org/sites/upr/files/styles/medium/public/202011/artificial-intelligence-3685928_1280.png"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "aws4z58GKfbKXxePs1T/WyNfqixciCSDl2o9giECGt3p1ZQyhAzLc9pAUdKjI5j5sxKCKmw+iF5SiZ+gnm33DMSS+zcnbFIVvwxDXzukffwFeFP7UkC3VPgMdvdzDtCilZvSySGy9OYNR1cJKqrBAWRnp1sSWamnaMpCoJHaNuyQGr1XTKilGGBsCTBZMhtLWIdfbdRZprbAONPnDSdmNWiwWYQ69+NIYhUdtN+XK/cJaOpqsXMDRdvHxxn0K25J9OcQvnpIXTxaN9L1947K3gJoovBjH4s+BW86vQoq0Cn/g7mEatBpbloj252SltcwXPqpZ1OikqD34F9U9cTScEyEcF8qQGYiVVV0ZzFMkhuUsJfPyvWHfvI9R93LxwjMUZOpFQgeM5d4Vs+FlO8fcKs5P1VGS1AgVAHVZ8ZVit6pS9ZJFGBV2ArUNEXm3ebSGwvmadtsKIX++p1mtWLJ9EjWk9kAcAoanyAdq+H6eqSIkUtrcZznlAJqlvAcnLzAwMBpaozbDjy+2qPc6XYLRQ==;888XFGGWpbAP4N5mE5sg/w=="
 ---
