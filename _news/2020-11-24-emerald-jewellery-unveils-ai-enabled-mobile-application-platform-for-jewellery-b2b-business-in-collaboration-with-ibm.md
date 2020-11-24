@@ -41,6 +41,20 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "Stravito offers AI-powered information discovery solution"
+    excerpt: "New feature pushes market research of relevance to users so they can make insights-driven decisions without having to actively search for information"
+    publishedDateTime: 2020-11-24T14:16:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144048"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 37
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
 
 secured: "Qtob0x/cX0W/llEkDuI4F9c9K7klB0KdoOSI+QM2gr+tV7wTJ/HvGWuwCdrxDNsfepbD6N0l0JeEmfEkrQCOLqfT2iFQwlhI0IPR6NACfjZ4GcV8Q1tQP2uQepeYOKOQQ0+UCzgq+uBSDIq6asdG+QV0jz1s81QFgNISSBMTrzGyL9afgpRbzBOF99e9Zt/t8wEdCCrquzfYefaIizfHUpyKYmFHf5/rkKPsX5mu9HFikmxuB6Ao+or3wXWy1sQHZ98n0OmAdouAokS1TDM3+EhGA/KhNnJB6eYpQfXC0XN/2RK+M5hXbVc0ybU1WEsHx0FvFs0cluU2CbexkWxvDHH5bVqcx0juuTdx+f43ZCU=;Nz1febmUpFq19xdyl0n9AQ=="
 ---

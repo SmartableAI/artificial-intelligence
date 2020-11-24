@@ -28,7 +28,7 @@ related:
   - title: "Uber Partners with Rosetta Stone to Include Language Learning in Popular Uber Rewards Program"
     excerpt: "Rosetta Stone Inc., a division of Cambium Learning Group, Inc., today announced that it has partnered with Uber to give customers who participate in Uber Rewards the opportunity to redeem points for a language learning subscription."
     publishedDateTime: 2020-11-24T04:05:00Z
-    webUrl: "https://omaha.com/article_ffad6cb4-8585-5a9d-8c3f-7d0d57827de5.html"
+    webUrl: "https://omaha.com/business/consumer/uber-partners-with-rosetta-stone-to-include-language-learning-in-popular-uber-rewards-program/article_ffad6cb4-8585-5a9d-8c3f-7d0d57827de5.html"
     type: article
     provider:
       name: Omaha.com

@@ -39,20 +39,6 @@ related:
         width: 658
         height: 431
         isCached: true
-  - title: "Detecting hidden but non-trivial problems in transfer learning models using Amazon SageMaker Debugger"
-    excerpt: "Rapid development of deep learning technology has produced an abundance of open-sourced, pre-trained models in computer vision and natural language processing. As a result, transfer learning has become a popular approach in deep learning. Transfer learning is a machine learning technique where a model"
-    publishedDateTime: 2020-11-19T21:43:43Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detecting-hidden-but-non-trivial-problems-in-transfer-learning-models-using-amazon-sagemaker-debugger/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 74
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/18/Detecting-hidden-but-non-trivial-3.jpg"
-        width: 800
-        height: 431
-        isCached: true
 
 secured: "jKnN4f6vs1yRwfBQgCXR7VIG+mSsmdy8/0gbYRjRK1IL5/rOc1XzedPYoRGVMIqhwOpyuYAptuDGUgK8BFaMoiov86kn0sTc6oYh2mgjBfAxJyPWuQymIpxJKAkS/pu95Kbev2HSKpmPV3PFqER2VYr5mR2v8AXBmIvCWdi3JKALQ9gOpBWI3e6DJDVHDF4o9yvd8L+Na5DL1JWXOH2wj7IFfKtOUzdgriw7ZxyscchEt6XzRbHbsn8D91fJVooeX4LSyAKuDCteXObmdfxpuDcqBPzkxZECOZNqDUYt7Jkf/f6LbOLXR+yHiHYsa85tU0A15A70CoU0pm0HMabE28Gfh0YCYIpjgoTDjs82hvlEzS+yTrDnFCTQ2LyyIx/ruwn+lzrQPthvvWlSkUmXH1E0tXXHOPcLxB8+X4FiblHN3jkCreOO5EQ8OWzhKab2DrWx29vpI1qh7iAFfHF7Cs9mgYOCYIq8KeyH2cPzLPjTy9h/bmB1WLpzGCGpeQwYrZegRoqdLgGE1Dl68ZcORg==;Y53oDoa+pdeqT0W63nHTDQ=="
 ---

@@ -71,6 +71,22 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
+    excerpt: "The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson's disease."
+    publishedDateTime: 2020-11-24T08:59:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/56-artificialin.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "While COVID had halted businesses worldwide, it is also acting as a disruptive force for AI and machine learning"
     excerpt: "Every industry is going through massive transformation due to COVID. AI and machine learning tools will now be used for ModelOps, strengthen cybersecurity and to understand customers via data analytics."
     publishedDateTime: 2020-11-22T12:34:00Z
@@ -84,20 +100,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
         width: 1285
         height: 722
-        isCached: true
-  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
-    excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
-    publishedDateTime: 2020-11-24T05:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
-        width: 720
-        height: 540
         isCached: true
   - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
     excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"

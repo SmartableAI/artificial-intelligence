@@ -74,22 +74,6 @@ related:
         height: 668
         isCached: true
   - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
-    excerpt: "Houston is the only U.S. city to have two airports (Bush Intercontinental and William P. Hobby) equipped with facial comparison technology at international arrivals checkpoints. If a passenger cannot be matched to a photo on record, the CBP officer will ..."
-    publishedDateTime: 2020-11-19T22:57:00Z
-    webUrl: "https://www.khou.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    ampWebUrl: "https://www.khou.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    type: article
-    provider:
-      name: KHOU 11
-      domain: khou.com
-    quality: 59
-    images:
-      - url: "https://media.khou.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
     excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
     publishedDateTime: 2020-11-20T23:58:00Z
     webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"

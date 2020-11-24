@@ -35,6 +35,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "U.S. regulators seek public input on new safety standards for self-driving cars"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
+    publishedDateTime: 2020-11-20T10:03:00Z
+    webUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/"
+    ampWebUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 70
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
+        width: 1200
+        height: 647
+        isCached: true
   - title: "Luminar to Supply Lidar Sensors for Mobileye's Self-Driving Fleet"
     excerpt: "(Reuters) - Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's Mobileye subsidiary for its test fleet of self-driving vehicles."
     publishedDateTime: 2020-11-20T15:12:00Z

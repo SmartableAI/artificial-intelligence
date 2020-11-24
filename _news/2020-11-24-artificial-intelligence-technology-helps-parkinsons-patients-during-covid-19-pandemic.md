@@ -1,26 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
-excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
-publishedDateTime: 2020-11-24T05:03:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+excerpt: "The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson's disease."
+publishedDateTime: 2020-11-24T08:59:00Z
+originalUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.html"
+webUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
 type: article
-quality: 29
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
-    width: 720
-    height: 540
+  - url: "https://scx2.b-cdn.net/gfx/news/2020/56-artificialin.jpg"
+    width: 800
+    height: 600
     isCached: true
 
 related:
@@ -113,6 +115,6 @@ related:
         height: 480
         isCached: true
 
-secured: "Mol/CkgMOvyJyPp0HrvWUHWdVLJxRxdCu5cbsPPNP2OZMLClatZjtvRjrrO8uc80EH0aNgxgJ0xQA/1T0TaxzYUor3ziZPrM3j5dXIA2dHl2ii8CZzENRZr+OfcjWdaBhgfIc6V5MYiV+u+CGb4irNaYgxibRbntD3hrWQgVgwj9B8WsWnBuFNRYIh8RN2M5uFkSnEwOfUR6PaYo7dVcoQmd5zqFIpTsu7tEJvbH6c/XMJgUPRJHXAQvhsnkReyHOfEF7pw9UQjgdMS6Eq6BicfIXNbjs7yjRXMZpv2qmlf74EaRfzeKQx3cpSQ7GNvVSFqFA2qSUDp4IlUY+H24u+6AEsRnV6cg/WW67V3oC9CFJIO2YNVOdzoGX9kL1S8po1o5jwD68Ke+JHvxdFh8n0i5MinqDy3WXs6zsW+kA8LqN9lFUAa1TIikiNphjRxBsizSqWJTEG9Y/raZQRCepeYEzn9MuODXYhSIKrpIiQC/wWa2xOHYNOvsAl5UyQYj3/vlB8/2r/UYRGEYlgkWXQ==;djmfCncBidK4Lh3w1mIoeQ=="
+secured: "DIDpCTNyy/KOKHkr9C/d+xY2I/chKzRGtUIWqCq96+8J1ZRT55PnGdHjMzpBwsdB78//xyuvtowm7+tT9CXcHV6mzw4C+66eCWxj7QBdz858dL96PoE9pzafxiNoYCvGwbvTNOoS0yb2E+DAwGfdZHm9cTZ7ihgBWRFE9BVFDygydsk9PYMfRTOeScro8LNierLemeIrPtcr66JXSGCP1JA27BgvM4pnDaGcsxVNKXAgdito84+C67+9qXB9OFlOK/BsGSQGGoVmm6qjbSVmMrrQHFWImvtcqDh9qVEMYjtIS5nUmnibxP1OfLxALdwOSsWsQXk6rmSnoh5jkK6oNfOBpkDZWlOoGCqPcMsbTcw=;03yj6nyL7SMm9P0hp+KXCg=="
 ---
 

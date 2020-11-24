@@ -7,7 +7,7 @@ originalUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-seri
 webUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-series-funding"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,17 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Singapore Fintech startup Sleek secures US $4M from Enterprise Singapore's SEEDS Capital and business angels"
-    excerpt: "Sleek, a fintech startup that is disrupting the traditional corporate services industry, has raised US $4M in a new funding round. Led by SEEDS Capital, the investment arm of Enterprise Singapore, the funding was also joined by MI8 Limited,"
-    publishedDateTime: 2020-11-24T01:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+  - title: "Hasty raises $3.7M in funding to speed up computer vision AI training"
+    excerpt: "Artificial intelligence startup Hasty GmbH said today it has nabbed $3.7 million in seed funding as it looks to speed up the development of its next-generation annotation tool for computer vision. Shasta Ventures led the seed funding round,"
+    publishedDateTime: 2020-11-24T13:51:00Z
+    webUrl: "https://siliconangle.com/2020/11/24/hasty-raises-3-7m-funding-speed-computer-vision-ai-training/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/start1.gif"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "GrAI Matter Labs Raises $14M to Bring Fastest AI per Watt to Every Device on the Edge"
+    excerpt: "GrAI Matter Labs, a pioneer of brain inspired ultra-low latency computing, today announced its latest financing round of $14 million. The round was led by iBionext, joined by all existing investors and newly welcomed Bpifrance through the Future Investment Program and Celeste Management."
+    publishedDateTime: 2020-11-23T23:58:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201123005371/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 12
 
 secured: "h7HOrpFKcIi+Fmo1mvJN3/HxCp9YlQwDCF5YBVDK1iQsK0JLfbvtQ1DChT4edPLmlkrqWQWPQo/IjQN5r3LskA/0Y/1Tlmk+69w7pMP0R2rXbwPU0ATW9+ur5lOfwh7m+f1di6pNSYqlDB3J5JCfXibp/IgIICAwR5H2fgEk/CitMvf9Bs221Jdz8IF57l+Z5ZG3hC9cowBoSR2wfYf0jm2BAbovliCr/NzfRTXwb/7lxnQ/lqEwr6uHu+OI27gBlaf3Roly3UidUbD1HtMI1+5RFUs/6jilyLeaiYlfDHcBnOYZPlQwa5vpHrU0lzYY9Ng+Vq1IhQ0Ob65qsHoAjbYUhppm9uSt4EYq1EDf9oqyU3cTPfoM64HaqCNTWVkM97sagCMb3q2PcKTDfUwby8/X4PMCpnSI3Znuz85UW3Z8+Q5TnaupC7bsfvHaJyO1Ko6dfLqtvLbjZMRXI0lT3tlkMrA31zz2plrizqcGYGvc5UOR4QlqrqI6rP+Lzno/GakTvwbFm9wdmgHriWcRbQ==;HZmGgYB+18q4G6Mxq4vm2g=="
 ---

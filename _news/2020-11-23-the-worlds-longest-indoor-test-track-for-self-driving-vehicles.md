@@ -19,79 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Uber Shops For Self-Driving Partners Or Even Selling Its Project"
-    excerpt: "Reports suggest that Uber is talking to Aurora about selling its self-driving project, or otherwise finding a major partner. Uber is in a special position as the world's #1 brand in rides and may pull this off."
-    publishedDateTime: 2020-11-19T22:37:00Z
-    webUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/"
-    ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2020/11/19/uber-shops-for-self-driving-partners-or-even-selling-its-project/amp/"
+  - title: "The Dangers of Autonomous Vehicles: What’s Stopping Self-Driving Cars From Worldwide Adoption"
+    excerpt: "Autonomous vehicles are one of the most talked-about technological breakthroughs of the past decade. But as we approach the end of another year of testing issues and minimal developments within the industry,"
+    publishedDateTime: 2020-11-24T07:02:00Z
+    webUrl: "https://techbullion.com/the-dangers-of-autonomous-vehicles-whats-stopping-self-driving-cars-from-worldwide-adoption/"
+    ampWebUrl: "https://techbullion.com/the-dangers-of-autonomous-vehicles-whats-stopping-self-driving-cars-from-worldwide-adoption/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-dangers-of-autonomous-vehicles-whats-stopping-self-driving-cars-from-worldwide-adoption/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Impacts
+      domain: techbullion.com
+    quality: 33
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6f281d38986237beee726%2F0x0.jpg"
-        width: 1200
-        height: 900
+      - url: "https://techbullion.com/wp-content/uploads/2020/11/Autonomous-Vehicles.png"
+        width: 1198
+        height: 500
         isCached: true
-  - title: "U.S. regulators seek public input on new safety standards for self-driving cars"
-    excerpt: "The National Highway Traffic Safety Administration (NHTSA) said it was issuing an advance notice of proposed rulemaking to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-20T10:03:00Z
-    webUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/"
-    ampWebUrl: "https://venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/u-s-regulators-seek-public-input-on-new-safety-standards-for-self-driving-cars/amp/"
+  - title: "AstaZero Building the World's Longest Indoor Track for Testing Self-driving Vehicles"
+    excerpt: "The Swedish test bed AstaZero, located in Hällered outside Borås, is the world's first full-scale independent test and demonstration environment for future traffic safety. Every year, more than 1.2 million people worldwide are killed in traffic accidents."
+    publishedDateTime: 2020-11-23T19:05:00Z
+    webUrl: "https://www.automation.com/en-us/articles/november-2020/astazero-building-the-world-s-longest-indoor-track"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
+      name: Automation
+      domain: automation.com
+    quality: 17
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/03/1-gxj5pqurc0jnqxkunzsywa.jpeg?w=1200&strip=all"
-        width: 1200
-        height: 647
+      - url: "https://www.automation.com/getmedia/dbe01cee-dd1f-4274-a900-3c3767aa3768/self-driving-vehicle-nov23-2020-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
-  - title: "Another Study Shows Just How Careless Self-Driving Tech Is Making Us"
-    excerpt: "The closer cars get to driving themselves, the more distracted we’ll become behind the wheel. It’s hardly a surprising thought, but it’s been supported once again by a new study from the Insurance Institute for Highway Safety and the Massachusetts Institute of Technology’s AgeLab."
-    publishedDateTime: 2020-11-19T23:41:00Z
-    webUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398"
-    ampWebUrl: "https://jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/another-study-shows-just-how-careless-self-driving-tech-1845717398/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/wu3h3sgovcjyqx3rkcim.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "KFC Has Self-Driving Food Trucks in China And I Thirst For Chicken"
-    excerpt: "The self-driving vehicles allow customers to select their KFC item of choice and pay by scanning a QR code. Upon payment the door will open so the customer can take their food. The trucks seem to have been first spotted on Twitter earlier this month."
-    publishedDateTime: 2020-11-23T23:31:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
-    type: article
-    provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 44
-    images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/24/kfc-self-driving-food-truck.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-20T00:48:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201117192605.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 29
 
 secured: "0Oxp0oEu6CpUzPg1WfvbOmaJM4nnBl9tVSU/EFwXssnFBYButXpUoArb51SLaO2eJFpTPbVdQuGU65Spw6hTIJ7OGIpsNfck1dbUc4b0eKLjhE5KCl2kIz1EKW81VltFmWcCel1IfHDyHhaKmID/z88rbP8nVr9pjlzw27C3JwzhX17GyJDqogTIY7RauOKp622CNK8m4T1wlK9/tLJILf7Og7ZpmRyyaXY54yZkCqI/nonJ4xXXeuL/4StYHJ65cgZFDz0mTZYq7wIr9oQx19uqz+llEhmsEcwo3R0/S6tp+CAee0iN0Rbrn0BjR4LU7Kb4nWrU5LZZurSU+FBZusKH604JtjZbM44LSNPCYh8=;NHh2FU8BctDUaux/eRgztg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-artificial-intelligence-satellite-tech
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Cloud, AI and the Transformation of Retail"
-    excerpt: "Google Cloud report covers the AI imperative in specialty retail, plus AWS weighs in on the pandemic’s influence."
-    publishedDateTime: 2020-11-22T17:19:00Z
-    webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 41
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
-        width: 394
-        height: 263
-        isCached: true
   - title: "Artificial intelligence & satellite technologies reveal detailed map of air pollution across UK"
     excerpt: "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date. Highlighted by new research led by the London School of Hygiene & Tropical Medicine (LSHTM) and published in Remote Sensing,"
     publishedDateTime: 2020-11-19T23:34:00Z

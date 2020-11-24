@@ -69,6 +69,22 @@ related:
         width: 1920
         height: 1200
         isCached: true
+  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
+    excerpt: "The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson's disease."
+    publishedDateTime: 2020-11-24T08:59:00Z
+    webUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.html"
+    ampWebUrl: "https://medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-artificial-intelligence-technology-parkinson-patients.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/56-artificialin.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
     excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
     publishedDateTime: 2020-11-24T02:37:00Z
@@ -98,20 +114,6 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-Covid.jpg"
         width: 1285
         height: 722
-        isCached: true
-  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
-    excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
-    publishedDateTime: 2020-11-24T05:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
-        width: 720
-        height: 540
         isCached: true
 
 secured: "Cbfxn0pqGxQ/maivNFTMl/jYGKT/WRYJScfI/vteiGE5vBXGV7Xw/SDNW1evgpIWZDQpzhHn0DLlqAFp87H+WOrC5Tw9uZ8b+d+W5qmioGVqcF1mgw+dN9QipS6rWmrcy28zrLsHfIz3FgyCC7cs3jNc/5ZMkdEmW8L5SOEo5LXH5Bv/YEjpC2SyH96PhpXG2n9iXuiuTD68CHimJmI+dcyLXi/lwdB+A33UdKH+TrmYVJvbuRhIdiPFsLiPtW/lTUAwaz+Q6Zp2PbzC+7tFCHBZLRN5NOvvtASt4fVQBDxniyug4qqecZmXsyy5DTaXpsi/U1ORV60VoxpfNW9w3HRKEQFL0UzX1fxxRwd8Svc=;wedudzGj2h7XMbNoZL/VSw=="

@@ -54,20 +54,6 @@ related:
         width: 600
         height: 400
         isCached: true
-  - title: "Interview with an AI - Insights into Education, Technology, Health, Innovation and Climate Change"
-    excerpt: "As part of my research into AI and machine learning, I am formulating the core principles that contribute to the foundation of my future product offering for digital business development that I believe organisations should embrace as we advance into the \"Information Learning Age\"."
-    publishedDateTime: 2020-11-21T00:00:00Z
-    webUrl: "https://www.linkedin.com/pulse/interview-ai-insights-education-technology-health-climate-bennett"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 41
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQEARIAApn2yyw/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=hxKq20SHLo4KEI0GaS8kByJmOu8YBox0XktmM-_Si3E"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Learn how to code through animation; Here's what the future holds for fintech"
     excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
     publishedDateTime: 2020-11-24T00:47:00Z

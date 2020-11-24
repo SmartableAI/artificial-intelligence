@@ -1,23 +1,22 @@
 ---
 category: news
 title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
-publishedDateTime: 2020-11-23T18:37:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
+publishedDateTime: 2020-11-23T20:07:00Z
+originalUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 type: article
-quality: 56
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
-  - AI in Robotics
-  - AI
   - Microsoft AI
+  - AI
 
 images:
   - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
@@ -53,6 +52,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Cognitive Analytics market 2020 Growth by Key Players, Industry Overview, Regions, Type and Application, Analysis to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
+    publishedDateTime: 2020-11-24T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020-growth-by-key-players-industry-overview-regions-type-and-application-analysis-to-2026-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "New fellowship brings inclusivity to language analytics"
     excerpt: "Language analytics is a fusion of fields like data science and linguistics, often using computer-based tools to detect features of natural language and then relying on that information to guide assessments,"
     publishedDateTime: 2020-11-20T00:55:00Z
@@ -96,6 +109,6 @@ related:
         height: 627
         isCached: true
 
-secured: "L92RbmFackxII61QY8+pL/MQxkEyd3CQ4vuPPXgcvkAfVWnyLdOqG7f9aH40FQm55pkMpK1XSmKbGZkWjjxEI0mJvePzj7DflaWV3TPOmG1pK7189WSQ8Eyd4K4Q6iCI5dNskMetswrdmtea8bQcWoRMnC3djdaejXf3A5LOMLXtgNhNDNReJu5rbtiEpVA8sO2zW9MUoZkGMS43FhXxDBwrVPT77hXDRB6Xw3LpYMyr0qOfSVO8pc0aKl1qoSrbWNHUosMg+gNZjX5lAf9wA2fjx6rjqOc9GBWD98pRwY9tdhpnRTi//YdFUNSGHChDhIjd1S6NM7Sall5pVnr8WICuKrDWHmy1e+Z7kXuuOZ4SD9NpxTIvRZ1/Ae84nh8+K4D/tvEdUu60OcBdHkBIPyRzZdvg2+lEd+jD+YxtuSGlRffIMnLUOhkXcwYB52PT9llIaXMtTJB7kZQEf8zK7FQg1OwG15yBK8Or7MmiEUAjdTexWwSqDy/h1HuYSoq7EyuSGNYIyOgcKj8iFx0+yQ==;l/Q/SsN5zPQmpCanE4bdRw=="
+secured: "CiviZS3xjTbfKdlstF6H8Ok9e6+yJVwDX0rW9g4nGw+dzc9Mh871qFsNv8GcNLemTJ8OgOO7d+ajLm2evDO48WPXJQ9rrfPxYdR1zO0+7y4c+NM6eF8cYJbVBqDkKhpeEz7p5PW6/OUEN2KiORxsQCETzIVXqIRUkIKOGotPLjdYzSc7BG2JX1DymbA/BqPMgoj9L4vO+95UrevXohdM0KCDA9lGqYNWMSJbvpmwPmbbnYfx9pRgR/JauKBOiDsFkKDZ9wWrtaEXE4RGtUM2he3I590HIUzm4P0NfIpFr9QgMWbBgfPRdIfmIhoStAwYXSbNNMr05tAcBgWn5ux3kiJC+m2kBY+FjN071DoC8EA=;kd9Jog7X/1uC7FfjnF3ajg=="
 ---
 

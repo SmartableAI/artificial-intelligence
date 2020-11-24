@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "U.S. regulators open process to ensure self-driving car safety"
-    excerpt: "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles."
-    publishedDateTime: 2020-11-19T22:32:00Z
-    webUrl: "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 74
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ"
-        width: 817
-        height: 545
-        isCached: true
   - title: "US takes first step toward future self-driving car regulations"
     excerpt: "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,"
     publishedDateTime: 2020-11-20T17:24:00Z
@@ -53,17 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NHTSA Seeks Input On Self-Driving Car Safety Rules"
-    excerpt: "The National Highway Traffic Safety Administration announced Thursday that it will be seeking public comment on a possible framework of principles for safety in cars equipped with automated driving systems,"
-    publishedDateTime: 2020-11-19T22:51:00Z
-    webUrl: "https://www.law360.com/articles/1330761/nhtsa-seeks-input-on-self-driving-car-safety-rules"
-    ampWebUrl: "https://www.law360.com/amp/articles/1330761"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1330761"
+  - title: "Self-Driving Cars Could Become Your Neighborhood Ice Cream Truck"
+    excerpt: "Anticipating the advent of self-driving ice cream trucks. getty. As a freezing cold winter begins to descend upon us, your thoughts undoubtedly turn toward a summertime pastime th"
+    publishedDateTime: 2020-11-22T16:35:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/22/self-driving-cars-could-become-your-neighborhood-ice-cream-truck/amp/"
     type: article
     provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb306f7f4dd0e453d0deb0b%2F0x0.jpg"
+        width: 1200
+        height: 798
+        isCached: true
 
 secured: "ndB3WWuDfbxyS9s/PddV2FoiTQQDvCVVk4wVx7YSkFdRvDwjTzx5tdqz6pPCK3Hq6T4+ehJuZlZheNkDabVLGY0s5FROyty9Mznu53d14Og0zpptYsx93UyW601cC1ofWBKDCHqD1yNU3TE8i9CZUPkBRIypmfeyp0ZyRUaR4DNgmdpuAbpg4CwXRNfNFTJQXE3KQtOVqOfumYn5xiRPCc1UmYJeE6BsqJLzABPnCBTpsFjh8s06MD8idRj7HF78aP6JOX8qFc4nJBKRDb4wS++7J884o8yXVQfhVtcL9ytNNy3uVN0TKXJBtaAR6ob6uIoZwlxJI6S1eav23fruiAjMwfqX6skGwgrYyWPOAgc=;6iKdEw2IjnK851LRA1JDlA=="
 ---

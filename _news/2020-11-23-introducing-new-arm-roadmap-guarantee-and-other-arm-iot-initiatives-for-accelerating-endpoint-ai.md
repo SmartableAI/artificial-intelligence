@@ -7,7 +7,7 @@ originalUrl: "https://www.cambridgenetwork.co.uk/news/introducing-new-arm-roadma
 webUrl: "https://www.cambridgenetwork.co.uk/news/introducing-new-arm-roadmap-guarantee-and-other-arm-iot-initiatives-accelerating-endpoint-ai"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 700
     height: 320
     isCached: true
-
-related:
-  - title: "Arm expands access to endpoint AI for IoT devices"
-    excerpt: "The rise of smartphones and the growing presence of IoT devices share one undeniable similarity, the fact that the Arm ecosystem is the driving force behind both. The chip designer is in a unique position to drive innovation and adoption of IoT due to the fact that Arm technology touches 70 percent of the world's population as 180bn Arm-based chips have been shipped since the company was founded 30 years ago."
-    publishedDateTime: 2020-11-19T21:50:00Z
-    webUrl: "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
-    ampWebUrl: "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices"
-    type: article
-    provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 89
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg"
-        width: 600
-        height: 334
-        isCached: true
-  - title: "Researchers bring deep learning to IoT devices"
-    excerpt: "MIT researchers have developed a system that could bring deep learning neural networks to a variety of objects that constitute the IoT."
-    publishedDateTime: 2020-11-24T04:08:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/11/24/deep-learning-iot-devices/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/11/09095727/iot.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "eNZwyFn6NNcfVF6CGEw3gDF2w9VMyFNy4hjz31R+E8kIZSJ7NbRUF19YkvloRT9Zu/S4RbKP1LKjHDboJWanH9rghylFeSgkofq09zp814hXzgLPKDfVGaPY7+B4+ODLIJnojTMxhaAetXfzl8cKNO/WUJfjTB7HAiAuX96ZqhLnSUPjB/jMKb1moSf6n8LowcSep3rvGVf2HPm3/6tDFIotKB3ZtxNzGubYQOjL7qsTzJSRefWF8R0/4p75gErq71qJbzMubS21B+UOho59n9HSLEHkBp3uGmBcs6SAiD5NwmbjAc9SK3KaerCwxUC6hwQs2BDx56ngJNNGMHMl2xkS1ael4bclBWkflXhqgKg=;BMCXYjk4eS7VmvGgcpURLQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/helping-small-busine
 webUrl: "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "New Artificial Intelligence Capabilities Improve Retail Experience for Magento Merchants"
+    excerpt: "San Jose, CA, Nov. 23, 2020 — Without a doubt, COVID-19 has been one of the greatest shocks to the way we live, communicate and work, compelling people to move … Continue Reading →"
+    publishedDateTime: 2020-11-24T14:43:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/new-artificial-intelligence-capabilities-improve-retail-experience-for-magento-merchants/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 23
 
 secured: "vbImdqjbgJLFcd/gAT3s6rK1uh0MX5ErFwlbxnDJq4/7pLQ9TLUNw4P3oqPLUbvZtuo4E/0QB/rJsd4Ge9tok+pfupbq2SXY9JziYqC03a5K3OCWnXirqt+60ChAAbUOKZhQAzPKD8E3ynAL0CXD9v7LBtK/zeMhXySsBUPY0gCscbVfOeE3r2CriM5kINg0cMD3Yi3464chrnH+W0RyoNLNWF3/1BeMLpdawU0/MwO/6SgqCoWalyaT3PfdBFb/1pXXQSN5UdzFp1N8uvEgFOrzGTjenF5uCNMs7V4IfeidtqK1ZDZrD8Fp57Chw6d7cgTwiTMAY8rH9L4psnGa2eZwnp+/qwqOKzOsI6VoU3U=;TBr0tqelcwKoj1TMdz9YQA=="
 ---

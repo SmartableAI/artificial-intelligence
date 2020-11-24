@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/am
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "Apple's ML Compute Framework Accelerates TensorFlow Training"
+    excerpt: "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,"
+    publishedDateTime: 2020-11-24T14:28:00Z
+    webUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 88
+    images:
+      - url: "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
     excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
     publishedDateTime: 2020-11-21T12:39:00Z

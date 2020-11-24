@@ -91,20 +91,6 @@ related:
         width: 770
         height: 431
         isCached: true
-  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
-    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
-    publishedDateTime: 2020-11-19T21:30:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
 
 secured: "CF1WnTCeieymiwlbHWzfoXqquV1oA6F+FhxhV6U91QZt7788PLrUtEaLVpDiGBv0XkwEYjYWiphLw8J+WkmAePSnzHcdMZc2Ad1b7Os/va971Ug1/NjsopcBp+YRoIgwJiAL+VeKQMsxo7aZeqk4QIsYtYGjnxrnJ4yXVs8zZPdz4cGnsKzxk7m9+AfGdNQa9kPesxtJ18I987x4OXW9ykWInlMkDFoQqd5oBaD9CdHWgdZxMOHM9kZ5Lca5/dv2dQPaEf89PjdhaRiyLvLi6s+89DRDU5CRKFG4Jj4vUXq9VcbNUsmPhbyyyhl3N2SuD6WohJZr7T1O8nDm2joOBCmoFx7UNw1H8UzpLfI/yrE=;f7Wz3f8+bS55T3TGLgZTRw=="
 ---

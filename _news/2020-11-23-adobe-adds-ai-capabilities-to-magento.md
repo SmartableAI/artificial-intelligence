@@ -38,6 +38,15 @@ related:
         width: 727
         height: 630
         isCached: true
+  - title: "New Artificial Intelligence Capabilities Improve Retail Experience for Magento Merchants"
+    excerpt: "San Jose, CA, Nov. 23, 2020 — Without a doubt, COVID-19 has been one of the greatest shocks to the way we live, communicate and work, compelling people to move … Continue Reading →"
+    publishedDateTime: 2020-11-24T14:43:00Z
+    webUrl: "https://multichannelmerchant.com/press-releases/new-artificial-intelligence-capabilities-improve-retail-experience-for-magento-merchants/"
+    type: article
+    provider:
+      name: Multichannel Merchant
+      domain: multichannelmerchant.com
+    quality: 23
 
 secured: "ykzSMh5gQiFqz9XgPgw+z3vZLE9ppraqtM6Rb9tNX9WpCpMICGE5mvAtoTm5Jv8zzDbSRoGO8noEoLNpoiPE6Yo3IEQ1OGNSnngsKp+rA9GzeY6N9Lv6YXSv2/2q3Eb7CvFIzRIHZzPzc5WOgCxo8Ssx46vQMNrj90bwtkzlsWZi1WCkxjMIcZ0qXBKCE8DBKH0N4735FgSvF/xrnvV4Qei2SX5hxlMmVBswRKTby9ZkkHpqOQx1WhEy0JXydSA7sm1PhqMywjJ+NeJ/AhlZlPF398SNQ464zZJ2+seh5R/dNWghmiquWOykPuda94/amTwhtXzr7Elli8VoSkBXszFb4bSxRhUSrsd4DIqiLf8=;Nuy6vs1NEX7bMnCyApkx7A=="
 ---

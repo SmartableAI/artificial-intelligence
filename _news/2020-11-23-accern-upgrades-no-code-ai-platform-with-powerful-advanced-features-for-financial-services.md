@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services"
-excerpt: "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of"
-publishedDateTime: 2020-11-23T14:33:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419"
-webUrl: "https://markets.businessinsider.com/news/stocks/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419"
+excerpt: "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of its no-code AI platform, which provides the ultimate user-friendly experience with easy navigation,"
+publishedDateTime: 2020-11-23T15:53:00Z
+originalUrl: "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services"
+webUrl: "https://www.morningstar.com/news/pr-newswire/20201123ny01033/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services"
 type: article
-quality: 58
-heat: 58
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "UxPxGzRWvtbpjwQnEaVov7hqMneqEhuDYtUfoH9URI1/zxhBzqM2kPBFrNl3mnEWjshT2iUviGkHY6aFTJLGoZkvrXbFU+1gOl+NLiQquXzyrbs09QltaetNcXIu+Tf9aKHizFI3USY6kXabFphe8ibq2hoMYguMnWp8akKlGjhMAsSNgLrNXvsOnAu5pQ/4LVcq8CtV2YGUCZuuCTOXrEtZe+2HAllvSXc7e1CGjpjuR8M+QegS0/T1cfPbnBg8K5yVnw7vlu+jW2oWTqzFamQ63d94PJHXjhV8lDnsCgVk0QmR9P5Kgjuj3e+FLI6UwK8g69tY1tG84/V9WyzocyuLychCEIplgWubB90mCxM=;jJkLHnEMbLja/IOKCqe0Gg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "3QcegebQp3nuj3Ibu5WPnFYCk35NkJ4XulrmVXG/V75qDq95SfjDwXpm4R5uL2+/dwFJUC3QDJj+/HuLUCVKHMsvHDhEFjwUlJ4OJxTes3PXxeVkMAa9PuMzhxawIUS23SUfug5bAEw5PlZCFdXifXfrWuyRAuFRgHdvNGbSlhl8PAjJ9sgGhxaRRzc31x+N0u2/h4N3Eb/i8rGI6IwX/TyDGKP8Q1EddW+Vy0et56cdwt0dUntfJglzVpCKmtBALfU92ovyqSBAtjIykAPvLBiJYJgdXnOMklmqSEjflQ63RimJkNeUFkIuZaHapJIASmhVJ7nSOuoM+qp4vGh6r2kNBDGPimUp0stshI6rsUY=;ohzTGv1MlbZb+7OMe6iW4A=="
 ---
 

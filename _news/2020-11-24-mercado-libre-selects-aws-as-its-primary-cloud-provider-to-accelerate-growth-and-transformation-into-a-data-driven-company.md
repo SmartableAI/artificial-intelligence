@@ -1,29 +1,34 @@
 ---
 category: news
 title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Mercado Libre, Inc. (NASDAQ: MELI), headquartered i"
-publishedDateTime: 2020-11-24T08:36:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
-webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+excerpt: "Latin America's most valuable company by market capitalization turns to AWS to improve scalability, respond to consumer trends, and transform online commerce and payments Today, Amazon Web Services, Inc."
+publishedDateTime: 2020-11-24T08:01:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
+webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
 type: article
-quality: 13
-heat: 13
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    isCached: true
+related:
+  - title: "Zalando Selects AWS as Its Preferred Cloud Provider"
+    excerpt: "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud."
+    publishedDateTime: 2020-11-24T14:46:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201124005277/zalando-selects-aws-as-its-preferred-cloud-provider"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
-secured: "1PPb7n90b2PEaPvtIwrkgvSD7heFkq4UV9UWny4h1Fo/SKAdQlDG0XeMX0W8axe1xSaVI/AWd43m9eWZUEzSvcx69mnPuuypUsmChnloXK3zahU8t4oYUAat3jc2vfQBJ1joHAVC8jHsEr8Q5IJBU1g7od3Ls3ZJPqNhLo2VdPLyeHK/7B87asUiQsY9qHnhNX9dWowpSmsLWf2x79TXFJny3dLRPYwqdzSlSu/aZOiFLrQoD2Kinly5V2uQ1ftJ8SkqHGgmQCWrP+ntD+RgVaDpWYOpaA92PsoAP1zkJhAoLlVBz/CXc1Yp6bNuloCkHC0H8HEBNX6jPNCtlNbluPRBXtuBtxR6YriTsJSHvgc=;sfzx7+a6IYfFDX+EJSuvvQ=="
+secured: "MgPyFjo2DjSfeUWTKb6UjBwqKtxoG+zcSYs08zRyEvAWBCFospNUTxem2tnq8qzt1/BOiWgpZq7tGFPdhMNo6ge+V2RdxlnTAhe+oQb16shnp1ZgJCl/nsWcCgmI3Wkv+M14DG+/Ld8852yqelKSLNhQ3ENFIGomvQ/fKXDWICQ/cMVVhrSyLimvCmpcDYyWgwJ/zCEENysdDm+3TaP0QOQwV1lNn07SVqAhxNkGnKw37WJB2BFP5C0xMkHXFhlZV3dXeehRP3oTt/cJf4KmFZtOBlsLoYRjQhHiAT01uAkVJ5IqxmnThzsbYYdT6Kf5jVKep5H8RjPYxFm9Q9JsbpCqGCwHNNkR7LEdbTo0T6Q=;eA1MQ8cthG09xCNLjgsXJQ=="
 ---
 

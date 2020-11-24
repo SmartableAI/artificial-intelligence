@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/360295"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360295"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2020/11/Fintech-770x433.jpg?impolicy=website&width=770&height=431"
         width: 770
         height: 431
-        isCached: true
-  - title: "Seoul Fintech Lab bids to help fintech startups move into Europe"
-    excerpt: "Seoul Fintech Lab, launched by the Seoul Metropolitan Government in an effort to make the city one of the world's financial centers, will hold an online meet-up 10X Extension in Luxembourg on November 26 for networking and investor relations sessions between domestic companies wishing to set up business in Europe and European investors and financiers."
-    publishedDateTime: 2020-11-19T21:30:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85115/seoul-fintech-lab-bids-to-help-fintech-startups-move-into-europe"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
         isCached: true
 
 secured: "EO9bTJfKj+7jQtx843uWmGG1qS/FmO++/DkWhV5A8gvvDf38oUuWWfMCYIkkZk2lQpq237hF/gw4Ly2GMJdA8QtjirzUeAsdoZydtaZvSiFd1l0PIovtxWo1r5UdKGetlz8UulVTMajIQWBudNdIcmY+oPfc2Jlofl2NXgw6RT4RH2+6CvTii3D9xvU1VqvVHqdPrxbMmkTojNSDeP8bKzPFTg5Z02jtNVVLA7W3Sf5iPtKlZdKZAyEXZjs1Dz4yAxdcezeqSswNv8dz4oXKMxqKpTRR44HSMg9XPHhxiGWChiWwBg0Wqkt4Luotn0nChmtr3WzaNGoOx0HQfqesvlNjmtyKPe7Rr4xmGoUgqvl2Y9DAA/g1b7hLWiqrFwdA6S6eE8YDOYxnLmCZBZJSV+PAqR4cSyc1//unB/LTGP4eZ+ZLygF1O7PVg7RksFVPsLUwJiC6GEBqLcKyaAak6O6YNeGqf4oUZqWAasmtHjhKwCky0KXk51UgF7ohADKuud/BCF6ga+xgaX9mZ1QWFg==;p7Bhicjzk4sV0aU06J1kYg=="

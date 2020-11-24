@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/singapore-fintech-start
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -23,17 +23,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Korean fintech firm Qara raises $3m in series A funding round"
-    excerpt: "Qara, a fintech startup, announced it has raised US$3 million from Mirae Asset x Naver, Nexon’s NXC, and Kingsley Asset Management in its series A funding round. The South Korea-based firm plans to launch a new global stock trading service early next year for individual users."
-    publishedDateTime: 2020-11-24T09:19:00Z
-    webUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-series-funding"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
 
 secured: "rGKwv6fbjLiO4jfb5lRCq08z5Xcti9NotP7whk02lH4CQZnK8eQI5xCK1/Aho+03LbUMIzL4KwmaKDMcHaRHdZ0yj++WHO0KrL5Cl8PDYOlZH0ZdDJpRbGaL3hyhtP1DVW7gVJ+hiV+7wMEXMuEYGvmREZnE7PhKmminLon8Mrc6HyyRuVbAegqZ3DP4liEX9wJ1v98GftspRCR6bWiUsvoS8xExg8ErAw9NV/kXeIslpRasKxND06mrW2fV3KBAXR//gKvE62Wo3pp/ka/sQSqtfRl/vhp3lnY+4VaMzF2lCQmHIhw7z2cvBvfYK7M6R9bzskP8mi5sDdb91F1Qt3EkKKe705Fl/W1k4plB1pU=;p7poDB9jiXMm4L8RkrtRgQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/"
 type: article
 quality: 74
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "KFC Has Self-Driving Food Trucks in China And I Thirst For Chicken"
+    excerpt: "The self-driving vehicles allow customers to select their KFC item of choice and pay by scanning a QR code. Upon payment the door will open so the customer can take their food. The trucks seem to have been first spotted on Twitter earlier this month."
+    publishedDateTime: 2020-11-23T23:31:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 44
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/24/kfc-self-driving-food-truck.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "KFC rolls out self-driving food trucks in China and it's sort of wild - Roadshow"
     excerpt: "Contactless Kentucky Fried Chicken is totally a thing now."
     publishedDateTime: 2020-11-23T21:00:00Z

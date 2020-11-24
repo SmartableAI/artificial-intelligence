@@ -29,78 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
-    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
-    publishedDateTime: 2020-11-20T16:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
+  - title: "How Hasty uses automation and rapid feedback to train AI models and improve annotation"
+    excerpt: "Computer vision is playing an increasingly pivotal part across industry, from tracking progress on construction sites to deploying smart barcode scanning in warehouses. But training the underlying AI model to accurately identify images can be a slow,"
+    publishedDateTime: 2020-11-24T14:22:00Z
+    webUrl: "https://venturebeat.com/2020/11/24/how-hasty-uses-automation-and-rapid-feedback-to-train-ai-models-and-improve-annotation/"
+    ampWebUrl: "https://venturebeat.com/2020/11/24/how-hasty-uses-automation-and-rapid-feedback-to-train-ai-models-and-improve-annotation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/how-hasty-uses-automation-and-rapid-feedback-to-train-ai-models-and-improve-annotation/amp/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round"
-    excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners."
-    publishedDateTime: 2020-11-23T18:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg"
-        width: 600
-        height: 400
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Hasty-founders.jpg?w=1200&strip=all"
+        width: 1200
+        height: 626
         isCached: true
-  - title: "Namaste, France and Bonjour, India: The future of fintech is French"
-    excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
-    publishedDateTime: 2020-11-21T03:41:00Z
-    webUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french"
-    ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
+  - title: "The Cloud, AI and the Transformation of Retail"
+    excerpt: "Google Cloud report covers the AI imperative in specialty retail, plus AWS weighs in on the pandemic’s influence."
+    publishedDateTime: 2020-11-22T17:19:00Z
+    webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
     type: article
     provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1605894676099.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 1668
-        height: 834
-        isCached: true
-  - title: "Learn how to code through animation; Here's what the future holds for fintech"
-    excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
-    publishedDateTime: 2020-11-24T00:47:00Z
-    webUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence"
-    ampWebUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
+      name: Women's Wear Daily
+      domain: wwd.com
     quality: 41
     images:
-      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "4 Greek FinTech companies revolutionising the financial space"
-    excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
-    publishedDateTime: 2020-11-23T12:23:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-greek-fintech-companies-revolutionising-the-financial-space/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
+      - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
+        width: 394
+        height: 263
         isCached: true
 
 secured: "UOOlz9XtrrInhO7J9loC6ETKaAZmCpHDMRCndgHWDunfdlbJ4lLbBqPjNzxyXV7u0GPb0nLgh4Yp2MmNW2xq+gfcs3uObt0zRuvuvsGd8Mt2gJbThb05SzT211chm137qBPtMuGLU4QzW3Ofy3uATrhco0IJxhQUR0+vilyIJ//k9bVok5wbIYcamLWRistAYKME4pMKvvx8AtCbCIPJYbxnhhhIeOisgNU73pYw7BTodeypmXvRo7it9wPsGRzJ3FoStMrsiEmLPy0dB7NN8IdyUjpLrYrCuLUXBCQE5VLQ8aFHjTi1uJ7HehhrmVD6XpMBZq1Zptf18mDFGiUAVZZ+4poYs+y3Y/OHTH/hyvc=;yLMIwSnvFHfa+okMz/fcbA=="
