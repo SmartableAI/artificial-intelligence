@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-transport-and-microsoft
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
 type: article
 quality: 80
-heat: 130
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -26,6 +26,17 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,"
+    publishedDateTime: 2020-11-24T18:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box’s enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
     publishedDateTime: 2020-11-20T12:04:00Z
@@ -54,6 +65,20 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
+    excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
+    publishedDateTime: 2020-11-24T17:22:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 58
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
   - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
     excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
     publishedDateTime: 2020-11-23T11:29:00Z
@@ -81,20 +106,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Transport for NSW trials machine learning to detect crash blackspots"
-    excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
-    publishedDateTime: 2020-11-24T07:35:00Z
-    webUrl: "https://www.iothub.com.au/news/transport-for-nsw-trials-machine-learning-to-detect-crash-blackspots-558192"
-    type: article
-    provider:
-      name: iothub.com.au
-      domain: iothub.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/busy_road.jpg"
-        width: 1254
-        height: 836
         isCached: true
 
 secured: "zE9vkgfxeP0Li/7dtGGcNnNy3X1fp5Glcb4UiXnupFO1LP/OBeJ+5xfwljievpRW3CtiDxyrIL4AoG/5q8otHmXpA7lv/rnnZNVQkf7EeCY7L/g+So2IYtbURRqTPEDAl2z9VJkAAHBm1tOL1lOWedQOOhEN+1Maw3t5iXCFgsVxnF0glcGK7g9qCEa65DgSockOdwOx754RS5XKbifaldA89oGcnWw2u6+UY0D4mXUCjlRKX7C+oh3uQEp6S3PofuLrpR53UCNWU5gEv8mW4ikawh4E375TuBQO91trXdrNgrzbFZlCQAjLu2RpmkRmN9OVhLdXlgtgoHPNi7kANrcJ8xEIyAGUmwCVVPz9Iao=;1Krs3NKd93CRcSFHvE6wQQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldw
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Could AI Save the World?"
+    excerpt: "Latest XPRIZE competition looking for brightest AI minds to improve how people, governments and organizations respond to pandemic environments."
+    publishedDateTime: 2020-11-24T18:54:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21148671/could-ai-save-the-world"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/pexels_slondotpics_408503.5fbd537e34a0c.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
         isCached: true
 
 secured: "o9ICcoXTYkFaTx2lqGbK/sOBSy1vxmGhVZafgy9n+ANnIUsJ6PU/PQht33cvK3qYEnoQD6Nvc0PS+qs6kaNiFeBEolYS1awnnUM/PADFyx5ibiyVr73AgDYDDZ5FfJOkUr7WDyR6g0S6ioBd3/gmNs+86obB4H2ahd6nzOmz8+TCpZnXHEA+mKLhTfMQVaHQ7yk+SJ2mTe8/Rx4MvOTtcHywyXN2DkbJCrVa+mrsHn4OcjjfEVk3SowvuMZmCGsh3O1hbIU8akyrxQQtW2dtWq+BJKUP/RgfWnJ5oljNwK15kveVJ3QtUBicfe105eRKStU+24VyCY/paPCqe+swoS9LJIbpRKu0faOK5h5MX6mmUTmejs8otjlyGp2URqXjX9FuF2F/IiabVVrFhaFYnJjVTcRIpBqzIRB9/APNLoKcn5DgECuKWXW+8MtZzg7wLqqv97LH76E6cHa2gg0f4tR/LiYSoSHdGqg8kghWaUnEqYHYo/2uWUp3VGJ8Gx1GhxHlz3DJ9fqrtEVlkinrqA==;tuWK94W//th/87WHVR5lHw=="

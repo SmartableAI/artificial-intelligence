@@ -1,33 +1,26 @@
 ---
 category: news
 title: "Standard Chartered Selects AWS to Power Its Strategic Banking Systems and Workloads"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and Standard Chartered Bank plc (LON: STAN), a leading"
-publishedDateTime: 2020-11-12T08:19:00Z
-originalUrl: "https://www.marketwatch.com/press-release/standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads-2020-11-11-21159015"
-webUrl: "https://www.marketwatch.com/press-release/standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads-2020-11-11-21159015"
+excerpt: "(NASDAQ: AMZN), and Standard Chartered Bank plc (LON: STAN), a leading international banking group, announced a five year, strategic global agreement, which deepens the existing relationship between the two companies,"
+publishedDateTime: 2020-11-12T02:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-financial-services-603623c40644449abaa3979de6e63adb"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-financial-services-603623c40644449abaa3979de6e63adb"
 type: article
-quality: 63
-heat: 63
-published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "ef3tFqRqWK2M+IYS8zSkoTrkyeltd6r4gDljQUdvZ7IY+0DVo70ALTPwxzVGlQgnHUkYO/EFmNcInTmAW7SfRi2G82Sihl6B/9+yo8f5Rr5fsF/FMAHcGJmd3x9Rwwsi6U45rrTaVaP+eCLb4tGe+pgxLbLp3wpl/QWzQ8EgK1TIncSAKyjIEWGPGPD2Schg75Z3oxAV4o3pcccNSTAn3tEecV5sHD6CIh4Gzk+KacFrXwpyIILp1H67CKdtOYInVDnxH9LHdC0aAj+V6JeUEaHS9lkVaKr/5PD2kjzUOPBz8rmUd8R9PByEi9BrlzLH2qMgDnKsL4NvSYwR66LfGiQl2/olQCCVDYIxLPRqR8g=;5YrQkCp7YwI0k09DXKqimA=="
+secured: "QKhgO2C8l3q/Qgg4bairh0cVVDeONgWWIqLn/TyN/AyMsLZKI8Qlda6gd7Vf6AHQs+LYKXtkhrwCW8u6y8p/8iZSXmZi/M6TZPEmJcoRFKJ9BMD3vgvDUI2KQaIuhuCC/aPzjkgbDTcS36MplluEazLWlp/KDsaw8W8QhUWK17mq22KcWg8OZz3B4osAfhP6XPcDuCYLH2u9/TcX50eR04yOUjnRmhIHstei4EMintLvax5kr5B+cGbfX7z3z8pBJ+UAue5mHTp/5+NhWjtGT1zXlJTZ+D0ntetQLLHo/JyW1RiaKnniqjh8VfhE4hfYU70lTa/xLon1yx0AB0XMz1wQs0J1vxo68fZ2cJTKRCM=;HJIY6F64jF41hguHGoyQdA=="
 ---
 

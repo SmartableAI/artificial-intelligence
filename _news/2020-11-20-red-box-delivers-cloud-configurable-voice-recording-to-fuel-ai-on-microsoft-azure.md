@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
+    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,"
+    publishedDateTime: 2020-11-24T18:48:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 81
   - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
     excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
     publishedDateTime: 2020-11-20T13:08:00Z
@@ -49,6 +60,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
+    excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
+    publishedDateTime: 2020-11-24T17:22:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 58
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
         isCached: true
   - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
     excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
@@ -77,20 +102,6 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Transport for NSW trials machine learning to detect crash blackspots"
-    excerpt: "Transport for NSW has built a proof-of-concept using machine learning technology from Microsoft to identify potentially dangerous traffic intersections and fast-track remediation works. The ‘dangerous intersections’ proof-of-concept,"
-    publishedDateTime: 2020-11-24T07:35:00Z
-    webUrl: "https://www.iothub.com.au/news/transport-for-nsw-trials-machine-learning-to-detect-crash-blackspots-558192"
-    type: article
-    provider:
-      name: iothub.com.au
-      domain: iothub.com.au
-    quality: 39
-    images:
-      - url: "https://i.nextmedia.com.au/News/busy_road.jpg"
-        width: 1254
-        height: 836
         isCached: true
 
 secured: "2UUEbUUSuWESiOoJvo26G/Gf6qhAMbkpI/FEqUwfU6VYe7hPTSZOEGgm9VLeo9jrYO3jnFmMNnAp4t7ybXc5SM0Z5FgPsjkYalR4o8D+xKKllUNjD776L3bGOM3bxeygI1KPL0yQ2CqlWpmGMi6bgeOnHjNtiWyaCPeH5CS7BLAJFO0Psk36hkvwKngwZPMGtva6eYHZpK5tTEAIzAtxHzbkNtkjXc4hQm1rbGCsWz344ZE6i9DLoarD69qBBuh9lV6KYpKw9vJdDq8dJ1tPTCkCJEbjY++aIpw7cCpF5jGFysH6A81KjEhZkhFelkgXSiNy7GMqVPM4LikJyHF0puYSJ/5TADJlU311NRuLeRE=;6ELYXZrVBLn1byVpRPU7hA=="

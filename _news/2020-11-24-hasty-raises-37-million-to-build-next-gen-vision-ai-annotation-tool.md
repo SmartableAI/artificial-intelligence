@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Could AI Save the World?"
+    excerpt: "Latest XPRIZE competition looking for brightest AI minds to improve how people, governments and organizations respond to pandemic environments."
+    publishedDateTime: 2020-11-24T18:54:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/article/21148671/could-ai-save-the-world"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/pexels_slondotpics_408503.5fbd537e34a0c.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 624
+        isCached: true
 
 secured: "70rd0hnE7JtTuol4FbzTsaidgon2kTPKY3OzeERDT07jQqjZUJxhpOLOyvR69s8jlTE/QduhLYYmnH3vuHTkmZ/EKMAIJaf6k8IcH8dISnzRO49H2pEoCoeywX3OAh6S8Udyr3brfLhrw0gUIZMS8djmSoLCK21Sj1SC+M6flh4oDTK+oMS0pgMLRyXCAInXXXAhnWv/24KGEFs8yLfLDqxB+PUqueURKHYoTetBWG3Idq/5CDbYbU19S1zgXyPKt7PBVSlFatCBNEAJxTg0APA1xkprNjon+lZRQspAFgp9DafKC5eUqMxfvdwtfJpJ2zcmiJ5W01z/E0wNvVEaU8+BQpj7ha5V4BbiseuLQ3s=;v73iP/wEpm3WHqCKJ/YVXQ=="
 ---

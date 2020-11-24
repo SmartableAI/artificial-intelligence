@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Booklyn.co Launches New AI-Powered e-Reader Site"
-excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read"
+excerpt: "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read better. Offering the widest available range of digital features,"
 publishedDateTime: 2020-11-19T12:39:00Z
-originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
-webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+webUrl: "https://markets.businessinsider.com/news/stocks/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/booklyn-co-launches-new-ai-powered-e-reader-site-1029820780"
 type: article
 
 provider:
-  name: WFMZ-TV
-  domain: wfmz.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "wvny0+m07D6wxO+3RtIwzoA/8oNIBEKFHQPvCNVPnNrADC2GiTaLrXbd3OVDPJdkPXBQtKofRl87PII/tGC6CPaawQvmpohg5Rzr1W/+XzXZl0PGoznO9E0SeKc63NSv353COvrfZQShp5D23wk8TygvM9OK5Cl3MNwDEn+SmENiJ/kqD2wm1jTZPh5mbndaLB2pg+CjqCJH0JaMf34+4YUHAUR5163qdMQwcnw9phtv7Arl+EO9V+cjTc4QUE5RILImSrNXLC7OSh7oA5RcseUVdY71EODfWlfE1VuvZ9Uifvos1a2d7apIhB7QCBTqJ49StKtN+0TKqw8elKczLQi0CBF1GH22dJ3VkSk5jqW69rsJRRU4ABvu4Q3zcgK8uYroZRsPVCyh0Dh71So6oPi1pLeRIQuFlRoglnn5H6U9h4TpPwyxElesjwL509WyswqTosMbqklfnQZImLzNdU2MF3zPZfohaor9a9F47O2Q33lvyTcgsiG/25RGW3QkoEmVsALphVQWLWyBro/sXQ==;yOiC0bZmvpeWz5ntGJEi3w=="
+secured: "0jhlkU+98emD4VD6G8pxh9+xQ3SrqwdO9LFXF64AtGbx3wGZ1lpXzkJ++2aLFO01RFa8oQ3OTdI2/UoEg0ELD2LFoZm0NaYynoWPhzEx8en3ixfBU94UIcsdpksuKLNvnE7IuFGPuMfgTbJfVccvptXjPUUJzhc2lV/bd6yDpaAmpE2F+5fMpqjfElUfejerfA/ROdVnAHhHe8ocqsGuI5zhGvd9X+ca4BdUNW8f+kuxUD4VG5p6m+nyrQKijd7y4RAuB4TLBVRboJkg3oWdjz5LOtnPXMBSSHtj9h8nEuhu/B+LJxY+1AotJ08GnVQW/1hn9c+0LmTSbuOyBaL5KHUyZN4N+7JuPC8ssaLTfPA=;S2/T5JV+jPo18ACprHtRQQ=="
 ---
 

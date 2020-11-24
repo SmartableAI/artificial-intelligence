@@ -54,6 +54,20 @@ related:
         width: 500
         height: 281
         isCached: true
+  - title: "Regulation 2.0 : The AI technology revolution is here and now"
+    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
+    publishedDateTime: 2020-11-24T17:36:00Z
+    webUrl: "https://www.finextra.com/blogposting/19568/regulation-20--the-ai-technology-revolution-is-here-and-now"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Dell Technologies to explore AI and machine learning at GITEX 2020"
     excerpt: "US tech giant Dell Technologies is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai Worl"
     publishedDateTime: 2020-11-24T08:41:00Z

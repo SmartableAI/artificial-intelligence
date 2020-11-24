@@ -24,6 +24,22 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "Artificial Intelligence Technology Solutions Receives Wally HSO Order From Top 20 Largest Medical Devices Company in the World"
+    excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) has"
+    publishedDateTime: 2020-11-24T18:00:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201124005385/en/Artificial-Intelligence-Technology-Solutions-Receives-Wally-HSO-Order-From-Top-20-Largest-Medical-Devices-Company-in-the-World"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 11
+    images:
+      - url: "https://mms.businesswire.com/media/20201124005385/en/800726/23/RAD_Logo_New_Landscape.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "soXs20CdwzX9v2G2/6v9EcnZrF/4f0rottkcmKe5Hwh7wFMe31HXcOYoQbP3vMep/lVBRGTh475iRkUQtz3eda75afgZ2orAL3t485jGr5P8JBiV1NlBofhddPeKhvgRIDTAiPDTNzsrcI4DRtozYwu/xxiKFy5EyOQRVgJPXz44RMtFV/Eret7xWwyA0PuDRDRpda+OzHny2ilrwLXOxmi3YIaxBXaNcv/nrgdV/oQPEin5ynmnufXPCFGYciJ5xvoIawpGnwZNWMnIn/GRcwtmAdK+7TAViHAq3bDI9ALhN+o4rKIP28MnbYdP9iXcrMnqh1O5VOg3E4fq4ItAgC3dMAWmPXH9CLIGyU6sLKQ=;BYijH8wNvQKlgOlXFlYRbQ=="
 ---
 
