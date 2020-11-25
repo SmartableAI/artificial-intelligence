@@ -91,6 +91,17 @@ related:
         width: 1800
         height: 938
         isCached: true
+  - title: "Etihad rolls out facial recognition check-in for cabin crew"
+    excerpt: "Etihad Airways has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s Crew Briefing Centre at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-25T05:27:00Z
+    webUrl: "https://www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew"
+    ampWebUrl: "https://www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew?amp"
+    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew?amp"
+    type: article
+    provider:
+      name: aviationbusinessme.com
+      domain: aviationbusinessme.com
+    quality: 39
   - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
     excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
     publishedDateTime: 2020-11-24T10:57:00Z

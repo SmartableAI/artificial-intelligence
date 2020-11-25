@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "KFC Is Deploying Self-Driving Food Trucks, and They’re Perfect"
+    excerpt: "We’re still a long way from letting our cars do all the driving for us, but at the very least, they can take care of our fast-food cravings. At least, they can in some parts of the world."
+    publishedDateTime: 2020-11-25T06:01:00Z
+    webUrl: "https://www.autoevolution.com/news/kfc-is-deploying-self-driving-food-trucks-and-theyre-perfect-152045.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/kfc-is-deploying-self-driving-food-trucks-and-theyre-perfect-152045-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "nEH7LTVC3NehjhSOsUDfpa8JgC3zoOHOwxZ+S8omhx4Mne80CL0rPtLmnmn8xchtuPLPQat9c+8Ss6YDmvpLsJqFts0X25uyXLXFFhbNrZ6SC0FrZxR5oPZ3PSYkS39WN9v1EE+4PIIJa23kt+ce7aFaSA6qPKXi3ZZzHtiSOQYUJoui3cRvev6+iXRG7bkozH3uMjLmn2lrrE8hsXQMHaFucnc51NOMUCqZ0RmIHWBr/jpOZYOHai75cYCgVxGs17whWyV4t4abRQNZ4aC3o9K/zGEScmm2iYJIKGszG3wKYCVxSWnc4ht8MRVhXoU/T0RfJ4yBfPyyhYMflXxlsRDCsmIfEieuAtKRJFup48Q=;qxIFxSATGIG7XCndT1Ql0w=="
 ---

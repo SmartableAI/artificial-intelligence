@@ -55,15 +55,6 @@ related:
         width: 960
         height: 675
         isCached: true
-  - title: "Local Motors to include more lidar sensors in its self-driving shuttles"
-    excerpt: "Local Motors currently uses Velodyne’s Puck lidar sensor to provide vision for the self-driving shuttle as it drives through neighborhoods, campuses and urban city centers. The new agreement will allow Local Motors to include Velodyne’s Velarray H800 lidar into Olli designs to further improve the autonomous shuttle’s perceptions system."
-    publishedDateTime: 2020-11-20T13:38:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16002/local-motors-to-include-more-lidar-sensors-in-its-self-driving-shuttles"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "oa5/5bLCXldcsfvPNOXGTNE10cOdLoFC3Qe7pe4RASckRJqfz6VTsq6czIUqmgvToXIjuH1YQ2wMBelASWHj5t5QOJ0oLSWVOvOdcL2VQLNtB4ntv+nMa56d6JoBQgeYiKSd/xzbK2aHeoLg9O3s4mZP2rd/bWLxXWuJtrVKjDtwDD1B9elyzOiBJLv2VFVrnhhedu/CY1CJz3L64MOub2GfGq8oNMtwjMv77H+PGC/erWa8FX2miiIp+LzE4lGfaODaVr8A/Y/z7B0ls68GLJ8TN9tSLG0gWfh5fDZACX9ysq8jkDrLo/YGyK9hmqs7CwbPGUxhZJcsvEHdii4k/jB32xaqAYMtRfOrUvo7heGhrXk7MAi5UlwXCtuFEWQUZOMyemJk1LwEOaB0IIRcWXWplPTIAsQxVWwEwweXe0avJed1RWZ5cbgjR8J2I0EDlCKFnly4B4ukeZp5/2N0lj6DId4XD8WmR0OJjS1IZgDBcT7UgPc8w37tOicHm2Dl/b6UjtG16sdiIGi+iMRdxw==;xpKHGjN1KfQEHanRqAwFpw=="
 ---

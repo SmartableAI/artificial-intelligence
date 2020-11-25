@@ -1,29 +1,26 @@
 ---
 category: news
 title: "New Report Finds that Criminals Leverage AI for Malicious Use - And It's Not Just Deep Fakes"
-excerpt: "A jointly developed new report by Europol, the United Nations Interregional Crime and Justice Research Institute (UNICRI) and Trend Micro Incorporated (TYO: 4704; TSE: 4704) looking into current and predicted criminal uses of artificial intelligence (AI) was released today."
+excerpt: "A jointly developed new report by Europol, the United Nations Interregional Crime and Justice Research Institute (UNICRI) and Trend"
 publishedDateTime: 2020-11-19T13:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/new-report-finds-that-criminals-leverage-ai-for-malicious-use-and-it-s-not-just-deep-fakes-1029821098"
-webUrl: "https://markets.businessinsider.com/news/stocks/new-report-finds-that-criminals-leverage-ai-for-malicious-use-and-it-s-not-just-deep-fakes-1029821098"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/new-report-finds-that-criminals-leverage-ai-for-malicious-use-and-it-s-not-just-deep-fakes-1029821098"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/new-report-finds-that-criminals-leverage-ai-for-malicious-use-and-it-s-not-just-deep-fakes-1029821098"
+originalUrl: "https://www.prnewswire.com/news-releases/new-report-finds-that-criminals-leverage-ai-for-malicious-use--and-its-not-just-deep-fakes-301176720.html"
+webUrl: "https://www.prnewswire.com/news-releases/new-report-finds-that-criminals-leverage-ai-for-malicious-use--and-its-not-just-deep-fakes-301176720.html"
 type: article
-quality: 58
-heat: 58
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "EB7x+Nva/0IoCLNEVi7qJR8Iblqby7x3h7nG04jycrPdHz/3i3MsuB5cRzqeCPpi57/0cHk9NRdeQZGKb09Ajg+7t5FpzzMIeyXW769jLAotcLdZYqE4qsO7caq29m4SOSL/qUqL0pU7pLpXD3NeLPy2WZb5a7yl3pNixpiEZz9J8JlOgoUNAgJ0Qt+fGISyvI/TfnMzBzeHXNlovK3/R2qI9u+xFiCFgxL9Szjpqt+J/gA2TSzYvT0i4v3k84D64OGhc9/78mnU3xubtIhhTBFkMvoAt9B7mBaf6stfiGobpJ9TdlnBlRXGl9ZDa4WbanZqhcd5wk//d85Tjd8v9t7QN72GkJ5ZzU4K0IVvoog=;rGjBXmgf+JoMBe2YmSOIGw=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "fXrl66mhWfy+veSq/ZwLNg0dJHJ/K7Zrvbx5nN3Qe/oPITjbmq2s7Scfmg9YLVjsVg5l7agtR1weu8395uRDY47tBXOk2gI1ol1NpAlY9oAdc179DxL3WtKVMD2InWlv4wEiWVxz3bB1Oqrb/mt9BqZBQsJQmNzZPw9FLbwoZnjs8kixhu6ZwTaWtJL1cvqapvPx758YzdlUBKVPA6M7kbZzGqCQT0FdJkH3A0geu+PlXhrcJzCBKNE4FMKWajBL2wArMyDy0QLK3jtPpZfo4R3UCtj6zB2OUqcmCQ4QUk1XVXAJJMEKQHIsteGPFpPMCagiotVyLaNDBrkB9lx72RkU3obMTx0H/vpqrpHKU0w=;42WB0XvFuLnrkp50WhyBLw=="
 ---
 

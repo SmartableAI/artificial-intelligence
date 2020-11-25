@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2801R3"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2801R3"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 34
-  - title: "Local Motors to include more lidar sensors in its self-driving shuttles"
-    excerpt: "Local Motors currently uses Velodyne’s Puck lidar sensor to provide vision for the self-driving shuttle as it drives through neighborhoods, campuses and urban city centers. The new agreement will allow Local Motors to include Velodyne’s Velarray H800 lidar into Olli designs to further improve the autonomous shuttle’s perceptions system."
-    publishedDateTime: 2020-11-20T13:38:00Z
-    webUrl: "https://electronics360.globalspec.com/article/16002/local-motors-to-include-more-lidar-sensors-in-its-self-driving-shuttles"
-    type: article
-    provider:
-      name: Engineering360 News
-      domain: globalspec.com
-    quality: 4
 
 secured: "2He0yk0bIaKSpy5lxJpA/1tj6VTKEzKVtle5odT3adov/5L/pSd//+D4WOnG+OE5Zm0ps+wy/dr+uWY3qpPs+KDvPRJqxyWheyKXG9M6YKFT9eEj5qK/7ip3dehnr2JFUTIdKUL7emizrFQBKr7TETaeBZKBvwyT3UtaAmm8Q7zCZwQAGn83Hh9uQJszoCZ3vVixAy0XjMTPEkI2F4WSxuLXk+cyAJ65C1lxsbL2s3rtMXm0b6eNcNm1C+DyF/BIelrDyyQrx5K28AzSGPba9iD0ZecNEpSS/tIdiLENBzw0LDHvricyF1jjfADvxuBLpHhVwnjkem4aMldQUoeQQZbYhHXhyLTSRU5zCPenL16JgBg/k5QZVGcZvSq2o1BrsRdKkrxCJIjafoSXQd7w7JVqaggf4PGEzK3LjrLA37WSRCikhLfJ6yZqAjoFuO2v+jeaUDdz7Tx8nP2o6e/s2MDcsF01Q2AgiHwPQ5N+PaPSokBXxxJIMtDk+c19yQyCUyMVcoZLsbLesbQFeUx/Xw==;eqY7k4mxmvscVnK3oNMo7Q=="
 ---

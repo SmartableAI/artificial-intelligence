@@ -57,6 +57,22 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Artificial Intelligence Is Now Smart Enough to Know When It Can't Be Trusted"
+    excerpt: "How might The Terminator have played out if Skynet had decided it probably wasn't responsible enough to hold the keys to the entire US nuclear arsenal? As it turns out, scientists may just have saved us from such a future AI-led apocalypse,"
+    publishedDateTime: 2020-11-25T06:13:00Z
+    webUrl: "https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted"
+    ampWebUrl: "https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted/amp"
+    cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted/amp"
+    type: article
+    provider:
+      name: ScienceAlert
+      domain: sciencealert.com
+    quality: 56
+    images:
+      - url: "https://www.sciencealert.com//images/2020-11/processed/010-AI_1024.jpg"
+        width: 1024
+        height: 415
+        isCached: true
   - title: "Artificial Intelligence Neural Network Learns When It Should Not Be Trusted"
     excerpt: "A faster way to estimate uncertainty in AI-assisted decision-making could lead to safer outcomes. Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety,"
     publishedDateTime: 2020-11-22T16:57:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "South Korea Unveils AI Chip to Maintain Semiconductor Leadership"
+    excerpt: "South Korea is adding a new artificial intelligence chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global tech market and an upgrade of its industrial capabilities."
+    publishedDateTime: 2020-11-25T06:47:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 104
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i91wAuLvp3JY/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
     excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
     publishedDateTime: 2020-11-22T13:49:00Z

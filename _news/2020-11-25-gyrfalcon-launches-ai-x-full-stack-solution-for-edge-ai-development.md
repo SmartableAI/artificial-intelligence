@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-25T00:43:00Z
 originalUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-launches-ai-x--full-stack-solution-for-edge-ai-development-301180256.html"
 webUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-launches-ai-x--full-stack-solution-for-edge-ai-development-301180256.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"

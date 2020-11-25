@@ -39,6 +39,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Robotic-Assisted Surgery Has a Bright Future in India"
+    excerpt: "Robotic-assisted surgeries have been there for quite some time. In recent times however, with a growing emphasis on improving the quality of care and with AI ma"
+    publishedDateTime: 2020-11-25T03:28:00Z
+    webUrl: "https://www.cxotoday.com/news-analysis/robotic-assisted-surgery-has-a-bright-future-in-india/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 39
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/11/Robotic-Surgery.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "+D2zDP0h71qV0FBaIOm4vtRKHdqdU0MEemuvUv5hWq10lGH05j4cYUVkoXIsm39lFIr3fzUQ0gPZJ7TDGExFPDFZecxLAXIaFJ8U1BbeH4USxZ1lTSBOufH1GmdrjT9wNaxO2bWMcb4wPG+U7z9IOLzjPayVgiuBS8ArHIoAJ9gWzg2Zk2tII14zo7JOQhgBc+vIbcbKfYpvcpzBuRNKyUQ8UlpoV4yIY3r7SO3T2uEGzGkt3qz1CE6LcA67Xpf70Y04xy5Xgx3HjPisDWs5vpyUwZseA0wVcHLIhUufmaYLHPIHkNJ1sDZHC6MguB3SvYp0dHPHS08Ga2TY97nreoU4A7QUrJHXfLLKNrZ5fNVyMVTZrzfBZnduD2R4Iyg8HAWjcBop+NNMILkVYVL5tD38oVJykVVklRJND/kFrtSPUd+CL0cJ4UL5awJskhWq8JHiA9UDfnoLf+QGbhAK4lp1dKptHlS7BGwbNbL5vub4PWkNB0IXHftOg0jL6uFPgug18V/aGzksFScWzXaobg==;Xy7ENIzsAHTsLAYXVNH3Hw=="
 ---

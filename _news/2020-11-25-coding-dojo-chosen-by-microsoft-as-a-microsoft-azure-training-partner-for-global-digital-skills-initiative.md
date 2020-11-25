@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/coding-dojo-chosen-by-m
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
 type: article
 quality: 81
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "NSW Transport and Microsoft use machine learning and data to reduce road accidents"
-    excerpt: "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,"
-    publishedDateTime: 2020-11-20T13:08:00Z
-    webUrl: "https://www.zdnet.com/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 80
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
     publishedDateTime: 2020-11-20T16:00:00Z

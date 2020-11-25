@@ -105,6 +105,17 @@ related:
         width: 1800
         height: 938
         isCached: true
+  - title: "Etihad rolls out facial recognition check-in for cabin crew"
+    excerpt: "Etihad Airways has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s Crew Briefing Centre at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-25T05:27:00Z
+    webUrl: "https://www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew"
+    ampWebUrl: "https://www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew?amp"
+    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew?amp"
+    type: article
+    provider:
+      name: aviationbusinessme.com
+      domain: aviationbusinessme.com
+    quality: 39
   - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
     excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
     publishedDateTime: 2020-11-24T20:56:00Z

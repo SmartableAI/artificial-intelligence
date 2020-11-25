@@ -41,6 +41,22 @@ related:
         width: 970
         height: 545
         isCached: true
+  - title: "South Korea Unveils AI Chip to Maintain Semiconductor Leadership"
+    excerpt: "South Korea is adding a new artificial intelligence chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global tech market and an upgrade of its industrial capabilities."
+    publishedDateTime: 2020-11-25T06:47:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 104
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i91wAuLvp3JY/v0/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
 
 secured: "bkf8fQSMZEa1DSoIJo/U6wnVlP5lJP2BOCx7Uer2rWbHBKV0ci9mUC3iiihfzsY6sBJM2cdaMItJVcRacNcFMPdBy7XmKb8REJl6dUW0oRHcwZPVJPDEO5dLyCe/Vbig+5Jh07lsgBZrdKN+mcn9cDL969VUZQAc/JUqvqjKiLu9fDGf2kP9j0iygHqN1jaryeMtxsT4hCgq8wGu2PaWKfSzXx1A2kfl4jpT9OO9h2gjOPxzZqVAe4d7zDqEkq8mbmdOitQZz6UVW3Rt2o5WqOBPGglTWrmfUWZHgsrvLxSK3WeA6vLWjxFC6dYt5haBXOOXalDXOq05skAtjAYKW+rMcMe0H7abbBXdBFHKT0gCaSdnJlsVvJB6lgZFUv4jVzCjtJG0Wt0F2rLE172xTx5EH6BOxT0WInyIZkYoAQPl/pyOYSfihjQJIb3LvcXOdMxJomKtbAP3Wg4z8W/3oRPR1mfAKlkGEaVXV3sZh/vhDDjtsIsvlNY7F+W0nAjrqYVlJ1N9+qIj0bvCbzAT6g==;VsbFqb7VQ37vli4HjoWjew=="
 ---
