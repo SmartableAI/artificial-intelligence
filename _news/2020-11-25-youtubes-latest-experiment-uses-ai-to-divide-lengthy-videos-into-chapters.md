@@ -9,7 +9,7 @@ ampWebUrl: "https://pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-l
 cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-lengthy-videos-into-chapters/amp"
 type: article
 quality: 55
-heat: 55
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1500
     height: 1079
     isCached: true
+
+related:
+  - title: "YouTube's AI-generated video chapters could help you skip lengthy intros"
+    excerpt: "YouTube is testing AI-created automatic video chapters that could save a lot of time for creators and viewers."
+    publishedDateTime: 2020-11-24T15:24:00Z
+    webUrl: "https://www.engadget.com/youtube-ai-automatic-video-chapters-test-144057028.html"
+    ampWebUrl: "https://www.engadget.com/amp/youtube-ai-automatic-video-chapters-test-144057028.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-ai-automatic-video-chapters-test-144057028.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 86
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F8e2b1fd0-2e59-11eb-8b74-dd0c004760d7&client=amp-blogside-v2&signature=9365a7f9b0283d42c74833376c09019bfac07745"
+        width: 600
+        height: 350
+        isCached: true
 
 secured: "CWFQj8b0fhicCj4D+1Nfsc0F2/lZZSCZvY8E7j0PjrpHsv9YEcq9KxFDi5DbBqTC3O69KKyUNeu1wUs5nx1eW56eHTuEB1IMcxrR6FERi9VBwP8GaERHHUmX7dyER+8oXbfs7IIHlg4QAv9JkcgyZ0rAEG+Uv4cW2w3nSVkzGvy2I3aMjMTBcrRrMtKC1yCqix9icUTzaTbKc/X4jwJtXn14T93yKpumLuHz3BgI77Zwp2yeC1jqUTFGJutSoHQCLiEWh/yFk7lJXSgvdzNtiKiO7B3Rre+hjm6UpRMD6hT/U7QLVJLIffujYKlSRFnnP/2CiQKzzRpKVvW/6Y7TClvQoQKRF6f3AYduDvs+RFDGu/VhjvkiiD7PHg/84kIEDNaRWN247dqRRD+AaCwa4BwQ1i4vmXyzlAqf1wcT0pDkWmZRB01EVfq9GbMUyixY/XmsOZ+deEWrpGsgY2BJGeeas0e4m4Fx0BuCETeL4RXwMPi4zDKgBRj9KLPd11p2x7NEmTzTjJfY0NGeOa7hxw==;PlQV9eQDDJgIOnRWLAelow=="
 ---

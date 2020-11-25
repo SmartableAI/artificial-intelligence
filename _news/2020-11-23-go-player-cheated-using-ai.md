@@ -9,8 +9,8 @@ ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: koreatimes.co.kr
@@ -37,25 +37,53 @@ related:
     provider:
       name: National Post
       domain: nationalpost.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://smartcdn.prod.postmedia.digital/nationalpost/wp-content/uploads/2020/11/1st-Article-Image-scaled.jpg"
         width: 2560
         height: 1392
         isCached: true
-  - title: "Top MNC's using AI & Machine Learning"
-    excerpt: "Google Google is regarded by experts to be the most advanced company in the field of AI, machine learning and deep learning. The main reason for this is probably the amount of money the company has spent acquiring startups Google has spent more than any other,"
-    publishedDateTime: 2020-11-24T04:30:00Z
-    webUrl: "https://www.linkedin.com/pulse/top-mncs-using-ai-machine-learning-naresh-kumar"
+  - title: "New tools for fairer AI"
+    excerpt: "A ground-breaking new technical paper demonstrates how businesses can identify algorithmic bias in artificial intelligence (AI), and proposes steps"
+    publishedDateTime: 2020-11-23T13:20:00Z
+    webUrl: "https://www.miragenews.com/new-tools-for-fairer-ai/"
+    type: article
+    provider:
+      name: Armed robbery in Revesby
+      domain: miragenews.com
+    quality: 39
+    images:
+      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
+        width: 1416
+        height: 829
+        isCached: true
+  - title: "How AI technology is capable of changing the world for good"
+    excerpt: "Artificial Intelligence (AI) is already being widely used in a wide number of industry sectors and consumer-facing businesses - we might just not realise it yet or the extent to which our day-to-day lives already benefit."
+    publishedDateTime: 2020-11-24T04:11:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-ai-technology-capable-changing-world-good-tim-bennett/"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 58
+    quality: 39
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGor5XqYkbziA/article-cover_image-shrink_600_2000/0/1605197258679?e=1611792000&v=beta&t=wR0L25oNPfA86ypXnX4enovPAZk5w7srTkIkFzC3X28"
-        width: 400
-        height: 260
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQGg6cCZ8Rne8A/article-cover_image-shrink_600_2000/0/1604448036281?e=1611792000&v=beta&t=2hZkY6xD6NAppNlU1gzdGF4P1S7mqJ9qZcJoKpRkwUY"
+        width: 744
+        height: 400
+        isCached: true
+  - title: "How Artificial Intelligence is being used in the Gaming Industry.."
+    excerpt: "Artificial Intelligence in the Gaming Industry Although one of the basic goals of artificial intelligence is to know and develop intelligent systems that have all the capabilities of humans, there's very little active research directly following that goal."
+    publishedDateTime: 2020-11-21T16:52:00Z
+    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-being-used-gaming-ashish-bhandari"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHtQ4GUAFNZoA/article-cover_image-shrink_600_2000/0?e=1611187200&v=beta&t=wVLNknReRtM_fJSQ6BrQvwjvbReYAWdqbVbARy9r1ww"
+        width: 1355
+        height: 600
         isCached: true
 
 secured: "DN5OTN5pORazLJHReIGMLoKTZBz+OvDb1TkM02F158NvbmQGfU1leNUzMhVWmPGiVooIj0RMDV32X0BHm7IgP/lmI5QNWt6pArgiL74ktLzUyNEzmuu6Z7d/FeG+Ecwm+5XjVZ2eRmpys74Nzo2ZTRTbgFAtmd10hOFFpcbJbZcXV+e1vGTOj4w5r1z1GJoj/KfGSe0oqycJWwjLOA5TX+wPH7/e2uMrShIONRo7zI2+j0XpjJi35CObVh+LK0whJVuDtilmz6oeDU34SqXakdKJmYoT8fGvKWszKx0mN3LOnxl7NQj7inExXGaLULCUOsc+dm4DbHudduRaiDuAXQMvIJ3+OgCCXPvV+6DnbPt2rAP4ELDyeXYoNWa62IGDNtJ1K2mY00xY6xY/Z8LfM7/9jFuBiCsVzYUwre73yZbmIVPqJaU7XhrShRsTwwqJmswWjYR9SP9k8DmdfdAzzd8h0Q+CrSA48f4gJEBTfGusYbLK80fvP1J+9k0Pb86YpYITKsFphMNcy6U+1wsmBA==;eFCRzmivoM/Y0plhWvq13A=="

@@ -1,53 +1,22 @@
 ---
 category: news
 title: "Free Webinar on the Booming Global AI-based Learning Market"
-excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
+excerpt: "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash."
 publishedDateTime: 2020-11-18T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/p18433265/free-webinar-on-the-booming-global-ai-based-learning-market"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/p18433265/free-webinar-on-the-booming-global-ai-based-learning-market"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18433265"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433265"
 type: article
-quality: 41
-heat: -1
-published: false
 
 provider:
   name: Benzinga.com
   domain: benzinga.com
 
 topics:
-  - IBM AI
-  - AI
   - AI Ethics
+  - AI
 
-related:
-  - title: "Artificial intelligence and machine learning course"
-    excerpt: "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning."
-    publishedDateTime: 2020-11-20T01:36:00Z
-    webUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
-    ampWebUrl: "https://www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
-    cdnAmpWebUrl: "https://www-tribuneindia-com.cdn.ampproject.org/c/s/www.tribuneindia.com/news/jobs&careers/artificial-intelligence-and-machine-learning-course-172710"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 74
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/Desk/2020_11$thumbimg_1437830715.jpg"
-        width: 330
-        height: 220
-        isCached: true
-  - title: "Dell to explore AI and machine learning at GITEX 2020"
-    excerpt: "US tech giant Dell is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai World Trade Centre-based tech show from the 6-10 December 2020."
-    publishedDateTime: 2020-11-22T08:44:00Z
-    webUrl: "https://www.arabianbusiness.com/technology/454939-dell-to-explore-ai-machine-learning-at-gitex-2020"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 34
-
-secured: "V2Ryzk/3C/VmRrWmMYP7/iJhgVoyEbufMbmziYWrXe/rgqddvKWlKlgyGcPdunTgk9M79DN39O9Wh6hnKLHqNCaIr/FxmvL9ztY3+fcYy1iCObysW3PCBCi9hy7moUSuXy6glokKHnVWrLqh0VM7QsIzBtoEP0/ECIV8dHSpeVDYvvo8O9xH+E+4ZQetTrtXHi4KdH8B47ichokTNQX2v2aszPRpGDvQ02lP1gN/EDqdAl+OGsJBxzJ6ShhjfqGO7gy1oPF1pmlRdolvYNwTRvx0dmWowrugtu4XN7QsrmD/yWYQ/dbghF1Upm0acCz04W+xLnBHVGDZVcBLXUsgMzlTP/rdhCpZ8Cz6cOm/WNE=;UMsGcSPaaGB6+6BrXIA83w=="
+secured: "VOTHuJYNWD1PVDCgs+hm+rc7VnDLNbYwwwmZUwoKCt9TvToO2Hnctgq10D0OzlxO5gIhDhdq67dDoVlumCrGhJ4HO8YjXAEygADJxpEGMbt6KjeuPYMj4i+OmGm7glSWrQE3/iTOPPl6fnODLegTbKJf//my4EQ8oNP/U4wl7sJ6KJNJvTRX0MgxkGFzQjeobM4wtP29IMCy8QWho6gSpBz1ZsMaQTrKfsUASj75ik2GuytqR5S49akPzadVTPQkQC2ZOJ7cd2X2xTr66Ag2LWIY7vDJppGvW70tJSCdhrw8HW+war4uT9GR8+M9QqOS4JplAWAsZp57rR8RV0mg2erpC1VqFUeRWcXlt9hwQBo=;rH/ES+IqbCsrS9kRxAeOHA=="
 ---
 

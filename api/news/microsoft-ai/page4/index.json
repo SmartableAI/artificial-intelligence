@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-16-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
+      "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
+      "excerpt": "NEW DELHI: The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/articleshow/78678554.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/articleshow/78678554.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-78681044/78681044.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/amp_articleshow/78678554.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/home/education/news/udacity-microsoft-launch-nanodegree-programme-to-skill-students/amp_articleshow/78678554.cms",
+      "publishedDateTime": "2020-10-15T10:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-udacity-microsoft-launch-nanodegree-programme-to-skill-students.md",
       "title": "Udacity, Microsoft launch 'Nanodegree' programme to skill students",
       "excerpt": "The US-based learning platform Udacity on Thursday announced a partnership with Microsoft to launch Microsoft Azure 'Nanodegree' programme, which will strengthen the machine learning (ML ...",

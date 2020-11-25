@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-13-google-catches-up-to-aws-and-azure-with-new-database-migration-service.md",
-      "title": "Google catches up to AWS and Azure with new database migration service",
-      "excerpt": "Google has debuted its database migration service, making it easier for Google Cloud customers to transfer databases to Google's Cloud SQL.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
-      "originalUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
-      "publishedDateTime": "2020-11-12T09:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-doit-international-named-aws-reseller-partner-of-the-year.md",
       "title": "DoiT International Named AWS Reseller Partner of the Year",
       "excerpt": "DoiT International has announced today that it has been named the 2020 AWS Reseller Partner of the Year in Israel. SANTA CLARA, California, Nov.",
@@ -1404,6 +1351,58 @@
       "topics": [
         "AWS AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-ai-artificial-intelligence-lessons-from-the-world-series.md",
+      "title": "AI (Artificial Intelligence) Lessons From The World Series",
+      "excerpt": "So in light of all this, what are the lessons here? To answer this question, I asked some top people in the AI field and here’s what they had to say: Hindsight is always 20/20, but Cash’s decision to pull Snell illustrates the myopia that can occur when analytics are elevated above commonsense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ef353188dd3a517f19ceb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2715%26cropY1%3D122%26cropY2%3D1651",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
+      "publishedDateTime": "2020-11-01T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

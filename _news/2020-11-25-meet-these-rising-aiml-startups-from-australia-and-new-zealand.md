@@ -3,8 +3,8 @@ category: news
 title: "Meet these rising AI/ML startups from Australia and New Zealand"
 excerpt: "In 2019, Australia announced its roadmap for AI technology, with a particular focus on tackling issues related to healthcare, infrastructure, and the environment. Over in New Zealand, the government recently announced the launch of a regulatory framework that would govern public sector use of AI – a move that could help address some of the societal barriers surrounding the use of such emerging technology."
 publishedDateTime: 2020-11-24T19:33:00Z
-originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?comments=true"
-webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?comments=true"
+originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663577"
+webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663577"
 type: article
 quality: 64
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 578
         isCached: true
 
-secured: "69WzPvGimVnQp9lHfJBComuxcm/AHisdooz1ebF5Xfrgc84k8T8P+8K9OgNVdskrsjmVkQlHavLlwesidOndW8CNTGM1e3ab3pP/RdzsDCHoqKeMSjajJbBtDEGsOxVrjU9WB0TP7M3XjDBAgBUp+onfrXjohtM3EEdU8qM/O/rW7v6WnrXvgZuBmgXldmUQlRT1AyPA/BHQPeu3FIk/Hn0EgBPQVIFeFyJHBJiDkRWUhkudEyl6d3KfrWHpZHuuaW5HkFoyEhGrHYi+uumSIscAXjs2xV0mDOAa7gqnctOn4yr5WOsBqjVpLvdtyQUbN7IdosDyo2xQdJK6D33qh7B4xPJeZVmDYUBGEkNjcesVVfqFkWuGit0RDG92T0MhMMBtQQm40XQK0FYtRai6O8RtKJI7ochWvGZS22sUSZwAQ3mfawKYjbjaHy4mmx3JJMFLq119THfwIuUlFrCNL4GJC2uTq2Zvi1tdjGreQaCY7ItLko8Phqk8QLM5RwScQYReKm7fRj3mtvmQTUQT3A==;ykyMDPMJhkpowGAOtO35zQ=="
+secured: "uSWvWJ1JCtg4GTY7zJZScZCDoKdVryswjviwDj9KfUiEiL7PW04EP3rFiQ9rFioIjj4MRxUkNzsNbQPI7Xg6zqbGOtzbS4uyy+ZP0XDT6gceB62wUsHrpKX6SXI9BPQXnEJSPADnuCcLRzXkeBbt4zc+h80pDxZGpMJ9GtzrmYdqGHT7McMnrVP56/f1cu33euxums9M33FzojzYRtQFaRgp8nmZvkAwdrvjdaSypvueztjixvsMUq+/fCxTIV7BDuAH9p6K2HN/oCcDu5SniUDtOBoxw3fel0rYnD1iZz92do1qYNeVmJcokb0jienxU9y0L949soS9PXIZ0NUbP4TrI4ffUTNuEzaZlIIbV9rKLVY5ITdFJIj+x9keIel3HrlBRBNvzqOV1OEdLCnSisG6PREpX5AVm7V8TGn+lN+yPjNNJ8Rl9q/Xcdrv1Okc+Dj2f3NRnFdJV6uUX3duNnU/fckUY1Gle0rnnMX0MYyjxtWCllCw0psKYyO85grqFFroYz5oqHrwGT0LCBmRxg==;fvLeLC8BTWaCieekbmhO0A=="
 ---
 

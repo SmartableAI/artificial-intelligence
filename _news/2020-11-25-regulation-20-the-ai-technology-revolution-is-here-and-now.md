@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and satellite technologies reveal detailed map of air pollution across UK"
-    excerpt: "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date."
-    publishedDateTime: 2020-11-20T09:00:00Z
-    webUrl: "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html"
-    ampWebUrl: "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/7-pollution.jpg"
-        width: 1920
-        height: 1279
-        isCached: true
   - title: "Regulation 2.0: The AI technology revolution is here and now"
     excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
     publishedDateTime: 2020-11-24T12:10:00Z
@@ -55,15 +39,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Dell Technologies to explore AI and machine learning at GITEX 2020"
-    excerpt: "US tech giant Dell Technologies is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai Worl"
-    publishedDateTime: 2020-11-24T08:41:00Z
-    webUrl: "https://www.arabianbusiness.com/technology/454939-dell-to-explore-ai-machine-learning-at-gitex-2020"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 34
   - title: "Storm ID and Zebra Medical Vision to Co-Develop Revolutionary New AI Based Osteoporosis Prevention Solution as Part Of UK-Israel Collaboration"
     excerpt: "NHS Greater Glasgow, Clyde UK, Assuta Medical Centers, IL, partner with Storm ID and Zebra Medical Vision for early detection of osteoporosis"
     publishedDateTime: 2020-11-23T21:56:00Z

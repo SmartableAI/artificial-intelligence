@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-key-players-and-manufacturers-top-countries-analysis-2024-2020-11-23"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-Driving Car Market Opportunity Assessment and Industry Expansion Strategies 2024"
-    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
-    publishedDateTime: 2020-11-20T07:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-opportunity-assessment-and-industry-expansion-strategies-2024-2020-11-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
     excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
     publishedDateTime: 2020-11-23T03:57:00Z

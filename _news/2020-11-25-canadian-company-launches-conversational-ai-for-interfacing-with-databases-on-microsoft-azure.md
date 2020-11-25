@@ -3,8 +3,8 @@ category: news
 title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
 excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
 publishedDateTime: 2020-11-24T17:22:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Canadian-company-launches-conversational-AI-for-interfacing-with-databases-on-Microsoft-Azure-144056.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Canadian-company-launches-conversational-AI-for-interfacing-with-databases-on-Microsoft-Azure-144056.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
 type: article
 quality: 58
 heat: -1
@@ -75,6 +75,48 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney"
+    excerpt: "Clunies-Ross said in a statement: \"Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation. \"It represents a ..."
+    publishedDateTime: 2020-11-24T23:52:00Z
+    webUrl: "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg"
+        width: 375
+        height: 319
+        isCached: true
+  - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
+    excerpt: "Developing on a global partnership between the two vendors, this sees SAS Cloud’s data, analytics and artificial intelligence (AI) workload capabilities to Azure for the wider Asia Pacific (APAC) region. The decision to launch in Sydney was due to ..."
+    publishedDateTime: 2020-11-25T00:41:00Z
+    webUrl: "https://www.reseller.co.nz/article/684718/sas-microsoft-launch-sas-cloud-azure-sydney/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 54
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
+        width: 800
+        height: 500
+        isCached: true
+  - title: "SAS, Microsoft launch SAS Cloud on Azure in Australia"
+    excerpt: "building on integrations with Azure, Dynamics 365, Microsoft 365 and Power Platform. “Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation,” SAS region vice president ..."
+    publishedDateTime: 2020-11-25T00:39:00Z
+    webUrl: "https://www.crn.com.au/news/sas-microsoft-launch-sas-cloud-on-azure-in-australia-558218"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/crn-14_sas_microsoft_azure.png"
+        width: 985
+        height: 634
+        isCached: true
   - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
     excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
     publishedDateTime: 2020-11-23T11:29:00Z
@@ -104,6 +146,6 @@ related:
         height: 315
         isCached: true
 
-secured: "EXxGHLVUY16j9HHEi3LKxnGVqICu3crf95WtVYBajgu3kplYjQcgBNiWXyAlYmvZz3mpqQO1wY1UegG70jcOo9i+tRGhC8SrjrUJQUbJGG/z08paAbPQRTXQv4j/QJLr+NBsQHrYR2xJeajH2ZpVmqclACXLeJGJ3BtpcR/ua3CO5F1Y1HTOtHWftvE8ochITOAZgeYvEcdB1DM8pzMCMpzstEhcxaqpZFyLqPHgyMoUeM035qVM3oLKljzsupBY+Oxhho6Kd+8mEaXnMaP46hYPfN0VYX4x1dOlayeQqkI4gACS216WWU/W4JBSxvFpXbu+M1XeHxS5Tjl+ua7dZ0yjvIYA16ImW4WnF6GBcW0=;P892CVFMf4X7OqGm5LiheA=="
+secured: "tkMT680r5+JlS5shBp7qnyULYTBMvNSDK/jC1wKM1OKuJzLyh/lUiPgpAlkjMUprA1UiHRZzJ1n/ioFHW31c5B6Wj5djibxBRGoxENPoRqQ11sq9a6IqalsQIVzBTUf3mzRuXcD4B759EkS337SpT7JQ4vsJxndIC4MIisfIzQuMTPDA8sM+c6KS5iY0MXitc/WviO19SVX6zecjc9Gk8Qrthe8oxkh+eEYFrsLlLx7lsnrUxs+khAvo2hNXNw6gHM1h7NFyZOXTcxyk+QhQaAWxtTsqM2rySLNEBvSLofk3k+043IDTTplp9XlVmrRYNmmi5K2VPo3njRe4wgS1eDQF+W4Lp/+BUSjyh2WJBhk=;V5XZvy5I2/v7VvP5t0JD5Q=="
 ---
 

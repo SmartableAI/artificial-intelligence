@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
+      "title": "Houston implements facial recognition technology at airports",
+      "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "originalUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "publishedDateTime": "2020-11-20T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-can-artificial-intelligence-give-elephants-a-winning-edge.md",
       "title": "Can artificial intelligence give elephants a winning edge?",
       "excerpt": "With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.",
@@ -1188,58 +1231,6 @@
       ],
       "topics": [
         "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses.md",
-      "title": "Google’s Project Guideline uses AI to help low-vision users navigate running courses",
-      "excerpt": "The company also continues to develop Lookout, an accessibility-focused app that can identify packaged foods using computer vision, scan documents to make it easier to review letters and mail ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
-      "originalUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/a577f9c4-b652-4554-9655-39dc580ad1d7-e1605769616203.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
-      "publishedDateTime": "2020-11-19T12:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

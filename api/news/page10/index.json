@@ -2,6 +2,151 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-17-how-ai-can-change-customer-experience-and-engagement.md",
+      "title": "How AI Can Change Customer Experience And Engagement",
+      "excerpt": "Customers and brands alike stand to gain immense benefits from AI. To get the most out of the technology, organizations must make sure to use it intelligently and offer personalized experiences.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb2b09502ab39790dd3e41c%2F0x0.jpg",
+          "width": 1199,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
+      "publishedDateTime": "2020-11-17T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-the-ai-invasion-breaking-in-from-the-customer-contact-beachhead.md",
+      "title": "The AI Invasion: Breaking In From The Customer Contact Beachhead",
+      "excerpt": "The Covid-19 pandemic has accelerated many of the digital CX and engagement trends that were already in motion, highlighting why operational agility is vital.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb29fb70f114e9e30f73339%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
+      "publishedDateTime": "2020-11-17T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-hopsworks-feature-store-now-available-for-microsoft-azure.md",
+      "title": "Hopsworks Feature Store Now Available for Microsoft Azure",
+      "excerpt": "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
+      "publishedDateTime": "2020-11-17T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-dont-fear-the-robots-and-other-lessons-from-a-study-of-the-digital-economy.md",
       "title": "Don’t Fear the Robots, and Other Lessons From a Study of the Digital Economy",
       "excerpt": "Rafael Reif, the president of Massachusetts Institute of Technology, delivered an intellectual call to arms to the university’s faculty in November 2017: Help generate insights into how advancing technology has changed and will change the work force,",
@@ -1079,162 +1224,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-computer-vision-startup-choochai-scores-20m-series-a.md",
-      "title": "Computer vision startup Chooch.ai scores $20M Series A",
-      "excerpt": "Chooch.ai, a startup that hopes to bring computer vision more broadly to companies to help them identify and tag elements at high speed, announced a $20 million Series A today. Vickers Venture Partners led the round with participation from 212,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/",
-      "originalUrl": "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-16-at-9.15.03-AM.jpg?w=1024",
-          "width": 1024,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/computer-vision-startup-chooch-ai-scores-20m-series-a/amp/",
-      "publishedDateTime": "2020-11-16T07:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-nvidia-announces-mellanox-infiniband-for-exascale-ai-supercomputing.md",
-      "title": "NVIDIA Announces Mellanox InfiniBand for Exascale AI Supercomputing",
-      "excerpt": "NVIDIA today introduced the next generation of NVIDIA Mellanox 400G InfiniBand, giving AI developers and scientific researchers the fastest networking performance available to take on the world's most challenging problems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-announces-mellanox-infiniband-for-exascale-ai-supercomputing-2020-11-16-10197534",
-      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-announces-mellanox-infiniband-for-exascale-ai-supercomputing-2020-11-16-10197534",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box.md",
-      "title": "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box",
-      "excerpt": "SC20--NVIDIA today announced the NVIDIADGX Station (TM) A100-- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524",
-      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

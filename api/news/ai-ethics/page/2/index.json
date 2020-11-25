@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-10-29-salesforces-paula-goldman-on-navigating-the-ethical-issues-in-ai.md",
+      "title": "Salesforce's Paula Goldman on Navigating the Ethical Issues in AI",
+      "excerpt": "The ethics of AI have become an important business and reputation issue in light of the Covid-19 pandemic and public protests. Paula Goldman shares how companies can address the ethical perils of biased algorithms,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/video/events/salesforce-paula-goldman-on-navigating-the-ethical-issues-in-ai/E649BA6A-18FB-4367-8C37-EB268A01B278.html",
+      "originalUrl": "https://www.wsj.com/video/events/salesforce-paula-goldman-on-navigating-the-ethical-issues-in-ai/E649BA6A-18FB-4367-8C37-EB268A01B278.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://m.wsj.net/video/20201028/102820ai4ethical/102820ai4ethical_1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T11:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-theres-no-turning-back-on-ai-in-the-military.md",
       "title": "There's No Turning Back on AI in the Military",
       "excerpt": "with commercial technologies like cloud and AI—all to shoot down cruise missiles in split seconds—is a harbinger of things to come. Are there disproportionate safety and ethics challenges ahead for the US? Yes. And ours will be the higher road.",

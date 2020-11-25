@@ -2,6 +2,161 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-18-k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform.md",
+      "title": "K Health raises $42 million to expand its AI-powered telemedicine platform",
+      "excerpt": "Tech giants like IBM, Facebook, and Microsoft have partnered ... But Bloch asserts that K Health’s AI-driven approach, combined with its proprietary medical knowledge database, gives it a ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/6508d40a-448c-44b3-bd7d-3ec135ba2e54-e1585776810679.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/k-health-raises-42-million-to-expand-its-ai-powered-telemedicine-platform/amp/",
+      "publishedDateTime": "2020-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rdna-2-deep-dive-whats-inside-amds-radeon-rx-6000-graphics-cards.md",
+      "title": "RDNA 2 deep-dive: What's inside AMD's Radeon RX 6000 graphics cards",
+      "excerpt": "AMD's new RDNA 2 architecture brings ray tracing, an innovative Infinity Cache, and more to Radeon RX 6000-series GPUs. Here's everything you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "originalUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg",
+          "width": 500,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "publishedDateTime": "2020-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-are-your-model-governance-practices-ai-ready.md",
+      "title": "Are Your Model Governance Practices ‘AI Ready’?",
+      "excerpt": "AI/ML models have unique technical and operational characteristics that compound current governance challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac26e14d92913a5ba9182%2F0x0.jpg",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/amp/",
+      "publishedDateTime": "2020-11-18T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-robotics-key-to-4th-industrial-revolution-nitda-dg.md",
       "title": "Artificial intelligence, robotics key to 4th industrial revolution ― NITDA DG",
       "excerpt": "DG, NITDA has said that emerging technologies such as artificial intelligence and robotics are going to power fourth industrial revolution.",
@@ -297,10 +452,10 @@
     {
       "path": "_news/2020-11-18-atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities.md",
       "title": "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities",
-      "excerpt": "INDIANAPOLIS , Nov. (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with",
+      "excerpt": "(GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and analytics, today announced it has expanded its relationship with Amazon Web Services (AWS) in order to further assist enterprises in leveraging their data through the power of AI.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -308,14 +463,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18424642",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Atrium-Expands-Its-Relationship-With-AWS-to-Boost-Enterprise-Analytics-Capabilities-1029815429",
       "publishedDateTime": "2020-11-18T03:25:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1063,153 +1227,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-how-artificial-intelligence-can-democratise-education-after-covid-19.md",
-      "title": "How artificial intelligence can democratise education after Covid-19",
-      "excerpt": "New forms of AI, based on deep neural networks, can now uncover patterns about how the students perform and help teachers optimise their strategies accordingly. AI tutors, software systems that students can interact with online,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/primearticleshow/79266915.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.etimg.com/thumb/height-450,width-600,imgsize-534660,msid-79266905/.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/prime/technology-and-startups/how-artificial-intelligence-can-democratise-education-after-covid-19/amp_primearticleshow/79266915.cms",
-      "publishedDateTime": "2020-11-17T15:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-google-has-created-an-ai-powered-nightmare-creature-generator.md",
-      "title": "Google has created an AI-powered nightmare creature generator",
-      "excerpt": "Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
-      "originalUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/TC-beast.jpg?w=1024",
-          "width": 1024,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
-      "publishedDateTime": "2020-11-17T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-incorporating-your-enterprise-knowledge-graph-into-amazon-kendra.md",
-      "title": "Incorporating your enterprise knowledge graph into Amazon Kendra",
-      "excerpt": "For many organizations, consolidating information assets and making them available to employees when needed remains a challenge. Commonly used technology like spreadsheets, relational databases, and NoSQL databases exacerbate this issue by creating more and more unconnected, unstructured data. Knowledge",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/incorporating-your-enterprise-knowledge-graph-into-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/incorporating-your-enterprise-knowledge-graph-into-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Architecture1279.jpg",
-          "width": 700,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T13:23:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],
