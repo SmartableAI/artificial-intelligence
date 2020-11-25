@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Computer Vision System Market 2020 Future Estimations with Top Key Players, Production Development and Opportunities to 2026"
+    excerpt: "Nov 23, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has newly published research study entitled Global Computer Vision System Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that incorporates the analysis of different ..."
+    publishedDateTime: 2020-11-23T21:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2020-future-estimations-with-top-key-players-production-development-and-opportunities-to-2026-2020-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-11-24T16:36:00Z
@@ -56,17 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Robotics in Enterprise Industry Opportunities Report 2020: Focus on Cobots, Material Handling Robots and Robotic Exoskeletons"
-    excerpt: "The \"Opportunities of Robotics in Enterprise Industry\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-11-20T10:58:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18461331/global-robotics-in-enterprise-industry-opportunities-report-2020-focus-on-cobots-material-handling"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18461331"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18461331"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 23
   - title: "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
     excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The deep learning market is expected to grow by $ 7."
     publishedDateTime: 2020-11-20T17:45:00Z

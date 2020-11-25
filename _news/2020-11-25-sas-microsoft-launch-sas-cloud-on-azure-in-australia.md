@@ -105,15 +105,15 @@ related:
         isCached: true
   - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
     excerpt: "Developing on a global partnership between the two vendors, this sees SAS Cloud’s data, analytics and artificial intelligence (AI) workload capabilities to Azure for the wider Asia Pacific (APAC) region. The decision to launch in Sydney was due to ..."
-    publishedDateTime: 2020-11-25T00:41:00Z
-    webUrl: "https://www.reseller.co.nz/article/684718/sas-microsoft-launch-sas-cloud-azure-sydney/"
+    publishedDateTime: 2020-11-25T00:59:00Z
+    webUrl: "https://www.arnnet.com.au/article/684718/sas-and-microsoft-launch-sas-cloud-on-azure-in-sydney/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 54
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
         width: 800
         height: 500
         isCached: true
@@ -145,7 +145,21 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "SAS and Microsoft build on global strategic partnership by opening SAS Cloud on Azure in Sydney, Australia"
+    excerpt: "The partnership empowers the cloud by building on SAS market leadership in Analytics and Artificial Intelligence and Microsoft Azure cloud leadership, supporting a shared vision to further democratise AI and analytics. Building on the global partnership ..."
+    publishedDateTime: 2020-11-25T01:30:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/sas-and-microsoft-build-on-global-strategic-partnership-by-opening-sas-cloud-on-azure-in-sydney-australia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 36
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/SAS-Microsoft-Social-Image_1-1024x536-1-768x402.jpg"
+        width: 768
+        height: 402
+        isCached: true
 
-secured: "nr/NofED3qUWuJWnkwbSo9OdgV1zChAPaHBzsL8oDFEa5TyDX7UKNQNoySChBQKOR4i7Cp2LKjd3p3CMBTez39xCLw5BiCc9e4L15hullcYWcVveXij6hzasvOZl/a4qzzkv5HwoP6rPSF1bA4gg7NoMTKJwATLeFCx9ZA//6NWOdnEOehkUkwKUBsdM8UmS/rqbMU+y+oNldFGCInc6IlyyIW79Hg7t7mAolTOZsv3u6FYBl3kMtejRVt/mraWkswbjX0qVCVOIyNDZtWq7oQtevIAg6b2nhTSvxl4FVIuXGxYZWUp+VN1Watdn1TzXZ8xoDKfs/n+FdYrRzxAmNGTq5f62Pa5KvMbX7lDQaT8=;TwfYOG5M+UuuqPTAsSD3WQ=="
+secured: "+cYIBozIaOh8W/oWLFHUwZn3tBb7MANFgk7VKN0N4bxzgrZAhCo2E/r5E6OkxqH85W6mrbKNLGgF0BOU9v93Ntx41l5IP9r3bmWf3ibs4rbNaxWVwuXYp2W6/y/PT61M42m7std8fZIo4NBhhKZ8UqP5VYX+9Bi02npJ20boBYpQ5JDNx12sSmLv5SRZNrkyB3RzpYGPOJLB1AbP7j8G/0tJNRxY/sheK1OxbrwPuZ/W5UJmN7AgRcieT7+hLXvg7tCMtLDO+jxvv6bXmmKMkDOrkC2bmTdmYziBKz9WyjDrHTagmITaBU0Z9Oq7In92ZW7Tsaq2I7XGb1GelxPGC0zhaXZ5o9aGd/Oo1amOVzImuNsk7AkTLtiema/FdUMX9QNmLANrwzSnUuuL5glcOJs+pgTBb2vQG1WxqbmIWAKJjYQdXFw8g9KXGk9b5S3oOAUMCIVnY7PXZMZwWbH+2eQOwTVROmC5ZakK907NazaS3jFNz2Mh8aPoOdbVH1WfSL0/Iabgnpj4kNREsVJJuw==;2AUaiaFsogfx771k77VALA=="
 ---
 

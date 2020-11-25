@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/youtube-ai-automatic-video-chapters-tes
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-ai-automatic-video-chapters-test-144057028.html"
 type: article
 quality: 86
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: Engadget
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube’s new AI experiment automatically adds chapters to videos"
+    excerpt: "The days of having to suffer through an overly long and cringe-worthy YouTube intro are nearly behind us. YouTube has announced a new test that is using machine learning to automatically apply"
+    publishedDateTime: 2020-11-24T23:21:00Z
+    webUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/"
+    ampWebUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/youtube_main_uns.jpg"
+        width: 1440
+        height: 800
+        isCached: true
   - title: "YouTube’s latest experiment uses AI to divide lengthy videos into chapters"
     excerpt: "Youtube says it will rely on machine learning to recognize certain text-based signs in a video for automatically generating chapters."
     publishedDateTime: 2020-11-24T18:46:00Z
@@ -47,6 +63,6 @@ related:
         height: 1079
         isCached: true
 
-secured: "RxkYYGzZAdPkvgtl6cjxkOiPYUCcvegJ1FvVN0q67LZnuvVVEobuTSwX8e0HU0uFZG1OGHws4EC9C/FxrcRlpkujjSCCSf9tHqjmdqb/uCa8BIF3WvdXXjj677ywnZhwd9WhC0v5v9eaA5EwsP1nMn/VZPKnC02CBalIzfGRixUhx4P1Rz+nNS+rBmoJZ9D/3Rq/1nkfZDJgdt3clUCVlKTP2A/ZicUmHnDVtMGrthIWyUFRQ0HzKjP/ZDjrDkJUq78f84OYsEyxQd6sgQdO+BC93uk/Pr+hINV3muBTKm/mhvYggfZZm0AdGx8DyHcTSfRKkXDpErOSl1Ffx6aJCjn7+zlFkYJHu4hl0ZaYgJA=;ZBB2lDsP84NlBCiHUnB3ow=="
+secured: "UVTZDAgFPXskUsutwPDTHpRVkkSRIVgFi3zddEwgnOEhlLZ7x0ewq+WuMfVsmIH+1oPobTIZSkeVD/yimUhcvNHYoUI36gH5sgbl9INNZcxifM+ZSGNwDCmKBYTGIPrnsMSo0CXrjGO2ABVRt/0J0t0BCcdpz5/6ZDclWxo+Eoqbb/YQEtC2GPno+ECK51BUOKVnEBqxKlZYIKWOgZEVVRNfKII189bwIAIui2fzB7Ml7DoNRI/9bh3Zi9bhaBbnfiI4TiDrKwpedkWs9/WKdGXQonFMvpXpYUP/r4JwuftpvLNk68BttVUzz5R2GDIoB1+pRb7JfAJRZFGCap+yKPrIVYSihtRdeP+I+aZ2anJdhZegkqYuo5JRVB4IWBa9ERbVqqeiQJKWefA2/0g0cJwsCFH8yyPvRwbZCXfkw8lxKdDTxK1dGfPoBFyeRwx1XZTBi68c2VrhHUW2n04GH22Vyc6JczYKfX/WdI5M8B88gorQ1g+W5U8GU9+dCcExnveBwrkguDM85Y8uWKBucg==;yryzbB/yX2dhBMUnF5IvjA=="
 ---
 

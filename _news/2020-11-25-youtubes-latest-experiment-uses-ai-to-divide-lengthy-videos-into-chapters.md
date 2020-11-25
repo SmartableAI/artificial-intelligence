@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "YouTube’s new AI experiment automatically adds chapters to videos"
+    excerpt: "The days of having to suffer through an overly long and cringe-worthy YouTube intro are nearly behind us. YouTube has announced a new test that is using machine learning to automatically apply"
+    publishedDateTime: 2020-11-24T23:21:00Z
+    webUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/"
+    ampWebUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
+    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
+    type: article
+    provider:
+      name: SlashGear
+      domain: slashgear.com
+    quality: 87
+    images:
+      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/youtube_main_uns.jpg"
+        width: 1440
+        height: 800
+        isCached: true
   - title: "YouTube's AI-generated video chapters could help you skip lengthy intros"
     excerpt: "YouTube is testing AI-created automatic video chapters that could save a lot of time for creators and viewers."
     publishedDateTime: 2020-11-24T15:24:00Z

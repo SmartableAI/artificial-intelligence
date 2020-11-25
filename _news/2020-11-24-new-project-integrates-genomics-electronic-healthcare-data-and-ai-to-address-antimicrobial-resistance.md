@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201124/New-project-integrate
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201124/New-project-integrates-genomics-electronic-healthcare-data-and-AI-to-address-antimicrobial-resistance.aspx"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "AIDP and Andy Khawaja are Integrating AI to Create a Healthier Workforce"
-    excerpt: "Andy Khawaja and AIDP Develop AI Technology for Happier, Healthier, Productive Workers (Photo: Business Wire) Artificial intelligence in the workplace has gotten a mixed response. While some are sure that it will boost productivity,"
-    publishedDateTime: 2020-11-20T09:24:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-military-technology-medical-technology-health-military-intelligence-8c319011853e487ab615c455329380b8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 36
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "5L0B3yVqAye3LUf1uihZRGX7G8E+t6ikPu3bpI+dvgjBFUWcyCECalBX7ZxCjxFkdsdD4zq0HPsElLXpR8OYL1YtqAEmskYyWBGeOe4mGRDMQkCnAk3vY/dCMzei1R1q8ZXWk4DvynN23ayBsPBzbtUmWJPy0rwzTwDjYrXiVe3pvymdzUYwodx55LkOU+ZpnKq3FU5A+zOf5u1gUF5V01/YLsDOJvn+NuNKkF8uv/IWUwI+00vS3cGawNcyZJfs8zvGW9ZoQCa+3zddD7RmrE4R7/6Owr/dp+BbuzwNhvj3tRF/5p3Fey3bQyO6WbIZxgZ99wuJJ0ODDFf10vFiolKc9F80vnY0UFExJRBpkRo=;JRBP5EuOIDX0SMmzhROVXQ=="
 ---

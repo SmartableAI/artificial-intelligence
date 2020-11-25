@@ -31,7 +31,7 @@ related:
   - title: "Meet these rising AI/ML startups from Australia and New Zealand"
     excerpt: "In 2019, Australia announced its roadmap for AI technology, with a particular focus on tackling issues related to healthcare, infrastructure, and the environment. Over in New Zealand, the government recently announced the launch of a regulatory framework that would govern public sector use of AI – a move that could help address some of the societal barriers surrounding the use of such emerging technology."
     publishedDateTime: 2020-11-24T19:33:00Z
-    webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663577"
+    webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663529"
     type: article
     provider:
       name: Techinasia

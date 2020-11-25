@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-u
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -45,22 +45,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Use of AI in the NHS is leading to a 30-times improvement in early cancer detection rates"
-    excerpt: "Cancer may be the world’s second largest killer, but there is lots of innovative work going on in the realm of AI software to improve early diagnosis and, therefore, boost survival rates. Two companies doing just that are UK-based C the Signs and Panakeia Technologies."
-    publishedDateTime: 2020-11-20T10:09:00Z
-    webUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates"
-    ampWebUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 48
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-09/health-care-tech.jpg"
-        width: 1277
-        height: 739
         isCached: true
 
 secured: "2O/lm7LyJcYhwe/FEx1CJClI38Ctx8cePTkMj71uUv1uvnmxV73w2wH3GjwIw2kwc8/xpCS/D8K4CBapsGLtc294LyyiWVilhQNSS9+WUYkr51OdSsGm8QfJQo3gZsjigmxIz6pGrMa7Ql0gJwycDJ/8qQc6tMEHJm4nYK+LNdUU4bjPwvRmPxX3UnER+cEfZvsQcOsTbmrLK+f2KgGoBKsZtuF1mbELjL61AvLVgOzMxKCU+97N2d1uGKFjKqpSIZkIzZSidpRO70GxHrUQvkRCiD15gpdhPsEpfpOvygutqnONDDK9RbqC2axiq+GHvhkXRMy3TDLKDBo7TwYBPuYFoSyA02SNyKqHr0LuqNh6YgnSHtijJKf96bWEp2O+3X0eoKpcSoTngg5nm20GFi9l95po/x0dg5yuQ+T3wakxLcXVHREZAdBWx3fHkXLgpcJhP68a1nYtzefVRdvqzLz2qtbppAMi8UigcUWgPsSkw3kd+NQ489vmMX2R2rPCGSbCouZzX4hFU9/5tAv35Q==;lumSj2UiRfhAu7MozYgFHw=="

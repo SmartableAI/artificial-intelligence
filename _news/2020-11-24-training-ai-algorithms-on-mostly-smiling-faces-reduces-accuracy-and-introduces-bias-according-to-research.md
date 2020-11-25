@@ -48,22 +48,6 @@ related:
         width: 1199
         height: 634
         isCached: true
-  - title: "Use of AI in the NHS is leading to a 30-times improvement in early cancer detection rates"
-    excerpt: "Cancer may be the world’s second largest killer, but there is lots of innovative work going on in the realm of AI software to improve early diagnosis and, therefore, boost survival rates. Two companies doing just that are UK-based C the Signs and Panakeia Technologies."
-    publishedDateTime: 2020-11-20T10:09:00Z
-    webUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates"
-    ampWebUrl: "https://diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/use-ai-nhs-leading-30-times-improvement-early-cancer-detection-rates?amp"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 48
-    images:
-      - url: "https://diginomica.com/sites/default/files/images/2019-09/health-care-tech.jpg"
-        width: 1277
-        height: 739
-        isCached: true
 
 secured: "s3QQW/FQ1fCnm2cZcLZiTkUCPrvwEJFGkYVDX4ifzy+sM+dYfnbEN4Uk5ROMEpnIBniqFlt6ZN9xGbE15XEFtWZ6mIcM8b4sufi9XgqU9MyvGdD1qwjsT5NuGju0ZcNqDk4jN5L6VGzEyYvcvuv5OjZiC7wxA6pjJPKvG8F4bRWCyHUO4WsKjFinyKPvJ/3uXGy3k0lfJE/8nq8UpZ0YQJtWMirwcjcijcExi1QoLBYgNPdPF2lC7nYyrJHQV3zklsegI+voH9ubgYLSOjPN4Yk8sKGOYNgjxy/2lFGMvQ3+yEDPaVss2X1GSHiqXLrgvjS9+LhkSL1HNKZ1pitUiMR+CzghINfNSdV2APIiOcRuUWvVVmfej27flDyoTnr+so1PS/KvMGo6aqohYfNh68sPKg3bKhf20IViQ6qLunzEbAjFwYtuNZ+NOeMTldgLl1IoqMvm1IaswgahgWKftwedSABjd8juq3GgubOEaJ7g+cExximaIbEGNhlpV9dVFd/DFy0U+XKspZhGo9w7vA==;aP+EhgFSkVYVGo69tG+ZYA=="
 ---

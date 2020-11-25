@@ -94,19 +94,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
-    excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
-    publishedDateTime: 2020-11-24T05:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+  - title: "Artificial intelligence technology helps Parkinson’s patients during COVID-19 pandemic"
+    excerpt: "Andrew Exner, a graduate research assistant in Purdue’s Motor Speech Lab, is working to help Parkinson’s patients during the COVID-19 pandemic. (Image provided) WEST LAFAYETTE, Ind. – The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson’s disease."
+    publishedDateTime: 2020-11-24T15:58:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-technology-helps-parkinsons-patients-during-covid-19-pandemic.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Purdue University
+      domain: purdue.edu
     quality: 29
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
-        width: 720
-        height: 540
+      - url: "https://www.purdue.edu/uns/images/2020/Exner_Andrew_2OG.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "jYdXWhA2UPirEnYhx9IH9Hu3gN9LvffU5KP4AvpeHjK5h175hlqtmumfixI5xRWD4FkSHI2/cfl6HWZwTT0UNmGCU8Mzzej1HqvE4uf+IWsOm1dJwJFCbiqqKHkeiEhGPg6gLrbfwo86DQU03RdFVdbH7Drn8b4Zu+fqGhIEGpHAHmkLz4flAwkF2+NGl0tiHMBThaWCjvHBZ4zR7quUzRJNDGyfN7WH31rpAI1UCx94LesHlPOg0Fnq0iXl2HIS0H5h8XxXxYkyi1eKL63sgXrbmw0Ml9jOOp0LF4QR0zLVJ003SG3kjDmMySq60eWpVQKiJysIddERJKLEngf98KK6f+hTyLeXxD9JQYso0S4=;NQjvo0pk+WK3lUzJ4kjJEg=="

@@ -105,15 +105,15 @@ related:
         isCached: true
   - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
     excerpt: "Developing on a global partnership between the two vendors, this sees SAS Cloud’s data, analytics and artificial intelligence (AI) workload capabilities to Azure for the wider Asia Pacific (APAC) region. The decision to launch in Sydney was due to ..."
-    publishedDateTime: 2020-11-25T00:41:00Z
-    webUrl: "https://www.reseller.co.nz/article/684718/sas-microsoft-launch-sas-cloud-azure-sydney/"
+    publishedDateTime: 2020-11-25T00:59:00Z
+    webUrl: "https://www.arnnet.com.au/article/684718/sas-and-microsoft-launch-sas-cloud-on-azure-in-sydney/"
     type: article
     provider:
-      name: Reseller News
-      domain: reseller.co.nz
+      name: ARN
+      domain: arnnet.com.au
     quality: 54
     images:
-      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
         width: 800
         height: 500
         isCached: true
@@ -144,6 +144,20 @@ related:
       - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
         width: 600
         height: 315
+        isCached: true
+  - title: "SAS and Microsoft build on global strategic partnership by opening SAS Cloud on Azure in Sydney, Australia"
+    excerpt: "The partnership empowers the cloud by building on SAS market leadership in Analytics and Artificial Intelligence and Microsoft Azure cloud leadership, supporting a shared vision to further democratise AI and analytics. Building on the global partnership ..."
+    publishedDateTime: 2020-11-25T01:30:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/sas-and-microsoft-build-on-global-strategic-partnership-by-opening-sas-cloud-on-azure-in-sydney-australia/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 36
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/SAS-Microsoft-Social-Image_1-1024x536-1-768x402.jpg"
+        width: 768
+        height: 402
         isCached: true
 
 secured: "SC9XVwGmQ17wWs1RT1Pw8XoN2GYtDhMReOvhtJQrpxMTc0JYjkXzqmfPmW6y5YpxlXBRSC7AbA7sFB+mblGk0a7oYcHwhOT1DSANeWXC23mfpefUQVf5bsC3hA39A9ZyCgTV/Mdk61iOCxlE59+NZxyyNJzaBHzAKli7KmCOI7NcQWCs259RddrHnpbbtFdPnjVxle5ECInN1DcVZ860QCXrstm0eE/5G3eaNSiabHwO3o2RBARw99xlNfl1+Y0wDdfgIRMtnC+Lg2vNxN9Pu2FgU+QY6xOyaMEZ/YSS3O5vuRQzDlDWOcoYhbXbDYc4Oc35rhX0PyzaCe5OoJIG6U4XdFynfOML8FJ+x59ogvg=;Ru9DIb0trjg6oP0rA+UFEg=="

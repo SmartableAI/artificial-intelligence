@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robots-mar
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -71,6 +71,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
+    excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
+    publishedDateTime: 2020-11-25T02:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18524403/robo-taxi-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18524403"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18524403"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "zMUgT/+TanU5yQWbAuq/zF8d2gHuSbv8cdkggZP+dO0ubT7mnkJW+/iF9pW4MxkN02k7mlo6TXkU3megajHD9DkteRqL2Z0tICWe78lfsQyC8pNhlek4EHiomTdyaj+gaG8M+ZPPFjnfL3IxGvE6C7SZdJS+gCRuO6i6RnrPDYtmoWbeIMSYqwfsTQDhuyqlQ3qTj540aWhA1w8ctqepp9cL49Ax0ynGElldqpgiJBgYMApjPkQNExB8qq8gJjSsGps1Uk5NKFgYmamBphYfnjXhzc5ro+jIhBVe+RZBU2gurdGkPpFYkGief1yM60smkQHtfXN9t9v9AQFyJH9XqRSoBJIu6vuNAE3bqw2FFGc=;yKZESLCN5imeAQbs2hoA1g=="
 ---

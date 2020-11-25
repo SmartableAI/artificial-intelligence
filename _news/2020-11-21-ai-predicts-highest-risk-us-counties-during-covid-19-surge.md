@@ -94,19 +94,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial intelligence technology helps Parkinson's patients during COVID-19 pandemic"
-    excerpt: "Jessica Huber, a professor of Speech, Language, and Hearing Sciences and associate dean for research in Purdue's College of Health and Human Sciences, leads Purdue's Motor Speech Lab. Huber and her team are now doing virtual studies to evaluate speech disorders related to Parkinson's using artificial intelligence technology platforms."
-    publishedDateTime: 2020-11-24T05:03:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/pu-ait112320.php"
+  - title: "Artificial intelligence technology helps Parkinson’s patients during COVID-19 pandemic"
+    excerpt: "Andrew Exner, a graduate research assistant in Purdue’s Motor Speech Lab, is working to help Parkinson’s patients during the COVID-19 pandemic. (Image provided) WEST LAFAYETTE, Ind. – The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson’s disease."
+    publishedDateTime: 2020-11-24T15:58:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-technology-helps-parkinsons-patients-during-covid-19-pandemic.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
+      name: Purdue University
+      domain: purdue.edu
     quality: 29
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
-        width: 720
-        height: 540
+      - url: "https://www.purdue.edu/uns/images/2020/Exner_Andrew_2OG.jpg"
+        width: 800
+        height: 400
         isCached: true
 
 secured: "feLUM/PDEDhq2wXCWMqOvhQUz9SA+wKIXEiywBPnhciUK5KPGG8ycaeFWgxdj4Y0lv0MI7ZnoO7Fnaa3zaNrgZzSQh7uZZ6k+U0nT5Vkv+70pvTHEnar2Dme+owSz7slBmgZynTBP4emKyJUcQE3UKiX/HThmf7yn8gU8kj2wKnPFn9t6iiN2gzFC3WxVYlri+IlNOKdWPoId63F6kbfuq4TLB8N4CIGnzeCFY9r8jz/PVuSOsuyBsSp2NiaDCcUi1KDB30Lrl1JZb4SgAs+/WIzmtmkxW/03c/JfZ+6aCrnHOXoXDiq+GvM7KG5BqtpV5zEKcW3WXOalHjM8Im4dPTeuI1KSryDqwG7tSwyfoQ08dFww9k4ceVQ0g0n2W3cRXWxSYwBFscGOtXfstTF0SO2N5LFShvmyfUb1LYFgMWSwMltB7cuTN5o5/zq/AhcPCk9w8lZi76aJWxvx+pyXYgZBmelPU8uDoqJ3ZVb4LgfA8sY3OEdRwK5E3Q4O81Ok1YN9mQqOnKletsnAc9KXw==;ekgP7fodyC22eaX4kMK2tA=="
