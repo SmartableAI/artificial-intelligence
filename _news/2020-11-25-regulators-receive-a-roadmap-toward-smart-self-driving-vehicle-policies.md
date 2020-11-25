@@ -3,10 +3,10 @@ category: news
 title: "Regulators receive a roadmap toward smart self-driving vehicle policies"
 excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Lawmakers at every level of government are still sorting the new rules of the road."
 publishedDateTime: 2020-11-24T17:04:00Z
-originalUrl: "https://www.autonews.com/regulation-safety/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
-webUrl: "https://www.autonews.com/regulation-safety/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
+originalUrl: "https://www.autonews.com/mobility-report-newsletter/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
+webUrl: "https://www.autonews.com/mobility-report-newsletter/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_0.jpg"
+    width: 800
+    height: 600
+    isCached: true
 
 related:
   - title: "U.S. regulators open process to ensure self-driving car safety"
@@ -81,6 +87,6 @@ related:
       domain: rubbernews.com
     quality: 4
 
-secured: "e8TFOVzfPEpC3eUkpjLclmcWQwSwUvBVs+fCNIG6IGMH0Rs/rMiG2el8r6N9iWLD3yj45V42qJiWmMl988x9Hk9Wjq8Kg2uhWNwfXmmVwY8MPFUIj64oaTI3wVxl9dqjSZ1kIrzVtMsL7ydWvGlh7/fJBJQtBeajybCQWJycFQ6bx3gv4Qh06pT/7hspCub3VLcxrss1al8XK0JWOFocy9HLXXl75iKLgjrvCCxQ5ZOMe0weCOM74M0HWLYciM9Ol8k8EzFJBEjvOaK4R4OgLjNmJTvt9zMH9cXWhRDQqq4m4zM1MfsrKl4Yl0nAugvGE7yvkr6N5AGvO8/8VaKzjXnAI5Y/+X/OcLm0mHQyc9fuXSAmDDHKWurfWmn8W+ZZ/gmOhZxsLzaIDtMlRim0109+W6ZV68q9pgooUg6Tnnjy7T1Wuxl4Ny4O2GVkRpJwFAwJqAjiuh+Y8g82nn7geEtB1bTYCU2VqRe0bVk7+eKvUi7Q749RAp/qpLpg9xwtjjlwTOkjWYwni9kmFgGgGA==;d9Mimh9Q8ExkS+zsmkdpVg=="
+secured: "XbaYe3iO19LETcsox1HsmDWkjaOkEsdQyx10K0hIvcLkZObeI37vg9BAfvmxx+Sl+REIuhnsRwyLABih8nWnK3W2JMFrjfwTyzsgpAuIw/oID2eBo4C1I3iGfyYApViqqAAxwBvsbQD7qYcnGvcyfe4SxeaJ20v7Mhjss4eEmRxRhwQq87yyld9mrIjdjV7Rqkd0iF68F2WblBDCva6K1q9V22oCJjUfBIUpRZbbGAe6x7uaRA10yQWzB3T3GXp/i/GcWHDwrGwir+cL5bGOkMCNETeUh0qNhwFI/NbKQNJKZJPWjR/B490r+jmSA5Hywl07iAfHyIVS2CyBONlrqflsu0mAtkzCOOairYF25gA=;HKD6jLX/RJUMnuRLzULnRw=="
 ---
 

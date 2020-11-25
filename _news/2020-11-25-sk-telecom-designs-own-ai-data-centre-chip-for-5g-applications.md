@@ -3,10 +3,10 @@ category: news
 title: "SK Telecom designs own AI data centre chip for 5G applications"
 excerpt: "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology."
 publishedDateTime: 2020-11-25T14:42:00Z
-originalUrl: "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-webUrl: "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-ampWebUrl: "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+originalUrl: "https://www.techradar.com/au/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+webUrl: "https://www.techradar.com/au/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+ampWebUrl: "https://www.techradar.com/au/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
 type: article
 quality: 104
 heat: 144
@@ -75,6 +75,6 @@ related:
       domain: lightreading.com
     quality: 34
 
-secured: "9sUoFCGPfTxEZEpKp+sliZHGopQdclE2heeONZ3b1Cs/loSX4U2Z7tpLU0yzqxX1S7AUi8T/HwqHYf2f+RyXcMCZ/oMpH66yQujxEQ4zrzGvomVNdll7euz+oN74+hMyD6HKF7gK2jpLH5llzHZx4k/LoPOmD1Tvwo8SXM+ZAuSoBxfqQD1rUWgXcZ69wQyp0BItmmJ5eTJnBJBWt7XwvLmxmq4ol9wCr/0PB6Cx6ZT+638GyiSZ+yW25kZkOgFeTrfh9IfvhkBNdqycqUZMNsOyRwgPfNHaTw1JR03w2ljFLKC84CsnIK+YFqngDx8w3pkyqhQdtKoVfk4lHCLX3bHfBUgGlsuRDOP2UCnDzZE=;sY2EWo2YVzWrWmG8y5zNaA=="
+secured: "4v67BGtBHS0HlyePs9hKGqN9Z2Gm8W8CK2MzwD1aqOQvtfdHhetUT4wSxC7eZqKshoPYecD+3W9yijnARseOfqFbkvR1R973h4yX5QUg0xZrJGzxT+4BAdaqX8bQU8spuP5J6ZgtnPgb7QDlgFJnAmdEityKqp/C9kLhywMfAQpl5DVxkrgFQv7KG/KOFm4Fhg1/L1an570MhsOp2gBoxrIIoebwt/hl6VJ1wf7gL711xCAk/p1bjGYHNYB16feYglbZGlR5rdMv4A8bMtrYX5tSc4ZIvf3tYNVfYLo8qkSAzUBFCTb3OEJfx4Fom6Qxt+yVM5MF4A2c7Ig30fyUUJi/NqJd+/IlKvalnSgW6h4=;4l9IUBcyrXTBWpJrCFkNzA=="
 ---
 

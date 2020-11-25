@@ -9,8 +9,8 @@ ampWebUrl: "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disin
 cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Brookings Institution
@@ -27,45 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "AI-enabled mobile app launched"
-    excerpt: "Coimbatore-based Emerald Jewel Industry and IBM have launched an Artificial Intelligence (AI) enabled mobile application for Emerald’s B to B business in the country. According to a press release, the"
-    publishedDateTime: 2020-11-25T17:52:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
+  - title: "Help dogs deal with separation anxiety with this AI trainer"
+    excerpt: "The first goal is to deal with separation anxiety, in a trial with San Francisco SPCA. Dog training generally requires a human dog trainer, but what if it didn't and delivered better results? That's the promise of a startup called Companion Labs that has unveiled its first AI-driven dog-training machine in conjunction with the San Francisco SPCA ."
+    publishedDateTime: 2020-11-25T21:22:00Z
+    webUrl: "https://www.cnet.com/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 39
-  - title: "Stravito offers AI-powered information discovery solution"
-    excerpt: "New feature pushes market research of relevance to users so they can make insights-driven decisions without having to actively search for information"
-    publishedDateTime: 2020-11-24T14:16:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144048"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "Emerald Jewellery unveils AI enabled Mobile Application Platform for Jewellery B2B Business in collaboration with IBM"
-    excerpt: "Emerald Jewellery, in collaboration with IBM, introduced AI-enabled Mobile Application Platform for Jewellery B2B Business in India."
-    publishedDateTime: 2020-11-24T08:10:00Z
-    webUrl: "https://www.analyticsinsight.net/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 16
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Press-scaled-e1606204594938.jpg"
-        width: 900
-        height: 626
-        isCached: true
+      name: CNET
+      domain: cnet.com
+    quality: 67
 
 secured: "BV3Wj0DCMuV1FerhjGKTJKqAdWVEWGlQQ55mGdU8JDd/04OmCP2VZPJgfiz6qDYJY76QjEtABR/HBApI8O4GZQ24LMUxhZWXUm75HxOZJwRGhwoF9jXjm3B9z1Qp2UU1BtS5ffd8ho38mk//cro4htcv3rU35mW9Ts+bGEcaEsFuUVDw06S0JHfKpzugVLPwjOAK0bHO5LceHnx8KmDwZR6o+IeHsjZjpuRXi1WY3HhJN8AVwhiBflOyAcmurJKlFHsJu4B36Ft7eR4nMHN2zkSI7DgZ03/SaW45QqDkAmXSJGMvpFCmaJzpVkKB8P2CcDal727nMZS4SIALqzwu6UPiUJynl4PhTdt0eEXd9OY=;bZGs2de1EWVV1yWBcPVGAQ=="
 ---

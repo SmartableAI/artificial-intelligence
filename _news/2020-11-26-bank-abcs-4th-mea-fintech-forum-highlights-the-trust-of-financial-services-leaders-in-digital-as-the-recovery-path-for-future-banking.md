@@ -69,6 +69,22 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "India Fintech Forum has Teamed Up with Amazon Pay, PayU, Deloitte, has Also Shorlisted 27 Fintechs for Awards"
+    excerpt: "India Fintech Forum has teamed up with Amazon Pay, PayU, Deloitte, has also shorlisted 27 Fintechs for awards."
+    publishedDateTime: 2020-11-25T22:09:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/india-rupees-rupixen-com-unsplash-300x216.jpg"
+        width: 300
+        height: 216
+        isCached: true
 
 secured: "3IlHZbK3huPqhqd+jg/nwKawitOnRCLN4H0qO4g5ULDyH4BmVoX1BDYpUk8kUvHvZgdH7xQ0UVVpQJM1NQEbEqnV/9VS3iNl8v96aJRmVvaDJ8j5B108B98utqWtLAMSOsPAoWlxpi2ckruh4TbFLCQ+rAeqx4ihCfjJVTfeiBEoKlVtss+Qya2wfIiRmDV7npPe3OfbA8kH4MlC2oBlBxH6zU7I7rlDH8CaV7oIHNXlstx+Od44V8zB9tAxQ0iMHKGGtFIO9vo4lNzk3aTSwSKl7DKamFGKSTb7ai8vxDyjcd1XI51CyIEkI0uIejCJAP7DdSLN/nw3hrt1sgjEnxSvuyU5icXU5+qBoB0TAhU=;xsI1iD5xVvgIhQVp1KUWrg=="
 ---

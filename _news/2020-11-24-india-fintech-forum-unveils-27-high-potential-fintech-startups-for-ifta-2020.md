@@ -59,6 +59,22 @@ related:
         width: 630
         height: 313
         isCached: true
+  - title: "India Fintech Forum has Teamed Up with Amazon Pay, PayU, Deloitte, has Also Shorlisted 27 Fintechs for Awards"
+    excerpt: "India Fintech Forum has teamed up with Amazon Pay, PayU, Deloitte, has also shorlisted 27 Fintechs for awards."
+    publishedDateTime: 2020-11-25T22:09:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 25
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/india-rupees-rupixen-com-unsplash-300x216.jpg"
+        width: 300
+        height: 216
+        isCached: true
   - title: "Bank ABC's 4th MEA Fintech Forum highlights the trust of Financial Services Leaders in Digital as the recovery path for future banking"
     excerpt: "Held under the patronage of the Central Bank of Bahrain and hosted by Bank ABC, the Forum brought together Financial regulators, regional baking CEOs and heads of challenger banks who were joined by leading international experts and over 2000 delegates on a virtual platform."
     publishedDateTime: 2020-11-25T22:19:00Z

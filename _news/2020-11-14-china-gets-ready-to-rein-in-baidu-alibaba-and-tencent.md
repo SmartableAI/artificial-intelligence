@@ -1,10 +1,10 @@
 ---
 category: news
 title: "China Gets Ready to Rein in Baidu, Alibaba, and Tencent"
-excerpt: "Many of China's top tech stocks recently tumbled after Chinese regulators drafted new antitrust rules targeting the country's top internet companies. The proposed rules target \"monopolistic ..."
-publishedDateTime: 2020-11-14T13:15:00Z
-originalUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
-webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14"
+excerpt: "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ..."
+publishedDateTime: 2020-11-14T13:37:00Z
+originalUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341"
+webUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341"
 ampWebUrl: "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp"
 type: article
@@ -17,6 +17,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "b4XSnJ+Yn4v+BbGnLhrlUA5U9PTV7V3t3zqItdJiUmmWYjo2VCidJQahJzAhl/5sUtlSBIf01XJut7yCZDmr+aJOf7E/EHlQXHdt+Hm7CMBPkQQdCVx5BcOl6hBYtLMNcOrX0xypaTG/8Snxm7DUBCJEYitRyL4mpJbPSmY1dpnWwcQhnxvdJlNOX+ysHG7iVR+1czwv3Gvf/uC+kl0eoFzhMObBB6XX3ZC8j/sOGoR64/rsHQZb8kUSrXEU/eLOtpKJ/2XrqdWXUODyvNA7Q05f7qMlab51BRd0Rx7atdBA/+w79Dxgv1g9i2YrhOTQSC7EXM7Hfuaj19igDkHMe8VKiDypOPBR4GjQ6XJE48c=;c2SK23+GPFSmspdmtzRsIA=="
+secured: "rRY6G/ofnx98UQ9HAVEeeZzDSbpUJXRB2BfuzEH3NK/Fyq+VrEokFW6G8VOaJW6Ge9BVQKRqt+FDhHjFK8YzLhYfPw5grllkt4yxHemvOAlrVlDJFigOJqIMhnWDqx2bpH3Z7AWve3dr+R+DivNCWwriMu97bFG2rlssWyXiYRJYKHDX9+zN4SjlpuvbIyWoUDfxwiGx5O+pBDxxPUy2oxnNjYjtXp0wN4A3Rc6y5iuIn3WO7iL5tMjzYOWZX3XuMFguqOpwtN1AL902vqH7rc/KZ1xl526EHQfuhl266bgKEQZzDiiV6zVK0RqW2nmi3GElAVk3qYoofRpHnoKCRW9ULVXd7twm4Y5D2jW3XnI=;GhlkVqd4QoM2xE/0FLimnA=="
 ---
 

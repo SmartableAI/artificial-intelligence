@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2020/11/robots-inva
 webUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "10 Ways AI Is Improving Construction Site Security"
+    excerpt: "Analyzing how the specific conditions, factors, locations, and phase a given construction site is operating in contribute to greater site security and safety risks is a perfect application of machine learning."
+    publishedDateTime: 2020-11-25T19:35:00Z
+    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/25/10-ways-ai-is-improving-construction-site-security/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
   - title: "AI's Regulatory Guidance and its Potential Effect on the Construction Industry"
     excerpt: "The White House’s AI Regulatory Guidance, which clarified policies regarding encouraging innovation and growth in artificial intelligence, has potential to provide improvement to the construction industry."
     publishedDateTime: 2020-11-23T19:26:00Z

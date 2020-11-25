@@ -24,46 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "How to deal with AI-enabled disinformation"
-    excerpt: "Rapid disinformation attacks—i.e., attacks in which disinformation is unleashed quickly and broadly with the goal of creating an immediate disruptive effect—are one of the most significant"
-    publishedDateTime: 2020-11-23T17:48:00Z
-    webUrl: "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/"
-    ampWebUrl: "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/"
+  - title: "The Cloud, AI and the Transformation of Retail"
+    excerpt: "Google Cloud report covers the AI imperative in specialty retail, plus AWS weighs in on the pandemic’s influence."
+    publishedDateTime: 2020-11-22T17:19:00Z
+    webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
     type: article
     provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 41
     images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/USA-ELECTION-DISINFORMATION-.jpg"
-        width: 6720
-        height: 4480
+      - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
+        width: 394
+        height: 263
         isCached: true
-  - title: "AI-enabled mobile app launched"
-    excerpt: "Coimbatore-based Emerald Jewel Industry and IBM have launched an Artificial Intelligence (AI) enabled mobile application for Emerald’s B to B business in the country. According to a press release, the"
-    publishedDateTime: 2020-11-25T17:52:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
+  - title: "Regulation 2.0: The AI technology revolution is here and now"
+    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
+    publishedDateTime: 2020-11-24T12:10:00Z
+    webUrl: "https://www.finextra.com/blogposting/19565/regulation-20-the-ai-technology-revolution-is-here-and-now"
     type: article
     provider:
-      name: The Hindu
-      domain: thehindu.com
+      name: Finextra
+      domain: finextra.com
     quality: 39
-  - title: "Emerald Jewellery unveils AI enabled Mobile Application Platform for Jewellery B2B Business in collaboration with IBM"
-    excerpt: "Emerald Jewellery, in collaboration with IBM, introduced AI-enabled Mobile Application Platform for Jewellery B2B Business in India."
-    publishedDateTime: 2020-11-24T08:10:00Z
-    webUrl: "https://www.analyticsinsight.net/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm/"
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Regulation 2.0 : The AI technology revolution is here and now"
+    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
+    publishedDateTime: 2020-11-24T17:36:00Z
+    webUrl: "https://www.finextra.com/blogposting/19568/regulation-20--the-ai-technology-revolution-is-here-and-now"
     type: article
     provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 16
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Press-scaled-e1606204594938.jpg"
-        width: 900
-        height: 626
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
+        width: 500
+        height: 281
         isCached: true
 
 secured: "gPLU3QKq+w1XGxN2Xw/Au0fJsNd+ra9UK+G8BiVoWB8p4SIBHSlWgdpPA967g32FlHgqJx0npKlx2UB7eiidQ05McZHzGsF0KNz9plO+VAI5guBM/rS6oiEhHLoMigLutRjleFgYMC/ha0e3OhTQvqJajzap9mwgINaWXBrtkuU1RJ7A3i3GpDqIafB3G+Keldor3y3xHcsq4kxoSuMQqeGUGRyLaKn3sHbj5vhieQsYfXjZGbjSEideFNL9347ju9A+LvPe4wJI6w6uiJMKNdb82XW0gmvH1KVAY7PXjIz4amToO6RL5Uwv5ehSVoPTQkh/WXhoRYhjxW50hIxPnV0E6EkyDNh/+X+Rl8F4hPc=;lluZWBHZHtT0/NDT9ma1Cw=="

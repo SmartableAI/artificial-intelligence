@@ -22,9 +22,9 @@ related:
   - title: "SK Telecom designs own AI data centre chip for 5G applications"
     excerpt: "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology."
     publishedDateTime: 2020-11-25T14:42:00Z
-    webUrl: "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-    ampWebUrl: "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+    webUrl: "https://www.techradar.com/au/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+    ampWebUrl: "https://www.techradar.com/au/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
     type: article
     provider:
       name: TechRadar
