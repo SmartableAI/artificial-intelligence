@@ -1,22 +1,27 @@
 ---
 category: news
-title: "Gyrfalcon Launches AI-X — Full-Stack Solution for Edge-AI Development"
-excerpt: "AI-X benefits SMEs by accelerating AI product turnaround time, maximizing on-chip resource utilization, minimizing CPU runtime, boosting performance efficiency, and reducing power consumption by leveraging GTI Networks (GNet™) and holistic HW-SW ..."
-publishedDateTime: 2020-11-25T02:40:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201124sf03379/gyrfalcon-launches-ai-x-full-stack-solution-for-edge-ai-development"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201124sf03379/gyrfalcon-launches-ai-x-full-stack-solution-for-edge-ai-development"
+title: "Gyrfalcon Launches AI-X -- Full-Stack Solution for Edge-AI Development"
+excerpt: "PRNewswire/ -- Gyrfalcon Technology (GTI) today announced AI-X™, a new full-stack solution for AI development ideal for small and medium enterprises"
+publishedDateTime: 2020-11-25T00:43:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-launches-ai-x--full-stack-solution-for-edge-ai-development-301180256.html"
+webUrl: "https://www.prnewswire.com/news-releases/gyrfalcon-launches-ai-x--full-stack-solution-for-edge-ai-development-301180256.html"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "The 7 Most Promising Government Led AI Solutions"
@@ -36,6 +41,6 @@ related:
         height: 675
         isCached: true
 
-secured: "6kZvxvYBD6Pkc04lvhJhJRwuygKGIU6JEq9sdnWg8KZpFra+AlvQz6IRXJtC3+qBdZ0FlcKhhMiqTfLhBFykOtU0AwWVAWRm0DQaXm4tftWGwa+fcPRLNNLuvKIwEpPLABPK3Gb09oH5mZDDWLuaNzJ2ngy6YdmdcwpeJsjxKTWzdo4JtkhzEB799iPU35M2TYcNGh2oCNNrJlqyig8+4fZHUqx42zb/r9OU34LZLSSYnV7gfx7O9J+NVzZITRFjlMdiWzUmCzcO6ua0RnhFM5uH0cG/tj95HKy4DFED7sKaGJKU7M+yGQkNn0yz+bRU936oLcUsWfpz9R6Cc+VARyZ2J4Rr5xOJSikjHkBCQuA=;dW/sVmcFx++uSiEPgFG5rA=="
+secured: "meMRlhbq5ipYpeC2EPryt93pEcvkIQlJoUc+L8w8h64pbFg0b5dyzfVt7FW/vS2dc5zWRsGh/hbjdOrd8TTnnYbUI+kOcraHrco5DawCvl28MZ9sd8jgmuoHk0o023NVtZKxcH0pDx4I5bIRGyaoQS+scdJB5RugXyPaFeuDm8+r2fuAggS9fPgbtcY+zZnNI9mKnIxuJF+sRFaBzNpW6OKCG07gUCGtxIQfuMdcyoHsHT9fLlYI0NxMUpCJRjNuLonG3DTGS0v4HbeUNkvYOlZI9kBzq0oqJioF1l7johjsCphIRt7F/RlOzE4azaUvam/IqW/ir9DF+WRnct23AZRa1+07E/1OTCii4BHW5rw=;V48uvc3CaADkw84nFswQZw=="
 ---
 

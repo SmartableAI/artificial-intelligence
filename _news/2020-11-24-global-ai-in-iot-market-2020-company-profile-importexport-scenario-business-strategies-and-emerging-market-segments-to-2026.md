@@ -60,20 +60,6 @@ related:
         width: 800
         height: 360
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021, According to new IEEE Study"
-    excerpt: "Most Important Technologies and Challenges Which will be the most important technologies in 2021? Among total respondents, nearly one-third (32%) say AI and machine learning, followed by 5G (20%) and IoT (14%)."
-    publishedDateTime: 2020-11-20T12:44:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-public-opinion-lung-disease-professional-organizations-c6d390dd10878c970890ace541a10d69"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "8FNMypie6nvtl9wR5nVjaVarsEoVApT6v5N09JmTwclUTzlQkryDvh8O/GZ8DKUoSQUjt4uQlq7nHyAjobEloMlLlvONGCv9r6+TN1SdiGjnGfKbBmSwEzOrbFnO28W6iwsL6q+6kEHYrgg1GjrmU8DhZ4PplvawfNLCnkakuvFAQ+ODlQ6FqRjQ2YFTQefvvrkOXmGE4h9+Jwk7XtNJBKhM2kBMKSQoZ4S1guTDTrQHOuPht1xXqZI6/8/8MQILZQNzxqzsfNJpywaVLCLvr8vjAgOQzTPsZ0DZUhFYKbQxxh3BZEixTOFASdk9NgyyLkbtObPFSbVe0mHK9KcPFg3nfyiOmAdhFnT7dcWaiQg=;eXwn0qnqx11tzWANEXNCgg=="
 ---

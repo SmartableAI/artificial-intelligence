@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Fetch.AI launches blockchain-based AI smart-city infrastructure in Munich"
-    excerpt: "Fetch.ai and Datarella predict mass implementation of Munich’s smart-city infrastructure will reduce CO2 emissions by 34,000 tonnes per year."
-    publishedDateTime: 2020-11-20T11:41:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/fetch-ai-launches-blockchain-based-ai-smart-city-infrastructure-in-munich/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 86
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/11/19/1e89316f-bbfb-4ef3-ab72-8a17612b8bdb/datarella-2.jpg"
-        width: 1080
-        height: 578
-        isCached: true
   - title: "This fintech and blockchain training bundle features 8 courses for $40"
     excerpt: "FinTech School provides practical fintech training through online courses, covering topics ranging from AI to robo-advisors. With this bundle, you'll get full access to eight of FinTech School's courses, each of which is taught by practicing fintech ..."
     publishedDateTime: 2020-11-22T13:06:00Z

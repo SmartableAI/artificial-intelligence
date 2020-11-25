@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/lite/"
 type: article
 quality: 63
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021, According to new IEEE Study"
-    excerpt: "Most Important Technologies and Challenges Which will be the most important technologies in 2021? Among total respondents, nearly one-third (32%) say AI and machine learning, followed by 5G (20%) and IoT (14%)."
-    publishedDateTime: 2020-11-20T12:44:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-public-opinion-lung-disease-professional-organizations-c6d390dd10878c970890ace541a10d69"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 27
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "JjeA2FitrYbiq08+pyQcf0aT00WecTPQRh4bgaL/64vH4aTCvV5FP69+QF2nCojv0OfVD8PxdnG8cI8aoXp6CVxIYdv+QLhQ6x489BzL07LGmcIIAhNOrIeapRGVDo0dYk0bEjG2QYu/aIzpPd+MlhTXg3CbcZDaXwYtzvhfXkb/eV4vj7fmrtdURvKC18K0dKp9eddfrUcguKBZCyM1CGDzF+E50uhBzFBQbRTRtSQf+di0y57On905Yl0KjABxRYyDsve9tkxS3PmeuFGbwiUVwFOI1k2/6lxRraRV3n93LsE2jmJ12WXrnMpFy3pa/dCjWyrapz53Iwde4RehPTKI057ERVjLr3NuK7y2RrM=;T1E99UzLOSltuPkn139p2w=="

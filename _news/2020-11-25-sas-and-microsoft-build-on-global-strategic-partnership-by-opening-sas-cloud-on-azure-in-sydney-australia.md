@@ -52,20 +52,6 @@ related:
       domain: zdnet.com
     quality: 80
   - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
-    excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa, Red Box’s enterprise voice platform. Red Box is already a Preferred Telephony Partner for conversation intelligence,"
-    publishedDateTime: 2020-11-20T12:04:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/rich-stevenson-6b9e759a8496156988d869774f8fefdd"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 64
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
-  - title: "Red Box Delivers Cloud Configurable Voice Recording to Fuel AI on Microsoft Azure"
     excerpt: "Red Box, a leading platform for voice, today announces an extension of its relationship with Microsoft aligned to the launch of Conversa,"
     publishedDateTime: 2020-11-20T16:00:00Z
     webUrl: "https://www.prnewswire.com/in/news-releases/red-box-delivers-cloud-configurable-voice-recording-to-fuel-ai-on-microsoft-azure-837380805.html"
@@ -164,6 +150,6 @@ related:
         height: 315
         isCached: true
 
-secured: "5fILXKlxPXnZ03jDEC21b0Usg7vOw+rrwGXrGKp1kHyYGLXFiDIF2nDRwLCN1kXcqki5TU0k1DeYEa3nZZveP8CD7lQ6a9TEB0+U8lBuAhifzAEMAlPsFGuOAZpWtf8KLMMkr2zRiZ/gBucv13dcUX2OvzghIm1WBCq3Cji2Fuf5UiDTw6XCyubbfNpLtrTaLVWzUgoPEIRUdcR5OaeIDPsSQ43bPHQ6jToLfm0DHXLx57GbgFGFIGzFSCk97ApFmqDjuLbpZBQINtYh8S0X2ynxNBYA+eGRrJERuaWh22kEHOBUTvUXVWq7fddvMaJd/QKCQW6xrUKWaZ3bKzj9/hI83xrB2RdreQUksUsC1mU=;nTH+IPcLfGUjfojcWDEaog=="
+secured: "1iUgtZRGB/BRjVF4Qb7sMAlz/2MJdBcuuXQ5Sd8+OLi1VbfMS8e3CWRhLbOwGA2HMVxk1hFt+iHJJ6DFWia3UqaecJvQXb/ME5WNJ9q3RKTveoyOOFafNXqeXpdZ+fReU6xw6BuAUFDd/7gPU0dJYgrneVyOg7K0tcEMV/Ufv2BnETE+TcrdXFCPCIyflg+hGXqcCGDglNT6lNaNifDeF3wydXKis6bNwsfg9mRbZqlvxKWHevNJeQK4KECZcs2558L5VnfJGgpgR8Au4jGRBWQ9y/QTaZMzpbi3epei5bpNjifCffHyIdWDuDjZEF6GcezOvVPMItdg4Pm83klU6+adovMivqRQpHxiaBWbwLNT9h5ICqWplFZ6a9TF7wntutKng+iqRaCx4184gnXbuh+qTN8iFZjSCK6DNwNO5gpvjgXZj41H+AuVg3f4JOoNz5lGoQ0yfiBjdw9sO3ENE11vScBlhvHz2PNSQI6UTArT6qRzvauVCbk3HBcRXXVUa7gD1LBXTcEGrFI4rK69pA==;6vtERiXB1cPMC1llc/6W2g=="
 ---
 

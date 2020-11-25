@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Meet these rising AI/ML startups from Australia and New Zealand"
-excerpt: "In 2019, Australia announced its roadmap for AI technology, with a particular focus on tackling issues related to healthcare, infrastructure, and the environment. Over in New Zealand, the government recently announced the launch of a regulatory framework that would govern public sector use of AI – a move that could help address some of the societal barriers surrounding the use of such emerging technology."
-publishedDateTime: 2020-11-24T19:33:00Z
-originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663529"
-webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663529"
+excerpt: "With AI/ML, it optimizes the yield derived from each insurer’s ... How has being on the cloud and using AWS helped your startup scale fast? Working with AWS has helped us meet the demand of our global network of partners who are focused on scaling ..."
+publishedDateTime: 2020-11-25T02:17:00Z
+originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663369"
+webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663369"
 type: article
 quality: 64
 heat: -1
@@ -38,6 +38,6 @@ related:
         height: 578
         isCached: true
 
-secured: "cK3YqD0uX9gsbuCye/1oCujB+o54HP6dnZ4Y6Vr8/G7iR/y9ctlrPk7+bIX5+F//pwWjzAcl+uHGTTvSFtRP4MwhmmJluV8aZdJknG5S+1jhgpMjj80qWKOTEjVVCtO48FgjgwMkgSps5zAL+idMx6TDSMqPvOLJk8FdrYw/zp7T9yb4frFQH/dFojCmp2gyqNNpb2/wFC+wDdtlyaUC4N8A+Bb2hJoRewwziCEDNkiNbo+ZdWFkViRlI2orSSh8AUcj+ywYkIX996px9p23ZQpxvaDmyc5ObZTn7TvSD9kFVJDo1x46fRg07xhvm5MbpJxjJvcv4zkvjMc73c9kgFpk3PxHzO5H/Nq/KLZGXu0dyp/K4VFykKpD2lZ4937VLadPVfzgluVtj0dnI1JKcYcZyXJQMPFOhHEGSq6ffjKQNezQ51FHHyvTFLFK9fsuRp9rhh6qQqqtHqmd1w746KSiOHk8Rd675IJpDq34wvHJJb0NbQX2Fmb4EX+HMJ7+bur5lFjUM6OEdOjfEGO8Wg==;/BTFtwJVCLJ6WDoO4XGFuw=="
+secured: "2ahQsjnEDQ9vr8ngpRx+lmqOnZex2MMHXS6oGRT3U/Yn0wMNihm8o7R4FwSK5FKBtSQngEUcMqszRrdMcLVPjUYl7lCOXzJU/jorOY+J/oVJUZj3vPm6JHw5d0P+biFxCSNj8cNeWVjCqItiZFlEbCI+Bj7qLZ7AjXipzzFj5mO5iIoyvl2B+OrPOOWBCysc6IE9YDSWj4z5PRvd7frL8pE7Mle7nTp+E0MiPv1n0xOqbOc7W3U/KenCtvAph87caUhm+gZhZyjpRQ060g3jkS1eRg7uElA8N02jel3Q/k9i/fejVHt3eCFro9Df4wQJ9MQmpmgE206epmxMvBVXpEJNU3BfDFXHU0VuKnWA85lAQgco415fkSMWh/NJnRzgzG8MB8I217XCpwg9K2DHddovVGpTkgP58NKE3wqYCLFI6/FQnJ5YM1BbMpGLbTVNijzXyz4BNzXQrO1mWXMqR9YHAVm/pNqXhy00INA3a/WM5kBWqaymOMLl17IwDexstgYz3bQKNpIIfQnv+6kYeA==;Zz275G6tJM9KXpaSQ0QF+w=="
 ---
 
