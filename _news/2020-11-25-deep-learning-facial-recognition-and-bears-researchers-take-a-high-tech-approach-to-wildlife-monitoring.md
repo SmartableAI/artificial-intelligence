@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 type: article
 quality: 73
-heat: 93
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechRepublic
@@ -32,37 +32,46 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition software can now reportedly recognize bears"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
-    publishedDateTime: 2020-11-22T22:14:00Z
-    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
-    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+  - title: "Training AI algorithms on mostly smiling faces reduces accuracy and introduces bias, according to research"
+    excerpt: "In a new paper, researchers find evidence that variations in facial expression are resulting in biased facial recognition results."
+    publishedDateTime: 2020-11-24T03:45:00Z
+    webUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/"
+    ampWebUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
         width: 1200
-        height: 800
+        height: 600
         isCached: true
-  - title: "Can facial recognition tech identify different bears?"
-    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
-    publishedDateTime: 2020-11-24T02:11:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
+  - title: "Human Rights Commission publishes guide to recognising and preventing AI bias"
+    excerpt: "It also offers recommendations for those making AI systems to ensure they are fair, accurate, and comply with human rights. The paper, Addressing the problem of algorithmic bias, was developed by the Australian Human Rights Commission,"
+    publishedDateTime: 2020-11-23T20:13:00Z
+    webUrl: "https://www.zdnet.com/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+  - title: "Leveraging Artificial Intelligence to Reduce Clinician Burnout"
+    excerpt: "Providence health system is using artificial intelligence to alleviate clinician burnout and improve the care experience."
+    publishedDateTime: 2020-11-23T20:10:00Z
+    webUrl: "https://healthitanalytics.com/news/leveraging-artificial-intelligence-to-reduce-clinician-burnout"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
     images:
-      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
-        width: 1000
-        height: 667
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "32GLCBp0dlyTVlI5cpYW+HTJa4882FtFtSPvzLdYwXRue354MRmfg6ILAVctQb96Q6/UQt1KXP3tf8HJTPpvp5bWShbKilRQYDGELx5i9VocIu07B8vSsurfr7X+mnSWawAd6lL+YnYg7OPPCSbzP93g2Um6W7Knflwcra/LtPX+t3UZ5h8MDZdz0zn6kHofD7S191tzGL7MyeFn0zt1/LjGSofRW0tU5aqeu5PwfaBtd1IHZ1V1wpvjWQ48J2FwPSvCOHswXcatDbTnML59mjlrOC9ViSk2sVdjEs5cWhscpQnclaIMrhRU0Co8WiiHTzcQ2y3OyU30/HsT+amjVm8/oupyl1H8WSJAtIZ4ZH03U5CwUEfk7theFUUoOZ3+5FDREYHPf+XOu8ifr7HM3l/5Qurx6fFJV8VLYYQeJ1iM1HQiH2yLAexW5znQEtsVK62aiH+r3BrWmz2biuTBmKRNzqDWPaU3cXzhH+zlOEZx+tFTPc9UD8wZHE5hD3yxW1+t/Lx05o5lGlEssSGLkQ==;yywxx8nw8zn4qobGCxNBQg=="

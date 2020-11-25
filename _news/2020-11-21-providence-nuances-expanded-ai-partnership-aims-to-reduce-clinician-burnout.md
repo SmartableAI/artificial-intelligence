@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2020/11/providence-nuance-expand-ai-partne
 webUrl: "https://medcitynews.com/2020/11/providence-nuance-expand-ai-partnership-to-reduce-clinician-burnout/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 683
     height: 512
     isCached: true
-
-related:
-  - title: "Leveraging Artificial Intelligence to Reduce Clinician Burnout"
-    excerpt: "Providence health system is using artificial intelligence to alleviate clinician burnout and improve the care experience."
-    publishedDateTime: 2020-11-23T20:10:00Z
-    webUrl: "https://healthitanalytics.com/news/leveraging-artificial-intelligence-to-reduce-clinician-burnout"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
-    images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
 
 secured: "nWmlJVvmUDdqdgmDKvpMm0h5qImtDcfiSYmlxBfvf7PoeuELkc7Pg6TJCcAJgVfBHRH+uyWGSq3G++umurJfs/SgeQB0qbNXM3RnNWR2vil2d173moB72E+0/5f+TdqMzr5sLsX5SUTBXsZh/+9qEUMYEkziUq5XZiAxJ3HfA0gz0H/1kqbxGg2fCTHiO1mQakx8A+OQWJiGGj1MP4J4SGRbSuaI56RNyux9Lb+aFNv/eAfBqPNTbeSMRct89ElhQpFyihT7EOKnE75td3DHfxHGVMcGX9iNBZQC5AppZrYSWtBmzE9QsIGV/FvY1J7s6LM8K9lEy9GckcbfM/l+oOUR+5dRKEGFUjmao4HPao0gzftEZYh1pN7a767DzLfvDVAsqGlqv+cNVdu4nog6aTDD+h06GjO0RYzxX+fe4G7A1NtAPabAY5U0ZXLmtqFEFasFdXyMfE+qHCokI/++k9aeLctthuJ98zviyx/25ctyaWyMdTSFKnyz3m8esNsBniKYq+Fh07wuaHeBu7MNkg==;pqgutUHtYY5iE7nMQ8YsFQ=="
 ---

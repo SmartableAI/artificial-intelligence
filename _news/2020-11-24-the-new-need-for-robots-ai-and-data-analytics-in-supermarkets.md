@@ -1,21 +1,21 @@
 ---
 category: news
 title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
-publishedDateTime: 2020-11-23T20:07:00Z
-originalUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
+publishedDateTime: 2020-11-23T18:37:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: My San Antonio
-  domain: mysanantonio.com
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
-  - Microsoft AI
+  - AI in Robotics
   - AI
 
 images:
@@ -95,6 +95,6 @@ related:
         height: 627
         isCached: true
 
-secured: "jYzkicoOx9yv0DE2UEOMQ/eQxzrvm3/Lp0XeEGBShrZjUZTr4q7zy5ew5nPWmj/1gwKmZvFeHDd/aM63CrjJzIIFv9+DA32syQ4A3ZxO7Ej+ecy7OSDVvfKwBM7hxMZEO2MuS55N6F/DJRwzND/Dli3slsqagto7MOunl5V3/6DNivXjdsQS0QGcV/oFs6xcj884eCQZR/ZONVMIgMLSMNtm5Z7xHyHjYvrYl1bO34O8/y3J1KaLaufm1WysG6RDNM+dhbcImg4oI/P/URy/isEYGPpRQaOPIfIR4DopGs7egMQIuqe/XzKS+OsPRoozxjsRLV6dAjcxmMALby7ErYIK7T122VGG7C/7npW+wDQ=;9ur+Dm2rxn3Zyc2vIq+RHg=="
+secured: "JetwETBTMRiBBv2pUlMMfacILa8jWUxitCMyDC2f0/LVRsuSgJn9uXfZFdzzAoBa0GihmIL8Js230DOB47Yqasx2uAmpY0AXYkMVenotr3NEk6WIxW8HXWEm2+aofAsWmdrzj8/PNL5wTKNaTRP7HsriYh+qUfXUBBROy1dyFyGi1k3oiy2F+WIAY3bRU1rHHstY0xJoPnzvM1a6BYgMQxb1Vr7A07ed4vGxHQbbUuzBTSrG8THNHWqdW7Ywht/jvuuCgedneYVqHtxquCjeazSwK5zITTxlqkOptYEukGrLLE3manUkrWl2jrgxjUQ9+Yw0oa3HgBhZG+D7NI2qgEAYebH2q9jJ90qIw+mP/zE=;Ex8pEqmpIJxxO7FeqpWRhA=="
 ---
 

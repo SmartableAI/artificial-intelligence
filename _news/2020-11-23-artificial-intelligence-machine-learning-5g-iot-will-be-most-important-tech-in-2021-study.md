@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/industry/technology/artificial-inte
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/lite/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021"
-    excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2020-11-20T16:16:00Z
-    webUrl: "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/"
-    ampWebUrl: "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 59
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
-        width: 800
-        height: 360
-        isCached: true
   - title: "Global AI in IoT Market 2020 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
     excerpt: "MarketsandResearch.biz has added a new report Global AI in IoT Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
     publishedDateTime: 2020-11-24T10:25:00Z

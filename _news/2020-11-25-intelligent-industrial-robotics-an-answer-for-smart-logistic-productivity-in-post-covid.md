@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Intelligent Industrial Robotics: An Answer for Smart Logistic Productivity in Post Covid"
-excerpt: "PRNewswire/ — As e-commerce volumes soar and labor shortages continue in the wake of the COVID-19 pandemic, more"
-publishedDateTime: 2020-11-25T02:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836573"
-webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836573"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836573"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836573"
+excerpt: "Mind Robotics Showcases Intelligent Industrial Robot Solutions for Smart Logistics at CeMAT ASIA 2020 SHANGHAI, Nov. 25, 2020 /PRNewswire/ —"
+publishedDateTime: 2020-11-25T06:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836980"
+webUrl: "https://markets.businessinsider.com/news/stocks/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836980"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836980"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-1029836980"
 type: article
 quality: 75
 heat: 75
@@ -24,6 +24,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "w2WnjoOUVTTdCm6YW0Rl4BWYn5C0DqGgC5GW/JW/GCtol36N72rOmkAyc4CVUKIRtpHzZyPTWUFenenBKPqXenmmynOXMOx6RiTsE9GYB8LNnCuNJprniVrqc4rdy7zCiGniGuZRU2in2A11gebNYHBOscFlRi+17pIx8ID5eBGMgBl59o31ZLULacb4/rqJGWgJ6uWYWPp+yZbhncxxb6npm+MTH/ZfajIHoE0VktzFPp8r9/3P6P8J6DpAsYXQa/GVIQROSOhqUyLjlE6D2o+fEZlW+bRbB/ciu4FlLF20ZRu7oggvu2ecqUchy350YmUI6B3ccRG7J317LMWomr5/1xk6SNVO/hNpZAg0CJ0=;SrD5zS7ppUstFFSF3WxorA=="
+secured: "AXZuANka8Opgmp9PgkrGKeEB8YM0SLSTo7iCBlgMFLrNFdeCN+1LAabKTCGM44W1gj1U9Pk7XKC32HuwXmcAxyUBCCncl5Eo0I9RX4aCiiP6WGGESntJceCpglKP0Gx+HHVsBuwpugyBcQawT3rN44pggQxSkuBKobYlIV7UMGftjAeZGv93KLgM2Zu2jbbfVYRizXDGpTQ8zHohDeo5afh7mgyBYKEPF/ZgntTXUYP1je0BuOTqEawxk4ad7E4BzsmksF5cPnhUmjc6Mc7TfwbGStngrQvGxscsrbFGRZ0+aH+occXjqtD4o5NP+5Uhf6uilq0rseUtyebnDWyey2JAp36/PJaLx6P4DkckIlw=;5uCbn7yiDgF9xq0/g5VqFg=="
 ---
 

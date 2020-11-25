@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fi
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -25,65 +25,6 @@ images:
     width: 1668
     height: 834
     isCached: true
-
-related:
-  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
-    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
-    publishedDateTime: 2020-11-20T16:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round"
-    excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners."
-    publishedDateTime: 2020-11-23T18:28:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 53
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Learn how to code through animation; Here's what the future holds for fintech"
-    excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
-    publishedDateTime: 2020-11-24T00:47:00Z
-    webUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence"
-    ampWebUrl: "https://yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/animation-fintech-coding-startup-tekie-artificial-intelligence/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 41
-    images:
-      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 800
-        height: 400
-        isCached: true
-  - title: "4 Greek FinTech companies revolutionising the financial space"
-    excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
-    publishedDateTime: 2020-11-23T12:23:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-greek-fintech-companies-revolutionising-the-financial-space/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "us9DTldyRLpvQykty+0mCeepNv8yDiLEFBXr++i8/HW+9EwMfGwwehYp3ks/XprBYpzkeUh7XIJCxEUe4i1Ph7KDFRrCcAJ/S92C2UD4+SX8dzN+Cuuo2lM7XAd7o5jPskdvVlbkytJv7CkMy6XhgO24MizZrFphxvVl6Ws3bw/lwS9ji6SQeE+OvY0z1r3jJ6ykoDuNS6A0OH6rLwCosAAFO66ByatUbCOCy8AkEgUKaQ6nAJaqCUAHsc7J3fN3Q5Wup9JTLvZ5QDA0UXDfKK5z5V7y36hTp6iejuYGdlCpGXbJcD2jfFHRhYphNHvKKmDk/DCgoO9NOOoOwK9aGT72i3TVBpWgzBS9r7fBjiA=;Pr7OGcFUdV+7ova1XA5fFQ=="
 ---

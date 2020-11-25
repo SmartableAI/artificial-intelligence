@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "How Artificial Intelligence Will Impact The Future Of Tech Jobs"
+    excerpt: "Artificial intelligence may seem like something out of a science fiction movie, but it’s used in everything from ride-sharing apps to personalized online"
+    publishedDateTime: 2020-11-24T20:46:00Z
+    webUrl: "https://www.upr.org/post/how-artificial-intelligence-will-impact-future-tech-jobs"
+    type: article
+    provider:
+      name: Utah Public Radio
+      domain: upr.org
+    quality: 39
+    images:
+      - url: "https://www.upr.org/sites/upr/files/styles/medium/public/202011/artificial-intelligence-3685928_1280.png"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Could AI Save the World?"
     excerpt: "Latest XPRIZE competition looking for brightest AI minds to improve how people, governments and organizations respond to pandemic environments."
     publishedDateTime: 2020-11-24T18:54:00Z

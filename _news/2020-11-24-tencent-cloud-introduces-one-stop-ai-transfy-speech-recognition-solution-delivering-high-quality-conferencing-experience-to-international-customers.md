@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/tencent-cloud-introduce
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
 type: article
 quality: 45
-heat: 45
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,98 @@ topics:
   - AI
 
 related:
-  - title: "SustainCo Inc. Enters into Agreement for Proprietary Face and Temperature Recognition Software Tech"
-    excerpt: "SustainCo Inc. awaiting name change to Universal PropTech Inc. is pleased to announce that it has entered into a Collaboration and Commercialization Agreement with Delta-X Global Corp. to bring their Proprietary Face and Temperature Recognition software technology,"
-    publishedDateTime: 2020-11-23T17:55:00Z
-    webUrl: "https://investingnews.com/news/oil-and-gas-investing/sustainco-inc.enters-into-agreement-for-proprietary-face-and-temperature-recognition-software-tech/"
+  - title: "Houston Airports Add Facial Recognition Tech to Arrival Process"
+    excerpt: "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic."
+    publishedDateTime: 2020-11-23T23:47:00Z
+    webUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
     type: article
     provider:
-      name: Investing News Network
-      domain: investingnews.com
-    quality: 25
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
     images:
-      - url: "https://cdn.investingnews.com/app/uploads/2020/11/68767_2b64c4cf44ea9be9_logo_innqm_23633_innqm_23633.jpg"
-        width: 300
-        height: 300
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
         isCached: true
-  - title: "Gnani.ai Launches Mandarin to English Integrated Speech Solution for Indian Defence"
-    excerpt: "Gnani.ai, a global frontrunner in Conversational AI today announced the launch of a new integrated Speech Recognition based solution for the Indian defence establishment."
-    publishedDateTime: 2020-11-24T04:35:00Z
-    webUrl: "https://www.businesswireindia.com/gnaniai-launches-mandarin-to-english-integrated-speech-solution-for-indian-defence-70507.html"
+  - title: "Bush Intercontinental Joins Hobby Airport In Using Facial Recognition Technology"
+    excerpt: "Bush Intercontinental this month joined Hobby and 17 other U.S. airports that use facial recognition technology at its international entry terminals. With the technology, arriving passengers have their picture taken and a computer then matches it with their passport photo."
+    publishedDateTime: 2020-11-23T19:47:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 13
-  - title: "National Debt Relief Delivers Empathetic Customer Experiences By Leveraging Contact Center AI from Observe.AI"
-    excerpt: "Observe.AI, a leader in Contact Center AI, today announced that its platform has enabled National Debt Relief (NDR) to improve customer experience, au"
-    publishedDateTime: 2020-11-24T12:30:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201124005188/en/National-Debt-Relief-Delivers-Empathetic-Customer-Experiences-By-Leveraging-Contact-Center-AI-from-Observe.AI"
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 69
+    images:
+      - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
+        width: 1000
+        height: 668
+        isCached: true
+  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
+    excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
+    publishedDateTime: 2020-11-20T23:58:00Z
+    webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: WTSP
+      domain: wtsp.com
+    quality: 59
+    images:
+      - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Facial recognition software can now reportedly recognize bears"
+    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
+    publishedDateTime: 2020-11-22T22:14:00Z
+    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
+    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
+    excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-24T10:57:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Facial_recognition_Etihad_plans_to_deploy_touchfree_checkin_for_cabin_crew-ZAWYA20201124094646/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://www.zawya.com/images/cia/zAmp/201124101510EUJS.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
+    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
+    publishedDateTime: 2020-11-24T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
 
 secured: "u315ufaZbIdLl1S23YeUT0iNpqlPMBK1JPlHN1cK1ImU/CdBN2+j6UUGBOgoZlQb7vV27tvwfAnZJq1CEFnZACWrvnD+Wfe9GlIM2HMOG7NtT016C2dpUWYMpHGfqP/h7i8t4Z2R7EJQgSMgG/jCz5VpmSP6DF1RYDENXCkQv1zNEtD0eNeaKzJPrb71Y09H9zpIjuBXtdz4tZEzEkkl6KHRNoiGG8xjAE0cRngsqEE/dgDIhkyXVXDRMT8K+lIXU8Z2zOBGOF5YwzEtvtoDY197/Hlkj+mu4HBF/QUoGBUW6TY9RVmDXWXcyKOT6gp3/GKGeOrQOVMW9B/+5wlA7ykBX6S/I7jqyLAUq5wtz9w=;8gGXO0GHORQ6bA7Izxkx8g=="
 ---

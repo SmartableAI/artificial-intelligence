@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldw
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Will Impact The Future Of Tech Jobs"
+    excerpt: "Artificial intelligence may seem like something out of a science fiction movie, but it’s used in everything from ride-sharing apps to personalized online"
+    publishedDateTime: 2020-11-24T20:46:00Z
+    webUrl: "https://www.upr.org/post/how-artificial-intelligence-will-impact-future-tech-jobs"
+    type: article
+    provider:
+      name: Utah Public Radio
+      domain: upr.org
+    quality: 39
+    images:
+      - url: "https://www.upr.org/sites/upr/files/styles/medium/public/202011/artificial-intelligence-3685928_1280.png"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Hasty Raises $3.7 Million to Build Next-Gen Vision AI Annotation Tool"
     excerpt: "PRNewswire/ -- Hasty, the leading provider of next-gen annotation tools for vision AI practitioners, announced it has raised $3.7 million in seed funding"
     publishedDateTime: 2020-11-24T13:30:00Z

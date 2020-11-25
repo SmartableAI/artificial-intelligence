@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial Intelligence and Machine Learning, 5G and IoT will be the Most Important Technologies in 2021"
-    excerpt: "All the essential news and articles related to the Internet of Things (IoT), on a daily basis, and with a business perspective."
-    publishedDateTime: 2020-11-20T16:16:00Z
-    webUrl: "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/"
-    ampWebUrl: "https://iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/"
-    cdnAmpWebUrl: "https://iotbusinessnews-com.cdn.ampproject.org/c/s/iotbusinessnews.com/2020/11/20/20369-artificial-intelligence-and-machine-learning-5g-and-iot-will-be-the-most-important-technologies-in-2021/amp/"
-    type: article
-    provider:
-      name: IOT Business News
-      domain: iotbusinessnews.com
-    quality: 59
-    images:
-      - url: "https://iotbusinessnews.com/WordPress/wp-content/uploads/artificial-intelligence-AI.jpg"
-        width: 800
-        height: 360
-        isCached: true
 
 secured: "8FNMypie6nvtl9wR5nVjaVarsEoVApT6v5N09JmTwclUTzlQkryDvh8O/GZ8DKUoSQUjt4uQlq7nHyAjobEloMlLlvONGCv9r6+TN1SdiGjnGfKbBmSwEzOrbFnO28W6iwsL6q+6kEHYrgg1GjrmU8DhZ4PplvawfNLCnkakuvFAQ+ODlQ6FqRjQ2YFTQefvvrkOXmGE4h9+Jwk7XtNJBKhM2kBMKSQoZ4S1guTDTrQHOuPht1xXqZI6/8/8MQILZQNzxqzsfNJpywaVLCLvr8vjAgOQzTPsZ0DZUhFYKbQxxh3BZEixTOFASdk9NgyyLkbtObPFSbVe0mHK9KcPFg3nfyiOmAdhFnT7dcWaiQg=;eXwn0qnqx11tzWANEXNCgg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 103
+published: true
 
 provider:
   name: VentureBeat
@@ -32,21 +32,46 @@ images:
     isCached: true
 
 related:
-  - title: "If You Aren't Using AI, You're Falling Behind According To The US Patent And Trademark Office"
-    excerpt: "CIOs continue to talk about how vital AI technologies are, but this new report confirms that if companies aren't already putting that talk into action, they are behind the curve."
-    publishedDateTime: 2020-11-20T16:22:00Z
-    webUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/"
-    ampWebUrl: "https://www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anthonytrippe/2020/11/20/if-you-arent-using-ai-youre-falling-behind-according-to-the-us-patent-and-trademark-office/amp/"
+  - title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
+    excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
+    publishedDateTime: 2020-11-24T18:52:00Z
+    webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 76
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 73
     images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb7eb5b5f523a908752db0f%2F0x0.jpg"
-        width: 1199
-        height: 634
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
+        width: 1200
+        height: 900
+        isCached: true
+  - title: "Human Rights Commission publishes guide to recognising and preventing AI bias"
+    excerpt: "It also offers recommendations for those making AI systems to ensure they are fair, accurate, and comply with human rights. The paper, Addressing the problem of algorithmic bias, was developed by the Australian Human Rights Commission,"
+    publishedDateTime: 2020-11-23T20:13:00Z
+    webUrl: "https://www.zdnet.com/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+  - title: "Leveraging Artificial Intelligence to Reduce Clinician Burnout"
+    excerpt: "Providence health system is using artificial intelligence to alleviate clinician burnout and improve the care experience."
+    publishedDateTime: 2020-11-23T20:10:00Z
+    webUrl: "https://healthitanalytics.com/news/leveraging-artificial-intelligence-to-reduce-clinician-burnout"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
+        width: 690
+        height: 400
         isCached: true
 
 secured: "s3QQW/FQ1fCnm2cZcLZiTkUCPrvwEJFGkYVDX4ifzy+sM+dYfnbEN4Uk5ROMEpnIBniqFlt6ZN9xGbE15XEFtWZ6mIcM8b4sufi9XgqU9MyvGdD1qwjsT5NuGju0ZcNqDk4jN5L6VGzEyYvcvuv5OjZiC7wxA6pjJPKvG8F4bRWCyHUO4WsKjFinyKPvJ/3uXGy3k0lfJE/8nq8UpZ0YQJtWMirwcjcijcExi1QoLBYgNPdPF2lC7nYyrJHQV3zklsegI+voH9ubgYLSOjPN4Yk8sKGOYNgjxy/2lFGMvQ3+yEDPaVss2X1GSHiqXLrgvjS9+LhkSL1HNKZ1pitUiMR+CzghINfNSdV2APIiOcRuUWvVVmfej27flDyoTnr+so1PS/KvMGo6aqohYfNh68sPKg3bKhf20IViQ6qLunzEbAjFwYtuNZ+NOeMTldgLl1IoqMvm1IaswgahgWKftwedSABjd8juq3GgubOEaJ7g+cExximaIbEGNhlpV9dVFd/DFy0U+XKspZhGo9w7vA==;aP+EhgFSkVYVGo69tG+ZYA=="

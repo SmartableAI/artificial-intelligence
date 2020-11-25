@@ -7,7 +7,7 @@ originalUrl: "https://nationalmortgageprofessional.com/news/76129/wemlo-launches
 webUrl: "https://nationalmortgageprofessional.com/news/76129/wemlo-launches-mortgage-processing-assistant"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Wemlo introduces AI to mortgage processing"
-    excerpt: "PRNewswire/ -- wemloSM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new"
-    publishedDateTime: 2020-11-20T15:10:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/wemlo-introduces-ai-to-mortgage-processing-301178147.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 39
-    images:
-      - url: "https://mma.prnewswire.com/media/1339877/Wemlo_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
-  - title: "Wemlo introduces AI to mortgage processing"
-    excerpt: "PRNewswire/ -- wemlo SM, an innovative fintech company that provides third-party mortgage loan processing services has launched ATHENASM, the new technology logic and intelligence behind the wemlo platform."
-    publishedDateTime: 2020-11-20T16:11:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-consumer-banking-38822e67ef4e8ea494743f551080e0ea"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Wemlo boosts mortgage processing service with AI-powered tech"
     excerpt: "Fintech startup wemlo, a subsidiary of RE/MAX Holdings, has launched an artificial intelligence-powered technology created to boost and automate mortgage loan processing. The new tech, called Athena,"
     publishedDateTime: 2020-11-24T08:02:00Z

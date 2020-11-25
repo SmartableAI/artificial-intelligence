@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech and Their ETFs Ready to Decimate the Finance Industry"
-    excerpt: "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,"
-    publishedDateTime: 2020-11-20T16:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20"
-    ampWebUrl: "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
   - title: "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round"
     excerpt: "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners."
     publishedDateTime: 2020-11-23T18:28:00Z
@@ -51,22 +40,6 @@ related:
       - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/04/pounds-toa-heftiba-unsplash-600x400.jpg"
         width: 600
         height: 400
-        isCached: true
-  - title: "Namaste, France and Bonjour, India: The future of fintech is French"
-    excerpt: "At a panel at the Bengaluru Tech Summit 2020, experts from India and France came together to discuss why collaboration between the two countries in the fintech space is a win-win situation There are around 1,"
-    publishedDateTime: 2020-11-21T03:41:00Z
-    webUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french"
-    ampWebUrl: "https://yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
-    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/namaste-france-bonjour-india-future-fintech-french/amp"
-    type: article
-    provider:
-      name: Your Story
-      domain: yourstory.com
-    quality: 44
-    images:
-      - url: "https://images.yourstory.com/cs/2/2d86ed30-b282-11e8-b2e7-114aea10c711/1605894676099.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
-        width: 1668
-        height: 834
         isCached: true
   - title: "Learn how to code through animation; Here's what the future holds for fintech"
     excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
@@ -84,6 +57,40 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Israeli fintech co Obligo raises $15.5m"
+    excerpt: "Ofir Dor Israeli fintech company Obligo has announced a $15.5 million Series A financing round led by 10D and with the participation of 83North, Entrée Capital, Viola Credit, and other strategic real estate investors."
+    publishedDateTime: 2020-11-22T13:44:00Z
+    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-obligo-raises-155m-1001350327"
+    type: article
+    provider:
+      name: globes.co.il
+      domain: globes.co.il
+    quality: 39
+    images:
+      - url: "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1605705155/direct/Obligo.jpg"
+        width: 1200
+        height: 588
+        isCached: true
+  - title: "Singapore Fintech startup Sleek secures US $4M from Enterprise Singapore's SEEDS Capital and business angels"
+    excerpt: "Sleek, a fintech startup that is disrupting the traditional corporate services industry, has raised US $4M in a new funding round. Led by SEEDS Capital, the investment arm of Enterprise Singapore, the funding was also joined by MI8 Limited,"
+    publishedDateTime: 2020-11-24T01:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+  - title: "Garuda Capital acquires minority stake in Hong Kong fintech startup FinLink"
+    excerpt: "This acquisition comes after FinLink raised US$2.5 million in a seed round led by PF Ventures and Garuda Capital in 2019."
+    publishedDateTime: 2020-11-24T12:47:00Z
+    webUrl: "https://www.techinasia.com/garuda-capital-acquires-minority-stake-hong-kong-fintech-startup-finlink"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
 
 secured: "PwegHO+WWvPHCer8DS9hv6cioQpaPehSjHD2SIlfHM5qHbqdpuaaKCzyoSB/wCfCnFNjvWvQkSTllNcnenDir1fjsqFiEHCzUnnZlwaAMddm7qdrnbnlHdSixI8vK9ukNr4X714IB+SW/OsSrzE3w6qkdz8MYsykh0YIf7t5VW1ht7rNsKy4qAPTalV1h8Uj2T+Zh6Z7gnBe1QADLy+6eebIOP5fl8vXSf3cn43/ygZACLoi5f/J7j5hcOpnfINcGvSmdJ2AmimEOfT0N0zB3VNMc0rMduvLvyeyBfNj4QWoONaU00F8sZihsiAl12bS38hLS9QOE4LGnJll2CabJjOTCw1c1f98IUSxjnUHG6s=;Gu2cYykT8fFT4XF+WGBRqQ=="
 ---

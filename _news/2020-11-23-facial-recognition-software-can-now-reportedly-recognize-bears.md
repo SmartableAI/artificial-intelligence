@@ -27,37 +27,92 @@ images:
     isCached: true
 
 related:
-  - title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
-    excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
-    publishedDateTime: 2020-11-24T18:52:00Z
-    webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-    type: article
-    provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 73
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Can facial recognition tech identify different bears?"
-    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
-    publishedDateTime: 2020-11-24T02:11:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
+  - title: "Houston Airports Add Facial Recognition Tech to Arrival Process"
+    excerpt: "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic."
+    publishedDateTime: 2020-11-23T23:47:00Z
+    webUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
     type: article
     provider:
       name: Government Technology
       domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
+        width: 940
+        height: 627
+        isCached: true
+  - title: "Bush Intercontinental Joins Hobby Airport In Using Facial Recognition Technology"
+    excerpt: "Bush Intercontinental this month joined Hobby and 17 other U.S. airports that use facial recognition technology at its international entry terminals. With the technology, arriving passengers have their picture taken and a computer then matches it with their passport photo."
+    publishedDateTime: 2020-11-23T19:47:00Z
+    webUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/"
+    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
+    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
+    type: article
+    provider:
+      name: Houston Public Media
+      domain: houstonpublicmedia.org
+    quality: 69
+    images:
+      - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
+        width: 1000
+        height: 668
+        isCached: true
+  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
+    excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
+    publishedDateTime: 2020-11-20T23:58:00Z
+    webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
+    type: article
+    provider:
+      name: WTSP
+      domain: wtsp.com
     quality: 59
     images:
-      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
-        width: 1000
-        height: 667
+      - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Tencent Cloud introduces one-stop AI Transfy speech recognition solution, delivering high-quality conferencing experience to international customers"
+    excerpt: "The solution's outstanding features were championed at Interspeech 2020's Far-Field Speaker Verification Challenge special session in"
+    publishedDateTime: 2020-11-24T04:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 45
+  - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
+    excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-24T10:57:00Z
+    webUrl: "https://www.zawya.com/mena/en/business/story/Facial_recognition_Etihad_plans_to_deploy_touchfree_checkin_for_cabin_crew-ZAWYA20201124094646/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 36
+    images:
+      - url: "https://www.zawya.com/images/cia/zAmp/201124101510EUJS.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
+    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
+    publishedDateTime: 2020-11-24T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
         isCached: true
 
 secured: "mkKR4/53oEqRnSzWJa17wDU+It6XHd0F1anpV1DTNm1a6RKLZw9k3liOYLF1FLGWfq6FJXrCyFbWGVSXqwX1Ps/TTnknj3657uXyjRITtvQS3S7k1GyCFvTT45AI6nnMJBV06pXNu4smS+up5/Q52F2UhVGvhwzOYQAx21UJ9v8RF/OzgYSa2YqA56JMzj3zGklb3jNhQaU/u+slyrjIDBnIYTOQ4vDo5R/ivVmOF+UitlcugTseYSdRmMehInSBwRqa5t5cDLkRjfZsASBGgSq4LYkpmLceSUVQ6ouWJvgLaABafQJB1yqkK8JT7EhhqQcaHIKqa+0X0p/tqJBGK8KJJd1evyABf0sZrfeASk/tPblpOAfgaZiyjpsY8GSO6dYbiuJuRsLfsfI0AlwxvcTFpwibL02a7owl8Vc+EsrWxNuYOKAvfwMzFMZp2l8kiDAaGPnWPhPpqyt88HLkwjDw5vtKdic5S7HxgNKQEJ4gtZE5HyeTIjub7O0zVTPyuDpCzWPImtC05OPcqr2Nqg==;SLSmJZPlxPczhLTHifUSYA=="

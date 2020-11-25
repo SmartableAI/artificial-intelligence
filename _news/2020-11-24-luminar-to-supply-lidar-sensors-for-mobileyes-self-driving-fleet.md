@@ -43,15 +43,6 @@ related:
         width: 818
         height: 545
         isCached: true
-  - title: "Luminar to Supply Lidar Sensors for Mobileye's Self-Driving Fleet"
-    excerpt: "(Reuters) - Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's Mobileye subsidiary for its test fleet of self-driving vehicles."
-    publishedDateTime: 2020-11-20T15:12:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2020-11-20/luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
 
 secured: "esD84fl/b5AxDPH2pwnIPkqzvssUeb5D6yZiQ1N9hv+nvz9BTQOCmy+HMwIDfLKw59IO1rErJz0DlCmGw8pRVzknjFUyTrju7WfUoOdyy/sgP7hWGyThbJglDofWoNvwDAJHNVTZ3oXso6/ckyhmjBXbC9CSno58r+j4dPBGlpM4OE7SkDATwCYPf2Z4oTMDUbPGmvKu9egdCoGZDOTBGVxWkaKc94u4G1cC2KrLgRPB1UMCsi2UOlaXgkm0X++EY1OpLPJGQ175KYWmNpBTtWnULp4Pf/OxuPoAGTjVq5c0m7q3xd134UN3QUwAlgU+JVcINM77INI8EOQnAJFQgorQZdz0SOKiFsN3tE+1MSOECK0BfFP4IFXhZLAayx52XpL4c8lsxC5bB8ms+qNtEEuOr873opwpRte3W60l2nIZKFdn0vfnmYbeXE4DDZVh1F3sx6Bn8z26En3raZSbtMtwIHCFfeGycUR24hE5inerDTAtKWcqWgEKOlhTSh3sgTV7hhnqeAm6rCSyDNouGg==;DJPyjHek1Js7AgZgT6JJmw=="
 ---

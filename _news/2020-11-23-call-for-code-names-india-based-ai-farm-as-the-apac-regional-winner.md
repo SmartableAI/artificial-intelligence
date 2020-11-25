@@ -19,17 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Indian startup AI Farm is Call of Codes Asia Pacific regional winner"
-    excerpt: "Global initiative Call for Code on Friday announced that India-based agri-tech startup AI Farm has been chosen as the Asia Pacific Regional Winner for developing an intelligent system that evaluates climate and soil conditions to provide farmers with information to adapt their crop strategies."
-    publishedDateTime: 2020-11-20T15:26:00Z
-    webUrl: "https://www.sify.com/news/indian-startup-ai-farm-is-call-of-codes-asia-pacific-regional-winner-news-education-ulum5Dgeddggb.html"
-    ampWebUrl: "https://www.sify.com/news/indian-startup-ai-farm-is-call-of-codes-asia-pacific-regional-winner-news-education-ulum5Dgeddggb.html"
-    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/indian-startup-ai-farm-is-call-of-codes-asia-pacific-regional-winner-news-education-ulum5Dgeddggb.html"
-    type: article
-    provider:
-      name: Sify.com
-      domain: sify.com
-    quality: 39
   - title: "Call for Code names India-based AI Farm as the APAC Regional Winner"
     excerpt: "Where most people see challenges developers see possibilities That certainly been the case in 2020 Call for Code founding partner IBM and its creator Davi"
     publishedDateTime: 2020-11-24T06:00:00Z

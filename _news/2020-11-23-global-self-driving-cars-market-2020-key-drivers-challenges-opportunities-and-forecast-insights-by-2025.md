@@ -25,99 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
-    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
-    publishedDateTime: 2020-11-24T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market2020-research-growth-opportunities-analysis-and-forecasts-report-till-2026-2020-11-24"
+  - title: "Self – Driving Car Market key players and manufacturers, Top Countries Analysis 2024"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. A self-driving car or a driverless car or even robotic car navigates without any human input as the vehicle has the capability of sensing its surroundings while driving on road."
+    publishedDateTime: 2020-11-23T11:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-key-players-and-manufacturers-top-countries-analysis-2024-2020-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision System Market 2020 Future Estimations with Top Key Players, Production Development and Opportunities to 2026"
-    excerpt: "Nov 23, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has newly published research study entitled Global Computer Vision System Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that incorporates the analysis of different ..."
-    publishedDateTime: 2020-11-23T21:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2020-future-estimations-with-top-key-players-production-development-and-opportunities-to-2026-2020-11-23"
+  - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
+    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
+    publishedDateTime: 2020-11-23T03:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2026-2020-11-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 39
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
-    excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
-    publishedDateTime: 2020-11-24T16:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market---by-supply-demand-scenario-application-by-region-pricing-analysis-opportunities-and-forecast-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Call Center AI Market Size Segmentation: Research, Analysis, Trends, Market Share, Competitors, Regions, Applications and Forecasts Up to 2026"
-    excerpt: "Global Call Center AIMarket is growing due to growing requirements for quality inspection and surge in demand. It also provides pin-point analysis for changing competitive dynamics and provides healthy CAGR during the period 2026 and calculate the market size,"
-    publishedDateTime: 2020-11-24T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-size-segmentation-research-analysis-trends-market-share-competitors-regions-applications-and-forecasts-up-to-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
-    excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The deep learning market is expected to grow by $ 7."
-    publishedDateTime: 2020-11-20T17:45:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201120005431/en/Deep-Learning-Market-by-Type-and-by-Geography--Global-Opportunity-Analysis-and-Industry-Forecast-2020-2024"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 21
-    images:
-      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/23/IRTNTR41147.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Technavio Research: Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
-    excerpt: "The deep learning market is expected to grow by 7.2 billion, progressing at a CAGR of almost 45% during the forecast period. This press release features multimedia. View the full release here:"
-    publishedDateTime: 2020-11-20T17:46:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2020-11/51306889-technavio-research-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 11
-    images:
-      - url: "https://mms.businesswire.com/media/20201120005431/en/840838/4/IRTNTR41147.jpg"
-        width: 480
-        height: 270
-        isCached: true
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
-    publishedDateTime: 2020-11-23T15:07:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
 
 secured: "NzSzquG0bw+Cbkqxm6dHTaV8OY9CduuLGqj7MqQdxwVkU0XR0NBibhWrDduvDHD7BpTcl5JyZ1t/7KEV2qHgYC1EFWZ4KT94p2eXQpVyvD1L44WExuSGaRod28zT+NR8QOeufTy2ooXh1CcDBGxZuamjvjWOOEElZkIwRDIgzO5XGh8NVOkhvFHZIgHpVdLMQZNFvDwc3ndUbAAIkq2Y3etdYe5dcemQM6rlSYulVLDGh/Sjo2fuyaC4XZlH1DuRL+BCmcCnnKppUiPOWBRi5G05/R/g+Iyvx7pKykCq6s/DlP/K4V7J3kZ2rjQmJc7pilJoD1l+BZ+3Nid6RNxGVn/hcy1WLhfzdn/EbDGbvv4=;Oh2K0NeWvoNb77PO5C7srQ=="
 ---

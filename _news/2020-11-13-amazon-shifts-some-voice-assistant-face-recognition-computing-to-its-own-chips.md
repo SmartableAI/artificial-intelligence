@@ -21,6 +21,7 @@ topics:
   - AWS AI
   - AI
   - Computer Vision
+  - Natural Language Processing
 
 images:
   - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6"
@@ -28,6 +29,6 @@ images:
     height: 545
     isCached: true
 
-secured: "F7C1DiSeuReaA1NFiVczBV9+nf/780lOF4G3cYxC3+D6bIwJb5rB8vWwac8+MSyyhO9hZgsIhj+7QtIcKFKgHQGjr2UUo3z+SnPJamC7lVjbiYVVexQpnHTkOy5mVXHr4rzZcXvRSbivwbxyY/PQP2BK6o9yicydy4mFm68h6o5cVSikDhUasp2fpsmVFWuYXM0WVlBaKT27/mGZq3PBgcl5Qu5mIJKZQbt+ZbfiOBvMH+UYw/AgxZDix8YfhiSu04r2kKAHJqePtXf5BOISjYfor5ZMrMM14Y+BFSoOsqJniOFyty50pTftzPu2fa5orHA3IMEVab30lW4x9m9SbK1DuDYKMdAGq6maCUsPb7k=;4GmsWN9h/NCr8Mm2Omu/+Q=="
+secured: "QT8T3QvP/adZYbKwfqhv6Ai36KED4calp1OndTNsTS0RZttvsTJYcYd7XZGd7N29Sp/5D+lDYQlW4d8xNg3+Iu9B7AqJ62mYTLtvj5e6UI/Qy4FSNj3Z05yrBE5ChFdu4xp4B1zAGbYB9Bc6MWGCss1bi24SXDB3AA12emTfuZFEbjad5fRxYYtQErCzP0fizgURSz5P7AChr9MDHomsDG0lEHSzLmClKltDDdVVU7/HbCIoasaZ9zG0jPsAf0M0lF8g5/73C/zp27zlKaSQicEf/59UXKje85QcGbijf8Vk+gGNiw+RaEObtlAu03nZUqiLjTeHGrIEfajJWjJJrUcoBbcsmKkZJILKvkwJTYpfo8NkcxN5Uk5l+hAuCWiLzpLtd0QYBLh0+AMqmU9X7lhLN5lEbdmqkvlC1wJimUigLcJSKLbBmKGbsnQrEcE48p5rnY8uST33ddufRTN+CKBK6MTJb0ZYhtqHswaRzLfMNoIJdVqXeUJdXVE//ZXiE8VFa2767fyaz3bX60O+CQ==;YV1fZ5MviV7Nik6afiycjg=="
 ---
 

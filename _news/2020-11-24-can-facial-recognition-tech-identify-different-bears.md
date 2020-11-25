@@ -27,36 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
-    excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
-    publishedDateTime: 2020-11-24T18:52:00Z
-    webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+  - title: "Facial recognition software can now reportedly recognize bears – Jaweb"
+    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday. Melanie Clapham, a postdoctoral fellow at the University of Victoria and bear biologist,"
+    publishedDateTime: 2020-11-22T22:47:00Z
+    webUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
     type: article
     provider:
-      name: TechRepublic
-      domain: techrepublic.com
-    quality: 73
-    images:
-      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
-        width: 1200
-        height: 900
-        isCached: true
-  - title: "Facial recognition software can now reportedly recognize bears"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
-    publishedDateTime: 2020-11-22T22:14:00Z
-    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
-    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
     quality: 59
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facial-recognition-software-can-now-reportedly-recognize-bears-–-Jaweb.jpg"
         width: 1200
+        height: 800
+        isCached: true
+  - title: "Committee recommends ban on facial recognition software despite MPD pushback"
+    excerpt: "Following presentations by the MPD, Madison’s Public Safety Review Committee voted to recommend legislation banning facial recognition software."
+    publishedDateTime: 2020-11-23T16:53:00Z
+    webUrl: "https://www.dailycardinal.com/article/2020/11/committee-recommends-ban-on-facial-recognition-software-despite-mpd-pushback"
+    type: article
+    provider:
+      name: Daily Cardinal
+      domain: dailycardinal.com
+    quality: 38
+    images:
+      - url: "https://snworksceo.imgix.net/car/1d63eb1a-06e7-495e-b297-ce276107c9c3.sized-1000x1000.jpg?w=1000"
+        width: 1000
         height: 800
         isCached: true
 
