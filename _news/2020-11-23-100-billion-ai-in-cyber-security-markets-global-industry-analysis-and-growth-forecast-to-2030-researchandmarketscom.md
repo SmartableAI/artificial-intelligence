@@ -47,6 +47,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Research Report 2020 Size, Share, Growth, Covid-19 Impact Analysis, key Insights"
+    excerpt: "Selbyville, Delaware Market Study Report LLC: Artificial Intelligence Market Research Report provides key analysis on the market status of the Artificial Intelligence market manufacturers with best facts and figures,"
+    publishedDateTime: 2020-11-24T20:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2020-size-share-growth-covid-19-impact-analysis-key-insights-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
+    excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2020-11-25T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2020-opportunity-assessment-key-drivers-and-challenges-growth-rate-and-forecast-to-2025-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 0
 
 secured: "qk+5p2j/fv074jI+JQW2VWjnY5Q9ivNjVwf5sm+1ay+WW6WbkXWFBlUGFmFnhIKyEZLh4Gj9UN983752khU/Rv8jS/1XVd2AzZgz+MhlqI27LdqkxmSWz2Xa7UzOvTUIjmvtvBMxyaZBMxKeMgxbl3hNJdSvWuVH7IaUDBnPbec6ufenMLaUrIez2/OzcAujMnDEDhX8W/UFhbgP0ltUp0LK3F1OT9JBTRKfqIiGRHzgHcRtvvrptKjnYF/HKGy31HE35KZ18n315VzZJYWktImHCfnzoeP9mYUaipAVhg/waguo9fqqRyl6h24xfiU8P/j68Cv2gLafS9GS7vkjBeNiB+78JCRps8Lw9ZmFgUg=;XrANhdGXiIMvWFYyFwhQJw=="
 ---

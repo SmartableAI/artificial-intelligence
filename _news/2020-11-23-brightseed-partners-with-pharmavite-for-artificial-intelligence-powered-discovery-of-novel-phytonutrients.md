@@ -1,28 +1,29 @@
 ---
 category: news
 title: "Brightseed Partners with Pharmavite for Artificial Intelligence-Powered Discovery of Novel Phytonutrients"
-excerpt: "Brightseed, developer of Forager® AI, and Pharmavite LLC, a leader in the health and wellness industry and the makers of Nature Made®"
-publishedDateTime: 2020-11-23T13:01:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/brightseed-partners-with-pharmavite-for-artificial-intelligence-powered-discovery-of-novel-phytonutrients-301178598.html"
-webUrl: "https://www.prnewswire.com/news-releases/brightseed-partners-with-pharmavite-for-artificial-intelligence-powered-discovery-of-novel-phytonutrients-301178598.html"
+excerpt: "Brightseed, developer of Forager® AI, and Pharmavite LLC, a leader in the health and wellness industry and the makers of Nature Made® vitamins, today announced a new partnership to identify phytonutrients that are currently undiscovered in the plant kingdom."
+publishedDateTime: 2020-11-23T14:37:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-science-nutrition-biology-molecular-biology-19c07bf6ca394453c4fdc5d03954e997/gallery/45b17ef13fb6c6161025a055d26db3e4"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-science-nutrition-biology-molecular-biology-19c07bf6ca394453c4fdc5d03954e997/gallery/45b17ef13fb6c6161025a055d26db3e4"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1340083/Brightseed.jpg?p=facebook"
-    width: 1744
-    height: 916
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "wLm82EEr12Uhz0RCzmPgXL8mU6IGr7hivCqKvCHWQtGf7Q1JZgkz3KiOp2pPg0LWZ7p6R9mLIPiDfkqaG2a9GgfMennNxRgCiy6oXnnUKvuIc1SfVULQUpkgZi4A87sDZ4ivYCOeLoIQxpIjck3Pe/j0IyHuzpssOmKihoEFOvJfuu1SeK+mGIcNM0ZkasMkjQrAEnJ0MvAz2bIpbf4NeriMDufLxZ2XlbpbzsE0ifrU6Wmi0STpAsD3FNN+3vK8vq1SZvzVV5svOUtaZ4akmYgkWditF9um50fgypUqezPyxf37fcU0jhY4rsXHVEi5k+VR95+bqYiLZgIlg2IzZxomkFWLxPsvn9yGjKBbajc=;eyOTslUNqlQarcuTs06yWQ=="
+secured: "ERhxy00IXcuuYRQ1vhxHT/FJtIRMW9FcG593t0h9sceLRAoIM1qMPEinpgoMt+KiW0eGkaebxwvsJe+KWT1WH7euI9l/erTZtHmmmDwnJo3FAq9UVY6JPLVwbOfwg22fWhy/O8oWPALYgMWSxTaraR/UTiMJyaD9XWxh0PwmuK+u58o68QHPiqC/aVixF6TRoc8luE6vxrvqQjDKPna7jz5EHqYZqfA1fKCEtZknmpf9A/T2FCs8MAo1ypNEpqOZKy+pVSIv6IiHtBRo5DmpuWqC4eXQ+52Oi4s5ETn8n5fqOh89ylUjRRPQzXqKbb/JnHUVckTQZxwzrowqEHZdQ1gvz8B4JNKzN4FMKBhbHq8=;TFQyanVp31Caw0907r8rcg=="
 ---
 

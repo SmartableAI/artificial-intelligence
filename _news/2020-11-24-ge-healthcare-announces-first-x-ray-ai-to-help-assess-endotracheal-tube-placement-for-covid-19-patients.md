@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge"
-    excerpt: "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data"
-    publishedDateTime: 2020-11-21T01:15:00Z
-    webUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/"
-    ampWebUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
-    cdnAmpWebUrl: "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+  - title: "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond"
+    excerpt: "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry."
+    publishedDateTime: 2020-11-23T15:37:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19"
     type: article
     provider:
-      name: Direct Relief
-      domain: directrelief.org
-    quality: 59
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 53
     images:
-      - url: "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1"
-        width: 1024
-        height: 574
+      - url: "https://qtxasset.com/fiercehealthcare/1605998117/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?MrxsGtXtZcyI.Q4pV0YvFxd.yTFvo99G"
+        width: 1000
+        height: 486
         isCached: true
   - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
     excerpt: "GE Healthcare today announced a new artificial intelligence algorithm to help clinicians assess Endotracheal Tube placements, a necessary and important step when ventilating critically ill COVID-19 patients."
@@ -50,63 +48,19 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "Amid COVID-19, Yeshiva U., Eleos partner to combat mental health crisis"
-    excerpt: "We are training 21st century clinicians to provide excellent care and support in any setting, whether in face-to-face therapy sessions or through teletherapy.”"
-    publishedDateTime: 2020-11-24T14:45:00Z
-    webUrl: "https://www.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120"
-    ampWebUrl: "https://m.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120/amp"
+  - title: "Industry Dynamics: How Covid-19 damages the Artificial Intelligence in Agriculture Market"
+    excerpt: "Research Dive :A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25."
+    publishedDateTime: 2020-11-23T09:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-bf84af29744de2ac111aa43426f6e69c"
     type: article
     provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 44
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/440633"
-        width: 640
-        height: 428
-        isCached: true
-  - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
-    excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
-    publishedDateTime: 2020-11-24T15:12:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-s-new-chest-x-ray-ai-double-checks-ventilator-tube-placement-covid-19"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 42
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1606233616/GettyImages-1212285302.jpg?Kxy_9p9pK18xlhmAzO._1YwgdRaDXz87"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
-    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
-    publishedDateTime: 2020-11-24T15:55:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 37
-    images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial intelligence technology helps Parkinson’s patients during COVID-19 pandemic"
-    excerpt: "Andrew Exner, a graduate research assistant in Purdue’s Motor Speech Lab, is working to help Parkinson’s patients during the COVID-19 pandemic. (Image provided) WEST LAFAYETTE, Ind. – The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson’s disease."
-    publishedDateTime: 2020-11-24T15:58:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-technology-helps-parkinsons-patients-during-covid-19-pandemic.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 29
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/Exner_Andrew_2OG.jpg"
-        width: 800
-        height: 400
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "jYdXWhA2UPirEnYhx9IH9Hu3gN9LvffU5KP4AvpeHjK5h175hlqtmumfixI5xRWD4FkSHI2/cfl6HWZwTT0UNmGCU8Mzzej1HqvE4uf+IWsOm1dJwJFCbiqqKHkeiEhGPg6gLrbfwo86DQU03RdFVdbH7Drn8b4Zu+fqGhIEGpHAHmkLz4flAwkF2+NGl0tiHMBThaWCjvHBZ4zR7quUzRJNDGyfN7WH31rpAI1UCx94LesHlPOg0Fnq0iXl2HIS0H5h8XxXxYkyi1eKL63sgXrbmw0Ml9jOOp0LF4QR0zLVJ003SG3kjDmMySq60eWpVQKiJysIddERJKLEngf98KK6f+hTyLeXxD9JQYso0S4=;NQjvo0pk+WK3lUzJ4kjJEg=="

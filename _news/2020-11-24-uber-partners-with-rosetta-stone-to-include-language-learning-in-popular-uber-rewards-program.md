@@ -27,15 +27,18 @@ images:
 related:
   - title: "Uber Partners with Rosetta Stone to Include Language Learning in Popular Uber Rewards Program"
     excerpt: "Rosetta Stone Inc., a division of Cambium Learning Group, Inc., today announced that it has partnered with Uber to give customers who participate in Uber Rewards the opportunity to redeem points for a language learning subscription."
-    publishedDateTime: 2020-11-23T14:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/uber-partners-with-rosetta-stone-to-include-language-learning-in-popular-uber-rewards-program-1029829884"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Uber-Partners-with-Rosetta-Stone-to-Include-Language-Learning-in-Popular-Uber-Rewards-Program-1029829884"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Uber-Partners-with-Rosetta-Stone-to-Include-Language-Learning-in-Popular-Uber-Rewards-Program-1029829884"
+    publishedDateTime: 2020-11-23T14:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-language-education-consumer-electronics-social-affairs-education-b197a1a9a89c262eeba949ff9100ebb3"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 43
+      name: Associated Press
+      domain: apnews.com
+    quality: 13
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "mqoQtsO7i+3qw9sviYQNdWgOo/feyBo0SeTK4PHN6cK38nvgrCxG7KLzbDEONyvHMjt0z5dDjs+8cPAHKBXeylCmek95XbBwVaKmGZJILV1fQfeBFmdW5/Bf7s5Ddv7/AUgg28FVXzFbWipVF/qeN8YFgAx/aqd+He1FoXXKtF61HkjCnMrEwODNFObTKP7fDMWrXoVDw2+zdoSLZBVd7yl6bDGLCW1z3td5yJYd6vw1tyKZsZBPwKd1pDiHjwRKWsVC8XttF7nRaQJrB8v2nKHv4sy6LOAmaqUXtJnhdG9zxZP7aPdfGrq+GXWMVOQIvpk37vKgogKg1RE9dcUQdholGfTBMdhbgSI8CLz9cE4=;dC8wNJUnifEYyWt5uWB5Sg=="
 ---

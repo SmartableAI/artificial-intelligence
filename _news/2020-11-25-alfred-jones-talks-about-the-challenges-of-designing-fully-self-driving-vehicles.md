@@ -41,6 +41,17 @@ related:
         width: 796
         height: 448
         isCached: true
+  - title: "Self-driving taxis get the go-ahead in California to start charging for rides"
+    excerpt: "Although 60 different brands of autonomous vehicles are currently testing in California, the state has only just ruled self-driving taxis can start charging"
+    publishedDateTime: 2020-11-25T20:07:00Z
+    webUrl: "https://www.archpaper.com/2020/11/self-driving-taxis-get-the-go-ahead-in-california-to-start-charging/"
+    ampWebUrl: "https://www.archpaper.com/2020/11/self-driving-taxis-get-the-go-ahead-in-california-to-start-charging/amp/"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/11/self-driving-taxis-get-the-go-ahead-in-california-to-start-charging/amp/"
+    type: article
+    provider:
+      name: The Architect's Newspaper
+      domain: archpaper.com
+    quality: 21
 
 secured: "wl9l+gFdRQ2LsPZSjeDlXoB9zr+DE/G7mk5LTcGhVgxyYnpDyVsvkEUdUwE2nYfFDzVrhL6+9YIERjdTyjwoHJqQm/8juSK7DMIwSWfe2A47KnK4ak31ZtDbDGljy+/Ni+tNzG8vVg6eK7B9u7tnMhZOkpRxpSbZQkKbJueLz6XFBpVj8EijLHve7kW1BJ9+QnuBuSKYXPhyjwMu7JGtYy6Q0HMQZwe4RMWwDSQ+c7Ekiwr85ZKylu5NxqzaXGRdY/4oeAV/zUk1Ygexl2ABF2Sf8jULYByFr+YG+2l4byeXy19SE1FgSokhaqf8vOHaMFbTXZrrrfCGe8EaoT5j/7tlKj+fX4Mb5JbcLaWH3jF7Rqd4LscuOSHnTiZrvZZ6IolF6eZbs/xzmDggeLvDtyUjydsX3xueQSLUpk5Xf0r+k+EdzPhgsp9Lus0z2FcZGUq7Gt6aojn3c8spucmF9Q3ZG5Knq7qpUunWLPat5bOvwySsGY6EXMsmduCEMh3zk8h7pKCZAMC4saJKjCBXHg==;blzBXjLvRIVDzkSffBr2wg=="
 ---

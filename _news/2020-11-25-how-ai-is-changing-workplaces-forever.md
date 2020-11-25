@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-chan
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
 type: article
 quality: 61
-heat: 111
+heat: 112
 published: true
 
 provider:

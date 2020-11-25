@@ -19,75 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional."
-    publishedDateTime: 2020-11-21T06:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229"
+  - title: "Artificial Intelligence in Healthcare Certificate"
+    excerpt: "Artificial intelligence (AI) in healthcare uses the vast volume of digital health data to improve healthcare operations, safety, and delivery. Careers lead to employment by hospitals, clinics, private practices,"
+    publishedDateTime: 2020-11-22T19:25:00Z
+    webUrl: "https://www.mtu.edu/health-informatics/certificates/ai-healthcare/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: Michigan Technological University
+      domain: mtu.edu
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.mtu.edu/health-informatics/certificates/images/hi-black-dr-male--intern-computer-banner1200.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Swarm Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
-    excerpt: "The scope of the report includes a detailed study of Swarm Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The Swarm Intelligence Market is segmented on the Basis of Model Type,"
-    publishedDateTime: 2020-11-23T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Research Report 2020 Size, Share, Growth, Covid-19 Impact Analysis, key Insights"
-    excerpt: "Selbyville, Delaware Market Study Report LLC: Artificial Intelligence Market Research Report provides key analysis on the market status of the Artificial Intelligence market manufacturers with best facts and figures,"
-    publishedDateTime: 2020-11-24T20:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2020-size-share-growth-covid-19-impact-analysis-key-insights-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2026"
-    excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
-    publishedDateTime: 2020-11-24T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global LegalTech Artificial Intelligence Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2026"
-    excerpt: "Global LegalTech Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 interprets market overview, value chain structure, industrial environment, regional analysis,"
-    publishedDateTime: 2020-11-23T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+        height: 540
         isCached: true
 
 secured: "Eor6U9ibmYP6IsumOOthRl+ZVyRh4WizvYVs9gh/erDBAp64tmeaApKxhO0Ra/TNWjBQr1HVIWMT7kXIaikiCE6fHQLsIay8+b+z3WPeliTlKyNgsJLiD0GO83pOv4P0krovSYT9MO97Dotak4BtBISVTY+YPaUfYJt8Z/WuHGGS9X2Bp7I0ssgiLUxmYVyONO0kVPYBw8PJmGv4g6921bSQrKv0uhuF3O+Ik2YA3el1MzbWwSonFcWVVpSwgjJmWnowENoxAtAAMWEJPyL4RbRpNJjYfUQ+nsFFiyegJwz21ReExzcxJeczKv8tJcoSaERjLGolgbiFr0bsgQnVXzzyrtxfpoxK0KE8DQY8Rp1vH06pftmh9GAgur/Tvbp8ZlAV9a07xj6mQkrHpg3aW+ZGzkAFZpS/7hvAvpi+ZqwShd5/kq22r0PybGpDpOAe3n6jD0v2pSExcCXfPFJQ6seZ6RRSKaAa/EXu/VRauGXgYdD8j+F+xugahHyQNwZxCpSBelDSsYgnr6aWvJkVdw==;P+XGo6RaxVUroU4q/HRhPQ=="

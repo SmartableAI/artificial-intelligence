@@ -87,15 +87,6 @@ related:
         width: 487
         height: 423
         isCached: true
-  - title: "A neural network learns when it should not be trusted"
-    excerpt: "Researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,"
-    publishedDateTime: 2020-11-20T18:02:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201119144511.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "hGjcSmymt6pzi4cW5XTh66lKpd/ktOoX9aB34twe8A2xt8u2OwFHoDSRTlg6BGFjVEW8HsMZvwS5fVOm1bCM+7dW/5PeZ4j8qDkmRCEID0L4kaaqiqZv3N+ZEcvC/6qEZAyAV05bACD4QWTLgYXho0MMQOpX64eXXrY3pLHF3woJADtM74ZavZKgYou0Z2ijPwkMeu3iT8TxOQUj5CqTMeoTByFVodB14kA+Tppqo/AW3BNNWa6isyB23urvHpYNF5IWLCitiFX7+Hpsqa6utGTqCl58dUeAHmsyqGTds05iuLmzqG8Jo1JQ5nXs+/LJrbjkKPb4dpIg3kywlKot93uttNcBByJNuENahYuR7qJGna7XUND/kXSZfycDuZYc1PaGl119d4G2uL4N4QC+aoAV8kOv6bmcdRXOuPCTP1k9cm9BQ0NGojUNTFDg3wyJ8/aWGSFRA4rJ3WkE36XHccI63i30rX90edcYBEyyPlo0uOAOmEZgp8ExF089QMccLTi9ag9k+GXWF/EB2VL5dw==;Ftlhmaep9H2jEGjQn5PXFA=="
 ---

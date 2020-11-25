@@ -24,88 +24,35 @@ images:
     isCached: true
 
 related:
-  - title: "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge"
-    excerpt: "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data"
-    publishedDateTime: 2020-11-21T01:15:00Z
-    webUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/"
-    ampWebUrl: "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
-    cdnAmpWebUrl: "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/"
+  - title: "Researchers use AI technology to evaluate speech disorders related to Parkinson's disease"
+    excerpt: "The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson's disease."
+    publishedDateTime: 2020-11-24T07:12:00Z
+    webUrl: "https://www.news-medical.net/news/20201124/Researchers-use-AI-technology-to-evaluate-speech-disorders-related-to-Parkinsons-disease.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201124/Researchers-use-AI-technology-to-evaluate-speech-disorders-related-to-Parkinsons-disease.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201124/Researchers-use-AI-technology-to-evaluate-speech-disorders-related-to-Parkinsons-disease.aspx"
     type: article
     provider:
-      name: Direct Relief
-      domain: directrelief.org
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1"
-        width: 1024
-        height: 574
-        isCached: true
-  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
-    excerpt: "GE Healthcare today announced a new artificial intelligence algorithm to help clinicians assess Endotracheal Tube placements, a necessary and important step when ventilating critically ill COVID-19 patients."
-    publishedDateTime: 2020-11-23T13:04:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: News Medical
+      domain: news-medical.net
     quality: 48
-  - title: "Amid COVID-19, Yeshiva U., Eleos partner to combat mental health crisis"
-    excerpt: "We are training 21st century clinicians to provide excellent care and support in any setting, whether in face-to-face therapy sessions or through teletherapy.”"
-    publishedDateTime: 2020-11-24T14:45:00Z
-    webUrl: "https://www.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120"
-    ampWebUrl: "https://m.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-science/amid-covid-19-yeshiva-u-eleos-partner-to-combat-mental-health-crisis-650120/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 44
     images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/440633"
-        width: 640
-        height: 428
+      - url: "https://www.news-medical.net/image.axd?picture=2019%2f5%2ffuturistic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
-  - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
-    excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
-    publishedDateTime: 2020-11-24T15:12:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-s-new-chest-x-ray-ai-double-checks-ventilator-tube-placement-covid-19"
+  - title: "Artificial Intelligence for Parkinson's (image)"
+    excerpt: "Andrew Exner, a graduate research assistant in Purdue University's Motor Speech Lab, is working to help Parkinson's patients during the COVID-19 pandemic."
+    publishedDateTime: 2020-11-24T05:13:00Z
+    webUrl: "https://www.eurekalert.org/multimedia/pub/249699.php"
     type: article
     provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 42
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1606233616/GettyImages-1212285302.jpg?Kxy_9p9pK18xlhmAzO._1YwgdRaDXz87"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
-    excerpt: "Critical Care Suite 2.0 helps clinicians assess Endotracheal Tube (ETT) placement for intubated patients, including critical COVID-19 patients."
-    publishedDateTime: 2020-11-23T17:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123005895/en/GE-Healthcare-Announces-First-X-ray-AI-to-Help-Assess-Endotracheal-Tube-Placement-for-COVID-19-Patients"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
-    images:
-      - url: "https://mms.businesswire.com/media/20201123005895/en/841166/23/GEHC_logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
-    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
-    publishedDateTime: 2020-11-24T15:55:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
+      name: EurekAlert!
+      domain: eurekalert.org
     quality: 37
     images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
+        width: 720
+        height: 540
         isCached: true
 
 secured: "ly3jzOMVo8RT+m9uq1Dii6iqZYDSAPhEWVo2jFGGtOrZBIe+0m1s+2D7Fi7QZ6pOMgMDgEuyxU/FmfeYkz0g5uZ1pwyj4Inmo193ADNsaBXUQAHgaCO1ocio/IAPI5y3SVCzC8flQEgKaSdcDZThU5qMOth6xzaAfkoM6voIgX5CuWcz72gusb5WyusimdHFQ0eMa/UznPU83cG6ZWu6dKvdR71ONY0Q/J1h7Sfudf0C4JphWgGnlKbvdYGdulo5CvN9cEUP6AZLZ2xhX7GTcqCnmlZRWfWUF0Cm7CUct4uuI0kW1HZHve0TDF8BSTR6kDQZbuJOBVo24Z60PBO4+1p2ENVu74Od9YVJFqZ7GaiuHIhN5tmL635yNf/YWpCvgSARO7BGGWX9Tf6lGBFVTqv7bWkb2LxRdPrhx4X3VSoAjg/hdizt5gwTqen0PQ1du2icL46KAMUmpVZvoqBEjCi40kT+wnfxfYhnoUqR1VC2sCJAyjhkmDIBO5icKLtT/9uMa9TM7cFGuJtvLTKD9w==;W9N2UKOoKX7DO34aSn/YPA=="

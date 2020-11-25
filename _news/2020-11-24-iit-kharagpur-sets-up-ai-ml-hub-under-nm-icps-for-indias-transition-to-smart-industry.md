@@ -25,6 +25,26 @@ images:
     height: 225
     isCached: true
 
+related:
+  - title: "IIT Kharagpur Innovation Hub On AI, ML To Translate Research To Industrially Scalable Products"
+    excerpt: "IIT Kharagpur has set up a technology innovation hub on artificial intelligence (AI) and machine learning (ML) to translate academic research to industrially scalable products and processes, a spokesperson said."
+    publishedDateTime: 2020-11-25T10:40:00Z
+    webUrl: "https://www.ndtv.com/education/iit-kharagpur-innovation-hub-on-ai-ml-translate-research-industrially-scalable-products"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 39
+  - title: "IIT Kharagpur Sets Up AI & ML Hub To Transform Industrial Sector With Scalable Application"
+    excerpt: "IIT Kharagpur has announced setting up an innovation hub on AI and ML to translate academic researches to industrially scalable products."
+    publishedDateTime: 2020-11-25T12:25:00Z
+    webUrl: "https://analyticsindiamag.com/iit-kharagpur-sets-up-ai-ml-hub-to-transform-industrial-sector-with-scalable-application/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 26
+
 secured: "34h3Eg/ZjoscS56b1gm5Sv0qgqWVYskVloEzPmJLS8kON4wWKncemzxbDrhV4pjegpJkrY1rGx1ybwVDIsFJvT4CcbtTgyua/YnzWcI+EBqPFqZ95SqXTNfk2MnD1SEPHBlYYDwki19zi41S63I+1osV4KgbNsRbR8jNuFOk+WN75E6lACwk/DR88HRSYB+r4JVJw+7KdyAdESyL3GDOROJ+9vUpS/NOH+ozRjOV+DwtO3TLLeT0Bbv/UWQyA2XQZpSIGl56SxUoN+4yn61y2zXYfDIGSnUEexGgTOTNQBj5GDMpAAkQkrnBjZA8CL11jbuMn+bnPWzfGzbM5oC4RLs6qsyilyuYwqS6M6m8hXA=;aBcjeU65LDm/1wLShWBNfw=="
 ---
 

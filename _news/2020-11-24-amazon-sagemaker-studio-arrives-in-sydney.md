@@ -39,20 +39,6 @@ related:
         width: 800
         height: 474
         isCached: true
-  - title: "How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing"
-    excerpt: "Although we might think the world is already sufficiently mapped by the advent of global satellite images and street views, it’s far from complete because much of the world is still uncharted territory. Maps are designed for humans, and can’t be consumed by autonomous vehicles, which need a very different"
-    publishedDateTime: 2020-11-20T23:08:19Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/How-DeepMap-optimizes-2.jpg"
-        width: 658
-        height: 431
-        isCached: true
 
 secured: "jKnN4f6vs1yRwfBQgCXR7VIG+mSsmdy8/0gbYRjRK1IL5/rOc1XzedPYoRGVMIqhwOpyuYAptuDGUgK8BFaMoiov86kn0sTc6oYh2mgjBfAxJyPWuQymIpxJKAkS/pu95Kbev2HSKpmPV3PFqER2VYr5mR2v8AXBmIvCWdi3JKALQ9gOpBWI3e6DJDVHDF4o9yvd8L+Na5DL1JWXOH2wj7IFfKtOUzdgriw7ZxyscchEt6XzRbHbsn8D91fJVooeX4LSyAKuDCteXObmdfxpuDcqBPzkxZECOZNqDUYt7Jkf/f6LbOLXR+yHiHYsa85tU0A15A70CoU0pm0HMabE28Gfh0YCYIpjgoTDjs82hvlEzS+yTrDnFCTQ2LyyIx/ruwn+lzrQPthvvWlSkUmXH1E0tXXHOPcLxB8+X4FiblHN3jkCreOO5EQ8OWzhKab2DrWx29vpI1qh7iAFfHF7Cs9mgYOCYIq8KeyH2cPzLPjTy9h/bmB1WLpzGCGpeQwYrZegRoqdLgGE1Dl68ZcORg==;Y53oDoa+pdeqT0W63nHTDQ=="
 ---

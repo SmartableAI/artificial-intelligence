@@ -57,22 +57,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
-    excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
-    publishedDateTime: 2020-11-20T23:58:00Z
-    webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Facial recognition software can now reportedly recognize bears"
     excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
     publishedDateTime: 2020-11-22T22:14:00Z
@@ -114,6 +98,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Etihad Airways launches facial recognition trial with SITA"
+    excerpt: "The airline has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s crew briefing centre at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-25T09:38:00Z
+    webUrl: "https://www.breakingtravelnews.com/news/article/etihad-airways-launches-facial-recognition-trial-with-sita/"
+    type: article
+    provider:
+      name: Travel News
+      domain: breakingtravelnews.com
+    quality: 34
+  - title: "CBP to Expand Use of Facial Recognition Tech in Entry-Exit Process"
+    excerpt: "The Customs and Border Protection (CBP) has proposed to amend rules to expand the use of facial recognition systems to improve the process of verifying the identity of foreign visitors arriving and departing from airports,"
+    publishedDateTime: 2020-11-25T18:02:00Z
+    webUrl: "https://www.executivegov.com/2020/11/cbp-to-expand-use-of-facial-recognition-tech-in-entry-exit-process/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 19
 
 secured: "MBC/RZNZWPE/a3BXJaKkdMAKG+vv7vdHkCbWIp3zNYoE4pLPU2bH3GLxrEqg3XXBYB2m1FkhJenkgQWWqlbL/+CpSjz/jDuaF9GYFMHEH26M7JgBJmOb6sEqML04rRCnD8NP5EL3AfHhgbrKeEBiNt7bk+48W/lJzAGWw2xEPediD6VgPRPFNCikh1+bgRF7mjaQL2/xO47FfPvXtjfgfLgdWidHtjhswt2B6dH73t/gw5z4/vAYBkZ5iQxBlEaJQInY18sS92+yvkj5nl5ZWydWSI9vgPY1R8tgCdp1R2/7bhJmY7cKPIVClNP7rWXdaSSF8Bt3O8uzLiTzOE2IeZeI3UvspIKSj2fEDw8UJ1fAMTszQQJISztiNeDWR6rX2Cu6a0m5o1zeSCXbV5boj/ddskozrRhUsflXIqRhAea2rgKa2pCweQhpE9XXD5f7Kq+dQ8UedsFeYzTAoo7E7Nj59mZSmK9kJNuXUzSE9XYCxR7IqGdKyv0VbIpAbyyopqcyUGJIVp2TpD9QedFqng==;4VvKCoUoBWZr/6kxOpNxUA=="
 ---

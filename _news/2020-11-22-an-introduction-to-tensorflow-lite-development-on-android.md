@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/am
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-21-news.jpg"
         width: 892
         height: 671
+        isCached: true
+  - title: "Can TensorFlow’s New Face Landmarks Model Improve Iris Tracking In Mobile Devices?"
+    excerpt: "Open-source machine learning platform Tensorflow has announced that it would be adding iris tracking to its face mesh package."
+    publishedDateTime: 2020-11-25T10:32:00Z
+    webUrl: "https://analyticsindiamag.com/can-tensorflows-new-face-landmarks-model-improve-iris-tracking-in-mobile-devices/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 50
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg"
+        width: 400
+        height: 400
         isCached: true
 
 secured: "G+Jgj7edUw7YQdbSMHlYRvctpBkT8ZRJfSzDyKeCMLucEbXmgdqYDnOo7goOsB1aQ3Q0maDQnJeMTvZ3Atx8SRMYUUdfd/KSKwVUz5RmaoeWvwh1nSHi5dnvnJfr5/8U9d5zfIF2O2WJF5UVRa8Ol8Sna46cn328FwGBSGyHiKes6brpv5HxfnfMX7EFp6yWK3WTTWFNLy0spjyfQ8BC5awva82uiLinW0OryuVnkU8x4A2jzgK8PwBT8ICuf2G4nmBus3aElTejYOzZ4OMuBfBUlSBNSyryIUKccJi8RfbVkiiHHDPr+NbPE0BENL22F/03SuwHK8ZNkk3lJ1k/4bpUXOAaQryRgR27r+DguXWYrtwA/7cXswGwxkbewK0TUxtqiD+o+FpHIXZA3jvIhTAfeuQNR+Fmb5QQglYIa84nM4kUHnsk9TwLtyGknSXT91pqQVxrZ+HPtTSGcw8jwcU4n3Csp7lCrptR31BxUkvCO2Ve+3qfhjgcxsqcjoA5/xqivB1l0u1PawJqFXPqGw==;OslEpllIBN38OKgyXrhJBw=="

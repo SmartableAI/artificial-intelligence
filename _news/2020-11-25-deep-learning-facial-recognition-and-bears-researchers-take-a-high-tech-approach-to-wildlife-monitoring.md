@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Machine Learning
+  - AI
+  - Computer Vision
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
@@ -74,6 +74,6 @@ related:
         height: 400
         isCached: true
 
-secured: "32GLCBp0dlyTVlI5cpYW+HTJa4882FtFtSPvzLdYwXRue354MRmfg6ILAVctQb96Q6/UQt1KXP3tf8HJTPpvp5bWShbKilRQYDGELx5i9VocIu07B8vSsurfr7X+mnSWawAd6lL+YnYg7OPPCSbzP93g2Um6W7Knflwcra/LtPX+t3UZ5h8MDZdz0zn6kHofD7S191tzGL7MyeFn0zt1/LjGSofRW0tU5aqeu5PwfaBtd1IHZ1V1wpvjWQ48J2FwPSvCOHswXcatDbTnML59mjlrOC9ViSk2sVdjEs5cWhscpQnclaIMrhRU0Co8WiiHTzcQ2y3OyU30/HsT+amjVm8/oupyl1H8WSJAtIZ4ZH03U5CwUEfk7theFUUoOZ3+5FDREYHPf+XOu8ifr7HM3l/5Qurx6fFJV8VLYYQeJ1iM1HQiH2yLAexW5znQEtsVK62aiH+r3BrWmz2biuTBmKRNzqDWPaU3cXzhH+zlOEZx+tFTPc9UD8wZHE5hD3yxW1+t/Lx05o5lGlEssSGLkQ==;yywxx8nw8zn4qobGCxNBQg=="
+secured: "Y19sM6bpTp6t7nmb7xnck/vsDCbvjxl/tlYsVB0ZfMs2Q7QjUXBfqeMRsqca5p/CG80Z+3Ls0KsMhwGbHM0mFd5mi74i5jNsVXQlzvoW2Is1/gEZsPvSTz3NHwvWtqbU+8FuPUNnPrQHVIm6GKyBhHaJqGe2uqRic4mINYN5jBaONQBtfwTupWkxRXd0lfI3TiLl5GmOxFbEiuvbyMNujyAOJCt1/G0moOpOxzYMOe/uYlX5mG9sgPu9yQuQVbvj7a87XbbTaBMIfUPuMIJIGWlgA+h2ZVVC8BzfptQoWqUMMkG9RRR19XC2FcTJ4BqmZFEC2n5QfpfI1cBEwRb8OvLrr/CO3FrLRZ4OthvN8qI=;QU549Yc3ZaxIVd0wqxvf9g=="
 ---
 

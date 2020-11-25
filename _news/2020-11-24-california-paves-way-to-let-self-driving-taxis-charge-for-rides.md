@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/11/24/california-paves-way-to-let-
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/24/california-paves-way-to-let-self-driving-taxis-charge-for-rides/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving taxis get the go-ahead in California to start charging for rides"
+    excerpt: "Although 60 different brands of autonomous vehicles are currently testing in California, the state has only just ruled self-driving taxis can start charging"
+    publishedDateTime: 2020-11-25T20:07:00Z
+    webUrl: "https://www.archpaper.com/2020/11/self-driving-taxis-get-the-go-ahead-in-california-to-start-charging/"
+    ampWebUrl: "https://www.archpaper.com/2020/11/self-driving-taxis-get-the-go-ahead-in-california-to-start-charging/amp/"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/11/self-driving-taxis-get-the-go-ahead-in-california-to-start-charging/amp/"
+    type: article
+    provider:
+      name: The Architect's Newspaper
+      domain: archpaper.com
+    quality: 21
   - title: "Alfred Jones Talks About The Challenges Of Designing Fully Self-Driving Vehicles"
     excerpt: "The leap to self-driving cars could be as game-changing as the one from horse power to engine power. If cars prove able to drive themselves better than humans do, the safety gains could be"
     publishedDateTime: 2020-11-24T19:50:00Z

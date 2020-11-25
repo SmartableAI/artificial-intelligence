@@ -41,6 +41,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI vs. Machine Learning and What They Mean for Government"
+    excerpt: "Federal agencies can use artificial intelligence and machine learning tools in a variety of arenas — but first, you should know the difference."
+    publishedDateTime: 2020-11-25T16:00:00Z
+    webUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government"
+    ampWebUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
+    type: article
+    provider:
+      name: fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 56
 
 secured: "meMRlhbq5ipYpeC2EPryt93pEcvkIQlJoUc+L8w8h64pbFg0b5dyzfVt7FW/vS2dc5zWRsGh/hbjdOrd8TTnnYbUI+kOcraHrco5DawCvl28MZ9sd8jgmuoHk0o023NVtZKxcH0pDx4I5bIRGyaoQS+scdJB5RugXyPaFeuDm8+r2fuAggS9fPgbtcY+zZnNI9mKnIxuJF+sRFaBzNpW6OKCG07gUCGtxIQfuMdcyoHsHT9fLlYI0NxMUpCJRjNuLonG3DTGS0v4HbeUNkvYOlZI9kBzq0oqJioF1l7johjsCphIRt7F/RlOzE4azaUvam/IqW/ir9DF+WRnct23AZRa1+07E/1OTCii4BHW5rw=;V48uvc3CaADkw84nFswQZw=="
 ---

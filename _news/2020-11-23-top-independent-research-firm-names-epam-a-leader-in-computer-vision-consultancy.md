@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Top Independent Research Firm Names EPAM a Leader in Computer Vision Consultancy"
-excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
-publishedDateTime: 2020-11-23T14:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/top-independent-research-firm-names-epam-a-leader-in-computer-vision-consultancy-301178668.html"
-webUrl: "https://www.prnewswire.com/news-releases/top-independent-research-firm-names-epam-a-leader-in-computer-vision-consultancy-301178668.html"
+excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today announced they have been named a leader in The Forrester New Wave™: Computer Vision Consultancies,"
+publishedDateTime: 2020-11-23T15:23:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-9161e9dda95444fb3e7fa5433c5d2a92"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-9161e9dda95444fb3e7fa5433c5d2a92"
 type: article
 quality: 34
 heat: 34
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
-    width: 2456
-    height: 1287
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "RSp9wi8YN+qgSbnKYFsnzJPE57U7aY69z0yLd/7aZbebPEON1AAl3XX/mmLbvL+HXbx1Quyx6jD+0h5iQ70KVXf8MtV3Bu+kWEfimroSk7UzR5RtJGRjs5Ok9H19x1TmgA4DWVM6g7614e7PMDoGs/m3DzmHsvo6gbMspQXkU6zX3gDAj9LWRC5FyGXM4f1ch7uJ+lxMyI7whabSv1mHf7zjSztkL6Y3L2D1CW5WC2OufZQfI8A9h03rXIxmo7D1SvC6zBqW8sjs/XdsgBlDx5Qf8RGVckvn4YsGuymmr1PquP1oWDXriEFZUq7doJ5L5cm2kOqtD+lkqb8Nx+5WUrP42EX1UD/teAg1fB6eHE4=;I4mZPktLXNavek7PbQxBNg=="
+secured: "gsYz6SHrA6hATldwxJME4DCdj495KaaDF2/QYO+Vj7Up8++ezQ7dwqfK5Nv3sRwwZfWlgKT8+GBaJFLqZTckFN+HBdTZrbrXOYT/b8Mildi7R2rbTM0wQOpnZV2Tp3B9bLj8xOJRaX8+rAHYjdUMXHT3lwTCLEQuWGmouGoUT2s7GMNfCApSHoFbMv3jinvcn4jrQvV983u4KXfvcdqZ79+A6fYAW4QkwQzxD07Ch/NfrLYssX3MMuNJzqtPZjo9Kp3pWaI8c+40CJMTVd+VHGIXGeE7gpZ0LAyfgFzcQsymqt9SPD6uc4jkykFjibiCMKR0rUTDt0kjZgcTV2tCorlPVHJuxOfhMOgoiZQKWPw=;rDM8F49IYjxo754sgFSWNQ=="
 ---
 

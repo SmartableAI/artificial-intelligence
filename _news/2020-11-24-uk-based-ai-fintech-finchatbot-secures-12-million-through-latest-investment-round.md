@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
 type: article
 quality: 53
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Korean fintech firm Qara raises $3m in series A funding round"
+    excerpt: "Qara, a fintech startup, announced it has raised US$3 million from Mirae Asset x Naver, Nexon’s NXC, and Kingsley Asset Management in its series A funding round. The South Korea-based firm plans to launch a new global stock trading service early next year for individual users."
+    publishedDateTime: 2020-11-24T09:19:00Z
+    webUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-series-funding"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
   - title: "Learn how to code through animation; Here's what the future holds for fintech"
     excerpt: "Coding startup Tekie combines learning with storytelling for 12+ kids, and seeks to popularise text-based coding in schools."
     publishedDateTime: 2020-11-24T00:47:00Z

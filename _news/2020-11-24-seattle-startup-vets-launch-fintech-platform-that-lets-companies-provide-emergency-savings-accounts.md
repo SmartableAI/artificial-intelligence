@@ -47,38 +47,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "U.S. Fintech Wemlo Introduces AI Tech For Mortgage Processing"
-    excerpt: "Wemlo, a U.S.-based fintech that’s focused on mortgage loan processing, announced on Friday the launch of its new AI technology called Athena. According to Wemlo, Athena is a virtual assistant AI deve"
-    publishedDateTime: 2020-11-20T19:24:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169371-u-s-fintech-wemlo-introduces-ai-tech-for-mortgage-processing/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 59
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/mortgage-precondo-ca-unsplash-600x338.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Nilekani seeks French co-op for fintech"
-    excerpt: "Infosys Chairperson and India’s Aadhaar architect Nandan Nilekani on Friday said that countries like France and India have the potential to work together on Aadhaar-like account-aggregator infrastructure that leverages data for accessibility to financial services."
-    publishedDateTime: 2020-11-20T23:59:00Z
-    webUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.html"
-    ampWebUrl: "https://www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
-    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2020/nov/21/nilekani-seeks-french-co-op-for-fintech-2226088.amp"
-    type: article
-    provider:
-      name: The New Indian Express
-      domain: newindianexpress.com
-    quality: 44
-    images:
-      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2020/11/21/w600X390/Nilekani.jpg"
-        width: 600
-        height: 390
-        isCached: true
   - title: "India FinTech Forum unveils 27 high potential fintech startups for IFTA 2020"
     excerpt: "Companies including Amazon Pay, PayU, CashRich, TransUnion CIBIL and Deloitte are supporting this initiative to celebrate global fintech excellence. IFTA finalists will demo innovations in diverse fintech verticals including banking infrastructure,"
     publishedDateTime: 2020-11-24T09:03:00Z
@@ -95,6 +63,17 @@ related:
         width: 770
         height: 431
         isCached: true
+  - title: "Bank ABC's 4th MEA Fintech Forum highlights the trust of Financial Services Leaders in Digital as the recovery path for future banking"
+    excerpt: "Held under the patronage of the Central Bank of Bahrain and hosted by Bank ABC, the Forum brought together Financial regulators, regional baking CEOs and heads of challenger banks who were joined by leading international experts and over 2000 delegates on a virtual platform."
+    publishedDateTime: 2020-11-25T22:19:00Z
+    webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/Bank_ABCs_4th_MEA_Fintech_Forum_highlights_the_trust_of_Financial_Services_Leaders_in_Digital_as_the_recovery_path_for_future_banking-ZAWYA20201125140927/"
+    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20201125140927/"
+    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20201125140927/"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 7
 
 secured: "aPmZieTAwyXrFdxnoYp02TA30flJ0LaVMIt7dgSj5yxyeIqBrtz8f+z/S9OIwSRG6cJTI3bfmMoCXrldd9F55w+2k6zoXkKFisjGPwM+Ttdxedzh2H/+T6mWKAl1SEkDdc7aRZUaE0rCpLTehHGSCACFs4rEH60lk74RDnX2rvS5zN9R3KL0JkrZizeL2d8dNQg/45dLkmJUi1QmVB/jJK+teEj7HFvnUPCP0M0M6on6pC5BMisFWBgfd1dB40jnTQusURj32W/DNgWeYmG/BVb4m9YTpNTjTc5j6yWR1RcLGOwM/sQbMqzJPHR6chNKbMoV1LQIQMUlIRZ9ks4i92IkLK00juxyhWr76w5wH5OCwPaDSNEx97tJaJn2WaN7JLhgcEmGrHPcVq0hfMwn4FUxOqN9CGchcUbQXas3Lk5v1Cbx3BBbUTPQw2ufgpTLMmUPjI8ljkFCJHduilnG0vAFP3StFMw5e12ZYGk4Eat2AwYkT8KOCKj3wKutfD59MesmceSZok0S/B8yECWT3w==;Ok7ckNLXr79tv3Rd0SQoPQ=="
 ---

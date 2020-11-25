@@ -40,6 +40,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial intelligence technology helps Parkinson’s patients during COVID-19 pandemic"
+    excerpt: "Andrew Exner, a graduate research assistant in Purdue’s Motor Speech Lab, is working to help Parkinson’s patients during the COVID-19 pandemic. (Image provided) WEST LAFAYETTE, Ind. – The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson’s disease."
+    publishedDateTime: 2020-11-24T15:58:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-technology-helps-parkinsons-patients-during-covid-19-pandemic.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 29
+    images:
+      - url: "https://www.purdue.edu/uns/images/2020/Exner_Andrew_2OG.jpg"
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "VHVhG4m5wwHyZ2vj+NUlQv5edJHhwjncQ4TVq29sTWbmIT66oY/GSNY/vwlyoqsVIuA3aINBo92rbkHxYaYOxA3Tw342AyhsBvZDD77BDL6FjYoy4tDTX/fTCYzG0HOXbD7BNkG97vMbKKc6r5d2nAC7Z6TEYaU3mzzGBR9M1N6By1CBQpa27WKR35EZ70mX6lvgeX5qqBcMjsl5onViRATdKad5JwUCSUs5TTkBwjzyl+elvilEZNkee4/3lORAr1Ahcubp+UKY3DWiEc66U0v8onXLTHJ/wKccwQE54jb9Avu70rLaZNAhSEPNHpK2ZdfS2xBlC3298Tgp4Vk3+egq6zPMkk313OTi5436kUw=;KtdpnOmk9HLWRqdcjvUBNg=="
 ---

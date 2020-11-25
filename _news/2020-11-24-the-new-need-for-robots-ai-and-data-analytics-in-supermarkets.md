@@ -1,21 +1,21 @@
 ---
 category: news
 title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
-publishedDateTime: 2020-11-23T18:37:00Z
-originalUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
+publishedDateTime: 2020-11-23T20:07:00Z
+originalUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
 type: article
-quality: 54
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: StamfordAdvocate
-  domain: stamfordadvocate.com
+  name: My San Antonio
+  domain: mysanantonio.com
 
 topics:
-  - AI in Robotics
+  - Microsoft AI
   - AI
 
 images:
@@ -41,6 +41,29 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
+    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
+    publishedDateTime: 2020-11-25T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "BOTZ: Robotics And AI For Investors"
+    excerpt: "The global robotics and AI markets are expected to grow significantly over the coming years - with EVs and high-performance computing (HPC) being primary drivers."
+    publishedDateTime: 2020-11-25T16:29:00Z
+    webUrl: "https://seekingalpha.com/article/4391467-botz-robotics-and-ai-for-investors"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 49
   - title: "Machine Learning User and Entity Behaviour Analytics Report 2020"
     excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
     publishedDateTime: 2020-11-23T11:04:00Z
@@ -95,6 +118,6 @@ related:
         height: 627
         isCached: true
 
-secured: "JetwETBTMRiBBv2pUlMMfacILa8jWUxitCMyDC2f0/LVRsuSgJn9uXfZFdzzAoBa0GihmIL8Js230DOB47Yqasx2uAmpY0AXYkMVenotr3NEk6WIxW8HXWEm2+aofAsWmdrzj8/PNL5wTKNaTRP7HsriYh+qUfXUBBROy1dyFyGi1k3oiy2F+WIAY3bRU1rHHstY0xJoPnzvM1a6BYgMQxb1Vr7A07ed4vGxHQbbUuzBTSrG8THNHWqdW7Ywht/jvuuCgedneYVqHtxquCjeazSwK5zITTxlqkOptYEukGrLLE3manUkrWl2jrgxjUQ9+Yw0oa3HgBhZG+D7NI2qgEAYebH2q9jJ90qIw+mP/zE=;Ex8pEqmpIJxxO7FeqpWRhA=="
+secured: "+vV0xObO7OSvgd6pEWoFL/ouLGt8KkCmIg1HLU+WuJYywnJ/j+GlRDxdQZkWeDGeKw82e+GTtd6L3yPXi62FwdksoERM+3zmPHVVHxvoFQckP4Sn9+/1tBAshTzYZJp6O++9AWyVoA3x9/IM2eekE94Ta8k0vL8KDUMDK7fOJkqZEXqZrEHfJsGCfdZ9CEkYJNSabAqUwdoC14BPiqdKiKQgUr5hFPYZYpwwAufQkvBFbmxSnUM+f6F9DsX0OUZcMwM+3bm/FoTPqIRy4e+zydziO8RXivCc9pzNDZggruI02+4LEmVTN2Svn6a8y1E2+oUQ2Ti2Hx9qYZ2Yri+u8n+nRimApP2szNzcJXoKE42gp3KyxxRYAag000oRdbrQ7OC8HbYap0ceC2q+b16r8x8TYvkp/YRZORMMNwvgFgGzxA2iIyy7/pMUFEiu8U+hXEnc54NqJ5OnqbSET6LfX/uhlR4MIP05uTCUtrMHczGsI5sRRkEuZXo6Z/SVmD4I6w9ius2jIcXT/KEzJavnzQ==;kXNSSsKqvSY7JDN3qk4XoQ=="
 ---
 

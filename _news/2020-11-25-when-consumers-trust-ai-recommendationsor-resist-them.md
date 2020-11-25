@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-consumers-ai-recommendationsor-resist.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-consumers-ai-recommendationsor-resist.amp"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -55,6 +55,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ynvmd5ykzzZrjsK/j9lBGkArot0notT/Mpb/Czy7pJPPYmPtW15TXWz/8MjDUl2Wsh3GaCcZ9B+iR5oOFzNPdZbg8HeBk/t+03mzrN3z9aJC8xseAXkQloKYAKHV0O32uIDnOnf91YOywtlffEeFZmSrirWYVqOnx8a0nTFjh1eeCOpv31ElYlUP4yjpHL6xRLZ6sXGCQCdsqAPphiAZMCJSu60cLgpMkVvaO4kTRJySLYmHViekjCa1ltjH8sOkBZF9MSjU4aDEqzGesfDdIbI3RS5qy3OeyfuAeUxFsrMjhpA508WeAQxxWsSGxHnxS7ZZdSNhB/pU8TeBVaUfOU9TdysMn+7R1QwLUbCaA8A=;RRZxGb6kBUygsHKx4UU/mw=="
+secured: "EnI3wZXfbO/mUduWx0m2T4q5u56NB79skUYdZLXxAo8hl6/8A5XTyOOUwYCejXxbyhXYXLDjqkOTmWlqpboJmIhb1Hzzt3bumH2szsz7e0JO/zxNpDGKWVXHOLB3CCmN8pXfnQL1rzpcG0Hg070gi2p/KVspPclOukOpdVXnKssn4SSRQM0khtPw3s5onbYm2I7yriPtic+eXNQQZO8pxRChH1U7RJeYOe1MCojuwvxrPdkrlq6QKmwtW1vRxFa+kzErPQzClb3lzHl3FvVsVbkDcW5pOlhGMY4ub4utEHco1fgH5PW2/O7TV5Tpg9kTDhqK+CX/WsPmGASkVwlFgG/akI3RXU5wqk7AItlLW7bjxcZPC95McgzDIL1N7THoPs8LYY3iXHjzgVyZnSjxTr/A0eHvbHSh/cOMgKewArg40P6fuzzIJljKL/Ln/VIjXPCUhS+vN8HDwAAEwc8Xky8NMMMGrs6RdWTYzcNcv/XfehuZrsGbRP+SHpCMap04dhVHh52NcEcwTS0dcpa+YA==;WVyLGcUpw3s1ReopowmhNA=="
 ---
 

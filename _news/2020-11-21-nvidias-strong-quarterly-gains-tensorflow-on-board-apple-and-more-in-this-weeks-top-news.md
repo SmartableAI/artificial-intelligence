@@ -56,6 +56,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Can TensorFlow’s New Face Landmarks Model Improve Iris Tracking In Mobile Devices?"
+    excerpt: "Open-source machine learning platform Tensorflow has announced that it would be adding iris tracking to its face mesh package."
+    publishedDateTime: 2020-11-25T10:32:00Z
+    webUrl: "https://analyticsindiamag.com/can-tensorflows-new-face-landmarks-model-improve-iris-tracking-in-mobile-devices/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 50
+    images:
+      - url: "https://analyticsindiamag.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "m1IzjZ7hdE7QHiqjNoCnlb+1Jn/yoYVoU4XnyF9dPR/CT044RMRkaGSP5hN/FconNESYdDzggt4HsxfsKznILJfbSRizgpJB8kSHtL2mGF4Hii2yaULBFIqhrJBu3N767ir90+4waAmlm0bCXuGV1iv5UM3bdQqC/PjFzReFXHM/W/UqsEw6I7eC13GOeahpbiEIy8x1l693Sw5/KHX3u/U9nmsvmVaKtY08KAGcte8ro+hnQ1ir5lClcD+9kTbvqBTKo7RugkB9a8tmNDQrxbvK1JkEYNvqqkjv6ikrRK2UUIOr5Fxdfj45HBkcqI3YDqZenoKFdHdEuTvz8Fw6qFC2Hlhlw2tLo525A5vCyzUwsjDf9KCQBJBIxAcFspSOXcQDqvhZhjk83TN69bCtE72F/S2DifiEccLLxqIeydVdOd6tGjCaUAsI9u1X9s9rnJYso3625U9gXBdX6fcBjhADoVI1bNoHCprEDPLpGIwHlsYZ36tPiixbD5ADFOC0zQJFb8daLCxDdMHPZYqTqA==;UtDKcgf8XH7LXxG2+1HAyA=="
 ---

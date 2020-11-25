@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Meet these rising AI/ML startups from Australia and New Zealand"
-excerpt: "With AI/ML, it optimizes the yield derived from each insurer’s ... How has being on the cloud and using AWS helped your startup scale fast? Working with AWS has helped us meet the demand of our global network of partners who are focused on scaling ..."
-publishedDateTime: 2020-11-25T02:17:00Z
-originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663369"
-webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-663369"
+excerpt: "In 2019, Australia announced its roadmap for AI technology, with a particular focus on tackling issues related to healthcare, infrastructure, and the environment. Over in New Zealand, the government recently announced the launch of a regulatory framework that would govern public sector use of AI – a move that could help address some of the societal barriers surrounding the use of such emerging technology."
+publishedDateTime: 2020-11-24T19:33:00Z
+originalUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-664020"
+webUrl: "https://www.techinasia.com/meet-rising-aiml-startups-australia-zealand?ref=recommender-664020"
 type: article
-quality: 64
+quality: 66
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
   - Machine Learning
 
@@ -38,6 +39,6 @@ related:
         height: 578
         isCached: true
 
-secured: "2ahQsjnEDQ9vr8ngpRx+lmqOnZex2MMHXS6oGRT3U/Yn0wMNihm8o7R4FwSK5FKBtSQngEUcMqszRrdMcLVPjUYl7lCOXzJU/jorOY+J/oVJUZj3vPm6JHw5d0P+biFxCSNj8cNeWVjCqItiZFlEbCI+Bj7qLZ7AjXipzzFj5mO5iIoyvl2B+OrPOOWBCysc6IE9YDSWj4z5PRvd7frL8pE7Mle7nTp+E0MiPv1n0xOqbOc7W3U/KenCtvAph87caUhm+gZhZyjpRQ060g3jkS1eRg7uElA8N02jel3Q/k9i/fejVHt3eCFro9Df4wQJ9MQmpmgE206epmxMvBVXpEJNU3BfDFXHU0VuKnWA85lAQgco415fkSMWh/NJnRzgzG8MB8I217XCpwg9K2DHddovVGpTkgP58NKE3wqYCLFI6/FQnJ5YM1BbMpGLbTVNijzXyz4BNzXQrO1mWXMqR9YHAVm/pNqXhy00INA3a/WM5kBWqaymOMLl17IwDexstgYz3bQKNpIIfQnv+6kYeA==;Zz275G6tJM9KXpaSQ0QF+w=="
+secured: "4UQSqNc+GMJtpVbcKAjLBACRrCvmoVePOUjX2vNTenCKshl0f3YKdxThvb3Vr/Ldc7vkCti4vrxRKxYziWYlGu6MdIDMYNV6RX4JnxXoQkigIEzv8jXmWz4i0P7zmTqhz76fPYcydXqoI9pIt3KDA/HCXldtOYxTVEkUktyBi68eaqk4JEdubon6vS14HvEoLJj4eyB1bn9sGbMu6ImwsiSwFkH0cAvKl+klPjuAfYICD6ABro+Kdpj1SUrjXSoTao238tICwmVtytN8cLmXJuZHvn2Zp6jo9fDQU2TfAMffGr9Yby2xHjGvxJDRZJQh1cRpeCViVkLJvzEiF5bcVHDFPwZ56mezomkGyGmi9ugYGybBDywc+dLMP+9cAaMsS0eVkh3i9xQgHO2qgKqKY8A0zn2oOVEsL9H1UMEwJ95PklRmJSUiBA5OKghW0U8E1PekwgVP1fuQbkyPsaxBfyfRg6UD8zFdxw56RCV1PY8/Of8OgR8nwjc380j3ZnYWg2f84Tbg0RVXQqP9gdWB7g==;92pcakGwvfS4B5Ln6HQeYg=="
 ---
 

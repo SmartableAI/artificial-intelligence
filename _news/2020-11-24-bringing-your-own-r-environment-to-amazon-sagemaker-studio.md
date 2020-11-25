@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-r-environment-to-amazon-sagemaker-studio/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How DeepMap optimizes their video inference workflow with Amazon SageMaker Processing"
-    excerpt: "Although we might think the world is already sufficiently mapped by the advent of global satellite images and street views, it’s far from complete because much of the world is still uncharted territory. Maps are designed for humans, and can’t be consumed by autonomous vehicles, which need a very different"
-    publishedDateTime: 2020-11-20T23:08:19Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-deepmap-optimizes-their-video-inference-workflow-with-amazon-sagemaker-processing/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 82
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/16/How-DeepMap-optimizes-2.jpg"
-        width: 658
-        height: 431
-        isCached: true
   - title: "Amazon SageMaker Studio arrives in Sydney"
     excerpt: "AWS' Amazon SageMaker Studio IDE for machine learning is now available in the Asia Pacific (Sydney) region. SageMaker Studio, which is based on JupyterLab, is said to provide a visual interface for all ML development steps."
     publishedDateTime: 2020-11-24T03:30:00Z

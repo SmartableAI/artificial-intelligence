@@ -59,22 +59,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
-    excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
-    publishedDateTime: 2020-11-20T23:58:00Z
-    webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Tencent Cloud introduces one-stop AI Transfy speech recognition solution, delivering high-quality conferencing experience to international customers"
     excerpt: "The solution's outstanding features were championed at Interspeech 2020's Far-Field Speaker Verification Challenge special session in"
     publishedDateTime: 2020-11-24T04:25:00Z
@@ -100,6 +84,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Etihad Airways launches facial recognition trial with SITA"
+    excerpt: "The airline has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s crew briefing centre at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-25T09:38:00Z
+    webUrl: "https://www.breakingtravelnews.com/news/article/etihad-airways-launches-facial-recognition-trial-with-sita/"
+    type: article
+    provider:
+      name: Travel News
+      domain: breakingtravelnews.com
+    quality: 34
   - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
     excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
     publishedDateTime: 2020-11-24T20:56:00Z
@@ -114,6 +107,15 @@ related:
         width: 2048
         height: 1151
         isCached: true
+  - title: "CBP to Expand Use of Facial Recognition Tech in Entry-Exit Process"
+    excerpt: "The Customs and Border Protection (CBP) has proposed to amend rules to expand the use of facial recognition systems to improve the process of verifying the identity of foreign visitors arriving and departing from airports,"
+    publishedDateTime: 2020-11-25T18:02:00Z
+    webUrl: "https://www.executivegov.com/2020/11/cbp-to-expand-use-of-facial-recognition-tech-in-entry-exit-process/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 19
 
 secured: "mkKR4/53oEqRnSzWJa17wDU+It6XHd0F1anpV1DTNm1a6RKLZw9k3liOYLF1FLGWfq6FJXrCyFbWGVSXqwX1Ps/TTnknj3657uXyjRITtvQS3S7k1GyCFvTT45AI6nnMJBV06pXNu4smS+up5/Q52F2UhVGvhwzOYQAx21UJ9v8RF/OzgYSa2YqA56JMzj3zGklb3jNhQaU/u+slyrjIDBnIYTOQ4vDo5R/ivVmOF+UitlcugTseYSdRmMehInSBwRqa5t5cDLkRjfZsASBGgSq4LYkpmLceSUVQ6ouWJvgLaABafQJB1yqkK8JT7EhhqQcaHIKqa+0X0p/tqJBGK8KJJd1evyABf0sZrfeASk/tPblpOAfgaZiyjpsY8GSO6dYbiuJuRsLfsfI0AlwxvcTFpwibL02a7owl8Vc+EsrWxNuYOKAvfwMzFMZp2l8kiDAaGPnWPhPpqyt88HLkwjDw5vtKdic5S7HxgNKQEJ4gtZE5HyeTIjub7O0zVTPyuDpCzWPImtC05OPcqr2Nqg==;SLSmJZPlxPczhLTHifUSYA=="
 ---

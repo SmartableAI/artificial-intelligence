@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/93wad8/instagram-ai-bot-follower
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/93wad8/instagram-ai-bot-followers-review"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

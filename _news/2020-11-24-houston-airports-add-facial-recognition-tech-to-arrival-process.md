@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
 type: article
 quality: 74
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
         width: 1000
         height: 668
-        isCached: true
-  - title: "Houston airports implement facial recognition technology for international travelers to enhance speed"
-    excerpt: "\"Simplified Arrivals\" will also decrease touchpoints at Customs and Border Protection checkpoints to stop the spread of COVID-19."
-    publishedDateTime: 2020-11-20T23:58:00Z
-    webUrl: "https://www.wtsp.com/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    ampWebUrl: "https://www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    cdnAmpWebUrl: "https://www-wtsp-com.cdn.ampproject.org/c/s/www.wtsp.com/amp/article/news/local/houston-airports-implement-facial-recognition-technology-for-international-travelers/285-24e32968-508a-40ae-83b8-a90df67ca9a0"
-    type: article
-    provider:
-      name: WTSP
-      domain: wtsp.com
-    quality: 59
-    images:
-      - url: "https://media.wtsp.com/assets/KHOU/images/10ea4b1c-28e3-4bf7-9e55-218c972dba44/10ea4b1c-28e3-4bf7-9e55-218c972dba44_1140x641.jpg"
-        width: 1140
-        height: 641
         isCached: true
   - title: "Facial recognition software can now reportedly recognize bears"
     excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
@@ -100,6 +84,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Etihad Airways launches facial recognition trial with SITA"
+    excerpt: "The airline has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s crew briefing centre at Abu Dhabi International Airport."
+    publishedDateTime: 2020-11-25T09:38:00Z
+    webUrl: "https://www.breakingtravelnews.com/news/article/etihad-airways-launches-facial-recognition-trial-with-sita/"
+    type: article
+    provider:
+      name: Travel News
+      domain: breakingtravelnews.com
+    quality: 34
   - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
     excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
     publishedDateTime: 2020-11-24T20:56:00Z
@@ -114,6 +107,15 @@ related:
         width: 2048
         height: 1151
         isCached: true
+  - title: "CBP to Expand Use of Facial Recognition Tech in Entry-Exit Process"
+    excerpt: "The Customs and Border Protection (CBP) has proposed to amend rules to expand the use of facial recognition systems to improve the process of verifying the identity of foreign visitors arriving and departing from airports,"
+    publishedDateTime: 2020-11-25T18:02:00Z
+    webUrl: "https://www.executivegov.com/2020/11/cbp-to-expand-use-of-facial-recognition-tech-in-entry-exit-process/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 19
 
 secured: "3x9lh/vp5labTdmbeBt1jmHSOENax61rcU27C5I66D8k6Fkrn6/Pgi+0R4nDbVt2eSPHXa06iBLDCQI0qzxxBP//b5WkdNCiXa9LzSpOFifP7G/OQ44+rUISrMiv8TYyWVW2sZeC5xDN57RRDxaN+ql1o85qTacAIZFyBis8KajGWnrCxgJO9KB9qZz9qwTxoEH5T0s65HWl3ZgkMUOA+CbH65Q4roOxB3FcqGOse9Nt/UaJT3O5B/t/5F/wmEOZUx8tU347vZvkuKuLMOPi4m6a90Itc/aoJ3w9d49MI/rKFrUh98b+KOKTckyaZRUKfZ/CGFZeatMEJZ/04hcR+r/N/sPapzeZhdvt3GN7hxybZCKh+hzVz16qudl+5agsnaOV/XQnLF3GZypploIUab+7vOdGyObAFJThXgDTEXLR6DFJpK2woLVmSV03qXT5vEaheVTr58Q5Y8eWWmkKjAKgf6ejR35yctGiChq3npoehXKc8CdNy83OtJ+hqnS/a+6zMU46doUA8Ixi8d3ctQ==;bCkqNlMuHvjRlTsAV94jZw=="
 ---

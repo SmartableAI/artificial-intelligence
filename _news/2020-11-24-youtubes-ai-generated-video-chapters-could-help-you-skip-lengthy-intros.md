@@ -46,6 +46,17 @@ related:
         width: 1440
         height: 800
         isCached: true
+  - title: "YouTube is testing AI-generated video chapters"
+    excerpt: "The feature could save YouTube creators from having to manually add chapters to the descriptions of their videos."
+    publishedDateTime: 2020-11-25T17:36:00Z
+    webUrl: "https://thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
   - title: "YouTube’s latest experiment uses AI to divide lengthy videos into chapters"
     excerpt: "Youtube says it will rely on machine learning to recognize certain text-based signs in a video for automatically generating chapters."
     publishedDateTime: 2020-11-24T18:46:00Z

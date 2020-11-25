@@ -23,22 +23,6 @@ images:
     height: 894
     isCached: true
 
-related:
-  - title: "BeyondMinds Raises $15M to Take on Massive AI Market Failure Rate with Production-Ready, Customizable Enterprise Solutions"
-    excerpt: "BeyondMinds, an artificial intelligence startup developing a universally applicable and easily adaptable AI solution, has raised $15"
-    publishedDateTime: 2020-11-20T21:00:00Z
-    webUrl: "https://www.prnewswire.com/il/news-releases/beyondminds-raises-15m-to-take-on-massive-ai-market-failure-rate-with-production-ready-customizable-enterprise-solutions-301177551.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 11
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
-
 secured: "MmwyRZQG1G19l7r+8Rw1rbFPoI7BJXM9UR562bwiEa5onrVeiGznktXLEFVbrsRmQx0raJ+wi6dxc0OuCV9bGZKmZhEl4ilIheDUcMSw5jCvLwR/pCczq8oqA0hU7RUs5G2YOjSNyvNH8j5k3k4KZebRjjBYzdNHvwE7x4/9gm3PRKXq4qqMBerqxRcSvQmuQNyDQozkrXmrHQDMwOtZb8Gt2STf+VEr+hxxyQwD7RVdkbeDKCGsKWtiNGJJ/d7IRywaZk+Ly1heJ2iUGQckMelf9rwH+dRTyJRvExwwIwk1z/VN/SNOQ2DZhVe5zNWkSrDLvjTvYCT1gdSzGTnhq0p9GOMdEXN1zlZ4OQatdwarAo64Ko8QFtAzvSdCuhAT9ZZkO+yQOW3WvVH42bDJusFeOeG5LdnPFiB1cOCdAqabXJ7gg8am5PH2a6P4RfnbkbkNe0eM+MDEIdbcdx9dHyRjB6fknCGU31khlkXGci7ynyMpZjM1amBMdEVljxompznVijgND8hFpriqfi96RA==;Xrxi06xkRnWYqJ1RWXg9dg=="
 ---
 

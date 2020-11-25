@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "CBP wants to expand facial recognition"
-    excerpt: "Customs and Border Protection is on track to move out of its test phase and expand use of facial recognition systems at airports and land border crossings."
-    publishedDateTime: 2020-11-20T19:18:00Z
-    webUrl: "https://fcw.com/articles/2020/11/20/cbp-biometrics-facial-recog.aspx"
-    type: article
-    provider:
-      name: Federal Computer Week
-      domain: fcw.com
-    quality: 39
-    images:
-      - url: "https://fcw.com/-/media/GIG/EDIT_SHARED/Cyber/Biometrics/facialrecognition2.png"
-        width: 620
-        height: 300
-        isCached: true
 
 secured: "ClQD3vXWvuNhkCNAbmfNegYk36ZflXjDrEPczAQFsGZoL/Rqu5Wdk6ySOxY5K+1FiaSFdCd5bmz9qmiBenXmR7qwBFqP1p9TwFK1DO2dqZLLkoU7ZSbjXswAKfBrC2Mjq9vy9Ne9j1/0Zd+P9gKbcafJ04Sh0Z3QG4mL4yx2j2UGHttsmghyOPDloLFdm6k4sszMypRDtPfe2zxay6lsLo0kf+PMAtWGqOEEtkAnB89AU7ar0XerRC+nUiuQiHiEogn1gHMaM+k8OM9LC/KD0kfTe7YDK0flwjluPMnlUai13840W2/HXSh7hb9IBvJ6jJekazGG/wO7Ma/UZwLSOFkiPZt9mwPs61I0kKQTsIs=;p/q/JwldDi54FfELus62LA=="
 ---

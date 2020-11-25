@@ -41,6 +41,17 @@ related:
         width: 6720
         height: 4480
         isCached: true
+  - title: "AI-enabled mobile app launched"
+    excerpt: "Coimbatore-based Emerald Jewel Industry and IBM have launched an Artificial Intelligence (AI) enabled mobile application for Emerald’s B to B business in the country. According to a press release, the"
+    publishedDateTime: 2020-11-25T17:52:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 39
   - title: "Stravito offers AI-powered information discovery solution"
     excerpt: "New feature pushes market research of relevance to users so they can make insights-driven decisions without having to actively search for information"
     publishedDateTime: 2020-11-24T14:16:00Z

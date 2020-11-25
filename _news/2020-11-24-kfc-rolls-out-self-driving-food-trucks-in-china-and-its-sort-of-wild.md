@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-ch
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/"
 type: article
 quality: 74
-heat: 105
+heat: 104
 published: true
 
 provider:

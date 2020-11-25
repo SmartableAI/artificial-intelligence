@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-prom
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI vs. Machine Learning and What They Mean for Government"
+    excerpt: "Federal agencies can use artificial intelligence and machine learning tools in a variety of arenas — but first, you should know the difference."
+    publishedDateTime: 2020-11-25T16:00:00Z
+    webUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government"
+    ampWebUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
+    type: article
+    provider:
+      name: fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 56
   - title: "Gyrfalcon Launches AI-X -- Full-Stack Solution for Edge-AI Development"
     excerpt: "PRNewswire/ -- Gyrfalcon Technology (GTI) today announced AI-X™, a new full-stack solution for AI development ideal for small and medium enterprises"
     publishedDateTime: 2020-11-25T00:43:00Z

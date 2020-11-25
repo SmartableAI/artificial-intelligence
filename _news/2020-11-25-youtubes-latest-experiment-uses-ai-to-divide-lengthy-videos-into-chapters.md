@@ -58,6 +58,17 @@ related:
         width: 600
         height: 350
         isCached: true
+  - title: "YouTube is testing AI-generated video chapters"
+    excerpt: "The feature could save YouTube creators from having to manually add chapters to the descriptions of their videos."
+    publishedDateTime: 2020-11-25T17:36:00Z
+    webUrl: "https://thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
 
 secured: "CWFQj8b0fhicCj4D+1Nfsc0F2/lZZSCZvY8E7j0PjrpHsv9YEcq9KxFDi5DbBqTC3O69KKyUNeu1wUs5nx1eW56eHTuEB1IMcxrR6FERi9VBwP8GaERHHUmX7dyER+8oXbfs7IIHlg4QAv9JkcgyZ0rAEG+Uv4cW2w3nSVkzGvy2I3aMjMTBcrRrMtKC1yCqix9icUTzaTbKc/X4jwJtXn14T93yKpumLuHz3BgI77Zwp2yeC1jqUTFGJutSoHQCLiEWh/yFk7lJXSgvdzNtiKiO7B3Rre+hjm6UpRMD6hT/U7QLVJLIffujYKlSRFnnP/2CiQKzzRpKVvW/6Y7TClvQoQKRF6f3AYduDvs+RFDGu/VhjvkiiD7PHg/84kIEDNaRWN247dqRRD+AaCwa4BwQ1i4vmXyzlAqf1wcT0pDkWmZRB01EVfq9GbMUyixY/XmsOZ+deEWrpGsgY2BJGeeas0e4m4Fx0BuCETeL4RXwMPi4zDKgBRj9KLPd11p2x7NEmTzTjJfY0NGeOa7hxw==;PlQV9eQDDJgIOnRWLAelow=="
 ---

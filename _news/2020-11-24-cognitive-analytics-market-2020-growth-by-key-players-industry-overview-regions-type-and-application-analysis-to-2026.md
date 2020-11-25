@@ -45,20 +45,29 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
-    publishedDateTime: 2020-11-23T18:37:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
+    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
+    publishedDateTime: 2020-11-25T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
     type: article
     provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
-      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "BOTZ: Robotics And AI For Investors"
+    excerpt: "The global robotics and AI markets are expected to grow significantly over the coming years - with EVs and high-performance computing (HPC) being primary drivers."
+    publishedDateTime: 2020-11-25T16:29:00Z
+    webUrl: "https://seekingalpha.com/article/4391467-botz-robotics-and-ai-for-investors"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 49
   - title: "Machine Learning User and Entity Behaviour Analytics Report 2020"
     excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
     publishedDateTime: 2020-11-23T11:04:00Z
@@ -70,6 +79,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
+    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers’ habits."
+    publishedDateTime: 2020-11-23T20:07:00Z
+    webUrl: "https://www.mysanantonio.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+    type: article
+    provider:
+      name: My San Antonio
+      domain: mysanantonio.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Global Cognitive Analytics Solutions Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2026"
     excerpt: "The latest informative study entitled Global Cognitive Analytics Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
     publishedDateTime: 2020-11-23T13:22:00Z

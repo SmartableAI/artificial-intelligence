@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-tr
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -91,15 +91,6 @@ related:
         width: 1500
         height: 1000
         isCached: true
-  - title: "A neural network learns when it should not be trusted"
-    excerpt: "Researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output. The advance could enhance safety and efficiency in AI-assisted decision making,"
-    publishedDateTime: 2020-11-20T18:02:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201119144511.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "TalM9e3P7s0Xbf4xkUu+lXW+vTGg7R7G8RMESbm6FUrOYfZHSzhrfbP3j5V0d6OxVajvpQ25a6Wm2SthT5S4ZjOkeqq5sI1qZ4/tEDeX5fPZyw2sKxktd/WhTnzKBoKvEl7mwU7YldPFzxKqQ08R3h27DKbrV+uHA2AJ1QjCPNPIcGU2sA4N/myv3D/iVGecguU7mWYmbCC2klBXN03oj/IyJm1LbbzK4oUGpet1uH8i5x1D2vlvZZwoO7gZ872Eb4wjKRADd8dSDC437AZ2g3ivqJIPWBSc4t8LjUiNnMNb9SPigvDSs0y81IYSS/wwKuRYjESTyQfyXnYvlliLe6D8fdF/oXH/TVNy1f5Ji8ptjU4oKeJqJ7kD7oZQWcirAO5yT08U5dxng2pgswyHYR66k5oO5hqz9jqkST9rHiJWR+j0G+r1oIpvIiYzhM9soz3tVYHBn5zhN6EhSgadGUcR4nimZOiTkgi+7WlGQVz6khZlnzyy5O4xjtjdtNA7Rwi5U/Eyw/t8pAqX6vBvHg==;rG0gK43TgDZ0ILYZahdDHQ=="
 ---

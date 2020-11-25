@@ -43,6 +43,15 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Korean fintech firm Qara raises $3m in series A funding round"
+    excerpt: "Qara, a fintech startup, announced it has raised US$3 million from Mirae Asset x Naver, Nexon’s NXC, and Kingsley Asset Management in its series A funding round. The South Korea-based firm plans to launch a new global stock trading service early next year for individual users."
+    publishedDateTime: 2020-11-24T09:19:00Z
+    webUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-series-funding"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
   - title: "Israeli fintech co Obligo raises $15.5m"
     excerpt: "Ofir Dor Israeli fintech company Obligo has announced a $15.5 million Series A financing round led by 10D and with the participation of 83North, Entrée Capital, Viola Credit, and other strategic real estate investors."
     publishedDateTime: 2020-11-22T13:44:00Z

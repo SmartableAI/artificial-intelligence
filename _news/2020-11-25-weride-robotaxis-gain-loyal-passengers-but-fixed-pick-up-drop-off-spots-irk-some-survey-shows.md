@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk"
 type: article
 quality: 77
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 630
     isCached: true
 
-secured: "mrw3E/lUG90/nn8OZzuilrqqG36fIwNr1vB9isjW5x7U1G9TUe33X41+49zLAslJ6MhKneH3wqkSVU3TcaPxU6aTbkFXf5SrYEXRQrQx2RMp14Nw+r4fyjEGLciqAmbJD2QXqjLoYnGby1IVCMXc1oTAsdNPsVWydCIoLEiQac6R1/HCClTqI/VAPcuOiiI1uBPL6Oi+qZo16wk+A6STwotKyq3emSWCwiTWwq2LahANG86fUSRrfy/5DBFwRd6GUPVb/BJhEl0/CxNqpsLTXrxG5qFbqlmrG6kFJPVTjv/od5UWceaP23Xd6cqPxBcZbZyr+IH/u7wPStlj+S9kqsIYj0vjyJK+zo0MZLaiJEE=;7lZ4BDInBdBkJf08upUb0g=="
+secured: "iWazBbsnMjEiOW+C7/f2tKjqrPtDX0K7kRa4np17/lpnIgX1KS/C2x3YXQkta+QL+gwbqny3o7/SlI3oQo3jH4QCZj+PNe+6SSkUypFMLA6nnDgL0yMad2rhtczheVh6wVAp7g9JmYWCG0rqU/SSnPG7mMYdnZp6cxDRNpFGEgqWEMJh7ehtCH243HsiEDJ84vJzdT1zUvBnzLqdTKAF1wq9al4jSWBDjHj8YwfEdQ7+24tAmVi6hW4FIGlYYZ2S2Mt1dOF1idue/bvQmQ3lb0RxOkbNzt3t5qmhfBSZzIdc23BhroNevZXPA4T/pccu/9hBM1YHJaOlkKgSB3CgBJaopr9AWzP5mjhx/D4mhqMC2PetgqA2EBjXYtcZ+tlN6lCldGQbFeyoK6V2horyiR3vQl570MNi3Pnf2yBafjkSiZv09gBbumRnAXdljB7aeTmlLA8dIyWev7TIqs5/8RwGHPAkFxuOHZtwUsnbg5lhwarwpUfQ7O9oPOOMWejxsw3Y+Kfc9/89dDuUnnQnsA==;BQsnjbH0q8IMnj9/RmitKA=="
 ---
 
