@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "2026 Cognitive Analytics Market |Top Companies, Trends and Future Prospects Details for Business Development"
+    excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
+    publishedDateTime: 2020-11-26T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2026-cognitive-analytics-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning User and Entity Behaviour Analytics Report 2020"
     excerpt: "The \"User and Entity Behaviour Analytics Based on Machine Learning 2020\" report has been added to ResearchAndMarkets.com's offering. We sift through this volatile market for consistent trades so you don't have to."
     publishedDateTime: 2020-11-23T11:04:00Z

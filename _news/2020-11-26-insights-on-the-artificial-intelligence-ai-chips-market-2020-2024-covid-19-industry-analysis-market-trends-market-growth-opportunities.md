@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-25T19:33:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
 webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
@@ -15,8 +15,13 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI Hardware
   - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Wearable Artificial Intelligence (AI) Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
@@ -28,6 +33,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
+    excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
+    publishedDateTime: 2020-11-26T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-industry-outlook-current-trends-and-forecast-by-2026-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -80,6 +99,6 @@ related:
       domain: morningstar.com
     quality: 8
 
-secured: "ewqbFbwIwQCoA1U+plenpG/G7P6STvAI4siJ0lbvD8J/6MufOHVZkTYdqrc68SjaTyIrhkX3Ajp//R9N0ATF71fXECCVcbDZsBYbrVHaM1VRy71YN+QCy5j2Eh8oFJOeVGUc1m7IV1q+deR+DKyB/sVtQlsBezoJEJ9FXlgR5QPgj+DD9A6o6ccTiMuiWnw4dRc7XSPhVDlgDZvdXAfBytMTx2YLjndDkZWOJgzzrfPsPbVpaVcFnrxpoPBLxaiErAD5OVBkFBd9T2Mf+sAs8uz5RTzFfaurxd8bh6mcpGyinD5nORW0FyBpnrm0a1W4UiiTXi0sJfQFMYrzuSV9HKB1ILG8JOwIayFTR2PZk2cV7bEuE2jrMbBTFosHfZ08FDpnOzHcATXgRLhitm35fxyuGvQxCNxOa0zX3awtV1tL14Vorma9pEatw31pN3q/rskIGVM4DtSjG7gCO3RacAp+ttKwd/OUR+ouUyDcm7aBVlLPSXIS/CnVCd6dm4bprsQPd+XL1ajpHIlKwbSPkQ==;T6mMZyoHcN0kPZsArBG2zg=="
+secured: "/M7R4sk9AsndbqrUeiKELKf5EVs2ttlTQ7DqXl73GYrfxZ8w44eFT5boIP6ihc/ifGlH0ZMJQgW0payjF/zTsCxJzfJmh9bBhJjEBt31rEHI/WQC4F7HJkZ9qmBunDrm17Ao7eKNR6xgMeL/IUUMOpEW3QgxaTN/GlPynb6oK20h1Y22bhWIfKNaDKdwaD4xWieATFwrgSCKSVbr2g97JKu427+rb7Wx8hKDws1XwqvwYtEq9sC4oBzILaZ2jQjMZxTC3DM80tH3PF6QIo7u1ojEN2z+VbL2EmOrucl3MBp1kG8+pYPgTLxxqhh8SlG7vDHxCZ2scJK4/NvGpN3uNLe+Yj2UBY4vlNFWeEjHTEw=;5Ii/E28XYuUaWgqxnHa0rA=="
 ---
 

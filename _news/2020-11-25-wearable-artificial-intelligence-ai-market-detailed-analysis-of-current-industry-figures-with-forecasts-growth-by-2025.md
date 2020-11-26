@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/wearable-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2020-11-25"
 type: article
 quality: 58
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
+    excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
+    publishedDateTime: 2020-11-26T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-industry-outlook-current-trends-and-forecast-by-2026-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
     publishedDateTime: 2020-11-24T11:44:00Z
@@ -83,7 +97,12 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 0
+    quality: 2
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "RbkPYt+wjdJ/oJ5SyAZMTuIn7aNbmJDcp+HUI/Oqfa2sfLFWyGCRFlkzwGFJeh9/btwtAgOhuJQMlulf2TmvCZUQrHH32lffKljwNesJw6YjaT5w79VMA5vzcO34tfN1ZcseAWUvuQmRFsUaTfeSJ8pv28BZJm8EOY07fXnm83Sbej4/kE9l+q6jzZGT0II2qW57+v9uF1FuRHyp8I7F+0HnabiZF4pCw5Hy+2j2qxCj2/PINjAtrKJFKOOav4OqRlcYDIsCf2r8IeJ1mzjZtun3Euur2LzZzxM7x4QA89Z/XxMt/wSlvh1qwqwaOGBqNEJuwvw6Bz5jO2WT8aQoS2IOY2Z7Fhe9q2TupON+akc=;hnfjnZ6F92uWJD59yxjRcw=="
 ---

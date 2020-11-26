@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
+    excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
+    publishedDateTime: 2020-11-26T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-industry-outlook-current-trends-and-forecast-by-2026-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
     publishedDateTime: 2020-11-24T11:44:00Z
@@ -82,7 +96,12 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 0
+    quality: 2
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "ayjU0Puv59TCfLo6khKUgZucYBchUO2Ta3rVtf79EXBigjbia3HZytypjyopN1Hgtnd4ENwDdunHIuY0GRxyUo5beyp4JhzFEsVj4lZgHF59nIU+zmQPMh/Y3BkuhvQgTlHGlCx0wPVsYcFFU2AwhrNEbNn/tYJpckoJhz9ugkvf8psND/dKIiCbeRZWYD/j1FCVXNgjJlmQ/D7yjsOHt33lFQREHw+KC6FoKLZ7TXYlqAwWQFfPaUhmGoXPp1smsSY2lAdG8UHiGDJyQJ1/IuvofnFGgDo4+fcg3R2dF0sNQEWa/uCMkwXY1eI/Bz7QfkUeYwAFpY2yapJm7U6RLJyUQFrFju7t5rQK7W3X0+A=;zX9r5R4iGKNNXRa26OV/8w=="
 ---

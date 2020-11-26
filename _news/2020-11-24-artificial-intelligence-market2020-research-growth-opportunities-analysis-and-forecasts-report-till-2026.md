@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
+    excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
+    publishedDateTime: 2020-11-26T06:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-industry-outlook-current-trends-and-forecast-by-2026-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Market Research Report 2020 Size, Share, Growth, Covid-19 Impact Analysis, key Insights"
     excerpt: "Selbyville, Delaware Market Study Report LLC: Artificial Intelligence Market Research Report provides key analysis on the market status of the Artificial Intelligence market manufacturers with best facts and figures,"
     publishedDateTime: 2020-11-24T20:31:00Z
@@ -84,7 +98,12 @@ related:
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 0
+    quality: 2
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "sjZloLBSICoeOdYzqJrcsnvuzk9cbgriFYAckziO9FthqlN2Fii1G9sG6uMXBcK/bNoL2l0Ytj+bIbxlPIZdyS1EecWqtUf3e33xo57LggG/w3hRsZoz8QXmJMsdYtyncDYekD5e5sZwbS/Z3ndvce0gx9U2f4ASjFttfxLds8aHDARWr3C/E9GG23bum4izrJApYAYQ/FLJvDl/UpOrqu8LX5n0ZhAIPJgnqsFYWwHXsXcNFJ+//hRLoPi8MqK6DAgR0c+MmO8x7pvxhsD2cadCZ4caep4JDHLJUNwn1/v1Y6t1/RitL+69f8g7v2NORmnZZUgzzKipa8H81tpMk2xS56TnfMoAkDkLCUgKa6c=;Bba6bBDvwWw/KurxoEDCcg=="
 ---
