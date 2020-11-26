@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025"
+    excerpt: "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025."
+    publishedDateTime: 2020-11-26T16:27:00Z
+    webUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/"
+    ampWebUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 79
+    images:
+      - url: "https://cdn.openpr.com/T/3/T303620719_g.jpg"
+        width: 687
+        height: 400
+        isCached: true
   - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
     excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
     publishedDateTime: 2020-11-26T06:47:00Z
@@ -56,6 +72,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine learning Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
+    excerpt: "Market Synopsis The Machine learning Market is estimated to record a significant growth throughout the forecast period."
+    publishedDateTime: 2020-11-25T15:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+  - title: "Artificial Intelligence For Edge Devices Market 2020 - 2025: Microsoft, Synopsys, Qualcomm, Google, Alibaba, Intel, Horizon Robotics"
+    excerpt: "The Global Artificial Intelligence For Edge Devices Market Research Report Forecast 2020 2025 provides a comprehensive analysis of the market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of the global industry It provides an"
+    publishedDateTime: 2020-11-23T10:29:00Z
+    webUrl: "https://www.openpr.com/news/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
+    ampWebUrl: "https://www.openpr.com/amp/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 55
   - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
     publishedDateTime: 2020-11-24T11:44:00Z
@@ -65,20 +101,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing Market Booming By Size, Revenue And Trend In 2020 Scrutinized In New Research"
-    excerpt: "The Global Natural Language Processing Market was valued at USD 7.86 billion in 2016 and is projected to reach USD"
-    publishedDateTime: 2020-11-22T02:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-booming-by-size-revenue-and-trend-in-2020-scrutinized-in-new-research-2020-11-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -126,6 +148,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI in IoT Market 2020 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
+    excerpt: "MarketsandResearch.biz has added a new report Global AI in IoT Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
+    publishedDateTime: 2020-11-24T10:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-iot-market-2020-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2020-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Computer Vision System Market 2020 Future Estimations with Top Key Players, Production Development and Opportunities to 2026"
+    excerpt: "Nov 23, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has newly published research study entitled Global Computer Vision System Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that incorporates the analysis of different ..."
+    publishedDateTime: 2020-11-23T21:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2020-future-estimations-with-top-key-players-production-development-and-opportunities-to-2026-2020-11-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-11-24T16:36:00Z
@@ -154,6 +204,26 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
+    excerpt: "The AI in cyber security market is projected to generate a revenue of $101.8 billion in 2030, increasing from $8.6 billion in 2019, progressing at a 25.7% CAGR during the forecast period (2020-2030)."
+    publishedDateTime: 2020-11-23T18:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/b18489504/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-rese"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18489504"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18489504"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
+  - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
+    excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2020-11-25T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2020-opportunity-assessment-key-drivers-and-challenges-growth-rate-and-forecast-to-2025-2020-11-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
   - title: "Global AI in Agriculture Market Report 2020-2030: Increasing Use of Robotics and Smart Sensors Propelling the $8+ Billion Industry - ResearchAndMarkets.com"
     excerpt: "The \"AI in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The global AI in agriculture market is predicted to generate a revenue of $8,"
     publishedDateTime: 2020-11-26T12:16:00Z
@@ -168,15 +238,20 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Five AI trends to look out for in 2021"
-    excerpt: "With artificial intelligence (AI) evolving at a rapid pace, it`s important to stay abreast of what`s happening in this tech-driven sphere. And with new developments heading your way in 2021, we`ve got you covered: Here,"
-    publishedDateTime: 2020-11-25T10:30:00Z
-    webUrl: "https://www.mediaupdate.co.za/media/149808/five-ai-trends-to-look-out-for-in-2021"
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
     type: article
     provider:
-      name: Media Update
-      domain: mediaupdate.co.za
+      name: Business Wire
+      domain: businesswire.com
     quality: 19
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
     excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
     publishedDateTime: 2020-11-23T09:03:00Z
@@ -195,20 +270,31 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 8
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
-    publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+  - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
+    excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
+    publishedDateTime: 2020-11-23T14:07:00Z
+    webUrl: "https://galusaustralis.com/2020/11/1041977/global-self-driving-cars-market-2020-key-drivers-challenges-opportunities-and-forecast-insights-by-2025/"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 7
     images:
-      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
-        width: 1200
-        height: 627
+      - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
+        width: 981
+        height: 576
         isCached: true
+  - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
+    excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
+    publishedDateTime: 2020-11-25T02:32:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18524403/robo-taxi-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18524403"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18524403"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "jLOGtTx1xkmrF5Cv8W5nI05oLAzthsoV3y0C8oKKQdroe1QWYxm8hApwSIHN8HEO41N9/4AK9qYpYuH54p4n/f+/cB98okS0RDMxxyf75DjYnp+tlEyWQ7w211y8XfNb3KJ7YwnEiLmnTXgrT5ltA5Uo/VJB2/ROG8Kgn7Qo8sEW/p4/6ssBjD4nSY1F2OX8j0xZO8PM1RLx/aHRM1TGb6JGuGbqzE/R+6mOGGByA4+PaRbjPgUYyTS+8H4JDOImtLSx3YxR6jIRsM8tW3qYW+w+/4hSK7+y02FKUVOtLjsAOdccBOp2eaD2SytAMlWQ3ecp4ixtHWNTwWFgkcoj+S/IgXZJ9FBTEJkIaGvyLgM=;VxSw6l4BCt18BTp0gRMNlw=="
 ---

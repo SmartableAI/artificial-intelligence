@@ -185,6 +185,51 @@
       ]
     },
     {
+      "path": "_news/2020-11-24-5-artificial-intelligence-ai-trends-well-see-in-2021.md",
+      "title": "5 Artificial Intelligence (AI) Trends We’ll See In 2021",
+      "excerpt": "Artificial intelligence (AI) is one of the most innovative, game-changing technologies and industries around today. From intelligent machine translation to neur",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/",
+      "originalUrl": "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/05/Artificial-Intelligence-1.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-the-7-most-promising-government-led-ai-solutions.md",
       "title": "The 7 Most Promising Government Led AI Solutions",
       "excerpt": "From the US to Canada, and Denmark to Estonia, massive governmental initiatives are being mobilized to boost AI solutions across sectors. The efforts that nations put forth now on the digital front will define our globe's leaders and laggards in digitalization.",
@@ -1344,58 +1389,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-an-enlightened-future-with-ai.md",
-      "title": "An Enlightened Future with AI",
-      "excerpt": "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
-      "originalUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1610582400&v=beta&t=OsBJtpSsJgt5DYuwT6CdxOUm1n3vDe0mLlkapOwnM5Y",
-          "width": 1152,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

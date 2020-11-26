@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube’s new AI experiment automatically adds chapters to videos"
-    excerpt: "The days of having to suffer through an overly long and cringe-worthy YouTube intro are nearly behind us. YouTube has announced a new test that is using machine learning to automatically apply"
-    publishedDateTime: 2020-11-24T23:21:00Z
-    webUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/"
-    ampWebUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
-    cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
+  - title: "This AI tool generates your creepy lookalikes to trick facial recognition"
+    excerpt: "If you’re worried about facial recognition firms or stalkers mining your online photos, a new tool called Anonymizer could help you escape their clutches. The app was created by Generated Media, a startup that provides AI-generated pictures to customers ranging from video game developers creating new characters to journalists protecting the identities of sources."
+    publishedDateTime: 2020-11-26T15:07:00Z
+    webUrl: "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/"
     type: article
     provider:
-      name: SlashGear
-      domain: slashgear.com
-    quality: 87
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 103
     images:
-      - url: "https://cdn.slashgear.com/wp-content/uploads/2020/11/youtube_main_uns.jpg"
-        width: 1440
-        height: 800
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-26T115747.122-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "YouTube is testing AI-generated video chapters"
     excerpt: "The feature could save YouTube creators from having to manually add chapters to the descriptions of their videos."
@@ -57,21 +57,19 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 67
-  - title: "YouTube’s latest experiment uses AI to divide lengthy videos into chapters"
-    excerpt: "Youtube says it will rely on machine learning to recognize certain text-based signs in a video for automatically generating chapters."
-    publishedDateTime: 2020-11-24T18:46:00Z
-    webUrl: "https://pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-lengthy-videos-into-chapters"
-    ampWebUrl: "https://pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-lengthy-videos-into-chapters/amp"
-    cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-lengthy-videos-into-chapters/amp"
+  - title: "BBC Launches Artificial Intelligence Tool To Read Its Articles To Listeners"
+    excerpt: "The BBC is launching a new audio tool that uses artificial intelligence to read articles from its website aloud with a voice that speaks in a friendly, easy to understand northern British accent."
+    publishedDateTime: 2020-11-26T09:03:00Z
+    webUrl: "https://www.npr.org/2020/11/26/939286983/bbc-launches-artificial-intelligence-tool-to-read-its-articles-to-listeners"
     type: article
     provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 55
+      name: NPR
+      domain: npr.org
+    quality: 35
     images:
-      - url: "https://pocketnow.com/wp/../files/2020/11/youtube_chapters_pocketnow.jpg"
-        width: 1500
-        height: 1079
+      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
 
 secured: "UVTZDAgFPXskUsutwPDTHpRVkkSRIVgFi3zddEwgnOEhlLZ7x0ewq+WuMfVsmIH+1oPobTIZSkeVD/yimUhcvNHYoUI36gH5sgbl9INNZcxifM+ZSGNwDCmKBYTGIPrnsMSo0CXrjGO2ABVRt/0J0t0BCcdpz5/6ZDclWxo+Eoqbb/YQEtC2GPno+ECK51BUOKVnEBqxKlZYIKWOgZEVVRNfKII189bwIAIui2fzB7Ml7DoNRI/9bh3Zi9bhaBbnfiI4TiDrKwpedkWs9/WKdGXQonFMvpXpYUP/r4JwuftpvLNk68BttVUzz5R2GDIoB1+pRb7JfAJRZFGCap+yKPrIVYSihtRdeP+I+aZ2anJdhZegkqYuo5JRVB4IWBa9ERbVqqeiQJKWefA2/0g0cJwsCFH8yyPvRwbZCXfkw8lxKdDTxK1dGfPoBFyeRwx1XZTBi68c2VrhHUW2n04GH22Vyc6JczYKfX/WdI5M8B88gorQ1g+W5U8GU9+dCcExnveBwrkguDM85Y8uWKBucg==;yryzbB/yX2dhBMUnF5IvjA=="

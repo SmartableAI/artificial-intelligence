@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-cl
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "5 things your company should know before investing in Artificial Intelligence"
+    excerpt: "Analyze your company and detect the susceptible areas. Find a solution that is compatible with your business model. Upgrade your staff skills. Go to the experts. Continues to grow. The year 2020 has been marked by the acceleration in the development and adoption of Artificial Intelligence (AI) in various aspects of daily life,"
+    publishedDateTime: 2020-11-26T16:11:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/5-things-your-company-should-know-before-15755772.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 34
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/37/21/20313155/19/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "qg9GiHx4XJ8S2UP5v8t43ISFWDANngj3X63Iq44Uu1hkik2Z4jYmm5SYz9qBOI9ts4yu45WvCO+cmIRXCuLzaX5CUoBNvktv40iUcEgxVgxEmhk2to2rYT5zb8XgaE8/LjnhYiF9/x8/LNT4o5qY+jymt413pO41Agg5KPQCtaZf/lz144vMFQ9lxsXbX1cujEvN8KahVWPxSBFcK0aWaXHH4HPKqGlRVWYKyMtKJwRSru9hcHVebzip7GiyvhJrp7h+q5lFWjce8ie8FbYTJae/GD6nWw2UvB88RF+GdOC8569nrDUi8AEM25thUV5Gfu2GVinis39Nbkd5LfqLJc0dNUGJb+zDpEE/1y3fA3PVmNiCeGzn+Ub79FBMxilR2oWcBYGbQXh+5bLzZ5FBcnoLADDM8Y2c/U5ttMt3MlfrWIC7jG9+xs5wsiCPpQKnG5FbwiixWIEuY6qEmf+9tqRPMR84rrOgsAkebZqZ4LxhjrHdwaY0l70k6mQa2sKYlulLJZZ8+wpyyWE+4ofRTQ==;lD0j9ljk/EUsSJn6fpLyeQ=="
 ---

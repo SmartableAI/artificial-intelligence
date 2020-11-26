@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
 type: article
 quality: 74
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bush Intercontinental Joins Hobby Airport In Using Facial Recognition Technology"
-    excerpt: "Bush Intercontinental this month joined Hobby and 17 other U.S. airports that use facial recognition technology at its international entry terminals. With the technology, arriving passengers have their picture taken and a computer then matches it with their passport photo."
-    publishedDateTime: 2020-11-23T19:47:00Z
-    webUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/"
-    ampWebUrl: "https://www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
-    cdnAmpWebUrl: "https://www-houstonpublicmedia-org.cdn.ampproject.org/c/s/www.houstonpublicmedia.org/articles/news/houston/2020/11/23/386710/bush-intercontinental-joins-hobby-airport-in-using-facial-recognition-technology/amp/"
-    type: article
-    provider:
-      name: Houston Public Media
-      domain: houstonpublicmedia.org
-    quality: 69
-    images:
-      - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
-        width: 1000
-        height: 668
-        isCached: true
   - title: "Facial recognition software can now reportedly recognize bears"
     excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
     publishedDateTime: 2020-11-22T22:14:00Z

@@ -35,6 +35,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Five AI trends to look out for in 2021"
+    excerpt: "With artificial intelligence (AI) evolving at a rapid pace, it`s important to stay abreast of what`s happening in this tech-driven sphere. And with new developments heading your way in 2021, we`ve got you covered: Here,"
+    publishedDateTime: 2020-11-25T10:30:00Z
+    webUrl: "https://www.mediaupdate.co.za/media/149808/five-ai-trends-to-look-out-for-in-2021"
+    type: article
+    provider:
+      name: Media Update
+      domain: mediaupdate.co.za
+    quality: 19
 
 secured: "+70CNhy73O1rUV6yVYATsQQ1f1ZwmbrxLOKq6MNv7JDaLSdNDmlu9H6TjYONUNG6Ie6M3r/mRH10BqaRbZiu9uWlwBByv5TNF0DsVoGGTNZ+PLp1CZ5YFW3c53Gq1DrwrBQ4Fe5kPjSVOBwiGjxaZsX/g2lfUUvcG5k5w6++ZaJerlIttqKYiXZtjkE6s7s6ktayw1WjLquXsv+dhkKev6ziiaVUYGCdOB5RJB2eZZ2v7vmUJqTUslSiNGqzt5Z0ufKsB6+6VnqV+Dl9wEiTZysbA72f9+FC281YQVX2P6QdGngiv/ZOcGt7lob/BeDuQBXW9zqpmIm7KPrwIE4tXTQ8wlqlO0ExMNB4baHeqpg=;BkGhXlDgYyu8otGKrM9VsA=="
 ---

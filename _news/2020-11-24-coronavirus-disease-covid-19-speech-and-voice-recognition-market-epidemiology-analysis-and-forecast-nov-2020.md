@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision System Market 2020 Future Estimations with Top Key Players, Production Development and Opportunities to 2026"
-    excerpt: "Nov 23, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has newly published research study entitled Global Computer Vision System Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that incorporates the analysis of different ..."
-    publishedDateTime: 2020-11-23T21:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2020-future-estimations-with-top-key-players-production-development-and-opportunities-to-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "GR/K1XIvqAAl7ieO25q3otPHXgFT0uvr0nUscvQJtXaoj2IN4tUBHIZEbgl02Gh3dSC6TU9bEBH1ZVgrfHbFbd+4JanYfiMz9zLL7uWgbRZf4DJUxpWL/kr+eKgMc+3csa6wEElN2lFhHTu05fEfnivq7TULo/6qt1q37dBpSS5ouXo6gvmhuAPsIOhYptW5+e24bnbguMRzv8sSVNysK+71qp+l+ieObqKSvdhpbPNyeFWipfo29wqhNS//RnTtVNFeUTrzNbGWYooyvVDYgtXMKnxY02ZU9rUOc+HvQc0x26cTMi6LSbuCJWKNlJZkrSGDK1fHBFTOcsjyvpvZmxI13a7ANsDRfu/I5751jqk=;YyySuki6PwbXyuSCWYPW0Q=="
 ---

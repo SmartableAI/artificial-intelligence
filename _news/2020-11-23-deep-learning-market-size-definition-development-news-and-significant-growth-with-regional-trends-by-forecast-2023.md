@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
-    excerpt: "Market Synopsis The Machine learning Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2020-11-25T15:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
   - title: "SLAM Technology Market Outlook to 2024 | Global Industry to Witness Steady Growth of 71% CAGR"
     excerpt: "Nov (Market Insight Reports) -- With the surging use of real-time 3D maps, SLAM technology market will surpass a revenue collection of USD 2"
     publishedDateTime: 2020-11-26T08:38:00Z
@@ -103,17 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
-    excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
-    publishedDateTime: 2020-11-25T02:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18524403/robo-taxi-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18524403"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18524403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
   - title: "Healthcare Chatbots Market size is projected to expand at an excellent CAGR of 21% through 2030 - Persistence Market Research"
     excerpt: "The coming years will see the most definitive transformation of chatbot platforms into conversational Artificial Intelligence (AI)"
     publishedDateTime: 2020-11-25T11:00:00Z

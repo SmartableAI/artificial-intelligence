@@ -828,33 +828,33 @@
     {
       "path": "_news/2020-11-06-aws-announces-plans-to-launch-a-second-region-in-india.md",
       "title": "AWS Announces Plans to Launch a Second Region in India",
-      "excerpt": "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ...",
+      "excerpt": "artificial intelligence, database, Internet of Things (IoT), machine learning, mobile services, serverless, and more to drive innovation. Customers and APN Partners welcome the news of the AWS ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html",
+      "webUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
+      "originalUrl": "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/06/AWS.jpg",
+          "width": 2560,
+          "height": 1623,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-05T21:52:00-08:00",
+      "publishedDateTime": "2020-11-05T23:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
         "images": null,
         "publishers": null,
         "authors": null

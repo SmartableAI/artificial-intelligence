@@ -323,6 +323,51 @@
       ]
     },
     {
+      "path": "_news/2020-11-24-5-artificial-intelligence-ai-trends-well-see-in-2021.md",
+      "title": "5 Artificial Intelligence (AI) Trends We’ll See In 2021",
+      "excerpt": "Artificial intelligence (AI) is one of the most innovative, game-changing technologies and industries around today. From intelligent machine translation to neur",
+      "sourceUrl": null,
+      "webUrl": "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/",
+      "originalUrl": "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cxotoday.com/wp-content/uploads/2020/05/Artificial-Intelligence-1.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T22:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CXO Today",
+        "domain": "cxotoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-industry-voiceshow-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19-and-beyond.md",
       "title": "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond",
       "excerpt": "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry.",
@@ -469,49 +514,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study.md",
-      "title": "Artificial intelligence, machine learning, 5G, IoT will be most important tech in 2021: Study",
-      "excerpt": "On which would be the most important technologies, nearly one-third of the total respondents (32 per cent) said AI and ML followed by 5G (20 per cent) and IoT (14 per cent), according to an IEEE statement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.financialexpress.com/2020/09/Artificial-intelligence.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-machine-learning-5g-iot-will-be-most-important-tech-in-2021-study/2134642/lite/",
-      "publishedDateTime": "2020-11-23T03:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     },
     {
