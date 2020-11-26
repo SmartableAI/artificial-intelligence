@@ -405,6 +405,51 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies.md",
+      "title": "As a New Direction of Chip Industry, Tesla, Facebook, and WIMI Launches Hologram AR + Chip Strategies",
+      "excerpt": "Mark Zuckerberg, Facebook's chief executive ... also help support the high costs of long-term chip research and development. However, AI startups have advantages in how to strengthen AI capability.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies-1029795260",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies-1029795260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/As-a-New-Direction-of-Chip-Industry-Tesla-Facebook-and-WIMI-Launches-Hologram-AR-Chip-Strategies-1029795260",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/As-a-New-Direction-of-Chip-Industry-Tesla-Facebook-and-WIMI-Launches-Hologram-AR-Chip-Strategies-1029795260",
+      "publishedDateTime": "2020-11-12T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-neurals-market-outlook-for-artificial-intelligence-in-2021-and-beyond.md",
       "title": "Neural’s market outlook for artificial intelligence in 2021 and beyond",
       "excerpt": "The year is coming to a close and it’s safe to say Elon Musk’s prediction that his company would field one million “robotaxis” by the end of 2020 isn’t going to come true. In fact, so far, Tesla’s managed to produce exactly zero self-driving vehicles.",
@@ -1456,50 +1501,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-facebooks-new-polyglot-ai-can-translate-between-100-languages.md",
-      "title": "Facebook’s new polyglot AI can translate between 100 languages",
-      "excerpt": "The model, a culmination of various automated and machine learning techniques, is being open-sourced to the research community. The news: Facebook is open-sourcing a new AI language model called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
-      "originalUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/10/edurne-chopeitia-5Z8mR4vqJD4-unsplash-e1603118496183.jpg?w=2142",
-          "width": 2142,
-          "height": 1206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/10/19/1010678/facebook-ai-translates-between-100-languages/amp/",
-      "publishedDateTime": "2020-10-19T10:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

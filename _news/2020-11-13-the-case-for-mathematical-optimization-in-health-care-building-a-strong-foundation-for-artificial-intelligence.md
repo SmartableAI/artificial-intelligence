@@ -3,12 +3,9 @@ category: news
 title: "The Case For Mathematical Optimization In Health Care: Building A Strong Foundation For Artificial Intelligence"
 excerpt: "Enthusiasm for the potential impact of AI on hospital operations is often based on its impact in other industries. However, non-health care companies invest in AI after having digitized and optimized their operations with a variety of older mathematical methods."
 publishedDateTime: 2020-11-13T14:15:00Z
-originalUrl: "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?%2BDental%2BCare%2BAfter%2BMedicaid%2BExpansion=&%2BPrescription%2BDrug%2BPolicy=&vgo_ee=Iaq5HU8ETvojpfbr619JRYwYKHE2HVEC2WcgkxUKVZo%3D"
-webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/?%2BDental%2BCare%2BAfter%2BMedicaid%2BExpansion=&%2BPrescription%2BDrug%2BPolicy=&vgo_ee=Iaq5HU8ETvojpfbr619JRYwYKHE2HVEC2WcgkxUKVZo%3D"
+originalUrl: "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/"
+webUrl: "https://www.healthaffairs.org/do/10.1377/hblog20201110.585462/full/"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: Health Affairs
@@ -18,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "as2TQ3pIW/aCgccAzfVjcR/GcovhnLwqjw5n+sJDimEIEa481UbBN1t5bOw8+olJWSr4nkgwFiryUg9bmF3kRBJfLk/uYoBzR8Mhi3CtzhbPtafIhxDXVXA6Iek34D5kZk21HdUiQ+/4y6jyZf3tJRno49R3cyYF4oc47c9YNWk6TRpBNQFFbzZkU/GDdAfbonVpvp3IqjUsQamsIQOhjxwEHOsDczQtQ6tbNyvFcQCT/ndkQxBRb3Bz7/3PT3MEMjBSX56Ye5sCacX5ALAuxBRXc+swnBv1IbrNWyGmDdHppHc3t1ntUVoyJuSnToLAOPpJHcObik5WmGohUmZFavVjWWbFKrcWVjTfB1RpN5dfmETuv8hWcI8gLyNtwPln6gr8hourUdN8srRWsXbFJTsNzrczJP9BxbGX3plk20AgUohqPnTvpJnDSdhJmnlOvcxHyP9y00iZ0vQQ/Pl2fVkAQNBIUSZNOXIHop1qsaa0gr0La8uJE+UxLbHsZ0+f81VGI2j2yTc1l21FpHoJ7w==;0AK46OzCz8WaKzkcUMJK8g=="
+secured: "U8t2nidK4MfTTXuZI2w3vYqnBd+GmUFgHqG6FR0OM3E6L+gWj5HHYe89Qf18BgJxzv0B8mr8G899hgmFklZHAOR6VNtYNsEr6rNKWuClcoopLHJ3fl3C2w4ZcB9jeYjkk/GuOXhlMQqkQSftj88KkGQTbRNUdRXkIIYJEHFE9qUGAmTkj4YGql69eozl+aJTe/N0CoTRiMNKSaoEFuyd+YiMMDsZxq7AcOEVhjNYgjv5di6XqUrh51FfrwR3YdXfeVYyf3VlH/UTcwWQBFJagKCnycrQ8w3mnw5UVBwPPlpWVyMkx1HobIrWw5RQudCqKquw/lV6XR9zSUMFEdTSrak+0G8008WDRogBH/g2dIyahbhFpGq71PyFY3B2QWJmwCsUb9MQe//bwKVy4Bci6IBd02EX+oZIx5Bs0gVm3TlZhltUMJPIYYa5u6QXon0GqeImmrmf4Czp+PRD5G4o1JokdrSLHZbYtg82XCqsqcT41aUhpEZsNzKGudU6ptpSXLEYrvEMlgb1Qsr3Qf9K8w==;4eXMJK7wZ4Ozla84XMoLzw=="
 ---
 

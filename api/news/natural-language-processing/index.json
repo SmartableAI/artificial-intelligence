@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-26-4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare.md",
+      "title": "4 Ways John Snow Labs is Raising the Bar for NLP in Healthcare",
+      "excerpt": "Ways John Snow Labs is Raising the Bar for NLP in Healthcare By David Talby, CTO, John Snow Labs - Natural Language Processing (NLP) has been a technology to watch over the past few years, but in 2020 it emerged as",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
+      "originalUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioreview.com/news_new/sliderimage/49a3t.image300x350123654.jpg",
+          "width": 300,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T01:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOReview",
+        "domain": "cioreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-uc-berkeley-researchers-detect-silent-speech-with-electrodes-and-ai.md",
       "title": "UC Berkeley researchers detect ‘silent speech’ with electrodes and AI",
       "excerpt": "AI for detecting speech without sound may have applications for a range of technologies and for people who cannot produce audible speech.",
@@ -1469,59 +1513,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-british-newscaster-speaking-style-now-available-in-amazon-polly.md",
-      "title": "British Newscaster speaking style now available in Amazon Polly",
-      "excerpt": "Amazon Polly turns text into lifelike speech, allowing you to create applications that talk and build entirely new categories of speech-enabled products. We’re thrilled to announce the launch of a brand-new, British Newscaster speaking style voice: Amy. The speaking style mimics a formal and authoritative",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/british-newscaster-speaking-style-now-available-in-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T13:02:47-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
         "Natural Language Processing"
       ]
     }

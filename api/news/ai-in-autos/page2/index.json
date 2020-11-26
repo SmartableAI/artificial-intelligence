@@ -149,6 +149,51 @@
       ]
     },
     {
+      "path": "_news/2020-11-12-as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies.md",
+      "title": "As a New Direction of Chip Industry, Tesla, Facebook, and WIMI Launches Hologram AR + Chip Strategies",
+      "excerpt": "Mark Zuckerberg, Facebook's chief executive ... also help support the high costs of long-term chip research and development. However, AI startups have advantages in how to strengthen AI capability.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies-1029795260",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies-1029795260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/As-a-New-Direction-of-Chip-Industry-Tesla-Facebook-and-WIMI-Launches-Hologram-AR-Chip-Strategies-1029795260",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/As-a-New-Direction-of-Chip-Industry-Tesla-Facebook-and-WIMI-Launches-Hologram-AR-Chip-Strategies-1029795260",
+      "publishedDateTime": "2020-11-12T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-search-results-for-self-driving-vehicle.md",
       "title": "Search Results For: self driving vehicle",
       "excerpt": "Artificial Intelligence (AI) and autonomous driving have been developing at breakneck speeds, and that trend will only continue in the near future. Following in this trend, UK-based Imagination ...",
@@ -1402,61 +1447,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026.md",
-      "title": "Artificial Intelligence Market: key Vendors, Trends, Analysis, Segmentation, Forecast to 2020-2026",
-      "excerpt": "According to a new study published by Polaris Market Research the Global Artificial Intelligence Market is anticipated",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-key-vendors-trends-analysis-segmentation-forecast-to-2020-2026-2020-11-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos",
-        "Facebook AI"
       ]
     }
   ],

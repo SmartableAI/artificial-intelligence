@@ -34,6 +34,20 @@ related:
         width: 300
         height: 225
         isCached: true
+  - title: "AI & ML Hub set up by IIT Kharagpur under National Mission on Interdisciplinary Cyber-Physical Systems"
+    excerpt: "IIT Kharagpur, India’s premier institute of learning, recently announced that it is all set to transform the nation’s industrial sector with scalable application of Artificial Intelligence (AI) and Machine Learning (ML) in Cyber-Physical Systems (CPS) under the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)."
+    publishedDateTime: 2020-11-26T09:23:00Z
+    webUrl: "https://www.indiablooms.com/finance-details/12975/ai-ml-hub-set-up-by-iit-kharagpur-under-national-mission-on-interdisciplinary-cyber-physical-systems.html"
+    type: article
+    provider:
+      name: India Blooms
+      domain: indiablooms.com
+    quality: 40
+    images:
+      - url: "https://www.indiablooms.com/finance_pic/2020/cfa41593299988f3c48c60a645490f0a.jpg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "IIT Kharagpur Sets Up AI & ML Hub To Transform Industrial Sector With Scalable Application"
     excerpt: "IIT Kharagpur has announced setting up an innovation hub on AI and ML to translate academic researches to industrially scalable products."
     publishedDateTime: 2020-11-25T12:25:00Z
