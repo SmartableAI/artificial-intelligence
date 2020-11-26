@@ -2,6 +2,58 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-10-27-flippy-robots-will-cook-sliders-in-10-more-white-castle-locations.md",
+      "title": "Flippy robots will cook sliders in 10 more White Castle locations",
+      "excerpt": "Rail — showed promising results in its pilot with White Castle, enough for the burger chain to sign on to deploying the robot in 10 more locations. Back in September, they formally started a pilot program to test Flippy at one White Castle location,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com",
+      "originalUrl": "https://www.engadget.com/flippy-robot-white-castle-expansion-090002507.html?ref=hvper.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F4c4ba8b0-1517-11eb-bbef-af00bd4d0adb&client=amp-blogside-v2&signature=05b6c4fd5bd26f566516f92d0f50c667127f4b24",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/flippy-robot-white-castle-expansion-090002507.html",
+      "publishedDateTime": "2020-10-27T02:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-white-castle-rolls-out-more-robots-from-miso-robotics-to-cook-in-its-kitchens.md",
       "title": "White Castle rolls out more robots from Miso Robotics to cook in its kitchens",
       "excerpt": "More robots are coming to White Castle ... turned to Miso Robotics’ fry cook in a box to find a solution. “Artificial intelligence and automation have been an area White Castle has wanted ...",
@@ -1113,49 +1165,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and.md",
-      "title": "BDO Expands its Managed Detection and Response Capabilities to Support Microsoft Azure Sentinel Clients and ...",
-      "excerpt": "BDO USA, LLP, one of the nation’s leading accounting and advisory firms, is launching its managed detection and response (MDR) capabilities on Microsoft Azure Sentinel. This expansion of its current MDR portfolio will support Azure Sentinel clients through BDO’s detection and response services,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
-      "originalUrl": "https://www.dailyrecordnews.com/ap_news/business/bdo-expands-its-managed-detection-and-response-capabilities-to-support-microsoft-azure-sentinel-clients-and/article_64b345bf-344a-53b7-816e-43b32ba52bdb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyrecordnews.com/content/tncms/custom/image/0ef5f48e-94dc-11e7-8ed4-3365baf52acf.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T07:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ellensburg Daily Record",
-        "domain": "dailyrecordnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
-    excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
-    publishedDateTime: 2020-11-21T12:39:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-quarter-reports-aple-m1-tensorflow-latest-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 61
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-21-news.jpg"
-        width: 892
-        height: 671
-        isCached: true
 
 secured: "eoUWMkHqHxu/pLCs9OAPhEM4CF7YLzWEQUFrehdwdPX6KGhTVH7za2gjsG2fTI2jeF7QKQVh1UMLMsZceSrU1STlgmXI2oP5SXbB5Fe4x3Glnlu4Mib+ZZS0XHjczHBRVp2xst04LbIa8cF2AcviRD1gUjhTsT5GBWdseRBtMEuA09me6NsQ090R0IBXggLN+fRw8LUpQgJjPn0IZ5zhkQPzCzN9QuUgGfnJEDflcvYWn8isyUSQEoC5lXujPlO/6HvAjNaJqDJ0GItWYvo8JdxtJ5OUyIqA0o1N+Sx2QNCIUHKfcMOTmQ5v1gvxmFdjZ071KMZ0iVNqojDCMJcyga9RJH9GwTkD5vzm7Puxp5Y=;TAd9gq6uxWVUIv+j16hE4Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/am
 cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "NVIDIA’s Strong Quarterly Gains, TensorFlow On-board Apple And More In This Week’s Top News"
-    excerpt: "A highly effective Apple M1 chip with the advantages of TensorFlow is a giant leap for the individual ML researchers."
-    publishedDateTime: 2020-11-21T12:39:00Z
-    webUrl: "https://analyticsindiamag.com/nvidia-quarter-reports-aple-m1-tensorflow-latest-news/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 61
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/nov-21-news.jpg"
-        width: 892
-        height: 671
         isCached: true
   - title: "Can TensorFlow’s New Face Landmarks Model Improve Iris Tracking In Mobile Devices?"
     excerpt: "Open-source machine learning platform Tensorflow has announced that it would be adding iris tracking to its face mesh package."

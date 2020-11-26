@@ -27,6 +27,22 @@ images:
 related:
   - title: "Misinformation or Artifact: Why Do Neural Networks Mess Up?"
     excerpt: "Neural networks can produce incredibly gains in speech and efficiency, but can also make simplistic mistake. A new study suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,"
+    publishedDateTime: 2020-11-24T12:20:00Z
+    webUrl: "https://www.technologynetworks.com/diagnostics/news/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
+    ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/misinformation-or-artifact-why-do-neural-networks-mess-up-343174.jpg?v=10992130"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Misinformation or Artifact: Why Do Neural Networks Mess Up?"
+    excerpt: "Neural networks can produce incredibly gains in speech and efficiency, but can also make simplistic mistake. A new study suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,"
     publishedDateTime: 2020-11-24T16:39:00Z
     webUrl: "https://www.technologynetworks.com/genomics/news/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
     ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"

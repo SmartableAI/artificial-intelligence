@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-18-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
+      "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
+      "excerpt": "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
+          "width": 2698,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-rapid-robotics-raises-55m-for-pre-programmed-manufacturing-robots.md",
       "title": "Rapid Robotics raises $5.5M for pre-programmed manufacturing robots",
       "excerpt": "Bay Area-based Rapid Robotics today announced it has raised $5.5 million in seed funding in a round led by Greycroft and Bee Partners. The announcement comes during what has been a solid several months for robotics funding,",
@@ -1143,58 +1186,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras.md",
-      "title": "In 2020, neural chips helped smartphones finally eclipse pro cameras",
-      "excerpt": "It’s hard to overstate AI’s impact on photography. Many of the innovations above are being made possible by neural cores in smartphone chips, powered by machine learning that enables the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/",
-      "originalUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/polycamx.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/amp/",
-      "publishedDateTime": "2020-11-17T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

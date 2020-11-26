@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/misinformati
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Misinformation or Artifact: Why Do Neural Networks Mess Up?"
+    excerpt: "Neural networks can produce incredibly gains in speech and efficiency, but can also make simplistic mistake. A new study suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,"
+    publishedDateTime: 2020-11-24T12:20:00Z
+    webUrl: "https://www.technologynetworks.com/diagnostics/news/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
+    ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/misinformation-or-artifact-why-do-neural-networks-mess-up-343174.jpg?v=10992130"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Misinformation or artifact: a new way to think about machine learning"
     excerpt: "Machine learning has delivered amazing results, but there also have been failures, ranging from the harmless to potentially deadly. New work from University of Houston philosopher Cameron Buckner suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,"
     publishedDateTime: 2020-11-23T17:42:00Z

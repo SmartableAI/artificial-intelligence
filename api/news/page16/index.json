@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-11-13-waymo-throws-shade-at-tesla-and-elon-musk-over-self-driving-comments.md",
+      "title": "Waymo throws shade at Tesla and Elon Musk over self-driving comments",
+      "excerpt": "Waymo is throwing shade at Tesla and Elon Musk over comments that the latter has made about the usefulness of the former’s self-driving technology. There are dozens of high-profile companies working on solving self-driving and just as many different approaches,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/",
+      "originalUrl": "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2018/12/waymo_minivan_7.jpg?resize=1024,512",
+          "width": 1024,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/12/waymo-throws-shade-tesla-elon-musk-over-self-driving/amp/",
+      "publishedDateTime": "2020-11-12T11:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-intels-first-discrete-xe-server-gpu-aimed-at-hyperscalers.md",
       "title": "Intel’s First Discrete Xe Server GPU Aimed At Hyperscalers",
       "excerpt": "We have been waiting for years to see the first discrete Xe GPU from Intel that is aimed at the datacenter, and as it turns out, the first one is not the",
@@ -1186,49 +1238,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-aidp-and-andy-khawaja-are-working-to-create-new-ai-defense-technology.md",
-      "title": "AIDP and Andy Khawaja are Working to Create New AI Defense Technology",
-      "excerpt": "Artificial Intelligence Defense Platform, a technology start-up creating AI technology for a safer, more comfortable future, and its Founder Andy Khawaja are integrating new AI advancements for defense technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-military-technology-weapons-manufacturing-weapons-technology-d969cb461ca54c78a44510bab1787500",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-military-technology-weapons-manufacturing-weapons-technology-d969cb461ca54c78a44510bab1787500",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

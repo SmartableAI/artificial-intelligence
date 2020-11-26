@@ -2,6 +2,57 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2020-10-23-the-ai-that-spots-alzheimers-from-cookie-drawing.md",
+      "title": "The AI that spots Alzheimer's from cookie drawing",
+      "excerpt": "A dated line drawing of two children stealing cookies behind their mother's back is being used by an artificial intelligence system to detect the onset of Alzheimer's disease. The system uses voice samples of people describing the scene to predict whether healthy people may get the disease.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-54538228",
+      "originalUrl": "https://www.bbc.com/news/technology-54538228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1010/production/_114921140_oldwoman.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-54538228",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-54538228",
+      "publishedDateTime": "2020-10-22T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-tesla-full-self-driving-vehicles-cant-drive-themselves.md",
       "title": "Tesla 'Full Self-Driving' Vehicles Can't Drive Themselves",
       "excerpt": "DETROIT (AP) — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that ...",
@@ -1067,57 +1118,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-facebooks-ai-team-expands-post-grad-courses-for-black-and-latinx-students.md",
-      "title": "Facebook's AI team expands post-grad courses for Black and Latinx students",
-      "excerpt": "Facebook says that it will expand an online course in deep learning to more students to help improve the diversity of its AI division. After a successful pilot program at Georgia Tech, the company will roll out this graduate-level course in deep learning to more colleges across 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
-      "originalUrl": "https://www.engadget.com/facebook-ai-diversity-online-learning-course-120044903.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F39769420-144a-11eb-bfe1-45e43ea856dd&client=amp-blogside-v2&signature=8fd4a9f5ed17636cd9fdd3c52513267131ac292d",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/facebook-ai-diversity-online-learning-course-120044903.html",
-      "publishedDateTime": "2020-10-22T05:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
