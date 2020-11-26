@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-25T03:23:00Z
 originalUrl: "https://www.digitimes.com/news/a20201125PR200.html&chid=9"
 webUrl: "https://www.digitimes.com/news/a20201125PR200.html&chid=9"
 type: article
-quality: 20
-heat: 20
+quality: 22
+heat: 22
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.digitimes.com/newsshow/20201125PR200_files/2_b.jpg"

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-10-30-trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research.md",
-      "title": "Trump faces executive order lawsuit as critical race theory fuels AI research",
-      "excerpt": "Google AI ethics co-lead Meg Mitchell told VentureBeat in a meeting with journalists last week. “This was a bit of an intervention with our first social scientists. So our team has been able to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/",
-      "originalUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1228809983.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/trump-faces-executive-order-lawsuit-as-critical-race-theory-fuels-ai-research/amp/",
-      "publishedDateTime": "2020-10-29T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-10-29-salesforces-paula-goldman-on-navigating-the-ethical-issues-in-ai.md",
       "title": "Salesforce's Paula Goldman on Navigating the Ethical Issues in AI",
       "excerpt": "The ethics of AI have become an important business and reputation issue in light of the Covid-19 pandemic and public protests. Paula Goldman shares how companies can address the ethical perils of biased algorithms,",

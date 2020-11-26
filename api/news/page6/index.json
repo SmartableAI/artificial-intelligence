@@ -2,57 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2020-11-19-watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world.md",
-      "title": "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world",
-      "excerpt": "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/ServiceNow_1-990x448-2.jpg",
-          "width": 990,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T12:30:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-20-googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses.md",
       "title": "Google’s Project Guideline uses AI to help low-vision users navigate running courses",
       "excerpt": "The company also continues to develop Lookout, an accessibility-focused app that can identify packaged foods using computer vision, scan documents to make it easier to review letters and mail ...",
@@ -1205,6 +1154,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi.md",
+      "title": "Artificial Intelligence, Robotics Key To Fourth Industrial Revolution – Abdullahi",
+      "excerpt": "The director-general of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has identified emerging",
+      "sourceUrl": null,
+      "webUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
+      "originalUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://leadership.ng/wp-content/uploads/2020/08/Kashifu-Inuwa-Abdullahi-NITDA.jpg",
+          "width": 1080,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
+      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
+      "publishedDateTime": "2020-11-19T03:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LEADERSHIP Newspaper",
+        "domain": "leadership.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

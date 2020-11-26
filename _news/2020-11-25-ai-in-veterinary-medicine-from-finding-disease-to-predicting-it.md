@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-based earlier medicine development leveraging TWCC HPC to aid cancer prediction research"
+    excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
+    publishedDateTime: 2020-11-26T06:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20201126PD215.html?chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 27
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201126PD215_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
   - title: "AI-based earlier medicine development leveraging TWCC high performance computing services to boost cancer prediction research"
     excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
     publishedDateTime: 2020-11-26T06:10:00Z

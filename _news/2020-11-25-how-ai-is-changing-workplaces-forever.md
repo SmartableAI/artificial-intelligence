@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-chan
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
 type: article
 quality: 61
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGg6cCZ8Rne8A/article-cover_image-shrink_600_2000/0/1604448036281?e=1611792000&v=beta&t=2hZkY6xD6NAppNlU1gzdGF4P1S7mqJ9qZcJoKpRkwUY"
         width: 744
         height: 400
-        isCached: true
-  - title: "How Artificial Intelligence is being used in the Gaming Industry.."
-    excerpt: "Artificial Intelligence in the Gaming Industry Although one of the basic goals of artificial intelligence is to know and develop intelligent systems that have all the capabilities of humans, there's very little active research directly following that goal."
-    publishedDateTime: 2020-11-21T16:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-being-used-gaming-ashish-bhandari"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHtQ4GUAFNZoA/article-cover_image-shrink_600_2000/0?e=1611187200&v=beta&t=wVLNknReRtM_fJSQ6BrQvwjvbReYAWdqbVbARy9r1ww"
-        width: 1355
-        height: 600
         isCached: true
   - title: "Startup Circle: How is GigIndia connecting the freelancing workforce and workplaces?"
     excerpt: "The startup leverages technologies like machine learning and artificial intelligence for faster turnaround and quality checks. Read Sahil Sharma, CEO and Co-Founder of GigIndia talk about the startup."

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/entertainment-robots-mar
 webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23"
 type: article
 quality: 63
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SLAM Technology Market Outlook to 2024 | Global Industry to Witness Steady Growth of 71% CAGR"
+    excerpt: "Nov (Market Insight Reports) -- With the surging use of real-time 3D maps, SLAM technology market will surpass a revenue collection of USD 2"
+    publishedDateTime: 2020-11-26T08:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/slam-technology-market-outlook-to-2024-global-industry-to-witness-steady-growth-of-71-cagr-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

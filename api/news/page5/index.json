@@ -2,49 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
-      "title": "Houston implements facial recognition technology at airports",
-      "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "originalUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
-      "publishedDateTime": "2020-11-20T08:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-21-can-artificial-intelligence-give-elephants-a-winning-edge.md",
       "title": "Can artificial intelligence give elephants a winning edge?",
       "excerpt": "With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.",
@@ -1223,6 +1180,57 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world.md",
+      "title": "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world",
+      "excerpt": "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/ServiceNow_1-990x448-2.jpg",
+          "width": 990,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T12:30:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
       ]
     }
   ],

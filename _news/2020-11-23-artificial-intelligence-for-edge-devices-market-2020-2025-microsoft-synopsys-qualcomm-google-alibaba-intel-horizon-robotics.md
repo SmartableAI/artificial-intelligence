@@ -9,7 +9,7 @@ ampWebUrl: "https://www.openpr.com/amp/2193115/artificial-intelligence-for-edge-
 cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - AI in Robotics
   - AI
   - Microsoft AI
-
-related:
-  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2026"
-    excerpt: "MarketsandResearch.biz has added a new report Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
-    publishedDateTime: 2020-11-24T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "BXuTdDplzq7SC5woLY2e/T8nx0GIV4EbSmHFDFSpj8+TMBFQX0BGTvzcTxH8QScsFIivZqgLG+M1dHEopjpZ0tPElVm77os188jSoq/lUKUr5kH2ovio7sj4T7RgvpzbQRZWXD31CZfqIwMpy667iy0ckAg9syPIEuLcBxwBj8849Zr2BSx73uY2vxnvmLYM401rzXqhKXF3w/fbzyuGF4kDwDuIWtsQY35tTAZO/0QkeYmgUhkyoWGxsSz822ArzlVKYW3jht1IhWvLUCEe6qDtUsihuCCy2qwNFFWk0hqhk9zV6VQk5IGHCGhrnsdTg/ozG1cJnNHHnZZ1lweVS3PtPdsxtFEwbkU1HYzhCKc=;OcLhQTv7dDMqunTPePHAsw=="
 ---

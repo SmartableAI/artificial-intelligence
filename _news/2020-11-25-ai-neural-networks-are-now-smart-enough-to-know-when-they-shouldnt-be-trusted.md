@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 91
 published: true
 
 provider:

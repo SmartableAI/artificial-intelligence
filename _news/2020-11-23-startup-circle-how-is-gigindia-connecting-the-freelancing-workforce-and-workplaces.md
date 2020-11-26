@@ -87,20 +87,6 @@ related:
         width: 744
         height: 400
         isCached: true
-  - title: "How Artificial Intelligence is being used in the Gaming Industry.."
-    excerpt: "Artificial Intelligence in the Gaming Industry Although one of the basic goals of artificial intelligence is to know and develop intelligent systems that have all the capabilities of humans, there's very little active research directly following that goal."
-    publishedDateTime: 2020-11-21T16:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-being-used-gaming-ashish-bhandari"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHtQ4GUAFNZoA/article-cover_image-shrink_600_2000/0?e=1611187200&v=beta&t=wVLNknReRtM_fJSQ6BrQvwjvbReYAWdqbVbARy9r1ww"
-        width: 1355
-        height: 600
-        isCached: true
 
 secured: "urYONu3ZZwVGKl76SA8fQ7ZmGr338GX6o57Wujf2l2v6Ou/5nunYLehnh3wBMY7ZDr6h0naaeFCJ8FtJIJJCECRRFIjgwnm3d6hgTiZojfsKrw1kkx0jXjnsQPTlmaP0Vl7uL1SASVGT78uV6xRNQqGxnLj13T9izvXqDghY5B/4xSIXvq3mB3YBNml0G/657mjWYX2dsn/mWvqSZ2SrOSh27DGbQKOI495uogPT/uW/3Qk3Y8GD5Rv0Q4ntzh7HFDxukApmzCjZPuhna5mWsKQmNzKpM2PbdN/nbk0zSUGaynqO5TQi9kIdCBZwwqTr9HKDcVD8L/pOgmVQL8uRbm6VLjISnfJoUH0Q73326Us=;zJuMf4VqyU/o4Ky92wGWnA=="
 ---

@@ -2,57 +2,6 @@
   "page": 18,
   "value": [
     {
-      "path": "_news/2020-11-12-alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted.md",
-      "title": "Alexa is getting chattier as Amazon’s AI guesses what you really wanted",
-      "excerpt": "Alexa is about to get chattier, but Amazon thinks a more vocal AI will be welcome if she can correctly intuit what you might want out of the conversation. While Alexa-powered smart speakers have",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/",
-      "originalUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/amazon-echo-dot-4th-gen-2-1.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/amp/",
-      "publishedDateTime": "2020-11-11T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-12-top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars.md",
       "title": "Top Reasons The Investment Spigot Is Reopening For Self-Driving Cars",
       "excerpt": "Recent spate of investments in self-driving cars is due to key factors that are dovetailing at this moment in time.",
@@ -1231,6 +1180,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
+      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
+      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T00:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

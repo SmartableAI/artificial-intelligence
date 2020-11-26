@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "Emerald Jewellery unveils AI enabled mobile application platform"
+    excerpt: "IBM and Emerald Jewel Industry India Limited Emerald Jewellery one of India largest jewellery manufacturers today unveiled the Tej mobile app a first-o"
+    publishedDateTime: 2020-11-26T08:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267089832/emerald-jewellery-unveils-ai-enabled-mobile-application-platform"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1606380134.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Emerald Jewellery unveils AI enabled Mobile Application Platform for Jewellery B2B Business in collaboration with IBM"
     excerpt: "Emerald Jewellery, in collaboration with IBM, introduced AI-enabled Mobile Application Platform for Jewellery B2B Business in India."
     publishedDateTime: 2020-11-24T08:10:00Z

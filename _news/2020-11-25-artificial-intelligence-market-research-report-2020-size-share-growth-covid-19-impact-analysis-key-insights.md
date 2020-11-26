@@ -28,79 +28,47 @@ images:
     isCached: true
 
 related:
-  - title: "Wearable Artificial Intelligence (AI) Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Selbyville, Delaware Market Study Report LLC recently added a new title on 2019-2025 Global Wearable Artificial Intelligence (AI) Market Report from its database. The report provides study with in-depth overview,"
-    publishedDateTime: 2020-11-25T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2020-11-25"
+  - title: "Swarm Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The scope of the report includes a detailed study of Swarm Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The Swarm Intelligence Market is segmented on the Basis of Model Type,"
+    publishedDateTime: 2020-11-23T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 58
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
-    excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
-    publishedDateTime: 2020-11-26T06:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-industry-outlook-current-trends-and-forecast-by-2026-2020-11-25"
+  - title: "Global Computer Vision System Market 2020 Future Estimations with Top Key Players, Production Development and Opportunities to 2026"
+    excerpt: "Nov 23, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has newly published research study entitled Global Computer Vision System Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that incorporates the analysis of different ..."
+    publishedDateTime: 2020-11-23T21:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2020-future-estimations-with-top-key-players-production-development-and-opportunities-to-2026-2020-11-23"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
-    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
-    publishedDateTime: 2020-11-24T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market2020-research-growth-opportunities-analysis-and-forecasts-report-till-2026-2020-11-24"
+  - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast – Nov 2020"
+    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
+    publishedDateTime: 2020-11-24T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coronavirus-disease-covid-19-speech-and-voice-recognition-market--epidemiology-analysis-and-forecast-nov-2020-2020-11-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2020-11-25T10:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2020-opportunity-assessment-key-drivers-and-challenges-growth-rate-and-forecast-to-2025-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
-    publishedDateTime: 2020-11-23T15:07:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
-    publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
-    images:
-      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "7uLOsH05W5TB82mGrVs2vWLfFrpFMx2OXzo5XgnZxxNod9uwZey6qlJW8E2d3QgOCniweu1zxRm+uLQl12fFTKb7YyCFlI95NHGQHDV7nuvmYD/cc1QfkNMQIyC+RHKJhYgCzlSrD5Loy/GixeL8M+KP7KzlETqXgJ7bSznfn2X/t5ADYVAaX9YQRLJKQ2XquPsn4hbMLtSmFb/IPgHvs3HrF4POugru6baNHxIPAJuHEZEZ22taFMrtEo5tLiLgMeliU9gGsqF8O5yb7JBNaPYiFQ50UsDUdRk6g3GgyvYapv07MKpCIEMHgLLQ+5NN1zGNUpHHLfcheO8b1+9Sa5C/6PGNitnV+qVWDGXdLfg=;doMs1a66/qBb4Nx0Nk6GHw=="

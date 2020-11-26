@@ -878,51 +878,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-24-5-artificial-intelligence-ai-trends-well-see-in-2021.md",
-      "title": "5 Artificial Intelligence (AI) Trends We’ll See In 2021",
-      "excerpt": "Artificial intelligence (AI) is one of the most innovative, game-changing technologies and industries around today. From intelligent machine translation to neur",
-      "sourceUrl": null,
-      "webUrl": "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/",
-      "originalUrl": "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cxotoday.com/wp-content/uploads/2020/05/Artificial-Intelligence-1.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T22:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CXO Today",
-        "domain": "cxotoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-softbank-led-round-values-uber-like-truck-startup-at-12-billion.md",
       "title": "SoftBank-Led Round Values Uber-Like Truck Startup at $12 Billion",
       "excerpt": "known as Manbang in Chinese, said Tuesday it broke even this year and currently handles transactions for some 10 million truckers and 5 million shippers. It’s also expanding into automotive technology and backs autonomous trucking startup Plus.AI.",
@@ -1213,6 +1168,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-customizing-your-machine-translation-using-amazon-translate-active-custom-translation.md",
+      "title": "Customizing your machine translation using Amazon Translate Active Custom Translation",
+      "excerpt": "When translating the English phrase “How are you?” to Spanish, would you prefer to use “&iquest;C&oacute;mo est&aacute;s?” or “&iquest;C&oacute;mo est&aacute; usted?” instead? Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/23/Customizing-your-machine-7.jpg",
+          "width": 800,
+          "height": 407,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T13:43:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
       ]
     }
   ],

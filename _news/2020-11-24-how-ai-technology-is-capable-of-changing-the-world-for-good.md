@@ -75,20 +75,6 @@ related:
         width: 1416
         height: 829
         isCached: true
-  - title: "How Artificial Intelligence is being used in the Gaming Industry.."
-    excerpt: "Artificial Intelligence in the Gaming Industry Although one of the basic goals of artificial intelligence is to know and develop intelligent systems that have all the capabilities of humans, there's very little active research directly following that goal."
-    publishedDateTime: 2020-11-21T16:52:00Z
-    webUrl: "https://www.linkedin.com/pulse/how-artificial-intelligence-being-used-gaming-ashish-bhandari"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E12AQHtQ4GUAFNZoA/article-cover_image-shrink_600_2000/0?e=1611187200&v=beta&t=wVLNknReRtM_fJSQ6BrQvwjvbReYAWdqbVbARy9r1ww"
-        width: 1355
-        height: 600
-        isCached: true
   - title: "Startup Circle: How is GigIndia connecting the freelancing workforce and workplaces?"
     excerpt: "The startup leverages technologies like machine learning and artificial intelligence for faster turnaround and quality checks. Read Sahil Sharma, CEO and Co-Founder of GigIndia talk about the startup."
     publishedDateTime: 2020-11-23T07:48:00Z

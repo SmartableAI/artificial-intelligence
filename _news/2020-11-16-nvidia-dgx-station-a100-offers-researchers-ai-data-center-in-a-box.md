@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box"
-excerpt: "SC20--NVIDIA today announced the NVIDIADGX Station (TM) A100-- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
+excerpt: "NVIDIA today announced the NVIDIA DGX Station (TM) A100 -- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
 publishedDateTime: 2020-11-16T14:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
+originalUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "mI0sy7GUTAQBKz0p6UV8e1AWpS1CtrLmVD0JJyLgISGDJRVTk88vJIad8CvT2YLCef+SHQ3TylNjOtUgE7PcEqPkYkoyR/Se9BGyugT2MSKchC7aZM6etQRVvuBT0BYoMUDcGwKvxKTzTamNlSOO7G4fT4OrPZ7Cm0VGo/XyWC8FKbIcXEI/5wM+vp0cFRk9w+atWTQZ1et+unKCHxt51a0aXDDaJ/1SEPnmNGheaTaGNKrUDfp80qyiKRpHmZqGNBgnKmUFFmSyzLlxIeRW/4kEWXKxf7+xLpXw52uKU5HPkbCDC1LDAZcgNtbp1JBECYXxlNR9PKcLZ3mLZ/jxUy/hZuAHOTi/uoX4IE/NOjo=;F9/8TU3S6QZNIvvSCLQrlg=="
+secured: "jvQR6tki6I5l+Pg0PnDIzC7tIlx9kdicAP9badu5eCqE5SZFoji5e0SDprR7LscOj9yKBVSMT0HULUzui0B/WgL+Sy3ogo2eW3+oBFT94ApIIXZ0A0lnvd449pJq7dMvFkibtKQju+U+Adii3WAgb9j4QrC/1ocSSGIFkDUwh4uLlpInWYagVBSRTCKREiyqm/dNC65o8h31bVbsnshMUbIyV0GRtcylg1ZQTMkN/EiO31bBgZsf/+aePHfQtgaHd9M3YzeMTyWlROGuRO9rPMB585227VZAkct6wNANgvpg6NUOu2ALhz90TlyK+XpfiGMT7lQEzrRmcrdXmsYDEiOvK8Yflh8VL9O+EtLcn9g=;kiUW35oQqlIeCn48TRsA9g=="
 ---
 

@@ -2,58 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
-      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
-      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-ibm-and-amd-announce-joint-development-agreement-to-advance-confidential-computing-for-the-cloud-and-accelerate-artificial-intelligence.md",
       "title": "IBM and AMD Announce Joint Development Agreement to Advance Confidential Computing for the Cloud and Accelerate Artificial Intelligence",
       "excerpt": "PRNewswire/ -- IBM (NYSE: IBM) and AMD (NASDAQ: AMD) today announced a multi-year joint development agreement to enhance and extend the security and Artificial Intelligence (AI) offerings of both companies.",
@@ -987,6 +935,49 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-vysioneer-mary-bird-perkins-cancer-center-endeavor-to-make-artificial-intelligence-accessible-for-precision-radiation-therapy.md",
+      "title": "Vysioneer, Mary Bird Perkins Cancer Center Endeavor to Make Artificial Intelligence Accessible for Precision Radiation Therapy",
+      "excerpt": "AI software company, Vysioneer, and U.S. cancer center, Mary Bird Perkins, partner to further advance radiotherapy treatment outcomes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201110005155/en/Vysioneer-Mary-Bird-Perkins-Cancer-Center-Endeavor-to-Make-Artificial-Intelligence-Accessible-for-Precision-Radiation-Therapy",
+      "originalUrl": "https://www.businesswire.com/news/home/20201110005155/en/Vysioneer-Mary-Bird-Perkins-Cancer-Center-Endeavor-to-Make-Artificial-Intelligence-Accessible-for-Precision-Radiation-Therapy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201110005155/en/837083/23/Vysioneer_white_background.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T13:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {

@@ -2,58 +2,6 @@
   "page": 10,
   "value": [
     {
-      "path": "_news/2020-11-18-in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras.md",
-      "title": "In 2020, neural chips helped smartphones finally eclipse pro cameras",
-      "excerpt": "It’s hard to overstate AI’s impact on photography. Many of the innovations above are being made possible by neural cores in smartphone chips, powered by machine learning that enables the ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/",
-      "originalUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/polycamx.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/17/in-2020-neural-chips-helped-smartphones-finally-eclipse-pro-cameras/amp/",
-      "publishedDateTime": "2020-11-17T17:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-18-amazon-and-nxp-team-up-on-smart-car-cloud-computing-deal.md",
       "title": "Amazon and NXP team up on smart car cloud computing deal",
       "excerpt": "It also uses Amazon SageMaker and SageMaker Neo to build, train and deploy optimized machine learning models. Connected cars have numerous benefits but before these can be realized, automakers ...",
@@ -1184,6 +1132,57 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19.md",
+      "title": "AI discovered an old arthritis drug that can help elderly people survive COVID-19",
+      "excerpt": "A new study found a medication identified as a potential COVID-19 treatment reduced deaths by 71% in elderly patients with moderate or severe illness.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T120921.079-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/",
+      "publishedDateTime": "2020-11-17T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

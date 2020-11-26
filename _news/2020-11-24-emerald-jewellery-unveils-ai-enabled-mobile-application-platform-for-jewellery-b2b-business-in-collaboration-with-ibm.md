@@ -36,6 +36,20 @@ related:
       name: The Hindu
       domain: thehindu.com
     quality: 39
+  - title: "Emerald Jewellery unveils AI enabled mobile application platform"
+    excerpt: "IBM and Emerald Jewel Industry India Limited Emerald Jewellery one of India largest jewellery manufacturers today unveiled the Tej mobile app a first-o"
+    publishedDateTime: 2020-11-26T08:54:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/267089832/emerald-jewellery-unveils-ai-enabled-mobile-application-platform"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1606380134.jpg"
+        width: 630
+        height: 420
+        isCached: true
 
 secured: "o9FbBl2SjZs6sxKYWrPE7l8opVQ2pQGIZ0CN5+HaHOObYIsAyMevmjitoETl5li47506Vx1Xr7PFJNdfx2iwBg5ZZ/MJ9B1TgEgd3rxdBKH/iQKX097mSzOKZ34HmDsdsLrUMjP7UgiXAxKt8uuAKrjSXEVajjdTTuO6NQi36wqMy7TbEEyGg/+wxJQHwINFzMWcdBF2UuSJsKZvUYcRCPHvPd9O8qGpJBXXqwpoh2o0HTxhC/ClaPBz525WkHa77x1YBHL1pWcCHfMbOgd5aAmpUw63Hfw4/jFOBkdU4O5AmZFId3K/mO8rTbkXJ3t7+dw04uuIjsr89P7jJ3HxxNqK3rAQl1hQ4jcZl/ZdbRpu9hEdmAL1yesuuCmfF8eBcet0iZqgeUdnYe/4Ew5fGdqI34thZwkusDQ3jHZ/C/EoMGOoLK2sKHThAcREiqiW5/yzR7Wb73ksnN+UYH9oMsJaZUYei7yYiw+yZjIBeY7Qi3eHv9VP1QsEOwYYASI/yzTmB4ODYKxl4mJgsVfiDg==;DndJpcwtJsZRXJ2EzfdLaA=="
 ---

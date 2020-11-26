@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-09-sci-fi-master-ted-chiang-explores-the-rights-and-wrongs-of-artificial-intelligence.md",
+      "title": "Sci-fi master Ted Chiang explores the rights and wrongs of artificial intelligence",
+      "excerpt": "BOT or NOT? This special series explores the evolving relationship between humans and machines, examining the ways that robots, artificial intelligence and automation are impacting our work and lives. The story of Ted Chiang’s life includes stints as a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
+      "originalUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/Chiang-Publicity-630x444.jpg",
+          "width": 630,
+          "height": 444,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/sci-fi-master-ted-chiang-explores-rights-wrongs-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-08T13:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-09-walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry.md",
       "title": "Walmart Ditches Major Robot Contract: So What Does This Mean For The Industry?",
       "excerpt": "Walmart has been investing heavily in robots, such as for cleaning floors. But the company’s efforts have not been without their challenges. This week Walmart terminated its engagement with Bossa Nova Robotics,",
@@ -1362,58 +1414,6 @@
         "name": "The Standard Digital",
         "domain": "standardmedia.co.ke",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-the-robot-ships-are-coming-eventually.md",
-      "title": "The Robot Ships Are Coming … Eventually",
-      "excerpt": "is testing an AI-based navigation and operations system designed by Tel Aviv startup Orca-AI. He doesn’t foresee operating his own fleet of robot ships, but instead wants to use an AI captain to reduce the number of officers on the bridge. “It will be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "originalUrl": "https://www.wired.com/story/mayflower-autonomous-ships/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f9b59334300a8c7fc0750b3/master/pass/business_ships_mayflower.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/mayflower-autonomous-ships/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mayflower-autonomous-ships/amp",
-      "publishedDateTime": "2020-10-30T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

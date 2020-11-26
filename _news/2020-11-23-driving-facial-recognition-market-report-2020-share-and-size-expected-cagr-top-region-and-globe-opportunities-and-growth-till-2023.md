@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "SLAM Technology Market Outlook to 2024 | Global Industry to Witness Steady Growth of 71% CAGR"
+    excerpt: "Nov (Market Insight Reports) -- With the surging use of real-time 3D maps, SLAM technology market will surpass a revenue collection of USD 2"
+    publishedDateTime: 2020-11-26T08:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/slam-technology-market-outlook-to-2024-global-industry-to-witness-steady-growth-of-71-cagr-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2026"
     excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
     publishedDateTime: 2020-11-24T15:34:00Z

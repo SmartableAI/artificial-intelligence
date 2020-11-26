@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Vysioneer, Mary Bird Perkins Cancer Center Endeavor to Make Artificial Intelligence Accessible for Precision Radiation Therapy"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-10T17:16:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201110005155/vysioneer-mary-bird-perkins-cancer-center-endeavor-to-make-artificial-intelligence-accessible-for-precision-radiation-therapy"
-webUrl: "https://www.morningstar.com/news/business-wire/20201110005155/vysioneer-mary-bird-perkins-cancer-center-endeavor-to-make-artificial-intelligence-accessible-for-precision-radiation-therapy"
+excerpt: "AI software company, Vysioneer, and U.S. cancer center, Mary Bird Perkins, partner to further advance radiotherapy treatment outcomes."
+publishedDateTime: 2020-11-10T21:00:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201110005155/en/Vysioneer-Mary-Bird-Perkins-Cancer-Center-Endeavor-to-Make-Artificial-Intelligence-Accessible-for-Precision-Radiation-Therapy"
+webUrl: "https://www.businesswire.com/news/home/20201110005155/en/Vysioneer-Mary-Bird-Perkins-Cancer-Center-Endeavor-to-Make-Artificial-Intelligence-Accessible-for-Precision-Radiation-Therapy"
 type: article
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "FeFbIEQ8AVNQiguRwDPTiC+GcGR2BHQjo1Id0ccIdf/hImbq5TlJDnhsk9FHoZW93RGZrv9ctbfqN868jloLx9QGwZayXZ7zb0qHwA0LJvPq1QDSNyR1cnJ/qBBzETNA1SbmxgXnMCXT6M09fjHgrpFAtXUlD6gl5cLrF/h0X9ndWD5vXQ7bTFY4f6y7T3gz6w8F3Yre2/vTTdaYxQ1FtMkE3uCQcfarymtl04lXdOisq6SK0ovONbuTihT/ShoNzk8cHKk36QLd+TKCrovjEnEr5qR2i7WHrpLrDULrIXgCykPhmz+FNENRjBrB+W/OE9pJZ42D6PaUDyuvBdIHHYCjjcGjKsc5FBqLnqtKdRY=;JwTrPZueB2dqYVdIUQT9jg=="
+images:
+  - url: "https://mms.businesswire.com/media/20201110005155/en/837083/23/Vysioneer_white_background.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
+secured: "dv+T0FfPKeZdmbdQUnYIMjr5RTotkK1dXm2I/btKlkGKnH5pUzo9v7NM5ZaLqLSh6Zf5bOVlm8aNM7GMIrRLQosUFzTv4km2OCgyIPfb55EDzvKZNiOOg7b+Z1xnFwabaBMucuk8aCa5ANDIAimFczFMCv68omzsX5ZBdQQkJBzuk4H+7G+tiOwUajI3kcnYTJgePnyGXZixYek9Oba7VymMX+eNoXNw3Z0ezYWMonmLuaXrg+ZFvxnnVnHwWU2VXDK8Fvyjso4428aMrrMRG0Mc+Es2O9cEqwpVHZjZeSmB7fbVl7pb4hi1CYamszsb2eBxrfMk+2ymq0BOBzdnOgVzWITp6hm8h+rVL5Hq/v4=;41XVwnwM1o0Ds4wRF1qojw=="
 ---
 

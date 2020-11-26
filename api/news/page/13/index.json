@@ -2,57 +2,6 @@
   "page": 13,
   "value": [
     {
-      "path": "_news/2020-11-16-seven-things-cios-and-software-buyers-should-know-about-artificial-intelligence-before-making-decisions.md",
-      "title": "Seven things CIOs and Software Buyers should know about Artificial Intelligence before making decisions",
-      "excerpt": "First-hand insights into AI Applications Less then a year ago I joined ExB Group, one of the top tech companies in Europe dealing with Natural Language Processing (NLP) and Computer Vision applied to the field of Intelligent Document Processing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/seven-things-cios-software-buyers-should-know-artificial-andy-mura/?trackingId=FSNeoNQvR%2BCuJ54o0nTz4w%3D%3D",
-      "originalUrl": "https://www.linkedin.com/pulse/seven-things-cios-software-buyers-should-know-artificial-andy-mura/?trackingId=FSNeoNQvR%2BCuJ54o0nTz4w%3D%3D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQGn_tzl6uxl_Q/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=VOGcVUkYMYN7c_HdwyGFuhaBRvDyex9IlkpWBVmqeDA",
-          "width": 1082,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-15T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-16-this-paralyzed-man-can-feel-his-fingers-again-thanks-to-a-mind-controlled-robotic-arm.md",
       "title": "This paralyzed man can feel his fingers again thanks to a mind-controlled robotic arm",
       "excerpt": "is a global, multi-platform media and entertainment company. Powered by its own proprietary technology, Mashable is the go-to source for tech, digital culture and entertainment content for its ...",
@@ -1187,6 +1136,58 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-from-the-data-and-ai-expert-labs.md",
+      "title": "From the Data and AI Expert Labs",
+      "excerpt": "IBM&#8217;s Data and AI Expert Labs help guide organizations on their AI journeys. Expert Labs consultants represent years of data and AI expertise and offer best practices and business strategies to meet each organization&#8217;s unique needs. Last time, we covered the simple formula we use to help",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/2020_08_28_Blog_DataAndAIExpertLabs_Leadspace_V2.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T14:58:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
         "AI"
       ]
     }
