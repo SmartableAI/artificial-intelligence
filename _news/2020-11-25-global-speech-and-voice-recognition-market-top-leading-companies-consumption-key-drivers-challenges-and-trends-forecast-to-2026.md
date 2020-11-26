@@ -72,7 +72,7 @@ related:
     provider:
       name: Mint
       domain: livemint.com
-    quality: 56
+    quality: 58
     images:
       - url: "https://images.livemint.com/img/2020/11/26/600x338/UMANGnew-kVeB--621x414@LiveMint_1606417268976.jpg"
         width: 600

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Intelligent Industrial Robotics: An Answer for Smart Logistic Productivity in Post Covid"
-excerpt: "PRNewswire/ — As e-commerce volumes soar and labor shortages continue in the wake of the COVID-19 pandemic, more enterprises are seeking automated"
-publishedDateTime: 2020-11-25T12:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-301180280.html"
-webUrl: "https://www.prnewswire.com/news-releases/intelligent-industrial-robotics-an-answer-for-smart-logistic-productivity-in-post-covid-301180280.html"
+excerpt: "Mind Robotics’ intelligent industrial robots address key challenges facing industry players today with next-gen solutions that are accurate, precise, and cost-effective. Mech-Mind Robotics (“Mech-Mind”) is a fast-growing Chinese startup backed by leading venture capital including SEQUOIA Capital China and Intel Capital with its core massive applied technologies in high-performance 3D cameras,"
+publishedDateTime: 2020-11-25T13:02:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-6274bb8c29cf2525340cf3aae5380dd5"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-3d-technology-entertainment-and-media-technology-robotics-asia-6274bb8c29cf2525340cf3aae5380dd5"
 type: article
 quality: 45
 heat: 45
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1340623/1.jpg?p=facebook"
-    width: 1267
-    height: 663
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "Fzzo3LLtzQQFxHOJAdG330bH9I7z6AAiu8L8iM0H3TAicRlnYeIBkat+pa6g030u2Y80SRxbN3GcN+/stGgY1Nd3y8i0OMKFoTwMRtAaZB2I3ibwtFNg21p6lOXMow1KdzHD9AR27DxggdjyEsAGV68zkEgLmAM4xekzcP1hVbAuVuuTIhNn+IhBDYTgNHgW4EgV2XekyLOGzgJ1TSrB3TAPK8gmRsZ1QBiOAsO9Cec+3UUnkr0z4zQ7XnAri8UAEju0lEG4v0MTJQVC2oEJSxQR8yfAppN52ULwVJzwZ7LYEFV+f95jRE254q2og5uFlgPiX8mqWsDajTnu59FSw7Z3mQ8uprtriPMp7N3GFlo=;VQsq5slxyzXMsN8kuy/krw=="
+secured: "NBY2cXwv1gm0QHZjBqGmI9Fp+ZgsrETHSfbfhOo1dFRFQc4rU6t6qJkmUZ3iLzCL8I2bJOVib+9RE+Fayb7hJtqcOj2zQWr0GAzXu3xfNDkxzGImexfcVS3Zx6F7Hcf5otsRugoZCHpw20PmoYPuEqCLjlHkwNfz7nt3xsgm4zQtvlyvpEqxDbU61wvVIzcQWlLzPtHy1at4xuNj9SLSo4EfIFXKRbhVpFQLSAv9n6XnWt50C/h/77fuY7x3E24sObmdW8i2ZFlOhyApOe1GZgcXW3lfc2wuA0djN8awNGbiQxIl3MgfdglLJa8vTHntG3bocEzsNIqCXvCsade2lfdlHFyW1kD5Dqf/tSziodM=;9+W5epRVio9BXuSg/pQ5Kw=="
 ---
 

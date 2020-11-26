@@ -35,6 +35,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "Marcus Rashford to receive Sports Personality recognition for campaign work"
+    excerpt: "The Manchester United and England forward is soon to receive more recognition after the BBC Sports Personality ... Barbara Slater, director of BBC Sport, said: “Marcus’ endeavour to give a voice to those who find themselves in a situation that he ..."
+    publishedDateTime: 2020-11-26T22:54:00Z
+    webUrl: "https://www.leicestermercury.co.uk/news/uk-world-news/marcus-rashford-receive-sports-personality-4737087"
+    type: article
+    provider:
+      name: Leicester Mercury
+      domain: leicestermercury.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.bristolpost.co.uk/incoming/article4737091.ece/ALTERNATES/s1200/0_Marcus-Rashford-File-Photo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "1BfVLceQnpaooL149t4qINw5ArefVF66ZQEoC6jMoerqISu1DWZjD3rXuZ0F9E7X/0X3JK4vcLMfS0d+aQpq3cLNC9PVPRTxtmrdH0C0dYao715AVQ46j5wZlIvbkvZqWyjiNY8KkeoYAMw1Db28us9KJLKPYAGCZdrG6Yw8XlgLT4t7qCHldke2byhsrZCJq0RRqV3gnUM0I2uT24nnYmnxQUAGdKmCVuaIagzHcdnQPUhHmB4jYBE3uJ7bAbr64AfiNxiWRHJO/bZPWEqpVKmCjUP5+u/O2GPYbEh2g8mapL9CGwbuMzDKJwy9eXhCQcAlRA+HPKH1nQ0uzix+KuP6NekzgUJ+xQYvOz59pG+zR+tlo+0gTPiueg06qVaqtwZpK1eXRH76/iyYm7wE+NVgeU6URGb06UQGkcJi0b9NEPFy8O/c0pvNSd/gDt4aCAHyJuIKbGyJdavo9pAH1qmMrdYSGDK36BToF8ObOj4GdZirMjvTjt1Dx2SIccebBwj1C8vP3Hl6R77QD8xsig==;tZxtIUXxC3SyarCVZZrO7A=="
 ---

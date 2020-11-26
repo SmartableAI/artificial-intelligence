@@ -1,21 +1,20 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "JERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced ..."
-publishedDateTime: 2020-11-11T13:22:00Z
-originalUrl: "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html"
-webUrl: "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html"
+excerpt: "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2020-11-11T13:13:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
 type: article
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
@@ -23,6 +22,6 @@ images:
     height: 1414
     isCached: true
 
-secured: "6Ko2cZS8XxcW6uxmeXPDUc8SM/fRWKkvn8gLM5jL7wr7v1CL7dlxWFA3FcGRe6rTt5mGD4WCT6317iTT7ONmmLG4gkqyrryJN9eFJLWnwKlXggcct0rkW3VOrxyETS5BrkOZlvh0FTAp0stvCd5s2x28uTmcflLu/xJiK6EQEiw1gMwFILBFQfWI+aBFA3cfsZ84g2NlW0Pjqc3yEZ738B0FL05cGdGQNWz38/yzksJHF4K+5PhzgGABjW8Q7Dpc6DPx0JYHPogjDV9biokX60ikPiQEkZsjO81av2lgDx79iCnC+iXxjMl/SqAja6yPxlDbsdzRrtjsUXhOyrqAK9hWjhUNvzu0X3jKzeaFh38=;fK7j8cHQKxiJCnOQx1G9bQ=="
+secured: "ASeD3IDx/IGF7kLWlw4KHfftxwfm+gJ6NRylyjKgBAYjhX2oe3yEHXLgfvpAwFchIRL0Py7teliexxQ2C/sX4BPhY92udsWQUC/dwAOgf2XIzxtGRhSR3p3GR60CYy7H9B1wdB3brpWh3HN7k707gGk5rX9yUUMym01uPftUxoaPYPuGl8DbO/i5P+g3a5lsjjcMQR1WxxRCc9/Gz95RluodNIefecx+WW03NPxjFXrLINHJY6bSfpCxtIbkYpB3ABxqgOc5Ym/tpXbE1GS5Kr0iOtZKILklbyz/x8N8KZXYV4oSou2fjODMR/pLQ+cKgoayqJxn1dCMEu98WNdnoju2y+Y60GdaIymv4bnMMxI=;q6JJhB2EspJZEFjP//J7yg=="
 ---
 

@@ -1,37 +1,57 @@
 ---
 category: news
 title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-24T14:34:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
-webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
+excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
+publishedDateTime: 2020-11-24T08:09:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
+images:
+  - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
+
 related:
   - title: "Zalando Selects AWS as Its Preferred Cloud Provider"
-    excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and"
-    publishedDateTime: 2020-11-24T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24"
+    excerpt: "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud."
+    publishedDateTime: 2020-11-24T08:01:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "AWS secures Zalando and Mercado Libre customer wins in eCommerce play"
+    excerpt: "AWS has secured two customer wins in the field of eCommerce, with fashion platform Zalando and online commerce and payments provider Mercado Libre."
+    publishedDateTime: 2020-11-25T11:47:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/nov/25/aws-secures-zalando-and-mercado-libre-customer-wins-in-ecommerce-play/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 39
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/jurgar.png"
+        width: 800
+        height: 533
         isCached: true
   - title: "AWS becomes preferred cloud for e-commerce giants Mercado Libre and Zalando"
     excerpt: "Mercado Libre Inc. and Zalando SE, two major players in the global e-commerce market with millions of users each, have selected it as their preferred cloud provider. Mercado Libre is the largest online retail and payments provider in Latin America."
@@ -48,6 +68,6 @@ related:
         height: 513
         isCached: true
 
-secured: "HWbx2lMeNRnfBHPip6KxM1G/j/A7pp6bSIXaruUi19XMNgYqnYpoF2/ibqbwmwwFF3559nykHOiJRkGKflw5JUtN8s4v59WxROf5UtBi4Enbwdus5DAMYwBt/maMGCKli4slXcEe5ZqF/2QeHDPHQNu8gOjTowuyjFWBoKERPfWypUMqMM44YfzH6wOuj/kasrUJyXQpcsh8Z+RwEE5h1nrBVEDQY8DfXGoHSFA/UXzNp/zMJTuWPsPfy6kKKCxBays3mbI7ruI0QOYcfGm3I8622M/t0b3su4c835+G8uuuJAW3gMjTfhakitAM1NVZBs/ED5y6aa3MVtcCz08/aezccLwhiscGtbConq0Bf/U=;dNKXTxrDL6H4pfgCtHpl3Q=="
+secured: "+GJ9znlOtAnRolrZWFp7EWWmv6E4pI4PJyrA8M8t/0qFNJ1/TWT5OTGgxETzzmgZaXzJaUpAColx3x0yN1pJBafN+mGbmRIHCT0MAUdUQ3g3WePl8H2jriS6cM5bzHfQIItj7j2Q6XY5hnLmWfq2zaD3AmKHJbNc5/j7rHbvGgoJV8IcOvRaB2u3UX5JMy7fHSriuFT5CLBFktkcXX4Ect8V4w40thDlpcj1Ho2zCy2qLIIJ/5vJGUGGzHr6+BOHPjKu9ORB/tv+cYvx9p5FVyZRawxv/vHMFMEMzPnTE0kHlGXViRogrma3nYWwGTeUBM2YAtaLrTxcoNa2sn6RMNgEpqJiCw91un/lXYqcgzk=;plR7KTovyx73Tzm9PjN65Q=="
 ---
 

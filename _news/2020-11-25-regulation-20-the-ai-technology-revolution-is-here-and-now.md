@@ -67,6 +67,20 @@ related:
         width: 772
         height: 594
         isCached: true
+  - title: "NSW Health Pathology helping transform medical testing and patient care with cloud, data and AI"
+    excerpt: "For clinicians and public health workers, the opportunity to accelerate access to test results is equally important because it means enhancing outbreak prevention, faster treatment and better outcomes."
+    publishedDateTime: 2020-11-26T21:22:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/nsw-health-pathology-helping-transform-medical-testing-and-patient-care-with-cloud-data-and-ai/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/NSW-Health-2-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "byy91YW/1OWY/f7DKwkuFZzg2u39ZmxxF4MBEY+SJgGctbnl7SvpDQH2MWwiQLRoJUyAbwJdsef3VeJOJ+I6MqbgDyEGKJG4brxPEYiPOHv5n/8GX6OiK1oiKCedlHVNAjtMrCYMwDJnzOcmuHHmE9qg5ciYN4IuzXJwGQvcWtTFee8XwAGVO7e3qyRI/1jOtmkLQDCK13AIrgG3wbSzoLln7SCL3fTgTp5RGSuUFIYK9elaxyFlKmDjsJgODJ9MlTOSPVj54HJB2jDERS9bmptSJVPfiDHt6vdEvMON+986t+rJhFz15r6Ma/LpTzwm1kRHr3CD4P1g7GNf0ivBhz7FNJFw2y/FfJiY1Yizq1zil0OmZldC/ghdmH3Nq8sRd/YOpWKYwtW2YPJAkzkMKvvXBMLthiduY7K+o03iq4d4udDf2Vbauz95iPa8PLJYbZqvrhMWNs0/QUnepfa+edHw84c+8rij+a1ZmOcYGxPJyl/ffVRHMp7BERc51AMAqRcSDQOjvhXmHNpxLunoTQ==;grB6LyW2ZMegV5ADJ4Rnlg=="
 ---

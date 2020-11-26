@@ -41,6 +41,20 @@ related:
         width: 1300
         height: 541
         isCached: true
+  - title: "North America Machine Learning Market 2020 Dynamics, Trends, Emerging Growth Factors and Forecast to 2023"
+    excerpt: "Market Synopsis The North America Machine Learning Market is estimated to record a significant growth throughout"
+    publishedDateTime: 2020-11-25T12:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-2020-dynamics-trends-emerging-growth-factors-and-forecast-to-2023-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Obama to be honored by PEN America with Voice of Influence Award"
     excerpt: "PEN America announced Wednesday that Obama will receive its second annual Voice of Influence Award in recognition of how his writings “have traversed political, social, and ideological bounds and framed a self-reflective humanism that has marked his influence on public life."
     publishedDateTime: 2020-11-25T22:31:00Z

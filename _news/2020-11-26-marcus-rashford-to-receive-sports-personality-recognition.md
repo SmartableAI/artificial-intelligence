@@ -28,6 +28,20 @@ images:
 
 related:
   - title: "Marcus Rashford to receive Sports Personality recognition for campaign work"
+    excerpt: "The Manchester United and England forward is soon to receive more recognition after the BBC Sports Personality ... Barbara Slater, director of BBC Sport, said: “Marcus’ endeavour to give a voice to those who find themselves in a situation that he ..."
+    publishedDateTime: 2020-11-26T22:54:00Z
+    webUrl: "https://www.leicestermercury.co.uk/news/uk-world-news/marcus-rashford-receive-sports-personality-4737087"
+    type: article
+    provider:
+      name: Leicester Mercury
+      domain: leicestermercury.co.uk
+    quality: 37
+    images:
+      - url: "https://i2-prod.bristolpost.co.uk/incoming/article4737091.ece/ALTERNATES/s1200/0_Marcus-Rashford-File-Photo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Marcus Rashford to receive Sports Personality recognition for campaign work"
     excerpt: "Manchester United striker Rashford was last month made an MBE in the Queen’s Birthday Honours. Marcus Rashford has been praised for his work off the pitch Marcus Rashford will receive a special award as part of next month’s BBC Sports Personality of the Year ceremony for his work raising awareness of child food poverty in the UK."
     publishedDateTime: 2020-11-25T22:36:00Z
     webUrl: "https://www.shropshirestar.com/sport/uk-sports/2020/11/25/marcus-rashford-to-receive-sports-personality-recognition-for-campaign-work/"

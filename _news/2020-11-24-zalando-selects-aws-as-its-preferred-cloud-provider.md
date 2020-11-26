@@ -1,34 +1,44 @@
 ---
 category: news
 title: "Zalando Selects AWS as Its Preferred Cloud Provider"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and"
-publishedDateTime: 2020-11-24T15:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24"
-webUrl: "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24"
+excerpt: "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud."
+publishedDateTime: 2020-11-24T08:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940"
+webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940"
 type: article
-quality: 69
-heat: 89
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "AWS secures Zalando and Mercado Libre customer wins in eCommerce play"
+    excerpt: "AWS has secured two customer wins in the field of eCommerce, with fashion platform Zalando and online commerce and payments provider Mercado Libre."
+    publishedDateTime: 2020-11-25T11:47:00Z
+    webUrl: "https://cloudcomputing-news.net/news/2020/nov/25/aws-secures-zalando-and-mercado-libre-customer-wins-in-ecommerce-play/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 39
+    images:
+      - url: "https://cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/jurgar.png"
+        width: 800
+        height: 533
+        isCached: true
   - title: "AWS becomes preferred cloud for e-commerce giants Mercado Libre and Zalando"
     excerpt: "Mercado Libre Inc. and Zalando SE, two major players in the global e-commerce market with millions of users each, have selected it as their preferred cloud provider. Mercado Libre is the largest online retail and payments provider in Latin America."
     publishedDateTime: 2020-11-24T19:15:00Z
@@ -44,15 +54,20 @@ related:
         height: 513
         isCached: true
   - title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-    publishedDateTime: 2020-11-24T14:34:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
+    excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
+    publishedDateTime: 2020-11-24T08:09:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
     type: article
     provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 0
+      name: Business Wire
+      domain: businesswire.com
+    quality: 13
+    images:
+      - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
-secured: "OdIiW7COxRce0UFOpIhRgVdUjq2kMKsMQMSCUtKkqUZ4HCnopMr80tYLxuN4z4lpWgBfWKj+BQMf/PB01mQU/zoG9rgKCdA5nNxvZvcF5lh7S0F+baZiaah1TuUNp1xKMymNzf+mrTunx80kncOhoRHNuYXl3F4BMSHFCsnkeA2VhT7mlV7kkrqf5zkcAg0Vyo7Mp0iYCEn5xuWH7qU2MGLheT1oZVoUo4ePOS1beFlqx05xYoYW8edH7dV1XY2KAnllOtRQ1q+hEAszaG+4TSyvt1WzP8uiE7skAJm2Aro3V/rhZSe5c99kCgIGsaUo46EW/W3aBteSx5gI39egvbTGkMXGpjH16y68kNc1hlI=;YOytj0mQlli9iKjaKVAZtQ=="
+secured: "M3df7lovZpaaVyDZ5XC0VVowrCi0oCcCyMD64ufji9JoDi+y8OAoa2FJ8aFwqf0FT5jglqQmfo4ddOkUQifY+Rr2tgOuLm4TfO8CjQmWgLzP1J47QYp09X4+bHFDomqGzQx/KWpTPIm3uMWQCs8Tvz9xYHNoUT6Y/KbJXP6u+LvkbsRi4DB7V+Vd09NaPrSi5Wah6Fq7kd4f4NT1mEqahjC+NOGxysA4zdnjKW5YuFCQUJL2fT/qZh6NG5b1Vo1zLCtlFvVU8m47nynOZKzQ8BqYNj/5KWmDF8NDPgGGhQ15t41Vcmv959oWSgj+kVR2PKWG9128rcKh/eUT8SW6ac4jcUYuOr54oyQPbReAoek=;RkMRTXypO2xjaTDrS2Ea+Q=="
 ---
 

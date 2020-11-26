@@ -1,0 +1,92 @@
+---
+category: news
+title: "NSW Health Pathology helping transform medical testing and patient care with cloud, data and AI"
+excerpt: "For clinicians and public health workers, the opportunity to accelerate access to test results is equally important because it means enhancing outbreak prevention, faster treatment and better outcomes."
+publishedDateTime: 2020-11-26T21:22:00Z
+originalUrl: "https://news.microsoft.com/en-au/features/nsw-health-pathology-helping-transform-medical-testing-and-patient-care-with-cloud-data-and-ai/"
+webUrl: "https://news.microsoft.com/en-au/features/nsw-health-pathology-helping-transform-medical-testing-and-patient-care-with-cloud-data-and-ai/"
+type: article
+quality: 29
+heat: -1
+published: false
+
+provider:
+  name: Microsoft
+  domain: microsoft.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Microsoft AI
+  - AI
+  - AI in Healthcare
+
+images:
+  - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/NSW-Health-2-1024x683.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+related:
+  - title: "The Cloud, AI and the Transformation of Retail"
+    excerpt: "Google Cloud report covers the AI imperative in specialty retail, plus AWS weighs in on the pandemic’s influence."
+    publishedDateTime: 2020-11-22T17:19:00Z
+    webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
+    type: article
+    provider:
+      name: Women's Wear Daily
+      domain: wwd.com
+    quality: 41
+    images:
+      - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
+        width: 394
+        height: 263
+        isCached: true
+  - title: "Regulation 2.0: The AI technology revolution is here and now"
+    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
+    publishedDateTime: 2020-11-24T12:10:00Z
+    webUrl: "https://www.finextra.com/blogposting/19565/regulation-20-the-ai-technology-revolution-is-here-and-now"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Regulation 2.0 : The AI technology revolution is here and now"
+    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
+    publishedDateTime: 2020-11-24T17:36:00Z
+    webUrl: "https://www.finextra.com/blogposting/19568/regulation-20--the-ai-technology-revolution-is-here-and-now"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Stravito offers AI-powered information discovery solution"
+    excerpt: "New feature pushes market research of relevance to users so they can make insights-driven decisions without having to actively search for information"
+    publishedDateTime: 2020-11-24T14:16:00Z
+    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144048"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 37
+    images:
+      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
+        width: 772
+        height: 594
+        isCached: true
+
+secured: "XJZLF1oJEDserkasWiArbH/mG7q+SufLBgZE2ibaSs+NfCJPb4EvBf9mvaaVwzs/Gyf51HLSEnh37fF+CmT3PTvMqZEe3lfLVNzM6ceyjwBA+TwlgwPJ4tnmB/ViRosTeLLJEKxd7qkL6a04KFChfISr+KF1Yf1qRJV+kZBMzkDzFK4RPymibOZ2dA1Q/hz2OP3jsSUDfnZX2oCgMf9g57UENloPxXLIQsCz6jkwj+gWJU7bdYqjTF2yYzhZvlIqCT/eB3S1Qcgk/FYfBa33M7wqPlKRXcpXzstQsZglVjMJKSHx3s+vjjUUHcF/Qn2AhqnUDUi0tH1iIhpHcOsi4fCxr6dLbn6EnRzTMTXHc+s=;hdEdos9t7q32m50YqxzF3Q=="
+---
+

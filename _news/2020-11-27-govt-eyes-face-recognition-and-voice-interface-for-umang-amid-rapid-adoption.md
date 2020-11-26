@@ -8,7 +8,7 @@ webUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and
 ampWebUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.livemint.com/img/2020/11/26/600x338/UMANGnew-kVeB--621x414@LiveMint_1606417268976.jpg"
@@ -74,6 +75,6 @@ related:
         height: 630
         isCached: true
 
-secured: "7ccnoYCMzCfqdpFAKvYIWsWhC7po4XqQfMWSMPwcMgF3hBrVHsSzx8m3J6J609IlbyP9TvNIlHO9MNQdfz7GK2CtnfPYy2cgmxQBfu3YXWzcFEh1JpqLlvjpZlEAKXiaFiD/cjlIbMhch3oeFNAlxYTBxEkZKvBRaeDZmH4KUEgnImrlctBKk5pBfkoTycVqjNWPu+lm1d7PblB30ZJ4Cwomu2L1bYHx5zrwyLs9LTXpHxZPMattDIVGYQHC+Vq2/IznLMM2NuY1shzGgs6ruSHdbnqtKrfrb3KZiT8Q8PKS4QAObmVZRnWG8mfN9QnGI9MbnfzCWOofyKScoAtlwytDrba0SEpKIBdRV2aT5+M=;0CA5mFcRW7xCVAsKK1dydg=="
+secured: "Cb5yTOkvYb4x55eFwsBIbnOh/Lamcl4wNJrjW5R2GBljuWAaCakYZabx6czT54oTR2GbR1C2SMP4V05vYzXiqpiN3Huv5GpZ4MosU4K+vMO4OJo3EDbO+yw+9qcgRQuEQW8HjWw7jrs2YlI7/GCuM38wfUslyhtJF9bYhkfRawmrX62iZ59a6SRlw6+pnxF/RHzaHl3LLsXpma+rdxvBX0nngan4aPZiJ4/tELbMNz1c/zLJh9dzXzy0nH5CTJ96tFM/iwP/mSOM9Wd8Dnmc6P8mFirZN9TXWENQxSGz/o7cNITgmwCW8KClZRJmBIFfJnppCSxuKNhpG6BelCyj3q89e+fB4Dar1IkdZDhQs/2961gd4s2Q/ij842Kcg4uGTykmZeSLXKbX6Jtvck/Utwuq5z2mA2scCEDYX3XU6YDRqP2irWSU3qSRcjBIYgSzOTPYdR5M12Wyd9laI8uJJlmYKHeZvLAI5CSPwbWTgRmaz1qMowca/hqksdUtwWeGDmXo58rqJSlfWvsEmjfPnQ==;7jRK81x8Sk9ixGP1VfbXKw=="
 ---
 

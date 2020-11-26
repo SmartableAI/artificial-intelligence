@@ -8,8 +8,8 @@ webUrl: "https://www.telegraph.co.uk/technology/2020/11/23/driverless-car-start-
 ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/23/driverless-car-start-up-wayve-gets-richard-bransons-backing/amp/"
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/23/driverless-car-start-up-wayve-gets-richard-bransons-backing/amp/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Google AI
 
 images:
   - url: "https://www.telegraph.co.uk/content/dam/technology/2020/11/20/rabbit_trans_NvBQzQNjv4BqRvgVLawq_dMvLfk1PSlfSE0uKByAleblwt9bLCiHU8E.png"

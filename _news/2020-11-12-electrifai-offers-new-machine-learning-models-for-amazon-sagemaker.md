@@ -1,21 +1,30 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ..."
-publishedDateTime: 2020-11-12T01:04:00Z
-originalUrl: "https://www.thaipr.net/it/1033083"
-webUrl: "https://www.thaipr.net/it/1033083"
+excerpt: "Delivering fast and reliable machine learning business solutions JERSEY CITY, N.J., Nov. 11, 2020 -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2020-11-12T06:16:00Z
+originalUrl: "https://techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/"
+webUrl: "https://techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/"
+ampWebUrl: "https://techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/?amp"
+cdnAmpWebUrl: "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/?amp"
 type: article
 
 provider:
-  name: thaipr.net
-  domain: thaipr.net
+  name: techent.tv
+  domain: techent.tv
 
 topics:
-  - AWS AI
+  - AI in Finance
   - AI
   - Machine Learning
+  - AWS AI
 
-secured: "1FIJ49jVvjd9vKLV4TFYFg8B59FkJuGFcPG2/6JM51ck75jXA5gmaK+Ff14K6CXIZB7BEr7/ioc2OpfTGPU3Tv/x70BEiIcxkcLK0a3y1pG9DQr6Co+5oPad1PRDJ2yhTC/P+AugscJDNwG0bucjXE4rl0UdGiwqzBWeVn83WSfUIVi4knvHRsIO5bWWReSZw15hrAkz4fPVbQg7z6BCG5LgDE/VljIJ/Qzuk/WmmUey9oO0Yp/7XwQvK5KAuxR9ED4i6E0JTTT4tqPSOF4CNZmOizyohW2Mq8mp99Z1SFXdyKrAWjKVCr+Z8jxlLK+lPLTkTKtTuLIp/dTAK0/bBmhFZvQOYnwEsr3kJRWvtYk=;62UzCtSxDYGeF3HFxk9PZQ=="
+images:
+  - url: "https://techent.tv/wp-content/uploads/2019/12/techENT-logo-glow.png"
+    width: 719
+    height: 374
+    isCached: true
+
+secured: "s/piMC1zz6wWiLFOXq56O6VNC/mpOW7lCjq/fmln29FdgAkXPGpUN2QzBfmNURNTHirH04fEz34b02zJhUs38VpK0QJNZIjbBfoCTLWXBTvgy/QIXqyXNVQ9iwHti/eR/ssKl4C8gvG8YMob2bcgW3VXECZLpxJX32hoe4S4cDDHKSgcxAMZaRQErSEYZgxeCzIuVjId6fxO75aJu1QmK3sKqa8aUmeIumTNmC5H/v7KPWEXYbGsp4F+PRpD+Z3EYNcC+QEKEpP710YzZvfS671Wnpae5gesTminkTXSrlFziNDNOC/EjX3WTkMX+B6MpVEffW7z+UjNM/yVPTJMN2mdbKANClZnbQYvtTuYxTQ=;RoAfKt4O5fD5l+plGt1xKA=="
 ---
 
