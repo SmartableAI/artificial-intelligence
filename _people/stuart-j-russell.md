@@ -10,7 +10,7 @@ affiliation:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=2oy3OXYAAAAJ
-  citations: 87894
+  citations: 88139
 
 wikipedia:
   url: https://en.wikipedia.org/wiki/Stuart_J._Russell
