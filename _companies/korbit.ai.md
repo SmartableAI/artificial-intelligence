@@ -2,7 +2,7 @@
 name: "Korbit.ai"
 overview: "Powered by machine learning, intelligent tutors which teach students through interactive exercises and conversations."
 type: "profile"
-heat: 50
+heat: 43
 
 website: https://www.korbit.ai/
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "korbit_ai"
   url: "https://twitter.com/korbit_ai"
-  followers: 244
+  followers: 243
 
 locations:
   - Montréal, Québec
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Korbit.ai"
 
-secured: "ywL4pSKbCHT0qfZJSBNrn4RTE5qLqUdwX5ej3pngcpmDMqzqDPk3fnNxbMUbAjA6+sAW9k6a1use/EKZt8YWT9jRPL0Zn0+n2oZGKd98sVZ6UuYtmRcdZivQBH2kPqgbOLdX3m//cGJ9dQNngqJkI/DHVGy3Pl+0YNPtoZCINZP3E/clrgKgSkKAMYFEbDsVbUjm7hHl0Bhrak0Tjae6CK6mL0U/2LL5WwnlnGCHnG/HfA/DIqFK3lsSx+6WptJP7hvSpDnAOAS7F26mMyxTMo6rTHB6TDiUrc9vKdiKeSCuPRM1zj04jXhpLEQ88Zpx/MZJApIxTSRpDaCVs9rddp4Gsd/Mce+uK7+LQYeYxQ5jWrxCXYYzIVBBBpftv+dWcuBADO1DWz6+6ORxXxGy1w==;HZT3VcYAglUBOzjYenJ/UQ=="
+secured: "xQiluku/QcAsGNJvEF59L59TgdK1yWv9rk/SdGG7i17az/I2Xc5NyIisFu2Apm0zEjvBBp0MfvOiByZCUqkpOp4QOP/zySaiBMcAlK8kui4259LMr+rQxKgHUSa0VC/v/5hyiiN3Ht6tYFF5fZyYPTKwMf7C0uD7SM597V/l5raypsJAcjqjKDBiyPI+3Fr82oipY1qwYguPzFI8ARGbXwyk/nOUZxKZsXfZCzyKi0butH6F5xGmVFxsOCZnYnZ4MANFqcuRYhOlWLj2KeRxnV5eVG0Znjp0ETmdXKWwQvQvRAj9847n1uXSXoWXCb/TItQ+cMISEWfdRYBiJn/79twZba1DNwLXgF2BJjXYp9pvNp12SCTM/KOK5gjKlEIIthVax79EP/odl+daW+s5Kg==;xW0W++cXIiVOfGj5Xr4uFA=="
 ---
 

@@ -23,7 +23,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 64264
+        "followers": 64293
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -83,7 +83,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 76118
+        "followers": 76139
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -142,7 +142,7 @@
       "twitter": {
         "username": "zoox",
         "url": "https://twitter.com/zoox",
-        "followers": 12431
+        "followers": 12437
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2014,
@@ -200,7 +200,7 @@
       "twitter": {
         "username": "anki",
         "url": "https://twitter.com/anki",
-        "followers": 26882
+        "followers": 26876
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -258,7 +258,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 38312
+        "followers": 38874
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -305,7 +305,7 @@
       "twitter": {
         "username": "StarshipRobots",
         "url": "https://twitter.com/StarshipRobots",
-        "followers": 9618
+        "followers": 9650
       },
       "size": "201-500 employees",
       "yearFounded": 2014,
@@ -360,7 +360,7 @@
       "twitter": {
         "username": "anduriltech",
         "url": "https://twitter.com/anduriltech",
-        "followers": 6698
+        "followers": 6701
       },
       "size": "51-200 employees",
       "yearFounded": 2017,
@@ -413,7 +413,7 @@
       "twitter": {
         "username": "builtrobotics",
         "url": "https://twitter.com/builtrobotics",
-        "followers": 1017
+        "followers": 1018
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -472,7 +472,7 @@
       "twitter": {
         "username": "fetchrobotics",
         "url": "https://twitter.com/fetchrobotics",
-        "followers": 6870
+        "followers": 6874
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -526,7 +526,7 @@
       "twitter": {
         "username": "SkydioHQ",
         "url": "https://twitter.com/SkydioHQ",
-        "followers": 9515
+        "followers": 9520
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -578,7 +578,7 @@
       "twitter": {
         "username": "amprobotics",
         "url": "https://twitter.com/amprobotics",
-        "followers": 825
+        "followers": 830
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -637,7 +637,7 @@
       "twitter": {
         "username": "realtime_i",
         "url": "https://twitter.com/realtime_i",
-        "followers": 836
+        "followers": 837
       },
       "size": "2-10 employees",
       "yearFounded": 2016,
@@ -746,7 +746,7 @@
       "twitter": {
         "username": "preferrednet",
         "url": "https://twitter.com/preferrednet",
-        "followers": 5217
+        "followers": 5216
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -959,7 +959,7 @@
       "twitter": {
         "username": "bossanova",
         "url": "https://twitter.com/bossanova",
-        "followers": 1229
+        "followers": 1227
       },
       "size": "51-200 employees",
       "yearFounded": 2005,
@@ -1052,7 +1052,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/brightmachines.md",
@@ -1074,7 +1074,7 @@
       "twitter": {
         "username": "bright_machines",
         "url": "https://twitter.com/bright_machines",
-        "followers": 672
+        "followers": 673
       },
       "size": "201-500 employees",
       "yearFounded": 2018,
@@ -1164,7 +1164,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/cobaltrobotics.md",
@@ -1275,7 +1275,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/freedomrobotics.ai.md",
@@ -1297,7 +1297,7 @@
       "twitter": {
         "username": "FRDMROBOTICS",
         "url": "https://twitter.com/FRDMROBOTICS",
-        "followers": 409
+        "followers": 408
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1436,7 +1436,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/vicarious.md",
@@ -1569,7 +1569,7 @@
       "twitter": {
         "username": "marblerobot",
         "url": "https://twitter.com/marblerobot",
-        "followers": 396
+        "followers": 398
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -1628,7 +1628,7 @@
       "twitter": {
         "username": "neurala",
         "url": "https://twitter.com/neurala",
-        "followers": 2023
+        "followers": 2024
       },
       "size": "11-50 employees",
       "yearFounded": 2006,

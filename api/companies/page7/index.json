@@ -4,6 +4,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_companies/boulderai.md",
+      "title": "Boulder AI",
+      "excerpt": "Powering autonomous robots. Empowering their builders.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/boulderai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/boulderai/",
+      "type": "profile",
+      "name": "Boulder AI",
+      "overview": "Powering autonomous robots. Empowering their builders.",
+      "website": "https://www.boulderai.com",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/boulder-ai"
+      },
+      "twitter": {
+        "username": "boulderai",
+        "url": "https://www.twitter.com/boulderai",
+        "followers": 140
+      },
+      "yearFounded": 0,
+      "locations": [
+        "San Diego, CA"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=UoXpoP7ibGk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1078428191633489921/BpoV4n-T_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Boulder AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/braincorp.md",
+      "title": "Brain Corp",
+      "excerpt": "Brain Corp is a San Diego-based AI company creating transformative core technology for the robotics industry. Brain Corp’s comprehensive solutions support the builders of today's autonomous machines in successfully producing, deploying, and supporting robots across commercial industries and applications. Brain Corp is funded by the SoftBank Vision Fund and Qualcomm Ventures.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/braincorp/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/braincorp/",
+      "type": "profile",
+      "name": "Brain Corp",
+      "otherNames": [
+        "Brain"
+      ],
+      "overview": "Brain Corp is a San Diego-based AI company creating transformative core technology for the robotics industry. Brain Corp’s comprehensive solutions support the builders of today's autonomous machines in successfully producing, deploying, and supporting robots across commercial industries and applications. Brain Corp is funded by the SoftBank Vision Fund and Qualcomm Ventures.",
+      "website": "https://www.braincorp.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/brain-corporation/",
+        "followers": 9781
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/brain-corporation"
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "San Diego, CA",
+        "San Diego, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=XqYInxl6RIk"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1138832593795895301/H8AsQ5uU_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Brain Corp",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQH_eNjw2VBrog/company-logo_200_200/0?e=1594857600&v=beta&t=js-TWTaT1pVut4Pl1wc6HADoAOsfQjDA7GbwV57p4aM",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": ""
+    },
+    {
       "path": "_companies/brightmachines.md",
       "title": "Bright Machines",
       "excerpt": "We deliver intelligent, software-defined manufacturing by bringing together our flexible factory robots with intelligent software, production data and machine learning. Our growing, global team of more than 300 robotics, software and manufacturing industry veterans believe building physical things should be as seamless and simple as creating digital products. Our software-defined manufacturing platform helps customers innovate faster to meet the growing demands of a new era of manufacturing.",
@@ -23,7 +127,7 @@
       "twitter": {
         "username": "bright_machines",
         "url": "https://twitter.com/bright_machines",
-        "followers": 672
+        "followers": 673
       },
       "size": "201-500 employees",
       "yearFounded": 2018,
@@ -82,7 +186,7 @@
       "twitter": {
         "username": "buoyhealth",
         "url": "https://twitter.com/buoyhealth",
-        "followers": 1247
+        "followers": 1248
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -167,7 +271,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/care.ai.md",
@@ -252,7 +356,7 @@
         }
       ],
       "heat": 50,
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/clarifyhealth.md",
@@ -308,44 +412,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/clearbit.md",
-      "title": "Clearbit",
-      "excerpt": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/clearbit/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/clearbit/",
-      "type": "profile",
-      "name": "Clearbit",
-      "overview": "Clearbit develops business intelligence to help companies find more information of customers in order to increase sales and reduce fraud.",
-      "website": "https://www.clearbit.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/clearbit"
-      },
-      "twitter": {
-        "username": "clearbit",
-        "url": "https://twitter.com/clearbit",
-        "followers": 3859
-      },
-      "yearFounded": 0,
-      "locations": [
-        "San Francisco"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/885174521090646017/boQMtD4j_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Clearbit",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -453,7 +519,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/cnvrg.io.md",
@@ -475,7 +541,7 @@
       "twitter": {
         "username": "cnvrg_io",
         "url": "https://twitter.com/cnvrg_io",
-        "followers": 903
+        "followers": 902
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -564,44 +630,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collectivei.md",
-      "title": "Collective[i]",
-      "excerpt": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/collectivei/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/collectivei/",
-      "type": "profile",
-      "name": "Collective[i]",
-      "overview": "Collective[i]'s global network and application applies AI and ML to help companies better predict, manage, and grow revenue.",
-      "website": "https://www.collectivei.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/collective-i"
-      },
-      "twitter": {
-        "username": "collectivei",
-        "url": "https://twitter.com/collectivei",
-        "followers": 1127
-      },
-      "yearFounded": 0,
-      "locations": [
-        "New York, NY"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1267559599135219715/dJd4U-j-_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Collective[i]",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/cortica.md",
       "title": "Cortica",
       "excerpt": "Cortica is an Israeli company founded in 2007 with leading AI technology for autonomous platforms. The company’s Autonomous AI is based upon proprietary brain research and utilizes unsupervised-learning methodologies backed by more than 200 patents. The Cortica AI understands the visual world on a human level – thereby significantly exceeding the capabilities of the industry.",
@@ -680,7 +708,7 @@
       "twitter": {
         "username": "HeyCurrent",
         "url": "https://twitter.com/HeyCurrent",
-        "followers": 1468
+        "followers": 1469
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -760,7 +788,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/deeplens.ai.md",
@@ -926,7 +954,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/diagnocat.md",
@@ -971,7 +999,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/diligentrobots.md",
@@ -993,7 +1021,7 @@
       "twitter": {
         "username": "DiligentRobots",
         "url": "https://twitter.com/DiligentRobots",
-        "followers": 704
+        "followers": 705
       },
       "size": "2-10 employees",
       "yearFounded": 0,
@@ -1059,7 +1087,7 @@
         }
       ],
       "heat": 50,
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/embodied.me.md",
@@ -1108,7 +1136,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/eyediagnosis.net.md",
@@ -1154,7 +1182,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/fdna.md",
@@ -1176,7 +1204,7 @@
       "twitter": {
         "username": "FDNA",
         "url": "https://twitter.com/FDNA",
-        "followers": 6458
+        "followers": 6456
       },
       "size": "11-50 employees",
       "yearFounded": 2011,
@@ -1234,7 +1262,7 @@
       "twitter": {
         "username": "FRDMROBOTICS",
         "url": "https://twitter.com/FRDMROBOTICS",
-        "followers": 409
+        "followers": 408
       },
       "size": "11-50 employees",
       "yearFounded": 2018,
@@ -1287,7 +1315,7 @@
       "twitter": {
         "username": "fundbox",
         "url": "https://twitter.com/fundbox",
-        "followers": 7765
+        "followers": 7767
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -1376,7 +1404,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/gideonbros.net.md",
@@ -1475,7 +1503,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/hibrainy.md",
@@ -1522,7 +1550,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     }
   ],
   "nextPage": 8

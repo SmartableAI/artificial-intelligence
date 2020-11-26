@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 487073
+        "followers": 487232
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 64264
+        "followers": 64293
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -191,7 +191,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 5739
+        "followers": 5749
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -253,7 +253,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 53001
+        "followers": 53007
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -309,7 +309,7 @@
       "twitter": {
         "username": "airaio",
         "url": "https://twitter.com/airaio",
-        "followers": 4101
+        "followers": 4107
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -556,7 +556,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/alitheon.md",
@@ -702,7 +702,7 @@
       "twitter": {
         "username": "OrCam",
         "url": "https://twitter.com/OrCam",
-        "followers": 10526
+        "followers": 10524
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -787,7 +787,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/kuznech.md",
@@ -875,7 +875,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 24308
+        "followers": 24305
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -925,7 +925,7 @@
       "twitter": {
         "username": "sighthoundinc",
         "url": "https://twitter.com/sighthoundinc",
-        "followers": 415
+        "followers": 414
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1068,7 +1068,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/visionlabs.ai.md",
@@ -1115,7 +1115,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/xnor.ai.md",
@@ -1169,7 +1169,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_companies/trueface.ai.md",
@@ -1247,7 +1247,7 @@
       "twitter": {
         "username": "enlitic",
         "url": "https://twitter.com/enlitic",
-        "followers": 4787
+        "followers": 4785
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1429,7 +1429,7 @@
       "twitter": {
         "username": "clarifai",
         "url": "https://twitter.com/clarifai",
-        "followers": 8644
+        "followers": 8643
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
