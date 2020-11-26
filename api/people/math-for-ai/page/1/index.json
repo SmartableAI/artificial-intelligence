@@ -17,7 +17,7 @@
       "twitter": {
         "username": "KyleCranmer",
         "url": "https://twitter.com/KyleCranmer",
-        "followers": 9515
+        "followers": 9519
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=EZjSxgwAAAAJ",
@@ -57,7 +57,7 @@
       "twitter": {
         "username": "bschoelkopf",
         "url": "https://twitter.com/bschoelkopf",
-        "followers": 5937
+        "followers": 5972
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
@@ -121,7 +121,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/michael-i-jordan.md",
@@ -159,7 +159,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     }
   ]
 }

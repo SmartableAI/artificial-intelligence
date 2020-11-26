@@ -39,7 +39,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/lev-dudko.md",
@@ -73,7 +73,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/lily-asquith.md",
@@ -107,7 +107,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/lotfi-a-zadeh.md",
@@ -143,7 +143,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/luc-van-gool.md",
@@ -181,7 +181,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/lydia-e-kavraki.md",
@@ -216,7 +216,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/maja-j-mataric.md",
@@ -256,7 +256,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/mariya-yao.md",
@@ -271,7 +271,7 @@
       "twitter": {
         "username": "thinkmariya",
         "url": "https://twitter.com/thinkmariya",
-        "followers": 28339
+        "followers": 28332
       },
       "topics": [
         "AI"
@@ -320,7 +320,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/mherubahsan-161-15-726.md",
@@ -353,7 +353,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/michael-i-jordan.md",
@@ -391,7 +391,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/nick-bostrom.md",
@@ -428,7 +428,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/ray-kurzweil.md",
@@ -456,7 +456,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/sonja-betschart.md",
@@ -516,7 +516,7 @@
         "AI"
       ],
       "heat": 50,
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/yoshua-bengio.md",
@@ -555,7 +555,7 @@
           "isCached": false
         }
       ],
-      "content": "\r\n"
+      "content": ""
     },
     {
       "path": "_people/daniele-bonacorsi.md",
@@ -610,7 +610,7 @@
       "twitter": {
         "username": "noramayc",
         "url": "https://twitter.com/noramayc",
-        "followers": 17178
+        "followers": 17177
       },
       "topics": [
         "AI"
@@ -640,7 +640,7 @@
       "twitter": {
         "username": "verityharding",
         "url": "https://twitter.com/verityharding",
-        "followers": 2560
+        "followers": 2561
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Verity_Harding"
@@ -674,7 +674,7 @@
       "twitter": {
         "username": "robot_MD",
         "url": "https://twitter.com/robot_MD",
-        "followers": 11518
+        "followers": 11516
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/carol-reiley-7a91072/"
@@ -709,7 +709,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17568
+        "followers": 17566
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -762,7 +762,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 371423
+        "followers": 371479
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -822,7 +822,7 @@
       "twitter": {
         "username": "sougwen",
         "url": "https://twitter.com/sougwen",
-        "followers": 8449
+        "followers": 8448
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/sougwenchung/"
@@ -860,7 +860,7 @@
       "twitter": {
         "username": "TarynSouthern",
         "url": "https://twitter.com/TarynSouthern",
-        "followers": 67683
+        "followers": 67685
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/tarynsouthern/"
@@ -896,7 +896,7 @@
       "twitter": {
         "username": "vsikka",
         "url": "https://twitter.com/vsikka",
-        "followers": 248984
+        "followers": 248978
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Vishal_Sikka"
@@ -1010,7 +1010,7 @@
           "isCached": true
         }
       ],
-      "content": "\r\n"
+      "content": ""
     }
   ]
 }
