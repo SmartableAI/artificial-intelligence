@@ -29,17 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla is nearing $500 billion in market value. Elon Musk predicted self-driving cars would boost it to that level"
-    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net AP Photo/Mark Lennihan Elon Musk predicted last year that self-driving Teslas would boost the electric-vehicle maker's ..."
-    publishedDateTime: 2020-11-23T16:23:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-500-billion-market-cap-elon-musk-self-driving-cars-2020-11-1029830601"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-500-billion-market-cap-elon-musk-self-driving-cars-2020-11-1029830601"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-500-billion-market-cap-elon-musk-self-driving-cars-2020-11-1029830601"
+  - title: "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature"
+    excerpt: "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,"
+    publishedDateTime: 2020-11-26T13:10:00Z
+    webUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/"
+    ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: Tesla News
+      domain: teslarati.com
+    quality: 67
+    images:
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg"
+        width: 769
+        height: 432
+        isCached: true
+  - title: "The world's longest indoor test track for self-driving vehicles"
+    excerpt: "AstaZero is now building the world's longest indoor track for testing self-driving vehicles. AstaZero is the leading test bed for the automated transport systems of the future. With the new indoor track,"
+    publishedDateTime: 2020-11-23T13:01:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=379223"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 4
 
 secured: "CEaPUkwD4eQxh2z52LAZirtYDh1dbYQtjATb3nrUn51zQjLgNe+LwfAwYGzb+2zUfxpCwTm6jqsPRI+FLjY0tEWOZHxUi/vSEZ5aCooYyUyzOwdgEpwen2C7iqnoIcuT38guzJx7fryAUpAJ3gZ8pdeyof5rnBL1Lmx21suz4maiJ1s9BBcgkW6UYWVC2d+DJDIpaBpUItmslSYVz2xEdQycEx9wIsXXXhU5TGJPtaY+BlzctU2Q1fI/fsPXZHDoGFifnZOMtbWtLPrCmKf5rYY+FgFnuyQo0np2FL6qDA+hx+QdsyooBtmV6hvmb57fq/XHbtSqiAqfy+zqd/yDcRlUFJYZGPWm6+b6lymrdLzcatBo+6U+maXw+QsPo6aT/e0QyYHfyUYDC/1eSa+ItSs5VX4iGtgvgB008xf/8RdLKmSQGKa5cRGOGtooIKq/giWyM5/zaBwvOrxdTRM2gsNDvsarPjUyEi8M3l4ZZVqhrEaUyAhbTIWSngzOK8W5anXW2TFtMivXf7yxiOmhpA==;k2oJP15OUzW1s8hhovFvjQ=="
 ---

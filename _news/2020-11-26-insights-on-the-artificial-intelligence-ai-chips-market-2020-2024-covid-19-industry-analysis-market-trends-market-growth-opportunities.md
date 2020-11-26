@@ -3,10 +3,10 @@ category: news
 title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
 excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
 publishedDateTime: 2020-11-25T19:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
-webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
 type: article
-quality: 19
+quality: 2
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -76,6 +75,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market Size, Latest Trend, Growth by Size, Application and Forecast 2025"
+    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7%% in the forecast period of 2020 to 2025 and will expected to reach USD 6131."
+    publishedDateTime: 2020-11-26T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-latest-trend-growth-by-size-application-and-forecast-2025-2020-11-26?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -193,6 +206,6 @@ related:
       domain: morningstar.com
     quality: 8
 
-secured: "B9UFJ4s/vGY6g82eL0XgqSDkRHVe9QwDXNuOnEREOAdQYEM0JxrDhVnPMLnUdkfL2f7I/yxEuqHmA93DEhgJTd1TcPUcZasKtkssFvp0us0ksDhsSAjoScW9SSdQQg+h80Lhoo9B6SzIvQpr7rLxdYzHM0RPPztk2ielbZ3e74Jy1WdHdcwFB6o6f5TD4+cvdmVaRowpBwuzF0Qnhvs4IDp3F8LF4ZSLBfKqo11d2K/7cKpvE7yVY+hnUw0ajZzeLiEIfBAsLFgFNxu6rhkm+50xbchDSjd2m/L97BUF2a7WefX5ovefCfvGVIW/0xQ99lV+UyGsyHfiD5U87IC6TdhcNWn5etYviy8IQJT5eOs=;FU66Oh9LbHSxRJ0IYV9E8Q=="
+secured: "g5WJKtDqk1nGqFpaVjRUySPuPQquN1zxSUWFQfYyKhafgJHodbZVoDuiW60Rp4rSzYLeHc0HFfyylfZWeWbudnp6n5geHytAIe5oWFagw16Mj19L9PEi0DWaF5UvQoezdupVRBGHy1Wdh0BiDrmQKF/LpfoUeZg3NONCh9pAF1X0t7ZEYT3REUXhoevoUN/YRjt0hoahaRUigsoUjkNcRqdchprWuUnQfAx31oHI1+kjTe9bQyKniI2QhmB8Zvm/cTTskU9Ij2NXZfNLVRQnsOFhdCAfce1NGe58hnVAg8kWYa4YD1IX95Tr/GD0w8yb4yrAMSQ4JircgzQ0q7Rte5CZ7Kasp6JRn4P9sK3Vv4o=;ytH25+w5+zTRfQdfBnUqtg=="
 ---
 

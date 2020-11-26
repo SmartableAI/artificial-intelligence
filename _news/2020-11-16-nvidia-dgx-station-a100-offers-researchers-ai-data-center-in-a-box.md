@@ -1,10 +1,10 @@
 ---
 category: news
 title: "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box"
-excerpt: "SC20--NVIDIA today announced the NVIDIADGX Station (TM) A100-- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
+excerpt: "NVIDIA today announced the NVIDIA DGX Station (TM) A100 -- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,"
 publishedDateTime: 2020-11-16T14:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
-webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524"
+originalUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16"
+webUrl: "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16"
 type: article
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "/ZW5DtZtB7Zhrxi1pyOlJVIrI+2OMgZ0pW+iWVyZoxhNSDrWwaEWmHJWCbcEFyoGJJJBrZVC0mJ3jaIBPNrLEw29NELVG0uJy1L95ByaLgHq8TpTAi0Od1ZmTvFga1Pbr9a6W5NshnbLNqxhQK2eQv99WIFdI4SiVlHxoD5sUlaa2SHmOjiAiauC+jALajq4m22QvmeV++IS2TfhjTRRI/4aicAYTXpA1cqncixazmCxQLjEWBNzjqe4NvB0n+TPRNgXoDXq5ROHnooUbI7PMMzT/sxekVAIcdWhilndesAq8r9k6rNYH0ku3HKtLwvy2+oivi50otUxrof3gJha8MRoZBJSQOja+HaoI85vn+U=;3x6DmRyDNVR8ags0lSNRHg=="
+secured: "WUgzxbmS+th7KGBXxm00Umk259sxm/jLeiNP/woNp72wQFJQCNITXqkJyAiEk1KrUf9esmusBEdfVSbdzH13fhR30hMwa9HmGR/l6uC2ETUlySN54ZUwW1XZ8X1EHb20F29BzhUv/rsaNzbJXDsjqrJKzGUd5LQDm4prfEGWl5ShxABGf+gN5RytF6uhrins+QM506lGfR78LneHAVgfYGw9ro2YRSKqoiAj7x5rU/qyJTkUdZ8PG9+/7sgRDU2RDgh2AIZRCLytJAB0F245hboGOOiAX8ogvsOE7oxXx0BTkYoiEWsFXbBzSnsGbr0wNxHRs0Ev6ZXkSPltGTEZMc57NkNknIEPck8nijuX6wE=;9i9q1AwGV4Phd5YZg5aLag=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-industry-outlook-current-trends-and-forecast-by-2026-2020-11-25"
 type: article
 quality: 59
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market Size, Latest Trend, Growth by Size, Application and Forecast 2025"
+    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7%% in the forecast period of 2020 to 2025 and will expected to reach USD 6131."
+    publishedDateTime: 2020-11-26T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-latest-trend-growth-by-size-application-and-forecast-2025-2020-11-26?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -165,20 +179,6 @@ related:
       name: Media Update
       domain: mediaupdate.co.za
     quality: 19
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
-    publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
     excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
     publishedDateTime: 2020-11-23T09:03:00Z
@@ -197,6 +197,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 8
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "6V1x0oA4icuZySLDLmHo5e4Vi8IT2GjZW29okpiDkA3fly02GF48yuNUMgBQxyKCrfUEOMp3KKxDr+h8ICtxg3nXJZBZ0O87dgXf2rJlVN9cvj3HmSf8HPqnwM/Tui/cz5V6kUqeZk+ivxzs3C72nCduOhwE7GEAGEdq80JVTy3rVZmeqljHrl811tITa7tZ5FIk3Z+MWWSxnkhlfvz6Yylr6d/wbINH9/CMmaT4qvBfmoL09NQwR552eSUG0ibhlme6xys1zHllmR9C5a9YwqZ6LegFoj9rjpnb3Ng9qmRBMhlWXg3MRT/Wf8od2ILRbRpQfCBrj3Bh7taoVeQq7rgn2gDxSotLlMz+Sx60cP4=;KCFkRcm2VcCeUjSmh/Dy0g=="
 ---

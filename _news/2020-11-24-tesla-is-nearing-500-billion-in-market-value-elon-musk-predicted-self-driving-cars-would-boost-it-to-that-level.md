@@ -24,22 +24,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Tesla's 'full self-driving' feature could put Elon Musk on the path Tim Cook followed to make Apple the world's most valuable company"
-    excerpt: "Tesla's Autopilot upgrade and other software-based products have set up a \"profound\" shift in the company's business model, Morgan Stanley said."
-    publishedDateTime: 2020-11-24T13:48:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-tim-cook-tesla-apple-morgan-stanley-2020-11"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5fb842eb50e71a0011556a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-
 secured: "qleZXFoN7tqXnWmm+3xpuogBvzwmaBy1Lmf9WPaAprqtWNZXdqacQeKdrOTas9lIt0Zqi6GS27RScaoZz10T5Cp4n8P2xAO+4wRest2DjMb8temxPhZSuq5GnlTs9FmAkhC79Xt9rm2ZS1nfB2s0aocF9A5COe+mkBMQR8zDsFhGcmVfqVc5P5/cz7OAedDPMXZsol8hrwq1ldiIqskbpRytS2jBGYxWU2XDTxP3U1bMQNMmjhjnm9zurjM+Jv2jwDjrmEnTvzHvAFzJT/FZ/CgCObX5P2Qg+LtQbU/pi25GbSkTlLsutbplv73f7XBgbugY4pDx0PP808VRn6byQuul33xmEBOvesI55V87ahQ=;Y1RlN0UtrNC9KhFWNODzFg=="
 ---
 

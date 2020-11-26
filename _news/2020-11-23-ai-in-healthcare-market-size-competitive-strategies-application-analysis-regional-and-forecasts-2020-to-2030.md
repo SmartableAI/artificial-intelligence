@@ -75,6 +75,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence for Edge Devices Market Size, Latest Trend, Growth by Size, Application and Forecast 2025"
+    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7%% in the forecast period of 2020 to 2025 and will expected to reach USD 6131."
+    publishedDateTime: 2020-11-26T14:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-latest-trend-growth-by-size-application-and-forecast-2025-2020-11-26?tesla=y"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2026"
     excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
     publishedDateTime: 2020-11-24T12:49:00Z
@@ -168,20 +182,6 @@ related:
       name: Media Update
       domain: mediaupdate.co.za
     quality: 19
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
-    publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
-    images:
-      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
     publishedDateTime: 2020-11-23T15:07:00Z
@@ -191,6 +191,20 @@ related:
       name: Morningstar, Inc.
       domain: morningstar.com
     quality: 8
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "Eor6U9ibmYP6IsumOOthRl+ZVyRh4WizvYVs9gh/erDBAp64tmeaApKxhO0Ra/TNWjBQr1HVIWMT7kXIaikiCE6fHQLsIay8+b+z3WPeliTlKyNgsJLiD0GO83pOv4P0krovSYT9MO97Dotak4BtBISVTY+YPaUfYJt8Z/WuHGGS9X2Bp7I0ssgiLUxmYVyONO0kVPYBw8PJmGv4g6921bSQrKv0uhuF3O+Ik2YA3el1MzbWwSonFcWVVpSwgjJmWnowENoxAtAAMWEJPyL4RbRpNJjYfUQ+nsFFiyegJwz21ReExzcxJeczKv8tJcoSaERjLGolgbiFr0bsgQnVXzzyrtxfpoxK0KE8DQY8Rp1vH06pftmh9GAgur/Tvbp8ZlAV9a07xj6mQkrHpg3aW+ZGzkAFZpS/7hvAvpi+ZqwShd5/kq22r0PybGpDpOAe3n6jD0v2pSExcCXfPFJQ6seZ6RRSKaAa/EXu/VRauGXgYdD8j+F+xugahHyQNwZxCpSBelDSsYgnr6aWvJkVdw==;P+XGo6RaxVUroU4q/HRhPQ=="
 ---
