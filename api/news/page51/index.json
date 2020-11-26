@@ -2,6 +2,50 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-10-19-odias-globally-deliberate-on-leveraging-aiml-for-odishas-growth.md",
+      "title": "Odias globally deliberate on leveraging AI/ML for Odisha’s growth",
+      "excerpt": "In a virtual conference, Odias working in the area, discussed how Odisha, Odia language and Odia people can benefit from the emerging opportunities created by artificial intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
+      "originalUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/orissadiary.com/wp-content/uploads/2020/10/odiaamil.jpg?fit=747%2C334&ssl=1",
+          "width": 747,
+          "height": 334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
+      "cdnAmpWebUrl": "https://orissadiary-com.cdn.ampproject.org/c/s/orissadiary.com/odias-globally-deliberate-on-leveraging-ai-ml-for-odishas-growth/amp/",
+      "publishedDateTime": "2020-10-19T01:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-global-deep-learning-market-2020-business-strategies-ibm-corporation-intel-corporation-nvidia-corporation-alphabet-inc.md",
       "title": "Global Deep Learning Market 2020 Business Strategies – IBM Corporation, Intel Corporation, NVIDIA Corporation, Alphabet Inc.",
       "excerpt": "The Zion Market Research added a new report “Deep Learning Market: by Application (Speech Recognition, Image Recognition, Data Mining, Drug Discovery, Driver Assistance, and Others), by ...",
@@ -1059,49 +1103,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-sensor-fusion-enables-robotic-grip.md",
-      "title": "Sensor fusion enables robotic grip",
-      "excerpt": "Researchers at the National University of Singapore recently demonstrated the advantages of using neuromorphic sensor fusion to help robots grip and identify objects. It’s just one of a number of interesting projects they’ve been working on including ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.embedded.com/sensor-fusion-enables-robotic-grip/",
-      "originalUrl": "https://www.embedded.com/sensor-fusion-enables-robotic-grip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.embedded.com/wp-content/uploads/2020/10/img20201022091134Neuromorphic-Sensor-Fusion-Lets-_1.jpg",
-          "width": 640,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Embedded",
-        "domain": "embedded.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359653"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653"
 type: article
 quality: 89
-heat: 179
+heat: 189
 published: true
 
 provider:
@@ -135,6 +135,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The Big Opportunities at the Junction of AI and Analytics: Interview with Tom Davenport"
+    excerpt: "Tom Davenport has been one of the most influential advisors globally on the business impact and application of information technology. He made the topic of big data and analytics a boardroom issue with his groundbreaking 2006 Harvard Business Review article (“Competing on Analytics” 1) and a 2007 book 2 of the same name."
+    publishedDateTime: 2020-11-26T17:11:00Z
+    webUrl: "https://www.tcs.com/perspectives/articles/the-big-opportunites-at-the-junction-of-ai-and-analytics"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 11
   - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
     excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
     publishedDateTime: 2020-11-24T02:02:00Z

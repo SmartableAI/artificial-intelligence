@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "KFC turned to self-driving cars in China to deliver fried chicken limiting human contact"
+    excerpt: "Although it is still unknown if this dynamic is related to a marketing action or real tests for a future way of operating its services, the famous fried chicken franchise has delivered its orders door to door with these autonomous vehicles, a concept very ..."
+    publishedDateTime: 2020-11-26T18:56:00Z
+    webUrl: "https://www.entrepreneur.com/article/360486"
+    ampWebUrl: "https://www.entrepreneur.com/amphtml/360486"
+    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360486"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 65
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1606415702-KFC.jpg?width=600&crop=16:9"
+        width: 600
+        height: 338
+        isCached: true
   - title: "KFC Has Self-Driving Food Trucks in China And I Thirst For Chicken"
     excerpt: "The self-driving vehicles allow customers to select their KFC item of choice and pay by scanning a QR code. Upon payment the door will open so the customer can take their food. The trucks seem to have been first spotted on Twitter earlier this month."
     publishedDateTime: 2020-11-23T23:31:00Z

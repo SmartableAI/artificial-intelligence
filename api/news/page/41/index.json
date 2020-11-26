@@ -2,6 +2,49 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-10-26-how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms.md",
+      "title": "How artificial intelligence and machine learning power content-first newsrooms",
+      "excerpt": "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "originalUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1",
+          "width": 681,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "cdnAmpWebUrl": "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "publishedDateTime": "2020-10-25T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digiday",
+        "domain": "digiday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-dubai-introduces-facial-recognition-on-public-transport.md",
       "title": "Dubai introduces facial recognition on public transport",
       "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,",
@@ -1129,49 +1172,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-facial-recognition-market-increasing-instances-of-identity-theft-to-boost-the-market-growth-technavio.md",
-      "title": "Facial Recognition Market | Increasing Instances of Identity Theft to Boost the Market Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Facial Recognition Market 2020-2024 (Graphic: Business Wire) The facial recognition market research analysis identifies the increasing instances of identity threats as one of the primary growth factors for this market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

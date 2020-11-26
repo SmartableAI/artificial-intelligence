@@ -2,6 +2,59 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2020-10-30-this-month-in-aws-machine-learning-october-edition.md",
+      "title": "This month in AWS Machine Learning: October edition",
+      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-october-edition/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-october-edition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/OctBanner.jpg",
+          "width": 900,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T12:08:41-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-31-is-self-help-ai-the-new-trend.md",
       "title": "Is Self-Help AI The New Trend?",
       "excerpt": "With the use of artificial intelligence in healthcare taking off this year, companies creating AI-enabled tools to understand the mental health of individuals and their behaviors in group settings.",
@@ -1166,62 +1219,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe.md",
-      "title": "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe",
-      "excerpt": "From acquiring the data to labeling it and training the model to optimizing it, deep learning and AI demand niche skills that combine mathematics with data science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9bf8a2dbc46c0b82a29403%2F0x0.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/10/30/want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe/amp/",
-      "publishedDateTime": "2020-10-29T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "IBM AI",
-        "AWS AI",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

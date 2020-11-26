@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces Plans to Launch a Second Region in India"
-excerpt: "artificial intelligence, database, Internet of Things (IoT), machine learning, mobile services, serverless, and more to drive innovation. Customers and APN Partners welcome the news of the AWS ..."
-publishedDateTime: 2020-11-06T07:26:00Z
-originalUrl: "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/"
-webUrl: "https://www.cxotoday.com/press-release/aws-announces-plans-to-launch-a-second-region-in-india/"
+excerpt: "AWS offers over 175 fully featured services for compute, storage, databases, networking, analytics, robotics, machine learning and artificial intelligence (AI), Internet of Things (IoT), mobile ..."
+publishedDateTime: 2020-11-06T05:52:00Z
+originalUrl: "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-announces-plans-to-launch-a-second-region-in-india/article_3be3b84b-8ceb-51a5-b5ac-a86b423b4cec.html"
 type: article
 
 provider:
-  name: CXO Today
-  domain: cxotoday.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://www.cxotoday.com/wp-content/uploads/2020/06/AWS.jpg"
-    width: 2560
-    height: 1623
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "L4JxMmyFmG7AgmJn6eQI5mT2sf0dGCBEXGtUfDtXGBFt/LeitIAGu14GDrcRZQDzJh2PNskH8KHIgLa+XrQf6f2LzXLDtS/7oVdq9n66SUfYlBXyYRs+6GEf9GMGfLT2nK3yYuWN0ms61v+mMv2tKq4RioxAGanOhHPJ5rLGai2ltqrz6ghm0QkgxpqcadkknAwmmjun5z2j3yDRAFETNkUVfw/Q4eoaFjxsqnK1hnh0Ulw4mjzCd5wcSRxkn05+HAKHAw5aXZ2cP2fSU7+a232wTgCh74jiHcOhJAMvg4OkAP6IwlpclgqS2LHutz+slbm3t69bd7ZBRDva+mVYBkPVnnxxZhyvgIgwYACAvu4=;vM2tzMEST9aYY9GwIg+aUg=="
+secured: "60abU2qEeP0kPWojzNiu2aWjPFLtndbuiycO2SYPC6vDzMCfiEjubOrtGLL0hCDSSU6FLJK2+QHFX4+dSMCrCGrAxWvsThD/GXF/KYCZt0o5jbxBgQkbWnrDyfYwx+m1Zh9sH6MFtSLVxp6mauAVafaqC/x7QpaVmix803lLD1Qlts5U3X8Y+lKjXzp2Ftvua+fOGrzXS1juNb5HG+J4vpBfxqd4myZ6qI2rshKAGTeffPw9i7kKYyVpfCyR8NC3jeP6xus0pEbKQfkqO5pu0QG4YrcZfihTG37ltyKG9dSUOqQaJyferQF0JpjZuvpfd7XGrxsgI6pgsBn2Fsjfxut1SPa87rxHDwLwg/RDAqI=;NKmAqVFhRrwwanVaTWr/Tg=="
 ---
 

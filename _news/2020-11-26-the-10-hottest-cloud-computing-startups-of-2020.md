@@ -22,7 +22,7 @@ related:
   - title: "The 10 Coolest AI Chip Startups Of 2020"
     excerpt: "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads."
     publishedDateTime: 2020-11-26T15:08:00Z
-    webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/9"
+    webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
     type: article
     provider:
       name: CRN

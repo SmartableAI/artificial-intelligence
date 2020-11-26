@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus
 cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread"
-    excerpt: "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,"
-    publishedDateTime: 2020-11-22T01:56:00Z
-    webUrl: "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
-    ampWebUrl: "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
-    cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 70
-    images:
-      - url: "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg"
-        width: 670
-        height: 440
-        isCached: true
-  - title: "Face recognition attendance system for BMC staffers soon"
-    excerpt: "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,"
-    publishedDateTime: 2020-11-23T00:30:00Z
-    webUrl: "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon"
-    ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
-    type: article
-    provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
-    images:
-      - url: "https://cnt.trvdp.com/truvid_default/640X480.jpg"
-        width: 640
-        height: 480
-        isCached: true
   - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
     excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
     publishedDateTime: 2020-11-24T15:58:00Z
@@ -73,19 +41,19 @@ related:
         width: 750
         height: 435
         isCached: true
-  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
-    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
-    publishedDateTime: 2020-11-22T04:57:00Z
-    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
+  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
+    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
+    publishedDateTime: 2020-11-24T15:55:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
     type: article
     provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 12
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
     images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
-        width: 640
-        height: 480
+      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "QgxaDixhF3CQDEXcPzF3IDejaWOQFfAva295LJ4OTJKGpFCT3mwvp7MTdV13eV1k3PtukV2FC2OrODoDMCaTFJhFVOtXNp2jiaxe0GhSWqpeSwNmaID6iqaXrCT3uQWHBHpHhtHzpfZxYqA5EU4nQV9+dSR1VdsfRZJtzjmZJF51oFS01Fzz65BFVLsj4G+wV6iE/dyUfAO6trmFBAjCVKeyoQMWdbngfBUIznyOvK3eGkMjo+/3qCgtjuK9qFhHwD64+wMDnDUIHwjf1zZUkfAEuvWa6oK9YZEyqnrV9m0vJTbOE15JgLfotaIakTNt7sNVcThpIo4v1lQdNW53S9cLSEC5+BIHdFm9OLwLnTXA/DaxvCN3jcLAVUL8uQC9wXXExJPiA+nPQanlz3JXQP78nKozGGmcfAs3X6lyXd8u6oAmNSheOtfn10+VSrj4N7LvjRkN/V+35Z8yBrro3ACS2OTaN2vvVEuaMOWkOmAyNV5lStnzcegV3wAYB4pZjt3fOVFKHE0o1QW4ANVBsw==;nNo1XTGa2uG7AeC9+YYOIw=="

@@ -19,35 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature"
-    excerpt: "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,"
-    publishedDateTime: 2020-11-26T13:10:00Z
-    webUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/"
-    ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
+  - title: "The Dangers of Autonomous Vehicles: What’s Stopping Self-Driving Cars From Worldwide Adoption"
+    excerpt: "Autonomous vehicles are one of the most talked-about technological breakthroughs of the past decade. But as we approach the end of another year of testing issues and minimal developments within the industry,"
+    publishedDateTime: 2020-11-24T07:02:00Z
+    webUrl: "https://techbullion.com/the-dangers-of-autonomous-vehicles-whats-stopping-self-driving-cars-from-worldwide-adoption/"
+    ampWebUrl: "https://techbullion.com/the-dangers-of-autonomous-vehicles-whats-stopping-self-driving-cars-from-worldwide-adoption/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/the-dangers-of-autonomous-vehicles-whats-stopping-self-driving-cars-from-worldwide-adoption/amp/"
     type: article
     provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 67
+      name: Impacts
+      domain: techbullion.com
+    quality: 33
     images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg"
-        width: 769
-        height: 432
+      - url: "https://techbullion.com/wp-content/uploads/2020/11/Autonomous-Vehicles.png"
+        width: 1198
+        height: 500
         isCached: true
-  - title: "Tesla's 'full self-driving' feature could put Elon Musk on the path Tim Cook followed to make Apple the world's most valuable company"
-    excerpt: "Tesla's Autopilot upgrade and other software-based products have set up a \"profound\" shift in the company's business model, Morgan Stanley said."
-    publishedDateTime: 2020-11-24T13:48:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-tim-cook-tesla-apple-morgan-stanley-2020-11"
+  - title: "AstaZero Building the World's Longest Indoor Track for Testing Self-driving Vehicles"
+    excerpt: "The Swedish test bed AstaZero, located in Hällered outside Borås, is the world's first full-scale independent test and demonstration environment for future traffic safety. Every year, more than 1.2 million people worldwide are killed in traffic accidents."
+    publishedDateTime: 2020-11-23T19:05:00Z
+    webUrl: "https://www.automation.com/en-us/articles/november-2020/astazero-building-the-world-s-longest-indoor-track"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: Automation
+      domain: automation.com
+    quality: 17
     images:
-      - url: "https://i.insider.com/5fb842eb50e71a0011556a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.automation.com/getmedia/dbe01cee-dd1f-4274-a900-3c3767aa3768/self-driving-vehicle-nov23-2020-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
 
 secured: "0Oxp0oEu6CpUzPg1WfvbOmaJM4nnBl9tVSU/EFwXssnFBYButXpUoArb51SLaO2eJFpTPbVdQuGU65Spw6hTIJ7OGIpsNfck1dbUc4b0eKLjhE5KCl2kIz1EKW81VltFmWcCel1IfHDyHhaKmID/z88rbP8nVr9pjlzw27C3JwzhX17GyJDqogTIY7RauOKp622CNK8m4T1wlK9/tLJILf7Og7ZpmRyyaXY54yZkCqI/nonJ4xXXeuL/4StYHJ65cgZFDz0mTZYq7wIr9oQx19uqz+llEhmsEcwo3R0/S6tp+CAee0iN0Rbrn0BjR4LU7Kb4nWrU5LZZurSU+FBZusKH604JtjZbM44LSNPCYh8=;NHh2FU8BctDUaux/eRgztg=="

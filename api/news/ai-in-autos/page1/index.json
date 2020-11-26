@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-26-teslas-air-suspension-work-for-full-self-driving-will-be-a-killer-cybertruck-feature.md",
-      "title": "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature",
-      "excerpt": "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,",
+      "path": "_news/2020-11-27-watch-tesla-full-self-driving-beta-yield-for-pedestrian-in-intersection-that-would-give-some-humans-pause.md",
+      "title": "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause",
+      "excerpt": "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause.",
       "sourceUrl": null,
-      "webUrl": "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/",
-      "originalUrl": "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/",
+      "webUrl": "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/",
+      "originalUrl": "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg",
-          "width": 769,
-          "height": 432,
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-FSd-beta-pedestrian-yeilding.jpg?quality=82&strip=all",
+          "width": 3584,
+          "height": 1598,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/",
-      "cdnAmpWebUrl": "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/",
-      "publishedDateTime": "2020-11-26T05:10:00-08:00",
+      "ampWebUrl": "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/",
+      "publishedDateTime": "2020-11-26T09:57:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Tesla News",
-        "domain": "teslarati.com",
-        "images": null,
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -157,7 +166,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {

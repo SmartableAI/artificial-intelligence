@@ -2,6 +2,58 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-11-02-ai-artificial-intelligence-lessons-from-the-world-series.md",
+      "title": "AI (Artificial Intelligence) Lessons From The World Series",
+      "excerpt": "So in light of all this, what are the lessons here? To answer this question, I asked some top people in the AI field and here’s what they had to say: Hindsight is always 20/20, but Cash’s decision to pull Snell illustrates the myopia that can occur when analytics are elevated above commonsense.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ef353188dd3a517f19ceb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2715%26cropY1%3D122%26cropY2%3D1651",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/01/ai-artificial-intelligence-lessons-from-the-world-series/amp/",
+      "publishedDateTime": "2020-11-01T10:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-02-amd-will-share-more-info-on-radeon-rx-6000-gpus-ray-tracing-and-ai-supersampling-tech.md",
       "title": "AMD will share more info on Radeon RX 6000 GPU’s Ray Tracing and AI Supersampling tech",
       "excerpt": "AMD’s Frank Azor just confirmed that AMD will provide more information about ray tracing and AI super sampling tech before the RX 6000 launch date.",
@@ -1173,59 +1225,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-this-month-in-aws-machine-learning-october-edition.md",
-      "title": "This month in AWS Machine Learning: October edition",
-      "excerpt": "Every day there is something new going on in the world of AWS Machine Learning—from launches to new to use cases to interactive trainings. We’re packaging some of the not-to-miss information from the ML Blog and beyond for easy perusing each month. Check back at the end of each month for the latest roundup.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-october-edition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/this-month-in-aws-machine-learning-october-edition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/30/OctBanner.jpg",
-          "width": 900,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-30T12:08:41-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

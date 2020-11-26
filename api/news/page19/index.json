@@ -2,6 +2,60 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-11-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
+      "title": "People suffering depression and anxiety want to reveal their pain — to a robot",
+      "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "publishedDateTime": "2020-11-11T07:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-ibm-and-amd-partner-up-to-accelerate-development-in-cloud-computing-and-artificial-intelligence.md",
       "title": "IBM and AMD Partner Up to Accelerate Development in Cloud Computing and Artificial Intelligence",
       "excerpt": "International Business Machines ( NYSE:IBM) and Advanced Micro Devices ( NASDAQ:AMD) today announced a multiyear agreement to bolster security and artificial intelligence (AI). Under terms of the deal,",
@@ -1149,49 +1203,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-advanced-computing-in-pharma-medtech-how-cognitive-biases-can-cost-you-millions.md",
-      "title": "Advanced Computing In Pharma & Medtech: How Cognitive Biases Can Cost You Millions",
-      "excerpt": "The life science industry is another example, as three forces are combining to make it vital for these companies to profitably use sophisticated computing technologies: Huge profit opportunity from looming healthcare services shortage: Many experts predict a large shortage of physicians and nurses in the United States over the next decade,",
-      "sourceUrl": null,
-      "webUrl": "https://www.meddeviceonline.com/doc/advanced-computing-in-pharma-medtech-how-cognitive-biases-can-cost-you-millions-0001",
-      "originalUrl": "https://www.meddeviceonline.com/doc/advanced-computing-in-pharma-medtech-how-cognitive-biases-can-cost-you-millions-0001",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://vertassets.blob.core.windows.net/image/30df55cd/30df55cd-88be-4040-9880-7ca21e28be8d/istock_926295810.jpg",
-          "width": 638,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Med Device Online",
-        "domain": "meddeviceonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

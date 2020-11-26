@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-20-this-robot-makes-you-boba-tea-at-a-fully-automated-bar-because-of-course-thats-a-thing.md",
+      "title": "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing",
+      "excerpt": "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
+      "originalUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/obl0feili4mg3ytimcml.jpg",
+          "width": 800,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
+      "publishedDateTime": "2020-11-19T19:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-artificial-intelligence-and-machine-learning-course.md",
       "title": "Artificial intelligence and machine learning course",
       "excerpt": "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning.",
@@ -1169,58 +1221,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-uber-looks-to-partner-with-self-driving-companies-ceo-says.md",
-      "title": "Uber Looks to Partner With Self-Driving Companies, CEO Says",
-      "excerpt": "The remarks come days after a media report said the company was in discussions to sell its autonomous-vehicle unit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601521%2Fgettyimages-994728156.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/19/uber-looking-to-partner-with-self-driving-companie/",
-      "publishedDateTime": "2020-11-19T06:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

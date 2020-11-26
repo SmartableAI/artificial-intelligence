@@ -25,67 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread"
-    excerpt: "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,"
-    publishedDateTime: 2020-11-22T01:56:00Z
-    webUrl: "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
-    ampWebUrl: "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
-    cdnAmpWebUrl: "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249"
+  - title: "Swarm Intelligence Market Forecast to 2027 – COVID-19 Impact and Regional Analysis"
+    excerpt: "The scope of the report includes a detailed study of Swarm Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. Browse Full Report Here:  The Swarm Intelligence Market is segmented on the Basis of Model Type,"
+    publishedDateTime: 2020-11-23T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/swarm-intelligence-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-23"
     type: article
     provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 70
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg"
-        width: 670
-        height: 440
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Face recognition attendance system for BMC staffers soon"
-    excerpt: "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,"
-    publishedDateTime: 2020-11-23T00:30:00Z
-    webUrl: "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon"
-    ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
-    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
+  - title: "Artificial Intelligence Market Research Report 2020 Size, Share, Growth, Covid-19 Impact Analysis, key Insights"
+    excerpt: "Selbyville, Delaware Market Study Report LLC: Artificial Intelligence Market Research Report provides key analysis on the market status of the Artificial Intelligence market manufacturers with best facts and figures,"
+    publishedDateTime: 2020-11-24T20:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-research-report-2020-size-share-growth-covid-19-impact-analysis-key-insights-2020-11-24"
     type: article
     provider:
-      name: The Free Press Journal
-      domain: freepressjournal.in
-    quality: 59
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
-      - url: "https://cnt.trvdp.com/truvid_default/640X480.jpg"
-        width: 640
-        height: 480
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
-    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
-    publishedDateTime: 2020-11-24T02:37:00Z
-    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+  - title: "Coronavirus Disease (COVID-19): Speech and Voice Recognition Market- Epidemiology Analysis and Forecast – Nov 2020"
+    excerpt: "The Global Speech and Voice Recognition Market was valued at USD 5.21 billion in 2016 and is projected to reach USD 26.15 billion by 2025, growing at a CAGR of 19.63% from 2017 to 2025. Voice and Speech Recognition is the ability of a machine or program that can identify,"
+    publishedDateTime: 2020-11-24T09:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/coronavirus-disease-covid-19-speech-and-voice-recognition-market--epidemiology-analysis-and-forecast-nov-2020-2020-11-24"
     type: article
     provider:
-      name: CBS News 8
-      domain: cbs8.com
-    quality: 44
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
-      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
-    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
-    publishedDateTime: 2020-11-24T15:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
-        width: 750
-        height: 435
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Cbfxn0pqGxQ/maivNFTMl/jYGKT/WRYJScfI/vteiGE5vBXGV7Xw/SDNW1evgpIWZDQpzhHn0DLlqAFp87H+WOrC5Tw9uZ8b+d+W5qmioGVqcF1mgw+dN9QipS6rWmrcy28zrLsHfIz3FgyCC7cs3jNc/5ZMkdEmW8L5SOEo5LXH5Bv/YEjpC2SyH96PhpXG2n9iXuiuTD68CHimJmI+dcyLXi/lwdB+A33UdKH+TrmYVJvbuRhIdiPFsLiPtW/lTUAwaz+Q6Zp2PbzC+7tFCHBZLRN5NOvvtASt4fVQBDxniyug4qqecZmXsyy5DTaXpsi/U1ORV60VoxpfNW9w3HRKEQFL0UzX1fxxRwd8Svc=;wedudzGj2h7XMbNoZL/VSw=="

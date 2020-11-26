@@ -7,7 +7,7 @@ originalUrl: "https://www.analyticsinsight.net/facial-recognition-is-adept-at-sp
 webUrl: "https://www.analyticsinsight.net/facial-recognition-is-adept-at-spotting-rare-genetic-disorders/"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 900
     height: 500
     isCached: true
+
+related:
+  - title: "Face recognition attendance system for BMC staffers soon"
+    excerpt: "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,"
+    publishedDateTime: 2020-11-23T00:30:00Z
+    webUrl: "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon"
+    ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
+    type: article
+    provider:
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
+    images:
+      - url: "https://cnt.trvdp.com/truvid_default/640X480.jpg"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "Q6U34uC/2ED3HVbUgDg8wRpIJwBPKH4+6dSQxQQjalkdZreqdh1sUQNZvKa/oFj+Y202OJtqbrWCMdVVmXIi1BOim2UoLTzdC1XKddfxZNh2eTtf3q9IJWOoSyc70FXof1HWHpzk6hgW2+tA9Y9JDKaxpkoUtLInsUKGvtBz+VEvgK3DMNr289HBajS0AdgEHdcy7BWJsdhXKDiYOkSgZiXCWCZg35Uz9SWVgM3TZ3cD99Yj0MJXxnbODapad9XL+Gq5X/kkb2oCQXToUkYjKQIeUlH6r0gzYjxSJH6oq0iOrShhz5tS4NLcn2yjiHg4LwrY99A7y9ryXXt8eN5XxG2NTu3EViZ0ZOnRCW1g3AM=;DnCOrnBgRsBGoCdvhmiRtQ=="
 ---

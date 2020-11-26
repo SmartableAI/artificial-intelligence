@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-25-amazon-forecast-now-supports-accuracy-measurements-for-individual-items.md",
+      "title": "Amazon Forecast now supports accuracy measurements for individual items",
+      "excerpt": "We’re excited to announce that you can now measure the accuracy of forecasts for individual items in Amazon Forecast, allowing you to better understand your forecasting model’s performance for the items that most impact your business. Improving forecast accuracy for specific items—such as those with",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-accuracy-measurements-for-individual-items/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-accuracy-measurements-for-individual-items/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/Cropped.jpg",
+          "width": 800,
+          "height": 451,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T17:38:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-amazon-lex-launches-support-for-latin-american-spanish-and-german.md",
       "title": "Amazon Lex launches support for Latin American Spanish and German",
       "excerpt": "&iexcl;Amazon Lex lanza soporte para espa&ntilde;ol para Am&eacute;rica Latina! Amazon Lex startet auf Deutsch! Amazon Lex is a service for building conversational interfaces into any application using voice and text. Starting today, Amazon Lex supports Latin American Spanish and German. Now you can",
@@ -1160,57 +1212,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-i-paid-an-ai-to-get-me-instagram-followers-it-didnt-go-well.md",
-      "title": "I Paid an AI to Get Me Instagram Followers. It Didn't Go Well",
-      "excerpt": "Influencers and pop stars use AI-powered bots to boost their online presence. But what happens if a non-celeb (like me) uses one?",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/93wad8/instagram-ai-bot-followers-review",
-      "originalUrl": "https://www.vice.com/en/article/93wad8/instagram-ai-bot-followers-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fbbec0a430030009be97230/lede/1606152260223-2am9rka-1.jpeg?crop=1xw:1xh;center,center",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/93wad8/instagram-ai-bot-followers-review",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/93wad8/instagram-ai-bot-followers-review",
-      "publishedDateTime": "2020-11-24T02:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

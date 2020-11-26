@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/a
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
 type: article
 quality: 67
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Tesla News
@@ -27,29 +27,33 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's 'full self-driving' feature could put Elon Musk on the path Tim Cook followed to make Apple the world's most valuable company"
-    excerpt: "Tesla's Autopilot upgrade and other software-based products have set up a \"profound\" shift in the company's business model, Morgan Stanley said."
-    publishedDateTime: 2020-11-24T13:48:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-tim-cook-tesla-apple-morgan-stanley-2020-11"
+  - title: "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause"
+    excerpt: "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause."
+    publishedDateTime: 2020-11-26T17:57:00Z
+    webUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/"
+    ampWebUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 72
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-FSd-beta-pedestrian-yeilding.jpg?quality=82&strip=all"
+        width: 3584
+        height: 1598
+        isCached: true
+  - title: "Tesla is nearing $500 billion in market value. Elon Musk predicted self-driving cars would boost it to that level"
+    excerpt: "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net AP Photo/Mark Lennihan Elon Musk predicted last year that self-driving Teslas would boost the electric-vehicle maker's ..."
+    publishedDateTime: 2020-11-23T16:23:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/tesla-500-billion-market-cap-elon-musk-self-driving-cars-2020-11-1029830601"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/tesla-500-billion-market-cap-elon-musk-self-driving-cars-2020-11-1029830601"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tesla-500-billion-market-cap-elon-musk-self-driving-cars-2020-11-1029830601"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 38
-    images:
-      - url: "https://i.insider.com/5fb842eb50e71a0011556a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "The world's longest indoor test track for self-driving vehicles"
-    excerpt: "AstaZero is now building the world's longest indoor track for testing self-driving vehicles. AstaZero is the leading test bed for the automated transport systems of the future. With the new indoor track,"
-    publishedDateTime: 2020-11-23T13:01:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=379223"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 4
+    quality: 48
 
 secured: "uxxm8xn32dgRV84NYIlBo5IPgOi9TlQs+8Y+reCROB0sIobZn/AeeRzRZhRocOTap83zqWNH1oGDDE42/B8097vfVTnFT+lSGxRMRCi4W8JwA10Xd9DIhFbLrZd9R5SERDTAylsxibEAfgk+QY3RtUmlb2MYw/F+itraA89jbMUcoFTNKs+M8IAWRrTc4+ijg0cUrYQ8WJKWDwe6vUAzWEZsjVSK5nPtPev/ymsJeeOKRuNfCofA8+epBgtTRfpTAgXjJs4qI6ew2wK1zi/YeOzpiQhRkRb7gw6G7LMpV62z4zRl1kDGSjp/qqyrLB+MskrziY6eEwXp0Zb4mIYH0FEDWJ6UDgb+YsDawE5U7DpfCnvnKml5l2OVDzTKhcaFv0IcDsNE0Io3CqttV5ViP1E9FXYqrA0ml6PCRvTJz1xDjBzpdPtpf+WVP2e0vhJwSihMVsgl4w33/H5CO0q3epaBxZDZx6SMYH3aSSlGHsWXatea1Ddln1NKw4MZX5EUdo1cHthwWQUqJAx5T70J5Q==;zpgJYZf1F1DWeTzi/Y/Q0Q=="
 ---

@@ -2,6 +2,57 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-12-snap-acquired-vocaai-which-makes-ai-based-voice-agents-for-call-centers.md",
+      "title": "Snap acquired Voca.ai, which makes AI-based voice agents for call centers",
+      "excerpt": "With an array of fun filters, it encourages people to send fun, disappearing messages to friends and has a large base of younger users. But could parent company Snap be eyeing up ways of leveraging its traction in the consumer world — with the app",
+      "sourceUrl": null,
+      "webUrl": "https://voca.ai/",
+      "originalUrl": "https://techcrunch.com/2020/11/11/snap-acquired-voca-ai-which-makes-ai-based-voice-agents-for-call-centers-for-120m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 206,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://staging2.voca.ai/wp-content/uploads/2020/04/ebook-times-of-crisis-650.png",
+          "width": 650,
+          "height": 395,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T19:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-apples-first-m1-chip-based-macs-are-playing-it-too-safe.md",
       "title": "Apple’s first M1 chip-based Macs are playing it too safe",
       "excerpt": "Instead of moving the Mac boldly forward, Apple's M1 chip is merely raising the performance floor for entry-level computers.",
@@ -1180,60 +1231,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
-      "title": "People suffering depression and anxiety want to reveal their pain — to a robot",
-      "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
-          "width": 4000,
-          "height": 2667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
-      "publishedDateTime": "2020-11-11T07:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "Natural Language Processing"
       ]
     }
   ],
