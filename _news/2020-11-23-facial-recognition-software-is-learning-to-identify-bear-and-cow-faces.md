@@ -47,6 +47,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Govt eyes face recognition and voice interface for Umang amid rapid adoption"
+    excerpt: "More than 2 lakh people have used Umang’s Jeevan Praman services in the first 2 days of November alone, which is 200% more than the life certificates submitted through the app last year."
+    publishedDateTime: 2020-11-26T19:03:00Z
+    webUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption-11606417107301.html"
+    ampWebUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2020/11/26/600x338/UMANGnew-kVeB--621x414@LiveMint_1606417268976.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Global Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
     excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
     publishedDateTime: 2020-11-24T16:36:00Z

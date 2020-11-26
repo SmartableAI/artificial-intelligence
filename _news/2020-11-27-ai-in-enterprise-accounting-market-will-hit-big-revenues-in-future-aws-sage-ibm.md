@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Global AI in Agriculture Market Report 2020-2030: Increasing Use of Robotics and Smart Sensors Propelling the $8+ Billion Industry - ResearchAndMarkets.com"
-excerpt: "The \"AI in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The global AI in agriculture market is predicted to generate a revenue of $8,"
-publishedDateTime: 2020-11-26T12:16:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201126005555/en/"
-webUrl: "https://www.businesswire.com/news/home/20201126005555/en/"
+title: "AI in Enterprise Accounting Market Will Hit Big Revenues In Future | AWS, Sage, IBM"
+excerpt: "Global AI in Enterprise Accounting Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
+publishedDateTime: 2020-11-26T19:03:00Z
+originalUrl: "https://www.openpr.com/news/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+webUrl: "https://www.openpr.com/news/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+ampWebUrl: "https://www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
 type: article
-quality: 27
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: openpr.com
+  domain: openpr.com
 
 topics:
-  - AI in Robotics
+  - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201126005555/en/371054/23/ResearchAndMarkets_800px.jpg"
-    width: 1200
-    height: 627
+  - url: "https://cdn.openpr.com/T/b/Tb26514807_g.jpg"
+    width: 450
+    height: 300
     isCached: true
 
 related:
@@ -40,22 +42,6 @@ related:
       - url: "https://cdn.openpr.com/T/3/T303620719_g.jpg"
         width: 687
         height: 400
-        isCached: true
-  - title: "AI in Enterprise Accounting Market Will Hit Big Revenues In Future | AWS, Sage, IBM"
-    excerpt: "Global AI in Enterprise Accounting Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
-    publishedDateTime: 2020-11-26T19:03:00Z
-    webUrl: "https://www.openpr.com/news/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
-    ampWebUrl: "https://www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb26514807_g.jpg"
-        width: 450
-        height: 300
         isCached: true
   - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
     excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
@@ -251,6 +237,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "Global AI in Agriculture Market Report 2020-2030: Increasing Use of Robotics and Smart Sensors Propelling the $8+ Billion Industry - ResearchAndMarkets.com"
+    excerpt: "The \"AI in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The global AI in agriculture market is predicted to generate a revenue of $8,"
+    publishedDateTime: 2020-11-26T12:16:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201126005555/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 27
+    images:
+      - url: "https://mms.businesswire.com/media/20201126005555/en/371054/23/ResearchAndMarkets_800px.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
     excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
     publishedDateTime: 2020-11-25T19:33:00Z
@@ -309,6 +309,6 @@ related:
       domain: benzinga.com
     quality: 1
 
-secured: "7RqYY/2LLQkY5kG8V09AsdbewUAAlxG5b3vAM+FYyDSND9q6w2cL72VPklKJg7bXCcbxspGDQGzRP+rYDf6+sXb2rdjIQ10Jm3s4QoBA12nNjJBPhSYEt9OBz/QSHNCgSPnliapkvsFWgLme1bxpEHP8My4wDMobXKLoWmnNKP7Vr5i1EYZX3Xz9XSUiD1kITCYVa6PE/8NK+pGkUT5p5MjQAA5hc+03IfGfwwBd6onXJlzoh6augecE88Sd7fPm4xAvkdG1mDf/+ag3gfG4vo7ZjLDsr4y1p6j1x8a1mqQrZSyEAOUkz/pGoOSb/AhhuQIezMQDt9ngMWMG/hByGMl/vMhVpifhRf/4sELZwGA=;J80vMqhMMP1H0DNEiUTjnQ=="
+secured: "XXaU44afqXujBM5Bcg1v4GPoG3Fxtb/6QwtrUeuQDRZ+0Dg3Qzk3lCaSabhXDZJD02ZUYAkKNsdFBB10ipCiFvjld9q+a5r6C28wCML2QT/Fp4YDGOHLZS3tRdpv5P0R/XD0XHkUCU0iti0jQTZHGTCiZi7E4KtkvcGVJq1NVTTeLGS+hZjTPqrrnLLt0K/KYhMW5sMqTMqLvZps4myce0RSig3+NWr1TuvrVl4M851kcossOynNUXYwzeolmLJuWUxau7DvfOR9oWR3jQ86URljXAByxVsUXnV2VwkugnOcFcN1vBUz64gYnB0SCNJmLvHblU4JvUyy5gtEEzdVVIFSh6Dk7+hGuZeKFHxU+eg=;S1FbD1aausTsTOaq7TyAdQ=="
 ---
 

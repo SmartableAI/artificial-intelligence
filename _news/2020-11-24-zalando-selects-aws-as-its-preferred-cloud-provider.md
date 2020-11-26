@@ -44,19 +44,14 @@ related:
         height: 513
         isCached: true
   - title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Mercado Libre, Inc. (NASDAQ: MELI), headquartered i"
-    publishedDateTime: 2020-11-24T12:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2020-11-24T14:34:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
-    images:
-      - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "OdIiW7COxRce0UFOpIhRgVdUjq2kMKsMQMSCUtKkqUZ4HCnopMr80tYLxuN4z4lpWgBfWKj+BQMf/PB01mQU/zoG9rgKCdA5nNxvZvcF5lh7S0F+baZiaah1TuUNp1xKMymNzf+mrTunx80kncOhoRHNuYXl3F4BMSHFCsnkeA2VhT7mlV7kkrqf5zkcAg0Vyo7Mp0iYCEn5xuWH7qU2MGLheT1oZVoUo4ePOS1beFlqx05xYoYW8edH7dV1XY2KAnllOtRQ1q+hEAszaG+4TSyvt1WzP8uiE7skAJm2Aro3V/rhZSe5c99kCgIGsaUo46EW/W3aBteSx5gI39egvbTGkMXGpjH16y68kNc1hlI=;YOytj0mQlli9iKjaKVAZtQ=="
 ---

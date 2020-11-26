@@ -46,6 +46,22 @@ related:
         width: 687
         height: 400
         isCached: true
+  - title: "AI in Enterprise Accounting Market Will Hit Big Revenues In Future | AWS, Sage, IBM"
+    excerpt: "Global AI in Enterprise Accounting Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
+    publishedDateTime: 2020-11-26T19:03:00Z
+    webUrl: "https://www.openpr.com/news/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    ampWebUrl: "https://www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb26514807_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Wearable Artificial Intelligence (AI) Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
     excerpt: "Selbyville, Delaware Market Study Report LLC recently added a new title on 2019-2025 Global Wearable Artificial Intelligence (AI) Market Report from its database. The report provides study with in-depth overview,"
     publishedDateTime: 2020-11-25T07:09:00Z

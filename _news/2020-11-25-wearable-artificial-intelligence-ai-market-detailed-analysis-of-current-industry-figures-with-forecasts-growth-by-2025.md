@@ -45,6 +45,22 @@ related:
         width: 687
         height: 400
         isCached: true
+  - title: "AI in Enterprise Accounting Market Will Hit Big Revenues In Future | AWS, Sage, IBM"
+    excerpt: "Global AI in Enterprise Accounting Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
+    publishedDateTime: 2020-11-26T19:03:00Z
+    webUrl: "https://www.openpr.com/news/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    ampWebUrl: "https://www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb26514807_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
     excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
     publishedDateTime: 2020-11-26T06:47:00Z

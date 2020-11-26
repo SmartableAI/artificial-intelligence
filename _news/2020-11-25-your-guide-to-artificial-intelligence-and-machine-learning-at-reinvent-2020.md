@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artifi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Optimizing AI and Deep Learning Performance"
+    excerpt: "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance"
+    publishedDateTime: 2020-11-26T20:32:00Z
+    webUrl: "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg"
+        width: 1000
+        height: 556
+        isCached: true
   - title: "Dell to explore AI and machine learning at GITEX 2020"
     excerpt: "US tech giant Dell is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai World Trade Centre-based tech show from the 6-10 December 2020."
     publishedDateTime: 2020-11-22T08:44:00Z

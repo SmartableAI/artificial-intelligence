@@ -41,6 +41,22 @@ related:
         width: 687
         height: 400
         isCached: true
+  - title: "AI in Enterprise Accounting Market Will Hit Big Revenues In Future | AWS, Sage, IBM"
+    excerpt: "Global AI in Enterprise Accounting Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
+    publishedDateTime: 2020-11-26T19:03:00Z
+    webUrl: "https://www.openpr.com/news/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    ampWebUrl: "https://www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 68
+    images:
+      - url: "https://cdn.openpr.com/T/b/Tb26514807_g.jpg"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Artificial Intelligence Market research, Industry Outlook, Current Trends and Forecast by 2026"
     excerpt: "Latest update on Artificial Intelligence Market Analysis report published with an extensive market research, Artificial Intelligence market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Artificial Intelligence industry."
     publishedDateTime: 2020-11-26T06:47:00Z
@@ -293,6 +309,6 @@ related:
       domain: benzinga.com
     quality: 1
 
-secured: "1FzJE6JdIqkVySTUoeut17YjzoU17V1OyEsoHc9ojG+VuE8DACbIQWNWtke/Af3jBgCVROFi+fQ5IvcKQdq0+3q6n2gnAqO0t79sR4DnCYV2iTU3f69Pk/LaX4xiAY6+lNrm9XjOAudPpm0c4yCu0bOVaIJ6i+68K218bey0As6og3XFDoATFkXDzA5Jp6Tl5T2y/Nofm4xL8b56onKbNOTdDcYIqMJPyp3isO8H4UjZ1o8JK9xC5n7JoJH1DHDCCCNkTaLOuJW22cqWm+oABSCCYjrUOryWQmm71RQiLbM76m/pi6OwgZ6PA03LBOJ8uPeqrEIEDI8pGVCQ389/8mfQca8smwUDRZEjeQdbyBc=;adow0TT9NCvy1G5XeVwfvg=="
+secured: "UOH5DPiw6Zr7TsGjz39w0GHBTUQbOYTjxXXG1c9C0xjwhAuCn6ZUGzPVpGQYTzNa314G7/7++i8qCQOJZ109A9nQlkm8nOVtqAskkHZGym/HK39PS6SfcBp7fm4EOZSmcYfN2bGn8OX5+OhGXS1lN4iniU0RcZa7cQ0yFSrKVhxWzU0LvEBFMeTrtayj5on1QamrvHF8J8i9U/PfQZjPbikZ+RTpC7t1UoHkWUdnW82zPk4hgtObmT2Nwqa6TmcxSm/B/oiO8861Bn2KkkiUsFGZN6/db0vR0EcfBQPPSewm6wdjO32o0dEla88hR3YafHvQK3jigMCSrdk1+WgdXRirUdf0G2SLxB6pAgx4Uef0Q3gYERTbAAbufD7GmMK2/ltFTcHhWnfqnu/sUQ8b10E4fkhZ1iHQSRncLHcqJryUwP+qY1DSGVfon3+G3eLXGTSIM2Kd4SxymEAVO1HYIdLR/Bxx/pE2n5M0Gk5GxkDKAZHPOYs/yj9951dW1lF9DjE6O405SiA1+bygpxuUWg==;A+GAxxCAjw8X3nQKuHBIBA=="
 ---
 

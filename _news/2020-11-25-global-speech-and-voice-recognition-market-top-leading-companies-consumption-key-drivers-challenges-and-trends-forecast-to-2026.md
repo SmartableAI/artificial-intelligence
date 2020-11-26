@@ -62,6 +62,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Govt eyes face recognition and voice interface for Umang amid rapid adoption"
+    excerpt: "More than 2 lakh people have used Umang’s Jeevan Praman services in the first 2 days of November alone, which is 200% more than the life certificates submitted through the app last year."
+    publishedDateTime: 2020-11-26T19:03:00Z
+    webUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption-11606417107301.html"
+    ampWebUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 56
+    images:
+      - url: "https://images.livemint.com/img/2020/11/26/600x338/UMANGnew-kVeB--621x414@LiveMint_1606417268976.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "ClQD3vXWvuNhkCNAbmfNegYk36ZflXjDrEPczAQFsGZoL/Rqu5Wdk6ySOxY5K+1FiaSFdCd5bmz9qmiBenXmR7qwBFqP1p9TwFK1DO2dqZLLkoU7ZSbjXswAKfBrC2Mjq9vy9Ne9j1/0Zd+P9gKbcafJ04Sh0Z3QG4mL4yx2j2UGHttsmghyOPDloLFdm6k4sszMypRDtPfe2zxay6lsLo0kf+PMAtWGqOEEtkAnB89AU7ar0XerRC+nUiuQiHiEogn1gHMaM+k8OM9LC/KD0kfTe7YDK0flwjluPMnlUai13840W2/HXSh7hb9IBvJ6jJekazGG/wO7Ma/UZwLSOFkiPZt9mwPs61I0kKQTsIs=;p/q/JwldDi54FfELus62LA=="
 ---

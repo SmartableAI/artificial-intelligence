@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Sewa International receives award in recognition of community service during COVID-19 pandemic"
-    excerpt: "Sewa International is an Indian-American non-profit organisation Sewa International, an Indian-American non-profit organisation, has been awarded a USD 50,000 ‘Love Takes Action' award from the New York Life Foundation,"
-    publishedDateTime: 2020-11-22T04:57:00Z
-    webUrl: "https://www.tribuneindia.com/news/diaspora/sewa-international-receives-award-in-recognition-of-community-service-during-covid-19-pandemic-174137"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 12
-    images:
-      - url: "https://cmsimages.tribuneindia.com/gallary_content/2020/11/2020_11$largeimg_1210615735.jpg"
-        width: 640
-        height: 480
-        isCached: true
 
 secured: "oZzTAngN/5ni1AocArRzyyyJAbRBBq1h64enKRM/e6m2Y6mLG+rr9mtp77gTQwaYdPq5GXWdhMqqLn1rFE6gHrrAZEoQ7CjX8IeAlre+U4lm6Oyr+Kmq1YqKenjEFZscpzhPsnR2Vu+CAEC4uutGTxfA+iwgc9Kpb89ypY0ARPb5R+ommN7pRorv8A0gQVirhkgWXt3hEQInUshDgujg+kiiKtoKcX2ZlrM4A4/NwplKyb9IAEnbRBP8oP1ZWrMxVqlLZhpGftkpjIGFCjd91Q/KYricLa9x7eg9PQw2NIuVov3Cjp1PZoAqV1QsILW+RdHNlkvrZbeiem96zOuEVnKbcLFfmmShxEEi/1PVrV8=;Fu5xa98PZZib5Dxpz0Digw=="
 ---

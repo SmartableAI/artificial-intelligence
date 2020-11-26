@@ -1,33 +1,27 @@
 ---
 category: news
 title: "KFC turned to self-driving cars in China to deliver fried chicken limiting human contact"
-excerpt: "Although it is still unknown if this dynamic is related to a marketing action or real tests for a future way of operating its services, the famous fried chicken franchise has delivered its orders door to door with these autonomous vehicles, a concept very ..."
-publishedDateTime: 2020-11-26T18:56:00Z
-originalUrl: "https://www.entrepreneur.com/article/360486"
-webUrl: "https://www.entrepreneur.com/article/360486"
-ampWebUrl: "https://www.entrepreneur.com/amphtml/360486"
-cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360486"
+excerpt: "Although it is still unknown if this dynamic is related to a marketing action or real tests for a future way of operating its services, the famous fried chicken franchise has delivered its orders door to door with these autonomous vehicles,"
+publishedDateTime: 2020-11-26T19:13:00Z
+originalUrl: "https://www.stamfordadvocate.com/business/article/KFC-turned-to-self-driving-cars-in-China-to-15756513.php"
+webUrl: "https://www.stamfordadvocate.com/business/article/KFC-turned-to-self-driving-cars-in-China-to-15756513.php"
 type: article
-quality: 65
+quality: 15
 heat: -1
 published: false
 
 provider:
-  name: Entrepreneur
-  domain: entrepreneur.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: StamfordAdvocate
+  domain: stamfordadvocate.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://assets.entrepreneur.com/content/3x2/2000/1606415702-KFC.jpg?width=600&crop=16:9"
-    width: 600
-    height: 338
+  - url: "https://s.hdnux.com/photos/01/15/37/43/20314327/7/rawImage.jpg"
+    width: 2000
+    height: 1333
     isCached: true
 
 related:
@@ -92,6 +86,6 @@ related:
         height: 250
         isCached: true
 
-secured: "hQClZ5O8K7L1DjPsy0sxZeuU+kVeOojX15MQaSOuF4J/bYFAXNaAHIBmUCCQHG1mQH0AwlZcmYmde58Au75WPceVKcvCdqcR4K/YXo3Y86/tdztSyAPrfWOTPio/ije07/vI69N+/BtprkpPbbjwEZgAGwA4bC54AShGQPx+3im3Cy9d1svVtE6w/lZWIOTp97sxbz7MA6BnJG4wbaHQw3sZ2m/jfZ8gNi7oL4qA0FbX1/q3ZrdJqw+r5irsFy5gUX4vMIq+/KCNdNn/X+se32neOjnH+RM6hoxKPguZnTaRFZIu+Y2L3IuZo1cAwgJqd216EDLc61unkyK0BWCfHV4uKSTI2ZmkHIWrMkNLBPc=;CHU1k0S6sozmbwnn4XYH8A=="
+secured: "IqhT19BmS/z0giqHAtU/Vh0wAQWKgBQPuLbbcjzdsu5k1k03+hPSGiGJJfCbfl/JCzXiKLFymhc8Th/RBF3FCTtzwIS3DY0U19k/T0CviOP+T41VM5d5WipHFix3FErxH/iDLuAh9JmmSKYkT2zDFkDtOWJJTboxSj507tZ5TDI1sW4MvOpTJ6J3qKQFotgm6sMLbtTC0mhaZEpRaFRCP0ICbZiJOa4/KJXxdiXyZMNhDubgWd7ZwJ/hZT/zGbc+M1zmBGAeFsbef6biY560scbFrmumb72fjh0Dz11f4EVR+v0nQCKlmDIvTD37lYf3gGO77a40KySvpL+UXpGWqnxKraanjD32TaI5N7WahjE=;Axe3aapcUi6XyzLFM24Tfw=="
 ---
 

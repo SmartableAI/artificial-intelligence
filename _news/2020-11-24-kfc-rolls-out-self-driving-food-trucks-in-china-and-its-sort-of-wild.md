@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "KFC turned to self-driving cars in China to deliver fried chicken limiting human contact"
-    excerpt: "Although it is still unknown if this dynamic is related to a marketing action or real tests for a future way of operating its services, the famous fried chicken franchise has delivered its orders door to door with these autonomous vehicles, a concept very ..."
-    publishedDateTime: 2020-11-26T18:56:00Z
-    webUrl: "https://www.entrepreneur.com/article/360486"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/360486"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360486"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 65
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1606415702-KFC.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
   - title: "KFC Has Self-Driving Food Trucks in China And I Thirst For Chicken"
     excerpt: "The self-driving vehicles allow customers to select their KFC item of choice and pay by scanning a QR code. Upon payment the door will open so the customer can take their food. The trucks seem to have been first spotted on Twitter earlier this month."
     publishedDateTime: 2020-11-23T23:31:00Z
@@ -90,6 +74,20 @@ related:
       - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/mP7AwEW-SESw85apYdfsVLDgcCI=/300x0/2020/11/23/092f3982-84cc-4945-a7b5-f4f7f22fb2c7/enfmt8yuuaexkie.jpg&h=250"
         width: 375
         height: 250
+        isCached: true
+  - title: "KFC turned to self-driving cars in China to deliver fried chicken limiting human contact"
+    excerpt: "Although it is still unknown if this dynamic is related to a marketing action or real tests for a future way of operating its services, the famous fried chicken franchise has delivered its orders door to door with these autonomous vehicles,"
+    publishedDateTime: 2020-11-26T19:13:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/KFC-turned-to-self-driving-cars-in-China-to-15756513.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 15
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/37/43/20314327/7/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "NWO2MSGGclAswCi/RJ4bFlynCH3qw5y0zdcnGObRwEKR2L7NCfHPePrOupwH4LMnWdqAYOnqo0V+/mR/YgnvOjjxMXRKXBMSOZlgH+7TEBkGIIfSAzFsY64/kOqeGusltPiaWMvAbydkDrRo5oo+aj0m9/VPuFq3Kws2wNQ+w+T6VWUx/uGVmO8A4Tt1ynBQs35vyx/2iqSs6W19T1cH0f71Ek3KM/eAKXVW6Ok8yMGpQU5yopfQ5Lfs5/Pc3q1TfdNEYb61QPEQkuaWvpzezQ5vQbO9ubszJi5/JFmIuzNefUSRj3G/B91m9kj0hrcJSZKu6Xq8D22I/Qx+buh084yEmizadB+ZCTOuDtEHS3UWvkn2DRGmcC1rgC0mGttOIIUtX+FNwQ5A3riwtB3yTTYVsNCL/CiTNhd4k2umCNPIBdzW+TylDaJnrCDVnPaSKC+hzMQbtUtaZgcwX2bGkc9xNbKyfKunloXkPQx+3RrDeRGPei6CMO7jlDHYKNlPEgCzk2+VaAD5lvTz57Dv5A==;7Ib0D+JGGr7CiwvrAT0d9A=="
