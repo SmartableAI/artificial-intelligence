@@ -109,7 +109,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/semanticmachines.md",
@@ -204,7 +204,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/sighthound.md",
@@ -405,7 +405,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/slyce.it.md",
@@ -506,7 +506,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/soundhound.md",
@@ -652,7 +652,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/taiger.md",
@@ -758,7 +758,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/ubiquity6.md",
@@ -807,7 +807,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/ucare.ai.md",
@@ -836,7 +836,7 @@
         }
       ],
       "heat": 50,
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/vian.ai.md",
@@ -977,7 +977,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/voicebox.md",
@@ -1208,7 +1208,7 @@
       "twitter": {
         "username": "xbirdhealth",
         "url": "https://twitter.com/xbirdhealth",
-        "followers": 561
+        "followers": 562
       },
       "size": "2-10 employees",
       "yearFounded": 2015,
@@ -1299,7 +1299,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/yuanfudao.md",
@@ -1329,7 +1329,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/anomali.md",
@@ -1347,7 +1347,7 @@
       "twitter": {
         "username": "Anomali",
         "url": "https://twitter.com/Anomali",
-        "followers": 8712
+        "followers": 8711
       },
       "yearFounded": 0,
       "locations": [

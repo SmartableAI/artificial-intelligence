@@ -23,7 +23,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 64293
+        "followers": 64295
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -546,7 +546,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/leapmind.io.md",
@@ -649,7 +649,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/nuviainc.md",
@@ -695,7 +695,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/wavecomp.ai.md",

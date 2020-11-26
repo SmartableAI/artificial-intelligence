@@ -23,7 +23,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 64293
+        "followers": 64295
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -258,7 +258,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 38874
+        "followers": 38882
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -1052,7 +1052,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/brightmachines.md",
@@ -1164,7 +1164,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/cobaltrobotics.md",
@@ -1275,7 +1275,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/freedomrobotics.ai.md",
@@ -1436,7 +1436,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/vicarious.md",

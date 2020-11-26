@@ -211,7 +211,7 @@
           "isCached": true
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/oaknorth.md",
@@ -564,7 +564,7 @@
         "FinTech",
         "Blockchain"
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/netguardians.ch.md",

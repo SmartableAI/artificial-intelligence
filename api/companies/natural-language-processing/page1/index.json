@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 187187
+        "followers": 187186
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -454,7 +454,7 @@
       "twitter": {
         "username": "Dialogflow",
         "url": "https://twitter.com/Dialogflow",
-        "followers": 11997
+        "followers": 11996
       },
       "size": "11-50 employees",
       "yearFounded": 2010,
@@ -826,7 +826,7 @@
       "twitter": {
         "username": "gong_io",
         "url": "https://twitter.com/gong_io",
-        "followers": 5566
+        "followers": 5567
       },
       "size": "201-500 employees",
       "yearFounded": 2015,
@@ -1160,7 +1160,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/armorblox.md",
@@ -1386,7 +1386,7 @@
         }
       ],
       "heat": 50,
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/deepzen.io.md",
@@ -1435,7 +1435,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/eigentech.md",
@@ -1464,7 +1464,7 @@
         }
       ],
       "heat": 50,
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_companies/hibrainy.md",
@@ -1511,7 +1511,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     }
   ],
   "nextPage": 2
