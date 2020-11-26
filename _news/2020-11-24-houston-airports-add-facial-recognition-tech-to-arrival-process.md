@@ -9,7 +9,7 @@ ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Re
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
 type: article
 quality: 74
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
     quality: 59
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Automatic Facial Recognition: authentication, identification and ethical use"
+    excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
+    publishedDateTime: 2020-11-26T12:16:00Z
+    webUrl: "https://www.ifsecglobal.com/critical-conversations/automatic-facial-recognition-authentication-identification-and-ethical-use/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 53
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
         width: 1200
         height: 800
         isCached: true

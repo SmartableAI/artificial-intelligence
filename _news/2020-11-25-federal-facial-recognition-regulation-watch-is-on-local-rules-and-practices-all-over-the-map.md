@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Automatic Facial Recognition: authentication, identification and ethical use"
+    excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
+    publishedDateTime: 2020-11-26T12:16:00Z
+    webUrl: "https://www.ifsecglobal.com/critical-conversations/automatic-facial-recognition-authentication-identification-and-ethical-use/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 53
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tencent Cloud introduces one-stop AI Transfy speech recognition solution, delivering high-quality conferencing experience to international customers"
     excerpt: "The solution's outstanding features were championed at Interspeech 2020's Far-Field Speaker Verification Challenge special session in"
     publishedDateTime: 2020-11-24T04:25:00Z

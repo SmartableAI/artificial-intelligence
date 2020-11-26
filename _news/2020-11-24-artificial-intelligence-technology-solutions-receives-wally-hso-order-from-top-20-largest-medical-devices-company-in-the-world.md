@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Receives Wally HSO Order From Top 20 Largest Medical Devices Company in the World"
-excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) today announced that its wholly-owned subsidiary Robotic Assistance Devices"
-publishedDateTime: 2020-11-24T14:20:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289"
-webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289"
+excerpt: "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) has received an order from a global top 20 medical devices company with over 50,"
+publishedDateTime: 2020-11-24T08:00:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201124005385/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world"
+webUrl: "https://www.morningstar.com/news/business-wire/20201124005385/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world"
 type: article
-quality: 41
-heat: 41
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar, Inc.
+  domain: morningstar.com
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
 
 related:
   - title: "Artificial Intelligence Technology Solutions Receives Wally HSO Order From Top 20 Largest Medical Devices Company in the World"
@@ -40,6 +34,6 @@ related:
         height: 627
         isCached: true
 
-secured: "soXs20CdwzX9v2G2/6v9EcnZrF/4f0rottkcmKe5Hwh7wFMe31HXcOYoQbP3vMep/lVBRGTh475iRkUQtz3eda75afgZ2orAL3t485jGr5P8JBiV1NlBofhddPeKhvgRIDTAiPDTNzsrcI4DRtozYwu/xxiKFy5EyOQRVgJPXz44RMtFV/Eret7xWwyA0PuDRDRpda+OzHny2ilrwLXOxmi3YIaxBXaNcv/nrgdV/oQPEin5ynmnufXPCFGYciJ5xvoIawpGnwZNWMnIn/GRcwtmAdK+7TAViHAq3bDI9ALhN+o4rKIP28MnbYdP9iXcrMnqh1O5VOg3E4fq4ItAgC3dMAWmPXH9CLIGyU6sLKQ=;BYijH8wNvQKlgOlXFlYRbQ=="
+secured: "3Fy8SLlKxn/hblhO06F3Y7dfrTZuE1OKZL4Nbb3djVt4xRfSq/ivHeF9HXwtC0TxJ8R6x62bKXnNazZWnE5A/c0qH+F1lNwYKRby7t9I7wYlRlb2CNNSsGcYnDZCjmzCYYGfHrfrJf6MMcNqbhE8nnAVTylj8I5IBWhusCx6C0xyksp0M4ATCSmXVbhipfBgd2sbl8GCRo5yJMz5FTw1Ffm47YghEEQTssDsGqvWezTQPKfeE3+CMFPilVRub5ckjonZjn47uN0oAnT9m/6fnssHEP0bXrhTDNa0ufNQOEEyzlNSewL18uLE5uoMwSLYQ89a4TCO5ikGYF8xfcBGK1PDHBJu2YW46jr5jrG4hYM=;2X99kfulz0EPhwSOjArf8g=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "Robots invade the construction site"
 excerpt: "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco."
 publishedDateTime: 2020-11-22T11:45:00Z
-originalUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80"
-webUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80"
+originalUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
+webUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
 type: article
 quality: 69
 heat: 89
@@ -53,6 +53,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pDQi1IGxGLV2Rv+rYQc3heNJI8kT3EmBO1FKws2bhhqdjTlRDAE9HgPHXkNBEGzTa3mvKmEwz2+oaZqPrTy4sQvb6dr5KPpRGXl/CnMN9WWequmurKAOP/BnqkWVEflLzOvxILBkq6hGlWJWTKT9udt+UGLuYjEClpEsPzs1GfY/eRd3eP0S7DoLVxIsEH/9k9KXdCEV/dj19guSAD3qVq1tcm/yHSzOaMqZxUXdhQeF6eWELkvxdfF9TRsU2qbYBABH2O4vGa+d14W8+EQcFctbH5/dWwuypcz00FKSYJGVxP+ErL6OjuoHZbPeH/LH0621WFzeFIH0phGwKgP7chwbdcpoxr0/Fh2tnMSXH9ycb6myLgNoJJp9OLT9VRD0D4UtxG/mMOzWtsEUuHsmR4Ua9d/j93q2XqlT5yowYGGeIaW+io53T7snjA5kqFdSD9K9imC0tFWdhGwesITSoOWQVDcnTz4CBnHZ6A2DIJgt7d6N5D/ROTBNroa4nd/qYe7j/WluZRFie5Xraerh6w==;60nCGybHasvHiMD0moC0lQ=="
+secured: "Y/DNG8A4YJ/CJMXJWkzrI5DdHSDmDzIBBOVxXuYKoMr115qfVLNbpCebeF22yUKEJenuFgOzLCqBcTBPc2JUVFzux9VjPNNzuO3+cybSrantPrgbJeGlMenKuQ1k2/qm7EWzMciHxU+fj1nEfhFk+4E7QomswlvFw9UmcjG1fvUg3cN/M/yOnqfaQjhRFKJDOJ2tDNw3fMPcdsdvz974zymS/Yl12aLqvDlRVhW92/4YvWX7lGAHaX+Jll6zeze+UIjsaWEE3gbqjukHSKKeHc4hcphVJsC35SxMtRveP1PxVLHHdFVaKPPmu8/iCtgWmxy0M/S8FRG3DBWF+sSUoWBMDAnNmE03CMZg+0aFc78=;H8O6jk2tBUb5bfwN/GFosw=="
 ---
 

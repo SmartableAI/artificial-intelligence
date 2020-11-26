@@ -30,6 +30,20 @@ related:
       name: aviationbusinessme.com
       domain: aviationbusinessme.com
     quality: 39
+  - title: "Etihad trials facial biometric check-in for cabin crew"
+    excerpt: "Etihad is trialling SITA's facial biometrics for cabin members, allowing them to complete check-in procedures digitally via their own mobile devices."
+    publishedDateTime: 2020-11-26T11:51:00Z
+    webUrl: "https://www.futuretravelexperience.com/2020/11/etihad-trials-facial-biometric-check-in-for-cabin-crew/"
+    type: article
+    provider:
+      name: Future Travel Experience
+      domain: futuretravelexperience.com
+    quality: 24
+    images:
+      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2020/11/Etihad-cabin-crew-facial-biometrics.jpg"
+        width: 768
+        height: 403
+        isCached: true
 
 secured: "5cTHhrtN8M7tZRueTXw0/KYL5GvXnvsCy9FNUqtTLCNypthFIHMg+dGf2HXuxNdRdxK2nn02t4jDzLDMBpjxx6lEHN5dsuvkmTwa7J4Dh+B1tndRX93UjAE957LiZD/OWJP+v0MtR+V/d54XBZG838hYamhIEMXZNSeuLGfGSSqmQ/LaKzm7G0SdiMj2eZF/FQAVKDcgZzpu5dzb+TINKtZx5zmQ9tI/MylWQC4BVP/VRGYdK5QKvYh4yhx1T5EcA5hiw+b+YrVApZV8Fwg1BrE4p1gb+YgLsHNuRBXS8UG4VOeN6ou5BwM8oT4IVJEpwCPOyfAT5/eSpGq2qjeytjCETy4yEWfj+ZI786Gwd5Q=;CleZQ0PeTOPP0N5PyM4cPg=="
 ---
