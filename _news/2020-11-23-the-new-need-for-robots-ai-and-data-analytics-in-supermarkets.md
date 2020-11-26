@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/359653"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653"
 type: article
 quality: 89
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Managing ethics and privacy in the age of AI"
+    excerpt: "Many Australian organisations are experimenting with artificial intelligence and machine learning technologies to gain new insights from their information to create an advantage over their competitors."
+    publishedDateTime: 2020-11-25T23:59:00Z
+    webUrl: "https://www.cio.com/article/3598788/managing-ethics-and-privacy-in-the-age-of-ai.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/teamwork_collaboration_discussion_talking_language_meeting_hand_gestures_by_headway_cc0_via_unsplash_1200x800-100764600-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
     excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
     publishedDateTime: 2020-11-25T13:09:00Z

@@ -51,7 +51,12 @@ related:
     provider:
       name: Los Angeles Times
       domain: latimes.com
-    quality: 24
+    quality: 44
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/b8efa70/2147483647/strip/true/crop/446x291+58+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe3%2Fa3%2F1076ef71786ab403f9db6c2b2855%2Fla-et-jc-penguin-and-random-house-finalize-mer-001"
+        width: 320
+        height: 209
+        isCached: true
 
 secured: "IPKOYu1qEU1uKeWC/uGTBgTijINqiTVK8+ny816HOoVMQDvSx16sBJL+oa6oNCKjjoqgFs9UahKWGHu1QBBGKCavIBfZCLdyT3wIRZ5T5+Q6Sg27RO4DFrBfZ4dztw9kxAImEa30Djr25ASdyOYaWeCetcbQcXrKi1ephDPbOYMmdgp/2kaxGABMC9oPcuvNIjiBWWsHZbnQszBtyV9FdYp/rPjRGLXzHNht9hetzCGHJgFifChQtw6Ui6Hgq/YWi/F4TWDWK/+ei/+PgrlaIMDgVet/Ced5BvDkyZ39AhrNj1QaClMUACss5bQQ7hyTjS9GuqPiV+X9LodsYowe/fZbLVBA0/Ixfj+GNVnzl6I=;0aW4aVeCukqSDemtrCZWDw=="
 ---

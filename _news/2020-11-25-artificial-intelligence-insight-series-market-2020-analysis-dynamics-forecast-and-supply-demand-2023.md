@@ -44,6 +44,20 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Managing ethics and privacy in the age of AI"
+    excerpt: "Many Australian organisations are experimenting with artificial intelligence and machine learning technologies to gain new insights from their information to create an advantage over their competitors."
+    publishedDateTime: 2020-11-25T23:59:00Z
+    webUrl: "https://www.cio.com/article/3598788/managing-ethics-and-privacy-in-the-age-of-ai.html"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 54
+    images:
+      - url: "https://images.idgesg.net/images/article/2018/07/teamwork_collaboration_discussion_talking_language_meeting_hand_gestures_by_headway_cc0_via_unsplash_1200x800-100764600-large.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "BOTZ: Robotics And AI For Investors"
     excerpt: "The global robotics and AI markets are expected to grow significantly over the coming years - with EVs and high-performance computing (HPC) being primary drivers."
     publishedDateTime: 2020-11-25T16:29:00Z

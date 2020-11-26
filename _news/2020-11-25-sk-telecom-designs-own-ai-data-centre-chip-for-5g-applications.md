@@ -3,13 +3,13 @@ category: news
 title: "SK Telecom designs own AI data centre chip for 5G applications"
 excerpt: "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology."
 publishedDateTime: 2020-11-25T14:42:00Z
-originalUrl: "https://www.techradar.com/au/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-webUrl: "https://www.techradar.com/au/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-ampWebUrl: "https://www.techradar.com/au/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
-cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+originalUrl: "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+webUrl: "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+ampWebUrl: "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
+cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
         width: 600
         height: 375
         isCached: true
+  - title: "SK Telecom Unveils its Own AI Chip and New Plans for AI Semiconductor Business"
+    excerpt: "SK Telecom on Wednesday unveiled its self-developed artificial intelligence (AI) chip named ‘SAPEON X220’ and shared its AI semiconductor business vision"
+    publishedDateTime: 2020-11-26T01:26:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18579-sk-telecom-unveils-its-own-ai-chip-and-new-plans-for-ai-semiconductor-business"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 50
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/4cfce36fc7e35f8c2190d159032de5e6.jpg?t=20201126_012312"
+        width: 752
+        height: 408
+        isCached: true
   - title: "SK Telecom launches AI chip, unveils AI semiconductor business strategy"
     excerpt: "South Koran operator SK Telecom has introduced its self-developed artificial intelligence (AI) chip dubbed 'Sapeon X220'. The operator ahs also unveiled its AI semiconductor business strategy."
     publishedDateTime: 2020-11-25T14:22:00Z
@@ -75,6 +89,6 @@ related:
       domain: lightreading.com
     quality: 34
 
-secured: "4v67BGtBHS0HlyePs9hKGqN9Z2Gm8W8CK2MzwD1aqOQvtfdHhetUT4wSxC7eZqKshoPYecD+3W9yijnARseOfqFbkvR1R973h4yX5QUg0xZrJGzxT+4BAdaqX8bQU8spuP5J6ZgtnPgb7QDlgFJnAmdEityKqp/C9kLhywMfAQpl5DVxkrgFQv7KG/KOFm4Fhg1/L1an570MhsOp2gBoxrIIoebwt/hl6VJ1wf7gL711xCAk/p1bjGYHNYB16feYglbZGlR5rdMv4A8bMtrYX5tSc4ZIvf3tYNVfYLo8qkSAzUBFCTb3OEJfx4Fom6Qxt+yVM5MF4A2c7Ig30fyUUJi/NqJd+/IlKvalnSgW6h4=;4l9IUBcyrXTBWpJrCFkNzA=="
+secured: "HHvKpwNGaCzQg1irVDelhUzND/AkvNo8j4PjU0Yp1QiMWwR14+EjHwqcLmb9gYYeD2PR2cNjQX2ZmZ7nLy531+hD2roCYvnzXJZ3Ss05hqguHxDsN052LNYcoaxUoB/N+Qaa58bdKwfYO0HO32A+c0Gf3l/KAKk5XfJceP3xKWbjXhp2Cdu4Z7yotfuZwcpXqIQ/rHQTvpntTqKeXjj1tdN+/nTSTUKbfGImxF5Zcun0hDnBAhzThIRDRqUhWEkwRnujKde9xD4agoIQQf/ETDgpALimy5IjtFtUN0xznW+DN+XfZcCBpFXZpjoDgBU4m9oL9kzC6fr//Bo/PQ8nWfmrgnxEitvK2onv40EKNrM=;VNlZm0DLUvkHaIFv7YMtxA=="
 ---
 

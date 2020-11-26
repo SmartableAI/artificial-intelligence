@@ -8,7 +8,7 @@ webUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-25/obama
 ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-25/obama-pen-america-voice-of-influence-award?_amp=true"
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-11-25/obama-pen-america-voice-of-influence-award?_amp=true"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/b8efa70/2147483647/strip/true/crop/446x291+58+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe3%2Fa3%2F1076ef71786ab403f9db6c2b2855%2Fla-et-jc-penguin-and-random-house-finalize-mer-001"
+    width: 320
+    height: 209
+    isCached: true
 
 related:
   - title: "Find your inner poet with help from America's greats"
@@ -52,6 +58,6 @@ related:
         height: 1414
         isCached: true
 
-secured: "GtGPKdLcdfznO1pmWwsQRE/kTurTBMxymLnoawlM203pmX9a8bVOYxPhuZJI9HX36Lmicw1/xXL7wlqPTs6IHkWEOg3KdR/XGDENW35GyhM2qkGyCwcfPvt/SPrOOUg7Y3fdXD+z/MRjG8dcEFkHSKz5kWUUDgeVGB0107h8/NrfoAzsJias4/+pJpuXxMTB6YB+p6Ikumb92bh0fzspmYdVLMk9QiGTYvP/8KeMEYp0QbLru/6AQyp0uPSXEfNhI0H4Faw+Oy31HiKQZ8ZEGq9NY/xZ2909kU8D8tmC9s+/YpWqFKs8Iand6ni9TCoFs0K780vrNIl5AeZkJz3NAtefXbvvMGwC6dFUVag5aMU=;Or018oYH4I5crza7YTez2g=="
+secured: "PVD/YP/0tQU/Ala1QojpzTrXUOtIiNS97MXq73/FA/i3BcHB3lcnhrXwouxo6ZIAXcZ/mOGSnHWt0OTHsBIbJnjPZrMHn2GVAt4RQNiAHscEAlrvEsWDgqDxA+jtTqUI3eOGh0v7laYZxQHuPgPrpqF7qFWj0TE+TQZ9YXmuok+Nudbwe0aVmbVpO4R83jD1DbDSpS++SC/yHtOmhTtI5dmNBdF01e82ccj90DXjMtcFP+XdFjH5swkBMQ1Jcee7hb54+tZkJHNtKg0GGKFDTkffVCYS3EcSpbvW7As0gQu0U5lL+CdKIemrVqJb3zAHvN7UHAvtm952KpdxoR8FK0shpMbXSknObUYRzaTdp0A=;Pf1e77pfVNhbsxKqmS+viA=="
 ---
 
