@@ -268,7 +268,7 @@
       "twitter": {
         "username": "jeanliuqing",
         "url": "https://twitter.com/jeanliuqing",
-        "followers": 1108
+        "followers": 1106
       },
       "weibo": {
         "url": "https://www.weibo.com/u/2209030102",
@@ -371,7 +371,7 @@
       "twitter": {
         "username": "katecrawford",
         "url": "https://twitter.com/katecrawford",
-        "followers": 67035
+        "followers": 67034
       },
       "topics": [
         "AI"
@@ -514,7 +514,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/anil-k-jain.md",
@@ -549,7 +549,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/chuen-tsai-sun.md",
@@ -582,7 +582,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/daniela-l-rus.md",
@@ -635,7 +635,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/david-lopez-mateos.md",
@@ -713,7 +713,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/fedor-ratnikov.md",
@@ -747,7 +747,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/francisco-matorras.md",
@@ -907,7 +907,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/javier-m-duarte.md",
@@ -983,7 +983,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/john-giannandrea.md",
@@ -1009,7 +1009,7 @@
         "AI"
       ],
       "heat": 50,
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/jonathan-hays.md",
@@ -1043,7 +1043,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/josh-cogan.md",
@@ -1091,7 +1091,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/kalyanmoy-deb.md",
@@ -1125,7 +1125,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/karl-iagnemma.md",
@@ -1166,7 +1166,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     }
   ],
   "nextPage": 3

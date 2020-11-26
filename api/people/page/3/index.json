@@ -39,7 +39,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/lev-dudko.md",
@@ -73,7 +73,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/lily-asquith.md",
@@ -107,7 +107,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/lotfi-a-zadeh.md",
@@ -143,7 +143,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/luc-van-gool.md",
@@ -181,7 +181,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/lydia-e-kavraki.md",
@@ -216,7 +216,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/maja-j-mataric.md",
@@ -256,7 +256,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/mariya-yao.md",
@@ -320,7 +320,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/mherubahsan-161-15-726.md",
@@ -353,7 +353,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/michael-i-jordan.md",
@@ -391,7 +391,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/nick-bostrom.md",
@@ -428,7 +428,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/ray-kurzweil.md",
@@ -456,7 +456,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/sonja-betschart.md",
@@ -516,7 +516,7 @@
         "AI"
       ],
       "heat": 50,
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/yoshua-bengio.md",
@@ -555,7 +555,7 @@
           "isCached": false
         }
       ],
-      "content": ""
+      "content": "\r\n"
     },
     {
       "path": "_people/daniele-bonacorsi.md",
@@ -762,7 +762,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 371479
+        "followers": 371480
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -1010,7 +1010,7 @@
           "isCached": true
         }
       ],
-      "content": ""
+      "content": "\r\n"
     }
   ]
 }
