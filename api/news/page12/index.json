@@ -2,6 +2,92 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-17-survey-reveals-covid-19-rapidly-accelerated-consumer-adoption-of-fintech-and-the-demise-of-cash.md",
+      "title": "Survey Reveals COVID-19 Rapidly Accelerated Consumer Adoption of FinTech and the Demise of Cash",
+      "excerpt": "PRNewswire/ -- Blumberg Capital, a leading early-stage venture capital firm, today announced the results of a survey of consumer behavior and attitudes on fintech. The survey polled 1,000+ U.S. consumers since the onset of the COVID-19 pandemic and the associated conditions of economic lockdowns,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-small-business-financial-technology-public-opinion-446c4f034fa2debbc99dfb33f24edc21/gallery/0cf1297e1bc16b3216281875d6412b06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T06:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure.md",
+      "title": "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure",
+      "excerpt": "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T06:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid.md",
       "title": "Pairing AI With Human Judgment Is Key To Avoiding 'Mount Stupid'",
       "excerpt": "Just as humans can use time and experience to build both our competence and confidence, so too can machines — but much, much faster.",
@@ -1092,101 +1178,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-facial-recognition-system-at-airport-still-not-operational.md",
-      "title": "Facial recognition system at airport still not operational",
-      "excerpt": "Taxpayers shelled out nearly $1 million for a state-of-the-art security system at the Frederick Douglass-Greater Rochester International Airport but two years after it was installed, it’s still not operational.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
-      "originalUrl": "https://www.whec.com/rochester-new-york-news/facial-recognition-system-at-airport-still-not-operational/5926076/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.whec.com/whecimages/repository/2020-11/Facial_recognition_system_at_airport_still_not_operational-syndImport-052720.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html",
-      "cdnAmpWebUrl": "https://amp-whec-com.cdn.ampproject.org/c/s/amp.whec.com/articles/facial-recognition-system-at-airport-still-not-operational-5926076.html",
-      "publishedDateTime": "2020-11-16T14:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHEC",
-        "domain": "whec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray.md",
-      "title": "Baidu to Buy Chinese Livestreaming Giant in Big Social Foray",
-      "excerpt": "Baidu Inc. agreed to buy Joyy Inc.’s livestreaming business ... intelligence technology and betting on commercializing AI through smart speakers and self-driving cars. In September, its smart speaker unit received its first independent financing round ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7bMQ7gTztuk/v2/360x-1.png",
-          "width": 360,
-          "height": 202,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-16/baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray",
-      "publishedDateTime": "2020-11-16T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

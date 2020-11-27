@@ -51,6 +51,22 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "The two faces of automatic facial recognition technology"
+    excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
+    publishedDateTime: 2020-11-27T18:48:00Z
+    webUrl: "https://www.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    ampWebUrl: "https://amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 59
+    images:
+      - url: "https://www.dw.com/image/52650409_403.jpg"
+        width: 940
+        height: 529
+        isCached: true
 
 secured: "vEzvd/hFjpAZYRufgUkyZadUicXPAzs/k4DKmlilx/QGiB4AXBgjs1j4FMlD3Mx1TeGK+/4deAyTBBTWqN/7ZBY5fNK6xsOqlDYvk6FhVh4+R0hTirgObZgXb4+gRQPEP3e1+kvWS29245WIIQmaqnSbI40ys1/dwV/9q0OeYZD7fZn41PgRyXerTUmqwavcSrqIO4P2OXvbL6hWAd7QtSaeH/u3yopkOH3mVBbt5fZkxg9svDKyuBOp5XCJ9ZMg0z9kK039/Y3eXnXZt2G5hkVZaeQXwOyGkhE22zBL3Kfzr3+XGW8VpNi9bGt4i9h6YbyaA/sADfJym5Mo6Mj4R4dROUWvDmM0NCEAvyOPGSPUOIL4wFfxnrzMHnEUOZRNaWs+sYXB2C+kfTUfP4Q2V4PFxannOJ9AW27V1y+tYre2Kw1OHpXBAwkwgfAM6WHk4fsgxi44RVegFXNBAtLnepoocIy8ilU3Nu7G+CJ4xLfmHuVCZwnEww3Gfbvy4KiMNZdfXueaHDbP//bTYGYUog==;c3R5uXOi3RKkT1EHL5y9Ug=="
 ---

@@ -46,6 +46,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
+    publishedDateTime: 2020-11-27T17:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18554055/artificial-intelligence-in-healthcare-global-market-forecast-to-2027"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18554055"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18554055"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "The Global Contact Center Intelligence Market is Forecast to Reach $3.7 billion by 2026"
     excerpt: "The Global Contact Center Intelligence Market size is expected to reach $3.7 billion by 2026, rising at a market growth of 23.4% CAGR during the forecast period. Artificial intelligence (AI) is a part of rising innovations,"
     publishedDateTime: 2020-11-27T13:45:00Z

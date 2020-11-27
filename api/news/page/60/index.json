@@ -2,6 +2,100 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2020-10-13-tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms.md",
+      "title": "Tesla Autopilot Self-Driving Beta Test Will Start Next Week, Elon Musk Confirms",
+      "excerpt": "The Full Self-Driving (FSD) feature has undergone a complete reboot and is expected to carry a lot of new functionality. The rewrite also updated the autopilot's labeling software to enable it to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
+      "originalUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/09/23/tesla-is-one-of-several-major-automakers-suing.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tesla-autopilot-self-driving-beta-test-will-start-next-week-elon-musk-confirms-3061130?amp=1",
+      "publishedDateTime": "2020-10-12T17:17:54-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-13-when-ai-hurts-people-who-is-held-responsible.md",
+      "title": "When AI hurts people, who is held responsible?",
+      "excerpt": "How to determine whether a human was at fault when AI plays a role in a person’s injury or death is no easy task. If AI is in control and something goes wrong, when is it the human’s fault and ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "originalUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/uber-self-driving-car-transportation.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/12/when-ai-hurts-people-who-is-held-responsible/amp/",
+      "publishedDateTime": "2020-10-12T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-13-teslas-full-self-driving-beta-releases-to-some-drivers-on-october-20th.md",
       "title": "Tesla's 'Full Self-Driving' beta releases to some drivers on October 20th",
       "excerpt": "A small group of Tesla drivers will get the chance to test the company's 'Full Self-Driving' rewrite next week.",

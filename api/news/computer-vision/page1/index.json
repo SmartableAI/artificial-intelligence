@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-28-uganda-is-using-huaweis-facial-recognition-tech-to-crack-down-on-dissent-after-anti-government-protests.md",
+      "title": "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests",
+      "excerpt": "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
+      "originalUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2020/11/EKevaMuWsAECukC-e1606499646300.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
+          "width": 680,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/",
+      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/",
+      "publishedDateTime": "2020-11-27T10:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-another-city-is-using-crime-control-as-an-excuse-for-facial-recognition-surveillance.md",
       "title": "Another City Is Using Crime Control as an Excuse for Facial Recognition Surveillance",
       "excerpt": "Varanasi in India is installing 3,000 CCTV cameras with automated facial recognition tech at the city’s crossings.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1364,58 +1416,6 @@
       "ampWebUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
       "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
       "publishedDateTime": "2020-11-11T11:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-training-facial-recognition-on-some-new-furry-friends-bears.md",
-      "title": "Training Facial Recognition on Some New Furry Friends: Bears",
-      "excerpt": "Mr. Miller said. Could artificial intelligence used for face recognition be harnessed to discern one bear face from another? At Knight Inlet in British Columbia, Canada, Melanie Clapham was pondering the same question. Dr. Clapham, a postdoctoral ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/11/science/11SCI-AI-BEARS/11SCI-AI-BEARS-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/science/bears-facial-recognition.amp.html",
-      "publishedDateTime": "2020-11-11T10:34:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "New York Times",

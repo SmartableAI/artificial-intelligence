@@ -52,6 +52,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
+    publishedDateTime: 2020-11-27T17:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18554055/artificial-intelligence-in-healthcare-global-market-forecast-to-2027"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18554055"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18554055"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Artificial Intelligence in Medical Diagnostics Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
     excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
     publishedDateTime: 2020-11-27T14:31:00Z

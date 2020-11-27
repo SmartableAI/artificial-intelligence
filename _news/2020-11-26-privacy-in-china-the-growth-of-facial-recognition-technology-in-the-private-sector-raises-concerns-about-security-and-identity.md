@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises"
 type: article
 quality: 93
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
         width: 1000
         height: 668
+        isCached: true
+  - title: "The two faces of automatic facial recognition technology"
+    excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
+    publishedDateTime: 2020-11-27T18:48:00Z
+    webUrl: "https://www.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    ampWebUrl: "https://amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    type: article
+    provider:
+      name: Deutsche Welle
+      domain: dw.com
+    quality: 59
+    images:
+      - url: "https://www.dw.com/image/52650409_403.jpg"
+        width: 940
+        height: 529
         isCached: true
   - title: "The Rise of Facial Recognition in China’s Real Estate Market"
     excerpt: "Some homebuyers counter the rise of facial recognition technology in real estate offices by wearing helmets during their visit."

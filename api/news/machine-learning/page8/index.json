@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-14-new-deep-learning-models-fewer-neurons-more-intelligence.md",
+      "title": "New deep learning models: Fewer neurons, more intelligence",
+      "excerpt": "its mode of operation can be explained in detail Artificial intelligence has arrived in our everyday lives -- from search engines to self-driving cars. This has to do with the enormous computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201013124054.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201013124054.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T21:37:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-machine-learning-customer-stories-ebook.md",
       "title": "Machine Learning Customer Stories eBook",
       "excerpt": "Machine learning (ML) is creating better business results across nearly every industry—including financial services. While risk management use cases abound, financial institutions of all sizes ...",

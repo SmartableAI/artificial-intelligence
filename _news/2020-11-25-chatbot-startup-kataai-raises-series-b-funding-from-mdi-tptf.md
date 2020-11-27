@@ -3,8 +3,8 @@ category: news
 title: "Chatbot startup Kata.ai raises series B funding from MDI, TPTF"
 excerpt: "The startup plans to use the fresh funds to extend its business and services to the commerce, healthcare, and insurtech industries."
 publishedDateTime: 2020-11-25T12:21:00Z
-originalUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-662955"
-webUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-662955"
+originalUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-664309"
+webUrl: "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-664309"
 type: article
 quality: 47
 heat: 47
@@ -21,6 +21,6 @@ provider:
 topics:
   - AI
 
-secured: "PDWOsHfGwwGIbBH5D5jRhSzFna6whbiyAvrFKd9LM/XPn8pnHogw7f5fk08vmQ5PqYkKSGUGrBSnid0siIURqib9RIa8H7KqOLtx7maWQARKB1RHLyVd/01Vmx4YuAHWnhqoidXzxIZ0BQPccZUbzS4k+cRmmbAInqJB5flICCf+HR6oBBOo79iybUU/uig+INyyjQufHCSq1AcUhVG93WFULdJB9ZeWXYu/2V2xlZvsPvr1fM20XW5iqZ7RKl5FSTUnZX5UV0Yf3wpaQ0gP6p3knvuIjY9MoK58fz+XvcO4q26OoJpN2VL6LerahfF0cNnVuSxJ246jhUh4JYqWcq7lsD9qvlF5XNKcX2B5I94Kz0zgaMa0iqoGcinochYusDwSQ73TmPfr4u856Rj4a85UXg0/t7QoxXQ9aTdYP53lTgNTWKkOo1wCd6E76DNVplaSnwy+wzj/Eiui52hXO7OYEpdIGQNNVgsI24zXG/WWkZCRjT5vEK5SqTnNDgEyPgQxfXvna09FKduhTpf3iw==;OSpWR/UPVqLg5N823xQI+Q=="
+secured: "w3X1JUUB8yyed2UFiVuiH4XKsgTg91Pn/ggU6+mAYK3YfzLwPlf086FtmNCVgliaHoE2qwJe4rDnpDWD/AGjiH2dWcAqkPXGmWVCYYpK+u0003jMAZk8Qd6Jn42oaioj5fm+ZUlYBSl+tkAoPi2v9OXMjUCebSlWsku++6LQQRsYmcrOeBxNqSQORTYr7XVBDtSxmq/dH3pxaW8AiNT0K7aX8+0hSqu7RcWGl+PEzJMIfBNZeswJaEKGnF7wkQvRNhvGYAhuG7sD0pmQaQzJYjsc/I4Mq3A7dwlNxjF9omwHkcBxzcgTbcGeAUyMYy29vOma8m7i0gZ/xwFGrv+o9tgzaS6eSjLt9YUQShVrHhQHYpLOZlLbRZMirYAY4Z0Ucw8pzoTVqB8JzEHZ5LbQFHvQ9uatyV8Gnq9xlkVuxbdBGVUkYUm6tSOakxXGE17u30weFezf0U6u/dINk68WwLD/sAu2Az07NRSXWgGdq/qtxOyuxvZzLhKEkCVAh4c3gCpdZKq91NXZnWtZky8pgQ==;bgTRa1C1/bZnAo388pK88Q=="
 ---
 

@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-26-playing-psychotherapist-to-a-troubled-ai-in-syntherapy.md",
+      "title": "Playing psychotherapist to a troubled AI in 'Syntherapy'",
+      "excerpt": "Set about 20 years in the future, the game’s narrative is told from the vantage point of Melissa Park, a psychotherapist. The AI, named Willow, feels overwhelmed. The team is torn over whether the illness is a technical issue or an emotional one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/syntherapy-ai-psychotherapist-game-150014882.html",
+      "originalUrl": "https://www.engadget.com/syntherapy-ai-psychotherapist-game-150014882.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F21aafc61-2f38-11eb-90ff-49962f288178&client=amp-blogside-v2&signature=5bbd40eaa8ec0bbcaf908da5f10a3a85bb67c993",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html",
+      "publishedDateTime": "2020-11-26T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-robotics-researchers-propose-ai-that-locates-and-safely-moves-items-on-shelves.md",
+      "title": "Robotics researchers propose AI that locates and safely moves items on shelves",
+      "excerpt": "Robotics researchers at Google and the University of California, Berkeley propose methods that help robots to more accurately move objects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "originalUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/39049f7f-901d-4bf1-8a64-af2737f6b89f-e1606343440372.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 895,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "publishedDateTime": "2020-11-26T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-security-startup-helia-raises-3m-from-silicon-valley-investors.md",
       "title": "Security Startup Helia Raises $3M From Silicon Valley Investors",
       "excerpt": "Helia is headquartered in San Francisco and founded by Indian origin entrepreneur Ashwin Sreenivas along with Russell Kaplan and Daniel Berrios",
@@ -1136,99 +1239,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-youtubes-new-ai-experiment-automatically-adds-chapters-to-videos.md",
-      "title": "YouTube’s new AI experiment automatically adds chapters to videos",
-      "excerpt": "The days of having to suffer through an overly long and cringe-worthy YouTube intro are nearly behind us. YouTube has announced a new test that is using machine learning to automatically apply",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/",
-      "originalUrl": "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/youtube_main_uns.jpg",
-          "width": 1440,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/",
-      "publishedDateTime": "2020-11-24T15:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-inai-launches-artificial-intelligence-educational-program-for-small-and-medium-businesses.md",
-      "title": "INAI Launches Artificial Intelligence Educational Program For Small And Medium Businesses",
-      "excerpt": "Providers of full business automation solution, INAI, announces the launch of an educational program to give businesses access to powerful AI-Driven instruments for",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/ab18521263/inai-launches-artificial-intelligence-educational-program-for-small-and-medium-businesses",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/ab18521263/inai-launches-artificial-intelligence-educational-program-for-small-and-medium-businesses",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abnewswire.com/uploads/1605530909.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18521263",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18521263",
-      "publishedDateTime": "2020-11-24T14:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
