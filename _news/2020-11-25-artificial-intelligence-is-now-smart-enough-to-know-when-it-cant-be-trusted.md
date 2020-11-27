@@ -57,20 +57,6 @@ related:
         width: 487
         height: 423
         isCached: true
-  - title: "Artificial Intelligence Neural Network Learns When It Should Not Be Trusted"
-    excerpt: "A faster way to estimate uncertainty in AI-assisted decision-making could lead to safer outcomes. Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety,"
-    publishedDateTime: 2020-11-22T16:57:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-neural-network-learns-when-it-should-not-be-trusted/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 52
-    images:
-      - url: "https://scitechdaily.com/images/Neural-Network-Confidence.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "GBCJeVMCtxxz6OXvziljvqyilYhRg1t9fMZG4iyZvHOHWcnKagnge9Ainm7sDWqlF0/R/+9GiBK/qXnJoUf522ty2Tmn4eU0uWs82xQDOr0han8M5n5DuMscO/ZvWNWs80gD5BkBBr9zQ4sKmgozGkbmwMsP1RaCjWAleXnSVL3U/MXNIpvzAOqVNSiUzD7T6Nwo31P4q+PPQCnEDAHw9WDTcLJDZhMeko8FtXUwKpuJjxKdQjsesRIaq1EPN9QOM/kTVoO/BiwN9JtlVWITUTw18/dQ6oguYxyPLROzdLSjDUId6DLPAsD/aKbjX5mbqRzerEhsDp9FzMpN7Cpmq4NMOCMxIex1UFlQqTT0nesaN/qjnPZsj5mGx46Poj7xXobp0AY2KQ14RaNDeQSpwVCXplRnRFlT4aUnLysF9+NjIxjGcD9lZwY/0qPzVXPYgNCdK+9B4WA0aIwNx/JaYrWYqdSlRUG4fmO2yAxRTIer30IdPV38RTXFjDKeSF+9JJGICZvDL2FPurJUtjqnAg==;2qwRGfcPu5nUVeXVI9wNkA=="
 ---

@@ -28,18 +28,20 @@ images:
 
 related:
   - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
-    excerpt: "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025."
-    publishedDateTime: 2020-11-26T23:10:00Z
-    webUrl: "https://www.shropshirestar.com/news/uk-news/2020/11/26/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products/"
+    excerpt: "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched."
+    publishedDateTime: 2020-11-27T07:29:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
     type: article
     provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 67
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 87
     images:
-      - url: "https://www.shropshirestar.com/resizer/gi8dAuZ3NaXqqM7KvvVzFXbICZo=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/FX6LBH5PCNHKNF56KH3B2F4MFY.jpg"
-        width: 1200
-        height: 900
+      - url: "https://www.belfasttelegraph.co.uk/news/uk/02227/39797835.ece/AUTOCROP/w1240h700/bpanews_a3da0697-6e0e-4619-8bfb-ca1f4080ed1a_1"
+        width: 1240
+        height: 700
         isCached: true
 
 secured: "mQ/MtLWPOxHdD10zY9t8E0DBRTpzQXkFOM2F6xbT5eR+SUoSxRK2f1kPi7fqNayQwd2TiWFfUR/xTxUC8/EeGUhsYGhosovm8YpIMMy9DYAkGQHx3hcrmph2MKI76Wz6TT11atxw85AvM1wb5vhiLXblpaU9BBBQiMDuCwT9F62AaN36CYZJrrkQDvplldTvZ1+QE01M01jytaSlMKZM/i/AW8gwgBfVBrVi5f0vbH6IhrarOd0fTVrg6XzDFWslGzTqId0W4pyWYh5JL0C91OVRzvcDEsGTGnzrFZcLI8TBLsjjQGNvaGSI94RA+SnwAVg8tGdIvCsNPgPiJq106b03kkcteAImXp/olZWWmdqZefZh3owZwd5sY2ou/T+32fOHHfOBTcq8TDGw8dp+QcZhyYLDKF61pbnZ2/8IFAWuxNVfIkw/Jr5UuK8/N9OJ6OjqG3nt3xVxDgqnwd07nrLEbJIcWN3jJnVncPNtS0TNyTPfqxQvEzxK8RrF5pawd3o0EVVA9Z3fNjDOcr6A7g==;dMvt1nzsK3xw3PSIwm2pDQ=="

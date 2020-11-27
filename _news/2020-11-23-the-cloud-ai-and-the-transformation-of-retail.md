@@ -7,7 +7,7 @@ originalUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-am
 webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -26,61 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Regulation 2.0: The AI technology revolution is here and now"
-    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
-    publishedDateTime: 2020-11-24T12:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/19565/regulation-20-the-ai-technology-revolution-is-here-and-now"
+  - title: "As AI transforms the power sector ethics and governance take centre stage"
+    excerpt: "AI is changing processes in the power sector, leading to greater cost savings, increased efficiency and new services for consumers."
+    publishedDateTime: 2020-11-27T08:50:00Z
+    webUrl: "https://www.powerengineeringint.com/digitalization/as-ai-transforms-the-power-sector-ethics-and-governance-take-centre-stage/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: Power Engineering
+      domain: powerengineeringint.com
+    quality: 53
     images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Regulation 2.0 : The AI technology revolution is here and now"
-    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
-    publishedDateTime: 2020-11-24T17:36:00Z
-    webUrl: "https://www.finextra.com/blogposting/19568/regulation-20--the-ai-technology-revolution-is-here-and-now"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Stravito offers AI-powered information discovery solution"
-    excerpt: "New feature pushes market research of relevance to users so they can make insights-driven decisions without having to actively search for information"
-    publishedDateTime: 2020-11-24T14:16:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144048"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
-  - title: "NSW Health Pathology helping transform medical testing and patient care with cloud, data and AI"
-    excerpt: "For clinicians and public health workers, the opportunity to accelerate access to test results is equally important because it means enhancing outbreak prevention, faster treatment and better outcomes."
-    publishedDateTime: 2020-11-26T21:22:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/nsw-health-pathology-helping-transform-medical-testing-and-patient-care-with-cloud-data-and-ai/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/NSW-Health-2-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://d1lvg32zsrb40h.cloudfront.net/wp-content/uploads/2020/11/POWER-SECTOR-AI.jpg"
+        width: 640
+        height: 480
         isCached: true
 
 secured: "6VH0V22vHK01pNj/GBfvrQ0Hf4HX8JQ4tVPeweIKTMMrkDOztQO/o64xdHPU6wEhWQs+361yEgmd0s5rHJ6FNaf3H0nDL4nd8xvUWZWO+sWpSMap3I38sZBNwPF9pyuNHMrK/Ch/eF8zOBNUtN5bLOTtR54ZgP61lHFVCcDdMwGwOf40nPB2qP4Q8CcuNVHItHwQHfkU6UW27u6CyGGJLwJcmMaA41uvqbC4/XiB+17YEuCLirTxNRwuLLrEl51pHNbjYjKQX1QuZeh+2dRQJTZP+tTAvmBRkM0S6kFxViddCv7oLgJKifGHA24w/Zxo2i3FxSms4cqFzjGFErKyylftPLvO6NhCoTKu2Hi5rM8pEVOegN39nDsjukBkhvQljBeMnPFNFWtyQ/Cgc7dGSOYepWn0Lr2WtI1lPKFwDvLJR7kpG5gn2bB46ajQLXNESvTTmJXIxuQzRETh6sd1EJXiTW63TL5/s991322dH98uOmOZaVMfGP7NR2SMEPZVApDPGh+OrHOTMr6fjXQc4Q==;vUClpQrc+ZEjyUyg2IvcGQ=="

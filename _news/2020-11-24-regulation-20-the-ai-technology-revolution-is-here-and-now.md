@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/19565/regulation-20-the-ai-te
 webUrl: "https://www.finextra.com/blogposting/19565/regulation-20-the-ai-technology-revolution-is-here-and-now"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Cloud, AI and the Transformation of Retail"
-    excerpt: "Google Cloud report covers the AI imperative in specialty retail, plus AWS weighs in on the pandemic’s influence."
-    publishedDateTime: 2020-11-22T17:19:00Z
-    webUrl: "https://wwd.com/business-news/technology/google-cloud-ai-retail-amazon-aws-1234662152/"
-    type: article
-    provider:
-      name: Women's Wear Daily
-      domain: wwd.com
-    quality: 41
-    images:
-      - url: "https://wwd.com/wp-content/uploads/2016/09/0411_boutique_plus4.jpg?crop=0px%2C266px%2C2400px%2C1601px&resize=394%2C263"
-        width: 394
-        height: 263
-        isCached: true
   - title: "Regulation 2.0 : The AI technology revolution is here and now"
     excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
     publishedDateTime: 2020-11-24T17:36:00Z
@@ -53,33 +39,33 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "Stravito offers AI-powered information discovery solution"
-    excerpt: "New feature pushes market research of relevance to users so they can make insights-driven decisions without having to actively search for information"
-    publishedDateTime: 2020-11-24T14:16:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144048"
+  - title: "AI's Regulatory Guidance and its Potential Effect on the Construction Industry"
+    excerpt: "The White House’s AI Regulatory Guidance, which clarified policies regarding encouraging innovation and growth in artificial intelligence, has potential to provide improvement to the construction industry."
+    publishedDateTime: 2020-11-23T19:26:00Z
+    webUrl: "https://www.forconstructionpros.com/latest-news/news/21204125/the-white-houses-ai-regulatory-guidance-and-its-effect-on-the-construction-industry"
     type: article
     provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 37
+      name: For Construction Pros
+      domain: forconstructionpros.com
+    quality: 35
     images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
+      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/11/16x9/AdobeStock_323303561.5fbbf6b8080c9.5fbbf710bf4f8.png?auto=format&fit=max&w=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "NSW Health Pathology helping transform medical testing and patient care with cloud, data and AI"
-    excerpt: "For clinicians and public health workers, the opportunity to accelerate access to test results is equally important because it means enhancing outbreak prevention, faster treatment and better outcomes."
-    publishedDateTime: 2020-11-26T21:22:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/nsw-health-pathology-helping-transform-medical-testing-and-patient-care-with-cloud-data-and-ai/"
+  - title: "Storm ID and Zebra Medical Vision to Co-Develop Revolutionary New AI Based Osteoporosis Prevention Solution as Part Of UK-Israel Collaboration"
+    excerpt: "NHS Greater Glasgow, Clyde UK, Assuta Medical Centers, IL, partner with Storm ID and Zebra Medical Vision for early detection of osteoporosis"
+    publishedDateTime: 2020-11-23T21:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123006272/en/Storm-ID-and-Zebra-Medical-Vision-to-Co-Develop-Revolutionary-New-AI-Based-Osteoporosis-Prevention-Solution-as-Part-Of-UK-Israel-Collaboration"
     type: article
     provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 29
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
     images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/NSW-Health-2-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://mms.businesswire.com/media/20201123006272/en/841451/23/PR22_11Orange_%281%29.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "Diog7nOcdZ1IASaONj2PddNf2gr4FYzytY6Nb6HxqgjomGEwo9r0tKfLtO9/fsbnuD1CZ7+hS8aU5cZsijFE52FzXjBfreS6hqi2f1HiyNjvMeZhidpnmkHn/OTAAsTUGFcuEMFn63y/beplj92QIMjWMIHupvXpSECSb7YaEI7mktxZjs5sYuCO5W8YHJhKaVe9FkV9qt6hpxuTsPtoONAamT/+g5UvBsVlrMrCivdZCVeH/akSmg4on35PiplHlZOP1v11cjX4g+zYneOi5rTeTGnHoaiPPGZkcCE+ThkF1aYuMZ5pxLquyhTlndzY9cJwQ82wxqqMm0IIlkYGVt25S0xPJcmP4O9/cKjZStk=;HmAbxj7VVS/ejM/Yz/DC/w=="

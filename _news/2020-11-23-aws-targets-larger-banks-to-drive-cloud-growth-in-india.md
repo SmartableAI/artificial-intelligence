@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconindia.com/news/general/aws-targets-larger-banks
 webUrl: "https://www.siliconindia.com/news/general/aws-targets-larger-banks-to-drive-cloud-growth-in-india-nid-214677-cid-1.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS targets larger banks to drive Cloud growth in India"
-    excerpt: "After gaining traction among some of the smaller banks, Amazon Web Services, the Cloud computing business of e-commerce giant Amazon, is planning \"to go deeper across some of the larger banks as well in India,"
-    publishedDateTime: 2020-11-22T15:22:00Z
-    webUrl: "https://menafn.com/1101166429/AWS-targets-larger-banks-to-drive-Cloud-growth-in-India"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2020-11/22/I_a8ca3b9e-1image_story.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Robotic-Assisted Surgery Has a Bright Future in India"
     excerpt: "Robotic-assisted surgeries have been there for quite some time. In recent times however, with a growing emphasis on improving the quality of care and with AI ma"
     publishedDateTime: 2020-11-25T03:28:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-tr
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg"
         width: 487
         height: 423
-        isCached: true
-  - title: "Artificial Intelligence Neural Network Learns When It Should Not Be Trusted"
-    excerpt: "A faster way to estimate uncertainty in AI-assisted decision-making could lead to safer outcomes. Increasingly, artificial intelligence systems known as deep learning neural networks are used to inform decisions vital to human health and safety,"
-    publishedDateTime: 2020-11-22T16:57:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-neural-network-learns-when-it-should-not-be-trusted/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 52
-    images:
-      - url: "https://scitechdaily.com/images/Neural-Network-Confidence.jpg"
-        width: 1500
-        height: 1000
         isCached: true
 
 secured: "TalM9e3P7s0Xbf4xkUu+lXW+vTGg7R7G8RMESbm6FUrOYfZHSzhrfbP3j5V0d6OxVajvpQ25a6Wm2SthT5S4ZjOkeqq5sI1qZ4/tEDeX5fPZyw2sKxktd/WhTnzKBoKvEl7mwU7YldPFzxKqQ08R3h27DKbrV+uHA2AJ1QjCPNPIcGU2sA4N/myv3D/iVGecguU7mWYmbCC2klBXN03oj/IyJm1LbbzK4oUGpet1uH8i5x1D2vlvZZwoO7gZ872Eb4wjKRADd8dSDC437AZ2g3ivqJIPWBSc4t8LjUiNnMNb9SPigvDSs0y81IYSS/wwKuRYjESTyQfyXnYvlliLe6D8fdF/oXH/TVNy1f5Ji8ptjU4oKeJqJ7kD7oZQWcirAO5yT08U5dxng2pgswyHYR66k5oO5hqz9jqkST9rHiJWR+j0G+r1oIpvIiYzhM9soz3tVYHBn5zhN6EhSgadGUcR4nimZOiTkgi+7WlGQVz6khZlnzyy5O4xjtjdtNA7Rwi5U/Eyw/t8pAqX6vBvHg==;rG0gK43TgDZ0ILYZahdDHQ=="

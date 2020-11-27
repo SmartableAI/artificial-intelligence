@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/"
 type: article
 quality: 124
-heat: 144
+heat: 145
 published: true
 
 provider:
@@ -63,6 +63,6 @@ related:
         height: 400
         isCached: true
 
-secured: "M2I1SfothBxf7cmJ5D8JIZNp5Dx2n+Jkx38KjHL1mxBjtvedwcNTxXbnRie1xg/bZa4Q9fWi7nfCevO/S+TwjfW1CYUZs3kp1/57YdDt/EA7fworin2Sq/6kOeO/BIugSYkHvD0daaqHYv1MZ93j6rU+xc4jGzI08dzJlc5IQfmSrkDCs6dncBpUaxUbVKNKpzQ7qspwlqux5WViMx4MGlx0ShHVYZdVioNWdZ7wp1a9ol7SrjUUf2HDzeEyTZYd5Ix8MHvpwp6EcQmeh6rT3REW757PQf4rVnlL6WHHnfh/gU8pm6U0XKRBEVCaa1F6f0ziOIiyu7OKHq+/GujuIiFaGCLl6jKtMG/zsM01+Ew=;31fyREa/BmzG/mGfoDQjDA=="
+secured: "nGDGXYZlvJk9ftuYeKgkRXAa+8ZebO5kbfy/xzcvcHzF+AOAGzfbKTcAsxYKm7/elpcPYEKNlRNzflYm7+KXqrEQBemS2BFpt6+jIccenMVJ6j/do/rdhCZDAfybhBUR1ep/y3JNeaR2KKmSjs3mpMbIOqw+i+6jqaOYUxCHdStKArqQx26EV2tZ7nUCMdu7tgAdHaamAPVr+E4dzEtelfJIJ3eDyM54qn1AvHNeiYa62LkRb+yddbfA6Zzi7Xmyyl8NmBXC+Mh/tBUhpMkxqUyFBCG4t1/gNyinm34JvDidBqe/Z5V7XaswaGoC1rdHDYhUki368QtqaBIoF/8yAxTcs0dpbblK1qgfUW5BEOp5QSw/dlwpEB4vaZqrPRHjCrJzOFHLgYS1Kw2LwdsvB+UjufkRk1XxlSxN3OP/By0Ugvlxat+oBXGNkV9Gp2G/LMDMWRpHYuuFIIf0N9omidTgg+nUunChqEdEivZS6ECvQyl3+JbSbSdnB0f7iMdcwMKpVNObzPKwngzpJPmD2Q==;Bty6PDq9acy+unQnGtbscg=="
 ---
 

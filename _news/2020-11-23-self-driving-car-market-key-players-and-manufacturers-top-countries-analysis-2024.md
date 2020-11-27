@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Car Market Growth Overview, Development Size and Revenue Forecast to 2024"
+    excerpt: "Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25.7% from 2016 to 2024. Global Self-Driving Car Market is forecasted to reach $20 billion by 2024; growing at a CAGR of 25."
+    publishedDateTime: 2020-11-27T08:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-growth-overview-development-size-and-revenue-forecast-to-2024-2020-11-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
     excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
     publishedDateTime: 2020-11-23T03:57:00Z

@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Dyson plans £3 billion investment in robotics and AI to create new products"
-excerpt: "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025."
-publishedDateTime: 2020-11-26T23:10:00Z
-originalUrl: "https://www.shropshirestar.com/news/uk-news/2020/11/26/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products/"
-webUrl: "https://www.shropshirestar.com/news/uk-news/2020/11/26/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products/"
+excerpt: "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched."
+publishedDateTime: 2020-11-27T07:29:00Z
+originalUrl: "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+webUrl: "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: Shropshire Star
-  domain: shropshirestar.com
+  name: Belfast Telegraph
+  domain: belfasttelegraph.co.uk
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://www.shropshirestar.com/resizer/gi8dAuZ3NaXqqM7KvvVzFXbICZo=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/FX6LBH5PCNHKNF56KH3B2F4MFY.jpg"
-    width: 1200
-    height: 900
+  - url: "https://www.belfasttelegraph.co.uk/news/uk/02227/39797835.ece/AUTOCROP/w1240h700/bpanews_a3da0697-6e0e-4619-8bfb-ca1f4080ed1a_1"
+    width: 1240
+    height: 700
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 1563
         isCached: true
 
-secured: "XfycX/cQmNgE+L5QWVNXQuIMo4MBxJpk0rFoYim4skVzsGQfJDcaxtUZ7uGjfS/Ibco06vmre1Ea74MIqVq8AHYcm2wPCvoPVLz3UMYPcq4jO7Rdj0KWX//N9BRAsf7s28Itt/0N4Acm6/7SLwO6znVvAvUXijT9bO31niz57vUHg0C8xkw9n1oOeVWTVt2HuGsFFO72DFFvjmkoWZbffBFjZZDF97gyLFcdJJ9DJjXjPhKVv+zqyOaPkh2OUv9TiBzTDXxxSHVtDvYU3Y+/pblII2HZwW9hQCBAEY7XzvKWpMdVxrrrqwabMjxJ6ADMc/SWCw2x1VpBCYIlzfKfCeDJ/YyvF/YeNbTXpBM/P/I4FSLwIC0GHVSeXBfZGi/VOb9uDpLnlSGSjax9a6hjuu3jUJd1bQrLyE8TBFz8ipO3bMADIrVd7HnClxDB39BBPHXxjTAnn70zlnh9kNiqzObkP0sNVXcEwJ+cF/LwGezucRiCx0RLryA+T2PJddktaEUm5Zlo8ViJyitfT3Fe0Q==;qT931wdUr6D2B+TcLYMw+A=="
+secured: "wNWkWrEg3KqUgJm/TEGGhrCjIo4ipBt/IDFLSW7SiaHuoangdqTP1wKAhWPQGM9NCw5plzs2hQxIgbGxSyScgPmVNrCxGHewLkOp6DX2Q0GsnKMiWNoCAZMzVfXrOTCXpI6pIjmDL1G8D348d5sKQnCJe58Q1RhHUFQiH6ImR/rHCwEzbq0eHj6DdiawFfZeMwuq6ZcUy2rw4mLbctefvwcytdrn37yD4Ai7N+U0rZ8egcVhcV6+6eUcwK/40OvN+nNn9jSsy0wN+VlM+zU9Vc+jwaTiuli+hegeh1/4t3jthIc5VFakQbPN59RgTzFadImrvO4+dF9tdsVBaA4gcMJ3IPaRsolPEkrbJU3BBhQ=;XcbfvztJr1/vY8xEL+wQXg=="
 ---
 
