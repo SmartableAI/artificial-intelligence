@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Sheremetyevo Shows How It Uses Artificial Intelligence to Effectively Plan and Execute Airport Functions and Activities"
-excerpt: "Sergei Konyakhin, Director of the Production Modeling Department of JSC Sheremetyevo International Airport, gave a presentation at the Artificial Intelligence Systems 2020 on November 24 conference showing how Sheremetyevo International Airport uses artificial intelligence (AI) systems to effectively manage the airport."
-publishedDateTime: 2020-11-25T17:42:00Z
-originalUrl: "https://www.morningstar.com/news/pr-newswire/20201125cl04027/sheremetyevo-shows-how-it-uses-artificial-intelligence-to-effectively-plan-and-execute-airport-functions-and-activities"
-webUrl: "https://www.morningstar.com/news/pr-newswire/20201125cl04027/sheremetyevo-shows-how-it-uses-artificial-intelligence-to-effectively-plan-and-execute-airport-functions-and-activities"
+excerpt: "Sergei Konyakhin, Director of the Production Modeling Department of JSC Sheremetyevo International Airport, gave a presentation at"
+publishedDateTime: 2020-11-25T16:06:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/sheremetyevo-shows-how-it-uses-artificial-intelligence-to-effectively-plan-and-execute-airport-functions-and-activities-301180688.html"
+webUrl: "https://www.prnewswire.com/news-releases/sheremetyevo-shows-how-it-uses-artificial-intelligence-to-effectively-plan-and-execute-airport-functions-and-activities-301180688.html"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
-secured: "0NFZ/tC4fLLr1aDRpDdKoZXRjLT5QIOMAvg5x78S/Dtv3Q7dI5OO8hBiSMDjVdiUE6vus+XQE27HA8YyOYRjtxwEpRWvDsX4UUEbEgI3GbmMlCwHelHnWBMGxe4hbr/8yExfN4q/FfV6+H9z1xw2OeROkVZW9ud9O7YG0ezZ9lK75libToXMvoOO3/ygmPU4u6cJqB2KITzO8usO3y67ERrFbLHm+thgWc4SpYU/laM05pJfVSW3RN9SvgHh/9pECT4KsD9YrIxDQL3/AAikK80TlgZ9gPruJtsYLSUrTgYlacwhtEEwoyBYhAYi+wWlx0/zPulEWboWQMZfqxJTfZlvfUtWzSc07G4mlSvtRX0=;IphQUb2fqNPqyeDSWKpwcA=="
+images:
+  - url: "https://mma.prnewswire.com/media/1138534/Sheremetyevo_International_Airport_Logo.jpg?p=facebook"
+    width: 598
+    height: 315
+    isCached: true
+
+secured: "c2KvpyNAzpRVRkraw50lD+X0vBWhfVAh36uNW6dSk8R7wz6b+o52QNkqfK9JSlP23qAGN3wM8CYdwCIGSSrB3fEnegsdpMxANgcxIjSmTfri1GlfVqUK4LVnCfp5DfvgKnqwqY9kd6QJV2vvjFFvAk90yK+TE1rzqgdQGNBlntptE5Y4yDGkfqP/gOj32OVwMu/2ed9uP0gJJ0DtTgnnF+6ERvqjxwbu/0L4bXBeXOHELnlLHZkGlfeewpR7j4s83C9sxbhYwA5scB3BeV9CeTRKxB84kFLvRJ8WRiOhtCow6sp1MCO1KkbJyb5/QzsJjeTe+gAl0AMKCNsG3K9EDTtd6N5lPuPAjT4MzKk7Rpg=;0ke3OiPWUmSQYU6U+JksoQ=="
 ---
 

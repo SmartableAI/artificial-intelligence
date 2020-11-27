@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
+    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
+    publishedDateTime: 2020-11-24T15:55:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence helps check 500,000 CT scans for COVID-19 in Moscow"
     excerpt: "The Mayor added that the capital healthcare system actively implements digital technologies that help with diagnostics and perform routine tasks"
     publishedDateTime: 2020-11-25T16:48:00Z

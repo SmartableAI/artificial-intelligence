@@ -241,20 +241,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forec"
-    excerpt: "ArtificialIntelligenceAIChipsMarket--The artificial intelligence (AI) chips market is expected to grow by USD 54.03 bn, progressing at a CAGR of over 42% during the forecast period.Click & Get Free Sample Report in MinutesThe increasing adoption of AI chips in data centers is one of the major factors propelling market growth."
-    publishedDateTime: 2020-11-25T20:33:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=381643"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
   - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "The AI in cyber security market is projected to generate a revenue of $101.8 billion in 2030, increasing from $8.6 billion in 2019, progressing at a 25.7% CAGR during the forecast period (2020-2030)."
     publishedDateTime: 2020-11-23T18:50:00Z
@@ -320,6 +306,20 @@ related:
       - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
         width: 981
         height: 576
+        isCached: true
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 2
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
         isCached: true
 
 secured: "6vRAUE81DyepbJkgqdC37uggLCXRT6A25L88TAet320ODoIibLxHs2QKNkLH1NeQ8JV6FOOwCEGblWA9g3q79K0Yz5a1/tcBkuF0mfZbHGfaHb7XQZQBkSjECwoc0LY8jyPMBeJhpft2yoWkfYqz833CHwN/gPF7ShRFlUmUtoMBqZ+AqkVdj3v53bprVXwhfG8qcKk4iUgGsjjV1AMsfrFJYSWKruPqA8zSv48uIlsrAbWSgEUyhalzaskP7yS6Gny30qS96nOSoWnDbuMOgv6QkrwvCmAD96R8R/CV7j5QNsHAc7HWCsKSBk/z9cQ2EsaIqDSDT/qMlG9h70uHYlis4rn0HOhHl0x3mE59Qpg=;AugE8gubRIv/x/SVOLo1gQ=="

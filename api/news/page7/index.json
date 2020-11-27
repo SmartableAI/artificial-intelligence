@@ -2,6 +2,160 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-19-watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world.md",
+      "title": "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world",
+      "excerpt": "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/ServiceNow_1-990x448-2.jpg",
+          "width": 990,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T12:30:08-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses.md",
+      "title": "Google’s Project Guideline uses AI to help low-vision users navigate running courses",
+      "excerpt": "The company also continues to develop Lookout, an accessibility-focused app that can identify packaged foods using computer vision, scan documents to make it easier to review letters and mail ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
+      "originalUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/a577f9c4-b652-4554-9655-39dc580ad1d7-e1605769616203.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/googles-project-guideline-uses-ai-to-help-low-vision-users-navigate-running-courses/amp/",
+      "publishedDateTime": "2020-11-19T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains.md",
+      "title": "Afresh raises $13 million for AI that optimizes grocery supply chains",
+      "excerpt": "Afresh, a startup developing an AI platform that optimizes grocery supply chains, has raised $13 million in funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/",
+      "originalUrl": "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Store2-e1605763831945.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/afresh-raises-13-million-for-ai-that-optimizes-grocery-supply-chains/amp/",
+      "publishedDateTime": "2020-11-19T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers.md",
       "title": "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers",
       "excerpt": "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic.",
@@ -1036,142 +1190,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi.md",
-      "title": "Artificial Intelligence, Robotics Key To Fourth Industrial Revolution – Abdullahi",
-      "excerpt": "The director-general of the National Information Technology Development Agency (NITDA), Mallam Kashifu Inuwa Abdullahi, has identified emerging",
-      "sourceUrl": null,
-      "webUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
-      "originalUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://leadership.ng/wp-content/uploads/2020/08/Kashifu-Inuwa-Abdullahi-NITDA.jpg",
-          "width": 1080,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
-      "cdnAmpWebUrl": "https://leadership-ng.cdn.ampproject.org/c/s/leadership.ng/artificial-intelligence-robotics-key-to-fourth-industrial-revolution-abdullahi/amp/",
-      "publishedDateTime": "2020-11-19T03:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LEADERSHIP Newspaper",
-        "domain": "leadership.ng",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-extortion-bio-warfare-and-terrorism-extremists-are-exploiting-the-pandemic-says-un-report.md",
-      "title": "Extortion, bio-warfare and terrorism: Extremists are exploiting the pandemic, says UN report",
-      "excerpt": "NEW YORK, USA – Criminals and violent extremists are exploiting the pandemic to build their ... or high levels of pollution', the report said. 'Inspired terrorism' case A notable case of ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.un.org/en/story/2020/11/1077932",
-      "originalUrl": "https://menafn.com/1101151140/Extortion-bio-warfare-and-terrorism-Extremists-are-exploiting-the-pandemic-says-UN-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production+Library/18-11-2020_Unsplash_data.jpg/image770x420cropped.jpg",
-          "width": 770,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-ai-for-cybersecurity-maximizing-strengths-and-limiting-vulnerabilities.md",
-      "title": "AI For Cybersecurity: Maximizing Strengths And Limiting Vulnerabilities",
-      "excerpt": "The rapid pace of technology development that for long was seen as a trigger for digital transformation has given birth to new and advanced security challenges",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360010",
-      "originalUrl": "https://www.entrepreneur.com/article/360010",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605784146-artificial-intelligence-3382507-19203.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360010",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360010",
-      "publishedDateTime": "2020-11-19T03:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

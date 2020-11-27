@@ -1,22 +1,27 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced that it is releasing one of the world's largest collections of pre-trained and pre-structured ML models for Amazon SageMaker to offer for sale."
-publishedDateTime: 2020-11-11T12:00:00Z
-originalUrl: "https://www.trentonian.com/news/state/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/article_b048f595-b026-5402-adc5-a0a9d8fc752c.html"
-webUrl: "https://www.trentonian.com/news/state/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/article_b048f595-b026-5402-adc5-a0a9d8fc752c.html"
+excerpt: "ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,"
+publishedDateTime: 2020-11-11T13:13:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-897787209.html"
 type: article
 
 provider:
-  name: The Trentonian
-  domain: trentonian.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
-secured: "ycKXbKjB8nuQLkf7QY6QBD537jr0L9H08O2PTTXSuuHAN6opruHft7KHn1249mB7muWCATzAQQtRPT+X3XRCTA0oAf+X7UQC7dnfAh7vV6EwrtFF8AtT23AMbRKQV7cyZaiMF6TG3cLJJb45YCjZbiMT27VkgGngAEFl56zWQ4DmxZH5ED6CpBYtvi7YRJ/sYxysCTlOcCSu2k2i8uLRYylGWX3Y1O/emSSQ08fzh7Lb/UEWn3myLmdBfbmioMb2RhO6nAS7hfbfKvv4f7FGcBMwCKyJ8On0whYha2lju3FIRGdr4BNXd9kqno8kIHWxzBvsjJl9GnfFdkac2Kzm7PqE6JYeGodN4pBwrLZ/YRw=;PeytbAJFAUDghyYeOx/FqQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
+    width: 2700
+    height: 1414
+    isCached: true
+
+secured: "HPlkqJf0edHpyRdREtO2l/NnSULXvF2VlqhD4IRbr6sSnIifUsDTXM1bIAyyLXzhd3biU25nEfh/0UOldOpSGRLU0yUDSO/dCLdqFKr6g0CzJBg0DIbRo9A6TVPBZcZ1q+ijWh/hUHb1E/fL6AiagWq/ZMkZpMH/chsDxSLuxRwhJAUldSCzE3KnpuIAFT5wYMwC/hHScilyJfOkkVOhPv4Y/Dalla5bxkvuPlpSdTG23dpU0lkQ50Tdgfx1Ul8+eg/Hihp8O7CwUz0wnIQcvqRCP6glcO56W+FdEg2qQTkhxbdLX/km6IJvpjbouTSFyAziMQjCvriuzt7Xo4tUww1VJ9wal96IWbJpsWuUfQk=;r0mmWOjt4ewjclXppu1zIA=="
 ---
 

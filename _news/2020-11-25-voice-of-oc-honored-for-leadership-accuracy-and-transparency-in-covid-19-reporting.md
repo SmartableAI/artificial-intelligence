@@ -70,11 +70,25 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
+    excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
+    publishedDateTime: 2020-11-27T12:30:00Z
+    webUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 3
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2020/11/bigstock-telehealth-telemedicine-medic-385095428-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "+zKH5f25/K6bVeLItXB+vkla1PQZ4vheqBauCJVdj5ZeK8RRfF7PQSB7aXNU1qUROk0+/rH+UvLAbcK8iFrLfTJcBeuSj6L8erdpQrWZq8HaQT9RrjBFpLg8VN+rCDQCCgvYDUyOWFZcg+oJLzyxfBvUNB4LQgOcZ2F80oCrDtq8p/sLmu/PGaFBkRfONn9HbvNvamJ74zM7EhVcjpZplF+KRvgZUpB+04MtxiTnzXOMHwC6FblghksLpbLdMU/3IBsiJS8oYzAuz15LQqEa/fl1P89J3MoLFLMnznqF7ea59O6G9mJ2R+zwjgav2M/dWxaFQQmM+i50mGUx3F2cb7nN6rcMgowEo8ncm2pOYu8eVwJwazUzF67M2wqj4JdFI1HJRls+Fse4B847MapmKGj3h51z8Ic0UGopgUYuINDbWm0eXuF3I3mZgHmgIBKAT5mBh3mZKhuOOnU1aMzGgeDkgxup964sR/32NHUt1o5YsVPsyjDmVz2+HhmK7m1kql+bK/tHQ+hcfNhk6ozv7w==;+TSlHId+CKluKLYnVQbE1g=="

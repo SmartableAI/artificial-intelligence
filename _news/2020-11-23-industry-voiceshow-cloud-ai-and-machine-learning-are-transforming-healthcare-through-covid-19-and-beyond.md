@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai
 webUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19"
 type: article
 quality: 53
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -57,7 +57,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -76,6 +76,20 @@ related:
       - url: "https://voiceofoc.org/wp-content/uploads/2020/11/latinohealthaccessaward2020.png"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
+    excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
+    publishedDateTime: 2020-11-27T12:30:00Z
+    webUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 3
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2020/11/bigstock-telehealth-telemedicine-medic-385095428-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "06NTqwSE96ruYTuidkc1cbNaHQIxiJW2Sn74sQb5xV3Ul02vBI83PqKwf88qUwXfry9aLO3JoRpgC6JBkwT2jgajtBDf9pUxCyOoGKw2Yg4v6i37Nm/Vr+ffkqE6KaLpt68YmgR7mnNLArUllabVxAGdlsRPNp7VkNwbNa4TZ8FJ8KrbN31wdxudoDT7AYyR8jk8bW0sAJvnV4CuIi8MhUXgvMM3HTS/DSlH+HV5rYac39lwI++kRxY77wN4LR1RTlOCuCyMJyOYsx3q2EPLWx5PS8HB706XuPcpfc5G7ekIR7sAZ16+ntLeHfvFiuMAFhIJuwz2WocA6+S4PV7HFIZLiYWFgqHPck8iuM246Is=;uIqVmHbdUZeVZ0wRGqFGOA=="

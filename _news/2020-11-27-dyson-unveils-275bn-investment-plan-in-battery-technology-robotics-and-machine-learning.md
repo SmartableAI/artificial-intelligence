@@ -2,19 +2,19 @@
 category: news
 title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
 excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
-publishedDateTime: 2020-11-27T09:58:00Z
-originalUrl: "https://www.proactiveinvestors.com/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
-webUrl: "https://www.proactiveinvestors.com/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
-ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/935099"
-cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/935099"
+publishedDateTime: 2020-11-27T09:08:00Z
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
+cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
 type: article
 quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Proactiveinvestors
-  domain: proactiveinvestors.com
+  name: Proactive Investors
+  domain: proactiveinvestors.co.uk
 
 topics:
   - AI in Robotics
@@ -22,7 +22,7 @@ topics:
   - Machine Learning
 
 images:
-  - url: "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
+  - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
     width: 1200
     height: 740
     isCached: true
@@ -61,6 +61,6 @@ related:
         height: 700
         isCached: true
 
-secured: "+D6VusOjXAQ4WCEWxhU8T6+mVMJuXhK7SOlWwpVcyty890tFYph30s7HQAHuDgDZwL8pCBxaGUYltGWWBTTdPBdG2UCHVmCyWJdnZPD5kmaaslWmzH/v2kpsCkJyghm5FsOxgufjDoOyfNtFzP61HKh57ai1CcpMTjO5bWzqkGuhfInMp7cvn8sYd9tthrYPvK+grOCvShH9yVMTIpE4o1NywP7dsQZkLo1kW3ic5NKwb3MqL2n/JiUJWooN56qzTYIFBq58ofZi1YfWl4l213ne8c8zOD3EG7NDZZzgzaSykHW4ChAiDBDEts8+/5t/LpF5SeVFNRyvGnuPTs2aZtHQcZMilSkJklQSz0LQ1Jo=;icLe2J/Qize0xoI58Mc3QQ=="
+secured: "JVj6N+Y39KEkn4O+DtM3Dr7CXrmCKAt4mu5JjfmdjgCmp3s0tORoFMHxg8IfTUjhVxmK9FgcFX0wOMinCbGeMgFOVAPcdq/nqqIVVjytiSAz+Q1uutR0a1C72WsLonRscrMM4ky9Oxk2zOHcI6Qrxjs4FSt/C3sL+2X70qFUfBIgEOzOW7qEWctzLrckpzkCs0gjnMggC4fXOd2FY5HLGD/nDHUYCOPjR27aa/GDaXuyBjhv476wvmUxvbRgnb3tKvvY+4XMdcxAphiOqOw88We+f1Ej+Ko0Wkx2TIMLDjuFyrcrNB6C65nzp2OTj2EMyPRnig3BHUV89mHATaRURlFmAqFAHJeVjmzdDa26C14=;/OGmVWAplTHrorn8A2yckw=="
 ---
 

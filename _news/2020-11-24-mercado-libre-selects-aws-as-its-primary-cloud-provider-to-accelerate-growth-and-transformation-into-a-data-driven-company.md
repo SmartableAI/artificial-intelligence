@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
-publishedDateTime: 2020-11-24T14:34:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
-webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
+excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
+publishedDateTime: 2020-11-24T08:09:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
 type: article
-quality: 0
+quality: 13
 heat: -1
 published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Zalando Selects AWS as Its Preferred Cloud Provider"
@@ -62,6 +68,6 @@ related:
         height: 513
         isCached: true
 
-secured: "s/bUrPlfi78mFd0TZQe1VGN1BcYPBGTpaMlhFFOzHI810faJ/cOX7FRmWBp2rB8bwagYtmHuOdPfBacTPYS+rZmMCEy6geD8SBgVOVOn2lWWmyVMO7vWPJRoMlpHoIwDTG/CVnSY8FQrJwJPKq/XZFX1MnijoD3JZ03H5eZOvufdf/x2PhRK+LdWL5Q/vGgP9G1w3Db9rKBLKsIYOLah1G98PfEoLuG0ZQl3HvWeFMxn2SUdlMDs9pQR1D2JuIWAnrAX4AvM+9bf0KflqbTW3n+EGK3lnAn1TRtpJVE/1OlNTuO5HrvlkqI9Lixplv3twH3SzRNfLcKubplpwhHHQJf1TDmrs8ue4CIUwL7ZXO4=;psRn5gFDnOdDRRBD7Szg+Q=="
+secured: "2sgQWca9rn2ileRMIuvZjBw9veP2yHBEfBrWi2tbZk568wumBw89WMm/iXqzljDp5UpNVoUQYG6SdNyNhv+IAUf6Cq8QRCq6EyY8zPAH8nf7DDOcVYL41hgidTeeA/FPl1rrCGsFpc2xNErxW40vyxODC361eRrFDF6hNvTY5WZHyNebNqrsYVCdMglhtWej12frKJ1WtcaoxXAHh39T+MZug3Kw1UySUy0xCrmbamBWuv+a0OdjKoV6CSeIuUDvG86EBMSrHX+3icDef2NXIIdocpSBXnfqEL3SfiWG04xJYVOMPvIoKh7Jhb5DEK0nEXMdw7vSWOmX1bVX7ZYt6wbWszw5lLZ2WbQjEh/P1q8=;I53bQ344ykprT06L+2dCsw=="
 ---
 

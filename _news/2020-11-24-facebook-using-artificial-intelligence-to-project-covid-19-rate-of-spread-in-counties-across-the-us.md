@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus
 cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,31 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
-    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
-    publishedDateTime: 2020-11-24T15:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
+  - title: "Facebook’s AI Mistakenly Bans Ads for Struggling Businesses"
+    excerpt: "New York-based businesswoman Ruth Harrigan usually sells her honey and beeswax products in souvenir shops. But with Covid-19 pausing tourism, she’s been almost entirely dependent on Facebook ads to drive online sales."
+    publishedDateTime: 2020-11-27T12:06:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses"
     type: article
     provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 67
     images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
-        width: 750
-        height: 435
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHV2ufJuP0y8/v0/1200x1600.jpg"
+        width: 1200
+        height: 1600
         isCached: true
-  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
-    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
-    publishedDateTime: 2020-11-24T15:55:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
+  - title: "AI Governance Market May see a Big Move | Major Giants IBM, Google, Facebook"
+    excerpt: "The Global AI Governance Market to witnessed good recovery in growth post first half of 2020 and is projected coverup"
+    publishedDateTime: 2020-11-24T01:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-may-see-a-big-move-major-giants-ibm-google-facebook-2020-11-23"
     type: article
     provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 37
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true

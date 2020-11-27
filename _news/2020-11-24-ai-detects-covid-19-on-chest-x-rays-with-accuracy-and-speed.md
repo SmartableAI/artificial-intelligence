@@ -24,36 +24,31 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook using artificial intelligence to project COVID-19 rate of spread in counties across the U.S."
-    excerpt: "The projections suggest San Diego will add the 15th most new cases out of all counties in the United States before Nov. 30."
-    publishedDateTime: 2020-11-24T02:37:00Z
-    webUrl: "https://www.cbs8.com/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    ampWebUrl: "https://www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
-    cdnAmpWebUrl: "https://www-cbs8-com.cdn.ampproject.org/c/s/www.cbs8.com/amp/article/news/health/coronavirus/coronavirus-numbers/facebook-prediction-covid-rate-of-spread/509-cf761b0e-780e-4e0f-804d-e4e0dc303e46"
+  - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
+    excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
+    publishedDateTime: 2020-11-24T15:12:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-s-new-chest-x-ray-ai-double-checks-ventilator-tube-placement-covid-19"
     type: article
     provider:
-      name: CBS News 8
-      domain: cbs8.com
-    quality: 44
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 42
     images:
-      - url: "https://media.cbs8.com/assets/KFMB/images/11814679-5878-4470-9ca4-23daddf32183/11814679-5878-4470-9ca4-23daddf32183_1140x641.jpg"
-        width: 1140
-        height: 641
+      - url: "https://qtxasset.com/fiercebiotech/1606233616/GettyImages-1212285302.jpg?Kxy_9p9pK18xlhmAzO._1YwgdRaDXz87"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
-    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
-    publishedDateTime: 2020-11-24T15:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
+  - title: "Artificial intelligence helps check 500,000 CT scans for COVID-19 in Moscow"
+    excerpt: "The Mayor added that the capital healthcare system actively implements digital technologies that help with diagnostics and perform routine tasks"
+    publishedDateTime: 2020-11-25T16:48:00Z
+    webUrl: "https://tass.com/society/1227967"
+    ampWebUrl: "https://tass.com/society/1227967/amp"
+    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/society/1227967/amp"
     type: article
     provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
-        width: 750
-        height: 435
-        isCached: true
+      name: TASS
+      domain: tass.com
+    quality: 37
 
 secured: "HZ7VGPDXfNfVktk0cKQs5YgyXSVq00HVjljk+zJSFOeYzStnfuqRBLWhijAyLMfRLub9GuFHjtdK/2tgHL/Ra2I4doRmJOH68SOgJVCy233UI9jd/OpuqQgPghKzmAGk9BzQZy1+6SACYY69CIWNf1w22z2jz8RCtmSAw2DyNMZYpotcPeEq7/hz00gZtT+y4Ra/kkgStcn4wGQmINfgMasWbELtlSVmmMclcY8jEyZ60+Rv8eNg/q6/GsHxVz0E/WI+EKx67CyRa9aW8Ym6ZCC+sQk96SE/6VvIM+hgJRSECLZJeg+oLlkX2NoSugRt6xE4reszK08Ys1FRVPO6EqLpurN/v/FYEAaoAt+iTrU0v7Do1LMX47Js+bx1ZaN8A4QkIVvdHwTt9t+3fiNFW0cc1W6UvZkYgTQJ+aDfXjhfBa5GrwsKbV4YFpHL0PWk6aGrk0m0yN0rAXv7OrDBsk6QPZtvfIW73YSMfBQQKeWfR7reIVS87G1xokj+CEwVUD5NIS6cep0vnlUPYZa+Ww==;DdzMbJk4AIdkgZNeSdWxpw=="
 ---

@@ -52,17 +52,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 49
-  - title: "Singapore Fintech startup Sleek secures US $4M from Enterprise Singapore's SEEDS Capital and business angels"
-    excerpt: "Sleek, a fintech startup that is disrupting the traditional corporate services industry, has raised US $4M in a new funding round. Led by SEEDS Capital, the investment arm of Enterprise Singapore, the funding was also joined by MI8 Limited,"
-    publishedDateTime: 2020-11-24T01:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/singapore-fintech-startup-sleek-secures-us-4m-from-enterprise-singapore-s-seeds-capital-and-business-angels-1029831894"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 35
   - title: "Garuda Capital acquires minority stake in Hong Kong fintech startup FinLink"
     excerpt: "This acquisition comes after FinLink raised US$2.5 million in a seed round led by PF Ventures and Garuda Capital in 2019."
     publishedDateTime: 2020-11-24T12:47:00Z

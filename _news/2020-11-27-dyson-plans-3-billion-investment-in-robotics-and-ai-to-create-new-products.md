@@ -45,17 +45,17 @@ related:
         isCached: true
   - title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
     excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
-    publishedDateTime: 2020-11-27T09:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/935099"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/935099"
+    publishedDateTime: 2020-11-27T09:08:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
     quality: 81
     images:
-      - url: "https://www.proactiveinvestors.com/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
+      - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
         width: 1200
         height: 740
         isCached: true

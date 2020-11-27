@@ -56,7 +56,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 28
+    quality: 30
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
@@ -75,6 +75,20 @@ related:
       - url: "https://voiceofoc.org/wp-content/uploads/2020/11/latinohealthaccessaward2020.png"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
+    excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
+    publishedDateTime: 2020-11-27T12:30:00Z
+    webUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 3
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2020/11/bigstock-telehealth-telemedicine-medic-385095428-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "jYdXWhA2UPirEnYhx9IH9Hu3gN9LvffU5KP4AvpeHjK5h175hlqtmumfixI5xRWD4FkSHI2/cfl6HWZwTT0UNmGCU8Mzzej1HqvE4uf+IWsOm1dJwJFCbiqqKHkeiEhGPg6gLrbfwo86DQU03RdFVdbH7Drn8b4Zu+fqGhIEGpHAHmkLz4flAwkF2+NGl0tiHMBThaWCjvHBZ4zR7quUzRJNDGyfN7WH31rpAI1UCx94LesHlPOg0Fnq0iXl2HIS0H5h8XxXxYkyi1eKL63sgXrbmw0Ml9jOOp0LF4QR0zLVJ003SG3kjDmMySq60eWpVQKiJysIddERJKLEngf98KK6f+hTyLeXxD9JQYso0S4=;NQjvo0pk+WK3lUzJ4kjJEg=="

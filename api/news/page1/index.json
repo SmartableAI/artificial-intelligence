@@ -2,6 +2,151 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-27-another-city-is-using-crime-control-as-an-excuse-for-facial-recognition-surveillance.md",
+      "title": "Another City Is Using Crime Control as an Excuse for Facial Recognition Surveillance",
+      "excerpt": "Varanasi in India is installing 3,000 CCTV cameras with automated facial recognition tech at the city’s crossings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "originalUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fc0e27700c96d009c4c6322/lede/1606476537293-an-indian-city-is-using-crime-control-to-amp-up-its-facial-recognition-surveillance.jpeg?crop=1xw:0.8428xh;0xw,0.1572xh",
+          "width": 6201,
+          "height": 3484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "publishedDateTime": "2020-11-27T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-facebooks-ai-mistakenly-bans-ads-for-struggling-businesses.md",
+      "title": "Facebook’s AI Mistakenly Bans Ads for Struggling Businesses",
+      "excerpt": "New York-based businesswoman Ruth Harrigan usually sells her honey and beeswax products in souvenir shops. But with Covid-19 pausing tourism, she’s been almost entirely dependent on Facebook ads to drive online sales.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHV2ufJuP0y8/v0/1200x1600.jpg",
+          "width": 1200,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-27T04:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-us-states-can-succeed-in-ai-by-looking-at-singapore.md",
+      "title": "U.S. States Can Succeed in AI by Looking at Singapore",
+      "excerpt": "Singapore’s ambitious artificial intelligence strategy is a model that U.S. states can learn from as they create their own road maps.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore",
+      "originalUrl": "https://www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/articles/2020-11-27/how-us-states-can-succeed-in-ai-by-looking-at-singapore?context=amp",
+      "publishedDateTime": "2020-11-27T04:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-tensorflow-turns-5-five-reasons-why-it-is-the-most-popular-ml-framework.md",
       "title": "TensorFlow Turns 5 - Five Reasons Why It Is The Most Popular ML Framework",
       "excerpt": "TensorFlow played a crucial role in the growth of machine learning and artificial intelligence. Thank you TensorFlow for enabling and empowering developers, and wish you a happy anniversary!",
@@ -656,8 +801,8 @@
       "title": "The 10 Coolest AI Chip Startups Of 2020",
       "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -1090,150 +1235,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-help-dogs-deal-with-separation-anxiety-with-this-ai-trainer.md",
-      "title": "Help dogs deal with separation anxiety with this AI trainer",
-      "excerpt": "The first goal is to deal with separation anxiety, in a trial with San Francisco SPCA. Dog training generally requires a human dog trainer, but what if it didn't and delivered better results? That's the promise of a startup called Companion Labs that has unveiled its first AI-driven dog-training machine in conjunction with the San Francisco SPCA .",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
-      "originalUrl": "https://www.cnet.com/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
-      "publishedDateTime": "2020-11-25T13:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-researchers-taught-ai-how-to-judge-a-video-game-by-its-cover.md",
-      "title": "Researchers taught AI how to judge a video game by its cover",
-      "excerpt": "Have you ever seen the promo art or box cover for a video game and thought “what the hell is this even about?” Well, wonder no more. A pair of researchers have combined cutting-edge image recognition and natural language processing to create an AI system for video game genre classification.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/gameclassai-796x392.jpg",
-          "width": 796,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/",
-      "publishedDateTime": "2020-11-25T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-ai-automation-promises-to-have-a-big-and-not-always-positive-impact.md",
-      "title": "AI automation promises to have a big, and not always positive, impact",
-      "excerpt": "Just as telephone operators struggled with the automation of switching, AI promises to change global economies for the better, even as it wreaks havoc on individuals' jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2018/07/25/e8eedcaf-12c3-4a1e-bf5e-15e6fd477219/resize/1200x/64b60cf8e2906fc42ff960eec0c87377/robots-working-5.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/",
-      "publishedDateTime": "2020-11-25T10:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

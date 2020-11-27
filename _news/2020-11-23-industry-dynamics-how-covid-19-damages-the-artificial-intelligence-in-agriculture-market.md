@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-23T09:43:00Z
 originalUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-bf84af29744de2ac111aa43426f6e69c"
 webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-bf84af29744de2ac111aa43426f6e69c"
 type: article
-quality: 28
+quality: 30
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -74,6 +75,20 @@ related:
       - url: "https://voiceofoc.org/wp-content/uploads/2020/11/latinohealthaccessaward2020.png"
         width: 1500
         height: 844
+        isCached: true
+  - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
+    excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
+    publishedDateTime: 2020-11-27T12:30:00Z
+    webUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
+    type: article
+    provider:
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 3
+    images:
+      - url: "https://emerging-europe.com/wp-content/uploads/2020/11/bigstock-telehealth-telemedicine-medic-385095428-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "CK2s0mxmsr8w7Ba1pFWHJ4RS7KHC3kFo7pPI6a+cZTn98r8QbjJLYDLPN3bWaQATfcQfH5zFY+J5tk04L+7k3aCnD0chzWYSRRq15AlnJj+sKr7JHWBeSVN4+NePnjIrUkIiRKg2AnUeiMVUx2l1DkP20u5jZfAbk+MphiTs7Nx8ifuJflD1T6yDC40BtzMe9uNuqzEZvtbDFBHT/O/FDQtL790zcsS750gqUzzYiF50HmUDFktRoyZeAruJ1dFxeUNDnqPq6MoAJ+wtdGS6wAbhzwzdLyUiXdDNwT/0OHvo8Du/GG386GcUmqHlvSANlP8GK2BbeU2a/AUMWTJ/1yXHcxqK351lOcdx3r0wdTg=;e505izh12TSfTdBppvRv4g=="
