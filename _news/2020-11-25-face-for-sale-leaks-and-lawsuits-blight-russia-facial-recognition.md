@@ -33,6 +33,34 @@ related:
         width: 640
         height: 260
         isCached: true
+  - title: "Genesis GV70 Will Let Drivers Start Car with Biometric Fingerprint Recognition"
+    excerpt: "The newest version of the Genesis GV70 will reportedly use fingerprint recognition to deliver a slew of smart driving features"
+    publishedDateTime: 2020-11-27T21:22:00Z
+    webUrl: "https://mobileidworld.com/genesis-gv70-will-let-drivers-start-car-biometric-fingerprint-recognition-112704/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 20
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/HiRes17-e1439918209915.jpg"
+        width: 800
+        height: 692
+        isCached: true
+  - title: "Report says lack of diversity in face biometrics datasets extends to expression, emotion"
+    excerpt: "A pair of new studies on algorithmic bias in face biometrics both suggest that the lack of diversity in datasets needs to be addressed. Research on expression imbalance suggests a way to make the"
+    publishedDateTime: 2020-11-27T22:14:00Z
+    webUrl: "https://www.biometricupdate.com/202011/report-says-lack-of-diversity-in-face-biometrics-datasets-extends-to-expression-emotion"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "a6B964CpxkHLSEbeXvxzcinkvkE3Tlpjjs8mc1AY2GMAfKHdgDKO54ISTlc+aMVlWWONZ8QF6BfDsKZ0Rn3E1w7t2zUfW4lcO2b68euEv84Y3k3s+r0CcUP+/EVrdAsLwtUe/OfIQe93sWEIKyJBJb7jDAWBOVk7k6WZM/dSN/YnV43V94YiiTfoI5fLw+LbUvCe6hwp2Z9BMUhpE8kRYOztcB/DFb4YqFsWqj4vDr0dWkVxD63FL5MEwRqxR/qq/Hd+ejb2QWn2iPiUsJW/Sie3TNUt4g/WSoXMNCJNSwHNIVY2grCVYta3SoMk43FAXUFW/U/LUuAzT7cSeSjRYV65l97TQ2OJ2zjlfZLawZ8=;25eBDef0ssCT/okTD0iZuA=="
 ---

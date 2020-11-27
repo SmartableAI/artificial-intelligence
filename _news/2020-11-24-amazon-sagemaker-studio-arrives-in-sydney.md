@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Creating Amazon SageMaker Studio domains and user profiles using AWS CloudFormation"
+    excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, tune, debug, deploy, and monitor models. In this post, we demonstrate"
+    publishedDateTime: 2020-11-27T21:41:30Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 113
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
+        width: 768
+        height: 385
+        isCached: true
   - title: "Bringing your own R environment to Amazon SageMaker Studio"
     excerpt: "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). With a single click, data scientists and developers can quickly spin up SageMaker Studio notebooks to explore datasets and build models. On October 27, 2020, Amazon released a custom images"
     publishedDateTime: 2020-11-24T19:40:26Z

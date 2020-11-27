@@ -52,6 +52,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 66
+  - title: "AI Algorithms Help Support Tree Farming, Planting, and Mapping Operations Around the Globe"
+    excerpt: "An agricultural technology startup SeeTree has recently received $3 million in funding from Orbia Ventures, helping the startup accomplish its mission of digitizing farmed trees. The company represents a growing trend of employing AI algorithms to support the growth of trees around the globe."
+    publishedDateTime: 2020-11-27T21:47:00Z
+    webUrl: "https://www.unite.ai/ai-algorithms-help-support-tree-farming-planting-and-mapping-operations-around-the-globe/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 27
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/aerial-view-1867094_1920.jpg"
+        width: 1000
+        height: 600
+        isCached: true
 
 secured: "sNbvDzx2M+SmTTCjYuezyVHN0VAIg/yboaw1ke4Oc50GqC6yXucIPZoKpxa/J8VblpjT8pqJU357huZFix4Gic3DO7YTL9h8fDATFtpQEGPBM3aq+OgrNHtcs0J81yScFLr57uBQvASE78FAehtYQHe1yHukga7XCY3qpkeQ1JyWuxvys8sYrrUXUfAAeOSfJzTIE5Q1BWRtSc1Q4LuYDpK2UGnCdW10SuQ4TmWx8yOmWGj2kaYfMvZbqdGJLp/dweTMNfGuvjuXs5yTre6ExyvpMYUYT4PnPwtGx+ZRq/A0HBParvvWXpvP8p2G9cnO8J8NZAAt3lBhPNd+S5pZXVnehVHzxTCd+GleAMabVEE=;H8JzbGuUQA//V2WeCjAEVw=="
 ---

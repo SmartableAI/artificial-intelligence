@@ -172,6 +172,20 @@ related:
         width: 2048
         height: 1151
         isCached: true
+  - title: "Facial Recognition Is Not Just For Your Phone. It Could Be Used To Prevent Livestock Disease."
+    excerpt: "To the human eye, each cow in a herd can look nearly identical. But new technology is being developed to identify cattle through facial recognition."
+    publishedDateTime: 2020-11-27T21:55:00Z
+    webUrl: "https://indianapublicmedia.org/eartheats/facial-recognition-is-not-just-for-your-phone.-it-could-be-used-to-prevent-livestock-disease..php"
+    type: article
+    provider:
+      name: WFIU
+      domain: indianapublicmedia.org
+    quality: 28
+    images:
+      - url: "https://indianapublicmedia.org/images/eartheats-images/cattletracs.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "jYDzoIMBAsMsqa6bnTYRdLtRWpC3d192A8vbByAlcGgKsariYjRr0+e07KzTmLXrIU3XzNxlxkRtPOIcbZfE0jC9Kx57WEOx/bTuqLo7/ZbP8AzltPCgjEWsZ106WhJvXBhZdbBXybXdGVQGfu96IQRlUFt/SA8FmtC2NxzaaicTW7t78iiIxFniniBpcot8pd3cemqXSTylhxqYdAMDwGKHgQPYO2/T8cbNrlvKhBHV2RKmw8v7Uqmyax+7n1rrnH9Ya5u7DK5ho+2Ngom+Ph6GgxUidAiacSMV1C04TuUwNhO5XzY8S51EkmGlP5J1VLo3QE41mS/y0+132CAnLRTOzOMl6/WWtR8WUJWmDuXvFw36YdF6tdc3lpw/GaHe+9f+grvQqGuW6rO+stnvxB9k4X3dU1I/9IuB/neKWeZThufO1ncRrCjrHBPbs3jfZPDK7yQmF7QtN/O/NscmfoBUkiIL3W+bXPhFMnI0mjpI/csEeL4BuhGsXzJXNtr3WkS6oGlhBBdBapMpvPtehg==;ycRkwpVX7v1mIdLbZcGfSA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-software-is-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -170,6 +170,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
         width: 2048
         height: 1151
+        isCached: true
+  - title: "Facial Recognition Is Not Just For Your Phone. It Could Be Used To Prevent Livestock Disease."
+    excerpt: "To the human eye, each cow in a herd can look nearly identical. But new technology is being developed to identify cattle through facial recognition."
+    publishedDateTime: 2020-11-27T21:55:00Z
+    webUrl: "https://indianapublicmedia.org/eartheats/facial-recognition-is-not-just-for-your-phone.-it-could-be-used-to-prevent-livestock-disease..php"
+    type: article
+    provider:
+      name: WFIU
+      domain: indianapublicmedia.org
+    quality: 28
+    images:
+      - url: "https://indianapublicmedia.org/images/eartheats-images/cattletracs.jpg"
+        width: 800
+        height: 600
         isCached: true
 
 secured: "y8pc4CCZjgtPzHJKYcCeUoCWxtMGYifG387OsBz8OFmBwYubpFVKzkNiBadKspLWPe04I/xFWyo/rl1zD8eqW5MON1OiRkvEkR2WBrIUXsC3yEdIzCSDt4WZQjjsUs+x0M9y4fZyYC5jbnZJm0FvSqrLzqTF2FlwYlDD+25G0n/L2wDTHUL3OaWub0b9UCcubVXaB7aKjaiRKP1YdiXFvMUWi6jWGTUfbp8XaSC2fVua62K3Pkf37AFYjz7tI2MBSxTgIM4I6gWobpbBmHse4DHJVEFAHBS3facoZebPqjuvHG/1oDgNwO2y/HYr3Q4IULkbEy9JodcQMilfxbQyCwoda9PzoDpAi99YczkjilwHXo6A8oZBv9T6bi5P90AEUYWIPh6IW4oht+USQti/wsqnT21Hj9zSqt3grks+hgEVfc3NScgua9M7gfv0702o8dquyIGE9EvrYcot7kyKvDbMuOgTcq2nwDw9UiMVooCf0v/xSsW882TS0HybQA42gSXtwg+QycmJszHl5dQjpA==;1n4NteVhRu4ai5y6oQpBFw=="

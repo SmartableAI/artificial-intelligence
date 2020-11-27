@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/"
 type: article
 quality: 70
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) has been refined so it can significantly improve decision-making, Massachusetts Institute of Technology (MIT) experts have announced."
-    publishedDateTime: 2020-11-23T06:18:00Z
-    webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg"
-    ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 69
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606115598010"
-        width: 590
-        height: 350
-        isCached: true
   - title: "AI apocalypse avoided? Neural networks now smart enough to know when they shouldn’t be trusted"
     excerpt: "In a development that could scupper the plot of numerous sci-fi movies about an artificial intelligence apocalypse, scientists have created a neural network that is smart enough to know when it shouldn’t be trusted."
     publishedDateTime: 2020-11-25T13:45:00Z

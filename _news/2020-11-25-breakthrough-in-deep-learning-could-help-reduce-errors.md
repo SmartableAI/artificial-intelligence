@@ -30,7 +30,7 @@ related:
   - title: "Machine Learning Leads to a Breakthrough in Study of Stellar Nurseries"
     excerpt: "B* program have now shown that statistics and artificial intelligence can help to break down the barriers still standing in the way of astrophysicists."
     publishedDateTime: 2020-11-25T21:58:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
+    webUrl: "https://www.technologynetworks.com/biopharma/news/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
     ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
     cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
     type: article

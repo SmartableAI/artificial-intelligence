@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
 type: article
 quality: 73
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -56,6 +56,20 @@ related:
       - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
         width: 690
         height: 400
+        isCached: true
+  - title: "AI Algorithms Help Support Tree Farming, Planting, and Mapping Operations Around the Globe"
+    excerpt: "An agricultural technology startup SeeTree has recently received $3 million in funding from Orbia Ventures, helping the startup accomplish its mission of digitizing farmed trees. The company represents a growing trend of employing AI algorithms to support the growth of trees around the globe."
+    publishedDateTime: 2020-11-27T21:47:00Z
+    webUrl: "https://www.unite.ai/ai-algorithms-help-support-tree-farming-planting-and-mapping-operations-around-the-globe/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 27
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/aerial-view-1867094_1920.jpg"
+        width: 1000
+        height: 600
         isCached: true
 
 secured: "s3QQW/FQ1fCnm2cZcLZiTkUCPrvwEJFGkYVDX4ifzy+sM+dYfnbEN4Uk5ROMEpnIBniqFlt6ZN9xGbE15XEFtWZ6mIcM8b4sufi9XgqU9MyvGdD1qwjsT5NuGju0ZcNqDk4jN5L6VGzEyYvcvuv5OjZiC7wxA6pjJPKvG8F4bRWCyHUO4WsKjFinyKPvJ/3uXGy3k0lfJE/8nq8UpZ0YQJtWMirwcjcijcExi1QoLBYgNPdPF2lC7nYyrJHQV3zklsegI+voH9ubgYLSOjPN4Yk8sKGOYNgjxy/2lFGMvQ3+yEDPaVss2X1GSHiqXLrgvjS9+LhkSL1HNKZ1pitUiMR+CzghINfNSdV2APIiOcRuUWvVVmfej27flDyoTnr+so1PS/KvMGo6aqohYfNh68sPKg3bKhf20IViQ6qLunzEbAjFwYtuNZ+NOeMTldgLl1IoqMvm1IaswgahgWKftwedSABjd8juq3GgubOEaJ7g+cExximaIbEGNhlpV9dVFd/DFy0U+XKspZhGo9w7vA==;aP+EhgFSkVYVGo69tG+ZYA=="

@@ -63,6 +63,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "The TTC wants to test ‘platoons’ of driverless buses"
+    excerpt: "The idea of two or more buses led by a single lead driver is a long way from being ready for service, but the TTC’s new technology and innovation"
+    publishedDateTime: 2020-11-27T22:47:00Z
+    webUrl: "https://www.thestar.com/news/gta/2020/11/27/the-ttc-wants-to-test-platoons-of-driverless-buses.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/11/27/the-ttc-wants-to-test-platoons-of-driverless-buses.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/11/27/the-ttc-wants-to-test-platoons-of-driverless-buses.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 59
+    images:
+      - url: "https://images.thestar.com/10q_RUfl2Rbw2aUC_h0Crq54Db0=/1200x710/smart/filters:cb(1606516799823)/https://www.thestar.com/content/dam/thestar/news/gta/2020/11/27/the-ttc-wants-to-test-platoons-of-driverless-buses/sc_finch_bus_lanes.jpg"
+        width: 1200
+        height: 710
+        isCached: true
   - title: "Loblaw and Gatik to deploy Canada's first self-driving delivery fleet"
     excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Begi"
     publishedDateTime: 2020-11-24T08:47:00Z

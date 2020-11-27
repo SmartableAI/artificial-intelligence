@@ -43,22 +43,6 @@ related:
         width: 808
         height: 424
         isCached: true
-  - title: "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’"
-    excerpt: "ARTIFICIAL INTELLIGENCE (AI) has been refined so it can significantly improve decision-making, Massachusetts Institute of Technology (MIT) experts have announced."
-    publishedDateTime: 2020-11-23T06:18:00Z
-    webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg"
-    ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 69
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606115598010"
-        width: 590
-        height: 350
-        isCached: true
 
 secured: "FHqeeo7JMApPwRfR787YFntICSgFNrc+AUVfueYhEgL/oM7azfCQEJVuZlbBUxCAK7SsNCDc2CLIe98kNqQF2y71fyOC1mSY7ZyNSe0FhkW44XgoSzVxxNAHhySzqoLv8WVAitm2XO4wV59FhhrJjr/46EhYF2gLSZnCT916QSrFkzVKbQFQDq4fNYv39BK5ubLzH4eUowhvPkoJu1+MB66+GMaEvlB8M/oEhoiDeQhswFuLNPVPkUC26nOnAiDdC6LT9zv8DCUtBuOvvPZG/ZHiCqwriQHsUYQymNaZ3e9mjBdl/V0cSrnPQaOE6oNES5uvOvrJPY+z5BTKrlbvbgwzDVBmb4SWXD0tGwediABVaEOABzsQsc3G9nrL8DKeNgCKv3UL577bOgR4z7yrk5eV8L7jWPwMsweMRn9+fo8LXkZqdm5UVH4JHwpUMhwmD3Ss09PbyQTvFZm1FYqV5v2QMTs/U2/c3ez2+0FQXLq5an18OzBfPxOPQ2I6VSploLyWtWz4WZkRWJYskPh5tA==;1xkAsHgBWxnFdj0JWqnIPQ=="
 ---

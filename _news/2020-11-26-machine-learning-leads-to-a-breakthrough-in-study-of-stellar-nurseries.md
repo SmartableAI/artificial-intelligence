@@ -3,8 +3,8 @@ category: news
 title: "Machine Learning Leads to a Breakthrough in Study of Stellar Nurseries"
 excerpt: "B* program have now shown that statistics and artificial intelligence can help to break down the barriers still standing in the way of astrophysicists."
 publishedDateTime: 2020-11-25T21:58:00Z
-originalUrl: "https://www.technologynetworks.com/tn/news/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
-webUrl: "https://www.technologynetworks.com/tn/news/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
+originalUrl: "https://www.technologynetworks.com/biopharma/news/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
+webUrl: "https://www.technologynetworks.com/biopharma/news/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
 ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
 type: article
@@ -53,6 +53,6 @@ related:
       domain: sciencedaily.com
     quality: 49
 
-secured: "xWkMopv9qkD3kAzpMq0VhzxwtxzpRA9zxwd/gzO/VE0NrihuGdEzUUTW1NIjkt7uKAGnO/cdI7CMy1wVuG0OjECgbVRU2WS+aMS0iMez5wxKWtijeNfNaLS7FJ9MYXfmv2qz2yUFKKAhtJoR/gsplhFpET6WH9NEEz1Hs2vrCKYrOyEuQYQxAvwyDudvJmRxmPFtLBwCjVmycX55VmfDzCyXTmrYBvUvsqQ/Lgs8BgHGHIFUwaYBKrOVR1+NJxUGLdfKXQOJh888KGDEq7tMaNrrdMeOoVBHg2UFJaZIEFILYzXAg+GrJcCkMi5r2mAAhX2IBwsLu1I0z0hzR8VcJjP9kN0cBMZgg/OSlyFNd3k=;08rl7CF+onTl2PIhVs28Aw=="
+secured: "Zon7c2cG+6D/34bsCe0M4TNdqhZuWQTTkE8sc1f7J8x5gyle+pKhF8KXDQzTTCp923uZdXfBRWjkxbrn6dqYOnIwz9Uhsuw0kV3cDxRz1DN3J+wIdwqF6WJtTEpXDlpQdePDsjPM36XPFrpJNZNRUE/yR4e+EI+ZCXu3dL/dohWDGjGZd8lQ4dWLcNCa/jyFgcf7OBBTsjD2OZ6nEDLrZsXoJAO86NDshpiy/KxlQvC6P91Yp6eAMK5aLTJELgQRyvNzKGr7JGYeZ/aUvt6ZXY7VA3eLuh98U6ZzE8z3nNzZMQanDohwl04Tym70EA+L+5EieX2uHeKMWN9s8ikGnJMjr3cCNLiSrL4sfnUfx2A=;INSo5QJh8fF/Vy9o8GanYQ=="
 ---
 

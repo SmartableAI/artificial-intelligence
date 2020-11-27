@@ -54,19 +54,14 @@ related:
         height: 513
         isCached: true
   - title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-    excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
-    publishedDateTime: 2020-11-24T08:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2020-11-24T14:34:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
-    images:
-      - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "M3df7lovZpaaVyDZ5XC0VVowrCi0oCcCyMD64ufji9JoDi+y8OAoa2FJ8aFwqf0FT5jglqQmfo4ddOkUQifY+Rr2tgOuLm4TfO8CjQmWgLzP1J47QYp09X4+bHFDomqGzQx/KWpTPIm3uMWQCs8Tvz9xYHNoUT6Y/KbJXP6u+LvkbsRi4DB7V+Vd09NaPrSi5Wah6Fq7kd4f4NT1mEqahjC+NOGxysA4zdnjKW5YuFCQUJL2fT/qZh6NG5b1Vo1zLCtlFvVU8m47nynOZKzQ8BqYNj/5KWmDF8NDPgGGhQ15t41Vcmv959oWSgj+kVR2PKWG9128rcKh/eUT8SW6ac4jcUYuOr54oyQPbReAoek=;RkMRTXypO2xjaTDrS2Ea+Q=="
 ---
