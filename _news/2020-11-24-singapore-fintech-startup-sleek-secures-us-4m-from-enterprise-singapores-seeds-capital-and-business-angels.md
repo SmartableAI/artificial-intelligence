@@ -66,20 +66,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Israeli fintech co Obligo raises $15.5m"
-    excerpt: "Ofir Dor Israeli fintech company Obligo has announced a $15.5 million Series A financing round led by 10D and with the participation of 83North, Entrée Capital, Viola Credit, and other strategic real estate investors."
-    publishedDateTime: 2020-11-22T13:44:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-obligo-raises-155m-1001350327"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1605705155/direct/Obligo.jpg"
-        width: 1200
-        height: 588
-        isCached: true
   - title: "Garuda Capital acquires minority stake in Hong Kong fintech startup FinLink"
     excerpt: "This acquisition comes after FinLink raised US$2.5 million in a seed round led by PF Ventures and Garuda Capital in 2019."
     publishedDateTime: 2020-11-24T12:47:00Z

@@ -3,12 +3,9 @@ category: news
 title: "Robots invade the construction site"
 excerpt: "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco."
 publishedDateTime: 2020-11-22T11:45:00Z
-originalUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
-webUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
+originalUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80"
+webUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80"
 type: article
-quality: 69
-heat: 89
-published: true
 
 provider:
   name: Ars Technica
@@ -28,31 +25,6 @@ images:
     height: 380
     isCached: true
 
-related:
-  - title: "10 Ways AI Is Improving Construction Site Security"
-    excerpt: "Analyzing how the specific conditions, factors, locations, and phase a given construction site is operating in contribute to greater site security and safety risks is a perfect application of machine learning."
-    publishedDateTime: 2020-11-25T19:35:00Z
-    webUrl: "https://www.forbes.com/sites/louiscolumbus/2020/11/25/10-ways-ai-is-improving-construction-site-security/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "AI's Regulatory Guidance and its Potential Effect on the Construction Industry"
-    excerpt: "The White House’s AI Regulatory Guidance, which clarified policies regarding encouraging innovation and growth in artificial intelligence, has potential to provide improvement to the construction industry."
-    publishedDateTime: 2020-11-23T19:26:00Z
-    webUrl: "https://www.forconstructionpros.com/latest-news/news/21204125/the-white-houses-ai-regulatory-guidance-and-its-effect-on-the-construction-industry"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 35
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/11/16x9/AdobeStock_323303561.5fbbf6b8080c9.5fbbf710bf4f8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
-
-secured: "GP6QdU6/LbMtjyOFmVJq7ohLqyU7XwjNYjgDhPRU0aa06YWJd0Rcw04b2wdHbKuv9QtSMrse/Kq0eBs/MvQNr0FDVPR8xYfI7hTEuHNU6LPEhkrvrZ7PKddxW2tmHeCEBb3EACYNqec6c6Vm2nlLvKqqwJA3ZkfO5ot11fBP7jIjdKaJ/iZZmwauHIQjMVeUwvoRbRrt+d7T0PiqjDxw0QdBJ6CuHIz682KnLtX2MomI6Yy62Yz1rKsX6udpqQ/Q8JbXtSJR60mixvkn8za4pokCDum1XOde81t9ZVHh/PA3f+CzG9OFjUsxVIgjCRlTAimfi5+vNrfD2KB/sPJ2pH3pPeETgWC8ga0xoQ0Z+/eJTPE/jEpj2p6Nd75gzohlO5lYPv3seY09wZc2YtPnzT3O/vb6sdFmRyRDzcSqrSFR23b9fCo+yYf7IF/repJ/V0pFfSpxzKNPbSZS5MaNkr5Kv/zfnMYImArO2tM+iFG+Ihpu86JXQJ+DQuazu1fW5qQPWV0CMlmISZCeR0nepw==;LXr/THbbAQFoL+x3wOt8EQ=="
+secured: "uRJ9nvRjc2o4+ZM2aOUB/JScqx+nmPjHJ3bz3+BNcmRwXG5BY4eCUicvZxS1ZcIbAZepBVxoaPciXZCqUnA89EkC9ITeBkv5vVvgjB5E6Kcap0TJyh3B5QRZVAlEmq9TQsQbOQ8KdhISxOA9kI88qbWyRgKpvUY4okC9vmJ+eVqvFBUezNqdbgPMglu/dlPIVlCbT/OK4XvTm4l4TNzFOVt9F8hKvHHsvQvznWgQLDslxFOeQsjWwd+Q5RkxQNAZpM5LP6CNge051QM0LrHvLoIVrryQeAlZCJW+HpMMh4gW31ET8eAYsdsrDzMM4W4MATn8gQgo80PF+4J+rpTcrB9LnyuTwqDgJOoP27nR9/U=;Fh+fj3pHfLQNxINOpegWbw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2020-11-06-bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks.md",
+      "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
+      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Amazon-SageMaker-Studio-notebooks-2.jpg",
+          "width": 800,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T10:17:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-driverless-car-startup-ponyai-valued-at-53b-with-series-c-round.md",
       "title": "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round",
       "excerpt": "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round.",
@@ -1084,58 +1136,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-chinese-driverless-car-firm-ponyai-valued-at-53-billion-after-new-cash-injection.md",
-      "title": "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection",
-      "excerpt": "A fund run by the Ontario Teachers' Pension Plan Board led the $267 million investment into Pony.ai which also included existing investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
-      "originalUrl": "https://www.cnbc.com/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/105676578-1547472843448gettyimages-913385804.jpg?v=1563504519",
-          "width": 1024,
-          "height": 694,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/06/china-driverless-car-firm-ponyai-valued-at-5point3-billion-after-funding.html",
-      "publishedDateTime": "2020-11-05T23:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

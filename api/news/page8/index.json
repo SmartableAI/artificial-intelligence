@@ -2,6 +2,57 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-19-huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai.md",
+      "title": "Huge U.K. Defense Spending Boost Funds Cyber Force, Space Command And AI",
+      "excerpt": "The massive increase in military spending focused on specific technology areas suggests a shift in Britain's strategic direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "originalUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb63e2b2aef54509e02918a%2F0x0.jpg",
+          "width": 1199,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidhambling/2020/11/19/huge-uk-defense-spending-boost-funds-cyber-force-space-command-and-ai/amp/",
+      "publishedDateTime": "2020-11-19T01:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-uk-announces-biggest-military-investment-in-30-years.md",
       "title": "UK announces biggest military investment in 30 years",
       "excerpt": "The U.K. has announced the biggest program of investment in British defense in 30 years. Prime Minister Boris Johnson told the House of Commons that the government will spend £16.5 billion ($21.8 billion) more on defense over the next four years.",
@@ -1175,59 +1226,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-4-ai-trends-set-to-accelerate-in-2020.md",
-      "title": "4 AI Trends Set To Accelerate In 2020",
-      "excerpt": "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
-      "originalUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb56dbd16d95cc1a9620ec0%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danielnewman/2020/11/18/4-ai-trends-set-to-accelerate-in-2020/amp/",
-      "publishedDateTime": "2020-11-18T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

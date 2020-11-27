@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/a
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: ZDNet
@@ -25,17 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "This fintech and blockchain training bundle features 8 courses for $40"
-    excerpt: "FinTech School provides practical fintech training through online courses, covering topics ranging from AI to robo-advisors. With this bundle, you'll get full access to eight of FinTech School's courses, each of which is taught by practicing fintech ..."
-    publishedDateTime: 2020-11-22T13:06:00Z
-    webUrl: "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
   - title: "Winstek set to land more backend orders for blockchain AI chips"
     excerpt: "IC backend service provider Winstek Semiconductor (formerly STATS ChipPAC Taiwan) is expected to see a surge in demand for blockchain-use AI chips in December, according to company president Richard Weng."
     publishedDateTime: 2020-11-24T05:47:00Z

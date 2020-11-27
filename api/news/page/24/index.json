@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2020-11-09-walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry.md",
+      "title": "Walmart Ditches Major Robot Contract: So What Does This Mean For The Industry?",
+      "excerpt": "Walmart has been investing heavily in robots, such as for cleaning floors. But the company’s efforts have not been without their challenges. This week Walmart terminated its engagement with Bossa Nova Robotics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa836f4ea89321072f85ba8%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4000%26cropY1%3D416%26cropY2%3D2667",
+          "width": 1199,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/08/walmart-ditches-major-robot-contract-so-what-does-this-mean-for-the-industry/amp/",
+      "publishedDateTime": "2020-11-08T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-08-review-cadillac-super-cruise-trumps-tesla-autopilot-as-the-best-self-driving-technology-you-can-buy-today.md",
       "title": "REVIEW: Cadillac Super Cruise trumps Tesla Autopilot as the best self-driving technology you can buy today",
       "excerpt": "I subjected the system to new challenges, including a congested highway and some genuinely awful, rainy weather.",
@@ -1142,58 +1194,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks.md",
-      "title": "Bringing your own custom container image to Amazon SageMaker Studio notebooks",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). SageMaker Studio lets data scientists spin up Studio notebooks to explore data, build models, launch Amazon SageMaker training jobs, and deploy hosted endpoints. Studio notebooks come with a",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bringing-your-own-custom-container-image-to-amazon-sagemaker-studio-notebooks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/03/Amazon-SageMaker-Studio-notebooks-2.jpg",
-          "width": 800,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T10:17:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

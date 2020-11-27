@@ -2,6 +2,57 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-18-google-has-created-an-ai-powered-nightmare-creature-generator.md",
+      "title": "Google has created an AI-powered nightmare creature generator",
+      "excerpt": "Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask?",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
+      "originalUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/TC-beast.jpg?w=1024",
+          "width": 1024,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
+      "publishedDateTime": "2020-11-17T15:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-incorporating-your-enterprise-knowledge-graph-into-amazon-kendra.md",
       "title": "Incorporating your enterprise knowledge graph into Amazon Kendra",
       "excerpt": "For many organizations, consolidating information assets and making them available to employees when needed remains a challenge. Commonly used technology like spreadsheets, relational databases, and NoSQL databases exacerbate this issue by creating more and more unconnected, unstructured data. Knowledge",
@@ -1108,57 +1159,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/how-ai-can-change-customer-experience-and-engagement/amp/",
       "publishedDateTime": "2020-11-17T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-the-ai-invasion-breaking-in-from-the-customer-contact-beachhead.md",
-      "title": "The AI Invasion: Breaking In From The Customer Contact Beachhead",
-      "excerpt": "The Covid-19 pandemic has accelerated many of the digital CX and engagement trends that were already in motion, highlighting why operational agility is vital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb29fb70f114e9e30f73339%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
-      "publishedDateTime": "2020-11-17T04:50:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

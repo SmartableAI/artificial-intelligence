@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i91wAuLvp3JY/v0/360x-1.jpg"
         width: 360
         height: 240
-        isCached: true
-  - title: "New Light-Powered Computer Chip Could Make AI Smarter and Smaller"
-    excerpt: "Researchers have developed an electronic chip that mimics the way the the human brain processes visual information, combining AI algorithms with the hardware necessary for capturing images. An international team of researchers from the United States,"
-    publishedDateTime: 2020-11-22T13:49:00Z
-    webUrl: "https://www.unite.ai/new-light-powered-computer-chip-could-make-ai-smarter-and-smaller/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 54
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:960/h:540/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/processor-2217771_960_720.jpg"
-        width: 960
-        height: 540
         isCached: true
 
 secured: "hSIgpgBBoWfhALh+KSSRht1PCh9+mBuOZn7mqvrLq0ODGuv8yTUb/1iQBGmX181QPJvbtvTl2D8i6Z15sYO9srMG3D+UE+aTylhM6Tss0O7zUWltBn1PFuCRmlrogRulWYV6BTGo9crKiRs9OOlwtT5eBCNxGBAJJ1ct+WNF2Xcfik0jEUmtoiTQXclm9Q0+R8TQXGuOghQAzxTr3Bm34vrtXJYiQJXlht6c5TNo8qNusM5gwFmhWYZ84r40D1lW/SY89S8cF8KpfMTFrr+TLXup0AEa1r1xp2Y5I80K2LdjKOclBbtr2oozusduu3hqMOyHaUMHe0+x85MueKKstIlCWq5EcxuydKNS27GMsa+wZJfepxwPMEkbXbOZ/Wqu+TY0KumubSlxhscP86Z07FGSYEhFRbKKCDH4AISgThB8aCeeUAm/RXyqJIS4rVAYXVqpWfmMT3XeH3xTqeMWhitsdZ55b3SyPkO78jfA1i1v66IRga7/rYaEDEMTXFSKney2Ilyh6qOqJ3MoHg5fvg==;a3BcEb5XoTeWnj2TtwOLAQ=="

@@ -2,6 +2,59 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2020-10-30-artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial.md",
+      "title": "Artificial Intelligence Platform Reduces Hospital Admissions By Over 50% In Trial",
+      "excerpt": "An artificial intelligence-based diagnostic tool has reduced hospital admissions by 51% among elderly patients identified by the tool as being high-risk, according to results of a trial released by health care provider Clare Medical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/",
+      "originalUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ab250fe11cd3ec3ad8215%2F0x0.jpg",
+          "width": 1200,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonchandler/2020/10/30/artificial-intelligence-platform-reduces-hospital-admissions-by-over-50-in-trial/amp/",
+      "publishedDateTime": "2020-10-30T04:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-stradvision-selected-as-a-member-of-renesas-r-car-consortium-proactive-partner-program.md",
       "title": "StradVision selected as a member of Renesas R-Car Consortium Proactive Partner Program",
       "excerpt": "StradVision has been working closely with Renesas since the announcement of their collaboration on developing a deep learning-based object recognition solution for smart cameras used in ADAS in ...",
@@ -1142,59 +1195,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
-      "title": "Google AI executive sees a world of trillions of devices untethered from human care",
-      "excerpt": "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "originalUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png",
-          "width": 3331,
-          "height": 1816,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
-      "publishedDateTime": "2020-10-29T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI"
       ]
     }
   ],

@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Defense Innovation Unit (DIU) Selects Immervision InnovationLab to Develop a Computer Vision Wide Angle Camera for the Blue UAS Framework Project"
-excerpt: "The Immervision InnovationLab team is developing a wide-angle computer vision camera for small Unmanned Aerial Systems (sUAS), enabling advanced low-light vision for Blue UAS Framework effort ..."
-publishedDateTime: 2020-11-23T17:13:00Z
-originalUrl: "https://www.oaoa.com/news/business/defense-innovation-unit-diu-selects-immervision-innovationlab-to-develop-a-computer-vision-wide-angle-camera/article_4d079cc5-d949-567e-8e2d-534e4765e672.html"
-webUrl: "https://www.oaoa.com/news/business/defense-innovation-unit-diu-selects-immervision-innovationlab-to-develop-a-computer-vision-wide-angle-camera/article_4d079cc5-d949-567e-8e2d-534e4765e672.html"
+excerpt: "The Immervision InnovationLab team is developing a wide-angle computer vision camera for small Unmanned Aerial Systems (sUAS), enabling advanced low-light vision for Blue UAS Framework effort which provides affordable, trusted, high performing, and ..."
+publishedDateTime: 2020-11-23T16:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-military-technology-north-america-government-and-politics-military-and-defense-dac0c1f478af485b89f8d90f20a536a1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-military-technology-north-america-government-and-politics-military-and-defense-dac0c1f478af485b89f8d90f20a536a1"
 type: article
 quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Odessa American
-  domain: oaoa.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
-    width: 576
-    height: 288
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -35,6 +35,6 @@ related:
       domain: marketwatch.com
     quality: 27
 
-secured: "Vg4iGP/eiZhbYQqKZbadoMkJszaunbDGhBisQ2FW6FuWE0KQYdsOtJRrZRzR4Uhoh4+CjIfJomP7EfOSgATRZ4inpRbdbH4Zwt2aKCJ+k4LgCqfI0r5fvmebCvq8XlRUZrhEUYUQRt2N27iPmJUzTDDNNMe8E4FYwbLUu/DtPzNgo26k9VtomT4deUPOeEcgvhLSKnywOuxnErFBGrPr/PzxQn9AiyRcEsvb4BWKeBGv8DFhK1DwzQwp+pZdqZA7zIgwHjYuOVzgn8nxrGmwdx4+lzjVMHpQne4XhMFx/zqwUAJoEiMvHh/q/xPWugV/A/lMoq0W4j/UBZ2wd5adZvWIJNWSzBoI6h7auBZIeRA=;K4nWL40OWxT2vhYgGe7Jxw=="
+secured: "EuqsdaOR9gPVEixph2ir0vnG8YQUIT745RuRfUA5FaKw9Hp7Tsh6I+Xa+yF+1MPaCJBbGmCWpSLFhhPmUTCW9BUEXRzQdjMwnd6Pe+q3oEhMhC06T3BnX/Zd2uXM87XrnNzySFbnCho67yJF5XhJ/k0oZZ06k1F7wqJCS+HBvfXobKBYkzdEy87uZ4lb2RU6dYc4TRzhIoNqtJqMzHnVKpPQSA4XFOgG//RJp5k1rkMnc69QCrh4mGFxbzUQKb6pqB4FOK5j+26VcvmPwvRUWdLtoem6dihtq6/MLIPBnwkWq2CEmGroLtVv9x0vtrI7mu04A65aS2WmsMkvl1uAlxKmIvlIGkK5CPybzoxdbjY=;qugSNm0hBXYhcry0IRPW7A=="
 ---
 

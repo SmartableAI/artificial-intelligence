@@ -2,6 +2,109 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-18-rdna-2-deep-dive-whats-inside-amds-radeon-rx-6000-graphics-cards.md",
+      "title": "RDNA 2 deep-dive: What's inside AMD's Radeon RX 6000 graphics cards",
+      "excerpt": "AMD's new RDNA 2 architecture brings ray tracing, an innovative Infinity Cache, and more to Radeon RX 6000-series GPUs. Here's everything you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "originalUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg",
+          "width": 500,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "publishedDateTime": "2020-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-are-your-model-governance-practices-ai-ready.md",
+      "title": "Are Your Model Governance Practices ‘AI Ready’?",
+      "excerpt": "AI/ML models have unique technical and operational characteristics that compound current governance challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9ac26e14d92913a5ba9182%2F0x0.jpg",
+          "width": 1200,
+          "height": 696,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/18/are-your-model-governance-practices-ai-ready/amp/",
+      "publishedDateTime": "2020-11-18T05:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-robotics-key-to-4th-industrial-revolution-nitda-dg.md",
       "title": "Artificial intelligence, robotics key to 4th industrial revolution ― NITDA DG",
       "excerpt": "DG, NITDA has said that emerging technologies such as artificial intelligence and robotics are going to power fourth industrial revolution.",
@@ -476,49 +579,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-4paradigm-named-as-leader-in-the-forrester-wave-paml-report.md",
-      "title": "4Paradigm named as leader in the Forrester Wave PAML report",
-      "excerpt": "Forrester, a leading international market analysis firm, released The Forrester Wave™: Predictive Analytics And Machine Learning In China, Q4 2020 report. 4 Paradigm received the top score in the Current Offering category,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
-      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T03:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1151,57 +1211,6 @@
         "Machine Learning",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-google-has-created-an-ai-powered-nightmare-creature-generator.md",
-      "title": "Google has created an AI-powered nightmare creature generator",
-      "excerpt": "Google has taken the wraps off Chimera Painter, a web-based tool that lets anyone generate terrifying cryptozoological entities in an interface that looks like MS Paint by way of Diablo. Why, you ask?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
-      "originalUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/TC-beast.jpg?w=1024",
-          "width": 1024,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/google-has-created-an-ai-powered-nightmare-creature-generator/amp/",
-      "publishedDateTime": "2020-11-17T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

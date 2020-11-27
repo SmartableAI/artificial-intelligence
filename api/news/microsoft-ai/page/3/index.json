@@ -2,6 +2,40 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-28-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript.md",
+      "title": "Microsoft Corporation (MSFT) CEO Satya Nadella on Q1 2021 Results - Earnings Call Transcript",
+      "excerpt": "They can build advanced AI models using Azure Machine Learning to identify trends and predict outcomes. And with Power BI, anyone in an organization can access these insights and build custom ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
+      "originalUrl": "https://seekingalpha.com/article/4381922-microsoft-corporation-msft-ceo-satya-nadella-on-q1-2021-results-earnings-call-transcript",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-global-cognitive-computing-market-2020-business-strategies-cognitive-scale-ibm-corporation-google-palantir-technologies.md",
       "title": "Global Cognitive Computing Market 2020 Business Strategies – Cognitive Scale, IBM Corporation, Google, Palantir Technologies",
       "excerpt": "Major Market Players Included in this Report is: Cognitive Scale, IBM Corporation, Google, Palantir Technologies, Microsoft Corporation, Enterra Solutions, and Numenta. The global Cognitive ...",
@@ -1309,50 +1343,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-ai-in-fintech-market-may-set-new-growth-story-microsoft-google-salesforcecom.md",
-      "title": "AI in Fintech Market May Set New Growth Story | Microsoft, Google, Salesforce.com",
-      "excerpt": "Oct 19, 2020<p>Latest Research Study on  Market published by AMA, offers a detailed overview of the factors influencing the global business scope. Global AI in Fintech Market research report shows the latest market insights with upcoming trends and breakdown of the products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
-      "originalUrl": "https://menafn.com/1100983759/AI-in-Fintech-Market-May-Set-New-Growth-Story-Microsoft-Google-Salesforcecom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?417299",
-          "width": 299,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Microsoft AI"
       ]

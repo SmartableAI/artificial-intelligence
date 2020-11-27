@@ -2,6 +2,59 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2020-10-30-google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care.md",
+      "title": "Google AI executive sees a world of trillions of devices untethered from human care",
+      "excerpt": "Google says hardware in embedded devices needs to improve to make possible a world of peel-and-stick sensors free of wall power and human maintenance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "originalUrl": "https://www.zdnet.com/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/10/29/470db163-bd0f-42db-884d-a81b219a724d/warden-2020-what-tinyml-needs-from-hardware.png",
+          "width": 3331,
+          "height": 1816,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-ai-executive-sees-a-world-of-trillions-of-devices-untethered-from-human-care/",
+      "publishedDateTime": "2020-10-29T10:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-robot-boats-from-mit-can-now-carry-passengers.md",
       "title": "Robot boats from MIT can now carry passengers",
       "excerpt": "The latest \"Roboat\" is an autonomous vehicle that's about six feet long and is being tested for use in Amsterdam.",
@@ -1167,57 +1220,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-apple-reportedly-bought-a-video-ai-startup-for-50-million-as-it-tries-to-improve-siri-and-other-apps.md",
-      "title": "Apple reportedly bought a video AI startup for $50 million as it tries to improve Siri and other apps",
-      "excerpt": "Apple's purchase of Barcelona-based Vilynx follows its spree of AI acquisitions earlier this year as the company looks to expand its footprint.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10",
-      "originalUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f988b936f5b310011723bd1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/apple-buys-vilynx-video-artificial-intelligence-startup-50-million-2020-10?amp",
-      "publishedDateTime": "2020-10-28T22:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -25,6 +25,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Superintelligence review: A fun take on the AI apocalypse storyline"
+    excerpt: "In Superintelligence, Melissa McCarthy plays a character who must show a sentient AI that humanity is worth saving. The film is a strange but captivating mix of rom-com sci-fi and action"
+    publishedDateTime: 2020-11-25T00:00:00Z
+    webUrl: "https://www.newscientist.com/article/2260679-superintelligence-review-a-fun-take-on-the-ai-apocalypse-storyline/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/11/24103458/superintelligence_web.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
 secured: "cfZ9Hm+tZLr4TEVVtyfXpAbfqY0c41xjxsjPi0lkaRrNGIWHNTQUz8l4juAHs1o8w0yZc4qtFMAG+lbCpyboUv64BmGmnPzWt0/YRMugXgolofhK2SJU5z7M+yPHQtnhwUf+FESRpkYcUqgg4dhZch0TwqsV9NDeYL+zFqVExwZtEaSh1jWP3D2dfDSH57u3Vhbwa83AXKqrlZ8cYmVDgWmJ1iNg1c4eFrszZK3uotZ7I03WTBFr8+ZIkYCCboXiofMxii6OCoBXOGWWAcUIw4K1u1p4TIcnPBJO8ipmYOaAOldpvKbvf0VJ/mNWPD0PhtNDvgMwDLf0ROd1D4lYAauyzn/LCj5aJ3UqIx0Gn/o=;3NQKZQxHmIe94GZ837ZllA=="
 ---
 

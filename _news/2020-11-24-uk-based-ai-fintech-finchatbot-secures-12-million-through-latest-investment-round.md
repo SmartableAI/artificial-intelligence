@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
 type: article
 quality: 53
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/tekie111-1606035014630-1606147418090.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "Israeli fintech co Obligo raises $15.5m"
-    excerpt: "Ofir Dor Israeli fintech company Obligo has announced a $15.5 million Series A financing round led by 10D and with the participation of 83North, Entrée Capital, Viola Credit, and other strategic real estate investors."
-    publishedDateTime: 2020-11-22T13:44:00Z
-    webUrl: "https://en.globes.co.il/en/article-israeli-fintech-co-obligo-raises-155m-1001350327"
-    type: article
-    provider:
-      name: globes.co.il
-      domain: globes.co.il
-    quality: 39
-    images:
-      - url: "https://res.cloudinary.com/globes/image/upload/f_auto/t_desktop_article_content_header_800*392/v1605705155/direct/Obligo.jpg"
-        width: 1200
-        height: 588
         isCached: true
   - title: "Singapore Fintech startup Sleek secures US $4M from Enterprise Singapore's SEEDS Capital and business angels"
     excerpt: "Sleek, a fintech startup that is disrupting the traditional corporate services industry, has raised US $4M in a new funding round. Led by SEEDS Capital, the investment arm of Enterprise Singapore, the funding was also joined by MI8 Limited,"

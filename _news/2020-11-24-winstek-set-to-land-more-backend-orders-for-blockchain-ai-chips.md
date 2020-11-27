@@ -26,17 +26,6 @@ images:
 
 related:
   - title: "This fintech and blockchain training bundle features 8 courses for $40"
-    excerpt: "FinTech School provides practical fintech training through online courses, covering topics ranging from AI to robo-advisors. With this bundle, you'll get full access to eight of FinTech School's courses, each of which is taught by practicing fintech ..."
-    publishedDateTime: 2020-11-22T13:06:00Z
-    webUrl: "https://www.zdnet.com/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-  - title: "This fintech and blockchain training bundle features 8 courses for $40"
     excerpt: "With investments in blockchain tech growing, so will the job opportunities. This 8-course bundle can help. By ZDNet Academy | November 22, 2020 -- 13:00 GMT (05:00 PST) | Topic: Blockchain Blockchain could very well be the technology of the future."
     publishedDateTime: 2020-11-22T22:58:00Z
     webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"

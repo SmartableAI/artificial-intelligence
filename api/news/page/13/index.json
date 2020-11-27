@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-17-new-motorcycle-technology-provides-ai-driven-protection-for-riders.md",
+      "title": "New motorcycle technology provides AI-driven protection for riders",
+      "excerpt": "RideVision bundles a suite of rider-assist and active safety technology into one suite for riders. Active safety technology and driver-assist features continue to spread across the automotive industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/new-motorcycle-technology-protection-riders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/iSySC5vXP-egqULB9Xmj5RPTF5E=/2020/11/16/73c7f009-7de4-4baa-af6c-7bd3838dfcd2/ogi-ridevision.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-motorcycle-technology-protection-riders/",
+      "publishedDateTime": "2020-11-16T08:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-lanistars-new-card-supports-personalized-security-a-first-in-fintech.md",
       "title": "Lanistar's New Card Supports Personalized Security, A First In Fintech",
       "excerpt": "Lanistar's core development mission is to provide first-time Generation Z and millennial bank card customers with the freedom and security they want in a bankcard but couldn't find with any Financial Services Provider.",
@@ -1179,49 +1230,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
-      "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
-      "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "originalUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
-      "publishedDateTime": "2020-11-15T08:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vanguard",
-        "domain": "vanguardngr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

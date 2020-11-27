@@ -2,6 +2,49 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-10-21-constant-claims-2020-ai-techaward-for-loss-mitigation-tool.md",
+      "title": "Constant claims 2020 AI TechAward for loss mitigation tool",
+      "excerpt": "Constant has a reason to cheer this week. The fintech and automated loss mitigation provider received a 2020 AI TechAward, which celebrates technical innovation, adoption and reception in the artificial intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoremarketing.com/autofinjournal/constant-claims-2020-ai-techaward-loss-mitigation-tool",
+      "originalUrl": "https://www.autoremarketing.com/autofinjournal/constant-claims-2020-ai-techaward-loss-mitigation-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.autoremarketing.com/sites/default/files/AI%20Tech%20Awards%20for%20web.png",
+          "width": 880,
+          "height": 495,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto Remarketing",
+        "domain": "autoremarketing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-google-fintech-group-unifiedpost-team-up-on-ai-data-capture.md",
       "title": "Google, FinTech group Unifiedpost team up on AI data capture",
       "excerpt": "a FinTech organization with a presence in 15 countries. The company handles procurement documents for over 400,000 small and medium-sized businesses and more than 250 enterprise players, a time-consuming and complicated task -- but it is thought that AI ...",
@@ -1134,58 +1177,6 @@
         "Natural Language Processing",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-ai-powered-fund-thrashing-sp-500-is-wary-of-cyclical-bounce.md",
-      "title": "AI-Powered Fund Thrashing S&P 500 Is Wary of Cyclical Bounce",
-      "excerpt": "The AI Powered Equity ETF (AIEQ), an exchange-traded ... The fund’s “manager,” a model which runs 24/7 on IBM Corp.’s Watson platform, is heavily overweight health care and consumer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASFtRpJzvRA/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
-      "publishedDateTime": "2020-10-20T19:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

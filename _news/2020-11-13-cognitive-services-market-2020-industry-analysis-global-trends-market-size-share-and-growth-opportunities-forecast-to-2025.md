@@ -2,29 +2,21 @@
 category: news
 title: "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
 excerpt: "Cognitive Services are a set of machine learning algorithms ... Google, Inbenta, Ipsoft, Microsoft, Nokia, Nuance Communications, Qualcomm Technologies, SAS, Softweb Solutions, TCS and Verbio ..."
-publishedDateTime: 2020-11-12T23:41:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025-2020-11-12"
-webUrl: "https://www.marketwatch.com/press-release/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025-2020-11-12"
+publishedDateTime: 2020-11-12T23:37:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18351935"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18351935"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "OsoYVfT/e4vNg1tUDe3HG93K/7ma132SfCBnWgEXjYDpVsyt5FJsN4+fVI2Y8nxAOqrjGlstH9mRELZsKSfC6Py8m0Xou2Shl4BxHIfK6KUMyVJxzCRecEq1I4Y8+iIdy4M98MVHxKjQZFqTP+R5xV7klzzADLnsA1t8H8UYXTq2ZlTiOovPoAJSPRGiXhW6yOz25Q7xKSTngDInvmVgFxwLHDCVj6TiIy+Fima1iOzgYN8C5J/jrxDNQhKznPkSmELlzUwMOfr8tYum/g06mZaQg7pld8jHGMyt5VCa8bE6y2lkmXakdDw2jRqKIDR/Rpjni95d0pCOyxNtQvZGUciwnztkXFFur/Hps9mzCxE=;1CJx9sn2WJjE0e+vd50sdg=="
+secured: "2KCWWLjyHkdfXKLfa3KOHE2cpsFclql3GxaPZUCh5TyqO0d3MRKfIKy/N3FSpTTraCwQVOcfSDqmSoe5gW3JEsDGQtVK0NYsDXYnfyzZus5A6hfEY1vMgZWvYWUIOLzd26REyIeYjATeh1PKneuHuoU0gIJ1BT68QLCTljpy70wZhIrRALm5XoAwfRcEhHuzUYjU2KH59GPDtgdFl33Bn+UsxIVFilOPkw+KYJWCfnY9K+K+te3+CoMWgoI3HxgMot4Fe8XTA/yfyBFov6Rm1kAphbaBwar1JpA+FMPzudT/FDaLVJyCxgGeGf2qiKZ5t7kHDTZVRubHNeDSx7HaTmL/OrVln3WcA5Eux7Ecq/8=;WNjnRJ4rxDPEkQ9I6h7dkg=="
 ---
 
