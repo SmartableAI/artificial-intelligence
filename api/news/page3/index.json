@@ -2,6 +2,188 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-24-the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers.md",
+      "title": "The ethical use of AI will help businesses when engaging with customers",
+      "excerpt": "Dries Cronje, CEO if Deep Learning Café, says that ethics will play a critical role as more businesses leverage AI in order to tap into customer trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
+      "originalUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2020/11/alexander-sinn-KgLtFCgfC28-unsplash.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
+      "publishedDateTime": "2020-11-24T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs.md",
+      "title": "AI that directs drones to film ‘exciting’ shots could lower video production costs",
+      "excerpt": "Researchers at Facebook, Carnegie Mellon, and the University of Sao Paulo propose an AI framework for drone videography.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "originalUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/24f6fcb9-2778-4c44-a265-cff1d99931e7-e1606169815359.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "publishedDateTime": "2020-11-24T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-apples-ml-compute-framework-accelerates-tensorflow-training.md",
+      "title": "Apple's ML Compute Framework Accelerates TensorFlow Training",
+      "excerpt": "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
+      "originalUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
+      "title": "Binarized neural networks show promise for fast, accurate machine learning",
+      "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/november2320.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "publishedDateTime": "2020-11-24T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-misinformation-or-artifact-why-do-neural-networks-mess-up.md",
       "title": "Misinformation or Artifact: Why Do Neural Networks Mess Up?",
       "excerpt": "Neural networks can produce incredibly gains in speech and efficiency, but can also make simplistic mistake. A new study suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,",
@@ -511,7 +693,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -607,7 +789,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -901,6 +1083,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-24-can-we-make-our-robots-less-biased-than-we-are.md",
+      "title": "Can We Make Our Robots Less Biased Than We Are?",
+      "excerpt": "Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police officers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
+      "publishedDateTime": "2020-11-23T11:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-uk-based-ai-fintech-finchatbot-secures-12-million-through-latest-investment-round.md",
       "title": "UK-Based AI Fintech FinChatBot Secures £1.2 Million Through Latest Investment Round",
       "excerpt": "FinChatBot, a creator of conversational AI solutions for the financial services industry, recently annonced it attracted £1.2 million from Saviu Ventures,  Compass Venture Capital, and Kalon Venture Partners.",
@@ -993,248 +1227,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-self-driving-cars-a-level-by-level-explainer-of-the-road-to-autonomy.md",
-      "title": "Self-driving cars: A level-by-level explainer of the road to autonomy",
-      "excerpt": "Do you really understand autonomous cars? Here's why the SAE's Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/",
-      "publishedDateTime": "2020-11-23T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
-      "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
-      "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359653",
-      "originalUrl": "https://www.entrepreneur.com/article/359653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359653",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653",
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-industry-voiceshow-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19-and-beyond.md",
-      "title": "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond",
-      "excerpt": "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19",
-      "originalUrl": "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://qtxasset.com/fiercehealthcare/1605998117/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?MrxsGtXtZcyI.Q4pV0YvFxd.yTFvo99G",
-          "width": 1000,
-          "height": 486,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fierce Healthcare",
-        "domain": "fiercehealthcare.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020.md",
-      "title": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020",
-      "excerpt": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The “Paris Region Challenge",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada.md",
-      "title": "Gatik And Loblaw Partner To Bring First-Ever Driverless Deliveries To Canada",
-      "excerpt": "Canada is poised to see driverless commercial delivery of goods come to Toronto, thanks to startup Gatik bagging a $25M infusion of capital plus a partnership with Canada’s largest retailer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "originalUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbab97107d4f398e3ecce1d%2F0x0.jpg%3FcropX1%3D109%26cropX2%3D1886%26cropY1%3D0%26cropY2%3D1332",
-          "width": 1199,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

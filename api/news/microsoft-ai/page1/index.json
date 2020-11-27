@@ -149,7 +149,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -1071,6 +1071,40 @@
       ]
     },
     {
+      "path": "_news/2020-11-13-cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025.md",
+      "title": "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025",
+      "excerpt": "Cognitive Services are a set of machine learning algorithms ... Google, Inbenta, Ipsoft, Microsoft, Nokia, Nuance Communications, Qualcomm Technologies, SAS, Softweb Solutions, TCS and Verbio ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18351935",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18351935",
+      "publishedDateTime": "2020-11-12T15:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-google-catches-up-to-aws-and-azure-with-new-database-migration-service.md",
       "title": "Google catches up to AWS and Azure with new database migration service",
       "excerpt": "Google has debuted its database migration service, making it easier for Google Cloud customers to transfer databases to Google's Cloud SQL.",
@@ -1396,49 +1430,6 @@
       "provider": {
         "name": "IML Group",
         "domain": "controlengeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-aveva-expands-its-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-in-the-manufacturing-and-energy-industries.md",
-      "title": "AVEVA expands its collaboration with Microsoft with a focus on cloud and AI to drive digital transformation in the manufacturing and energy industries",
-      "excerpt": "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AVEVA_expands_its_collaboration_with_Microsoft_with_a_focus_on_cloud_and_AI_to_drive_digital_transformation_in_the_manufacturing_and_energy_industries-ZAWYA20201110052411/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/AVEVA_expands_its_collaboration_with_Microsoft_with_a_focus_on_cloud_and_AI_to_drive_digital_transformation_in_the_manufacturing_and_energy_industries-ZAWYA20201110052411/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2020/VEVA_2020_11_10.jpg",
-          "width": 450,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20201110052411/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201110052411/",
-      "publishedDateTime": "2020-11-09T21:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
         "images": null,
         "publishers": null,
         "authors": null

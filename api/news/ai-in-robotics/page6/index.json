@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-15-rebel-foods-bets-on-robotics-ab-testing-to-scale-food-biz.md",
+      "title": "Rebel Foods bets on robotics, A/B testing to scale food biz",
+      "excerpt": "Rebel Foods grew from its earlier avatar ‘Faasos’ to a multi-brand food firm which currently houses more than 15 brands such as Behrouz Biryani, Oven Story Pizza, Sweet Truth, Slay Everyday, Firangi Bake,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
+      "originalUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz-11602755900460.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2020/10/15/600x338/biriyani_1564638221094_1602756719242.PNG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/industry/retail/rebel-foods-bets-on-robotics-a-b-testing-to-scale-food-biz/amp-11602755900460.html",
+      "publishedDateTime": "2020-10-15T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-built-for-the-fourth-industrial-revolution-cascadia-capital-launches-leading-edge-investment-banking-practice-dedicated-to-the-robotics-automation.md",
       "title": "Built for the Fourth Industrial Revolution: Cascadia Capital Launches Leading-Edge Investment Banking Practice Dedicated to the Robotics, Automation, and Artificial ...",
       "excerpt": "Cascadia Capital (“Cascadia”) is tackling the Fourth Industrial Revolution head-on­—leveraging existing internal expertise to launch one of the nation",

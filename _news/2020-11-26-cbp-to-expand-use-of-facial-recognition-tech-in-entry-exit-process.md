@@ -35,36 +35,6 @@ related:
         width: 940
         height: 627
         isCached: true
-  - title: "Facial recognition software can now reportedly recognize bears"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
-    publishedDateTime: 2020-11-22T22:14:00Z
-    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
-    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Automatic Facial Recognition: authentication, identification and ethical use"
-    excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
-    publishedDateTime: 2020-11-26T12:16:00Z
-    webUrl: "https://www.ifsecglobal.com/critical-conversations/automatic-facial-recognition-authentication-identification-and-ethical-use/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 53
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Tencent Cloud introduces one-stop AI Transfy speech recognition solution, delivering high-quality conferencing experience to international customers"
     excerpt: "The solution's outstanding features were championed at Interspeech 2020's Far-Field Speaker Verification Challenge special session in"
     publishedDateTime: 2020-11-24T04:25:00Z
@@ -99,20 +69,6 @@ related:
       name: Travel News
       domain: breakingtravelnews.com
     quality: 34
-  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
-    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
-    publishedDateTime: 2020-11-24T20:56:00Z
-    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
-        isCached: true
 
 secured: "iP2qD4anzgD115vdODDOhiBJSQ0ibWLKcBgA+73poFX77KMj1V8EsPUk1STTeAXi68zVE9PapWr48G1+5mVPaLjJ9AXuuDp3oCKYGbElghDgTGZsWhiO8g4Rk+L/39CYswuaTcIdkgJ7E0H6Zk574kRJv6GqcWWVXmQ/nsfVDGqlcc+hK//BSsiq30g7Ei0WFMCf5RsTfJdfPzIHrkBSJ6Jbu39B/w/kFiNmw7LfBG0Y9oA6TOiqf0kf319vA/mhEQue3irJuiwWFVePWBfdO6hfauKrn9tjM4LdBmkWCRMLSyDcsgkCcTvbRpjvY5d+pAVm4X6s1gumwdA3cPIjZgdW0whwyjLqy+WTbfUmZUMVqkPgDxXyOABi4qg9kMtkyDWM4rBGBsoTrYgscZARf7zrpN+MhR/ppZQJHMb4O+T/5CR7kd6ecwbPxQ4sN96sk5Sl0znVPbtr80bcY/VMlBWU0GeaeaNDLHSjLdrNZqe0fXQkBorSmmH/fSQu+Z/+Hg6C1uBoKAorTzIlgzLIHg==;pAdvCnZvNSvAlYVRZzf82Q=="
 ---

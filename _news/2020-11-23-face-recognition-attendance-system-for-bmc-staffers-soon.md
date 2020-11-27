@@ -9,7 +9,7 @@ ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attend
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Govt eyes face recognition and voice interface for Umang amid rapid adoption"
+    excerpt: "More than 2 lakh people have used Umang’s Jeevan Praman services in the first 2 days of November alone, which is 200% more than the life certificates submitted through the app last year."
+    publishedDateTime: 2020-11-26T19:03:00Z
+    webUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption-11606417107301.html"
+    ampWebUrl: "https://www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/politics/policy/govt-eyes-face-recognition-and-voice-interface-for-umang-amid-rapid-adoption/amp-11606417107301.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 58
+    images:
+      - url: "https://images.livemint.com/img/2020/11/26/600x338/UMANGnew-kVeB--621x414@LiveMint_1606417268976.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "News for Advanced Voice Recognition Systems Inc"
     excerpt: "Advanced Voice Recognition Systems, Inc. Files A Request For Rehearing Of TheBoard Of Patents Appeals And Interferences' Decision In The Interference"
     publishedDateTime: 2020-11-26T23:25:00Z

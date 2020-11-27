@@ -65,6 +65,20 @@ related:
         width: 752
         height: 408
         isCached: true
+  - title: "SK Telecom unveils faster, cheaper, power-saving AI chip for data center operations"
+    excerpt: "SK Telecom Co. will pursue expansion in the global artificial intelligence (AI) market with its semiconductor for data center operations, dubbed SAPEON X220. It was the first AI chip developed by the mobile carrier"
+    publishedDateTime: 2020-11-27T00:27:00Z
+    webUrl: "https://www.econotimes.com/SK-Telecom-enters-semiconductor-biz-with-new-AI-chip-1597176"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 48
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20201127665fb66f39fccd959_th_1024x0.jpg"
+        width: 545
+        height: 408
+        isCached: true
   - title: "SK Telecom Co unveils AI chip"
     excerpt: "South Korea is to add a new artificial intelligence (AI) chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global technology market and an upgrade of its industrial capabilities."
     publishedDateTime: 2020-11-25T17:40:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
 excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
 publishedDateTime: 2020-11-25T19:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
-webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
 type: article
 quality: 19
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI Hardware
   - AI
+  - AI Hardware
 
 images:
   - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
@@ -323,6 +323,6 @@ related:
       domain: benzinga.com
     quality: 1
 
-secured: "zskHHpR6LnvGdM2Fo9wDHXk4IT36FOKdQYLFCauO0bNcQy+xsYG+0ZCQ2j12o7tKNu1ufPA2HLB/8BSinB+bJf5A8OW6aY8Q0XMMd2YxzaFGJpY4SWQasZeQsI1cmKJne7PqXkE9/smtqytyfJY+03LQ+bA26BZez7Jwz+/FDLHoB96UztSga6oYyddsbSjuQ90O0PSDYSSqSInom8tEvYmVPWqPhCg+kz2DaTvveY2eQzU7gbdKaeW+N7EdrWagpiRSQe+48nm53Lj8DI0nVN6MFvr9znNTjN6UszrkNNYnIAgxXclv4S2e89JkUa/OLjqkBABjclEKGu1MVqgpBHQzgFVUuuSEGwHmRR7+9Ag=;hRSdBM13G/hmHf4weN3f9g=="
+secured: "tT63Om1VSpox6H/r0j8hUzuIDZXzqx9qZBgJtxmQ/tTSBHqvTJWnLSoGoM0LHTNuaEF5PbvaMwP9+JS/cnSzay/t6JHAZvXtBxVxY0rj26rmGiB2G7MFAF0ip2Ajj/ZbiVJDFVzdAUFS8e9YUjkHK380vvZhOpXsVKeYLC9coCJNVnFvU0Jdk8eJ8p5Rl+Bg+N9oy/DxiqgwJRwKUTBvvzDicNoTzXDyPAAp7Kg7J65PFSgSrW3EGTc86ZQJlDKvpkR5ts4YKRlaBzpLt70jc89EJUmunSnDUEte5+pOJYMF335mOo0e7QkICjF5faD80uX5g9zhrcuD/YuoayPyBWeZf6dE4N/S+/TpscEAZV4=;08WGZhiEa3OfI3EEvBz5qA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai
 webUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19"
 type: article
 quality: 53
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Voice of OC Honored for Leadership, Accuracy and Transparency in COVID-19 Reporting"
+    excerpt: "Voice of OC won recognition this month from community groups for its COVID-19 reporting’s impact on the community, particularly Orange County’s Latino community."
+    publishedDateTime: 2020-11-25T15:08:00Z
+    webUrl: "https://voiceofoc.org/2020/11/voice-of-oc-honored-for-leadership-accuracy-and-transparency-in-covid-19-reporting/"
+    type: article
+    provider:
+      name: Voice of OC
+      domain: voiceofoc.org
+    quality: 18
+    images:
+      - url: "https://voiceofoc.org/wp-content/uploads/2020/11/latinohealthaccessaward2020.png"
+        width: 1500
+        height: 844
         isCached: true
 
 secured: "06NTqwSE96ruYTuidkc1cbNaHQIxiJW2Sn74sQb5xV3Ul02vBI83PqKwf88qUwXfry9aLO3JoRpgC6JBkwT2jgajtBDf9pUxCyOoGKw2Yg4v6i37Nm/Vr+ffkqE6KaLpt68YmgR7mnNLArUllabVxAGdlsRPNp7VkNwbNa4TZ8FJ8KrbN31wdxudoDT7AYyR8jk8bW0sAJvnV4CuIi8MhUXgvMM3HTS/DSlH+HV5rYac39lwI++kRxY77wN4LR1RTlOCuCyMJyOYsx3q2EPLWx5PS8HB706XuPcpfc5G7ekIR7sAZ16+ntLeHfvFiuMAFhIJuwz2WocA6+S4PV7HFIZLiYWFgqHPck8iuM246Is=;uIqVmHbdUZeVZ0wRGqFGOA=="

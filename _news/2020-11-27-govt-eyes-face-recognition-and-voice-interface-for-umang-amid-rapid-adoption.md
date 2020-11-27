@@ -28,51 +28,49 @@ images:
     isCached: true
 
 related:
-  - title: "Congress Is Eyeing Face Recognition, and Companies Want a Say"
-    excerpt: "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators."
-    publishedDateTime: 2020-11-22T09:12:00Z
-    webUrl: "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/"
-    ampWebUrl: "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp"
+  - title: "Face recognition attendance system for BMC staffers soon"
+    excerpt: "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,"
+    publishedDateTime: 2020-11-23T00:30:00Z
+    webUrl: "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon"
+    ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
+    cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: The Free Press Journal
+      domain: freepressjournal.in
+    quality: 59
     images:
-      - url: "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg"
+      - url: "https://cnt.trvdp.com/truvid_default/640X480.jpg"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "News for Advanced Voice Recognition Systems Inc"
+    excerpt: "Advanced Voice Recognition Systems, Inc. Files A Request For Rehearing Of TheBoard Of Patents Appeals And Interferences' Decision In The Interference"
+    publishedDateTime: 2020-11-26T23:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/advanced_voice_recognition_systems-stock"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "http://markets.businessinsider.com/Images/FacebookIcon.jpg"
         width: 800
-        height: 450
+        height: 800
         isCached: true
-  - title: "Facial recognition software is learning to identify bear and cow faces"
-    excerpt: "Nowadays almost everyone uses facial recognition in some form or another -- maybe it's to get into your iPhone, or when social media platforms suggest tags in photos. But if you thought humans had the monopoly on facial recognition software, think again."
-    publishedDateTime: 2020-11-23T11:46:00Z
-    webUrl: "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
+  - title: "Face recognition systems can diagnose genetic disorders that are complex for doctors"
+    excerpt: "Undeniably, the technical progress did a lot to come inside of a human body to make a precise diagnosis. Facial recognition is one such advancement helping healthcare professionals to diagnose rare genetic disorders."
+    publishedDateTime: 2020-11-24T08:08:00Z
+    webUrl: "https://www.analyticsinsight.net/facial-recognition-is-adept-at-spotting-rare-genetic-disorders/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 32
     images:
-      - url: "https://cnet1.cbsistatic.com/img/rR_RZA0zkc895t7cvkrGUVfW_XE=/1200x630/2017/05/11/e208a8c4-30c6-4b77-a7a5-6577c3a64e6a/gettyimages-490055-0011.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Speech and Voice Recognition Market Top Leading Companies, Consumption, Key Drivers, Challenges and Trends Forecast to 2026"
-    excerpt: "The global “ Speech and Voice Recognition Market ” is expected to rise with an impressive CAGR and generate the highest revenue by 2026. Fortune Business Insights™ in its latest report published this information."
-    publishedDateTime: 2020-11-24T16:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-top-leading-companies-consumption-key-drivers-challenges-and-trends-forecast-to-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Facial-Recognition-1.jpg"
+        width: 900
+        height: 500
         isCached: true
 
 secured: "Cb5yTOkvYb4x55eFwsBIbnOh/Lamcl4wNJrjW5R2GBljuWAaCakYZabx6czT54oTR2GbR1C2SMP4V05vYzXiqpiN3Huv5GpZ4MosU4K+vMO4OJo3EDbO+yw+9qcgRQuEQW8HjWw7jrs2YlI7/GCuM38wfUslyhtJF9bYhkfRawmrX62iZ59a6SRlw6+pnxF/RHzaHl3LLsXpma+rdxvBX0nngan4aPZiJ4/tELbMNz1c/zLJh9dzXzy0nH5CTJ96tFM/iwP/mSOM9Wd8Dnmc6P8mFirZN9TXWENQxSGz/o7cNITgmwCW8KClZRJmBIFfJnppCSxuKNhpG6BelCyj3q89e+fB4Dar1IkdZDhQs/2961gd4s2Q/ij842Kcg4uGTykmZeSLXKbX6Jtvck/Utwuq5z2mA2scCEDYX3XU6YDRqP2irWSU3qSRcjBIYgSzOTPYdR5M12Wyd9laI8uJJlmYKHeZvLAI5CSPwbWTgRmaz1qMowca/hqksdUtwWeGDmXo58rqJSlfWvsEmjfPnQ==;7jRK81x8Sk9ixGP1VfbXKw=="

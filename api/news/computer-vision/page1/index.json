@@ -107,49 +107,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks.md",
-      "title": "SA scientists develops facial recognition technology identifying faces through face masks",
-      "excerpt": "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "originalUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "publishedDateTime": "2020-11-25T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-houston-airports-add-facial-recognition-tech-to-arrival-process.md",
       "title": "Houston Airports Add Facial Recognition Tech to Arrival Process",
       "excerpt": "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic.",
@@ -158,7 +115,7 @@
       "originalUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -193,6 +150,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-23-facial-recognition-software-is-learning-to-identify-bear-and-cow-faces.md",
+      "title": "Facial recognition software is learning to identify bear and cow faces",
+      "excerpt": "Nowadays almost everyone uses facial recognition in some form or another -- maybe it's to get into your iPhone, or when social media platforms suggest tags in photos. But if you thought humans had the monopoly on facial recognition software, think again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "originalUrl": "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/rR_RZA0zkc895t7cvkrGUVfW_XE=/1200x630/2017/05/11/e208a8c4-30c6-4b77-a7a5-6577c3a64e6a/gettyimages-490055-0011.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "publishedDateTime": "2020-11-23T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-face-recognition-attendance-system-for-bmc-staffers-soon.md",
       "title": "Face recognition attendance system for BMC staffers soon",
       "excerpt": "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,",
@@ -201,7 +210,7 @@
       "originalUrl": "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -222,49 +231,6 @@
       "provider": {
         "name": "The Free Press Journal",
         "domain": "freepressjournal.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-facial-recognition-software-can-now-reportedly-recognize-bears-jaweb.md",
-      "title": "Facial recognition software can now reportedly recognize bears – Jaweb",
-      "excerpt": "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday. Melanie Clapham, a postdoctoral fellow at the University of Victoria and bear biologist,",
-      "sourceUrl": null,
-      "webUrl": "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/",
-      "originalUrl": "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facial-recognition-software-can-now-reportedly-recognize-bears-–-Jaweb.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp",
-      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp",
-      "publishedDateTime": "2020-11-22T14:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Elmoudjaweb",
-        "domain": "elmoudjaweb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1421,6 +1387,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-schools-are-using-a-facial-recognition-scanner-that-detects-face-masks.md",
+      "title": "Schools Are Using a Facial Recognition Scanner That Detects Face Masks",
+      "excerpt": "In addition to that, GoSafe also comes with sophisticated facial recognition technology. After U.S. school districts pushed to reopen, there was a pressing need for temperature-taking devices. While some school boards were initially apprehensive of the inclusion of facial recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx",
+      "originalUrl": "https://www.engineering.com/DesignerEdge/DesignerEdgeArticles/ArticleID/20909/Schools-Are-Using-a-Facial-Recognition-Scanner-That-Detects-Face-Masks.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.engineering.com/portals/0/BlogFiles/75_ima1.png",
+          "width": 530,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.engineering.com/amp/20909.html",
+      "cdnAmpWebUrl": "https://mobile-engineering-com.cdn.ampproject.org/c/s/mobile.engineering.com/amp/20909.html",
+      "publishedDateTime": "2020-11-11T04:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engineering",
+        "domain": "engineering.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

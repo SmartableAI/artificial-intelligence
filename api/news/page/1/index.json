@@ -2,6 +2,263 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
+      "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
+      "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ilR5j0VZWcoo/v0/360x-1.jpg",
+          "width": 360,
+          "height": 257,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/ecb-s-panetta-open-to-case-by-case-resumption-of-bank-dividends",
+      "publishedDateTime": "2020-11-26T18:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-chinas-industrial-profits-surge-at-fastest-pace-in-nine-years.md",
+      "title": "China’s Industrial Profits Surge at Fastest Pace in Nine Years",
+      "excerpt": "Profits at Chinese industrial enterprises surged at the fastest pace in a single month in almost nine years in October, a further sign the economic recovery is gathering pace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i0rVggcxRr5U/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-27/china-s-industrial-profits-surge-at-fastest-pace-in-nine-years",
+      "publishedDateTime": "2020-11-26T18:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.md",
+      "title": "Quotation of the Day: ‘Love Letter to Detroit,’ on Vellum and Chrome",
+      "excerpt": "Quotation of the Day for Friday, November 27, 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/26/todayspaper/quotation-of-the-day-love-letter-to-detroit-on-vellum-and-chrome.amp.html",
+      "publishedDateTime": "2020-11-26T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-bank-of-canada-says-recent-covid-19-vaccine-news-is-promising-recovery-to-be-tough.md",
+      "title": "Bank of Canada says recent COVID-19 vaccine news is promising, recovery to be tough",
+      "excerpt": "Recent news about coronavirus vaccines is promising even as cases continue to increase, Bank of Canada Governor Tiff Macklem said on Thursday, reiterating that the recovery would be tough.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
+      "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1BR",
+          "width": 886,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2862DA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA",
+      "publishedDateTime": "2020-11-26T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-brazils-bolsonaro-says-he-will-not-take-coronavirus-vaccine.md",
+      "title": "Brazil's Bolsonaro says he will not take coronavirus vaccine",
+      "excerpt": "Brazilian President Jair Bolsonaro said on Thursday evening that he will not take a coronavirus vaccine, the latest in a series of statements he has made expressing skepticism toward coronavirus vaccination programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
+      "originalUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542607147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ01T",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28704L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28704L",
+      "publishedDateTime": "2020-11-26T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.md",
       "title": "Combining cell engineering with machine learning to design living medicines for cancer",
       "excerpt": "Finding medicines that can kill cancer cells while leaving normal tissue unscathed is a Holy Grail of oncology research.",
@@ -738,49 +995,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks.md",
-      "title": "SA scientists develops facial recognition technology identifying faces through face masks",
-      "excerpt": "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "originalUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "publishedDateTime": "2020-11-25T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-26-help-dogs-deal-with-separation-anxiety-with-this-ai-trainer.md",
       "title": "Help dogs deal with separation anxiety with this AI trainer",
       "excerpt": "The first goal is to deal with separation anxiety, in a trial with San Francisco SPCA. Dog training generally requires a human dog trainer, but what if it didn't and delivered better results? That's the promise of a startup called Companion Labs that has unveiled its first AI-driven dog-training machine in conjunction with the San Francisco SPCA .",
@@ -1009,195 +1223,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted.md",
-      "title": "AI Neural Networks Are Now Smart Enough To Know When They Shouldn’t Be Trusted",
-      "excerpt": "The idea of all-knowing, uncontrollable artificial intelligence (AI) is scary, but if we’re lucky, it looks like AI might just be able to save us from itself. A team of computer scientists from Massachusetts Institute of Technology (MIT) say they have created AI neural networks that are able to determine whether they can be trusted,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
-      "originalUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/sophia_neural_networks.jpg&quality=70&width=808",
-          "width": 808,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
-      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
-      "publishedDateTime": "2020-11-25T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNILAD",
-        "domain": "unilad.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
-      "title": "SK Telecom designs own AI data centre chip for 5G applications",
-      "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "originalUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "publishedDateTime": "2020-11-25T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-breakthrough-in-deep-learning-could-help-reduce-errors.md",
-      "title": "Breakthrough in deep learning could help reduce errors",
-      "excerpt": "MIT researchers claim that deep learning neural networks need better uncertainty analysis to reduce errors. \"Deep evidential regression\" reduces uncertainty after only one pass on a network, greatly reducing time and memory.",
-      "sourceUrl": null,
-      "webUrl": "https://bigthink.com/technology-innovation/deep-learning-neural-networks",
-      "originalUrl": "https://bigthink.com/technology-innovation/deep-learning-neural-networks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.rebelmouse.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHBpcmVzX2F0IjoxNjA2NTgyNTcyLCJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJlYmVsbW91c2UuaW8vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBiV0ZuWlNJNkltaDBkSEJ6T2k4dllYTnpaWFJ6TG5KaWJDNXRjeTh5TkRnd056VTRNaTl2Y21sbmFXNHVhbkJuSWl3aVpYaHdhWEpsYzE5aGRDSTZNVFkwT0RrMU5EQTBNbjAuRmUzNWdZdjBQRkwyNG1BeTU1UUtxWlpyNTJXTy00WFhQRmNqSnh3M2VMOC9pbWcuanBnP3dpZHRoPTQwMCZjb29yZGluYXRlcz0xODYlMkMwJTJDMTAwMCUyQzAmaGVpZ2h0PTcxMS40Mjg1NzE0Mjg1NzE0JnF1YWxpdHk9NjUifQ.xYEGnFj1go4KxOZpdUCNzpe4TF3Fc5T2-FZ96DwsEbo/img.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bigthink.com/amp/deep-learning-neural-networks-2649036797",
-      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/deep-learning-neural-networks-2649036797",
-      "publishedDateTime": "2020-11-25T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big Think",
-        "domain": "bigthink.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-based-hr-tech-startup-pulsifi-bags-18-mn-in-angel-funding.md",
-      "title": "AI-Based HR Tech Startup Pulsifi Bags $1.8 Mn In Angel Funding",
-      "excerpt": "AI-driven HR tech startup Pulsifi on Wednesday announced that it has raised $1.8 million in angel funding. Apart from the existing investors, new investors such as Aaron Chen, founder of KVC group of companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360395",
-      "originalUrl": "https://www.entrepreneur.com/article/360395",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606310468-CEO-Jay.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360395",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360395",
-      "publishedDateTime": "2020-11-25T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

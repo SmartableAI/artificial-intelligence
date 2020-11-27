@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-23T07:43:00Z
 originalUrl: "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb"
 webUrl: "https://apnews.com/press-release/wired-release/business-technology-driverless-cars-products-and-services-consumer-products-and-services-71516a6c28d0208736b8b914a16078cb"
 type: article
-quality: 63
-heat: 63
+quality: 65
+heat: 65
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI in Healthcare
   - Microsoft AI
+  - AI in Robotics
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

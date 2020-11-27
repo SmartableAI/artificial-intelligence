@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: New York Times
@@ -29,24 +29,6 @@ images:
     width: 1050
     height: 549
     isCached: true
-
-related:
-  - title: "Can We Make Our Robots Less Biased Than Us?"
-    excerpt: "Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police offers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon,"
-    publishedDateTime: 2020-11-22T10:09:00Z
-    webUrl: "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 89
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
 
 secured: "82N42mBcKNzAOqMLwSRI7CGQWu/uVPkQvBdUyk/CzLbjAMRxqmup4Az8cbSnVSK7THmwJA8Smg3phwbkW+8rsmTzxPmmsRFTW6l/TzDSQ96eq8C0aRfU5A05i2JxOSwqccPLDi2iaXdiowGERE22L/ADAjvwnvLdzIlfKLdftwsWUq5eVkEXsxswSLLN3VAqcBSBt85+XnYN4WpRXVXmlZzIDCxz1RoXrMG8vDMdlRoTVyMYfQb0TfmaIbXT3hSfOIGK0VqzYRg+4lCRqyRFnrRo8kBjaaWcNSRqAAl3IvpZeFpdC07UEa19TFAfObeQlNuBwK8tUL5mC3Gr2gDtGOGDIno5NUIxJ4nqzmW30rrTmEnCMgwLHUTuNhecM/G/gCFXZaPLEtBiRLK+DC1uhFFMf68xzoCIOqJaKRRJmpnnuiVrVa6RFHD92XxmCzKXJ17DBMo4WMCllfzAfdh9LlbeMY1yy0vANr/jLHRgQOup5q4QrrX8z83N5juGZYE/PmVssclAaossohD5aZoiSQ==;DviPs61oH7f+jLhZ/DLbiQ=="
 ---

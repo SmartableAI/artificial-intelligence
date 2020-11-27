@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Voice of OC Honored for Leadership, Accuracy and Transparency in COVID-19 Reporting"
+    excerpt: "Voice of OC won recognition this month from community groups for its COVID-19 reporting’s impact on the community, particularly Orange County’s Latino community."
+    publishedDateTime: 2020-11-25T15:08:00Z
+    webUrl: "https://voiceofoc.org/2020/11/voice-of-oc-honored-for-leadership-accuracy-and-transparency-in-covid-19-reporting/"
+    type: article
+    provider:
+      name: Voice of OC
+      domain: voiceofoc.org
+    quality: 18
+    images:
+      - url: "https://voiceofoc.org/wp-content/uploads/2020/11/latinohealthaccessaward2020.png"
+        width: 1500
+        height: 844
+        isCached: true
 
 secured: "CK2s0mxmsr8w7Ba1pFWHJ4RS7KHC3kFo7pPI6a+cZTn98r8QbjJLYDLPN3bWaQATfcQfH5zFY+J5tk04L+7k3aCnD0chzWYSRRq15AlnJj+sKr7JHWBeSVN4+NePnjIrUkIiRKg2AnUeiMVUx2l1DkP20u5jZfAbk+MphiTs7Nx8ifuJflD1T6yDC40BtzMe9uNuqzEZvtbDFBHT/O/FDQtL790zcsS750gqUzzYiF50HmUDFktRoyZeAruJ1dFxeUNDnqPq6MoAJ+wtdGS6wAbhzwzdLyUiXdDNwT/0OHvo8Du/GG386GcUmqHlvSANlP8GK2BbeU2a/AUMWTJ/1yXHcxqK351lOcdx3r0wdTg=;e505izh12TSfTdBppvRv4g=="
 ---

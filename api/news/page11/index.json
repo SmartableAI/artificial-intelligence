@@ -2,6 +2,246 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-17-incorporating-your-enterprise-knowledge-graph-into-amazon-kendra.md",
+      "title": "Incorporating your enterprise knowledge graph into Amazon Kendra",
+      "excerpt": "For many organizations, consolidating information assets and making them available to employees when needed remains a challenge. Commonly used technology like spreadsheets, relational databases, and NoSQL databases exacerbate this issue by creating more and more unconnected, unstructured data. Knowledge",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/incorporating-your-enterprise-knowledge-graph-into-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/incorporating-your-enterprise-knowledge-graph-into-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Architecture1279.jpg",
+          "width": 700,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T13:23:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure.md",
+      "title": "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure",
+      "excerpt": "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811428",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811428",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811428",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811428",
+      "publishedDateTime": "2020-11-17T12:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m.md",
+      "title": "Spacemaker, AI software for urban development, is acquired by Autodesk for $240M",
+      "excerpt": "Autodesk, the U.S. publicly listed software and services company that targets engineering and design industries, has acquired Norway’s Spacemaker, a startup that has developed AI-supported software for urban development.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/",
+      "originalUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/Optimize-copy.jpg?w=680",
+          "width": 680,
+          "height": 425,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/spacemaker-ai-software-for-urban-development-is-acquired-by-autodesk-for-240m/amp/",
+      "publishedDateTime": "2020-11-17T11:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe.md",
+      "title": "New EU-funded project will use AI to capture the key scents of historical Europe",
+      "excerpt": "The Odeuropa team will use AI to extract information about smells from historical documents and images — and then recreate the scents.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T151435.287-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/new-eu-funded-project-will-use-ai-to-capture-the-key-scents-of-historical-europe/amp/",
+      "publishedDateTime": "2020-11-17T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
+      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
+      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
+          "width": 620,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "publishedDateTime": "2020-11-17T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
       "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
       "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
@@ -645,50 +885,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-17-making-sense-of-the-ai-landscape.md",
-      "title": "Making Sense of the AI Landscape",
-      "excerpt": "How can leaders start to make sense of this vast array ... both specialized in AI and advanced robotics. He is also an independent advisor to the European Commission and member of the IEEE Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
-      "originalUrl": "https://hbr.org/2020/11/making-sense-of-the-ai-landscape",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_17_498430921.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/making-sense-of-the-ai-landscape",
-      "publishedDateTime": "2020-11-17T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2020-11-17-ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19.md",
       "title": "AI discovered an old arthritis drug that can help elderly people survive COVID-19",
       "excerpt": "A new study found a medication identified as a potential COVID-19 treatment reduced deaths by 71% in elderly patients with moderate or severe illness.",
@@ -963,186 +1159,6 @@
       "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
       "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
       "publishedDateTime": "2020-11-17T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-hopsworks-feature-store-now-available-for-microsoft-azure.md",
-      "title": "Hopsworks Feature Store Now Available for Microsoft Azure",
-      "excerpt": "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
-      "publishedDateTime": "2020-11-17T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-dont-fear-the-robots-and-other-lessons-from-a-study-of-the-digital-economy.md",
-      "title": "Don’t Fear the Robots, and Other Lessons From a Study of the Digital Economy",
-      "excerpt": "Rafael Reif, the president of Massachusetts Institute of Technology, delivered an intellectual call to arms to the university’s faculty in November 2017: Help generate insights into how advancing technology has changed and will change the work force,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/17/business/17digitalwork2/17digitalwork2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/17/technology/digital-economy-technology-work-labor.amp.html",
-      "publishedDateTime": "2020-11-17T04:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for-desjardins-group.md",
-      "title": "NICE Actimize Chosen to Drive Modernization of Financial Crime Operations for Desjardins Group",
-      "excerpt": "NICE Actimize, a NICE business, today announced that it was chosen by Desjardins Group, Canada’ s leading financial cooperative with more than 7 million members and $300 billion in total assets, to provide modernization and expansion for the institutions’ financial crime compliance program and operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for",
-      "originalUrl": "https://www.nasdaq.com/press-release/nice-actimize-chosen-to-drive-modernization-of-financial-crime-operations-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T03:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-help-your-organization-sprint-forward-using-ai-tech-sprints.md",
-      "title": "Help Your Organization ‘Sprint’ Forward Using AI Tech Sprints",
-      "excerpt": "One of the ways to promote the effective application of AI is through partnerships between the public and private sector, drawing upon the scale and infrastructure from the public sector and the agility and technical talent from the private sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/",
-      "originalUrl": "https://www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb33acb72c9b08362818b13%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3460%26cropY1%3D330%26cropY2%3D2275",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/christosmakridis/2020/11/17/help-your-organization-sprint-forward-using-ai-tech-sprints/amp/",
-      "publishedDateTime": "2020-11-17T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",

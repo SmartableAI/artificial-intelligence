@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-ce
 cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications"
 type: article
 quality: 104
-heat: 154
+heat: 164
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
     images:
       - url: "https://www.thefastmode.com/media/k2/items/src/4cfce36fc7e35f8c2190d159032de5e6.jpg?t=20201126_012312"
         width: 752
+        height: 408
+        isCached: true
+  - title: "SK Telecom unveils faster, cheaper, power-saving AI chip for data center operations"
+    excerpt: "SK Telecom Co. will pursue expansion in the global artificial intelligence (AI) market with its semiconductor for data center operations, dubbed SAPEON X220. It was the first AI chip developed by the mobile carrier"
+    publishedDateTime: 2020-11-27T00:27:00Z
+    webUrl: "https://www.econotimes.com/SK-Telecom-enters-semiconductor-biz-with-new-AI-chip-1597176"
+    type: article
+    provider:
+      name: EconoTimes
+      domain: econotimes.com
+    quality: 48
+    images:
+      - url: "https://s1.econotimes.com/assets/uploads/20201127665fb66f39fccd959_th_1024x0.jpg"
+        width: 545
         height: 408
         isCached: true
   - title: "SK Telecom launches AI chip, unveils AI semiconductor business strategy"

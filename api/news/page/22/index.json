@@ -2,6 +2,288 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-10-employers-add-more-ai-to-the-interview-process-how-to-handle-it.md",
+      "title": "Employers Add More AI To The Interview Process. How To Handle It",
+      "excerpt": "If you are tech-challenged, you will likely struggle with these new AI (Artificial Intelligence) advancements in the interviewing process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "originalUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9897f61d7675e6f9fb699%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robinryan/2020/11/10/employers-add-more-ai-to-the-interview-process-how-to-handle-it/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-to-quantify-the-benefits-of-ai-driven-shelf-digitization.md",
+      "title": "How To Quantify The Benefits Of AI-Driven Shelf Digitization",
+      "excerpt": "To build a business case with attractive ROI, retail decision-makers will need to understand the impact of these in-store automation solutions on operational practices and ensure they choose the right solution for their store's needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9beabfda4d6a09f4b37eb%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/10/how-to-quantify-the-benefits-of-ai-driven-shelf-digitization/amp/",
+      "publishedDateTime": "2020-11-10T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-how-to-watch-apples-special-november-2020-event-live-stream.md",
+      "title": "How To Watch Apple’s 'Special' November 2020 Event Live Stream",
+      "excerpt": "The event is slated to take place on Nov. 10 at 10 a.m. PST/1 p.m. EST and will be live-streamed from Apple’s Apple Park headquarters in Cupertino, California. \"One Last Thing\" can be watched live on the Apple Events website on a Mac,",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=5AwdkGKmZ0I",
+      "originalUrl": "https://www.ibtimes.com/how-watch-apples-special-november-2020-event-live-stream-3075670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/5AwdkGKmZ0I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-the-us-government-will-pay-doctors-to-use-these-ai-algorithms.md",
+      "title": "The US Government Will Pay Doctors to Use These AI Algorithms",
+      "excerpt": "The artificial intelligence programs can diagnose eye disease in diabetics and complications in stroke patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "originalUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/5fa5db02c529acf3a833874c/master/pass/business_medicare_1171912286.jpg",
+          "width": 2400,
+          "height": 1606,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/us-government-pay-doctors-use-ai-algorithms/amp",
+      "publishedDateTime": "2020-11-10T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-review-google-cloud-ai-lights-up-machine-learning.md",
+      "title": "Review: Google Cloud AI lights up machine learning",
+      "excerpt": "The feature engineering built into Cloud AutoML Tables is promising, however, and it would be useful to have that sort of service available for other scenarios. The seamy underside of AI has to do with ethics and responsibility (or the lack thereof), along ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/",
+      "originalUrl": "https://www.reseller.co.nz/article/684390/review-google-cloud-ai-lights-up-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/google_cloud_1_2.jpg",
+          "width": 740,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T01:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor.md",
+      "title": "Chip maker NVIDIA signs deal with Hyundai Motor",
+      "excerpt": "Chip maker NVIDIA Corp on Monday announced that Hyundai Motor Group will use the NVIDIA DRIVE in-vehicle information and entertainment system for all its Hyundai, Kia, and Genesis models from 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "originalUrl": "https://www.timeslive.co.za/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/4FTpGZSdcmCaK0uwJeO6vHuvyepDbptpALrkWU_jP4lg_FLQnBD59sgttsLIVuG465pflEEpFPablqlggoJ-=s1000",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "cdnAmpWebUrl": "https://www-timeslive-co-za.cdn.ampproject.org/c/s/www.timeslive.co.za/amp/motoring/news/2020-11-10-chip-maker-nvidia-signs-deal-with-hyundai-motor/",
+      "publishedDateTime": "2020-11-09T23:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Times LIVE",
+        "domain": "timeslive.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-10-artificial-intelligence-and-machine-learning-helping-insurance-companies-with-cybersecurity-ey.md",
       "title": "Artificial Intelligence and Machine Learning helping insurance companies with cybersecurity: EY",
       "excerpt": "EY had helped an insurance company tackle the cybersecurity threat and this could be replicated throughout the industry.",
@@ -913,274 +1195,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ethical-frameworks-for-ai-arent-enough.md",
-      "title": "Ethical Frameworks for AI Aren’t Enough",
-      "excerpt": "Many AI ethical frameworks cannot be clearly implemented in practice, as researchers have consistently demonstrated. Without a dramatic increase in the specificity of existing AI frameworks, there’s simply not much technical personnel can do to clearly uphold such high-level guidance.",
-      "sourceUrl": null,
-      "webUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "originalUrl": "https://hbr.org/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hbr.org/resources/images/article_assets/2020/11/Nov20_09_1221118269.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/11/ethical-frameworks-for-ai-arent-enough",
-      "publishedDateTime": "2020-11-09T06:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ai-workflow-scalability-through-expansion.md",
-      "title": "AI Workflow Scalability through Expansion",
-      "excerpt": "In the world of AI, the path to more compute power is more GPUs within a compute fabric. Each GPU that can be added to an AI training platform increases the parallel compute capability of the overall system. However, many AI compute platforms are ...",
-      "sourceUrl": null,
-      "webUrl": "https://insidehpc.com/2020/11/ai-workflow-scalability-through-expansion/",
-      "originalUrl": "https://insidehpc.com/2020/11/ai-workflow-scalability-through-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insidehpc.com/wp-content/uploads/2020/11/OSS_pic1.png",
-          "width": 300,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T06:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "insideHPC",
-        "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-ibm-microsoft-and-the-future-of-healthcare.md",
-      "title": "IBM, Microsoft, and the Future of Healthcare",
-      "excerpt": "IBM focused its Watson AI on providing medical professionals with diagnostic tools allowing them to diagnose even the most mysterious illnesses more accurately. Simultaneously, Microsoft recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technewsworld.com/story/86911.html",
-      "originalUrl": "https://www.technewsworld.com/story/86911.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2019-medical-research-1.jpg",
-          "width": 620,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNewsWorld",
-        "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-cyberark-launches-ai-powered-service-to-remove-excessive-cloud-permissions.md",
-      "title": "CyberArk Launches AI-Powered Service to Remove Excessive Cloud Permissions",
-      "excerpt": "CyberArk (NASDAQ: CYBR), the global leader in privileged access management, today announced CyberArk Cloud Entitlements Manager, the industry’s first privilege-based, artificial intelligence-powered service designed to strengthen the security of cloud environments.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-israel-north-america-66ee2357b36946aab228fec735bd79aa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-israel-north-america-66ee2357b36946aab228fec735bd79aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-kyligence-to-speak-at-pass-virtual-summit-2020-on-high-performance-high-currency-architecture.md",
-      "title": "Kyligence to Speak at PASS Virtual Summit 2020 on High-Performance, High-Currency Architecture ...",
-      "excerpt": "Kyligence, originator of Apache Kylin and AI-assisted distributed SQL and OLAP solutions, today announced that Kyligence Senior Solutions Architect Mike Shen will speak about high-performance, high-concurrency architecture for analytics on Azure at PASS Virtual Summit 2020 on Thursday,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-north-america-data-management-san-jose-california-d556b0e154f72a6e72a975716c099b11",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-north-america-data-management-san-jose-california-d556b0e154f72a6e72a975716c099b11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-09T05:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-09-outsenses-ai-looks-for-life-threatening-diseases-in-your-poop.md",
-      "title": "OutSense’s AI looks for life-threatening diseases in your poop",
-      "excerpt": "OutSense is setting out to \"transform human waste into lifesaving medical insights\" through a device that clips onto a toilet.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
-      "originalUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/outsense_banner_final.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/09/outsenses-ai-looks-for-life-threatening-diseases-in-your-poop/amp/",
-      "publishedDateTime": "2020-11-09T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

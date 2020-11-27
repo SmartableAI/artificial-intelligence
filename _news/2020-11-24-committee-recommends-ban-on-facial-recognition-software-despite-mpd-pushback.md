@@ -7,7 +7,7 @@ originalUrl: "https://www.dailycardinal.com/article/2020/11/committee-recommends
 webUrl: "https://www.dailycardinal.com/article/2020/11/committee-recommends-ban-on-facial-recognition-software-despite-mpd-pushback"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -24,40 +24,6 @@ images:
     width: 1000
     height: 800
     isCached: true
-
-related:
-  - title: "Facial recognition software can now reportedly recognize bears – Jaweb"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday. Melanie Clapham, a postdoctoral fellow at the University of Victoria and bear biologist,"
-    publishedDateTime: 2020-11-22T22:47:00Z
-    webUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facial-recognition-software-can-now-reportedly-recognize-bears-–-Jaweb.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Can facial recognition tech identify different bears?"
-    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
-    publishedDateTime: 2020-11-24T02:11:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "HUzXnNJ0gQxRosiYcyTkx7FqgBQRpSLR0ZJzvfUePC4l+YWo7d/kpHV6GMoW/FrPDRdvjdyn1TdVPhKp0MbWwTFoqZEQ9FDOOxbzY9OSbR/qTWMBkaJUKZuSEsZmL5R4eEZv+JseVSNVDuVsrh/AWMBvstAIwn9UFdOVRd7Aas/ZMOwAkYzikBubkP/Z8EC4FoLm71rxfm+bjempDqCI/yH1oCVFh8tRj83nToHJ/3a6lHwfOcT1KLTAzc3nD0HeN4DSolzcQETDp1H+x4gecoNvTZ8EnxruNhFzbYnpFt0+0UWVL/ADaI2A3+sKvlqAcfgjbr0cOMIkT0+Jq4Byoxg40uWzi1PbHJsD0hGfc9iuEu8Gd1ZskcmmsT5MQ5nbbYu+O9P8MPeWZsQWzESvXEpIp6DNmGAk5BQffg1mWJuRd6K0tZLY5/Me8WLyeF3MYfQeefXilSpKseaTvkdXC9ZFioewr/MefIAMwYLWb9a1ZrtnZ+GB8GDrQX3rdgmLwej4GxkzO3qdslWH+xTbkw==;pFK673cG1TqulR7hrghiKQ=="
 ---

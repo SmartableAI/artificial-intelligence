@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM"
-excerpt: "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of"
-publishedDateTime: 2020-11-25T21:29:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18534360"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18534360"
+excerpt: "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by the manufacturers."
+publishedDateTime: 2020-11-25T17:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491"
 type: article
-quality: 1
-heat: 1
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "leJMT5qiLEKECU8HrpPpV0JAmkCLKVvuPeOmf2clYp6qZR52SRz1D+bWEBX491E9P3i7y1t4vS1TcCUkWRbskfmH2sEoOmb3aj/uIkRw7d6Pp0nvFFVXD8Owsx3KDzlkqEe4ON28mvugGE0xPAtI7O/6/T9dg0PJVldXbzK7Ya+RnClnU0gZXViIZMU9Ogd08EOu9dXlJ73ugStVEG+ujBSQikQXNr744largVHC7KtC50f+3+lwjZ/4z7y526We9XLtWz/482nef3h7VbmFI/dujsv4DFoIbpCbcfDmugRy9TXbSEQUbhW1irjeaF3vdg70s0B0YDRfyePzB+4I1cdL5lzIMrX8kQQQgOmMG0I=;oLVB71GoBTnR9/cAaR79mg=="
+secured: "8dVf4/AuKJlKrlR7NUGKWI4+PdHNjyyRdjlg9xsYPilR2UZMCU7nAAvfj1JE4p9Im5Z2UfUenvPX4Jcu8VTXZUQQSSLHPm/vO1jRn/tyS7VN2TEBOlgDmny7k98j+NfwGnmXpR7szdkuH7SVUdpgbFDulvbeL3qA4+RSRGSQRLfmALeMXHTCg82+ZmDFfsOqxlhQuDX3jmhfDCwS7BRJ4EXVJ+ySSsOPCFOGTTAAtEzEZgJQmEkkwi2Nb4TQJ/um4OP8usk3fJXYQmoBnI7eo/ijfJ3UuiHdrzEWSAs7R7O70lDjT6RgZZZWpFiUCevyiyMU3BAR1dH7ZslNkRZIV8ygTfobwuT1kPVfw2MNcXk=;jZVVz/ixBtEbt/DX7N+PlQ=="
 ---
 

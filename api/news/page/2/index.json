@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-25-ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted.md",
+      "title": "AI Neural Networks Are Now Smart Enough To Know When They Shouldn’t Be Trusted",
+      "excerpt": "The idea of all-knowing, uncontrollable artificial intelligence (AI) is scary, but if we’re lucky, it looks like AI might just be able to save us from itself. A team of computer scientists from Massachusetts Institute of Technology (MIT) say they have created AI neural networks that are able to determine whether they can be trusted,",
+      "sourceUrl": null,
+      "webUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
+      "originalUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/sophia_neural_networks.jpg&quality=70&width=808",
+          "width": 808,
+          "height": 424,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
+      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
+      "publishedDateTime": "2020-11-25T07:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UNILAD",
+        "domain": "unilad.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
+      "title": "SK Telecom designs own AI data centre chip for 5G applications",
+      "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
+      "originalUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
+      "publishedDateTime": "2020-11-25T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-breakthrough-in-deep-learning-could-help-reduce-errors.md",
+      "title": "Breakthrough in deep learning could help reduce errors",
+      "excerpt": "MIT researchers claim that deep learning neural networks need better uncertainty analysis to reduce errors. \"Deep evidential regression\" reduces uncertainty after only one pass on a network, greatly reducing time and memory.",
+      "sourceUrl": null,
+      "webUrl": "https://bigthink.com/technology-innovation/deep-learning-neural-networks",
+      "originalUrl": "https://bigthink.com/technology-innovation/deep-learning-neural-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.rebelmouse.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHBpcmVzX2F0IjoxNjA2NTgyNTcyLCJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJlYmVsbW91c2UuaW8vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBiV0ZuWlNJNkltaDBkSEJ6T2k4dllYTnpaWFJ6TG5KaWJDNXRjeTh5TkRnd056VTRNaTl2Y21sbmFXNHVhbkJuSWl3aVpYaHdhWEpsYzE5aGRDSTZNVFkwT0RrMU5EQTBNbjAuRmUzNWdZdjBQRkwyNG1BeTU1UUtxWlpyNTJXTy00WFhQRmNqSnh3M2VMOC9pbWcuanBnP3dpZHRoPTQwMCZjb29yZGluYXRlcz0xODYlMkMwJTJDMTAwMCUyQzAmaGVpZ2h0PTcxMS40Mjg1NzE0Mjg1NzE0JnF1YWxpdHk9NjUifQ.xYEGnFj1go4KxOZpdUCNzpe4TF3Fc5T2-FZ96DwsEbo/img.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bigthink.com/amp/deep-learning-neural-networks-2649036797",
+      "cdnAmpWebUrl": "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/deep-learning-neural-networks-2649036797",
+      "publishedDateTime": "2020-11-25T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Think",
+        "domain": "bigthink.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-ai-based-hr-tech-startup-pulsifi-bags-18-mn-in-angel-funding.md",
+      "title": "AI-Based HR Tech Startup Pulsifi Bags $1.8 Mn In Angel Funding",
+      "excerpt": "AI-driven HR tech startup Pulsifi on Wednesday announced that it has raised $1.8 million in angel funding. Apart from the existing investors, new investors such as Aaron Chen, founder of KVC group of companies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/360395",
+      "originalUrl": "https://www.entrepreneur.com/article/360395",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606310468-CEO-Jay.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360395",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360395",
+      "publishedDateTime": "2020-11-25T05:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
       "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
       "excerpt": "Nearly 60 per cent of about 650 passengers WeRide surveyed say they use the company’s robotaxi service for regular commutes.",
@@ -1024,188 +1213,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers.md",
-      "title": "The ethical use of AI will help businesses when engaging with customers",
-      "excerpt": "Dries Cronje, CEO if Deep Learning Café, says that ethics will play a critical role as more businesses leverage AI in order to tap into customer trends.",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
-      "originalUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2020/11/alexander-sinn-KgLtFCgfC28-unsplash.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
-      "publishedDateTime": "2020-11-24T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs.md",
-      "title": "AI that directs drones to film ‘exciting’ shots could lower video production costs",
-      "excerpt": "Researchers at Facebook, Carnegie Mellon, and the University of Sao Paulo propose an AI framework for drone videography.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
-      "originalUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/24f6fcb9-2778-4c44-a265-cff1d99931e7-e1606169815359.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
-      "publishedDateTime": "2020-11-24T06:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-apples-ml-compute-framework-accelerates-tensorflow-training.md",
-      "title": "Apple's ML Compute Framework Accelerates TensorFlow Training",
-      "excerpt": "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
-      "originalUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T06:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
-      "title": "Binarized neural networks show promise for fast, accurate machine learning",
-      "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
-      "originalUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/november2320.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
-      "publishedDateTime": "2020-11-24T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore.com",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
