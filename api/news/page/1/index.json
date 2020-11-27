@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-27-cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance.md",
+      "title": "Cloud and AI: The biggest trends in personal and SMB video surveillance",
+      "excerpt": "Video surveillance systems are increasing in power and value, as new ways to gather, analyze, share, and store digital data are developed.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
+      "originalUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 687,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/cloud-and-ai-the-biggest-trends-in-personal-and-smb-video-surveillance/amp/",
+      "publishedDateTime": "2020-11-27T07:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer.md",
+      "title": "Volvo thinks gaming tech can help make self-driving cars safer",
+      "excerpt": "Volvo is using video game tech like VR headsets, simulations, and haptic feedback steering wheels to create a driving simulator to help make cars safer.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
+      "originalUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Polestar_wordmark_pos.png",
+          "width": 3003,
+          "height": 1363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
+      "publishedDateTime": "2020-11-27T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-health-startup-qureai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19.md",
       "title": "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19",
       "excerpt": "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients.",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 160,
       "tags": null,
       "images": [
         {
@@ -53,7 +156,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 214,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -938,8 +1041,8 @@
       "title": "The 10 Coolest AI Chip Startups Of 2020",
       "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -1129,110 +1232,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-security-startup-helia-raises-3m-from-silicon-valley-investors.md",
-      "title": "Security Startup Helia Raises $3M From Silicon Valley Investors",
-      "excerpt": "Helia is headquartered in San Francisco and founded by Indian origin entrepreneur Ashwin Sreenivas along with Russell Kaplan and Daniel Berrios",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360475",
-      "originalUrl": "https://www.entrepreneur.com/article/360475",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606401128-heliaeditfinal.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360475",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360475",
-      "publishedDateTime": "2020-11-26T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now.md",
-      "title": "Who will your algorithm harm next? Why businesses need to start thinking about evil AI now",
-      "excerpt": "Building AI systems that are ethical is no longer a box-ticking exercise, and could deliver a key competitive advantage to the businesses that embrace responsible technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "originalUrl": "https://www.zdnet.com/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/r/2019/03/26/df8e2dc9-750c-48d0-96d1-e773830a900a/thumbnail/1200x675/f36a16e7b4dd0d52f29f0dded0d20a88/how-you-can-build-an-ethical-ai-project-5c99faee2f64e300dd74a9aa-1-mar-26-2019-12-32-00-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now/",
-      "publishedDateTime": "2020-11-26T05:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

@@ -55,6 +55,17 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "The Global Contact Center Intelligence Market is Forecast to Reach $3.7 billion by 2026"
+    excerpt: "The Global Contact Center Intelligence Market size is expected to reach $3.7 billion by 2026, rising at a market growth of 23.4% CAGR during the forecast period. Artificial intelligence (AI) is a part of rising innovations,"
+    publishedDateTime: 2020-11-27T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Artificial Intelligence in Medical Diagnostics Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
     excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
     publishedDateTime: 2020-11-27T14:31:00Z

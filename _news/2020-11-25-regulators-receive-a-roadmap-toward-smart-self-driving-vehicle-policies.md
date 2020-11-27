@@ -79,20 +79,6 @@ related:
       name: Law360
       domain: law360.com
     quality: 24
-  - title: "Best of: Are self-driving cars safe? It's complicated"
-    excerpt: "In this best of episode, Kim dives into the world of automated cars. Self-driving cars aren’t some crazy future tech … They’re here now. That raises some"
-    publishedDateTime: 2020-11-25T13:08:00Z
-    webUrl: "https://www.komando.com/episode/best-of-are-self-driving-cars-safe-its-complicated/766476/"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 24
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2020/06/kk-img-20200615-tech-you-should-know-1400x1400-1.jpg"
-        width: 1400
-        height: 1400
-        isCached: true
   - title: "Regulators receive road map for smart self-driving vehicle policies"
     excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Waymo has expanded its rider-only operations in metro Phoenix."
     publishedDateTime: 2020-11-25T14:12:00Z

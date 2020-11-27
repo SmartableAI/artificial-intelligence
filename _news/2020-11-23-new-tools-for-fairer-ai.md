@@ -41,22 +41,6 @@ related:
         width: 2560
         height: 1392
         isCached: true
-  - title: "Go player cheated using AI"
-    excerpt: "By Park Ji-won A 13-year-old professional Go player was suspended from competing for one year, Friday, after she admitted to using artificial intelligence (AI) to enhance her game"
-    publishedDateTime: 2020-11-22T23:48:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/sports/2020/11/663_299695.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202011/9891d6fe8a78422187d93b73fb56391e.jpg"
-        width: 980
-        height: 735
-        isCached: true
   - title: "How AI technology is capable of changing the world for good"
     excerpt: "Artificial Intelligence (AI) is already being widely used in a wide number of industry sectors and consumer-facing businesses - we might just not realise it yet or the extent to which our day-to-day lives already benefit."
     publishedDateTime: 2020-11-24T04:11:00Z

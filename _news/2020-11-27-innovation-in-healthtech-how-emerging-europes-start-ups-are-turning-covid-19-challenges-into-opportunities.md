@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
+    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"
+    publishedDateTime: 2020-11-27T16:25:00Z
+    webUrl: "https://www.pasadenanow.com/main/caltechs-ai-driven-covid-19-model-routinely-outperforms-competitors/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 37
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/Screenshot_9-7-740x400.jpg"
+        width: 740
+        height: 400
+        isCached: true
 
 secured: "eXkuj02k0vDxwAX8jVwWxZPEVijeSuA+DQUH/KXLs0aedRXgxLhpktxlPNQ2BzSNnpKmkanXYvVUJjUEwNgw0z2z3c+UOvt4FNHbhZ/oWjJWePfNJdzBu5bzIcq2T19R877K3h3vGgrKM8BFyNTLBTGH0MqgRvFUS0bewW2ZyxgkM72JJ8TA29LzVeuwMhnA/gmjyfgYJh7qUAo9bLaYBeifaWX2CKQfr55yKpEvGIgz3zCLEcLfTXuQ7F4jXF/Y5rJUEkQyaS8tYC6eF6TiLjLbUtePGWhEcgUl+n7q+/7h8tBSZCofaiZBbKpBS4ROCdfdebCfJ7yreXUKsEwMIWmkhuEvZOgphhYtkw1BCTA=;w5jAzRaYETsQzBaNalvDvQ=="
 ---

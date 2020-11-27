@@ -2,6 +2,100 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-19-ping-an-bank-wins-gartner-innovation-award-for-financial-services.md",
+      "title": "Ping An Bank Wins Gartner Innovation Award for Financial Services",
+      "excerpt": "Registration on or use of this site constitutes acceptance of our Terms of Service and Privacy Policy ... scene models and machine learning models to achieve the full process of closed-loop ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ping-an-bank-wins-gartner-innovation-award-for-financial-services-1029809556",
+      "publishedDateTime": "2020-11-18T15:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-19-googles-ai-tool-turns-doodles-into-3d-creatures.md",
+      "title": "Google’s AI Tool Turns Doodles Into 3D Creatures",
+      "excerpt": "Chimera Painter can help video game artists 'create fleshed-out versions of creature outlines,' Google says, but anyone can try the demo online right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures",
+      "originalUrl": "https://www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/027FPju5ccApZ4vyXbEqJh7-1.1605738782.fit_lim.size_1200x630.jpg",
+          "width": 1001,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/googles-ai-tool-turns-doodles-into-3d-creatures?amp=true",
+      "publishedDateTime": "2020-11-18T14:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-zest-ai-inks-deal-with-freddie-mac-to-boost-mortgage-approvals.md",
       "title": "Zest AI Inks Deal With Freddie Mac To Boost Mortgage Approvals",
       "excerpt": "Freddie Mac, the company created by the U. S. government in 1970 to fund mortgages and increase home ownership, will start using fintech company Zest AI to help assess the risk of people defaulting on their mortgages.",
@@ -1147,101 +1241,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-what-chinas-fintech-market-can-teach-the-world.md",
-      "title": "What China’s fintech market can teach the world",
-      "excerpt": "Take the cover photo of this article: At Alibaba, facial recognition software identifies customers at the employee cafeteria, while visual AI identifies ... in China’s fintech market and what ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
-      "originalUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1011643134.jpg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/18/what-chinas-fintech-market-can-teach-the-world/amp/",
-      "publishedDateTime": "2020-11-18T08:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-4paradigm-named-as-leader-in-the-forrester-wave-paml-report.md",
-      "title": "4Paradigm named as leader in the Forrester Wave PAML report",
-      "excerpt": "Simplification of these capabilities differentiates 4Paradigm's automatic machine learning (AutoML) to accelerate enterprise transformation in key verticals such as finance and retail. 4Paradigm ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report",
-      "originalUrl": "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/pr-newswire_500_4_997.jpg?itok=ip51wB8I",
-          "width": 763,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp",
-      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp",
-      "publishedDateTime": "2020-11-18T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

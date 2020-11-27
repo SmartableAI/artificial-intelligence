@@ -2,6 +2,153 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-12-apples-first-m1-chip-based-macs-are-playing-it-too-safe.md",
+      "title": "Apple’s first M1 chip-based Macs are playing it too safe",
+      "excerpt": "Instead of moving the Mac boldly forward, Apple's M1 chip is merely raising the performance floor for entry-level computers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
+      "originalUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/macm1s.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/11/apples-first-m1-chip-based-macs-are-playing-it-too-safe/amp/",
+      "publishedDateTime": "2020-11-11T18:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-standard-chartered-selects-aws-to-power-its-strategic-banking-systems-and-workloads.md",
+      "title": "Standard Chartered Selects AWS to Power Its Strategic Banking Systems and Workloads",
+      "excerpt": "(NASDAQ: AMZN), and Standard Chartered Bank plc (LON: STAN), a leading international banking group, announced a five year, strategic global agreement, which deepens the existing relationship between the two companies,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-financial-services-603623c40644449abaa3979de6e63adb",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-financial-services-603623c40644449abaa3979de6e63adb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T18:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026.md",
+      "title": "Global Artificial Intelligence (AI) Chips Market 2020 Applications, SWOT Analysis, Remarkable Growth and Competitive Landscape by 2026",
+      "excerpt": "The latest report entitled Global Artificial Intelligence (AI) Chips Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 firstly focuses on some important aspects of the market such as revenue rate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-chips-market-2020-applications-swot-analysis-remarkable-growth-and-competitive-landscape-by-2026-2020-11-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-escooter-startup-voi-uses-ai-to-detect-pedestrians-and-sidewalks.md",
       "title": "Escooter startup Voi uses AI to detect pedestrians and sidewalks",
       "excerpt": "Voi is turning to AI to enable its escooters to detect pedestrians and sidewalks, in a move designed to allay cities' safety fears.",
@@ -1102,153 +1249,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-uipath-rpa-now-available-in-microsoft-azure-marketplace.md",
-      "title": "UiPath RPA Now Available in Microsoft Azure Marketplace",
-      "excerpt": "This enables more sophisticated automations with AI capabilities such as document ... “The power of running UiPath on Azure is unquestionable as we constantly optimize our flexible, agile ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace",
-      "originalUrl": "https://www.businesswire.com/news/home/20201111005079/en/UiPath-RPA-Now-Available-in-Microsoft-Azure-Marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201111005079/en/718791/23/new_uipath_logo_orange.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released.md",
-      "title": "Equitable tech: AI-enabled platform to reduce bias in datasets released",
-      "excerpt": "The platform could promote equity in academic admissions, credit score assessment, hiring, academic admissions, and more, according to Synthesized.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "originalUrl": "https://www.techrepublic.com/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/11/44436744-fe4e-4eaf-bdbe-c943f9889f46/resize/1200x/ec4c1fe64d24827800bfe87676c10f69/metamorworks-11.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/equitable-tech-ai-enabled-platform-to-reduce-bias-in-datasets-released/",
-      "publishedDateTime": "2020-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix.md",
-      "title": "This Is The Design Story Behind BMW’s All-New Flagship Electric iX",
-      "excerpt": "In an exclusive interview, BMW Group head of design Adrian van Hooydonk explains the progressive design and pioneering technology behind the flagship electric BMW iX, a car reinventing the marque in t",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/",
-      "originalUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fabd7cdca60dc5622110ced%2F0x0.jpg%3FcropX1%3D209%26cropX2%3D896%26cropY1%3D201%26cropY2%3D587",
-          "width": 687,
-          "height": 386,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nargessbanks/2020/11/11/this-is-the-design-story-behind-bmws-all-new-flagship-electric-ix/amp/",
-      "publishedDateTime": "2020-11-11T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

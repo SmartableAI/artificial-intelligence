@@ -352,6 +352,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-13-focus-on-3as-and-1c-for-deep-tech-push-part-2.md",
+      "title": "Focus on 3As and 1C for deep tech push: Part 2",
+      "excerpt": "WhatsApp had just 55 employees when it was valued at $19 billion by Facebook. That way India has thousands ... There is a need to promote specific AI-oriented startups. There is very little AI research that is happening out of India. IT companies who ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/",
+      "originalUrl": "https://www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dqindia.com/wp-content/uploads/2020/11/trace-3157431_640.jpg",
+          "width": 640,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/amp/",
+      "cdnAmpWebUrl": "https://www-dqindia-com.cdn.ampproject.org/c/s/www.dqindia.com/focus-3as-1c-deep-tech-push-part-2/amp/",
+      "publishedDateTime": "2020-11-13T04:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dataquest",
+        "domain": "dqindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-android-gains-support-for-hardware-accelerated-pytorch-inference.md",
       "title": "Android gains support for hardware-accelerated PyTorch inference",
       "excerpt": "The NNAPI can be accessed via an Android C API or a higher-level framework like Google’s TensorFlow Lite. The initial release includes support for well-known linear convolutional and multilayer ...",
@@ -1448,59 +1491,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
-      "title": "The 2020 data and AI landscape",
-      "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
-      "publishedDateTime": "2020-10-21T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

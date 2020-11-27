@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-chan
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Go player cheated using AI"
-    excerpt: "By Park Ji-won A 13-year-old professional Go player was suspended from competing for one year, Friday, after she admitted to using artificial intelligence (AI) to enhance her game"
-    publishedDateTime: 2020-11-22T23:48:00Z
-    webUrl: "https://www.koreatimes.co.kr/www/sports/2020/11/663_299695.html"
-    ampWebUrl: "http://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=299695"
-    type: article
-    provider:
-      name: koreatimes.co.kr
-      domain: koreatimes.co.kr
-    quality: 59
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202011/9891d6fe8a78422187d93b73fb56391e.jpg"
-        width: 980
-        height: 735
-        isCached: true
   - title: "New tools for fairer AI"
     excerpt: "A ground-breaking new technical paper demonstrates how businesses can identify algorithmic bias in artificial intelligence (AI), and proposes steps"
     publishedDateTime: 2020-11-23T13:20:00Z

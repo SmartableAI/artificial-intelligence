@@ -2,6 +2,92 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-18-aws-announces-general-availability-of-aws-network-firewall.md",
+      "title": "AWS Announces General Availability of AWS Network Firewall",
+      "excerpt": "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall",
+      "originalUrl": "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T21:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-new-electronic-chip-delivers-smarter-light-powered-ai.md",
+      "title": "New electronic chip delivers smarter, light-powered AI",
+      "excerpt": "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T21:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
       "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
       "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,",
@@ -1081,99 +1167,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid.md",
-      "title": "Pairing AI With Human Judgment Is Key To Avoiding 'Mount Stupid'",
-      "excerpt": "Just as humans can use time and experience to build both our competence and confidence, so too can machines — but much, much faster.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3bdea7cf036822a957572d%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/pairing-ai-with-human-judgment-is-key-to-avoiding-mount-stupid/amp/",
-      "publishedDateTime": "2020-11-17T06:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-artificial-intelligence-technology-solutions-receives-rosa-order-from-large-construction-company.md",
-      "title": "Artificial Intelligence Technology Solutions Receives ROSA Order from Large Construction Company",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) has received an order from a large construction company for what RAD expects as the first of many ROSA units to be deployed at the client’s managed properties across the United States.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-construction-and-engineering-e918c486475b4884b7062db37549c3e9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T06:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

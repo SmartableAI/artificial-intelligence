@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-us
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
 type: article
 quality: 60
-heat: 150
+heat: 160
 published: true
 
 provider:
@@ -134,6 +134,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
+    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"
+    publishedDateTime: 2020-11-27T16:25:00Z
+    webUrl: "https://www.pasadenanow.com/main/caltechs-ai-driven-covid-19-model-routinely-outperforms-competitors/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 37
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/Screenshot_9-7-740x400.jpg"
+        width: 740
+        height: 400
+        isCached: true
   - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
     excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
     publishedDateTime: 2020-11-27T12:30:00Z
@@ -149,6 +163,6 @@ related:
         height: 683
         isCached: true
 
-secured: "prPY+DQOgcyxQlGHh9D7Eazki3Qvz2XBVL+t76vavvrwg5QtHefmMylVx+z6CV+ydkxuJcoKzEsADu7CfMMOxQp56+p/KareZjI7VZ4U4TUx94xd0sYc+5slIRYrvUNANqObKoCx60oW2qGTdVFCbQTF5B91CaXWnEFtvCm407QpYPZ9NIrzo4JjbslKb7NqBwk6CFNHf24pkfjyH9DjvlPyarj8tFZ6rnnozOhUvAXzwqVV+mgSXcWA0vre1by09qQs9vGrANAVVgGuGL432QZQuvSAWHfbgvX5QAHf+7A2aWbsuVfVNN3zjcV5E2udBHO0QnkaddlaYKwz//6YrM2+Kn4P+6tsFsaj+BBgeOc=;0csyiKSee5xLQuhtysgvqg=="
+secured: "XANsWZVJHPKTouRBFdYp87oBW/aAi9dDvbekNi+xPXOl3MKUAUtflzDMBNtCqI6swhl06vJK7OEHILcH7OgKkt/fdujWZJaV9YTuKWM3dsrMDDMJPR20q8/eRkSP6NcaC+o5iV98+GjW7NbNpOTl9WmKClU1WcWWWkv9eElwQjX2NaqGkfNOX0E1e2X4La+BxmvuseROBfxWuJdpRlMj96uIcbKr2EnrIVmnSDMQOXXCEXj8v3uQPUEgbEuo1hV0M/ss2mYNyQPuZy8qKLyA4oO8DkBkTrElgqkjvRlhj8YTtpSWHPYXmWhmd0xJlPF76P+V+zojfRV0KmRs4jKtp4zo+nbfZfi9Y6EyGkLiEz4OXHO5kfhW+mK6+Jd+TJgvRdByJBoYxZXlAKcFj0fTYQP+BjfeXv4IPjIt/7+q2TW8qfUw6YgGDbTsSpzQSv5kwH9Fv9fEJIMMhsVq05GKtdd5B+5qYJOUWQ5ntZa+9fqfGJsNJfy7oslEO+Zv9A1VgA0DeEZx1XzYsLhLkonC7w==;UpL5hiT+vRtYtfaG+GSZQA=="
 ---
 

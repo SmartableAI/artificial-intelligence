@@ -134,6 +134,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
+    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"
+    publishedDateTime: 2020-11-27T16:25:00Z
+    webUrl: "https://www.pasadenanow.com/main/caltechs-ai-driven-covid-19-model-routinely-outperforms-competitors/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 37
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/Screenshot_9-7-740x400.jpg"
+        width: 740
+        height: 400
+        isCached: true
   - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
     excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
     publishedDateTime: 2020-11-27T12:30:00Z

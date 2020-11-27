@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-27-volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer.md",
+      "title": "Volvo thinks gaming tech can help make self-driving cars safer",
+      "excerpt": "Volvo is using video game tech like VR headsets, simulations, and haptic feedback steering wheels to create a driving simulator to help make cars safer.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
+      "originalUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Polestar_wordmark_pos.png",
+          "width": 3003,
+          "height": 1363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/",
+      "publishedDateTime": "2020-11-27T07:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-watch-tesla-full-self-driving-beta-yield-for-pedestrian-in-intersection-that-would-give-some-humans-pause.md",
       "title": "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause",
       "excerpt": "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause.",
@@ -1452,40 +1504,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-artificial-intelligence-and-the-law.md",
-      "title": "Artificial Intelligence and the Law",
-      "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "originalUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

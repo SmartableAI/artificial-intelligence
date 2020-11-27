@@ -2,6 +2,108 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-17-new-medical-ai-can-take-vitals-without-waking-up-patients.md",
+      "title": "New medical AI can take vitals without waking up patients",
+      "excerpt": "Using deep learning to predict patient vitals as they sleep could lead to healthier patients and less burnout for nurses, researchers say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
+      "originalUrl": "https://www.cnet.com/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/AKbzMtzM2h9dP7k1g6gnwGbgPbA=/1200x630/2020/11/16/8e148834-5df1-47a7-886b-5346fb2e3076/gettyimages-157770651.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/new-medical-ai-can-take-vitals-without-waking-up-patients/",
+      "publishedDateTime": "2020-11-16T13:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-how-to-tell-the-difference-between-ai-and-bs.md",
+      "title": "How to tell the difference between AI and BS",
+      "excerpt": "Artificial intelligence is as important as electricity, indoor plumbing, and the internet to modern society. In short: it would be extremely difficult to live without it now. But it’s also, arguably,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2019/03/magician_robot-796x417.jpg",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/how-to-tell-the-difference-between-ai-and-bs/amp/",
+      "publishedDateTime": "2020-11-16T12:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-it-is-going-to-be-a-race-with-tesla-says-vw-about-new-investments-in-electric-cars-and-self-driving.md",
       "title": "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving",
       "excerpt": "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla.",
@@ -1147,108 +1249,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-dissecting-c3ais-secret-sauce-less-about-ai-more-about-fixing-hadoop.md",
-      "title": "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop",
-      "excerpt": "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "originalUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/16/4fc135c9-1fd6-4648-8ecb-c0a496c0dcd8/c3ai-2020-model-driven-architecture-system.png",
-          "width": 1724,
-          "height": 1276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "publishedDateTime": "2020-11-15T23:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects.md",
-      "title": "This open-source AI tool can make your video spectacular with sky replacement effects",
-      "excerpt": "Sky replacement tools are extremely popular in the current crop of photp-editing apps. Mobile apps such as Lighttricks’ Lightleap help you put up a new sky on your picture quickly. While for a more refined option,",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Sky-replacement-video-796x418.jpg",
-          "width": 796,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
-      "publishedDateTime": "2020-11-15T23:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

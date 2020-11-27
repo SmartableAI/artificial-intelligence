@@ -2,6 +2,162 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2020-10-14-azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration.md",
+      "title": "Azure Data Explorer gets new engine, numerous enhancements and Synapse integration",
+      "excerpt": "Microsoft is taking Azure Data Explorer (ADX), a hidden gem in its cloud platform, and trotting it out to join the Azure analytics mainstream. Performance gains and numerous integrations should make ADX's heretofore latent value much more apparent and beneficial,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "originalUrl": "https://www.zdnet.com/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/10/14/8f1d0a74-ad46-4527-b056-747840964fa8/3.png",
+          "width": 999,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/azure-data-explorer-gets-new-engine-numerous-enhancements-and-synapse-integration/",
+      "publishedDateTime": "2020-10-14T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services.md",
+      "title": "Microsoft explains how it improved automatic image captioning in Azure Cognitive Services",
+      "excerpt": "In early 2017, Microsoft updated Office 365 apps like Word and PowerPoint with automatic image captioning, drawing on Cognitive Services Computer Vision. (Cognitive Services is a cloud-based suite ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
+      "originalUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/microsoft-1-e1580261336710.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/14/microsoft-explains-how-it-improved-automatic-image-captioning-in-azure-cognitive-services/amp/",
+      "publishedDateTime": "2020-10-14T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-14-ibm-spinoff-should-rejuvenate-cloud-effort.md",
+      "title": "IBM Spinoff Should Rejuvenate Cloud Effort",
+      "excerpt": "The split up of IBM should put it in a better position to compete with other cloud titans such as Amazon AWS, Google, and Microsoft Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/",
+      "originalUrl": "https://www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8707e67b98236f3d929dd6%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D4105%26cropY1%3D169%26cropY2%3D2478",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rscottraynovich/2020/10/14/ibm-spinoff-should-rejuvenate-cloud-effort/amp/",
+      "publishedDateTime": "2020-10-14T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-new-machine-learning-concepts-can-help-develop-novel-drugs.md",
       "title": "New machine learning concepts can help develop novel drugs",
       "excerpt": "Tandem mass spectrometry is a powerful analytical tool used to characterize complex mixtures in drug discovery and other fields.",
@@ -1021,152 +1177,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights.md",
-      "title": "What Does It Take To Scale An AI Company? Founders And Investors Share Their Insights",
-      "excerpt": "As they embark on their scaling journey, AI-first startups face many challenges. Increasing awareness around best practices is the first step in addressing them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/",
-      "originalUrl": "https://www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f83591df4d198acccea301b%2F0x0.jpg",
-          "width": 1200,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/mirunagirtu/2020/10/14/what-does-it-take-to-scale-an-ai-company-founders-and-investors-share-their-insights/amp/",
-      "publishedDateTime": "2020-10-13T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-new-deep-learning-models-fewer-neurons-more-intelligence.md",
-      "title": "New deep learning models: Fewer neurons, more intelligence",
-      "excerpt": "its mode of operation can be explained in detail Artificial intelligence has arrived in our everyday lives -- from search engines to self-driving cars. This has to do with the enormous computing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201013124054.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201013124054.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-13T21:37:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-14-googles-search-on-event-will-reveal-new-ai-powered-features-on-thursday.md",
-      "title": "Google's 'Search On' event will reveal new AI-powered features on Thursday",
-      "excerpt": "Google has scheduled a 'Search On' event for October 15th at 3 PM ET, where it will unveil new AI-powered upgrades.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
-      "originalUrl": "https://www.engadget.com/google-search-on-stream-020155879.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6f09b080-0dc0-11eb-bcdb-e8df047fd37b&client=amp-blogside-v2&signature=8d654481b7bda6a703df4c607999901c8041a846",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/google-search-on-stream-020155879.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-search-on-stream-020155879.html",
-      "publishedDateTime": "2020-10-13T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
