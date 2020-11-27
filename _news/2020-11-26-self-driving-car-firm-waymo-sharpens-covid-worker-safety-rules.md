@@ -37,6 +37,22 @@ related:
         width: 960
         height: 675
         isCached: true
+  - title: "Japan begins first regular operation of free, self-driving buses"
+    excerpt: "A free, self-driving bus began running in Sakai, Ibaraki Prefecture, on Thursday. This is the first regular operation of a self-driving bus in Japan, according to the town.The town purchased French-made vehicles that have a capacity of 11"
+    publishedDateTime: 2020-11-27T02:28:00Z
+    webUrl: "https://www.asiaone.com/asia/japan-begins-first-regular-operation-free-self-driving-buses"
+    ampWebUrl: "https://www.asiaone.com/asia/japan-begins-first-regular-operation-free-self-driving-buses?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/asia/japan-begins-first-regular-operation-free-self-driving-buses?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 44
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/20201127_selfdrivingbus_YomiuriShimbun.jpg?itok=jgbubST_"
+        width: 763
+        height: 509
+        isCached: true
   - title: "NHTSA Eyes New Self-Driving Car Regulatory Framework"
     excerpt: "The U.S. Department of Transportation has signaled that it may eventually adopt new safety standards for vehicles with automated driving systems, taking a big step that could boost development of passenger-carrying autonomous vehicles while ensuring that new technologies still undergo sharp scrutiny."
     publishedDateTime: 2020-11-24T03:41:00Z

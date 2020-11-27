@@ -43,22 +43,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "AI news: Neural network learns when it should not be trusted - ’99% won’t cut it’"
-    excerpt: "AI is becoming increasingly central to our everyday lives, from driverless cars to medical diagnosis. But although such next-gen networks excel at recognising patterns in complex datasets, engineers are only now understanding how we know when they are correct."
-    publishedDateTime: 2020-11-22T12:18:00Z
-    webUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    ampWebUrl: "https://www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1363148/ai-news-neural-network-deep-learning-decision-making-mit-evg/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 69
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-news-neural-network-deep-learning-decision-making-mit-1363148.jpg?r=1606115598010"
-        width: 590
-        height: 350
-        isCached: true
   - title: "AI Neural Network Learns When It Should Not Be Trusted"
     excerpt: "Researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output."
     publishedDateTime: 2020-11-23T13:57:00Z

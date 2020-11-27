@@ -24,14 +24,19 @@ topics:
 
 related:
   - title: "Defense Innovation Unit (DIU) Selects Immervision InnovationLab to Develop a Computer Vision Wide Angle Camera for the Blue UAS Framework Project"
-    excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, today announced it has received an award from the Defense Innovation Unit (DI"
-    publishedDateTime: 2020-11-23T20:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123006046/en/Defense-Innovation-Unit-DIU-Selects-Immervision-InnovationLab-to-Develop-a-Computer-Vision-Wide-Angle-Camera-for-the-Blue-UAS-Framework-Project"
+    excerpt: "The Immervision InnovationLab team is developing a wide-angle computer vision camera for small Unmanned Aerial Systems (sUAS), enabling advanced low-light vision for Blue UAS Framework effort ..."
+    publishedDateTime: 2020-11-23T17:13:00Z
+    webUrl: "https://www.oaoa.com/news/business/defense-innovation-unit-diu-selects-immervision-innovationlab-to-develop-a-computer-vision-wide-angle-camera/article_4d079cc5-d949-567e-8e2d-534e4765e672.html"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
+      name: Odessa American
+      domain: oaoa.com
+    quality: 2
+    images:
+      - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+        width: 576
+        height: 288
+        isCached: true
 
 secured: "JVJOitfS0Xt41R+ipSHHc6GA/BuPKm8dvo+cTnElYMCQHRt7jRx5bm+DkTqvARjJcBLusI/XtLaFBEb2jmP1UlQHGNqJ0uW4OHbTvr0CVl9XPPOud6CGTCYzqIdKweLAYEpgaYWLEGPiy417reRB6bWMF28FVwgjRVx10vOEzTPi+azyjvREKo7gxa/7yOA73E6BMQJkFWhGOXuuw2ckwmbnIgy334hNxZU7XIeYykxSl2jC/cqCRiavCmKTifELBj3UXE+aokFmVyPL3zjFjrPHLemr2qW/ZdKsw9VU3h/eSeL0hbHZ6DdLKiAyn7+VNFmlKLyZ2alrHVhb1ryiXDZioF8um+pWCwRzlzGGV/c=;KjrHh2g0jVrtW08tZsabcw=="
 ---
