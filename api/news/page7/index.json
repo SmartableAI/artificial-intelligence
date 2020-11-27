@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-11-20-adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers.md",
+      "title": "Adaptive Biotechnologies Leverages Microsoft Azure In Search For COVID-19 Answers",
+      "excerpt": "Adaptive Biotechnologies is working with Microsoft and using Azure Cloud to conduct research into the relationship of T cells to effectively fighting the COVID-19 pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/",
+      "originalUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c87ffb80008a1cb4cd7c%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2020/11/19/adaptive-biotechnologies-leverages-microsoft-azure-in-search-for-covid-19-answers/amp/",
+      "publishedDateTime": "2020-11-19T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-facebook-says-ai-has-fueled-a-hate-speech-crackdown.md",
       "title": "Facebook says AI has fueled a hate speech crackdown",
       "excerpt": "Facebook says it is proactively detecting more hate speech using artificial intelligence. A new transparency report released on Thursday offers greater detail on social media hate following policy changes earlier this year,",
@@ -1135,58 +1187,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-anti-adversarial-machine-learning-defenses-start-to-take-root.md",
-      "title": "Anti-adversarial machine learning defenses start to take root",
-      "excerpt": "Much of the anti-adversarial research has been on the potential for minute, largely undetectable alterations to images (researchers generally refer to these as “noise perturbations”) that cause AI’s machine learning (ML) algorithms to misidentify or misclassify the images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.html",
-      "originalUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/07/hacker_hacking_laptop_security_threat_attack_by_undefined_undefined_gettyimages-962366210_2400x1600_cio_cw-100852252-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596596/anti-adversarial-machine-learning-defenses-start-to-take-root.amp.html",
-      "publishedDateTime": "2020-11-19T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

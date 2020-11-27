@@ -3,12 +3,12 @@ category: news
 title: "The 10 Coolest AI Chip Startups Of 2020"
 excerpt: "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads."
 publishedDateTime: 2020-11-26T15:08:00Z
-originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
-webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
+originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
+webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CRN
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Investor To AI Startup: I Took The Leap"
+    excerpt: "Silicon Valley has been arguably the most exciting place to be in finance over the last 10 years. I’ve been an investor and advisor for many years and brought other advisors and investors into deals."
+    publishedDateTime: 2020-11-27T10:13:00Z
+    webUrl: "https://www.linkedin.com/pulse/investor-ai-startup-i-took-leap-michael-liou/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE2Qx4ciL_2Ng/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=nm2hBMDkks8EnbR-TPY-NZozG8KoS0nf32NFq0a0Wb0"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "The 10 Hottest Cloud Computing Startups Of 2020"
     excerpt: "Cloud computing startups picking up traction this year offer solutions ranging from Apache Airflow as a service to a life sciences R&D cloud software platform, and include a newly emerged security company formed by former ‘white hat’ hackers."
     publishedDateTime: 2020-11-25T16:03:00Z
@@ -35,6 +49,6 @@ related:
       domain: crn.com
     quality: 4
 
-secured: "KKMlxshS/rA6mqPR03uA1qmLLs40JB1cpTzqVDl/dX0ojuIxFmvKchrwJvAGByvp39E0bROrar/03NS+A1E4pzCkHaMKVgorzh80i5/8MyljdUiZxZBREI+ecAkxeo+K4nfy1/19C2sdZuBOFJOuVDFSLmHhJ3vLbiljCWsFo2+HtlER+Azd2/tyTxSi3mKs/aDqeuj2Fp2FwYo+kBzqAfgHWAvnbw8d7E21GPk3D+UmQR22QbW2IbaHRg16m/PtJG3qmee5DTk/jE/C6ibBr0HU6DkUtMPCZU6NtR82Zo/K3PF7+B1vWjAZyA1wsJP3gStuh9GV4mRZD7y1JsuFuClsUKU9hsoYhxvoe7MtR74=;OPAjGMOpB+FwnW3bSO7+Wg=="
+secured: "nph2b3hU+fqA/bQugtOpn4+gQ9G1xfZ2nycyOswrxqSZR7QwGwAIWuzSyU4lfXKXKcGmaefMtNdksVtV1GAXe0UnMNZ75/k5cx2FGcirwsoRHzFc3IR0Uqo3njLFT6amicUp/q1CUAaSXtQYRiWlNSd3araF88xu7mtGuXrkDq9esuxjm2NROTshF1uGV3YH5S9BX6oiKCdtUnuMAriLN5eFTeWas8ZV/vEBdtjLxeQhE/c7zQhfquwq+/1n+z4vOTeJ84Q1Xks9KrnQgxjJble2pShbjEQVh+ShxKOvfoh6+LA03zqEm/qX6XQBf2Hz75ukHi7Fh+WRDg+RkHUh2nV2hBzeJJx8xkrQHXZBkBg=;H9y5OPStzMSShDKd5prj1Q=="
 ---
 

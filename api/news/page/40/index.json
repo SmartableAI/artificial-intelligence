@@ -2,6 +2,205 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2020-10-27-first-responder-technologies-completes-alpha-version-of-sentineltm-vision-camera-and-weapon-detection-computer-vision-model.md",
+      "title": "First Responder Technologies Completes Alpha Version of Sentineltm Vision Camera and Weapon Detection Computer Vision Model",
+      "excerpt": "First Responder Technologies Inc. (“First Responder” or the “Company”) (CSE: WPN | OTCQB: WPNNF | FWB: 3WK), a developer of WiFi-based",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123.html",
+      "originalUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1rf73nqj6wzfm.cloudfront.net/assets/0125-c6c561f58331c85fbd72996709e8402db48dba8d4cd7beff3c5c75c82fdb64a0.JPG",
+          "width": 3216,
+          "height": 2136,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp",
+      "cdnAmpWebUrl": "https://www-sharewise-com.cdn.ampproject.org/c/s/www.sharewise.com/us/news_articles/First_Responder_Technologies_Completes_Alpha_Version_of_Sentineltm_Vision_Camera_and_Weapon_Detection_First_Responder_Techs_Inc_irwpresseen_20201027_1123/amp",
+      "publishedDateTime": "2020-10-27T04:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "sharewise.com",
+        "domain": "sharewise.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-how-ai-can-help-protect-users-from-abusive-and-negative-behavior.md",
+      "title": "How AI can help protect users from abusive and negative behavior",
+      "excerpt": "With the increase in online chat, I set out to learn how AI can help ensure user-generated content is moderated so that all users are safe from abusive and negative behavior. To answer that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/GettyImages-1158225795.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/how-ai-can-help-protect-users-from-abusive-and-negative-behavior/amp/",
+      "publishedDateTime": "2020-10-27T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-deci-raises-91-million-to-autonomously-optimize-ai-algorithms.md",
+      "title": "Deci raises $9.1 million to autonomously optimize AI algorithms",
+      "excerpt": "which redesigns AI algorithms to run more efficiently on off-the-shelf processors by leveraging the chips’ available memory. Yet another rival, DarwinAI, uses what it calls generative synthesis ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/GettyImages-1180684429-e1587555325642.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/deci-raises-9-1-million-to-autonomously-optimize-ai-algorithms/amp/",
+      "publishedDateTime": "2020-10-27T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision.md",
+      "title": "Skan raises $14 million to automate repetitive business processes with computer vision",
+      "excerpt": "Skan.ai, an AI-enabled process discovery and operational intelligence platform, today closed $14 million in funding. The company says the proceeds will be put toward accelerating Skan’s go-to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/big-data.GettyImages-1133714603-e1584722383408.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/27/skan-raises-14-million-to-automate-repetitive-business-processes-with-computer-vision/amp/",
+      "publishedDateTime": "2020-10-27T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-27-eightfold-recruiting-software-startup-reaches-1-billion-value.md",
       "title": "Eightfold Recruiting Software Startup Reaches $1 Billion Value",
       "excerpt": "Recruiting software startup Eightfold AI said it was valued at $1 billion in a $125 million financing round led by General Catalyst.",
@@ -984,202 +1183,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-great-promise-but-potential-for-peril.md",
-      "title": "Great promise but potential for peril",
-      "excerpt": "For decades, artificial intelligence, or AI, was the engine of high-level STEM research. Most consumers became aware of the technology’s power and potential through internet platforms like Google and Facebook, and retailer Amazon. Today, AI is essential ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
-      "originalUrl": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.harvard.edu/wp-content/uploads/2020/09/story_2_shot_2500-945x630.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T11:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Medical School",
-        "domain": "harvard.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets.md",
-      "title": "New AI tool that detects star flares could help us find habitable planets",
-      "excerpt": "Scientists have developed an AI system that detects stellar flares, which could help astronomers search for habitable planets.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
-      "originalUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-26T155118.919-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
-      "publishedDateTime": "2020-10-26T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful.md",
-      "title": "With Robotaxis Still a Distant Dream, Lidar Makes Itself Useful",
-      "excerpt": "The promise of self-driving cars and robotaxi fleets once seemed just around the corner, but reality is setting in. Makers of the underlying technology are pivoting to more realistic ways of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv4bzJModhs0/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
-      "publishedDateTime": "2020-10-26T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories.md",
-      "title": "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories",
-      "excerpt": "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
-      "publishedDateTime": "2020-10-26T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -2,12 +2,12 @@
 category: news
 title: "Azure Databricks Achieves FedRAMP High Authorization on Microsoft Azure Government (MAG)"
 excerpt: "Databricks, the Data and AI Company, today announced that Microsoft Azure Databricks has received a Federal Risk and Authorization"
-publishedDateTime: 2020-11-26T02:30:00Z
-originalUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
-webUrl: "https://www.prnewswire.com/in/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag--871630832.html"
+publishedDateTime: 2020-11-25T16:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
+webUrl: "https://www.prnewswire.com/news-releases/azure-databricks-achieves-fedramp-high-authorization-on-microsoft-azure-government-mag-301180081.html"
 type: article
-quality: 25
-heat: 25
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "NizZpoNpRDEKv0gkjXcJXiYOjdI2xCpy5dvvzjtPWN9lJgW4jUmVD0XDz+c4hiDq0zMpKgRvuHUBMG70uZqNEGeXiY2ibSuWPUkPkXUkPrtsK9Onfx2XQTBOrU45p7nRvUb76s0yoKRPmFR5ZZxsQoTu1iU1jncaCTSe+curCnkkmfQN3ygxb9cfIYGvrE2f3NUgWMxxCwfKUgPyz3USwGF+eZSJMB2n8eIMobuo8dVpmsGhjzRauE/R4PoPq8XWQ+2EtElnb/23lTj9OOHk7pHNxel+H8OTMYenxI/WbT/0Cc040tcZBzW5byyu0ZUozHS8v+efJPRjMF0uC9Wi6InR/xc65BFtuPC6NIRtO9c=;5yUOUKtgRW44dW3ADtKmcw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1160675/Databricks_Logo.jpg?p=facebook"
+    width: 1094
+    height: 576
+    isCached: true
+
+secured: "GXUyAi78fdHtM5oJFvhC+qFDw9G7OSrLaXfsB23Fe9LY71VWGod+mmOh1t+JgipBStQd6WQR5t66+YUnOJX0851jUht5axunXon/j5QB+/p1vulSiy6Cd5mMnz6rZ29TyxU/9muQv9Nd6/4cc2xEDCeL9Bw7CLlz5MZV2gzpP7Ym/GsCRD4ci4jPHLZ0Sbtqwi/uEkscrZ1zDZiC/Uh7+VsNC9Fq4cXGglO5315omaBX41FFJ1VN8iP6aAMeEX2w26PCZFmmaMUfCrqo5ooDcJRHuc0rh0uiTYUw3lqCfw3lxKy89LvLbuAc+oG6w43yfDkpELT5oj+kK+xWwg8MU8Yltgcn3MbMBxQklZymeDg=;q/eJcdbLGQM85LQVDGaciw=="
 ---
 

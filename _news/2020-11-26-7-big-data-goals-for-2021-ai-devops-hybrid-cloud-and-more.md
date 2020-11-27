@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/7-big-data-goals-for
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/7-big-data-goals-for-2021-ai-devops-hybrid-cloud-and-more/"
 type: article
 quality: 87
-heat: 87
+heat: 88
 published: true
 
 provider:

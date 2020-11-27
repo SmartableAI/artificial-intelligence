@@ -1455,45 +1455,27 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020.md",
-      "title": "Join the Final Lap of the 2020 DeepRacer League at AWS re:Invent 2020",
-      "excerpt": "AWS DeepRacer is the fastest way to get rolling with machine learning (ML). It’s a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator, and a global racing league. Throughout 2020, tens of thousands of developers honed their ML skills and competed in the League’s",
+      "path": "_news/2020-11-13-artificial-intelligence-and-the-law.md",
+      "title": "Artificial Intelligence and the Law",
+      "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/join-the-final-lap-of-the-2020-deepracer-league-at-aws-reinvent-2020/",
+      "webUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
+      "originalUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/img_AWSDeepRacer2020reInvent_Championship-545x630.jpg",
-          "width": 545,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
+      "images": null,
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T16:33:22-08:00",
+      "publishedDateTime": "2020-11-12T19:11:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1502,9 +1484,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
+        "AI in Autos",
+        "AI"
       ]
     }
   ],
