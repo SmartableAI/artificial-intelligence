@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Matterport"
   url: "https://twitter.com/Matterport"
-  followers: 10679
+  followers: 10680
 
 size: 201-500 employees
 yearFounded: 2011

@@ -2,7 +2,7 @@
 name: "Salesforce Einstein"
 overview: "Einstein is a deep learning research and engineering organization for Salesforce."
 type: "profile"
-heat: 61
+heat: 58
 
 website: https://einstein.ai/
 
@@ -26,6 +26,6 @@ images:
     isCached: true
     title: "Salesforce Einstein"
 
-secured: "Ggi6aCxjGcm6G20NHtgvO81xVLlbAvTF+JWo6YTRLC5sQVPATqwCeVJ9sfAMpSyxpOOiosuGQPZACGnzhT4OnAPI/HEq28ogf45cAtwjtRxd//vOqnyarhraqUt9xkldSb0PIUMb+8ygQkQ2hkW3bqwT0akgJ0mdA+M7ZfRRaoV5/K4Hx85Xi2SsjDMyZHCo00ZHAGXnC/9Yi8Y37Z6ejl3hDtJ2LC0Dhbgvpto8H556+3hcOQV3U4jU5Wu+WtAd11KUpqrrOEteHdMHCoRobq9JNi563zMP5bEg0j9fCI8SbGoB0kSJn4IDIFCrEKf98Asl7YcNFDmlQU8waqnQ6iOri5B4hVnFgobT+NjfTzJPWzeRrmiiVlTorgBKbbX3FpiwAc54EW+Rik9PTRK0DA==;iPu49dceBiTBRZ8mNyrwZw=="
+secured: "79MqYL9LnTjApWq0ajHQg5nIcmchh/6ygrcMjIDkjnG+J08ot3Rripe5DSabX3qeCISQLNKtH7j3uMeufjjH5nGVm2ElvfcZzdAwvkuWQTMai0+bMUkTcKJWW10uGjU88fdoVdhCAmK96QAgXxeoRHcOcJv+tggbHYSZ5inkvzxTwAg8KjOtpivIXuaPUkmOI9Vh8//WRu7/SRGW5ywHd4uVTd6jyA6IgybPE6WDjfYA0o+wKw1LQfbYEbLBK/o21gXoIXDkSu97K6WKQ0pqqNMhJEBG6FPVZMmAIx9k3LXSxGejufgNrnMYK8CHlzvj2AnpVacAaYhZ5DR5LfhuY0smjZwQxn2/NFDv3Tp5iE9wITpDM5siAFWSWcuGQsgCHgOnoPqITSD9lN0C2L3yow==;OMMAObf6rTC8OWRgBGLMPw=="
 ---
 
