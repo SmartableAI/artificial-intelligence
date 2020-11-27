@@ -45,6 +45,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Dyson pledges new investment into AI, robotics and batteries"
+    excerpt: "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage."
+    publishedDateTime: 2020-11-26T23:06:00Z
+    webUrl: "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
+    ampWebUrl: "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 89
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Managing ethics and privacy in the age of AI"
     excerpt: "Many Australian organisations are experimenting with artificial intelligence and machine learning technologies to gain new insights from their information to create an advantage over their competitors."
     publishedDateTime: 2020-11-25T23:59:00Z

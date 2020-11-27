@@ -7,8 +7,8 @@ originalUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
 webUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 98
+published: true
 
 provider:
   name: InfoQ
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "An introduction to TensorFlow Lite development on Android"
-    excerpt: "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases."
-    publishedDateTime: 2020-11-22T07:12:00Z
-    webUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/"
-    ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 106
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
   - title: "Can TensorFlow’s New Face Landmarks Model Improve Iris Tracking In Mobile Devices?"
     excerpt: "Open-source machine learning platform Tensorflow has announced that it would be adding iris tracking to its face mesh package."
     publishedDateTime: 2020-11-25T10:32:00Z

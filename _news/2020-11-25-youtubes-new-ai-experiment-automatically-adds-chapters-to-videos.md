@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-a
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 97
 published: true
 
 provider:

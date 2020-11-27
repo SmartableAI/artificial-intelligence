@@ -41,6 +41,20 @@ related:
         width: 640
         height: 480
         isCached: true
+  - title: "News for Advanced Voice Recognition Systems Inc"
+    excerpt: "Advanced Voice Recognition Systems, Inc. Files A Request For Rehearing Of TheBoard Of Patents Appeals And Interferences' Decision In The Interference"
+    publishedDateTime: 2020-11-26T23:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/advanced_voice_recognition_systems-stock"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "http://markets.businessinsider.com/Images/FacebookIcon.jpg"
+        width: 800
+        height: 800
+        isCached: true
 
 secured: "Q6U34uC/2ED3HVbUgDg8wRpIJwBPKH4+6dSQxQQjalkdZreqdh1sUQNZvKa/oFj+Y202OJtqbrWCMdVVmXIi1BOim2UoLTzdC1XKddfxZNh2eTtf3q9IJWOoSyc70FXof1HWHpzk6hgW2+tA9Y9JDKaxpkoUtLInsUKGvtBz+VEvgK3DMNr289HBajS0AdgEHdcy7BWJsdhXKDiYOkSgZiXCWCZg35Uz9SWVgM3TZ3cD99Yj0MJXxnbODapad9XL+Gq5X/kkb2oCQXToUkYjKQIeUlH6r0gzYjxSJH6oq0iOrShhz5tS4NLcn2yjiHg4LwrY99A7y9ryXXt8eN5XxG2NTu3EViZ0ZOnRCW1g3AM=;DnCOrnBgRsBGoCdvhmiRtQ=="
 ---

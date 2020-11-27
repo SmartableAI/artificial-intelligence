@@ -1,23 +1,29 @@
 ---
 category: news
 title: "iCAD Reports Over 1,000 Licenses Sold as Part of ProFound AI Sales"
-excerpt: "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today reported that over 1,000 licenses have been sold as part of ProFound AI® sales since the products were launched,"
-publishedDateTime: 2020-11-24T13:15:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8091536/icad-reports-over-1000-licenses-sold-as-part-of-profound-ai-sales"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8091536/icad-reports-over-1000-licenses-sold-as-part-of-profound-ai-sales"
+excerpt: "Significant Percentage of Licenses Sold to Facilities with GE, Siemens, and Sites with Multiple Vendors Including Hologic and Fuji. ProFound AI for DBT Offers Superior Clinical Pe"
+publishedDateTime: 2020-11-24T13:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-ownership-changes-diagnosis-and-treatment-f817f120553b24571e699fc73f34dfd8"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-ownership-changes-diagnosis-and-treatment-f817f120553b24571e699fc73f34dfd8"
 type: article
-quality: 36
-heat: 36
+quality: 56
+heat: 66
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Healthcare
   - AI
   - AI in Sales
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "iCAD sold over 1000 licenses as a part of ProFound AI sales"
@@ -30,6 +36,6 @@ related:
       domain: seekingalpha.com
     quality: 34
 
-secured: "pbvOFGIqD9Ew4OecPWNJnjaK1qShb7LDMtEDXLc+2HBLe7tObTyYsDhozycK6MRTIO09HMOqgftv9v75O0FeTgRb+YmpbWjZbqRnplHdmq1zQ/68wK+UOTERM3xXu2ShcEEwUmu06elXh5h2mc0MsIGUh2aTOlo5msj5z+IsvDL2WSF/rSMHDJ8DZEVhkc0iMjfKHKwSIkWLr6Q/fu2xR61oqVIaJvbmpbflBjbkW29kcT+rwQBQQht+pm8AljN7/c+gK97AcQtmEJ0kSqR6XueDNvHaCerySiuJx65gkcAJQN314qoUIy2BIJq8DdVoLCVDQTfEqzCzLR5drryplyWb7frjfY9DVszI+swNTX0=;nUuUgvGWPBu3g1onR6h/KQ=="
+secured: "FVXRqA/DCBu5aPRousm6Sj6mibExs08RT2uXyvAswlbYY7kXZpgS68vLLUT7NMwoDBkfjHSv2LQPJlyYZJt1UbOYqFqEWuvIxP+qMqsBufZgKeTnahKDdyG8QIvxD4aEL5J7YvVYUao4+EdqJxuOGiLn1MLH41ltH7UJX9owSbz48tge3SA00T1HIklg0JINdRURdd8DS+jlaPHRRpyq61ctJrl070JUJIAD9G7EKeYPB/aaTgvrLCiWU4F9449jz6R/oiA6kpu7/QgeidbrlyZdiOq5akCkOQIfRwyfU97mzo5APkJ7VVGH6H5aMQN9xJaTJQmH5eTr3Zo4GziaNINpdN4JqUjmDn1vnqxwdUM=;AGChBli4+fbySSvvOxPgsg=="
 ---
 

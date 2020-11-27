@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk"
 type: article
 quality: 77
-heat: 78
+heat: 77
 published: true
 
 provider:

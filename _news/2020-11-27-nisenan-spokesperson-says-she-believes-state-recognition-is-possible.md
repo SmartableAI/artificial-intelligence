@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-26T21:34:00Z
 originalUrl: "https://www.theunion.com/news/nisenan-spokesperson-says-she-believes-state-recognition-is-possible/"
 webUrl: "https://www.theunion.com/news/nisenan-spokesperson-says-she-believes-state-recognition-is-possible/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.theunion.com/wp-content/uploads/sites/3/2019/04/facebook-thumbnail-1200.jpg"

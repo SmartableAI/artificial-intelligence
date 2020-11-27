@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "An introduction to TensorFlow Lite development on Android"
-    excerpt: "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases."
-    publishedDateTime: 2020-11-22T07:12:00Z
-    webUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/"
-    ampWebUrl: "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
-    cdnAmpWebUrl: "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 106
-    images:
-      - url: "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg"
-        width: 920
-        height: 470
-        isCached: true
   - title: "Apple's ML Compute Framework Accelerates TensorFlow Training"
     excerpt: "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,"
     publishedDateTime: 2020-11-24T14:28:00Z

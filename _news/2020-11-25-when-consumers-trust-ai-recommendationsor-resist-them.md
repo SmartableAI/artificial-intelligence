@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-11-consumers-ai-recommendationsor-resist.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-consumers-ai-recommendationsor-resist.amp"
 type: article
 quality: 57
-heat: 68
+heat: 67
 published: false
 
 provider:

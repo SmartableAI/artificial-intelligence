@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artifi
 webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1000
         height: 556
         isCached: true
-  - title: "Dell to explore AI and machine learning at GITEX 2020"
-    excerpt: "US tech giant Dell is to play a leading role in GITEX Technology Week 2020. Dell is a Gold sponsor and will take up a host of speaking opportunities at the Dubai World Trade Centre-based tech show from the 6-10 December 2020."
-    publishedDateTime: 2020-11-22T08:44:00Z
-    webUrl: "https://www.arabianbusiness.com/technology/454939-dell-to-explore-ai-machine-learning-at-gitex-2020"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 34
 
 secured: "cM7vPeyYBv2s701ijnn1ee1+j7f5k44Z5ZagndWdIoYfJuY5ap3zcBKbAL57wkgbDLUZYKI1YiBo27wgin+yf5GX/7cscS5/Ptd7ee5g8UH8tSQqe3sPyRq+E1dVGSWyEoSwAAke5NkW878HLBlpm0BBrGJ/L2hyaHM8XmWzDF6hpJqpGX3c610EluX3v0+fMadbQ40tB8Xb22i8uwxasATqthQLHN4Gote4mX5vjZf2sUFSTD7f5OjDgbUIwcq9gtrova2lnNy6em7BZ5/qQg1tQMnwusH1PvSs2TXmdSkryTJHYVaBTLf5lT1c6/r9Eof/g5Lqu6e0NGRg+ig0A1fM/yq2twO0aJXZuEys9qA=;O8ZEauhG9bmQW5AfDC1svw=="
 ---

@@ -20,14 +20,19 @@ topics:
 
 related:
   - title: "iCAD Reports Over 1,000 Licenses Sold as Part of ProFound AI Sales"
-    excerpt: "(NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today reported that over 1,000 licenses have been sold as part of ProFound AI® sales since the products were launched,"
-    publishedDateTime: 2020-11-24T13:15:00Z
-    webUrl: "https://www.morningstar.com/news/globe-newswire/8091536/icad-reports-over-1000-licenses-sold-as-part-of-profound-ai-sales"
+    excerpt: "Significant Percentage of Licenses Sold to Facilities with GE, Siemens, and Sites with Multiple Vendors Including Hologic and Fuji. ProFound AI for DBT Offers Superior Clinical Pe"
+    publishedDateTime: 2020-11-24T13:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/business-technology-products-and-services-ownership-changes-diagnosis-and-treatment-f817f120553b24571e699fc73f34dfd8"
     type: article
     provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 36
+      name: Associated Press
+      domain: apnews.com
+    quality: 56
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "/CYfLrKqqN5MRyw7e2AExGNb3YUAL8YhxoOSqUXpJ1JhzWmGt/gi4YZ5i5Ll/EzwVrkTETmRdkN/NT7rpcHiiZORGiJ7eBbO0PkbTgTIkGL/QKkGyGZf3VBzCTn2TUVMhUfdj/7/byXOMnU8S6Esc4Xi3zYWJlQhonfYm3TJC5a+MnexaZ0DnGpl6G0qzgWCMlgx23BZzdXJVxu4kXgep0c85TGnDHgi++gbuQDIJBZ8eIvFRMhm6C2CInI2avKJrUGtFmkfZ1iW06JGpXGkm1curiPOoWq3Zy371T6bh+FGQ7TtactIQFYGMP2oCnBpAxzffhShF35HjaacAsv0sW3bSo6ZoYqX8ddYXLCkyds=;MytE8kyjdMLGtuPRPu4GRQ=="
 ---

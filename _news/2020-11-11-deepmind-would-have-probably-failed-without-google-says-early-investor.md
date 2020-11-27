@@ -23,6 +23,7 @@ provider:
 topics:
   - Google AI
   - AI
+  - Facebook AI
 
 images:
   - url: "https://image.cnbcfm.com/api/v1/image/103928104-GettyImages-514242504.jpg?v=1532564035"

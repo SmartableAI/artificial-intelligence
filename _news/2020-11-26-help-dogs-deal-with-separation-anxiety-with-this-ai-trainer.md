@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/help-dogs-deal-with-separation-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/"
 type: article
 quality: 67
-heat: 77
+heat: 78
 published: true
 
 provider:

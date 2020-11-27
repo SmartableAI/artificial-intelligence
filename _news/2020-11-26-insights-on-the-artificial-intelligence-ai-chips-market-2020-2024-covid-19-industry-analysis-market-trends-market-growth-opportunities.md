@@ -3,8 +3,8 @@ category: news
 title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
 excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
 publishedDateTime: 2020-11-25T19:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
-webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
 type: article
 quality: 19
 heat: -1
@@ -114,6 +114,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research"
+    excerpt: "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT"
+    publishedDateTime: 2020-11-27T00:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -309,6 +323,6 @@ related:
       domain: benzinga.com
     quality: 1
 
-secured: "UOH5DPiw6Zr7TsGjz39w0GHBTUQbOYTjxXXG1c9C0xjwhAuCn6ZUGzPVpGQYTzNa314G7/7++i8qCQOJZ109A9nQlkm8nOVtqAskkHZGym/HK39PS6SfcBp7fm4EOZSmcYfN2bGn8OX5+OhGXS1lN4iniU0RcZa7cQ0yFSrKVhxWzU0LvEBFMeTrtayj5on1QamrvHF8J8i9U/PfQZjPbikZ+RTpC7t1UoHkWUdnW82zPk4hgtObmT2Nwqa6TmcxSm/B/oiO8861Bn2KkkiUsFGZN6/db0vR0EcfBQPPSewm6wdjO32o0dEla88hR3YafHvQK3jigMCSrdk1+WgdXRirUdf0G2SLxB6pAgx4Uef0Q3gYERTbAAbufD7GmMK2/ltFTcHhWnfqnu/sUQ8b10E4fkhZ1iHQSRncLHcqJryUwP+qY1DSGVfon3+G3eLXGTSIM2Kd4SxymEAVO1HYIdLR/Bxx/pE2n5M0Gk5GxkDKAZHPOYs/yj9951dW1lF9DjE6O405SiA1+bygpxuUWg==;A+GAxxCAjw8X3nQKuHBIBA=="
+secured: "zskHHpR6LnvGdM2Fo9wDHXk4IT36FOKdQYLFCauO0bNcQy+xsYG+0ZCQ2j12o7tKNu1ufPA2HLB/8BSinB+bJf5A8OW6aY8Q0XMMd2YxzaFGJpY4SWQasZeQsI1cmKJne7PqXkE9/smtqytyfJY+03LQ+bA26BZez7Jwz+/FDLHoB96UztSga6oYyddsbSjuQ90O0PSDYSSqSInom8tEvYmVPWqPhCg+kz2DaTvveY2eQzU7gbdKaeW+N7EdrWagpiRSQe+48nm53Lj8DI0nVN6MFvr9znNTjN6UszrkNNYnIAgxXclv4S2e89JkUa/OLjqkBABjclEKGu1MVqgpBHQzgFVUuuSEGwHmRR7+9Ag=;hRSdBM13G/hmHf4weN3f9g=="
 ---
 

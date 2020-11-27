@@ -1,31 +1,27 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon Managed Workflows for Apache Airflow"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Managed Workflows for"
-publishedDateTime: 2020-11-24T21:40:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Managed Workflows for Apache Airflow (MWAA), a new managed service that makes it easy for data engineers to execute data processing workflows in the cloud."
+publishedDateTime: 2020-11-24T20:53:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-e083a5835d6c40839b92ae0dd2a473c6"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-e083a5835d6c40839b92ae0dd2a473c6"
 type: article
-quality: 79
-heat: 89
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "amZTAIVaOoNsd8DRRDsDK/bxY1gz5mA5brr9RXwQYsiKe/Kq3V241AtrxRzy38j2Kmm3D6i4zCVg9RMRoE54LwUpRGZofnjZM7QvYPwJDqRvnG5Gzzjo5hQqnJEhUGZt881bX+gpkuWgG6pzRS9bYRJbjTcZqlGFpGv7SdMROrL4cQcrVyAFjkluhn6i4ET1zJEhMJAX2YtvTn7OlQXcuzNKACS/T6l84kOlBVQZA8zvQ1OxicddBghf0gBJuu7QwW3pZeMvMee6VpSo4TMgrCmh62a7YdKCkQujxp5bd3VyVrFqpF/Q4qkutNlClVvON+8Kz+nAspA2cFbdL9nz7SacVGfap0LH2J5PVYSoeng=;7MGO9e2tpIQX453dKxUJ7w=="
+secured: "dO/JHrSEsBaLlUmA+g1am8YEqTDZS4MP8GntBi4/S3ar7j2BIIimYQXDwm/D7UM/nz0by4mETABhR5XFUMrI3jqEl9Lv3uWaDWbCItndZzyQT42Q1yCc6RHsHlDWqFXyANN5Y/RgRAXyn0znQpdzLntUxUy5bXxeUB/boxdwWN0fX2yJs0kiwDSQk2aHQgm1U4Mh04NN/2ATdVmhorEHhrHHJ6yhEFTYM1xcqbV16ngKivXGl15qOwhuYGmw+dT02TiRRO7/haFl3/DGHLF3R4JSqdHHTcEcNo+c9uSO13RFPPNvZoK0qb5Xe3o29aJCEqU/g1Jc4upvk5Z/bjJwV1OilBOSeqjojSMK2WwqjDE=;imqerYbdNgB1dMbYN1monQ=="
 ---
 

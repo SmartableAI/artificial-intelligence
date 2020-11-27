@@ -9,8 +9,8 @@ ampWebUrl: "https://m.freepressjournal.in/article/mumbai/face-recognition-attend
 cdnAmpWebUrl: "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Free Press Journal
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "News for Advanced Voice Recognition Systems Inc"
+    excerpt: "Advanced Voice Recognition Systems, Inc. Files A Request For Rehearing Of TheBoard Of Patents Appeals And Interferences' Decision In The Interference"
+    publishedDateTime: 2020-11-26T23:25:00Z
+    webUrl: "https://markets.businessinsider.com/news/advanced_voice_recognition_systems-stock"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 54
+    images:
+      - url: "http://markets.businessinsider.com/Images/FacebookIcon.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Face recognition systems can diagnose genetic disorders that are complex for doctors"
     excerpt: "Undeniably, the technical progress did a lot to come inside of a human body to make a precise diagnosis. Facial recognition is one such advancement helping healthcare professionals to diagnose rare genetic disorders."
     publishedDateTime: 2020-11-24T08:08:00Z
