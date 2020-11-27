@@ -41,6 +41,6 @@ related:
       domain: healthitanalytics.com
     quality: 19
 
-secured: "wnBtUKqSgmrux793AXpxxGjybFor/ZbAWdk+T3Y4CGDUVQrhdOdyGuEgG2iprzIIYh0byK8QvLnIk4psvlA1vSXshNEKycBNQ9bLm2FyiN3XQazuXpQz1mVGzdP60mrey7Z/m1uNQ5hhdDy1s4h93ky2jTQgMZTCS8/CsMZ9jjF11SJZzgeqRZ/AyxIEnluHVVNKasu8tN5lh7YZCQGVoFYTqdFwUv1dD+0L2mpt62TlG4gpJ1POtjrQghRJPjcOkgq+RlLHCiiOmmqsMIABEiGGxUhmbJUr3A6wId8kVfs/0a1Vu+KzYPr3q/XdoYPZ9Ii5tcx52ElkcUF6D4RhoLh9Yua7xBmVpssV34uF7+E=;5z9F7yVPVDX6K2ooYFamHg=="
+secured: "EqbGDDf+cQNFMQYQYr46Ed+izVZi0/++FQv/R44pv4LQ3zfEHPLUakcvUhbvL+kkWrKox3g6Hg3sRCAW6hz43uCB7nJAPIb3kFLIOz8n/Jgt0mYDl/I93Q/BlWfbnm6xC3ZKqb6Zkiaoc11P7/6WZ1Ism/EbWjqlHRBYCrIE4xRMJTqu/80W0l+CYZptohk3Gh8DXdT3/BBKRFlLWESD1nu+aMrpqBu5VeXIXv6PT7z8xCxDMgGtg5T6jXwQ8CovhP/n9lGyw/W+wAX595Bf1nRW0RinizPYrB9DzdAV9RBRTAdHaw8ne63/yAtQlgj/OR8/gDy8cQuGNaFGaGD4BC0J3EpsBH4GWzQxl6im7ok=;EtP9NcaCybJX+qgFSJmDQw=="
 ---
 
