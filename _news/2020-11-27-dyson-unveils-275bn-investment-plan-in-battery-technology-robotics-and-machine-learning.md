@@ -60,7 +60,21 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "Dyson Plans $3.6 Billion Investment in Robotics and AI"
+    excerpt: "Dyson will invest over US$3.67 billion in research and development of products outside the \"home environment.\""
+    publishedDateTime: 2020-11-27T13:01:00Z
+    webUrl: "https://www.industryleadersmagazine.com/dyson-plans-3-6-billion-investment-in-robotics-and-ai/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 69
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
+        width: 840
+        height: 500
+        isCached: true
 
-secured: "JVj6N+Y39KEkn4O+DtM3Dr7CXrmCKAt4mu5JjfmdjgCmp3s0tORoFMHxg8IfTUjhVxmK9FgcFX0wOMinCbGeMgFOVAPcdq/nqqIVVjytiSAz+Q1uutR0a1C72WsLonRscrMM4ky9Oxk2zOHcI6Qrxjs4FSt/C3sL+2X70qFUfBIgEOzOW7qEWctzLrckpzkCs0gjnMggC4fXOd2FY5HLGD/nDHUYCOPjR27aa/GDaXuyBjhv476wvmUxvbRgnb3tKvvY+4XMdcxAphiOqOw88We+f1Ej+Ko0Wkx2TIMLDjuFyrcrNB6C65nzp2OTj2EMyPRnig3BHUV89mHATaRURlFmAqFAHJeVjmzdDa26C14=;/OGmVWAplTHrorn8A2yckw=="
+secured: "3XxaPU4dsfCI3W8PdBA68lYP7ukYoCwHMpC9CyymhoHpQeaJd5PhtcJY3cDTbuJqZCqMla/EDHq0KP26WRV/mDs1LvyiXGC9RruxKSfSdXNH+7+aLo4wjjSgWFqS6z909YRSbcv8ovJ6uljz+rYB9MwLb8nWAhE1+xx1yyq/sriBi4T6Stuc7rDt0YCtAhL+rDC6A9mBSjH5krZ0sESrMcKvA/G+tCi/1JCmUbe54apDIfMVsCJ5Q0/hznEeIe3p1YmSs5ho5OsDH+Q9ScWDAXER5hQhSB174o382Y364SNiqOBvBY5oNConqTcqcFYf80/ngbB1/FM0lf5bNaqSYtJePwzqW1KUNFOVXDZkliR7mvON3hl1/SKJonk43z4snAiN7vE5Q01A9uDNBfVtYJyA4ID6IxnG+DfFdjNPfWitFMCzGHdPfwOM60KHdutRXMQJYJeG8+zFuQXoRB6sHCjkv9zTI6GF6jIkfP/YjxZrCulXYRxVSKSYKoCKKr30ccUMjwCFbZlQYzLb1XTRSA==;zPlwddr4/kTiXBzE3CA1zw=="
 ---
 

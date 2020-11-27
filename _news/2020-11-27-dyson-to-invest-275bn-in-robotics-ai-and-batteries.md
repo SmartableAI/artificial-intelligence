@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn
 cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
         width: 1200
         height: 740
+        isCached: true
+  - title: "Dyson Plans $3.6 Billion Investment in Robotics and AI"
+    excerpt: "Dyson will invest over US$3.67 billion in research and development of products outside the \"home environment.\""
+    publishedDateTime: 2020-11-27T13:01:00Z
+    webUrl: "https://www.industryleadersmagazine.com/dyson-plans-3-6-billion-investment-in-robotics-and-ai/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 69
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
+        width: 840
+        height: 500
         isCached: true
 
 secured: "mQ/MtLWPOxHdD10zY9t8E0DBRTpzQXkFOM2F6xbT5eR+SUoSxRK2f1kPi7fqNayQwd2TiWFfUR/xTxUC8/EeGUhsYGhosovm8YpIMMy9DYAkGQHx3hcrmph2MKI76Wz6TT11atxw85AvM1wb5vhiLXblpaU9BBBQiMDuCwT9F62AaN36CYZJrrkQDvplldTvZ1+QE01M01jytaSlMKZM/i/AW8gwgBfVBrVi5f0vbH6IhrarOd0fTVrg6XzDFWslGzTqId0W4pyWYh5JL0C91OVRzvcDEsGTGnzrFZcLI8TBLsjjQGNvaGSI94RA+SnwAVg8tGdIvCsNPgPiJq106b03kkcteAImXp/olZWWmdqZefZh3owZwd5sY2ou/T+32fOHHfOBTcq8TDGw8dp+QcZhyYLDKF61pbnZ2/8IFAWuxNVfIkw/Jr5UuK8/N9OJ6OjqG3nt3xVxDgqnwd07nrLEbJIcWN3jJnVncPNtS0TNyTPfqxQvEzxK8RrF5pawd3o0EVVA9Z3fNjDOcr6A7g==;dMvt1nzsK3xw3PSIwm2pDQ=="

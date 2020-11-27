@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20201124PD206.html"
 webUrl: "https://www.digitimes.com/news/a20201124PD206.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 640
     height: 427
     isCached: true
-
-related:
-  - title: "This fintech and blockchain training bundle features 8 courses for $40"
-    excerpt: "With investments in blockchain tech growing, so will the job opportunities. This 8-course bundle can help. By ZDNet Academy | November 22, 2020 -- 13:00 GMT (05:00 PST) | Topic: Blockchain Blockchain could very well be the technology of the future."
-    publishedDateTime: 2020-11-22T22:58:00Z
-    webUrl: "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    ampWebUrl: "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
 
 secured: "ZMxWuoVphk/kGZ15VX+3VR1Adqk1gPi9iIEGAw9ESo9FmRKwlnKMjNPZYwCoRbdPLq38hwfHyLsureG3wBKtAVmZcHdjJtTbC2ckgxJ1/kQhGLMK1NNURrNR58z/eLYB/+dcHbG5+NK5boXY58MeGRrHrhmpHvTbaSS7nyq/jSWuUJqSr4/pDWFeeMkEXHOnDRILmSYWwbfDHrIo4LTK1c41PxCqIYzod0Q5MnTJg3hxf99F65HidLVQ2qOqU6k+JJE3fRK567dm340JSNkZ1uT+QWoQNWPUSDxQ5BAbSGUzFpa5huM/zhUqY+I8oupynJTdc78T9UL7Zv/1fSaoc2GXW33/wVSMIjefRITfAnjWih3dzkaskLw6u3ZT33dOby8MMkSLoPDsZjFvU3zKyPemO7+HLILfA/mCnUUPbUWuWWg6HP5A9e9DrEG5M0xRTixqE/2/H7k+G67UFgAKQNp0LBKx6f+nrge4pq/RkQVc/3cYiGmZJ75p9alZdmuIRUO4QtDf3PhPG/yJ+9a4rw==;7ZaB4OU8wTg/eH9gNSDn2w=="
 ---

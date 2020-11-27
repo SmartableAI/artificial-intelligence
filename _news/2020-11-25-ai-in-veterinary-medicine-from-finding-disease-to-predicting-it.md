@@ -25,21 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "AI Medicine Software Market"
-    excerpt: "Some of the key players profiled in the study are Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome ..."
-    publishedDateTime: 2020-11-24T19:31:00Z
-    webUrl: "https://www.openpr.com/news/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    ampWebUrl: "https://www.openpr.com/amp/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
+  - title: "Combining cell engineering with machine learning to design living medicines for cancer"
+    excerpt: "Finding medicines that can kill cancer cells while leaving normal tissue unscathed is a Holy Grail of oncology research."
+    publishedDateTime: 2020-11-26T23:49:00Z
+    webUrl: "https://www.news-medical.net/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
     type: article
     provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
+      name: News Medical
+      domain: news-medical.net
+    quality: 51
     images:
-      - url: "https://cdn.openpr.com/T/b/Tb24710313_g.jpg"
-        width: 600
-        height: 400
+      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+  - title: "Researchers bring deep learning to IoT devices"
+    excerpt: "MIT researchers have developed a system that could bring deep learning neural networks to a variety of objects that constitute the IoT."
+    publishedDateTime: 2020-11-24T04:08:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/11/24/deep-learning-iot-devices/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/11/09095727/iot.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "AI-based earlier medicine development leveraging TWCC high performance computing services to boost cancer prediction research"
+    excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
+    publishedDateTime: 2020-11-26T06:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20201126PD215.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 10
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201126PD215_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
 
 secured: "NWxoZ8opMOdbut1vMw1YfIvmMh4cPB+7LwtTKZCkuius3jTSAn2iwdL8a4du9/7SjB97tM+Lt1VLPiw0crHgDl5cYPklIOcPzJBIbQ43eKk6VBVoklPI1FrTrG422aPw3SWSa9tVOiWPcbwcRIOA/wM/f1PvN5onf/aPG/sGbf3VKRJjKpuJFZOho4X6D8A4NfcRlIP64AteeBt++eAOLOuaynu03c42wOtFSWjV97FLbUPfGn9WWlQ83wrhpQPwYUK4fe+Zm4OKAFtdTLa6o5EvSdfurcZJDZir7VXObsYLlEXG0l8DiCp691QMpjci78Glp3hsSfK6/1Lx09kcyfscjtM704Z1Rn1COHxv26PzAeCwG5eKZLp29avjymJXkJEexHjL4M8B2M1Wq8pecrznv1MLr653E6QKVjoq0WcY+S285JcDtNJO7cTcihexuD24gVB62L1L8HSBrLbAPNRH2ibK4tqf2V93KEXe5/UHacqmIXDivEmYBkjR04zKNDFFAvdSQvsL5VvbYW2Zpg==;N6dmGhnDyI2LSU89JQwLjA=="

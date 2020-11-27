@@ -59,38 +59,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Facial recognition software can now reportedly recognize bears – Jaweb"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday. Melanie Clapham, a postdoctoral fellow at the University of Victoria and bear biologist,"
-    publishedDateTime: 2020-11-22T22:47:00Z
-    webUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/"
-    ampWebUrl: "https://elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
-    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facial-recognition-software-can-now-reportedly-recognize-bears-jaweb/?amp"
-    type: article
-    provider:
-      name: Elmoudjaweb
-      domain: elmoudjaweb.com
-    quality: 59
-    images:
-      - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/Facial-recognition-software-can-now-reportedly-recognize-bears-–-Jaweb.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Facial recognition software can now reportedly recognize bears"
-    excerpt: "They’ll never get away with stealing picnic baskets again! Facial recognition software isn’t just for humans anymore — new technology can also recognize bears, CNN reported Sunday."
-    publishedDateTime: 2020-11-22T22:14:00Z
-    webUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/"
-    ampWebUrl: "https://nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/22/facial-recognition-software-can-now-recognize-bears-report/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2020/11/bear-face-id.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Automatic Facial Recognition: authentication, identification and ethical use"
     excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
     publishedDateTime: 2020-11-26T12:16:00Z

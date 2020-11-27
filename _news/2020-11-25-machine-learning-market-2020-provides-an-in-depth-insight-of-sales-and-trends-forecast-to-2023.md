@@ -138,52 +138,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2026"
-    excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
-    publishedDateTime: 2020-11-24T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global LegalTech Artificial Intelligence Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2026"
-    excerpt: "Global LegalTech Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 interprets market overview, value chain structure, industrial environment, regional analysis,"
-    publishedDateTime: 2020-11-23T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI in IoT Market 2020 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
     excerpt: "MarketsandResearch.biz has added a new report Global AI in IoT Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
     publishedDateTime: 2020-11-24T10:25:00Z
     webUrl: "https://www.marketwatch.com/press-release/global-ai-in-iot-market-2020-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2026"
-    excerpt: "MarketsandResearch.biz has added a new report Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
-    publishedDateTime: 2020-11-24T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2026-2020-11-23"
     type: article
     provider:
       name: MarketWatch
@@ -208,6 +166,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
+    excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
+    publishedDateTime: 2020-11-27T14:18:00Z
+    webUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/"
+    ampWebUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 36
   - title: "Global Artificial Intelligence Market - By Supply Demand Scenario, Application, By Region, Pricing Analysis, Opportunities and Forecast 2026"
     excerpt: "The global “Artificial Intelligence Market” is expected to rise with an impressive CAGR and generate the highest revenue"
     publishedDateTime: 2020-11-24T16:36:00Z
@@ -236,58 +205,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "The AI in cyber security market is projected to generate a revenue of $101.8 billion in 2030, increasing from $8.6 billion in 2019, progressing at a 25.7% CAGR during the forecast period (2020-2030)."
-    publishedDateTime: 2020-11-23T18:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/b18489504/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-rese"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18489504"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18489504"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
-  - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2020-11-25T10:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2020-opportunity-assessment-key-drivers-and-challenges-growth-rate-and-forecast-to-2025-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-  - title: "Global AI in Agriculture Market Report 2020-2030: Increasing Use of Robotics and Smart Sensors Propelling the $8+ Billion Industry - ResearchAndMarkets.com"
-    excerpt: "The \"AI in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The global AI in agriculture market is predicted to generate a revenue of $8,"
-    publishedDateTime: 2020-11-26T12:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201126005555/en/"
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 27
+    quality: 19
     images:
-      - url: "https://mms.businesswire.com/media/20201126005555/en/371054/23/ResearchAndMarkets_800px.jpg"
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
         width: 1200
         height: 627
         isCached: true
-  - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
-    excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
-    publishedDateTime: 2020-11-23T09:03:00Z
-    webUrl: "https://www.medgadget.com/2020/11/ai-in-healthcare-market-size-competitive-strategies-application-analysis-regional-and-forecasts-2020-to-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 13
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
-    publishedDateTime: 2020-11-23T15:07:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
   - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
     excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
     publishedDateTime: 2020-11-23T14:07:00Z
@@ -302,31 +233,6 @@ related:
         width: 981
         height: 576
         isCached: true
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
-    publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
-    images:
-      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
-    excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
-    publishedDateTime: 2020-11-25T02:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18524403/robo-taxi-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18524403"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18524403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "yqzZnDe6VS4CI+Re48k0pTu2wR9C+6REJ/qVZ4A0x/L1bxK9YoJHYBb09ljTU4wDvJYDEJGDYCRLqkGEaPqMdt9s2JtAIetnBW4hmihIs5yCShccv9NvUA5RWaXMZYJA8VoBtdiESiN51NdxjQ7wpXBOrr16WhMH+pgLGQIrOC63s/kMAuIs7/4WoXmF6lY6ju64b0MF6JK7u+iL16+B31tBVOd6PbWf6Il/IVrybY7KNp9WnkRyU/PN6rjd0wr+Qr/gKkcF6x0bS7YlifqHB9lXe4i9Ol2VtTvA5VSjfRUA3ztOl3dFFmqpD7jd8nU0sW1Q0SG0LqJiFvYHlo2CDAerxRjwaK7WwBihDGdCPgc=;DQzwy0uX27pjBErW/avDSg=="
 ---

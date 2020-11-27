@@ -54,6 +54,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "AI in veterinary medicine: From finding disease to predicting it"
+    excerpt: "While it may sound like science fiction, it’s currently underway in both human and animal health by coupling advanced computing power with artificial intelligence (AI ... antihypertensive therapy, and ACE-inhibitors also are emerging as effective ..."
+    publishedDateTime: 2020-11-24T19:43:00Z
+    webUrl: "https://www.veterinarypracticenews.com/ai-in-veterinary-medicine-from-finding-disease-to-predicting-it/"
+    type: article
+    provider:
+      name: Veterinary Practice News
+      domain: veterinarypracticenews.com
+    quality: 39
+    images:
+      - url: "https://www.veterinarypracticenews.com/wp-content/uploads/2020/11/feat-41.jpg"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "M3nv9cRT4Ey4py5XzFN3XqDT9G6gFuaEDc1fcYBKISc63vKxQzpWzEUzufOS39+JFGtoENQfAKgQf1WuYlqVbyKbqXPea8KPny8jYakX8yD9+2g8fQF48JDQFnkU7lLMNTgPn57SQwkEHs18h3VdThZH7rxvnbCTSB6X8ORCpv7zwyzP2FaJkZe7Ia3C+4TZnpyS2kx97iG4EEzBB6G+Xy+MI3ax/6QZ1uT+YLkKuFUtQEok2wCHnIVskC68JI/k8vd8YeBwlmmUYiJqIKP6tK4I3+zfuC32IZaRd5zXbdZL10bPY6vsISLhA8shK3VjSj33emQzTnRuRsD+ZbBcFwdFiMCe4sSTj8acS4Tt3c04jVTzUQreIXPJxe2eCskO3jrrQXEM5L60Gf3CFFFqwXAurn7aGxoCyMea90Q+/9LA8SZs2ObelsHoU9Nr+L6V+rEcqt0JyVBHyLQLdLebWj2D8jYT0MrECsRYqqlp4St+F9uG7p8L/Vx8uWIKhNNj2h9BGNh5gUKtiKGoNn46Vg==;AgkV9QcldY65JtjqY2OJ2A=="
 ---

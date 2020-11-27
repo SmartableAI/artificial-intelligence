@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19"
+    excerpt: "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients."
+    publishedDateTime: 2020-11-27T14:15:00Z
+    webUrl: "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
+    ampWebUrl: "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 60
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202011/YT_13-647x363.jpeg?d6xhJjgAzR1d9I7MbWR4fHOcvTsCdaq9"
+        width: 647
+        height: 363
+        isCached: true
+  - title: "Marketing AI start-up Metigy raises $20m as COVID helps growth"
+    excerpt: "Digital marketing start-up Metigy will target US and Asian growth after closing an over-subscribed funding round, which it expects to see it through to an IPO."
+    publishedDateTime: 2020-11-23T21:10:00Z
+    webUrl: "https://www.afr.com/technology/marketing-ai-start-up-metigy-raises-20m-as-covid-helps-growth-20201118-p56fqo"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 54
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.3217%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_767%2C$y_194/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/8c2154e732a559a43b7a3961732043b213340bda"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond"
     excerpt: "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry."
     publishedDateTime: 2020-11-23T15:37:00Z
@@ -48,33 +78,61 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
-  - title: "Industry Dynamics: How Covid-19 damages the Artificial Intelligence in Agriculture Market"
-    excerpt: "Research Dive :A newest report by Research Dive on the global artificial intelligence in agriculture market discloses that the market is expected to exceed $6000 million by 2027, growing at a CAGR of 25."
-    publishedDateTime: 2020-11-23T09:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-science-corporate-news-pune-bf84af29744de2ac111aa43426f6e69c"
+  - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
+    excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
+    publishedDateTime: 2020-11-24T15:12:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-s-new-chest-x-ray-ai-double-checks-ventilator-tube-placement-covid-19"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 30
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 42
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://qtxasset.com/fiercebiotech/1606233616/GettyImages-1212285302.jpg?Kxy_9p9pK18xlhmAzO._1YwgdRaDXz87"
+        width: 800
+        height: 533
         isCached: true
-  - title: "Voice of OC Honored for Leadership, Accuracy and Transparency in COVID-19 Reporting"
-    excerpt: "Voice of OC won recognition this month from community groups for its COVID-19 reporting’s impact on the community, particularly Orange County’s Latino community."
-    publishedDateTime: 2020-11-25T15:08:00Z
-    webUrl: "https://voiceofoc.org/2020/11/voice-of-oc-honored-for-leadership-accuracy-and-transparency-in-covid-19-reporting/"
+  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
+    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
+    publishedDateTime: 2020-11-24T15:58:00Z
+    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
     type: article
     provider:
-      name: Voice of OC
-      domain: voiceofoc.org
-    quality: 18
+      name: Outsourcing-pharma
+      domain: outsourcing-pharma.com
+    quality: 39
     images:
-      - url: "https://voiceofoc.org/wp-content/uploads/2020/11/latinohealthaccessaward2020.png"
-        width: 1500
-        height: 844
+      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
+        width: 750
+        height: 435
+        isCached: true
+  - title: "AdventHealth to study COVID-19 outcomes with AI biotech firm"
+    excerpt: "AdventHealth on Monday announced a project with biotechnology company Berg to try to better tailor treatments for COVID-19 patients. AdventHealth and Berg are kicking off the project as a research effort,"
+    publishedDateTime: 2020-11-23T15:04:00Z
+    webUrl: "https://www.modernhealthcare.com/information-technology/adventhealth-study-covid-19-outcomes-ai-biotech-firm"
+    type: article
+    provider:
+      name: Modern Healthcare
+      domain: modernhealthcare.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
+    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
+    publishedDateTime: 2020-11-24T15:55:00Z
+    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
+    type: article
+    provider:
+      name: Kellogg School of Management
+      domain: northwestern.edu
+    quality: 37
+    images:
+      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
     excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"

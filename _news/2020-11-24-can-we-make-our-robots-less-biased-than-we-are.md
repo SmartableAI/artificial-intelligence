@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-r
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "Can we make our robots less biased than we are?"
+    excerpt: "Dallas Police Chief David Brown called the decision sound. Before the robot attacked, Johnson had shot five officers dead, wounded nine others and hit two civilians, and"
+    publishedDateTime: 2020-11-27T13:02:00Z
+    webUrl: "https://www.denverpost.com/2020/11/27/robots-anti-bias/"
+    ampWebUrl: "https://www.denverpost.com/2020/11/27/robots-anti-bias/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2020/11/27/robots-anti-bias/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 59
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2020/11/SCI-AI-JUSTICE-6-0.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "82N42mBcKNzAOqMLwSRI7CGQWu/uVPkQvBdUyk/CzLbjAMRxqmup4Az8cbSnVSK7THmwJA8Smg3phwbkW+8rsmTzxPmmsRFTW6l/TzDSQ96eq8C0aRfU5A05i2JxOSwqccPLDi2iaXdiowGERE22L/ADAjvwnvLdzIlfKLdftwsWUq5eVkEXsxswSLLN3VAqcBSBt85+XnYN4WpRXVXmlZzIDCxz1RoXrMG8vDMdlRoTVyMYfQb0TfmaIbXT3hSfOIGK0VqzYRg+4lCRqyRFnrRo8kBjaaWcNSRqAAl3IvpZeFpdC07UEa19TFAfObeQlNuBwK8tUL5mC3Gr2gDtGOGDIno5NUIxJ4nqzmW30rrTmEnCMgwLHUTuNhecM/G/gCFXZaPLEtBiRLK+DC1uhFFMf68xzoCIOqJaKRRJmpnnuiVrVa6RFHD92XxmCzKXJ17DBMo4WMCllfzAfdh9LlbeMY1yy0vANr/jLHRgQOup5q4QrrX8z83N5juGZYE/PmVssclAaossohD5aZoiSQ==;DviPs61oH7f+jLhZ/DLbiQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-cl
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI can run your work meetings now"
+    excerpt: "Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews."
+    publishedDateTime: 2020-11-27T13:00:00Z
+    webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Screen-Shot-2020-11-25-at-10.50.31-AM-760x380.png"
+        width: 760
+        height: 380
+        isCached: true
   - title: "5 things your company should know before investing in Artificial Intelligence"
     excerpt: "Analyze your company and detect the susceptible areas. Find a solution that is compatible with your business model. Upgrade your staff skills. Go to the experts. Continues to grow. The year 2020 has been marked by the acceleration in the development and adoption of Artificial Intelligence (AI) in various aspects of daily life,"
     publishedDateTime: 2020-11-26T16:11:00Z

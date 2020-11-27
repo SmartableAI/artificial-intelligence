@@ -1,29 +1,39 @@
 ---
 category: news
 title: "Top Independent Research Firm Names EPAM a Leader in Computer Vision Consultancy"
-excerpt: "PRNewswire/ -- EPAM Systems, Inc. (NYSE: EPAM), a leading global provider of digital platform engineering and software development services, today"
-publishedDateTime: 2020-11-23T14:02:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/top-independent-research-firm-names-epam-a-leader-in-computer-vision-consultancy-301178668.html"
-webUrl: "https://www.prnewswire.com/news-releases/top-independent-research-firm-names-epam-a-leader-in-computer-vision-consultancy-301178668.html"
+excerpt: "EPAM Systems, Inc., a leading global provider of digital platform engineering and software development services, today announced they have been named a leader in The Forrester New Wave™: Computer Vision Consultancies,"
+publishedDateTime: 2020-11-23T15:02:00Z
+originalUrl: "https://www.nasdaq.com/press-release/top-independent-research-firm-names-epam-a-leader-in-computer-vision-consultancy-2020"
+webUrl: "https://www.nasdaq.com/press-release/top-independent-research-firm-names-epam-a-leader-in-computer-vision-consultancy-2020"
 type: article
-quality: 34
-heat: 34
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/722474/EPAM_Logo.jpg?p=facebook"
-    width: 2456
-    height: 1287
-    isCached: true
+related:
+  - title: "BasisAI included in Responsible AI Solutions New Tech report by Independent Research Firm"
+    excerpt: "BasisAI, a provider of scalable and responsible artificial intelligence (AI) software, today announced that it has been recognised in Forrester’s New Tech: Responsible AI Solutions, Q4 2020, report. As the use of AI becomes more pervasive within enterprise organisations,"
+    publishedDateTime: 2020-11-26T02:26:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-7fffc416fc23aff7e59f17f0620af35d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "3lxQlWN4qe7k/O9jgD/nHYk6Qsm+hW9Lrwyw3k7me4oIOMBmeTGecwkAl0AsfsVjMR1g7HZYtn9xfw/H2nZSk06QKZuElTYt62NhnFwxvY68WWgt18VV0VCpCqXbbL8fzP3BoZAly5rP9gTLcwUO9yfB9s2libGzRTzkH3maTaOwPnmfNL61l6sEd8SLLql3X7pKy2/GZe6IPgFpDIOHvNR2P5mNODKV5iXuAUE6/FVx6dRS129dJgHb/VPhTXxP+9SXYKh4BZtjNDngr7zlKWWw7klyO1MQZFDbo8+Qt7euh8aDP5lL2Yy6TcpLMD0Dc35mV3CuYv6Fs4nSCnvJC4UqPOvcAV9qlNaFm0PvOk4=;HxbSWiiK4OPwDubpRvbQMw=="
+secured: "TE7CNhhwmZ5tBacb1+NPnLv/lz9HHkHKDKl6SOrg44CalwMmdeLlrrSXspmrJ91qkGzQszXHWccQFGAptzAxbCOp3j1vZ8Vo4XBXoYYn8UfdXSNsr+7USMRE0c1WKDOd6c1ZL07rh1nG9NiKs26Xu9H4nN5dhcuMUsCTmHS55xrQmAlF4H4B2klmB6vRVhszvzhMxKKRO5udjBR1j4DNGh8YgMzUcEFrz8Zoba8F7DolSO8Pd36nx9h8aEqMMhtZJCJpq7omz2zbwU6vaqXgItvzcPT/BVQWbscrPJdp2eDtSmJnF5EUhjKH47bVAdHSznSfsHHEULwr7T9bB/C4NZsJzwXBI2ZJGWbBUlEz9mI=;hJ7Qa11COetY7+VLu7S2Vw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201126/Combining-cell-engine
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
 type: article
 quality: 51
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/11/09095727/iot.jpg"
         width: 1600
         height: 1067
+        isCached: true
+  - title: "AI in veterinary medicine: From finding disease to predicting it"
+    excerpt: "While it may sound like science fiction, it’s currently underway in both human and animal health by coupling advanced computing power with artificial intelligence (AI ... antihypertensive therapy, and ACE-inhibitors also are emerging as effective ..."
+    publishedDateTime: 2020-11-24T19:43:00Z
+    webUrl: "https://www.veterinarypracticenews.com/ai-in-veterinary-medicine-from-finding-disease-to-predicting-it/"
+    type: article
+    provider:
+      name: Veterinary Practice News
+      domain: veterinarypracticenews.com
+    quality: 39
+    images:
+      - url: "https://www.veterinarypracticenews.com/wp-content/uploads/2020/11/feat-41.jpg"
+        width: 600
+        height: 300
         isCached: true
   - title: "AI-based earlier medicine development leveraging TWCC high performance computing services to boost cancer prediction research"
     excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
