@@ -217,16 +217,30 @@ related:
   - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
     excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
     publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 19
+    quality: 2
     images:
       - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
+    excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
+    publishedDateTime: 2020-11-26T09:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-greater-china-products-and-services-3702ab7e071e81263d367b7872d72b2a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "NzSzquG0bw+Cbkqxm6dHTaV8OY9CduuLGqj7MqQdxwVkU0XR0NBibhWrDduvDHD7BpTcl5JyZ1t/7KEV2qHgYC1EFWZ4KT94p2eXQpVyvD1L44WExuSGaRod28zT+NR8QOeufTy2ooXh1CcDBGxZuamjvjWOOEElZkIwRDIgzO5XGh8NVOkhvFHZIgHpVdLMQZNFvDwc3ndUbAAIkq2Y3etdYe5dcemQM6rlSYulVLDGh/Sjo2fuyaC4XZlH1DuRL+BCmcCnnKppUiPOWBRi5G05/R/g+Iyvx7pKykCq6s/DlP/K4V7J3kZ2rjQmJc7pilJoD1l+BZ+3Nid6RNxGVn/hcy1WLhfzdn/EbDGbvv4=;Oh2K0NeWvoNb77PO5C7srQ=="

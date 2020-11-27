@@ -2,6 +2,57 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-10-21-if-the-future-of-skincare-is-ai-generated-serums-ill-pass.md",
+      "title": "If the Future of Skincare Is AI-Generated Serums I'll Pass",
+      "excerpt": "The beauty industry is hoping AI can fuel a new revolution. But so far its just watery gels I'm not sure actually work.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481",
+      "originalUrl": "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/v7tmbtskzdbvvtqzzrxa.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp",
+      "publishedDateTime": "2020-10-21T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-update-1-saudis-launch-national-artificial-intelligence-strategy.md",
       "title": "UPDATE 1-Saudis launch national artificial intelligence strategy",
       "excerpt": "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy.",
@@ -1137,49 +1188,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand.md",
-      "title": "iRobot Q3 surges amid direct sales, e-commerce and home robot demand",
-      "excerpt": "For the third quarter​, iRobot reported revenue of $413.1 million, up 43% from a year ago. Premium robot sales were up 86%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
-      "originalUrl": "https://www.zdnet.com/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/irobot-q3-surges-amid-direct-sales-e-commerce-and-home-robot-demand/",
-      "publishedDateTime": "2020-10-20T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

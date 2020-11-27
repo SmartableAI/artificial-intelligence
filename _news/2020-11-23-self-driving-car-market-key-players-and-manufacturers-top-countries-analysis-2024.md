@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-driving Car Technology Market 2020 Size, Market Share, Key Players, Segmentation Development and Forecast by 2026"
-    excerpt: "MarketsandResearch.biz is aimed at offering market research study on Global Self-driving Car Technology Market"
-    publishedDateTime: 2020-11-23T03:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-self-driving-car-technology-market-2020-size-market-share-key-players-segmentation-development-and-forecast-by-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "gb/XfGIsybdNXoED5YAzJzl0gYeQm42/nCvP45kdJ7/qXRGUVnkGV93TAwn0TOuE4rcUJC6UL3qBy/F5twgco5bevQWdGUczGU+1yvnIn65wFqRfAVyJym5xxJfkxkiS9EZNAcbEQulLY/k6HteIZndM1/1tj2PV0O9CzVRLjpkTsy5x7BY96mK3UwBhLkAKCWGqjsBnSz0XkGZ8C+WazXzK+s3TotNZ/E4gqm6bmSpCNNiBtOTehEW5TJr67Tm6u3a3v/1PqSJuaH/tU80vnnRoeHSWB/uYgGQrLgmBSW32ShsLgoVsQrI/F9YwcWaTbz4s9hWOR8aR8b+x2I6p3DWruVnw2T1tTC8dqDmTyXA=;Wl+XB1+b8FHAlcFQZCCB9Q=="
 ---

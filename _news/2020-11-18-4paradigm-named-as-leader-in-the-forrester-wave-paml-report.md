@@ -1,28 +1,26 @@
 ---
 category: news
 title: "4Paradigm named as leader in the Forrester Wave PAML report"
-excerpt: "Simplification of these capabilities differentiates 4Paradigm's automatic machine learning (AutoML) to accelerate enterprise transformation in key verticals such as finance and retail. 4Paradigm ..."
-publishedDateTime: 2020-11-18T15:12:00Z
-originalUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report"
-webUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report"
-ampWebUrl: "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp"
-cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp"
+excerpt: "Forrester, a leading international market analysis firm, released The Forrester Wave™: Predictive Analytics And Machine Learning In China, Q4 2020 report. 4 Paradigm received the top score in the Current Offering category,"
+publishedDateTime: 2020-11-18T11:01:00Z
+originalUrl: "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04"
+webUrl: "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04"
 type: article
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/pr-newswire_500_4_997.jpg?itok=ip51wB8I"
-    width: 763
-    height: 509
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "AmFc4nWC6ijvXKQrHfZGC4SaBHTXCQPM1f3w0uUJrwDO1L9p3aa6GyJ/AUfXx049DUoiUa/s+sLL6KQ5JG58dvW5lAcFNLR0bHNR22ys9vxGGxEWctIbglaUy4X0kyosxp04WkgJ3Bh9f9V8Gfi5SsLlM0pLyFLzFHloB4pf09O6gNXmaD9HOy/8LGZLvrAdSoIh23MiFKdeR3XMcw6hgZaXybn+4aXgtHr/I1fp9ZYdDz8cJONPy9QHA/z/YK/EeNWyGZDgKZ5oqMT6iAEcwKoTuFYpOBCx/xTKr+/k+uMLJ0MowJhgh7hGrG4zDYeM13lInxHCsa6E3Tw9X4VGTOcyQsNEOUwjxGYVufPt0QU=;Op9PgLln3Obh/AsN3Ge+mQ=="
+secured: "noWs/5KSn7jw6KhecPRo33fMqvHMwT6zU7hIXuRGbeH82i4MFaM3NqLgvVZ+R8csZsSWAQuo5ajLRknaakz3tRX5ozVfFT8AmfTneh+FrgLHvsbBRtVl3y80GGFQWcspfS3Ltw3ZH8oVTlEbFBohQ4HUKhzSzERxCN5dvRP0sgzeHyPHlzARrmBjbagXGxL8ACAyyuMSD1w4XiTykd3bHuA1VkSzDbyhz6mxtptBJwzjt9jsXHfc0HaCPsg6TfIcr4N+gDpM6bMMZiLDWCEp3QbhhrUM3wlMyoImNtaVIl+Svo1yiqVPROAAH2ScN8Q1k4In+1NKzPyHH19boVmceEuMC0f80NObn242JsvnAdQ=;k/h0qqWZVDyrmUqxD98Vgg=="
 ---
 

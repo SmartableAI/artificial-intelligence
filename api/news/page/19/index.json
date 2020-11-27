@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-12-pope-francis-pray-that-robots-dont-turn-against-us.md",
+      "title": "Pope Francis: Pray that robots don’t turn against us",
+      "excerpt": "“Artificial intelligence is at the heart of the epochal change we are experiencing. Robotics can make a better world possible if it is joined to the common good.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/",
+      "originalUrl": "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2020/11/pope-francis.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2020/11/12/pope-francis-pray-that-robots-dont-turn-against-us/amp/",
+      "publishedDateTime": "2020-11-11T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-apps-are-now-putting-the-parole-agent-in-your-pocket.md",
       "title": "Apps Are Now Putting the Parole Agent in Your Pocket",
       "excerpt": "Instead, he suggests states provide people with social workers, therapy, and access to housing ... calls a “game of life app,” that combines remote monitoring, artificial intelligence, and biometric data from users. “One of the really critical ...",
@@ -1204,50 +1247,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.md",
-      "title": "Google launches AI tools for healthcare to streamline document review, analysis",
-      "excerpt": "Google launched new artificial intelligence tools for healthcare providers to search through medical documentation on Nov. 10, according to a Google Cloud blog post. Healthcare professionals can now preview Google's Healthcare Natural Language API and AutoML Entity Extraction for Healthcare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html",
-      "originalUrl": "https://www.beckershospitalreview.com/artificial-intelligence/google-launches-ai-tools-for-healthcare-to-streamline-document-review-analysis.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T07:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Becker's Hospital Review",
-        "domain": "beckershospitalreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

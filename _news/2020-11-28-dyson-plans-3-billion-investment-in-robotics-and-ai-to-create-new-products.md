@@ -1,0 +1,95 @@
+---
+category: news
+title: "Dyson plans £3 billion investment in robotics and AI to create new products"
+excerpt: "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025."
+publishedDateTime: 2020-11-27T19:13:00Z
+originalUrl: "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+webUrl: "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: Kent Online
+  domain: kentonline.co.uk
+
+topics:
+  - AI in Robotics
+  - AI
+
+images:
+  - url: "https://www.kentonline.co.uk/_media/img/OUYIDG68WRKX6AL8QM6H.jpg"
+    width: 1620
+    height: 1080
+    isCached: true
+
+related:
+  - title: "Dyson to invest £2.75bn in robotics, AI and batteries"
+    excerpt: "Dyson is investing £2.75bn into new technology over the next five years in a push to expand its range of products beyond home appliances for the first time. The company, headed by billionaire Sir James Dyson,"
+    publishedDateTime: 2020-11-26T23:01:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 89
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/02/22/TELEMMGLPICT000110519485_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg"
+        width: 2501
+        height: 1563
+        isCached: true
+  - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
+    excerpt: "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched."
+    publishedDateTime: 2020-11-27T07:29:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+    type: article
+    provider:
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 87
+    images:
+      - url: "https://www.belfasttelegraph.co.uk/news/uk/02227/39797835.ece/AUTOCROP/w1240h700/bpanews_a3da0697-6e0e-4619-8bfb-ca1f4080ed1a_1"
+        width: 1240
+        height: 700
+        isCached: true
+  - title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
+    excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
+    publishedDateTime: 2020-11-27T09:08:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
+    type: article
+    provider:
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 81
+    images:
+      - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "Dyson Plans $3.6 Billion Investment in Robotics and AI"
+    excerpt: "Dyson will invest over US$3.67 billion in research and development of products outside the \"home environment.\""
+    publishedDateTime: 2020-11-27T13:01:00Z
+    webUrl: "https://www.industryleadersmagazine.com/dyson-plans-3-6-billion-investment-in-robotics-and-ai/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 69
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
+        width: 840
+        height: 500
+        isCached: true
+
+secured: "PqQFg0kxzyjA28AjdP9jXjXYAfAzkkd4/PjkgYD0rBFrsRPSF24IpGpgjB7Xh/lEg1i55wZgBb5bkBQmrCLZLHr89Muoj9bZ8iLOsepbowiQYk/0w/3cgScfwWAAJdx6Q8jrcDDrabWeNpQPypYctFw7Tsx7MoG2B5yroDxQsEAnCbqqSgb+ZvG8YSIl0Bdi/WNAS2KiAidYNJQToc4+My7nMhT59pvMSvnEt7Qz28LVrDSkJOWiweRYxyy3sd7+R8G516Of2IQhfGhM0XtEP+Nbo1GuW3hJthu4r4IBTQ5gzasIYKXMIuf/x0Y+G7gROV2Sgmm91EbrsPXzRdLraALNKQppSW/xRnI/68g97+I=;11L1bvkkN6E+MrNy8YI1Aw=="
+---
+

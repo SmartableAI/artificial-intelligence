@@ -2,6 +2,58 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
+      "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
+      "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
+      "originalUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/sight-tech-global-speakers3.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/10/treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global/amp/",
+      "publishedDateTime": "2020-11-10T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-ghanaian-radiographers-urged-to-embrace-artificial-intelligence-systems.md",
       "title": "Ghanaian radiographers urged to embrace artificial intelligence systems",
       "excerpt": "The President of the Ghana Radiographers Association, Prince Rockson has advised radiographers in the country to learn to use Artificial Intelligence (AI) system in their day-to-day operations to ensure better results for their patients.",
@@ -1124,49 +1176,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-aveva-expands-its-collaboration-with-microsoft-with-a-focus-on-cloud-and-ai-to-drive-digital-transformation-in-the-manufacturing-and-energy-industries.md",
-      "title": "AVEVA expands its collaboration with Microsoft with a focus on cloud and AI to drive digital transformation in the manufacturing and energy industries",
-      "excerpt": "AVEVA to Collaborate with Microsoft to Provide Cloud Platform and Domain Expertise for Industrial Sector Organizations",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/mena/en/press-releases/story/AVEVA_expands_its_collaboration_with_Microsoft_with_a_focus_on_cloud_and_AI_to_drive_digital_transformation_in_the_manufacturing_and_energy_industries-ZAWYA20201110052411/",
-      "originalUrl": "https://www.zawya.com/mena/en/press-releases/story/AVEVA_expands_its_collaboration_with_Microsoft_with_a_focus_on_cloud_and_AI_to_drive_digital_transformation_in_the_manufacturing_and_energy_industries-ZAWYA20201110052411/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.zawya.com/pr/images/2020/VEVA_2020_11_10.jpg",
-          "width": 450,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zawya.com/mena/en/story/amp/ZAWYA20201110052411/",
-      "cdnAmpWebUrl": "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/mena/en/story/amp/ZAWYA20201110052411/",
-      "publishedDateTime": "2020-11-09T21:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

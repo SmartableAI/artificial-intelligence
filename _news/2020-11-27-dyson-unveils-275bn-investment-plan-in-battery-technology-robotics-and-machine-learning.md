@@ -60,6 +60,22 @@ related:
         width: 1240
         height: 700
         isCached: true
+  - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
+    excerpt: "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025."
+    publishedDateTime: 2020-11-27T19:13:00Z
+    webUrl: "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+    ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+    type: article
+    provider:
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 87
+    images:
+      - url: "https://www.kentonline.co.uk/_media/img/OUYIDG68WRKX6AL8QM6H.jpg"
+        width: 1620
+        height: 1080
+        isCached: true
   - title: "Dyson Plans $3.6 Billion Investment in Robotics and AI"
     excerpt: "Dyson will invest over US$3.67 billion in research and development of products outside the \"home environment.\""
     publishedDateTime: 2020-11-27T13:01:00Z

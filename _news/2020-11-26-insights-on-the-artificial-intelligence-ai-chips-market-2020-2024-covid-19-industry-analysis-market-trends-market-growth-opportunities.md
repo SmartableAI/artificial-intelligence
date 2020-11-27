@@ -3,10 +3,10 @@ category: news
 title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
 excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
 publishedDateTime: 2020-11-25T19:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
-webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
 type: article
-quality: 19
+quality: 2
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -228,7 +227,21 @@ related:
         width: 981
         height: 576
         isCached: true
+  - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
+    excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
+    publishedDateTime: 2020-11-26T09:43:00Z
+    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-greater-china-products-and-services-3702ab7e071e81263d367b7872d72b2a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "2Jxdnrs+jvPqgto2lx5vcsUM71gGcd3ESvEMYynuaf+RLlGEGruIcQbvveMnygMdiDsuHfQeHO2T+AIktcVKEFncrplY8VBcKEcecGN3btW8UfGKPq3XA4sDlmWHpNcn1qg/p1BOf/gXYjp2hJWtzrVP5Em5qDoOD9AdIhjDL1oC+JKaM9KXWgD/ySMQ3QwoOaElxbf9+5zYns8PDHzBf+EF1mPWizG1XDrNsrGJyHxRmDOZh2uMLHVMx7Xa0EZBUe+37ROlEp88SCufpPVYDyb/0zYAwaTxLiMochIid04mMqSa07GqgotBpILa32fOMiPZ5y6dP6O7KPQSBY5hUQ4cLrhlExdSXYh/fd9787s8dRYXTt5W1c4gbUy1+f3HidnzZoYCj2ZHA0fNUD6tkMk7UqlYtwujodZjBCI3zvain6KcjmOF9jrA8/1qMvi34ATSA+wfkONg1bKU6g8413QVSNcA3nwfBxRBwW4tnHdoIqXqNpq0uocgv3nOOdORZGaOJcObgx3HvZU723LT8g==;xp5GJSJdiXhQJKvpnYclMg=="
+secured: "Ylf5dnPOkZzL1bKZorKX5gisgU14ZhSb0E5VO11MTvhkf4I7lv8MRHBjBiuXeBu3ONMUN0xSmHHMCmRycEk2UxIKHPqEqp8RWENL0648r9dPWsJh4FjV3f48jPEUG+9P1WTRWcETd14v1fhyuTLw2+lhcwN62EP4fNNcKSFqJxxNknbgLc7SkRPeeGVt/QbtNt5ORmTz1+hei9qxYSER06ACYGZeMiuJxjtisyiJCJQNjS+DgJuUjZIiL1XSQCdVSn+ZJFuSM1o/4Pp++3sCGPobtwXcIblHuJOKWoKCDZMZBfiwSOj61Kxbua5gffHnSNTD245LD3vRldNtppZuvhTFjBRDYqP5PZH4DflzPAY=;ByLhPO9YuwHbmBomu5+R5g=="
 ---
 
