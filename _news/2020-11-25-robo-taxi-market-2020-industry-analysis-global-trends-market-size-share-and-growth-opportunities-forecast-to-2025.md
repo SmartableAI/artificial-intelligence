@@ -146,15 +146,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
-    excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
-    publishedDateTime: 2020-11-23T09:03:00Z
-    webUrl: "https://www.medgadget.com/2020/11/ai-in-healthcare-market-size-competitive-strategies-application-analysis-regional-and-forecasts-2020-to-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 13
   - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
     excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
     publishedDateTime: 2020-11-23T15:07:00Z

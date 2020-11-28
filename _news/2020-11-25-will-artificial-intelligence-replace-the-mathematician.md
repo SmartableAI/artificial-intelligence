@@ -28,9 +28,9 @@ related:
   - title: "2021 will see the spread of AI and automation in the workplace"
     excerpt: "Andy Watson, senior vice president for Asia, Pacific, Japan, and Greater China at SAP Concur, says many organizations will turn to automation and AI in 2021 as a way to address key business pain points and simplify cumbersome processes."
     publishedDateTime: 2020-11-27T13:00:00Z
-    webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
-    ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+    webUrl: "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
     type: article
     provider:
       name: TechRepublic

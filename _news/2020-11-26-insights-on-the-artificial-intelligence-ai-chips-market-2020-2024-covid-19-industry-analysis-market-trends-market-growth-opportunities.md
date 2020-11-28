@@ -3,10 +3,10 @@ category: news
 title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
 excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
 publishedDateTime: 2020-11-25T19:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
-webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
 type: article
-quality: 2
+quality: 19
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: businesswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -93,17 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-  - title: "Artificial Intelligence For Edge Devices Market 2020 - 2025: Microsoft, Synopsys, Qualcomm, Google, Alibaba, Intel, Horizon Robotics"
-    excerpt: "The Global Artificial Intelligence For Edge Devices Market Research Report Forecast 2020 2025 provides a comprehensive analysis of the market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of the global industry It provides an"
-    publishedDateTime: 2020-11-23T10:29:00Z
-    webUrl: "https://www.openpr.com/news/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
   - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
     publishedDateTime: 2020-11-24T11:44:00Z
@@ -242,6 +232,6 @@ related:
         height: 450
         isCached: true
 
-secured: "yTBdRKy27cxivP5pz5ICg8Qxc8YFrLKtmCAdWXmQqgHkR0qfiNDhMCwFpFc2QXYgs3L/KXXClc10sUsODP00lUfVB4QB13hXBg7tqdxDTFUbWvwPfYQxs1gBoitNxhmU3xRiReOKOTZ4ujvnDtFjWARTMi2kRZ1M500iDJdm64sMR+FpwweXLCP3uF8a5TYF32mnTx6VzrFYUrEMl6ctqJlkllVtCqRWmC4ddwAfr2BnlGh2dAdz32xEPZgPXKIqOJdTWCyjj1ZPIEk9oZqPFIEGZzpn5HGUB0JKvRIMaS73JALLU/Ca21kGS7B1Mk4lXAV9I/KZdpKkpLVdSgivp8srZCRWsnIquC4AaOJd7gU=;fL+f2izFKG/aMzjUREeIww=="
+secured: "YIp5+GhyRsi5KsQSNw8q2ZdYbqm07G7wTQfjDmrNYMAcRqXFJ+xPgD+Nn4gXSsOovPLX/UFtJLkjzM+YalUhPVKLrCsyw/boogq+xwtIZDykYQpwPAMV65v39uVEBF9B9IGytdP89BfcZwg3qAeoFk7IhVtFM/IAV5JBK0NwVAdfLdcGZOUQTfXX7k9QNqPQ3CDfA1JaAWQemzlnCQs5W4poTjoUNqxQEZoVtiiuxplvflVT7fp0M374R3BubrzrgVynRXbPMJUHd5ac1INTM7sDNPZNyY33c3w4Y3HBUlHXrV+fpFYUnDkiUekY99egls54MkxVQlA/LS0GUtGe3iwcMaIpyXGUWiu7vsqRT5A=;RI7P0jI08OpOtljP22k/JA=="
 ---
 

@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-10-biotech-accelerating-innovation-in-health-care.md",
-      "title": "BioTech: Accelerating innovation in health care",
-      "excerpt": "The answer will likely come from advances initiated by biotech startups, aided by new data processing and artificial intelligence ... generally a new innovative therapy is a long and complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Rafaele-Tordjman_Interview-Stills8_selected.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "publishedDateTime": "2020-11-10T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-10-artificial-intelligence-technology-solutions-receives-first-auto-dealership-order.md",
       "title": "Artificial Intelligence Technology Solutions Receives First Auto Dealership Order",
       "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) is pleased to announce that its wholly owned subsidiary Robotic Assistance",
@@ -1386,6 +1334,60 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-artificial-intelligence-cheat-sheet.md",
+      "title": "Artificial intelligence: Cheat sheet",
+      "excerpt": "Learn artificial intelligence basics ... AI chatbots can be a great first line of customer interaction. Healthcare: Not only are some AIs able to detect cancer and other health concerns before doctors, they can also provide feedback on patient care ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "originalUrl": "https://www.techrepublic.com/article/artificial-intelligence-cheat-sheet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2019/08/14/04431cd4-496f-4b8b-8c84-626bb46b9b53/thumbnail/1200x675/341ae9baa20fd565a197f478b55bbb38/20190731-brandonai-karen.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/artificial-intelligence-cheat-sheet/",
+      "publishedDateTime": "2020-10-23T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "AWS AI"
       ]
     }
   ],

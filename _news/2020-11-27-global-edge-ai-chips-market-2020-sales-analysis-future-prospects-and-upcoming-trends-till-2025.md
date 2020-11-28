@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-mark
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
 type: article
 quality: 79
-heat: 239
+heat: 229
 published: true
 
 provider:
@@ -81,17 +81,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-  - title: "Artificial Intelligence For Edge Devices Market 2020 - 2025: Microsoft, Synopsys, Qualcomm, Google, Alibaba, Intel, Horizon Robotics"
-    excerpt: "The Global Artificial Intelligence For Edge Devices Market Research Report Forecast 2020 2025 provides a comprehensive analysis of the market segments including their dynamics size growth regulatory requirements competitive landscape and emerging opportunities of the global industry It provides an"
-    publishedDateTime: 2020-11-23T10:29:00Z
-    webUrl: "https://www.openpr.com/news/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
-    ampWebUrl: "https://www.openpr.com/amp/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2193115/artificial-intelligence-for-edge-devices-market-2020-2025"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 55
   - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
     excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
     publishedDateTime: 2020-11-24T11:44:00Z
@@ -201,6 +190,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
+    images:
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
     excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
     publishedDateTime: 2020-11-23T14:07:00Z
@@ -214,20 +217,6 @@ related:
       - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
         width: 981
         height: 576
-        isCached: true
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
-    publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 2
-    images:
-      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
-        width: 1200
-        height: 627
         isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"

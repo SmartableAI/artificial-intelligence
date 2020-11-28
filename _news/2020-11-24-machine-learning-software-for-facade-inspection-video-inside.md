@@ -103,20 +103,6 @@ related:
         width: 650
         height: 366
         isCached: true
-  - title: "Laptop Employs UWB Radar, Facial Recognition to Authorize Users"
-    excerpt: "Lenovo's new laptop leverages a Novelda system-on -chip to detect an individual's presence, which launches facial-recognition software to identify users, thereby automatically opening when they arrive and locking when they leave."
-    publishedDateTime: 2020-11-23T09:30:00Z
-    webUrl: "https://www.rfidjournal.com/laptop-employs-uwb-radar-facial-recognition-to-authorize-users"
-    type: article
-    provider:
-      name: RFID Journal
-      domain: rfidjournal.com
-    quality: 39
-    images:
-      - url: "https://www.rfidjournal.com/wp-content/uploads/2020/11/Lenovo-1.jpg"
-        width: 500
-        height: 446
-        isCached: true
   - title: "How machine learning differs from traditional software"
     excerpt: "In the last column, I discussed the difference between artificial intelligence and machine learning, and referred to narrow intelligence, which is a machine’s ability to perform a single task very well."
     publishedDateTime: 2020-11-25T14:41:00Z

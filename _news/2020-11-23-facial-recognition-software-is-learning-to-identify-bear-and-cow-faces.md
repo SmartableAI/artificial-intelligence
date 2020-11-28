@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/facial-recognition-software-is-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/"
 type: article
 quality: 89
-heat: 199
+heat: 189
 published: true
 
 provider:
@@ -92,20 +92,6 @@ related:
       - url: "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717"
         width: 650
         height: 366
-        isCached: true
-  - title: "Laptop Employs UWB Radar, Facial Recognition to Authorize Users"
-    excerpt: "Lenovo's new laptop leverages a Novelda system-on -chip to detect an individual's presence, which launches facial-recognition software to identify users, thereby automatically opening when they arrive and locking when they leave."
-    publishedDateTime: 2020-11-23T09:30:00Z
-    webUrl: "https://www.rfidjournal.com/laptop-employs-uwb-radar-facial-recognition-to-authorize-users"
-    type: article
-    provider:
-      name: RFID Journal
-      domain: rfidjournal.com
-    quality: 39
-    images:
-      - url: "https://www.rfidjournal.com/wp-content/uploads/2020/11/Lenovo-1.jpg"
-        width: 500
-        height: 446
         isCached: true
   - title: "Machine Learning Software for Facade Inspection | Video Inside"
     excerpt: "Machine learning and artificial intelligence have long been in the construction industry to make some real impactful ripples. After almost two years of development in Thornton Tomasetti’s CORE lab, engineers have created a computer-vision,"

@@ -3,8 +3,8 @@ category: news
 title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
 excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
 publishedDateTime: 2020-11-27T09:08:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
 type: article
@@ -91,6 +91,6 @@ related:
         height: 500
         isCached: true
 
-secured: "3XxaPU4dsfCI3W8PdBA68lYP7ukYoCwHMpC9CyymhoHpQeaJd5PhtcJY3cDTbuJqZCqMla/EDHq0KP26WRV/mDs1LvyiXGC9RruxKSfSdXNH+7+aLo4wjjSgWFqS6z909YRSbcv8ovJ6uljz+rYB9MwLb8nWAhE1+xx1yyq/sriBi4T6Stuc7rDt0YCtAhL+rDC6A9mBSjH5krZ0sESrMcKvA/G+tCi/1JCmUbe54apDIfMVsCJ5Q0/hznEeIe3p1YmSs5ho5OsDH+Q9ScWDAXER5hQhSB174o382Y364SNiqOBvBY5oNConqTcqcFYf80/ngbB1/FM0lf5bNaqSYtJePwzqW1KUNFOVXDZkliR7mvON3hl1/SKJonk43z4snAiN7vE5Q01A9uDNBfVtYJyA4ID6IxnG+DfFdjNPfWitFMCzGHdPfwOM60KHdutRXMQJYJeG8+zFuQXoRB6sHCjkv9zTI6GF6jIkfP/YjxZrCulXYRxVSKSYKoCKKr30ccUMjwCFbZlQYzLb1XTRSA==;zPlwddr4/kTiXBzE3CA1zw=="
+secured: "YfiDB2o2heUQiCdv8cJBwyW7I7TNOEeWMjpQfTpAiN1t2Y3HFUZNGKsXa5S1phy8ar6d+fdwnBThrhrI71w7wD20aCKRF363OPIKYhzIeUejupuxWAgknnCOkcBACJOubyIb5iNNlhLx+o6rr0LZudu16O7iWEhg9yH71E4OyIe/JtgfBnaQb/L71SKfT+reR23GT+x2bU/nqBskz23oYmUZtJcjBzXf8ytoh34UNXYUaGKtQHlmsBFKoZueu+Ot57h+4iDom+UfsUcMx295pYk988+Vxco1viwWsb+Da/XV2ucK0NGxqjVuVclaQ4b9AiZIxckMjKGWKlVYXmXyI33Qy9eK0DhYKqbQ5C139uY=;UxeWUAlHFeHLaW9B6M740A=="
 ---
 

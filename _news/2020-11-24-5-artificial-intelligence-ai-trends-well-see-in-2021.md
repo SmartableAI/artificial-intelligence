@@ -7,8 +7,8 @@ originalUrl: "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-tr
 webUrl: "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: CXO Today
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Global Artificial Intelligence (AI) Industry"
-    excerpt: "The global market for Artificial Intelligence (AI) is projected to reach US$312.4 billion by the year 2027, trailing a post COVID-19 CAGR of 32.7% over the analysis period 2020 through 2027. Globally,"
-    publishedDateTime: 2020-11-23T11:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/n18491918/global-artificial-intelligence-ai-industry"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18491918"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18491918"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
   - title: "Five AI trends to look out for in 2021"
     excerpt: "With artificial intelligence (AI) evolving at a rapid pace, it`s important to stay abreast of what`s happening in this tech-driven sphere. And with new developments heading your way in 2021, we`ve got you covered: Here,"
     publishedDateTime: 2020-11-25T10:30:00Z

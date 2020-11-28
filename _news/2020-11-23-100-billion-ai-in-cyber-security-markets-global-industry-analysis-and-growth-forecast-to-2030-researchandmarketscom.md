@@ -144,15 +144,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "AI in Healthcare Market Size, Competitive Strategies, Application Analysis, Regional, and Forecasts 2020 To 2030"
-    excerpt: "AI (artificial intelligence) in healthcare market is estimated to be over US$ 3.2 Billion in 2019. It is anticipated to grow at a CAGR of ~51 % from 2019 to 2030. The growth of the Artificial Intelligence (AI) in Healthcare market can be attributed to several factors which have led to wide scale adoption of AI in healthcare industry."
-    publishedDateTime: 2020-11-23T09:03:00Z
-    webUrl: "https://www.medgadget.com/2020/11/ai-in-healthcare-market-size-competitive-strategies-application-analysis-regional-and-forecasts-2020-to-2030.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 13
   - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
     excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
     publishedDateTime: 2020-11-25T02:32:00Z
