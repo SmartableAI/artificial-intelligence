@@ -2,7 +2,7 @@
 name: "Taiger"
 overview: "TaskUs provides next generation customer experience that powers the world's most disruptive companies through amazing people and innovative technology."
 type: "profile"
-heat: 57
+heat: 50
 
 website: http://www.taiger.com
 
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=X9wiSLxokXA"
 
-secured: "cETRWvxa6nppCijzRLG9q8sZQ10c474jTW39B63I+126la2/pLzuQHl9Ao8fq2yJqzVuAcf2eFN3JV23EWPIla5qPNOLl7JCBeuh+PBS5V+Ng5jt1GOdtbAWDLD+2JJdbNp6myKKjV+StgiI8jqd+hTrthdgr7oA3SVjM0B963Cv+JaHShIC1jxukAoSo+fXK5ztwwGl0IsprE1mpQelhG8MDYNaPLXCaB+w8fPEuAHJh40Sw+PsaS62dLLkqBc04fXUO6Mv92T37hOck1uCoSOh/aG4a+uQcV4wJfQc+l8P/esI3pMZAxhOlA2dkF/2MWUpdEbOC7zuO6BmtEYaWLzhUdxzrJUBf9VVfexxrW9yFlGc0nbIZZ5GsLjWpJhtIc8pxazKtGQYTQxjhZ9QU0TdJuwoOxX+qCWkFPF9Hts=;saA/nFESazMbId6gGKMXqw=="
+secured: "pFfH7KsVxdg5h27ZYhCvSv6AWY9TxrYEPtaKc8JhOvjL3lHzVxWJLySRCD6h4GIhdgZn482JSbRQ4uaKRbXRUUmDdx/mb6xiBBUyy+qmfs+GU055SX9I9Dm3sgacgQ14NoaaPe3rsExKIRwDIpxef6lSSlDiFckhttEtkxkKzIkhAxAyuvDrrXY0i1iSW1ft/IYpcYzVA3NhPwBX7phFPp08c+UeunB3GVjICDsp/KD2StkpxKd4UaayvMCouU8BtumZUqfLhK50+RLvzu2xHaisrePZ9ufXJCa8TUnLdujG566sYyHycCXxu9DmI+UCfSIPP2OiQHpZFx5zkS4ipciOLnHkqDD+QPf5J8m2IJf4y98rZJd9lr9sst3leOl/rMieCsMl7CUb1li6gbBmp0Kh4Lnz7P60HtAn8seADdo=;/fOrZ7N/0a+7zUJdKGxwaA=="
 ---
 

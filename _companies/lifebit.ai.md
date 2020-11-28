@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lifebitAI"
   url: "https://twitter.com/lifebitAI"
-  followers: 4125
+  followers: 4124
 
 size: 2-10 employees
 yearFounded: 2017
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=aycHy_axa_Q"
 
-secured: "Tv1Mlqsk6SlTGRipSFw8OSpI+mFGeW2oKYz2rbC36HX+Hzv9T/kR1x/ONu1GaAktobETa2NbFrldlfxcSyI1ZdWqAcPOt+q31tbodFtr2UHvcC9jSwguyuC3/HYl5/I99wnGELYtTB03kooGjeWfNFt7qBzEEw4Az31Fv4a/7wBqTzZvpcF2DHuRTe3UjrMXxCqe4BUKx9AaX6lvhkVkM/VYEYmlCUWW+dEtim9ivfD51sE70ZFFMpCrrlOnzWBJ7Ws9xekDA5qXuONPxADOd4IX6XP35sVRUf2oS3mYCN8m4ZbFVBNaiPWPEQRoM57tjV7BqmKtw4JHJzHgQT21We80GPbiI7ffNkfD3ckCZhZ4yGTY3+Gtd0aggzRS41rjb6Xd08C2twRHOFuMFNxXzw==;oGNFPsqZxPTRXUvorpRQHQ=="
+secured: "L/pplhvFS6Lo2yu8Ura/bTN4VNO57soU7jynaO0dGlKHjuBxFurhs2mSnZzt+vcDHc/+UF7/+j44rIJCJpGji2X9PEdcwcOJx9pUR96/DpikpyoFI0SBmramWVZC3cjUIxcze2UwzDZ4ANzE+lIB6f+AEOtUFH6AYfVHeHbq/GNH7rlQeO1dNBBj8JVGSCddmlW0rODDFbHJYTqoSxoSQV2CqoCQZWEfbvvTuOyIeFfqhRyzVEglEE8BJHlRRW6aUyGSuo6MxJj0N0lA0nS4UTtBL7eaF7dClDHHmt1gnVnodFWC6HPhPVIC1jeeF5Wdhp83gmxfD/HJ1+WLJSJoCQDG45SaJqrQ3MkoRkrBfEDHFaRN2My9/Q5t2WdYhA7smu0SAhm3J+6JZNp2mqutR7vbvJ2jP+os2+3ZEs3ObRA=;wXhuKUPaTWzlyllNY72RPw=="
 ---
 

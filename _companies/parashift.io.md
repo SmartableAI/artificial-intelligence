@@ -2,7 +2,7 @@
 name: "Parashift AG"
 overview: "Accelerating paradigm shifts in the financial industry by leveraging new technologies."
 type: "profile"
-heat: 82
+heat: 64
 
 website: https://parashift.io/
 
@@ -44,6 +44,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "1BMNAzfgfAsdmuKbLZFERv28qJZFltlnf8jsVmCDGdmllO3sTpYDBblwaSwuEbrLP+94uTKIlO0Ps4u2IsQJw6FQJBeon8noqcd9EQW2Wyh5upUqys8OrzgYLYqyUJk6+zGrkL/5xX9Y6HyZwfkk3osJcO4ReLWcA1U0sqcepJAv62UZj6REJsXBJRwa+xeoOWXn2hHJ/8Uyg+6HISmfEJx/Aik2cx0eRSIDpGZTWt1gSWafKvWyqy+RVlpbIAnGlIXnUNDph/h4YFuOTrqgAztDDmvJGb9UoS7U4QTzBta6AyaUPclojXCbpBMo7FSjwf5mg/FRuFJBmS6sxBOz/dJBY/Vk98U1junsJolL3hvAOw17CmI0p1gQCvVff766ETCCafL/5DUJPN8TwzmNnw==;5jrV6wtOOmVtVAzY4HFbkA=="
+secured: "UU3sLEQ53RL1r4Rd0attOmvVz5POPOf3yJ5hILTizIH/IwiACm1EAuqn/BzAF4jXRXFllyBmSkxN6JGyqJ/UA25/2urH1JSmj0FbyrKcOpIsBaAAEZi99wv4FuJuH9LHvpXLXNHa+m1NqV9uSzBz8gH2iblA5Q5VMog5jPqnQLCW1H3hByppHo5NyeTSrqB15mjRbZy7gv9NzA3LdMjQgCMJxpu/ncwPxEZAqigySL6yDygZH0s383kPwYm55k6nLn/OL+eB7YD1C5JnhqXZkSsuOfyteadq81TOozdiIJ7O4s0ma8qXeyaZJSugQzloWzxWg9HGieZzILZdYEQmA3diy2dHrD6I9yW+B72pSvVAXOWTaTZpjhrbNj8zmDmXpBcIsnO3+fYQrPq9Vgjh9A==;Kh6Qu6lwZjFesybLr4q4GQ=="
 ---
 
