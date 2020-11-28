@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Managing ethics and privacy in the age of AI"
-    excerpt: "Many Australian organisations are experimenting with artificial intelligence and machine learning technologies to gain new insights from their information to create an advantage over their competitors."
-    publishedDateTime: 2020-11-25T23:59:00Z
-    webUrl: "https://www.cio.com/article/3598788/managing-ethics-and-privacy-in-the-age-of-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/07/teamwork_collaboration_discussion_talking_language_meeting_hand_gestures_by_headway_cc0_via_unsplash_1200x800-100764600-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "dK+UdrY2DOQM072/IuyudC/IJCmKyqEGlSJrVoUKswYh/q558pmkE/9NeXQ45FueAqC7+xlALcMvyaqWen5fzn0gHBH5tK1lJXpyJRyl9bhc36Pw9p5v+KNMcFNIBhgg+9BZcUuHtku9Ssh30CX2V4jBxK18zmpaZoTyAO0FRmjxXrzbxz1ZJTXLpGcrZ1tb661q5OxVsaO8LNaBm8NsWsZRBCS3NnLxXj1qhM5e3MoFkv12Yxp1fNset507lylCpetGPVpVrm9TUf5Au20RwFNFH5pfduNc5GNz66Yaysd5OXtqEhY6GSNkcetzPKKmo86DPmz67sntM3i94qkn4j8DoqqkqGCRAp7HAZ3BLLI=;dR9XHAylA3NBG9m1HaHeJA=="
 ---

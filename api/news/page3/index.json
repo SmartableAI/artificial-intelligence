@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-25-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
-      "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
-      "excerpt": "Nearly 60 per cent of about 650 passengers WeRide surveyed say they use the company’s robotaxi service for regular commutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "originalUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/25/fe2fa526-2ee0-11eb-be20-200ca6256645_image_hires_161521.jpg?itok=wVzItpX0&v=1606292129",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "publishedDateTime": "2020-11-25T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020.md",
       "title": "Your guide to artificial intelligence and machine learning at re:Invent 2020",
       "excerpt": "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world’s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners.",
@@ -651,6 +599,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-25-aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow.md",
+      "title": "AWS Announces General Availability of Amazon Managed Workflows for Apache Airflow",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Managed Workflows for",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T13:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-25-working-to-understand-c3ais-growth-story.md",
       "title": "Working to understand C3.ai’s growth story",
       "excerpt": "We noted during our initial dig into C3.ai’s numbers that while the AI startup has had strong historical revenue growth — from $92 million to $157 million in the fiscal years ending April 31 ...",
@@ -761,7 +761,7 @@
       "originalUrl": "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 98,
       "tags": null,
       "images": [
         {

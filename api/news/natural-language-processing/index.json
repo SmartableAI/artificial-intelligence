@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-28-recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people.md",
+      "title": "Recommended Reading: Using AI to create alarmingly realistic fake people",
+      "excerpt": "Fake personas on the internet are nothing new, but completely fake people that appear to be alarmingly real in photographs or animations are becoming increasingly common. To better understand how easy this process can be,",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "originalUrl": "https://www.engadget.com/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2019-01%2F928edd90-1a6b-11e9-9dad-12cf547e46df&client=amp-blogside-v2&signature=220b66291da6c89be2fc4f03e86d407a461807b3",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html",
+      "publishedDateTime": "2020-11-28T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare.md",
       "title": "4 Ways John Snow Labs is Raising the Bar for NLP in Healthcare",
       "excerpt": "Ways John Snow Labs is Raising the Bar for NLP in Healthcare By David Talby, CTO, John Snow Labs - Natural Language Processing (NLP) has been a technology to watch over the past few years, but in 2020 it emerged as",
@@ -1462,58 +1514,6 @@
         "AI",
         "AI in Robotics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-3-ways-conversational-ai-gives-your-organization-a-competitive-advantage.md",
-      "title": "3 Ways Conversational AI Gives Your Organization A Competitive Advantage",
-      "excerpt": "Contact centers are moving to the strategic heart of the business. Here's how the latest advances in conversational AI can help improve CSAT without increasing operational costs, plus a look how leading organizations are already seeing success with Google Cloud CCAI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
-      "originalUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab1e5eb57f27c29d950d15%2F0x0.jpg",
-          "width": 1199,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/googlecloud/2020/11/10/3-ways-conversational-ai-gives-your-organization-a-competitive-advantage/amp/",
-      "publishedDateTime": "2020-11-10T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

@@ -789,19 +789,19 @@
     {
       "path": "_news/2020-11-17-stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure.md",
       "title": "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure",
-      "excerpt": "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is",
+      "excerpt": "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
-          "width": 600,
-          "height": 315,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -811,11 +811,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T05:00:00-08:00",
+      "publishedDateTime": "2020-11-17T06:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

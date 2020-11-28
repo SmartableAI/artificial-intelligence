@@ -26,15 +26,15 @@ images:
 related:
   - title: "AI 'doctor's assistant' among projects given £20m"
     excerpt: "A computerised system that advises doctors on the best treatment to give a patient is among the artificial intelligence projects that have been awarded £20m by the British government. The money will be shared between 15 AI projects being run at UK universities."
-    publishedDateTime: 2020-11-27T12:20:00Z
-    webUrl: "https://www.bbc.com/news/science-environment-55099620"
-    ampWebUrl: "https://www.bbc.com/news/amp/science-environment-55099620"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-55099620"
+    publishedDateTime: 2020-11-27T11:18:00Z
+    webUrl: "https://www.bbc.co.uk/news/science-environment-55099620"
+    ampWebUrl: "https://www.bbc.co.uk/news/amp/science-environment-55099620"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/science-environment-55099620"
     type: article
     provider:
       name: BBC
-      domain: bbc.com
-    quality: 87
+      domain: bbc.co.uk
+    quality: 57
     images:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FCF4/production/_115665746_2f0255259-machine_learning_conceptual_illustration.jpg"
         width: 1024

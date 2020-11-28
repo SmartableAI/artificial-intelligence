@@ -2,23 +2,19 @@
 category: news
 title: "AI 'doctor's assistant' among projects given £20m"
 excerpt: "A computerised system that advises doctors on the best treatment to give a patient is among the artificial intelligence projects that have been awarded £20m by the British government. The money will be shared between 15 AI projects being run at UK universities."
-publishedDateTime: 2020-11-27T12:20:00Z
-originalUrl: "https://www.bbc.com/news/science-environment-55099620"
-webUrl: "https://www.bbc.com/news/science-environment-55099620"
-ampWebUrl: "https://www.bbc.com/news/amp/science-environment-55099620"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-55099620"
+publishedDateTime: 2020-11-27T11:18:00Z
+originalUrl: "https://www.bbc.co.uk/news/science-environment-55099620"
+webUrl: "https://www.bbc.co.uk/news/science-environment-55099620"
+ampWebUrl: "https://www.bbc.co.uk/news/amp/science-environment-55099620"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/science-environment-55099620"
 type: article
-quality: 87
-heat: 97
-published: true
+quality: 57
+heat: 67
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -45,6 +41,6 @@ related:
         height: 382
         isCached: true
 
-secured: "WvhyL1aEGQq99sZl3Z2KWAYlam9LqIr2pNH+gNpyqdlsF5qA6HRSL/cO4Nxl78vEjM+KDMKKXeHT7p9rAQ0p/Ng9oam0crRf378Pf91z5MH/Pa7ecHwLpREG3JH9MB5sGhdNEbOSzHUh+f/VGBZt5HAMhvVDKwTxs4zOFkBPDEMr8hlgxylH2Rd4Ce4UZMN8QiZM0Oibci1dNK+FfICDAWfNRua12OuaRf3kkEbk6vqGL82vXJw7A4f1MVKksdA4Zc4vLkPSB3Q7riSDlqt1w3teTW9MiyWHwtqKgUPpqkT1nNo/zwPcvYz0Qpcbq1hqPJbjrhFGl88GUOSnC70M3P9x3dDuCF9Exf8hLF4Jd90=;KL9LghpEOa+mq4m6ynWkMg=="
+secured: "ZR9G26JcXhmzLhKGGusNZzsr6vBu5d6Rcdch2sbMoja4nUngRyY+xBzi/M+MQ7wkZZfUM6CKYqhedNNbRUlj+h2boZJeMomIQbOnyCZF6jYYkzcrqL5kl+vellSr893wKkvHmhYEfdCXaax6vMlPVrxAXQoIZppVS1QSNqD4jxqxD9RcEm3CPtLri5tLCsEm+rKKLcMRzWJ8KqBzorUihb9ybu43ypitrnFgWr+Rlq53nBiNgHj4fVoWN08FECu2I/phsnMw+GjsEPZa//yGWV4zeT9mab+DIWaC5fbsKjeDYfPzsUy6+d+q6bxHSwK0IP/wjhg/OUMoKr86dg3MNGu7P4PQvMYh1PA6S2cdpzE=;WY4vcbKO22p3IbiDJ6XKNA=="
 ---
 

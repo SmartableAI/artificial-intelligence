@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-03-intel-has-acquired-cnvrgio-a-platform-to-manage-build-and-automate-machine-learning.md",
+      "title": "Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning",
+      "excerpt": "It competes with the likes of Databricks, Sagemaker and Dataiku, as well as smaller operations like H2O.ai that are built on open-source frameworks. Cnvrg’s premise is that it provides a user ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173239906.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
+      "publishedDateTime": "2020-11-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-wipro-and-aws-announce-the-launch-of-wipro-aws-business-group-to-accelerate-growth.md",
       "title": "Wipro and AWS Announce the Launch of Wipro AWS Business Group to Accelerate Growth",
       "excerpt": "WABG merges Wipro’s diverse industry experience and comprehensive portfolio of services with AWS’s industry-leading cloud platforms to help organizations worldwide drive business acceleration, enhance customer experience,",
@@ -1382,51 +1435,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-ai-ml-latest-google-disbands-another-ai-ethics-committee.md",
-      "title": "AI & ML latest: Google disbands another AI ethics committee",
-      "excerpt": "28/01/2019 Amazon open-sources its SageMaker Neo machine learning optimisation software Amazon has open-sourced SageMaker Neo, its software for training machine learning models and optimising the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "originalUrl": "https://www.computing.co.uk/news/3064293/ai-and-ml-latest-google-disbands-another-ai-ethics-committee",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computing.co.uk/api/v1/wps/5203577/fc71aa65-4503-4367-899d-807e05b7c41c/2/google-logo-on-wall-370x229.jpg",
-          "width": 370,
-          "height": 229,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-18T21:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computing",
-        "domain": "computing.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
       ]
     }
   ],

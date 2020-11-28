@@ -2,11 +2,11 @@
 category: news
 title: "AI can run your work meetings now"
 excerpt: "Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews."
-publishedDateTime: 2020-11-27T13:00:00Z
-originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1"
-webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1"
+publishedDateTime: 2020-11-27T13:04:00Z
+originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
+webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -60,6 +59,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "5luGuFYEIaDhGRvfdgbBA04v/h8g5wZNDn/FkwSqW5X2U9VJ4tXH4dmj1J9ji6lxjDpGMQD2OYkCubD+R3FmWfBgMya5z1ls/jm5G1htmaSuyoYWjYLX0OLEfKjQdbBcZv38BuZtBa/ozOMi0Q0D51QDvNfVULyuPddKf+Z5zc6B/KKETNlj85l+O401npRBu29Y3I2grJa9UmSHztI8CBLZirfnwWGLtK8QZ1IxkleAaHjJKBUXkn6AOwQIobCMzx349yjipG+9mgiSHHlo8BALBBnAXiCs7XiJAGJJXlmX7UvFfSZtWK7PJyQupvNSxSe8c+UzY4I++IiGDAfNxIWFYchgORDTJCOiLR206/iQEvA6ND/loB95MsfMhlY+WnM5ExCLQidfp7IBg0FFN1/8J2hul+No5FmZIxuWwrDbcPrGNST+sLysOsJSduKvmfYj6kHKHulSCTJtsZPkpfxsjncuyWMnTf2zZi7RQdoCQBooLaLSUwLQgnJdKEPHdAtEkKMJBsnPpXUNdN+bhA==;Qk+gFZRRoUHrkNR9MMJUYA=="
+secured: "ZPVtBxlqRB+I3aiuphhBexjMkHGPYunyS/zF8JpMyqoGWx6EWc8uBjZy4fL9kmkRQw4g/2v29I/NNfNEXaZsuTFW7wVi7AyARNPsyNzATNn4iJbZY2MxnFWOcGyYmok8Z0IT3OJTiZ4re6iynWJCzWgo/rrt/c6e9Hiig6ACdCKsweMMFWnUub8wyl3fB86NJ0Q9eZO8Udn3EDiUoeT/OVCQ4q4VRjtrYONJKX08NAafacCHtM7hEZ9vsHRgtbDN9lJowF7XptcjiHz5abl1xT1osPShPABT+ZM3TzLdTBmUDPqZbUzC7EM6SpBY17VQ4O0PJ9k3iRSd9XQn+BOuFsOe8iK4RHBFqDr9EUzPhJQ=;JdtczljGzAN4qG1J4zgsmA=="
 ---
 

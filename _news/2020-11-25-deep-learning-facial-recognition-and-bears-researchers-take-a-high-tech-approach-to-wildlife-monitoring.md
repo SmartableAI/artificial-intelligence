@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Can facial recognition tech identify different bears?"
-    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
-    publishedDateTime: 2020-11-24T02:11:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
-        width: 1000
-        height: 667
         isCached: true
 
 secured: "vS3SHh3R8q2abj5oih4FwaPh7cgBswAj41YME63uHxa6aY9X7WLJTh3t9tETsR7GXn5cw0C9/TCboYE8UZBd0IpjZXG3ep3Ao+b4dyo3EjhkXreFDCZSe7YWhhkFS/c68k4i8/pKrLb8Qm0pHGRDbyFL7BPM0lTBzuU1xJTUeWcJGOuLHkL+uJpkuZ7jsD6pdzpJaCoIxLe01bFxg+E9nCBnhoZVWS3aOhvQKLqAzb2GEM1W0DTcf3yq/7u9N6NGZisyTF7DmhCxgk031MDP2S2IduGHTTVGii+YudgBodiRFDYaFL1i6QIuwSoQD2VbT9+By+HN7+ePl8q7QAusysC20j2UJw1U0+whP9c/b0Ytzv41YSBd0zKiavwrOdW8tjudkDUZfcTofJlq7F6IY7Ouuxri1USEDdQkj/gs6LYf1fe5XnmakHXG5aCNrDHf8H2VcPaMiwUgbQoa4VsKS+mQ1tHkdMmKEC4YWytnmuHQs17MpzUwqnVKPCfHD2zFcvaQH7d5nX4XcwKrIK6zXA==;nzno/gZDhtgMgN8yCxOlxw=="

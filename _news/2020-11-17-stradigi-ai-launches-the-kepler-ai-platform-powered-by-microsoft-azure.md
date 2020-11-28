@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
-publishedDateTime: 2020-11-17T13:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
-webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
+excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
+publishedDateTime: 2020-11-17T14:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "s/BEKJLpBTU38VawgPCXVguIEihVDUJOq5MdC/RpCk5K6WHhKTCF71XqPHjxvuaGR9RZMECc3ezr4mloGY3LMIkL7f98t94yTH3yZF6s2zaC86aAM3nz+bFxSXv2uBi6bjVKXiD/ozIzqZhsS1R/eDObPDqRz3IX6wVOND0dZ7j26+nkh/eoCltroXLn1D4abu26JC1tDKw0WkF8JxHOdXVv2viKl/gjtDqVOsRGXX9mmPF7GlASMZ35Lf1bKZ4En7PtoF6ve8v5NjCt/X3EtBF1qYYxtTs19/1KmIEp+Y7QE3GW/egEt/yRmP4K7RSYxHle8PyB5Yf7YVgSJ/umHLABNNk9l62Ku/LVJsd4njg=;awh8Ma3RHsmQI+ge0BpW3Q=="
+secured: "heQqov5L0pm1r4fX11QQ3UXcZQLvIq8CuOWVPX7d5hyoxKQGErm6zkc7mDl1B8ykuvoa4yKcphcE/+l1WFMc+3JWkKAHtot5go10yo62R0FcLteEXNgLNh3KEzZq2PBaZ1C3OuXOs/nM4X2e2+pdXUXZ5s5u2PARZKDU9GUzK2bp91bhAnhu8NXmJ5HB55m+YYkZOebG4comNHm7ze7jTMZcOMprQYFf60bPsIeKRV4Jl31WR7w0n7qr9i98AYxYjr0EfclmOqoMambtnDdlaizjAFffRDNPCO9JWa+hUDS/xuvOd3K1ySbcabFlVMbY47U12e5Lh+paEnNfDIHat/DxSnbTIMgfzkKBCuYE5UA=;GYn/4c3Sjk0Bx5gRdbRRwg=="
 ---
 

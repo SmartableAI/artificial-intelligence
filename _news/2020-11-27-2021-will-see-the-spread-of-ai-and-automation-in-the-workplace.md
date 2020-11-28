@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/googl
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Managing ethics and privacy in the age of AI"
-    excerpt: "Many Australian organisations are experimenting with artificial intelligence and machine learning technologies to gain new insights from their information to create an advantage over their competitors."
-    publishedDateTime: 2020-11-25T23:59:00Z
-    webUrl: "https://www.cio.com/article/3598788/managing-ethics-and-privacy-in-the-age-of-ai.html"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 54
-    images:
-      - url: "https://images.idgesg.net/images/article/2018/07/teamwork_collaboration_discussion_talking_language_meeting_hand_gestures_by_headway_cc0_via_unsplash_1200x800-100764600-large.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Will Artificial Intelligence Replace The Mathematician?"
     excerpt: "In the 1970s, mathematician Paul Cohen predicted that at some unspecified future time, mathematicians would be replaced by computers. Its a theory that has unsettled many in the field of mathematics."
     publishedDateTime: 2020-11-25T01:34:00Z

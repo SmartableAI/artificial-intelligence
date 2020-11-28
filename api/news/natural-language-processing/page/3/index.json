@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-28-new-unbabel-portal-unveiled-to-manage-customer-service-language-operations.md",
+      "title": "New Unbabel Portal Unveiled to Manage Customer Service Language Operations",
+      "excerpt": "The Unbabel Portal offers customers the most dynamic visualization and increased control over language operations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
+      "originalUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201028005068/en/833874/23/Unbabel-Portal-Usage-Reporting-Analysis.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-mobile-speech-recognition-software-market-research-2020-competitive-landscape-and-development-model-in-different-regions-of-the-world.md",
       "title": "Mobile Speech Recognition Software Market Research 2020: Competitive Landscape and Development Model in Different Regions of The World",
       "excerpt": "Final Report will add the analysis of the impact of COVID-19 on this industry.\" “ Mobile Speech Recognition Software Market ” has several changes in recent years and expected to vary significantly within the forecast year because of developments in production sources,",
@@ -1383,49 +1426,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit.md",
-      "title": "FDP on ‘Artificial Intelligence in Natural Language Processing’ inaugurated in KIIT",
-      "excerpt": "Faculty Development Programme (FDP) on ‘Artificial Intelligence in Natural Language Processing’ organized virtually by The School of Computer Applications, KIIT Deemed to be",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "originalUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i1.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/2.png?fit=606%2C342&ssl=1",
-          "width": 606,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/fdp-on-artificial-intelligence-in-natural-language-processing-inaugurated-in-kiit/?amp",
-      "publishedDateTime": "2020-10-16T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
         "publishers": null,
         "authors": null
       },

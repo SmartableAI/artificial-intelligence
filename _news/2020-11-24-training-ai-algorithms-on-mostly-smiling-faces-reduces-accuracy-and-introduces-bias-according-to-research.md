@@ -48,22 +48,6 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Can facial recognition tech identify different bears?"
-    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
-    publishedDateTime: 2020-11-24T02:11:00Z
-    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
-    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "s3QQW/FQ1fCnm2cZcLZiTkUCPrvwEJFGkYVDX4ifzy+sM+dYfnbEN4Uk5ROMEpnIBniqFlt6ZN9xGbE15XEFtWZ6mIcM8b4sufi9XgqU9MyvGdD1qwjsT5NuGju0ZcNqDk4jN5L6VGzEyYvcvuv5OjZiC7wxA6pjJPKvG8F4bRWCyHUO4WsKjFinyKPvJ/3uXGy3k0lfJE/8nq8UpZ0YQJtWMirwcjcijcExi1QoLBYgNPdPF2lC7nYyrJHQV3zklsegI+voH9ubgYLSOjPN4Yk8sKGOYNgjxy/2lFGMvQ3+yEDPaVss2X1GSHiqXLrgvjS9+LhkSL1HNKZ1pitUiMR+CzghINfNSdV2APIiOcRuUWvVVmfej27flDyoTnr+so1PS/KvMGo6aqohYfNh68sPKg3bKhf20IViQ6qLunzEbAjFwYtuNZ+NOeMTldgLl1IoqMvm1IaswgahgWKftwedSABjd8juq3GgubOEaJ7g+cExximaIbEGNhlpV9dVFd/DFy0U+XKspZhGo9w7vA==;aP+EhgFSkVYVGo69tG+ZYA=="
 ---
