@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Training AI algorithms on mostly smiling faces reduces accuracy and introduces bias, according to research"
-    excerpt: "In a new paper, researchers find evidence that variations in facial expression are resulting in biased facial recognition results."
-    publishedDateTime: 2020-11-24T03:45:00Z
-    webUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/"
-    ampWebUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 73
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "vS3SHh3R8q2abj5oih4FwaPh7cgBswAj41YME63uHxa6aY9X7WLJTh3t9tETsR7GXn5cw0C9/TCboYE8UZBd0IpjZXG3ep3Ao+b4dyo3EjhkXreFDCZSe7YWhhkFS/c68k4i8/pKrLb8Qm0pHGRDbyFL7BPM0lTBzuU1xJTUeWcJGOuLHkL+uJpkuZ7jsD6pdzpJaCoIxLe01bFxg+E9nCBnhoZVWS3aOhvQKLqAzb2GEM1W0DTcf3yq/7u9N6NGZisyTF7DmhCxgk031MDP2S2IduGHTTVGii+YudgBodiRFDYaFL1i6QIuwSoQD2VbT9+By+HN7+ePl8q7QAusysC20j2UJw1U0+whP9c/b0Ytzv41YSBd0zKiavwrOdW8tjudkDUZfcTofJlq7F6IY7Ouuxri1USEDdQkj/gs6LYf1fe5XnmakHXG5aCNrDHf8H2VcPaMiwUgbQoa4VsKS+mQ1tHkdMmKEC4YWytnmuHQs17MpzUwqnVKPCfHD2zFcvaQH7d5nX4XcwKrIK6zXA==;nzno/gZDhtgMgN8yCxOlxw=="
 ---

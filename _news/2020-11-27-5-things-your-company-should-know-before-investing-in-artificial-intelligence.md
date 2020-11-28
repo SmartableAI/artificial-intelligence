@@ -48,7 +48,7 @@ related:
     provider:
       name: Ars Technica
       domain: arstechnica.com
-    quality: 67
+    quality: 69
     images:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Screen-Shot-2020-11-25-at-10.50.31-AM-760x380.png"
         width: 760

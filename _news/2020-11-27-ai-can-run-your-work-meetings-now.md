@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-27T13:04:00Z
 originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
 webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
 type: article
-quality: 67
+quality: 69
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Screen-Shot-2020-11-25-at-10.50.31-AM-760x380.png"

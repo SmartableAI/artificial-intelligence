@@ -43,20 +43,6 @@ related:
         width: 768
         height: 385
         isCached: true
-  - title: "Amazon SageMaker Studio arrives in Sydney"
-    excerpt: "AWS' Amazon SageMaker Studio IDE for machine learning is now available in the Asia Pacific (Sydney) region. SageMaker Studio, which is based on JupyterLab, is said to provide a visual interface for all ML development steps."
-    publishedDateTime: 2020-11-24T03:30:00Z
-    webUrl: "https://itwire.com/cloud/amazon-sagemaker-studio-arrives-in-sydney.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/e45081322b8a398156a7c843798d98f7_M.jpg"
-        width: 375
-        height: 335
-        isCached: true
 
 secured: "HW+VrhHcrlxe3LKqnylpJ0G68wrnJ/ypkfxJ9OcgDeLq7kKH8rJbc2LHL+mrpGDhxykgpz1rKUARaR4kzAavfkwQN6v/wzLWzkgstFhe3MoCycqLmO68FSjvN47cw7cQRukuzinYXrlf/tPdnzen8K0qlb4Zsv2Sf2jianC7N7/qTVv5ZGuyVMVE1PtgcKs6ZCtFwN7Dd+e30D+tPMRL658rSROsC7TXcwlEt5UD02VY/zxTbnL4ikAHALPG8WUPXOQ6vQ9qJwaFJj5njgHNSb8Xn8t2njxB9rO7hW2qdBwpmkN9Ga5ACjDAE0w7KIpDFjM1ENhnt3rfZJX3Op6nqi/NrTjqv21CIwhAbjNFAWU=;NRUq5vywbGmhlFWNDnxAKg=="
 ---

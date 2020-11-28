@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Mercado Libre, Inc. (NASDAQ: MELI), headquartered i"
-publishedDateTime: 2020-11-24T12:01:00Z
+excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
+publishedDateTime: 2020-11-24T08:09:00Z
 originalUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
 webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
 type: article
@@ -68,6 +68,6 @@ related:
         height: 513
         isCached: true
 
-secured: "6ZqIn1anogWSYDvop4SytqLgFfuy2z4wXTEjvYj7m9i3RYwYlSkAsXLsG3TY2O6s5AsHfRV2yWZ1MGfdmLKKR15Tyknnwy2+Jzzw8t6+c/fF6gENOXfHFdOjoQlbDKuWMeLGUKWjKIRhRYMPmZdWL8lqnnIDGBT3K8WDtkbfrqgGLj8wX+UqB2cKmdxN1ZlSXdZJsiiqTJh6hnUYZnZPKiEyQUSAHm+zMrh3wUgFDr5849aqkV6vpfaPd06pi1tijvhJ4zZZkB5ROxmq5SET+ya2WRJS85ETqa0/Q3CgeZSVXE2U6/EdpY7gc4/8xoyfrvFdD7yw9taIMyf/Quxaso+9nN8MhnV06X8ezyiQnZU=;aGpyzVqZvys7R7/FYCsD/w=="
+secured: "GMYUO9Y+icCDyi2AYqw/wqxC6g8ZUHryXrCnIAPA+gQqA/BwmGtAlzH3Rl+xJH15PcvT54JQC7dfzsJVD27EYZO5IH6Sfv1XTkT/IFANVeXZW4l34ITn93w9GwPlsUEJqALjt1nStz+M5ELvi6dKkjgz6FLlePuKffs1HPD3tslBGSo2N31+CFTVfMXV1LMjLAtJAsnT8e7+EF/LHjwfqNoIU6TzNBMK7c9WZN9QeljGhk2XXZ0opbPnMgI18UAqljtDkTs9HTYXPmw+msOnrb6k/LBNw+iGZQ3ZkJed1FQ374jIpcEXBcMwxyUxFCy2zYcBWh9KNJ8iVjVwGP4zGlQ2dfSmXhW57d4SmSZBJRw=;zlNtexevSaM+VYaciWUCbA=="
 ---
 

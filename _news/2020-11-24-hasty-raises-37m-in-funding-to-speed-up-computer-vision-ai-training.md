@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2020/11/24/hasty-raises-3-7m-funding-spee
 webUrl: "https://siliconangle.com/2020/11/24/hasty-raises-3-7m-funding-speed-computer-vision-ai-training/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: SiliconANGLE
@@ -25,17 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "GrAI Matter Labs Raises $14M to Bring Fastest AI per Watt to Every Device on the Edge"
-    excerpt: "Press Release GrAI Matter Labs, a pioneer of brain inspired ultra-low latency computing, today announced its latest financing round of $14 million. The round was led by iBionext, joined by all existing investors and newly welcomed Bpifrance through the Future"
-    publishedDateTime: 2020-11-24T03:25:00Z
-    webUrl: "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/"
-    ampWebUrl: "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/"
+  - title: "Korean fintech firm Qara raises $3m in series A funding round"
+    excerpt: "Qara, a fintech startup, announced it has raised US$3 million from Mirae Asset x Naver, Nexon’s NXC, and Kingsley Asset Management in its series A funding round. The South Korea-based firm plans to launch a new global stock trading service early next year for individual users."
+    publishedDateTime: 2020-11-24T09:19:00Z
+    webUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-series-funding"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 62
+      name: Techinasia
+      domain: techinasia.com
+    quality: 49
+  - title: "Hasty Raises $3.7 Million to Build Next-Gen Vision AI Annotation Tool"
+    excerpt: "PRNewswire/ -- Hasty, the leading provider of next-gen annotation tools for vision AI practitioners, announced it has raised $3.7 million in seed funding"
+    publishedDateTime: 2020-11-24T13:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/hasty-raises-3-7-million-to-build-next-gen-vision-ai-annotation-tool-301179454.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+        width: 600
+        height: 315
+        isCached: true
 
 secured: "hoPDYcqRsTth6lKKRSeuXJ7urXB7jxh85PrHNMIteVyhdxtwsxJcBDvK/8LteRqtGLwOW62uncXnELqjcE9SUkTrFHe6rB/ltrrE3VQ5QkMQmssxU9KbQuTYhd8Y1JTtNzp46w0VrIdj2pQcWbVhnI/oAxWb1NgkOM3JCFXchLlGWU7/kIYtT4G0dMXJj+YFTTt7EgrLEXPsDWZtE7YW/78Ak/qBMtvLFvcuAWz7BkfWebNC8jm6Ue851CEO1989r9HyCSF58PgGMgFfKEcKueXjcj9EefKLuFBEixnVgXAaVCpCC+4Fhd0WTqbV1tZa5x7dGjYvmUv5PXBML1I+qYBSETX5B9T20ihIdN+AxYs=;BaGfdl1eLj6av9WEzgQvhQ=="
 ---

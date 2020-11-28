@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201126/Combining-cell-engine
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
 type: article
 quality: 51
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers bring deep learning to IoT devices"
-    excerpt: "MIT researchers have developed a system that could bring deep learning neural networks to a variety of objects that constitute the IoT."
-    publishedDateTime: 2020-11-24T04:08:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/11/24/deep-learning-iot-devices/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/11/09095727/iot.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "AI in veterinary medicine: From finding disease to predicting it"
     excerpt: "While it may sound like science fiction, it’s currently underway in both human and animal health by coupling advanced computing power with artificial intelligence (AI ... antihypertensive therapy, and ACE-inhibitors also are emerging as effective ..."
     publishedDateTime: 2020-11-24T19:43:00Z

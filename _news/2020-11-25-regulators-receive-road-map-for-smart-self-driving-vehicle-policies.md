@@ -62,17 +62,6 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 39
-  - title: "NHTSA Eyes New Self-Driving Car Regulatory Framework"
-    excerpt: "The U.S. Department of Transportation has signaled that it may eventually adopt new safety standards for vehicles with automated driving systems, taking a big step that could boost development of passenger-carrying autonomous vehicles while ensuring that new technologies still undergo sharp scrutiny."
-    publishedDateTime: 2020-11-24T03:41:00Z
-    webUrl: "https://www.law360.com/articles/1331573/nhtsa-eyes-new-self-driving-car-regulatory-framework"
-    ampWebUrl: "https://www.law360.com/amp/articles/1331573"
-    cdnAmpWebUrl: "https://www-law360-com.cdn.ampproject.org/c/s/www.law360.com/amp/articles/1331573"
-    type: article
-    provider:
-      name: Law360
-      domain: law360.com
-    quality: 24
   - title: "Regulators receive a roadmap toward smart self-driving vehicle policies"
     excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Lawmakers at every level of government are still sorting the new rules of the road."
     publishedDateTime: 2020-11-24T17:04:00Z

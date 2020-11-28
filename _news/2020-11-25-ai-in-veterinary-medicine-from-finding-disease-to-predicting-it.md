@@ -41,20 +41,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Researchers bring deep learning to IoT devices"
-    excerpt: "MIT researchers have developed a system that could bring deep learning neural networks to a variety of objects that constitute the IoT."
-    publishedDateTime: 2020-11-24T04:08:00Z
-    webUrl: "https://www.helpnetsecurity.com/2020/11/24/deep-learning-iot-devices/"
-    type: article
-    provider:
-      name: Help Net Security
-      domain: helpnetsecurity.com
-    quality: 39
-    images:
-      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2018/11/09095727/iot.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
   - title: "AI-based earlier medicine development leveraging TWCC high performance computing services to boost cancer prediction research"
     excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
     publishedDateTime: 2020-11-26T06:10:00Z

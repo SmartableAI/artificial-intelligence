@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/"
 type: article
 quality: 113
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/5-R-notebook.png"
         width: 800
         height: 474
-        isCached: true
-  - title: "Amazon SageMaker Studio arrives in Sydney"
-    excerpt: "AWS' Amazon SageMaker Studio IDE for machine learning is now available in the Asia Pacific (Sydney) region. SageMaker Studio, which is based on JupyterLab, is said to provide a visual interface for all ML development steps."
-    publishedDateTime: 2020-11-24T03:30:00Z
-    webUrl: "https://itwire.com/cloud/amazon-sagemaker-studio-arrives-in-sydney.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 39
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/e45081322b8a398156a7c843798d98f7_M.jpg"
-        width: 375
-        height: 335
         isCached: true
 
 secured: "JMm5rdJe/s7EP5QhJIfxe8jr31d2ThHjenu1hDWCTa7JkEYzSWy7QlWhoXO+pNTJq9cIIUoZ7UzbheooOOVIdHGG5RpNTGIb1vB5D6w/eTJ3Gh77XemWcPvYgtJ3xLbRxPYmyrIxE1RRgzecHt3CmdeeDHTbzyEltD6eeW+D1By8N8vcQxCo2jhH62XrPCJDPMzt/TGQJy/zHVgbm3/boMzKJGeGya33HxwxTr2+0beS7mmZKSPyf7FCA8HvXIFmXLF6VMxcYPGd2IJInO1KTGRPNHmPlIKStBnXhu4hIgnOq2t6j6NCB+b1pFAWj2hslzGKv+CjSdQTYMS37l+zUxweRsbs8MEnm7Z5dHUixhM=;VyDMb7ytp67ZXd6qgGk/5A=="
