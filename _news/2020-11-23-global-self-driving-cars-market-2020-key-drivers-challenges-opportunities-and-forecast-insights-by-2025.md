@@ -206,12 +206,12 @@ related:
   - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
     excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
     publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
     type: article
     provider:
       name: Business Wire
       domain: businesswire.com
-    quality: 19
+    quality: 2
     images:
       - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
         width: 1200

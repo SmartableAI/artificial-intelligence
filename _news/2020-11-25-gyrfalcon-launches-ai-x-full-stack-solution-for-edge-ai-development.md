@@ -25,33 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "The 7 Most Promising Government Led AI Solutions"
-    excerpt: "From the US to Canada, and Denmark to Estonia, massive governmental initiatives are being mobilized to boost AI solutions across sectors. The efforts that nations put forth now on the digital front will define our globe's leaders and laggards in digitalization."
-    publishedDateTime: 2020-11-23T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/"
-    ampWebUrl: "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/"
+  - title: "GSTS Awarded Contribution for Artificial Intelligence Fusion of Satellite Data"
+    excerpt: "GSTS to augment real-time AI-based data fusion capabilitiesHALIFAX, NS, Nov. 24, 2020 /CNW/ - Global Spatial Technology Solutions ('GSTS' or 'the"
+    publishedDateTime: 2020-11-24T13:41:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb925cd4ff701e40d46dd8f%2F0x0.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "AI vs. Machine Learning and What They Mean for Government"
-    excerpt: "Federal agencies can use artificial intelligence and machine learning tools in a variety of arenas — but first, you should know the difference."
-    publishedDateTime: 2020-11-25T16:00:00Z
-    webUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government"
-    ampWebUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
-    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
-    type: article
-    provider:
-      name: fedtechmagazine.com
-      domain: fedtechmagazine.com
-    quality: 56
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
 
 secured: "meMRlhbq5ipYpeC2EPryt93pEcvkIQlJoUc+L8w8h64pbFg0b5dyzfVt7FW/vS2dc5zWRsGh/hbjdOrd8TTnnYbUI+kOcraHrco5DawCvl28MZ9sd8jgmuoHk0o023NVtZKxcH0pDx4I5bIRGyaoQS+scdJB5RugXyPaFeuDm8+r2fuAggS9fPgbtcY+zZnNI9mKnIxuJF+sRFaBzNpW6OKCG07gUCGtxIQfuMdcyoHsHT9fLlYI0NxMUpCJRjNuLonG3DTGS0v4HbeUNkvYOlZI9kBzq0oqJioF1l7johjsCphIRt7F/RlOzE4azaUvam/IqW/ir9DF+WRnct23AZRa1+07E/1OTCii4BHW5rw=;V48uvc3CaADkw84nFswQZw=="
 ---

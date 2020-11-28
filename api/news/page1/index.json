@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-28-tesla-could-widen-release-of-self-driving-software-in-two-weeks.md",
+      "title": "Tesla could widen release of 'self-driving' software in two weeks",
+      "excerpt": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/tesla-selfdriving/tesla-could-widen-release-of-self-driving-software-in-two-weeks-idUSL4N2IE014",
+      "originalUrl": "https://www.reuters.com/article/tesla-selfdriving/tesla-could-widen-release-of-self-driving-software-in-two-weeks-idUSL4N2IE014",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032",
+          "width": 716,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN288053",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053",
+      "publishedDateTime": "2020-11-27T19:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-restoring-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments-through-blockchain-data.md",
+      "title": "Restoring Credibility Of Machine Learning Pipeline Output Challenged In Study Of Real World Deployments Through Blockchain Data",
+      "excerpt": "Challenges to the credibility of Machine Learning pipeline output. How the performance of such ML models are inherently compromised due to current practices. How such problems can be cured by using the quality,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
+      "originalUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc1b29874a9b53e956d3b8c%2F0x0.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
+      "publishedDateTime": "2020-11-27T18:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation.md",
       "title": "Creating Amazon SageMaker Studio domains and user profiles using AWS CloudFormation",
       "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, tune, debug, deploy, and monitor models. In this post, we demonstrate",
@@ -308,6 +412,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-country.md",
+      "title": "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country",
+      "excerpt": "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-country-1029844954",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-country-1029844954",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954",
+      "publishedDateTime": "2020-11-27T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -811,7 +958,7 @@
       "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1092,155 +1239,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-watch-tesla-full-self-driving-beta-yield-for-pedestrian-in-intersection-that-would-give-some-humans-pause.md",
-      "title": "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause",
-      "excerpt": "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/",
-      "originalUrl": "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-FSd-beta-pedestrian-yeilding.jpg?quality=82&strip=all",
-          "width": 3584,
-          "height": 1598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/",
-      "publishedDateTime": "2020-11-26T09:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025.md",
-      "title": "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025",
-      "excerpt": "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025.",
-      "sourceUrl": null,
-      "webUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
-      "originalUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 229,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/3/T303620719_g.jpg",
-          "width": 687,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
-      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
-      "publishedDateTime": "2020-11-26T08:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "galusaustralis.com",
-        "domain": "galusaustralis.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-privacy-in-china-the-growth-of-facial-recognition-technology-in-the-private-sector-raises-concerns-about-security-and-identity.md",
-      "title": "Privacy in China: the growth of facial recognition technology in the private sector raises concerns about security and identity",
-      "excerpt": "Facial recognition is used by Chinese authorities to pick people out of crowds and identify them. Now the technology is moving into the private sector, leading to calls for laws to regulate companies that use it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "originalUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/26/7c41750e-2eee-11eb-be20-200ca6256645_image_hires_183447.jpg?itok=rHFj5_nA&v=1606386899",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
-      "publishedDateTime": "2020-11-26T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

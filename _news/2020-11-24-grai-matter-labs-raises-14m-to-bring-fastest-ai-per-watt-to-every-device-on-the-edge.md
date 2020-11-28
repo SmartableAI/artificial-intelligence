@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-br
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -39,17 +39,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "NICE Actimize Announces Next-Gen Fraud Management Platform Leveraging Advanced AI and the Cloud to Fight Fraud and Enhance Customer Experience"
-    excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE), today announced the latest version of its Integrated Fraud Management (IFM-X) platform that"
-    publishedDateTime: 2020-11-23T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "0SX3yMab3qJJHKr/hzgMnfpg0H8W7bqiEq6Jxz9XZQJWCzApYBSv2R9aItiJgWvZrD1RHzn3DDjpMziKsD9U2j4YbjzTiTeG5X9u/z3ee9drM8vIgDyShg0LqIBbRjHjWGuTA6GLqPBow8QUPBuAXjQl6nbEL5BgHn0l5awaS3U88WudYwQCkMcmUZm5IM3wu858uRYhuNF+gOn67mKuT++1/rp9XMK64Dw18hNemDz1BPxbJbU3gKSNRQBq44CH1g17Np6u6FPkEZQ5CxLnPHNUBMoPE/CcUdHM2TS+XVWWb/3silg/R6cqkSE4NScxVHRy/EL8RmGgsMLedQlH5uqFhHORuwck8o2sCBYl2I0=;oO/Wi+0jAZltS54zIVRfHQ=="
 ---

@@ -2,6 +2,112 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-amazon-shifts-some-voice-assistant-face-recognition-computing-to-its-own-chips.md",
+      "title": "Amazon shifts some voice assistant, face recognition computing to its own chips",
+      "excerpt": "(Reuters) - Amazon.com Inc AMZN.O on Thursday said it shifted part of the computing for its Alexa voice assistant to its own custom-designed chips, aiming to make the work faster and cheaper while ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/amazon-com-nvidia-int-idUSKBN27S2RI",
+      "originalUrl": "https://www.reuters.com/article/amazon-com-nvidia-int-idUSKBN27S2RI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201112&t=2&i=1541008813&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAB1P6",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27S2RI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27S2RI",
+      "publishedDateTime": "2020-11-12T09:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-a-case-for-facial-recognition.md",
+      "title": "A Case for Facial Recognition",
+      "excerpt": "Facial recognition software doesn’t have to be all or nothing, argues a city official in Detroit. By Shira Ovide This article is part of the On Tech newsletter. You can sign up here to receive it weekdays.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/10/30/business/30ontech/30ontech-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/11/technology/facial-recognition-software-police.amp.html",
+      "publishedDateTime": "2020-11-11T11:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-training-facial-recognition-on-some-new-furry-friends-bears.md",
       "title": "Training Facial Recognition on Some New Furry Friends: Bears",
       "excerpt": "Mr. Miller said. Could artificial intelligence used for face recognition be harnessed to discern one bear face from another? At Knight Inlet in British Columbia, Canada, Melanie Clapham was pondering the same question. Dr. Clapham, a postdoctoral ...",
@@ -1296,83 +1402,6 @@
       "provider": {
         "name": "Business Wire",
         "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal.md",
-      "title": "Facial Recognition System Unveiled At LAX’s Tom Bradley International Terminal",
-      "excerpt": "The system, called Simplified Arrival, is now in place at Tom Bradley International Terminal at LAX and was touted as a way to use facial biometrics to automate the document checks that are required for admission into the U.",
-      "sourceUrl": null,
-      "webUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
-      "originalUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
-      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
-      "publishedDateTime": "2020-10-29T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-activists-turn-facial-recognition-tools-against-the-police.md",
-      "title": "Activists turn facial recognition tools against the police",
-      "excerpt": "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;",
-      "sourceUrl": null,
-      "webUrl": "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
-      "originalUrl": "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.baltimoresun.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
-      "publishedDateTime": "2020-10-29T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Baltimore Sun",
-        "domain": "baltimoresun.com",
         "images": null,
         "publishers": null,
         "authors": null

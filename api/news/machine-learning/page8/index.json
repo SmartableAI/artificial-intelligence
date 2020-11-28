@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-14-deep-learning-market-growing-application-of-deep-learning-to-boost-the-market-growth-technavio.md",
+      "title": "Deep Learning Market | Growing Application of Deep Learning to Boost the Market Growth | Technavio",
+      "excerpt": "LONDON--(BUSINESS WIRE)--The deep learning market size is poised to grow by USD 7.2 billion during 2020-2024, progressing at a CAGR of almost 45% throughout the forecast period, according to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201013006083/en/",
+      "originalUrl": "https://www.businesswire.com/news/home/20201013006083/en/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201013006083/en/830001/23/IRTNTR41147.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T22:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-new-deep-learning-models-fewer-neurons-more-intelligence.md",
       "title": "New deep learning models: Fewer neurons, more intelligence",
       "excerpt": "its mode of operation can be explained in detail Artificial intelligence has arrived in our everyday lives -- from search engines to self-driving cars. This has to do with the enormous computing ...",

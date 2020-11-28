@@ -43,17 +43,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "CEO's of PayPal, Logiq, Peak Fintech, and Square Discuss Bitcoin, Fintech and New Growth Opportunities in Digital Wallets"
-    excerpt: "Wall Street Reporter, the trusted name in financial news since 1843, has published reports on the latest comments and insights"
-    publishedDateTime: 2020-11-23T11:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18492362/ceos-of-paypal-logiq-peak-fintech-and-square-discuss-bitcoin-fintech-and-new-growth-opportunities-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18492362"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18492362"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "v75CzaQndrlPHe67anBdYCa0wCoDCnVsHjbstJIRbplJBzJh8yb+O+rI5p93/uPkImNBuRqrMRNBnYDI19oMFLX3C2aDpyWUtxO2XDWiHCHlrL9yo1kjIzH+qMXcbZ/XJfEacIEeoXIx3IuKRH2zsURHWf0HN1XY3/+lehnOtmhiOKOJjpaNqyWPc76feUDMi2n0aX45qZzquuGUJQEDYmjX5J8dMc5oZNmk392c39dcSfI8YEGjoM1tglYnSm1MaVeVd2qs1QpW6rONQUzMrIk4dIg6JIa1Fj6r006Qzd4ASe3VcatjLog8JuzLJtezcs354baVJXS1vwhJxW4kAHWQluqLks9fPhYY/jbd5dc=;fBK6lN3r9dtHPbUhlJSonw=="
 ---

@@ -3,8 +3,8 @@ category: news
 title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
 excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
 publishedDateTime: 2020-11-24T17:22:00Z
-originalUrl: "https://www.kmworld.com/Articles/News/News/Canadian-company-launches-conversational-AI-for-interfacing-with-databases-on-Microsoft-Azure-144056.aspx"
-webUrl: "https://www.kmworld.com/Articles/News/News/Canadian-company-launches-conversational-AI-for-interfacing-with-databases-on-Microsoft-Azure-144056.aspx"
+originalUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
 type: article
 quality: 58
 heat: -1
@@ -94,20 +94,6 @@ related:
         width: 985
         height: 634
         isCached: true
-  - title: "ACI Worldwide fraud management tech debuts on Microsoft Azure Marketplace"
-    excerpt: "ACI Worldwide (NASDAQ: ACIW), a leading global provider of real-time digital payment and software solutions, today announced that its ACI Fraud Management solution is now available as a fully certified private offering via the Microsoft Azure Marketplace."
-    publishedDateTime: 2020-11-23T11:29:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85130/aci-worldwide-fraud-management-tech-debuts-on-microsoft-azure-marketplace"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 53
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
     excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
     publishedDateTime: 2020-11-24T13:00:00Z
@@ -137,6 +123,6 @@ related:
         height: 402
         isCached: true
 
-secured: "1McWYQq5zqHtia3QB6zrpcZX1z/ZZADTMrMNEeZrfLibI48UWift6DHn10nd54oz+bzJrWpP0B5jqPfZblWSy23ezgokocBVcxdisFDMOoQmjh7ol0oDHgZ/hyjJ35V3RZKBWJSVqKMkr/9ihWUXZbF5gdY+F+pt8B1NA7SrXHWaExBmfUturyUXhaX9EaDjkniTBzmFgWe+WQ8zOAuooqQ5RXYXnwgBIu/+jAWjL/TyCeN4f8opc9aXE5EZqTBH7vcC2gny+vXqt5i22SGXRsTvpR0OLQUwNYT/1VIpw5JLZeDDRhIjVXCe/BOWgPWWZQTIO8vK9G3TSzJfHeniqAzJ/s+uxZ1DeC51RIsZw+I=;/PPAh32fFs/cIp5HC9dVng=="
+secured: "Es+zyDQxyOuSOuRhpaHDyIGgdrlWT+cwWBYC/e1cgZanvuhYdscAyXq82MpbkU2n5xisQ3AZ75COuJ/LSJ9DU9eVtmI053MDYQe+LTYukeKTKdlpfNMqOvRbXsmXpo0oL250aVFe52H2aznbQw4jMSVNOnEJ3nSu8cZm2d5vrFev/6mMXYcFMWdMgy6JqTs0MQ3MN6qOnDgt/cw+6r7rWu7R3uMpuICTo3hSurlGQs+IL3NfPrK1ZskQU1VUvPMi54kOCMvhhap/uDERC36Lo177C/tb7ej40fSFooSpEMnAiFRsAlMTvtnPvpeSX75iGubamkqLcbhEPs/s0NZY0EEn5zMrKmU0krsJC+F8Ebs=;ICEdC2XlyhTFbigQ/b0j8w=="
 ---
 

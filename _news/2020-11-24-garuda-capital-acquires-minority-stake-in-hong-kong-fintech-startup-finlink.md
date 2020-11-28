@@ -64,20 +64,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "4 Greek FinTech companies revolutionising the financial space"
-    excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
-    publishedDateTime: 2020-11-23T12:23:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-greek-fintech-companies-revolutionising-the-financial-space/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "yDK1tDCCM9XIoMf2ONyRSe8qNl51ouzTXHfLqnFiug1ZJgLCdr7VsH7Jdi2067OGw2EWHX6fP8bID/wb8HwOf9TlulQjhGV2K74ruRfSk1VHxb1aITM1NNyo3TVbb5vzDt1z8NOPxryGNp0YJFcz4DRknd9JSBaY0dhpDrAWq+wKuoUZ8+cRUgQfiRvkDPOoLQwjSgsgORk5xHCQpfQxtRD9QCymsHC0hS3f/XQryGJoTTmWpL/b7f7OafWM2h8FV8OuUgXWTvSjjkHw4fhcb0IGFJQpWH3jLG5obWSIeVz03yKCxBWJokoGHKyIdFMvbVqBN6QEO2kq6sVjufBmDrHrbexP+Nq+WEOgigVybchlsWOkir0jQnbeivylccIf7cEzoSy6WQ3/p9BjUEPhUMfPAwDuwdKeBNsNgSVf31q+7SPj8/rY3lYmWQpwK/8I1Bl0cYWyU7MeEVMmnNGmE77ENXZ+NpNpNidpZHp7nGfx45cRZkbpbeKfT1LmL1FZP/jeElWGdZ2Ni3XFSgeMJw==;HmyGgdzJh3SXrvquVHieYQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169468-uk-based-ai-fintech-finchatbot-secures-1-2-million-through-latest-investment-round/amp/"
 type: article
 quality: 53
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       name: Techinasia
       domain: techinasia.com
     quality: 32
-  - title: "4 Greek FinTech companies revolutionising the financial space"
-    excerpt: "Check out these four Greek companies revolutinising the FinTech space – Founded in 1990 in Greece, Profile Software offers banking and investment management solutions. It is a specialised software solutions provider with offices in key financial centres and a presence in 40 countries across Europe,"
-    publishedDateTime: 2020-11-23T12:23:00Z
-    webUrl: "https://ibsintelligence.com/ibsi-news/4-greek-fintech-companies-revolutionising-the-financial-space/"
-    type: article
-    provider:
-      name: IBS
-      domain: ibsintelligence.com
-    quality: 24
-    images:
-      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "2xthkjsqw45ndvQLiOQKXN+Pb+21Nd5H52H8TjcLf7s6Dm/VoMW2siD3UrlSN8jjbuGqu/bbx6hBnO1a7ye+4RoCojlZwrMU8GXQM2z6rTo7rWwmK6i2x3YfombSQalKQU1rQj3CT/iX1gSnegfIuuS+b6Rmp5JdkdpJuoYoVatEf2OOekWtwcxUNdGQ//Ejo+IN5awi47mmfzPp7tRlOoegRD9klKZGx6hKfkft+u8moxeskgH2b1EA7cn2Hl+9M1UlDi8v6rfYH0pSwLMX1fsEf5RR3YmrQ+HaMvLOf9x/hrET41UqhDh9XsO9fFvwzqEoSUWJpcALEdOLJ5GG3vZfdEmr+UNJWt0XvAv8w5rBtdqKreBJpqJZmZpo71UFOQZN6O76Jvdd8fQ0vmKFN7igKLZCuAoOpGTqilG/DHrsmwZQ2A0uV5IXIbiP1V0GmpNAx6dSTAxkrrw2EfYkRHje4nmmPHXXfh5HXWIhuOfAqfmV8SWHOlUKe85yYKyCx3/9Y+nWll7U6WqfZXqVQQ==;AU+ucCagUp+fKakuHnFhRQ=="
 ---

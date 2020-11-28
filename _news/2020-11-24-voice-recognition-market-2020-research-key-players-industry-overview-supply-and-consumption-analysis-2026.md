@@ -29,66 +29,28 @@ images:
     isCached: true
 
 related:
-  - title: "Entertainment Robots Market 2020 is expected to see magnificent spike in CAGR with Global Industry Brief Analysis"
-    excerpt: "The Entertainment Robots Market is estimated to record a significant growth throughout the forecast period. The ICT"
-    publishedDateTime: 2020-11-23T12:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23"
+  - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-11-27T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-country-1029844954"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market Size, Definition, Development, News and significant Growth With Regional Trends By Forecast 2023"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Nov 23, 2020 (AmericaNewsHour) -- The Deep Learning Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the ..."
-    publishedDateTime: 2020-11-23T12:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-size-definition-development-news-and-significant-growth-with-regional-trends-by-forecast-2023-2020-11-23"
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and"
+    publishedDateTime: 2020-11-27T16:40:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18553922/europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-coun"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18553922"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18553922"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "SLAM Technology Market Outlook to 2024 | Global Industry to Witness Steady Growth of 71% CAGR"
-    excerpt: "Nov (Market Insight Reports) -- With the surging use of real-time 3D maps, SLAM technology market will surpass a revenue collection of USD 2"
-    publishedDateTime: 2020-11-26T08:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/slam-technology-market-outlook-to-2024-global-industry-to-witness-steady-growth-of-71-cagr-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Latin America Machine Learning Market Size Estimation 2020 by Industry Overview, Economic Growth Factors 2020-2025"
-    excerpt: "Market Synopsis The Latin America Machine Learning Market is estimated to record a significant growth throughout"
-    publishedDateTime: 2020-11-25T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-size-estimation-2020-by-industry-overview-economic-growth-factors-2020-2025-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-  - title: "Healthcare Chatbots Market size is projected to expand at an excellent CAGR of 21% through 2030 - Persistence Market Research"
-    excerpt: "The coming years will see the most definitive transformation of chatbot platforms into conversational Artificial Intelligence (AI)"
-    publishedDateTime: 2020-11-25T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/healthcare-chatbots-market-size-is-projected-to-expand-at-an-excellent-cagr-of-21-through-2030--persistence-market-research-301180522.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
 
 secured: "RgnDqcXmGOpfvXYxNPYeNeFT9iW5iBLtlX6MOsnYnOs59P3KrRcApnxRJP3krd8PHpguC960aTxWFa+InQuIb4i2PX5G/OEWzRaafwqUtobEJtWCwVfpOsy1ZcRz4t6rQ8IPvBNDcJ1kxAilRHDMGxoDdQ0Ghk0SWezGXRbQ/BPvk+i2r1qnmUSlqYEhgQVaevikWX8G46g+nFGsEMl0ETbaF2Uig4HaqPL17mHh++eXUJYKlhORdG7LAJFjBHCfWDO0fWljVKba7sH5ByVaGVnIpBOb/YSvX/AbOjpgQxMQDHUbN8DIsn++YNIbJJVaOxksfgeKXy500U3NHk257fK4K9tA7gZy4Ji0sjDkCw8=;0I+d3aWHa4hMvXCX0bbvmg=="
 ---

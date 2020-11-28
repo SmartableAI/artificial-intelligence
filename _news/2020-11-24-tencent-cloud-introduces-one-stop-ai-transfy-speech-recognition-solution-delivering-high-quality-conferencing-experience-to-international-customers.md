@@ -41,6 +41,20 @@ related:
         width: 940
         height: 627
         isCached: true
+  - title: "Automatic Facial Recognition: authentication, identification and ethical use"
+    excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
+    publishedDateTime: 2020-11-26T12:16:00Z
+    webUrl: "https://www.ifsecglobal.com/critical-conversations/automatic-facial-recognition-authentication-identification-and-ethical-use/"
+    type: article
+    provider:
+      name: ifsecglobal.com
+      domain: ifsecglobal.com
+    quality: 53
+    images:
+      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
     excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
     publishedDateTime: 2020-11-24T10:57:00Z
@@ -64,6 +78,20 @@ related:
       name: Travel News
       domain: breakingtravelnews.com
     quality: 34
+  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
+    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
+    publishedDateTime: 2020-11-24T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
   - title: "CBP to Expand Use of Facial Recognition Tech in Entry-Exit Process"
     excerpt: "The Customs and Border Protection (CBP) has proposed to amend rules to expand the use of facial recognition systems to improve the process of verifying the identity of foreign visitors arriving and departing from airports,"
     publishedDateTime: 2020-11-25T18:02:00Z

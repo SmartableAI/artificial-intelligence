@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-weather-proof-chip-aims-to-take-self-driving-tech-wireless-communications-to-next-level.md",
+      "title": "Weather-proof chip aims to take self-driving tech, wireless communications to next level",
+      "excerpt": "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T01:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-artificial-intelligence-and-the-law.md",
       "title": "Artificial Intelligence and the Law",
       "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
@@ -827,6 +871,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-11-walmart-will-test-self-driving-delivery-services-with-electric-cars.md",
+      "title": "Walmart will test self-driving delivery services with electric cars",
+      "excerpt": "Walmart isn’t about to let rivals like Amazon delve further into self-driving deliveries without offering a response. As CNBC reports, the retailer has teamed up with GM’s Cruise for a self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "originalUrl": "https://www.engadget.com/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F193d73f0-236c-11eb-b7ff-013ec39834de&client=amp-blogside-v2&signature=369c6edefa2e5a90e90fdee66e67efa2adee8edf",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/walmart-cruise-self-driving-delivery-ev-pilot-2021-162209048.html",
+      "publishedDateTime": "2020-11-10T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-treviranus-butler-and-fruchterman-to-speak-at-sight-tech-global.md",
       "title": "Treviranus, Butler and Fruchterman to speak at Sight Tech Global",
       "excerpt": "Sight Tech Global goes live the week after Thanksgiving on December 2-3, and now’s the time to pick up a free pass! The agenda for this virtual, global event on AI-related technology and accessibility for people who are blind or visually impaired just keeps getting better.",
@@ -1334,84 +1430,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-self-driving-startup-ponyai-gets-funding-from-chinas-faw.md",
-      "title": "Self-Driving Startup Pony.ai Gets Funding From China’s FAW",
-      "excerpt": "After receiving a $400 million investment from Toyota earlier this year, self-driving startup Pony.ai has just struck another agreement with the Chinese FAW Group. This is the first strategic investment by a Chinese state-owned car company into an autonomous tech firm,",
-      "sourceUrl": null,
-      "webUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
-      "originalUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.carscoops.com/wp-content/uploads/2020/11/pony-ai-gets-funding-from-faw-group-2-1024x555.jpg",
-          "width": 1024,
-          "height": 555,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
-      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
-      "publishedDateTime": "2020-11-06T05:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Carscoops",
-        "domain": "carscoops.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era.md",
-      "title": "7 Autonomous Vehicle Stocks to Buy As Transpiration Enters a New Era",
-      "excerpt": "Baidu is primarily known as the “Google of ... GM’s autonomous vehicle unit Cruise announced on Oct. 15 that it was granted self-driving permission in San Francisco. The permit allows Cruise ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
-      "originalUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
-      "publishedDateTime": "2020-11-06T02:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

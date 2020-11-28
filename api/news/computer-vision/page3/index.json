@@ -2,6 +2,83 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-10-30-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal.md",
+      "title": "Facial Recognition System Unveiled At LAX’s Tom Bradley International Terminal",
+      "excerpt": "The system, called Simplified Arrival, is now in place at Tom Bradley International Terminal at LAX and was touted as a way to use facial biometrics to automate the document checks that are required for admission into the U.",
+      "sourceUrl": null,
+      "webUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
+      "originalUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
+      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
+      "publishedDateTime": "2020-10-29T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS Local",
+        "domain": "cbslocal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-activists-turn-facial-recognition-tools-against-the-police.md",
+      "title": "Activists turn facial recognition tools against the police",
+      "excerpt": "In early September, the City Council in Portland, Oregon, met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery;",
+      "sourceUrl": null,
+      "webUrl": "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "originalUrl": "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.baltimoresun.com/resizer/jlVG6BaC3imlBR23jhCY0p4V30U=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/NAX6PDQO4JFFFFIXWI6JRI6B3A.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/consumer-reviews/sns-nyt-facial-recognition-police-20201029-dmp3kwfhq5a2hkmdho6t53jzjq-story.html?outputType=amp",
+      "publishedDateTime": "2020-10-29T12:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Baltimore Sun",
+        "domain": "baltimoresun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-has-facial-recognition-won-the-race-for-biometric-authentication.md",
       "title": "Has facial recognition won the race for biometric authentication?",
       "excerpt": "Fingerprint identification had once been the most widespread biometric technology around the world. However, many argue that this technology has quite a lot of shortcomings. For instance,",
@@ -1296,83 +1373,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
-      "publishedDateTime": "2020-10-21T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-acuant-prioritized-for-fedramp-jab-authorization-for-assureidtm-connect-ozone-faceid-facial-recognition-system.md",
-      "title": "Acuant Prioritized for FedRAMP JAB Authorization for AssureID(TM) Connect, Ozone® & FaceID Facial Recognition System",
-      "excerpt": "Acuant, a leading global provider of identity verification solutions, today announced that the Federal Risk and Authorization Management Program (FedRAMP) has prioritized their",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/acuant-prioritized-for-fedramp-jab-authorization-for-assureid-tm-connect-ozone-faceid-facial-recognition-system/article_3e74a3d5-b483-5f73-a4dd-b104b7530870.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/acuant-prioritized-for-fedramp-jab-authorization-for-assureid-tm-connect-ozone-faceid-facial-recognition-system/article_3e74a3d5-b483-5f73-a4dd-b104b7530870.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

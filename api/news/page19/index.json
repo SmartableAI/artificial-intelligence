@@ -2,6 +2,295 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-12-as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies.md",
+      "title": "As a New Direction of Chip Industry, Tesla, Facebook, and WIMI Launches Hologram AR + Chip Strategies",
+      "excerpt": "Mark Zuckerberg, Facebook's chief executive ... also help support the high costs of long-term chip research and development. However, AI startups have advantages in how to strengthen AI capability.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies-1029795260",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/as-a-new-direction-of-chip-industry-tesla-facebook-and-wimi-launches-hologram-ar-chip-strategies-1029795260",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/As-a-New-Direction-of-Chip-Industry-Tesla-Facebook-and-WIMI-Launches-Hologram-AR-Chip-Strategies-1029795260",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/As-a-New-Direction-of-Chip-Industry-Tesla-Facebook-and-WIMI-Launches-Hologram-AR-Chip-Strategies-1029795260",
+      "publishedDateTime": "2020-11-12T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-how-ai-can-help-combat-slavery-and-free-40-million-victims.md",
+      "title": "How AI Can Help Combat Slavery And Free 40 Million Victims",
+      "excerpt": "Emerging technology, including artificial intelligence, can help combat slavery by revealing trends in payments and helping identify victims to police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
+      "originalUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5faa6f2cec660f3c8a133f08%2F0x0.jpg",
+          "width": 1200,
+          "height": 852,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/worldeconomicforum/2020/11/12/how-ai-can-help-combat-slavery-and-free-40-million-victims/amp/",
+      "publishedDateTime": "2020-11-12T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-united-fintech-launches-to-transform-banks-fintechs-in-capital-markets.md",
+      "title": "United Fintech Launches to Transform Banks & Fintechs in Capital Markets",
+      "excerpt": "United Fintech, a ground-breaking new concept which enables banks and financial institutions to accelerate access to innovative digital technology from a wide range of fintechs specialising in capital markets,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-financial-technology-eeb99bab290f489cbc04886494cb2df9",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-new-york-new-york-city-financial-technology-eeb99bab290f489cbc04886494cb2df9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T01:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-telus-makes-foray-into-agriculture-using-ai-to-help-food-chain.md",
+      "title": "Telus Makes Foray Into Agriculture Using AI to Help Food Chain",
+      "excerpt": "One of Canada’s biggest telecommunications companies is making a foray into agriculture, using technologies such as artificial intelligence to help farmers and ranchers optimize efforts across the food chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibifokI9WJVQ/v1/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-12/telus-makes-foray-into-agriculture-using-ai-to-help-food-chain",
+      "publishedDateTime": "2020-11-12T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-christian-frahms-united-fintech-to-ease-banks-digitization.md",
+      "title": "Christian Frahm’s United Fintech to Ease Bank’s Digitization",
+      "excerpt": "Fintech veteran Christian Frahm has launched United Fintech, a company that is aiming to provide banks and other financial institutions access to capital market-focused digital technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "originalUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financemagnates.com/wp-content/uploads/2020/11/fintech.jpg",
+          "width": 722,
+          "height": 414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "cdnAmpWebUrl": "https://www-financemagnates-com.cdn.ampproject.org/c/s/www.financemagnates.com/fintech/news/christian-frahms-united-fintech-to-ease-banks-digitization/amp/",
+      "publishedDateTime": "2020-11-12T00:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finance Magnates",
+        "domain": "financemagnates.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
+      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
+      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
+          "width": 392,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "publishedDateTime": "2020-11-11T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "Delivering fast and reliable machine learning business solutions JERSEY CITY, N.J., Nov. 11, 2020 -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
@@ -918,309 +1207,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-can-ai-nudge-people-to-live-healthier-lives.md",
-      "title": "Can AI Nudge People To Live Healthier Lives?",
-      "excerpt": "Clinicians and health plans can't compel someone to come in for a check-up or eat healthier food. But while health plans may lack the authority to compel action, that doesn't mean they lack effective means to encourage good behaviors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fac212d6412dc12ea79b897%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/11/can-ai-nudge-people-to-live-healthier-lives/amp/",
-      "publishedDateTime": "2020-11-11T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted.md",
-      "title": "Alexa is getting chattier as Amazon’s AI guesses what you really wanted",
-      "excerpt": "Alexa is about to get chattier, but Amazon thinks a more vocal AI will be welcome if she can correctly intuit what you might want out of the conversation. While Alexa-powered smart speakers have",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/",
-      "originalUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/amazon-echo-dot-4th-gen-2-1.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/alexa-is-getting-chattier-as-amazons-ai-guesses-what-you-really-wanted-11646908/amp/",
-      "publishedDateTime": "2020-11-11T09:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars.md",
-      "title": "Top Reasons The Investment Spigot Is Reopening For Self-Driving Cars",
-      "excerpt": "Recent spate of investments in self-driving cars is due to key factors that are dovetailing at this moment in time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fab29cca3f8041667ea2da7%2F0x0.jpg%3FcropX1%3D650%26cropX2%3D6824%26cropY1%3D95%26cropY2%3D3815",
-          "width": 1200,
-          "height": 723,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/11/top-reasons-the-investment-spigot-is-reopening-for-self-driving-cars/amp/",
-      "publishedDateTime": "2020-11-11T09:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-artificial-intelligence-machine-learning-robotics-in-agriculture-how-the-agri-sector-is-being-redefined-by-technology-researchandmarketscom.md",
-      "title": "Artificial Intelligence, Machine Learning & Robotics in Agriculture: How the Agri Sector is Being Redefined by Technology - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence, Machine Learning & Robotics in Agriculture\" report has been added to ResearchAndMarkets.com's offering. According to estimates by the United Nations, the World will need to increase its food production by 70% to feed the ever burgeoning population by 2050.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201111005458/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201111005458/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201111005458/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T08:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-pope-francis-wants-you-to-pray-for-ethical-robots.md",
-      "title": "Pope Francis Wants You to Pray for Ethical Robots",
-      "excerpt": "There’s a lot of folks worried about the ethics and future of AI and robotics. Apparently, you can count Pope Francis among them.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
-      "originalUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/n6obkzwczadd21hddeb7.png",
-          "width": 800,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/pope-francis-wants-you-to-pray-for-ethical-robots-1845642552/amp",
-      "publishedDateTime": "2020-11-11T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-12-honda-claims-itll-be-the-first-to-mass-produce-level-3-self-driving-cars.md",
-      "title": "Honda claims it'll be the first to mass produce level 3 self-driving cars",
-      "excerpt": "They could overtake slow cars by themselves. Virtually every semi-autonomous car you’ve seen on the road, even Teslas with Autopilot, uses level 2 self-driving — they may save you from steering or hitting the accelerator,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "originalUrl": "https://www.engadget.com/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F4f2b8c20-2436-11eb-b7b7-4bf22a2a36a8&client=amp-blogside-v2&signature=f3a493c3b8522b7fbef3bc164f1803488841034a",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/honda-to-mass-produce-level-3-self-driving-cars-163208006.html",
-      "publishedDateTime": "2020-11-11T08:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YAHOO!News",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

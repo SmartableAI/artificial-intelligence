@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2862DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA"
 type: article
 quality: 83
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Technology Is Being Used on More Campuses During COVID-19"
+    excerpt: "Everyone was kind of wondering how we were identified as being at the protest,” Mars Fernandez, a graduate student at the University of Miami, tells Teen Vogue. “At one point someone just outright asked,"
+    publishedDateTime: 2020-11-25T17:01:00Z
+    webUrl: "https://www.teenvogue.com/story/schools-facial-recognition-covid-19"
+    ampWebUrl: "https://www.teenvogue.com/story/schools-facial-recognition-covid-19/amp"
+    cdnAmpWebUrl: "https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/schools-facial-recognition-covid-19/amp"
+    type: article
+    provider:
+      name: Teen Vogue
+      domain: teenvogue.com
+    quality: 38
   - title: "Machine Learning Tool Accurately Detects COVID-19 on X-Rays"
     excerpt: "A machine learning tool was able to detect COVID-19 in x-ray images about ten times faster and one to six percent more accurately than specialized thoracic radiologists, according to a study published in Radiology."
     publishedDateTime: 2020-11-25T14:31:00Z

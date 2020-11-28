@@ -2,6 +2,84 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-06-self-driving-startup-ponyai-gets-funding-from-chinas-faw.md",
+      "title": "Self-Driving Startup Pony.ai Gets Funding From China’s FAW",
+      "excerpt": "After receiving a $400 million investment from Toyota earlier this year, self-driving startup Pony.ai has just struck another agreement with the Chinese FAW Group. This is the first strategic investment by a Chinese state-owned car company into an autonomous tech firm,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
+      "originalUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.carscoops.com/wp-content/uploads/2020/11/pony-ai-gets-funding-from-faw-group-2-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2020/11/self-driving-startup-pony-ai-gets-funding-from-chinas-faw/amp/",
+      "publishedDateTime": "2020-11-06T05:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-06-7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era.md",
+      "title": "7 Autonomous Vehicle Stocks to Buy As Transpiration Enters a New Era",
+      "excerpt": "Baidu is primarily known as the “Google of ... GM’s autonomous vehicle unit Cruise announced on Oct. 15 that it was granted self-driving permission in San Francisco. The permit allows Cruise ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
+      "originalUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-autonomous-vehicle-stocks-to-buy-as-transpiration-enters-a-new-era-2020-11-06?amp",
+      "publishedDateTime": "2020-11-06T02:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-chinese-driverless-car-firm-ponyai-valued-at-53-billion-after-new-cash-injection.md",
       "title": "Chinese driverless car firm Pony.ai valued at $5.3 billion after new cash injection",
       "excerpt": "A fund run by the Ontario Teachers' Pension Plan Board led the $267 million investment into Pony.ai which also included existing investors.",
@@ -1360,110 +1438,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-watch-a-roborace-self-driving-race-car-crash-right-into-a-wall.md",
-      "title": "Watch a Roborace self-driving race car crash right into a wall",
-      "excerpt": "One of the first broadcast Roborace events didn't go quite as planned for one of the teams participating. Just as Acronis SIT's self-driving race car was set to take off from the starting line, it decided to bin itself straight into the wall.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/roborace-self-driving-race-car-crash/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/roborace-self-driving-race-car-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet1.cbsistatic.com/img/mp-902epm2AsldIeTz4XzeQMn9Q=/2020/10/29/50481e40-eba3-4ad0-82ca-4d4eab6dcd61/ogi-robo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/roborace-self-driving-race-car-crash/",
-      "publishedDateTime": "2020-10-29T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
-      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
-      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng Motors is less bullish on the prospect. “They have to make a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "originalUrl": "https://www.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/10/28/15c96424-18cf-11eb-8f67-a484f6db61a1_image_hires_142109.jpg?itok=umrS2udr&v=1603866075",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-leaders-and-founders/article/3107348/chinese-tesla-rival-xpeng-steers-clear-robotaxis",
-      "publishedDateTime": "2020-10-28T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

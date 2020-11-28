@@ -36,17 +36,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 62
-  - title: "NICE Actimize Announces Next-Gen Fraud Management Platform Leveraging Advanced AI and the Cloud to Fight Fraud and Enhance Customer Experience"
-    excerpt: "NICE Actimize, a NICE business (Nasdaq: NICE), today announced the latest version of its Integrated Fraud Management (IFM-X) platform that"
-    publishedDateTime: 2020-11-23T11:50:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nice-actimize-announces-next-gen-fraud-management-platform-leveraging-advanced-ai-and-the-cloud-to-fight-fraud-and-enhance-customer-experience-1029828903"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 31
 
 secured: "hoPDYcqRsTth6lKKRSeuXJ7urXB7jxh85PrHNMIteVyhdxtwsxJcBDvK/8LteRqtGLwOW62uncXnELqjcE9SUkTrFHe6rB/ltrrE3VQ5QkMQmssxU9KbQuTYhd8Y1JTtNzp46w0VrIdj2pQcWbVhnI/oAxWb1NgkOM3JCFXchLlGWU7/kIYtT4G0dMXJj+YFTTt7EgrLEXPsDWZtE7YW/78Ak/qBMtvLFvcuAWz7BkfWebNC8jm6Ue851CEO1989r9HyCSF58PgGMgFfKEcKueXjcj9EefKLuFBEixnVgXAaVCpCC+4Fhd0WTqbV1tZa5x7dGjYvmUv5PXBML1I+qYBSETX5B9T20ihIdN+AxYs=;BaGfdl1eLj6av9WEzgQvhQ=="
 ---

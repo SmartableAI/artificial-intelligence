@@ -43,22 +43,6 @@ related:
         width: 1199
         height: 899
         isCached: true
-  - title: "Gatik’s Self-Driving Delivery Vans Head North to Canada"
-    excerpt: "Source: Gatik Source: Gatik Gatik, a Silicon Valley-based self-driving startup, has begun hauling cargo for Loblaws Inc., Canada’s largest grocer. The company joins Walmart on Gatik’s small, but impressive list of clients. The steady scaling of the ..."
-    publishedDateTime: 2020-11-23T11:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-23/gatik-s-self-driving-delivery-vans-head-north-to-canada"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-23/gatik-s-self-driving-delivery-vans-head-north-to-canada"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-23/gatik-s-self-driving-delivery-vans-head-north-to-canada"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCUpZpMuNAoQ/v1/360x-1.jpg"
-        width: 360
-        height: 236
-        isCached: true
   - title: "The TTC wants to test ‘platoons’ of driverless buses"
     excerpt: "The idea of two or more buses led by a single lead driver is a long way from being ready for service, but the TTC’s new technology and innovation"
     publishedDateTime: 2020-11-27T22:47:00Z

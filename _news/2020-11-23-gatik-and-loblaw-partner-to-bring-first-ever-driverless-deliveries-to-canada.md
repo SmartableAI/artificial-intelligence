@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-lob
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardbishop1/2020/11/23/gatik-and-loblaw-partner-to-bring-first-ever-driverless-deliveries-to-canada/amp/"
 type: article
 quality: 86
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gatik’s Self-Driving Delivery Vans Head North to Canada"
-    excerpt: "Source: Gatik Source: Gatik Gatik, a Silicon Valley-based self-driving startup, has begun hauling cargo for Loblaws Inc., Canada’s largest grocer. The company joins Walmart on Gatik’s small, but impressive list of clients. The steady scaling of the ..."
-    publishedDateTime: 2020-11-23T11:30:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-23/gatik-s-self-driving-delivery-vans-head-north-to-canada"
-    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-23/gatik-s-self-driving-delivery-vans-head-north-to-canada"
-    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-23/gatik-s-self-driving-delivery-vans-head-north-to-canada"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 74
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iCUpZpMuNAoQ/v1/360x-1.jpg"
-        width: 360
-        height: 236
-        isCached: true
   - title: "St. Pete launches driverless shuttle along Bayshore Drive"
     excerpt: "This is the second autonomous transit vehicle open to the public in Tampa Bay. But unlike Tampa’s pilot, this one travels a busy route."
     publishedDateTime: 2020-11-23T19:01:00Z

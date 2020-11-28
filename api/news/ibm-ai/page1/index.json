@@ -339,34 +339,34 @@
     {
       "path": "_news/2020-11-19-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
       "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
-      "excerpt": "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ...",
+      "excerpt": "© 2020 Insider Inc. and finanzen.net GmbH (Imprint). All rights reserved. Registration on or use of this site constitutes acceptance of our Terms of Service and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-301175647.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T14:48:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-1029816354",
+      "publishedDateTime": "2020-11-18T17:38:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -434,33 +434,24 @@
     {
       "path": "_news/2020-11-18-ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy.md",
       "title": "IBM to Acquire Instana as Company Continues to Advance its Hybrid Cloud and AI Strategy",
-      "excerpt": "- Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading AI-powered automation capabilities ...",
+      "excerpt": "Acquisition to help businesses use AI to better manage complexity of modern applications that span hybrid cloud landscape; Builds on IBM's industry-leading",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy-861271463.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18427202/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18427202/ibm-to-acquire-instana-as-company-continues-to-advance-its-hybrid-cloud-and-ai-strategy",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/95470/ibm_logo.jpg?p=facebook",
-          "width": 2698,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
+      "images": null,
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T06:03:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18427202",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18427202",
+      "publishedDateTime": "2020-11-18T01:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

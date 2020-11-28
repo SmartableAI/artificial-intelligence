@@ -35,6 +35,17 @@ related:
         width: 886
         height: 545
         isCached: true
+  - title: "Facial Recognition Technology Is Being Used on More Campuses During COVID-19"
+    excerpt: "Everyone was kind of wondering how we were identified as being at the protest,” Mars Fernandez, a graduate student at the University of Miami, tells Teen Vogue. “At one point someone just outright asked,"
+    publishedDateTime: 2020-11-25T17:01:00Z
+    webUrl: "https://www.teenvogue.com/story/schools-facial-recognition-covid-19"
+    ampWebUrl: "https://www.teenvogue.com/story/schools-facial-recognition-covid-19/amp"
+    cdnAmpWebUrl: "https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/schools-facial-recognition-covid-19/amp"
+    type: article
+    provider:
+      name: Teen Vogue
+      domain: teenvogue.com
+    quality: 38
 
 secured: "yN7j7WE9b3+2ZkAOyGr9lj2mpYj22gOGf9WFbyhR3X8oESHf+qokxYgw0S60XomljeEWvdFPHZQK7Yh0c8GI0uG8rnCnNgj/z6BhzG6KNIxZAUc5bfps/PwXiiwN7XUbSPqYA5fRnNhn1O903LVWkKfFJ4mZEtiuYKjF8jrM5NIORKVqEUlFK9wztOqG5P2awY/o4D5xx6NaXLYvvfKu/vJeqaS9QV5e4qIlNXTdU+8UJnxZHP1FfQniroPzXFzCZ4Ltv4R8vv+TIrjynfy4zDIqGq39MwkRUb/GPM7cMDd3s9vwsdW0/avWi6B0/H/dWpA0DW5ka5P5KzSIVzujBw4IOHrcGXfO84pCEEnC6Wp7Jwi6HzaB1jl5zPAAKZXMHo7Q+osbGzP6Fg5gIzmDgpWlfuPOaGjFuC/6I5GGy5q6//z+gWowymU3NW7hXP9orUJDxtHwhP0p3Q4aSY7m5/OjW75hcAJXQ8Dvd/VPqnaOa6LZvhuT6phmxH5RoxBKmIrISvqLa8vyS8gG/7OSjA==;IEn3N7ZzgO+FbhlHtx/pRg=="
 ---
