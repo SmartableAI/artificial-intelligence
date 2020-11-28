@@ -3,8 +3,8 @@ category: news
 title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
 excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
 publishedDateTime: 2020-11-27T09:08:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
 type: article
@@ -116,6 +116,6 @@ related:
       domain: seekingalpha.com
     quality: 49
 
-secured: "lQKzxf/STD4iE9jWAHIf4ohFgDzviAPczUeMg/j4btWFv8MKRDsss0KC7CeGt0/sGvuMxIiLGSUuyHoazBBxjFdd5mI6W2/75lf3oWR0+wszzUyssW8rIhX+nKCjR2FhmN5rov0Lwswu+djsZQezRiwrBIX9p24lIkjRDhxaepdadwmBNmtYD8s5yuUMjquoBmj9bT6B5JxiRdx2dRQsfS4acgCZv+trYCNnsgeqvTdnBMTRANcGcIKYNFRN6hptFwwRcA8JgkKo5BT/wHBT+lVvQk5stUIqPqczCVdlzj5Xn1M3Rrdw2c89AVMt7Utp7Dk16CJSNo/bD2fq1K28YRSWzJHXvUvePCqVhNcHrR1grzdN1I9tsxFchlK7ecJDs0NBSwJRyhhNwUy5rDn9azF39qyH/8QgJQGeSyZYzuMtJfd50+GHwdY3z2vIa+mItN9pln4PDo4j+Ah+y20twifoTpwOW+pbrWI6z/QThI4eDe42EEeGJVfVX6LgwjfsP1KbhqOGps5lnJvxg6dQkQ==;X+cQS0yd7YG0Npx33fx1wg=="
+secured: "DiBPma92t49CFpfEJWnHxanIqG0/Vzr4Rhby0RG+tOFrdd14/oT0DECqUq3iiLNvVzZiCo7t2syOFS0Bmcyaot0D5d5WczmtqqBG56h9+zsHWppMG9amN3VYY8JepZZ9OVpyYg9FWFCCkoo7kPUUWuHA6ruhRb+K+U8NNrB0yMGIhFRNXaJ32UJP1sz8KERg60aQMGX8ZoUUm3NnM7Ft2/xEKSq9CSR3w1hi/kQOKSt7yw18H7dbkhcZEuQfBd8SeodhVJ6uETUlV9H0dKrpb9fm/RLN+JcorfiCumnMUqiOPxHuFnaRI7g0HzIhpSgzbimMVSsf1AhRyIpSpEkl0ZqpHmb2P7mCXbImnKnXfc8=;247dlcTzfh4ggk/kM21ZEA=="
 ---
 

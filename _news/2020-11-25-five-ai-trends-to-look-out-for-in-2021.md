@@ -7,7 +7,7 @@ originalUrl: "https://www.mediaupdate.co.za/media/149808/five-ai-trends-to-look-
 webUrl: "https://www.mediaupdate.co.za/media/149808/five-ai-trends-to-look-out-for-in-2021"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-
-related:
-  - title: "5 Artificial Intelligence (AI) Trends We’ll See In 2021"
-    excerpt: "Artificial intelligence (AI) is one of the most innovative, game-changing technologies and industries around today. From intelligent machine translation to neur"
-    publishedDateTime: 2020-11-24T06:38:00Z
-    webUrl: "https://www.cxotoday.com/sponsored/5-artificial-intelligence-ai-trends-well-see-in-2021/"
-    type: article
-    provider:
-      name: CXO Today
-      domain: cxotoday.com
-    quality: 58
-    images:
-      - url: "https://www.cxotoday.com/wp-content/uploads/2020/05/Artificial-Intelligence-1.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "v6rDJEPaF0f/rVg/tc/Hhp6EF0TqvYn4v8Qp7L6flU9iGveLeP9Q8UPlpiW3wSiLW0hC7upBk/n3BXT2PiBxEeiJ1n9NNZMF/qhyaiBjiY/r3kkx5Ob8jm/fFcmJOc6IkiFj4KGdKtIStW1aM9P6xOX0jJLF2KLgmJx1Z0iF6pj3pvghedSBKj9F78Ug6r+YJz0OJ1PK+TCMbCe9z4LINbIeNpH2ivcKS4Jd7OupEBo2UCF22uTlxL9BT75SQkqlpU57PTVW85XctNK+x7WgMFf529pG8CjaPDGIYW72lL3lplJ7uoe+4HZh2YNDb+acH1Q9zxZYYyXxDLqvEd2y5kKqOOg2+bvk+j7Wt5ZkQGXxzhiWwo3XodUkFmyyTqgSZe/Cq3vI5ItVZdbxmng9qRiLajIQad/cQ0hV1T62VW8eDcz/U0phfqfvA55tdZB06kqrygp5mCXy9pgTbzP1Wewkz4d4Zs/13yohNk3Lhk5hJVEZy1wrVFgT8e8QK4ECrvYMhmp1JjvnAfm+5VKB0g==;GPzRwhYuyyWIoTef+4P93A=="
 ---

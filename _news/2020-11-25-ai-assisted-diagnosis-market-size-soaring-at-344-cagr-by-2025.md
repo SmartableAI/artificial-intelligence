@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-assisted-diagnosis-ma
 webUrl: "https://www.marketwatch.com/press-release/ai-assisted-diagnosis-market-size-soaring-at-344-cagr-by-2025-2020-11-24"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2020 to 2025"
+    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2017 to 2025. Artificial intelligence is the capability of a computer system to perform tasks that generally require human intelligence,"
+    publishedDateTime: 2020-11-28T22:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-is-estimated-to-reach-188-billion-by-2025-growing-at-a-cagr-of-149-from-2020-to-2025-2020-11-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

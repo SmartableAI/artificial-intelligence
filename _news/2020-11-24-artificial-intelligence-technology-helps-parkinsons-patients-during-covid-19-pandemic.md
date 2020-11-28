@@ -40,20 +40,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial Intelligence for Parkinson's (image)"
-    excerpt: "Andrew Exner, a graduate research assistant in Purdue University's Motor Speech Lab, is working to help Parkinson's patients during the COVID-19 pandemic."
-    publishedDateTime: 2020-11-24T05:13:00Z
-    webUrl: "https://www.eurekalert.org/multimedia/pub/249699.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249699_web.jpg"
-        width: 720
-        height: 540
-        isCached: true
 
 secured: "ly3jzOMVo8RT+m9uq1Dii6iqZYDSAPhEWVo2jFGGtOrZBIe+0m1s+2D7Fi7QZ6pOMgMDgEuyxU/FmfeYkz0g5uZ1pwyj4Inmo193ADNsaBXUQAHgaCO1ocio/IAPI5y3SVCzC8flQEgKaSdcDZThU5qMOth6xzaAfkoM6voIgX5CuWcz72gusb5WyusimdHFQ0eMa/UznPU83cG6ZWu6dKvdR71ONY0Q/J1h7Sfudf0C4JphWgGnlKbvdYGdulo5CvN9cEUP6AZLZ2xhX7GTcqCnmlZRWfWUF0Cm7CUct4uuI0kW1HZHve0TDF8BSTR6kDQZbuJOBVo24Z60PBO4+1p2ENVu74Od9YVJFqZ7GaiuHIhN5tmL635yNf/YWpCvgSARO7BGGWX9Tf6lGBFVTqv7bWkb2LxRdPrhx4X3VSoAjg/hdizt5gwTqen0PQ1du2icL46KAMUmpVZvoqBEjCi40kT+wnfxfYhnoUqR1VC2sCJAyjhkmDIBO5icKLtT/9uMa9TM7cFGuJtvLTKD9w==;W9N2UKOoKX7DO34aSn/YPA=="
 ---

@@ -1182,22 +1182,22 @@
       ]
     },
     {
-      "path": "_news/2020-11-23-dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020.md",
-      "title": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020",
-      "excerpt": "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The “Paris Region Challenge",
+      "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
+      "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
+      "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": null,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084",
-      "publishedDateTime": "2020-11-23T05:24:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services-1029830419",
+      "publishedDateTime": "2020-11-23T06:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -1220,6 +1220,7 @@
         "news"
       ],
       "topics": [
+        "AI in Finance",
         "AI"
       ]
     }

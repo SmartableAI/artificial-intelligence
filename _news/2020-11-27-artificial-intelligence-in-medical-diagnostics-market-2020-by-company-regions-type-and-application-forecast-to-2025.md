@@ -91,20 +91,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2026"
-    excerpt: "MarketsandResearch.biz has added a new report Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
-    publishedDateTime: 2020-11-24T05:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
     excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2020-11-25T10:18:00Z

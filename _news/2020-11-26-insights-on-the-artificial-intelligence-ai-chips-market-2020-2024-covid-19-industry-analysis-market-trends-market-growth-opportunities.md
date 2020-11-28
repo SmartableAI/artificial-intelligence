@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-25T20:33:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=381643"
 webUrl: "https://us.acrofan.com/detail.php?number=381643"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025"
@@ -246,6 +240,6 @@ related:
         height: 450
         isCached: true
 
-secured: "yzscGT8DFyWbk2JIO4WbApLbVaxAQ33lxi5XpQXIZlmR/e1NZ8fV03FIzbDf9E/NlK1XgG94I3xIe/DRV9KB3xo0OH0FAAUcOeA8Wayc3szjBCph+xp9+QDkuFW/wqsZvn0lBc8Lvwl3qUWNNTWK97kUXFV3a5zC7MbXZyFNGh4PAxtmEwswA4QILOiji7EuhwfauOUm2D0iAG0tInSHGl7vYEe82lOGwo9ujaWHUS7u8mkyEgLuhFoWYctQQ+ZfRFLR7LXeP4ZfiugI2Eyyzee5rmWJ+lcl30YaQdhkC3aBttM01LtZozBXn1Lz3N6c1ZGjULBaQbrfpr9Ro6X53YZDwPa5fLzN36AciTXPXHw=;b0IWyJO6fSkhJ4d+Awa2vQ=="
+secured: "sTPUe2EaO09hrzpN7A/hTAu7VEbzjZ6DDQrarqS0ii0jwrRimBHiOWeBFxNTfY3KKOS02jyuYnh7EPuC+27sjfU/O+D7NZ/TxJrcoGYvmI59Ul50RNlD+9rmjN2rEFGJ10R+GB+jBLUsFlqDBeDqVsFct7UZ34S4NTaZQTmTMmVbZwdeJW5FxOYu1olbMndibNW8r7qDVKmPI/eEs9QXZKa5RGZfkkaAyRMv/oodAmjVGW8szVTMfOszP/3S2zbVQvMSjFx+ZlGxr/CAZ4NAYmF98POsDpJLRcgtkcXK3nE1nV3DwwafDm31H+YXUCh9fo/qwSG0CVDKKr+xmUyZF6EhxQPAWD2/V8/kiaK8yHc=;UGOVu/Vafyw+HJHTqLBh/Q=="
 ---
 
