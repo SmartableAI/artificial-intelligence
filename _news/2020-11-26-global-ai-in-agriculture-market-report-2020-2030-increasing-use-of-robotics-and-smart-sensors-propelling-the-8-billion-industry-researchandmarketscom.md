@@ -136,15 +136,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "By Offering, Deployment Type, Technology, Security Type, Application, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The AI in cyber security market is projected to generate a revenue of $101."
-    publishedDateTime: 2020-11-23T15:07:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201123005993/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-researchandmarketscom"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 8
   - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
     excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
     publishedDateTime: 2020-11-25T02:32:00Z

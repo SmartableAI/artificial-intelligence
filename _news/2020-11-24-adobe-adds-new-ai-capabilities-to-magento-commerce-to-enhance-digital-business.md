@@ -7,7 +7,7 @@ originalUrl: "https://www.cio.com/article/3598270/adobe-adds-new-ai-capabilities
 webUrl: "https://www.cio.com/article/3598270/adobe-adds-new-ai-capabilities-to-magento-commerce-to-enhance-digital-business.html"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adobe Adds AI Capabilities to Magento"
-    excerpt: "Adobe has further integrated its Sensei artificial intelligence technology with Magento Commerce to help online merchants further personalize offerings. The new offerings include the visual similarity recommendation type for Product Recommendations,"
-    publishedDateTime: 2020-11-23T15:40:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=144033"
-    type: article
-    provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 37
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/133925-1120_SmartIVRs_Verint_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
   - title: "New Artificial Intelligence Capabilities Improve Retail Experience for Magento Merchants"
     excerpt: "San Jose, CA, Nov. 23, 2020 — Without a doubt, COVID-19 has been one of the greatest shocks to the way we live, communicate and work, compelling people to move … Continue Reading →"
     publishedDateTime: 2020-11-24T14:43:00Z

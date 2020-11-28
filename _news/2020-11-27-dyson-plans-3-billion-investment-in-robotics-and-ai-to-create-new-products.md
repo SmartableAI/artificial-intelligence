@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dyson pledges new investment into AI, robotics and batteries"
+    excerpt: "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage."
+    publishedDateTime: 2020-11-26T23:06:00Z
+    webUrl: "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
+    ampWebUrl: "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 89
+    images:
+      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Dyson to invest £2.75bn in robotics, AI and batteries"
     excerpt: "Dyson is investing £2.75bn into new technology over the next five years in a push to expand its range of products beyond home appliances for the first time. The company, headed by billionaire Sir James Dyson,"
     publishedDateTime: 2020-11-26T23:01:00Z
@@ -88,6 +104,29 @@ related:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
         width: 840
         height: 500
+        isCached: true
+  - title: "BOTZ: Robotics And AI For Investors"
+    excerpt: "The global robotics and AI markets are expected to grow significantly over the coming years - with EVs and high-performance computing (HPC) being primary drivers."
+    publishedDateTime: 2020-11-25T16:29:00Z
+    webUrl: "https://seekingalpha.com/article/4391467-botz-robotics-and-ai-for-investors"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 49
+  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
+    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
+    publishedDateTime: 2020-11-23T18:37:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "8QxZR+U2Op1obNJ767ptlQyJKwUyT+aQNe45qHRCePbgvUXxK1NJpiAw6lWRYh1fpgxQGnA0nOgz7K9hIlmNhXsclUgjyiWuLhaFLLl5YXzy1ApfZwdZv9w1XnAPyFNv9nv5wI/ju7liiZ+r8IuZaBbGuzOZIdVmcC0XtsGer1pZe/sHTdQadGxVWTGaFeddrO0WUX7jJ1MYhrWKXRmgtiYPEdrARMb76SGe+D+jZREBMfBTaLVK6/Yj4/vPmSeqRVvS48VfB4VeOqdukAarMtotqwoGDt+VjK7o2XnOckG3P/+L5ZdSFLXWOs7REnrsHWjZY+VXg0ZL9+LNaVgeg7Pr0eou7NSKNCVvZaW6WR5vBWqgY+JEWNST34fFGwhNI4JdhEY57dSIb7UmYKJCwbS1MfUTrqddQMRfqugPTWWc10KF2B+E1BkSLi5tmfTx+LRbxENeSbL1p5hjvSU8fhe6cbQp9oNB/hfjgg8bIo9e7iVhudiivmITb9HXuByydBDaJ+U4kGiFBiiVq7F/4A==;RI6N/4FsWV3mY7UhkTzg6g=="

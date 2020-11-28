@@ -7,7 +7,7 @@ originalUrl: "https://www.mpamag.com/news/wemlo-boosts-mortgage-processing-servi
 webUrl: "https://www.mpamag.com/news/wemlo-boosts-mortgage-processing-service-with-aipowered-tech-239969.aspx"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 500
     height: 333
     isCached: true
-
-related:
-  - title: "Wemlo Launches AI Mortgage Processing Assistant"
-    excerpt: "Wemlo, a fintech company specializing in third-party mortgage loan processing services launched ATHENA, a virtual assistant that uses artificial intelligence to identify discrepancies within mortgage loan applications."
-    publishedDateTime: 2020-11-23T15:08:00Z
-    webUrl: "https://nationalmortgageprofessional.com/news/76129/wemlo-launches-mortgage-processing-assistant"
-    type: article
-    provider:
-      name: National Mortgage Professional Magazine
-      domain: nationalmortgageprofessional.com
-    quality: 39
-    images:
-      - url: "https://nationalmortgageprofessional.com/sites/default/files/artificial-intelligence-2167835_640.jpg"
-        width: 640
-        height: 428
-        isCached: true
 
 secured: "mBExcapG5wcpPWM/M4gd1yxKRFtdzl22u5DQrSAS83K7B0j8jWGZy2kfJGM2XMn6LnMXxyPk6ne0J0FyQltKKXfSKQPWADLF2/nQuueiHLJg2LdYaoPzA+eM3bEjLMYsp3/B5RweMLpQn62PXqw73jQ0OtR197jSmSIN+HvVMAvJQhf7sPjzo20bHsqy5lr91sN5P4ERg3DCitipXo4MX1/CgOm5iKz8XeEu3sMuDzgx/6nD9H7311Z1PG7hyTFQegoZfAnfa6ly9jsA1TKhOrSj19aIFNjxrmUDtLQWtEEJDz4FkEFxPWrzCVpH8XeE/KdtetpFCRZl9eEBSCEkQakVDuTrJos5ZDPcQDv0uI1gCV1vkJ1UNvEM6eg3pVvZmecfOVKZsqtnQvAjf0CriFBdP1LaZkNmLbfLQgokbyXokhS9Kf3t9ADl3rFf9/wt0EsnTnzqFjT7hklpOFtBW9AMix+tkrTW7Tt+5PPcwOXGe1onXcb1FNF9w4mnU6K6wVyXdz0FfyHNKwcByxKq7w==;FygH5U8IOXR5viAoG4II+Q=="
 ---

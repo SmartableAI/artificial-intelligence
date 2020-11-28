@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-26T12:30:00Z
 originalUrl: "https://physicsworld.com/a/deep-learning-model-enables-rapid-lymphoma-detection-in-pet-ct-images/"
 webUrl: "https://physicsworld.com/a/deep-learning-model-enables-rapid-lymphoma-detection-in-pet-ct-images/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://physicsworld.com/wp-content/uploads/2020/11/Wisconsin-Amy-Weisman-635x602.jpg"

@@ -2,6 +2,57 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
+      "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
+      "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
+      "originalUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/protest-surveillance-GettyImages-1279056199.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
+      "publishedDateTime": "2020-10-16T13:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-thought-powered-wheelchair-could-return-mobility-to-people-with-paralysis.md",
       "title": "Thought-Powered Wheelchair Could Return Mobility To People With Paralysis",
       "excerpt": "as demonstrated by a new study in which monkeys were able to navigate a robotic wheelchair using a brain chip. Now, this isn’t actually the first time that a mind-controlled wheelchair has been ...",
@@ -1096,49 +1147,6 @@
       "provider": {
         "name": "The Business Journals",
         "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-ai-tech-enables-robots-to-feel-pain-stitch-their-wounds.md",
-      "title": "AI tech enables robots to feel pain, stitch their wounds",
-      "excerpt": "Researchers from Nanyang Technological University, Singapore, develop a way for robots to have the AI to recognise pain and self-repair when damaged.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "originalUrl": "https://www.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itweb.co.za/static/pictures/2020/10/NTU-Singapore-scientists-2020.jpg",
-          "width": 816,
-          "height": 459,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "cdnAmpWebUrl": "https://amp-itweb-co-za.cdn.ampproject.org/c/s/amp.itweb.co.za/content/6GxRKMYJrz1qb3Wj",
-      "publishedDateTime": "2020-10-15T16:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
         "images": null,
         "publishers": null,
         "authors": null

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18488460"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488460"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -18,66 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Preparing for the artificial intelligence revolution | Opinion"
-    excerpt: "But manufacturing engineers and computer scientists are developing an artificial intelligence-fueled revolution in personalized smart manufacturing. Over the next decade, it will propel U.S. manufacturers to new heights of efficiency,"
-    publishedDateTime: 2020-11-23T16:30:00Z
-    webUrl: "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html"
-    ampWebUrl: "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Regulation 2.0: The AI technology revolution is here and now"
-    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
-    publishedDateTime: 2020-11-24T12:10:00Z
-    webUrl: "https://www.finextra.com/blogposting/19565/regulation-20-the-ai-technology-revolution-is-here-and-now"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Regulation 2.0 : The AI technology revolution is here and now"
-    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
-    publishedDateTime: 2020-11-24T17:36:00Z
-    webUrl: "https://www.finextra.com/blogposting/19568/regulation-20--the-ai-technology-revolution-is-here-and-now"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Storm ID and Zebra Medical Vision to Co-Develop Revolutionary New AI Based Osteoporosis Prevention Solution as Part Of UK-Israel Collaboration"
-    excerpt: "NHS Greater Glasgow, Clyde UK, Assuta Medical Centers, IL, partner with Storm ID and Zebra Medical Vision for early detection of osteoporosis"
-    publishedDateTime: 2020-11-23T21:56:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123006272/en/Storm-ID-and-Zebra-Medical-Vision-to-Co-Develop-Revolutionary-New-AI-Based-Osteoporosis-Prevention-Solution-as-Part-Of-UK-Israel-Collaboration"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: "https://mms.businesswire.com/media/20201123006272/en/841451/23/PR22_11Orange_%281%29.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "KSoPNa4amoTd01eet21T7ijDv2jCxJQb2KZD+ucLr31DEKuwozsHfEduaGQhxIwzw0zXzuTjThSlzYfPGvVfkb7T0kZJcONiuKT+Dq0ERNRt0sx2RqefBwljc4PSqwsfgFXRxlHSnZ9DqcHe/UsgSQ7li6lebDTcwTjq+5kYplzF7WK4x/Pq4gaF8M6YtlnL2mK4bZw9k3NKAURj9PmyzEa00xN5tYpy1HPCcd5pKZ1CKUjC/h8PXVjP1eTV+CYO0jsJMvTjiaDdrKia2JN5LoJIsBZ2zYbeoJ/FoKfx5uh1sr33fvXsh2ELKjwgS4fl1FqF7TDHCqoeNMdQXlJLkc0rIa2JhF46HNeHTQNTYGc=;3UOcYqJo4vm7durdG9JU3Q=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
 title: "BlueVisor Takes Second Place in Fintech Unicorn Battle in Asia"
-excerpt: "BlueVisor, a member company of Born2Global Centre, placed second in the latest Fintech Unicorn Battle in Asia, receiving recognition for its technological prowess and business viability. The Fintech Unicorn Battle in Asia is a global pitch competition organized by Startup."
+excerpt: "BlueVisor, a member company of Born2Global Centre, placed second in the latest Fintech Unicorn Battle in Asia, receiving recognition for"
 publishedDateTime: 2020-11-27T13:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/bluevisor-takes-second-place-in-fintech-unicorn-battle-in-asia-1029844968"
-webUrl: "https://markets.businessinsider.com/news/stocks/bluevisor-takes-second-place-in-fintech-unicorn-battle-in-asia-1029844968"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/bluevisor-takes-second-place-in-fintech-unicorn-battle-in-asia-1029844968"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/bluevisor-takes-second-place-in-fintech-unicorn-battle-in-asia-1029844968"
+originalUrl: "https://www.prnewswire.com/news-releases/bluevisor-takes-second-place-in-fintech-unicorn-battle-in-asia-301180855.html"
+webUrl: "https://www.prnewswire.com/news-releases/bluevisor-takes-second-place-in-fintech-unicorn-battle-in-asia-301180855.html"
 type: article
-quality: 54
-heat: 64
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "BlueVisor Takes Second Place in Fintech Unicorn Battle in Asia"
@@ -37,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 24
 
-secured: "UmthsjCOR1U8RoNoSHxoZP39xIeOMosL25v65QJPISKqgNByse+/raR2SZq+T0IrY6OedpIJPQWgVKVToafBrkz+jDxT9G6ngjpRee9pVWY6ts3g6HhfZeHXfuuen05C7GTxDWLBEKPpHDaR/6bX+dopUem+dC/0aP2eSzvOXo+bT3EeaHvSNsn3kmphaHmJEdRPWYNvyVaUX3XgD4IvTD3tRhj/qKQ/iYKFe3uRF/SaJo7xEwMS1xD6Fpgo2yj3wcc6mg6gSLCex5wb7oHsKA2vwhthHVCE0P5vGdjhyJWu8Vj+EW3qiT72YLQ/h/xEF5bwnR849OQiW2sc194WX9QJZCrpBOTo5q47YsedTLY=;ULATmmUvtD3B2EJ/YY5TOA=="
+secured: "7ndqz7P7xRUpakcAKIu6Is0QKN1cnDu2jua04mA0dr/tHvcyDw+b/S0rn4mJhh+1C8GXQZp6MpsShwGAKxGJRuLXYCjhY3Z5tE9dhxY4j7ybA6XemDRc/UOufygZ9jIO7BqVTmAnzY7riFbSY0auraVvjzNCvFlgzDcaFCsTlVGWKnCcjjLn7liYBtKae28CINKvp19HmGWEzBur42E36t90pkWUH97ifEsETW9PgGRKJAXaLd4LG/u3v46Mmq3gWVpy5t6RwhXIgdvmIvtdZRwH+dkCqZaFO8G+f12oRpBeZW8VeN/gFy2FU2D0oGjRZnGS8xhF9Ori2cE6bzzYoKIG/gpSA6MBBCK+ZI22eo8=;Ge2LKzWmbM2nFqV6S5eHBA=="
 ---
 

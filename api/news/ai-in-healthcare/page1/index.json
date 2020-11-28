@@ -10,7 +10,7 @@
       "originalUrl": "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 130,
       "tags": null,
       "images": [
         {
@@ -53,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 204,
+      "heat": 194,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -85,6 +85,58 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-playing-psychotherapist-to-a-troubled-ai-in-syntherapy.md",
+      "title": "Playing psychotherapist to a troubled AI in 'Syntherapy'",
+      "excerpt": "Set about 20 years in the future, the game’s narrative is told from the vantage point of Melissa Park, a psychotherapist. The AI, named Willow, feels overwhelmed. The team is torn over whether the illness is a technical issue or an emotional one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/syntherapy-ai-psychotherapist-game-150014882.html",
+      "originalUrl": "https://www.engadget.com/syntherapy-ai-psychotherapist-game-150014882.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F21aafc61-2f38-11eb-90ff-49962f288178&client=amp-blogside-v2&signature=5bbd40eaa8ec0bbcaf908da5f10a3a85bb67c993",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html",
+      "publishedDateTime": "2020-11-26T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
@@ -176,6 +228,49 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-us-approves-regeneron-antibody-treatment-given-to-trump.md",
+      "title": "US Approves Regeneron Antibody Treatment Given to Trump",
+      "excerpt": "The FDA has approved Regeneron's antibody cocktail treatment for COVID with an Emergency Use Authorization. A Covid-19 antibody therapy used to treat President Donald Trump was approved by the US drug regulator on Saturday for people who aren't yet hospitalized by the disease but are at high risk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "originalUrl": "https://www.industryweek.com/covid19/article/21148471/us-approves-regeneron-antibody-treatment-given-to-trump",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/11/regeneron_stock_photo_covid_injection_treatment_medicine____Bernard_Chantal___Dreamstime.5fbb5faa14bb3.png?auto=format&fit=max&w=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T23:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IndustryWeek",
+        "domain": "industryweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -1277,101 +1372,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-ghanaian-radiographers-urged-to-embrace-artificial-intelligence-systems.md",
-      "title": "Ghanaian radiographers urged to embrace artificial intelligence systems",
-      "excerpt": "The President of the Ghana Radiographers Association, Prince Rockson has advised radiographers in the country to learn to use Artificial Intelligence (AI) system in their day-to-day operations to ensure better results for their patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
-      "originalUrl": "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Jonathan-Mensah-proud-to-make-century-of-appearances-for-Columbus-Crew-1105000",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ghanaweb.com/imagelib/pics/720/72066741.295.jpg",
-          "width": 300,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T08:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ghanaweb.com",
-        "domain": "ghanaweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-biotech-accelerating-innovation-in-health-care.md",
-      "title": "BioTech: Accelerating innovation in health care",
-      "excerpt": "The answer will likely come from advances initiated by biotech startups, aided by new data processing and artificial intelligence ... generally a new innovative therapy is a long and complex ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "originalUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Rafaele-Tordjman_Interview-Stills8_selected.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 616,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/10/biotech-accelerating-innovation-in-health-care/amp/",
-      "publishedDateTime": "2020-11-10T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

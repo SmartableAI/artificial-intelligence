@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
 cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 159
+published: true
 
 provider:
   name: The Financial Times
@@ -27,63 +27,83 @@ images:
     isCached: true
 
 related:
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ..."
-    publishedDateTime: 2020-11-23T15:53:00Z
-    webUrl: "https://www.entrepreneur.com/article/359653"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/359653"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653"
+  - title: "Dyson to invest £2.75bn in robotics, AI and batteries"
+    excerpt: "Dyson is investing £2.75bn into new technology over the next five years in a push to expand its range of products beyond home appliances for the first time. The company, headed by billionaire Sir James Dyson,"
+    publishedDateTime: 2020-11-26T23:01:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/amp/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
     quality: 89
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
+      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/02/22/TELEMMGLPICT000110519485_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg"
+        width: 2501
+        height: 1563
         isCached: true
-  - title: "Managing ethics and privacy in the age of AI"
-    excerpt: "Many Australian organisations are experimenting with artificial intelligence and machine learning technologies to gain new insights from their information to create an advantage over their competitors."
-    publishedDateTime: 2020-11-25T23:59:00Z
-    webUrl: "https://www.cio.com/article/3598788/managing-ethics-and-privacy-in-the-age-of-ai.html"
+  - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
+    excerpt: "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched."
+    publishedDateTime: 2020-11-27T07:29:00Z
+    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
+    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
     type: article
     provider:
-      name: CIO
-      domain: cio.com
-    quality: 54
+      name: Belfast Telegraph
+      domain: belfasttelegraph.co.uk
+    quality: 87
     images:
-      - url: "https://images.idgesg.net/images/article/2018/07/teamwork_collaboration_discussion_talking_language_meeting_hand_gestures_by_headway_cc0_via_unsplash_1200x800-100764600-large.jpg"
-        width: 1200
-        height: 800
+      - url: "https://www.belfasttelegraph.co.uk/news/uk/02227/39797835.ece/AUTOCROP/w1240h700/bpanews_a3da0697-6e0e-4619-8bfb-ca1f4080ed1a_1"
+        width: 1240
+        height: 700
         isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
-    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
-    publishedDateTime: 2020-11-25T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
+  - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
+    excerpt: "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025."
+    publishedDateTime: 2020-11-27T19:13:00Z
+    webUrl: "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+    ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
+      name: Kent Online
+      domain: kentonline.co.uk
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.kentonline.co.uk/_media/img/OUYIDG68WRKX6AL8QM6H.jpg"
+        width: 1620
+        height: 1080
         isCached: true
-  - title: "2026 Cognitive Analytics Market |Top Companies, Trends and Future Prospects Details for Business Development"
-    excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
-    publishedDateTime: 2020-11-26T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2026-cognitive-analytics-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-11-25"
+  - title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
+    excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
+    publishedDateTime: 2020-11-27T09:08:00Z
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Proactive Investors
+      domain: proactiveinvestors.co.uk
+    quality: 81
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
         width: 1200
-        height: 630
+        height: 740
+        isCached: true
+  - title: "Dyson Plans $3.6 Billion Investment in Robotics and AI"
+    excerpt: "Dyson will invest over US$3.67 billion in research and development of products outside the \"home environment.\""
+    publishedDateTime: 2020-11-27T13:01:00Z
+    webUrl: "https://www.industryleadersmagazine.com/dyson-plans-3-6-billion-investment-in-robotics-and-ai/"
+    type: article
+    provider:
+      name: Leadership
+      domain: industryleadersmagazine.com
+    quality: 69
+    images:
+      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
+        width: 840
+        height: 500
         isCached: true
   - title: "BOTZ: Robotics And AI For Investors"
     excerpt: "The global robotics and AI markets are expected to grow significantly over the coming years - with EVs and high-performance computing (HPC) being primary drivers."
@@ -107,43 +127,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Cognitive Analytics market 2020 Growth by Key Players, Industry Overview, Regions, Type and Application, Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-11-24T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020-growth-by-key-players-industry-overview-regions-type-and-application-analysis-to-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Big Opportunities at the Junction of AI and Analytics: Interview with Tom Davenport"
-    excerpt: "Tom Davenport has been one of the most influential advisors globally on the business impact and application of information technology. He made the topic of big data and analytics a boardroom issue with his groundbreaking 2006 Harvard Business Review article (“Competing on Analytics” 1) and a 2007 book 2 of the same name."
-    publishedDateTime: 2020-11-26T17:11:00Z
-    webUrl: "https://www.tcs.com/perspectives/articles/the-big-opportunites-at-the-junction-of-ai-and-analytics"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 11
-  - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
-    excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
-    publishedDateTime: 2020-11-24T02:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123005857/en/Global-Business-Intelligence-BI-and-Analytics-Platforms-Market-2020-2024-Size-Share-Outlook-and-Opportunity"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: "https://mms.businesswire.com/media/20201123005857/en/841266/23/IRTNTR44619.jpg"
-        width: 1200
-        height: 627
         isCached: true
 
 secured: "iEF2N5i+3VeA7LpoGziUBXvy131guWmVUwa0Qh+jyGtW5VO+FqYa0w+VhIbe+JW1N8Yb2nci350V3w2zIXkpagmJBnxY7TA2AXSfPJy72ha6V6PXjZZvOQzr2GnGC+DMmjdTTy/h6R8pPKALqwkuai4vScW9SZz6XWtZyN2tzpWP5M2KFb5FnK98vlD5CW/cd12v2F/X3Rdrk39dWXdQwyqK39+tKPmMuZsVkl3/a0yeDcUe9ldK6ZNfnr0id0BQnFcxXIxmWNZEnaYXp2S3sByH9HFu3zJuCWXVcIVIiw7cC9IEJwNW7thQk+H9ztIvbTtnvLNuiNPCRK1Ubx2izY10t3npZaUc3YnEAfA25LBwB/3uFwcWwdqTmBklRH5cc0ysHfykue7CNwd3KV1STaIQmnEhtuw9fuzot1v+fAvzFIiEuRQjEUFVKRI0GmBeJomTg/w9R/yvhzGHcBuyzVF9IhYXFcKMa6yZRxvjWD5yvS90El9BYVlngfYpOOjAskTOaWLxoTHaCTimiBLFMA==;YzmWrIi5IapZ1JgGJYmTfw=="

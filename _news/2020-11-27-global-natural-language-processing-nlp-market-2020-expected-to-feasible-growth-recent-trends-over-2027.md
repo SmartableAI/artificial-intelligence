@@ -104,6 +104,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
+    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
+    publishedDateTime: 2020-11-25T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "2026 Cognitive Analytics Market |Top Companies, Trends and Future Prospects Details for Business Development"
+    excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
+    publishedDateTime: 2020-11-26T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/2026-cognitive-analytics-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-11-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research"
     excerpt: "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT"
     publishedDateTime: 2020-11-27T00:26:00Z
@@ -188,19 +216,33 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
-    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
-    publishedDateTime: 2020-11-25T19:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+  - title: "Cognitive Analytics market 2020 Growth by Key Players, Industry Overview, Regions, Type and Application, Analysis to 2026"
+    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
+    publishedDateTime: 2020-11-24T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020-growth-by-key-players-industry-overview-regions-type-and-application-analysis-to-2026-2020-11-24"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
-      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
-        height: 627
+        height: 630
+        isCached: true
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forec"
+    excerpt: "ArtificialIntelligenceAIChipsMarket--The artificial intelligence (AI) chips market is expected to grow by USD 54.03 bn, progressing at a CAGR of over 42% during the forecast period.Click & Get Free Sample Report in MinutesThe increasing adoption of AI chips in data centers is one of the major factors propelling market growth."
+    publishedDateTime: 2020-11-25T20:33:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=381643"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 29
+    images:
+      - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
+        width: 580
+        height: 387
         isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"

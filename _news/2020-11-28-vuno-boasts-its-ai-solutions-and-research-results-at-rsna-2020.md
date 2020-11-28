@@ -23,6 +23,22 @@ images:
     height: 324
     isCached: true
 
+related:
+  - title: "BasisAI included in Responsible AI Solutions New Tech report by Independent Research Firm"
+    excerpt: "BasisAI, a provider of scalable and responsible artificial intelligence (AI) software, today announced that it has been recognised in Forrester’s New Tech: Responsible AI Solutions, Q4 2020, report. As the use of AI becomes more pervasive within enterprise organisations,"
+    publishedDateTime: 2020-11-26T02:26:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-7fffc416fc23aff7e59f17f0620af35d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "TYQ5+4DF37XUEORmC5W1ud0qJXcUxb5EV7LGAjw9NqcuIN1+BhLrXTMIUL81/eLMnw31tHciDQ0/iOWTc6f9ll9mwD/5GbrxqWLBdrk8OBYxoJ6h+ELVPKhMYri6QTePjdRgSDY+2WT3lUpgPLuHOy2jF8KMwehS3OG9oFZQQn/bddD6ssmL4jf66hYKKCgD3AFwr5ZEcnKlS9LA2/m8qbcniBAz8rJ0IHqmnOopPsZ+0dB5G716QWRHDWdFrza1RDGyIv7IeK/ZI3SX1mJHxm1CsC36B50bU9XylW7pyLcgA3hQh0YklFfbCjEnaOqRiVbc1BQYyGSimfHesBDGmckGhxlmN/CxKliaUH23FkU=;uGnqyRrvnKFqEZI/l5qw4Q=="
 ---
 

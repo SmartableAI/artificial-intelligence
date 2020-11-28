@@ -8,8 +8,8 @@ webUrl: "https://www.engadget.com/syntherapy-ai-psychotherapist-game-150014882.h
 ampWebUrl: "https://www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html"
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html"
 type: article
-quality: 87
-heat: 87
+quality: 104
+heat: 104
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F21aafc61-2f38-11eb-90ff-49962f288178&client=amp-blogside-v2&signature=5bbd40eaa8ec0bbcaf908da5f10a3a85bb67c993"

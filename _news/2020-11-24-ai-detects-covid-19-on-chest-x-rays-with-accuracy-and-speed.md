@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Industry Voices—How cloud, AI and machine learning are transforming healthcare through COVID-19 and beyond"
-    excerpt: "Artificial intelligence and machine learning technologies have revolutionized the COVID-19 healthcare response and will remain critical well beyond the pandemic. Here are just a few of the ways in which COVID-19 has spurred lasting digital transformation within the healthcare industry."
-    publishedDateTime: 2020-11-23T15:37:00Z
-    webUrl: "https://www.fiercehealthcare.com/tech/industry-voices-how-cloud-ai-and-machine-learning-are-transforming-healthcare-through-covid-19"
-    type: article
-    provider:
-      name: Fierce Healthcare
-      domain: fiercehealthcare.com
-    quality: 53
-    images:
-      - url: "https://qtxasset.com/fiercehealthcare/1605998117/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?MrxsGtXtZcyI.Q4pV0YvFxd.yTFvo99G"
-        width: 1000
-        height: 486
-        isCached: true
   - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
     excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
     publishedDateTime: 2020-11-24T15:12:00Z
@@ -95,34 +81,6 @@ related:
       - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
         width: 750
         height: 435
-        isCached: true
-  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
-    excerpt: "Critical Care Suite 2.0 helps clinicians assess Endotracheal Tube (ETT) placement for intubated patients, including critical COVID-19 patients."
-    publishedDateTime: 2020-11-23T17:04:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123005895/en/GE-Healthcare-Announces-First-X-ray-AI-to-Help-Assess-Endotracheal-Tube-Placement-for-COVID-19-Patients"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 38
-    images:
-      - url: "https://mms.businesswire.com/media/20201123005895/en/841166/23/GEHC_logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-  - title: "AdventHealth to study COVID-19 outcomes with AI biotech firm"
-    excerpt: "AdventHealth on Monday announced a project with biotechnology company Berg to try to better tailor treatments for COVID-19 patients. AdventHealth and Berg are kicking off the project as a research effort,"
-    publishedDateTime: 2020-11-23T15:04:00Z
-    webUrl: "https://www.modernhealthcare.com/information-technology/adventhealth-study-covid-19-outcomes-ai-biotech-firm"
-    type: article
-    provider:
-      name: Modern Healthcare
-      domain: modernhealthcare.com
-    quality: 37
-    images:
-      - url: "https://s3-prod.modernhealthcare.com/s3fs-public/styles/800x600/public/artificial-intelligence-4469138_1280_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
     excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"

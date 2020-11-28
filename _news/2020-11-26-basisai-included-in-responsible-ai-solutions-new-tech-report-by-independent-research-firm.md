@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Top Independent Research Firm Names EPAM a Leader in Computer Vision Consultancy"
-    excerpt: "EPAM Systems, Inc., a leading global provider of digital platform engineering and software development services, today announced they have been named a leader in The Forrester New Wave™: Computer Vision Consultancies,"
-    publishedDateTime: 2020-11-23T15:02:00Z
-    webUrl: "https://www.nasdaq.com/press-release/top-independent-research-firm-names-epam-a-leader-in-computer-vision-consultancy-2020"
+  - title: "VUNO Boasts its AI Solutions and Research Results at RSNA 2020"
+    excerpt: "South Korean artificial intelligence (AI) developer VUNO Inc. announced that it will join the Radiological Society of North America 2020 (RSNA 2020), a week-long event scheduled to be open on Nov. 29."
+    publishedDateTime: 2020-11-27T16:33:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=383085"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 44
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 37
+    images:
+      - url: "http://us.acrofan.com/img/noImg.jpg"
+        width: 500
+        height: 324
+        isCached: true
 
 secured: "7MOvIim+WIJf6gZ03tw5sD+n7hs00SsdyxWMG3lKjuae87dD3I4zLF8HBIzK8RHYrsa442PYkQEoXjO42S8uQdDdfmevmm6uZor+y7xBSlWHYHxQeMZpPTK9+aM0A9C0c34+PdPi1aifnuo0wbGy8t1VplU3tm8zp1c/ctkllvzUc2NvqayohRD4I5bPEpJqPUnq04p3zbQz5bu/dIx1eDcMQKr9U4/BUSJX9E5lAeAsftOmrNhkQ6SjBqR/ZieRrEdQbVm0rFtyRJZTgtUpcEfosKYfTH24oSAOyh42NnfDdP9J4mkTZDAPnVlqylPV5/cS7YcLVAZC43e7PxlSehAZhGfVamnetE/gQBxzZXY=;jxAFoX8D27yqk+/ynkbLZg=="
 ---

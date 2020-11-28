@@ -23,6 +23,22 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
+    excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
+    publishedDateTime: 2020-11-24T02:02:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123005857/en/Global-Business-Intelligence-BI-and-Analytics-Platforms-Market-2020-2024-Size-Share-Outlook-and-Opportunity"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20201123005857/en/841266/23/IRTNTR44619.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+
 secured: "3xyEosqjgzHSgcLFDxZ6MXdbIn0w2bNuI8JJveEqEWt5Y1XJdcotSIEZiDCskDAOn3Fmbnf6A4dp0PQJpCvvtTxaBoRjNrZu6fBCLYBSsX9jru0Htudaknnxk3SjeoYtYkODx3QAsKt4ghW3fxWpM/6yE1i1/kYQ8g//dCOBT/rIwXcupyzKG532Le/hMTFgc2f4BLtUnhPNG9eklliMugBThgvrrlwIziUNKbarIC9Y+RcBQFJHrdEy8LgI3UbiSLfUQAmBzFlVIrIlgAR90v0cYcCkCgluALH1X1PgYqu+y4fsQx7rUIlvyOCIDp0cXA4jU/EpOPOhf1huEh33SQDZG4vxlp32qyqkUPM7a90=;09RmDwEz0FnGtdxi0t/v2Q=="
 ---
 

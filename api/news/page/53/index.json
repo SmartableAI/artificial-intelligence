@@ -2,6 +2,49 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2020-10-19-to-build-more-inclusive-technology-change-your-design-process.md",
+      "title": "To Build More-Inclusive Technology, Change Your Design Process",
+      "excerpt": "Companies from Microsoft to Airbnb to Oracle are striving ... more accessible for people with different physical and cognitive abilities; the tech industry has taken meager steps to diversify ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "originalUrl": "https://hbr.org/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_19_72983853.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/to-build-more-inclusive-technology-change-your-design-process",
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-19-waymo-launches-fully-autonomous-fleet-of-self-driving-taxis.md",
       "title": "Waymo launches fully autonomous fleet of self-driving taxis",
       "excerpt": "The age of self-driving taxis has arrived — at least, in parts of Phoenix, Arizona. Self-driving car company Waymo, owned by Google’s parent company Alphabet, announced its autonomous vehicles ...",
@@ -1094,57 +1137,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2020-10-17-ai-weekly-us-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests.md",
-      "title": "AI Weekly: U.S. lawmakers decry the chilling effect of federal surveillance at protests",
-      "excerpt": "There’s a thread that runs through police violence against Black people and connects to overpolicing, onerous and problematic tactics like facial recognition, AI-powered predictive policing ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
-      "originalUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/protest-surveillance-GettyImages-1279056199.jpg?w=1200&#038;strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/16/ai-weekly-u-s-lawmakers-decry-the-chilling-effect-of-federal-surveillance-at-protests/amp/",
-      "publishedDateTime": "2020-10-16T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

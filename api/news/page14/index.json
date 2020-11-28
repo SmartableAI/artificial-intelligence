@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-16-nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box.md",
+      "title": "NVIDIA DGX Station A100 Offers Researchers AI Data-Center-in-a-Box",
+      "excerpt": "SC20--NVIDIA today announced the NVIDIADGX Station (TM) A100-- the world's only petascale workgroup server. The second generation of the groundbreaking AI system, DGX Station A100 accelerates demanding machine learning and data science workloads for teams working in corporate offices,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524",
+      "originalUrl": "https://www.marketwatch.com/press-release/nvidia-dgx-station-a100-offers-researchers-ai-data-center-in-a-box-2020-11-16-10197524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T06:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-9-key-issues-to-consider-when-operationalize-ai-for-enterprises.md",
       "title": "9 Key Issues To Consider When Operationalize AI For Enterprises",
       "excerpt": "This year, large corporations in the financial industry are operationalizing their AI initiatives despite the challenges from the Covid-19 pandemic.",
@@ -1159,49 +1211,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-the-pessimists-guide-to-the-future-from-virtual-reality-to-driverless-cars.md",
-      "title": "The pessimist’s guide to the future, from virtual reality to driverless cars",
-      "excerpt": "artificial intelligence and even driverless cars. Virtual reality headsets have long been the next big thing, but that’s not based on anything approaching reality. At the beginning of 2017 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
-      "originalUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2018/05/pessimists_guide_to_the_future.jpg?fit=569%2C320&ssl=1",
-          "width": 569,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alphr",
-        "domain": "alphr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

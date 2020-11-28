@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
+      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
+      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
+          "width": 620,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "publishedDateTime": "2020-11-17T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
       "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
       "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
@@ -1122,50 +1165,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-natural-language-processing-nlp-in-healthcare-market-next-big-thing-cerner-3m-ibm.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Next Big Thing | Cerner, 3M, IBM",
-      "excerpt": "Global Natural Language Processing NLP in Healthcare Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
-      "originalUrl": "https://www.openpr.com/news/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.openpr.com/T/b/Tb17369727_g.jpg",
-          "width": 736,
-          "height": 395,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.openpr.com/amp/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
-      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188713/natural-language-processing-nlp-in-healthcare-market-next-big",
-      "publishedDateTime": "2020-11-17T02:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

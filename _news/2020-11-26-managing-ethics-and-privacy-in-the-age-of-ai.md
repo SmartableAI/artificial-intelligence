@@ -25,125 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ..."
-    publishedDateTime: 2020-11-23T15:53:00Z
-    webUrl: "https://www.entrepreneur.com/article/359653"
-    ampWebUrl: "https://www.entrepreneur.com/amphtml/359653"
-    cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653"
+  - title: "2021 will see the spread of AI and automation in the workplace"
+    excerpt: "Andy Watson, senior vice president for Asia, Pacific, Japan, and Greater China at SAP Concur, says many organizations will turn to automation and AI in 2021 as a way to address key business pain points and simplify cumbersome processes."
+    publishedDateTime: 2020-11-27T13:00:00Z
+    webUrl: "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
     type: article
     provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 89
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
     images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Dyson pledges new investment into AI, robotics and batteries"
-    excerpt: "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage."
-    publishedDateTime: 2020-11-26T23:06:00Z
-    webUrl: "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
-    ampWebUrl: "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 89
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
-    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
-    publishedDateTime: 2020-11-25T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://tr2.cbsistatic.com/hub/i/r/2020/11/06/540c3182-e4b1-44c2-af38-c8091a4facbf/resize/1200x/150cde9b43159f6cdf2dbe7fcd0158e1/istock-1205428317.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "2026 Cognitive Analytics Market |Top Companies, Trends and Future Prospects Details for Business Development"
-    excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
-    publishedDateTime: 2020-11-26T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/2026-cognitive-analytics-market-top-companies-trends-and-future-prospects-details-for-business-development-2020-11-25"
+  - title: "Will Artificial Intelligence Replace The Mathematician?"
+    excerpt: "In the 1970s, mathematician Paul Cohen predicted that at some unspecified future time, mathematicians would be replaced by computers. Its a theory that has unsettled many in the field of mathematics."
+    publishedDateTime: 2020-11-25T01:34:00Z
+    webUrl: "https://www.econotimes.com/Will-Artificial-Intelligence-Replace-The-Mathematician-1597084"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "BOTZ: Robotics And AI For Investors"
-    excerpt: "The global robotics and AI markets are expected to grow significantly over the coming years - with EVs and high-performance computing (HPC) being primary drivers."
-    publishedDateTime: 2020-11-25T16:29:00Z
-    webUrl: "https://seekingalpha.com/article/4391467-botz-robotics-and-ai-for-investors"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 49
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
-    publishedDateTime: 2020-11-23T18:37:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
+      name: EconoTimes
+      domain: econotimes.com
     quality: 39
     images:
-      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-  - title: "Cognitive Analytics market 2020 Growth by Key Players, Industry Overview, Regions, Type and Application, Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-11-24T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020-growth-by-key-players-industry-overview-regions-type-and-application-analysis-to-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "The Big Opportunities at the Junction of AI and Analytics: Interview with Tom Davenport"
-    excerpt: "Tom Davenport has been one of the most influential advisors globally on the business impact and application of information technology. He made the topic of big data and analytics a boardroom issue with his groundbreaking 2006 Harvard Business Review article (“Competing on Analytics” 1) and a 2007 book 2 of the same name."
-    publishedDateTime: 2020-11-26T17:11:00Z
-    webUrl: "https://www.tcs.com/perspectives/articles/the-big-opportunites-at-the-junction-of-ai-and-analytics"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 11
-  - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
-    excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
-    publishedDateTime: 2020-11-24T02:02:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123005857/en/Global-Business-Intelligence-BI-and-Analytics-Platforms-Market-2020-2024-Size-Share-Outlook-and-Opportunity"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 1
-    images:
-      - url: "https://mms.businesswire.com/media/20201123005857/en/841266/23/IRTNTR44619.jpg"
-        width: 1200
-        height: 627
+      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
+        width: 400
+        height: 330
         isCached: true
 
 secured: "WSwZKGLZmtrBffOhK6M3vU2mY79ZLkwoDK4QYK9fK+pR1uY7JZvMDnlymhgtkXhSq37R8PxDDi9Bwi1ayAYXKf4HMZX7c9yc6NFmNanesm/DwN+sEMMOI2mtbMUDLnFrCd9A2YdVlN2zafp44zcp4B+yiLd4wpmAAY8bmzsjo6399TIAJiKPo7KfEcFmYzQX6buUAFlmPiCYRbC/4PGvY7UcjkLBWQEaXfQggawUrgFy16ieUbx0LV4jRwVJqcclthbGwTO3OOksX05oHYrGB9qnpJzJWbEEJIZJwqU3aXXaku+pDq0RzctSBDkKkYN7UgfO/G8VRPdxgrbYnvvauzKMTIPhtVpPrD+N6SKYPh0VXBuWlHtwxbosAVPpD+iEOT1J3AocIPZzAvCSwcz7YAYEPCwjvkZ+3Sc43IptX7/jSFHA3YxaMKQuaYu9OawQKJmbPyH9nyCe7wBijuv2KJk8lX2TBVrghL4/SNi0O4Bs9uJ/0DQ9us7mzpSHuwBGN+exLV0dme5GwKdBp0Ww/Q==;ysnXftxh1wiDMQYkjWZILg=="
