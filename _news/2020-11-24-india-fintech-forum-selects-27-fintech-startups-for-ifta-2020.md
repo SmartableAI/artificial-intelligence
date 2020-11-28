@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/360295"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360295"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Malta’s Pivots to Becoming a Fintech Haven"
+    excerpt: "Crypto enthusiasts and industry observers alike are asking what happened after the joyous announcements and parties. A better question would be to ask what happened before all that. In short, there is an essential mismatch between the original vision in 2017 and the original actions taken in 2018."
+    publishedDateTime: 2020-11-28T12:28:00Z
+    webUrl: "https://beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
+    ampWebUrl: "https://beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 44
+    images:
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2020/11/bic_Malta_blockchain.jpg.optimal.jpg"
+        width: 1140
+        height: 570
+        isCached: true
   - title: "India FinTech Forum unveils 27 high potential fintech startups for IFTA 2020"
     excerpt: "Companies including Amazon Pay, PayU, CashRich, TransUnion CIBIL and Deloitte are supporting this initiative to celebrate global fintech excellence. IFTA finalists will demo innovations in diverse fintech verticals including banking infrastructure,"
     publishedDateTime: 2020-11-24T09:03:00Z

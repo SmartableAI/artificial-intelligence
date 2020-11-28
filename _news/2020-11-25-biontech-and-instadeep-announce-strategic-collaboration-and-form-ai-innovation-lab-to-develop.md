@@ -34,15 +34,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Defense Innovation Unit (DIU) Selects Immervision InnovationLab to Develop a Computer Vision Wide Angle Camera for the Blue UAS Framework Project"
-    excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, today announced it has received an award from the Defense Innovation Unit (DI"
-    publishedDateTime: 2020-11-23T20:01:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123006046/en/Defense-Innovation-Unit-DIU-Selects-Immervision-InnovationLab-to-Develop-a-Computer-Vision-Wide-Angle-Camera-for-the-Blue-UAS-Framework-Project"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
 
 secured: "nLKw2ile0L+NMQqN2JCCYE7uHUBcQzj2wUm7kzabMeF5qqLPL2z9I7h4nvddxIYLvrjcsv1aIGuq5Zewxp62470OaRE4N68pdZcDKg4wv9kikdLyXY2CDNacfvyDX0Q8pwyGyAHU04tGZ6JSKmbpW3e7AMda6+QhDQXhCrNDMKC1Qh3pyFzXdLta5M/H9KMA+F2ultOghgfefN07v/sEnnL3rTS1ae0b+Hw0W53uM5VD2e52B52Zne19n6yExwosGqCd1aumLYq7HBEDPW0xh4kdkr9I7LhUKe3jykW9rJMXOcv+NKxX6ndOH2rW5n1y3LECNGBFUoCJ6eyQlLqCbHcv09JYdYIl39XCDqvMO74=;lGFxkMmUkW6/u0fPmhY6Cw=="
 ---

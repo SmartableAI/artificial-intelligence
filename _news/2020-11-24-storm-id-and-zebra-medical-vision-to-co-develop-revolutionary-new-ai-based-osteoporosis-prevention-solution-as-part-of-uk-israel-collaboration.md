@@ -52,20 +52,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "AI's Regulatory Guidance and its Potential Effect on the Construction Industry"
-    excerpt: "The White House’s AI Regulatory Guidance, which clarified policies regarding encouraging innovation and growth in artificial intelligence, has potential to provide improvement to the construction industry."
-    publishedDateTime: 2020-11-23T19:26:00Z
-    webUrl: "https://www.forconstructionpros.com/latest-news/news/21204125/the-white-houses-ai-regulatory-guidance-and-its-effect-on-the-construction-industry"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 35
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/11/16x9/AdobeStock_323303561.5fbbf6b8080c9.5fbbf710bf4f8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "YEswrziolKnpTtGnnE3xjKAQ91thHRcUK4zQqdOfOKFk0wDn3RtXbKlop1+4C1QeayZnBwVkZiiyfQMjyah6kJrlyI4Mv7pVsCPtr9byYggY2a2a9B+kzz9FWoQGGq6kO/wrMr2EVlbk56y23X/rIVJbmoBAMvRoui1Oi5LanwNGZKN1+8MleZrtGVnpr1fF1CxFCwjULjoVALxjkgaUualk75C0JN3dKO1FNUGJI1P2si+TIAqdGh8xNykW6lTbqn9V3nEQ2lKoyaMfR9GLuZ395vbiHAqURccUk46nbih05fj2Ai38bZ+z/3aotI1VCIw9Zti9WvOss0Ag8tkbUhMB0xJeHlgDeUc04HXKAMs=;QcSt+tn9nxEbPQXfCTUfBw=="
 ---

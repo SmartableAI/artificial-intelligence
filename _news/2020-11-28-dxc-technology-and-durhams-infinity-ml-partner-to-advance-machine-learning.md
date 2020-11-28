@@ -7,7 +7,7 @@ originalUrl: "https://www.wraltechwire.com/2020/11/27/dxc-technology-and-durhams
 webUrl: "https://www.wraltechwire.com/2020/11/27/dxc-technology-and-durhams-infinity-ml-partner-to-advance-machine-learning/"
 type: article
 quality: 52
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine learning startup Infinia ML lands big partner for cloud project"
+    excerpt: "Durham's Infinity ML, which applies and audits machine learning, has formed a partnership with Virginia's DXC Technology, which helps modernize client IT across private, public and hybrid cl"
+    publishedDateTime: 2020-11-28T11:31:00Z
+    webUrl: "https://www.wraltechwire.com/2020/11/27/machine-learning-startup-infinia-ml-lands-big-partner-for-cloud-project/"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 54
+    images:
+      - url: "https://www.wraltechwire.com/wp-content/uploads/2018/04/cloud-computing-new-e1584113595755.jpg"
+        width: 926
+        height: 520
+        isCached: true
   - title: "DXC Technology and Infinia ML Team Up to Bring Benefits of Advanced Machine Learning to Global Customers"
     excerpt: "DXC will utilize Infinia ML machine learning capabilities across its Enterprise Technology Stack to automate document processing, boost performance of mission-critical IT systems,"
     publishedDateTime: 2020-11-24T21:15:00Z

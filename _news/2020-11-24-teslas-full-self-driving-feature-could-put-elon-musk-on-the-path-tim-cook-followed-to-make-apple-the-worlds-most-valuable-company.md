@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/elon-musk-tim-cook-tesla-apple-mor
 webUrl: "https://www.businessinsider.com/elon-musk-tim-cook-tesla-apple-morgan-stanley-2020-11"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,40 +27,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Tesla could widen release of 'self-driving' software in two weeks"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
-    publishedDateTime: 2020-11-28T08:44:00Z
-    webUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28806A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
-        width: 716
-        height: 545
-        isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause"
-    excerpt: "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause."
-    publishedDateTime: 2020-11-26T17:57:00Z
-    webUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/"
-    ampWebUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 72
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-FSd-beta-pedestrian-yeilding.jpg?quality=82&strip=all"
-        width: 3584
-        height: 1598
-        isCached: true
 
 secured: "CEaPUkwD4eQxh2z52LAZirtYDh1dbYQtjATb3nrUn51zQjLgNe+LwfAwYGzb+2zUfxpCwTm6jqsPRI+FLjY0tEWOZHxUi/vSEZ5aCooYyUyzOwdgEpwen2C7iqnoIcuT38guzJx7fryAUpAJ3gZ8pdeyof5rnBL1Lmx21suz4maiJ1s9BBcgkW6UYWVC2d+DJDIpaBpUItmslSYVz2xEdQycEx9wIsXXXhU5TGJPtaY+BlzctU2Q1fI/fsPXZHDoGFifnZOMtbWtLPrCmKf5rYY+FgFnuyQo0np2FL6qDA+hx+QdsyooBtmV6hvmb57fq/XHbtSqiAqfy+zqd/yDcRlUFJYZGPWm6+b6lymrdLzcatBo+6U+maXw+QsPo6aT/e0QyYHfyUYDC/1eSa+ItSs5VX4iGtgvgB008xf/8RdLKmSQGKa5cRGOGtooIKq/giWyM5/zaBwvOrxdTRM2gsNDvsarPjUyEi8M3l4ZZVqhrEaUyAhbTIWSngzOK8W5anXW2TFtMivXf7yxiOmhpA==;k2oJP15OUzW1s8hhovFvjQ=="
 ---

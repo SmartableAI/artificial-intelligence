@@ -3,8 +3,8 @@ category: news
 title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
 excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
 publishedDateTime: 2020-11-27T09:08:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
 type: article
@@ -116,6 +116,6 @@ related:
       domain: seekingalpha.com
     quality: 49
 
-secured: "feQjmIa+NZcSfI7eGunGUgi3XHnE1hBvrkaW7sHpmcy4b93CKwBW09+x8Yk/Y05gdYVcll5UT5fhWcEcA1mXF5lvsRmP+wFUAVMOlkVu6c7egJcYECsGlfaNHBr2L+IVsLEy6uHcX/8e4EictyZCzV0qeHUfC7pqd3cD+Jdfvpgaf83WEKHlroLAavhYl0lGLu7R7HQ0QOm6Qk0j2sNKb5axRErPofy00C7ajs7NOw8yz6AHWygDa99h8O+NuwXQTto9SdlkBLnqrVvh0G9RX8IT37+wpsQLKxgq4BimCZf57vfb7uy35vgMLynyp/c5mEPFKxHWDmpDRR1ikCYOmgxw7JAKPxz7lQQ8MQ/zaa0=;wrr/wZkOTkPCMjUo2OOHRQ=="
+secured: "VrAYf6GqXLoiGxM3oPdS8GqEnmz9IyD5dfINPTmo5aVd4tL0IXU4OH/w9UujDbtJbPib/Jqhp2HuXotN1z/Hiz8+O45PwGu4FXkURLlwZ+69vDk0sGt5/173EY08hvzMNhmRkbjEOCRM+FW4SNJP7NTgYYbCSsUkt7LrGc8lwbNP7GjLxJalKO1IM3rNGoIwoptrsf1ZFgskROmln6UsDV8/HQ/fnIYYA82AGuDWt/IjrnEAF7RH9y+edvVMPlLdzQqOiIiCmUv2rKjK84r1ZRxiXcljw3rgec6/SwbSJv9SvvCf6FLMVz6GhQzYiHZ32C/ZCXtF29bYkMCarvRSp+Soa2sOPQxvHl/H7Shc11w=;p7TUybjkXYawE4Ms5n2CYg=="
 ---
 

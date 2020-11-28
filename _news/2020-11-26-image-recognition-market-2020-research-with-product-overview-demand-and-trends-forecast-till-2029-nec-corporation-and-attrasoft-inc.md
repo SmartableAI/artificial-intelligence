@@ -255,9 +255,9 @@ related:
       domain: acrofan.com
     quality: 29
     images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+      - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
         width: 580
-        height: 339
+        height: 387
         isCached: true
 
 secured: "6Ny306EabOfm6Y5A5wa4G1e/oqiw2/La/DqraOOIZcSny+prQ4G4mBIbLD7fzFP+cPz6uy0wIKCbKuBVL2Bzt9fsZRcegkih6mPB3g0CDrh5/EmflYH19oMcgw7CniSLTIgn+q4Tt10TvpB4lIUvonNRWK5nNwJc3ZQ9JH7vBrY3gMvp2bIQhS1hokhu6Jox0O+lYGaun7cwJQcKGuqCM4cjzM1AO6x2Ze2OIMGZ0H6Q7Z3ah3QkoFB3UK94MRLFE5EaKGWChMcT99ENqEbG0CfUfFmmsqMtwfXUL6I27wlJSt2O1ybHPulfZu58NGYHkcN7c6Q7hJ18So7VsFtY7h0kP6dqlQuWjVMXq2JK/aI=;kPmXdnrCJaWmAnpnkI/+Zg=="

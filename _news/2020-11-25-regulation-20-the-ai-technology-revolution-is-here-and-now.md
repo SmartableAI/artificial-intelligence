@@ -39,20 +39,6 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "AI's Regulatory Guidance and its Potential Effect on the Construction Industry"
-    excerpt: "The White House’s AI Regulatory Guidance, which clarified policies regarding encouraging innovation and growth in artificial intelligence, has potential to provide improvement to the construction industry."
-    publishedDateTime: 2020-11-23T19:26:00Z
-    webUrl: "https://www.forconstructionpros.com/latest-news/news/21204125/the-white-houses-ai-regulatory-guidance-and-its-effect-on-the-construction-industry"
-    type: article
-    provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
-    quality: 35
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/11/16x9/AdobeStock_323303561.5fbbf6b8080c9.5fbbf710bf4f8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Storm ID and Zebra Medical Vision to Co-Develop Revolutionary New AI Based Osteoporosis Prevention Solution as Part Of UK-Israel Collaboration"
     excerpt: "NHS Greater Glasgow, Clyde UK, Assuta Medical Centers, IL, partner with Storm ID and Zebra Medical Vision for early detection of osteoporosis"
     publishedDateTime: 2020-11-23T21:56:00Z

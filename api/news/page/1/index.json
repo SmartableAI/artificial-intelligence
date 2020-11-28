@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-28-tesla-could-widen-release-of-self-driving-software-in-two-weeks.md",
-      "title": "Tesla could widen release of 'self-driving' software in two weeks",
-      "excerpt": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
+      "path": "_news/2020-11-28-machine-learning-startup-infinia-ml-lands-big-partner-for-cloud-project.md",
+      "title": "Machine learning startup Infinia ML lands big partner for cloud project",
+      "excerpt": "Durham's Infinity ML, which applies and audits machine learning, has formed a partnership with Virginia's DXC Technology, which helps modernize client IT across private, public and hybrid cl",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
-      "originalUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
+      "webUrl": "https://www.wraltechwire.com/2020/11/27/machine-learning-startup-infinia-ml-lands-big-partner-for-cloud-project/",
+      "originalUrl": "https://www.wraltechwire.com/2020/11/27/machine-learning-startup-infinia-ml-lands-big-partner-for-cloud-project/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032",
-          "width": 716,
-          "height": 545,
+          "url": "https://www.wraltechwire.com/wp-content/uploads/2018/04/cloud-computing-new-e1584113595755.jpg",
+          "width": 926,
+          "height": 520,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28806A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A",
-      "publishedDateTime": "2020-11-28T00:44:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-28T03:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,7 +40,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     },

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-t
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Government Technology
@@ -27,48 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "SA scientists develops facial recognition technology identifying faces through face masks"
-    excerpt: "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks."
-    publishedDateTime: 2020-11-26T06:32:00Z
-    webUrl: "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
-    ampWebUrl: "https://www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
+  - title: "Deep learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
+    excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
+    publishedDateTime: 2020-11-24T18:52:00Z
+    webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 50
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 88
     images:
-      - url: "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717"
-        width: 650
-        height: 366
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
+        width: 1200
+        height: 900
         isCached: true
-  - title: "SA scientist develops facial recognition technology identifying faces through face masks"
-    excerpt: "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks."
-    publishedDateTime: 2020-11-26T07:15:00Z
-    webUrl: "https://www.iol.co.za/the-star/news/sa-scientist-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
+  - title: "Training AI algorithms on mostly smiling faces reduces accuracy and introduces bias, according to research"
+    excerpt: "In a new paper, researchers find evidence that variations in facial expression are resulting in biased facial recognition results."
+    publishedDateTime: 2020-11-24T03:45:00Z
+    webUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/"
+    ampWebUrl: "https://venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/training-ai-algorithms-on-mostly-smiling-faces-reduces-accuracy-and-introduces-bias-according-to-research/amp/"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 30
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 73
     images:
-      - url: "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "Facial Recognition Is Not Just For Your Phone. It Could Be Used To Prevent Livestock Disease."
-    excerpt: "To the human eye, each cow in a herd can look nearly identical. But new technology is being developed to identify cattle through facial recognition."
-    publishedDateTime: 2020-11-27T21:55:00Z
-    webUrl: "https://indianapublicmedia.org/eartheats/facial-recognition-is-not-just-for-your-phone.-it-could-be-used-to-prevent-livestock-disease..php"
-    type: article
-    provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 28
-    images:
-      - url: "https://indianapublicmedia.org/images/eartheats-images/cattletracs.jpg"
-        width: 800
+      - url: "https://venturebeat.com/wp-content/uploads/2020/06/GettyImages-1199708189-e1600898324155.jpg?w=1200&strip=all"
+        width: 1200
         height: 600
         isCached: true
 

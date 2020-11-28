@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
+title: "Deep learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
 excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
-publishedDateTime: 2020-11-24T19:59:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+publishedDateTime: 2020-11-24T18:52:00Z
+originalUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 type: article
-quality: 71
-heat: -1
-published: false
+quality: 88
+heat: 108
+published: true
 
 provider:
   name: TechRepublic
@@ -21,8 +21,9 @@ provider:
       height: 50
 
 topics:
-  - Computer Vision
+  - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
@@ -47,46 +48,23 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Human Rights Commission publishes guide to recognising and preventing AI bias"
-    excerpt: "It also offers recommendations for those making AI systems to ensure they are fair, accurate, and comply with human rights. The paper, Addressing the problem of algorithmic bias, was developed by the Australian Human Rights Commission,"
-    publishedDateTime: 2020-11-23T20:13:00Z
-    webUrl: "https://www.zdnet.com/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-rights-commission-publishes-guide-to-recognising-and-preventing-ai-bias/"
+  - title: "Can facial recognition tech identify different bears?"
+    excerpt: "Humans aren’t the only living being that can be identified by facial recognition technology. As it turns out, anything with a face qualifies. Tech workers in Silicon Valley recently teamed up with biologist Melanie Clapham,"
+    publishedDateTime: 2020-11-24T02:11:00Z
+    webUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html"
+    ampWebUrl: "https://www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/question-of-the-day/Can-facial-recognition-tech-identify-different-bears.html?AMP"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 66
-  - title: "Leveraging Artificial Intelligence to Reduce Clinician Burnout"
-    excerpt: "Providence health system is using artificial intelligence to alleviate clinician burnout and improve the care experience."
-    publishedDateTime: 2020-11-23T20:10:00Z
-    webUrl: "https://healthitanalytics.com/news/leveraging-artificial-intelligence-to-reduce-clinician-burnout"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 39
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-495213850.jpg"
-        width: 690
-        height: 400
-        isCached: true
-  - title: "AI Algorithms Help Support Tree Farming, Planting, and Mapping Operations Around the Globe"
-    excerpt: "An agricultural technology startup SeeTree has recently received $3 million in funding from Orbia Ventures, helping the startup accomplish its mission of digitizing farmed trees. The company represents a growing trend of employing AI algorithms to support the growth of trees around the globe."
-    publishedDateTime: 2020-11-27T21:47:00Z
-    webUrl: "https://www.unite.ai/ai-algorithms-help-support-tree-farming-planting-and-mapping-operations-around-the-globe/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 27
-    images:
-      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.f8AX~1c8f3/w:1000/h:600/q:auto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2020/11/aerial-view-1867094_1920.jpg"
+      - url: "https://media2.govtech.com/images/bear+in+forest.jpg"
         width: 1000
-        height: 600
+        height: 667
         isCached: true
 
-secured: "Kd86vuTktQv6suRLYxiX5DVHtD6+DTJe5YxBPE4rGSBCAhnqEv81yTYT0f3BXTe0UG1kiqc5qVIw4zwu13C8DeEKysRz3dBsulNBpMo4XsCPSlPYGsrRh5kXTcvvbqc+OKr6oJheaZY7SwVCOPsqpyJW438056gPSYZAPAXKCUhBKGfcO1k2HscFdPVNWJzFzJY2i35OR/PnEuuQLexLepmY5N/OXTE5zQFRbXrXDEEsnFZv9w4Nc5H/OmwxBW/Qv/hSQNRCEMqyrnBDOAChT8wp1ic5zQoCrNUYufkuAtPC8G5i16Sb0SDll1tMERvR+5SS2ImsjheWznYWiL528zl7YsZ+ZspdPMoj8Zkcz+I=;NoFskU0qln2gPhu0OY8gIQ=="
+secured: "6lhmO9TQEdJ3vXd7uIB7ZtEYUwqc0V6ROoJPwZ9zOuKMjjniEiguLGTqN4y//JJvtjneFAKyqhvGu/k3pxhOmjxvmC85qFyygXMUf42OvbWDT3BDp7mrOc3sH7B7BZfZYaFb0vKAWHVymZYqkkQuE/XSs852VCamLsxEXzjlh1GhEXIWfHfBablOY2s4RWMlgT3PsoWtfj3lfiOXfT1SQQhYNB+McirAOSusyAXcccffd8HG2qsxj3ZcIafc7USqgK2mrEosghE840BCriQ7IRX4VQPjLadwah5AHHhDEGhbS30fjHVjJRLwGOveIMkc4jRrzlknXa8PdT4wvZ5sZSfQqeMMUA8Z30pqDV31b1M=;Q0WQa9Cn/VjdGnTVoNoA3w=="
 ---
 

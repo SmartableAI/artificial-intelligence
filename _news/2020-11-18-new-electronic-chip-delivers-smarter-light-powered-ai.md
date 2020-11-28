@@ -2,25 +2,23 @@
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
 excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-publishedDateTime: 2020-11-18T05:04:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+publishedDateTime: 2020-11-18T15:15:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
-    width: 1440
-    height: 960
-    isCached: true
-
-secured: "1KDr+qOPKz+NJmniNDO0Vjf4hs9eBeHwMH+YLlDlHfPb1CiqklqVRKoDodpugHDcuHWnsFp2oh9jcpwn1NdXqfiw7dkzS27V7qtlIZcUea2UybNSPPNhizlwguB87TuF2aJ+Fq/1ZUz3FNTuZODEeLafX6upbNyqn1DvjvdJD3yt/aUQtbIFqL55k1vc/PKh0FL3MwVek/dZeoTkEcaFDE7PROa4yIGHNc8OW8VIqWfc2adX3kJ1/Mg8hOGz87Tm8hpTNCnlpyuWmGRVrxReJIcr6sEnUrt3lPutz9FSFaEG5jw9idU7S6IMTfVew6VhSxcbcfHhCitiQJleUqzG54IfFW+0DFBcI2wpygzhq6z58MXsNF+gNRTUG5g3aDq9fjr5tveyLDCJrFpro0O/quCnQRfbd2NIenfDlca0slyZErquMGGT7KKAYd+IF3nlrmaRfWMIjPh+3GZwbwfDDWhwQWKDpfWVae9CqN6zvQ4xU0b3C4K1Bkq8DHQIJ40joXHAFps/rhp0Dw5xR0XZow==;VebnJQenBuxifKd+37Etow=="
+secured: "H4j2s8XSuOAi/0Amhgo/UUm0pORg+YiaLS4QzypwqlsqDshWyolP5wZIOUg2WF/aUw4qiSn+NcPky7PseeUB5GVXzN2bZSxyGsaC70yfx8VFA5X7uUixzPbuQHCEQOf/lO4yiOyNxSw2dMfbwmvATN2VbBy5vQVyAPwpvHB7V9O0v2rGGIcUZb9GQxO1cbgPLOT0NY9wncQ/ggiCJ8m8UbGuy2fJEp3MGabkBIClVjOIvpokkKFyewZsBF3txWpoF8hE1j7wCAZ5Q/pYen1xNW2EgtKqQEfWw2K31qj8lopkL90m6OAAkr3h+29QZGLeRbHbpoSjPFd64s7HQoYeOMb3VXszzzELCDIB8j9+Q00=;ZQG/57bHmLBKfUp/3V/bcA=="
 ---
 

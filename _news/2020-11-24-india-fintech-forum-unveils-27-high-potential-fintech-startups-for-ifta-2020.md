@@ -43,6 +43,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Malta’s Pivots to Becoming a Fintech Haven"
+    excerpt: "Crypto enthusiasts and industry observers alike are asking what happened after the joyous announcements and parties. A better question would be to ask what happened before all that. In short, there is an essential mismatch between the original vision in 2017 and the original actions taken in 2018."
+    publishedDateTime: 2020-11-28T12:28:00Z
+    webUrl: "https://beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
+    ampWebUrl: "https://beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
+    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
+    type: article
+    provider:
+      name: https//beincrypto.com
+      domain: beincrypto.com
+    quality: 44
+    images:
+      - url: "https://s32659.pcdn.co/wp-content/uploads/2020/11/bic_Malta_blockchain.jpg.optimal.jpg"
+        width: 1140
+        height: 570
+        isCached: true
   - title: "India Fintech Forum has Teamed Up with Amazon Pay, PayU, Deloitte, has Also Shorlisted 27 Fintechs for Awards"
     excerpt: "India Fintech Forum has teamed up with Amazon Pay, PayU, Deloitte, has also shorlisted 27 Fintechs for awards."
     publishedDateTime: 2020-11-25T22:09:00Z

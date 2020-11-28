@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "KFC rolls out self-driving food trucks in China and it's sort of wild"
-    excerpt: "Some experts believe the self-driving cars are in for a boom, thanks to how the coronavirus pandemic has started to reshape how we purchase goods. When a top priority is to slow the spread of a contagious virus, having things delivered can help some people."
-    publishedDateTime: 2020-11-23T19:35:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/vVVJc_UXS8zKfNCqn1-Zu_LkhS4=/2020/11/23/194f0a35-6f2b-4fe6-a886-776ba77b6ef3/ogi-kfc.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "KFC Has Self-Driving Food Trucks in China And I Thirst For Chicken"
     excerpt: "The self-driving vehicles allow customers to select their KFC item of choice and pay by scanning a QR code. Upon payment the door will open so the customer can take their food. The trucks seem to have been first spotted on Twitter earlier this month."
     publishedDateTime: 2020-11-23T23:31:00Z
@@ -70,20 +54,6 @@ related:
       - url: "https://s1.cdn.autoevolution.com/images/news/kfc-is-deploying-self-driving-food-trucks-and-theyre-perfect-152045-7.jpg"
         width: 728
         height: 300
-        isCached: true
-  - title: "KFC rolls out self-driving food trucks in China and it's sort of wild - Roadshow"
-    excerpt: "Contactless Kentucky Fried Chicken is totally a thing now."
-    publishedDateTime: 2020-11-23T21:00:00Z
-    webUrl: "https://www.newsoneplace.com/38273151911/kfc-china-roadshow"
-    type: article
-    provider:
-      name: newsoneplace.com
-      domain: newsoneplace.com
-    quality: 19
-    images:
-      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/mP7AwEW-SESw85apYdfsVLDgcCI=/300x0/2020/11/23/092f3982-84cc-4945-a7b5-f4f7f22fb2c7/enfmt8yuuaexkie.jpg&h=250"
-        width: 375
-        height: 250
         isCached: true
 
 secured: "mXUrEoSzUBvCP8VMq6z1hO9BeAmDKllad4dQKZ1/wW31dNx7sNMOVD2RO2zZ1bg0UZ4V1+G4GcVZiJHK5b4Q3/hx3Zj/+CQKSVmiP7/yBVcHW6IahpnYCFlAkHVWAeO8vg4IQLZ6hS7HZF2vGoymDZ6tRZXONU8SdD7bjVBzgpvntofPhatWEhVjSaTPy/vH93UUpiAtfBei25UbZeH8u0QxZrXH1c45s6wRkXLTiichoYDfofPTvJb+mVAQIu9zqzwa85uIF3t1E5e9cLBZbMmAm3/2EeTWvyccjF6Eg/L1WV2KSFQ89s0PBKNh1erniAaga5R7D2lUubmXBlpZYVdLOyXD+q/STHYZ4CJ2+TExf/9TkU80BOwOLwF4PU2tELJ4ihvYyTZy0Qbeoks7+hrDd5llcejooBX6fYDLHzRc4pKTVeqsBZcnEcvY6izA3Szxt3HXkP1SVfCu/HLEt0cGuQ57vxMyeVRdWzEkTJH20hTN4m4DZ8Ypvn84sB3f5RY6Qsyxz8DOkA9nv4CEwg==;kneZyqEhcAw4PpqjEg68gQ=="

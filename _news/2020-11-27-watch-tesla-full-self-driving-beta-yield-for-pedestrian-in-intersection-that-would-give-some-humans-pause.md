@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pe
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
 type: article
 quality: 72
-heat: -1
-published: false
+heat: 102
+published: true
 
 provider:
   name: Electrek
@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla could widen release of 'self-driving' software in two weeks"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
-    publishedDateTime: 2020-11-28T08:44:00Z
-    webUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28806A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A"
+  - title: "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature"
+    excerpt: "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,"
+    publishedDateTime: 2020-11-26T13:10:00Z
+    webUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/"
+    ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
+    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
+      name: Tesla News
+      domain: teslarati.com
+    quality: 67
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
-        width: 716
-        height: 545
+      - url: "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg"
+        width: 769
+        height: 432
         isCached: true
-  - title: "Tesla's 'full self-driving' feature could put Elon Musk on the path Tim Cook followed to make Apple the world's most valuable company"
-    excerpt: "Tesla's Autopilot upgrade and other software-based products have set up a \"profound\" shift in the company's business model, Morgan Stanley said."
-    publishedDateTime: 2020-11-24T13:48:00Z
-    webUrl: "https://www.businessinsider.com/elon-musk-tim-cook-tesla-apple-morgan-stanley-2020-11"
+  - title: "Tesla could widen release of 'self-driving' software"
+    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
+    publishedDateTime: 2020-11-28T12:34:00Z
+    webUrl: "https://dunyanews.tv/en/Technology/575487-Tesla-could-widen-release-self-driving-software"
+    ampWebUrl: "https://dunyanews.tv/amp/english/575487.php"
+    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/575487.php"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
+      name: Dunya News
+      domain: dunyanews.tv
+    quality: 59
     images:
-      - url: "https://i.insider.com/5fb842eb50e71a0011556a15?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://img.dunyanews.tv/news/2020/November/11-28-20/news_big_images/575487_78460199.jpg1"
+        width: 556
+        height: 370
+        isCached: true
+  - title: "Tesla could widen release of 'self-driving' software in two weeks"
+    excerpt: "Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks."
+    publishedDateTime: 2020-11-28T12:54:00Z
+    webUrl: "https://www.foxbusiness.com/technology/tesla-widen-release-self-driving-software-two-weeks"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 39
+    images:
+      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Tesla-More-than-car-maker.jpg?ve=1&tl=1"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "WId4JR38YKQFiKSKDpVY5hjNF66XySvV32y9w60qb62dbg0rqMD66qCjH+MnQvUuIe3MeQtoCZ+/0WcHOQOIlW3mgPL9C8zGG6UKyS/wKvz/M54HUIafW5bZ0NZaIrOeLrmhav3B/iR3g2Xkd1H1PQ2FJtsUV9oel/uHxcpJLdvrVmO+/EzWOlN7TZfipPv/bUNVclHMDdrPz/wfm5HhDv1FeNytKylowbjerBY9XbfvzUe2/bYqpT8xPBtcSCw/6UCwrWfh0V+Rhs0Uka7/3D59/idxBcy/TjmSimaeCyW8nJrqShFMI4THm6Tn5HxyV9muwmYS9Ls4kw8qe3C+j6I1zDrpjYZtYU9LoyGqcQD54cgekp4QYk2Awju8xdCNR4M7czljTh6qJbezZhmtyD7X174D70U12UPaRQAF+oZM5W8OPuoFjFsjSE2Evnap/8YfJztQ37NmV90QmLbmcVleasPayf4ib4iVe4SRSt4cTzcaD8kf79QsTga3bjJ2g+14qXyV9XAEHW/ZUrSvRg==;SApkrRhaK2lXshKGjT2tMQ=="
