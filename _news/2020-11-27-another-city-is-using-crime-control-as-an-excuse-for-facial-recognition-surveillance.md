@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-faci
 cdnAmpWebUrl: "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology"
 type: article
 quality: 82
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 6201
     height: 3484
     isCached: true
-
-related:
-  - title: "CBP plans broader use of facial recognition"
-    excerpt: "According to a proposed rule change, Customs and Border Protection will expand the use of facial recognition technology for entry/exit tracking systems."
-    publishedDateTime: 2020-11-23T21:25:00Z
-    webUrl: "https://gcn.com/articles/2020/11/23/cbp-facial-recognition-rule-change.aspx"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://gcn.com/-/media/GIG/EDIT_SHARED/Identity/facialrecognition2.png"
-        width: 760
-        height: 368
-        isCached: true
 
 secured: "pZzeLwBoFcaSSozo7AdD8gta5H8MQNi5+/2l4yEZ8OpPn21+fLlNns8lt+6pDFTrn0esFcfuF32b/nfUS8wu+KUX82WXR4m0UXdWjWnPOSbZNK29rGPM3V1VW9bpbyZfruYLDX+mUj6xAP3ZVy+ww8UCwsKtuxhziKEzqgs+GJ/fxvIRpQV+jUz63QJGVYmcGt42bvrLU6n1SA2uFKvBiJxXp6mDNUOznv6BAkL7laJPc623UJkLAYZtJvOGOkWb3M4M9xJXJTiRj8H4atD54mQKBXwnVxF2XmTBo0728MefTauClZzqXcwgpJW+hRX+YYdvh7eJPh7MJyR+cyJVQKNREzlIQf54UePm4837j2jXCRw4Ae2OLIIAuHhPkKIaxwQiGA4O4xTJMFJRnFzZw+wciUR9k+p1N2jwD93qF4hQOMN694gQOkisWy0yT/PkaOqiap7eNtsjWCXGq/CJ6GEYYhFx4M2leCh9sOpFY6Bi6/dDj+NkggHgGVgTrjmn4dMZVrNuWhd1qWjy2jOylw==;jymB0MS+7aKdhNOmXHU3Jw=="
 ---

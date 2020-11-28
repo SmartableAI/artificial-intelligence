@@ -59,6 +59,22 @@ related:
         width: 556
         height: 370
         isCached: true
+  - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
+    excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
+    publishedDateTime: 2020-11-28T13:32:00Z
+    webUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks-11606565160988.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/11/28/600x338/2020-11-27T122837Z_1_LYNXMPEGAQ0PG_RTROPTP_3_USA-STOCKS-TESLA_1606570085041_1606570100788.JPG"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Tesla could widen release of 'self-driving' software in two weeks"
     excerpt: "Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks."
     publishedDateTime: 2020-11-28T12:54:00Z

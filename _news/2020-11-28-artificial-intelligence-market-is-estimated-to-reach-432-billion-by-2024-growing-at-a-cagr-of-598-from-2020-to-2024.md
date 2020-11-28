@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-28T11:22:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-estimated-to-reach-432-billion-by-2024-growing-at-a-cagr-of-598-from-2020-to-2024-2020-11-28"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-estimated-to-reach-432-billion-by-2024-growing-at-a-cagr-of-598-from-2020-to-2024-2020-11-28"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

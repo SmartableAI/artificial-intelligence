@@ -73,7 +73,23 @@ related:
         width: 556
         height: 370
         isCached: true
+  - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
+    excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
+    publishedDateTime: 2020-11-28T13:32:00Z
+    webUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks-11606565160988.html"
+    ampWebUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2020/11/28/600x338/2020-11-27T122837Z_1_LYNXMPEGAQ0PG_RTROPTP_3_USA-STOCKS-TESLA_1606570085041_1606570100788.JPG"
+        width: 600
+        height: 338
+        isCached: true
 
-secured: "OEmYRjsfiIV8xNTsy9OCR92+oDT2Ioy/h1rxwWD2PfCvSjHcxX2hpvR/Y8D9gGu5CQLoQ8ahz6iSbVJTmPDO73n8iiNWIhDkpCH5V6qPfFndDMhSz0CJWImCdJrl5QdcjQlV8Z415K8Oj/ZdLwt1wgr/q98L4HQcx9mXN20kiImktxKA10dtNaUP9Zol9Rg/v/IaO+adrAKcZPXdoG1X20vNdSQGwG78rVD85tH1zym8B9fQ6oNooEf/GFYgFjyEWIjqtIN/GGLnL0nvXRgMD+PpSw0Ok/SwsqIUbBbl3tWmGDEekzm+WPqkX3D/tHoDPfy5VDghP246KTmi3bSJg0DTTv00zeRJPamqNY1zFAM=;k8C3Mt/K4rvymfVToB1GJg=="
+secured: "Uw71IIt8olYrPFYXrH1i2PR4nStKoLk1pH3Mz3xZdVLRMespmp9ID/PoJN/MKJbVR3HZinodlFtSCX4OwWOi5zwld8dYYhiPpD2qxuHJeUg7AG6TVrTZ2dc27/UA9gD19tIbLLczHnhE9fjv7RLm6XkCxHfVvKKvwYsmEufZ9haiUtem0oXxSkE/Sc76KekefNCnMYcasVb8OkCfX8hIgRBGDXD86JRxD6LVIDJT/qpF+uOTtFJZPWArr+s/de/jFXVj0DDY9rUvWMOXtKOOb652p0yaITUMnXuRQR+PdP/L47HddZXJLBkRbAAAb/PXqZJ5tUYU4buixMmjPFhnufv0hE9lvBfyReQ44e4DpMXEJCYw5nwzKzQmBrUco4ukdSmuOBQeroq7w2fKUyflFLShwnWD1PiTJfT+4xAf0bzZRasVoM7jJbgUmAwja8COcqK8tN2vQLJuW7EKdSchloTzTwMV1cnCFFt8X5bwdj0VBLITH+j+6F5I0LBsPBBAA2lqEvcSDZFcWbU9AmEFDg==;5PMYWKvyDCOXHVF1yN3rug=="
 ---
 

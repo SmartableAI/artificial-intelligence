@@ -41,20 +41,6 @@ related:
         width: 647
         height: 363
         isCached: true
-  - title: "Marketing AI start-up Metigy raises $20m as COVID helps growth"
-    excerpt: "Digital marketing start-up Metigy will target US and Asian growth after closing an over-subscribed funding round, which it expects to see it through to an IPO."
-    publishedDateTime: 2020-11-23T21:10:00Z
-    webUrl: "https://www.afr.com/technology/marketing-ai-start-up-metigy-raises-20m-as-covid-helps-growth-20201118-p56fqo"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 54
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.3217%2C$multiply_0.7554%2C$ratio_1.776846%2C$width_1059%2C$x_767%2C$y_194/t_crop_custom/e_sharpen:25%2Cq_85%2Cf_auto/t_afr_exclusive_no_age_social_wm/8c2154e732a559a43b7a3961732043b213340bda"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
     excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
     publishedDateTime: 2020-11-24T15:58:00Z

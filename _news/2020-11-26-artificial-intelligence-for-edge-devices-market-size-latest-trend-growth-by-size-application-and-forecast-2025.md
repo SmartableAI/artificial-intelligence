@@ -167,20 +167,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Computer Vision System Market 2020 Future Estimations with Top Key Players, Production Development and Opportunities to 2026"
-    excerpt: "Nov 23, 2020 (CDN Newswire via Comtex) -- MarketsandResearch.biz has newly published research study entitled Global Computer Vision System Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that incorporates the analysis of different ..."
-    publishedDateTime: 2020-11-23T21:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-computer-vision-system-market-2020-future-estimations-with-top-key-players-production-development-and-opportunities-to-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
     excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
     publishedDateTime: 2020-11-27T14:18:00Z
@@ -234,19 +220,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forec"
-    excerpt: "ArtificialIntelligenceAIChipsMarket--The artificial intelligence (AI) chips market is expected to grow by USD 54.03 bn, progressing at a CAGR of over 42% during the forecast period.Click & Get Free Sample Report in MinutesThe increasing adoption of AI chips in data centers is one of the major factors propelling market growth."
-    publishedDateTime: 2020-11-25T20:33:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=381643"
+  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+    excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+    publishedDateTime: 2020-11-25T19:33:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 29
+      name: Business Wire
+      domain: businesswire.com
+    quality: 19
     images:
-      - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
-        width: 580
-        height: 387
+      - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+        width: 1200
+        height: 627
         isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
