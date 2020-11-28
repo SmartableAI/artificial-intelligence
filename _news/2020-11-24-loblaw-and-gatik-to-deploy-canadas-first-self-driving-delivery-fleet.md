@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Loblaw's testing Canada's first self-driving delivery fleet in Toronto"
-    excerpt: "Gatik, a Silicon Valley-based self-driving startup, announced a partnership with Loblaw Companies Limited Monday to deploy a fleet of autonomous delivery vehicles in Toronto. Beginning in January, Gatik will transport goods from its automated picking facility to Loblaw’s retail locations across the Greater Toronto Area."
-    publishedDateTime: 2020-11-23T18:02:00Z
-    webUrl: "https://driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto"
-    ampWebUrl: "https://driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto/amp"
-    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/auto-news/news/loblaws-testing-canadas-first-self-driving-delivery-fleet-in-toronto/amp"
-    type: article
-    provider:
-      name: driving.ca
-      domain: driving.ca
-    quality: 44
-    images:
-      - url: "https://smartcdn.prod.postmedia.digital/driving/wp-content/uploads/2018/11/speeding-traffic-police-cop-stop-speed-trap-radar-3.jpg?quality=100&strip=all"
-        width: 1860
-        height: 1200
-        isCached: true
   - title: "Hashtag Trending – China launches 6G satellite; Loblaws’ self-driving delivery fleet; WFH tips"
     excerpt: "Forget 5G, China launches a 6G satellite, Loblaw’s will launch Canada's first self-driving delivery fleet, and tips for setting boundaries for yourself while working from home."
     publishedDateTime: 2020-11-24T12:27:00Z

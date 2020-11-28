@@ -2,59 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2020-11-19-neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient.md",
-      "title": "Neural’s guide to the glorious future of AI: Here’s how machines become sentient",
-      "excerpt": "Welcome to Neural’s guide guide to the glorious future of AI. What wonders will tomorrow’s machines be capable of? How do we get from Alexa and Siri to Rosie the Robot and R2D2? In this speculative science series we’ll put our optimist hats on and try to answer those questions and more.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2013/04/prediction-730x367.jpg",
-          "width": 730,
-          "height": 367,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/18/neurals-guide-to-the-glorious-future-of-ai-heres-how-machines-become-sentient/amp/",
-      "publishedDateTime": "2020-11-18T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2020-11-19-machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc.md",
       "title": "Machine Learning Market Checkout the Unexpected Future 2027 Key Players – IBM Corporation, Microsoft Corporation, SAP SE, Dell Inc",
       "excerpt": "The Global Machine Learning Market provides an investigative study that offers detailed information about the Machine Learning market that is beneficial to the business strategists and new players of the industry.",
@@ -888,33 +835,24 @@
     {
       "path": "_news/2020-11-14-google-ml-framework-tensorflow-hits-160mn-downloads.md",
       "title": "Google ML framework TensorFlow hits 160mn downloads",
-      "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open-sourced TensorFlow for research and production.",
+      "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms",
+      "webUrl": "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html",
+      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412",
-          "width": 412,
-          "height": 275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
+      "images": null,
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
-      "cdnAmpWebUrl": "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms",
-      "publishedDateTime": "2020-11-13T20:38:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-14T02:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1419,6 +1357,51 @@
         "AI in Healthcare",
         "AI in Robotics",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2020-11-12-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
+      "excerpt": "Delivering fast and reliable machine learning business solutions JERSEY CITY, N.J., Nov. 11, 2020 -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models,",
+      "sourceUrl": null,
+      "webUrl": "https://techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/",
+      "originalUrl": "https://techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techent.tv/wp-content/uploads/2019/12/techENT-logo-glow.png",
+          "width": 719,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/?amp",
+      "cdnAmpWebUrl": "https://techent-tv.cdn.ampproject.org/c/s/techent.tv/2020/11/11/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker/?amp",
+      "publishedDateTime": "2020-11-11T22:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techent.tv",
+        "domain": "techent.tv",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
       ]
     }
   ],

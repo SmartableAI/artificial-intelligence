@@ -43,22 +43,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Seattle startup vets launch fintech platform that lets companies provide emergency savings accounts"
-    excerpt: "which built an AI-powered smart camera tool Secure, which employs seven people and raised an undisclosed investment from PSL, is also the latest fintech startup out of the Pacific Northwest. The Seattle region has a growing cohort of fintech startups ..."
-    publishedDateTime: 2020-11-23T18:45:00Z
-    webUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/"
-    ampWebUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-23-at-9.18.33-AM-630x313.png"
-        width: 630
-        height: 313
-        isCached: true
   - title: "India Fintech Forum has Teamed Up with Amazon Pay, PayU, Deloitte, has Also Shorlisted 27 Fintechs for Awards"
     excerpt: "India Fintech Forum has teamed up with Amazon Pay, PayU, Deloitte, has also shorlisted 27 Fintechs for awards."
     publishedDateTime: 2020-11-25T22:09:00Z

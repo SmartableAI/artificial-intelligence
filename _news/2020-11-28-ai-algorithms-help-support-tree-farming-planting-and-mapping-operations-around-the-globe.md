@@ -42,15 +42,15 @@ related:
         isCached: true
   - title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
     excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
-    publishedDateTime: 2020-11-24T18:52:00Z
-    webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    publishedDateTime: 2020-11-24T19:59:00Z
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
     type: article
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 73
+    quality: 71
     images:
       - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
         width: 1200

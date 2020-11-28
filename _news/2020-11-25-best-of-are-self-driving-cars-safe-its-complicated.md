@@ -41,6 +41,20 @@ related:
         width: 3003
         height: 1363
         isCached: true
+  - title: "Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
+    publishedDateTime: 2020-11-24T18:46:00Z
+    webUrl: "https://www.lockhaven.com/uncategorized/2020/11/where-are-our-self-driving-cars/"
+    type: article
+    provider:
+      name: Lock Haven
+      domain: lockhaven.com
+    quality: 24
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.lockhaven.com/images/2016/10/18200525/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UCSD tests new tech to help make self-driving cars safer"
     excerpt: "To help make self-driving cars safer in challenging weather, engineers at UC San Diego are developing new technologies and fusing them with existing ones to improve how the vehicles “see” other cars."
     publishedDateTime: 2020-11-25T17:00:00Z

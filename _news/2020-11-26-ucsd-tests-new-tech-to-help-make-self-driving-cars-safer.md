@@ -51,6 +51,20 @@ related:
         width: 1400
         height: 1400
         isCached: true
+  - title: "Where are our self-driving cars?"
+    excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
+    publishedDateTime: 2020-11-24T18:46:00Z
+    webUrl: "https://www.lockhaven.com/uncategorized/2020/11/where-are-our-self-driving-cars/"
+    type: article
+    provider:
+      name: Lock Haven
+      domain: lockhaven.com
+    quality: 24
+    images:
+      - url: "http://d14e0irai0gcaa.cloudfront.net/www.lockhaven.com/images/2016/10/18200525/fblike.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GswqehQfHn/hNgK4rNtAuheTLqffvi7STWgrvmCdtl5LuC1CUHvodGylPEO+AoCbo1tksZycOsy5zRDdh/mrBTgFWaVOyyFYticOdAmZe+sKDgw8r1FuEJX+VU3Ck5ptBN9NJgNWNnRMGUTbihrPtVq+usJjnLDZHHx+7d5fq0E/+R6wMK49RjVyZgkV/QK0MPQLbx/zlX6iGMmXcZTn8ERQ4fU67mxuNaizOZjITyCFHE/CmjtFvJdOVPb0Hrj8AMaZRTNnsYk0WoQiKH4QyItRdq1EG2Lb+YVwk2aVdHec+nK6zFURNUIcntUIRUe/vIm0rNb1xAlbvz8aLIZjrHrKYHcEh6ksAIrEpU+HUZd1gcYDxM6VMPUfXzjPF73/LUg8M/9aph7+wq7zTEZVk++Sy8IxJO6XkHM6te4YSd3fai6T3Rwt+gsqsyr4fev11nylnPOSksLYNG/KEcOpn4bJ9q2ks7UtCYgdQidEq9YmqfnMTdIEQb9vLHNj2xM/PdiL4jb49KlogXj5n2jSKQ==;VzBnvOA/6XbA1HAJCu7r8w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/news/gta/2020/11/27/the-ttc-wants-to-tes
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/gta/2020/11/27/the-ttc-wants-to-test-platoons-of-driverless-buses.html"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 1200
     height: 710
     isCached: true
-
-related:
-  - title: "St. Pete launches driverless shuttle along Bayshore Drive"
-    excerpt: "This is the second autonomous transit vehicle open to the public in Tampa Bay. But unlike Tampa’s pilot, this one travels a busy route."
-    publishedDateTime: 2020-11-23T19:01:00Z
-    webUrl: "https://www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/"
-    ampWebUrl: "https://www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/?outputType=amp"
-    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/transportation/2020/11/23/st-pete-launches-driverless-shuttle-along-bayshore-drive/?outputType=amp"
-    type: article
-    provider:
-      name: Tampa Bay Times
-      domain: tampabay.com
-    quality: 59
-    images:
-      - url: "https://www.tampabay.com/resizer/GvavLkBBGQCsK1eMLVBBtDuXKes=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/L6MRZGDE65BYXBEUK6LWLNIHQA.JPG"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "tRrSuKWOluPKbtLXg55jOOt/aVxet+SeuaXS5eCYXNqevTmd8lTOUnP4bGI5tBruGoRvSdf1NT6Y3yhdUNSX6miUlWdbju7jg9a3F2eyc4LVOPNJEfyjSkjzYaxToVUtOyUkOEzeQIRffarjGvt4XIchwukPogAnNylR2ZTk9wBOeLFwAguAp2PgFTtH35ganE2s1fvmjDR6VpQ/RTR0YRBjgAiRKDjMtWoYhMcufJxnaBwYA0DTbjfszjGmgK8xkI0abnTM43i/SMjioX756zgKfqFaYWYSqSav14Cm257elvW+nCjW2K6Cg/Chqdy6ehQPpzJb0CLhMi5LSqh4x636+UtHp6aOwCwULuLNpccJEXQO7KUrxa22beQ0Jvn2k5jOo1yAC19ftZCWwAEnx509sYEuR8dU0O1ALg52HQJ9q9hVhCldUjO3vz3JMCYJwz6EjNKf/CTLLfyvHu7ELBa/A6fXrllfP3KKXf3Z5BK+n+RVjF/Fba9fTLdUMiFq0XD9J3HynkaB3QXSxhOPIQ==;9l3Wc3SGWbts5NDPvQ7Srw=="
 ---

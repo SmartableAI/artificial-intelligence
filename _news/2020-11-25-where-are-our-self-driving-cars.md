@@ -25,22 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars: A level-by-level explainer of the road to autonomy"
-    excerpt: "Do you really understand autonomous cars? Here's why the SAE's Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet."
-    publishedDateTime: 2020-11-23T17:29:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/"
+  - title: "Volvo thinks gaming tech can help make self-driving cars safer"
+    excerpt: "Volvo is using video game tech like VR headsets, simulations, and haptic feedback steering wheels to create a driving simulator to help make cars safer."
+    publishedDateTime: 2020-11-27T15:21:00Z
+    webUrl: "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/"
+    ampWebUrl: "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 74
     images:
-      - url: "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png"
-        width: 1920
-        height: 1080
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/07/Polestar_wordmark_pos.png"
+        width: 3003
+        height: 1363
         isCached: true
+  - title: "Best of: Are self-driving cars safe? It's complicated"
+    excerpt: "In this best of episode, Kim dives into the world of automated cars. Self-driving cars aren’t some crazy future tech … They’re here now. That raises some"
+    publishedDateTime: 2020-11-25T13:08:00Z
+    webUrl: "https://www.komando.com/episode/best-of-are-self-driving-cars-safe-its-complicated/766476/"
+    type: article
+    provider:
+      name: Kim Komando
+      domain: komando.com
+    quality: 24
+    images:
+      - url: "https://www.komando.com/wp-content/uploads/2020/06/kk-img-20200615-tech-you-should-know-1400x1400-1.jpg"
+        width: 1400
+        height: 1400
+        isCached: true
+  - title: "UCSD tests new tech to help make self-driving cars safer"
+    excerpt: "To help make self-driving cars safer in challenging weather, engineers at UC San Diego are developing new technologies and fusing them with existing ones to improve how the vehicles “see” other cars."
+    publishedDateTime: 2020-11-25T17:00:00Z
+    webUrl: "https://www.lajollalight.com/news/story/2020-11-25/ucsd-tests-new-tech-to-help-make-self-driving-cars-safer"
+    ampWebUrl: "https://www.lajollalight.com/news/story/2020-11-25/ucsd-tests-new-tech-to-help-make-self-driving-cars-safer?_amp=true"
+    cdnAmpWebUrl: "https://www-lajollalight-com.cdn.ampproject.org/c/s/www.lajollalight.com/news/story/2020-11-25/ucsd-tests-new-tech-to-help-make-self-driving-cars-safer?_amp=true"
+    type: article
+    provider:
+      name: LA Jolla Light
+      domain: lajollalight.com
+    quality: 24
 
 secured: "cIDiS/y105Z/1Cibw5tQ0G37272RoWiOMxfXPTCWgEKc/41DriKx+x3afsxubR1OsjDdojsoj/odi47PL0vYXEFIo4+k9ySxlVzZBVuVKAR4QJc/S+9Op/ZVa+0jQgYCLLw2pQPYjswrzDGC2ZaD7nWbLkQuvBeJdM1XOIQUEmcEtZR2KpxfNLBk+jLZLmLzxv2+wBZQer6oQjY7hPfND/V04Q/uMeb99sIOjp5EXvFVuRe6Y6sCZU4a9SHtQJMogdC77ON8P+WkfqB+SoRF86fmXoPb+Q+FMcEOYFK629oMjRkrEEi/1ugvjNhyNLQmOVRLf8ceaHQohWnpHzw4RbbIIgXomcCz7xg7qyWXbAc=;Lvgoq9+7KTCsE9a1bXedWA=="
 ---

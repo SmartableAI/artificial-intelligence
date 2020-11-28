@@ -112,17 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "$100+ Billion AI in Cyber Security Markets - Global Industry Analysis and Growth Forecast to 2030 - ResearchAndMarkets.com"
-    excerpt: "The AI in cyber security market is projected to generate a revenue of $101.8 billion in 2030, increasing from $8.6 billion in 2019, progressing at a 25.7% CAGR during the forecast period (2020-2030)."
-    publishedDateTime: 2020-11-23T18:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/b18489504/100-billion-ai-in-cyber-security-markets-global-industry-analysis-and-growth-forecast-to-2030-rese"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18489504"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18489504"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 28
   - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
     excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2020-11-25T10:18:00Z

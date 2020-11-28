@@ -103,8 +103,8 @@
       "title": "The 10 Coolest AI Chip Startups Of 2020",
       "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -541,29 +541,38 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-help-dogs-deal-with-separation-anxiety-with-this-ai-trainer.md",
-      "title": "Help dogs deal with separation anxiety with this AI trainer",
-      "excerpt": "The first goal is to deal with separation anxiety, in a trial with San Francisco SPCA. Dog training generally requires a human dog trainer, but what if it didn't and delivered better results? That's the promise of a startup called Companion Labs that has unveiled its first AI-driven dog-training machine in conjunction with the San Francisco SPCA .",
+      "path": "_news/2020-11-26-north-america-artificial-intelligence-ai-in-drug-discovery-market-analysis-and-opportunity-assessment-2021-2030.md",
+      "title": "North America Artificial Intelligence (AI) in Drug Discovery Market Analysis and Opportunity Assessment 2021-2030",
+      "excerpt": "North America artificial intelligence (AI) in drug discovery market is expected to grow by 29.5% annually in the",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
-      "originalUrl": "https://www.cnet.com/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-drug-discovery-market-analysis-and-opportunity-assessment-2021-2030-2020-11-26-31971917",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-drug-discovery-market-analysis-and-opportunity-assessment-2021-2030-2020-11-26-31971917",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 73,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/",
-      "publishedDateTime": "2020-11-25T13:22:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-25T19:19:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -579,6 +588,7 @@
         "news"
       ],
       "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },

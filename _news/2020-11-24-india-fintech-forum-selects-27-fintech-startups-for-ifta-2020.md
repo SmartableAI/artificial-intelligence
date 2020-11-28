@@ -9,7 +9,7 @@ ampWebUrl: "https://www.entrepreneur.com/amphtml/360295"
 cdnAmpWebUrl: "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360295"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Seattle startup vets launch fintech platform that lets companies provide emergency savings accounts"
-    excerpt: "which built an AI-powered smart camera tool Secure, which employs seven people and raised an undisclosed investment from PSL, is also the latest fintech startup out of the Pacific Northwest. The Seattle region has a growing cohort of fintech startups ..."
-    publishedDateTime: 2020-11-23T18:45:00Z
-    webUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/"
-    ampWebUrl: "https://www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
-    cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/seattle-startup-vets-launch-fintech-platform-lets-companies-provide-emergency-savings-accounts/amp/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 60
-    images:
-      - url: "https://cdn.geekwire.com/wp-content/uploads/2020/11/Screen-Shot-2020-11-23-at-9.18.33-AM-630x313.png"
-        width: 630
-        height: 313
-        isCached: true
   - title: "India FinTech Forum unveils 27 high potential fintech startups for IFTA 2020"
     excerpt: "Companies including Amazon Pay, PayU, CashRich, TransUnion CIBIL and Deloitte are supporting this initiative to celebrate global fintech excellence. IFTA finalists will demo innovations in diverse fintech verticals including banking infrastructure,"
     publishedDateTime: 2020-11-24T09:03:00Z

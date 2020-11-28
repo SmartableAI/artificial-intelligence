@@ -43,20 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Misinformation or artifact: a new way to think about machine learning"
-    excerpt: "Machine learning has delivered amazing results, but there also have been failures, ranging from the harmless to potentially deadly. New work from University of Houston philosopher Cameron Buckner suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,"
-    publishedDateTime: 2020-11-23T17:42:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoh-moa112320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "2tRbvBsK7YrZ+3h18cXJBc4hXu6VS1NlWY3ELsF+tg0HREc95cIbZ4kcdryDQqUyq9afMyiF0W+JkyCLrQNeLRf0FFe2IHJS9jpZsXRv3Q2no05L0HUZVW6pVHXiQL72Pwo7bK+nYTIG9nKZfhQc1+lAD3q9/4vLceguqZzlbxTSFO3SAsYCfy46NZ7zGYuvv+2FnuHfYdSzMn3Ph56eMSkPJmsPEfbNffqnxb/X0U4PELa8ct/7QD1ogo6BYCVyTILFfhE5pOLGkNAADxjvGutm+e/9IIzKIAVIG+vCKg2r08zDgy+TX70SK44vZMGIwJUj4/fC5cuo+Bc2V1d3Z4h9BzF0EDnVxOY7KSd2oYg73JvvzNomzeNxkk86mpLLV7dJ+ebUrGpUiU+7Xrav+2OyS5ZA6ySENr02GGxZSB3haZsA5nRsPA13p1COFAw68hJPMcWaACjVWP8T5tGQGCnyPlau9Mna8RXTEsbpG8H7KWvgzY1vlZ1boWs1H6qzgGMjctK1pdfp8nN8zJ1/1w==;WuBXSNnFpnljeQ6OgR8Quw=="
 ---

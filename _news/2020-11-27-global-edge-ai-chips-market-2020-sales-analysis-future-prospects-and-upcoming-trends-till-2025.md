@@ -242,9 +242,9 @@ related:
       domain: acrofan.com
     quality: 29
     images:
-      - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
         width: 580
-        height: 387
+        height: 339
         isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"

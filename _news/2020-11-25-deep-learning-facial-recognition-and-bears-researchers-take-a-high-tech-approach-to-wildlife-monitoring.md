@@ -2,13 +2,13 @@
 category: news
 title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
 excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
-publishedDateTime: 2020-11-24T18:52:00Z
-originalUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+publishedDateTime: 2020-11-24T19:59:00Z
+originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 type: article
-quality: 73
+quality: 71
 heat: -1
 published: false
 
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://tr1.cbsistatic.com/hub/i/r/2020/11/24/c47affe7-ce19-4546-8b16-03ee9e3820e9/resize/1200x/04329c1603be5c12248c9cc8ab646811/melanie-clapham-1.jpg"
@@ -88,6 +87,6 @@ related:
         height: 600
         isCached: true
 
-secured: "jYDzoIMBAsMsqa6bnTYRdLtRWpC3d192A8vbByAlcGgKsariYjRr0+e07KzTmLXrIU3XzNxlxkRtPOIcbZfE0jC9Kx57WEOx/bTuqLo7/ZbP8AzltPCgjEWsZ106WhJvXBhZdbBXybXdGVQGfu96IQRlUFt/SA8FmtC2NxzaaicTW7t78iiIxFniniBpcot8pd3cemqXSTylhxqYdAMDwGKHgQPYO2/T8cbNrlvKhBHV2RKmw8v7Uqmyax+7n1rrnH9Ya5u7DK5ho+2Ngom+Ph6GgxUidAiacSMV1C04TuUwNhO5XzY8S51EkmGlP5J1VLo3QE41mS/y0+132CAnLRTOzOMl6/WWtR8WUJWmDuXvFw36YdF6tdc3lpw/GaHe+9f+grvQqGuW6rO+stnvxB9k4X3dU1I/9IuB/neKWeZThufO1ncRrCjrHBPbs3jfZPDK7yQmF7QtN/O/NscmfoBUkiIL3W+bXPhFMnI0mjpI/csEeL4BuhGsXzJXNtr3WkS6oGlhBBdBapMpvPtehg==;ycRkwpVX7v1mIdLbZcGfSA=="
+secured: "Kd86vuTktQv6suRLYxiX5DVHtD6+DTJe5YxBPE4rGSBCAhnqEv81yTYT0f3BXTe0UG1kiqc5qVIw4zwu13C8DeEKysRz3dBsulNBpMo4XsCPSlPYGsrRh5kXTcvvbqc+OKr6oJheaZY7SwVCOPsqpyJW438056gPSYZAPAXKCUhBKGfcO1k2HscFdPVNWJzFzJY2i35OR/PnEuuQLexLepmY5N/OXTE5zQFRbXrXDEEsnFZv9w4Nc5H/OmwxBW/Qv/hSQNRCEMqyrnBDOAChT8wp1ic5zQoCrNUYufkuAtPC8G5i16Sb0SDll1tMERvR+5SS2ImsjheWznYWiL528zl7YsZ+ZspdPMoj8Zkcz+I=;NoFskU0qln2gPhu0OY8gIQ=="
 ---
 

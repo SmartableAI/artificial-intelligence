@@ -2,49 +2,6 @@
   "page": 21,
   "value": [
     {
-      "path": "_news/2020-11-11-impacts-of-covid-19-on-the-global-artificial-intelligence-and-cognitive-computing-market-report-research-industry-2020.md",
-      "title": "Impacts of COVID-19 on the Global Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020",
-      "excerpt": "MarketDesk :The Impacts of COVID-19 on the Artificial Intelligence and Cognitive Computing Market Report Research Industry 2020 has been included in market.biz library. This Global Artificial Intelligence and Cognitive Computing market report has been created in conjunction with primary business specialists,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779",
-      "originalUrl": "https://apnews.com/article/technology-business-science-apple-inc-corporate-news-60480de0ab81277db2e6944e9b9e5779",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T01:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-aws-announces-plans-to-launch-a-second-region-in-india.md",
       "title": "AWS Announces Plans To Launch A Second Region In India",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company, announced the expansion of its services to include a second infrastructure region in In",
@@ -1159,6 +1116,59 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-smart-user-friendly-security-products-for-your-whole-home.md",
+      "title": "Smart, user-friendly security products for your whole home",
+      "excerpt": "Wire-free security cameras from Arlo deliver simple, intuitive protection with hassle-free installation and advanced features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
+      "originalUrl": "https://www.cnet.com/paid-content/news/smart-user-friendly-security-products-for-your-whole-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet2.cbsistatic.com/img/UpIi-TLPbJIddDdIJbH6ISGxoSE=/1200x630/2020/10/30/f460341c-8f82-446e-8ec7-7734f54fa322/cnet-arlo-s61-customarticle-native-drivers-1333x750-r1-pro4spotlight.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-10T12:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

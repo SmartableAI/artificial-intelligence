@@ -92,7 +92,7 @@ related:
   - title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
     excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
     publishedDateTime: 2020-11-27T09:08:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
     ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
     cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
     type: article
@@ -114,20 +114,6 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 49
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
-    publishedDateTime: 2020-11-23T18:37:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "cgYJt823R2ikZYTVo8DAGlaR/5SFKwAkpLsBHn7+7PmFIeQOaWP+Yg4y95mhLVP1Gg9z1EWMjqIArTTdU0gXP/rj2zRV4swdxyzwkFY90P3Q7d5b5UIeT668q3zGesIwaNzYuESV7ktjnwCm45G/4vtO6UaHnE4Tj4H8wPwqvMB54UIHaEwwlmB6gOcyU75T0oobeQLw9s+mc+mSTrLdbMDYhDdHGUIBzg7aZBdyi5Piw9zGxgp4+BsgN/ffDdYtBGwq365DfIcO2N26zbL2sGw/B6cjVVtCO3n5i3IJeRotQEOvFsU7C8itchizGby6/Yvhwc53PBCj38nw9i5qpAUHq6F588BWfPa93rr8TbK9UXMqw0yE03vJiQQgUYrsTQJcAP3DTUJFfV3UbFiGkyUeuKJ6Q+0ziPFQevtz7SY17GbLP65N2w8xylfAv76EV/haCcSWEODWNMdeiBLTSGoI7zhZw9pkoFQXFpU1mPTwr049T2b9v5+uU4MMSVYXrLjGByd24KTR/Tig9sC/Qw==;e5Uv+ZugcillSN4qykpZRQ=="
 ---

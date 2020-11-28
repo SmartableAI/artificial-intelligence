@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/help-dogs-deal-with-separation-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/help-dogs-deal-with-separation-anxiety-with-this-ai-trainer/"
 type: article
 quality: 67
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: CNET
@@ -22,24 +22,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "How to deal with AI-enabled disinformation"
-    excerpt: "Rapid disinformation attacks—i.e., attacks in which disinformation is unleashed quickly and broadly with the goal of creating an immediate disruptive effect—are one of the most significant"
-    publishedDateTime: 2020-11-23T17:48:00Z
-    webUrl: "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/"
-    ampWebUrl: "https://www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/"
-    cdnAmpWebUrl: "https://www-brookings-edu.cdn.ampproject.org/c/s/www.brookings.edu/research/how-to-deal-with-ai-enabled-disinformation/amp/"
-    type: article
-    provider:
-      name: Brookings Institution
-      domain: brookings.edu
-    quality: 59
-    images:
-      - url: "https://www.brookings.edu/wp-content/uploads/2020/11/USA-ELECTION-DISINFORMATION-.jpg"
-        width: 6720
-        height: 4480
-        isCached: true
 
 secured: "g+AEK6y8/OT4+GiJ/zqmgrPLxwS3etH/DIH5/OLfOTP+Sf2QsTsHT2stGFGj9dLyF196g1fKBvz4qN14rsEhWqphAETX3asDyTIrBogr0VNXhBpn1OLoTYYRVQhqhJv+Yw2e667dSW6xYZbdgHxnBoY/YUmJV2mBGsHEpoPXtzrJzeORFQ+gJlAF0WhqVz34bWnGNKO6gRBvzbb7SKuCdhK/P4DXAdVZmZsKOAnCbcUOpa+iv98/dfDHxnVvIuUxsT21lbl+lsSq9f5A7R/oukp7zV8FZoxBay1+DqiTIQAblFNpVxgF2NjSf9EYioNgv7z4bhH//Q4SMjy3AEyKq/hmo/fTfOirveBL4lHYdjODR04eDXAMVpsNFKGjzTwdKRmkwhP521IDMptd7LsmniR6cgb6Zq136qQEjda/6qQVXo8mtRJfED+tODcS3OzCHPcUu1mN4ID8pkR5pb3fRe3Jm9m6BkSiVLdTdqCr4b2uw12oWfCMOLvPNUYeI/5jFIdyqw0lVyzvhGmgSmVQDA==;avuENWfT69wsECxKhgjhRA=="
 ---

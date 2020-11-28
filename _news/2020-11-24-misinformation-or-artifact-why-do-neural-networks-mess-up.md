@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/misinformati
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/misinformation-or-artifact-why-do-neural-networks-mess-up-343174"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: technologynetworks.com
@@ -42,20 +42,6 @@ related:
       - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/misinformation-or-artifact-why-do-neural-networks-mess-up-343174.jpg?v=10992130"
         width: 640
         height: 360
-        isCached: true
-  - title: "Misinformation or artifact: a new way to think about machine learning"
-    excerpt: "Machine learning has delivered amazing results, but there also have been failures, ranging from the harmless to potentially deadly. New work from University of Houston philosopher Cameron Buckner suggests that common assumptions about the cause behind these supposed malfunctions may be mistaken,"
-    publishedDateTime: 2020-11-23T17:42:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoh-moa112320.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "NuYbImmA0SAoeezb046yFLOUbFtrfzssPsQvYV7ePHoZ9Pix3tEB6uW/mvWvudYCpBK96b4R78yYuZxxDrAmnW2IYmTphOyv/mD5xD/CSOMQL8YfJqbgwJ+1umy94RlAaD4MVBDesd1yeTSdxMJXuhsL/weyCz2Nb00jINx9Dh8GWmfiWIAuud43uj7dOh7rzdrdAWbvG91ShwqotK83AStKCWD3xO1BldJf6AF0AJ4rRAw4pf9pSTqpb2HZX5uS0piF+gUSjj7bu8JzOD7EZrBCRKouvIu50HUsVByM+BoxvdjCRl2wuCC7QSsFhKt+3Vi2XgRKNxLBCjCfOw0M44rYkGYi8vzB+OWIKNX56ZSnlTvfPK8RVuwPdecSeXkZvJfOoRJDJlAGE0tp7XASYeYwvqrCqNC5FgLQzSIDYNtR8Tyd8zOKh4BOv+ukt+73AWgdPSbBEeUoy0b2MQ8OUd5gK6PiphGhZCHCmZRUkDZDekst8UlKI0ETFhTqNCmFHo1e0QnC2dVkD4YeNe665A==;YQRvSo43cZwr+HwNWprOWQ=="

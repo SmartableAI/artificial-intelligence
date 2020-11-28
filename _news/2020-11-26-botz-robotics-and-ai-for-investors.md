@@ -86,7 +86,7 @@ related:
   - title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
     excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
     publishedDateTime: 2020-11-27T09:08:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
     ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
     cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
     type: article
@@ -112,20 +112,6 @@ related:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
         width: 840
         height: 500
-        isCached: true
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
-    publishedDateTime: 2020-11-23T18:37:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "hZjHgh67b6xVgCyfCKcO5qy1YB90dsDK1dWX4hyASJux1doLdWrdrT8s/ooVgoNXtRMHajt2OhlOv17jkqCE8qyNiCjlX0O+TDlyC6KSOd5bQym25EEZ6Y7wxW4qGQIPe0Vf+GwKEfc/yQ07BB5/693nO6Tu6Vp2wFS3Dt4+y/yaHfQbA66WNpx3W3h+oT8QwSnhtpBYmgNM3H26KabLfGDDjQjFjSyhyYfu0Y4nGL/s/mFZ8JNQkG6gg4izNcH++nVQsvIVlg7tAue0DikLWKS07l8y9GWL4Kzpd6RqLX1+kZaxdi1p9U3aOAFCfim9MOfdSgP+ya00st3Q6TdH95pI/ADU/0qXG8iU29l9ZSoIFRKcpUA+A/xQN1nEt2kXO8hEXRLZuExPQN/kDHNwVY5N8zy3L2iXyFl3rw2DwabVEVUCByonx2wU9vLrEUJEyiHtFK6+P4AA/62s3onqUHwA3dKrc4xc9x0MDMBXcpmd7rXl2JiMijnLstfHxFskqhHTc5I9wiu7gOrKMr2nLA==;ovv5ISHAJkeucaGUjo/HYQ=="

@@ -3,8 +3,8 @@ category: news
 title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
 excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
 publishedDateTime: 2020-11-27T09:08:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
 type: article
@@ -115,21 +115,7 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 49
-  - title: "The New Need for Robots, AI and Data Analytics in Supermarkets"
-    excerpt: "Robots patrolling grocery store aisles and warehouses; so-called dark stores dedicated to online-only orders; data crunched in the cloud that allows retailers to identify and even tweak shoppers' habits."
-    publishedDateTime: 2020-11-23T18:37:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/The-New-Need-for-Robots-AI-and-Data-Analytics-in-15747802.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/33/44/20298023/21/rawImage.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
-secured: "D+d+g2m2faACudPDZwxSGISlwt57uJMKxLG2eYsF/Q6f7hq7kFp+7rYirV2fsiNNc0yzxz2txbJQ0YxBWLxD6NKoEFNPaj8I8MZNcd4rz33N/jXrEnUgQX66p+n8QdiJV/efOI0Ffba8jCwswtFqp8i2JW++2+Gv9pDMWElx0K6wuWLhx+ek/mSicOjWv+LzMANhVeX/V0ebTPMr47n12NuX06ii00B0HDNYNNSI6tKulhZYA3gk5ilHrm83uOUxyTqZTcvFNWuo4Pl+3tpEzXee3zp+ujZWl/SBRkh1nF0laM8qXaklV52IdLmuE2Hran3NQUW6Ecq7cPTbmAScG9Xh0JZfOpDBDjBb8p31W3KqyAlZS8tU7mwCwPyK1oL/kZss6zrtJj/nzCGhtZQoTOQBZKqdsADQO0SHspNmpkUxcySS76Ig5S5CkPSxIA+HOvu1+JPwPXEq5aPAo/AlZeTsgS1AGVX7SFr+WdN9WDUbENjeT43i0IM44FHCtQlSxYuYNC0wNpNj19ROPVxe8Q==;QaEhpIdF7nz1EN1tw58Pyw=="
+secured: "feQjmIa+NZcSfI7eGunGUgi3XHnE1hBvrkaW7sHpmcy4b93CKwBW09+x8Yk/Y05gdYVcll5UT5fhWcEcA1mXF5lvsRmP+wFUAVMOlkVu6c7egJcYECsGlfaNHBr2L+IVsLEy6uHcX/8e4EictyZCzV0qeHUfC7pqd3cD+Jdfvpgaf83WEKHlroLAavhYl0lGLu7R7HQ0QOm6Qk0j2sNKb5axRErPofy00C7ajs7NOw8yz6AHWygDa99h8O+NuwXQTto9SdlkBLnqrVvh0G9RX8IT37+wpsQLKxgq4BimCZf57vfb7uy35vgMLynyp/c5mEPFKxHWDmpDRR1ikCYOmgxw7JAKPxz7lQQ8MQ/zaa0=;wrr/wZkOTkPCMjUo2OOHRQ=="
 ---
 

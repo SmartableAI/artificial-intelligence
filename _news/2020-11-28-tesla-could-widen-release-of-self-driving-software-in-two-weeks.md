@@ -2,11 +2,11 @@
 category: news
 title: "Tesla could widen release of 'self-driving' software in two weeks"
 excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
-publishedDateTime: 2020-11-28T08:21:00Z
-originalUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUKKBN288053"
-webUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUKKBN288053"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN288053"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN288053"
+publishedDateTime: 2020-11-28T08:44:00Z
+originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
+webUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28806A"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A"
 type: article
 quality: 89
 heat: 109
@@ -62,6 +62,6 @@ related:
         height: 600
         isCached: true
 
-secured: "0+TBtqZoAJw7ZgZPz1Fkvm1r/kaUlFUlZ1hfrqseO5HESP1AN+TM3KX0NNPFwce8Zr6gdbyn42FtTAGwJUPG4BLJra9xoxcBL4Ap+7ryOdbvtd+Ib9qSVXJY9i+6/n98iGEU4KPj3MG+arlNERDowd1av8vqplWKIVBn5wBTGP0HSd7LYyPvEQq/j2WIjLOQQVva9ASj7frqQIIqjfP0OO7eUaMynqcWpgTNbAlANujWBwsbKILPBPU78ujcqCD/Tcg2gens/UnBUUl1kVC16FEFz7hjS1wHuqjWwSuIjR+1xtEo/FXOAbBKmNePOH5sXjwrZUNDY18mP1Lb6JoAMdj/yJzXUFKILBtZ92Leg3Y=;BMOxD9EF2Jtt0zKWet0ZFw=="
+secured: "FdO6/hWxZ9NlcObB+hZH5wRcOqCfdiRUfx0l3FIBOA3k+PrPN9HCe1453XEGXmVqMk/fFSvJgJ7ebIChAshSHfXdBLr5H3KcB/LhkjIgVAIyyRqnftTr3qBUR8cL7AVdMsaaLdZPKNOnvNIWLRtufknshHLNIJlh5sDpDJEEq+lGJJyMtYabuxqS8EhlLV292EwQguMEv9kSe97cCCKtwKc/fFXrrT293U9tUrL1P7UfBCYyqyRmvunGN/cma8jUr4HvTk1RuVVbRbyzBtuFbgklMqiRTM9dSz+hJY1aiXFVo+weuzNv01vawMxhKRR9eU4GNibpQRNImPCJakBNvEB5j0KXKTZ0ItSq4yA03zQ=;qOS+KosOnbnzC1TX0LsOjw=="
 ---
 

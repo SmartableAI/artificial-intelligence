@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "BioNTech and InstaDeep Announce Strategic Collaboration and Form AI Innovation Lab to Develop ..."
+    excerpt: "Long-term collaboration underpins BioNTech’s strategy to leverage Artificial Intelligence (AI) and Machine Learning (ML) technologies to support the discovery and development of novel immunotherapies based on InstaDeep’s DeepChain TM technology platform BioNTech and InstaDeep to establish a joint AI Innovation Lab to advance a portfolio of enterprise-wide digital initiatives in the areas of drug discovery and design,"
+    publishedDateTime: 2020-11-25T12:47:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-england-pharmaceutical-manufacturing-health-care-industry-114138341e9070615c8c8929e60f072d"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 26
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Defense Innovation Unit (DIU) Selects Immervision InnovationLab to Develop a Computer Vision Wide Angle Camera for the Blue UAS Framework Project"
     excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, today announced it has received an award from the Defense Innovation Unit (DI"
     publishedDateTime: 2020-11-23T20:01:00Z

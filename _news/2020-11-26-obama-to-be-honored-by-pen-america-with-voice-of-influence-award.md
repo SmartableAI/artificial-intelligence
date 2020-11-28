@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/entertainment-arts/books/story/2020-11-25/ob
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/books/story/2020-11-25/obama-pen-america-voice-of-influence-award?_amp=true"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,50 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Find your inner poet with help from America's greats"
-    excerpt: "Behold! the living thrilling linesThat course the blood like madd'ning wines,And leap with scintillating sprayAcross the guards of ecstasy.The flame that lights the lurid spellSprings from the soul's artesian well,Its fairy filament of artEntwines the fragments of a heart.Poetry by Georgia Douglas JohnsonWhen"
-    publishedDateTime: 2020-11-23T18:00:00Z
-    webUrl: "https://blog.google/technology/ai/verse-by-verse/"
-    ampWebUrl: "https://blog.google/technology/ai/verse-by-verse/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/verse-by-verse/amp/"
+  - title: "Barack Obama To Receive Voice Of Influence Award By PEN America"
+    excerpt: "According to ABC News, Obama will receive PEN America's second annual Voice of Influence Award in recognition of how his writings “have traversed political, social, and ideological bounds and framed a self-reflective humanism that has marked his influence on public life."
+    publishedDateTime: 2020-11-25T18:07:00Z
+    webUrl: "https://www.bet.com/news/national/2020/11/25/barack-obama-voice-of-influence-award-pen-america.html#!"
+    ampWebUrl: "https://www.bet.com/news/national/2020/11/25/barack-obama-voice-of-influence-award-pen-america.amp.html"
+    cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/news/national/2020/11/25/barack-obama-voice-of-influence-award-pen-america.amp.html"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 94
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/versre-by-verse-hero.max-1300x1300.jpg"
-        width: 1300
-        height: 541
-        isCached: true
-  - title: "North America Machine Learning Market 2020 Dynamics, Trends, Emerging Growth Factors and Forecast to 2023"
-    excerpt: "Market Synopsis The North America Machine Learning Market is estimated to record a significant growth throughout"
-    publishedDateTime: 2020-11-25T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-2020-dynamics-trends-emerging-growth-factors-and-forecast-to-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "PreludeDx™ Announces Partnership with America's Choice Provider Network"
-    excerpt: "PRNewswire/ -- Prelude Corporation (PreludeDx™), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today"
-    publishedDateTime: 2020-11-24T11:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
+      name: BET
+      domain: bet.com
     quality: 24
-    images:
-      - url: "https://mma.prnewswire.com/media/613101/PreludeDXLogoPMS_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
-        isCached: true
 
 secured: "lYEPP/rPTZ33yQyuHW2R8BxqErzotdq463yGcrouCUgkm0x9swB9PB2TMnxyWUubcYxutVq9eBEA6EMhi0jcPXlJ68pK31GW8b35DA14JKju7iixjZ9770gNtYxe8nNgJ3aPehvabJmZCBSxyswDvr7RIojC15NJ9QmI4cfqsvk6+/IBOzaCH8Mcl7ryRDmw3RwGFHKigZey0s+Qz68L5EBlfueF8krbGCayipBmRP5+cDPjqrYdeOWa4e0UxAqpNqsEsKyAsNjOF1C6w8FkJFFng7tWbXKWhAw9Nb6hJYcVYavU2Hw/auLR2BGWZ2DKxS0XLwKoevUlyNJj0RQqFUCRuP4/qEwH3vloSSj+T7ZExBjdbRFXVpPBzdGczAKVvv0OoRwaa/yMU69Pu1Orl+nf9mZnALPfvOfXSgEQZ5tswU9PqYUaoWu3hDQ17fAw+K7OLm2WP92BzFCakgRvY9fDGVh3o4stgzlyRCPIk7EHYufoHm2YngP149B7Rs89syeO8cJBBP/grse6Tufw5A==;PS81L07ivHRaXjwbleC0dg=="
 ---
