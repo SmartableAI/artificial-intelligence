@@ -2,23 +2,25 @@
 category: news
 title: "New electronic chip delivers smarter, light-powered AI"
 excerpt: "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information."
-publishedDateTime: 2020-11-18T15:15:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
-webUrl: "https://www.sciencedaily.com/releases/2020/11/201118080758.htm"
+publishedDateTime: 2020-11-18T05:04:00Z
+originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
+webUrl: "https://www.eurekalert.org/pub_releases/2020-11/ru-nec111620.php"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - AI Hardware
   - AI
 
-secured: "acCAUfE7r9i77itNr+vU1zGoEqhaqDNBB9gGRddgmgword5UEKsWqNbeGciNy/c3vvhknE49Rkm/UMCd6a5c/ruKHRy2ba6bnEkwwO/L5/LFgZhq5TEjStMMJkoAyxGhEM56QXkuxfkjXrd7xZNO6VE1WC8E/0wpGcFvyuHav7pCzIF6NYELuMBheX/pYR8YSzoneUdQoOi2sm9C7Y6hfjXZlTUTPKa6q6KSDgZbxonVygti0caguvy63pziD1ys7qY7zq4q3k2rzzgwm+0Jjb4AIBWnwgr1ENQIJDN9RURt75gSuK2KtfnvX+0//6PNlR6Iw6mR50XMLif0aRRBwVbuVmmo5UXsbof1BY5r+yE=;VDEgI/mc01UrP9KdWJow6g=="
+images:
+  - url: "https://www.eurekalert.org/multimedia/pub/web/248903_web.jpg"
+    width: 1440
+    height: 960
+    isCached: true
+
+secured: "y3bvXRw8IXlXx34ESLwT4dIyALXPXd09Qo4BRw4hL2pfSfkO5uVK9sw5djnUaEEeqkXTBS083XaUHuDzgaMxJBrvSRwah/rIEga+ZfaA87XNW41Ns2NKWy+ujzgkiNkZGGAHoYIg9gjwAH4DsZ8P+4zygeOq61mIxI/vK0EmxA98WiJ/v1jdyZFZCi/2UUo9KhcvSfRFv0Q5q3qzewyDevQLtchld63Y5i8Qyuy4RWziaX5IavrwwOB5ZRbk/BAUG7yVqozxKbPCGoX9V3zb+9ZbzYU6MR3+X4N7Ew6y2UKcH3SHoy3GTRv0uvY5YtxdZqz43BbPl4gCVq99GH90JSa5UYrt+wE8oFXzACkJb+M=;tY42Q4FGxtzifIR8S4hyIA=="
 ---
 

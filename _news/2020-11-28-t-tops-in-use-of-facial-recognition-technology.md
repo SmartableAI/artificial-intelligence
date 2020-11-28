@@ -1,29 +1,29 @@
 ---
 category: news
-title: "The two faces of automatic facial recognition technology"
-excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
-publishedDateTime: 2020-11-27T18:48:00Z
-originalUrl: "https://www.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-webUrl: "https://www.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-ampWebUrl: "https://amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+title: "T tops in use of facial recognition technology"
+excerpt: "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in."
+publishedDateTime: 2020-11-27T23:08:00Z
+originalUrl: "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms"
+webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms"
+ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Deutsche Welle
-  domain: dw.com
+  name: India Times
+  domain: indiatimes.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.dw.com/image/52650409_403.jpg"
-    width: 940
-    height: 529
+  - url: "https://static.toiimg.com/photo/msid-79454171/79454171.jpg"
+    width: 800
+    height: 406
     isCached: true
 
 related:
@@ -59,21 +59,21 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "T tops in use of facial recognition technology"
-    excerpt: "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in."
-    publishedDateTime: 2020-11-27T23:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+  - title: "The two faces of automatic facial recognition technology"
+    excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
+    publishedDateTime: 2020-11-27T18:48:00Z
+    webUrl: "https://www.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    ampWebUrl: "https://amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Deutsche Welle
+      domain: dw.com
     quality: 59
     images:
-      - url: "https://static.toiimg.com/photo/msid-79454171/79454171.jpg"
-        width: 800
-        height: 406
+      - url: "https://www.dw.com/image/52650409_403.jpg"
+        width: 940
+        height: 529
         isCached: true
   - title: "The Rise of Facial Recognition in China’s Real Estate Market"
     excerpt: "Some homebuyers counter the rise of facial recognition technology in real estate offices by wearing helmets during their visit."
@@ -85,6 +85,6 @@ related:
       domain: whatsonweibo.com
     quality: 19
 
-secured: "VP70M/vUuMnUrhnf7iOQWHf9I+giZTg5cAnMWHakNqNZ5cYEl1uFCR93KErinnmIk6RvtvXSEeFiqC8xLXkypC2kSSWvaoYAbGCd3ZAvbJRNy8UpDa7nZKyFkVj3ibE1wQUdVekMv7GPX4iUQ6Gwl0Xutej5ftPwC/QGMGpiuLqs7wJN1NVLCA7ZuruyDOlNSmDoCUKkejYVrM2839cxLWbMxFsnTnejqO3ERwAoMS5KW4z8WgANK3hWWe8VECpSxtJM2EqtwF3yYot9HlJoiChzit384NqRBfcvRcGF3/9qShOQpP72E2PEySSr2drNxc4CBtbxsxCXvXxiLAjB/u0ifcZqCq5AAb3lwP7D42fC6K4Wqnj0Bx1RdU5iqu2Uy5lbujIGmt4M976blRd4ziTNiIJlyWKwhaH80IK0WrQ96/uYx+1PRQlfBBeZNDx4vOVtmdFvurOODbSLGFRGkmK1o5/Xmg/YmhQbA2ZMqz4kuftVVOxSMakim84GAv45SEJx2azJaoksT8rQAdcizg==;zjKQT4CR/A5uAG6LivyVdA=="
+secured: "LfFrlNwLN6P9hzAVYlqZdOGNUG7eXwZON+1fN0SuXfm0BSfQ/QQHPMf889HYz6jKr7B4hszqk5QUJMPCa30pKC9eBeFjwrGUeczJyArr0g2RYKZWK9MyM8YuHQjtV/5dEK6hK8V8075AhUCemOVADRtunqAsBPgNxTmDsATH4qwS7UUWovLRtwUCT/PPCFwNatVymyfIM8il2AryqUrsYbsTdr28G3KS/Riv5+fuUJv3OD9uZbJYs+/cfvOZioFFj5UUikXnDGJDpD12WvvOdM7u1oVi1DBxXbdc7lkHNEqTvwSIP2TcaG8tJ4jeoC73SquHZEYj9w7zxlWx8Amb+VsFwzhwT7CxVgd4azyLZLA=;6wwuFJy/xHpZ2WFbnv3PMQ=="
 ---
 

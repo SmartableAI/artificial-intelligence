@@ -1,27 +1,26 @@
 ---
 category: news
-title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forec"
-excerpt: "ArtificialIntelligenceAIChipsMarket--The artificial intelligence (AI) chips market is expected to grow by USD 54.03 bn, progressing at a CAGR of over 42% during the forecast period.Click & Get Free Sample Report in MinutesThe increasing adoption of AI chips in data centers is one of the major factors propelling market growth."
-publishedDateTime: 2020-11-25T20:33:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=381643"
-webUrl: "https://us.acrofan.com/detail.php?number=381643"
+title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
+excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
+publishedDateTime: 2020-11-25T19:33:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
 type: article
-quality: 29
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-    width: 580
-    height: 339
+  - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -243,6 +242,6 @@ related:
         height: 450
         isCached: true
 
-secured: "vVdOP++WvU9GRuOUj2FUHegjKeytGthcxxGAHgX041FHG9nM9kos19R+jkHR7/VHeM1uLnLPPD9339oQcRbvWuS+9ge8/NPv4D11M8w9lPsOLDIWDDoulKKBRauCg1beLglGMOsY4z1+DGhBKJR5z8GN2qlxuF6sDNx0v0Qm4wJlvAZdqhRZkVe0c6QYSEHugaueIWC9QLM2IybaWJ6uKyzEryOhFBuBoIZSfHkvdjGRRPbOrquqBZgFMoMYCwMX+Doo4pABHfqR/7MaYe1WxzUZ3KGYV/fsxApr5oFFavsXPivKjCx3zhKN1v+/60QzvV2AckCUXHOiHrt0bcqs+LmK3FHYTRBSJcGl1UUOtWQ=;zACMx+C/UoMGa8PA6Kwjpw=="
+secured: "yTBdRKy27cxivP5pz5ICg8Qxc8YFrLKtmCAdWXmQqgHkR0qfiNDhMCwFpFc2QXYgs3L/KXXClc10sUsODP00lUfVB4QB13hXBg7tqdxDTFUbWvwPfYQxs1gBoitNxhmU3xRiReOKOTZ4ujvnDtFjWARTMi2kRZ1M500iDJdm64sMR+FpwweXLCP3uF8a5TYF32mnTx6VzrFYUrEMl6ctqJlkllVtCqRWmC4ddwAfr2BnlGh2dAdz32xEPZgPXKIqOJdTWCyjj1ZPIEk9oZqPFIEGZzpn5HGUB0JKvRIMaS73JALLU/Ca21kGS7B1Mk4lXAV9I/KZdpKkpLVdSgivp8srZCRWsnIquC4AaOJd7gU=;fL+f2izFKG/aMzjUREeIww=="
 ---
 

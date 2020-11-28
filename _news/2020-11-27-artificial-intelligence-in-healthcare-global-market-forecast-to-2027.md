@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944"
 type: article
 quality: 84
-heat: 224
+heat: 214
 published: true
 
 provider:
@@ -86,20 +86,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global LegalTech Artificial Intelligence Market Size Study with COVID-19 Impact 2020 Research Strategies and Forecast to 2026"
-    excerpt: "Global LegalTech Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 interprets market overview, value chain structure, industrial environment, regional analysis,"
-    publishedDateTime: 2020-11-23T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-size-study-with-covid-19-impact-2020-research-strategies-and-forecast-to-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

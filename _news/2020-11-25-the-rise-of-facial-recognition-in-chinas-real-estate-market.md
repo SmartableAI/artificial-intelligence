@@ -51,6 +51,22 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "T tops in use of facial recognition technology"
+    excerpt: "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in."
+    publishedDateTime: 2020-11-27T23:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79454171/79454171.jpg"
+        width: 800
+        height: 406
+        isCached: true
   - title: "The two faces of automatic facial recognition technology"
     excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
     publishedDateTime: 2020-11-27T18:48:00Z

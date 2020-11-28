@@ -59,22 +59,6 @@ related:
         width: 1416
         height: 829
         isCached: true
-  - title: "Startup Circle: How is GigIndia connecting the freelancing workforce and workplaces?"
-    excerpt: "The startup leverages technologies like machine learning and artificial intelligence for faster turnaround and quality checks. Read Sahil Sharma, CEO and Co-Founder of GigIndia talk about the startup."
-    publishedDateTime: 2020-11-23T07:48:00Z
-    webUrl: "https://www.ciol.com/startup-circle-gigindia-connecting-freelancing-workforce-workplaces/"
-    ampWebUrl: "https://www.ciol.com/startup-circle-gigindia-connecting-freelancing-workforce-workplaces/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-gigindia-connecting-freelancing-workforce-workplaces/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2020/11/gigindia.jpg"
-        width: 850
-        height: 400
-        isCached: true
 
 secured: "HPEURYn3M/iMuLg4qcyvyr44J5juSOiCqCNv5obCUG9SlRRWj9CPXr8rARbvDrKhli8lVp/A5k52YP4TGe4rBe41ALe2ALvc3g9Fo8n0XRnKJA60vyZLH7klWssfFAID6lok8JpwMyIfeo9NCD4TouL67poPUoKdogin+JPUsMlPfLLOtYTVnV3FqGxt/Sb4XjmAyrJwzhPyKiyDZUWR9SynPOJzOR0svK305aZancgEq2xL30WpKjGMOzOY8GXOkS6lQMk7qrvQPUhI+ghhmcfMgkq+tLvOrPqRTYng3JQ2p4F0MflyYc3nUbhLimA1+Ei2R32A1EdO8Oy4wcKXcmRL9Sq5RXwpX/rnbZxZ1WmF5apWBwzmFg8GlBeoxQPiCNvjLdWEEeAjKNKKlQ9yEvkYZEndkSixLcNilNQngZjnQQ2HwwD5ztFNOMjcHGhQhygmcm0cjNI9b3cHRiv6cHFELyp3M+Ebwq3CKrNldpjSVTAsFzVWqwnhnp1rTq5/ZIGob2k57vuo3G5W0J1SKw==;SkbMw4pKinukVPEFa+YLGA=="
 ---

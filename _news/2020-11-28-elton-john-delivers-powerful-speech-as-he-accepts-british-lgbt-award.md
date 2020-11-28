@@ -2,24 +2,24 @@
 category: news
 title: "Elton John delivers powerful speech as he accepts British LGBT award"
 excerpt: "Sir Elton John declared “I’m gay and I’m proud” as he accepted the global impact award at the British LGBT Awards. The singer-songwriter, 73, and his husband David Furnish, 58, were honoured at the annual event for their efforts to raise awareness of HIV through the Elton John Aids Foundation."
-publishedDateTime: 2020-11-27T20:16:00Z
-originalUrl: "https://www.dailyecho.co.uk/leisure/fun4kids/showbiz/18905205.elton-john-delivers-powerful-speech-accepts-british-lgbt-award/"
-webUrl: "https://www.dailyecho.co.uk/leisure/fun4kids/showbiz/18905205.elton-john-delivers-powerful-speech-accepts-british-lgbt-award/"
+publishedDateTime: 2020-11-28T00:07:00Z
+originalUrl: "https://www.oxfordmail.co.uk/leisure/showbiz/18905205.elton-john-delivers-powerful-speech-accepts-british-lgbt-award/"
+webUrl: "https://www.oxfordmail.co.uk/leisure/showbiz/18905205.elton-john-delivers-powerful-speech-accepts-british-lgbt-award/"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: Southern Daily Echo
-  domain: dailyecho.co.uk
+  name: Oxford Mail
+  domain: oxfordmail.co.uk
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.dailyecho.co.uk/resources/images/12081762/"
+  - url: "https://www.oxfordmail.co.uk/resources/images/12081762/"
     width: 2400
     height: 1600
     isCached: true
@@ -53,6 +53,6 @@ related:
       domain: huffingtonpost.co.uk
     quality: 14
 
-secured: "9L489f1NWBK/IUcxRUPN1iFezjB6PlKv2tjIAGeWUbJ0HeLMq9G4upeL2dBY25uMGe+aRNKAmdja3DeVezrMzKdYo2AjwzCMAWAwj8NnJhUv7IcSkD7Dd6rXzmURi4YodSkvtgQhm04wOwWVSoL1upMeUOhOb3NEE0m53Y7vJlV+fLVhYU5W3n/yGCGUVeP266ebiv+crtESMkKrIxFLBRnYofJKuPK+wHd27BoJchjcnI9vXcyCcgWZLvnM5rkkck6t/goZ+l+L6rIhBamET9fhhF0bk5brFQQMXaBUpOVQGWpBWsN/zDZZLukaV/ZEWmypQmpRPOHKOpqkKLrTf4neIWVWxaUYSA4QrmjTI8k=;qeCMJc8sQd3wHUVLWdP9pQ=="
+secured: "X7ZbVXKxcfhdLuX/m3EB1im+gCAegR93oMI10k5UKDWc1Y+WqpAp1l65iDutisGQUuQnW86Y1dY+uRXlay6QgDy+JyJ+ixN4OpFwnm72g/G4lp+a6fSWi8QbrJYHsBMCTeL2FMWqRL3Auk/k2Qg6JDmadJU+Hi5r+WJLm78BdcjpcleS+yOewiXkllIksNMldnfQbWX/UhPfbUQ8Z01z5RC52ksMX6y3NG/uuEgN+uXRWeEp2FdrZS0AX1xnRco+TIBWP4qT/7JaclzWzxaWrF4QqpqN2dzWDpZrA2CYg3ZQuAzvE6fw0ZYUJdepCQss/mS3kpkuzd9zZaWt5NbjkG8BsPidjf96RIFdcjjCUKY=;IQyS+Ru9otWCSWhkEa87qQ=="
 ---
 

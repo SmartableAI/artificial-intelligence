@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.hpm.io/wp-content/uploads/2020/02/25140419/20200220-_DSC0051-1000x668.jpg"
         width: 1000
         height: 668
+        isCached: true
+  - title: "T tops in use of facial recognition technology"
+    excerpt: "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in."
+    publishedDateTime: 2020-11-27T23:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79454171/79454171.jpg"
+        width: 800
+        height: 406
         isCached: true
   - title: "The two faces of automatic facial recognition technology"
     excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."

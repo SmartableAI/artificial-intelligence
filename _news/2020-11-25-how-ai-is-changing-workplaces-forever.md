@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-chan
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -54,22 +54,6 @@ related:
     images:
       - url: "https://media-exp1.licdn.com/dms/image/C5612AQGg6cCZ8Rne8A/article-cover_image-shrink_600_2000/0/1604448036281?e=1611792000&v=beta&t=2hZkY6xD6NAppNlU1gzdGF4P1S7mqJ9qZcJoKpRkwUY"
         width: 744
-        height: 400
-        isCached: true
-  - title: "Startup Circle: How is GigIndia connecting the freelancing workforce and workplaces?"
-    excerpt: "The startup leverages technologies like machine learning and artificial intelligence for faster turnaround and quality checks. Read Sahil Sharma, CEO and Co-Founder of GigIndia talk about the startup."
-    publishedDateTime: 2020-11-23T07:48:00Z
-    webUrl: "https://www.ciol.com/startup-circle-gigindia-connecting-freelancing-workforce-workplaces/"
-    ampWebUrl: "https://www.ciol.com/startup-circle-gigindia-connecting-freelancing-workforce-workplaces/amp/"
-    cdnAmpWebUrl: "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-gigindia-connecting-freelancing-workforce-workplaces/amp/"
-    type: article
-    provider:
-      name: CIOL
-      domain: ciol.com
-    quality: 37
-    images:
-      - url: "https://www.ciol.com/wp-content/uploads/2020/11/gigindia.jpg"
-        width: 850
         height: 400
         isCached: true
 

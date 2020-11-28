@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/"
 type: article
 quality: 103
-heat: 134
+heat: 133
 published: true
 
 provider:

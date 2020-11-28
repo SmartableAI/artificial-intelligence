@@ -24,22 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "ACI Worldwide to Accelerate Fraud Prevention via the Public Cloud"
-    excerpt: "ACI Worldwide Accelerates Fraud Prevention via Public Cloud. ACI Fraud Management offered as fully certified private offering via MSFT Azure Mktplace."
-    publishedDateTime: 2020-11-23T08:33:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201123005351/en/ACI-Worldwide-to-Accelerate-Fraud-Prevention-via-the-Public-Cloud"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 24
-    images:
-      - url: "https://mms.businesswire.com/media/20201123005351/en/408535/23/ACI_logo.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "I8aZSW8gWP27md9HkG4kVv6xlr5hiYbnpp8G+vAuaVgm1GLDreNLwCX6PKRphXNDRYnhebaw7xD6DnC7AOA314Tzl0GF1zPz6TkyL4Ue9QtFONT0AG3xchnW0hRnWadyqOerbQTQe4JleQVGy1/umqvGPA4Xy2MYi/Zuf2+xqs/5kc2e8YfjtuIfnoSnuKpe3/FXE3B0Ou8cta/OMFHJnFQwIrV2dZyuF4VO3jKyzvlWdcecrxESyvH9DctHyaMEuUxo8Ch7/9T6n+A072vckOdsjtP0Vt8rX6j6jqk6x4H5ie6JqMufbfpFHUEhqOr9Xl4rsbHzKeK/JI2NVIOuuHuVxrx4ZNGtcSPutTLksPFYFJcpf4VBo0lqIv2/lhiPRVcDVQbub/NQMZF+QdGRrLGOZewq/nJ/oAWFiLGb6HUwx+DJGT+JTc8Sd4RJFUews2zWBd9spP20VwdUeDjWiDmEcBSzz1vfYreaSAsMg9XYjQK3g6i7N6Oj5JB0Se4dHdxXDLSLN6plrWd3/O8/pw==;GovONykqK4LWM7ngN+nnHg=="
 ---
 
