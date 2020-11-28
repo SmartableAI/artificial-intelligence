@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/self-driving-car-levels-explain
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/self-driving-car-levels-explainer-autonomy-sae/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Do you really understand autonomous cars?"
-    excerpt: "Here's why Level 4 has become the holy grail of self-driving technology. Self-driving cars have started to wear out their welcome, and they aren't even here yet. Much of the promise and disappointment around them centers on Level 4,"
-    publishedDateTime: 2020-11-23T14:07:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/do-you-really-understand-autonomous-cars/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/do-you-really-understand-autonomous-cars/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/do-you-really-understand-autonomous-cars/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 74
-    images:
-      - url: "https://cnet4.cbsistatic.com/img/sHaI2ZbkaooatSA7exzDv_bwX9w=/2020/11/21/f32fade3-d8e8-477e-bc6d-cf1d53383cd5/vlcsnap-2020-11-20-18h05m39s237.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Where are our self-driving cars?"
     excerpt: "Tesla recently made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your hands on the wheel and pay extra attention to the road."
     publishedDateTime: 2020-11-24T18:46:00Z

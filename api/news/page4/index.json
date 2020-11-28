@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2020-11-24-spotcam-brings-ai-to-cloud-cameras-for-painless-home-security.md",
-      "title": "SpotCam brings AI to cloud cameras for painless home security",
-      "excerpt": "Home security cameras utilizing the cloud to store video footage is a clear trend. Taiwanese company, SpotCam, has made cloud home monitoring cameras its focus for many years. SpotCam is best known for being the only company to offer free full time,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
-      "originalUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=605",
-          "width": 605,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2020-11-24-csiro-wants-to-use-ai-to-end-australias-plastic-waste.md",
       "title": "CSIRO wants to use AI to end Australia's plastic waste",
       "excerpt": "Microsoft and Hobart City Council are working with the government agency to develop these technology solutions.",
@@ -855,7 +803,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/self-driving-car-levels-explainer-autonomy-sae/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -899,6 +847,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-24-preparing-for-the-artificial-intelligence-revolution-opinion.md",
+      "title": "Preparing for the artificial intelligence revolution | Opinion",
+      "excerpt": "But manufacturing engineers and computer scientists are developing an artificial intelligence-fueled revolution in personalized smart manufacturing. Over the next decade, it will propel U.S. manufacturers to new heights of efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
+      "originalUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
+      "publishedDateTime": "2020-11-23T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
       "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
       "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
@@ -907,7 +898,7 @@
       "originalUrl": "https://www.entrepreneur.com/article/359653",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {

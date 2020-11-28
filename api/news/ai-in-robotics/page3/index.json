@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-11-india-bets-on-ai-tech-to-curb-coronavirus-infections-amid-privacy-fears.md",
+      "title": "India bets on AI tech to curb coronavirus infections, amid privacy fears",
+      "excerpt": "In India, dozens of data-driven solutions have emerged to track people’s movements, check temperatures and enforce social distancing, sparking privacy fears.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
+      "originalUrl": "https://www.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_coronavirus_generic/public/d8/images/methode/2020/11/10/29a1f82c-233c-11eb-8a46-f186a810a22a_image_hires_192345.jpg?itok=91UBDaUj&v=1605007438",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/news/asia/south-asia/article/3109269/india-bets-ai-tech-curb-coronavirus-infections-amid-privacy",
+      "publishedDateTime": "2020-11-10T16:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-education-key-to-developing-lifelike-intelligent-robots-study-argues.md",
       "title": "Education key to developing lifelike intelligent robots, study argues",
       "excerpt": "In a new paper, researchers argue artificial intelligence has been too narrowly defined and biased by human hubris. To rectify this shortcoming, the study's authors claim robot-makers need to be better educated.",
@@ -1401,58 +1453,6 @@
         "AI in Robotics",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-walmart-is-giving-up-on-shelf-scanning-robots-in-favor-of-humans.md",
-      "title": "Walmart is giving up on shelf-scanning robots in favor of humans",
-      "excerpt": "Walmart began using robots supplied by Bossa Nova Robotics in 2017, with initial deployments in 50 locations. The mobile robots would simplify routine work in stores, said the company, using machine vision to scan shelves and identify what products needed restocking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "originalUrl": "https://www.theverge.com/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/t3ZrzqtpB7sjyV4z4vnFdTPRAys=/0x0:3500x2240/1400x933/filters:focal(1470x840:2030x1400):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67730216/964537032.jpg.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/3/21547306/walmart-shelf-scanning-robots-automation-bossa-nova-robotics-contract-ended",
-      "publishedDateTime": "2020-11-03T03:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

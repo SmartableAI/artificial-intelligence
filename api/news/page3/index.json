@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-11-25-amazon-lex-launches-support-for-latin-american-spanish-and-german.md",
-      "title": "Amazon Lex launches support for Latin American Spanish and German",
-      "excerpt": "&iexcl;Amazon Lex lanza soporte para espa&ntilde;ol para Am&eacute;rica Latina! Amazon Lex startet auf Deutsch! Amazon Lex is a service for building conversational interfaces into any application using voice and text. Starting today, Amazon Lex supports Latin American Spanish and German. Now you can",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-lex-launches-support-for-latin-american-spanish-and-german/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/LexLanguage_DE.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T17:32:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex.md",
       "title": "How Xpertal is creating the Contact Center of the future with Amazon Lex",
       "excerpt": "This is a joint blog post with AWS Solutions Architects, Jorge Alfaro Hidalgo and Mauricio Zajbert, and Chester Perez, the Contact Center Manager at Xpertal. Fomento Econ&oacute;mico Mexicano, S.A.B. de C.V. (FEMSA) is a Mexican multinational beverage and retail company headquartered in Monterrey, Mexico.",
@@ -320,7 +268,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/20/11/ab18521263/inai-launches-artificial-intelligence-educational-program-for-small-and-medium-businesses",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -362,7 +310,7 @@
       "originalUrl": "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 71,
       "tags": null,
       "images": [
         {
@@ -1202,6 +1150,58 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-spotcam-brings-ai-to-cloud-cameras-for-painless-home-security.md",
+      "title": "SpotCam brings AI to cloud cameras for painless home security",
+      "excerpt": "Home security cameras utilizing the cloud to store video footage is a clear trend. Taiwanese company, SpotCam, has made cloud home monitoring cameras its focus for many years. SpotCam is best known for being the only company to offer free full time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
+      "originalUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=605",
+          "width": 605,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
       ]
     }
   ],

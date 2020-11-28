@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/"
 type: article
 quality: 70
-heat: 100
+heat: 90
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://www.sciencealert.com//images/2020-11/processed/010-AI_1024.jpg"
         width: 1024
         height: 415
-        isCached: true
-  - title: "AI Neural Network Learns When It Should Not Be Trusted"
-    excerpt: "Researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output."
-    publishedDateTime: 2020-11-23T13:57:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2020/11/23/2395628/ai-neural-network-learns-when-it-should-not-be-trusted"
-    type: article
-    provider:
-      name: تسنیم
-      domain: tasnimnews.com
-    quality: 54
-    images:
-      - url: "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg"
-        width: 487
-        height: 423
         isCached: true
 
 secured: "TFWyjRk/cNn1Jg4M1eUhFACT5ovOmFDleO+dXeUpl6kKWNxDswQAFJdJ08PufMxBhgFSas1JOj8JE5+VVi9D6O82cw6EPGXy4xtBSLQ6vJrb7/3zVANBWX/uBhNMvYlLhHEWr88nldy4JllYzwywESWedfTyM53B0cUmBrNyXKcUN41H2guRfoBLQ4Ydtbne3jTu9Vd2xRT6caR5nuJvVLa3WTtlOavRC7RbvLHa0xoYKQiiSVS+rlIyBYWWf3oRqI5Vd8av57JjnZ4EpsyKrAZa5MNUIMEmw16Y3PIHpLjkUU2YcnhcVeMzbe9De21199m15T54h0DCigwZWa24ABjUntBgaw5bp9hIf2GUckys7y6FGKQs39LAKNLsC5r+O360BsFwdeWoH5nh/c2Au0NY5g03W1mmaqcsOc7/xCIW5PjCH3gFdPXwm838eETrNTBxYfK00s92WarCI+OAx04JiNRVn4j4JN02en6qrI8Th9zuOKV7RaJqmx3oSGdZdxlQzI6LDEIswZHl3Nrc1w==;S7BR7oj6ELCuh57cgEwfHw=="

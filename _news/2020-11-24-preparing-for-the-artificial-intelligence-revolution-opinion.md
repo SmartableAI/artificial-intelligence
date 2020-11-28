@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-inte
 cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 99
+published: true
 
 provider:
   name: NJ.com
@@ -27,17 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020"
-    excerpt: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The “Paris Region Challenge"
-    publishedDateTime: 2020-11-23T13:24:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020-1029830084"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Dassault-Aviation-partners-the-Paris-Region-Challenge-AI-for-Industry-2020-1029830084"
+  - title: "Regulation 2.0: The AI technology revolution is here and now"
+    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
+    publishedDateTime: 2020-11-24T12:10:00Z
+    webUrl: "https://www.finextra.com/blogposting/19565/regulation-20-the-ai-technology-revolution-is-here-and-now"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 65
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
+        width: 500
+        height: 281
+        isCached: true
+  - title: "Regulation 2.0 : The AI technology revolution is here and now"
+    excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
+    publishedDateTime: 2020-11-24T17:36:00Z
+    webUrl: "https://www.finextra.com/blogposting/19568/regulation-20--the-ai-technology-revolution-is-here-and-now"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/550eaedf-39a4-4dfb-9f5a-6767a5dc7778.png"
+        width: 500
+        height: 281
+        isCached: true
   - title: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020"
     excerpt: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The \"Paris Region Challenge AI for Industry 2020\" kicks"
     publishedDateTime: 2020-11-24T00:57:00Z
@@ -49,6 +66,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
+  - title: "Storm ID and Zebra Medical Vision to Co-Develop Revolutionary New AI Based Osteoporosis Prevention Solution as Part Of UK-Israel Collaboration"
+    excerpt: "NHS Greater Glasgow, Clyde UK, Assuta Medical Centers, IL, partner with Storm ID and Zebra Medical Vision for early detection of osteoporosis"
+    publishedDateTime: 2020-11-23T21:56:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201123006272/en/Storm-ID-and-Zebra-Medical-Vision-to-Co-Develop-Revolutionary-New-AI-Based-Osteoporosis-Prevention-Solution-as-Part-Of-UK-Israel-Collaboration"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 1
+    images:
+      - url: "https://mms.businesswire.com/media/20201123006272/en/841451/23/PR22_11Orange_%281%29.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "TCP6tmGaxvdTIXGIiElsQIRr1qKv3qmPHj0K9LxzkozBFe6L41UY5DY06sVn1Ft/d2Eu9rGRP+jhZPtt3+hSSg9eaFkjzXlnGBYL3NMrXkmkj6lt+Q0qeVTfiurswuvRnI/75TknrU+ufrndvqfyurnTrbJJWaFCNmP7WGAh2I01TE4TbZenpvjlfGJDfBmXq62EpBJey7+hIFSOHrREFXIUnrqcXk9eMo0svqEvwaEQOkr6z9WLGM7HcS/Ba/h8gq38xFoWRB4vWuSdKsofRZeZE09DgXHEKLzxG3xtrSnLlx7SHNGSxuJkBAoarH8X6yRUYYFVBQfuqEghl9lxDPIelspCx26z//Loz5E55kjIcUFmHD7wFAKvSQnzbdhR3kbfP8lSVArmmITcy9da3mEEy08hAKD3hnH7AJeRGBamNz1uc1baR1Rnad0NE2YC5gJ0NIx7wULaqMAFYTnMJLuttmuYFI6c15GnBcgFnyjfMlBKTXT3SmfJE/G7nt4zw+hbRjW6tUW1Y8SyyeOupg==;DmL5ikO89erMsfSQyKpOng=="
 ---

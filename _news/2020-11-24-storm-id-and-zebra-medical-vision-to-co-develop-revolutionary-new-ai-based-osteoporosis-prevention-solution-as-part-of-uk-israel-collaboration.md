@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Preparing for the artificial intelligence revolution | Opinion"
+    excerpt: "But manufacturing engineers and computer scientists are developing an artificial intelligence-fueled revolution in personalized smart manufacturing. Over the next decade, it will propel U.S. manufacturers to new heights of efficiency,"
+    publishedDateTime: 2020-11-23T16:30:00Z
+    webUrl: "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html"
+    ampWebUrl: "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 59
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Regulation 2.0: The AI technology revolution is here and now"
     excerpt: "One specific area of technology that is capable of making a huge impact on regulatory compliance now and in the future is AI. Welcome to Finextra. We use cookies to help us to deliver our services. We'll assume you're ok with this,"
     publishedDateTime: 2020-11-24T12:10:00Z
@@ -52,20 +68,17 @@ related:
         width: 500
         height: 281
         isCached: true
-  - title: "AI's Regulatory Guidance and its Potential Effect on the Construction Industry"
-    excerpt: "The White House’s AI Regulatory Guidance, which clarified policies regarding encouraging innovation and growth in artificial intelligence, has potential to provide improvement to the construction industry."
-    publishedDateTime: 2020-11-23T19:26:00Z
-    webUrl: "https://www.forconstructionpros.com/latest-news/news/21204125/the-white-houses-ai-regulatory-guidance-and-its-effect-on-the-construction-industry"
+  - title: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020"
+    excerpt: "Dassault Aviation partners the Paris Region Challenge AI for Industry 2020 Saint-Cloud, France, November 23rd, 2020 – The \"Paris Region Challenge AI for Industry 2020\" kicks"
+    publishedDateTime: 2020-11-24T00:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18488460/dassault-aviation-partners-the-paris-region-challenge-ai-for-industry-2020"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18488460"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18488460"
     type: article
     provider:
-      name: For Construction Pros
-      domain: forconstructionpros.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 35
-    images:
-      - url: "https://img.forconstructionpros.com/files/base/acbm/fcp/image/2020/11/16x9/AdobeStock_323303561.5fbbf6b8080c9.5fbbf710bf4f8.png?auto=format&fit=max&w=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "YEswrziolKnpTtGnnE3xjKAQ91thHRcUK4zQqdOfOKFk0wDn3RtXbKlop1+4C1QeayZnBwVkZiiyfQMjyah6kJrlyI4Mv7pVsCPtr9byYggY2a2a9B+kzz9FWoQGGq6kO/wrMr2EVlbk56y23X/rIVJbmoBAMvRoui1Oi5LanwNGZKN1+8MleZrtGVnpr1fF1CxFCwjULjoVALxjkgaUualk75C0JN3dKO1FNUGJI1P2si+TIAqdGh8xNykW6lTbqn9V3nEQ2lKoyaMfR9GLuZ395vbiHAqURccUk46nbih05fj2Ai38bZ+z/3aotI1VCIw9Zti9WvOss0Ag8tkbUhMB0xJeHlgDeUc04HXKAMs=;QcSt+tn9nxEbPQXfCTUfBw=="
 ---

@@ -3,10 +3,10 @@ category: news
 title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio"
 excerpt: "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54."
 publishedDateTime: 2020-11-25T19:33:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
-webUrl: "https://www.businesswire.com/news/home/20201125005643/en/"
+originalUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
+webUrl: "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio"
 type: article
-quality: 2
+quality: 19
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: businesswire.com
 
 topics:
+  - AI Hardware
   - AI
 
 images:
@@ -202,20 +203,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Self-driving Cars Market 2020 Key Drivers, Challenges, Opportunities and Forecast Insights by 2025"
-    excerpt: "Global Self-driving Cars Market 2020 by Manufacturers, Regions, Type and Application, Forecast to 2026 published by MarketsandResearch.biz, one of the world’s noticeable market research firms, describes a systematic image of the market."
-    publishedDateTime: 2020-11-23T14:07:00Z
-    webUrl: "https://galusaustralis.com/2020/11/1041977/global-self-driving-cars-market-2020-key-drivers-challenges-opportunities-and-forecast-insights-by-2025/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 7
-    images:
-      - url: "https://d1af89beukha9h.cloudfront.net/wp-content/uploads/2018/11/Self-driving-Car-Companies.jpg"
-        width: 981
-        height: 576
-        isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
     publishedDateTime: 2020-11-26T09:43:00Z
@@ -231,6 +218,6 @@ related:
         height: 450
         isCached: true
 
-secured: "r4GvfNYvWiBo9NeVv7ZC1zHzb0kmLsnqNQEyyjbY1AQ/u2YQR3ihD+0xIRmLlzvbBi6JT2r28UetxhDgLg9sbc3Pa+QSeemSjvJ0fj6Vtct0CVtP+u+IrbFhFFBmeQ+70KLbm3E8tYYv0J44yLJwisj8AeZ9sRKjM1bkNn6tUR+ZryPvgPRRZLn99Ppwyst0pWd1cJYoSMHy9zo6GkpT9d5FBr7yJssCswFyKAPXNa0mnGYfBh0Ih8n3DRlQpYD49FlekOIlA2TA1wdgRunhGqlYdPxPfhXYOwbzapBuDSK1kbw0ah4Mxf8JFHls/CT0Hp6SV/48J31DkM1wmcJEHjIlVX28tgHFrRLRruUg218=;7OpydTBH5gC8el5c95hXng=="
+secured: "52WSjaeeXwLa50mOknzC8SEL3HT62hW+adK0j1gTz2RRjkZeAUYU+ualnE+ZSRBQSo2NX1AA2E3ix9RfL4l+JX3Bj7Z/6nC/v09G+xO271Pg+SOL2YiLtsn8uD1Qyw/bkNob0KmYrjLuKBB/PiFzeSEh6IDbE04+qqOH3+u4zadFiwM24n8/B88un/ADqf9Bx1arLbDoQGo5H+V/icYHVIg5jyGuDcscGMST8pXmC9A6QGg3vKa5q2zbcNE/+K6xKhdZTeOFNi54g0rYwynK1JXDlbu7G8Z0URaGB8YnJjK6YdTtx6ebPeacAPTEimr/2sGkEeA9a3ptEQfjlCdZgS3kVHk//Tenn6caLBma1CE=;jLmPDtagjo1gbbysug9oPw=="
 ---
 

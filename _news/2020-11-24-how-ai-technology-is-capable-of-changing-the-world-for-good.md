@@ -45,20 +45,6 @@ related:
         width: 2560
         height: 1392
         isCached: true
-  - title: "New tools for fairer AI"
-    excerpt: "A ground-breaking new technical paper demonstrates how businesses can identify algorithmic bias in artificial intelligence (AI), and proposes steps"
-    publishedDateTime: 2020-11-23T13:20:00Z
-    webUrl: "https://www.miragenews.com/new-tools-for-fairer-ai/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
 
 secured: "HPEURYn3M/iMuLg4qcyvyr44J5juSOiCqCNv5obCUG9SlRRWj9CPXr8rARbvDrKhli8lVp/A5k52YP4TGe4rBe41ALe2ALvc3g9Fo8n0XRnKJA60vyZLH7klWssfFAID6lok8JpwMyIfeo9NCD4TouL67poPUoKdogin+JPUsMlPfLLOtYTVnV3FqGxt/Sb4XjmAyrJwzhPyKiyDZUWR9SynPOJzOR0svK305aZancgEq2xL30WpKjGMOzOY8GXOkS6lQMk7qrvQPUhI+ghhmcfMgkq+tLvOrPqRTYng3JQ2p4F0MflyYc3nUbhLimA1+Ei2R32A1EdO8Oy4wcKXcmRL9Sq5RXwpX/rnbZxZ1WmF5apWBwzmFg8GlBeoxQPiCNvjLdWEEeAjKNKKlQ9yEvkYZEndkSixLcNilNQngZjnQQ2HwwD5ztFNOMjcHGhQhygmcm0cjNI9b3cHRiv6cHFELyp3M+Ebwq3CKrNldpjSVTAsFzVWqwnhnp1rTq5/ZIGob2k57vuo3G5W0J1SKw==;SkbMw4pKinukVPEFa+YLGA=="
 ---

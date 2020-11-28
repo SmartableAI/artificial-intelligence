@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "GE Healthcare Announces First X-ray AI to Help Assess Endotracheal Tube Placement for COVID-19 Patients"
-    excerpt: "GE Healthcare today announced a new artificial intelligence algorithm to help clinicians assess Endotracheal Tube placements, a necessary and important step when ventilating critically ill COVID-19 patients."
-    publishedDateTime: 2020-11-23T13:04:00Z
-    webUrl: "https://www.nasdaq.com/press-release/ge-healthcare-announces-first-x-ray-ai-to-help-assess-endotracheal-tube-placement-for"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 48
   - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
     excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
     publishedDateTime: 2020-11-24T15:12:00Z
@@ -148,6 +139,20 @@ related:
       - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/Screenshot_9-7-740x400.jpg"
         width: 740
         height: 400
+        isCached: true
+  - title: "Sorting Out Viruses With Machine Learning: AI-Powered Nanotechnology May Lead to New Rapid COVID-19 Tests"
+    excerpt: "Scientists at Osaka University develop a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
+    publishedDateTime: 2020-11-28T06:56:00Z
+    webUrl: "https://scitechdaily.com/sorting-out-viruses-with-machine-learning-ai-powered-nanotechnology-may-lead-to-new-rapid-covid-19-tests/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Single-Virus-Particle-Detection.jpg"
+        width: 777
+        height: 500
         isCached: true
   - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
     excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"

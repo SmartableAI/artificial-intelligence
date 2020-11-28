@@ -9,7 +9,7 @@ ampWebUrl: "https://nationalpost.com/sponsored/business-sponsored/how-ai-is-chan
 cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/sponsored/business-sponsored/how-ai-is-changing-workplaces-forever/wcm/9f86fbcb-3255-4649-b8f8-7a5d4f744f12/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 71
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "New tools for fairer AI"
-    excerpt: "A ground-breaking new technical paper demonstrates how businesses can identify algorithmic bias in artificial intelligence (AI), and proposes steps"
-    publishedDateTime: 2020-11-23T13:20:00Z
-    webUrl: "https://www.miragenews.com/new-tools-for-fairer-ai/"
-    type: article
-    provider:
-      name: Armed robbery in Revesby
-      domain: miragenews.com
-    quality: 39
-    images:
-      - url: "https://cdn1.miragenews.com/wp-content/uploads/2019/04/newsdevelopments-image.jpg"
-        width: 1416
-        height: 829
-        isCached: true
   - title: "How AI technology is capable of changing the world for good"
     excerpt: "Artificial Intelligence (AI) is already being widely used in a wide number of industry sectors and consumer-facing businesses - we might just not realise it yet or the extent to which our day-to-day lives already benefit."
     publishedDateTime: 2020-11-24T04:11:00Z

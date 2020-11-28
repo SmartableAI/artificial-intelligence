@@ -59,20 +59,6 @@ related:
         width: 1240
         height: 697
         isCached: true
-  - title: "AI Neural Network Learns When It Should Not Be Trusted"
-    excerpt: "Researchers have developed a way for deep learning neural networks to rapidly estimate confidence levels in their output."
-    publishedDateTime: 2020-11-23T13:57:00Z
-    webUrl: "https://www.tasnimnews.com/en/news/2020/11/23/2395628/ai-neural-network-learns-when-it-should-not-be-trusted"
-    type: article
-    provider:
-      name: تسنیم
-      domain: tasnimnews.com
-    quality: 54
-    images:
-      - url: "https://www.tasnimnews.com/Static/img/tasnim-main-logo.jpg"
-        width: 487
-        height: 423
-        isCached: true
 
 secured: "GBCJeVMCtxxz6OXvziljvqyilYhRg1t9fMZG4iyZvHOHWcnKagnge9Ainm7sDWqlF0/R/+9GiBK/qXnJoUf522ty2Tmn4eU0uWs82xQDOr0han8M5n5DuMscO/ZvWNWs80gD5BkBBr9zQ4sKmgozGkbmwMsP1RaCjWAleXnSVL3U/MXNIpvzAOqVNSiUzD7T6Nwo31P4q+PPQCnEDAHw9WDTcLJDZhMeko8FtXUwKpuJjxKdQjsesRIaq1EPN9QOM/kTVoO/BiwN9JtlVWITUTw18/dQ6oguYxyPLROzdLSjDUId6DLPAsD/aKbjX5mbqRzerEhsDp9FzMpN7Cpmq4NMOCMxIex1UFlQqTT0nesaN/qjnPZsj5mGx46Poj7xXobp0AY2KQ14RaNDeQSpwVCXplRnRFlT4aUnLysF9+NjIxjGcD9lZwY/0qPzVXPYgNCdK+9B4WA0aIwNx/JaYrWYqdSlRUG4fmO2yAxRTIer30IdPV38RTXFjDKeSF+9JJGICZvDL2FPurJUtjqnAg==;2qwRGfcPu5nUVeXVI9wNkA=="
 ---

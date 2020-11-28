@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Defense Innovation Unit (DIU) Selects Immervision InnovationLab to Develop a Computer Vision Wide Angle Camera for the Blue UAS Framework Project"
-excerpt: "Immervision, the Montreal-based leader in wide-angle intelligent vision, today announced it has received an award from the Defense Innovation Unit (DI"
-publishedDateTime: 2020-11-23T20:01:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201123006046/en/Defense-Innovation-Unit-DIU-Selects-Immervision-InnovationLab-to-Develop-a-Computer-Vision-Wide-Angle-Camera-for-the-Blue-UAS-Framework-Project"
-webUrl: "https://www.businesswire.com/news/home/20201123006046/en/Defense-Innovation-Unit-DIU-Selects-Immervision-InnovationLab-to-Develop-a-Computer-Vision-Wide-Angle-Camera-for-the-Blue-UAS-Framework-Project"
+excerpt: "The Immervision InnovationLab team is developing a wide-angle computer vision camera for small Unmanned Aerial Systems (sUAS), enabling advanced low-light vision for Blue UAS Framework effort which provides affordable, trusted, high performing, and ..."
+publishedDateTime: 2020-11-23T16:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-military-technology-north-america-government-and-politics-military-and-defense-dac0c1f478af485b89f8d90f20a536a1"
+webUrl: "https://apnews.com/press-release/business-wire/technology-military-technology-north-america-government-and-politics-military-and-defense-dac0c1f478af485b89f8d90f20a536a1"
 type: article
-quality: 0
+quality: 2
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "BioNTech and InstaDeep Announce Strategic Collaboration and Form AI Innovation Lab to Develop Novel Immunotherapies"
@@ -29,6 +35,6 @@ related:
       domain: marketwatch.com
     quality: 27
 
-secured: "f0K+LLNX6NHWUZQErHrsdoPJKjaqszwyeUaR8+KJb9Q/ZylzWm9lzq1DSr+VgUhGkR8Kgobj4qQPzoyaN5vpTFtdjmchKGDjSayuae/QZUp/L2SU6uWXct42cje07JMIp9Ju1mmppd56bfR+OQagRwL7nYgr+pG2oj+xQ43X2GvcTwcNGUwEk0w9I5nGrFguGOKID6vl5FkrZMB1WJTO9tSZbSXNLkTMEjdunBpAX1L78SC6ozL5pLPneznHG1VSRBkdNzp2OP7MZia0srktz+XmsSSegGJ9IdIiuznQSlgabhkFcqoaiwtKC0+pqLkbcnfKu4MQe4Q1rO+3X2nxIuxlDtAQKeGh2rOFAqlhi28=;LNN2yPxvB0sBgfzTueS2Wg=="
+secured: "0LsSfMxgQIXZxJ2UYbSc5PzQbmLA8UrMKKvWH1P25QxwJw8qB8rx26HNa4avAPjua7tNx99lVpAEYaahMBJ7oLyoBlzBSBIvqk4sudBfq7gvsyb6lUBad2MtyGIEPdYjmhb/oLzVW10hKM1CUnXlMsceNlH5bNUyLhKtgob4ILrvROnLb5u8UCJ1qzAtlYNVW10lQYJhhW10TRAywA9ns8qtzZ4kILoQI+DjS61sikGdwUFJeyCnSCFRjWKJhiNzJAHmctosaAlUeifl9OeXvp0ei4ycVD0fOtrIrtXZd7CQShZPhvLfqgPS6uhJ8kbU+zHxNBwjqiD3EyR9fEBcH1uPFDmzi/7uyjF5FMfvsjE=;QzDWAiCJGLwvBKv9Z943LA=="
 ---
 

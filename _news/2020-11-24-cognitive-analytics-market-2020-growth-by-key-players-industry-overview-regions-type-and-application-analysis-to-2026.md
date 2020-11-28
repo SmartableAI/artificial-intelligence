@@ -126,20 +126,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Global Cognitive Analytics Solutions Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2026"
-    excerpt: "The latest informative study entitled Global Cognitive Analytics Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
-    publishedDateTime: 2020-11-23T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-solutions-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The Big Opportunities at the Junction of AI and Analytics: Interview with Tom Davenport"
     excerpt: "Tom Davenport has been one of the most influential advisors globally on the business impact and application of information technology. He made the topic of big data and analytics a boardroom issue with his groundbreaking 2006 Harvard Business Review article (“Competing on Analytics” 1) and a 2007 book 2 of the same name."
     publishedDateTime: 2020-11-26T17:11:00Z

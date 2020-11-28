@@ -130,20 +130,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Cognitive Analytics Solutions Market 2020 Key Drivers, Future Estimations, Consumption Volume, Key Players and Regional Analysis to 2026"
-    excerpt: "The latest informative study entitled Global Cognitive Analytics Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2026 released for the database of MarketsandResearch.biz helps a reader to understand the market in depth."
-    publishedDateTime: 2020-11-23T13:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-cognitive-analytics-solutions-market-2020-key-drivers-future-estimations-consumption-volume-key-players-and-regional-analysis-to-2026-2020-11-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Business Intelligence (BI) and Analytics Platforms Market 2020-2024: Size, Share, Outlook, and Opportunity"
     excerpt: "Technavio has announced its latest market research report titled Global 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The business intelligence (BI) and analytics platforms market is expected to grow by USD 12."
     publishedDateTime: 2020-11-24T02:02:00Z

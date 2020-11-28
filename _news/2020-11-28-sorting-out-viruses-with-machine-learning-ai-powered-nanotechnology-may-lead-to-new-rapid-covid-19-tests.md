@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
-excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
-publishedDateTime: 2020-11-27T12:30:00Z
-originalUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
-webUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
+title: "Sorting Out Viruses With Machine Learning: AI-Powered Nanotechnology May Lead to New Rapid COVID-19 Tests"
+excerpt: "Scientists at Osaka University develop a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
+publishedDateTime: 2020-11-28T06:56:00Z
+originalUrl: "https://scitechdaily.com/sorting-out-viruses-with-machine-learning-ai-powered-nanotechnology-may-lead-to-new-rapid-covid-19-tests/"
+webUrl: "https://scitechdaily.com/sorting-out-viruses-with-machine-learning-ai-powered-nanotechnology-may-lead-to-new-rapid-covid-19-tests/"
 type: article
-quality: 3
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: emerging-europe.com
-  domain: emerging-europe.com
+  name: SciTech Daily
+  domain: scitechdaily.com
 
 topics:
+  - Machine Learning
   - AI
 
 images:
-  - url: "https://emerging-europe.com/wp-content/uploads/2020/11/bigstock-telehealth-telemedicine-medic-385095428-1024x683.jpg"
-    width: 1024
-    height: 683
+  - url: "https://scitechdaily.com/images/Single-Virus-Particle-Detection.jpg"
+    width: 777
+    height: 500
     isCached: true
 
 related:
@@ -152,21 +153,21 @@ related:
         width: 740
         height: 400
         isCached: true
-  - title: "Sorting Out Viruses With Machine Learning: AI-Powered Nanotechnology May Lead to New Rapid COVID-19 Tests"
-    excerpt: "Scientists at Osaka University develop a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
-    publishedDateTime: 2020-11-28T06:56:00Z
-    webUrl: "https://scitechdaily.com/sorting-out-viruses-with-machine-learning-ai-powered-nanotechnology-may-lead-to-new-rapid-covid-19-tests/"
+  - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
+    excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
+    publishedDateTime: 2020-11-27T12:30:00Z
+    webUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
     type: article
     provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 37
+      name: emerging-europe.com
+      domain: emerging-europe.com
+    quality: 3
     images:
-      - url: "https://scitechdaily.com/images/Single-Virus-Particle-Detection.jpg"
-        width: 777
-        height: 500
+      - url: "https://emerging-europe.com/wp-content/uploads/2020/11/bigstock-telehealth-telemedicine-medic-385095428-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
-secured: "eXkuj02k0vDxwAX8jVwWxZPEVijeSuA+DQUH/KXLs0aedRXgxLhpktxlPNQ2BzSNnpKmkanXYvVUJjUEwNgw0z2z3c+UOvt4FNHbhZ/oWjJWePfNJdzBu5bzIcq2T19R877K3h3vGgrKM8BFyNTLBTGH0MqgRvFUS0bewW2ZyxgkM72JJ8TA29LzVeuwMhnA/gmjyfgYJh7qUAo9bLaYBeifaWX2CKQfr55yKpEvGIgz3zCLEcLfTXuQ7F4jXF/Y5rJUEkQyaS8tYC6eF6TiLjLbUtePGWhEcgUl+n7q+/7h8tBSZCofaiZBbKpBS4ROCdfdebCfJ7yreXUKsEwMIWmkhuEvZOgphhYtkw1BCTA=;w5jAzRaYETsQzBaNalvDvQ=="
+secured: "gUlptmuixo0XeeDPRb22TXfIvJCtN6WdgSjPbXcQZcxkLtL7M5SdiPBLTv6SvaGoSS9EQ5PQ3gkCbVX/qAJiyBAaV5fMafrwCR+8MEcXwDC9+09XVdPcTYVajAYcWhn6rKIEY8xw+5tU5m1hWlikuppX5tkzRLENOo/SHG4WI9rCoBrqh0nAgO646CuvvMzOJZ21NsaJxCtDReYfKhxYxtyWqMN9ahCVDOW+zDZAAhjg2uKLBY62yKSqK1jJp6kNNX8fwgUm7XkpG15qermTtf+M0DvqvQ5Y4b4ZhjEZDwfQoO1/4oeO+l7h8p9yhFHNe0UHacAw8WfobjEa3N4qM4bwA34s8ym5tSI4oEMswkk=;FdJ3orUp78ZrBVMbpoQ5DQ=="
 ---
 
