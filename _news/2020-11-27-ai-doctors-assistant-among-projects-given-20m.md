@@ -2,19 +2,23 @@
 category: news
 title: "AI 'doctor's assistant' among projects given £20m"
 excerpt: "A computerised system that advises doctors on the best treatment to give a patient is among the artificial intelligence projects that have been awarded £20m by the British government. The money will be shared between 15 AI projects being run at UK universities."
-publishedDateTime: 2020-11-27T11:18:00Z
-originalUrl: "https://www.bbc.co.uk/news/science-environment-55099620"
-webUrl: "https://www.bbc.co.uk/news/science-environment-55099620"
-ampWebUrl: "https://www.bbc.co.uk/news/amp/science-environment-55099620"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/science-environment-55099620"
+publishedDateTime: 2020-11-27T12:20:00Z
+originalUrl: "https://www.bbc.com/news/science-environment-55099620"
+webUrl: "https://www.bbc.com/news/science-environment-55099620"
+ampWebUrl: "https://www.bbc.com/news/amp/science-environment-55099620"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-55099620"
 type: article
-quality: 57
-heat: 67
-published: false
+quality: 87
+heat: 97
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
@@ -41,6 +45,6 @@ related:
         height: 382
         isCached: true
 
-secured: "BSMRCF0ydRJ5O6NHdhTmTd9XbFdgIoEXv35eAVpjAxzVRw5Lyoq9hLxZiOH8PgGsIej0nL+kAofihDyGwPyXC1yDr13fg3yg2QeHMCXqBgTz7C9rIo6zZoUnRS1LdI0aEavCU1jLmpI0FvRls7mjmBm/ionic8ILzZKkfSNnxRpewPc2Sdbq/eaCtncp9sSkMCnKXd5SuoHB8DpPpg9D1ZNABH0KwTGfxQKOdq67cQ8TOMvazwzqSJTXsJ+9MJTbmnBaSFpz+Um+vXwgnwzqh3MbgNGREsBs/YsIZZd/ce+GGuArecBAwXOx4NXmnB0pONbJHb7Ga8c//+6gkqMhUDz9MuB9raOQmRH0oSCdABblNaVMN53A2/4XuDuFmpOKYRwEt5srwO82RttEAnVCesqHVb5nKQMWAgLx2AyJFYuxtZpAvaQhUNbgeuJI3jPcoC3vcS1l8cpiM63gM96y3Dg2W//cHn/GE3Wr+BtZed/1nSQw7S9Xy4rEIYv64Z1cO9HXKiDIiV9kcN7sO2sXtw==;5K8iZ9ASynFzpTXm6SRK2A=="
+secured: "WvhyL1aEGQq99sZl3Z2KWAYlam9LqIr2pNH+gNpyqdlsF5qA6HRSL/cO4Nxl78vEjM+KDMKKXeHT7p9rAQ0p/Ng9oam0crRf378Pf91z5MH/Pa7ecHwLpREG3JH9MB5sGhdNEbOSzHUh+f/VGBZt5HAMhvVDKwTxs4zOFkBPDEMr8hlgxylH2Rd4Ce4UZMN8QiZM0Oibci1dNK+FfICDAWfNRua12OuaRf3kkEbk6vqGL82vXJw7A4f1MVKksdA4Zc4vLkPSB3Q7riSDlqt1w3teTW9MiyWHwtqKgUPpqkT1nNo/zwPcvYz0Qpcbq1hqPJbjrhFGl88GUOSnC70M3P9x3dDuCF9Exf8hLF4Jd90=;KL9LghpEOa+mq4m6ynWkMg=="
 ---
 

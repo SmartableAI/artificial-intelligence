@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-xpertal-is-creating-the-contact-center-of-the-future-with-amazon-lex/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 800
     height: 464
     isCached: true
-
-related:
-  - title: "Building natural conversation flows using context management in Amazon Lex"
-    excerpt: "Understanding the direction and context of an ever-evolving conversation is beneficial to building natural, human-like conversational interfaces. Being able to classify utterances as the conversation develops requires managing context across multiple turns. Consider a caller who asks their financial"
-    publishedDateTime: 2020-11-23T23:11:50Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/building-natural-conversation-flows-using-context-management-in-amazon-lex/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 87
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/21/Lex-Amplify-Image-08.24.20.png"
-        width: 760
-        height: 600
-        isCached: true
 
 secured: "W+fimlEKYPOrw0uastPeazQ9QJfH1pe65U0LspSDm/KyymkagEQx1YqDTPrthUq5BKcwt6JpelAE9ZOTA2E6tXZQZOxrAFp4PVIjY1aNpzunV/j+WiWB03L0EpJsvdpVsUSfIEnRqt/DGycnqCdRkM268f/xue0NdrshF+6NrvuiEy1ebfX8gCyiW0rjsktdOWAxCedjXthU8ykEAlXAINue/vqJ6dx/MgJAXSpb7Od2R57jtMDNP3Hg/PEeQbkjT/NsQXNKsZZ8YRrYfLKOt2jQ/iapL7rYUPjsk9GIrXmL0+/xQEtX+Uf4QCZHP9BR1HKYNycjGkzQYL0SLD9naDGEwvmLcIbcoZwwcMUfEqg=;NNvRSfDuSEZDR+4NznRlng=="
 ---

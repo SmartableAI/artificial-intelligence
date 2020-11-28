@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-29-daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars.md",
+      "title": "Daylight Savings Time Could Miraculously Be Saved By Self-Driving Cars",
+      "excerpt": "Here’s today’s intriguing question: Will the advent of AI-based true self-driving cars potentially “solve” the car crash-related concerns entailing Daylight Savings Time and obviate the need to necessarily cancel DST due to car crashes? Let’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f99f9cf900674c6d06d4c35%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6240%26cropY1%3D316%26cropY2%3D3826",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/29/daylight-savings-time-could-miraculously-be-saved-by-self-driving-cars/amp/",
+      "publishedDateTime": "2020-10-29T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-watch-a-roborace-self-driving-race-car-crash-right-into-a-wall.md",
       "title": "Watch a Roborace self-driving race car crash right into a wall",
       "excerpt": "One of the first broadcast Roborace events didn't go quite as planned for one of the teams participating. Just as Acronis SIT's self-driving race car was set to take off from the starting line, it decided to bin itself straight into the wall.",
@@ -1375,49 +1427,6 @@
         "name": "Hackaday",
         "domain": "hackaday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-uk-plans-for-self-driving-cars-threaten-safety-insurance-group.md",
-      "title": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group",
-      "excerpt": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group LONDON (Reuters) - British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2020-10-22/uk-plans-for-self-driving-cars-threaten-safety-insurance-group",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-10-22/uk-plans-for-self-driving-cars-threaten-safety-insurance-group",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T16:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

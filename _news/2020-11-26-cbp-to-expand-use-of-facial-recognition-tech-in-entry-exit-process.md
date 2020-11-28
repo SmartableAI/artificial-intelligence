@@ -19,83 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Houston Airports Add Facial Recognition Tech to Arrival Process"
-    excerpt: "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic."
-    publishedDateTime: 2020-11-23T23:47:00Z
-    webUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP"
+  - title: "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests"
+    excerpt: "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni"
+    publishedDateTime: 2020-11-27T18:36:00Z
+    webUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/"
+    ampWebUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/"
+    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 74
+      name: Quartz
+      domain: qz.com
+    quality: 72
     images:
-      - url: "https://media2.govtech.com/images/shutterstock_530657836.jpg"
-        width: 940
-        height: 627
-        isCached: true
-  - title: "Automatic Facial Recognition: authentication, identification and ethical use"
-    excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
-    publishedDateTime: 2020-11-26T12:16:00Z
-    webUrl: "https://www.ifsecglobal.com/critical-conversations/automatic-facial-recognition-authentication-identification-and-ethical-use/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 53
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Tencent Cloud introduces one-stop AI Transfy speech recognition solution, delivering high-quality conferencing experience to international customers"
-    excerpt: "The solution's outstanding features were championed at Interspeech 2020's Far-Field Speaker Verification Challenge special session in"
-    publishedDateTime: 2020-11-24T04:25:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/tencent-cloud-introduces-one-stop-ai-transfy-speech-recognition-solution-delivering-high-quality-conferencing-experience-to-international-customers-1029831999"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 45
-  - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
-    excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
-    publishedDateTime: 2020-11-24T10:57:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Facial_recognition_Etihad_plans_to_deploy_touchfree_checkin_for_cabin_crew-ZAWYA20201124094646/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://www.zawya.com/images/cia/zAmp/201124101510EUJS.JPG"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Etihad Airways launches facial recognition trial with SITA"
-    excerpt: "The airline has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s crew briefing centre at Abu Dhabi International Airport."
-    publishedDateTime: 2020-11-25T09:38:00Z
-    webUrl: "https://www.breakingtravelnews.com/news/article/etihad-airways-launches-facial-recognition-trial-with-sita/"
-    type: article
-    provider:
-      name: Travel News
-      domain: breakingtravelnews.com
-    quality: 34
-  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
-    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
-    publishedDateTime: 2020-11-24T20:56:00Z
-    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 28
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1151
+      - url: "https://cms.qz.com/wp-content/uploads/2020/11/EKevaMuWsAECukC-e1606499646300.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
+        width: 680
+        height: 370
         isCached: true
 
 secured: "iP2qD4anzgD115vdODDOhiBJSQ0ibWLKcBgA+73poFX77KMj1V8EsPUk1STTeAXi68zVE9PapWr48G1+5mVPaLjJ9AXuuDp3oCKYGbElghDgTGZsWhiO8g4Rk+L/39CYswuaTcIdkgJ7E0H6Zk574kRJv6GqcWWVXmQ/nsfVDGqlcc+hK//BSsiq30g7Ei0WFMCf5RsTfJdfPzIHrkBSJ6Jbu39B/w/kFiNmw7LfBG0Y9oA6TOiqf0kf319vA/mhEQue3irJuiwWFVePWBfdO6hfauKrn9tjM4LdBmkWCRMLSyDcsgkCcTvbRpjvY5d+pAVm4X6s1gumwdA3cPIjZgdW0whwyjLqy+WTbfUmZUMVqkPgDxXyOABi4qg9kMtkyDWM4rBGBsoTrYgscZARf7zrpN+MhR/ppZQJHMb4O+T/5CR7kd6ecwbPxQ4sN96sk5Sl0znVPbtr80bcY/VMlBWU0GeaeaNDLHSjLdrNZqe0fXQkBorSmmH/fSQu+Z/+Hg6C1uBoKAorTzIlgzLIHg==;pAdvCnZvNSvAlYVRZzf82Q=="

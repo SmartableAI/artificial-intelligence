@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Global AI-based Learning Market in a Boom Phase: Free Webinar"
-excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market\". According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
+excerpt: "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash."
 publishedDateTime: 2020-11-23T18:41:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18494470"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494470"
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18494506"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494506"
 type: article
-quality: 41
-heat: 41
-published: false
 
 provider:
   name: Benzinga.com
   domain: benzinga.com
 
 topics:
-  - IBM AI
-  - AI
   - AI Ethics
+  - AI
 
-secured: "ieyENphaGI0HqiotNAXYA17+Y1MqzxqN981mp1jBxXCsLYXesb/LRVYXMF7OK9xmFz3SYz8rAv0cbpkydT7yr0fLbvIKIJSPqSsp4tl8aQN5hyNnylk/QSJbDOaIn/ZvQ9N5JkiPMwk1KrBQSGFtq+qgdkixpBrmW/i/4AmXPRnCcxZp8OsDLVWi1AgexeO0ymFnCbRoPJDt14Sar9F/4nAk+j/CeFpho+lfKl5lhBgjIbqWzt3ArnmfHBmJ0NEgbVH/GWzyrJVguBPl2RBdr5orPnPOgTgb9sjzjYgL1UZkeBSiqgMjcDfbGnP7OImRp518iat01opj2/0w7HgVUeogN3DP56Nii/nVj3wpSdo=;Bw3kBNmOyP0/m3uGGsOUpQ=="
+secured: "NKgYyXo6QLH46GqnomomsWhZXqD7CNVPGBinlLm15sbwXe028ehuPuty6nC0E2IKJq6+u6Ceu/pPuVGrbQ76UtEpJdymG6+dRA80/pTrfcWmTMyhZBKQrYzAY6N37fvM+l9fKgLFejAna3PDpdI1UIDtcEJcFPbdvmUtI2aEaLVtQcYDPX13dF070rxi77efeZ1YXL4gorvhYo1loEsl+xTcOZVRskGOsVJ60opTIRiOsaFuo8xBJKyEcTkqbNXHoijq9CRwpTYm8aisP08T77QfmqKUL8iu7Z7VYSobCpYVyz6wK7hgVDUh/mtG7OxPdahsnd2p02tFT6wiXQHRije5lC8+lnUgcOOx7Mxu4pQ=;uVnQZTJHb0AC4gjTuGqu2Q=="
 ---
 

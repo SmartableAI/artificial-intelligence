@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-29-aides-ties-to-firms-present-biden-with-early-ethics-test.md",
+      "title": "Aides’ Ties to Firms Present Biden With Early Ethics Test",
+      "excerpt": "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
+      "publishedDateTime": "2020-11-28T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai.md",
+      "title": "Emily Murphy, Administrator Of The GSA Shares Her Thoughts On AI",
+      "excerpt": "Being recently thrust into the news, Emily Murphy, Administrator of the GSA might have rather been known for the impact she has helped make on the GSA's use of AI and automation to change the way the government procures and uses technology services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc25de1572d1ce489ed7e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2400%26cropY1%3D271%26cropY2%3D1621",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
+      "publishedDateTime": "2020-11-28T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-who-will-your-algorithm-harm-next-why-businesses-need-to-start-thinking-about-evil-ai-now.md",
       "title": "Who will your algorithm harm next? Why businesses need to start thinking about evil AI now",
       "excerpt": "Building AI systems that are ethical is no longer a box-ticking exercise, and could deliver a key competitive advantage to the businesses that embrace responsible technology.",
@@ -171,6 +275,40 @@
       "provider": {
         "name": "Htxt.Africa",
         "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-global-ai-based-learning-market-in-a-boom-phase-free-webinar.md",
+      "title": "Global AI-based Learning Market in a Boom Phase: Free Webinar",
+      "excerpt": "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18494506",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494506",
+      "publishedDateTime": "2020-11-23T10:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1256,145 +1394,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence.md",
-      "title": "Keeping the robots trustworthy: The ethics of artificial intelligence",
-      "excerpt": "Building better, unbiased AI is a process in which humans and robots work side by side ... company executives have been exploring how artificial intelligence (AI) can help automate or optimize ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/",
-      "originalUrl": "https://www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.propertycasualty360.com/contrib/content/uploads/sites/414/2020/11/Artificial-Intelligence-3_maxuser_Falcon.jpg",
-          "width": 616,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/?amp=1",
-      "cdnAmpWebUrl": "https://www-propertycasualty360-com.cdn.ampproject.org/c/s/www.propertycasualty360.com/2020/11/03/keeping-the-robots-trustworthy-the-ethics-of-artificial-intelligence/?amp=1",
-      "publishedDateTime": "2020-11-03T11:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PropertyCasualty360",
-        "domain": "propertycasualty360.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-an-enlightened-future-with-ai.md",
-      "title": "An Enlightened Future with AI",
-      "excerpt": "The year of 2020 has proved to be a challenging year defined mostly across the world by a global pandemic and as a result an increasing shift towards digital. The decisions that we make now and in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
-      "originalUrl": "https://www.linkedin.com/pulse/enlightened-future-ai-imtiaz-adam/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D12AQFh5BNx5U2Vlg/article-cover_image-shrink_720_1280/0?e=1610582400&v=beta&t=OsBJtpSsJgt5DYuwT6CdxOUm1n3vDe0mLlkapOwnM5Y",
-          "width": 1152,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-02T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LinkedIn",
-        "domain": "linkedin.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/linkedin.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-blockchain-aims-to-solve-ai-ethics-and-bias-issues.md",
-      "title": "Blockchain aims to solve AI ethics and bias issues",
-      "excerpt": "Many Machine Learning and AI algorithms are centralized, with no transparency in the process. Now a blockchain-based start-up aims to improve transparency bias in business workflows",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
-      "originalUrl": "https://www.zdnet.com/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/blockchain-aims-to-solve-ai-ethics-and-bias-issues/",
-      "publishedDateTime": "2020-10-30T03:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

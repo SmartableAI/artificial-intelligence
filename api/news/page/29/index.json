@@ -2,6 +2,309 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2020-11-05-artificial-intelligence-and-cognitive-computing-market-major-technology-giants-in-buzz-again.md",
+      "title": "Artificial Intelligence and Cognitive Computing Market - Major Technology Giants in Buzz Again",
+      "excerpt": "Healthcare, Retail & Consumer Goods, BFSI, Security, IT & Telecom & Others Regional Analysis for Artificial Intelligence and Cognitive Computing Market: North America (Covered in Chapter 6 and 13), United States, Canada, Mexico, Europe (Covered in Chapter ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market---major-technology-giants-in-buzz-again-2020-11-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-04T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-portland-maine-bans-police-from-using-facial-recognition-software.md",
+      "title": "Portland, Maine bans police from using facial recognition software",
+      "excerpt": "On Tuesday, citizens of Portland, Maine passed a ballot measure banning use of facial recognition and surveillance technology by law enforcement, the Bangor Daily News reported. The Portland City Council had banned use of this software by police and city ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "originalUrl": "https://www.cnet.com/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/gwmoAi0S4eDXJo6Rbg_tTnsJSgc=/1200x630/2020/05/01/bff6e427-0240-4ffd-bfbb-40db6bab6b46/security-facial-recognition-contact-tracing.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/portland-maine-bans-police-from-using-facial-recognition-software/",
+      "publishedDateTime": "2020-11-04T12:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview.md",
+      "title": "Google launches Document AI suite of parsing and processing tools in preview",
+      "excerpt": "Google's new Document AI (DocAI) platform is a unified suite of tools for AI and machine learning-powered document processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/",
+      "originalUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/04/google-launches-document-ai-suite-of-parsing-and-processing-tools-in-preview/amp/",
+      "publishedDateTime": "2020-11-04T11:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-museum-exhibit-explores-being-human-in-the-age-of-ai.md",
+      "title": "Museum exhibit explores being human in the age of AI",
+      "excerpt": "The de Young Museum cleared out its cavernous contemporary art galleries, painted many of the walls black and set up a harrowing tour through the landscape of artificial intelligence in the exhibit “Uncanny Valley.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
+      "originalUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marinij.com/wp-content/uploads/2020/10/SJM-L-UNCANNY-1105-01-2.jpg?w=1024&h=576",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
+      "cdnAmpWebUrl": "https://www-marinij-com.cdn.ampproject.org/c/s/www.marinij.com/2020/11/04/sf-de-young-exhibit-explores-being-human-in-the-age-of-ai-2/amp/",
+      "publishedDateTime": "2020-11-04T11:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marin Independent Journal",
+        "domain": "marinij.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.md",
+      "title": "Intel's Iris Xe Max GPU to take on Nvidia's GeForce MX350, RTX 2080 in notebook PCs",
+      "excerpt": "Intel has unwrapped the Iris Xe Max discrete GPU for notebooks, detailing how it depends on the Tiger Lake Core GPU for enhanced performance in gaming, AI, and encoding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
+      "originalUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/10/intel-tiger-lake-core-iris-xe-max-logo-100864467-large.jpg",
+          "width": 1199,
+          "height": 854,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3587732/intels-iris-xe-max-gpu-to-take-on-nvidias-geforce-mx350-rtx-2080-in-notebook-pcs.amp.html",
+      "publishedDateTime": "2020-11-04T10:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-05-sales-enablement-enhanced-with-artificial-intelligence.md",
+      "title": "Sales Enablement Enhanced With Artificial Intelligence",
+      "excerpt": "The amount of data collected in both sales and marketing has had developers focused on each, with only a little thought given to a true integration. That has slowly begun to change; and artificial intelligence (AI) might be providing the final piece necessary to supply a more robust solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/11/04/sales-enablement-enhanced-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2020-11-04T09:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-11-05-worldwide-voice-recognition-market-tremendous-growth-gross-margin-production-revenue-and-forecast-2029.md",
       "title": "Worldwide Voice Recognition Market Tremendous Growth, Gross Margin, Production, Revenue and Forecast 2029",
       "excerpt": "Voice recognition systems are used mainly to convert and decrypt human voice into speech which can easily be understood by any computerized system. A voice recognition device can receive ...",
@@ -898,273 +1201,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-gigabyte-and-microsoft-azure-ai-notebook-performance-investigation.md",
-      "title": "GIGABYTE and Microsoft Azure AI Notebook Performance Investigation",
-      "excerpt": "Today we take a look at Microsoft's Azure AI for mobile computing. The issue with gaming notebooks is their size and weight constraints, and while people want to be able to play their beloved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html",
-      "originalUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/content/9/1/9188_02_gigabyte-microsoft-azure-ai-notebook-performance-investigation.png",
-          "width": 620,
-          "height": 547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/articles/9188/gigabyte-microsoft-azure-ai-notebook-performance-investigation/amp.html",
-      "publishedDateTime": "2020-11-03T16:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-inspiring-ais-future-leaders-a-discussion-with-rashida-hodge.md",
-      "title": "Inspiring AI’s Future Leaders: A Discussion With Rashida Hodge",
-      "excerpt": "In her current role at IBM, Hodge leads product integration of artificial intelligence and other emerging technologies for key IBM clients in North America .",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "originalUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa1c8e22121f2b9de44b40c%2F0x0.jpg",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/anniebrown/2020/11/03/inspiring-ais-future-leaders-a-discussion-with-rashida-hodge/amp/",
-      "publishedDateTime": "2020-11-03T16:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-history-of-voice-recognition-from-audrey-to-siri.md",
-      "title": "History of voice recognition: from Audrey to Siri",
-      "excerpt": "Looking back on the development of speech recognition technology is like watching a child grow up, progressing from the baby-talk level of recognizing single syllables, to building a vocabulary of thousands of words, to answering questions with quick ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008",
-      "originalUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/history-of-voice-recognition-from-audrey-to-siri/15008?amp=1",
-      "publishedDateTime": "2020-11-03T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-adding-custom-data-sources-to-amazon-kendra.md",
-      "title": "Adding custom data sources to Amazon Kendra",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). Amazon Kendra provides native connectors for popular data sources like Amazon Simple Storage Service (Amazon S3), SharePoint, ServiceNow, OneDrive, Salesforce, and Confluence so you can easily",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/adding-custom-data-sources-to-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/29/Adding-custom-data-sources-to-Amazon-Kendra-4.jpg",
-          "width": 509,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T15:15:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-chinese-carmaker-invests-in-fremont-self-driving-tech-unicorn-ponyai.md",
-      "title": "Chinese carmaker invests in Fremont self-driving tech unicorn Pony.ai",
-      "excerpt": "Pony.ai, a self-driving tech unicorn led by former Baidu and Google self-driving car executives, on Tuesday announced a strategic investment from Chinese state-owned vehicle manufacturer FAW Group.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
-      "originalUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
-      "cdnAmpWebUrl": "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanjose/news/2020/11/03/fremont-unicorn-partners-with-chinese-carmaker.amp.html",
-      "publishedDateTime": "2020-11-03T15:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-explaining-amazon-sagemaker-autopilot-models-with-shap.md",
-      "title": "Explaining Amazon SageMaker Autopilot models with SHAP",
-      "excerpt": "Machine learning (ML) models have long been considered black boxes because predictions from these models are hard to interpret. However, recently, several frameworks aiming at explaining ML models were proposed. Model interpretation can be divided into local and global explanations. A local explanation",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/explaining-amazon-sagemaker-autopilot-models-with-shap/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/27/Graph.jpg",
-          "width": 900,
-          "height": 509,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T14:57:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

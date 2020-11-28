@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure"
-excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is now offered on the Microsoft Azure Marketplace and optimized to run within Azure."
-publishedDateTime: 2020-11-17T14:27:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-science-software-industry-information-technology-71329170da3e15d19ec949e2e378712d"
+excerpt: "Stradigi AI, a North American Artificial Intelligence software company, is pleased to announce that its cloud-based Kepler Platform is"
+publishedDateTime: 2020-11-17T13:00:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
+webUrl: "https://www.prnewswire.com/news-releases/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-301173014.html"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "gDfhoH6x302n8PBKuBQPw/0aSrdjMYVgfUv7APm8Ixbp82pTreG6OIdNEYK+XLDtfjt8wX29rcCdH7Z2+qkUuhXn0+07sIP7KPQgVIETKE5G3sVOAA1vDqnZR6Ey+0x2LocU2mqi6hLHf9nYxPFCLfMXNG1L85Sli4VUcF5ArhNHBAVXl/eqFN+Kbr7EssyuYoFzUNV2LdyCQbOkVMq50O9JNuBRysCcAVoJfMnZ2Lu9Qtb/iWT40bWiLeE5bL8xB0cFcqQT3OyNsuksE36Xy3OldEZZTWuCkNzJIrvqNB+XCHzomnQUkeeVr2s5ROkzTdfm+LK+5aZDO6Nksn6Pyp57phtwnolFjlDYWonlnuQ=;ywCYpkwE4v0DzrmkuR1CsA=="
+secured: "s/BEKJLpBTU38VawgPCXVguIEihVDUJOq5MdC/RpCk5K6WHhKTCF71XqPHjxvuaGR9RZMECc3ezr4mloGY3LMIkL7f98t94yTH3yZF6s2zaC86aAM3nz+bFxSXv2uBi6bjVKXiD/ozIzqZhsS1R/eDObPDqRz3IX6wVOND0dZ7j26+nkh/eoCltroXLn1D4abu26JC1tDKw0WkF8JxHOdXVv2viKl/gjtDqVOsRGXX9mmPF7GlASMZ35Lf1bKZ4En7PtoF6ve8v5NjCt/X3EtBF1qYYxtTs19/1KmIEp+Y7QE3GW/egEt/yRmP4K7RSYxHle8PyB5Yf7YVgSJ/umHLABNNk9l62Ku/LVJsd4njg=;awh8Ma3RHsmQI+ge0BpW3Q=="
 ---
 

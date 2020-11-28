@@ -25,35 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "KFC Has Self-Driving Food Trucks in China And I Thirst For Chicken"
-    excerpt: "The self-driving vehicles allow customers to select their KFC item of choice and pay by scanning a QR code. Upon payment the door will open so the customer can take their food. The trucks seem to have been first spotted on Twitter earlier this month."
-    publishedDateTime: 2020-11-23T23:31:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/kfc-has-self-driving-food-trucks-in-china-and-i-thirst-for-chicken-neolix/amp/"
+  - title: "Self-driving semitrailer trucks are getting ready to roll more often"
+    excerpt: "The age of self-driving 18-wheelers traveling on U.S. highways may be much closer than many people realize, and North Texas is emerging as the likely location of a major hub for the trucks. One company that is aggressively working to build a nationwide freight network of driverless trucks is TuSimple,"
+    publishedDateTime: 2020-11-27T22:48:00Z
+    webUrl: "https://www.startribune.com/self-driving-semitrailer-trucks-are-getting-ready-to-roll-more-often/573201331/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 44
+      name: StarTribune
+      domain: startribune.com
+    quality: 39
     images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/24/kfc-self-driving-food-truck.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "KFC turned to self-driving cars in China to deliver fried chicken limiting human contact"
-    excerpt: "Although it is still unknown if this dynamic is related to a marketing action or real tests for a future way of operating its services, the famous fried chicken franchise has delivered its orders door to door with these autonomous vehicles,"
-    publishedDateTime: 2020-11-26T19:13:00Z
-    webUrl: "https://www.stamfordadvocate.com/business/article/KFC-turned-to-self-driving-cars-in-China-to-15756513.php"
-    type: article
-    provider:
-      name: StamfordAdvocate
-      domain: stamfordadvocate.com
-    quality: 15
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/37/43/20314327/7/rawImage.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://stmedia.stimg.co/ows_3696b333-c550-4906-b015-552beaae2016.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Q+Nul4Iy2IGuVawzhnmQz3Lzb3vgwCEFtTKX9KGgIsmzXEvNIelI/EwbhqZh/fw75ubc4TO5LRBwVXiXdDnzSrhhnBGEZZFLQFMQiXUEDJV8R3XZMuDcTrNh/MDR0wNwJoCKT+V4nLoAp+X12eJQS89LfZVLwvdXakZ/KQlUBl48wNGV/kD9ouQt7xy6dcfN19etF1YZSr6yqK+NITglilfSjCPP3Uxd3vWSJlWmGVuOsajuq4OSkTgBgflt7dupcLHd5P3wFed3dWuWnuMpbvxggHPXVfBHrJOlOGCuKGz6adPXT7YcmcRd/iBZ0cIz3hFWYMBHZHTPaKwZKt0U3/WVRPbutTTXvFq89qyc4evygJOYbDHUVaREA9TYIUsa9hDnPnsxHRkp476KQKwvWZQpdlYL4JPFoQzsQQl0hGVs5C85+TEyQ1/a+t8+r59cF2/dBiklEySd7JTPZ/rOyQY6oTJC1zXuJRxpUvq8tCrQPr0ugoCj7qljmISE1S1tKhmOJvEMn3/c+DUe7V/HAQ==;hSrKL9t0kXZ2VLQO352spA=="

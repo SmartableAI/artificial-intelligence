@@ -24,6 +24,22 @@ images:
     height: 630
     isCached: true
 
-secured: "ywyj+QjOykqHw2vYuEWtvS6qOGW0RzYNQE0mxsmlSJpPWC66C93YjKIMRCycnkt0uA3KLOBDW/KjVbGQQI5x+WLK+631sObE7EPemFs2/+5mpWUI5zAAE3RIMcxEQZAa5p9GLPpsx5ES+moCU7mkwZbDqeaIKXUy2oXkseI0+Qz2PbT8w5eW6H/Fi/XH0tmEqg+esAardgGwjxNLP4+qAS1R6+eJoVflS5V3nG48CzFYM4fsaNOLw6Z7dET/AamXpZ5q6e1JqQJ7IVqkF/eDOmXvSLlQ5kVxnH/uPaMAV6zgWPeA5l2WsH1lLrIuCshA4cF+TuYRRCzeoV+pIw5wvS1fYHi2zKUOp/HMKTSdLwM=;vt2rxjZQSzL2Y1krWt22Fg=="
+related:
+  - title: "KFC Is Deploying Self-Driving Food Trucks, and They’re Perfect"
+    excerpt: "We’re still a long way from letting our cars do all the driving for us, but at the very least, they can take care of our fast-food cravings. At least, they can in some parts of the world."
+    publishedDateTime: 2020-11-25T06:01:00Z
+    webUrl: "https://www.autoevolution.com/news/kfc-is-deploying-self-driving-food-trucks-and-theyre-perfect-152045.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/kfc-is-deploying-self-driving-food-trucks-and-theyre-perfect-152045-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
+
+secured: "MrRWUK0SOolNGeGQqo95iHSjjLcCK1UHQs7S6IjiuAL7ZDfYiBCATJlBf8h5nnuyMm/XCLGBDK7Clf06r4S0nmAAJrMcEof+RPljNRZ5PxJUxdKEtHXmKU49px10lQ9RDx5rkN2e3zOuH7jnnOSLBOJmod0PlqmghxE6e7mCarLD0/PosYwywD4kDmBqluJk8dS9uGypM4U6V4iUaSLr8NCnMbikHwWrkCTcX5nBcytSBUjyQtofhVwUvZbVFCakoszrBzhXQlhIU6pMwpthZvJf01wPC3b6kKsKPMDQh6qPqvwNlODYETWYeSFDvVIFmqlgroK7DmHnskrcS90FCwyz10zcai15oUAv3gvjF3fuseAKaJNIZ10uVHDZfFg43mkUuKrrGRRslA4dHTIasqu+jHWpRg3IYpxZ8OOFBlND0DL3F+u1yF5tcqaU1w/dI2jbnUJgUCvtt/o1AI1ipoqz5ImEGw/lkJGTKQDPqGvcY5EuZd1/IC9wNNMQ9BD5AEG08WXHfxY56vrwmcI2UQ==;n5NC9Rk10PVTD6AZ2Agd8A=="
 ---
 

@@ -2,6 +2,162 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-29-geek-of-the-week-vulcans-w-andre-perkins-uses-machine-learning-to-help-predict-climate-change.md",
+      "title": "Geek of the Week: Vulcan’s W. Andre Perkins uses machine learning to help predict climate change",
+      "excerpt": "Perkins, GeekWire’s latest Geek of the Week, is now among the well versed, as a machine learning scientist for Vulcan Inc.’s Climate Modeling team. He started the job with the late Paul Allen’s company just over a year ago, after receiving his PhD in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2020/w-andre-perkins/",
+      "originalUrl": "https://www.geekwire.com/2020/w-andre-perkins/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2020/11/wandreperkins-630x515.jpg",
+          "width": 630,
+          "height": 515,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2020/w-andre-perkins/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/w-andre-perkins/amp/",
+      "publishedDateTime": "2020-11-28T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-29-aides-ties-to-firms-present-biden-with-early-ethics-test.md",
+      "title": "Aides’ Ties to Firms Present Biden With Early Ethics Test",
+      "excerpt": "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html",
+      "publishedDateTime": "2020-11-28T08:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-28-emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai.md",
+      "title": "Emily Murphy, Administrator Of The GSA Shares Her Thoughts On AI",
+      "excerpt": "Being recently thrust into the news, Emily Murphy, Administrator of the GSA might have rather been known for the impact she has helped make on the GSA's use of AI and automation to change the way the government procures and uses technology services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc25de1572d1ce489ed7e5b%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D2400%26cropY1%3D271%26cropY2%3D1621",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/28/emily-murphy-administrator-of-the-gsa-shares-her-thoughts-on-ai/amp/",
+      "publishedDateTime": "2020-11-28T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-machine-learning-startup-infinia-ml-lands-big-partner-for-cloud-project.md",
       "title": "Machine learning startup Infinia ML lands big partner for cloud project",
       "excerpt": "Durham's Infinity ML, which applies and audits machine learning, has formed a partnership with Virginia's DXC Technology, which helps modernize client IT across private, public and hybrid cl",
@@ -157,7 +313,7 @@
       "originalUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -639,6 +795,57 @@
       ]
     },
     {
+      "path": "_news/2020-11-27-ai-doctors-assistant-among-projects-given-20m.md",
+      "title": "AI 'doctor's assistant' among projects given £20m",
+      "excerpt": "A computerised system that advises doctors on the best treatment to give a patient is among the artificial intelligence projects that have been awarded £20m by the British government. The money will be shared between 15 AI projects being run at UK universities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/science-environment-55099620",
+      "originalUrl": "https://www.bbc.com/news/science-environment-55099620",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FCF4/production/_115665746_2f0255259-machine_learning_conceptual_illustration.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/science-environment-55099620",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-55099620",
+      "publishedDateTime": "2020-11-27T04:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-facebooks-ai-mistakenly-bans-ads-for-struggling-businesses.md",
       "title": "Facebook’s AI Mistakenly Bans Ads for Struggling Businesses",
       "excerpt": "New York-based businesswoman Ruth Harrigan usually sells her honey and beeswax products in souvenir shops. But with Covid-19 pausing tourism, she’s been almost entirely dependent on Facebook ads to drive online sales.",
@@ -1025,195 +1232,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.md",
-      "title": "Combining cell engineering with machine learning to design living medicines for cancer",
-      "excerpt": "Finding medicines that can kill cancer cells while leaving normal tissue unscathed is a Holy Grail of oncology research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
-      "publishedDateTime": "2020-11-26T15:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance.md",
-      "title": "How AI and big data helped China’s tech giants dominate consumer finance",
-      "excerpt": "The aim is to build a much more accurate picture of a user’s credit profile by using a range of online data as opposed to traditional credit scoring.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "originalUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/27/afc48a3e-2fce-11eb-be20-200ca6256645_image_hires_073856.jpg?itok=jW1cEXEG&v=1606433950",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
-      "publishedDateTime": "2020-11-26T15:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-dyson-pledges-new-investment-into-ai-robotics-and-batteries.md",
-      "title": "Dyson pledges new investment into AI, robotics and batteries",
-      "excerpt": "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
-      "originalUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
-      "publishedDateTime": "2020-11-26T15:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup.md",
-      "title": "FIFA Trials AI-Powered Automated VAR Calls Ahead Of 2022 World Cup",
-      "excerpt": "VAR has amplified offside controversies rather than eliminate them. AI could make accurate calls instantly at the 2022 FIFA World Cup in Qatar",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
-      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbff60f626112e54bbd3f35%2F0x0.jpg",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
-      "publishedDateTime": "2020-11-26T10:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,195 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-27-combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.md",
+      "title": "Combining cell engineering with machine learning to design living medicines for cancer",
+      "excerpt": "Finding medicines that can kill cancer cells while leaving normal tissue unscathed is a Holy Grail of oncology research.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx",
+      "publishedDateTime": "2020-11-26T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance.md",
+      "title": "How AI and big data helped China’s tech giants dominate consumer finance",
+      "excerpt": "The aim is to build a much more accurate picture of a user’s credit profile by using a range of online data as opposed to traditional credit scoring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/27/afc48a3e-2fce-11eb-be20-200ca6256645_image_hires_073856.jpg?itok=jW1cEXEG&v=1606433950",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "publishedDateTime": "2020-11-26T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-dyson-pledges-new-investment-into-ai-robotics-and-batteries.md",
+      "title": "Dyson pledges new investment into AI, robotics and batteries",
+      "excerpt": "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "originalUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "publishedDateTime": "2020-11-26T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup.md",
+      "title": "FIFA Trials AI-Powered Automated VAR Calls Ahead Of 2022 World Cup",
+      "excerpt": "VAR has amplified offside controversies rather than eliminate them. AI could make accurate calls instantly at the 2022 FIFA World Cup in Qatar",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbff60f626112e54bbd3f35%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
+      "publishedDateTime": "2020-11-26T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-watch-tesla-full-self-driving-beta-yield-for-pedestrian-in-intersection-that-would-give-some-humans-pause.md",
       "title": "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause",
       "excerpt": "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause.",
@@ -1036,206 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
-      "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
-      "excerpt": "Nearly 60 per cent of about 650 passengers WeRide surveyed say they use the company’s robotaxi service for regular commutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "originalUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/25/fe2fa526-2ee0-11eb-be20-200ca6256645_image_hires_161521.jpg?itok=wVzItpX0&v=1606292129",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "publishedDateTime": "2020-11-25T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020.md",
-      "title": "Your guide to artificial intelligence and machine learning at re:Invent 2020",
-      "excerpt": "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world’s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T18:32:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-math-solver-app-qanda-launches-qanda-live-class-in-indonesia.md",
-      "title": "AI Math-Solver App QANDA Launches QANDA Live Class in Indonesia",
-      "excerpt": "Users can take a photo of a math problem, upload it to the app, and then its AI-based optical character ... Developed by Mathpresso, Korea's leading edtech startup, QANDA was launched in Indonesia ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-launches-qanda-live-class-in-indonesia-1029836527",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-math-solver-app-qanda-launches-qanda-live-class-in-indonesia-1029836527",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/ai-math-solver-app-qanda-launches-qanda-live-class-in-indonesia-1029836527",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/ai-math-solver-app-qanda-launches-qanda-live-class-in-indonesia-1029836527",
-      "publishedDateTime": "2020-11-24T18:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-amazon-forecast-now-supports-accuracy-measurements-for-individual-items.md",
-      "title": "Amazon Forecast now supports accuracy measurements for individual items",
-      "excerpt": "We’re excited to announce that you can now measure the accuracy of forecasts for individual items in Amazon Forecast, allowing you to better understand your forecasting model’s performance for the items that most impact your business. Improving forecast accuracy for specific items—such as those with",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-accuracy-measurements-for-individual-items/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-forecast-now-supports-accuracy-measurements-for-individual-items/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/24/Cropped.jpg",
-          "width": 800,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T17:38:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

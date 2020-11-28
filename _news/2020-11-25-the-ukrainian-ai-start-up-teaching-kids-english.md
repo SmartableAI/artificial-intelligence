@@ -23,17 +23,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "Gnani.ai Launches Mandarin to English Integrated Speech Solution for Indian Defence"
-    excerpt: "Gnani.ai, a global frontrunner in Conversational AI today announced the launch of a new integrated Speech Recognition based solution for the Indian defence establishment."
-    publishedDateTime: 2020-11-24T04:35:00Z
-    webUrl: "https://www.businesswireindia.com/gnaniai-launches-mandarin-to-english-integrated-speech-solution-for-indian-defence-70507.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 13
-
 secured: "Rrpdh9DyORdSnec1WOZIwVyMbQ2o3exBgbUfHWmCoH4kZ4ZmKjmNGEv6gfpJp3yloTDYCFjCqs41umTepWa1msTOuNuQwxS9dhakmm51BT44xYd7faCEq4hUsf3qH5buVayN5XW6bq+Gg5vCjeEMgNArGjTR6cLHQHu2huL2MERuBDWOzFXM6pIFTPQku+xYekCpZyfEmSZlzo6Di/IutoVEtI0yD/Gyj0mZu3RPxf97FaxW8KaHs+LADQuPqWV6vQngXCcgYCv/s4kc+SuDSlbSmJX0wC0/WAFLWR6ezUi8ufVOPh/ysklYxj+u5WAJUdMei95HS362H+KnM9BMm3WennOK42Lq/5aHv1Ek6dB85S2HtX4xF1iwI2FOkKFwMF9XV2ekqGmumM3Q757brny3oeamUAa7bAqPil0/t1is1XQ2t3hS2QH+5X3A2y+2FKzq53SZfxwYZpoQkEeOOKT9Tnzm8qL0nkbjJthOUoUab7dzrjaWtmX4/8RdO5Ul6AaT1hkk9hs2RBaJiRLDFQ==;FOOUIwcoFMvV2iXaqqivTA=="
 ---
 

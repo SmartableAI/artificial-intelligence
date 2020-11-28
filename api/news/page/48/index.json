@@ -2,6 +2,289 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2020-10-22-chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai.md",
+      "title": "Chip industry is going to need a lot more software to catch Nvidia’s lead in AI",
+      "excerpt": "Topic: Artificial Intelligence  The semiconductor industry is in the midst of a renaissance in chip design and performance improvement, but it will take a lot more software to catch up with graphics chip titan Nvidia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "originalUrl": "https://www.zdnet.com/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/10/21/8c897dbe-8d2e-46d3-bfc3-def8f3ed8e56/nvidia-a100-press-graphic.jpg",
+          "width": 2000,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/chip-industry-is-going-to-need-a-lot-more-software-to-catch-nvidias-lead-in-ai/",
+      "publishedDateTime": "2020-10-21T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-performing-batch-fraud-predictions-using-amazon-fraud-detector-amazon-s3-and-aws-lambda.md",
+      "title": "Performing batch fraud predictions using Amazon Fraud Detector, Amazon S3, and AWS Lambda",
+      "excerpt": "Amazon Fraud Detector is a fully managed service that makes it easy to identify potentially fraudulent online activities, such as the creation of fake accounts or online payment fraud. Unlike general-purpose machine learning (ML) packages, Amazon Fraud Detector is designed specifically to detect fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/performing-batch-fraud-predictions-using-amazon-fraud-detector-amazon-s3-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/performing-batch-fraud-predictions-using-amazon-fraud-detector-amazon-s3-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/1-Architecture-1.jpg",
+          "width": 900,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T13:08:09-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-artificial-intelligence-and-the-antitrust-case-against-google.md",
+      "title": "Artificial intelligence and the antitrust case against Google",
+      "excerpt": "Also key to Google’s power and plans for the future is access to personal data and artificial intelligence. In this story, we take a look at the myriad of ways in which artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/03/googlereuters.jpeg?w=1200&strip=all",
+          "width": 1200,
+          "height": 784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/artificial-intelligence-and-the-antitrust-case-against-google/amp/",
+      "publishedDateTime": "2020-10-21T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-activists-build-facial-recognition-to-id-cops-who-hide-their-badges.md",
+      "title": "Activists Build Facial Recognition to ID Cops Who Hide Their Badges",
+      "excerpt": "In order to hold police accountable when they try to hide their identities, a growing number of activists are developing facial recognition tools that identify cops, The New York Times reports — a striking inversion of the way cops tend to use facial recognition on protestors and suspects.",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
+      "originalUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2020/10/activists-build-facial-recognition-id-cops-hide-badges-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/activists-build-facial-recognition-id-cops-hide-badges/amp",
+      "publishedDateTime": "2020-10-21T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-global-automotive-voice-recognition-market-set-new-growth-story-for-future-development-by-2029-nuance-voicebox-iflytek.md",
+      "title": "Global Automotive Voice Recognition Market Set New Growth Story For Future Development By 2029 | Nuance, VoiceBox, Iflytek",
+      "excerpt": "Significant information concerning the production patterns, growth rate, and market share of each product fragment during the study period is stated in Automotive Voice Recognition Market 2021-2030 Radical Growth of Global Automotive Voice Recognition ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/mediareleases/135902/global-automotive-voice-recognition-market-set/",
+      "originalUrl": "https://www.reseller.co.nz/mediareleases/135902/global-automotive-voice-recognition-market-set/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T12:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-saudis-launch-national-artificial-intelligence-strategy.md",
+      "title": "Saudis launch national artificial intelligence strategy",
+      "excerpt": "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS",
+      "originalUrl": "https://www.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUSL8N2HC4WS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2761LZ",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761LZ",
+      "publishedDateTime": "2020-10-21T11:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-how-ai-will-supercharge-spear-phishing.md",
       "title": "How AI Will Supercharge Spear-Phishing",
       "excerpt": "This example is hypothetical, but it's far from impossible. With the emergence of offensive artificial intelligence (AI), we are at the precipice of a new era of email attacks that move away from ...",
@@ -908,271 +1191,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-acuant-prioritized-for-fedramp-jab-authorization-for-assureidtm-connect-ozone-faceid-facial-recognition-system.md",
-      "title": "Acuant Prioritized for FedRAMP JAB Authorization for AssureID(TM) Connect, Ozone® & FaceID Facial Recognition System",
-      "excerpt": "Acuant, a leading global provider of identity verification solutions, today announced that the Federal Risk and Authorization Management Program (FedRAMP) has prioritized their",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/acuant-prioritized-for-fedramp-jab-authorization-for-assureid-tm-connect-ozone-faceid-facial-recognition-system/article_3e74a3d5-b483-5f73-a4dd-b104b7530870.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/acuant-prioritized-for-fedramp-jab-authorization-for-assureid-tm-connect-ozone-faceid-facial-recognition-system/article_3e74a3d5-b483-5f73-a4dd-b104b7530870.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-saudi-launches-national-artificial-intelligence-strategy.md",
-      "title": "Saudi launches national artificial intelligence strategy",
-      "excerpt": "Saudi Arabia on Wednesday launched a National Strategy for Data and Artificial Intelligence (AI) and will announce several AI partnerships, the head of the Saudi Data and Artificial Intelligence Authority (SDAIA) said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6",
-      "originalUrl": "https://www.reuters.com/article/saudi-economy-ai-int-idUSKBN2761N6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2761N6",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2761N6",
-      "publishedDateTime": "2020-10-21T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-former-fortune-100-cto-joins-ai-startup-censia-as-advisor.md",
-      "title": "Former Fortune 100 CTO joins AI Startup Censia as Advisor",
-      "excerpt": "Deborah Leff, former Global Leader and Industry CTO for Data Science and AI at IBM, has joined AI startup Censia as a board member,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/former-fortune-100-cto-joins-ai-startup-censia-as-advisor-301156613.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/former-fortune-100-cto-joins-ai-startup-censia-as-advisor-301156613.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/997139/Censia_Logo.jpg?p=facebook",
-          "width": 1423,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space.md",
-      "title": "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!",
-      "excerpt": "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314",
-      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1",
-      "publishedDateTime": "2020-10-21T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-do-robots-need-a-sense-of-touch.md",
-      "title": "Do Robots Need a Sense of Touch?",
-      "excerpt": "Sensors mimicking human skin may be the key to making robotic hands sense like human hands. According to LUX Research Analyst Lisheng Gao, “A research team developed piezoelectric effect-based sensors that mimic the human somatosensory system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
-      "originalUrl": "https://www.industryweek.com/technology-and-iiot/article/21144713/do-robots-need-a-sense-of-touch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://base.imgix.net/files/base/ebm/industryweek/image/2020/10/ricardo_gomez_angel_D9kOnC_1AHw_unsplash.5f8729167ca48.png?auto=format&fit=max&w=1200",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IndustryWeek",
-        "domain": "industryweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-microsoft-launches-azure-space-initiative-partners-with-spacex.md",
-      "title": "Microsoft launches Azure Space initiative; partners with SpaceX",
-      "excerpt": "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg",
-          "width": 798,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
-      "publishedDateTime": "2020-10-21T00:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

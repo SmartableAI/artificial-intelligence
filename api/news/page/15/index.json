@@ -2,6 +2,239 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-16-why-we-commissioned-new-ai-robotics-centre-in-abuja-pantami.md",
+      "title": "Why we commissioned new AI, Robotics Centre in Abuja ― Pantami",
+      "excerpt": "The Minister of Communications and Digital Economy, Dr Isa Ali Pantami says the new Centre for Artificial Intelligence and Robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
+      "originalUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-―-pantami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/www.vanguardngr.com/wp-content/uploads/2019/07/Isa-Ibrahim-Pantami.jpg?fit=1500%2C1000&ssl=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2020/11/why-we-commissioned-new-ai-robotics-centre-in-abuja-%e2%80%95-pantami/amp/",
+      "publishedDateTime": "2020-11-15T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars.md",
+      "title": "Zipper Merging Is A Frenzied Traffic Squeeze Play On Self-Driving Cars",
+      "excerpt": "Zipper merging, whereby cars are shunted into a 2-into-1 lane narrowing, can be especially tough on self-driving cars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f98fb5712aefdbeef1bad5b%2F0x0.jpg%3FcropX1%3D647%26cropX2%3D7309%26cropY1%3D579%26cropY2%3D5033",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/11/15/zipper-merging-is-a-frenzied-traffic-squeeze-play-on-self-driving-cars/amp/",
+      "publishedDateTime": "2020-11-15T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-training-facial-recognition-on-some-new-furry-friends-bears.md",
+      "title": "Training facial recognition on some new furry friends: Bears",
+      "excerpt": "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html",
+      "originalUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/mLYmwT6KaOKcZ5Rrcvt1Da_8caY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/5K3O4A4ZYZCEIP3IU3344F66OQ.jpg",
+          "width": 1200,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/consumer-reviews/sns-nyt-bears-facial-recognition-20201115-uxmwvtwuxvgzte7wnu7ihutt4a-story.html?outputType=amp",
+      "publishedDateTime": "2020-11-15T05:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows.md",
+      "title": "It’s Managers, Not Workers, Who Are Losing Jobs To AI And Robots, Study Shows",
+      "excerpt": "This is a class of people we did not expect robots to have an effect. Because managers, by definition, supervise other human beings, so we really cannot replace their functions until the singularity occurs with artificial general intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb00928262a4a4cc9aaf465%2F0x0.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/11/15/its-managers-not-workers-who-are-losing-jobs-to-ai-and-robots-study-shows/amp/",
+      "publishedDateTime": "2020-11-15T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-15-computer-vision-mobile-app-can-regularly-monitor-diabetes.md",
+      "title": "Computer vision mobile app can regularly monitor diabetes",
+      "excerpt": "University of Cambridge engineers has developed a computer vision technology into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer vision techniques to read and record the glucose levels,",
+      "sourceUrl": null,
+      "webUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
+      "originalUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
+      "cdnAmpWebUrl": "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/computer-vision-mobile-app-can-regularly-monitor-diabetes/amp/",
+      "publishedDateTime": "2020-11-15T04:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsd",
+        "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-the-pessimists-guide-to-the-future-from-virtual-reality-to-driverless-cars.md",
       "title": "The pessimist’s guide to the future, from virtual reality to driverless cars",
       "excerpt": "artificial intelligence and even driverless cars. Virtual reality headsets have long been the next big thing, but that’s not based on anything approaching reality. At the beginning of 2017 ...",
@@ -355,6 +588,58 @@
       ]
     },
     {
+      "path": "_news/2020-11-14-uber-could-soon-pawn-off-its-scandal-ridden-self-driving-vehicle-branch-to-startup-aurora.md",
+      "title": "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Startup Aurora",
+      "excerpt": "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a startup ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
+      "originalUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
+      "publishedDateTime": "2020-11-14T07:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-uber-is-reportedly-in-talks-to-sell-its-self-driving-unit.md",
       "title": "Uber is reportedly in talks to sell its self-driving unit",
       "excerpt": "After years of development and some shocking incidents, the next step for Uber’s self-driving unit could be a sale. As first reported by TechCrunch and later Reuters, anonymous sources say Uber ...",
@@ -512,10 +797,10 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning",
-        "TensorFlow"
+        "Machine Learning"
       ]
     },
     {
@@ -912,301 +1197,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-system-brings-deep-learning-to-internet-of-things-devices.md",
-      "title": "System brings deep learning to 'internet of things' devices",
-      "excerpt": "A new system brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT). Deep learning is everywhere.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201113154627.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201113154627.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T14:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-in-talks-to-sell-atg-self-driving-unit-to-aurora.md",
-      "title": "Uber in talks to sell ATG self-driving unit to Aurora",
-      "excerpt": "Uber’s self-driving car unit, Uber Advanced Technologies Group, was valued at $7.25 billion following a $1 billion investment from Toyota, DENSO and Softbank’s Vision Fund. Now, it’s up for sale and a competing autonomous vehicle technology startup is in talks with Uber to buy",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
-      "originalUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1142303764.jpg?w=1024",
-          "width": 1024,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/13/uber-in-talks-to-sell-atg-self-driving-unit-to-aurora/amp/",
-      "publishedDateTime": "2020-11-13T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next.md",
-      "title": "Apple blamed IBM and Intel for Mac chip delays, but TSMC won’t be next",
-      "excerpt": "Apple's deals with top chipmakers have historically fizzled out, but its relationship with leading chip fabricator TSMC will likely last.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/07/tsmc-e1605303213438.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/apple-blamed-ibm-and-intel-for-mac-chip-delays-but-tsmc-wont-be-next/amp/",
-      "publishedDateTime": "2020-11-13T13:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-microsofts-new-azure-data-services-explained.md",
-      "title": "Microsoft's new Azure data services explained",
-      "excerpt": "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
-      "originalUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 219,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
-      "publishedDateTime": "2020-11-13T12:42:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-new-method-brings-physics-to-deep-learning-to-better-simulate-turbulence.md",
-      "title": "New method brings physics to deep learning to better simulate turbulence",
-      "excerpt": "Deep learning, also called machine learning, reproduces data to model problem scenarios and offer solutions. However, some problems in physics are unknown or cannot be represented in detail mathematically on a computer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoig-nmb111320.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoig-nmb111320.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/multimedia/pub/web/248837_web.jpg",
-          "width": 720,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T11:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-extracting-handwritten-information-through-amazon-textract.md",
-      "title": "Extracting handwritten information through Amazon Textract",
-      "excerpt": "Over the past few years, businesses have experienced a steep rise in the volume of documents they have to deal with. These include a wide range of structured and unstructured text spread across different document formats. Processing these documents and extracting data is labor-intensive and costly. It",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/extracting-handwritten-information-through-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/Extracting-handwritten-information-1.jpg",
-          "width": 800,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T10:50:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],
