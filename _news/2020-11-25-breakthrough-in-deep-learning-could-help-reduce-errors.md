@@ -9,8 +9,8 @@ ampWebUrl: "https://bigthink.com/amp/deep-learning-neural-networks-2649036797"
 cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/deep-learning-neural-networks-2649036797"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Big Think
@@ -43,15 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Machine learning: A breakthrough in the study of stellar nurseries"
-    excerpt: "This enabled them to develop novel methods based on statistical learning and machine learning to study observations of the cloud made at 240,000 frequencies of light**. Based on artificial intelligence algorithms, these tools make it possible to retrieve ..."
-    publishedDateTime: 2020-11-24T21:10:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/11/201124150853.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "jD3CLNjlLgHcQyk4Pr0yDTcYPqpGJy8qYSLEmySjvnye/CzdliNlj2QvbZXIEEwiaWIBBBQPNbjBupucpk65T+V3U8UqyEyUvrTExOZEm4gWTncBYwJFcK1UzcLzLSHH0WBfHC5YFY7qiI/3gyIgQ3bDdiyfzOIJQO/4SQA+paJLzrAVTunalnGN53cDnFpfvCCfAkHG+VY59WlhX7kRzqpSIPSXejYBS6foM/wtp2vN+6S4hPxlJnm9xlaXcEnkrtC0DVDj3+uaxIxbmRPlAjVEmd1Qamx+YmgZKTt5GeSJjKu2UMWLy3RnIqqY0RI6tex1sJsOV78bREHcaQrQ2r8Lr0EfuibA6MfsrgfLWBGOsnpQ27CEnExn/qmDq/5DX6CX2w6reemNQL1ziidnSDt3++TwUKImYL5MW10TvTXvQbhrREmEzcT7d5Cjd+siXqYohWtqUUxBZu96LSH2XOV6oay7J9DSXJOK52nHecyZe0NXRSKss33hKhUCryLXCWvdfusUSq91MpDCMg17zg==;O1anwF7Z7Fpu7ExiubszHQ=="
 ---

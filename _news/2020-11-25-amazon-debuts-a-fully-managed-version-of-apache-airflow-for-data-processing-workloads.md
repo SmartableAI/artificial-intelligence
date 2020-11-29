@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/11/24/amazon-debuts-fully-managed-ve
 webUrl: "https://siliconangle.com/2020/11/24/amazon-debuts-fully-managed-version-apache-airflow-data-processing-workloads/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AWS Announces General Availability of Amazon Managed Workflows for Apache Airflow"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Managed Workflows for"
-    publishedDateTime: 2020-11-24T21:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "AQmmCoevRqikZbyhKwU1K4q9LcIdPUXmelFIIgYIrQmXVe877jiI7Nzb9rgzVifcfNkYVSfX5wc0/2/ak4fKm3Q4SG6Q+GyLk1K9/VKMTm8DN3VSQEq4BLBSgIxR61mxrOKBdINnC60XrgMW1NmVUaVsWNv+88kpRf+XG39vOFr7xg/UF5eUKfNUl6qHn94zpl16KuyyZdELFJjmuUQGTdE/8H4TzptLmGQJZsGDqsxhJaryt1MJd4EYJNmhfRNjTQjnbvF+8FjOIs4R2LVuTlZOPIULnY2zLJZ61KxYB1iGgrTjFyzgs+I3ZldrDXfp3M0y1AxWeXeYzkD3cTjK5Cf3e4LDQP5E9FTJKfbj7o/eheGy7jeLcHcmqlfuTZnM2bj3J2F5TFbaEkg03ENATtPXtzBg2FOKavfGz5n4HF8G6/7bTd/DEmdMltsS2yQP1g9kXMVTEa3kq0Vw+BRYxxv+m5GL1Y5ENNhKaiYk1Dtcuy4vIkcOMBSYy0wIG5ZD814ReNo80aar5PgbT2PWOQ==;OhWOjYgTBHISh6odSfqF/g=="
 ---

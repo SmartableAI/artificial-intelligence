@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Worth $3.0 Billion By 2027: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in diagnostics market size was valued at USD 288.1 million in 2019 and is projected to grow at a compound annual growth rate (CAGR) of 32.3% from 2020 to 2027. <p>The global  size is expected to reach USD 3."
+    publishedDateTime: 2020-11-29T13:30:00Z
+    webUrl: "https://menafn.com/1101201948/Artificial-Intelligence-In-Diagnostics-Market-Worth-30-Billion-By-2027-Grand-View-Research-Inc"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/28/G_009d144b-0_Image_In_Body.png"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "PCGD/AZXojRioZwd/t0y4YVnhmj8Sshsk+ZOCD5mqVKsBkjD6jv28tTwjrG3X/yh8Sy/b3AnSeIt905rqPkYc8Ceq5FshPoUziWAZ/BGSuvHpx0UstWQ71ksKNg0Ej1KZCQdd13TYLVKXosMOuFriuc1xP44vqet1NkWvsEhHivs5M4hRA5AoYw62zI478EoW//boF1UgrRXVS54k6IEMB3t5mLQq8C+AMZ6MzaJFktbRHAIbsOW/ri3cvx8YyfGO6j8QP9AsS8ZYZmvJorUQMyABiRo4HSDOxPyMueGW6p2ZYnwtAFZ7ApIUfRT9hX0avlnEwqMU4kue87PjVKJ5/sszmmae1gXH7+t0GD9+7g=;b/i5GlceP3zp7UnpY239vg=="
 ---

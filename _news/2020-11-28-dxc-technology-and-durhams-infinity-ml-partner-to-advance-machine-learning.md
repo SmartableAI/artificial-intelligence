@@ -39,20 +39,6 @@ related:
         width: 926
         height: 520
         isCached: true
-  - title: "DXC Technology and Infinia ML Team Up to Bring Benefits of Advanced Machine Learning to Global Customers"
-    excerpt: "DXC will utilize Infinia ML machine learning capabilities across its Enterprise Technology Stack to automate document processing, boost performance of mission-critical IT systems,"
-    publishedDateTime: 2020-11-24T21:15:00Z
-    webUrl: "https://apnews.com/article/technology-business-science-accounting-tax-preparation-and-payroll-services-industrial-products-and-services-17250d112b7e406ca446ac2b880dff39"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 37
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "RfuyourwtwtiBJG091rZPvN3HlHzlOv1EcCi89qRbSJu74D6Iv6lOVZm1lJvxCDt6+cgtSJv7TpeowImqXx1VtuAsA1x4W5ixMJqH1HBXTjeZdAIy9ptTRdzcdgJE6bZN1S7ar0InnSKpyQ6jNwd/QHlYqAO0wUQOm/jsg/8+g63ryhKYSd6ZLDroLY3NvEq+Fa0mOtyioQFLjhAyj539qp7yHv/QkysbFAT95lKIyCA8VzFuzoXQPAJe3n+3uht1jzpxzImfDy2G241xZTIH78a37C/R0MbuXO6lGaDvO+mu+R754+8kkypnB7vPX1Cp3sMkG8UMgDHOUBBElPzHa9dZPhwglz6H1mozbEmLU8kJK/Xi+b069b+ZxCVEmvEhYHRN++7Hzk/sD0nuPcTsWx+rOHmWDhN/QiPUpGUgm+42aHc4t5LQnCRcJUPELHsL2w+68p1L14R1+I9n/cfMAzz8WRWMxEzMu5w1L4OmDwLOBOlM/Ke15mXevaSeYiI298uV/ZCHmMZ8Hq9yEkgOw==;R263yuXhkC+UdDVIfSburA=="
 ---

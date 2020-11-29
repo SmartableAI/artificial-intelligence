@@ -7,7 +7,7 @@ originalUrl: "https://www.lanereport.com/134866/2020/11/better-imaging-better-tr
 webUrl: "https://www.lanereport.com/134866/2020/11/better-imaging-better-treatments/"
 type: article
 quality: 17
-heat: -1
+heat: 17
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 300
     height: 250
     isCached: true
-
-related:
-  - title: "Better Imaging, Better Treatments"
-    excerpt: "It has literally just come out, and the (image) reconstruction ability of the machine is faster and better than ever before.” The scanning technology received approval from the U.S. Food and Drug Administration (FDA) in 2020 and is new to the market."
-    publishedDateTime: 2020-11-24T21:20:00Z
-    webUrl: "https://www.lanereport.com/134866/2020/11/better-imaging-better-treatments/"
-    type: article
-    provider:
-      name: Lane Report
-      domain: lanereport.com
-    quality: 24
-    images:
-      - url: "https://s3.amazonaws.com/ae-lane-report/wp-content/uploads/2020/11/17131742/editorial-cal-Rectangle1.jpg"
-        width: 300
-        height: 250
-        isCached: true
 
 secured: "x6aK3Vx5fr7L+anUchUjqVsqV/7pJzEMIFvnwirggGbOyKyXX/xpP6PDL1S0bAF++AvjZ/s0yRxjwhTFeYPZTG9aUH7vOR/IbqGkpjzq1a8ZkMIcP7FiCXR+6H2qjPJVx/HOz1OLQhJnAfsDqmvlTfW1Sa6yj2dCc0P9Bfn5UcF8uTAoerBelDBpm+H5aBYwp+WpZ9L9BdFWa+A7WGrB1j3X5hfbRg3FYx3xiW8CvEsjMpHJCv6VOR10+kWR+bFsG++pgmiGK5wWz3jFCPE9v4IKcV1MRbYok0oPsrEf8RVndiSHNH1PlrY2gjevaSVJ5VUWWeYpbusdmwmo9xWUA/6oIOm8tBJFgICGpzdkHJhPo8Lb2uCU5OpIZqaVPFD1w4ofp9+4H7ubdcBxwYc/6+231OY6hbsX/EK1GgcraOvCh8cDfa8vTVs3p/2qnFUDkZlxiPxJvBzOS09OVwrrgbY7Iz7dldEexS0Bch7dgPKtyGAnwzDphOXxL8LJEtEm2PPFvdJfO8bP76OzJqTiYA==;HigYS2HgDUR3CQmr7TOEjw=="
 ---
