@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Deep-learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
+title: "Deep learning, facial recognition, and bears: Researchers take a high-tech approach to wildlife monitoring"
 excerpt: "The BearID Project is using deep learning to help automate time-intensive research processes amid climate change and shifting wildlife behaviors."
-publishedDateTime: 2020-11-24T19:59:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+publishedDateTime: 2020-11-24T18:52:00Z
+originalUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+webUrl: "https://www.techrepublic.com/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/deep-learning-facial-recognition-and-bears-researchers-take-a-high-tech-approach-to-wildlife-monitoring/"
 type: article
 
 provider:
@@ -28,6 +28,6 @@ images:
     height: 900
     isCached: true
 
-secured: "dDw+1yehIgLsq0yKLp8dydPEPnIIwQi2BKHQlVgvSwdTv8c11zEGZ3xZyLB6vjQ7kSG2FfNdzSylGXR2DOzauR5on4zhClav+do0dTyFUMaW+Of1GSwT5XvnCeHg/Omosv4vNOC1wT3Wuba+2JhrBA8vbEENiZOzzAtlp+7LPjzy0ZX+Jvo1+HCo0II6LqZl7WhLodcYCCkYOB84K76eXFsu81T/48qoFDJ1Hf/DmCdZR9GuvqYExWQ3lgr9bvgl3522L+zFEAhMnQV5KvFhR56KMWDLt5sNve1iVOseN4eJ8jvJCVAUTb3H3XkhEDfELcUEanYfMATMAzI+1WX0iKzg0hIH2yPlpPro2X7lep0=;CMlddgDXGXNvLbEUtjjKDg=="
+secured: "iPBziJVnQ/q4aJ+q5gPF9afrjCXTi6Ww6yz5OIzZcVoJDUBtJNJV6KXbwlC9pC/Zj0zRI8EcXQFV0+Z5YplkwDEiYagvB/Na5qzOyaN/hpjx/WXjO/Unz/9Le+SF/klfwfLSxGQ+tO9uIhMz+yma4HFWa0Ux4B8QLgdZgygODs3JDQJlu5jG5mrSEFRQ0kNatnxNTz5lk3jwJAzWGLG9k25LFQgChoxilxIKMM+02YYbmK0bSusC66VQ2W01RNrpaec2lnHw+i04Udylre+cHFoa8QcugpZEPZimqSadrlSDv/6RyUsDIFZMFxKrcg8S+Q+8D0wTWbrYmOyQcE8yZ2vXxmxi4cQ1L8XEOgtKlFk=;xQJXHAMt8NE41O0h5w/Hlg=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-25T20:33:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=381643"
 webUrl: "https://us.acrofan.com/detail.php?number=381643"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025"
@@ -80,6 +74,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cloud Natural Language Processing (NLP) Market Trade Analysis, Current Trends, Competitive Landscape and Forecasts till 2027"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level."
+    publishedDateTime: 2020-11-29T18:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -176,6 +184,6 @@ related:
         height: 450
         isCached: true
 
-secured: "C4ntuxXZOnR7Wq4iafbg+UVwgaQrEod9UFxkVe2yi4ltomyXxe/d4DI64zfd7y1HPWfJ5kCz4v6gqH2QrjnI4mzfbP6KfrFC31RViYwz3exz2jb9VgQSVPQZkZyNKnYpNqRcsBtIHLIeVc0miCm0ZsvhiWGt9AVsj8EA9i7lV3HE5G99Vlwdv+pEZM5kshqQl5IkeL4v1cHbbrpPlFEn8uquNZp7F1kJmZ71zS9236IhpkK23n6jXiXTdVbaePOyrGvGvN4bh8lB2z8wCTZVckex77QysVirXWbbAXbeYeLdNPzJInU1KHjpIRWHALpwKbWQBt3iO1M5tPMd4/ixHnTDqhNj+8g3d1C9itqhh9M=;1Nkr4kaBK8Oo1Keed16yEw=="
+secured: "z9U85LMdvo+3rOZ4cNuJ2tlKue9Deq5OdwG0pDmqRvFIYHptF/J0XhehCg3vdPx5CdAYB5bDmSL71YO9RN4Z41KoG4fMihp8b+dYUCOpt5c1I/tzAiUm6iq7NntcjETJqBpncbHE1Zw+qTNSRiU82tgVW+JWjhU9JedE67DaV61VuOwE1dBxzSoFDsLsZsvgKQTK1yuELJUk8e2taFRnR9i2qS/8nJhKcM5T0J0+r+gq2jNF+zldyll/8+sGwQI42Lb/La1ckfvP+hFPPP6XQ3B+dMwm5fzJ0skq5Cs6OtxNWRaUmH6mn+JhfMApjXIqHf37nhheMuFdtIh5WvGafkPzjvwgOc7iYXM3lTeSfQg=;Zlm88ET3S36UBDDmZY+eZw=="
 ---
 

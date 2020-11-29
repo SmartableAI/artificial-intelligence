@@ -26,20 +26,17 @@ images:
     isCached: true
 
 related:
-  - title: "Your guide to artificial intelligence and machine learning at re:Invent 2020"
-    excerpt: "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world’s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners."
-    publishedDateTime: 2020-11-25T02:32:23Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/"
+  - title: "AI vs. Machine Learning and What They Mean for Government"
+    excerpt: "Federal agencies can use artificial intelligence and machine learning tools in a variety of arenas — but first, you should know the difference."
+    publishedDateTime: 2020-11-25T16:00:00Z
+    webUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government"
+    ampWebUrl: "https://fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
+    cdnAmpWebUrl: "https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2020/11/ai-vs-machine-learning-and-what-they-mean-government?amp"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 103
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png"
-        width: 768
-        height: 385
-        isCached: true
+      name: fedtechmagazine.com
+      domain: fedtechmagazine.com
+    quality: 56
 
 secured: "2iwJS4aBAkZX24xoCsnkeJOIln9lpdxBkuU9BC5tUhctDz2WGnJiVg6wjOsykPVwX0lZP1aArlptHteWOSj3tEHzS7Fas5+vUG8eQlkbgRvLLa14Dd+ujhlM+h7v0ZGKXMHvd41W4XPmaO5uhBCK6I9ZGEunAiqBffJmM+WBXHQrj/AuFa2vqKNwKn0ni5t/Us2NCJ5lqbtDwDIgo8gf2v9E7I6cUoFxQmwOmYq/UY72cH0O/tt6mC87dlzVbi/OxpNHL0vXXEB43TZYBw6zc2s3d6N0Lq6Hzx295XCZfhu8PJDEoO6/E5UXy9jpkqeqOmSRQomcX0Ig1OFdbt6CCb3jufiKL7+mniaxzkj0x0D8lABafVz/vnYr9g26y+Sx5WRk+YPpj+eut+zgdThn+s7c6qamEqQslMXrZw+sT2gMEh8p+OK7HJ4Cp/ay8qx22ReDGxLZ57XZNKsEitqcVxAZP/ch5uT3sAlviELw1NxO0z1Qm51HJVea8YilitI6jF2WTetjfJK4cu5A1tOHOQ==;n8B18p+ArSo31SfqGnG3MA=="
 ---

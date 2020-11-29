@@ -80,17 +80,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
-    excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
-    publishedDateTime: 2020-11-25T02:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18524403/robo-taxi-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18524403"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18524403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "Uw9kZ39o4+5jkOMOK/eQpRDN/smLLIhLGjczKobnKpnpeDelb41ebRsKFBKs7nm8rorLYsEiGofdCRNWeQNwpxgTAlPZWVefC+udgKxfqEezg+p97EUkmrKk5kmB83vWYBk/wlzd8VJNO7jOVHFsrztBWBrIpZ9jn+aYU6V3s5kMxoRsoO2sRZXXV8Zszdsez+Vmzn//oRtUIQd61g0+k0pRjKw6rM11YjHKc9mEXCMhR0DIQ/zEyaxQPSlN5fH5o8y3naIhbEu1mI34kyocW3OfseLrJLiJN2oB5eU5/xIKgLHvLUFeO1SpC9AZQtq8G8MbA3by/VCKMPq5Q4x5Qd+GAsgqpTT2JZjXuJyvpyo=;9saE6FLDPJLGxy216rRWNw=="
 ---

@@ -53,7 +53,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 134,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -281,34 +281,34 @@
     {
       "path": "_news/2020-11-24-preludedx-announces-partnership-with-americas-choice-provider-network.md",
       "title": "PreludeDx™ Announces Partnership with America's Choice Provider Network",
-      "excerpt": "PRNewswire/ -- Prelude Corporation (PreludeDx™), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today",
+      "excerpt": "PRNewswire/ -- Prelude Corporation (PreludeDx ™ ), a leader in molecular diagnostics and precision medicine for early stage breast cancer, announced today that it has signed an agreement to become a provider in the America's Choice Provider Network (ACPN).",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/preludedx-announces-partnership-with-americas-choice-provider-network-301179195.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/613101/PreludeDXLogoPMS_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/preludedx-announces-partnership-with-america-s-choice-provider-network-1029833455",
       "publishedDateTime": "2020-11-24T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

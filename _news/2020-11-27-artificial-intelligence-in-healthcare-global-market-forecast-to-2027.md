@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944"
 type: article
 quality: 84
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -84,17 +84,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Robo-Taxi Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025"
-    excerpt: "In a pioneering leap into the future, Robo-taxi is basically a self-driving or a driverless car which was launched ... Aptiv, Nvidia, Valeo, Baidu, Uber, Lyft, eaymile are among others. These players are working endlessly to offer consumer a better and ..."
-    publishedDateTime: 2020-11-25T02:32:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/ab18524403/robo-taxi-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18524403"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18524403"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 1
 
 secured: "mkccGPaBJI+ohK2HEjutnz3jgLw9WwduqhxzGur0mp0BsSEftrpCCWdXb3k5gOhQuVmQmwqBZ0BfcZL1QUKky64ltI6rgxKK7dWNpjmncEKTkKbHEarNuY5fRariUeISyO0Lpmudcq788+UEQNJ08v6RqCKfRLRnjvHKbMpL9K22r5QA/UaDwlVEIER2n/235h0jJMW8tFHJhhAItrIwBi0shEQ3y4FnOK2g6F3B2r9D0boVhPnEdpI6s0cyGYxabRwmAnYl6oTQaCTc/jG8+b+jz5LceHFiK+ho0ZxqtnkVxEPHSNXPJVtmx6YilGRl/pqu9HYYhUwlA6mVaiALPCnmZivAKwJLFSEJ3FU/WPY=;5v2FeAO62vnY81R322JXyw=="
 ---

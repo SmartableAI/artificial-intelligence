@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/2021-will-see-the-sp
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Will Artificial Intelligence Replace The Mathematician?"
-    excerpt: "In the 1970s, mathematician Paul Cohen predicted that at some unspecified future time, mathematicians would be replaced by computers. Its a theory that has unsettled many in the field of mathematics."
-    publishedDateTime: 2020-11-25T01:34:00Z
-    webUrl: "https://www.econotimes.com/Will-Artificial-Intelligence-Replace-The-Mathematician-1597084"
-    type: article
-    provider:
-      name: EconoTimes
-      domain: econotimes.com
-    quality: 39
-    images:
-      - url: "https://www.econotimes.com/assets/images/econotimes/metaDefault2.png"
-        width: 400
-        height: 330
-        isCached: true
 
 secured: "xNRiRea+lGBd/fK37CAz6lgfS0poOz4tvRQxqpa49PCGbL8NQzSJ4cIfTvOkeXo1hnTHaAmj+iFgusExjIDafyBYc4U/qFw21cx0sXz9byVX7ryDWQVdvP54H+5MGRpcvko2wLFb675BdWZKfrDuxR68RvDfaO4oOtvLAerytGHbhjNmWvH6aMidpwBIM2w+wx/QXCeXgvvVfgV4G+YDUBiN2URdMBa644/lLAVqY4+wUDT45s8zJApjlQ6NGycBaH4JMBub+aeKzBZ14nxJ+G+3a8na7YK1jjbl3yAMLN+LVTHftNuJg3HzciZEiTen8h/F245cKmOF7twNSYcIPPAKqjJlNmTOTsFOeGG/AK7qiUmjU8paz6vRcfTK80e8d8JCnUgQJNSS8hGc4H1F6jvDSuIKLdPcauJfRxTEbOuNnduJBNgAbopr3BKNTM1wa+6/FhKQ1c07f04SzrgWdFaKGidCcNNb0PCue2b/ioz6MseBAxwNVunenD1RPUHOYSKPRGsu0zOqh/dNBeUK5g==;CD1ofZj2nDMyYFmvSoNvnQ=="
 ---

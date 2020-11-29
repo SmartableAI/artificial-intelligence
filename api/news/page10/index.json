@@ -1194,36 +1194,36 @@
       ]
     },
     {
-      "path": "_news/2020-11-18-new-electronic-chip-delivers-smarter-light-powered-ai.md",
-      "title": "New electronic chip delivers smarter, light-powered AI",
-      "excerpt": "New tech combines the core software needed to drive AI with image-capturing hardware - in one electronic chip. The light-driven prototype device imitates the way the human brain processes visual information.",
+      "path": "_news/2020-11-18-4paradigm-named-as-leader-in-the-forrester-wave-paml-report.md",
+      "title": "4Paradigm named as leader in the Forrester Wave PAML report",
+      "excerpt": "Simplification of these capabilities differentiates 4Paradigm's automatic machine learning (AutoML) to accelerate enterprise transformation in key verticals such as finance and retail. 4Paradigm ...",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201118080758.htm",
+      "webUrl": "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report",
+      "originalUrl": "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/pr-newswire_500_4_997.jpg?itok=ip51wB8I",
+          "width": 763,
+          "height": 509,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T07:15:00-08:00",
+      "ampWebUrl": "https://www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp",
+      "cdnAmpWebUrl": "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/business/4paradigm-named-leader-forrester-wave-paml-report?amp",
+      "publishedDateTime": "2020-11-18T07:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1232,7 +1232,7 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Machine Learning",
         "AI"
       ]
     }

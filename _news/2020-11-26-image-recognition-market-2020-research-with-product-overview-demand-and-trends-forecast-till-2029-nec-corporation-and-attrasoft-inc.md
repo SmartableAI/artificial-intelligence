@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cloud Natural Language Processing (NLP) Market Trade Analysis, Current Trends, Competitive Landscape and Forecasts till 2027"
+    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level."
+    publishedDateTime: 2020-11-29T18:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine learning Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
     excerpt: "Market Synopsis The Machine learning Market is estimated to record a significant growth throughout the forecast period."
     publishedDateTime: 2020-11-25T15:17:00Z
@@ -169,12 +183,7 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 29
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
+    quality: 9
 
 secured: "6Ny306EabOfm6Y5A5wa4G1e/oqiw2/La/DqraOOIZcSny+prQ4G4mBIbLD7fzFP+cPz6uy0wIKCbKuBVL2Bzt9fsZRcegkih6mPB3g0CDrh5/EmflYH19oMcgw7CniSLTIgn+q4Tt10TvpB4lIUvonNRWK5nNwJc3ZQ9JH7vBrY3gMvp2bIQhS1hokhu6Jox0O+lYGaun7cwJQcKGuqCM4cjzM1AO6x2Ze2OIMGZ0H6Q7Z3ah3QkoFB3UK94MRLFE5EaKGWChMcT99ENqEbG0CfUfFmmsqMtwfXUL6I27wlJSt2O1ybHPulfZu58NGYHkcN7c6Q7hJ18So7VsFtY7h0kP6dqlQuWjVMXq2JK/aI=;kPmXdnrCJaWmAnpnkI/+Zg=="
 ---
