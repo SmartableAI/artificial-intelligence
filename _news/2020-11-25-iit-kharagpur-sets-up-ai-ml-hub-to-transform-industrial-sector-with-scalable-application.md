@@ -20,20 +20,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "IIT Kharagpur sets up AI & ML Hub under NM-ICPS for India's transition to smart industry"
-    excerpt: "IIT Kharagpur is all set to transform the nation’s industrial sector with scalable application of Artificial Intelligence (AI) and Machine Learning (ML) in Cyber-Physical Systems (CPS) under the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)."
-    publishedDateTime: 2020-11-24T13:19:00Z
-    webUrl: "https://uniindia.com/~/iit-kharagpur-sets-up-ai-ml-hub-under-nm-icps-for-india-s-transition-to-smart-industry/States/news/2243705.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 47
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/LargePhoto//2020/11/2020_11$LargePhoto24_Nov_2020_24112020194323.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "AI & ML Hub set up by IIT Kharagpur under National Mission on Interdisciplinary Cyber-Physical Systems"
     excerpt: "IIT Kharagpur, India’s premier institute of learning, recently announced that it is all set to transform the nation’s industrial sector with scalable application of Artificial Intelligence (AI) and Machine Learning (ML) in Cyber-Physical Systems (CPS) under the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)."
     publishedDateTime: 2020-11-26T09:23:00Z

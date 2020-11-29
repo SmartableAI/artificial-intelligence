@@ -7,7 +7,7 @@ originalUrl: "https://www.indiablooms.com/finance-details/12975/ai-ml-hub-set-up
 webUrl: "https://www.indiablooms.com/finance-details/12975/ai-ml-hub-set-up-by-iit-kharagpur-under-national-mission-on-interdisciplinary-cyber-physical-systems.html"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Kharagpur sets up AI & ML Hub under NM-ICPS for India's transition to smart industry"
-    excerpt: "IIT Kharagpur is all set to transform the nation’s industrial sector with scalable application of Artificial Intelligence (AI) and Machine Learning (ML) in Cyber-Physical Systems (CPS) under the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)."
-    publishedDateTime: 2020-11-24T13:19:00Z
-    webUrl: "https://uniindia.com/~/iit-kharagpur-sets-up-ai-ml-hub-under-nm-icps-for-india-s-transition-to-smart-industry/States/news/2243705.html"
-    type: article
-    provider:
-      name: United News of India
-      domain: uniindia.com
-    quality: 47
-    images:
-      - url: "http://www.uniindia.com/cms/gall_content/LargePhoto//2020/11/2020_11$LargePhoto24_Nov_2020_24112020194323.jpg"
-        width: 300
-        height: 225
-        isCached: true
   - title: "IIT Kharagpur Innovation Hub On AI, ML To Translate Research To Industrially Scalable Products"
     excerpt: "IIT Kharagpur has set up a technology innovation hub on artificial intelligence (AI) and machine learning (ML) to translate academic research to industrially scalable products and processes, a spokesperson said."
     publishedDateTime: 2020-11-25T10:40:00Z

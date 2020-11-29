@@ -24,22 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Secure AI Labs Appoints Omar Hussain, Former CEO of Imprivata, to the Board of Directors"
-    excerpt: "Secure AI Labs (SAIL), the healthcare data security company offering a secure, easy-to-manage, and auditable solution to track and trace the use of pa"
-    publishedDateTime: 2020-11-24T13:24:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201124005258/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 28
-    images:
-      - url: "https://mms.businesswire.com/media/20201124005258/en/841400/23/Omar_Hussain_FINAL-02.jpg"
-        width: 1200
-        height: 627
-        isCached: true
-
 secured: "y6fKKuzm91n1h1oiqxwmibDZC5R6XS+ka+sY6Fwwc194TfwIdCYwxfji5kmZsKIHlMz25NddyoTWfS0/YcwobLnJnp7VUI9+pI7w4tcfqhh8AjF5snswTo9n5oLFqmQpPqpzvx2x79HsMqxLDbTLO0xnMgVCJk23MyvvBp8TLN9dlLzX5RHYhkYRIjR0nvSkjcGINyj317SY/7D+Tl/YYlqT4ErOPW7fiolFr8LMdyL85TPPobUSUTn8IFrRD+MHl0z2rYNHeCt5ybS5N0FDOFmIsavNksJohZupRtCcM5PjMLeATfBJxKCdhw2cKlZr3Vl4SRFkZrJ++2kEQYTjw9eCEyBX/mD5Cd28aTvWm6G0itbuHvyhRAqNRnesb5C4pAnK3UkWFhgw6IHtQ9uKsoCcAnd+ugJoGsH9rSsVIKi8BzcHRrRyLFMB01el5/+9uxIGdruLRFhthlnT1UsvTyaLI5/jZCl5GBbTxktch9IHjmW1KLirNxKgwBCKZMlnW+p1zTCWSFv2FFIWjdQLAA==;5KOIdvlxf/7iBKJlhlz1vA=="
 ---
 

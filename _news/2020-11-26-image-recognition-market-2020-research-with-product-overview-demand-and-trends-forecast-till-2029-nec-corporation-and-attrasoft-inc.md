@@ -175,20 +175,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Analytics market 2020 Growth by Key Players, Industry Overview, Regions, Type and Application, Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-11-24T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020-growth-by-key-players-industry-overview-regions-type-and-application-analysis-to-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forec"
     excerpt: "ArtificialIntelligenceAIChipsMarket--The artificial intelligence (AI) chips market is expected to grow by USD 54.03 bn, progressing at a CAGR of over 42% during the forecast period.Click & Get Free Sample Report in MinutesThe increasing adoption of AI chips in data centers is one of the major factors propelling market growth."
     publishedDateTime: 2020-11-25T20:33:00Z
@@ -197,12 +183,7 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 29
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
+    quality: 9
 
 secured: "6Ny306EabOfm6Y5A5wa4G1e/oqiw2/La/DqraOOIZcSny+prQ4G4mBIbLD7fzFP+cPz6uy0wIKCbKuBVL2Bzt9fsZRcegkih6mPB3g0CDrh5/EmflYH19oMcgw7CniSLTIgn+q4Tt10TvpB4lIUvonNRWK5nNwJc3ZQ9JH7vBrY3gMvp2bIQhS1hokhu6Jox0O+lYGaun7cwJQcKGuqCM4cjzM1AO6x2Ze2OIMGZ0H6Q7Z3ah3QkoFB3UK94MRLFE5EaKGWChMcT99ENqEbG0CfUfFmmsqMtwfXUL6I27wlJSt2O1ybHPulfZu58NGYHkcN7c6Q7hJ18So7VsFtY7h0kP6dqlQuWjVMXq2JK/aI=;kPmXdnrCJaWmAnpnkI/+Zg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/g
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-automation-promises-to-have-a-big-and-not-always-positive-impact/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "How Hasty uses automation and rapid feedback to train AI models and improve annotation"
-    excerpt: "Computer vision is playing an increasingly pivotal part across industry, from tracking progress on construction sites to deploying smart barcode scanning in warehouses. But training the underlying AI model to accurately identify images can be a slow,"
-    publishedDateTime: 2020-11-24T14:22:00Z
-    webUrl: "https://venturebeat.com/2020/11/24/how-hasty-uses-automation-and-rapid-feedback-to-train-ai-models-and-improve-annotation/"
-    ampWebUrl: "https://venturebeat.com/2020/11/24/how-hasty-uses-automation-and-rapid-feedback-to-train-ai-models-and-improve-annotation/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/how-hasty-uses-automation-and-rapid-feedback-to-train-ai-models-and-improve-annotation/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 79
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/11/Hasty-founders.jpg?w=1200&strip=all"
-        width: 1200
-        height: 626
-        isCached: true
 
 secured: "+HKE6Sm7avlmMzDvtF9kcUs4JE4Ga//zCgm5YkulSzUKZYsVNOL7nakdEfo3azAKtIbbMm+/WijV9ASNSObnkL4MwgQEDiMTtli+7GDoG2Z+Oa2s/4j2uulUCdgBrMvKb6uWqvEig/q/QBMBGJtPMbMvLb0qI8qhuJCLGUPaueps+q9jImYBeK31aPtvQ7lOsDE9saH8MZqoRxr9duClGuuasl+V6+YlTTeLo/KCcflNZ+R9eq/tlTLshmM327Sjo0pY0TrzBm+RlA+cQNpQ6EAp5W2eFsSNG94vj/Ksy5OBRFmSaUWDS30m+UKluqEalhaQ7JAJNNnOHZKs2MCKmVzBa1+wYcU2Dzlz88ztqWGY0a+j3ukKaD/suLpEr/x+gDkDRsgEDEaITLSkC/bgCSI2i5vL+0e3/ZXtZkQCH3Gy1y4iH81ZbOG4Amu5LtTOdtgcTmVV92rP1Lp81Ex/zcGaK7TBwiyH5AMKTd97vwEBni0mNK2+N3nBwHDgUC3zt8wJ0mH2R4l0fLOMTtQtZA==;nrWldz93vWZPT7rS0siI9g=="
 ---

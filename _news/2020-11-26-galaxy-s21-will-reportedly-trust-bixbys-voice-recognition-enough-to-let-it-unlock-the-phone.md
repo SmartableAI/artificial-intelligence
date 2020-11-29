@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 560
         isCached: true
+  - title: "Samsung to Add Voice Recognition to Galaxy S21’s Bixby: Report"
+    excerpt: "The Galaxy S21 will let users unlock their smartphones using their voice and the Bixby personal assistant, according to a new report"
+    publishedDateTime: 2020-11-27T20:57:00Z
+    webUrl: "https://mobileidworld.com/samsung-add-voice-recognition-galaxy-s21s-bixby-report-112702/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 24
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/47280552_thumbnail-1-e1455306435620.jpg"
+        width: 800
+        height: 560
+        isCached: true
 
 secured: "C67U3LqELrGZcVe40rZC1tl7RaWvM+Q+KCgRmnUaH1Uiv0y3S0o+z+f72sBUTpcfG2p8W1RMLap6ix5DV7+047hBKLl7yoPiMtEYZgCJ0DovF9/V9mrHCgYzUUl4m9eJo37D/aRcL9JpYNvex50cLDt+Tq/Ew2/n5VpoIUgbRIawI3UvFM01HYe92A6AdPMQUL4ni2z57mA2NktM96Rd0cYDB1JAWLAHgPnwHbbPT01e9HkZeaMnjt95aVwayQ9IEzt5EaXkrv5OgU17+WadzUOsS71kqBe3+5mY2ITkg+hIHSDJKcPE6zXZxeNn2uBMdduPa1cssK59fygQ1nkfOA7B9SNkBD1M9MSp5VcbYFaJ296ZV9QkW+xYIOU77UPlw1NaJ3lMeu1lsIACwDjjUFJkMvqmDLUGHehNZvRj1IYXw2etmr4XJC9+cNq0N1fa6JDNVl8qSGTY2KwEr0co5pHFWnM2ecgG8z+DOzren1a0Ifuhnf7S3kipilKR3pVW/QcgfAVuI+cj7IZiyui/HA==;LFsgGr2JtLbhFciKfyAnng=="
 ---

@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-25T20:33:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=381643"
 webUrl: "https://us.acrofan.com/detail.php?number=381643"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025"
@@ -175,20 +169,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Analytics market 2020 Growth by Key Players, Industry Overview, Regions, Type and Application, Analysis to 2026"
-    excerpt: "The Cognitive Analytics market is anticipated to reach over USD 48 billion by 2026 according to a new research published"
-    publishedDateTime: 2020-11-24T13:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-2020-growth-by-key-players-industry-overview-regions-type-and-application-analysis-to-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
     publishedDateTime: 2020-11-26T09:43:00Z
@@ -204,6 +184,6 @@ related:
         height: 450
         isCached: true
 
-secured: "V8uuaUZU7nOCBZWkwnfAGoX9bOPos/Ir+AYa0gM04v+HoH1dRw5vAP/V7oaDCWyJUuDCsOU7XLs0K8rsRB569L7gsTFXoBl52zeKKc33ukGOvxo4FgFKenEn6mXH6/nFZz8DAqPAJipgiJJQJn26VkfCDeIpSzN8KXu3/L3/KDYZdDBqiKU8iIcCS5g0agRZs6gUbp63P433LY0KOmvxoXnscLy87n9TKaLOe4wEG9HQYmFPdoVUOSy3M8wNF2q0Kknz2slYgIDzyOA+M4C9GSAOBh9AqiiZhs2eOqvG/3gXJe1h6Cc7L1cy511mYuNJ82i782t/bWHf4IHFobFsN3pSusp4Jr/7zX8IGqoYbg4=;h1ZDDie0nrwyJ46C930ZtA=="
+secured: "TL+BLeGAOwhC6bb/vrAZmFt+lLlNgEf/XZv9wAsFliU0OWr2R/r49pIWvBws6j+F1wMd6AfR8l2o0+YXs+ObIGeweb+uH9KxOmr7o8yAnsKLC8Dzcu9pSGX5lQ9oXeFr8q+LkA9MTNJcVd5OBzWFDjqBVgqC/Sj5UtxFzShUzFcdiOfZjSGz9NQgsEVy7qYsMnINIxxzHvYo8lEEGM3i+9NWUboomWAKZgZSt98eaMV2yaiiFDW55L4n1qxEOxEth0MbZKibQU8NUUD3KN7kYTke+T6TDmW9ju46M6meDlSLunKHbKfvS2fc3GS+kxujAPuR9kSr1brYmxLxA1rD3+6sFUqeArr1BNnBRiNGT1w=;5fdA+d1NahwFcklTeKbiQg=="
 ---
 

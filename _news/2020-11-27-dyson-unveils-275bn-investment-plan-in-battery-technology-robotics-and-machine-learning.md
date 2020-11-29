@@ -3,8 +3,8 @@ category: news
 title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
 excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
 publishedDateTime: 2020-11-27T09:08:00Z
-originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
-webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/"
+originalUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
+webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
 ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
 cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
 type: article
@@ -116,6 +116,6 @@ related:
       domain: seekingalpha.com
     quality: 49
 
-secured: "3wizMIsECC15AYjibrer13j4X4D6xx7zmhFUN36NhAnNBKX0iBwtMEHt9ROv+xjVzrAhiviZwO6NcYeIHLdIfq+dP8aQJWLx/lkWHfNYA5SVGmKwt1fHpOii4HNKlus0ek+Unvdw9WP+JQClDwN9sM3sXcIJpa9v0POZEDh/mI5KHbEGee9gjdH95+CHzZe33b7dlciNPSM1h9UVFzjMKCL3hJ2LURE5gSchJ9JeqvnQlJMuPTg6796TKJgLGqM/yGoK4cJOkRnAy7WtreW8MKT3NgQGMQwPtLuLkD4ys70ooM98895+4zks81S1+/DKN4rt32FtkE1LSquCKjj/GP9+Oxu6z4XVDmqQ1ABbAu4FPwDhez7QEebKp6E/Y4dWkJeedhXpvNbQjeJv49Qtx0468M5wEAvA+tYu32+CBjJ4yQazj5rPFTTOzWtIGX6iir+t0lkz3Ve7GfZrnTTjMDf3YtPOYdsfXfa3q59Px7vIqH1CUyxQFBaYHROMWAAk258mXSj4czNszKABnmPdnA==;f+UI9EAzZfthb6oyUMVA1w=="
+secured: "e7DR317oqoMT+RbMHLkNpLz+v8Gxd4PaOGkWqg7claWXaoZ6WptD0XBFLHDtMYTJg6OhZMeTr3daiscRaZQbfqa3dEtLW8xQ6q9cZmpkoOB6i6RPrbBaDpZ6j7uDXxBEPl0XGvyJj9IJ6G3TSMtadfZXlsIkT8r4VEpF5p3N7IJpKMwq0jTY3Z/liO5Ta+tg/3XAQmxcS66CuVRMwutcmxMDTc4RnaNLqS907LEVAsE6AgCIG4KBaZw/kmjvoN1vmcc1dZo/r22FcS2ZcS0jcHJbpZckENVN9R9zaqECqmQMjKusxP4Hj7GExlquDBUHvaY7slJ67u8osiDFTuMShiutKphNVwP0cwFizFf7Z7I=;OAhe3UWhjbcWiQqnseuhGQ=="
 ---
 

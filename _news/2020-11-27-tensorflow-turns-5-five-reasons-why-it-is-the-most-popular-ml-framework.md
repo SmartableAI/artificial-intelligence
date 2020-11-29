@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/"
 type: article
 quality: 124
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -34,20 +34,6 @@ images:
     isCached: true
 
 related:
-  - title: "Apple's ML Compute Framework Accelerates TensorFlow Training"
-    excerpt: "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,"
-    publishedDateTime: 2020-11-24T14:28:00Z
-    webUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 88
-    images:
-      - url: "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Can TensorFlow’s New Face Landmarks Model Improve Iris Tracking In Mobile Devices?"
     excerpt: "Open-source machine learning platform Tensorflow has announced that it would be adding iris tracking to its face mesh package."
     publishedDateTime: 2020-11-25T10:32:00Z
