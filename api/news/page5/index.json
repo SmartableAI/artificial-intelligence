@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-24-preparing-for-the-artificial-intelligence-revolution-opinion.md",
+      "title": "Preparing for the artificial intelligence revolution | Opinion",
+      "excerpt": "But manufacturing engineers and computer scientists are developing an artificial intelligence-fueled revolution in personalized smart manufacturing. Over the next decade, it will propel U.S. manufacturers to new heights of efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
+      "originalUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
+      "publishedDateTime": "2020-11-23T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
+      "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
+      "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/359653",
+      "originalUrl": "https://www.entrepreneur.com/article/359653",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359653",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653",
+      "publishedDateTime": "2020-11-23T07:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
       "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
       "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of",
@@ -1115,102 +1210,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-an-introduction-to-tensorflow-lite-development-on-android.md",
-      "title": "An introduction to TensorFlow Lite development on Android",
-      "excerpt": "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "originalUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg",
-          "width": 920,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
-      "publishedDateTime": "2020-11-21T23:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Android Authority",
-        "domain": "androidauthority.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-mumbai-bmc-introduces-face-recognition-in-hospital-to-prevent-covid-19-spread.md",
-      "title": "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread",
-      "excerpt": "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "originalUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg",
-          "width": 670,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
-      "publishedDateTime": "2020-11-21T17:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

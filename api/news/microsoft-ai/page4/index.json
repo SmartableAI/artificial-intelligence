@@ -2,6 +2,102 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-20-microsoft-details-t-urlv2-model-that-can-translate-between-94-languages.md",
+      "title": "Microsoft details T-URLv2 model that can translate between 94 languages",
+      "excerpt": "The same week Facebook open-sourced M2M-100, an AI model that can translate between over 100 languages, Microsoft detailed an algorithm of its own — Turing Universal Language Representation (T ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
+      "originalUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/12/microsoft-azure-new-logo-2017-e1572843284943.png?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/20/microsoft-details-t-urlv2-model-that-can-translate-between-94-languages/amp/",
+      "publishedDateTime": "2020-10-20T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-20-microsoft-announces-azure-space-along-with-new-partnership-with-spacex.md",
+      "title": "Microsoft announces Azure Space along with new partnership with SpaceX",
+      "excerpt": "Microsoft today announced that it’s making its Azure cloud-computing services to the space industry. As a part of this announcement, the company also revealed a new partnership with SpaceX to",
+      "sourceUrl": null,
+      "webUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
+      "originalUrl": "https://www.onmsft.com/news/microsoft-announces-azure-space-along-with-new-partnership-with-spacex",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.onmsft.com/wp-content/uploads/2020/10/Microsoft-Azure-Space.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "On MSFT",
+        "domain": "onmsft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-microsoft-partners-with-spacexs-starlink-satellite-service-for-azure-space-cloud-platform.md",
       "title": "Microsoft partners with SpaceX’s Starlink satellite service for Azure Space cloud platform",
       "excerpt": "Microsoft says it’s taking the next giant leap in cloud computing, in partnership with SpaceX and its Starlink broadband satellite constellation.",

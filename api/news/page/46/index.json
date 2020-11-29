@@ -2,6 +2,101 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-10-23-tesla-full-self-driving-vehicles-cant-drive-themselves.md",
+      "title": "Tesla 'Full Self-Driving' Vehicles Can't Drive Themselves",
+      "excerpt": "DETROIT (AP) — Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/business/articles/2020-10-22/tesla-full-self-driving-vehicles-cant-drive-themselves",
+      "originalUrl": "https://www.usnews.com/news/business/articles/2020-10-22/tesla-full-self-driving-vehicles-cant-drive-themselves",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/business/articles/2020-10-22/tesla-full-self-driving-vehicles-cant-drive-themselves?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/business/articles/2020-10-22/tesla-full-self-driving-vehicles-cant-drive-themselves?context=amp",
+      "publishedDateTime": "2020-10-22T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-how-ibm-makes-ai-based-on-trust-fairness-and-explainability.md",
+      "title": "How IBM makes AI based on trust, fairness, and explainability",
+      "excerpt": "It’s all about trust Two things are true about trust: it’s at the core of all successful human relationships, and it’s not an easy thing to attain. Trust contains multitudes of nuance, and when achieved, it can lead to transformational events. The same could be said of artificial intelligence. We have",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-ibm-makes-ai-based-on-trust-fairness-and-explainability/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/AI_trust_leadspace-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T13:58:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-self-driving-cars-everything-you-need-to-know-about-the-futures-most-hyped-tech.md",
       "title": "Self-Driving Cars: Everything You Need To Know About the Future’s Most-Hyped Tech",
       "excerpt": "But the promise of self-driving cars has yet to be realized, though that’s not for the lack of promise or trying. Self-driving, also known as autonomous, cars have been in the zeitgeist since the late 1950s.",
@@ -1038,102 +1133,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-st-lukes-university-health-network-selects-ge-healthcare-for-11-million-ultrasound-purchase-to-create-system-wide-efficiencies.md",
-      "title": "St. Luke’s University Health Network Selects GE Healthcare for $11 Million Ultrasound Purchase to Create System-wide Efficiencies",
-      "excerpt": "Two of IBM Watson Health’s 100 Top Hospitals are St. Luke’s hospitals. St. Luke’s University Hospital has earned the 100 Top Major Teaching Hospital designation from IBM Watson Health eight ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
-      "originalUrl": "https://www.businesswire.com/news/home/20201022005112/en/St.-Luke’s-University-Health-Network-Selects-GE-Healthcare-for-11-Million-Ultrasound-Purchase-to-Create-System-wide-Efficiencies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201022005112/en/51143/23/GE_Imagination_at_Work_Logo.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-left-and-the-right-speak-different-languagesliterally.md",
-      "title": "The Left and the Right Speak Different Languages—Literally",
-      "excerpt": "Researchers at Carnegie Mellon University collected more than 86.6 million comments from more than 6.5 million users on 200,000 YouTube videos, then analyzed them using an AI technique normally employed to translate between two languages. The researchers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "originalUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f8f6e8cb9910f1848191347/master/pass/business_discourse_1281134658.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/left-right-speak-different-languages-literally/amp",
-      "publishedDateTime": "2020-10-22T04:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

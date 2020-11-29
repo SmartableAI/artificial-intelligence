@@ -2,6 +2,99 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-24-ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs.md",
+      "title": "AI that directs drones to film ‘exciting’ shots could lower video production costs",
+      "excerpt": "Researchers at Facebook, Carnegie Mellon, and the University of Sao Paulo propose an AI framework for drone videography.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "originalUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/24f6fcb9-2778-4c44-a265-cff1d99931e7-e1606169815359.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "publishedDateTime": "2020-11-24T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data.md",
+      "title": "GSTS Awarded Contribution for Artificial Intelligence Fusion of Satellite Data",
+      "excerpt": "GSTS to augment real-time AI-based data fusion capabilitiesHALIFAX, NS, Nov. 24, 2020 /CNW/ - Global Spatial Technology Solutions ('GSTS' or 'the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "publishedDateTime": "2020-11-24T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
       "title": "Binarized neural networks show promise for fast, accurate machine learning",
       "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
@@ -252,35 +345,26 @@
       ]
     },
     {
-      "path": "_news/2020-11-24-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
-      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
-      "excerpt": "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ...",
+      "path": "_news/2020-11-24-artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world.md",
+      "title": "Artificial Intelligence Technology Solutions Receives Wally HSO Order From Top 20 Largest Medical Devices Company in the World",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) has received an order from a global top 20 medical devices company with over 50,",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
-      "originalUrl": "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company",
+      "webUrl": "https://www.morningstar.com/news/business-wire/20201124005385/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20201124005385/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T00:09:00-08:00",
+      "publishedDateTime": "2020-11-24T00:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Morningstar, Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -290,7 +374,6 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
         "AI"
       ]
     },
@@ -1127,101 +1210,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-preparing-for-the-artificial-intelligence-revolution-opinion.md",
-      "title": "Preparing for the artificial intelligence revolution | Opinion",
-      "excerpt": "But manufacturing engineers and computer scientists are developing an artificial intelligence-fueled revolution in personalized smart manufacturing. Over the next decade, it will propel U.S. manufacturers to new heights of efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
-      "originalUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
-      "publishedDateTime": "2020-11-23T08:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NJ.com",
-        "domain": "nj.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-the-new-need-for-robots-ai-and-data-analytics-in-supermarkets.md",
-      "title": "The New Need for Robots, AI and Data Analytics in Supermarkets",
-      "excerpt": "After all, tools that might have fallen flat with grocers a year ago — shelf sensors, inventory management software, grab-and-go stores, robotics, AI for better order personalization ... them to partner with tech start-ups. But, as promising as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/359653",
-      "originalUrl": "https://www.entrepreneur.com/article/359653",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1605905967-GettyImages-1066949406.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359653",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359653",
-      "publishedDateTime": "2020-11-23T07:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,100 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2020-10-17-skylum-gives-us-a-sneak-peek-of-sky-reflections-in-water.md",
+      "title": "Skylum Gives Us a Sneak Peek of Sky Reflections in Water",
+      "excerpt": "When Skykum gave us sky replacement features in Luminar 4 in 2019, it was a breakthrough that didn't require masks and a lot of work. A whole lot of landscape photographers and real estate photographers loved the feature.",
+      "sourceUrl": null,
+      "webUrl": "https://www.youtube.com/watch?v=K_jWJ7Z-tKI",
+      "originalUrl": "https://fstoppers.com/landscapes/skylum-gives-us-sneak-peek-sky-reflections-water-524593",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/K_jWJ7Z-tKI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-16T10:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fstoppers",
+        "domain": "fstoppers.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-servicenow-and-ibm-making-ai-really-work.md",
+      "title": "ServiceNow And IBM: Making AI Really Work",
+      "excerpt": "Both companies have announced an expanded strategic partnership that combines Watson with ServiceNow’s IT platform",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89cf29610ad9f8c1e126cb%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5425%26cropY1%3D275%26cropY2%3D3327",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/10/16/servicenow-and-ibm-making-ai-really-work/amp/",
+      "publishedDateTime": "2020-10-16T10:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-16-singapore-releases-ai-ethics-governance-reference-guide.md",
       "title": "Singapore releases AI ethics, governance reference guide",
       "excerpt": "Singapore Computer Society launches reference document to guide businesses in the development of artificial intelligence ethics and governance as well as future training and certification of professionals.",
@@ -1063,101 +1157,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-cambridge-technology-attains-aws-well-architected-partner-status.md",
-      "title": "Cambridge Technology Attains AWS Well-Architected Partner Status",
-      "excerpt": "AWS Well-Architected Partners have the skills ... IT problems by leveraging its competencies and expertise in Artificial Intelligence, Cloud, Big Data, IoT, DevOps, and SaaS & App Development ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/cambridge-technology-attains-aws-well-architected-partner-status-301153712.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1313863/Cambridge_Technology_AWS_WAR.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-nvidia-will-power-the-worlds-most-powerful-ai-supercomputer-leonardo.md",
-      "title": "NVIDIA Will Power the World's Most Powerful AI Supercomputer, Leonardo",
-      "excerpt": "The supercomputer arms race is on, and NVIDIA (NASDAQ:NVDA) is leaving the competition in the dust. Of the world's 500 most powerful supercomputers, NVIDIA graphics processing units (GPUs) or networking equipment (by way of its Mellanox acquisition) can be found in 333 of them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F595333%2Fartificial-intelligence-getty-62817.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/15/nvidia-will-power-the-worlds-most-powerful-ai-supe/",
-      "publishedDateTime": "2020-10-15T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -2,6 +2,110 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2020-11-16-nvidia-unveils-new-dgx-station-ai-workstation-joining-market-for-ai-appliances.md",
+      "title": "Nvidia unveils new DGX Station AI workstation, joining market for AI appliances",
+      "excerpt": "The GPU maker uses the annual SC20 supercomputing event to unveil a desktop model of AI computer with a new GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/e7399d9e-93ce-4f95-b2e3-7582476cb725/nvidia-200-dgx-station-reduced-size-graphic.jpg",
+          "width": 3983,
+          "height": 2555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "publishedDateTime": "2020-11-15T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-nvidia-launches-a100-80gb-gpu-for-supercomputers.md",
+      "title": "Nvidia launches A100 80GB GPU for supercomputers",
+      "excerpt": "Nvidia has launched its 80GB version of the A100 graphics processing unit (GPU), targeting the graphics and AI chip at supercomputing applications. The chip is based on the company’s Ampere ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/nvidia-a100.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "publishedDateTime": "2020-11-15T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
       "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
       "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
@@ -1093,85 +1197,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-google-ml-framework-tensorflow-hits-160mn-downloads.md",
-      "title": "Google ML framework TensorFlow hits 160mn downloads",
-      "excerpt": "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html",
-      "originalUrl": "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T02:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence.md",
-      "title": "Nigerian govt to create jobs through robotics, artificial intelligence",
-      "excerpt": "The Nigerian government is planning to harness from the potential 60 million jobs predicted to be created globally through emerging technologies of Artificial Intelligence and Robotics. The Minister of Communications and Digital Economy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/",
-      "originalUrl": "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.withinnigeria.com/wp-content/uploads/2020/04/03/pantami-understanding-the-shining-star-and-his-detractors.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-withinnigeria-com.cdn.ampproject.org/c/s/www.withinnigeria.com/2020/11/14/nigerian-govt-to-create-jobs-through-robotics-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-13T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Within Nigeria",
-        "domain": "withinnigeria.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/working-from-home-making-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 97
+published: true
 
 provider:
   name: ZDNet
@@ -31,44 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,"
-    publishedDateTime: 2020-11-24T18:48:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 81
-  - title: "Canadian company launches conversational AI for interfacing with databases on Microsoft Azure"
-    excerpt: "Microsoft Azure customers can use AutoQL to streamline access to data for everyone from executives to analysts and front-line workers"
-    publishedDateTime: 2020-11-24T17:22:00Z
-    webUrl: "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144056"
+  - title: "Aisera releases AI Service Desk for Microsoft Teams"
+    excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform."
+    publishedDateTime: 2020-11-25T15:15:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/Aisera-releases-AI-Service-Desk-for-Microsoft-Teams-144058.aspx"
     type: article
     provider:
       name: KMWorld Magazine
       domain: kmworld.com
-    quality: 58
+    quality: 54
     images:
       - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
         width: 772
         height: 594
-        isCached: true
-  - title: "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney"
-    excerpt: "Clunies-Ross said in a statement: \"Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation. \"It represents a ..."
-    publishedDateTime: 2020-11-24T23:52:00Z
-    webUrl: "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg"
-        width: 375
-        height: 319
         isCached: true
   - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
     excerpt: "Developing on a global partnership between the two vendors, this sees SAS Cloud’s data, analytics and artificial intelligence (AI) workload capabilities to Azure for the wider Asia Pacific (APAC) region. The decision to launch in Sydney was due to ..."
@@ -83,34 +58,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
         width: 800
         height: 500
-        isCached: true
-  - title: "SAS, Microsoft launch SAS Cloud on Azure in Australia"
-    excerpt: "building on integrations with Azure, Dynamics 365, Microsoft 365 and Power Platform. “Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation,” SAS region vice president ..."
-    publishedDateTime: 2020-11-25T00:39:00Z
-    webUrl: "https://www.crn.com.au/news/sas-microsoft-launch-sas-cloud-on-azure-in-australia-558218"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_sas_microsoft_azure.png"
-        width: 985
-        height: 634
-        isCached: true
-  - title: "SAS and Microsoft build on global strategic partnership by opening SAS Cloud on Azure in Sydney, Australia"
-    excerpt: "The partnership empowers the cloud by building on SAS market leadership in Analytics and Artificial Intelligence and Microsoft Azure cloud leadership, supporting a shared vision to further democratise AI and analytics. Building on the global partnership ..."
-    publishedDateTime: 2020-11-25T01:30:00Z
-    webUrl: "https://news.microsoft.com/en-au/features/sas-and-microsoft-build-on-global-strategic-partnership-by-opening-sas-cloud-on-azure-in-sydney-australia/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 36
-    images:
-      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/SAS-Microsoft-Social-Image_1-1024x536-1-768x402.jpg"
-        width: 768
-        height: 402
         isCached: true
 
 secured: "FzSP3eecbNnaXOak43gMITS+0oqWauJLDMl3vm3/xdEnPKkHoO+a7gzM4bfLDP3yRlYQJeJvWd0SLjkb4o0hmJAkY0RMN7DoyBjsFVyj5YwsTLxx1kGmuc6MT7Glg41LrhUNOMoUas8v7wyf5WuunsXNKteTSviHQXKf34YjVEKjohdCnYLWTwQr4nRNzY7FbUhcHyK8lLKzYjuri3gtPYMY7WvdURFO6U76NnViGTFeaUtyak0Q3t7gL7fdCzRluEDoLi9nQ0vw+L05q5KOCxnhQeqMNZxnEVlUTY9oMtumfEKNk/UbtsO3u6MOsACG7bh4rXdK/FPYxxtC38PtiRnlsjI4Q48bjnAXKkTWCHVsxo4DjVLhyI+8hF+dR9jIq1J1ogiyQltncQ/HzHloBP+VGX2OIjmKE3D+7xLt7fFFwJnDh1vzsC4r5F6k+JAOADZD2iu3a1GimpF3K4x2kl9eeB4Fv83faIL/WVebvmEJSY5vY2laS8OhEt1ST3tfIiHweJH/+J64YDsUG17x5g==;6v36Rtlw6dqtrQWAMwIuzA=="

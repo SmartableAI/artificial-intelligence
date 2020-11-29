@@ -2,6 +2,111 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2020-10-29-emerging-technologies-that-will-advance-the-retail-industry.md",
+      "title": "Emerging technologies that will advance the retail industry",
+      "excerpt": "Services include natural language processing (NLP), sentiment analysis, image recognition and autoML model creation. Companies that began their digital transformations early in the pandemic are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "originalUrl": "https://www.techradar.com/in/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/Wcc69A4Ts8bhSbGgJeGkoZ-1200-80.jpg",
+          "width": 970,
+          "height": 646,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/emerging-technologies-that-will-advance-the-retail-industry",
+      "publishedDateTime": "2020-10-28T20:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-artificial-intelligence-market-will-reflect-significant-growth-prospects-during-2019-2025.md",
+      "title": "Artificial Intelligence Market Will Reflect Significant Growth Prospects during 2019-2025",
+      "excerpt": "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-will-reflect-significant-growth-prospects-during-2019-2025-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-market-will-reflect-significant-growth-prospects-during-2019-2025-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T20:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-white-castle-plans-to-use-flippy-the-robot-in-more-locations.md",
       "title": "White Castle Plans To Use Flippy The Robot In More Locations",
       "excerpt": "When you order French fries or onion rings at one of 10 White Castle locations, a robot may help prepare the food. White Castle announced it is expanding the use of Flippy Robot-on-a-Rail (ROAR) to more locations in the United States.",
@@ -1075,84 +1180,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-7-ai-stocks-to-buy-as-automation-advances.md",
-      "title": "7 AI Stocks to Buy as Automation Advances",
-      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "originalUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-ai-stocks-to-buy-as-automation-advances-2020-10-28?amp",
-      "publishedDateTime": "2020-10-28T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-ibm-study-ai-driven-virtual-agents-can-drive-customer-satisfaction-and-cost-savings-amid-covid-19.md",
-      "title": "IBM Study: AI-driven Virtual Agents Can Drive Customer Satisfaction and Cost Savings Amid COVID-19",
-      "excerpt": "As many organizations across the world look to digital tools to help address surges in customer inquiries due to the COVID-19 pandemic, a new IBM study revealed 99% of respondents report an increase in customer satisfaction as a result of using AI-driven virtual agent technology.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-virus-outbreak-lung-disease-health-diseases-and-conditions-8d2b93a339b25c986b3c3dd0262b9e5d/gallery/140d2107145ac6b5139433ecb79ed8c0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

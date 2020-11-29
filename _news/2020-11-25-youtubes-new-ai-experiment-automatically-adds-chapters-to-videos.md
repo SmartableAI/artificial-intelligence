@@ -9,7 +9,7 @@ ampWebUrl: "https://www.slashgear.com/youtubes-new-ai-experiment-automatically-a
 cdnAmpWebUrl: "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/youtubes-new-ai-experiment-automatically-adds-chapters-to-videos-24648701/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 1440
     height: 800
     isCached: true
-
-related:
-  - title: "YouTube’s latest experiment uses AI to divide lengthy videos into chapters"
-    excerpt: "Youtube says it will rely on machine learning to recognize certain text-based signs in a video for automatically generating chapters."
-    publishedDateTime: 2020-11-24T18:46:00Z
-    webUrl: "https://pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-lengthy-videos-into-chapters"
-    ampWebUrl: "https://pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-lengthy-videos-into-chapters/amp"
-    cdnAmpWebUrl: "https://pocketnow-com.cdn.ampproject.org/c/s/pocketnow.com/youtubes-latest-experiment-uses-ai-to-divide-lengthy-videos-into-chapters/amp"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 55
-    images:
-      - url: "https://pocketnow.com/wp/../files/2020/11/youtube_chapters_pocketnow.jpg"
-        width: 1500
-        height: 1079
-        isCached: true
 
 secured: "/UBqNsFrBgAxSX09qU5YAKe//hGnE0ufrGvM341+Q7OZRFUc2ckSk7CXSXcj8HdXUYotqVxrbWbakfc84Sk63GZU48uXY+8jgmvw8vsthi3cvmplsR0hmsJ8bXCbHfkYAznFvOd50JNHkL6TfkbBgHONqXAb4eRUoSfMR2x5aA0wBvyZAszd45YRoSDxEHcFvD+AOSIKmxxWC16z4AOeZZs86n+U4R64FGOefxeHvHyBIR+YkdXbODoQcbiuQp92NJV8vK0Nqc5EJjNiQXX9OFFaRpv7NTKqrcQLAa3OAIycA1fcJ6iUgMSCPCog64tg+MCEXd8Y6+A6JI5SNiDbbyAT/riee/HE66boKm6gFfXAExa2cD7A0ajhgdOvCbIK+IKop9zjXHwLzh/QeNgMstgGtpi2CggeJ/3p3Ma2i7HwgZMBqULr2iJM5sHEKEzg2uB1NN7TwJToqL5HD1NmYWQUj6noyioBOYJpFTeLZYY1zj3qNWmMHC8+FUPT0fbZtgG+5YrPMAGMIRNrhCMjpg==;n2gPxXL36JIE0b/TTfiZgQ=="
 ---
