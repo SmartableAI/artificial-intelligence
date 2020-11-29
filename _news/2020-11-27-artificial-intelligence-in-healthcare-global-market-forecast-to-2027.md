@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944"
 type: article
 quality: 84
-heat: 174
+heat: 164
 published: true
 
 provider:
@@ -125,15 +125,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 1
-  - title: "Robust Investment in Healthcare to Drive the Global Regenerative Artificial Skin Market | Latest CMI Insights 2026"
-    excerpt: "Regenerative Artificial Skin Market. Incidence of accidental skin burns are increasing across the globe. Life-threatening skin injuries, traumas, and burns require immediate surgi"
-    publishedDateTime: 2020-11-24T07:54:00Z
-    webUrl: "https://www.medgadget.com/2020/11/robust-investment-in-healthcare-to-drive-the-global-regenerative-artificial-skin-market-latest-cmi-insights-2026.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "mkccGPaBJI+ohK2HEjutnz3jgLw9WwduqhxzGur0mp0BsSEftrpCCWdXb3k5gOhQuVmQmwqBZ0BfcZL1QUKky64ltI6rgxKK7dWNpjmncEKTkKbHEarNuY5fRariUeISyO0Lpmudcq788+UEQNJ08v6RqCKfRLRnjvHKbMpL9K22r5QA/UaDwlVEIER2n/235h0jJMW8tFHJhhAItrIwBi0shEQ3y4FnOK2g6F3B2r9D0boVhPnEdpI6s0cyGYxabRwmAnYl6oTQaCTc/jG8+b+jz5LceHFiK+ho0ZxqtnkVxEPHSNXPJVtmx6YilGRl/pqu9HYYhUwlA6mVaiALPCnmZivAKwJLFSEJ3FU/WPY=;5v2FeAO62vnY81R322JXyw=="
 ---

@@ -41,20 +41,6 @@ related:
         width: 850
         height: 478
         isCached: true
-  - title: "Aerial Imaging Market – Artificial Intelligence And Intuitive Cameras Pave The Way For Successful Future"
-    excerpt: "Allied Analytics :Aerial Imaging Market 2020-2030:According to Allied Market Research, the global aerial imaging market is expected to reach $2.83 billion by 2022, growing at a CAGR of 12.9% from 2016 to 2022."
-    publishedDateTime: 2020-11-24T07:36:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/business-technology-products-and-services-coronavirus-pandemic-forestry-e17a6e7c1b5bb1e5bf5aef65a38f30c7"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 20
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "7oPByziFBnexwHD8wGU6RAYuZWR3OOwB30D2H04a8Jw3ceYsEt1TPWCR3Iq3E9zjNzvjY1HtWXYN2XbRf8lW2FeqvvRB27dJkhvBM4vN7Qiaje5VA/IrHKzXjS4YPWH2rDpEGg+iaUMChlKNCxKz/o2hbi32eONCQQJdzr8wYdDTbgwA2qOPdZn73xWjcOb/6OtDmv0c8DyS0BvlmbwPosPzF96Sf/bbxzDr8/2VRZdxqZKDyIzYKvjKtUbUyNO4+BNDzmRTpeoCZ2ZfVnLXdbcltG3P2ftUHPbg5C7yxByXMtrO1CHFZ5RGbzAg/J+Fj28ZhaGNVjaQU1DJSaFrKAa7Fr5XRWcVkjQI0KkxEzw=;DVUgcSd7r00njZJynap7eg=="
 ---

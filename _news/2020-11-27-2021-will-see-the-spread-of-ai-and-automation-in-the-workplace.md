@@ -3,10 +3,10 @@ category: news
 title: "2021 will see the spread of AI and automation in the workplace"
 excerpt: "Andy Watson, senior vice president for Asia, Pacific, Japan, and Greater China at SAP Concur, says many organizations will turn to automation and AI in 2021 as a way to address key business pain points and simplify cumbersome processes."
 publishedDateTime: 2020-11-27T13:00:00Z
-originalUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
-webUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
-ampWebUrl: "https://www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/category/2381/index.php/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+originalUrl: "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+webUrl: "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
 type: article
 quality: 87
 heat: 97
@@ -45,6 +45,6 @@ related:
         height: 330
         isCached: true
 
-secured: "biGPb32tLMKQBv9LEERa8O4susdHle1c0Bxvvhu7Pex8PBo4LclFlOBg291JV8cZZM0/xTIj5Rjukso1ti2oijeefla+b+0bjUlJCWkI+mDk93GN1Bi/ll67DelfjtE0e36Z6yy7Gl+4m/v1OEXYPPNdPcbxixh92JnyKSiXYjj7NEsqg2sqwtPUf4toHyDxNbAdsCV2JK6klTUxXSgPOF00UaPhEIWHH01ENJjhYTn4Np2N/rbW5uCSyJ0K8nJjc4uemvcgmHcXzPxhDUaks0yqmhboQunofHKfIBHYWNqfsGhGyEdtydv4KR5fOOKGyj7nQu7lPwSWmrS4r4hdCxoogy+Nte0HQsn+2S6DZNB66d3d5IwPGAB0ffVOlMpnOtvc5KFquCk2dqTaybxbt4+UDH8OWyv415SYrrqUJgdTGWjv+cdBm36J8HJoUdgkqur97XIBctblad3AeebNap0mVLd5HGkvP6EXur2CVqsgM3sj5SxWKOkDTq8L0YDdpNKGP2it7K7+eEyirGSAtA==;3M1AAmBKsLex0hWwBrkuuw=="
+secured: "1AEhIyPitBTARJe4vkiY6B4XbGMX8eqTf/MJSiH6ygebLuhFHGAcx7naz7eA8w9Yy4xjmj18QPG/ZsC+ncLIUcZ1fw1IZdkkIiiJ3hVwezIpz/SaVMwaqXkASuvBnVRfyOrXjldiqbfWvGAQB0k1/GVkt2EQOSBZ8iy2tH4H/QULiDkdDCe7u5+Bp3MROQRR+mT7l9ufewjtIPMZZaj0Mk8T1o3glPNM7gBY2fOMHbMZzlC/2NsNqVlWKkBvwbzRQKQs1yK/baMzhk3Lp8vc8Ml9DOVxNzzIjZAzRsUNSQImELlOAst5lZJKqBTEAyoHPVlxOhOV7qinNxPNdDkEhrkb5Z/U09VIcLNR0eYQNCQ=;VzYkV3wgtdSs8Rg352BOvw=="
 ---
 

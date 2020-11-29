@@ -7,7 +7,7 @@ originalUrl: "https://cloudcomputing-news.net/news/2020/nov/25/aws-secures-zalan
 webUrl: "https://cloudcomputing-news.net/news/2020/nov/25/aws-secures-zalando-and-mercado-libre-customer-wins-in-ecommerce-play/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Zalando Selects AWS as Its Preferred Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud."
-    publishedDateTime: 2020-11-24T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AWS becomes preferred cloud for e-commerce giants Mercado Libre and Zalando"
     excerpt: "Mercado Libre Inc. and Zalando SE, two major players in the global e-commerce market with millions of users each, have selected it as their preferred cloud provider. Mercado Libre is the largest online retail and payments provider in Latin America."
     publishedDateTime: 2020-11-24T19:15:00Z
@@ -54,19 +40,14 @@ related:
         height: 513
         isCached: true
   - title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-    excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
-    publishedDateTime: 2020-11-24T08:09:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+    excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+    publishedDateTime: 2020-11-24T14:34:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 13
-    images:
-      - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
-        width: 1200
-        height: 627
-        isCached: true
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 0
 
 secured: "Gbv2RAZEGksxINvuBQbnuZ9oPOzSl63I5KQJ+vlX97RzEnc9BWlPtm8NC3rBkK9fHuB7EiFJXf+4o1LTxJGSAaDcWxI0gXKHUqeKvb3GLJXteoRvCUcpIuqbkwb5Xmf2H7pGk5Jf9C2YRakohL/T5vBucp3RlcYLhKCj01XUZZAN+Iie3Su4f3iBnzzemd1mGdUtM4AZbKRryze1ppCWco0+TGgV5pSqCQTigJGqqYWW0c+WRwGQRPxmfsd81XnY8yD71cbB8eL6e+AZurnGlOs+xBVLs7rwi8x82vzTxxKr4ZNuvCFPJB1J+yRuPPAc+n+GiXQVGW9rg+Csiy5lr3xT4Fak4DNi6Q9ki7QN5RhwvI8Km+eYe2rDonjvkEsEnp7UIdcJISNXQGj7XNlushAo5BO3ihY/EF6okdaEz8hADRqm6iAdV/9kT72DTtFwoGFefxUmBYWcBqHXVKO/AOmePlJBp4eQV0KCDzIl3XyeI+9MGmKYirna03t2Eo0nNsu5ckSD3fZgmdsCdhjr5Q==;vIqXMJZvkrDg/hXUogjPYg=="
 ---

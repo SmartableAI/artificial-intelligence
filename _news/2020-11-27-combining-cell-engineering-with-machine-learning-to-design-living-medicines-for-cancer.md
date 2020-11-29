@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201126/Combining-cell-engine
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: News Medical
@@ -27,33 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "AI in veterinary medicine: From finding disease to predicting it"
-    excerpt: "While it may sound like science fiction, it’s currently underway in both human and animal health by coupling advanced computing power with artificial intelligence (AI ... antihypertensive therapy, and ACE-inhibitors also are emerging as effective ..."
-    publishedDateTime: 2020-11-24T19:43:00Z
-    webUrl: "https://www.veterinarypracticenews.com/ai-in-veterinary-medicine-from-finding-disease-to-predicting-it/"
+  - title: "How archaeologists are using deep learning to dig deeper"
+    excerpt: "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious."
+    publishedDateTime: 2020-11-28T14:54:00Z
+    webUrl: "https://www.courant.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html"
+    ampWebUrl: "https://www.courant.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
     type: article
     provider:
-      name: Veterinary Practice News
-      domain: veterinarypracticenews.com
+      name: Hartford Courant
+      domain: courant.com
+    quality: 59
+    images:
+      - url: "https://www.courant.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How archaeologists are using deep learning to dig deeper"
+    excerpt: "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious."
+    publishedDateTime: 2020-11-28T16:39:00Z
+    webUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
+    type: article
+    provider:
+      name: The Baltimore Sun
+      domain: baltimoresun.com
+    quality: 59
+    images:
+      - url: "https://www.baltimoresun.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How archaeologists are using deep learning to dig deeper"
+    excerpt: "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious."
+    publishedDateTime: 2020-11-24T16:27:00Z
+    webUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201124-i3mdlwswjvhntpicvf2q2lkfjq-photogallery.html"
+    type: article
+    provider:
+      name: Orlando Sentinel
+      domain: orlandosentinel.com
     quality: 39
     images:
-      - url: "https://www.veterinarypracticenews.com/wp-content/uploads/2020/11/feat-41.jpg"
-        width: 600
-        height: 300
-        isCached: true
-  - title: "AI-based earlier medicine development leveraging TWCC high performance computing services to boost cancer prediction research"
-    excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
-    publishedDateTime: 2020-11-26T06:10:00Z
-    webUrl: "https://www.digitimes.com/news/a20201126PD215.html&chid=9"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 10
-    images:
-      - url: "https://www.digitimes.com/newsshow/20201126PD215_files/2_b.jpg"
-        width: 640
-        height: 427
+      - url: "https://www.orlandosentinel.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "fgfP8wWT1kB1N96oHTKDKV2KgABIdeFC1PY1nwkP2T3Y3lcNW18KEIU7Ne4YliTSx3srMUGUfWxOg+45vZknrPMAygu7DQm8craV7YbuKxSjVjwbHC413I6Wd1jI/k6NlJIY0hi3mVu+oyLwlQrV97GQwDPxGu2ku6tbm/n1koDBpptSvIJUa/EoJrVl7jcaQIzptPIMkC62OuytlBKZw878a40r0LV9PUdN+ex5N2NMBbxI6bNyKq+pB8QFmgOWH7fVSzXMXMKg9Fjb1IaOQMxJTRrCa/6v8W6xVsryTdAd/7rnf3me2DkTjTpjl+AVvsmVjfDEojdh5KGkhV74YlugEyfM47pdMCrSAsQibJM=;UYCsift+z8gx5TQKXVWYow=="

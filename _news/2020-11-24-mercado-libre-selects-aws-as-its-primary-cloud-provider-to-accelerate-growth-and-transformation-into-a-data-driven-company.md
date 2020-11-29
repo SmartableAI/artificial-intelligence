@@ -1,44 +1,24 @@
 ---
 category: news
 title: "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company"
-excerpt: "The fraud detection team for Mercado Pago (the platform responsible for payments inside Mercado Libre) leverages Amazon Rekognition (AWS’s video and image analysis service) as part of its ..."
-publishedDateTime: 2020-11-24T08:09:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
-webUrl: "https://www.businesswire.com/news/home/20201124005282/en/Mercado-Libre-Selects-AWS-as-Its-Primary-Cloud-Provider-to-Accelerate-Growth-and-Transformation-into-a-Data-Driven-Company"
+excerpt: "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments"
+publishedDateTime: 2020-11-24T14:34:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
+webUrl: "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company"
 type: article
-quality: 13
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://mms.businesswire.com/media/20201124005282/en/841481/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
-    isCached: true
-
 related:
-  - title: "Zalando Selects AWS as Its Preferred Cloud Provider"
-    excerpt: "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud."
-    publishedDateTime: 2020-11-24T08:01:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 39
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "AWS secures Zalando and Mercado Libre customer wins in eCommerce play"
     excerpt: "AWS has secured two customer wins in the field of eCommerce, with fashion platform Zalando and online commerce and payments provider Mercado Libre."
     publishedDateTime: 2020-11-25T11:47:00Z
@@ -68,6 +48,6 @@ related:
         height: 513
         isCached: true
 
-secured: "KP86+tWxaE/nhGvZzAeZDDZ+n04KCU5MmK6iyvcHm1CNGAvvgXvERuwSsITPOMDRqoIv5mXUiH89fuoPNH5YfBak8wetHXLhma8wDj1Ln2cEyeVYN+wbkUQ8I4SimMbw1tK8PBElGTWN1x16JxmkevJm9Q+ACRQJBCJLp8rUXZ8w7WP7IPuIN4WAxyi6yx9L6NOigDsPIrLf9EXEu+jnh5X+fFDmxb6neMgXtuMjjqlh1G/turvtavVVxRvu2frbTtQfT2d+R/KWdOxvLAzKdCa48XgevuryZjP1WmA/99jrBKdAsnhHTZVvDKwztxZx8DYXiNE1mz3uKbpWgzYYGoj+W6GRLlDnwl1fecuc/H0=;6/hFzcO9fSPcKBKTnupgeA=="
+secured: "j0+e2A9o1xUTrr9tZS2oTYNm3aqnijy5e1Nktff5MQc5KZMLluF1OAWcVeCQU0kI/ocDn6JMhnBYpwC0KbG1KS6JdJVE3K4sFi+gq6jpbf08p40Tny6Qxje0g7ovU4H7HEr7vs4C9lM5cU+ME4zd5xY58w/JvgvAf/HxiCrFtPXPNdzD1i6g8GyAD8lTvo8jAxrI+SnqpgZ/GvDuVwsmPJqcb5SB0mf5SoYj82RgMZN40DS/ae6C5wYKwtlQGiaL4/HFPIr8qe2zEPlsFd3M1/X0DHSPqgE89+ufhyp8/+mujXuVlTM/ikKffzv7dZV7uzelhsMSTgYceMef+DQFV2kwmCGhgxKEZ3beaUb0oVk=;b9PUnRRDQy8cteKF1P1ySw=="
 ---
 

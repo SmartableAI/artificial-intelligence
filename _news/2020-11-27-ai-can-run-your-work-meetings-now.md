@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-27T13:04:00Z
 originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
 webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -20,7 +20,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Screen-Shot-2020-11-25-at-10.50.31-AM-760x380.png"
@@ -60,6 +59,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "ZPVtBxlqRB+I3aiuphhBexjMkHGPYunyS/zF8JpMyqoGWx6EWc8uBjZy4fL9kmkRQw4g/2v29I/NNfNEXaZsuTFW7wVi7AyARNPsyNzATNn4iJbZY2MxnFWOcGyYmok8Z0IT3OJTiZ4re6iynWJCzWgo/rrt/c6e9Hiig6ACdCKsweMMFWnUub8wyl3fB86NJ0Q9eZO8Udn3EDiUoeT/OVCQ4q4VRjtrYONJKX08NAafacCHtM7hEZ9vsHRgtbDN9lJowF7XptcjiHz5abl1xT1osPShPABT+ZM3TzLdTBmUDPqZbUzC7EM6SpBY17VQ4O0PJ9k3iRSd9XQn+BOuFsOe8iK4RHBFqDr9EUzPhJQ=;JdtczljGzAN4qG1J4zgsmA=="
+secured: "Rp7vYMUuS05o8hq2Y0T+lbcGNDHHVFHLOgsL8Z0i8/vCvHio5GB7y+yPwX/bNv5wrNlX/2s0gxu4SotctQtD3fDvwuaLVaQIPi3LWikmPj6hsbBsx0BbEvKcqVG/DA0cqh7Vxq2AZV3sDD1AS2Z7vBK0SY/RIspmzMTGbQjIyOMJASiqC8sBexVhTbtV5FYXiE/c+1sNklEKgMwZbwE2e3aRfzCWzE2uUywZVk59lMNegZQ7o6Rpng7HodunIUFVO94nT5rx+ERci2yM8BoLbAp4/Jin9+DFtiOaN/h1ExFNGms1WUDoy8rDlUs3JBFXiwVklUfzh16kJMBMPTUiLRTZDXwTABuIjp1bN32QmA8=;QZpn/0K1IU+4kAM/9ZFNFw=="
 ---
 

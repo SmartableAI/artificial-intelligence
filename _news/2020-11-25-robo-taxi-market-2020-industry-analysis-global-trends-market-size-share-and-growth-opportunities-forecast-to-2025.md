@@ -121,15 +121,6 @@ related:
         width: 1200
         height: 627
         isCached: true
-  - title: "Robust Investment in Healthcare to Drive the Global Regenerative Artificial Skin Market | Latest CMI Insights 2026"
-    excerpt: "Regenerative Artificial Skin Market. Incidence of accidental skin burns are increasing across the globe. Life-threatening skin injuries, traumas, and burns require immediate surgi"
-    publishedDateTime: 2020-11-24T07:54:00Z
-    webUrl: "https://www.medgadget.com/2020/11/robust-investment-in-healthcare-to-drive-the-global-regenerative-artificial-skin-market-latest-cmi-insights-2026.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "6vRAUE81DyepbJkgqdC37uggLCXRT6A25L88TAet320ODoIibLxHs2QKNkLH1NeQ8JV6FOOwCEGblWA9g3q79K0Yz5a1/tcBkuF0mfZbHGfaHb7XQZQBkSjECwoc0LY8jyPMBeJhpft2yoWkfYqz833CHwN/gPF7ShRFlUmUtoMBqZ+AqkVdj3v53bprVXwhfG8qcKk4iUgGsjjV1AMsfrFJYSWKruPqA8zSv48uIlsrAbWSgEUyhalzaskP7yS6Gny30qS96nOSoWnDbuMOgv6QkrwvCmAD96R8R/CV7j5QNsHAc7HWCsKSBk/z9cQ2EsaIqDSDT/qMlG9h70uHYlis4rn0HOhHl0x3mE59Qpg=;AugE8gubRIv/x/SVOLo1gQ=="
 ---

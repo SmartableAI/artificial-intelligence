@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-07-driverless-car-startup-ponyai-valued-at-53b-with-series-c-round.md",
+      "title": "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round",
+      "excerpt": "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
+      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg",
+          "width": 457,
+          "height": 274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
+      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
+      "publishedDateTime": "2020-11-06T10:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pymnts.com",
+        "domain": "pymnts.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-11-06-america-enters-the-era-of-technopolitik.md",
       "title": "America Enters the Era of Technopolitik",
       "excerpt": "The U.S. has long relied on a geographic network of friends, but the future of multilateralism looks very different.",
@@ -1402,49 +1445,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-watch-a-self-driving-race-car-crash-before-it-starts.md",
-      "title": "Watch a Self-Driving Race Car Crash before It Starts",
-      "excerpt": "A self-driving race car made an abrupt turn and crashed into a wall as soon as it started during the first live broadcast of Roborace, an autonomous-vehicle race series. Four of six teams failed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.caranddriver.com/news/a34522670/video-self-driving-race-car-crash/",
-      "originalUrl": "https://www.caranddriver.com/news/a34522670/video-self-driving-race-car-crash/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/twitch-ai-racing-crash-1603999928.gif?crop=1xw:1xh;center,top&resize=1200:*",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.caranddriver.com/news/amp34522670/video-self-driving-race-car-crash/",
-      "cdnAmpWebUrl": "https://www-caranddriver-com.cdn.ampproject.org/c/s/www.caranddriver.com/news/amp34522670/video-self-driving-race-car-crash/",
-      "publishedDateTime": "2020-10-29T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Car and Driver",
-        "domain": "caranddriver.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

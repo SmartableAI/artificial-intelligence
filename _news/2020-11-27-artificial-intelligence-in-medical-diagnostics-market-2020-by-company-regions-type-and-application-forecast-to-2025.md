@@ -125,15 +125,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 1
-  - title: "Robust Investment in Healthcare to Drive the Global Regenerative Artificial Skin Market | Latest CMI Insights 2026"
-    excerpt: "Regenerative Artificial Skin Market. Incidence of accidental skin burns are increasing across the globe. Life-threatening skin injuries, traumas, and burns require immediate surgi"
-    publishedDateTime: 2020-11-24T07:54:00Z
-    webUrl: "https://www.medgadget.com/2020/11/robust-investment-in-healthcare-to-drive-the-global-regenerative-artificial-skin-market-latest-cmi-insights-2026.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "JxCUSafdFrU7PENL+lMaqnr/5pjvkqsevuZZYCTpeY8cqgTMW0Eq4NKDXJDwBmHB/GdlzcNQ48Swn1MdAUGtX38JFd3DUhqNkyrjTBcJoe7tWK/hdCdEkPSv93BjSQf3nqu+mbYApr9GWzJQyyu8jl8ouMVYKuRgxib7McI91mECBr8eZwAbTOUMSkjqAjO+9c5tvSrymZXrDdbwMqkr1R7wib9lVSRtrDl04JyMXB6uKj4D1tnkpZ0Is4kyQZ4JoqvpQUPOxRKKW5S+7b7kv23GKtVG/ypSaPFJlF+PmD+ROLDl4ocycHp01OOE6fCJsF5DmykmmBfRdcmOdbKjSvJm6OtdYFqdD1cANow76Ok=;6ulAvMEsJ7kIBlFIf1Y+FQ=="
 ---

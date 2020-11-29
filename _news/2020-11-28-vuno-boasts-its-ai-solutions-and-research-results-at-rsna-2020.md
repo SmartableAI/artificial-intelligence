@@ -2,25 +2,25 @@
 category: news
 title: "VUNO Boasts its AI Solutions and Research Results at RSNA 2020"
 excerpt: "South Korean artificial intelligence (AI) developer VUNO Inc. announced that it will join the Radiological Society of North America 2020 (RSNA 2020), a week-long event scheduled to be open on Nov. 29."
-publishedDateTime: 2020-11-27T16:33:00Z
-originalUrl: "https://us.acrofan.com/detail.php?number=383085"
-webUrl: "https://us.acrofan.com/detail.php?number=383085"
+publishedDateTime: 2020-11-27T16:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-south-korea-coronavirus-pandemic-asia-a349f6c4355d908ab2f0ea61499b86f3"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-south-korea-coronavirus-pandemic-asia-a349f6c4355d908ab2f0ea61499b86f3"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: 아크로팬
-  domain: acrofan.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
 
 images:
-  - url: "http://us.acrofan.com/img/noImg.jpg"
-    width: 500
-    height: 324
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 450
         isCached: true
 
-secured: "TYQ5+4DF37XUEORmC5W1ud0qJXcUxb5EV7LGAjw9NqcuIN1+BhLrXTMIUL81/eLMnw31tHciDQ0/iOWTc6f9ll9mwD/5GbrxqWLBdrk8OBYxoJ6h+ELVPKhMYri6QTePjdRgSDY+2WT3lUpgPLuHOy2jF8KMwehS3OG9oFZQQn/bddD6ssmL4jf66hYKKCgD3AFwr5ZEcnKlS9LA2/m8qbcniBAz8rJ0IHqmnOopPsZ+0dB5G716QWRHDWdFrza1RDGyIv7IeK/ZI3SX1mJHxm1CsC36B50bU9XylW7pyLcgA3hQh0YklFfbCjEnaOqRiVbc1BQYyGSimfHesBDGmckGhxlmN/CxKliaUH23FkU=;uGnqyRrvnKFqEZI/l5qw4Q=="
+secured: "XoJWFGvq6vH69eZ4LO2aTc4crjYBGiGsUa3iAbv2pWKJ7CFGiY+iGDliPl7Hhv/BB+q0kTIqLp34HXlKLFUY5SPpf3xsO3TwYnY8ZGVr+e7qwzL/hVCZy1I64q+Ll+aQkvXWOcgZ0bGOn2cd29MbNo9FXDT88fjxxxWpZPN4UFBEMJGJviihAuu2GrqBc9FdZyWqczObVfp24BGSwNLgTX6S0hxMt+bVvR4AHdpuoVs6qwMocp5yOsH5ZMUP21aDep3Hb7Z7ra5NYiK3tljTqV7KR2jaUW66Jau8m2o6qDh4tVxJFsnVIcsIVBQn1J5OJWJiFfB2HKg6E+XGqOjjVrJpy825o6fdv5J8EkL+IRE=;DOlnVu9UI+lh9ao++0s3ow=="
 ---
 

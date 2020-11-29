@@ -50,20 +50,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Emerald Jewellery unveils AI enabled Mobile Application Platform for Jewellery B2B Business in collaboration with IBM"
-    excerpt: "Emerald Jewellery, in collaboration with IBM, introduced AI-enabled Mobile Application Platform for Jewellery B2B Business in India."
-    publishedDateTime: 2020-11-24T08:10:00Z
-    webUrl: "https://www.analyticsinsight.net/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm/"
-    type: article
-    provider:
-      name: Analytics Insight
-      domain: analyticsinsight.net
-    quality: 16
-    images:
-      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/Press-scaled-e1606204594938.jpg"
-        width: 900
-        height: 626
-        isCached: true
 
 secured: "Tg04S4yV9kPwdtz9/uZqCxxOO17adoTev/mbWvBShz0d43wG2EbHRGUlQRwHS492jyhtiLnZDS/zsRpvoGLU+ngvNlZ7FJ+TmB5iE7zXd2SbPs8XwxRqkY/C5K88TiTOD23kegpTWRv6CzEjEFTHvBjx4wOUogioLEY1d5HLmbjX73pjmXHZ/oWQqncHPfl/xX9lLYDxyeraxv5sv6lEc/6KjqHP55tTX8exRRfiaqxqWuQB14NOcVHczd35VIffaAXNJ4MmZpDR0jSgEvZQaLyoznOA947wPuRELQh+7DAQZuA/lGxPWOEUpgHJRw9eISLbB726dvOsrTYK9LOtsf1kTQcaUoHgTwFtt1e1kXI=;wp11fQn2feHxo5wW/QMvFw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.veterinarypracticenews.com/ai-in-veterinary-medicine-f
 webUrl: "https://www.veterinarypracticenews.com/ai-in-veterinary-medicine-from-finding-disease-to-predicting-it/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Combining cell engineering with machine learning to design living medicines for cancer"
-    excerpt: "Finding medicines that can kill cancer cells while leaving normal tissue unscathed is a Holy Grail of oncology research."
-    publishedDateTime: 2020-11-26T23:49:00Z
-    webUrl: "https://www.news-medical.net/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201126/Combining-cell-engineering-with-machine-learning-to-design-living-medicines-for-cancer.aspx"
+  - title: "AI-based earlier medicine development leveraging TWCC HPC to aid cancer prediction research"
+    excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
+    publishedDateTime: 2020-11-26T06:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20201126PD215.html?chid=9"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 51
+      name: Digi Times
+      domain: digitimes.com
+    quality: 27
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://www.digitimes.com/newsshow/20201126PD215_files/2_b.jpg"
+        width: 640
+        height: 427
         isCached: true
   - title: "AI-based earlier medicine development leveraging TWCC high performance computing services to boost cancer prediction research"
     excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
