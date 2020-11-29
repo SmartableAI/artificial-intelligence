@@ -47,6 +47,22 @@ related:
         width: 716
         height: 545
         isCached: true
+  - title: "Tesla Full Self-Driving Beta wider release coming in just a few weeks, it’s both scary and exciting"
+    excerpt: "According to the latest timeline, Tesla could be just 2 weeks away from its wider release of its Full Self-Driving Beta. The prospect of the software update going to more people is both scary and exciting at the same time."
+    publishedDateTime: 2020-11-29T22:33:00Z
+    webUrl: "https://electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/"
+    ampWebUrl: "https://electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 75
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
+        width: 2564
+        height: 1236
+        isCached: true
   - title: "Tesla could widen release of 'self-driving' software"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
     publishedDateTime: 2020-11-28T12:34:00Z
@@ -79,6 +95,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla expands full self driving trial"
+    excerpt: "Tesla will expand trials of its full self driving (FSD) software allowing autonomous driving in about two, according to CEO Elon Musk. Tesla on its home page says all new Tesla cars “come standard with advanced hardware capable of providing Autopilot features today,"
+    publishedDateTime: 2020-11-29T21:58:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/tesla-to-expand-full-self-driving-trial/news-story/e82948a24df3253d560581102477a537"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
 
 secured: "WId4JR38YKQFiKSKDpVY5hjNF66XySvV32y9w60qb62dbg0rqMD66qCjH+MnQvUuIe3MeQtoCZ+/0WcHOQOIlW3mgPL9C8zGG6UKyS/wKvz/M54HUIafW5bZ0NZaIrOeLrmhav3B/iR3g2Xkd1H1PQ2FJtsUV9oel/uHxcpJLdvrVmO+/EzWOlN7TZfipPv/bUNVclHMDdrPz/wfm5HhDv1FeNytKylowbjerBY9XbfvzUe2/bYqpT8xPBtcSCw/6UCwrWfh0V+Rhs0Uka7/3D59/idxBcy/TjmSimaeCyW8nJrqShFMI4THm6Tn5HxyV9muwmYS9Ls4kw8qe3C+j6I1zDrpjYZtYU9LoyGqcQD54cgekp4QYk2Awju8xdCNR4M7czljTh6qJbezZhmtyD7X174D70U12UPaRQAF+oZM5W8OPuoFjFsjSE2Evnap/8YfJztQ37NmV90QmLbmcVleasPayf4ib4iVe4SRSt4cTzcaD8kf79QsTga3bjJ2g+14qXyV9XAEHW/ZUrSvRg==;SApkrRhaK2lXshKGjT2tMQ=="
 ---

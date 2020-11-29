@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "OneConnect, the Fintech Division of Ping An Insurance, to Expand Operations into Malaysian Markets"
+    excerpt: "OneConnect, the Fintech division of Ping An Insurance, is reportedly planning to expand operations into Malaysian markets."
+    publishedDateTime: 2020-11-29T21:39:00Z
+    webUrl: "https://www.crowdfundinsider.com/2020/11/169655-oneconnect-the-fintech-division-of-ping-an-insurance-to-expand-operations-into-malaysian-markets/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169655-oneconnect-the-fintech-division-of-ping-an-insurance-to-expand-operations-into-malaysian-markets/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169655-oneconnect-the-fintech-division-of-ping-an-insurance-to-expand-operations-into-malaysian-markets/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 30
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Growth-Grow-Together-Partner-Collaborate-600x450.jpeg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "India Fintech Forum has Teamed Up with Amazon Pay, PayU, Deloitte, has Also Shorlisted 27 Fintechs for Awards"
     excerpt: "India Fintech Forum has teamed up with Amazon Pay, PayU, Deloitte, has also shorlisted 27 Fintechs for awards."
     publishedDateTime: 2020-11-25T22:09:00Z

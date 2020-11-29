@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-18-two-top-artificial-intelligence-stocks-to-invest-in.md",
+      "title": "Two Top Artificial Intelligence Stocks to Invest in",
+      "excerpt": "The competition is between Intel, Nvidia, and others to build Artificial intelligence chips for data hubs, self-driving automobiles, robotics, smartphones, drones, and other appliances.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/two-top-artificial-intelligence-stocks-to-invest-in-2020-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/two-top-artificial-intelligence-stocks-to-invest-in-2020-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-artificial-intelligence-by-molly-preston-derry-the-kingston-academy.md",
       "title": "Artificial Intelligence by Molly Preston-Derry, The Kingston Academy",
       "excerpt": "Artificial intelligence is when a machine is created ... for things that can vary from web searching to driverless cars. Nevertheless, we are surrounded by it from the moment we wake up.",

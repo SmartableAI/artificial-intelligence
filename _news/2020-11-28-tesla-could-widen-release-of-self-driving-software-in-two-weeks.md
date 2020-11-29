@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN288053"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053"
 type: article
 quality: 89
-heat: 119
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla Full Self-Driving Beta wider release coming in just a few weeks, it’s both scary and exciting"
+    excerpt: "According to the latest timeline, Tesla could be just 2 weeks away from its wider release of its Full Self-Driving Beta. The prospect of the software update going to more people is both scary and exciting at the same time."
+    publishedDateTime: 2020-11-29T22:33:00Z
+    webUrl: "https://electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/"
+    ampWebUrl: "https://electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 75
+    images:
+      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
+        width: 2564
+        height: 1236
+        isCached: true
   - title: "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause"
     excerpt: "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause."
     publishedDateTime: 2020-11-26T17:57:00Z
@@ -79,6 +95,15 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Tesla expands full self driving trial"
+    excerpt: "Tesla will expand trials of its full self driving (FSD) software allowing autonomous driving in about two, according to CEO Elon Musk. Tesla on its home page says all new Tesla cars “come standard with advanced hardware capable of providing Autopilot features today,"
+    publishedDateTime: 2020-11-29T21:58:00Z
+    webUrl: "https://www.theaustralian.com.au/business/technology/tesla-to-expand-full-self-driving-trial/news-story/e82948a24df3253d560581102477a537"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 34
 
 secured: "hbWQ1XY5hs45F7remobNJOds5r9QU5jdl/s2Q+kAgV5jDPrKjzVyK2tluypVoEU6F3iLBMZn3idsnBrUGAGplTN08Ajp73PrsJbiB8g+Gl3ZdTzSWwq2ZXCtEBVDLcm8/ZcVZxO7HAhN8ebY+6UoeQ1xuuTFGEBIjaxudewVfw8kDjWKDRzFKFf9iYkF3sJWQHYSxePwXg9ioA1RYl65DppeEjeJ1S7ZsapOiv0dxjnX8zqov4x315VR9o1rh8wtGE7qoVw0KpyjzLSf2xxC18OwfOLGRzXxexMYWj6bYbpXTGUCl74/bMzzZiOW963dk/x9S7u6715HdkW+dKJNhNECdulNAF/96EZf4G7z97kDeJhujHip7oh9QiOF92DkO38gTbnFthii+mfdl4512Rcij5DmqlqpD4NdUmKS+MmlkbgpvWr0st3HJ9lnzphchyfWf1Vimbj504pPxA78TV0sYSt+mHunbtEI+uvi3H52JXPNPdyZte+Hbo4aTZqb8fpgtdmupe6gNhVVpltbfQ==;aaIO0MlLvx5ESFxCuwCqSQ=="
 ---

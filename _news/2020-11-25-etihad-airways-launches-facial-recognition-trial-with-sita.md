@@ -7,7 +7,7 @@ originalUrl: "https://www.breakingtravelnews.com/news/article/etihad-airways-lau
 webUrl: "https://www.breakingtravelnews.com/news/article/etihad-airways-launches-facial-recognition-trial-with-sita/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,26 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Etihad rolls out facial recognition check-in for cabin crew"
-    excerpt: "Etihad Airways has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s Crew Briefing Centre at Abu Dhabi International Airport."
-    publishedDateTime: 2020-11-25T05:27:00Z
-    webUrl: "https://www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew"
-    ampWebUrl: "https://www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew?amp"
-    cdnAmpWebUrl: "https://www-aviationbusinessme-com.cdn.ampproject.org/c/s/www.aviationbusinessme.com/airlines/technology/22504-etihad-rolls-out-facial-recognition-check-in-for-cabin-crew?amp"
-    type: article
-    provider:
-      name: aviationbusinessme.com
-      domain: aviationbusinessme.com
-    quality: 39
-  - title: "Etihad Airways partners with SITA to trial facial recognition for cabin crew check in"
-    excerpt: "Etihad Airways announced (24-Nov-2020) a partnership with SITA to trial facial recognition technology for cabin crew check in at the Abu Dhabi International Airport crew briefing centre. The technology will allow cabin crew to complete check in procedures and mandatory security and safety questions via their personal mobile devices,"
-    publishedDateTime: 2020-11-25T05:55:00Z
-    webUrl: "https://centreforaviation.com/news/etihad-airways-partners-with-sita-to-trial-facial-recognition-for-cabin-crew-check-in-1039454"
-    type: article
-    provider:
-      name: Centreforaviation.com
-      domain: centreforaviation.com
-    quality: 27
   - title: "Etihad trials facial biometric check-in for cabin crew"
     excerpt: "Etihad is trialling SITA's facial biometrics for cabin members, allowing them to complete check-in procedures digitally via their own mobile devices."
     publishedDateTime: 2020-11-26T11:51:00Z

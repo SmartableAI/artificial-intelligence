@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-23-artificial-intelligence-comes-with-some-caveats-for-investors.md",
+      "title": "Artificial Intelligence comes with some caveats for investors",
+      "excerpt": "self driving cars, medical applications and even marketing tech. Like the example with the chicken, the tasks the Artificial Intelligence (AI) can learn are narrowly defined. Change the colour of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
+      "originalUrl": "https://www.thestreet.com/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_620/MTc2NjI5MDQxMzA0OTcwODMx/49718395123_b00818d2bc_k.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-economonitor/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-economonitor/economonitor/financial-markets/new-artificial-intelligence-are-based-on-old-models-of-human-behavior",
+      "publishedDateTime": "2020-10-23T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
       "title": "Tesla's Full Self-Driving Beta Is Here",
       "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
@@ -1335,58 +1378,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-18-two-top-artificial-intelligence-stocks-to-invest-in.md",
-      "title": "Two Top Artificial Intelligence Stocks to Invest in",
-      "excerpt": "The competition is between Intel, Nvidia, and others to build Artificial intelligence chips for data hubs, self-driving automobiles, robotics, smartphones, drones, and other appliances.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/two-top-artificial-intelligence-stocks-to-invest-in-2020-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/two-top-artificial-intelligence-stocks-to-invest-in-2020-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-18T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-21-ibm-buffett-was-about-a-decade-too-early-for-this-turnaround-story.md",
+      "title": "IBM: Buffett Was About A Decade Too Early For This Turnaround Story",
+      "excerpt": "IBM announced that it would be spinning off its managed infrastructure services business, an event that could unlock shareholder value.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4380036-ibm-buffett-was-decade-too-early-for-this-turnaround-story",
+      "originalUrl": "https://seekingalpha.com/article/4380036-ibm-buffett-was-decade-too-early-for-this-turnaround-story",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-20T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-20-microsoft-azure-announces-its-first-region-in-austria.md",
       "title": "Microsoft Azure announces its first region in Austria",
       "excerpt": "Microsoft today announced its plans to launch a new data center region in Austria, its first in the country. With nearby Azure regions in Switzerland, Germany, France and a planned new region in northern Italy,",

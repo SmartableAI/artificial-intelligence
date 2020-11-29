@@ -43,22 +43,6 @@ related:
         width: 808
         height: 424
         isCached: true
-  - title: "Artificial Intelligence Is Now Smart Enough to Know When It Can't Be Trusted"
-    excerpt: "How might The Terminator have played out if Skynet had decided it probably wasn't responsible enough to hold the keys to the entire US nuclear arsenal? As it turns out, scientists may just have saved us from such a future AI-led apocalypse,"
-    publishedDateTime: 2020-11-25T06:13:00Z
-    webUrl: "https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted"
-    ampWebUrl: "https://www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted/amp"
-    cdnAmpWebUrl: "https://www-sciencealert-com.cdn.ampproject.org/c/s/www.sciencealert.com/neural-networks-are-now-smart-enough-to-know-when-they-shouldn-t-be-trusted/amp"
-    type: article
-    provider:
-      name: ScienceAlert
-      domain: sciencealert.com
-    quality: 56
-    images:
-      - url: "https://www.sciencealert.com//images/2020-11/processed/010-AI_1024.jpg"
-        width: 1024
-        height: 415
-        isCached: true
 
 secured: "FHqeeo7JMApPwRfR787YFntICSgFNrc+AUVfueYhEgL/oM7azfCQEJVuZlbBUxCAK7SsNCDc2CLIe98kNqQF2y71fyOC1mSY7ZyNSe0FhkW44XgoSzVxxNAHhySzqoLv8WVAitm2XO4wV59FhhrJjr/46EhYF2gLSZnCT916QSrFkzVKbQFQDq4fNYv39BK5ubLzH4eUowhvPkoJu1+MB66+GMaEvlB8M/oEhoiDeQhswFuLNPVPkUC26nOnAiDdC6LT9zv8DCUtBuOvvPZG/ZHiCqwriQHsUYQymNaZ3e9mjBdl/V0cSrnPQaOE6oNES5uvOvrJPY+z5BTKrlbvbgwzDVBmb4SWXD0tGwediABVaEOABzsQsc3G9nrL8DKeNgCKv3UL577bOgR4z7yrk5eV8L7jWPwMsweMRn9+fo8LXkZqdm5UVH4JHwpUMhwmD3Ss09PbyQTvFZm1FYqV5v2QMTs/U2/c3ez2+0FQXLq5an18OzBfPxOPQ2I6VSploLyWtWz4WZkRWJYskPh5tA==;1xkAsHgBWxnFdj0JWqnIPQ=="
 ---

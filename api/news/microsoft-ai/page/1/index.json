@@ -1387,45 +1387,36 @@
       ]
     },
     {
-      "path": "_news/2020-11-13-google-catches-up-to-aws-and-azure-with-new-database-migration-service.md",
-      "title": "Google catches up to AWS and Azure with new database migration service",
-      "excerpt": "Google has debuted its database migration service, making it easier for Google Cloud customers to transfer databases to Google's Cloud SQL.",
+      "path": "_news/2020-11-13-cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency.md",
+      "title": "Cognitive Engine Technology Can Help Public Safety Agencies Boost Transparency",
+      "excerpt": "This capability leads to better and faster decision-making. A key enabling technology for this kind of analysis is a cognitive engine, which are AI applications that can process unstructured data from multiple sources so users — public safety agencies in ...",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
-      "originalUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/",
+      "webUrl": "https://statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency",
+      "originalUrl": "https://statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/03/google-cloud.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
+          "url": "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202011/GettyImages-1178526607.jpg?itok=VzpucHwH",
+          "width": 1440,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/12/google-catches-up-to-aws-and-azure-with-new-database-migration-service/amp/",
-      "publishedDateTime": "2020-11-12T09:49:00-08:00",
+      "ampWebUrl": "https://statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency?amp",
+      "cdnAmpWebUrl": "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency?amp",
+      "publishedDateTime": "2020-11-12T13:28:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Statetechmagazine",
+        "domain": "statetechmagazine.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1435,8 +1426,7 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AWS AI"
+        "AI"
       ]
     }
   ],
