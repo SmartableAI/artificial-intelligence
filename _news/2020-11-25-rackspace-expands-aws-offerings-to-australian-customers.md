@@ -18,17 +18,6 @@ topics:
   - AWS AI
   - AI
 
-related:
-  - title: "Rackspace Technology Extends AWS Offerings to Australian Customers, Expanding Global Footprint"
-    excerpt: "The extension of our AWS capabilities and the expansion of our local team ... Globally, Rackspace Technology will continue to leverage U.S. teams for data, machine learning, and artificial intelligence services while building out these capabilities for ..."
-    publishedDateTime: 2020-11-25T04:20:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/136385/rackspace-technology-extends-aws-offerings-to/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 7
-
 secured: "buEkiBTZX7WWc9K6ml5UTN938QbjcJO+Ln2aSG5xwiqB+HOSdRVRg83evi67G88wqWAX9uJNPdmIQ5ip6oOWHCeIs1SDf3/y0v7NCeESQQR1oj0+tvZsmq9fMwQFq9CNWyvQnIwjFr2zkFq5SwdWBPOOP7tYxDnMTXX8kX23O16x42V+FJAFHWgGzJPu0izkZT9GbIUbVheUbQLAkz5+NuhifcqRqO8BmU/QxIdShOF55F+z2bfYUP3eYEP31JiHlz4SGXZJ0+p56SH6xpDNl1BX74u3sR90I2aPvz/p4eQCKP7Gl8zz/K5LRT8tgTx2BzWp4oZJYQIhlG5z+0LAqnOeCQKBGQzHOarbz5pUuOo=;a25chj+tj6kI6dOh2N1gIQ=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-10-21-ai-powered-fund-thrashing-sp-500-is-wary-of-cyclical-bounce.md",
+      "title": "AI-Powered Fund Thrashing S&P 500 Is Wary of Cyclical Bounce",
+      "excerpt": "The AI Powered Equity ETF (AIEQ), an exchange-traded ... The fund’s “manager,” a model which runs 24/7 on IBM Corp.’s Watson platform, is heavily overweight health care and consumer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iASFtRpJzvRA/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-21/market-beating-robot-fund-manager-shys-away-from-cyclical-bets",
+      "publishedDateTime": "2020-10-20T19:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-ibm-buffett-was-about-a-decade-too-early-for-this-turnaround-story.md",
       "title": "IBM: Buffett Was About A Decade Too Early For This Turnaround Story",
       "excerpt": "IBM announced that it would be spinning off its managed infrastructure services business, an event that could unlock shareholder value.",
@@ -1133,49 +1185,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-a-playful-take-on-the-serious-harm-of-facial-recognition-teens-young-adults-from-yr-media-and-stanford-dschool-design-a-tool-to-erase-your.md",
-      "title": "A Playful Take on the Serious Harm of Facial Recognition: Teens, Young Adults from YR Media and Stanford d.school Design a Tool to “Erase Your Face”",
-      "excerpt": "BIPOC youth, girls, and first-generation college-goers are among the most under-represented in tech and A.I. specifically, yet they have the most to lose when design fails to lead with racial, gender and economic equity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201020005076/en/A-Playful-Take-on-the-Serious-Harm-of-Facial-Recognition-Teens-Young-Adults-from-YR-Media-and-Stanford-d.school-Design-a-Tool-to-“Erase-Your-Face”",
-      "originalUrl": "https://www.businesswire.com/news/home/20201020005076/en/A-Playful-Take-on-the-Serious-Harm-of-Facial-Recognition-Teens-Young-Adults-from-YR-Media-and-Stanford-d.school-Design-a-Tool-to-“Erase-Your-Face”",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201020005076/en/831455/23/4680981_YR_Media-%281%29.gif",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T06:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

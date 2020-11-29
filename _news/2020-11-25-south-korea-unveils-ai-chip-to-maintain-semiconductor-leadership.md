@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-u
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
 type: article
 quality: 104
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "SKT unveils its AI chip and new plans for AI semiconductor business"
+    excerpt: "SAPEON X220 chip is designed to process artificial intelligence tasks faster, using less power by processing large amounts of data in parallel."
+    publishedDateTime: 2020-11-28T17:24:00Z
+    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/"
+    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 74
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "South Korea vows to invest $1B for artificial intelligence"
     excerpt: "South Korea pledged to invest about $1 billion for artificial intelligence in semiconductor manufacturing to build on the nation's success developing computer chips to power economic growth."
     publishedDateTime: 2020-11-25T17:00:00Z

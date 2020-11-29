@@ -102,6 +102,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+  - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
+    excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-11-29T20:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iot-devices-market-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2027-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
     excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
     publishedDateTime: 2020-11-25T13:09:00Z
@@ -184,6 +198,6 @@ related:
         height: 450
         isCached: true
 
-secured: "z9U85LMdvo+3rOZ4cNuJ2tlKue9Deq5OdwG0pDmqRvFIYHptF/J0XhehCg3vdPx5CdAYB5bDmSL71YO9RN4Z41KoG4fMihp8b+dYUCOpt5c1I/tzAiUm6iq7NntcjETJqBpncbHE1Zw+qTNSRiU82tgVW+JWjhU9JedE67DaV61VuOwE1dBxzSoFDsLsZsvgKQTK1yuELJUk8e2taFRnR9i2qS/8nJhKcM5T0J0+r+gq2jNF+zldyll/8+sGwQI42Lb/La1ckfvP+hFPPP6XQ3B+dMwm5fzJ0skq5Cs6OtxNWRaUmH6mn+JhfMApjXIqHf37nhheMuFdtIh5WvGafkPzjvwgOc7iYXM3lTeSfQg=;Zlm88ET3S36UBDDmZY+eZw=="
+secured: "NQR/pik5f7PisUguWHOMnWgpZ9U3+19pYcH6Pjh1iE6sTIvh+vSrTCjUIAa9iRPoRRh2OczfgYDELEnGFWAfDRcX9YFIevbxbWAuzU3LzUDTDKUfYMsepfjR6Ew6tVEfA3En2Xy7UoF2oRSEWj4ViUeO0/aIP2GlSN10xBTbyXJ0djZfRhFANE3nZiNuQKrEpL81sHTOeHRbo3Y3WXIkC/nL1HgWfIfsd2CW1UEU1n+fNdiWhsTtQjhn5SSidU8yoVEGzOp2SAsR9teC/qs2D5LCrgsOv2XLwpDZmW/egaalIZOboGRcgPvlymH6JAWAnMWcShnWUOYenIrieND5to/VnsHw9XuxC11NLZb9PZs=;JDHcPJfqWzLpHieyPyiGGA=="
 ---
 

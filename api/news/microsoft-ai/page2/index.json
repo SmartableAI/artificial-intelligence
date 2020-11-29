@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-databricks-launches-sql-analytics.md",
+      "title": "Databricks launches SQL Analytics",
+      "excerpt": "Databricks adds new SQL Analytics Workspace and Endpoint features, consolidating its acquisition of Redash and bolstering its \"data lakehouse\" marketing push.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
+      "originalUrl": "https://www.zdnet.com/article/databricks-launches-sql-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/11/fa46ec20-a94a-473e-b79f-68241df6be90/sql-editor-with-query.png",
+          "width": 3838,
+          "height": 2004,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/databricks-launches-sql-analytics/",
+      "publishedDateTime": "2020-11-11T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-cognitive-systems-market-study-an-emerging-hint-of-opportunity-ibm-accenture-hp-microsoft.md",
       "title": "Cognitive Systems Market Study: An Emerging Hint of Opportunity | IBM, Accenture, HP, Microsoft",
       "excerpt": "Cognitive Systems market is segmented by Type, and by Application. Players, stakeholders, and other participants in the global Cognitive Systems market will be able to gain the upper hand as they ...",
@@ -1344,58 +1396,6 @@
         "AWS AI",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-reducing-microsofts-carbon-footprint-by-tracking-internal-microsoft-azure-usage.md",
-      "title": "Reducing Microsoft’s carbon footprint by tracking internal Microsoft Azure usage",
-      "excerpt": "Whether he’s on the job or working on a passion project, Paul Rojas keeps sustainability at the forefront of his mind. “Everything I do from the time I’m born to the end of my life has an impact on the environment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.microsoft.com/itshowcase/blog/reducing-microsofts-carbon-footprint-by-tracking-internal-microsoft-azure-usage/?hero",
-      "originalUrl": "https://www.microsoft.com/itshowcase/blog/reducing-microsofts-carbon-footprint-by-tracking-internal-microsoft-azure-usage/?hero",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.microsoft.com/itshowcase/blog/uploads/prod/2020/10/10093_wordpress_hero.jpg",
-          "width": 2300,
-          "height": 1293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T18:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],
