@@ -42,6 +42,6 @@ related:
       domain: tass.com
     quality: 37
 
-secured: "Vhw4gBm+D8a2G6ffFJ1d0TiVFcNzgi4K7H9b+FpF5ER//iuouBDbWdbZULpMCqcyODgbSsnbKuT7bw487Ucal3XImqqYbCFT6yF+lkTKKjuOVguOL7lfiPBgfuumCsRVN3m0D9/+jgGAAQi8yhnPu8aUMAxJRZMvuUAsmTdptYKq7192FhlHwgOaQl39uTFxoCrc7JwvOkrHShNJjHmbx6PhHzQa1YeL967kcMG5jjdDAsxJlFYKtBfIDkosiv9WZ2fbRycsZLiN7U3+CAxAi0nydZ9xaRFueHZjYdnLro4r+lVITuqGoyIYoMwREOxoh1lQ8UcbZRNOO20VZM6F4V2+dtmbgM/kMQRfDJbTBXI=;2i0DpNOtrTZdbSFoaT5yQQ=="
+secured: "atqCpZbjUdFY+/9odYDZZBhw0vWhKEkdI/c/26AHe1918opXVHSpRczJ88vgJl35VNGRJ6LYefuxeYBHzD2jqAftHgeBDv1oPSVtKBGqxSDI4011yydh8EuOYl3svsSfKqa3KYQvWKXYaUtPuzuGPdkl6+WzjQ6ye0+4iBrhGJt6wX+8O3PpzaGSpFcHz1BAQ0KV/K1YFfiVXjOtWmsYFNF82SnqamEsYns1b0VEP5zob/lfFGoqPSAzJgZRG3xBBz/UBLXNLsFTm2Cjffhb0fNB/I9eCR18EdYM3Z+h9TrHP7T/TuzuEKF+Oi6cI7i83yl9QAHX+ftV1objKsZ10psZQVprI+abM6zQ8hqPTjg=;ocMj/tUUvvWd+COHySF0eg=="
 ---
 
