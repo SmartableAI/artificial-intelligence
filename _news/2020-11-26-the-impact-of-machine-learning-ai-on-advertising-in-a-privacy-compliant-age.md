@@ -9,7 +9,7 @@ ampWebUrl: "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-ma
 cdnAmpWebUrl: "https://www-prolificnorth-co-uk.cdn.ampproject.org/c/s/www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "5 things your company should know before investing in Artificial Intelligence"
+    excerpt: "Analyze your company and detect the susceptible areas. Find a solution that is compatible with your business model. Upgrade your staff skills. Go to the experts. Continues to grow. The year 2020 has been marked by the acceleration in the development and adoption of Artificial Intelligence (AI) in various aspects of daily life,"
+    publishedDateTime: 2020-11-26T16:11:00Z
+    webUrl: "https://www.stamfordadvocate.com/business/article/5-things-your-company-should-know-before-15755772.php"
+    type: article
+    provider:
+      name: StamfordAdvocate
+      domain: stamfordadvocate.com
+    quality: 34
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/37/21/20313155/19/rawImage.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "MCcxSpFrNpLFiOWfJd1GKEP1LsgjIJMByHHPKRFioyO8XUu7lnSS+6mHrGX5b6fBoCBpQreFbcCFyAaXR6G6k+OezSusPub7KZ6VPRZQaYPDFJO1maD+Mwf1Rk5n30KMnt8TewJLYeQSqmYSXgX5n4uVpzqqa6hPg+nKjXzUL1Ddnmate7/qaJ6yRaL+eJXWN4k9oKer/yGib5UwNiBWmXnJuWfDRDnxG/9DboMXtdMkaJ13C2YZiMqtBuSzjrqGNmCdpY+G2gKUBYFuXct8f1FgejwE51QMrXlkXeNCQJY4p06wna7x2WK03YRAPWyoh0xrWRG1epP96S3QgaLZe/kRlkqETjQhEEYA1euJc+s=;RYEG9E98HAnpOtB6CodeBg=="
 ---

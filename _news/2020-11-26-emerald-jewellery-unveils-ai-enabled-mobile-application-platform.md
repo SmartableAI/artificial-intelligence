@@ -7,7 +7,7 @@ originalUrl: "https://www.bignewsnetwork.com/news/267089832/emerald-jewellery-un
 webUrl: "https://www.bignewsnetwork.com/news/267089832/emerald-jewellery-unveils-ai-enabled-mobile-application-platform"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "AI-enabled mobile app launched"
+    excerpt: "Coimbatore-based Emerald Jewel Industry and IBM have launched an Artificial Intelligence (AI) enabled mobile application for Emerald’s B to B business in the country. According to a press release, the"
+    publishedDateTime: 2020-11-25T17:52:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Coimbatore/ai-enabled-mobile-app-launched/article33179781.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 39
   - title: "Emerald Jewellery Unveils AI Enabled Mobile Application Platform for Jewellery B2B Business in Collaboration with IBM"
     excerpt: "IBM) and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind Artificial Intelligence ..."
     publishedDateTime: 2020-11-25T11:44:00Z

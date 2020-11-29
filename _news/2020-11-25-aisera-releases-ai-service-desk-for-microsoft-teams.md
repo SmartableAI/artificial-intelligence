@@ -41,20 +41,6 @@ related:
         width: 1500
         height: 1500
         isCached: true
-  - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
-    excerpt: "Developing on a global partnership between the two vendors, this sees SAS Cloud’s data, analytics and artificial intelligence (AI) workload capabilities to Azure for the wider Asia Pacific (APAC) region. The decision to launch in Sydney was due to ..."
-    publishedDateTime: 2020-11-25T00:59:00Z
-    webUrl: "https://www.arnnet.com.au/article/684718/sas-and-microsoft-launch-sas-cloud-on-azure-in-sydney/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
-        width: 800
-        height: 500
-        isCached: true
 
 secured: "qYWbq17ks7ElhjEKQnJhdVNY3ARWnAOidp3RR727SfMKrIZZd6Yyk9mlcQC+viV9Afobzgh6pqwYzJSoIZ+SeGEcU7j9WR21dMTg0b+XRW7tJPOnkj+HRuuVr/PGpd756tcVFPm+xnb9H54cXELNnLRgX3CZPCAdCsgEnGQaXZ2LO1hgISfP4fEFtIi+ZO0RM1pHon6dZpBA5R570nLKR+E1Ei3L7gp/G4OY/PtfLNGeebdKDY7SKscruVCkBaqK3T82b/0bLJPd1E8r78ScL5ZHY7dw1XoUiFJgKLcTHvg9fNd7uZBUQ+sPJ/JU84R9boYSrB0aJa5KJpGTxTTquDlZlSanO7tvv2q4AN9WxuQ=;KIJJEYJWu5M+fBo0cyzRkg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-au/features/sas-and-microsoft-build-
 webUrl: "https://news.microsoft.com/en-au/features/sas-and-microsoft-build-on-global-strategic-partnership-by-opening-sas-cloud-on-azure-in-sydney-australia/"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -27,36 +27,6 @@ images:
     width: 768
     height: 402
     isCached: true
-
-related:
-  - title: "Microsoft, SAS in deal to provide SAS Cloud on Azure in Sydney"
-    excerpt: "Clunies-Ross said in a statement: \"Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation. \"It represents a ..."
-    publishedDateTime: 2020-11-24T23:52:00Z
-    webUrl: "https://itwire.com/cloud/microsoft,-sas-in-deal-to-provide-sas-cloud-on-azure-in-apac.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/cdfd24e27a749177e566c868d8b6de7f_M.jpg"
-        width: 375
-        height: 319
-        isCached: true
-  - title: "SAS, Microsoft launch SAS Cloud on Azure in Australia"
-    excerpt: "building on integrations with Azure, Dynamics 365, Microsoft 365 and Power Platform. “Together, Analytics and AI from SAS with the power of Microsoft Azure will underpin the new operating system for Digital Transformation,” SAS region vice president ..."
-    publishedDateTime: 2020-11-25T00:39:00Z
-    webUrl: "https://www.crn.com.au/news/sas-microsoft-launch-sas-cloud-on-azure-in-australia-558218"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/crn-14_sas_microsoft_azure.png"
-        width: 985
-        height: 634
-        isCached: true
 
 secured: "1iUgtZRGB/BRjVF4Qb7sMAlz/2MJdBcuuXQ5Sd8+OLi1VbfMS8e3CWRhLbOwGA2HMVxk1hFt+iHJJ6DFWia3UqaecJvQXb/ME5WNJ9q3RKTveoyOOFafNXqeXpdZ+fReU6xw6BuAUFDd/7gPU0dJYgrneVyOg7K0tcEMV/Ufv2BnETE+TcrdXFCPCIyflg+hGXqcCGDglNT6lNaNifDeF3wydXKis6bNwsfg9mRbZqlvxKWHevNJeQK4KECZcs2558L5VnfJGgpgR8Au4jGRBWQ9y/QTaZMzpbi3epei5bpNjifCffHyIdWDuDjZEF6GcezOvVPMItdg4Pm83klU6+adovMivqRQpHxiaBWbwLNT9h5ICqWplFZ6a9TF7wntutKng+iqRaCx4184gnXbuh+qTN8iFZjSCK6DNwNO5gpvjgXZj41H+AuVg3f4JOoNz5lGoQ0yfiBjdw9sO3ENE11vScBlhvHz2PNSQI6UTArT6qRzvauVCbk3HBcRXXVUa7gD1LBXTcEGrFI4rK69pA==;6vtERiXB1cPMC1llc/6W2g=="
 ---

@@ -158,7 +158,7 @@ related:
       domain: acrofan.com
     quality: 29
     images:
-      - url: "https://us.acrofan.com/news_images/2020/01/30/mark/2020013096676.jpg"
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
         width: 580
         height: 339
         isCached: true

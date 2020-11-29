@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2020/01/30/mark/2020013096676.jpg"
+  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
     width: 580
     height: 339
     isCached: true
@@ -176,6 +176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "cOoAPqZV1l7XcIeEfwj9Sf3AagNmt54KW78V6Uyb9Weqf1GKk+IEtUeT71IJ+1+fmTSmkQcrASOGn7kUOAEdHjRNlaPrCD2AmELV/96WsDL7KY3Rj1p+DHS8Ehk4W7hCuUjX2fG5lDP5Yo6ac8zf/r5NoNaydRvHM/2xECp2aRa/erE7PFBhZS5Cf32jUgq4FM7iRvjA8VFJi/8Xh0gUDbderEbGM7vPP8BYv2MqMysrf4F1QVVLViWg6jrA6RJjchYMUTAcXBxXvL/LkrPbzQKaAhebqDSB+IE2ynqLcsvJorSxk8LJcvasZVy6oLusI9o0tvbFNRelBd6XtjKNutQS3sUh74RA1ryIHDRUoeM=;xKqMwBU+cPM53D009/WkeA=="
+secured: "C4ntuxXZOnR7Wq4iafbg+UVwgaQrEod9UFxkVe2yi4ltomyXxe/d4DI64zfd7y1HPWfJ5kCz4v6gqH2QrjnI4mzfbP6KfrFC31RViYwz3exz2jb9VgQSVPQZkZyNKnYpNqRcsBtIHLIeVc0miCm0ZsvhiWGt9AVsj8EA9i7lV3HE5G99Vlwdv+pEZM5kshqQl5IkeL4v1cHbbrpPlFEn8uquNZp7F1kJmZ71zS9236IhpkK23n6jXiXTdVbaePOyrGvGvN4bh8lB2z8wCTZVckex77QysVirXWbbAXbeYeLdNPzJInU1KHjpIRWHALpwKbWQBt3iO1M5tPMd4/ixHnTDqhNj+8g3d1C9itqhh9M=;1Nkr4kaBK8Oo1Keed16yEw=="
 ---
 

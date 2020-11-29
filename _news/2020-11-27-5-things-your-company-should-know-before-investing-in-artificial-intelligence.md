@@ -24,35 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Can Run Your Work Meetings Now"
-    excerpt: "The idea behind Headroom, which was conceived pre-pandemic, is to improve on both the in-person and virtual problems with meetings, using AI. (Rabinovich used to head ... like interpreting body language from other people on-screen or figuring out if ..."
-    publishedDateTime: 2020-11-24T23:37:00Z
-    webUrl: "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/"
-    ampWebUrl: "https://www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-can-run-work-meetings-now-headroom-clockwise/amp"
+  - title: "The impact of machine learning & AI on advertising in a privacy compliant age"
+    excerpt: "Sian Williams, Audience Strategy and Planning Director at MediaCom North, explains how AI offers a future of increased automation, faster decision-making and ‘hyper-personalisation’ that will make marketing comms more effective and businesses more efficient."
+    publishedDateTime: 2020-11-26T12:53:00Z
+    webUrl: "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age"
+    ampWebUrl: "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp"
+    cdnAmpWebUrl: "https://www-prolificnorth-co-uk.cdn.ampproject.org/c/s/www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp"
     type: article
     provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
+      name: prolificnorth.co.uk
+      domain: prolificnorth.co.uk
+    quality: 73
     images:
-      - url: "https://media.wired.com/photos/5fb86ad41dc55b7ec707231d/master/pass/business-ai-workplace-optimization-edit-2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "AI can run your work meetings now"
-    excerpt: "Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews."
-    publishedDateTime: 2020-11-27T13:04:00Z
-    webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=0"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Screen-Shot-2020-11-25-at-10.50.31-AM-760x380.png"
-        width: 760
-        height: 380
+      - url: "https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/features/sianwilliamsmediacom.jpg?itok=sF0_8wva"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "yRg9MmVQ7fP5in7x70t+kvmkf7vN09YXTTzNODVQwZ5xxgt2b7yDo/GUyC0s6O1x4r/5pkGGY6USQZXDyefkV1UATarML7NfgVxO6aSGUhLDq4ZJAEnN8OfKXEvt//WiNL/J2o1wKw2RxfwtT+ArUhBAloTQh5+JQ9yQp3TzsLY2kwueSvVLDHytlJ+6BZ8bWRQ5XqZZrBKAxt8X/VJtf2UlCeeX5uKoSi+04r92sjZAsGka1WzkwCRZDQqmgLuwDSJE0me746NIwa7V7A4YfpPWNdfoA8HansrXa1xIlsAIPH1fclTaj32R52gpLA0Su3hq6/6w5VXn5qYijEH1AD4ixrygciH8Y4z5jLXy2Y5lDDIPl0MDHtnoWim/jMPuB/howsRiLHt4B6vkXWl559SffljVz43f5wu/EjjsjGD2Ty6u/Vp8ZQQ3BoBXi3G/kiqpfA3sej6TaQPFUctMmX28aFGcBehXYImEVCMWHC5CQseqkSMD3LAR9pA6CLAgolA7HImQllAH76M0NxhDdw==;ndKz5A5TFB7B5xsSkJVqoQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/working-from-home-making-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/"
 type: article
 quality: 77
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
         width: 772
         height: 594
-        isCached: true
-  - title: "SAS and Microsoft launch SAS Cloud on Azure in Sydney"
-    excerpt: "Developing on a global partnership between the two vendors, this sees SAS Cloud’s data, analytics and artificial intelligence (AI) workload capabilities to Azure for the wider Asia Pacific (APAC) region. The decision to launch in Sydney was due to ..."
-    publishedDateTime: 2020-11-25T00:59:00Z
-    webUrl: "https://www.arnnet.com.au/article/684718/sas-and-microsoft-launch-sas-cloud-on-azure-in-sydney/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/lynette_clunies-ross.jpg"
-        width: 800
-        height: 500
         isCached: true
 
 secured: "FzSP3eecbNnaXOak43gMITS+0oqWauJLDMl3vm3/xdEnPKkHoO+a7gzM4bfLDP3yRlYQJeJvWd0SLjkb4o0hmJAkY0RMN7DoyBjsFVyj5YwsTLxx1kGmuc6MT7Glg41LrhUNOMoUas8v7wyf5WuunsXNKteTSviHQXKf34YjVEKjohdCnYLWTwQr4nRNzY7FbUhcHyK8lLKzYjuri3gtPYMY7WvdURFO6U76NnViGTFeaUtyak0Q3t7gL7fdCzRluEDoLi9nQ0vw+L05q5KOCxnhQeqMNZxnEVlUTY9oMtumfEKNk/UbtsO3u6MOsACG7bh4rXdK/FPYxxtC38PtiRnlsjI4Q48bjnAXKkTWCHVsxo4DjVLhyI+8hF+dR9jIq1J1ogiyQltncQ/HzHloBP+VGX2OIjmKE3D+7xLt7fFFwJnDh1vzsC4r5F6k+JAOADZD2iu3a1GimpF3K4x2kl9eeB4Fv83faIL/WVebvmEJSY5vY2laS8OhEt1ST3tfIiHweJH/+J64YDsUG17x5g==;6v36Rtlw6dqtrQWAMwIuzA=="
