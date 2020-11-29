@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2020/11/24/hasty-raises-3-7m-funding-spee
 webUrl: "https://siliconangle.com/2020/11/24/hasty-raises-3-7m-funding-speed-computer-vision-ai-training/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: SiliconANGLE
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Korean fintech firm Qara raises $3m in series A funding round"
-    excerpt: "Qara, a fintech startup, announced it has raised US$3 million from Mirae Asset x Naver, Nexon’s NXC, and Kingsley Asset Management in its series A funding round. The South Korea-based firm plans to launch a new global stock trading service early next year for individual users."
-    publishedDateTime: 2020-11-24T09:19:00Z
-    webUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-series-funding"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
   - title: "Hasty Raises $3.7 Million to Build Next-Gen Vision AI Annotation Tool"
     excerpt: "PRNewswire/ -- Hasty, the leading provider of next-gen annotation tools for vision AI practitioners, announced it has raised $3.7 million in seed funding"
     publishedDateTime: 2020-11-24T13:30:00Z

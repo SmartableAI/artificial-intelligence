@@ -30,20 +30,6 @@ related:
       name: aviationbusinessme.com
       domain: aviationbusinessme.com
     quality: 39
-  - title: "Facial recognition: Etihad plans to deploy touch-free check-in for cabin crew"
-    excerpt: "Abu Dhabi’s Etihad Airways is investing in facial recognition technology to speed up the check-in process of its crew and limit the spread of coronavirus. The airline announced on Tuesday that it has partnered with information technology company SITA to trial the use of facial biometrics for its staff at Abu Dhabi International Airport."
-    publishedDateTime: 2020-11-24T10:57:00Z
-    webUrl: "https://www.zawya.com/mena/en/business/story/Facial_recognition_Etihad_plans_to_deploy_touchfree_checkin_for_cabin_crew-ZAWYA20201124094646/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 36
-    images:
-      - url: "https://www.zawya.com/images/cia/zAmp/201124101510EUJS.JPG"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Etihad Airways launches facial recognition trial with SITA"
     excerpt: "The airline has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s crew briefing centre at Abu Dhabi International Airport."
     publishedDateTime: 2020-11-25T09:38:00Z

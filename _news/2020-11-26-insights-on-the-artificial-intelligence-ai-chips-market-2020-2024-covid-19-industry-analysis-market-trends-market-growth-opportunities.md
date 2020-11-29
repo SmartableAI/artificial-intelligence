@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+  - url: "https://us.acrofan.com/news_images/2020/01/30/mark/2020013096676.jpg"
     width: 580
     height: 339
     isCached: true
@@ -164,20 +164,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in IoT Market 2020 Company Profile, Import/Export Scenario, Business Strategies and Emerging Market Segments to 2026"
-    excerpt: "MarketsandResearch.biz has added a new report Global AI in IoT Market 2020 by Company, Regions, Type and Application, Forecast to 2026 that contains aggregate information of the market’s current situation and future prospects."
-    publishedDateTime: 2020-11-24T10:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-in-iot-market-2020-company-profile-importexport-scenario-business-strategies-and-emerging-market-segments-to-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
     excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
     publishedDateTime: 2020-11-27T14:18:00Z
@@ -198,20 +184,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Call Center AI Market Size Segmentation: Research, Analysis, Trends, Market Share, Competitors, Regions, Applications and Forecasts Up to 2026"
-    excerpt: "Global Call Center AIMarket is growing due to growing requirements for quality inspection and surge in demand. It also provides pin-point analysis for changing competitive dynamics and provides healthy CAGR during the period 2026 and calculate the market size,"
-    publishedDateTime: 2020-11-24T10:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/call-center-ai-market-size-segmentation-research-analysis-trends-market-share-competitors-regions-applications-and-forecasts-up-to-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -246,6 +218,6 @@ related:
         height: 450
         isCached: true
 
-secured: "YsJNaygu59cKSzw/19JRIBLbTkycQ1DsC9QeFKwSsXfUJzqlv7VrLGAl0Am8xc7+Gy8WoI/NT4zxmLn7v5lJSwJtWT0Gjf8RuXlc5g8mBA271Jm06JrJ2YnG4L4aHpw85EnqgxbYpRgByQ6dQo04QDUZ3tg0qKxSHHSOQkx53Tm/csNpCFBTi3o3SDROOdUwbH+v7s7eUmBi06mL7jqwKLqqsbpnsuESgjPzlxSeATU2PD86/lBdoTjvK02mIUXi3PvX6Ej0cRrdoddhg5GX+Odwc7DflT3/R1qY7fgPE+XkLpX3mcGrEJCJWT7TVhex75OPJrKNesvBn4DnaTdPJpWb4r1CNEgLAxe2AkBa73s=;MGmcqPZzogUyazbihP5w0A=="
+secured: "lErzBbiq/bPDJhcGSpyuvZca9QxmgvGlCax2C6iR/kZt4tpobGEwqRQk6VoC9/WwkEFRFsA53i6hW7uhGZwfvpu7hFk/5a6OVTkqbfBFjegDbb+YnRh6Vkxxi6sI1Kv6AgYvtRruUMYSA5mt8i3bOS/Flqn4sVZAPw2jvhLD9oJ36Hg7jCS0ELXSkPRPxCCFMSJtSAfbpTqkGFUzkiddIEdFGvy5qjfQjLOTyokaTxOKbbZimJvBRDisYXM2U7fO0oTuM1QrOcsIZG7jddX0QdHMdzeCIZSt0w+mKixTXIOzL8oiCMReMpKNcskuXjfwiWi+lIQRt9cdJPxhA7f+YcskuiEwuVTrfLCg2yO0jjE=;BuljPQd4nuYRu2+gPlJMSg=="
 ---
 

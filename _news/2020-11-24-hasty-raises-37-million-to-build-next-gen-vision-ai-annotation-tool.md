@@ -38,15 +38,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Korean fintech firm Qara raises $3m in series A funding round"
-    excerpt: "Qara, a fintech startup, announced it has raised US$3 million from Mirae Asset x Naver, Nexon’s NXC, and Kingsley Asset Management in its series A funding round. The South Korea-based firm plans to launch a new global stock trading service early next year for individual users."
-    publishedDateTime: 2020-11-24T09:19:00Z
-    webUrl: "https://www.techinasia.com/korean-fintech-firm-qara-raises-3m-series-funding"
-    type: article
-    provider:
-      name: Techinasia
-      domain: techinasia.com
-    quality: 49
 
 secured: "70rd0hnE7JtTuol4FbzTsaidgon2kTPKY3OzeERDT07jQqjZUJxhpOLOyvR69s8jlTE/QduhLYYmnH3vuHTkmZ/EKMAIJaf6k8IcH8dISnzRO49H2pEoCoeywX3OAh6S8Udyr3brfLhrw0gUIZMS8djmSoLCK21Sj1SC+M6flh4oDTK+oMS0pgMLRyXCAInXXXAhnWv/24KGEFs8yLfLDqxB+PUqueURKHYoTetBWG3Idq/5CDbYbU19S1zgXyPKt7PBVSlFatCBNEAJxTg0APA1xkprNjon+lZRQspAFgp9DafKC5eUqMxfvdwtfJpJ2zcmiJ5W01z/E0wNvVEaU8+BQpj7ha5V4BbiseuLQ3s=;v73iP/wEpm3WHqCKJ/YVXQ=="
 ---
