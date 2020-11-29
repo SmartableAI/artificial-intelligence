@@ -7,8 +7,8 @@ originalUrl: "https://www.thetimes-tribune.com/news/health-science/training-faci
 webUrl: "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Scranton Times-Tribune
@@ -38,6 +38,20 @@ related:
       - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
+    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
+    publishedDateTime: 2020-11-24T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
         isCached: true
 
 secured: "hGWo1A5d/PobsK7G9C25/ho+5BkXfAl1dzcPk/0GiNX+VYlXbRsTfs5BWnbd4LjJcEVFy3m6r+zbYOniTZS0Hwnx9c+1Jb2kfvh2pHZ/E/wmqGZoO0418SFf+EWK9bpyjNjxkbf3OXot5o8WQG9OkGOPz54cxH8uDm2J+ro7z/7iPZG2vbX92UPHtUg8eqtElAjCmVSy7dppiZCkCjMhx5qsfUXKM2ucgUEh8bki1NocuMq4bu5XTtsoi6Bpv6ZJ5vXU8GmP1uzxNuavZ8dSnJ9udtDS6e82lfb1RKOsWGHNwcuZV0YD+fUq+tayR9XZY3aIcc5pi63KGa7W8PupefkoZ6h5k6UI73pdzHXtYHs=;pwoGiaEhaINxhoAcbLs/Yw=="

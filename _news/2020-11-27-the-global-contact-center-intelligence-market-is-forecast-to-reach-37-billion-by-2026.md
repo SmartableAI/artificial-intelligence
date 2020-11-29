@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence Market 2020 Industry Outlook, Classification, Demand, Regional Analysis and Forecast to 2026"
-    excerpt: "Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2026 is the latest market report rolled out by MarketsandResearch.biz, one of the world’s leading market research firms."
-    publishedDateTime: 2020-11-24T12:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-market-2020-industry-outlook-classification-demand-regional-analysis-and-forecast-to-2026-2020-11-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
     excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2020-11-25T10:18:00Z

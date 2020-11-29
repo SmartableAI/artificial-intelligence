@@ -2,11 +2,11 @@
 category: news
 title: "AI can run your work meetings now"
 excerpt: "Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews."
-publishedDateTime: 2020-11-27T13:00:00Z
-originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/"
-webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/"
+publishedDateTime: 2020-11-27T13:04:00Z
+originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
+webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=40"
 type: article
-quality: 69
+quality: 67
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
@@ -60,6 +59,6 @@ related:
         height: 1333
         isCached: true
 
-secured: "psQBEYQk2cqfMVz9Zf6iylZsHyKMr33cpJAy7ho9wgPaT7BNeu95JDGY7ECind1R303xGK4xFJ9CIkhU4GlKAWYLAUL5H2K5v+JVprsusCqtp88o941zCkM2zjZsbZLqyPYn/mRWhK1oqKoqtCh0h7MSQKZIMQe9X2QEQ/VyODxaubtkK7Xyu1XivuRqgFPIof7Z735LTQzGVsJbUOZChQcb2RpIYKV88HJt/8rd3/s5ZwAkGZwKAvgpdE5ciQVAM2Doil7DaZPLA0CcHHl0ULZbG+rpIVQcPRkH+YCedFY7nsteSJoSLBUBQXJ/Kqy1xIjnR5Ssl5L6CZrJLbIMftQMu+mLEq5/JJL1gOz9pJY=;rqPpcl33jnTG8FilYnMNnA=="
+secured: "2nqlE+oZm4fQqiq3XWLyvar1Tf3CW7zXRKFQtamA8+2OZMURF8ic7s+9oPcO3Q3eHxklMNDMFou9feBeQn/0xFHtDqaMJFhmb4t+8oOrLNrJQz/b8tYOTg+t0MGVhvRa05cNGWx0YMdL0LyM82PcgWY/FinrAvq8QiQ/flKzIcMYC8k30XlQxfKbancuPIqlxxtBJubB3fB9s1lauj5Mr4w8zHjG3VFG3t6ow6sP/Wi+AFj526ma8Z9hKp8bxItU4MVHdzCJUWBOFOX9VsVKm55UkSQM1eCDJL3DFPiUXdApAKXrQ93YlnmGNlmaG6T+YUoxM+AtAinKmXxWN8rTBTNTg744Pay+D1yc1dhTVKA=;s6oyN0t7r1h7rZC88F/5cQ=="
 ---
 

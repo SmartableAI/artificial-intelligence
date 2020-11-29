@@ -94,20 +94,6 @@ related:
         width: 985
         height: 634
         isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
-    publishedDateTime: 2020-11-24T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "SAS and Microsoft build on global strategic partnership by opening SAS Cloud on Azure in Sydney, Australia"
     excerpt: "The partnership empowers the cloud by building on SAS market leadership in Analytics and Artificial Intelligence and Microsoft Azure cloud leadership, supporting a shared vision to further democratise AI and analytics. Building on the global partnership ..."
     publishedDateTime: 2020-11-25T01:30:00Z

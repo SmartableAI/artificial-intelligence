@@ -19,7 +19,7 @@ topics:
   - AI
 
 images:
-  - url: "https://us.acrofan.com/news_images/2020/01/30/mark/2020013096676.jpg"
+  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
     width: 580
     height: 339
     isCached: true
@@ -94,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-  - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
-    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
-    publishedDateTime: 2020-11-24T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market2020-research-growth-opportunities-analysis-and-forecasts-report-till-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
     excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
     publishedDateTime: 2020-11-25T13:09:00Z
@@ -218,6 +204,6 @@ related:
         height: 450
         isCached: true
 
-secured: "lErzBbiq/bPDJhcGSpyuvZca9QxmgvGlCax2C6iR/kZt4tpobGEwqRQk6VoC9/WwkEFRFsA53i6hW7uhGZwfvpu7hFk/5a6OVTkqbfBFjegDbb+YnRh6Vkxxi6sI1Kv6AgYvtRruUMYSA5mt8i3bOS/Flqn4sVZAPw2jvhLD9oJ36Hg7jCS0ELXSkPRPxCCFMSJtSAfbpTqkGFUzkiddIEdFGvy5qjfQjLOTyokaTxOKbbZimJvBRDisYXM2U7fO0oTuM1QrOcsIZG7jddX0QdHMdzeCIZSt0w+mKixTXIOzL8oiCMReMpKNcskuXjfwiWi+lIQRt9cdJPxhA7f+YcskuiEwuVTrfLCg2yO0jjE=;BuljPQd4nuYRu2+gPlJMSg=="
+secured: "V8uuaUZU7nOCBZWkwnfAGoX9bOPos/Ir+AYa0gM04v+HoH1dRw5vAP/V7oaDCWyJUuDCsOU7XLs0K8rsRB569L7gsTFXoBl52zeKKc33ukGOvxo4FgFKenEn6mXH6/nFZz8DAqPAJipgiJJQJn26VkfCDeIpSzN8KXu3/L3/KDYZdDBqiKU8iIcCS5g0agRZs6gUbp63P433LY0KOmvxoXnscLy87n9TKaLOe4wEG9HQYmFPdoVUOSy3M8wNF2q0Kknz2slYgIDzyOA+M4C9GSAOBh9AqiiZhs2eOqvG/3gXJe1h6Cc7L1cy511mYuNJ82i782t/bWHf4IHFobFsN3pSusp4Jr/7zX8IGqoYbg4=;h1ZDDie0nrwyJ46C930ZtA=="
 ---
 

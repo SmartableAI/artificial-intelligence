@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-u
 cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 124
+published: true
 
 provider:
   name: Bloomberg
@@ -31,22 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "This AI chip claims to mimic the human brain"
-    excerpt: "Researchers have developed an electronic chip featuring artificial intelligence (AI) that imitates the way the human brain processes visual information. AI usually relies heavily on software and off-site data processing - however this new prototype fuses the core AI software with image-capturing hardware onto a single device,"
-    publishedDateTime: 2020-11-24T11:13:00Z
-    webUrl: "https://www.techradar.com/news/this-ai-chip-claims-to-mimic-the-human-brain"
-    ampWebUrl: "https://www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
-    cdnAmpWebUrl: "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/this-ai-chip-claims-to-mimic-the-human-brain"
+  - title: "South Korea vows to invest $1B for artificial intelligence"
+    excerpt: "South Korea pledged to invest about $1 billion for artificial intelligence in semiconductor manufacturing to build on the nation's success developing computer chips to power economic growth."
+    publishedDateTime: 2020-11-25T17:00:00Z
+    webUrl: "https://www.upi.com/Top_News/World-News/2020/11/25/South-Korea-vows-to-invest-1B-for-artificial-intelligence/8391606322867/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/World-News/2020/11/25/South-Korea-vows-to-invest-1B-for-artificial-intelligence/8391606322867/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/World-News/2020/11/25/South-Korea-vows-to-invest-1B-for-artificial-intelligence/8391606322867/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 104
+      name: UPI.com
+      domain: upi.com
+    quality: 59
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/CLZPLUtqihEEeJiUsPGteP-1200-80.jpg"
-        width: 970
-        height: 545
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8391606322867/2020/1/1c12851c5465c1e71ce7f129bbfa0e67/v1.5/South-Korea-vows-to-invest-1B-for-artificial-intelligence.jpg"
+        width: 800
+        height: 534
         isCached: true
+  - title: "SKT Unveils its AI Chip and New Plans for AI Semiconductor Business"
+    excerpt: "SK Telecom (SKT) today unveiled its self-developed artificial intelligence (AI) chip named ‘SAPEON X220’ and shared its AI semiconductor"
+    publishedDateTime: 2020-11-25T20:09:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 34
 
 secured: "EBwXwgzq5EqHYzq8Gew7VhDfJCjBtG9pqXOgcfl2xuXzN5sxEvKiQ2qpQNqf7Nr2WcvKR+Gk9WHIvoX40bxM9VP6OkAJr/vRvDsH+4z4aPD16DCX4s5UuVy0yUc6nD2eHt6eE5c65YQcBlxKnTYGE0xaaG82nf+zpjC4K3i4GJJYFFGUmtA7P3539rsfnbAM6p8rx9wLjvla+mHfo0KaZgWzQJWeQ636e6uqux7R3Wrfe3tvOMWtR2Quf8WPcXyAd0p5xrcPRNbJHtgU8Ujstwev47yl7ixkKs/rTgnSvnoUTWtiuoUDYbs4g93QAhuu3gD11b2ywguL+IbHmSaOO+bVpr1Y9vrAore1TS07GywtKtaFMeP+7WoJWpsgN1K6WQ6D4NRm6zPxv3EHw/ZuaAWTHB/al5HV7hApGf7pUT4ucnyUFclMtzpF4d+Xd0Z9f9w8dQXwX0IePffYcVs+05QyoWdt4deN38qynAqv4pafN0Hn83V4ierEnt5wKjn8kcWIfDJsMqOL39V0XaFnew==;mak4pvzzGwRqeZSOsFigeg=="
 ---

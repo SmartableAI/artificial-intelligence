@@ -112,20 +112,6 @@ related:
         width: 985
         height: 634
         isCached: true
-  - title: "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative"
-    excerpt: "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure"
-    publishedDateTime: 2020-11-24T13:00:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-301179437.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 51
-    images:
-      - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "1iUgtZRGB/BRjVF4Qb7sMAlz/2MJdBcuuXQ5Sd8+OLi1VbfMS8e3CWRhLbOwGA2HMVxk1hFt+iHJJ6DFWia3UqaecJvQXb/ME5WNJ9q3RKTveoyOOFafNXqeXpdZ+fReU6xw6BuAUFDd/7gPU0dJYgrneVyOg7K0tcEMV/Ufv2BnETE+TcrdXFCPCIyflg+hGXqcCGDglNT6lNaNifDeF3wydXKis6bNwsfg9mRbZqlvxKWHevNJeQK4KECZcs2558L5VnfJGgpgR8Au4jGRBWQ9y/QTaZMzpbi3epei5bpNjifCffHyIdWDuDjZEF6GcezOvVPMItdg4Pm83klU6+adovMivqRQpHxiaBWbwLNT9h5ICqWplFZ6a9TF7wntutKng+iqRaCx4184gnXbuh+qTN8iFZjSCK6DNwNO5gpvjgXZj41H+AuVg3f4JOoNz5lGoQ0yfiBjdw9sO3ENE11vScBlhvHz2PNSQI6UTArT6qRzvauVCbk3HBcRXXVUa7gD1LBXTcEGrFI4rK69pA==;6vtERiXB1cPMC1llc/6W2g=="
 ---

@@ -40,6 +40,20 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "Federal facial recognition regulation watch is on, local rules and practices all over the map"
+    excerpt: "Messages from Microsoft and IBM to president-elect Joe Biden included the suggestion that the time for federal regulation of face biometrics has come, Wired reports. The publication says it found"
+    publishedDateTime: 2020-11-24T20:56:00Z
+    webUrl: "https://www.biometricupdate.com/202011/federal-facial-recognition-regulation-watch-is-on-local-rules-and-practices-all-over-the-map"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/09/30121041/biometric-accuracy-facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1151
+        isCached: true
 
 secured: "AS0g7V9TGAHKbCQVi7HTWZdGl9wnKCdG9YSpv5kuVX4BIzG0LHl0sXbB1JMZvQ025AsHJW+Q97Da6GlFk+0yeCpmtRxmM/hoT/h29SRh44I1JqBcrZdof+0AGIZM/QwEGDs0Hl3lWAk3MXzHB8yUW0q941ixYRSUeyfJ0kI9hSQ13aO1A2QhNMoWymCXZs9y4eQWZKgobKjHVe+SFfvNoJH2hkDqZdcNomuA4yD2vNrGsBDg3m7pjacJrynlNAbHkoDBJ1puTUK85tEzjjbQStoTGUu6HaldSM1Br5w/Z9J0h/DbIkOarX1saLY2j6RUtP8ji0wlzWCKOiwyys29FEco9JuVkbJGtC+k4NM8m0Y=;AFS93a+mj0sL+qhgzvoIyg=="
 ---

@@ -348,6 +348,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-28-training-facial-recognition-on-some-new-furry-friends.md",
+      "title": "Training Facial Recognition on Some New Furry Friends",
+      "excerpt": "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html",
+      "originalUrl": "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/custom/image/590573fe-bcc2-11ea-a70c-9fc5e1d62811.jpg",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-27T22:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Scranton Times-Tribune",
+        "domain": "thetimes-tribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-restoring-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments-through-blockchain-data.md",
       "title": "Restoring Credibility Of Machine Learning Pipeline Output Challenged In Study Of Real World Deployments Through Blockchain Data",
       "excerpt": "Challenges to the credibility of Machine Learning pipeline output. How the performance of such ML models are inherently compromised due to current practices. How such problems can be cured by using the quality,",
@@ -804,7 +847,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 154,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1200,57 +1243,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-brazils-bolsonaro-says-he-will-not-take-coronavirus-vaccine.md",
-      "title": "Brazil's Bolsonaro says he will not take coronavirus vaccine",
-      "excerpt": "Brazilian President Jair Bolsonaro said on Thursday evening that he will not take a coronavirus vaccine, the latest in a series of statements he has made expressing skepticism toward coronavirus vaccination programs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
-      "originalUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542607147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ01T",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28704L",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28704L",
-      "publishedDateTime": "2020-11-26T18:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

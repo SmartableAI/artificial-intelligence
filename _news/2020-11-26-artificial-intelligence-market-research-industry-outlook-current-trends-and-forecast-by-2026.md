@@ -85,20 +85,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-  - title: "Artificial Intelligence Market:2020 Research, Growth Opportunities, Analysis and Forecasts Report till 2026"
-    excerpt: "Global Artificial Intelligence Market is anticipated to reach USD 54 billion by 2026. The advancements of robots and the rise in their deployment rate particularly, in the developing economies globally have had a positive impact on the global artificial intelligence market."
-    publishedDateTime: 2020-11-24T11:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market2020-research-growth-opportunities-analysis-and-forecasts-report-till-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
     excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
     publishedDateTime: 2020-11-25T13:09:00Z
@@ -204,7 +190,7 @@ related:
       domain: acrofan.com
     quality: 29
     images:
-      - url: "https://us.acrofan.com/news_images/2020/01/30/mark/2020013096676.jpg"
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
         width: 580
         height: 339
         isCached: true
