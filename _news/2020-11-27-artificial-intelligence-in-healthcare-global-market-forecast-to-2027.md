@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944"
 type: article
 quality: 84
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -25,22 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Medicine Software Market"
-    excerpt: "Some of the key players profiled in the study are Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome ..."
-    publishedDateTime: 2020-11-24T19:31:00Z
-    webUrl: "https://www.openpr.com/news/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    ampWebUrl: "https://www.openpr.com/amp/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb24710313_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
     publishedDateTime: 2020-11-27T17:21:00Z

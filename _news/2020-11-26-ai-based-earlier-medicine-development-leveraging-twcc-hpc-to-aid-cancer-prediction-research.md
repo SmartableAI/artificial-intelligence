@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20201126PD215.html?chid=9"
 webUrl: "https://www.digitimes.com/news/a20201126PD215.html?chid=9"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in veterinary medicine: From finding disease to predicting it"
-    excerpt: "While it may sound like science fiction, it’s currently underway in both human and animal health by coupling advanced computing power with artificial intelligence (AI ... antihypertensive therapy, and ACE-inhibitors also are emerging as effective ..."
-    publishedDateTime: 2020-11-24T19:43:00Z
-    webUrl: "https://www.veterinarypracticenews.com/ai-in-veterinary-medicine-from-finding-disease-to-predicting-it/"
-    type: article
-    provider:
-      name: Veterinary Practice News
-      domain: veterinarypracticenews.com
-    quality: 39
-    images:
-      - url: "https://www.veterinarypracticenews.com/wp-content/uploads/2020/11/feat-41.jpg"
-        width: 600
-        height: 300
-        isCached: true
   - title: "AI-based earlier medicine development leveraging TWCC high performance computing services to boost cancer prediction research"
     excerpt: "Artificial Intelligence (AI) is shaping the future of global medical industries. The practice of medicine is changing with the development of AI methods of machine learning. As the increasing accuracy of predictive medicine,"
     publishedDateTime: 2020-11-26T06:10:00Z

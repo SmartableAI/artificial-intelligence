@@ -1,27 +1,33 @@
 ---
 category: news
 title: "Tesla could widen release of 'self-driving' software in two weeks"
-excerpt: "Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks."
-publishedDateTime: 2020-11-28T12:54:00Z
-originalUrl: "https://www.foxbusiness.com/technology/tesla-widen-release-self-driving-software-two-weeks"
-webUrl: "https://www.foxbusiness.com/technology/tesla-widen-release-self-driving-software-two-weeks"
+excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
+publishedDateTime: 2020-11-28T08:21:00Z
+originalUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
+webUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN288053"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 89
+heat: 119
+published: true
 
 provider:
-  name: Fox Business
-  domain: foxbusiness.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Tesla-More-than-car-maker.jpg?ve=1&tl=1"
-    width: 1280
-    height: 720
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
+    width: 716
+    height: 545
     isCached: true
 
 related:
@@ -40,22 +46,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-FSd-beta-pedestrian-yeilding.jpg?quality=82&strip=all"
         width: 3584
         height: 1598
-        isCached: true
-  - title: "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature"
-    excerpt: "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,"
-    publishedDateTime: 2020-11-26T13:10:00Z
-    webUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/"
-    ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 67
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg"
-        width: 769
-        height: 432
         isCached: true
   - title: "Tesla could widen release of 'self-driving' software"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
@@ -90,6 +80,6 @@ related:
         height: 338
         isCached: true
 
-secured: "Uw71IIt8olYrPFYXrH1i2PR4nStKoLk1pH3Mz3xZdVLRMespmp9ID/PoJN/MKJbVR3HZinodlFtSCX4OwWOi5zwld8dYYhiPpD2qxuHJeUg7AG6TVrTZ2dc27/UA9gD19tIbLLczHnhE9fjv7RLm6XkCxHfVvKKvwYsmEufZ9haiUtem0oXxSkE/Sc76KekefNCnMYcasVb8OkCfX8hIgRBGDXD86JRxD6LVIDJT/qpF+uOTtFJZPWArr+s/de/jFXVj0DDY9rUvWMOXtKOOb652p0yaITUMnXuRQR+PdP/L47HddZXJLBkRbAAAb/PXqZJ5tUYU4buixMmjPFhnufv0hE9lvBfyReQ44e4DpMXEJCYw5nwzKzQmBrUco4ukdSmuOBQeroq7w2fKUyflFLShwnWD1PiTJfT+4xAf0bzZRasVoM7jJbgUmAwja8COcqK8tN2vQLJuW7EKdSchloTzTwMV1cnCFFt8X5bwdj0VBLITH+j+6F5I0LBsPBBAA2lqEvcSDZFcWbU9AmEFDg==;5PMYWKvyDCOXHVF1yN3rug=="
+secured: "6VJrZ/Os7WvBGsaeFG5YWDSP0BDp5LLdEw9sb+sjn469mWwLq6elBHD+KwBB8oFe3TNE3qiomxPX88kCjQZNCte/sVG4wHQmO1K0bKghj+U0dQcNcDXFdXVTYFBLEJVEHemh01eDb4YwrZK067InKyLBgllhhJcPAcIZgHIICjEb76TeCxZgDILIO42dhJ2C8NvmKBxJ8u5XlAJsz9brMyc6QUtKBnPRYxfNDTBNeIm6ROF5NrJsQaxfP94zJ9n85w013XXY5I3ApAaRv6oOHTivDhmie7c196sJrysM6kW2+dWZqKW5ZShFjurZvEHbyS2twhmhlQ0vxopwsV1pHPIVr4dI4+88gvenG24KG70=;AmekIrseatp9GRHy9/lTMA=="
 ---
 

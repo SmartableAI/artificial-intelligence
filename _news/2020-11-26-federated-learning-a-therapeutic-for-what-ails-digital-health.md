@@ -7,7 +7,7 @@ originalUrl: "https://threatpost.com/federated-learning-a-ails-digital-health/16
 webUrl: "https://threatpost.com/federated-learning-a-ails-digital-health/161633/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 750
     height: 519
     isCached: true
-
-related:
-  - title: "Tag: What is Machine Learning"
-    excerpt: "Technology News"
-    publishedDateTime: 2020-11-24T20:31:00Z
-    webUrl: "https://www.qrcodepress.com/tag/what-is-machine-learning/"
-    type: article
-    provider:
-      name: QR Code Press
-      domain: qrcodepress.com
-    quality: 39
-    images:
-      - url: "https://www.qrcodepress.com/wp-content/uploads/2020/11/artificial-intelligence-what-is-AI.jpg"
-        width: 875
-        height: 565
-        isCached: true
 
 secured: "T2NbXPbrEFMhrN+BRRh2/K6jjwx6DItdpcdlyNhYdpp0cekjzJxrygilu+NtmFdAfbMJ8KPfWAF06X2dzwXl0M2spze5PlwXK4Ayi2N/Ii9A7cQDXO7n0noFIk9DB3kB0CAFr/W+jHbd4tbWLPujyF3jCtDVMOYpfNavkURbK0WWR5vjyJK5O40JAtTBG30OA1kvxW0LpsKJZHJE1kYG1oiWpj5+dh/DbiJItSnkAm68xN9p0TjyKWXj8bwUt9DsJ2hfDIRvDl3tQPDEo6sVuCV1JJvU8l9jRHKWeVcHDGDE1t+hp2coNl/nRQXFiY9pDZeKbs8edNORmT3Q9/VFuwpHOs/4wJHicrGIqFXHUTzS6W0iJH1hdL3A6Q8IwWsDOTHwqgP58ABtt1qSRqgJEmrD3k46stVLvg3Sau1QZcCHfYneNiKLq9d6UblhD+sK2Iby/4bp8ckqEIqDBAQ4tYi0Of0EYiC7/Gnf5PpPltJXOJKZ6Z+eWpRxF7e9p2RgGItz+ATh9iKIUS00Pc31kA==;eaPEySAQoVHjo9btjUMLKw=="
 ---

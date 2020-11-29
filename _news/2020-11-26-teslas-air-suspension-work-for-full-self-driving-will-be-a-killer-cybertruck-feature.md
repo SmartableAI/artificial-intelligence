@@ -9,8 +9,8 @@ ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/a
 cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
 type: article
 quality: 67
-heat: -1
-published: false
+heat: 77
+published: true
 
 provider:
   name: Tesla News
@@ -27,67 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause"
-    excerpt: "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause."
-    publishedDateTime: 2020-11-26T17:57:00Z
-    webUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/"
-    ampWebUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
+  - title: "Self-driving semitrailer trucks are getting ready to roll more often"
+    excerpt: "The age of self-driving 18-wheelers traveling on U.S. highways may be much closer than many people realize, and North Texas is emerging as the likely location of a major hub for the trucks. One company that is aggressively working to build a nationwide freight network of driverless trucks is TuSimple,"
+    publishedDateTime: 2020-11-27T22:48:00Z
+    webUrl: "https://www.startribune.com/self-driving-semitrailer-trucks-are-getting-ready-to-roll-more-often/573201331/"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 72
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-FSd-beta-pedestrian-yeilding.jpg?quality=82&strip=all"
-        width: 3584
-        height: 1598
-        isCached: true
-  - title: "Tesla could widen release of 'self-driving' software"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
-    publishedDateTime: 2020-11-28T12:34:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/575487-Tesla-could-widen-release-self-driving-software"
-    ampWebUrl: "https://dunyanews.tv/amp/english/575487.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/575487.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2020/November/11-28-20/news_big_images/575487_78460199.jpg1"
-        width: 556
-        height: 370
-        isCached: true
-  - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
-    excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
-    publishedDateTime: 2020-11-28T13:32:00Z
-    webUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks-11606565160988.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2020/11/28/600x338/2020-11-27T122837Z_1_LYNXMPEGAQ0PG_RTROPTP_3_USA-STOCKS-TESLA_1606570085041_1606570100788.JPG"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Tesla could widen release of 'self-driving' software in two weeks"
-    excerpt: "Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks."
-    publishedDateTime: 2020-11-28T12:54:00Z
-    webUrl: "https://www.foxbusiness.com/technology/tesla-widen-release-self-driving-software-two-weeks"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
+      name: StarTribune
+      domain: startribune.com
     quality: 39
     images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Tesla-More-than-car-maker.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
+      - url: "https://stmedia.stimg.co/ows_3696b333-c550-4906-b015-552beaae2016.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "uxxm8xn32dgRV84NYIlBo5IPgOi9TlQs+8Y+reCROB0sIobZn/AeeRzRZhRocOTap83zqWNH1oGDDE42/B8097vfVTnFT+lSGxRMRCi4W8JwA10Xd9DIhFbLrZd9R5SERDTAylsxibEAfgk+QY3RtUmlb2MYw/F+itraA89jbMUcoFTNKs+M8IAWRrTc4+ijg0cUrYQ8WJKWDwe6vUAzWEZsjVSK5nPtPev/ymsJeeOKRuNfCofA8+epBgtTRfpTAgXjJs4qI6ew2wK1zi/YeOzpiQhRkRb7gw6G7LMpV62z4zRl1kDGSjp/qqyrLB+MskrziY6eEwXp0Zb4mIYH0FEDWJ6UDgb+YsDawE5U7DpfCnvnKml5l2OVDzTKhcaFv0IcDsNE0Io3CqttV5ViP1E9FXYqrA0ml6PCRvTJz1xDjBzpdPtpf+WVP2e0vhJwSihMVsgl4w33/H5CO0q3epaBxZDZx6SMYH3aSSlGHsWXatea1Ddln1NKw4MZX5EUdo1cHthwWQUqJAx5T70J5Q==;zpgJYZf1F1DWeTzi/Y/Q0Q=="

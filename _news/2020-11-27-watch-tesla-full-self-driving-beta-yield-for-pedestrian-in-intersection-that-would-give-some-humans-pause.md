@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pe
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
 type: article
 quality: 72
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature"
-    excerpt: "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,"
-    publishedDateTime: 2020-11-26T13:10:00Z
-    webUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/"
-    ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
+  - title: "Tesla could widen release of 'self-driving' software in two weeks"
+    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
+    publishedDateTime: 2020-11-28T08:21:00Z
+    webUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN288053"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053"
     type: article
     provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 67
+      name: Reuters
+      domain: reuters.com
+    quality: 89
     images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg"
-        width: 769
-        height: 432
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
+        width: 716
+        height: 545
         isCached: true
   - title: "Tesla could widen release of 'self-driving' software"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
@@ -78,20 +78,6 @@ related:
       - url: "https://images.livemint.com/img/2020/11/28/600x338/2020-11-27T122837Z_1_LYNXMPEGAQ0PG_RTROPTP_3_USA-STOCKS-TESLA_1606570085041_1606570100788.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla could widen release of 'self-driving' software in two weeks"
-    excerpt: "Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks."
-    publishedDateTime: 2020-11-28T12:54:00Z
-    webUrl: "https://www.foxbusiness.com/technology/tesla-widen-release-self-driving-software-two-weeks"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Tesla-More-than-car-maker.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "WId4JR38YKQFiKSKDpVY5hjNF66XySvV32y9w60qb62dbg0rqMD66qCjH+MnQvUuIe3MeQtoCZ+/0WcHOQOIlW3mgPL9C8zGG6UKyS/wKvz/M54HUIafW5bZ0NZaIrOeLrmhav3B/iR3g2Xkd1H1PQ2FJtsUV9oel/uHxcpJLdvrVmO+/EzWOlN7TZfipPv/bUNVclHMDdrPz/wfm5HhDv1FeNytKylowbjerBY9XbfvzUe2/bYqpT8xPBtcSCw/6UCwrWfh0V+Rhs0Uka7/3D59/idxBcy/TjmSimaeCyW8nJrqShFMI4THm6Tn5HxyV9muwmYS9Ls4kw8qe3C+j6I1zDrpjYZtYU9LoyGqcQD54cgekp4QYk2Awju8xdCNR4M7czljTh6qJbezZhmtyD7X174D70U12UPaRQAF+oZM5W8OPuoFjFsjSE2Evnap/8YfJztQ37NmV90QmLbmcVleasPayf4ib4iVe4SRSt4cTzcaD8kf79QsTga3bjJ2g+14qXyV9XAEHW/ZUrSvRg==;SApkrRhaK2lXshKGjT2tMQ=="

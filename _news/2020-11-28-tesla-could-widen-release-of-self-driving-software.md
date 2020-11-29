@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla could widen release of 'self-driving' software in two weeks"
+    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
+    publishedDateTime: 2020-11-28T08:21:00Z
+    webUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN288053"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 89
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
+        width: 716
+        height: 545
+        isCached: true
   - title: "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause"
     excerpt: "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause."
     publishedDateTime: 2020-11-26T17:57:00Z
@@ -43,22 +59,6 @@ related:
         width: 3584
         height: 1598
         isCached: true
-  - title: "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature"
-    excerpt: "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,"
-    publishedDateTime: 2020-11-26T13:10:00Z
-    webUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/"
-    ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
-    type: article
-    provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 67
-    images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg"
-        width: 769
-        height: 432
-        isCached: true
   - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
     excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
     publishedDateTime: 2020-11-28T13:32:00Z
@@ -74,20 +74,6 @@ related:
       - url: "https://images.livemint.com/img/2020/11/28/600x338/2020-11-27T122837Z_1_LYNXMPEGAQ0PG_RTROPTP_3_USA-STOCKS-TESLA_1606570085041_1606570100788.JPG"
         width: 600
         height: 338
-        isCached: true
-  - title: "Tesla could widen release of 'self-driving' software in two weeks"
-    excerpt: "Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks."
-    publishedDateTime: 2020-11-28T12:54:00Z
-    webUrl: "https://www.foxbusiness.com/technology/tesla-widen-release-self-driving-software-two-weeks"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 39
-    images:
-      - url: "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Tesla-More-than-car-maker.jpg?ve=1&tl=1"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "Uwesiszx5MNIqdabTzSQC+ZkQz6d+Mpy8h2bBKcBUQ6R1XX0oj3srJgC/bNWreWITErM2GH9ylRrriByqcBwsYqQjlJ+IHtad3uDIM1GbLlM68bkWtRoefL4CYfcuPt56QUzMs1clOIYf7q4lH0Ph0qPEqH85MinxgehQap++vVSTcUHxQTCJXP024aQt++zubc4Nhnh/coWccJwdL0h1/TS2OLvY0l+NE+uZTf/x75nPVgZx/byTkDUA2eRBo8wZEbb0MZb5P/7PxQ8JX6X5O0D/RZMDBZgl0NjWfyVeXru5jUY022rPY+9pFlUmxbg/8xXpumFRI/qTvnhWpXXFQ53XRDPkIEIS9BwO+NI5T0=;jfi+L3cMR/YvODVY2ojKAg=="

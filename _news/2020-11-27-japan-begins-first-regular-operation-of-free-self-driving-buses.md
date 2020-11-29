@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Alfred Jones Talks About The Challenges Of Designing Fully Self-Driving Vehicles"
-    excerpt: "The leap to self-driving cars could be as game-changing as the one from horse power to engine power. If cars prove able to drive themselves better than humans do, the safety gains could be"
-    publishedDateTime: 2020-11-24T19:50:00Z
-    webUrl: "https://hackaday.com/2020/11/24/alfred-jones-talks-about-the-challenges-of-designing-fully-self-driving-vehicles/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
-    images:
-      - url: "https://hackaday.com/wp-content/uploads/2020/11/Alfred-Jone-Self-Driving-Keynote-2020-Hackaday-Remoticon-featured.jpg"
-        width: 1598
-        height: 898
-        isCached: true
   - title: "Regulators receive road map for smart self-driving vehicle policies"
     excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Waymo has expanded its rider-only operations in metro Phoenix."
     publishedDateTime: 2020-11-25T14:12:00Z

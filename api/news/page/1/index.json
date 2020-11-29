@@ -348,21 +348,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-28-training-facial-recognition-on-some-new-furry-friends.md",
-      "title": "Training Facial Recognition on Some New Furry Friends",
-      "excerpt": "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem.",
+      "path": "_news/2020-11-28-tesla-could-widen-release-of-self-driving-software-in-two-weeks.md",
+      "title": "Tesla could widen release of 'self-driving' software in two weeks",
+      "excerpt": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
       "sourceUrl": null,
-      "webUrl": "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html",
-      "originalUrl": "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html",
+      "webUrl": "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053",
+      "originalUrl": "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/custom/image/590573fe-bcc2-11ea-a70c-9fc5e1d62811.jpg",
-          "width": 1080,
-          "height": 1080,
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032",
+          "width": 716,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -370,14 +370,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-27T22:43:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN288053",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053",
+      "publishedDateTime": "2020-11-28T00:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Scranton Times-Tribune",
-        "domain": "thetimes-tribune.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -386,7 +395,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "AI in Autos",
         "AI"
       ]
     },
@@ -451,7 +460,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -761,7 +770,7 @@
       "originalUrl": "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -804,7 +813,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 144,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1159,7 +1168,7 @@
       "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 113,
       "tags": null,
       "images": [
         {

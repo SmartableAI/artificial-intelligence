@@ -38,6 +38,20 @@ related:
         width: 886
         height: 545
         isCached: true
+  - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
+    excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
+    publishedDateTime: 2020-11-29T12:43:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-and-virtual-reality-can-accelerate-covid-vaccine-development/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-7-e1606637006803.jpg"
+        width: 900
+        height: 601
+        isCached: true
   - title: "Machine Learning Tool Accurately Detects COVID-19 on X-Rays"
     excerpt: "A machine learning tool was able to detect COVID-19 in x-ray images about ten times faster and one to six percent more accurately than specialized thoracic radiologists, according to a study published in Radiology."
     publishedDateTime: 2020-11-25T14:31:00Z

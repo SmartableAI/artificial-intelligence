@@ -7,7 +7,7 @@ originalUrl: "https://www.stamfordadvocate.com/business/article/KFC-turned-to-se
 webUrl: "https://www.stamfordadvocate.com/business/article/KFC-turned-to-self-driving-cars-in-China-to-15756513.php"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2000
     height: 1333
     isCached: true
+
+related:
+  - title: "KFC Is Deploying Self-Driving Food Trucks, and They’re Perfect"
+    excerpt: "We’re still a long way from letting our cars do all the driving for us, but at the very least, they can take care of our fast-food cravings. At least, they can in some parts of the world."
+    publishedDateTime: 2020-11-25T06:01:00Z
+    webUrl: "https://www.autoevolution.com/news/kfc-is-deploying-self-driving-food-trucks-and-theyre-perfect-152045.html"
+    type: article
+    provider:
+      name: autoevolution.com
+      domain: autoevolution.com
+    quality: 24
+    images:
+      - url: "https://s1.cdn.autoevolution.com/images/news/kfc-is-deploying-self-driving-food-trucks-and-theyre-perfect-152045-7.jpg"
+        width: 728
+        height: 300
+        isCached: true
 
 secured: "mXUrEoSzUBvCP8VMq6z1hO9BeAmDKllad4dQKZ1/wW31dNx7sNMOVD2RO2zZ1bg0UZ4V1+G4GcVZiJHK5b4Q3/hx3Zj/+CQKSVmiP7/yBVcHW6IahpnYCFlAkHVWAeO8vg4IQLZ6hS7HZF2vGoymDZ6tRZXONU8SdD7bjVBzgpvntofPhatWEhVjSaTPy/vH93UUpiAtfBei25UbZeH8u0QxZrXH1c45s6wRkXLTiichoYDfofPTvJb+mVAQIu9zqzwa85uIF3t1E5e9cLBZbMmAm3/2EeTWvyccjF6Eg/L1WV2KSFQ89s0PBKNh1erniAaga5R7D2lUubmXBlpZYVdLOyXD+q/STHYZ4CJ2+TExf/9TkU80BOwOLwF4PU2tELJ4ihvYyTZy0Qbeoks7+hrDd5llcejooBX6fYDLHzRc4pKTVeqsBZcnEcvY6izA3Szxt3HXkP1SVfCu/HLEt0cGuQ57vxMyeVRdWzEkTJH20hTN4m4DZ8Ypvn84sB3f5RY6Qsyxz8DOkA9nv4CEwg==;kneZyqEhcAw4PpqjEg68gQ=="
 ---

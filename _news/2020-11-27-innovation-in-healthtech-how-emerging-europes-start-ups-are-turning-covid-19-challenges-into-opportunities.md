@@ -68,6 +68,20 @@ related:
         width: 777
         height: 500
         isCached: true
+  - title: "GE Healthcare Expands AI, Digital and Imaging Solutions at #RSNA2020, Helping Shape Future of Healthcare in the COVID Era"
+    excerpt: "GE Healthcare today unveiled a slate of new intelligently efficient solutions to help clinicians solve today’s two-part challenge of delivering high quality care while managing greater capacity and workflow issues,"
+    publishedDateTime: 2020-11-29T12:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-pandemics-public-health-products-and-services-c496776bdbfc4baa8f04f86c65a80df8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "eXkuj02k0vDxwAX8jVwWxZPEVijeSuA+DQUH/KXLs0aedRXgxLhpktxlPNQ2BzSNnpKmkanXYvVUJjUEwNgw0z2z3c+UOvt4FNHbhZ/oWjJWePfNJdzBu5bzIcq2T19R877K3h3vGgrKM8BFyNTLBTGH0MqgRvFUS0bewW2ZyxgkM72JJ8TA29LzVeuwMhnA/gmjyfgYJh7qUAo9bLaYBeifaWX2CKQfr55yKpEvGIgz3zCLEcLfTXuQ7F4jXF/Y5rJUEkQyaS8tYC6eF6TiLjLbUtePGWhEcgUl+n7q+/7h8tBSZCofaiZBbKpBS4ROCdfdebCfJ7yreXUKsEwMIWmkhuEvZOgphhYtkw1BCTA=;w5jAzRaYETsQzBaNalvDvQ=="
 ---

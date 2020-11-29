@@ -32,22 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
-  - title: "AI Medicine Software Market"
-    excerpt: "Some of the key players profiled in the study are Enlitic, Atomwise, DeepMind, Babylon Health, Flatiron Health, Tempus Labs, Sophia Genetics, Recursion Pharmaceuticals, Synyi, Freenome ..."
-    publishedDateTime: 2020-11-24T19:31:00Z
-    webUrl: "https://www.openpr.com/news/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    ampWebUrl: "https://www.openpr.com/amp/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2194862/ai-medicine-software-market-to-see-huge-growth-by-2026-deepmind"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 59
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb24710313_g.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "The Global Contact Center Intelligence Market is Forecast to Reach $3.7 billion by 2026"
     excerpt: "The Global Contact Center Intelligence Market size is expected to reach $3.7 billion by 2026, rising at a market growth of 23.4% CAGR during the forecast period. Artificial intelligence (AI) is a part of rising innovations,"
     publishedDateTime: 2020-11-27T13:45:00Z

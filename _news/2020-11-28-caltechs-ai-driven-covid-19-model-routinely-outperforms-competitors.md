@@ -54,6 +54,20 @@ related:
         width: 777
         height: 500
         isCached: true
+  - title: "GE Healthcare Expands AI, Digital and Imaging Solutions at #RSNA2020, Helping Shape Future of Healthcare in the COVID Era"
+    excerpt: "GE Healthcare today unveiled a slate of new intelligently efficient solutions to help clinicians solve today’s two-part challenge of delivering high quality care while managing greater capacity and workflow issues,"
+    publishedDateTime: 2020-11-29T12:13:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/business-technology-pandemics-public-health-products-and-services-c496776bdbfc4baa8f04f86c65a80df8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 29
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
     excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
     publishedDateTime: 2020-11-27T12:30:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-14-velodyne-aims-to-price-new-self-driving-car-sensor-below-500.md",
+      "title": "Velodyne aims to price new self-driving car sensor below $500",
+      "excerpt": "(Reuters) - Velodyne Lidar Inc said on Friday it would introduce a new lidar unit, a key sensor in self-driving cars, with a target price point of less than $500 and no moving parts. Velodyne ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K",
+      "originalUrl": "https://www.reuters.com/article/velodyne-lidar-tech-idUSKBN27U03K",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201114&t=2&i=1541186609&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAD04G",
+          "width": 818,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27U03K",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27U03K",
+      "publishedDateTime": "2020-11-13T20:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-uber-in-talks-to-sell-atg-self-driving-unit-to-aurora.md",
       "title": "Uber in talks to sell ATG self-driving unit to Aurora",
       "excerpt": "Uber’s self-driving car unit, Uber Advanced Technologies Group, was valued at $7.25 billion following a $1 billion investment from Toyota, DENSO and Softbank’s Vision Fund. Now, it’s up for sale and a competing autonomous vehicle technology startup is in talks with Uber to buy",
@@ -1397,50 +1449,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-the-ethics-behind-driverless-cars.md",
-      "title": "The Ethics Behind Driverless Cars",
-      "excerpt": "Despite the optimism behind driverless cars ... that's exactly what we're doing when we're creating robots and artificial intelligence. They're taking over human roles, from being our chauffeur ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.npr.org/2015/11/07/455120110/the-ethics-behind-driverless-cars",
-      "originalUrl": "https://www.npr.org/2015/11/07/455120110/the-ethics-behind-driverless-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
-          "width": 1400,
-          "height": 787,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-07T00:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NPR",
-        "domain": "npr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

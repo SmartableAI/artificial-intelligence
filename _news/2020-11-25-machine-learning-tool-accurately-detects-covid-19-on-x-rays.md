@@ -46,6 +46,20 @@ related:
       name: Teen Vogue
       domain: teenvogue.com
     quality: 38
+  - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
+    excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
+    publishedDateTime: 2020-11-29T12:43:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-and-virtual-reality-can-accelerate-covid-vaccine-development/"
+    type: article
+    provider:
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
+    images:
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-7-e1606637006803.jpg"
+        width: 900
+        height: 601
+        isCached: true
 
 secured: "yN7j7WE9b3+2ZkAOyGr9lj2mpYj22gOGf9WFbyhR3X8oESHf+qokxYgw0S60XomljeEWvdFPHZQK7Yh0c8GI0uG8rnCnNgj/z6BhzG6KNIxZAUc5bfps/PwXiiwN7XUbSPqYA5fRnNhn1O903LVWkKfFJ4mZEtiuYKjF8jrM5NIORKVqEUlFK9wztOqG5P2awY/o4D5xx6NaXLYvvfKu/vJeqaS9QV5e4qIlNXTdU+8UJnxZHP1FfQniroPzXFzCZ4Ltv4R8vv+TIrjynfy4zDIqGq39MwkRUb/GPM7cMDd3s9vwsdW0/avWi6B0/H/dWpA0DW5ka5P5KzSIVzujBw4IOHrcGXfO84pCEEnC6Wp7Jwi6HzaB1jl5zPAAKZXMHo7Q+osbGzP6Fg5gIzmDgpWlfuPOaGjFuC/6I5GGy5q6//z+gWowymU3NW7hXP9orUJDxtHwhP0p3Q4aSY7m5/OjW75hcAJXQ8Dvd/VPqnaOa6LZvhuT6phmxH5RoxBKmIrISvqLa8vyS8gG/7OSjA==;IEn3N7ZzgO+FbhlHtx/pRg=="
 ---
