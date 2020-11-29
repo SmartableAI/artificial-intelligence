@@ -2,26 +2,26 @@
 category: news
 title: "How archaeologists are using deep learning to dig deeper"
 excerpt: "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious."
-publishedDateTime: 2020-11-28T14:54:00Z
-originalUrl: "https://www.courant.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html"
-webUrl: "https://www.courant.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html"
-ampWebUrl: "https://www.courant.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
+publishedDateTime: 2020-11-28T14:21:00Z
+originalUrl: "https://www.mcall.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html"
+webUrl: "https://www.mcall.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html"
+ampWebUrl: "https://www.mcall.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mcall-com.cdn.ampproject.org/c/s/www.mcall.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Morning Call PA
+  domain: mcall.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://www.courant.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg"
+  - url: "https://www.mcall.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg"
     width: 1200
     height: 800
     isCached: true
@@ -59,21 +59,7 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "How archaeologists are using deep learning to dig deeper"
-    excerpt: "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious."
-    publishedDateTime: 2020-11-24T16:27:00Z
-    webUrl: "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201124-i3mdlwswjvhntpicvf2q2lkfjq-photogallery.html"
-    type: article
-    provider:
-      name: Orlando Sentinel
-      domain: orlandosentinel.com
-    quality: 39
-    images:
-      - url: "https://www.orlandosentinel.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "wBh/HiHCdJjiUZ4MRbyGv/yiM48VbLdS42nr5lOq+q4WE7VZgNL4JGeQqr2t1BaTd06BRNe6zrLPVJE0Uqg3/EdMCxMPU5QnUhY/ZuaR4osygiuUyWrUaqbMkr9wLu07fo4ZBbg3ITow9paux0hT6ASzXOTEwo/oMjMSlRmaB8yx2QDuP5wBkW0zU/f0C/AlCXt9oCTmGZRgCfOJC/JPqO0qyrhPpLW40crB/VqleE22OyO7S6vSOOhX7aQpNiLMNzFLezs3OyoDzm2pvx2AQ0Sz2JiwvRY6lWTvMoIrw+QjEzu7AB9Wmd7qu4iYeqtNyoxEf6djrKoshUBjHT8e2af5OPojrPrgayprqwQKUaE=;Hc2JCVrXcOO9/t7IS/pwqw=="
+secured: "teLFqtEfbyocxE7QYw+prKQtAPVIW7jcAg6U4DDkV2oOmB8u5Io1iV6KBriW0liyjA6LB315nm9iDF04YUOS5khKP1wdEZwEsFvLWQ+F7JHpBbi9FQdUCq9jdINtxOPya39IUlpQvQAjBNDzWFyyazQHwRIaZMBpsf3O0MMnC6wUOSkO9kQTcNYhDMkk9BawTV5UCpNAbGOpswTW89dfLVyjhNJrA/7RGAqWF3HvhBr/BoGAGTzhyLQsQy8PgzV2zQvQnxZ4qOgajsTcIKjAkXDV/hcUKsdvwEbjjVvKlAW+nVGT1LKedWNGmfXfQ76pFS2nCpJ9JHnl2uMT4nNjvKwyaMQ/adQaP9q0gO0z388=;aDkfT/0h/TilXVB1/JBnVA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Europe-Computer-Vision-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Business Insider
@@ -25,20 +25,6 @@ topics:
   - AI
 
 related:
-  - title: "Voice Recognition Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2026"
-    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
-    publishedDateTime: 2020-11-24T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
     excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and"
     publishedDateTime: 2020-11-27T16:40:00Z

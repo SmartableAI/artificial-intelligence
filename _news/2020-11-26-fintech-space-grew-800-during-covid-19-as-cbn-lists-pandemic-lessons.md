@@ -7,7 +7,7 @@ originalUrl: "https://guardian.ng/business-services/fintech-space-grew-800-durin
 webUrl: "https://guardian.ng/business-services/fintech-space-grew-800-during-covid-19-as-cbn-lists-pandemic-lessons/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1280
     height: 845
     isCached: true
-
-related:
-  - title: "Artificial intelligence technology helps Parkinson’s patients during COVID-19 pandemic"
-    excerpt: "Andrew Exner, a graduate research assistant in Purdue’s Motor Speech Lab, is working to help Parkinson’s patients during the COVID-19 pandemic. (Image provided) WEST LAFAYETTE, Ind. – The COVID-19 pandemic is leading a Purdue University innovator to make changes as she works to provide new options for people with Parkinson’s disease."
-    publishedDateTime: 2020-11-24T15:58:00Z
-    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-technology-helps-parkinsons-patients-during-covid-19-pandemic.html"
-    type: article
-    provider:
-      name: Purdue University
-      domain: purdue.edu
-    quality: 29
-    images:
-      - url: "https://www.purdue.edu/uns/images/2020/Exner_Andrew_2OG.jpg"
-        width: 800
-        height: 400
-        isCached: true
 
 secured: "DjVZF2RPNtTipmLP3hffS50/G8aTm/ZIv0kNoM/6GcvJVQZTooLdCIz1pBwIa+wxA599eaHN2GIID49TN4BIk4sakuT7HxvMP4wOMOXj4yXK7rUo1qVfGfSpRK7ltGQGnuL1MCLp9eAZLf51QeOWwcfMcq6C9IrFIORnf/HrUMTqg4chjrpl+hN/XUW35iTftylNzGaozo7VF5pFKB6YMROeG91OiRbgtvdJQb6/PTpe3wO3WHIpQy/STXeHURrAF0cDIDDaLf2mZyIWRQzmPlqZZguFnSb9aeaTtg7RLi8gFc32ryE4UslGMUQH1lDy5WafNvBerrxh8ZsVf3RzdjNDg89qEgkpCwT8qRxHBLmeLBlz5stTIvlmM7GDIpyk3JMFeMccHFhL+GI3yajl/pPjX4G/d2/nX/xEi2K49Fj/tyAmOCV190TArLWNhvSEYfh5V+o40VSuutNv0MZW8sRf2MM4wrYtR8FpKGw+u2UGRf8XNORNHeE/a9u6iq1AGFw04ROMDg5bo903xWzz6Q==;ueQqCDtr/Px9Tr2V9lpPfA=="
 ---

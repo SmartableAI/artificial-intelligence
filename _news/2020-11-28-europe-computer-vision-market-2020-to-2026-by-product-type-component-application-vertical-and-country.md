@@ -32,20 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Voice Recognition Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2026"
-    excerpt: "Market Synopsis The Voice Recognition Market is estimated to record a significant growth throughout the forecast"
-    publishedDateTime: 2020-11-24T15:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2026-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HgPZB57VE9GBbsoyjprrxLRwC3uCJunjXUMm50KMtdJFUNmuw4RQhzRw3mOBKvXvz4YTojaabRnBcCx7Lltvyix+H2jOtbEbAeq5SH/ug6Kx06P7fKeZmcn087KINARrw9YKYqUerzpldgER0GrNQbmycjCsvFXX4w6Qit9bLZvk1/zwBGzCraD+Kjvxp9TZKB+RWQWC0d8AGIJthzCx+otT+giTRELlIGiYv6imlkJVdOPEybfNCWuSgRTDduupY4F+MmCWH2livmX9vjcd9IaFTP98007yiq3N2BQJpf+kXCc3Adnqv0EElRqbhy89qlStqAkdMwSzD8RMnjTE+lVtBz/a27Tpmp9z6/cL6j8=;HJWnpNUNPiD/2NWSkrj0rg=="
 ---

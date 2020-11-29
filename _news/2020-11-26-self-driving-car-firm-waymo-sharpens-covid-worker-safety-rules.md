@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/waymo-places-stricter-covid
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/waymo-places-stricter-covid-safety-procedures-for-employees"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -19,63 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "U.S. regulators open process to ensure self-driving car safety"
-    excerpt: "US auto safety regulators on Thursday said they were opening a formal regulatory process that could eventually result in the adoption of new safety standards for autonomous vehicles. The National Highway Traffic Safety Administration (NHTSA) said it published advance notice of proposed regulations to get public input on how to ensure the safety of future self-driving vehicles."
-    publishedDateTime: 2020-11-24T16:15:00Z
-    webUrl: "https://www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/"
-    ampWebUrl: "https://www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/amp/"
-    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/u-s-regulators-open-process-to-ensure-self-driving-car-safety/amp/"
-    type: article
-    provider:
-      name: Windows
-      domain: compsmag.com
-    quality: 44
-    images:
-      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
-        width: 960
-        height: 675
-        isCached: true
-  - title: "Japan begins first regular operation of free, self-driving buses"
-    excerpt: "A free, self-driving bus began running in Sakai, Ibaraki Prefecture, on Thursday. This is the first regular operation of a self-driving bus in Japan, according to the town.The town purchased French-made vehicles that have a capacity of 11"
-    publishedDateTime: 2020-11-27T02:28:00Z
-    webUrl: "https://www.asiaone.com/asia/japan-begins-first-regular-operation-free-self-driving-buses"
-    ampWebUrl: "https://www.asiaone.com/asia/japan-begins-first-regular-operation-free-self-driving-buses?amp"
-    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/asia/japan-begins-first-regular-operation-free-self-driving-buses?amp"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 44
-    images:
-      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/20201127_selfdrivingbus_YomiuriShimbun.jpg?itok=jgbubST_"
-        width: 763
-        height: 509
-        isCached: true
-  - title: "Regulators receive a roadmap toward smart self-driving vehicle policies"
-    excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Lawmakers at every level of government are still sorting the new rules of the road."
-    publishedDateTime: 2020-11-24T17:04:00Z
-    webUrl: "https://www.autonews.com/mobility-report-newsletter/regulators-receive-roadmap-toward-smart-self-driving-vehicle-policies"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_0.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Regulators receive road map for smart self-driving vehicle policies"
-    excerpt: "While the self-driving industry has shown readiness to begin an era of transportation that no longer includes human safety drivers behind the wheel, regulators have not been moving as fast. Waymo has expanded its rider-only operations in metro Phoenix."
-    publishedDateTime: 2020-11-25T14:12:00Z
-    webUrl: "https://www.rubbernews.com/automotive/regulators-receive-road-map-smart-self-driving-vehicle-policies"
-    type: article
-    provider:
-      name: Rubber and Plastics News
-      domain: rubbernews.com
-    quality: 4
 
 secured: "1GVCFSSoM2v1DUbEfjiv1NkZ5kt0aaLwGF5w5+1dJClLDXFVVGWDMYMr0W8iUKnTctXkTH1zyt69aqjJRkxgr4onfWcUotu9+SB/nNwuiMOpLabT+Iv8fEyU2XluoXkqTZKMrH3lxmzSI5N14fwkzdP5bHKp83GKBGZfp67Cp8b/jKZmwpXMNrJHDCXb3V6eB5I+JEkb0yAIUmnfc5EeSeNvybjUxQhQ6IgHfE8+73uvWYv5e5jrQj/M3Djx43dvaW2YPojandV5/q28/zorXqePWC9EmQYN4aPaQX6Y/owbu3Vp6oVXfUxrlWnj4hwAkr2H32GAF/t5rsdIfUzy6wi0hpepn3HWrP4BlFfUygNTqriwRFxQRSFc7cGpjnPwl+ejvJ6OODM4ALzXKMqebfVMqdgz6BgUcHL64d0DaNsT/2/u7p62h8KJrr8yvo26edqHSctqNVvxy+RwzJuBaw4jnnw2CrqEEixOH7bSWRmu8K8dY0OleiAYu3nMD73+gZc0l8Vis26WEB2vGdSZCw==;+ePBfe0A2I3HnnSn+KkFhQ=="
 ---

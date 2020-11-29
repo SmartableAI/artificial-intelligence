@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube's AI-generated video chapters could help you skip lengthy intros"
-    excerpt: "YouTube is testing AI-created automatic video chapters that could save a lot of time for creators and viewers."
-    publishedDateTime: 2020-11-24T15:24:00Z
-    webUrl: "https://www.engadget.com/youtube-ai-automatic-video-chapters-test-144057028.html"
-    ampWebUrl: "https://www.engadget.com/amp/youtube-ai-automatic-video-chapters-test-144057028.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/youtube-ai-automatic-video-chapters-test-144057028.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
-    images:
-      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F8e2b1fd0-2e59-11eb-8b74-dd0c004760d7&client=amp-blogside-v2&signature=9365a7f9b0283d42c74833376c09019bfac07745"
-        width: 600
-        height: 350
-        isCached: true
   - title: "YouTube is testing AI-generated video chapters"
     excerpt: "The feature could save YouTube creators from having to manually add chapters to the descriptions of their videos."
     publishedDateTime: 2020-11-25T17:36:00Z

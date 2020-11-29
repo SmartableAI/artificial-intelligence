@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-us
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
 type: article
 quality: 60
-heat: 120
+heat: 90
 published: true
 
 provider:
@@ -27,48 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "GE Healthcare’s new chest X-ray AI double-checks ventilator tube placement in COVID-19 patients"
-    excerpt: "GE Healthcare has launched a new algorithm that can read X-rays and help assess the correct placement of ventilator tubes in patients under critical care."
-    publishedDateTime: 2020-11-24T15:12:00Z
-    webUrl: "https://www.fiercebiotech.com/medtech/ge-healthcare-s-new-chest-x-ray-ai-double-checks-ventilator-tube-placement-covid-19"
-    type: article
-    provider:
-      name: FierceBiotech
-      domain: fiercebiotech.com
-    quality: 42
-    images:
-      - url: "https://qtxasset.com/fiercebiotech/1606233616/GettyImages-1212285302.jpg?Kxy_9p9pK18xlhmAzO._1YwgdRaDXz87"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Collaboration harnesses AI to fight COVID-19 in hot zones"
-    excerpt: "Berg will work with healthcare professionals at AdventHealth to track COVID-19 in targeted areas and use resulting data to improve patient outcomes."
-    publishedDateTime: 2020-11-24T15:58:00Z
-    webUrl: "https://www.outsourcing-pharma.com/Article/2020/11/24/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones"
-    type: article
-    provider:
-      name: Outsourcing-pharma
-      domain: outsourcing-pharma.com
-    quality: 39
-    images:
-      - url: "https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/outsourcing-pharma.com/hot-topics/covid-19/collaboration-harnesses-ai-to-fight-covid-19-in-hot-zones/11974039-1-eng-GB/Collaboration-harnesses-AI-to-fight-COVID-19-in-hot-zones.jpg"
-        width: 750
-        height: 435
-        isCached: true
-  - title: "AI Detects COVID-19 on Chest X-rays with Accuracy and Speed"
-    excerpt: "The machine-learning algorithm developed by Professor Aggelos Katsaggelos outperformed a team of specialized thoracic radiologists — spotting COVID-19 in X-rays about 10 times faster and 1-6 percent more accurately."
-    publishedDateTime: 2020-11-24T15:55:00Z
-    webUrl: "https://www.mccormick.northwestern.edu/news/articles/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed.html"
-    type: article
-    provider:
-      name: Kellogg School of Management
-      domain: northwestern.edu
-    quality: 37
-    images:
-      - url: "https://www.mccormick.northwestern.edu/images/news/2020/11/a-i-detects-covid-19-on-chest-x-rays-with-accuracy-and-speed-social.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
     excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"
     publishedDateTime: 2020-11-27T16:25:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 940
         height: 529
         isCached: true
-  - title: "The Rise of Facial Recognition in China’s Real Estate Market"
-    excerpt: "Some homebuyers counter the rise of facial recognition technology in real estate offices by wearing helmets during their visit."
-    publishedDateTime: 2020-11-24T16:15:00Z
-    webUrl: "https://www.whatsonweibo.com/the-rise-of-facial-recognition-in-chinas-real-estate-market/"
-    type: article
-    provider:
-      name: Overview of China's 2016
-      domain: whatsonweibo.com
-    quality: 19
 
 secured: "S6CAdvAwC1PRH1XqLo1RIpgj55U7Nxhfjjy4oNSGs7VXFlqpdSnSz8/HbLEWYbLpKYCtiRw9X/rX+Fe0TvEo9cR5XEgef9PFNX8gMavu5UtWPbP6U80RJnYAgI2zWbLkpQsZI7fmP0CxaxuYPCWSuu0iFeCYvuIGQQaCfeu2135xWYjPTFKrr5WK5tqwB39JmqcVA0P7E9rZlNM/gfrEfUOIO2PpbszDRmuH/9ngYa47bQUV/RH6NaS4yqSi/E5rUduxoK5ZxmSsEnfBbinB33yB3x5sfIZfnPZ6JXa650Agljud97iPwxdCHwHl55GRp7Wo7lEZ5Ur+VLhcz2+HuDoiIc+PFLvdAow/2t39DwwfG11nZRfs24JX4GXJ6wP77+/yBZfoxapGq/RaqlPtdowma1IR1H0efEDZVUJ2fpD2snWqYjLKspYgXm6sEH6fTJfjONNId8ycyDjMnS16GAJuVH0eKJmZ/hKkC/ilU+BlwlpC9EcwMWr+JvP/BexVpLDCwEMeWHyUV1kyvtV2sA==;t4y6dpLVWq3Lt2NmhQa0uQ=="
 ---

@@ -59,15 +59,6 @@ related:
         width: 800
         height: 406
         isCached: true
-  - title: "The Rise of Facial Recognition in China’s Real Estate Market"
-    excerpt: "Some homebuyers counter the rise of facial recognition technology in real estate offices by wearing helmets during their visit."
-    publishedDateTime: 2020-11-24T16:15:00Z
-    webUrl: "https://www.whatsonweibo.com/the-rise-of-facial-recognition-in-chinas-real-estate-market/"
-    type: article
-    provider:
-      name: Overview of China's 2016
-      domain: whatsonweibo.com
-    quality: 19
 
 secured: "VP70M/vUuMnUrhnf7iOQWHf9I+giZTg5cAnMWHakNqNZ5cYEl1uFCR93KErinnmIk6RvtvXSEeFiqC8xLXkypC2kSSWvaoYAbGCd3ZAvbJRNy8UpDa7nZKyFkVj3ibE1wQUdVekMv7GPX4iUQ6Gwl0Xutej5ftPwC/QGMGpiuLqs7wJN1NVLCA7ZuruyDOlNSmDoCUKkejYVrM2839cxLWbMxFsnTnejqO3ERwAoMS5KW4z8WgANK3hWWe8VECpSxtJM2EqtwF3yYot9HlJoiChzit384NqRBfcvRcGF3/9qShOQpP72E2PEySSr2drNxc4CBtbxsxCXvXxiLAjB/u0ifcZqCq5AAb3lwP7D42fC6K4Wqnj0Bx1RdU5iqu2Uy5lbujIGmt4M976blRd4ziTNiIJlyWKwhaH80IK0WrQ96/uYx+1PRQlfBBeZNDx4vOVtmdFvurOODbSLGFRGkmK1o5/Xmg/YmhQbA2ZMqz4kuftVVOxSMakim84GAv45SEJx2azJaoksT8rQAdcizg==;zjKQT4CR/A5uAG6LivyVdA=="
 ---
