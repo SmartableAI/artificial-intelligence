@@ -155,15 +155,6 @@ related:
       name: galusaustralis.com
       domain: galusaustralis.com
     quality: 36
-  - title: "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forec"
-    excerpt: "ArtificialIntelligenceAIChipsMarket--The artificial intelligence (AI) chips market is expected to grow by USD 54.03 bn, progressing at a CAGR of over 42% during the forecast period.Click & Get Free Sample Report in MinutesThe increasing adoption of AI chips in data centers is one of the major factors propelling market growth."
-    publishedDateTime: 2020-11-25T20:33:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=381643"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 9
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
     publishedDateTime: 2020-11-26T09:43:00Z

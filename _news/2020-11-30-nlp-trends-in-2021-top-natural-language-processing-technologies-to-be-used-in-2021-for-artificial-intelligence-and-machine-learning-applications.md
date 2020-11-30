@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-30T09:41:00Z
 originalUrl: "https://newstrackindia.com/newsdetails/2020/11/30/1-NLP-Trends-in-2021.html"
 webUrl: "https://newstrackindia.com/newsdetails/2020/11/30/1-NLP-Trends-in-2021.html"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://newstrackindia.com/static/d3/img/nti-logo.png"

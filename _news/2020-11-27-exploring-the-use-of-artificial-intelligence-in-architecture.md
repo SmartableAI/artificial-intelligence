@@ -8,9 +8,9 @@ webUrl: "https://techxplore.com/news/2020-11-exploring-artificial-intelligence-a
 ampWebUrl: "https://techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: techxplore.com
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://scx1.b-cdn.net/csz/news/800/2020/20-exploringthe.jpg"
@@ -42,6 +43,6 @@ related:
         height: 1707
         isCached: true
 
-secured: "ycRDsRXfKbMJWYLGG8iHDBgcqKgvlzovnZZJN8ZZI03aGs2tenm8uS4uOyM6QrPOar36ppGZ9JNzXDjkwD4zn4V2+4kI4PHaxFEY3VDIevd/Od+QOuc4oNDZOPUfdw/z6+fHDm049OzrQ/MF8hMj/rRcuF7K1vvgAdQRuwLL9FGTUh+1k/yYHmVuvo6ifcDaAOx9UywHLoVqbbzlF4nItPFTE8ZQMfHCkElGPmnRhOXp2GHq5O1VAUmlZcXztqXzVz2D8NEkYWTrKA7YpWEQaEKX0hFBTBqqVMHk+WcGGxcy2fFmmcYoWReKnoYIAhr68oRZd6vUQxf+/xOem5QACEKfQqKF/ehqePFmdw3keNc=;kwmMAReObLwx+nHo5nmqGA=="
+secured: "VThznEX7NVB1HzkQvghMS916zrNFMIFFO2RUmcYOFDYCIY4f1ZkWjExX45f44qTaw2xJU3nUELEdQ++sDaPeD+vvbZIs0fw85b59d4BFHRPGun1GXPwcUbI/RRR37DA2s2SjY/ytWjiVKVHNv3qkl7P83woVtNX0vUzuTD5R2KJxOJGID3R1IhGIkVUOYmJSAbo7b90bBEHcatvB7WtfnRfqZGzd+Yg87HRla7/vN/+IOGTllUUQf35PGsoVe5nFkhWm1U+49HYTHwAsSQgCwiuk0xrYJK6hn1RZPDXSOVfv8B+JHstRjy7ZxgO4DpCq6HM9bkq2Cx+DINETB7oKSBgpyog+yw3Oj4fxQhY05/TvGM7z3ngNO2vIvFkp+5yJnf7g9Jxvnpt9HHvg2iUy/1PQnWFtmC6opWB4jB4AvOXQqCpZ9W4Z3oME5JJHgR/lOgl18M9TzBMp3Rn2OiS5BDgiNeLdjUwqrT+jJ6T6Mo4XyAIzNuwLZIGjklwo+fIP6f5fkByOEhbDrgQtelv3XQ==;eVFwv7pTt58cVXL5zNvN5Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/computer-aided-robot-design-1130"
 webUrl: "https://news.mit.edu/2020/computer-aided-robot-design-1130"
 type: article
 quality: 84
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1000
     height: 666
     isCached: true
+
+related:
+  - title: "RoboGrammar: Automated & Optimized Robot Design for Traversing Various Terrain Types"
+    excerpt: "MIT researchers’ new system optimizes the shape of robots for traversing various terrain types. So, you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person?"
+    publishedDateTime: 2020-11-30T11:57:00Z
+    webUrl: "https://scitechdaily.com/robogrammar-automated-optimized-robot-design-for-traversing-various-terrain-types/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 47
+    images:
+      - url: "https://scitechdaily.com/images/RoboGrammar-Optimized-robot-Design-System.jpg"
+        width: 1500
+        height: 1000
+        isCached: true
 
 secured: "D5y+mnKY3XJCL6j7lyAZhYNOWpEuCDbedqQ1yiX7O10hN9c5bcyVllen7PGbsOHb/tUQCVIOvA4nNHCmDxGMK1NFikiBXYnXeusfFel5nje6WvsitX2nygEBD8ITT50vCN+03CHd9J/KqGKx9fVOng8BOsN5Gd6dRoffAPI2n24eBbZbZHFRaquGn99yBpUffy3fMxWyWPbiFAh/prJEeZtxFx/TpTR/GFyHnrTx0OpErY55myECVs2ZlteJ29KGTELL1sZRtyoeG82k0fxpHYbtg0ADSnbllU93W8LWm9jvk+dTzTig5vjcQZH91gWr00jJ8c4QdK1DkMGOSLn6Z7Yi4r/QUl/vHJGu5Qqv9r8SaY5XNJhSOe1julIG2PEeWI9/8sAgEJeNmk11+veRwuZUymVvl3G81SB/orcZU+zdUAGmW7aQeVUXDQX94uhZvggsw9mKcbBs1726iaIItWg7q8N3sdyErXAQgfxoA2cxS4csTpqRAEYZjGQO5YxffLNviqZyM4OMyDqTgHvDfw==;AJgVG2E3qbk5d3+Nv+/3Og=="
 ---

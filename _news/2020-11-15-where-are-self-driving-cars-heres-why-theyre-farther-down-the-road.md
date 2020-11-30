@@ -1,77 +1,28 @@
 ---
 category: news
 title: "Where are self-driving cars? Here's why they're farther down the road"
-excerpt: "Autonomous vehicles are, alas, still in the future. Here's why you can’t buy a self-driving car today and a place you’re likely to find them first."
-publishedDateTime: 2020-11-14T20:30:00Z
-originalUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
-webUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.html"
-ampWebUrl: "https://tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
-cdnAmpWebUrl: "https://tucson-com.cdn.ampproject.org/c/s/tucson.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_ae18bc03-6f55-5696-bbff-0e24130b0599.amp.html"
+excerpt: "Tesla made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your ..."
+publishedDateTime: 2020-11-14T21:15:00Z
+originalUrl: "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html"
+webUrl: "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html"
+ampWebUrl: "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html"
+cdnAmpWebUrl: "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
-  name: Arizona Daily Star
-  domain: tucson.com
+  name: Napa Valley Register
+  domain: napavalleyregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/1/c9/1c98e1ac-23d8-5de6-932a-eb2f1df3be72/5fab0ac24a948.image.jpg?resize=1024%2C630"
+  - url: "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/1/f1/1f14a678-15c3-577f-87e7-8883e8dd216b/5fab0a50e4993.image.jpg?resize=1024%2C630"
     width: 1024
     height: 630
     isCached: true
 
-related:
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-18T08:55:00Z
-    webUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.html"
-    ampWebUrl: "https://techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-radar-enable-self-driving-cars-weather.amp"
-    type: article
-    provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/upgradedrada.jpg"
-        width: 849
-        height: 1872
-        isCached: true
-  - title: "New radar helps self-driving cars navigate safely in bad weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that they accurately predict the shape and size of objects in the scene."
-    publishedDateTime: 2020-11-18T12:31:00Z
-    webUrl: "https://knowridge.com/2020/11/new-radar-helps-self-driving-cars-navigate-safely-in-bad-weather/"
-    type: article
-    provider:
-      name: Knowridge
-      domain: knowridge.com
-    quality: 24
-    images:
-      - url: "https://k6b8f3f9.stackpathcdn.com/wp-content/uploads/2020/11/New-radar-helps-self-driving-cars-navigate-safely-in-bad-weather.jpg"
-        width: 700
-        height: 511
-        isCached: true
-  - title: "Upgraded radar can enable self-driving cars to see clearly no matter the weather"
-    excerpt: "A new kind of radar could make it possible for self-driving cars to navigate safely in bad weather. Electrical engineers at the University of California San Diego developed a clever way to improve the imaging capability of existing radar sensors so that ..."
-    publishedDateTime: 2020-11-19T00:28:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc--urc111720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/249160_web.jpg"
-        width: 480
-        height: 360
-        isCached: true
-
-secured: "YoPooa/boWhFkjIxgoFf+o8ugPJtPvpsYPVl8bG9TEZ95cJ80YMj1hDBAA2ej8r77e4gRopCaZC25fuTtszhKN5s3LISLvr8d2+VGCfCLFi8R5ZpCcDeXC6nbWw+9Z2c5cnhOe/wdsTqyP8hvmiAO6nt1hsA176newTrLUtsvYBO328QwjwZ0AInTH6+NcrzK4tsDL6OWT1GmCwCDwWrBuVZtIo4bioVm/bmOlCnPlcBeJa1m8eTYx1Eqnwe+ugYaQf9aDVIhDfcqiwyqWGyoWhPQElSh9tRVR0etFQYbc3m4At6t9VO9ApRh8sHbO08UykOH/xe1EBbthOEI8pD8j4Qa0UpkMe7TKmZ32GaZ+GHSBG6Vh44WU6Fth+P4xMENMfdIzW4/sLbEKktAyiL4bJjQtZsJ4jqkeoCl/bQkZmtqt3ToQoE9xI33Y9SlvokB7ni5AXWyZAhtD6MfCC98eFjov42YsMpY9ePZo+NzHMpqVjWKZ5eP3E2km8tRMN9P08PZqxCXlfxGKSi3q0FjQ==;iJ+iordyjdHGYSDxKqCfGw=="
+secured: "Gz+CyBctDdl6Ph6liSjGiJOdSXqAbjo+Apbbeul184dAebaX9G6SSDUmP7ImD5tnH8dpVoHC8kmRXRFE00HHhaVUmC3ehu4OUr1b25Pkk/gK+H2+/07W+CpkYwoY5b8+ABcb6JdDIyxhIyetcxX92NlSZZptmaSf77fOLHGMt+EcE71tCvTwLuM9uFIyJ5qoOvxLkh0PU3KwUhMmXtvh++A1hACAqFSa2XirBNclSSlcfLs/avWHQfVmoUjfbH5Ce+dv2FAW+hegoXORMN0qiSw9ivHQAGl2n+stNh4xDTnwB9D3PN5poF5cxlU8oQePPVbIsw+pHYG7v8k3jQTORr2NYkiVR0LkXtyAQbJNbZo=;53jIP+ws93lfKIiYf3uWkg=="
 ---
 

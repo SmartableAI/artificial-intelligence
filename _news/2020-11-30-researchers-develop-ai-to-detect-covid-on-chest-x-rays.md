@@ -26,21 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers taught AI how to judge a video game by its cover"
-    excerpt: "Have you ever seen the promo art or box cover for a video game and thought “what the hell is this even about?” Well, wonder no more. A pair of researchers have combined cutting-edge image recognition and natural language processing to create an AI system for video game genre classification."
-    publishedDateTime: 2020-11-25T20:54:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/"
+  - title: "Northwestern University Has Developed An AI System That Helps Detect Covid-19 On Chest X-Rays"
+    excerpt: "Northwestern University researchers announced that they successfully created a new Artificial Intelligence (AI) radiology tool that can detect Covid-19 in chest x-rays. The study has since been published in the journal Radiology,"
+    publishedDateTime: 2020-11-29T21:45:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 87
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/gameclassai-796x392.jpg"
-        width: 796
-        height: 392
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc3d7e77159da32978948e1%2F0x0.jpg%3FcropX1%3D644%26cropX2%3D4904%26cropY1%3D0%26cropY2%3D2396"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "ewXfOQHOGM1y9ZGwoj8UqCR7/Hoo2seP5SfqCX08BowEjyH0wQihhAFXfUTFlZYiPeU8SrAb/r0szKN6t2lRsn1xm0iM+TBDuhLkPc280haoAWKoLGKNuaH1oQ07EKmLK6YWkcjWNwE3NgjLgGwKzo+KbLTJrbVmZMpVD3ks58CtKF8ZtVdrV5jD/YaoLkg6JV4v/GIKksEmnFE8Ax88vKXHO7ue1ATozn7GfCaaomQpFdqjvNYq4d/NtcWQG2yfj4G0P+7jRjqF6tUYWb7hHrzg5Rqq1agKHRYvtgmk3IY7UX7MqH19aMvMzp0lxvoTlg7FFKj8MVfFdBPKdcNha0OY9lnIPoSdV1ZC0YVW/8g=;0P4/pfI3b1CR7ImWMu1DPQ=="

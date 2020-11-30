@@ -3,8 +3,8 @@ category: news
 title: "The 10 Coolest AI Chip Startups Of 2020"
 excerpt: "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads."
 publishedDateTime: 2020-11-26T15:08:00Z
-originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
-webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
+originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
+webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
 type: article
 quality: 54
 heat: 64
@@ -40,6 +40,6 @@ related:
         height: 628
         isCached: true
 
-secured: "Qq6G7+Ebk3+RJUtZhVbBV7WPdGVFwlTeAvgI5zkQ7sQtPj/TlhKh00yJD0XBCVDZQ6w6IIVjBZ4lbhavBbC+eHvoo77n0E/5YycMYLZv7zsEiy9i8TXOyAHKnGDeXC3b7aOf7Kmkq0oMmHxDNdKUQQ9mIyIhpeiQriPPMGCC0BcOFrJOjleXbivBx43JJoDrizpzk32STsCQim936vv2OLMAoKdPQow79v9u43qluaRFyGpxEuH/ASAlYsvzxmckpPElGSHpxlro7p4SxqxdqwV/BOfVvhrnoRuukCxMl54Nf1u9KnrAXvY8DPuYpFpj6Cl4FZEFeliJVIp2lDL+2O8ZysmJrM6Cz0meFsGDeyU=;lLhZO+/v9uubXzZ3abm9Ow=="
+secured: "RPqkGrCqilqBrGfDbc5NcgzBw+piy9SczCY6RfMeTqtOVjUOxy0qLCssXKws5Skxd6VGO/Ysn0lypyUQfsnsI/eSxXviz2HD6KLEQ9LXsHLYHI7N5kefMAEYHoSvh8UlxgFwq8+zLQix34vD7Ma/A0baYn2OmG8jfCf8R9GkRE2BPWaE8O5TVYlYdUvvy70VWP/Rt7XbZbksFsvTq2+wEwTR5kQsWWvVPfkAo9aPiFBfeomixWQZkV5131eNMoIzCFu4Ny0ub9xA7QpgWaef2zpSGYxVCJtAbFY8lq9Imf3v8T+VfIrLO8MiTwVjZO1tcJH20lRxXFGfR9wrVFxwy0w8l+QOlUXvFmce63NPkBQ=;XKQg6tEvmb1+4BrEYVFakg=="
 ---
 

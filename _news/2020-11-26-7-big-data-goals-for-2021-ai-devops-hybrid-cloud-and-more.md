@@ -38,7 +38,7 @@ related:
     provider:
       name: Newstrack India
       domain: newstrackindia.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://newstrackindia.com/static/d3/img/nti-logo.png"
         width: 439

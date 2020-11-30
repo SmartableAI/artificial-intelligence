@@ -41,6 +41,22 @@ related:
         width: 650
         height: 366
         isCached: true
+  - title: "Beating Facial Recognition: Japanese Store Wants to Purchase 'Face' to Turn It into Super-Realistic Mask"
+    excerpt: "As part of the 'That Face' project, Tokyo-based Kamenya Omote is paying to collect face data and turn them into 3D-printed masks with an incredible level of details"
+    publishedDateTime: 2020-11-30T11:31:00Z
+    webUrl: "https://www.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
+    ampWebUrl: "https://amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 42
+    images:
+      - url: "https://data.ibtimes.sg/en/full/44600/mask.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "sUsdRYkvH94ZUHzpaEhB4yCtWxLZa3Dfjm4WL6r4gNGOi+tyXfkDGKjoXFKqRaPMMY/kD7hq4DrOmUzMeIhzrE964wmjdQItpbounhjcipXPu6Tx54aNAetFoNMA3xxH7yRZMljHe8Dhw0U0C3Gog8hDiG8SdyhooNoOhr/AKwPuHsSDko+YfvT67VlDUVKGahf8W1S7U1ENjUy9ucHQ1cZU8I1K9+/MMF56noh08PLgwQ0XhAskrnDWjjoEjjXw1Y5PAgWwUrNZl7SCswslvQcKtbdaChS79OzLlejXpEhY9ZXYeVbX1ExbRCoGzbe2rH8mS5j3wXlZD1vd/B/1b4cuCvN+54DnPNzdOcvDQgs=;jUf0f79b1XLrRUUwjNysCA=="
 ---

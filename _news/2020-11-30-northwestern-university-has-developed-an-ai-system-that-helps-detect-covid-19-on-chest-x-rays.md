@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-univers
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Researchers Develop AI to Detect COVID on Chest X-rays"
+    excerpt: "According to the study, published in the journal Radiology, the research team believe physicians could use the AI system to rapidly screen patients who are admitted to hospitals for reasons other than Covid-19."
+    publishedDateTime: 2020-11-29T16:47:00Z
+    webUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/"
+    ampWebUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 57
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/11/5c9572d44bc20c59d7e2da8fdff0a0d9.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "DhbAZbMqaOqxaB7plJGy4uzAX9j/kDiireBRo1488OtcBTA3GmOl839G5NK01HVKtLzMBcu9v5zGBACzEuDLRG/4lHbFAO07NLoxMT6TyCgEnEpwepwzn8PihRBcHXV9Cmf7beAWM5GHPtqCjX8guCgEgMNF8Hv4LOQtU/cJehLcEVMVI/Tdp19uFXlbqySgEL24VG4Kt3zzaT2ctvdoJJ2rHPBQp0EDgK9G1rDewGXNMaLUkL1LtdXIJqrQ9V5qqJHlJ+aj+h4bTEdE3JO0bQjy8nurhTutsJ9+OuuLG8KhSI83uNkQSVHd2oDPElX7Ia4xm6qR1xFlN4KehO6Xl8aHnSuZLKTg7fhR3D8/5jaIZ1YGiONZQIFFHYy5x5ruI35AaBXLeoPN50KC0uLT19T9iE4R6ggiq+MjupLkcnCmXmESzCWSDn0LbqRRHxQA8R+GAY9WiR/6JUX+qtZ1pWlYJZUhP4/Q21NjmPB5qB/1TzquChVVwqqUDlGt9sa8dUzbBh9uFBtwXFySyFZUSg==;v2PXUmQrv87vPfRvyoK3cA=="
 ---

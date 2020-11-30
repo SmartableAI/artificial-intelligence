@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-10-19-waymo-launches-fully-autonomous-fleet-of-self-driving-taxis.md",
+      "title": "Waymo launches fully autonomous fleet of self-driving taxis",
+      "excerpt": "The age of self-driving taxis has arrived — at least, in parts of Phoenix, Arizona. Self-driving car company Waymo, owned by Google’s parent company Alphabet, announced its autonomous vehicles ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartcompany.com.au/technology/self-driving-taxis-waymo-pheonix-arizona/",
+      "originalUrl": "https://www.smartcompany.com.au/technology/self-driving-taxis-waymo-pheonix-arizona/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartcompany.com.au/wp-content/uploads/2020/10/Waymo.jpg",
+          "width": 733,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartCompany",
+        "domain": "smartcompany.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-18-when-self-driving-cars-dont-realize-theyve-been-in-a-car-crash.md",
       "title": "When Self-Driving Cars Don’t Realize They’ve Been In A Car Crash",
       "excerpt": "Will self-driving cars realize when they've been in a car crash? getty. Have you ever been in a car crash? The odds are that if you’ve been driving for any notable number of yea",
