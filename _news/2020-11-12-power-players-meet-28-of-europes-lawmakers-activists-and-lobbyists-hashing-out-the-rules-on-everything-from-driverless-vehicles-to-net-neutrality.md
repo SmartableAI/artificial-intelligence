@@ -18,6 +18,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Facebook AI
 
 images:
   - url: "https://i.insider.com/5faacf281df1d50018219e55?width=1200&format=jpeg"

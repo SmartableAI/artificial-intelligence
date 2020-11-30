@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Medical Market 2020 Opportunity Assessment, Key Drivers and Challenges, Growth Rate and Forecast to 2025"
-    excerpt: "Global Artificial Intelligence (AI) in Medical Market 2020 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2020-11-25T10:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-medical-market-2020-opportunity-assessment-key-drivers-and-challenges-growth-rate-and-forecast-to-2025-2020-11-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
 
 secured: "7RqYY/2LLQkY5kG8V09AsdbewUAAlxG5b3vAM+FYyDSND9q6w2cL72VPklKJg7bXCcbxspGDQGzRP+rYDf6+sXb2rdjIQ10Jm3s4QoBA12nNjJBPhSYEt9OBz/QSHNCgSPnliapkvsFWgLme1bxpEHP8My4wDMobXKLoWmnNKP7Vr5i1EYZX3Xz9XSUiD1kITCYVa6PE/8NK+pGkUT5p5MjQAA5hc+03IfGfwwBd6onXJlzoh6augecE88Sd7fPm4xAvkdG1mDf/+ag3gfG4vo7ZjLDsr4y1p6j1x8a1mqQrZSyEAOUkz/pGoOSb/AhhuQIezMQDt9ngMWMG/hByGMl/vMhVpifhRf/4sELZwGA=;J80vMqhMMP1H0DNEiUTjnQ=="
 ---

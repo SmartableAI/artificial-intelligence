@@ -7,7 +7,7 @@ originalUrl: "https://www.futuretravelexperience.com/2020/11/etihad-trials-facia
 webUrl: "https://www.futuretravelexperience.com/2020/11/etihad-trials-facial-biometric-check-in-for-cabin-crew/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,15 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Etihad Airways launches facial recognition trial with SITA"
-    excerpt: "The airline has partnered with information technology company SITA to trial the use of facial biometrics in order to check in cabin crew at the airline’s crew briefing centre at Abu Dhabi International Airport."
-    publishedDateTime: 2020-11-25T09:38:00Z
-    webUrl: "https://www.breakingtravelnews.com/news/article/etihad-airways-launches-facial-recognition-trial-with-sita/"
+  - title: "Genesis GV70 Will Let Drivers Start Car with Biometric Fingerprint Recognition"
+    excerpt: "The newest version of the Genesis GV70 will reportedly use fingerprint recognition to deliver a slew of smart driving features"
+    publishedDateTime: 2020-11-27T21:22:00Z
+    webUrl: "https://mobileidworld.com/genesis-gv70-will-let-drivers-start-car-biometric-fingerprint-recognition-112704/"
     type: article
     provider:
-      name: Travel News
-      domain: breakingtravelnews.com
-    quality: 34
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 20
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/HiRes17-e1439918209915.jpg"
+        width: 800
+        height: 692
+        isCached: true
+  - title: "SITA, Nagarro and NEC each help airport partners expand face biometrics"
+    excerpt: "Etihad Airways is trialing face biometrics from SITA to check cabin crew into the Crew Briefing Centre at Abu Dhabi International Airport through their own mobile devices, Khaleej Times writes."
+    publishedDateTime: 2020-11-25T21:43:00Z
+    webUrl: "https://www.biometricupdate.com/202011/sita-nagarro-and-nec-each-help-airport-partners-expand-face-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+  - title: "Report says lack of diversity in face biometrics datasets extends to expression, emotion"
+    excerpt: "A pair of new studies on algorithmic bias in face biometrics both suggest that the lack of diversity in datasets needs to be addressed. Research on expression imbalance suggests a way to make the"
+    publishedDateTime: 2020-11-27T22:14:00Z
+    webUrl: "https://www.biometricupdate.com/202011/report-says-lack-of-diversity-in-face-biometrics-datasets-extends-to-expression-emotion"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/01130554/biometric-facial-recognition.jpg"
+        width: 730
+        height: 499
+        isCached: true
 
 secured: "CvC69BhG4dsd+mL2uk5mRxlnzUl6KVzISzPWxX5zLZFI2FzjYnEi+nIIWhOuR0h1j2VC0bUdlmTe1QKzbYLOWlCejdKpj1Q+8pEmAkwWzZ0owOMjQIZZcH1c9kH75FxPmgwtTudiAvldTtaUMKnNivJdnRYWr6fqBohrkqhrvs0g9V+8wDSibPLdsNiiMmh6GCWh8BQe6XP+TMJ71kqNmiWhxtkhY80zZgQFC2AkrH98WewGfk0BqJYTCtIYIcRVkUSy5CpHEXUezyyb3djNhAP22BWAwyna0Y+hCsbUPJEl+PYr8ZREZVgAA7D3nh1/kpHq+g/N5v6tcOmxra2poyAMJD8TlElavyvsqV2lNN0=;Kd+AFDcx85fu9VWlHPGcZw=="
 ---

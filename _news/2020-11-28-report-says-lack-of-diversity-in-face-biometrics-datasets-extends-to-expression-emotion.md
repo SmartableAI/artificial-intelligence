@@ -25,6 +25,34 @@ images:
     isCached: true
 
 related:
+  - title: "Etihad trials facial biometric check-in for cabin crew"
+    excerpt: "Etihad is trialling SITA's facial biometrics for cabin members, allowing them to complete check-in procedures digitally via their own mobile devices."
+    publishedDateTime: 2020-11-26T11:51:00Z
+    webUrl: "https://www.futuretravelexperience.com/2020/11/etihad-trials-facial-biometric-check-in-for-cabin-crew/"
+    type: article
+    provider:
+      name: Future Travel Experience
+      domain: futuretravelexperience.com
+    quality: 24
+    images:
+      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2020/11/Etihad-cabin-crew-facial-biometrics.jpg"
+        width: 768
+        height: 403
+        isCached: true
+  - title: "Genesis GV70 Will Let Drivers Start Car with Biometric Fingerprint Recognition"
+    excerpt: "The newest version of the Genesis GV70 will reportedly use fingerprint recognition to deliver a slew of smart driving features"
+    publishedDateTime: 2020-11-27T21:22:00Z
+    webUrl: "https://mobileidworld.com/genesis-gv70-will-let-drivers-start-car-biometric-fingerprint-recognition-112704/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 20
+    images:
+      - url: "https://mobileidworld.com/wp-content/uploads/HiRes17-e1439918209915.jpg"
+        width: 800
+        height: 692
+        isCached: true
   - title: "SITA, Nagarro and NEC each help airport partners expand face biometrics"
     excerpt: "Etihad Airways is trialing face biometrics from SITA to check cabin crew into the Crew Briefing Centre at Abu Dhabi International Airport through their own mobile devices, Khaleej Times writes."
     publishedDateTime: 2020-11-25T21:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/2021-will-see-the-sp
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI automation is taking over jobs. Will anyone be spared?"
+    excerpt: "While many people may have been too busy staring at screens from 9am to 6pm every day to notice, a quiet revolution has started in workplaces around the world.Automation aided by artificial intelligence has increasingly been taking over"
+    publishedDateTime: 2020-11-30T01:55:00Z
+    webUrl: "https://www.asiaone.com/digital/ai-automation-taking-over-jobs-will-anyone-be-spared"
+    ampWebUrl: "https://www.asiaone.com/digital/ai-automation-taking-over-jobs-will-anyone-be-spared?amp"
+    cdnAmpWebUrl: "https://www-asiaone-com.cdn.ampproject.org/c/s/www.asiaone.com/digital/ai-automation-taking-over-jobs-will-anyone-be-spared?amp"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 59
+    images:
+      - url: "https://www.asiaone.com/sites/default/files/styles/a1_og_image/public/original_images/Nov2020/20201130_robot_pexels.jpg?itok=NGVTfXBT"
+        width: 763
+        height: 509
+        isCached: true
 
 secured: "xNRiRea+lGBd/fK37CAz6lgfS0poOz4tvRQxqpa49PCGbL8NQzSJ4cIfTvOkeXo1hnTHaAmj+iFgusExjIDafyBYc4U/qFw21cx0sXz9byVX7ryDWQVdvP54H+5MGRpcvko2wLFb675BdWZKfrDuxR68RvDfaO4oOtvLAerytGHbhjNmWvH6aMidpwBIM2w+wx/QXCeXgvvVfgV4G+YDUBiN2URdMBa644/lLAVqY4+wUDT45s8zJApjlQ6NGycBaH4JMBub+aeKzBZ14nxJ+G+3a8na7YK1jjbl3yAMLN+LVTHftNuJg3HzciZEiTen8h/F245cKmOF7twNSYcIPPAKqjJlNmTOTsFOeGG/AK7qiUmjU8paz6vRcfTK80e8d8JCnUgQJNSS8hGc4H1F6jvDSuIKLdPcauJfRxTEbOuNnduJBNgAbopr3BKNTM1wa+6/FhKQ1c07f04SzrgWdFaKGidCcNNb0PCue2b/ioz6MseBAxwNVunenD1RPUHOYSKPRGsu0zOqh/dNBeUK5g==;CD1ofZj2nDMyYFmvSoNvnQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turn
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/"
 type: article
 quality: 124
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     width: 813
     height: 454
     isCached: true
-
-related:
-  - title: "Can TensorFlow’s New Face Landmarks Model Improve Iris Tracking In Mobile Devices?"
-    excerpt: "Open-source machine learning platform Tensorflow has announced that it would be adding iris tracking to its face mesh package."
-    publishedDateTime: 2020-11-25T10:32:00Z
-    webUrl: "https://analyticsindiamag.com/can-tensorflows-new-face-landmarks-model-improve-iris-tracking-in-mobile-devices/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 50
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "nGDGXYZlvJk9ftuYeKgkRXAa+8ZebO5kbfy/xzcvcHzF+AOAGzfbKTcAsxYKm7/elpcPYEKNlRNzflYm7+KXqrEQBemS2BFpt6+jIccenMVJ6j/do/rdhCZDAfybhBUR1ep/y3JNeaR2KKmSjs3mpMbIOqw+i+6jqaOYUxCHdStKArqQx26EV2tZ7nUCMdu7tgAdHaamAPVr+E4dzEtelfJIJ3eDyM54qn1AvHNeiYa62LkRb+yddbfA6Zzi7Xmyyl8NmBXC+Mh/tBUhpMkxqUyFBCG4t1/gNyinm34JvDidBqe/Z5V7XaswaGoC1rdHDYhUki368QtqaBIoF/8yAxTcs0dpbblK1qgfUW5BEOp5QSw/dlwpEB4vaZqrPRHjCrJzOFHLgYS1Kw2LwdsvB+UjufkRk1XxlSxN3OP/By0Ugvlxat+oBXGNkV9Gp2G/LMDMWRpHYuuFIIf0N9omidTgg+nUunChqEdEivZS6ECvQyl3+JbSbSdnB0f7iMdcwMKpVNObzPKwngzpJPmD2Q==;Bty6PDq9acy+unQnGtbscg=="
 ---

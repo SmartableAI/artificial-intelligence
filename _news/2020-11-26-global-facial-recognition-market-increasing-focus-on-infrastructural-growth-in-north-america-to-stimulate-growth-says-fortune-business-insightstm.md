@@ -1,45 +1,29 @@
 ---
 category: news
 title: "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM"
-excerpt: "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of"
-publishedDateTime: 2020-11-25T21:29:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18534360"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18534360"
+excerpt: "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by the manufacturers."
+publishedDateTime: 2020-11-25T17:19:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491"
+webUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491"
 type: article
-quality: 1
-heat: -1
+quality: 31
+heat: 31
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Latin America Machine Learning Market Size Estimation 2020 by Industry Overview, Economic Growth Factors 2020-2025"
-    excerpt: "Market Synopsis The Latin America Machine Learning Market is estimated to record a significant growth throughout"
-    publishedDateTime: 2020-11-25T12:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-machine-learning-market-size-estimation-2020-by-industry-overview-economic-growth-factors-2020-2025-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-  - title: "Middle East and Africa Machine Learning Market 2020 Research Study including Growth Factors, Types and Application to 2023"
-    excerpt: "Market Synopsis The Middle East and Africa Machine Learning Market is estimated to record a significant growth"
-    publishedDateTime: 2020-11-25T15:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/middle-east-and-africa-machine-learning-market-2020-research-study-including-growth-factors-types-and-application-to-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-
-secured: "/0mNKxKcQdlFzVglOq2TebyKYFBqO1UFVBkICaFZDFe/OdZs7x7QocWRDWjscgf1qEJUH3YoQ2IWjLnTPacUYT+Kl4KMLVsnT1NDGlv9XAB3wdLdAp7iSCHhOv2XIlj1yhq0EbJyEwWgbQ0mPmEM4BWkwBUqvKPOitnykBa/1kgw9cRm1PFIRQLsfSRzPfFYPo1wr8Ngj8hXtDo4ksP7KKA6iWgvftv2AoqS6aGiSjIEWSNnZ2rIB2hDCrZ1xFJlo/24/IfBQANmULj1oyqHVuZNS981/QPBqhfsT825PFTCu/bNEgQ5WL/ijYMpX3MqIbrMkdC4mB8yTps3wSSB2j4fRUWVy2CQdYuLdcoBLpg=;TjI6xSNVm90Fl/UrEgMYbg=="
+secured: "P8Aeku1KcrNLxTAW7PoyrPRyMMH5vlIUnj9+1Tl0AEZIqw5bIxttvQVkb4cCvTOGNbtz5sCGhlt+kzLWRsPaj4rNAMLwjayphjrrXjLS5I4/QotFNuu2bYtcbBFZ1yvSM6zSUX3M7kno90Z0JOl8y5UlYvrgaKodKI0uzBdFWN14TfVTa6oz0NsJXlHgetRuJ0qtGV08JJ/aRJ6PqUWmS1jlatSQnkm++WuwzUCc8sZMQqtFHgYYBXp71bcu3UqC2bmxewMfWpQSlkYVlxqwx7vPnDUHq5e1eOtedZO1l0pduOOhkGczapBqGwqzk+tMV/wDF+iq3hEwxLTwSZfdHmGRc30iDaxqVVrlcwZda6Y=;mjDEeTSSIuNGdx1jEHJOCg=="
 ---
 
