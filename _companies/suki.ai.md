@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SukiHQ"
   url: "https://www.twitter.com/SukiHQ"
-  followers: 1556
+  followers: 1557
 
 size: 11-50 employees
 yearFounded: 2017
