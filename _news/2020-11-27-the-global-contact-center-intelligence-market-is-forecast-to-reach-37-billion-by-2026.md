@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Agriculture Market Report 2020-2030: Increasing Use of Robotics and Smart Sensors Propelling the $8+ Billion Industry - ResearchAndMarkets.com"
-    excerpt: "The \"AI in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The global AI in agriculture market is predicted to generate a revenue of $8,"
-    publishedDateTime: 2020-11-26T12:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201126005555/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20201126005555/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
   - title: "Global Passenger Vehicle Voice Recognition Market 2020 Regional Markets, Subcomponent Manufacturers, Business Standards and Forecast to 2026"
     excerpt: "Global Passenger Vehicle Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2026 introduced by MarketsandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
     publishedDateTime: 2020-11-30T05:38:00Z

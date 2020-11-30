@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/servicenow-acquires-artificial-intelligen
 ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-acquires-artificial-intelligence-startup-element-ai/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-acquires-artificial-intelligence-startup-element-ai/"
 type: article
-quality: 102
-heat: 142
+quality: 104
+heat: 154
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/a044cd00-e584-4deb-b182-01083d9868dd/edge-acquisition-cloud7.png"
@@ -30,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow to Buy Element AI in Artificial Intelligence Push"
+    excerpt: "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ..."
+    publishedDateTime: 2020-11-30T16:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 102
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.RV4CCKiyw/v1/360x-1.jpg"
+        width: 360
+        height: 240
+        isCached: true
   - title: "ServiceNow is acquiring Element AI, the Canadian startup building AI services for enterprises"
     excerpt: "ServiceNow, the cloud-based IT services company, is making a significant acquisition today to fill out its longer-term strategy to be a big player in the worlds of automation and artificial intelligence for enterprises."
     publishedDateTime: 2020-11-30T13:41:00Z
@@ -86,6 +103,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "7YYEArF8lr1DCSq3MPwWusHNP/qkdgxxGgJLgZ+UGdWt9R9nAlc+kENgjejgJsajNjWm3ZU/0LDxdZ1z5rn2spUf/7AmDj8hN++dkn3mTHBZi2A8UTCZjJGP7AV+zW37LJtWjz8hojekNMYeo/GsCph7DinJ4mfSHbp82RCpFemw6el4f0sRSb3dlyBNlA/LoDU3zWM4rIPmsWg1zoQel5M1FSbMec2nEGjMA8W+5U2tJ8kzWVAEpaC/8ssAodYbaz47GQINYlGXv43VQzmJy0/BL/xEIrXhqCyqgQlb/VngXcktCwJpqy75DudkylseIqtoM9GcgSZGwCmFVpYcNiSrRyhMzhVpyFFVOIJC93U=;xLWtITizlPwJRn9P8DdvtQ=="
+secured: "1lvNzWcNRhCUOxusqOvHOM1VEYRQfC+GB2B4t/zaLrkBURqQsVyECxxAl2ExxfhwLz8SMmlwApK5qZgG4sftIjM7KKfFO76KyOUxoHjG8vyUQ++T+HGUbWmFWpihAx5j1hwOI+euKISgsD3fb1uyxcUXnTGp4Dx7617AnWRHR3RdS1Pjtvd4NYJ5mMx4zm6nUcFjirME6eupmQ5g6JHfo0fpe1ba67k/E4iGhAc51dauCJy2eqFjuF3G7zhCcyhhAE4Ow13cG3XdBMwirdFpegIJDMenBNbooGCpZeq6TPE9mA6SyTkkilGFGPL/u6BVQxmWj43Cf1tSGxia8eHLjuQKgyNv+g3xuobO9nbnUwHudwNeJ07p3FHH/vfiWX9gUlPX/3TwfLkfyP43iHuEOCuKCLml+Bwu7D3sFLVUGTdMuzgjZUoeWwnU7BHFtjs2R4VxkeCr9NSbkZ0sfEt+Dkb6SKnQoAeO0Y4o6vg24z36AoFEfc5X8EZSNj0zMFHOrNCpdb/JcJnP5c5MOGT3FA==;LQk+7emraFdeBsS1Op56Gw=="
 ---
 

@@ -36,11 +36,27 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 104
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/a044cd00-e584-4deb-b182-01083d9868dd/edge-acquisition-cloud7.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "ServiceNow to Buy Element AI in Artificial Intelligence Push"
+    excerpt: "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ..."
+    publishedDateTime: 2020-11-30T16:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 102
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.RV4CCKiyw/v1/360x-1.jpg"
+        width: 360
+        height: 240
         isCached: true
   - title: "ServiceNow is acquiring Element AI, the Canadian startup building AI services for enterprises"
     excerpt: "ServiceNow, the cloud-based IT services company, is making a significant acquisition today to fill out its longer-term strategy to be a big player in the worlds of automation and artificial intelligence for enterprises."
@@ -82,6 +98,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "076jSU9aUdiGcreNZW3wU9Yr8bbyhj9ivMmwF2i3zIWBnz8+7a5apLgjBGvLPKrumjGyilADIAWTpjvS9CaD5ZY2J3pMCwkJ0H37+i6ol1wVFMx24daQGy2SS0xb/4qTW7UYYYKl501C/wWtC9M7cS6sVjIEW0hP6AP3T7BGs10ZfeQgXRNadKGiAg+JgCtLEK+ZYkpeMS1UU43iRj0Cs1GTG8vgmHkwwXbSAIe5YlT/XbTWdovbT7ncM9LcXWDf1mBVWXn5BcVMcDOOZMnhkwwPd3RkbN48+s07QMqEhz4Oam3OXF9359NUsJlooPHK3t4HDy+iWtEz+ozKpBWQnouIOV4lGrb7UB5c+q3elaQ=;Wkh02EBf6go1PZydKFYrNw=="
+secured: "jUcMZA9HUqDfYZFOZfmFSgXDVIBdl5shvUAzUWa7SH4fzfy+gIFoOC4NR1vqkEOYaW2vv9c33bBWkg9t4JoEXoiq4ZinUgSgGhGvK4BSnFLxf2bdYmf0NdD8ekiD4YE4Phort01kLWFAdJWxyS3/rwPpmvw8dSH6AllfWnB2AUfTjYSODfMOE7TeBEj1AVsSwnuYhzonCLTQtbogrROiPOHgGi2tAsfTeP86nk0lPyGeKQr1tZu2z4fzUMJGEIh5qkTV8CZCMj/nwncFoIYlzZ0fZf/RA7DIOGMxfF9Env+77HNagOKRjsEWaCscOgY9ZBg7buIPqX2LB8s6KZcnFFyvQ9Phq39LHTOH6MFFxtLOrvWjYp8zTd+QthFFf9vot5Tth0vQyXwr7mMEOfrq7fizuAL9TI2TM8G1LBZ2Obl5bSKWoGmb6cMlB5BGhzrvXMP5/S9bhjNs/k2qQ+KRl12TL54qwo6SzTZnKFTpWKEuzD4tWla+bDWB96HUvnAXlQk5x7RADmBr+psHwRpNnQ==;/VBsSucwVl6qwy6l1gNJ3w=="
 ---
 

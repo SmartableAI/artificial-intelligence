@@ -2,9 +2,9 @@
 category: news
 title: "AI can run your work meetings now"
 excerpt: "Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews."
-publishedDateTime: 2020-11-27T13:00:00Z
-originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/"
-webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/"
+publishedDateTime: 2020-11-27T13:04:00Z
+originalUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=80"
+webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/?comments=1&start=80"
 type: article
 quality: 69
 heat: 69
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Screen-Shot-2020-11-25-at-10.50.31-AM-760x380.png"
@@ -28,6 +28,6 @@ images:
     height: 380
     isCached: true
 
-secured: "BOlVrmF3xGUAZZInHAnWyPHxH2z/4Mpf6szrEPFgOMhy+5qM8bXohDCs3nyD2OhDecPPucodjfRtuItu56kP5HAhlX4lIIVQoAKJJ9kLWiT5nrgQUSQtKWHb4vyXcLOYE7/Mr4ZXonJkIR3zIUNG1dPTlv62hpKPzlO/MUX9C4G639dLj+Ln+k8ROG3Wwf9S7KbCf78B41FmixkBGE8X4oySr/p4uaXfkn93vZQN8qnB9E22AXnj6oMvEcmewATVElx0MleQl/q3KnAYZxg370NTSAmugHAF5PDRecDGKR4/ZxERyL7mJBdyWa9XrqBIV0qAqwrl946y7kZmU1kogXYJGBYteEkwyij7WblsP/Qffok+TGsQ5rblxzH651d4jD9wnJels4EaFnrupdsloqzbSQv7jz7Cink+cLOTO69DA4V2oS2tyqSWoydRmBhCHR5LgrJCqikuMyw5+W4mwkbS/DGGn4cFDV7MbqkTmH2Ghi2WYUB1efbSjq3YnW3txIiJchWHpDabDoCosLRWzA==;vDIfjeIh6RxUBaWfGIwgVA=="
+secured: "5g+2E/u/iUZj/DvNQiIW/qEJvAiXWVisTsDwdMqd7U+oQdJj3d4a/f+N46lotXF8tPcbmgzRsDMpVEMvwnZiOzCQw4xcq88VDeAQIAsPPnozMMtx6Egx1AQUv8n4eHrdwlxCQtFLOw8N4pGdPS5sUBLDuCaS9YX7BTDio1HVbUyjLZ3ljHrEuvRLDcRx5zNqWUOaejNCNh9+S3SF2yV9U6xaNVmFcDoJ35O3muG4UGtUmbcer/5Q6TEF7ZsoeX+711lw1WyJNcTV75r504mzmHanx+fO/ZnP++Bn8b8TbjFFJnju/jzEEGHAbq458jK8w+plidzr8PQfXOvnwhxZKZ0sYJshR20SS3JXnq2hdNg=;dSKCNeyj9RykpcCMFtCQbQ=="
 ---
 

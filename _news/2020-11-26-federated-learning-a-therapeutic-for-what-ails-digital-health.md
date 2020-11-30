@@ -35,25 +35,11 @@ related:
     provider:
       name: Your Story
       domain: yourstory.com
-    quality: 66
+    quality: 68
     images:
       - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
         width: 800
         height: 400
-        isCached: true
-  - title: "Optimizing AI and Deep Learning Performance"
-    excerpt: "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance"
-    publishedDateTime: 2020-11-26T20:32:00Z
-    webUrl: "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg"
-        width: 1000
-        height: 556
         isCached: true
   - title: "Malta’s Pivots to Becoming a Fintech Haven"
     excerpt: "Crypto enthusiasts and industry observers alike are asking what happened after the joyous announcements and parties. A better question would be to ask what happened before all that. In short, there is an essential mismatch between the original vision in 2017 and the original actions taken in 2018."

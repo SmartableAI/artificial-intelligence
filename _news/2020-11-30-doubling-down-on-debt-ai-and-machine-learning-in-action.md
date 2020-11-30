@@ -7,8 +7,8 @@ originalUrl: "https://utilityweek.co.uk/doubling-down-on-debt-ai-and-machine-lea
 webUrl: "https://utilityweek.co.uk/doubling-down-on-debt-ai-and-machine-learning-in-action/"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Utility Week
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Accurate and efficient 3D motion tracking using deep learning"
+    excerpt: "A new sensing method has made tracking movement easier and more efficient. A research group from Tohoku University has captured dexterous 3D motion data from a flexible magnetic flux sensor array, using deep learning and a structure-aware temporal bilateral filter."
+    publishedDateTime: 2020-11-27T05:00:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/tu-aae112720.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://eurekalert.org/multimedia/pub/web/250031_web.jpg"
+        width: 600
+        height: 280
+        isCached: true
   - title: "AI Algorithms Help Support Tree Farming, Planting, and Mapping Operations Around the Globe"
     excerpt: "An agricultural technology startup SeeTree has recently received $3 million in funding from Orbia Ventures, helping the startup accomplish its mission of digitizing farmed trees. The company represents a growing trend of employing AI algorithms to support the growth of trees around the globe."
     publishedDateTime: 2020-11-27T21:47:00Z

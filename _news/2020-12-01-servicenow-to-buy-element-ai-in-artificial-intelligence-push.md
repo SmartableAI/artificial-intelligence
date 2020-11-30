@@ -1,0 +1,107 @@
+---
+category: news
+title: "ServiceNow to Buy Element AI in Artificial Intelligence Push"
+excerpt: "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ..."
+publishedDateTime: 2020-11-30T16:22:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+webUrl: "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+type: article
+quality: 102
+heat: -1
+published: false
+
+provider:
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.RV4CCKiyw/v1/360x-1.jpg"
+    width: 360
+    height: 240
+    isCached: true
+
+related:
+  - title: "ServiceNow acquires artificial intelligence startup Element AI"
+    excerpt: "Element AI is an AI software provider founded by machine learning pioneers including Yoshua Bengio and funded by the likes of Microsoft, Nvidia, Intel and Tencent."
+    publishedDateTime: 2020-11-30T14:56:00Z
+    webUrl: "https://www.zdnet.com/article/servicenow-acquires-artificial-intelligence-startup-element-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-acquires-artificial-intelligence-startup-element-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-acquires-artificial-intelligence-startup-element-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/a044cd00-e584-4deb-b182-01083d9868dd/edge-acquisition-cloud7.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "ServiceNow is acquiring Element AI, the Canadian startup building AI services for enterprises"
+    excerpt: "ServiceNow, the cloud-based IT services company, is making a significant acquisition today to fill out its longer-term strategy to be a big player in the worlds of automation and artificial intelligence for enterprises."
+    publishedDateTime: 2020-11-30T13:41:00Z
+    webUrl: "https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/"
+    ampWebUrl: "https://techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/servicenow-is-acquiring-element-ai-the-canadian-startup-building-ai-services-for-enterprises/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 78
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024"
+        width: 1024
+        height: 563
+        isCached: true
+  - title: "ServiceNow is acquiring Canadian AI services startup Element AI"
+    excerpt: "After launching in 2016, raising US$102 million in Seris A funding and opening offices across five cities in North America, Europe, and Asia, one of Canada’s superstar startups has been scooped up by American software giant ServiceNow."
+    publishedDateTime: 2020-11-30T14:32:00Z
+    webUrl: "https://www.itworldcanada.com/article/servicenow-is-acquiring-canadian-ai-services-startup-element-ai/438954"
+    ampWebUrl: "https://www.itworldcanada.com/article/servicenow-is-acquiring-canadian-ai-services-startup-element-ai/438954?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/servicenow-is-acquiring-canadian-ai-services-startup-element-ai/438954?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 57
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1150419849-620x250.jpg"
+        width: 620
+        height: 250
+        isCached: true
+  - title: "ServiceNow buys artificial intelligence pioneer Element AI"
+    excerpt: "ServiceNow Inc. is beefing up its artificial intelligence development capabilities with the acquisition today of a company called Element AI Inc. that’s widely known as one of the pioneers in the field."
+    publishedDateTime: 2020-11-30T14:11:00Z
+    webUrl: "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-intelligence-pioneer-element-ai/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 52
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/servicenow-1.png"
+        width: 718
+        height: 400
+        isCached: true
+  - title: "ServiceNow to acquire AI pioneer Element AI"
+    excerpt: "(NYSE:NOW) has signed an agreement to acquire Element AI, an artificial intelligence company. NOW to establish an AI innovation Hub in Canada. Element AI was founded in"
+    publishedDateTime: 2020-11-30T14:16:00Z
+    webUrl: "https://seekingalpha.com/news/3639948-servicenow-to-acquire-ai-pioneer-element-ai"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 17
+
+secured: "4b1Jx863UhY25okrWyYfBbhQvDcZl6/SYaThdqzALi6u6EfmW/dMvUcBEDdYS1nWaQMusdKdrWsVJOzLiMsozo/yBTuHUsDZW1yo2vlnnr6mGQ/ow3/E5xij8ZRzgqcLtiLNogKZhVlg7O/59HYLkbGcZHU4V6z1XTH9geSm4tRF0+sH33R4mTjgRcrbBvOI2rzkbsBd3Gc+iTMlJtWH6fbE6/ck5OcXEbMG3EHo+rI4qHoxPKLtnlUEX/1ZfAVb45+XAMs7CcgFlOnf14d+cG2MpRL9f68bu3dN96nvN2O5A4uPTZZNUPUYkR+ODQGq/uxzD89gr0DphyeyFXUsVsbP7kCg3I1Wp2gM7vVtg6Q=;GZ2HphwxbBp1QE3OpQ1LDw=="
+---
+

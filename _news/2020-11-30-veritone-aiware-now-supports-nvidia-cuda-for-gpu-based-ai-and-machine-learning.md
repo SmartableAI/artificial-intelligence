@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18572236"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236"
 type: article
 quality: 89
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 480
     height: 256
     isCached: true
+
+related:
+  - title: "Veritone stock pops 29% after adding Nvidia CUDA support to its AI operating system"
+    excerpt: "Veritone (NASDAQ:VERI) shares are surging 29% after the company announced its AI operating system aiWARE now supports Nvidia's CUDA platform.CUDA stands for Compute United Device Architecture and the parallel computing platform boosts performance by tapping into the power of Nvidia GPUs."
+    publishedDateTime: 2020-11-30T16:37:00Z
+    webUrl: "https://seekingalpha.com/news/3640027-veritone-stock-pops-29-after-adding-nvidia-cuda-support-to-ai-operating-system"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 15
 
 secured: "3S4k+u70BuIY57/5mizp+LkOPlhux/Q2srybr/PkXrL5it85plDVqVHJ3YoyYBcMHJJD3sJyGzkDA+GvWpWwpZwCv20RJpWoWgUwRSW6YgDZlRFpONAs2x+yDgxKMatr7+b7bWUgVi+oKiN/dzjI609JIKapY5w9hfndMt37cl+ksX0nZ+NLqsIOJmOpMvRXHm4t7BI+3Ntoquff0hCyxPsJQAlmbSK4goWMbVsE+IoXPPFSJJKRGnLvi5sk+LzSpvSzbdz4IbEgIUtW5FvfQNOcDJJs3DC+d/+vafSjGDkpoS0Crb+IwlLIFc8NGcgDiEVpqfASld8i8JghAQiOwToi3LJr5LAh62hFdnhKdZM=;DEmIp1/b+XZToK8fRDfnAQ=="
 ---

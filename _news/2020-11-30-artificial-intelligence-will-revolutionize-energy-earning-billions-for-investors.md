@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/arielcohen/2020/11/30/artificial-intell
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/amp/"
 type: article
 quality: 82
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -29,6 +29,54 @@ images:
     height: 750
     isCached: true
 
-secured: "IKudRhvVNR1URzyZLfZRj6byCyy0NR/sAHPXiA0cPU6iD2nrfCZXwmNjXsnM7014qxJb1PAm07qPQEBiFIbd11BSIIaH5xQSyz+VJHr1GvKO/2XH/777xZHEsgCjm+1r8ks0yfvB7RNmdEjWvsjq66pBD49oEyKrl+w8Z7ZbfWkHJlcIJ+3Q4chQerE5Kvd0PqfSDIUG0esCSyClUbHx0hwkt0EqMDTcfMBs1Su9flo13q8oeA/p3JYlpI20e5a6RLJlVgM63z6Ca5wRxR2PPCa4azi5+TJQzNqhzERTE4zUQRvgoVgQtn5e7ktHfw016ViYQlUIGl7wotmK8O1LNVbbVpcw2+Qfi7ZC343wTx0=;SNDN/4dt4iUCcZBmb84ccQ=="
+related:
+  - title: "How AI Is Influencing The Evolution Of The Telecommunications Industry"
+    excerpt: "AI has helped the telecom sector redefine customer experience, bringing forth new opportunities but also complicating business models."
+    publishedDateTime: 2020-11-30T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb432b0c5dac00077006bd%2F0x0.jpg"
+        width: 1199
+        height: 800
+        isCached: true
+  - title: "New AI solution that can determine the shape of proteins could 'revolutionize' medical research"
+    excerpt: "DeepMind’s AI solution, AlphaFold, has succeeded in determining the shape of proteins with a level of accuracy similar to that of laboratory experiments."
+    publishedDateTime: 2020-11-30T15:35:00Z
+    webUrl: "https://www.news-medical.net/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
+    ampWebUrl: "https://www.news-medical.net/amp/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
+    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/New-AI-solution-that-can-determine-the-shape-of-proteins-could-revolutionize-medical-research.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 47
+    images:
+      - url: "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1722492775.jpg"
+        width: 1000
+        height: 562
+        isCached: true
+  - title: "How Artificial Intelligence is Bringing Today’s AMRs into the Future"
+    excerpt: "This definitely sounds smart, but some AMRs are taking those smarts to the next level with artificial i (AI) coupled with strategically placed cameras that function as extended robot sensors. Without AI,"
+    publishedDateTime: 2020-11-30T16:36:00Z
+    webUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/9a412ec1-25d3-4007-819a-acc71fd757c0/AMR-Nov30-2020-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
+
+secured: "WCZ2UR0vKTC5FrIynVh4Lco9h7/EfK4T5imjHDyWLd0akHozXJrLRsQnpO5ySV9o+jXIZFZ1IHT9oHxaE9Vf4Lj+Tgss1qnYQe0IbLlR1SEF1ANsghVI/rk0UU8iIexsTqq5dLOiYEg75DMt+lbMMWkfh3FvZuSLpqhkGfpkwb/v++KRS1nElgwkWAU2vL6nfiL60Alv4j1yPQZShJ7TN/PGHkO/oapA0pXtL4QcmQrpU7HYcr+FqnXOFgBZod7In7nularbOQvidRNVOwG+aik9zYovpByMRFBq5g068lDtX3Wdi/jklNTbvKFCg4DswsYSrw2FL4vAbZkaWUkSizRQqo2MQHKphS7iJfb8nxRWUZzHjvy58iyVtbmtmXql4sgFsnp6ImfdLVt0ADH1UXoT5k9+XM+wAGd97CkbyHjD1RwBIxIn1gsp/u6l6L3y8oShGxx7qyKgHGDk9dp4nwcj/a2fGPRMxvbJ2eiacICYl0WUPP4Uoebw0gNWEPhUiRrN6XKXsDBptuwaLLwCFg==;XluJxNYB/OVl7YTsPIIXeA=="
 ---
 

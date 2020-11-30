@@ -59,6 +59,17 @@ related:
         width: 1280
         height: 1024
         isCached: true
+  - title: "Deep learning can predict breast cancer risk"
+    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patients risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-11-30T15:26:00Z
+    webUrl: "https://www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
+    ampWebUrl: "https://www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/deep-learning-can-predict-breast-cancer-risk-news-education-ul4m5Ecbidbjd.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
 
 secured: "ko31ehC8bEFrV3up3W4RxEwu5MoISppbxnUeUC1Dz4t1BlpuXeOkTZLozYtekmPfzKiKkW1bq3iYWW2wv//ySQYytHu3AUeIHpgwxTTpXZNBBVB1iC/BnJvnYpcKfPdAHHtQTq75m9rkpp24GwFjos3JogRx2TYtTjV/yFCY2FKrR1VN3Jk7YK3JPrimw+DvgsuMV0vUdVlj/9Cy/tJZokrgzQ/C+0283ecua2FNEZS0VJPdneI3g2ZHUKexRE66pTkeXp6Qc2Bs/hCaEcmqs0WApagc2A12vxBk4a9nrFI7iAherob7dMN8pUy5g1NXWZbrfa5IaNyn4g9AvN3U6WKaWWrzTFCSlaOY9A9mX8k=;TimFF3Tj8FJM+GAcOJatdw=="
 ---

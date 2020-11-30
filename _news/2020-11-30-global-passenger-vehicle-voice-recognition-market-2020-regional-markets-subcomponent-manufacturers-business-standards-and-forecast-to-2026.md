@@ -90,20 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Agriculture Market Report 2020-2030: Increasing Use of Robotics and Smart Sensors Propelling the $8+ Billion Industry - ResearchAndMarkets.com"
-    excerpt: "The \"AI in Agriculture Market Research Report: By Type, Technology, Application - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The global AI in agriculture market is predicted to generate a revenue of $8,"
-    publishedDateTime: 2020-11-26T12:16:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201126005555/en/"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 27
-    images:
-      - url: "https://mms.businesswire.com/media/20201126005555/en/371054/23/ResearchAndMarkets_800px.jpg"
-        width: 1200
-        height: 627
-        isCached: true
 
 secured: "f6J9LibeKvFdPhqq5MIyvDniKxdPjlXNn93JVi/uivKIU4ntvwuCK1oYtNk6r2fhnGrTX37k2v8vEYbr+2mTTVdj94UySwy9fiQiIlz+Brr3vDOQh52P4D1OkGmsH1oVkvt+RJplJRfcsoQDK/OTMvkL3T+AWrrRxXkGA/s0XpyQhB9t7bZmxbHpHpQL6V/ukVWsS1HptJ7QnK3xpUlOUcHxbAG6WJOZ9cq4mnxfq7ArFbYlMo4GKP/MaNNi5j+YKCFYSHjXiGjcNueHaex/N/2FgYPr3379yR/WXlbT603ChMDvqg+9tCusYRIhmBbFgzT1mU1+b4tXQHIIFBDP7csqwiMbuR3XP/FDi1CRO5Y=;kFfAm0+a+bW1Af6zVBuZnA=="
 ---

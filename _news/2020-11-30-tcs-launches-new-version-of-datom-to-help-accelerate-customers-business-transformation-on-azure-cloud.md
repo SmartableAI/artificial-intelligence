@@ -18,6 +18,17 @@ topics:
   - Microsoft AI
   - AI
 
+related:
+  - title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers’ Business Transformation on Azure Cloud"
+    excerpt: "Tata Consultancy Services’ Data Strategy Consulting Offering Helps Enterprises Define an Actionable Roadmap to Transform their Business Models with Azure Native, Insights-driven Strategies NEW YORK | MUMBAI,"
+    publishedDateTime: 2020-11-30T16:57:00Z
+    webUrl: "https://www.tcs.com/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud"
+    type: article
+    provider:
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 3
+
 secured: "SfkvdeD5Grg9S4Pqcg15EaFlJe6GIaphj4Y9AF6rcp1mHYAgOOqLtw1KpgaQMnJ+j5QX37B9Vfym5D7VyNhMeTvWAetKwrml4sSSdDMCat0VEy82rs/cdSiDScka7SY1npdpdnr1dPxdIi8eSW8Ba0YT0ho5Wgkrqh6RbayWP+m5UoBJCD1hNu42uMESiJY31oI0zsUnvgb4LU5ijld5jVoaGcPbTz4osKNN0rR8EH228BfPtDG2NS5pssA/XOi8DCUYwrsPFE4DyR53qGKKLBtxxn4bVMMNtxFog7Sg3/YqiuUHeDdpiWYk8cNxj/LChIqjuFREYLD6cxG+ZH2cYkVCmsRZB45oEthI+mcGNY0=;r65dB3KZHr7RZEWfdNQcJg=="
 ---
 

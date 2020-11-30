@@ -8,8 +8,8 @@ webUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-
 ampWebUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
 type: article
-quality: 66
-heat: 96
+quality: 68
+heat: 88
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
@@ -27,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Optimizing AI and Deep Learning Performance"
-    excerpt: "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance"
-    publishedDateTime: 2020-11-26T20:32:00Z
-    webUrl: "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg"
-        width: 1000
-        height: 556
-        isCached: true
   - title: "Malta’s Pivots to Becoming a Fintech Haven"
     excerpt: "Crypto enthusiasts and industry observers alike are asking what happened after the joyous announcements and parties. A better question would be to ask what happened before all that. In short, there is an essential mismatch between the original vision in 2017 and the original actions taken in 2018."
     publishedDateTime: 2020-11-28T12:28:00Z
@@ -72,6 +59,6 @@ related:
         height: 519
         isCached: true
 
-secured: "05B5/amtgPV3hrTAkq1/CFBUiuJ/MauLrDkmEhFz2LSjlBzCYwZ0lkxQyV8Ke45mIq8TqG5MPXUkWwd/D3ONpxnq8hkRc1MDhdhrEdtWGtv9vWmQqrYrb1KR6a33w3HaTz0aJWdFyhBUgwJ/mOuNdahFJosuHgjUow/L6/0sMQfZ+6qvc/QvDyPYn4/5vx6VYqD7gPlpu1d8jFQyIW6NIAcufwUOSabKvsrZeueIZcXNXVA3XrP+/ZI7Dg+skPcG1BGV07CXvLhsAfKXejEY4wxm5OxvE1lMuBiuS5TabEhRU9ngIQY7NIOziEjTNNcW6ZrMhxu3HIOIgNaZ6wu0p2yofKsFhLL1MD6C/JLUmRQ=;Wrm73F9tuRD1A6SeayKTXg=="
+secured: "F1DGl3z1cICnaxTU6GzY4phYb+XKZrb5eT2d/fzfei67orlJp0P1dfRXdLaOifo81RUTBhLsXByq4BSqvs9jrFBKVNayOHGM7Y+UL9EHehkjP2KXbCqMFJY21qyL65S5U4T/pMAPp6DvknJQXamnRGXhUnfmqrCFZ0oqaCIodBpVEBhzv2gMi7shw74X4FcLes5XEDlhzuamZ3pBl3ZmFfkxzlDNmCFzI7US8tzHj+peR99ua9HalfCkuu88BvQYVz0YeAJLSLZl321bU7ccBKaYKCanbKPULTo2vf+dFKbO3Osm1gVw4lHTjjzkwmywpEHQVLlWs23TqkeJsL82cUv+4BwGqpQ48Vs2J4N3klzrEz73Mf/x76RohiQa1G7SVgHBzCbYhQY7J0hW+hfsy5fsviapjNhe4Vc32i/Ia5aBsOwz86fzxvqh9eSUdFe+7HoqzK9KUYkqO60qJVQ8E/8tPHzoBUP1w+W7OycjkVpS8eAr4/bzdYeh989EyWwBwpSiRmx2YOwoKaVTWYuTEA==;8bhyIuXfeA4uvOl/MLpGtQ=="
 ---
 

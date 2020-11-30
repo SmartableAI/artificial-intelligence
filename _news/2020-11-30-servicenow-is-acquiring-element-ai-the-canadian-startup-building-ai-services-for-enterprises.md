@@ -41,11 +41,27 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 102
+    quality: 104
     images:
       - url: "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/a044cd00-e584-4deb-b182-01083d9868dd/edge-acquisition-cloud7.png"
         width: 1200
         height: 675
+        isCached: true
+  - title: "ServiceNow to Buy Element AI in Artificial Intelligence Push"
+    excerpt: "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ..."
+    publishedDateTime: 2020-11-30T16:22:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-30/servicenow-to-buy-element-ai-in-artificial-intelligence-push"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 102
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_.RV4CCKiyw/v1/360x-1.jpg"
+        width: 360
+        height: 240
         isCached: true
   - title: "ServiceNow is acquiring Canadian AI services startup Element AI"
     excerpt: "After launching in 2016, raising US$102 million in Seris A funding and opening offices across five cities in North America, Europe, and Asia, one of Canada’s superstar startups has been scooped up by American software giant ServiceNow."
