@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 560
         isCached: true
-  - title: "Galaxy S21 will reportedly trust Bixby’s voice recognition enough to let it unlock the phone"
-    excerpt: "Samsung is preparing to launch its Galaxy S21 in January and, according to a new report, it'll add voice unlock powered by Bixby."
-    publishedDateTime: 2020-11-25T17:52:00Z
-    webUrl: "https://9to5google.com/2020/11/25/galaxy-s21-voice-unlock-bixby-report/"
-    ampWebUrl: "https://9to5google.com/2020/11/25/galaxy-s21-voice-unlock-bixby-report/amp/"
-    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/11/25/galaxy-s21-voice-unlock-bixby-report/amp/"
-    type: article
-    provider:
-      name: 9to5Google
-      domain: 9to5google.com
-    quality: 13
 
 secured: "nG6atAeOTPC/zjbD602K3vlpfgeAIof2pMVgTcLxFi7Z8AL0+trW4qXJRmfaoPOF2JIwKGwZUXheNbdu5rCcNcgKSiIiNW6b3cN5L8o/SuSoH8IhAN1BBVbeMtbMMHf0Mr4GztFzJUR5k/h3BxRyakFZJ4cZuqmvOVj3PJsUkcrLai23mh74mbGjgbV5Zp8CwjYCjyMYbhrVL46ZvA4p7rcHhh/b1iiTI1uJjK0rf0aZaCqlE2Yxte+NSMscFX2991bMeR2/RhN50YRhlcYx1GWPNwOwNNAblEJ86qoWwB3mUHbmEIC4UnsuUDP3+2eKqESlh7pOgXe4sjam0a0VZKbsUiKtdLG/zF06uSXtIxgsYVg09tJPPf7ZHmr+kA4XUzEJ9SqwSb8XqmxFLfKgypZsGv6rAhfTTchhx7yHANkqwDSoEV6JMZF1ghuvFBe5XgK1B29+SNMR/fuecrc/AEL1Dsf2pCvLNeC/PZQAPmZ3MWU7rSzr/89xDBEZMvPT5rDlBDlGfH50pg0crz4n1A==;i0piYWrbkjyDnmx1/QYJYw=="
 ---

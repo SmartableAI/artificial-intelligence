@@ -3,8 +3,8 @@ category: news
 title: "NCKU team develops digital imaging solutions in liver pathology leveraging AI technology"
 excerpt: "The pathologist, specialized in looking at tissue or pathological sections through a microscope, is to make a definitive cancer diagnosis and may also work with physicians or other members of healthcare team to recommend a treatment strategy that could include observation,"
 publishedDateTime: 2020-11-27T06:21:00Z
-originalUrl: "https://www.digitimes.com/news/a20201127PD215.html&chid=9"
-webUrl: "https://www.digitimes.com/news/a20201127PD215.html&chid=9"
+originalUrl: "https://www.digitimes.com/news/a20201127PD215.html?chid=9"
+webUrl: "https://www.digitimes.com/news/a20201127PD215.html?chid=9"
 type: article
 quality: 30
 heat: 30
@@ -40,6 +40,6 @@ related:
         height: 683
         isCached: true
 
-secured: "PIk4mByjTQPYJE2l/1Lf8rKwL3vAcx1mLXxsFco8YBacFLL583M1bwue1QKhmKkAr/vjkrrWNXNGsY3XN9YExAmUs2qs/ZwGrRKjfx3uXZI3unJZLPsvzZ0UcxjXB+msRv5oo9t7lbWIvOWago2QzQrva65sWerASlCNWqQ9sBueYfX/uj2smK1M4D+dEnkFOr++iBQcDKPN2b/NHPvYd4XlYtelt4ykZfSHtVYXHFJ6YXJJXQw3EHfCL09ziR0aCOdFI8BwM7Ii4q12hI+hgGU2N2TmbkNeobALSogtAjDOMFFjj7hjYFjAfWVfi/3UFNyqfYufcAhzcFMePpPc9W/Gc1wjTw5jrQZ+1bVrbqLmfRgTvJ6bL2Nwes+XCBbb8IhJC9HqNBev2APuDuLSmtjdoGYj2tcSOr57L9UQiu5mb8p5Rxq6IC9F8RjW/dUhUJSEbP7JakvD/uOSFvBsNgm5oPBH1XsvzALaB/9NAdSzuWWF/m5l4uzHs7842MNpbiGLMcKLrVdPXRiJXEyV3A==;QwdZI+IDAQIgXd7rIoCqgg=="
+secured: "JTOH53pJsGPbH1M5V/umo2n/BTC3DeelWc6yn4FoW8mNqwHRZqJTk1lSTKZEKukelZjS9le805OWmvpvWzn0OiQCQu5O7rLjHRRsHOQBLjNgW2uD6h1zX1WeP0o2QKL0F6Gw5/5bF8FUxKMWTM/DcG+JJWWoAtPTHJAb0kJkJCbGLiTWGAxr5GIQRuGnPS68N2dEnpDqGYorBALqByilfRCv2RkgbSCPTeMu8HbOIpbmQWXEw6LQo7IqINM2Hpd3MDJvyvxhKt4qqL6Z6yXYGXTB9W6CYZ1djeaao6OeGWTo2MN8kNYrF3gyMBgdzQPNEAdzCF5WtYycf99pAt5bcocrTvAAkkOAkAl/Vuh/XwQ=;3LaNb+rZsD0HIzD5S0pc7g=="
 ---
 

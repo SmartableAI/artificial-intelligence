@@ -146,6 +146,20 @@ related:
       name: galusaustralis.com
       domain: galusaustralis.com
     quality: 36
+  - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
+    excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
+    publishedDateTime: 2020-11-30T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-enabled-medical-imaging-solutions-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
     publishedDateTime: 2020-11-26T09:43:00Z
@@ -161,6 +175,6 @@ related:
         height: 450
         isCached: true
 
-secured: "7IZ4B/MPQE+sByVGueorbiaSjkezf5kJtLIbju5Gy74cfLg3yftTiRRPzd2Q3A/VMUwdHsm2lsiCZM0CyucGjYA9g+DAAMKGSzkUR3jkxcwmxYAvSY+gj8EpJX4c9WmUM8/hWw+mrfKTLis4T4a82RT5cV9nwSCmK9MhhzNwn7bHcBJ7UT4hZzDhoNl86HyE18kmWYZKo942G6F8RErAaKNsTnOUdSsPXxB8dsnB0EHJ2qKap4doY0G1Mj9lD+aYGGzKBhwNd66y3JyWGk4ZaHyMSEXX5JhK0f5mmxHoi+O9mZhhtUBlunA6LpVoitoaRrJjT21TfN431Izgim/97uAqLdAFe4+Irevozew+5jQ=;Bn4eLcmp2ucQBIatSGtVYQ=="
+secured: "BRDerzoa8EBat00cvivg+ysarIiPZfsgcnF5k6DBUMz74dKN/zWeVA7vQyC5AO96J4Pbqv29nsRU2FlNpGe/EMD9YSo7mC0WcqeAMg19C8rWTr1mG87WmPrOPC8ZcWg9jAStp8LkyLtzupwc7MOto6PonnxlBD1RoXADC3XRVzDBaX1JOo+is6EcUSkEg7ImxXza01qKDRCrtQ6P30JjCH+d+MwkmzCnnGcmF/Fx87Fql4xpnQh6awMf+g93FpLZ9/fHJxGyt/uPLvGn33+L/PzpGoozRrLBxS9PclnMx7EnczhKblboRb8V/6f1+Ktxd40fyduUMYu81ATloTgGAvmRyPeSocbGQc9J1zB9m7M=;agSxZlXYIyPyS93cyEQ44Q=="
 ---
 

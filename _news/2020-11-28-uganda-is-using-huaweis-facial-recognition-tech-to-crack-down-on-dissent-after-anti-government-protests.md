@@ -9,7 +9,7 @@ ampWebUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recog
 cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 680
     height: 370
     isCached: true
-
-related:
-  - title: "CBP to Expand Use of Facial Recognition Tech in Entry-Exit Process"
-    excerpt: "The Customs and Border Protection (CBP) has proposed to amend rules to expand the use of facial recognition systems to improve the process of verifying the identity of foreign visitors arriving and departing from airports,"
-    publishedDateTime: 2020-11-25T18:02:00Z
-    webUrl: "https://www.executivegov.com/2020/11/cbp-to-expand-use-of-facial-recognition-tech-in-entry-exit-process/"
-    type: article
-    provider:
-      name: Executive Gov
-      domain: executivegov.com
-    quality: 19
 
 secured: "HipghID+/b+lI6giBxrkIkaT4R9US69Z3Tr17J+/edZzMewFRxUOcwhBpi0VXclIJxMIQz0NJca9rOw2g7uOXH1OwsIeySJS5aAclpUb50IzEiEvl9r9cSoBXY71iSfyfiFz+hVkrLNgebNvE4Q/1Az2iEGtvXb8m3jxJnk1IIhJ/x47LfHh1EuH8lbU+N89Ndwh3bELCCuMltrWD0Y1zchV6upAgQUSfR5pgGUMlNfTB4f/65wkzMSEq+wlSWWzdkvuEA0a5ob+G9fPuM2K8+khUUXeo/clM1QbLxcD5XtyNRvgT/4SoyJ8RJp80zyjvM28YDf19k0E/VG5QeoetCqMN6sjsbRQdemsvI2w4szEE0PqpnkJGZnqMkgLbFkJNyxWyY0t7MOFLRzy6pO8ysEouEFAuZywcKBVWxgQOmgg0/b7n30uH1zvEOAPgLnXP3XR6jsHqBIm42dRLxbY4feujQyr5QpbiZhS6hwcSaOesRDTvpUpVEl2RAagDGEvhjmxDIGA21in+XlNZB/uQA==;BC1RMhTi5lqKY9KpFmH6cA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-ma
 cdnAmpWebUrl: "https://www-prolificnorth-co-uk.cdn.ampproject.org/c/s/www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp"
 type: article
 quality: 73
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Dodging AI Biases in Machine Translation"
+    excerpt: "Machine translation company Intento uses metadata to add context to any text to be translated and automates post-editing to dodge AI biases."
+    publishedDateTime: 2020-11-30T09:01:00Z
+    webUrl: "https://slator.com/sponsored-content/dodging-ai-biases-in-machine-translation/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 54
+    images:
+      - url: "https://slator.com/assets/2020/11/Intento-main-image_6x4.png"
+        width: 600
+        height: 400
+        isCached: true
   - title: "5 things your company should know before investing in Artificial Intelligence"
     excerpt: "Analyze your company and detect the susceptible areas. Find a solution that is compatible with your business model. Upgrade your staff skills. Go to the experts. Continues to grow. The year 2020 has been marked by the acceleration in the development and adoption of Artificial Intelligence (AI) in various aspects of daily life,"
     publishedDateTime: 2020-11-26T16:11:00Z

@@ -26,19 +26,6 @@ images:
     height: 209
     isCached: true
 
-related:
-  - title: "Barack Obama To Receive Voice Of Influence Award By PEN America"
-    excerpt: "According to ABC News, Obama will receive PEN America's second annual Voice of Influence Award in recognition of how his writings “have traversed political, social, and ideological bounds and framed a self-reflective humanism that has marked his influence on public life."
-    publishedDateTime: 2020-11-25T18:07:00Z
-    webUrl: "https://www.bet.com/news/national/2020/11/25/barack-obama-voice-of-influence-award-pen-america.html#!"
-    ampWebUrl: "https://www.bet.com/news/national/2020/11/25/barack-obama-voice-of-influence-award-pen-america.amp.html"
-    cdnAmpWebUrl: "https://www-bet-com.cdn.ampproject.org/c/s/www.bet.com/news/national/2020/11/25/barack-obama-voice-of-influence-award-pen-america.amp.html"
-    type: article
-    provider:
-      name: BET
-      domain: bet.com
-    quality: 24
-
 secured: "lYEPP/rPTZ33yQyuHW2R8BxqErzotdq463yGcrouCUgkm0x9swB9PB2TMnxyWUubcYxutVq9eBEA6EMhi0jcPXlJ68pK31GW8b35DA14JKju7iixjZ9770gNtYxe8nNgJ3aPehvabJmZCBSxyswDvr7RIojC15NJ9QmI4cfqsvk6+/IBOzaCH8Mcl7ryRDmw3RwGFHKigZey0s+Qz68L5EBlfueF8krbGCayipBmRP5+cDPjqrYdeOWa4e0UxAqpNqsEsKyAsNjOF1C6w8FkJFFng7tWbXKWhAw9Nb6hJYcVYavU2Hw/auLR2BGWZ2DKxS0XLwKoevUlyNJj0RQqFUCRuP4/qEwH3vloSSj+T7ZExBjdbRFXVpPBzdGczAKVvv0OoRwaa/yMU69Pu1Orl+nf9mZnALPfvOfXSgEQZ5tswU9PqYUaoWu3hDQ17fAw+K7OLm2WP92BzFCakgRvY9fDGVh3o4stgzlyRCPIk7EHYufoHm2YngP149B7Rs89syeO8cJBBP/grse6Tufw5A==;PS81L07ivHRaXjwbleC0dg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "YouTube is testing AI-generated video chapters"
-    excerpt: "The feature could save YouTube creators from having to manually add chapters to the descriptions of their videos."
-    publishedDateTime: 2020-11-25T17:36:00Z
-    webUrl: "https://thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/"
-    ampWebUrl: "https://thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/amp/"
-    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/25/youtube-is-testing-ai-generated-video-chapters/amp/"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 67
   - title: "BBC Launches Artificial Intelligence Tool To Read Its Articles To Listeners"
     excerpt: "The BBC is launching a new audio tool that uses artificial intelligence to read articles from its website aloud with a voice that speaks in a friendly, easy to understand northern British accent."
     publishedDateTime: 2020-11-26T09:03:00Z

@@ -24,26 +24,6 @@ images:
     height: 408
     isCached: true
 
-related:
-  - title: "SK Telecom Co unveils AI chip"
-    excerpt: "South Korea is to add a new artificial intelligence (AI) chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global technology market and an upgrade of its industrial capabilities."
-    publishedDateTime: 2020-11-25T17:40:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2020/11/26/2003747595"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 34
-  - title: "SK Telecom unveils next-gen AI chip, and ambitions"
-    excerpt: "South Korea's SK Telecom has data center and AI-as-a-service ambitions for its new AI chip, 1.5 times faster than a GPU but half the price."
-    publishedDateTime: 2020-11-25T18:15:00Z
-    webUrl: "https://www.lightreading.com/asia/sk-telecom-unveils-next-gen-ai-chip-and-ambitions/d/d-id/765703"
-    type: article
-    provider:
-      name: Light Reading
-      domain: lightreading.com
-    quality: 34
-
 secured: "Zna5KW/eYgWehEL9n5hOt5+LmkM3fVJqJdmKc7RuskML4/oqPSdpryOtjDMj13SlPn7EP3pVzOmhgBKmigVWTrYJkldMO9Nh1x/K6ksDGqIZXSX5ZxHfXCzvg+CIoSBPJZ/LOXp0gcblkBhDpXEgodWKkd/JZG+MdaEG7xW0JJr6QVgaKw6faK4iFFu823yw3E8odbXk0hMKN/37Twthc9mw83luPq4hIwo92XxVS/wAVkbuVt+r3Lf+K9TWBXNcn4KNaKR5RzRWMXLHtPvtmDd1vqMwxAijVhTvqV3aCcMMAzzyVhBgIuG8g3qZNWpZh9XXMGreo5INEu4EXCB42ayUjVTYNesBSIhj+FOd2UASBKPyhO3/Kgt3/zyuFShvAzz28EGEqOHo/XX7hNNMuA9s62Fzly8I99n0UfoxaQdySHuDnkBRyPcs5V2i5tnsnsAaqBG4LyGwuoQS8iqwoKzTThUiCT/hxz80Ds01yoXvxrfOW4MJtALL6WQnS69x+dEpu90BtlBqOaZWQRx42g==;djVkoQNbT7YaUSVema4HbA=="
 ---
 

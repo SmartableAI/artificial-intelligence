@@ -33,7 +33,7 @@ related:
   - title: "NCKU team develops digital imaging solutions in liver pathology leveraging AI technology"
     excerpt: "The pathologist, specialized in looking at tissue or pathological sections through a microscope, is to make a definitive cancer diagnosis and may also work with physicians or other members of healthcare team to recommend a treatment strategy that could include observation,"
     publishedDateTime: 2020-11-27T06:21:00Z
-    webUrl: "https://www.digitimes.com/news/a20201127PD215.html&chid=9"
+    webUrl: "https://www.digitimes.com/news/a20201127PD215.html?chid=9"
     type: article
     provider:
       name: Digi Times
