@@ -86,6 +86,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "+9xx6fxIzS1ihdnTH+roPLxixRW2v7koBGjeGrFnlb8IIpr7F4TBglO+xG4OwcCATtDRIh077RrddkoZiWg6dXRYKkgFF7Jj2cK52xc/d+BZKTix/kv9dQY/OIkuanGoBkS2CGXAOvJUKpSgXGevoKm/ipTd62USZu97P/EUTy+KCF56VjEBsnHXAYFCF1+o4zSO4zePDUzKozqnq97vgAPKhgeNdWYdjYy1XIEsfDYUR9JKbGdnSo7l1av3NMU7y7AzyEdhNf8TIDmbWTb9xJPPSP05kHcERBOnfMVpBTSNnu48OxYsOw6PyLxHhR03IBEW6vrh4GSvANy2EBYTy96Oj/poMQ/4/2zIvbmlPLE=;lBq6OjUl46Oj8iLV/XXLGQ=="
+secured: "7YYEArF8lr1DCSq3MPwWusHNP/qkdgxxGgJLgZ+UGdWt9R9nAlc+kENgjejgJsajNjWm3ZU/0LDxdZ1z5rn2spUf/7AmDj8hN++dkn3mTHBZi2A8UTCZjJGP7AV+zW37LJtWjz8hojekNMYeo/GsCph7DinJ4mfSHbp82RCpFemw6el4f0sRSb3dlyBNlA/LoDU3zWM4rIPmsWg1zoQel5M1FSbMec2nEGjMA8W+5U2tJ8kzWVAEpaC/8ssAodYbaz47GQINYlGXv43VQzmJy0/BL/xEIrXhqCyqgQlb/VngXcktCwJpqy75DudkylseIqtoM9GcgSZGwCmFVpYcNiSrRyhMzhVpyFFVOIJC93U=;xLWtITizlPwJRn9P8DdvtQ=="
 ---
 
