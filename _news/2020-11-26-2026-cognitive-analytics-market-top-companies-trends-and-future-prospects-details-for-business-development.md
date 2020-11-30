@@ -75,20 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Wearable Artificial Intelligence (AI) Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Selbyville, Delaware Market Study Report LLC recently added a new title on 2019-2025 Global Wearable Artificial Intelligence (AI) Market Report from its database. The report provides study with in-depth overview,"
-    publishedDateTime: 2020-11-25T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing (NLP) Market Trade Analysis, Current Trends, Competitive Landscape and Forecasts till 2027"
     excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level."
     publishedDateTime: 2020-11-29T18:20:00Z
@@ -187,7 +173,12 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 9
+    quality: 29
+    images:
+      - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
     publishedDateTime: 2020-11-26T09:43:00Z

@@ -886,6 +886,93 @@
       ]
     },
     {
+      "path": "_news/2020-11-16-machine-learning-ide-in-alpha.md",
+      "title": "Machine Learning IDE In Alpha",
+      "excerpt": "Machine is an IDE for building machine learning systems using TensorFlow. You can sign up for the alpha, but first, have a look at the video below to see what it is all about. You’ll see in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/06/27/machine-learning-ide-in-alpha/",
+      "originalUrl": "https://hackaday.com/2017/06/27/machine-learning-ide-in-alpha/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2020/11/Alfred-Jone-Self-Driving-Keynote-2020-Hackaday-Remoticon-thumb.jpg?w=600&#038;h=600",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-would-artificial-neural-networks-implemented-in-clinical-wards-help-nephrologists-in-predicting-epoetin-responsiveness.md",
+      "title": "Would Artificial Neural Networks Implemented in Clinical Wards Help Nephrologists in Predicting Epoetin Responsiveness?",
+      "excerpt": "Compared with linear models, computer assisted tools based on artificial neural networks predict the mean erythropoietin dose required for an individual patient significantly better. Surprisingly ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/548842_6",
+      "originalUrl": "https://www.medscape.com/viewarticle/548842_6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 806,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-15T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-15-you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias.md",
       "title": "You can’t eliminate bias from machine learning, but you can pick your bias",
       "excerpt": "But while an absence of bias makes sense on a human level, in the world of machine learning, it’s a bit different. In machine learning theory, if you can mathematically prove you don’t have ...",
@@ -967,10 +1054,10 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning",
-        "TensorFlow"
+        "Machine Learning"
       ]
     },
     {
@@ -1302,111 +1389,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization.md",
-      "title": "OctoML Announces Speaker Line-Up for 3rd Annual Apache TVM Conference Focused on Advances in Deep Learning Compilation and Optimization",
-      "excerpt": "OctoML, the MLOps automation company for superior model performance, portability and productivity, today announced the speaker line-up for the Apache TVM and Deep Learning Compilation Conference. The free virtual conference will cover the state of the art of deep learning compilation and optimization and recent advances in frameworks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/octoml-announces-speaker-line-up-for-3rd-annual-apache-tvm-conference-focused-on-advances-in-deep-learning-compilation-and-optimization-2020-11-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T10:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.md",
-      "title": "How Amazon Retail Systems Run Machine Learning Predictions with Apache Spark",
-      "excerpt": "Amazon Retail systems uses Apache Spark with Deep Java Library (DJL) to build propensity models to drive customer experience.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3596432/how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.html",
-      "originalUrl": "https://www.infoworld.com/article/3596432/how-amazon-retail-systems-run-machine-learning-predictions-with-apache-spark.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2020/11/blue-and-white-binary-code-technology-background-picture-id459150233-100866365-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T08:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI"
       ]
     }
   ],

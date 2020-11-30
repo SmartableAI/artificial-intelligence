@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-25T20:33:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=381643"
 webUrl: "https://us.acrofan.com/detail.php?number=381643"
 type: article
-quality: 9
+quality: 29
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+images:
+  - url: "https://us.acrofan.com/news_images/2019/07/10/mark/20190710137022.jpg"
+    width: 580
+    height: 387
+    isCached: true
 
 related:
   - title: "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025"
@@ -60,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Wearable Artificial Intelligence (AI) Market – Detailed Analysis of Current Industry Figures with Forecasts Growth By 2025"
-    excerpt: "Selbyville, Delaware Market Study Report LLC recently added a new title on 2019-2025 Global Wearable Artificial Intelligence (AI) Market Report from its database. The report provides study with in-depth overview,"
-    publishedDateTime: 2020-11-25T07:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/wearable-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2025-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -198,6 +190,6 @@ related:
         height: 450
         isCached: true
 
-secured: "3HYX9X5220fqKkdiEk49XGEpaceeAjTvdsbhra5mCrO/caYO/Swwms/Z8J3Ea+kMRRHc6WoKP6Iw7VG+5KmcBu9w4BzqvRUuPY9+7iqGno1+Nm5mYm7g6DjBbnflGlYxM30d6j/UAG6RsT2OYuIV++JusG9Df41+HWATwcZxlPSshQnzC0H8OfJCeGRvS+JIz20XiRaoBx1BRIlRJ1d4Q1Pz+zIEkW78ieSuH5Xw4g7BT10vzsAR6EQZaHyBeo/9oS2qVX4hKyaNNJqxjKMvJTGK8MQ+uxPoUA4a8jzzg8wNYNXgGwXcR4+SFJZ5apRMwuXYyonRUnVLAQmstRIW1jTFcYhIFq7I7YZ6o24kQig=;55y04cicQdGfkW+TwbX8zA=="
+secured: "88hSyx+UCCMNCTEFQAqXMtVNtue8QGZCPRPNaEjTr7S99L1CD9MAcVwo3lPlGbChYO7R99dz/uEaJ44NMqAZf+/49Use9+MJNuAAUcCdAvtlKjApDHocxIDJryX7ykYA3mu0vjVLLL4v111UVbLcUYkVDCQ8f3JhVQXdwjwlC+k93gge9ynxPicRdXva206fHdJgJjlyCOxV8rssfmIzMGzVpk9iF7PGziI/VLzvn1/kG2t73DfkVhk2sIj/cPnXdaW/11qhOWhH1IEDh/xnk/jMElR4VDWnnnZ1puNMlEgdeall5mPijHMU3tD0Lgv281FnZ2nF7JhSicBsEbNHHfaWJoBqbImm1kEhIUZkBrs=;zvprmPtxIWELBBcTxL+BZg=="
 ---
 

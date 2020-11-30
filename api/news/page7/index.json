@@ -399,7 +399,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
@@ -428,7 +428,8 @@
       "topics": [
         "AI",
         "AI in Security",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {

@@ -2,6 +2,100 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-10-31-ai-to-help-worlds-first-removal-of-space-debris.md",
+      "title": "AI to help world’s first removal of space debris",
+      "excerpt": "In September, the International Space Station had to dodge an unknown piece of debris. With the volume of space trash rapidly growing, the chances of a collision are increasing. The (ESA) wants to clean up some of the mess — with the help of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-30T172415.159-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/30/ai-to-help-worlds-first-removal-of-space-debris/amp/",
+      "publishedDateTime": "2020-10-30T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-tesla-raises-full-self-driving-price-from-8000-to-10000.md",
+      "title": "Tesla raises “full self-driving” price from $8,000 to $10,000",
+      "excerpt": "Tesla is wasting no time cashing in on excitement over the company's forthcoming \"full self-driving\" software release, which was released in beta form to a small number of customers last week.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2020/10/tesla-raises-full-self-driving-price-from-8000-to-10000/",
+      "originalUrl": "https://arstechnica.com/cars/2020/10/tesla-raises-full-self-driving-price-from-8000-to-10000/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-waymos-driverless-cars-were-involved-in-18-accidents-over-20-months.md",
       "title": "Waymo’s driverless cars were involved in 18 accidents over 20 months",
       "excerpt": "Major stakeholders like Pony.ai, Baidu, Tesla, Argo.AI ... to test what results from the use of software that embodies self-driving cars’ automation with a broad, agreed-upon framework in ...",
@@ -1125,92 +1219,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-global-edge-ai-chips-market-latest-analysis-report-2020-top-manufacturer-and-vendors-covered-market-share-size-and-industry-growth-prospect.md",
-      "title": "Global Edge AI Chips Market Latest Analysis Report 2020 - Top Manufacturer and Vendors Covered, Market Share, Size and Industry Growth Prospect 2026",
-      "excerpt": "Global “Edge AI Chips Market” Report discusses about the important developments impacting and increasing the growth in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-latest-analysis-report-2020---top-manufacturer-and-vendors-covered-market-share-size-and-industry-growth-prospect-2026-2020-10-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-edge-ai-chips-market-latest-analysis-report-2020---top-manufacturer-and-vendors-covered-market-share-size-and-industry-growth-prospect-2026-2020-10-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-29T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-30-facial-recognition-system-unveiled-at-laxs-tom-bradley-international-terminal.md",
-      "title": "Facial Recognition System Unveiled At LAX’s Tom Bradley International Terminal",
-      "excerpt": "The system, called Simplified Arrival, is now in place at Tom Bradley International Terminal at LAX and was touted as a way to use facial biometrics to automate the document checks that are required for admission into the U.",
-      "sourceUrl": null,
-      "webUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
-      "originalUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
-      "cdnAmpWebUrl": "https://losangeles-cbslocal-com.cdn.ampproject.org/c/s/losangeles.cbslocal.com/2020/10/29/facial-recognition-system-unveiled-lax-tom-bradley-international-terminal/amp/",
-      "publishedDateTime": "2020-10-29T15:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS Local",
-        "domain": "cbslocal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

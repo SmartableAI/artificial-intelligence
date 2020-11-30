@@ -655,6 +655,60 @@
       ]
     },
     {
+      "path": "_news/2020-11-20-artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts.md",
+      "title": "Artificial intelligence could be used to hack connected cars, drones warn security experts",
+      "excerpt": "Cyberattacks on vulnerabilities in connected vehicles could have very real physical consequences if security isn't managed properly.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/7d823c87-e76e-493d-b656-1a90aa737182/thumbnail/1200x675/eb1c7cb1954746c9aa0ad732a26af89b/20200930-boulton-danny.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
+      "publishedDateTime": "2020-11-20T04:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-startup-circle-how-is-doceree-using-ai-and-machine-learning-to-revolutionize-the-pharma-industry.md",
       "title": "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?",
       "excerpt": "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may",
@@ -1450,40 +1504,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
-      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
-      "excerpt": "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
-      "originalUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
-      "publishedDateTime": "2020-11-14T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

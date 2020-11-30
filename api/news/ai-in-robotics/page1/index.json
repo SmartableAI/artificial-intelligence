@@ -433,8 +433,8 @@
       "title": "Robots invade the construction site",
       "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
-      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80",
+      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -451,8 +451,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
-      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-11-22T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -726,7 +726,7 @@
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
@@ -755,7 +755,8 @@
       "topics": [
         "AI",
         "AI in Security",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI in Autos"
       ]
     },
     {

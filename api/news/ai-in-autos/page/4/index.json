@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-30-ais-potential-to-manage-the-supply-chain.md",
+      "title": "AI's Potential to Manage the Supply Chain",
+      "excerpt": "Artificial intelligence has made noticeable changes ... AI strictly with the lens of gadgets such as drones or robots or driverless vehicles. There are algorithmic advances brought about by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/86903.html",
+      "originalUrl": "https://www.technewsworld.com/story/86903.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-robot-on-keyboard.jpg",
+          "width": 620,
+          "height": 370,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-tesla-raises-price-of-full-self-driving-option-to-10000.md",
       "title": "Tesla raises price of ‘Full Self-Driving’ option to $10,000",
       "excerpt": "Tesla’s “Full Self-Driving” option, which currently enables Autopilot features like changing lanes on highways and automatic car parking, now costs $10,000, or $2,000 more than before. The price rise only covers the US for now, where the company’s ...",
@@ -1384,58 +1427,6 @@
         "name": "Mashable",
         "domain": "mashable.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-23-predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive.md",
-      "title": "Predictions Rosy For ‘Roadschooling’ Whence Self-Driving Cars Arrive",
-      "excerpt": "The moment that you arrive at a landmark location provides ample time to stretch your legs and see new sights. For those stuck at home, it is the same four walls, day after day, week after week. Some twists and turns are to be expected while doing the road adventure approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8cc61ec0a769024976968d%2F0x0.jpg%3FcropX1%3D1787%26cropX2%3D5571%26cropY1%3D197%26cropY2%3D2508",
-          "width": 1200,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/23/predictions-rosy-for-roadschooling-whence-self-driving-cars-arrive/amp/",
-      "publishedDateTime": "2020-10-23T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

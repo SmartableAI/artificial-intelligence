@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Security
   - AI in Robotics
+  - AI in Autos
 
 images:
   - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/7d823c87-e76e-493d-b656-1a90aa737182/thumbnail/1200x675/eb1c7cb1954746c9aa0ad732a26af89b/20200930-boulton-danny.jpg"
