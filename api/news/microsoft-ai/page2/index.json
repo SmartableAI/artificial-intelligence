@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-14-microsofts-new-azure-data-services-explained.md",
+      "title": "Microsoft's new Azure data services explained",
+      "excerpt": "And like other Azure data services, you can use the data as a source for Azure Machine Learning, or analyse it in Power BI. Download this article and thousands of whitepapers and ebooks from our ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
+      "originalUrl": "https://www.techrepublic.com/article/microsofts-new-azure-data-services-explained/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 219,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/05/28/b11eb851-d9a6-4656-bb77-248c24cc34b8/thumbnail/1200x675/669f527a64020a4e8991cd8866e97df9/trp-thumb.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/microsofts-new-azure-data-services-explained/",
+      "publishedDateTime": "2020-11-13T12:42:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-infosys-delivers-cloud-powered-cognitive-first-managed-services-for-it-operations.md",
       "title": "Infosys delivers cloud-powered, cognitive-first managed services for IT operations",
       "excerpt": "The open, end-to-end managed services platform for IT operations ... seamless experience journeys Applying conversational AI and cognitive automation to enable self-service, improve efficiency ...",
@@ -1328,49 +1380,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-02-as-deadline-looms-expert-says-businesses-are-just-starting-to-take-digital-accessibility-more-seriously.md",
-      "title": "As deadline looms, expert says businesses are ‘just starting’ to take digital accessibility more seriously",
-      "excerpt": "“Unless you consciously include, you will unconsciously exclude,” said Ricardo Wagner, accessibility lead at Microsoft Canada ... it brings a multi-sense opportunity with a range of cognitive services that can be integrated into any application.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484",
-      "originalUrl": "https://www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itbusiness.ca/wp-content/uploads/2020/11/GettyImages-511721606-620x250.jpg",
-          "width": 620,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484?amp=1",
-      "cdnAmpWebUrl": "https://www-itbusiness-ca.cdn.ampproject.org/c/s/www.itbusiness.ca/news/as-deadine-looms-experts-say-theyre-just-starting-to-see-companies-take-digital-accessibility-more-seriously/116484?amp=1",
-      "publishedDateTime": "2020-11-01T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Business",
-        "domain": "itbusiness.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

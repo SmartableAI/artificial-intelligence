@@ -59,6 +59,20 @@ related:
         width: 800
         height: 406
         isCached: true
+  - title: "Why facial recognition thermometers are raising privacy concerns during the pandemic"
+    excerpt: "Some of these devices sell for around $1,000 on Amazon. Features include no-contact temperature detection, facial recognition (even with masks on), and storage for face identification memory. So, business owners or apartment landlords who place these ..."
+    publishedDateTime: 2020-11-29T19:00:00Z
+    webUrl: "https://www.dailydot.com/debug/facial-recognition-thermometers/"
+    type: article
+    provider:
+      name: The Daily Dot
+      domain: dailydot.com
+    quality: 47
+    images:
+      - url: "https://uploads.dailydot.com/2020/10/thermal-camera-facial-recognition.jpg?fm=pjpg&ixlib=php-3.3.0"
+        width: 2000
+        height: 1000
+        isCached: true
 
 secured: "VP70M/vUuMnUrhnf7iOQWHf9I+giZTg5cAnMWHakNqNZ5cYEl1uFCR93KErinnmIk6RvtvXSEeFiqC8xLXkypC2kSSWvaoYAbGCd3ZAvbJRNy8UpDa7nZKyFkVj3ibE1wQUdVekMv7GPX4iUQ6Gwl0Xutej5ftPwC/QGMGpiuLqs7wJN1NVLCA7ZuruyDOlNSmDoCUKkejYVrM2839cxLWbMxFsnTnejqO3ERwAoMS5KW4z8WgANK3hWWe8VECpSxtJM2EqtwF3yYot9HlJoiChzit384NqRBfcvRcGF3/9qShOQpP72E2PEySSr2drNxc4CBtbxsxCXvXxiLAjB/u0ifcZqCq5AAb3lwP7D42fC6K4Wqnj0Bx1RdU5iqu2Uy5lbujIGmt4M976blRd4ziTNiIJlyWKwhaH80IK0WrQ96/uYx+1PRQlfBBeZNDx4vOVtmdFvurOODbSLGFRGkmK1o5/Xmg/YmhQbA2ZMqz4kuftVVOxSMakim84GAv45SEJx2azJaoksT8rQAdcizg==;zjKQT4CR/A5uAG6LivyVdA=="
 ---

@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trueface computer vision wins for biometric travel innovation, public safety"
+    excerpt: "The National Institute of Standards and Technology (NIST) has announced Trueface, CalAster and several academic teams as Phase 1 winners in a computer vision challenge it is hosting in partnership"
+    publishedDateTime: 2020-11-30T21:08:00Z
+    webUrl: "https://www.biometricupdate.com/202011/trueface-computer-vision-wins-for-biometric-travel-innovation-public-safety"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Etihad trials facial biometric check-in for cabin crew"
     excerpt: "Etihad is trialling SITA's facial biometrics for cabin members, allowing them to complete check-in procedures digitally via their own mobile devices."
     publishedDateTime: 2020-11-26T11:51:00Z

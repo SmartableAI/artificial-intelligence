@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/20/11/n18581460/webinar-ai-based
 ampWebUrl: "https://amp.benzinga.com/amp/content/18581460"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18581460"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - IBM AI
 
 related:
   - title: "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"

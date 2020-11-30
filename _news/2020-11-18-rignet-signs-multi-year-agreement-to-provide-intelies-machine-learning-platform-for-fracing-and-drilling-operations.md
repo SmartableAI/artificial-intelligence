@@ -1,27 +1,27 @@
 ---
 category: news
 title: "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations"
-excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions,"
-publishedDateTime: 2020-11-18T12:05:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html"
-webUrl: "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html"
+excerpt: "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent"
+publishedDateTime: 2020-11-18T13:27:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+webUrl: "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mma.prnewswire.com/media/1306557/RigNet_Logo.jpg?p=facebook"
-    width: 967
-    height: 506
-    isCached: true
-
-secured: "cLQHcL02JjT4D9PW0EqQISlnpFBX34Q3dYyo8hsc/f2DgIyYikRurzAVFeNB3MKgk3XVffkZe5Z+zbZqxCJpACdZv2lq5tB2Oa5X2j60Omy8x5MT6Mn9rj3L2F6yZTuO8y/WgRvr/aAoQ/g51plqA70sAYY9lA+sBouXTy8cuVm0FUDnytnf3kE8623Wb/bDpGt3n9Y/lC0zuyVqPw4iYMMfnJD8XiBgo+Z1KeUDciUOd93+Tp4UjeMzGfVP2zdZR/nkdsmSMsfby2UyKTRxt8QyJkvD6HdNa78QIBqTE40tl91d62j/dz1ZXhxkn/iSgE1tbdYCHNfi8H2twqGMGz9aa932ZngG7ibNzdLZV4g=;hs8oWeH0i7ARRfib67c8Yg=="
+secured: "PbVO/SpGQnK7Y0ZIXZuXWOKlpyq+Yv6JwokxNd5MfEqj8flZyRmvGOUr469SCThbftdZEXIeFmD67OIGo84hvECUkNfu5LYRJBpXW3mNTLN6dqD5HqDq18UNwc7BgLLJKudVLjA6vb8zXBwPy4jEFfSqtn40Qmmrvi0oU87kKdkGTEa1XMMb5yVpR5PLnH1kzvOa0oJYYkktqWwRpyCxyjclyEgYbtVShTJNYCYV7hd/g/9xHaIqa8DoEcBW6ZCdfpH+gXR82kiPitZnOUKPjGY75uHVCxx2ZXxtwaJ6MybXVNaeE39is1+9TbK/FZOiIKOjGWPu8CHy3dmqYFhjBYPrguDcUszPD6+i8LVtV3w=;vKU5Hn8VOF+ZdE6d01W3sA=="
 ---
 

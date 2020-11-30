@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-30-scanuppa-you-face-exadel-open-sources-compreface-facial-recognition-tool.md",
-      "title": "Scanuppa you face: Exadel open sources CompreFace facial recognition tool",
-      "excerpt": "California headquartered Exadel agrees with the above statement. The company has this month released of CompreFace, an open-source facial recognition application. CompreFace (comprehending faces, get it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool",
-      "originalUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itknowledgeexchange.techtarget.com/open-source-insider/files/2020/11/Joe_Dolce_-_SYF.jpg",
-          "width": 580,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1",
-      "publishedDateTime": "2020-11-30T05:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-brazil-trials-facial-recognition-with-retired-public-servants.md",
       "title": "Brazil trials facial recognition with retired public servants",
       "excerpt": "The Brazilian government has announced a facial recognition trial with retired public servants to support the process of periodic verification that the beneficiary is alive in order to continue receiving of benefits.",
@@ -286,7 +243,7 @@
       "originalUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -1389,6 +1346,49 @@
       "provider": {
         "name": "Newsd",
         "domain": "newsd.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
+      "title": "Computer vision app allows easier monitoring of diabetes",
+      "excerpt": "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

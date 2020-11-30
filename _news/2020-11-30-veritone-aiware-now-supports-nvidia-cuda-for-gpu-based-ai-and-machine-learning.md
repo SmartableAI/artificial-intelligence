@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.benzinga.com/amp/content/18572236"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Veritone aiWARE Supports NVIDIA CUDA Platform for GPU AI/ML"
+    excerpt: "Veritone aiWARE announced that it now supports the NVIDIA CUDA platform, which will enable organizations to run intensive artificial intelligence (AI) and machine learning (ML) tasks on NVIDIA GPUs, Veritone reported on Monday."
+    publishedDateTime: 2020-11-30T21:22:00Z
+    webUrl: "https://www.executivegov.com/2020/11/veritone-aiware-supports-nvidia-cuda-platform-for-gpu-ai-ml/"
+    type: article
+    provider:
+      name: Executive Gov
+      domain: executivegov.com
+    quality: 73
+    images:
+      - url: "https://executivegov-media.s3.amazonaws.com/2020/11/30/08/5d/27/de/b1/be/83/d4/technology_2020118.png"
+        width: 272
+        height: 270
+        isCached: true
   - title: "Veritone stock pops 29% after adding Nvidia CUDA support to its AI operating system"
     excerpt: "Veritone (NASDAQ:VERI) shares are surging 29% after the company announced its AI operating system aiWARE now supports Nvidia's CUDA platform.CUDA stands for Compute United Device Architecture and the parallel computing platform boosts performance by tapping into the power of Nvidia GPUs."
     publishedDateTime: 2020-11-30T16:37:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/rackspace-technology-ann
 webUrl: "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 39
+    quality: 41
 
 secured: "zYiiMnCt1tFUwRtMtzQruAa1ohHBxbjJEnjCNgcPIkoXdoQejO9jbW9q0U8d0FM1uUfck3jMjXmTgtaaon+HSWzHLt7hDIM9nb4UvtHPL7MjZMd2OXG2mJMES+jO6lZYrLgo7mg0yk3U1pwfbI0pYoifJmLpWuU0u5v0UgzyRKLManrTSgaA0QteOAPgqwbPx4+8yhreCij93dter/p3u9cDz0KcAw/XiTzVTE2DyiSfIRb5631aYgLvxVOfxaNVf12P/NU/bU+Ikw+dAc6guMGu31hn5QBf6470svrvvCxedQ32y5otjFOaRh8yuzhYthzI0yW9Lx3chRpizJqMYz3uBZ9BvZUfixuaLDi0hts=;hsrG53IT3ZNJOruzXNnIDA=="
 ---

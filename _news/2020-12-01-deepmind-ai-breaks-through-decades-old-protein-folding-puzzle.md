@@ -105,6 +105,20 @@ related:
         width: 4898
         height: 3265
         isCached: true
+  - title: "DeepMind AI handles protein folding, which humbled previous software"
+    excerpt: "DeepMind announced that it had seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
+    publishedDateTime: 2020-11-30T22:10:00Z
+    webUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/?comments=1"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 84
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/ArgonneNationalLaboratory_Flickr_Bacillus_anthracis-CROPPED-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "DeepMind artificial intelligence cracks 50-year-old scientific riddle"
     excerpt: "A problem dating back five decades may have been cracked by artificial intelligence created in the UK, paving the way for faster development of treatments and drug discoveries. The so-called ‘protein folding problem’ has long been one of biology’s biggest challenges because there are so many of them and their 3D shapes are difficult to map out."
     publishedDateTime: 2020-11-30T15:33:00Z
@@ -137,6 +151,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Google's Deepmind AI Cracks Protein Folding Simulation Decades Early"
+    excerpt: "Google’s DeepMind artificial intelligence project has made a startling leap in protein folding, a process in biology whose time- and resource-intensive physical solutions curren"
+    publishedDateTime: 2020-11-30T22:34:00Z
+    webUrl: "https://www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682"
+    ampWebUrl: "https://www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/googles-deepmind-ai-cracks-protein-folding-simulation-decades-early-3091682?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 74
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/05/deepmind-go-world-champion-challenge.png"
+        width: 1200
+        height: 738
+        isCached: true
   - title: "DeepMind’s protein-folding AI has solved a 50-year-old grand challenge of biology"
     excerpt: "For years DeepMind has notched up a streak of wins, showcasing AIs that have learned to play a variety of complex games with superhuman skill, from Go and StarCraft to Atari’s entire back catalogue. But Demis Hassabis,"
     publishedDateTime: 2020-11-30T15:41:00Z
@@ -152,6 +182,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/protein.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Alphabet’s DeepMind makes AI breakthrough with AlphaFold that could aid drug research"
+    excerpt: "Alphabet's DeepMind AI lab today announced that its AlphaFold system has made a \"major scientific advance\" in biology that could help the drug"
+    publishedDateTime: 2020-11-30T21:38:00Z
+    webUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/"
+    ampWebUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/amp/"
+    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/11/30/deepmind-alphafold/amp/"
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 67
+    images:
+      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/11/deepmind-alphafold-cover.png"
+        width: 2400
+        height: 1350
         isCached: true
   - title: "DeepMind Solves 50-Year-Old ‘Grand Challenge' With Protein Folding A.I."
     excerpt: "DeepMind has developed a piece of AI software called “AlphaFold” that can accurately predict the structure that proteins will fold into in a matter of days."
@@ -271,6 +317,6 @@ related:
       domain: thetimes.co.uk
     quality: 34
 
-secured: "01AkgOtufXkFrkEUgoU7TKbIqf77mZlz1bj456GnDYMcK1LER7wkiuPs3P52cbkv/lkF5x/H2fnozWJ4iphVvT0gwZ8G8KFNxssE7AzGQfXHD+ufNKjPbRecRdU+gU2GHxlrMo4nMPkwXb1BWTuokbu0YMynoATRlCVOxI8PCBnM3B+Hg/JB+kK8aZif0uwbz/LKZZg8wZSF1ZkLLDnibF6a/ZaMsbJDjsF5RXH56GCW00u377O4pshf2pZ8Sgg5oi9ObundxkhXl1MQJYCY6hJffA++bhy4CcWkrzuDnSmENIr5pV1Jez+OAETrfXQOmsAnL5DaSoCHng6IjbR3tznrEu4KUr88mmQIU4mlW24=;FNXchcbVJlht2yqnedU90w=="
+secured: "elxkRrvrL4W8EMGOvUS6nVAiL9pKrlNxUxJFyyolGBKrllkkF39zhAWgXIchIRbY6Lu3aoGQ00jU4e2tFVgEy0k4kFQysRh9cXMiHuGl5IQYBrhg+xYFGmHT+hUg/MqUTWRDZnWfUfPFCS38pTt5igsV8JGhBB44XlBaC6Rr5wLZpn4Y54pQ8VY0Aa4XgBLrDY8gkoROJVio2fb1qvxXbneIAqhagAvaVfqP0FAvsrYZEr5w4m+iO2tH4JQTh9EqExMCgIreY3RNz6+kcdnOBeUt5c4/xFXbVBb5SWH5aE+S/JZzDQfXlYiYA0ViqZOEpokoi+biHNIWlTI17JK7+PGWiDRoqZ3eon+uUQE4ae41cszf4JYFCsTzdq4T1ev1ia2vHzsAgwnWKw9HKjHkvnWkAs0C2BHGHI9JoR13ZKYlkryl+x3PF0qxM3DB4bTINF3OZYJ3yAkjXhwFoWj9acRzTps5y3xlherF+9VKM/ag+I6g8iyDwbr6eAQBOiNPU4TRgvDVpZjmWq0sU8106g==;MIj0Lh0B4DVBbGxUGt0G6w=="
 ---
 

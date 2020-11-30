@@ -7,7 +7,7 @@ originalUrl: "https://www.futuretravelexperience.com/2020/11/etihad-trials-facia
 webUrl: "https://www.futuretravelexperience.com/2020/11/etihad-trials-facial-biometric-check-in-for-cabin-crew/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trueface computer vision wins for biometric travel innovation, public safety"
+    excerpt: "The National Institute of Standards and Technology (NIST) has announced Trueface, CalAster and several academic teams as Phase 1 winners in a computer vision challenge it is hosting in partnership"
+    publishedDateTime: 2020-11-30T21:08:00Z
+    webUrl: "https://www.biometricupdate.com/202011/trueface-computer-vision-wins-for-biometric-travel-innovation-public-safety"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 36
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Genesis GV70 Will Let Drivers Start Car with Biometric Fingerprint Recognition"
     excerpt: "The newest version of the Genesis GV70 will reportedly use fingerprint recognition to deliver a slew of smart driving features"
     publishedDateTime: 2020-11-27T21:22:00Z

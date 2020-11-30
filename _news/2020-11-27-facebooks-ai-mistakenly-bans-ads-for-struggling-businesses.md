@@ -50,6 +50,20 @@ related:
       name: Elmoudjaweb
       domain: elmoudjaweb.com
     quality: 38
+  - title: "Facebook acquires customer service startup Kustomer for reported $1B+"
+    excerpt: "Facebook Inc. has acquired Kustomer Inc., a heavily-funded startup with a cloud service that companies use to field customer inquiries. The financial terms of the deal were not disclosed. However, CNBC and other publications reported that the transaction values Kustomer at just over $1 billion."
+    publishedDateTime: 2020-11-30T22:00:00Z
+    webUrl: "https://siliconangle.com/2020/11/30/facebook-acquires-customer-service-startup-kustomer-reported-1b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/fbwm_cw_07.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "YP4yB53eD2KgWWZG9FOb7hyB5afcvIDj1KGVvaCFJHK0bTri532uK6pfLVaOg71nApxofmh7VSm1YknZdf0WfYTt7BZ1LnBnvKSgSzGl09SZE2SXB69fWF497nCO2t3PjYwAhL9LgXis4JN9iNMdYYc+eewMy06pq1DWxFqaQ0goxoD/FRV3wcfqRq+lxtPH+yHY7FEieUf+A0io4qQQBUkWVNCXHUMaDkROiYfY2nowiajMr8YAVfSZLE6ks5w+/cPbJtnskS2cg/jhsuYamkcUp/5pUoAuOp8c5axtgrTnvbumPrxE8TVcs9k9RgS0IzEzdvqWJBdXPhdkw/GPK11wvgKZG6XZSFHJgLIYsJ6MQpuMvajuLHfRaN3LYbFZJnG0+2U9khT4zm+y7iKg7nanQ0fJuq9ke4BNt90DMzU5mju3r5vo8fKza/mBGr/kd+46dohj9hmKFJLOF1HqwqiEA19VJr0z9Asgv96LGaWIxjRsPeZf/1US/YhkII3Vj6A4NkSj4WLe9aUPO+Ibmw==;UpUrt9vIX2xPtwPLWfS8ug=="
 ---

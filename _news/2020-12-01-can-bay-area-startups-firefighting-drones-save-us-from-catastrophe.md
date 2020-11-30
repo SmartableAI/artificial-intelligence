@@ -2,22 +2,28 @@
 category: news
 title: "Can Bay Area startup’s firefighting drones save us from catastrophe?"
 excerpt: "With flame-ravaged Bay Area communities still mired in a tough recovery after California’s worst fire season destroyed more than 1,000 Bay Area homes, a Silicon Valley startup says its artificially intelligent firefighting drones could help stop future catastrophes."
-publishedDateTime: 2020-11-30T17:04:00Z
-originalUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
-webUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
-ampWebUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
-cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
+publishedDateTime: 2020-11-30T21:46:00Z
+originalUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
+webUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
+ampWebUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
+cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
 type: article
-quality: 22
+quality: 42
 heat: -1
 published: false
 
 provider:
-  name: Vallejo Times Herald
-  domain: timesheraldonline.com
+  name: East Bay Times
+  domain: eastbaytimes.com
 
 topics:
   - AI
+
+images:
+  - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/SJM-L-FIRESUN-0824-1-1.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
+    isCached: true
 
 related:
   - title: "Can Bay Area startup’s firefighting drones save us from catastrophe?"
@@ -37,6 +43,6 @@ related:
         height: 683
         isCached: true
 
-secured: "GEi5yas/Nz/yHhMQ7EiMXsgV5u/f0/YPgdMG2JNnx56VJwYZzQO8lbDtyDM5oyNnzw6B2/DUhokhyXiTecWRkWhnx5kxXvoRqWSwj93b1o4y1ypFUmMj3vX3Kndat2bEmKjPsX4WMLVdsQ0/tvIMAd3EYtTCp6oB2CgYlGQaIOId2qJBI+6LfeMn6rPmTA02zzYjzqVrf9ZMbV93PEhEhyjFM/dYscN9T/AiON6/RqwoQ/OBVjVQTIn2K20AMFz4CSSEtubSVXuPQCVDFfaOJOsLyAZurqrFYOzCXP1r7q+MO/cE8RuancfIkUf2lnbkrNj2v3uWc0D86hifKf1tOvFy3QAdBX5X0xYbB1QlPxzxwG6D6lDpI5RARF2AUbIEJAmXHfUCeTi3OkwGGkX+M7cjrNthLm62tI/r8x4kmrbAl1X24qdBkjVYxKVIISKEl1EkPcwfmvYcPWSI2sVpJEOk0jEgfqAmg/vwqhDGnf/DUje8gEiXkpVgkSIlLsnI2+dcXPqXggVD3DJyXBOdBQ==;btSXfG5MbcCOMGZiqc6XGA=="
+secured: "cIVnB4mPpSBfTk+um33E/Hsw/FwTqGxCtqkbj+J8SZaXiaLGE2heJdtkpddUzK4jrsUaALEp59TfrGjeoXacGNloitnXZ+l84E71Kd1ZiwNUS+dQ1j3b8GsfTPkP6AqjRFtKuaMMKl8doUg/1jx+/FTSjGo5eKGuVfjh26VwKhXDn2LJXhb0yf/4Hl7u+9ke4ebSIJsodvpOHGkqfA0jqqJ5+LwJ3MDn1yk66tczVebJ8T9ty7zbwXx/yC4vn8Sg2SjOQMa6v7b/D29Ec+Xc7og8R9SPdXJ89zp/wtvW6/tMw7/LjtFnaTjlles0LWUxFuWQOyVcIde6h1Olje8HwU3pCfnw1yseSM61PwDOlSQ=;0hvEduyig/hiKlvw1x88dA=="
 ---
 

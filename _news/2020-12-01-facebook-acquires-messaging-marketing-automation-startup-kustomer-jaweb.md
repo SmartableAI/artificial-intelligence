@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 1600
         isCached: true
+  - title: "Facebook acquires customer service startup Kustomer for reported $1B+"
+    excerpt: "Facebook Inc. has acquired Kustomer Inc., a heavily-funded startup with a cloud service that companies use to field customer inquiries. The financial terms of the deal were not disclosed. However, CNBC and other publications reported that the transaction values Kustomer at just over $1 billion."
+    publishedDateTime: 2020-11-30T22:00:00Z
+    webUrl: "https://siliconangle.com/2020/11/30/facebook-acquires-customer-service-startup-kustomer-reported-1b/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 22
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/fbwm_cw_07.jpg"
+        width: 960
+        height: 640
+        isCached: true
 
 secured: "aQZRYrrqO3WSNqZX1SYeCmd66/uqYyLh9IKy1igZa+l2FmbqRHfsivRN1fKtxQbv8AKAJhg2wpw1n/OBfDXjFvp2ILjqXAaon2oUlPOovz3W8LGpO7z45xP9vLqS0ZN/FBuXLkYQF/SESJ9MuM/klMrfE0lJhCyGvEoMm1bFOHK7LM77Wf712mAs80iPp4ayh+jtVSrDPs0lroAHQyrpbbL1WsPdi1j8s4mCOUImxsuCyWzh+by2GyGIhuZdmowCJzqeZQXEgoePAgyjXcOP+7HBQ+uOUQinGw33kKAybV2SodeL3RAmpEfZnspCMSRL30bWoW2oegvqXf1TRwwfWLXuW+M5kct0Ax2AZcgokgAaY5gDWFNNvINX5R99pmhLW86yMilLnIasHGipxkbi1DyYLjcPUyCcHaJAaaisHhY+WnCZwC5jYk8F0hLrem/mv7U5wkPlH2PLEFp1s0cQ7GuZMVO33tAT8BEZC5ebYxdQB8CfMg3SDwDLZ831Ilyb5yqfSCmeSJUYDr+NoYBcvg==;Ma2bghJjNJPcNlRLSz+H5w=="
 ---
