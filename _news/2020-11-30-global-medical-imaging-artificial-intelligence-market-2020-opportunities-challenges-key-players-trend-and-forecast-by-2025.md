@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence in Medical Diagnostics Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
-excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-publishedDateTime: 2020-11-27T14:31:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-2020-by-company-regions-type-and-application-forecast-to-2025-2020-11-26"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-2020-by-company-regions-type-and-application-forecast-to-2025-2020-11-26"
+title: "Global Medical Imaging Artificial Intelligence Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+excerpt: "The latest market study published by MarketQuest.biz entitled Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
+publishedDateTime: 2020-11-30T04:17:00Z
+originalUrl: "https://www.marketwatch.com/press-release/global-medical-imaging-artificial-intelligence-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-11-29"
+webUrl: "https://www.marketwatch.com/press-release/global-medical-imaging-artificial-intelligence-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-11-29"
 type: article
-quality: 43
+quality: 42
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
@@ -61,15 +62,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 46
-  - title: "Global Medical Imaging Artificial Intelligence Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
-    excerpt: "The latest market study published by MarketQuest.biz entitled Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
-    publishedDateTime: 2020-11-30T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-medical-imaging-artificial-intelligence-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-11-29"
+  - title: "Artificial Intelligence in Medical Diagnostics Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
+    excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2020-11-27T14:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-2020-by-company-regions-type-and-application-forecast-to-2025-2020-11-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -90,6 +91,6 @@ related:
         height: 627
         isCached: true
 
-secured: "JxCUSafdFrU7PENL+lMaqnr/5pjvkqsevuZZYCTpeY8cqgTMW0Eq4NKDXJDwBmHB/GdlzcNQ48Swn1MdAUGtX38JFd3DUhqNkyrjTBcJoe7tWK/hdCdEkPSv93BjSQf3nqu+mbYApr9GWzJQyyu8jl8ouMVYKuRgxib7McI91mECBr8eZwAbTOUMSkjqAjO+9c5tvSrymZXrDdbwMqkr1R7wib9lVSRtrDl04JyMXB6uKj4D1tnkpZ0Is4kyQZ4JoqvpQUPOxRKKW5S+7b7kv23GKtVG/ypSaPFJlF+PmD+ROLDl4ocycHp01OOE6fCJsF5DmykmmBfRdcmOdbKjSvJm6OtdYFqdD1cANow76Ok=;6ulAvMEsJ7kIBlFIf1Y+FQ=="
+secured: "3HH1dkS4hWseAnGwHCenda0ztk4sYdCZRZ8N0/sG5w5PDJoYUCPdgSePWffGYTLJdjRUI0MgnSaG1ykoVclYf4E3S6b/xR94+VP9u28lvIOCe65iQWsxWjGUxu3YWtXU+yULlNdMTTatd04TdQtYl1WhvLgc76vGqxidOKCN33iEBXLkoX3JP4+PEgb1obThvzpZAHFaK2pxPvF0iYUZWvsVCGxCxB/rrHwYzhpXvDnh3VqYpFh7QT2j2RlxDTjhEEcvC5pKp1koBw4nYPw544saSxAJQE8wLszOYJ9p4RDWcdoQrWDN8OYmP4Gb3EWEvk/Cql4ILFeP2eGWY6mjcjK0in1RpTqRA8y3EM1LPhE=;S3fNPAL87RC6HQlObUoXMw=="
 ---
 

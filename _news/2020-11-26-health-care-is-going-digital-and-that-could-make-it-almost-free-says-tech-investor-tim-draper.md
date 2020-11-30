@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcmiami.com/news/business/money-report/health-care-is-g
 cdnAmpWebUrl: "https://www-nbcmiami-com.cdn.ampproject.org/c/s/www.nbcmiami.com/news/business/money-report/health-care-is-going-digital-and-that-could-make-it-almost-free-says-tech-investor-tim-draper/2330676/?amp"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Health care is going digital and that could make it 'almost free,' says tech investor Tim Draper"
-    excerpt: "In future, artificial intelligence will help to diagnose patients and develop the medicine required at \"very low costs,\" says venture capitalist Tim Draper."
-    publishedDateTime: 2020-11-25T12:58:00Z
-    webUrl: "https://www.cnbc.com/2020/11/25/tech-investor-tim-draper-says-digital-health-care-will-be-almost-free.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2020/11/25/tech-investor-tim-draper-says-digital-health-care-will-be-almost-free.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/25/tech-investor-tim-draper-says-digital-health-care-will-be-almost-free.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 41
 
 secured: "6STYnSovjv8MJhj9exJijJHxmpe6SH+a44S9sqwOrCp90GQvXTFZHzF3M6w/lraHL2aEuM5TJlMPJLLU17xmeBGYpib91iatzg+y78S7AbJadgfsmagYpNo1EcBplbiEbEwVNUw7mEGZyNtrBkc8Z6Y7a7WLB/eY4+S+wXkegtjV2yyMAcxGx04gy+8dCHvvUH94ojfsFIzLz3KUEz+6PWRx51fpwcRqJr7nKweUJXi7C1c/fmXddtRgtrC6mdaQXjwduULb1n5mFGRsPfWGoIiTkX3WF2/gUFe+86KvZzL+1upEyYbn6ET9TzQjC7QU0vy87gSlobXfobR8hpZ1aT5FEmbGgZJ7MhAwQ1+SPy4QGVc65M/LrLib51s/1kEGrIzFaf4NgrX4SKBhp+Xu4lZrvnRJaOe5iaGy9GQC+UdBoc3snycymoLskrAO2GQrsbINsZ272bbRSIcmRhSVJI+VmyUBlTUmsVB7KFBELhDucj6eVF4Dvmms4aPFf0hr9ZVp8uJaBa+VBnAmU/Kl3A==;4OJEZcnzJAGzmw7fS2/t0Q=="
 ---

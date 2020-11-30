@@ -2,6 +2,48 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2020-10-29-artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year.md",
+      "title": "Artificial intelligence firm Capacity raises $11 million, says revenue tripled this year",
+      "excerpt": "Capacity, a University City startup that bills itself as a help desk powered by artificial intelligence, has raised $11 million in venture capital. Capacity didn't identify a lead investor when it announced the Series C funding round Wednesday,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/business/columns/david-nicklaus/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html",
+      "originalUrl": "https://www.stltoday.com/business/columns/david-nicklaus/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/b/99/b99e8a5f-2800-5d1c-a427-9029fbb1b1f2/5f99a5370a81d.image.jpg?crop=1265%2C712%2C18%2C188&resize=1024%2C576&order=crop%2Cresize",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html",
+      "cdnAmpWebUrl": "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/business/columns/david-nicklaus/artificial-intelligence-firm-capacity-raises-11-million-says-revenue-tripled-this-year/article_0f2b1ac2-f7be-54ec-aeb7-34a38d5a928a.amp.html",
+      "publishedDateTime": "2020-10-28T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-7-ai-stocks-to-buy-as-automation-advances.md",
       "title": "7 AI Stocks to Buy as Automation Advances",
       "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We have ...",
@@ -1058,49 +1100,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed.md",
-      "title": "Chinese Tesla rival Xpeng steers clear of robotaxis, says self-driving trucks more likely to succeed",
-      "excerpt": "Major Chinese self-driving companies such as Baidu, Didi Chuxing, WeRide and AutoX have all recently launched robotaxi services in various cities, but the head of autonomous driving at Xpeng ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/10/28/chinese-tesla-rival-xpeng-steers-clear-of-robotaxis-says-self-driving-trucks-more-likely-to-succeed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/10/28/915555.jpg",
-          "width": 1240,
-          "height": 697,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T04:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

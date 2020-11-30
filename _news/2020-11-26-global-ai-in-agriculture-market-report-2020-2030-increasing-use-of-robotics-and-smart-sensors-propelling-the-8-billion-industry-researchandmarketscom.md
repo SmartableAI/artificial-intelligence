@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Medical Imaging Artificial Intelligence Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+    excerpt: "The latest market study published by MarketQuest.biz entitled Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
+    publishedDateTime: 2020-11-30T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-medical-imaging-artificial-intelligence-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "7RqYY/2LLQkY5kG8V09AsdbewUAAlxG5b3vAM+FYyDSND9q6w2cL72VPklKJg7bXCcbxspGDQGzRP+rYDf6+sXb2rdjIQ10Jm3s4QoBA12nNjJBPhSYEt9OBz/QSHNCgSPnliapkvsFWgLme1bxpEHP8My4wDMobXKLoWmnNKP7Vr5i1EYZX3Xz9XSUiD1kITCYVa6PE/8NK+pGkUT5p5MjQAA5hc+03IfGfwwBd6onXJlzoh6augecE88Sd7fPm4xAvkdG1mDf/+ag3gfG4vo7ZjLDsr4y1p6j1x8a1mqQrZSyEAOUkz/pGoOSb/AhhuQIezMQDt9ngMWMG/hByGMl/vMhVpifhRf/4sELZwGA=;J80vMqhMMP1H0DNEiUTjnQ=="
 ---

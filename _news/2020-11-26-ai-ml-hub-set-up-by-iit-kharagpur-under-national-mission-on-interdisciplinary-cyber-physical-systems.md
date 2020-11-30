@@ -25,17 +25,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "IIT Kharagpur Sets Up AI & ML Hub To Transform Industrial Sector With Scalable Application"
-    excerpt: "IIT Kharagpur has announced setting up an innovation hub on AI and ML to translate academic researches to industrially scalable products."
-    publishedDateTime: 2020-11-25T12:25:00Z
-    webUrl: "https://analyticsindiamag.com/iit-kharagpur-sets-up-ai-ml-hub-to-transform-industrial-sector-with-scalable-application/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
-
 secured: "AMb+8SIfkuGokYmtGOf0DwK2OD/rvsS/WTK83gx1SE/ndS/Y+I7dYYT5dwovKatQ+tKxksOHZXrtzeOJGWr9ZveyXqJxn1JmaF/HXLTVsof2+97AvFHZL13tsiXPpO6wKAXa9PTNtdwmfIf0uXogi2LDQoueyebLd1eZfKgeh9dRPRDO6YGHMGF97IynBBJ6z4YwHR0ZjtIhs3Ox/8jULWxauvAwPLDmo7tD6XUM2x4XQJL7hGxb7NUo+w4qz78hg+Q7jAVU6NWKIoWcI2uuntldm1j43w9LgDtD23wLzWbmgykIgBs22eNaoC3CBIRIuqafux/YrTDRgNjFNdyK/r/1RkSCHMxF9iGo17WjNfM=;Bk/ZWxlzxGsuVFmR65uzZQ=="
 ---
 

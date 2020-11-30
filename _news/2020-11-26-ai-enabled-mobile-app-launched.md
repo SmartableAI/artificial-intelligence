@@ -35,20 +35,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Emerald Jewellery Unveils AI Enabled Mobile Application Platform for Jewellery B2B Business in Collaboration with IBM"
-    excerpt: "IBM) and Emerald Jewel Industry India Limited (Emerald Jewellery), one of India's largest jewellery manufacturers, today unveiled the \"Tej\" mobile app, a first-of-its-kind Artificial Intelligence ..."
-    publishedDateTime: 2020-11-25T11:44:00Z
-    webUrl: "https://www.businesswireindia.com/emerald-jewellery-unveils-ai-enabled-mobile-application-platform-for-jewellery-b2b-business-in-collaboration-with-ibm-70535.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 16
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/companyLogo/IBMlogo_1827.png"
-        width: 510
-        height: 244
-        isCached: true
 
 secured: "H2tn0kLsRY+j2P7ccY7nk5v6fXKrt57YYHLJg4EwZDI1Vqq8VS2E3MPpqjwMrTQh3irc3FHmRf5C13Vqto9q2TPD76yCWmQUd0/TjsrkOwPGOWt/D74kFHs5jCJJrSenIXXOcbXjDa7QIUatE1cgs1S9o6TF7hXCxFzbZVlKj9YoBubOYWr63y/gIiGuavwdJt2gPA8QbAfwhdtBte27ylYF+mFIk5JvBSr4T2wF0E1FfVP8AZU+ualiDmRL92lNqoiilrLYB57G4dg0x6/rX3te4pet6IRVxEE5Glolc/XHUfmmKOVcnhBND2AFAkOMlaGOicMFvfD9XezxDGcegf+CwopUIOj2daLrG6rNDpg=;5NcG/n7eEGucYTX7sCQI1A=="
 ---

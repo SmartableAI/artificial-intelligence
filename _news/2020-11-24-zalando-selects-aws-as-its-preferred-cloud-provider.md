@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Zalando Selects AWS as Its Preferred Cloud Provider"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and"
-publishedDateTime: 2020-11-24T15:34:00Z
-originalUrl: "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24"
-webUrl: "https://www.marketwatch.com/press-release/zalando-selects-aws-as-its-preferred-cloud-provider-2020-11-24"
+excerpt: "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud."
+publishedDateTime: 2020-11-24T08:01:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940"
+webUrl: "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "m+PZWg/TUuGAuGhCAoUzj+TrhBH0Gf2vkKrtD1kdYBvSC2QCss3TDz9v3eR1qj9ACXt2KtzHiY3+E5VVnCDPvLFlQ0rCfdGdvDjELXlhtgywfwYghO9r7tagyyr43twBcrHp9EstPNnBgQQSQZ/y+FsEyoM0zpkGivpLCIN729H6H8W0HXWth42C+chw9LhsfN7qLgcFl/KA7uXKZKszZTe4F4eWiWCyv85hRXAIuBSPwzRgOAiYdQ5foSiGOMJhntBbuNOYA7msYQi1JXLax4kuyHobp2SMCgmEETpsudJZ4W9dWRPd/otSaY209MZ2MLesmo/wx0D+hxXaeeLBJ9bT8nDMJuVMJoc7QsPBJOQ=;AQEsLMvO/uYjhUVAUZqWjw=="
+secured: "BVij21gjxDU42ZwqyU6DuP7EuK5kfD0Svv3WZz7HjQrvZmSYDMHMjkLtFKn/+wZ4WOzkJ7pjQWbhDlDurjguqU2vX8dpTui8N1aUELbMQNv0RwAE/HUI9SOceWd0L9ccWTV7/Gfc5TdgF27RXsxg0eOyiPICWgUt169cAzY4DUbM+lF79+/obpDBf1HCwaGRJ6u3vYalq2C0qoOf5DAqmUCnZKFmZQroqf6nzej5ACzEjF3qALMKj1dhe+8dmxoVcQL89JIQDX4K/fMC3Z2DaBM3H70oAZ6pcpBb8nkcqHwp9Rxk4iI2boBGIs9ju4ALLMG0fRcxsiUxjVJZk4KPyEIv73lyoZ5yTow2kipFeQk=;swYzSIXXkCpEWKKGbufslg=="
 ---
 
