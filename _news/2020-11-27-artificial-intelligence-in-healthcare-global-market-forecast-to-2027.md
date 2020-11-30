@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       - url: "https://mms.businesswire.com/media/20201126005555/en/371054/23/ResearchAndMarkets_800px.jpg"
         width: 1200
         height: 627
+        isCached: true
+  - title: "Global Passenger Vehicle Voice Recognition Market 2020 Regional Markets, Subcomponent Manufacturers, Business Standards and Forecast to 2026"
+    excerpt: "Global Passenger Vehicle Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2026 introduced by MarketsandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
+    publishedDateTime: 2020-11-30T05:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-passenger-vehicle-voice-recognition-market-2020-regional-markets-subcomponent-manufacturers-business-standards-and-forecast-to-2026-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "mkccGPaBJI+ohK2HEjutnz3jgLw9WwduqhxzGur0mp0BsSEftrpCCWdXb3k5gOhQuVmQmwqBZ0BfcZL1QUKky64ltI6rgxKK7dWNpjmncEKTkKbHEarNuY5fRariUeISyO0Lpmudcq788+UEQNJ08v6RqCKfRLRnjvHKbMpL9K22r5QA/UaDwlVEIER2n/235h0jJMW8tFHJhhAItrIwBi0shEQ3y4FnOK2g6F3B2r9D0boVhPnEdpI6s0cyGYxabRwmAnYl6oTQaCTc/jG8+b+jz5LceHFiK+ho0ZxqtnkVxEPHSNXPJVtmx6YilGRl/pqu9HYYhUwlA6mVaiALPCnmZivAKwJLFSEJ3FU/WPY=;5v2FeAO62vnY81R322JXyw=="

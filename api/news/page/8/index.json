@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-19-helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento.md",
+      "title": "Helping small businesses deliver personalized experiences with the Amazon Personalize extension for Magento",
+      "excerpt": "This is a guest post by Jeff Finkelstein, founder of Customer Paradigm, a full-service interactive media firm and Magento solutions partner. Many small retailers use Magento, an open-source ecommerce platform, to create websites or mobile applications to sell their products online. Personalization is",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/helping-small-businesses-deliver-personalized-experiences-with-the-amazon-personalize-extension-for-magento/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/19/Helping-small-businesses-9-727x630.jpg",
+          "width": 727,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T15:26:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-let-your-robots-off-the-leash-or-lose-ai-experts.md",
       "title": "Let Your Robots Off The Leash – Or Lose: AI Experts",
       "excerpt": "Army experiments, soldiers tried to micromanage their drones and ground robots, slowing their reaction times and restricting their tactics. Can AIs earn troops’ trust?",
@@ -855,6 +907,40 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-speechmatics-any-context-speech-recognition-engine-launches-on-genesys-appfoundry.md",
+      "title": "Speechmatics’ any-context speech recognition engine launches on Genesys AppFoundry",
+      "excerpt": "Speechmatics announced its any-context speech recognition engine is now available on the Genesys® AppFoundry, the industry’s largest dedicated marketplace focused on customer experience solutions. Through mission-critical,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridgenetwork.co.uk/news/609387",
+      "originalUrl": "https://www.cambridgenetwork.co.uk/news/609387",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T07:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge Network",
+        "domain": "cambridgenetwork.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-ibm-focuses-on-ai-cloud-announces-instana-acquisition.md",
       "title": "IBM Focuses on AI & Cloud, Announces Instana Acquisition",
       "excerpt": "International Business Machines Corporation IBM recently announced the acquisition of Instana to boost management of applications’ performance across hybrid cloud environment and enhance its Artificial Intelligence (AI) -based automation capabilities.",
@@ -1120,110 +1206,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-the-new-m1-macs-make-cutting-edge-machine-learning-workstations.md",
-      "title": "The new M1 Macs make cutting-edge, machine-learning workstations",
-      "excerpt": "When you think of programming machine-learning PCs, hard-core developers dreams turn to high-priced powerhouse machines running Linux. But a recent benchmark by TensorFlow programmers showed that Macs powered by Apple's new M1 chip can give these boxes a run for their money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "originalUrl": "https://www.zdnet.com/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/11/12/1e1a25bd-00e5-4234-9946-12c7f553eb0b/thumbnail/1200x675/8fcd7ac18ce1610fca957b4c1e46af19/20201111-j2-m1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-new-m1-macs-make-cutting-edge-machine-learning-workstations/",
-      "publishedDateTime": "2020-11-19T05:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-how-companies-can-develop-ethical-ai-technology-for-the-future.md",
-      "title": "How Companies Can Develop Ethical AI Technology For The Future",
-      "excerpt": "Companies cannot ignore the risks associated with ethical AI applications, but guidelines need to be more palatable and concrete in order to fuel progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9c1982f850761b32c1bbb0%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2020/11/19/how-companies-can-develop-ethical-ai-technology-for-the-future/amp/",
-      "publishedDateTime": "2020-11-19T05:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

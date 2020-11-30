@@ -6,7 +6,7 @@ publishedDateTime: 2020-11-25T20:33:00Z
 originalUrl: "https://us.acrofan.com/detail.php?number=381643"
 webUrl: "https://us.acrofan.com/detail.php?number=381643"
 type: article
-quality: 29
+quality: 9
 heat: -1
 published: false
 
@@ -17,12 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-images:
-  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-    width: 580
-    height: 339
-    isCached: true
 
 related:
   - title: "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025"
@@ -108,20 +102,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
-    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
-    publishedDateTime: 2020-11-25T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2026 Cognitive Analytics Market |Top Companies, Trends and Future Prospects Details for Business Development"
     excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
     publishedDateTime: 2020-11-26T05:25:00Z
@@ -190,6 +170,6 @@ related:
         height: 450
         isCached: true
 
-secured: "5FN9Ywub/T1uyTcMQcCWc5IOQs/xTGe/p818Dh0DjIOaT1ZuvVIG9tVTEwDwGWOSa9poC295r+yWdlRONcs2H+rgkEtXmJMKxM5QbnwcwjcdkIquKpc303tr1sE4KSZXP4MvT96xM+5c0pVEGrR/msPynC0zsRmntsdxKLspMa5J07Qfef6e0U5+XsUh04rqfAyvGd/m7qoEAhbSKgcEINYdmt60Tl559pwhI6kDahU6sTFSHYp0JfYOyr4GmNjkubSmzR4l44U6F9aiq5nyPhvVs0KjxolBfzuq2ezjJdoGR4v8dFixghHeeywWHQ9ARsoi0XNpnHTvhGcZGD1ELYJ9ed5gWIWUVu/P0+6briA=;izPIH7AvSfeWDsVt5v3XPw=="
+secured: "aI6vWVCvfPov+Wx/bOxXt42CvRUeoc3IZuvtlIGZJrXqUT3Vu/507+VuK+wPUVxIW6tYnHt6Li//tTYS3YTbd+MsPHOIwRAMo5OK/t6kaE/xi+kPz9L1aMDlLMfUNI5STOeKOY7+YVbkMqk71Ef7ugw123/ivsDnrDohNA9w++RZDkbruWoKruKjnE8Uaep5O7WOyc9gX1LKInbUjKCYj/u28bIk4qoPYQPKph99F07uFkyz5XfH+BwAQ063WvVyVFMUNRrR/pL0o1bm4ja+frXFTNJwwl+ZqGqLDqaIP0+yWYk83x1qVkvc+kPo4rQfOD7PJbtCPr2zaEgfrri0vBhucKl5gJJNu+8YkVqI1ao=;kvLi5FyHV9q2p0Sp8Kq0Kw=="
 ---
 

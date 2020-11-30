@@ -2,6 +2,101 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-11-07-chinese-autonomous-vehicle-startup-ponyai-hits-53-billion-valuation.md",
+      "title": "Chinese autonomous vehicle startup Pony.ai hits $5.3 billion valuation",
+      "excerpt": "Pony.ai, the Chinese autonomous vehicle startup and relative newcomer to the industry, is now valued at $5.3 billion following a fresh injection of $267 million in funding. The round was led by TIP, an innovation fund within the Ontario Teachers’ Pension Plan Board that focuses on late-stage",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/",
+      "originalUrl": "https://techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/4.-FR_triplets.jpg?w=1024",
+          "width": 1024,
+          "height": 489,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/06/chinese-autonomous-vehicle-startup-pony-ai-hits-5-3-billion-valuation/amp/",
+      "publishedDateTime": "2020-11-06T20:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YAHOO!News",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots.md",
+      "title": "Microsoft’s Azure cloud platform will be the brain for their future autonomous robots!",
+      "excerpt": "Azure is run by Artificial Intelligence that provides users with a customizable space to work, save, share, and connect through multi-functional, serverless software. Halawany’s robot renders for Microsoft Middle East,",
+      "sourceUrl": null,
+      "webUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
+      "originalUrl": "https://www.yankodesign.com/2020/11/06/microsofts-azure-cloud-platform-will-be-the-brain-for-their-future-autonomous-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.yankodesign.com/images/design_news/2020/10/worlds_most_secure_portable_SSD-510x314.jpg",
+          "width": 510,
+          "height": 314,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-06T17:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yanko Design",
+        "domain": "yankodesign.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-new-constructs-recognized-as-a-2020-benzinga-global-fintech-listmaker.md",
       "title": "New Constructs Recognized as a 2020 Benzinga Global Fintech Listmaker",
       "excerpt": "New Constructs (NC), the leading provider of insights into the fundamentals and valuation of private and public businesses, has been recognized as a 2020 Benzinga Global Fintech Listmaker in two categories: Best Financial Research Company and Best Investment Research Tech.",
@@ -1089,82 +1184,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-at-home-forever-and-ever-with-dean-britta.md",
-      "title": "At home, forever and ever, with Dean & Britta",
-      "excerpt": "The indie-rock lifers are living out their L.A. quarantine as bandmates and as a couple, still navigating where the line is between the two.",
-      "sourceUrl": null,
-      "webUrl": "https://mobile.twitter.com/nate_rgrs",
-      "originalUrl": "https://www.washingtonpost.com/entertainment/music/dean-warehame-britta-phillips-interview/2020/11/06/76439b38-1a0c-11eb-aeec-b93bcc29a01b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T06:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-crime-location-forecasting-is-it-entrapment.md",
-      "title": "Crime Location Forecasting: Is It Entrapment?",
-      "excerpt": "This, combined with the technological advances in media platforms like Facebook and Twitter which use Artificial Intelligence ... Zaia is also a Junior Research Analyst for the Canada Centre ...",
-      "sourceUrl": null,
-      "webUrl": "https://thecrimereport.org/2020/11/06/crime-location-forecasting-is-it-entrapment/",
-      "originalUrl": "https://thecrimereport.org/2020/11/06/crime-location-forecasting-is-it-entrapment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thecrimereport.org/wp-content/uploads/2020/11/surveillance-by-gulgulas-e1604672112758.jpg",
-          "width": 720,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T06:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "thecrimereport.org",
-        "domain": "thecrimereport.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

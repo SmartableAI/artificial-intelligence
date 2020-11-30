@@ -52,15 +52,6 @@ related:
       name: Teen Vogue
       domain: teenvogue.com
     quality: 38
-  - title: "Machine Learning Tool Accurately Detects COVID-19 on X-Rays"
-    excerpt: "A machine learning tool was able to detect COVID-19 in x-ray images about ten times faster and one to six percent more accurately than specialized thoracic radiologists, according to a study published in Radiology."
-    publishedDateTime: 2020-11-25T14:31:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-accurately-detects-covid-19-on-x-rays"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "iFLNF+q/2J3oq/F8jBushzkojfjAflIv6bdbTqr73sZkiZN5Ypne9XgDes4PLsiXr7fYiZyfzcT4YkhN2bATaHXrEDfEEt7Zo5zCiUFXfAezW0a2KjWzDTKyVPNkilc6gajUEV649eIYhuObIDz3wGtBdzBBZPsQfyYFpaE6FMC2A5zOPaaXL5GsQin4d6QeLoDR3GELsP7i/9rzsxY2qhRazigZL20lFOehl7bvPf1TTrEZ7SIxFvi6gVcZNOH43MR4gYWFnhdZSWNk6sCdTAkBj3NiYUmlGY8GAg4kZAJ7M3nON8CDbwCydgGxAP2dAuAZMWGo/71cBBH/gEYs3l2sXsajcCb+Z4X5+8woAmA=;Tt+pH2lguf2LVps70FjeEQ=="
 ---

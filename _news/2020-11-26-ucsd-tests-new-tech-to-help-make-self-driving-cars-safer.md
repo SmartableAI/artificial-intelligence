@@ -37,20 +37,6 @@ related:
         width: 3003
         height: 1363
         isCached: true
-  - title: "Best of: Are self-driving cars safe? It's complicated"
-    excerpt: "In this best of episode, Kim dives into the world of automated cars. Self-driving cars aren’t some crazy future tech … They’re here now. That raises some"
-    publishedDateTime: 2020-11-25T13:08:00Z
-    webUrl: "https://www.komando.com/episode/best-of-are-self-driving-cars-safe-its-complicated/766476/"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 24
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2020/06/kk-img-20200615-tech-you-should-know-1400x1400-1.jpg"
-        width: 1400
-        height: 1400
-        isCached: true
 
 secured: "GswqehQfHn/hNgK4rNtAuheTLqffvi7STWgrvmCdtl5LuC1CUHvodGylPEO+AoCbo1tksZycOsy5zRDdh/mrBTgFWaVOyyFYticOdAmZe+sKDgw8r1FuEJX+VU3Ck5ptBN9NJgNWNnRMGUTbihrPtVq+usJjnLDZHHx+7d5fq0E/+R6wMK49RjVyZgkV/QK0MPQLbx/zlX6iGMmXcZTn8ERQ4fU67mxuNaizOZjITyCFHE/CmjtFvJdOVPb0Hrj8AMaZRTNnsYk0WoQiKH4QyItRdq1EG2Lb+YVwk2aVdHec+nK6zFURNUIcntUIRUe/vIm0rNb1xAlbvz8aLIZjrHrKYHcEh6ksAIrEpU+HUZd1gcYDxM6VMPUfXzjPF73/LUg8M/9aph7+wq7zTEZVk++Sy8IxJO6XkHM6te4YSd3fai6T3Rwt+gsqsyr4fev11nylnPOSksLYNG/KEcOpn4bJ9q2ks7UtCYgdQidEq9YmqfnMTdIEQb9vLHNj2xM/PdiL4jb49KlogXj5n2jSKQ==;VzBnvOA/6XbA1HAJCu7r8w=="
 ---

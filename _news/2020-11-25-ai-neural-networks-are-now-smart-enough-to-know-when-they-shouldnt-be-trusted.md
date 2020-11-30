@@ -9,7 +9,7 @@ ampWebUrl: "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart
 cdnAmpWebUrl: "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 808
     height: 424
     isCached: true
-
-related:
-  - title: "AI apocalypse avoided? Neural networks now smart enough to know when they shouldn’t be trusted"
-    excerpt: "In a development that could scupper the plot of numerous sci-fi movies about an artificial intelligence apocalypse, scientists have created a neural network that is smart enough to know when it shouldn’t be trusted."
-    publishedDateTime: 2020-11-25T13:45:00Z
-    webUrl: "https://www.rt.com/news/507782-artificial-intelligence-smart-trustworthiness/"
-    ampWebUrl: "https://www.rt.com/news/507782-artificial-intelligence-smart-trustworthiness/amp/"
-    cdnAmpWebUrl: "https://www-rt-com.cdn.ampproject.org/c/s/www.rt.com/news/507782-artificial-intelligence-smart-trustworthiness/amp/"
-    type: article
-    provider:
-      name: RT
-      domain: rt.com
-    quality: 62
-    images:
-      - url: "https://cdni.rt.com/files/2020.11/xxl/5fbe5f7985f540487e7ce554.jpg"
-        width: 1240
-        height: 697
-        isCached: true
 
 secured: "TFWyjRk/cNn1Jg4M1eUhFACT5ovOmFDleO+dXeUpl6kKWNxDswQAFJdJ08PufMxBhgFSas1JOj8JE5+VVi9D6O82cw6EPGXy4xtBSLQ6vJrb7/3zVANBWX/uBhNMvYlLhHEWr88nldy4JllYzwywESWedfTyM53B0cUmBrNyXKcUN41H2guRfoBLQ4Ydtbne3jTu9Vd2xRT6caR5nuJvVLa3WTtlOavRC7RbvLHa0xoYKQiiSVS+rlIyBYWWf3oRqI5Vd8av57JjnZ4EpsyKrAZa5MNUIMEmw16Y3PIHpLjkUU2YcnhcVeMzbe9De21199m15T54h0DCigwZWa24ABjUntBgaw5bp9hIf2GUckys7y6FGKQs39LAKNLsC5r+O360BsFwdeWoH5nh/c2Au0NY5g03W1mmaqcsOc7/xCIW5PjCH3gFdPXwm838eETrNTBxYfK00s92WarCI+OAx04JiNRVn4j4JN02en6qrI8Th9zuOKV7RaJqmx3oSGdZdxlQzI6LDEIswZHl3Nrc1w==;S7BR7oj6ELCuh57cgEwfHw=="
 ---

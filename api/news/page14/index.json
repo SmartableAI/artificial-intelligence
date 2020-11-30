@@ -2,6 +2,100 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-17-autodesk-acquires-ai-based-design-firm-spacemaker.md",
+      "title": "Autodesk acquires AI-based design firm Spacemaker",
+      "excerpt": "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "originalUrl": "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/11/16/a0661235-44d1-4c94-82a2-f0bb03bbcd4f/tandem-screenshot.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
+      "publishedDateTime": "2020-11-16T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning.md",
+      "title": "HUAWEI CLOUD Named a Leader in Predictive Analytics and Machine Learning",
+      "excerpt": "HUAWEI CLOUD was listed in the Leaders segment based on its scores in current offering and strategy, according to The Forrester Wave™: Predictive Analytics and Machine Learning in China, Q4 2020 report.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
+      "publishedDateTime": "2020-11-16T18:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
       "title": "SimpleMachines unveils high performance chip for AI and ML applications",
       "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
@@ -1141,110 +1235,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-amd-goes-after-nvidia-with-new-gpu-for-the-datacenter.md",
-      "title": "AMD Goes After NVIDIA With New GPU For The Datacenter",
-      "excerpt": "AMD announced its first data center GPU to compete in high-performance computing (HPC) and Artificial Intelligence (AI). Last year, the company announced that it would bifurcate its GPU technology into two architectures: CDNA for computation and RDNA for graphics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/",
-      "originalUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb27a2cf774c190ebedca0d%2F0x0.jpg",
-          "width": 899,
-          "height": 527,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/11/16/amd-goes-after-nvidia-with-new-gpu-for-the-datacenter/amp/",
-      "publishedDateTime": "2020-11-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-amd-launches-instinct-mi100-accelerator-chips-for-scientific-research.md",
-      "title": "AMD launches Instinct MI100 accelerator chips for scientific research",
-      "excerpt": "and AI processing so scientists can work on heavy-duty computing tasks, such as coronavirus research. Santa Clara, California-based AMD said the chip is the world’s fastest HPC GPU and the first ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
-      "originalUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/amd-instinct-.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 637,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/amd-launches-instinct-mi100-accelerator-chips-for-scientific-research/amp/",
-      "publishedDateTime": "2020-11-16T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

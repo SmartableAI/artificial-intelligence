@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 627
         isCached: true
+  - title: "Global Passenger Vehicle Voice Recognition Market 2020 Regional Markets, Subcomponent Manufacturers, Business Standards and Forecast to 2026"
+    excerpt: "Global Passenger Vehicle Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2026 introduced by MarketsandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
+    publishedDateTime: 2020-11-30T05:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-passenger-vehicle-voice-recognition-market-2020-regional-markets-subcomponent-manufacturers-business-standards-and-forecast-to-2026-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Uw9kZ39o4+5jkOMOK/eQpRDN/smLLIhLGjczKobnKpnpeDelb41ebRsKFBKs7nm8rorLYsEiGofdCRNWeQNwpxgTAlPZWVefC+udgKxfqEezg+p97EUkmrKk5kmB83vWYBk/wlzd8VJNO7jOVHFsrztBWBrIpZ9jn+aYU6V3s5kMxoRsoO2sRZXXV8Zszdsez+Vmzn//oRtUIQd61g0+k0pRjKw6rM11YjHKc9mEXCMhR0DIQ/zEyaxQPSlN5fH5o8y3naIhbEu1mI34kyocW3OfseLrJLiJN2oB5eU5/xIKgLHvLUFeO1SpC9AZQtq8G8MbA3by/VCKMPq5Q4x5Qd+GAsgqpTT2JZjXuJyvpyo=;9saE6FLDPJLGxy216rRWNw=="
 ---

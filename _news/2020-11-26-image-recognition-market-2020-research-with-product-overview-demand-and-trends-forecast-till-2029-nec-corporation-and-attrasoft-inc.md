@@ -108,20 +108,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
-    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
-    publishedDateTime: 2020-11-25T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2026 Cognitive Analytics Market |Top Companies, Trends and Future Prospects Details for Business Development"
     excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
     publishedDateTime: 2020-11-26T05:25:00Z
@@ -183,12 +169,7 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 29
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
+    quality: 9
 
 secured: "6Ny306EabOfm6Y5A5wa4G1e/oqiw2/La/DqraOOIZcSny+prQ4G4mBIbLD7fzFP+cPz6uy0wIKCbKuBVL2Bzt9fsZRcegkih6mPB3g0CDrh5/EmflYH19oMcgw7CniSLTIgn+q4Tt10TvpB4lIUvonNRWK5nNwJc3ZQ9JH7vBrY3gMvp2bIQhS1hokhu6Jox0O+lYGaun7cwJQcKGuqCM4cjzM1AO6x2Ze2OIMGZ0H6Q7Z3ah3QkoFB3UK94MRLFE5EaKGWChMcT99ENqEbG0CfUfFmmsqMtwfXUL6I27wlJSt2O1ybHPulfZu58NGYHkcN7c6Q7hJ18So7VsFtY7h0kP6dqlQuWjVMXq2JK/aI=;kPmXdnrCJaWmAnpnkI/+Zg=="
 ---

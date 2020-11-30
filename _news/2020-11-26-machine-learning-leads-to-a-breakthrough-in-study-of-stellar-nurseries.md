@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologynetworks.com/informatics/news/amp/machine-lear
 cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/informatics/news/amp/machine-learning-leads-to-a-breakthrough-in-study-of-stellar-nurseries-343260"
 type: article
 quality: 59
-heat: -1
+heat: 59
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "Breakthrough in deep learning could help reduce errors"
-    excerpt: "MIT researchers claim that deep learning neural networks need better uncertainty analysis to reduce errors. \"Deep evidential regression\" reduces uncertainty after only one pass on a network, greatly reducing time and memory."
-    publishedDateTime: 2020-11-25T13:37:00Z
-    webUrl: "https://bigthink.com/technology-innovation/deep-learning-neural-networks"
-    ampWebUrl: "https://bigthink.com/amp/deep-learning-neural-networks-2649036797"
-    cdnAmpWebUrl: "https://bigthink-com.cdn.ampproject.org/c/s/bigthink.com/amp/deep-learning-neural-networks-2649036797"
-    type: article
-    provider:
-      name: Big Think
-      domain: bigthink.com
-    quality: 59
-    images:
-      - url: "https://assets.rebelmouse.io/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHBpcmVzX2F0IjoxNjA2NTgyNTcyLCJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJlYmVsbW91c2UuaW8vZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SnBiV0ZuWlNJNkltaDBkSEJ6T2k4dllYTnpaWFJ6TG5KaWJDNXRjeTh5TkRnd056VTRNaTl2Y21sbmFXNHVhbkJuSWl3aVpYaHdhWEpsYzE5aGRDSTZNVFkwT0RrMU5EQTBNbjAuRmUzNWdZdjBQRkwyNG1BeTU1UUtxWlpyNTJXTy00WFhQRmNqSnh3M2VMOC9pbWcuanBnP3dpZHRoPTQwMCZjb29yZGluYXRlcz0xODYlMkMwJTJDMTAwMCUyQzAmaGVpZ2h0PTcxMS40Mjg1NzE0Mjg1NzE0JnF1YWxpdHk9NjUifQ.xYEGnFj1go4KxOZpdUCNzpe4TF3Fc5T2-FZ96DwsEbo/img.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "Zon7c2cG+6D/34bsCe0M4TNdqhZuWQTTkE8sc1f7J8x5gyle+pKhF8KXDQzTTCp923uZdXfBRWjkxbrn6dqYOnIwz9Uhsuw0kV3cDxRz1DN3J+wIdwqF6WJtTEpXDlpQdePDsjPM36XPFrpJNZNRUE/yR4e+EI+ZCXu3dL/dohWDGjGZd8lQ4dWLcNCa/jyFgcf7OBBTsjD2OZ6nEDLrZsXoJAO86NDshpiy/KxlQvC6P91Yp6eAMK5aLTJELgQRyvNzKGr7JGYeZ/aUvt6ZXY7VA3eLuh98U6ZzE8z3nNzZMQanDohwl04Tym70EA+L+5EieX2uHeKMWN9s8ikGnJMjr3cCNLiSrL4sfnUfx2A=;INSo5QJh8fF/Vy9o8GanYQ=="
 ---

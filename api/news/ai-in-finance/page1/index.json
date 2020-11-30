@@ -62,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -1245,51 +1245,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
-      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
-      "excerpt": "JERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html",
-      "originalUrl": "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook",
-          "width": 2700,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T05:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newswire",
-        "domain": "newswire.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
       "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
       "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
@@ -1362,6 +1317,40 @@
       "provider": {
         "name": "Crowdfund Insider",
         "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-uae-based-fintech-firm-launches-ai-powered-kyc.md",
+      "title": "UAE-based fintech firm launches AI-powered KYC",
+      "excerpt": "Fintech company PayBy has launched an AI-powered Know Your Customer (KYC; also termed Know Your Client) process in the UAE. The KYC is 100% paperless process and takes only 30 seconds to complete, doing away with the need for extensive documents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "originalUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "publishedDateTime": "2020-11-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
         "images": null,
         "publishers": null,
         "authors": null

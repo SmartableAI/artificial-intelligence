@@ -97,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-  - title: "Artificial Intelligence Insight Series Market 2020 Analysis, Dynamics, Forecast and Supply Demand 2023"
-    excerpt: "The Artificial Intelligence Insight Series Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i."
-    publishedDateTime: 2020-11-25T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-insight-series-market-2020-analysis-dynamics-forecast-and-supply-demand-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "2026 Cognitive Analytics Market |Top Companies, Trends and Future Prospects Details for Business Development"
     excerpt: "Latest update on Cognitive Analytics Market Analysis report published with an extensive market research, Cognitive Analytics market growth analysis and Projection by - 2025. this report is highly predictive as it holds the over all market analysis of topmost companies into the Cognitive Analytics industry."
     publishedDateTime: 2020-11-26T05:25:00Z
@@ -172,12 +158,7 @@ related:
     provider:
       name: 아크로팬
       domain: acrofan.com
-    quality: 29
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
+    quality: 9
   - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
     excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
     publishedDateTime: 2020-11-26T09:43:00Z

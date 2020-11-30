@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-18-artificial-intelligence-robotics-key-to-4th-industrial-revolution-nitda-dg.md",
+      "title": "Artificial intelligence, robotics key to 4th industrial revolution ― NITDA DG",
+      "excerpt": "DG, NITDA has said that emerging technologies such as artificial intelligence and robotics are going to power fourth industrial revolution.",
+      "sourceUrl": null,
+      "webUrl": "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-―-nitda-dg/",
+      "originalUrl": "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-―-nitda-dg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tribuneonlineng.com/wp-content/uploads/2019/08/NITDA-Kashifu-Inuwa-Abdullahi.jpg",
+          "width": 450,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-%e2%80%95-nitda-dg/amp/",
+      "cdnAmpWebUrl": "https://tribuneonlineng-com.cdn.ampproject.org/c/s/tribuneonlineng.com/artificial-intelligence-robotics-key-to-4th-industrial-revolution-%e2%80%95-nitda-dg/amp/",
+      "publishedDateTime": "2020-11-18T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nigerian Tribune",
+        "domain": "tribuneonlineng.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-robotics-prosthetics-industry-overview-top-trends-in-2020-prosthetics-market-review-size-share-and-growth-insights-to-2027.md",
       "title": "Robotics Prosthetics Industry Overview, Top Trends in 2020, Prosthetics Market Review, Size, Share and Growth Insights to 2027",
       "excerpt": "In related news, Ossur had developed a mind-controlled prosthetic leg in 2015 ... Get Sample Copy for Report “Robotics Prosthetics Market Information: By-Products (Prosthetic Arms, Prosthetic ...",
@@ -1368,58 +1411,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-cleaning-robot-market-strongly-driven-by-rising-global-demand.md",
-      "title": "Cleaning Robot Market Strongly Driven by Rising Global Demand",
-      "excerpt": "The cleaning robot market 2020 could expand at a lucrative rate of 16% between 2017 and 2023 (evaluation period), confirms Market Research Future (MRFR). We will provide COVID-19 impact analysis with the report,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/cleaning-robot-market-strongly-driven-by-rising-global-demand-2020-11-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T00:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

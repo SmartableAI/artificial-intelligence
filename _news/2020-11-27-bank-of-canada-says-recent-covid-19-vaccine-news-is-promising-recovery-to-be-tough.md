@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2862DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA"
 type: article
 quality: 83
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -56,15 +56,6 @@ related:
         width: 900
         height: 601
         isCached: true
-  - title: "Machine Learning Tool Accurately Detects COVID-19 on X-Rays"
-    excerpt: "A machine learning tool was able to detect COVID-19 in x-ray images about ten times faster and one to six percent more accurately than specialized thoracic radiologists, according to a study published in Radiology."
-    publishedDateTime: 2020-11-25T14:31:00Z
-    webUrl: "https://healthitanalytics.com/news/machine-learning-tool-accurately-detects-covid-19-on-x-rays"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 19
 
 secured: "EqbGDDf+cQNFMQYQYr46Ed+izVZi0/++FQv/R44pv4LQ3zfEHPLUakcvUhbvL+kkWrKox3g6Hg3sRCAW6hz43uCB7nJAPIb3kFLIOz8n/Jgt0mYDl/I93Q/BlWfbnm6xC3ZKqb6Zkiaoc11P7/6WZ1Ism/EbWjqlHRBYCrIE4xRMJTqu/80W0l+CYZptohk3Gh8DXdT3/BBKRFlLWESD1nu+aMrpqBu5VeXIXv6PT7z8xCxDMgGtg5T6jXwQ8CovhP/n9lGyw/W+wAX595Bf1nRW0RinizPYrB9DzdAV9RBRTAdHaw8ne63/yAtQlgj/OR8/gDy8cQuGNaFGaGD4BC0J3EpsBH4GWzQxl6im7ok=;EtP9NcaCybJX+qgFSJmDQw=="
 ---

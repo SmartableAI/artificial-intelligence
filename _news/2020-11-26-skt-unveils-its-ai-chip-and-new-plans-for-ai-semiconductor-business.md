@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "SK Telecom Unveils its Own AI Chip and New Plans for AI Semiconductor Business"
+    excerpt: "SK Telecom on Wednesday unveiled its self-developed artificial intelligence (AI) chip named ‘SAPEON X220’ and shared its AI semiconductor business vision"
+    publishedDateTime: 2020-11-26T01:26:00Z
+    webUrl: "https://www.thefastmode.com/technology-solutions/18579-sk-telecom-unveils-its-own-ai-chip-and-new-plans-for-ai-semiconductor-business"
+    type: article
+    provider:
+      name: Deep
+      domain: thefastmode.com
+    quality: 50
+    images:
+      - url: "https://www.thefastmode.com/media/k2/items/src/4cfce36fc7e35f8c2190d159032de5e6.jpg?t=20201126_012312"
+        width: 752
+        height: 408
+        isCached: true
 
 secured: "5n5c9FqJlmzjfh+gzSt7I9EdJBYEnM3SkxdPA8cTghtkUeMqDGgxGXA04H3+t8iMmNMRTwYVv3nua9qvXTuw7Dd0Na/62UqL/LwFE97gzrARnDG3vEItpzl43LiGT0bFiQABgvZM/FeKsamqdpwoeThxblqVcYxbgt9YyNgLj3D0dG5/EDDGEPBFFKmclaXHFyGjV9+HNDHL9iWQppMG59NOVFwb/vJOlFkYDJnNLaHuwu3aZ8ievzyHHet5oOkxU+C4TvMLTROCMEE7Zy9bSv9/lcMMfToZ4Yz7lGVeS4wSKFwe6VFPN0SSPPTDkAtF/SVNBUH+Y8DQLk6R8bhMoXau8JU46bdqSkgnvDhWgGO419DKCiuswe83ocVlBuRBnWDZs8RalEYZmojZSh4Y/53z172uUhTsnKfMQ7crhlRiu3WfuX+RCtYVDkAe7OPKVlzoFayIgagCZVSTqiz00IX9NlnGePBPDyFBssfMDD794CxAwLRJtvag2TiHS/UFAObTmYiNY/0luix/qfiTUw==;CS4SMpiDJiCb3WnhP7YM3A=="
 ---

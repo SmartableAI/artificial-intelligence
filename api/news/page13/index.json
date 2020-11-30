@@ -2,6 +2,93 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-18-revisiting-ethical-ai-where-do-organizations-need-to-go-next.md",
+      "title": "Revisiting ethical AI - where do organizations need to go next?",
+      "excerpt": "AI ethics are having a hard time keeping up with AI. Academic debates may be interesting, but organizations need a practical AI ethics framework. Where do we go from here?",
+      "sourceUrl": null,
+      "webUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "originalUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://diginomica.com/sites/default/files/images/2018-01/Fotolia-jimbophotoart-163732204_Sub_740px.jpg",
+          "width": 740,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/revisiting-ethical-ai-where-do-organizations-need-go-next?amp",
+      "publishedDateTime": "2020-11-17T08:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Diginomica",
+        "domain": "diginomica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-dungeon-proves-machine-learning-games-are-the-future.md",
+      "title": "AI Dungeon Proves Machine Learning Games Are the Future",
+      "excerpt": "The innovative AI Dungeon lets players experience an endless text adventure and could change how games tell their stories in a MAJOR way.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "originalUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static0.cbrimages.com/wordpress/wp-content/uploads/2020/11/AI-Dungeon-Feature02.jpg",
+          "width": 1400,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "cdnAmpWebUrl": "https://www-cbr-com.cdn.ampproject.org/c/s/www.cbr.com/ai-dungeon-machine-learning-future-of-games/amp/",
+      "publishedDateTime": "2020-11-17T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBR",
+        "domain": "cbr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-test-post.md",
       "title": "Test post",
       "excerpt": "The post Test post appeared first on Watson Blog.\n",
@@ -1081,100 +1168,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-autodesk-acquires-ai-based-design-firm-spacemaker.md",
-      "title": "Autodesk acquires AI-based design firm Spacemaker",
-      "excerpt": "Autodesk said Tuesday that it has signed a deal to acquire Spacemaker for $240 million. Based in Oslo, Norway, Spacemaker uses artificial intelligence and generative design to help architects, urban designers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "originalUrl": "https://www.zdnet.com/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/11/16/a0661235-44d1-4c94-82a2-f0bb03bbcd4f/tandem-screenshot.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/autodesk-acquires-ai-based-design-firm-spacemaker/",
-      "publishedDateTime": "2020-11-16T22:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning.md",
-      "title": "HUAWEI CLOUD Named a Leader in Predictive Analytics and Machine Learning",
-      "excerpt": "HUAWEI CLOUD was listed in the Leaders segment based on its scores in current offering and strategy, according to The Forrester Wave™: Predictive Analytics and Machine Learning in China, Q4 2020 report.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/huawei-cloud-named-a-leader-in-predictive-analytics-and-machine-learning-1029808693",
-      "publishedDateTime": "2020-11-16T18:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

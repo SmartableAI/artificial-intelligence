@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/shift/2020/11/27/volvo-thinks-gaming-tech-can-help-make-self-driving-cars-safer/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Best of: Are self-driving cars safe? It's complicated"
-    excerpt: "In this best of episode, Kim dives into the world of automated cars. Self-driving cars aren’t some crazy future tech … They’re here now. That raises some"
-    publishedDateTime: 2020-11-25T13:08:00Z
-    webUrl: "https://www.komando.com/episode/best-of-are-self-driving-cars-safe-its-complicated/766476/"
-    type: article
-    provider:
-      name: Kim Komando
-      domain: komando.com
-    quality: 24
-    images:
-      - url: "https://www.komando.com/wp-content/uploads/2020/06/kk-img-20200615-tech-you-should-know-1400x1400-1.jpg"
-        width: 1400
-        height: 1400
-        isCached: true
   - title: "UCSD tests new tech to help make self-driving cars safer"
     excerpt: "To help make self-driving cars safer in challenging weather, engineers at UC San Diego are developing new technologies and fusing them with existing ones to improve how the vehicles “see” other cars."
     publishedDateTime: 2020-11-25T17:00:00Z
