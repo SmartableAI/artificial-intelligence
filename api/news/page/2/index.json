@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -165,7 +165,7 @@
       "originalUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -197,6 +197,50 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-optimizing-ai-and-deep-learning-performance.md",
+      "title": "Optimizing AI and Deep Learning Performance",
+      "excerpt": "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/",
+      "originalUrl": "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg",
+          "width": 1000,
+          "height": 556,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T12:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -259,7 +303,7 @@
       "originalUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 189,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -345,49 +389,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-the-10-coolest-ai-chip-startups-of-2020.md",
-      "title": "The 10 Coolest AI Chip Startups Of 2020",
-      "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg",
-          "width": 399,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T07:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN",
-        "domain": "crn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -797,7 +798,7 @@
       "originalUrl": "https://www.zdnet.com/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {

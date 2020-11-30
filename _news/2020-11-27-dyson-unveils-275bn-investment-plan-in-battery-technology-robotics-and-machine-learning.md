@@ -106,15 +106,6 @@ related:
         width: 840
         height: 500
         isCached: true
-  - title: "BOTZ: Robotics And AI For Investors"
-    excerpt: "The global robotics and AI markets are expected to grow significantly over the coming years - with EVs and high-performance computing (HPC) being primary drivers."
-    publishedDateTime: 2020-11-25T16:29:00Z
-    webUrl: "https://seekingalpha.com/article/4391467-botz-robotics-and-ai-for-investors"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 49
 
 secured: "eE+cAeNBg5WHz/oeqhysGUEGZ021kICRX+KEGzyI1vEMdomueCNTlIIKSm9xQ4gDewtZbnqVJpuIrR7ljXoR+uWHLXbPDRKtvI6FtTzxBhN1vSE7/o7gRKbf+3K8KZK7CqE28Ydban/3Pr+M6Unhx7MG/8lgzC7P6Qzom5Lqst9UQW9K76OWpThrm5jrxbrT1YG+6nGqB2kIBP6SCm2pvq1FnBTmZkQqQ0qaw4GqU+B/HvBdcpaDftCecw8W3V3IiDAh/hEWAtxCtN2YyU0CfbPDhWzxSXFVg3dz2tMAVatBB0J9utRDe8oP993IRQEGIw10EcbI6jwJ/TJFol9L4XRn1g72mjGw7V6jgaeCnLOLRXTTiWdSclGXxXKLShED9J5bfKKHx2kiIK03+n6ULd9JBQ2Z6wPa2TI0Lw1wf2TokMKns6kYxjeJEgG3d9OuWT6/1/hon7l/Kd+Mz3VePiqztnCr/hkJy8EvB9YKpeYf0D6r7imafqRBuJ29SDdV7OreOUO4k42arpHILL8thQ==;yYe9BV7B/A+lvQTsnK5c7g=="
 ---

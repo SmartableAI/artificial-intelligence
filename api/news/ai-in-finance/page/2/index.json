@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-11-uae-based-fintech-firm-launches-ai-powered-kyc.md",
+      "title": "UAE-based fintech firm launches AI-powered KYC",
+      "excerpt": "Fintech company PayBy has launched an AI-powered Know Your Customer (KYC; also termed Know Your Client) process in the UAE. The KYC is 100% paperless process and takes only 30 seconds to complete, doing away with the need for extensive documents,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "originalUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "cdnAmpWebUrl": "https://www-itp-net.cdn.ampproject.org/c/s/www.itp.net/emergent-tech/94580-uae-based-fintech-firm-launches-ai-powered-kyc?amp",
+      "publishedDateTime": "2020-11-10T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GDPR fines",
+        "domain": "itp.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-cash-flow-solutions-and-transaction-science-join-forces-as-ribbit-an-ai-fintech-firm.md",
       "title": "Cash Flow Solutions and Transaction Science join forces as RIBBIT, an AI-FinTech firm",
       "excerpt": "After 22 years as an electronic payments provider, Cash Flow proudly joins forces with Transaction Science, a groundbreaking predictive analytics company, to form RIBBIT. Visit  or follow on LinkedIn to learn more.",
@@ -1320,41 +1354,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-experian-partners-with-standard-chartered-to-drive-financial-inclusion-with-machine-learning-powering-the-next-generation-of-decisioning.md",
-      "title": "Experian partners with Standard Chartered to drive Financial Inclusion with Machine Learning, powering the next generation of Decisioning",
-      "excerpt": "Leveraging innovation in technology to provide access to credit during uncertain times to populations underserved by formal financial services. This social impact was made possible by the Bank's digit",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/anpi/244869",
-      "originalUrl": "https://www.ryt9.com/en/anpi/244869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-14T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

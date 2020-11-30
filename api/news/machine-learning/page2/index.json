@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-19-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
+      "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
+      "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept, Transport for NSW ran a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/10250/4/index.php/google-amp/article/nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents/",
+      "publishedDateTime": "2020-11-18T18:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-controlup-raises-27-million-to-apply-ai-to-remote-machine-monitoring.md",
       "title": "ControlUp raises $27 million to apply AI to remote machine monitoring",
       "excerpt": "ControlUp, a platform leveraging AI to help monitor desktops remotely, has raised $27 million in venture capital funding.",
@@ -1054,10 +1098,10 @@
         "news"
       ],
       "topics": [
+        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning",
-        "TensorFlow"
+        "Machine Learning"
       ]
     },
     {
@@ -1320,58 +1364,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-system-brings-deep-learning-to-internet-of-things-devices.md",
-      "title": "System brings deep learning to “internet of things” devices",
-      "excerpt": "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT).",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
-      "originalUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Tiny-AI-01.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T21:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

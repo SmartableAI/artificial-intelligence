@@ -1050,19 +1050,19 @@
     {
       "path": "_news/2020-11-18-aws-announces-general-availability-of-aws-network-firewall.md",
       "title": "AWS Announces General Availability of AWS Network Firewall",
-      "excerpt": "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS",
+      "excerpt": "Amazon Web Services Inc., an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS Network Firewall, a new managed security service that makes it easier for customers to enable network protections across all of their AWS workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall",
-      "originalUrl": "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1072,11 +1072,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T21:17:00-08:00",
+      "publishedDateTime": "2020-11-17T17:17:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

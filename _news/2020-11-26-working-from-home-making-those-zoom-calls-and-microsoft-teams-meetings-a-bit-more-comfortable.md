@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/working-from-home-making-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/"
 type: article
 quality: 77
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1500
     height: 1500
     isCached: true
-
-related:
-  - title: "Aisera releases AI Service Desk for Microsoft Teams"
-    excerpt: "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform."
-    publishedDateTime: 2020-11-25T15:15:00Z
-    webUrl: "https://www.kmworld.com/Articles/News/News/Aisera-releases-AI-Service-Desk-for-Microsoft-Teams-144058.aspx"
-    type: article
-    provider:
-      name: KMWorld Magazine
-      domain: kmworld.com
-    quality: 54
-    images:
-      - url: "https://www.kmworld.com/images/subscribe_magazines_km.png"
-        width: 772
-        height: 594
-        isCached: true
 
 secured: "FzSP3eecbNnaXOak43gMITS+0oqWauJLDMl3vm3/xdEnPKkHoO+a7gzM4bfLDP3yRlYQJeJvWd0SLjkb4o0hmJAkY0RMN7DoyBjsFVyj5YwsTLxx1kGmuc6MT7Glg41LrhUNOMoUas8v7wyf5WuunsXNKteTSviHQXKf34YjVEKjohdCnYLWTwQr4nRNzY7FbUhcHyK8lLKzYjuri3gtPYMY7WvdURFO6U76NnViGTFeaUtyak0Q3t7gL7fdCzRluEDoLi9nQ0vw+L05q5KOCxnhQeqMNZxnEVlUTY9oMtumfEKNk/UbtsO3u6MOsACG7bh4rXdK/FPYxxtC38PtiRnlsjI4Q48bjnAXKkTWCHVsxo4DjVLhyI+8hF+dR9jIq1J1ogiyQltncQ/HzHloBP+VGX2OIjmKE3D+7xLt7fFFwJnDh1vzsC4r5F6k+JAOADZD2iu3a1GimpF3K4x2kl9eeB4Fv83faIL/WVebvmEJSY5vY2laS8OhEt1ST3tfIiHweJH/+J64YDsUG17x5g==;6v36Rtlw6dqtrQWAMwIuzA=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/australian-insurer-uses-ai-for-car-accide
 ampWebUrl: "https://www.zdnet.com/google-amp/article/australian-insurer-uses-ai-for-car-accident-claims/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-insurer-uses-ai-for-car-accident-claims/"
 type: article
-quality: 67
-heat: 67
+quality: 69
+heat: 69
 published: false
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 secured: "Ri+uUSm5eH77hpk5J6tTvHFFCbb6KoKufL3zwHC0PP8JHeYd0jPr5kuLMygvnDt1/jrgkL0Z0WvADDj6AzB5s78S5YK2KTEOM35DV8GF75cw9pxukYXFtak4Vx/ZWtUFgIToWJ+6yPKvr2EXb7O4XHwZ29SWVudfAnw/ukOnt02zLLOA8lU+RZTAfBsNKR6wDw6mXVjnnVXr0cBKaDvyj19108EbkwvUsoNZwmY8lVgVdqj7ySrxurBOyvMYZG9fIhqH2nJiVpXFZfpb+SiXSM4JoDdlLM/4KVL85f0zagrczvG5fFUKoEw+Xf6Ub5r61kZUaHtIOAIAXgO2nDMl0FtgCxn1Y2I1i6QftmdqLUctJqZMTFgKBFR4ERzLEzTwBTLUztYANwf6B2aI62Zcwa2nabrAMNKSgELAfvvBDo9C1ZpBi369ifwK7O6faQdhu/i8C8bl9odCnX/iQHGMDFgtVnq8IZ5lo9NulIs3b6Mo0WAqmedQO2QciPuQMrxD3oQW+sRWdID6Y82KsRCZZw==;9MJwvhk8ElnkSDCcPViq9A=="
 ---

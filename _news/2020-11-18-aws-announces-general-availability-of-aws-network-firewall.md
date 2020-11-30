@@ -1,26 +1,26 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS Network Firewall"
-excerpt: "New high-availability firewall service gives customers added visibility and control to easily secure their virtual networks running on AWS"
-publishedDateTime: 2020-11-18T05:17:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
-webUrl: "https://www.businesswire.com/news/home/20201117006327/en/AWS-Announces-General-Availability-of-AWS-Network-Firewall"
+excerpt: "Amazon Web Services Inc., an Amazon.com company (NASDAQ: AMZN), announced the general availability of AWS Network Firewall, a new managed security service that makes it easier for customers to enable network protections across all of their AWS workloads."
+publishedDateTime: 2020-11-18T01:17:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-web-applications-corporate-news-78994b84a1124d19835d95640e24b8a6"
 type: article
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201117006327/en/839779/23/AWS_logo_RGB.jpg"
-    width: 1200
-    height: 627
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
-secured: "PkcDtmraIkoqnXI9WTXxQFwyp0nIlrIQbAh/yCgGKe7V9NQQUJYLlnXwUQnEJnUp74qDceHq+5v5i3tVLx3h+yUtb+bfUZKObc11kkGgJISWmL3QyswZ3ydF0CjTWSt7Y0tAS1NC8KUJuCQ04Z/7c8N9E4TPN+7sfXuSQvJBCWX2hnmOqxdz4A0UanoUvuQg6eQyrzgxRPrrIosWJnqxq6+Zep7VGmMciHY3lGQSpUz6FD2vYE7dWlhhwL3XvjexHkt+ZZpE47i+AXWWH0dFOsmdnlawZrPxC9g7sPwNBTVIaXXOTFlKBtw1U/C7giFq0VGldUciTXF8SGKwu4tyJDpB+rzcCfJf7LeYpAKKAhQ=;MyzcoJR1gT/2m9rIUZM/3w=="
+secured: "meuMdjq4Yfsck6E/jKGbOZF5tpLKtRvYXg/uTh8vJ7y7EiFKKHIfBPv3umnttKS1uEYWx3ysW7H3WcaVUA6JunkUhcWkV/uTWj5vktOdxJ48eiUkyI8fNI718MNwxzeuULmPbO0VPvsc02zUoM5nnJfUbxFKGAv72cEQZaYimi5BQksKw5lMFHAC8RL/ktZny6uzW4Y0PtoypMrLYKwPeuBDZ1PaNA+ULC4Vwue+J0m2sUrhYKnmA2rqWC1OW1CKuDqp6swlfLROv2qWWkHpWLqSXNzKcyD1NN152V+upTQskJbSeLRK/q+qNeWmIDL8DBoeSdTBWx/fDQSNvzRCIKJIE4Uqsh0rhZpsK150ZgY=;Fe9BbawREHsOVYIeHbyiVQ=="
 ---
 

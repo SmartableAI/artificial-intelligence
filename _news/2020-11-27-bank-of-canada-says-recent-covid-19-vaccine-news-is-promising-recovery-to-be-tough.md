@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2862DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Technology Is Being Used on More Campuses During COVID-19"
-    excerpt: "Everyone was kind of wondering how we were identified as being at the protest,” Mars Fernandez, a graduate student at the University of Miami, tells Teen Vogue. “At one point someone just outright asked,"
-    publishedDateTime: 2020-11-25T17:01:00Z
-    webUrl: "https://www.teenvogue.com/story/schools-facial-recognition-covid-19"
-    ampWebUrl: "https://www.teenvogue.com/story/schools-facial-recognition-covid-19/amp"
-    cdnAmpWebUrl: "https://www-teenvogue-com.cdn.ampproject.org/c/s/www.teenvogue.com/story/schools-facial-recognition-covid-19/amp"
-    type: article
-    provider:
-      name: Teen Vogue
-      domain: teenvogue.com
-    quality: 38
   - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
     excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
     publishedDateTime: 2020-11-29T12:43:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-mark
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
 type: article
 quality: 79
-heat: 189
+heat: 179
 published: true
 
 provider:
@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
-    excerpt: "Market Synopsis The Machine learning Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2020-11-25T15:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
   - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
     excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
     publishedDateTime: 2020-11-29T20:06:00Z

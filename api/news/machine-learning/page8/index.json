@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-14-synopsys-and-simaai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded-edge.md",
+      "title": "Synopsys and SiMa.ai Collaborate to Bring Machine Learning Inference at Scale to the Embedded Edge",
+      "excerpt": "MOUNTAIN VIEW, Calif., Oct. 14, 2020 /PRNewswire/ -- (Nasdaq: SNPS) today announced its collaboration with SiMa.ai to bring its machine learning inference at scale to the embedded edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/synopsys-and-sima-ai-collaborate-to-bring-machine-learning-inference-at-scale-to-the-embedded/article_b8eebd58-965e-5efc-a754-854673de040f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-sensiml-to-present-at-st-developers-conference.md",
       "title": "SensiML to Present at ST Developers Conference",
       "excerpt": "Corporation, a leading developer of AI tools for building intelligent IoT endpoints, today announced that Chris Rogers, CEO and Chris Knorowski, CTO",

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geekwire.com/2020/w-andre-perkins/amp/"
 cdnAmpWebUrl: "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/w-andre-perkins/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 77
 published: true
 
 provider:

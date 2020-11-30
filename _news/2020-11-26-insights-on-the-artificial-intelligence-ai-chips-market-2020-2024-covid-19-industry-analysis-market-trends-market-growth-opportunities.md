@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2023"
-    excerpt: "Market Synopsis The Machine learning Market is estimated to record a significant growth throughout the forecast period."
-    publishedDateTime: 2020-11-25T15:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2023-2020-11-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
   - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
     excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
     publishedDateTime: 2020-11-29T20:06:00Z
@@ -170,6 +161,6 @@ related:
         height: 450
         isCached: true
 
-secured: "aI6vWVCvfPov+Wx/bOxXt42CvRUeoc3IZuvtlIGZJrXqUT3Vu/507+VuK+wPUVxIW6tYnHt6Li//tTYS3YTbd+MsPHOIwRAMo5OK/t6kaE/xi+kPz9L1aMDlLMfUNI5STOeKOY7+YVbkMqk71Ef7ugw123/ivsDnrDohNA9w++RZDkbruWoKruKjnE8Uaep5O7WOyc9gX1LKInbUjKCYj/u28bIk4qoPYQPKph99F07uFkyz5XfH+BwAQ063WvVyVFMUNRrR/pL0o1bm4ja+frXFTNJwwl+ZqGqLDqaIP0+yWYk83x1qVkvc+kPo4rQfOD7PJbtCPr2zaEgfrri0vBhucKl5gJJNu+8YkVqI1ao=;kvLi5FyHV9q2p0Sp8Kq0Kw=="
+secured: "7IZ4B/MPQE+sByVGueorbiaSjkezf5kJtLIbju5Gy74cfLg3yftTiRRPzd2Q3A/VMUwdHsm2lsiCZM0CyucGjYA9g+DAAMKGSzkUR3jkxcwmxYAvSY+gj8EpJX4c9WmUM8/hWw+mrfKTLis4T4a82RT5cV9nwSCmK9MhhzNwn7bHcBJ7UT4hZzDhoNl86HyE18kmWYZKo942G6F8RErAaKNsTnOUdSsPXxB8dsnB0EHJ2qKap4doY0G1Mj9lD+aYGGzKBhwNd66y3JyWGk4ZaHyMSEXX5JhK0f5mmxHoi+O9mZhhtUBlunA6LpVoitoaRrJjT21TfN431Izgim/97uAqLdAFe4+Irevozew+5jQ=;Bn4eLcmp2ucQBIatSGtVYQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://news.microsoft.com/en-au/features/nsw-health-pathology-hel
 webUrl: "https://news.microsoft.com/en-au/features/nsw-health-pathology-helping-transform-medical-testing-and-patient-care-with-cloud-data-and-ai/"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "NCKU team develops digital imaging solutions in liver pathology leveraging AI technology"
+    excerpt: "The pathologist, specialized in looking at tissue or pathological sections through a microscope, is to make a definitive cancer diagnosis and may also work with physicians or other members of healthcare team to recommend a treatment strategy that could include observation,"
+    publishedDateTime: 2020-11-27T06:21:00Z
+    webUrl: "https://www.digitimes.com/news/a20201127PD215.html&chid=9"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 30
+    images:
+      - url: "https://www.digitimes.com/newsshow/20201127PD215_files/2_b.jpg"
+        width: 640
+        height: 427
+        isCached: true
 
 secured: "JAsty+kU2M3dhB0mtOiZ5tyBWEXTIK9aLowUeGHb/7Jqe+kNMMsqbhTealIooLlOFNjj+8j3KUi4uX3TPe6MkcAuUkBxZac/tZcBtOjniLHROaP3FF8O/R1Wo38WEkJiTdm2y4IHRJzKcJiWP9q7hqBwSKn4kW7YiSf3ttg6POtUZfbtnLkfZgearV33HrIcQOdnsedOuDPurE/U8Y0E636dYL3HK/vTBxu3rDl/w65YrkuvNfgqdybNywpl439bRXBGJFuwApx/SDj5oLFQNnavuK2YmAXpZUF40hAa+nLMj+2ARlp+7qnjXMGWRbnfK5AF0AdvV9u/NQB/H6ifMJvPVeIgK4b9K9sQFKsQxnlEKgRV07i3fLp1AiV/zsec8KZ6JEV8L9pnQGKBmiZfKoSBSeD2L8/YRFglOabzLD4qRW7Hz0T7OctMhhxZzuPQwqKUewzvlgFU+OjSINO1F1yA19AicYGyuObCZsPHrN3lFESXE5acNJjpd4jKKVey03uovdLHBAhmjjtt2TXRJQ==;6JyF3LClMoo5ZfwBN7Kwkw=="
 ---

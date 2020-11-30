@@ -3,12 +3,12 @@ category: news
 title: "The 10 Coolest AI Chip Startups Of 2020"
 excerpt: "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads."
 publishedDateTime: 2020-11-26T15:08:00Z
-originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
-webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
+originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
+webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: CRN
@@ -39,16 +39,7 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "The 10 Hottest Cloud Computing Startups Of 2020"
-    excerpt: "Cloud computing startups picking up traction this year offer solutions ranging from Apache Airflow as a service to a life sciences R&D cloud software platform, and include a newly emerged security company formed by former ‘white hat’ hackers."
-    publishedDateTime: 2020-11-25T16:03:00Z
-    webUrl: "https://www.crn.com/slide-shows/cloud/the-10-hottest-cloud-computing-startups-of-2020/9"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 4
 
-secured: "XlaF/Ggeb8dDP+f+BwF+fB3PLoCv2gd7bOcgd6yJNEyZ1wlVzUCHq61h0xoLehUQZ0tFR/XRVu9dE4DnXIvGo+wqzaCRDNjrnTc8aXYO9ZY0iLh1s87lYwXgw4KwkU8OBd+r+wr1EIJTAzZBXtjMTIQ55em4e5WTlvQvRBi3EzMclocgaeDC5ZcGaVEl45lmtMgzp6s+QK/EaYUzTqGV+gyqAZzYRa/JHxOts8gwlZqJkBmxNyUCp5bxl24HWUzuv0pvG6wptsyoF8hjGd3OqLqHwyQRNXGOjDlkdQzuoKcfCLMwO5gooekrO1YnMpGFd1ry3NA+s0nGbCFfiqCetaWCCY+7edLl7Q9QCtcXmrE=;iX/H/5Aky3haJVdpyl1/ag=="
+secured: "6wXyUZ862kIMG+SGi5rsyAE1LgGwebc+C1D4DFN53z04AmvivCtB0vgFlLWriWn/KQlKdZZ+t46wI9V9hMJd7d+HbflZItfNseWDlL+suiAMnWrzN6y6UwxQfSGr+9ucJx68r97SyG1K6EQNbafua0o+IH5caw4CsWqO46nK1Idt+JiCCeo8v0CKzvZafM3Va/S7U8aUtiVoFk0FCIsnAGWSkJKzyoEFujVocO1ed9AAovfq2V5YnqGC7nHxc+qWzJHYnOEbc/+Cpr7YgPEANz5InkfvzpKFloN31WOTM4DJh3ssWAVcBU0wJm6uV0KIy2nzltGI6Tqk97HW4cgRxqsVR4ubdKpFS++mfhbGSN0=;4O+XTMp0qogS+C90CnKGuw=="
 ---
 
