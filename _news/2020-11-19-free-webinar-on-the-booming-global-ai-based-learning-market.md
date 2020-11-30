@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Free Webinar on the Booming Global AI-based Learning Market"
-excerpt: "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash."
+excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market.\" According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
 publishedDateTime: 2020-11-18T18:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/p18433265/free-webinar-on-the-booming-global-ai-based-learning-market"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/p18433265/free-webinar-on-the-booming-global-ai-based-learning-market"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18433265"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433265"
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/n18433212/free-webinar-on-the-booming-global-ai-based-learning-market"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18433212"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18433212"
 type: article
 
 provider:
@@ -14,9 +14,9 @@ provider:
   domain: benzinga.com
 
 topics:
-  - AI Ethics
+  - IBM AI
   - AI
 
-secured: "VOTHuJYNWD1PVDCgs+hm+rc7VnDLNbYwwwmZUwoKCt9TvToO2Hnctgq10D0OzlxO5gIhDhdq67dDoVlumCrGhJ4HO8YjXAEygADJxpEGMbt6KjeuPYMj4i+OmGm7glSWrQE3/iTOPPl6fnODLegTbKJf//my4EQ8oNP/U4wl7sJ6KJNJvTRX0MgxkGFzQjeobM4wtP29IMCy8QWho6gSpBz1ZsMaQTrKfsUASj75ik2GuytqR5S49akPzadVTPQkQC2ZOJ7cd2X2xTr66Ag2LWIY7vDJppGvW70tJSCdhrw8HW+war4uT9GR8+M9QqOS4JplAWAsZp57rR8RV0mg2erpC1VqFUeRWcXlt9hwQBo=;rH/ES+IqbCsrS9kRxAeOHA=="
+secured: "980tUrRusZLNPeSuWvtoroE83QIXR0m+rYh3PGUCuPtmYRbX5BkHZKRSUs/HCzfSHms5uTPxj+pk+bX892/1e4g4De/OMiQUsSwFWb/IU93KF3MJbAVFCBLrU4zDJYT+SIAwmJeDsQ9v86g5q1gQhskWyJGGv8qI1Em605zLRC7PJ4N1eIJR3OSRJYmcogcjRkMxRd7Vud52LkWnCB284H7yRAVTHqckXsT8T6L4nCKn7ZnbCMieVMZmWtR92btXAn34CvorgFyv+psQ5/m2xudPYNVGEvSFG04axluWlXKKFOQzYwzQmlvCn3ISphgsnQcK2oSJu2eY4mJjSebmVhAs2i8YWBLN336NQmLCKxQ=;3PSqsTtfeJt9yX62qRW/gA=="
 ---
 

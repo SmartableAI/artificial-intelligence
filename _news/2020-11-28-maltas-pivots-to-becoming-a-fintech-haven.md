@@ -9,7 +9,7 @@ ampWebUrl: "https://beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
 cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,51 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "OneConnect, the Fintech Division of Ping An Insurance, to Expand Operations into Malaysian Markets"
-    excerpt: "OneConnect, the Fintech division of Ping An Insurance, is reportedly planning to expand operations into Malaysian markets."
-    publishedDateTime: 2020-11-29T21:39:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169655-oneconnect-the-fintech-division-of-ping-an-insurance-to-expand-operations-into-malaysian-markets/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169655-oneconnect-the-fintech-division-of-ping-an-insurance-to-expand-operations-into-malaysian-markets/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169655-oneconnect-the-fintech-division-of-ping-an-insurance-to-expand-operations-into-malaysian-markets/amp/"
+  - title: "Artificial intelligence and machine learning: A new blueprint for the fintech industry"
+    excerpt: "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better."
+    publishedDateTime: 2020-11-30T13:55:00Z
+    webUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry"
+    ampWebUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 30
+      name: Your Story
+      domain: yourstory.com
+    quality: 66
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Growth-Grow-Together-Partner-Collaborate-600x450.jpeg"
-        width: 600
-        height: 450
+      - url: "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face"
+        width: 800
+        height: 400
         isCached: true
-  - title: "India Fintech Forum has Teamed Up with Amazon Pay, PayU, Deloitte, has Also Shorlisted 27 Fintechs for Awards"
-    excerpt: "India Fintech Forum has teamed up with Amazon Pay, PayU, Deloitte, has also shorlisted 27 Fintechs for awards."
-    publishedDateTime: 2020-11-25T22:09:00Z
-    webUrl: "https://www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169535-india-fintech-forum-has-teamed-up-with-amazon-pay-payu-deloitte-has-also-shorlisted-27-fintechs-for-awards/amp/"
+  - title: "Optimizing AI and Deep Learning Performance"
+    excerpt: "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance"
+    publishedDateTime: 2020-11-26T20:32:00Z
+    webUrl: "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 25
+      name: datanami.com
+      domain: datanami.com
+    quality: 56
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/01/india-rupees-rupixen-com-unsplash-300x216.jpg"
-        width: 300
-        height: 216
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg"
+        width: 1000
+        height: 556
         isCached: true
-  - title: "DIFC FinTech Hive to showcase 17 innovative startups"
-    excerpt: "DIFC FinTech Hive, the first and largest financial technology accelerator in the Middle East, Africa and South Asia (MEASA) region has announced that its much anticipated ‘Investor Day’ will take place today,"
-    publishedDateTime: 2020-11-30T11:29:00Z
-    webUrl: "https://www.finextra.com/pressarticle/85225/difc-fintech-hive-to-showcase-17-innovative-startups"
+  - title: "Federated Learning: A Therapeutic for what Ails Digital Health"
+    excerpt: "Researchers show the promise of Federated Learning to protect patient privacy and improve healthcare outcomes across the world."
+    publishedDateTime: 2020-11-26T13:00:00Z
+    webUrl: "https://threatpost.com/federated-learning-a-ails-digital-health/161633/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 24
+      name: Threat Post
+      domain: threatpost.com
+    quality: 39
     images:
-      - url: "https://www.finextra.com/about/finextra-logo-alt-16-9.jpg"
-        width: 480
-        height: 270
+      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/25141653/Healthcare-Digital-Symbols.jpg"
+        width: 750
+        height: 519
         isCached: true
 
 secured: "+tF8DH7IuQcUHiHttOFfj1UHlmPTHOZP87Gt5eIlHywoPssaV7V2M5EKaxryIxkcqFsDJ1VXtq9NefsyrrHgzM8PRIR1oRq6Cp+yv7bG/gSKZqFDdvFf/uuK9jJzvsVIRi9qoP8JW5LYxdiEBXYqyFRra8UbFH81EUtOIiWljKAOLLEts+D9RmrBoglBG1Pbw1tZP3vhsI0RoGaeK/PGZsh0G9kgiekrHlrtpxmnuA4gJRAZbTf7M+KghGd+ANkIyr4U2V7a26tQYtwXGIduTSdMJ/Y+Fz4LoS5XGN81ZiRmgJy1M+aG0HOQxjIJ4rukgDw0KQE+NOdkaBeJpsVlje/YE6L/u4mQZX+mQcKQzMsu9jKBzHrYumTBz4TSxHNO9Ie2sENGNT+5P/VvgpRNCbze0BLphpteCtJyEpclzX6XNXvL4UkM1JKegmFOoX/kqwm4vpvDVWMLyqhCh5UegvUDQofQzhuvngABRuh+WNqGeoDgpNz2R2FsaP5pGvd0/IiU+4Uk0l7xFge6ZVlyXg==;MxRXOT5B1mHt7xkBKwMrAQ=="

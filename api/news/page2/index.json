@@ -2,6 +2,293 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-27-health-startup-qureai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19.md",
+      "title": "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19",
+      "excerpt": "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients.",
+      "sourceUrl": null,
+      "webUrl": "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
+      "originalUrl": "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202011/YT_13-647x363.jpeg?d6xhJjgAzR1d9I7MbWR4fHOcvTsCdaq9",
+          "width": 647,
+          "height": 363,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
+      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
+      "publishedDateTime": "2020-11-27T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Today",
+        "domain": "indiatoday.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
+      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
+      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to 2027\" - https:/",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944",
+      "publishedDateTime": "2020-11-27T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-2021-will-see-the-spread-of-ai-and-automation-in-the-workplace.md",
+      "title": "2021 will see the spread of AI and automation in the workplace",
+      "excerpt": "Andy Watson, senior vice president for Asia, Pacific, Japan, and Greater China at SAP Concur, says many organizations will turn to automation and AI in 2021 as a way to address key business pain points and simplify cumbersome processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "originalUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/11/06/540c3182-e4b1-44c2-af38-c8091a4facbf/resize/1200x/150cde9b43159f6cdf2dbe7fcd0158e1/istock-1205428317.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
+      "publishedDateTime": "2020-11-27T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-another-city-is-using-crime-control-as-an-excuse-for-facial-recognition-surveillance.md",
+      "title": "Another City Is Using Crime Control as an Excuse for Facial Recognition Surveillance",
+      "excerpt": "Varanasi in India is installing 3,000 CCTV cameras with automated facial recognition tech at the city’s crossings.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "originalUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://video-images.vice.com//articles/5fc0e27700c96d009c4c6322/lede/1606476537293-an-indian-city-is-using-crime-control-to-amp-up-its-facial-recognition-surveillance.jpeg?crop=1xw:0.8428xh;0xw,0.1572xh",
+          "width": 6201,
+          "height": 3484,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
+      "publishedDateTime": "2020-11-27T04:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VICE",
+        "domain": "vice.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-tensorflow-turns-5-five-reasons-why-it-is-the-most-popular-ml-framework.md",
+      "title": "TensorFlow Turns 5 - Five Reasons Why It Is The Most Popular ML Framework",
+      "excerpt": "TensorFlow played a crucial role in the growth of machine learning and artificial intelligence. Thank you TensorFlow for enabling and empowering developers, and wish you a happy anniversary!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc09cf1950179a3f5f74874%2F0x0.jpg",
+          "width": 813,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
+      "publishedDateTime": "2020-11-26T22:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-deep-learning-helps-determine-a-womans-risk-of-breast-cancer.md",
+      "title": "Deep learning helps determine a woman’s risk of breast cancer",
+      "excerpt": "Using deep learning to recognize imaging biomarkers in mammograms presents an opportunity to detect the early warning signs of breast cancer in women who may not be considered at-risk, allowing intervention strategies to begin early, potentially improving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1494638654.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "publishedDateTime": "2020-11-26T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-ecbs-panetta-open-to-case-by-case-resumption-of-bank-dividends.md",
       "title": "ECB’s Panetta Open to Case-by-Case Resumption of Bank Dividends",
       "excerpt": "European Central Bank Executive Board member Fabio Panetta said he’s open to allowing some banks to resume paying dividends as the economy improves.",
@@ -395,50 +682,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-optimizing-ai-and-deep-learning-performance.md",
-      "title": "Optimizing AI and Deep Learning Performance",
-      "excerpt": "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/",
-      "originalUrl": "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg",
-          "width": 1000,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -969,239 +1212,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable.md",
-      "title": "Working from home: Making those Zoom calls and Microsoft Teams meetings a bit more comfortable",
-      "excerpt": "But I'm not leaving the house for meetings or attending events and conferences. They're all online too, and while I have enough screen space on my desk with a 15\" laptop and two 27\" monitors, I sometimes fancy a change of scene and a different way of working.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "originalUrl": "https://www.zdnet.com/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/24/658279f6-37ed-457c-98f6-9a79814fc57e/pa552.jpg",
-          "width": 1500,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/working-from-home-making-those-zoom-calls-and-microsoft-teams-meetings-a-bit-more-comfortable/",
-      "publishedDateTime": "2020-11-26T03:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-how-archaeologists-are-using-deep-learning-to-dig-deeper.md",
-      "title": "How archaeologists are using deep learning to dig deeper",
-      "excerpt": "Finding the tomb of an ancient king full of golden artifacts, weapons and elaborate clothing seems like any archaeologist’s fantasy. But searching for them, Gino Caspari can tell you, is incredibly tedious.",
-      "sourceUrl": null,
-      "webUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "originalUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.orlandosentinel.com/resizer/bhCg9zNjtsG1gLvtT1ETHbbXlME=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/QLOKHBQPCZC4TN3HRYCELRUO5U.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-orlandosentinel-com.cdn.ampproject.org/c/s/www.orlandosentinel.com/consumer-reviews/sns-nyt-artificial-intelligence-archaeology-cnn-20201128-53zqg5gabvdijhjqxhrfd676hy-story.html?outputType=amp",
-      "publishedDateTime": "2020-11-26T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Orlando Sentinel",
-        "domain": "orlandosentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare.md",
-      "title": "4 Ways John Snow Labs is Raising the Bar for NLP in Healthcare",
-      "excerpt": "Ways John Snow Labs is Raising the Bar for NLP in Healthcare By David Talby, CTO, John Snow Labs - Natural Language Processing (NLP) has been a technology to watch over the past few years, but in 2020 it emerged as",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
-      "originalUrl": "https://www.cioreview.com/news/4-ways-john-snow-labs-is-raising-the-bar-for-nlp-in-healthcare-nid-32417-cid-175.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioreview.com/news_new/sliderimage/49a3t.image300x350123654.jpg",
-          "width": 300,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T01:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIOReview",
-        "domain": "cioreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks.md",
-      "title": "SA scientists develops facial recognition technology identifying faces through face masks",
-      "excerpt": "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "originalUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "publishedDateTime": "2020-11-25T22:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-26-researchers-taught-ai-how-to-judge-a-video-game-by-its-cover.md",
-      "title": "Researchers taught AI how to judge a video game by its cover",
-      "excerpt": "Have you ever seen the promo art or box cover for a video game and thought “what the hell is this even about?” Well, wonder no more. A pair of researchers have combined cutting-edge image recognition and natural language processing to create an AI system for video game genre classification.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/gameclassai-796x392.jpg",
-          "width": 796,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/25/researchers-taught-ai-how-to-judge-a-video-game-by-its-cover/amp/",
-      "publishedDateTime": "2020-11-25T12:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

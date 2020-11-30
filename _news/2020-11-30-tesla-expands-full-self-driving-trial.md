@@ -35,6 +35,22 @@ related:
         width: 716
         height: 545
         isCached: true
+  - title: "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks"
+    excerpt: "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets."
+    publishedDateTime: 2020-11-30T14:10:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Full Self-Driving Beta wider release coming in just a few weeks, it’s both scary and exciting"
     excerpt: "According to the latest timeline, Tesla could be just 2 weeks away from its wider release of its Full Self-Driving Beta. The prospect of the software update going to more people is both scary and exciting at the same time."
     publishedDateTime: 2020-11-29T22:33:00Z

@@ -2,6 +2,318 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2020-11-23-two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail.md",
+      "title": "Two Companies, Everseen And Pactum, Show Artificial Intelligence's Impact On Walmart And All Retail",
+      "excerpt": "Retail is big and that makes it an ideal testing ground for artificial intelligence. What's being deployed in Walmart now from Everseen and Pactum is a window into where artificial intelligence is going now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
+      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9d5d18abba8a5b0f2b474%2F0x0.jpg",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
+      "publishedDateTime": "2020-11-23T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-mit-neural-network-knows-when-it-can-be-trusted.md",
+      "title": "MIT neural network knows when it can be trusted",
+      "excerpt": "Deep learning neural networks are artificial intelligence systems that are being used for increasingly important decisions. Deep learning neural networks are used for tasks as varied as autonomous",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
+      "originalUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/ai-certainty.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
+      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
+      "publishedDateTime": "2020-11-23T04:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis.md",
+      "title": "Entertainment Robots Market 2020 is expected to see magnificent spike in CAGR with Global Industry Brief Analysis",
+      "excerpt": "The Entertainment Robots Market is estimated to record a significant growth throughout the forecast period. The ICT",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/entertainment-robots-market-2020-is-expected-to-see-magnificent-spike-in-cagr-with-global-industry-brief-analysis-2020-11-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-23T04:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-the-7-most-promising-government-led-ai-solutions.md",
+      "title": "The 7 Most Promising Government Led AI Solutions",
+      "excerpt": "From the US to Canada, and Denmark to Estonia, massive governmental initiatives are being mobilized to boost AI solutions across sectors. The efforts that nations put forth now on the digital front will define our globe's leaders and laggards in digitalization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/",
+      "originalUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb925cd4ff701e40d46dd8f%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/markminevich/2020/11/23/the-7-most-promising-government-led-ai-solutions/amp/",
+      "publishedDateTime": "2020-11-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill.md",
+      "title": "Why Automated Machine Learning Is Becoming A Must-Have Business Intelligence Skill",
+      "excerpt": "Many BI job offerings want someone who can deploy predictive models that actively impact the company, instead of passive analytics, like dashboards.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/",
+      "originalUrl": "https://www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f3a9bf8ea6250a0856f35b4%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/theyec/2020/11/23/why-automated-machine-learning-is-becoming-a-must-have-business-intelligence-skill/amp/",
+      "publishedDateTime": "2020-11-23T04:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-facial-recognition-software-is-learning-to-identify-bear-and-cow-faces.md",
+      "title": "Facial recognition software is learning to identify bear and cow faces",
+      "excerpt": "Nowadays almost everyone uses facial recognition in some form or another -- maybe it's to get into your iPhone, or when social media platforms suggest tags in photos. But if you thought humans had the monopoly on facial recognition software, think again.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "originalUrl": "https://www.cnet.com/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet1.cbsistatic.com/img/rR_RZA0zkc895t7cvkrGUVfW_XE=/1200x630/2017/05/11/e208a8c4-30c6-4b77-a7a5-6577c3a64e6a/gettyimages-490055-0011.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facial-recognition-software-is-learning-to-identify-bear-and-cow-faces/",
+      "publishedDateTime": "2020-11-23T03:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-north-america-artificial-intelligence-ai-chipsets-market-growth-predicted-at-35-through-2026.md",
       "title": "North America Artificial Intelligence (AI) Chipsets Market Growth Predicted at 35% through 2026",
       "excerpt": "Graphical Research :According to the Graphical Research new growth forecast report titled North America Artificial Intelligence (AI) Chipsets Market Size, By Product (Graphics Processing Unit (GPU), Application-Specific Integrated Circuit (ASIC),",
@@ -900,308 +1212,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis.md",
-      "title": "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis",
-      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T22:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-c3ai-ipo-what-it-means-for-enterprise-ai.md",
-      "title": "C3.ai IPO: What It Means For Enterprise AI",
-      "excerpt": "The CEO and founder of C3.ai is Tom Siebel, who is a legend in Silicon Valley. He got his start in the mid-1980s with Oracle and helped lead the growth of the relational database market. Then in 1993 he founded Siebel,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb867fd910632f442f29d6d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D205%26cropY2%3D3580",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/",
-      "publishedDateTime": "2020-11-20T17:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-ai-predicts-highest-risk-us-counties-during-covid-19-surge.md",
-      "title": "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge",
-      "excerpt": "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data",
-      "sourceUrl": null,
-      "webUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/",
-      "originalUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.directrelief.org/wp-content/uploads/2020/11/Screenshot-62-7-e1605920971571.png?w=1024&ssl=1",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/",
-      "cdnAmpWebUrl": "https://www-directrelief-org.cdn.ampproject.org/c/s/www.directrelief.org/2020/11/ai-predicts-highest-risk-u-s-counties-during-covid-19-surge/amp/",
-      "publishedDateTime": "2020-11-20T17:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Direct Relief",
-        "domain": "directrelief.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-getting-started-with-amazon-kendra-servicenow-online-connector.md",
-      "title": "Getting started with Amazon Kendra ServiceNow Online connector",
-      "excerpt": "Amazon Kendra is a highly accurate and easy-to-use intelligent search service powered by machine learning (ML). To make it simple to search data across multiple content repositories, Amazon Kendra offers a number of native data source connectors to help get your documents easily ingested and indexed.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-kendra-servicenow-online-connector/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/getting-started-with-amazon-kendra-servicenow-online-connector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/17/Amazon-Kendra-2.jpg",
-          "width": 798,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T16:06:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-amazon-augmented-ai-is-now-a-hipaa-eligible-service.md",
-      "title": "Amazon Augmented AI is now a HIPAA eligible service",
-      "excerpt": "Amazon Augmented AI (Amazon A2I) is now a HIPAA eligible service. Amazon A2I makes it easy to build the workflows required for human review of machine learning (ML) predictions. HIPPA eligibility applies to AWS Regions where the service is available and means you can use Amazon A2I add human review of",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-augmented-ai-is-now-a-hipaa-eligible-service/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-augmented-ai-is-now-a-hipaa-eligible-service/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/356a192b7913b04c54574d18c28d46e6395428ab/2017/06/23/6288c174-a286-4b65-9b3b-6199bfdaa1e0.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T15:58:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-tank-like-robot-designed-to-autonomously-tend-gardens.md",
-      "title": "Tank-like robot designed to autonomously tend gardens",
-      "excerpt": "Gardening is very therapeutic for many people, but there are nonetheless some yard-related tasks that can be a hassle. The Yardroid robot was designed to autonomously handle those jobs, utilizing artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/yardroid-gardening-robot/",
-      "originalUrl": "https://newatlas.com/robotics/yardroid-gardening-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5fb4468/2147483647/strip/true/crop/960x640+0+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2Fc7%2Fc7%2Fbd2d60e54570bfaec9442c4657ad%2Fyd-refuel-s.jpeg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/robotics/yardroid-gardening-robot/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/robotics/yardroid-gardening-robot/?amp=true",
-      "publishedDateTime": "2020-11-20T13:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

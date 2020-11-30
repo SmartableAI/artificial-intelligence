@@ -2,6 +2,94 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
+      "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
+      "excerpt": "New innovation enables organizations to significantly accelerate actionable insight from video, audio and text-based data sources Veritone, Inc., (NASDAQ:VERI), the creator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201130005027/en/841782/4/Veritone_Nividia_BusinessWire_1200x640_copy.jpg",
+          "width": 480,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18572236",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236",
+      "publishedDateTime": "2020-11-30T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
+      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
+      "excerpt": "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
+      "originalUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
+      "publishedDateTime": "2020-11-30T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-geek-of-the-week-vulcans-w-andre-perkins-uses-machine-learning-to-help-predict-climate-change.md",
       "title": "Geek of the Week: Vulcan’s W. Andre Perkins uses machine learning to help predict climate change",
       "excerpt": "Perkins, GeekWire’s latest Geek of the Week, is now among the well versed, as a machine learning scientist for Vulcan Inc.’s Climate Modeling team. He started the job with the late Paul Allen’s company just over a year ago, after receiving his PhD in ...",
@@ -213,6 +301,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-27-deep-learning-helps-determine-a-womans-risk-of-breast-cancer.md",
+      "title": "Deep learning helps determine a woman’s risk of breast cancer",
+      "excerpt": "Using deep learning to recognize imaging biomarkers in mammograms presents an opportunity to detect the early warning signs of breast cancer in women who may not be considered at-risk, allowing intervention strategies to begin early, potentially improving ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1494638654.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx",
+      "publishedDateTime": "2020-11-26T19:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-exploring-the-use-of-artificial-intelligence-in-architecture.md",
       "title": "Exploring the use of artificial intelligence in architecture",
       "excerpt": "Over the past few decades, artificial intelligence (AI) tools have been used to analyze data or complete basic tasks in an increasing number of fields, ranging from computer science to manufacturing,",
@@ -252,50 +383,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-optimizing-ai-and-deep-learning-performance.md",
-      "title": "Optimizing AI and Deep Learning Performance",
-      "excerpt": "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/",
-      "originalUrl": "https://www.datanami.com/2020/11/26/optimizing-ai-and-deep-learning-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg",
-          "width": 1000,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-26T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "Machine Learning"
       ]
@@ -1353,102 +1440,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-3-rising-aiml-startups-from-south-korea.md",
-      "title": "3 rising AI/ML startups from South Korea",
-      "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663546",
-      "originalUrl": "https://www.techinasia.com/3-rising-aiml-startups-south-korea?ref=recommender-663546",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T01:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-deep-learning-global-markets.md",
-      "title": "Deep Learning: Global Markets",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Is there a problem with this press release? Contact the source provider Comtex at editorial@comtex.com. You can also contact MarketWatch Customer Service via our Customer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-global-markets-2020-11-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T20:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

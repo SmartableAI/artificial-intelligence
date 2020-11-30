@@ -8,9 +8,6 @@ webUrl: "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-re
 ampWebUrl: "https://amp.benzinga.com/amp/content/18534360"
 cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18534360"
 type: article
-quality: 1
-heat: 1
-published: false
 
 provider:
   name: Benzinga.com
@@ -20,6 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "q5T9I2f71v0iDG2mQUfQ0TflIAptlzXLk/UbTOryuvsNKp0dNY/Cm/Zgo+5p5FJiOir6ltvHYJhXhhT+zZkHpiCl+L3DJB3ugy27VCBUCDKx4msB+rvLjS+WorsmEUYVu95plIMUg3DU0Be/zO1T9OKabaLf9WMTFX94F4RufLicnyglHXNfXwVoEEc+D+l+592sMMp0ICstc3LFtw2FVBwBltSo8cbRu5ULPQj+1o4RxJJOB2BYuXZaU45qSW0efcgs5IfgBiUutuhCJ8aRE1k0oQ6psuN4+7A5n6cRLDKjQOVa6uvSIXvSbFolRrozUrM9S9pQlQfZp3uju2s2lNYyHPYqDtlCBQZArjbMrH4=;OlaNOMJO9MHuWmJfLU9yZQ=="
+secured: "k7aGaTxvOlJOpRMLd8LefXwHrix+kcw0RWMEz4MZ3mnpzJYNpQ81c9DnIFTYyc/4eeX1xurX0q9b01jNchKkz5Kk4bVz2fHqhPxpfLjQiB7vZWIqAaDULQw1WoFEie2CqqYR5NinqzLi/fa9mwsfjtuTN2ssqON0r5O7M+m/z5K8EcvmR6I6JjmDAlbjv0gC2l8zKu/RzuJDuAXXPphUG83JE3wSvOAGetci23dVsQwPeoXglyq0Ckl1anRWsiQUMd4EdA8qtjaOR0e5xsiX/aqisTd3zOaKqnzuwcIg8HFrjiONjM78/TgvYKNWzhFFw2liHVoFl5sBJ7bsq74gscNcMh9bkDiyUpmmp6nRoHM=;IR2ETvlsHqxu6gHV6PjZlQ=="
 ---
 

@@ -39,15 +39,6 @@ related:
         width: 768
         height: 403
         isCached: true
-  - title: "SITA, Nagarro and NEC each help airport partners expand face biometrics"
-    excerpt: "Etihad Airways is trialing face biometrics from SITA to check cabin crew into the Crew Briefing Centre at Abu Dhabi International Airport through their own mobile devices, Khaleej Times writes."
-    publishedDateTime: 2020-11-25T21:43:00Z
-    webUrl: "https://www.biometricupdate.com/202011/sita-nagarro-and-nec-each-help-airport-partners-expand-face-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
   - title: "Report says lack of diversity in face biometrics datasets extends to expression, emotion"
     excerpt: "A pair of new studies on algorithmic bias in face biometrics both suggest that the lack of diversity in datasets needs to be addressed. Research on expression imbalance suggests a way to make the"
     publishedDateTime: 2020-11-27T22:14:00Z

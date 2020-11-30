@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-21-hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space.md",
+      "title": "Hashtag Trending – Google VS the US; Hacking for charity; Microsoft Azure, but in space!",
+      "excerpt": "Google is accused of abusing monopoly powers by the U.S. government, hackers are using cyber crime for good, and Microsoft debuts Azure - in spaaace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314",
+      "originalUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2017/07/ht_3000X1668-e1501855285944-620x250.jpg",
+          "width": 620,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/hashtag-trending-google-vs-the-us-hacking-for-charity-microsoft-azure-but-in-space/437314?amp=1",
+      "publishedDateTime": "2020-10-21T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-microsoft-launches-azure-space-initiative-partners-with-spacex.md",
+      "title": "Microsoft launches Azure Space initiative; partners with SpaceX",
+      "excerpt": "Azure Orbital Emulator is an emulation environment that conducts massive satellite constellation simulations with software and hardware. It's for satellite developers who need to evaluate and train AI algorithms involving satellite networking before ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/10/19/d2944b64-469c-4021-bdfa-50348dd6931f/azurespace.jpg",
+          "width": 798,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/microsoft-launches-azure-space-initiative-partners-with-spacex/",
+      "publishedDateTime": "2020-10-21T00:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-21-ibm-buffett-was-about-a-decade-too-early-for-this-turnaround-story.md",
       "title": "IBM: Buffett Was About A Decade Too Early For This Turnaround Story",
       "excerpt": "IBM announced that it would be spinning off its managed infrastructure services business, an event that could unlock shareholder value.",

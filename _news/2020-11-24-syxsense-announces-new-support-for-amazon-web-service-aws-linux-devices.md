@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Syxsense Announces New Support for Amazon Web Service (AWS) Linux Devices"
-excerpt: "Syxsense, a global leader in SaaS IT and security management solutions, extends support of its cloud-native, real-time architecture to Amazon Web Service (AWS) Linux devices. AWS Linux assets are protected with a single lightweight agent allowing real-time patching and management from the Syxsense Management Cloud."
+excerpt: "Syxsense, a global leader in SaaS IT and security management solutions, extends support of its cloud-native, real-time architecture to Amazon Web Service"
 publishedDateTime: 2020-11-24T13:06:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices-1029834383"
-webUrl: "https://markets.businessinsider.com/news/stocks/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices-1029834383"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices-1029834383"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices-1029834383"
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html"
 type: article
-quality: 68
-heat: 68
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "yjq+IvGC2AKTojS68+Xg6xC4LYEo6KAo0GCq01+1nXOTI3URiqQMYl9O1THHrF05fEE/KCypg3eaSQDZANthzA/3sqDxTGBNcHePbcOBket9865PMvaa1fSVj+R4XBrsxLj8bOiLeIMQEuqUT/kF64Exgjtrrruekv6MwB1sxcCb2FU2sF7jIQblHviDw506O93JEiZfKq7rodR+EcN6rjs2IRf2KjVMQk5M0/APuAsm0/U4X5L4LPvyBM8n7CHTKeft5PDHkFZTDIJZj/M5Z3JnqmJQze/uYHf2cZx2t0O0aKCOY5g8L+5CvoXGm0VGT5DqVnFpyNHCbe84NRaEVCccgoEdC5JxQFwzFC8WHIg=;ufIVp6btMTbSW2AX6bsHsg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "lKnKWYcOsaK0x5gXM3fJ9KyO0teblnTino6UqeNbURn7F+QbooeE+3AoHaW6NdgoqmDVmnZmxCqS7CHHuj8jiVg4jFQfwoqkuto5TEE/U9G2i42i/MQ/Rg9BxIIAfL1uXPvfXZoCGItxtLPAGwE/aC+jtlzRKhPQs4BwM6X9w2QZH83H+01VHhRfWm0INy5Ubh0w7GBALqN+Wwbup0rH0OVJJjKxLs+Reo+R1JuqwSM9eGXKpnBiddrESUGWq5SqOZzmQMbJRVmqZWfizI7uJDicMxizNbde4TqnL2qmEbGXR2SuDqxLhinhkqzwB2/B0ZnLqPbAJtatbJcxZ4EvIG5ByEdVcedacRUt16Gn6/w=;Uck1C/5XZRqltHTIRiZGJg=="
 ---
 

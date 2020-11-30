@@ -9,8 +9,8 @@ ampWebUrl: "https://www.iol.co.za/amp/the-star/news/sa-scientists-develops-facia
 cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: -1
+published: false
 
 provider:
   name: IOL News
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Beating Facial Recognition: Japanese Store Wants to Purchase 'Face' to Turn It into Super-Realistic Mask"
-    excerpt: "As part of the 'That Face' project, Tokyo-based Kamenya Omote is paying to collect face data and turn them into 3D-printed masks with an incredible level of details"
-    publishedDateTime: 2020-11-30T11:31:00Z
-    webUrl: "https://www.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
-    ampWebUrl: "https://amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
+  - title: "Scanuppa you face: Exadel open sources CompreFace facial recognition tool"
+    excerpt: "California headquartered Exadel agrees with the above statement. The company has this month released of CompreFace, an open-source facial recognition application. CompreFace (comprehending faces, get it?"
+    publishedDateTime: 2020-11-30T13:50:00Z
+    webUrl: "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool"
+    ampWebUrl: "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1"
+    cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1"
     type: article
     provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 42
+      name: Computer Weekly
+      domain: computerweekly.com
+    quality: 58
     images:
-      - url: "https://data.ibtimes.sg/en/full/44600/mask.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://itknowledgeexchange.techtarget.com/open-source-insider/files/2020/11/Joe_Dolce_-_SYF.jpg"
+        width: 580
+        height: 580
         isCached: true
   - title: "SA scientist develops facial recognition technology identifying faces through face masks"
     excerpt: "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.sg/beating-facial-recognition-japanese-store-wan
 cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "SA scientists develops facial recognition technology identifying faces through face masks"
-    excerpt: "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks."
-    publishedDateTime: 2020-11-26T06:32:00Z
-    webUrl: "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
-    ampWebUrl: "https://www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
-    cdnAmpWebUrl: "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
+  - title: "Blotter: Man allegedly screams obscenities at police, uses brown bag to thwart 'facial recognition'"
+    excerpt: "A 43-year-old man was arrested Friday evening after allegedly drinking an alcoholic beverage and screaming obscenities while alone at a pavilion, cursing at officers when they arrived and covering his"
+    publishedDateTime: 2020-11-28T23:28:00Z
+    webUrl: "https://dentonrc.com/news/crime/blotter/blotter-man-allegedly-screams-obscenities-at-police-uses-brown-bag-to-thwart-facial-recognition/article_b8e28beb-8b1a-5c3b-bc5e-dcf45d2b8d2f.html"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 50
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 25
     images:
-      - url: "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717"
-        width: 650
-        height: 366
-        isCached: true
-  - title: "SA scientist develops facial recognition technology identifying faces through face masks"
-    excerpt: "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks."
-    publishedDateTime: 2020-11-26T07:15:00Z
-    webUrl: "https://www.iol.co.za/the-star/news/sa-scientist-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 30
-    images:
-      - url: "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717"
-        width: 650
-        height: 366
+      - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/7/50/7502fdbd-5a82-53de-94d1-d58d71142468/5fc2d67b43b72.image.jpg?resize=1000%2C400"
+        width: 1000
+        height: 400
         isCached: true
 
-secured: "fns3/HnRwyPwkTIrf4CViSY4ubx7W8k4cQV2oS3B8pIzSMqKCfKxUIZmvLOSH2UDQnMSvpC+88gxkhiScOjOYIq2UqjIrYwbUxkuKz3D6H8Rhs8/CKTbNbllCKLgtQWCB4RvAQpa+XLsMQfunulX0A+MRwnwvIOLDAFoCRbLRYDi+frzJEOwGiD9vAZyOnufZ/33vMGh/wWa+A7DaQB6MXIC45k+x3o3g5HHjVIAlQQVLseKYkTi2hA4LGAU9uWFgoDjGCeD8CtrjX0niZ9+PRjAdsygnQm66seZvt7diRmVGW54wY2zrvaHAo604NRrc+axAylMbmTKJKqZw5liQPQPtmXZTsWpwbKRKqVvP10=;ZRVtkjhL8zZMGLbRFEroQQ=="
+secured: "9QmEPtrjoelQcHd+9NArIaAzXDgtTIDwSiorV0vfHbzzlAHKQ0IhGDumGb1FCtpxYPXhiSQ0JtESLMjEolNbQhpyEdVA1RKgDJB6GO0NsqxvakNyvOq4N+uENH5ndmOkF62U7JHwBBmFymq2QQBM8yz2ExyaSgUoq6Gzt8Agb8lf2TNJxmdF+IAaPHkhq9TzBLPGDKcol4SEeEp1frdHsuw8JBV4VtLp0pm4rRipSq4X/HM5neaX0DqCSgsg/tL8iw2s8jrWFUbUQKxT4fm+FCQeiITe7qASRNcc0mUSx+LnnoyTB+xK3ekUzrwJgbn+EqoB+z0s8FPfKK1YWCBYkqYy2uDCn++FG3vILc99yIpFDEeNK8H7t84WDFHq7WiUZg0MOuX4Ml6QfIdVLRvEb9ILyHxB5feceeszs6jPsnhKYfZd44wUV54i+2dkJW5XpgaIro6xjp/hTTiH1iDmGeN6b20ApI4ohKIBejpsCZR4kkd9qaAbk4QSDAUnHay9rlnGjKriqEOyzbLh2kzJPQ==;P1TVvrBHrzQEn5uOOPVfNg=="
 ---
 

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
+      "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
+      "excerpt": "New innovation enables organizations to significantly accelerate actionable insight from video, audio and text-based data sources Veritone, Inc., (NASDAQ:VERI), the creator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201130005027/en/841782/4/Veritone_Nividia_BusinessWire_1200x640_copy.jpg",
+          "width": 480,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18572236",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236",
+      "publishedDateTime": "2020-11-30T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-tensorflow-turns-5-five-reasons-why-it-is-the-most-popular-ml-framework.md",
       "title": "TensorFlow Turns 5 - Five Reasons Why It Is The Most Popular ML Framework",
       "excerpt": "TensorFlow played a crucial role in the growth of machine learning and artificial intelligence. Thank you TensorFlow for enabling and empowering developers, and wish you a happy anniversary!",
@@ -1109,6 +1154,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-16-indian-artificial-intelligence-ai-industry-market-growth-trends-analysis-share-and-forecast-2025.md",
+      "title": "Indian Artificial Intelligence (Ai) Industry Market Growth, Trends Analysis, Share and Forecast - 2025",
+      "excerpt": "artificial Intelligence (AI) is poised to transform the world, with integration of intelligent machines allowing high-level cognitive processes ... healthcare sector, Microsoft Corp. is taking ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "originalUrl": "https://www.openpr.com/news/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb16933502_g.jpg",
+          "width": 626,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2188159/indian-artificial-intelligence-ai-industry-market-growth",
+      "publishedDateTime": "2020-11-16T05:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-onevinn-ab-joins-the-microsoft-intelligent-security-association.md",
       "title": "Onevinn AB Joins the Microsoft Intelligent Security Association",
       "excerpt": "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft",
@@ -1350,83 +1438,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-opportunities-forecast-to-2025.md",
-      "title": "Cognitive Services Market 2020 Industry Analysis, Global Trends, Market Size, Share, and Growth Opportunities Forecast to 2025",
-      "excerpt": "Cognitive Services are a set of machine learning algorithms ... Google, Inbenta, Ipsoft, Microsoft, Nokia, Nuance Communications, Qualcomm Technologies, SAS, Softweb Solutions, TCS and Verbio ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/ab18351935/cognitive-services-market-2020-industry-analysis-global-trends-market-size-share-and-growth-oppor",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18351935",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18351935",
-      "publishedDateTime": "2020-11-12T15:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency.md",
-      "title": "Cognitive Engine Technology Can Help Public Safety Agencies Boost Transparency",
-      "excerpt": "This capability leads to better and faster decision-making. A key enabling technology for this kind of analysis is a cognitive engine, which are AI applications that can process unstructured data from multiple sources so users — public safety agencies in ...",
-      "sourceUrl": null,
-      "webUrl": "https://statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency",
-      "originalUrl": "https://statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://statetechmagazine.com/sites/statetechmagazine.com/files/styles/cdw_hero/public/articles/%5Bcdw_tech_site%3Afield_site_shortname%5D/202011/GettyImages-1178526607.jpg?itok=VzpucHwH",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency?amp",
-      "cdnAmpWebUrl": "https://statetechmagazine-com.cdn.ampproject.org/c/s/statetechmagazine.com/article/2020/11/cognitive-engine-technology-can-help-public-safety-agencies-boost-transparency?amp",
-      "publishedDateTime": "2020-11-12T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Statetechmagazine",
-        "domain": "statetechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-30-scanuppa-you-face-exadel-open-sources-compreface-facial-recognition-tool.md",
+      "title": "Scanuppa you face: Exadel open sources CompreFace facial recognition tool",
+      "excerpt": "California headquartered Exadel agrees with the above statement. The company has this month released of CompreFace, an open-source facial recognition application. CompreFace (comprehending faces, get it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool",
+      "originalUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itknowledgeexchange.techtarget.com/open-source-insider/files/2020/11/Joe_Dolce_-_SYF.jpg",
+          "width": 580,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1",
+      "publishedDateTime": "2020-11-30T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-28-uganda-is-using-huaweis-facial-recognition-tech-to-crack-down-on-dissent-after-anti-government-protests.md",
       "title": "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests",
       "excerpt": "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni",
@@ -211,35 +254,26 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks.md",
-      "title": "SA scientists develops facial recognition technology identifying faces through face masks",
-      "excerpt": "A South African scientist, Ishmael Msiza, has developed the world’s first facial recognition technology prototype able to recognise human faces through face masks.",
+      "path": "_news/2020-11-26-global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm.md",
+      "title": "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM",
+      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of",
       "sourceUrl": null,
-      "webUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "originalUrl": "https://www.iol.co.za/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://image-prod.iol.co.za/resize/1274x366?source=https://xlibris.public.prod.oc.inl.infomaker.io:8443/opencontent/objects/959f234f-7a85-5dc4-b97b-01ac203a2303&operation=CROP&offset=0x0&resize=1274x717",
-          "width": 650,
-          "height": 366,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "cdnAmpWebUrl": "https://www-iol-co-za.cdn.ampproject.org/c/s/www.iol.co.za/amp/the-star/news/sa-scientists-develops-facial-recognition-technology-identifying-faces-through-face-masks-8adac792-5efb-4493-9c39-dd70c3e1c818",
-      "publishedDateTime": "2020-11-25T22:32:00-08:00",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18534360",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18534360",
+      "publishedDateTime": "2020-11-25T13:29:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "IOL News",
-        "domain": "iol.co.za",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1387,49 +1421,6 @@
         "AI",
         "Computer Vision",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-new-orleans-police-department-using-facial-recognition-despite-years-of-denial.md",
-      "title": "New Orleans Police Department using facial recognition despite years of denial",
-      "excerpt": "Explaining its previous denials, the department said that it doesn’t employ its own facial recognition software. Instead, it accesses the technology through state and federal partners. An ACLU lawyer said that was a ‘distinction without a difference.",
-      "sourceUrl": null,
-      "webUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "originalUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/thelensnola.org/wp-content/uploads/2020/11/DSC_8767-scaled.jpg?fit=2560%2C1709&ssl=1",
-          "width": 2560,
-          "height": 1709,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "cdnAmpWebUrl": "https://thelensnola-org.cdn.ampproject.org/c/s/thelensnola.org/2020/11/12/new-orleans-police-department-using-facial-recognition-despite-years-of-denial/",
-      "publishedDateTime": "2020-11-12T12:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lens",
-        "domain": "thelensnola.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

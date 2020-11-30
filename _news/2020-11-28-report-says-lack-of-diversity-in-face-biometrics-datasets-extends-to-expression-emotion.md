@@ -53,15 +53,6 @@ related:
         width: 800
         height: 692
         isCached: true
-  - title: "SITA, Nagarro and NEC each help airport partners expand face biometrics"
-    excerpt: "Etihad Airways is trialing face biometrics from SITA to check cabin crew into the Crew Briefing Centre at Abu Dhabi International Airport through their own mobile devices, Khaleej Times writes."
-    publishedDateTime: 2020-11-25T21:43:00Z
-    webUrl: "https://www.biometricupdate.com/202011/sita-nagarro-and-nec-each-help-airport-partners-expand-face-biometrics"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 19
 
 secured: "mlzjNzU8K5pmYKGCgqJMnIPSlGBUXxjbwLHBAnskEk7JiExfXLPH6OqddKk0U9j37kBNfMQRI8Rld3MfVQv3/xMfn+0vxnmv6mMxKQ4hewoPfplpgUnzZhXnqKi137qB3EtveWVLDtwRRJDJB1KJt9oTE1kNgfafDjj18cEFSyRZlwbAVTDU+rF99etPh5LaEIVnMz2qkUmXtMqj++L6EqiUXQJwsNnmKHrAHJ7ufFpDMzBFa2NJvUHUMfYXWobqQizFW2Ko5K312fa8VhW89eI6qc4/HS3KgFFkL/InwzC9Jpn/mvE+it7g2OiUJQ8pV+fw6amaI2LY6VxwXc/9i/QO7RYaK8l1KNn1pxLHWH+6Q25I3eJD0B7zh34PDGqL9QR+H2Nh6UH0uasU7Z16LC79U+hDiK4rINvRf3Do4dPxB7XsceGfBvo5FB1FhwxfNy4ayLbK1CGOBqDJrRT0vE1HIMHA0wWMd6PWSMawnOtDc7IHAEtwuWwXSWbAmtDbcbmjYj0dLwBPkXtyWw2wiw==;vMJ161hn2eJCbHYB99YklA=="
 ---

@@ -69,6 +69,20 @@ related:
         width: 777
         height: 500
         isCached: true
+  - title: "AI-Based Startup DNSFilter Protects WFH Employees During COVID-19 with Innovative Software"
+    excerpt: "AI startup company DNSFilter provides a DNS security threat and content filtering solution for enterprises. Their industry-leading"
+    publishedDateTime: 2020-11-30T13:33:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/ai-based-startup-dnsfilter-protects-wfh-employees-during-covid-19-with-innovative-software-301181604.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 27
+    images:
+      - url: "https://mma.prnewswire.com/media/1344641/DNSFilter.jpg?p=facebook"
+        width: 1632
+        height: 854
+        isCached: true
   - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
     excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
     publishedDateTime: 2020-11-27T12:30:00Z

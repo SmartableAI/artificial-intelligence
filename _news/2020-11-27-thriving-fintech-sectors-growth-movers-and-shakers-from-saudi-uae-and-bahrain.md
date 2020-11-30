@@ -18,19 +18,6 @@ topics:
   - AI in Finance
   - AI
 
-related:
-  - title: "Bank ABC's 4th MEA Fintech Forum highlights the trust of Financial Services Leaders in Digital as the recovery path for future banking"
-    excerpt: "Held under the patronage of the Central Bank of Bahrain and hosted by Bank ABC, the Forum brought together Financial regulators, regional baking CEOs and heads of challenger banks who were joined by leading international experts and over 2000 delegates on a virtual platform."
-    publishedDateTime: 2020-11-25T22:19:00Z
-    webUrl: "https://www.zawya.com/saudi-arabia/en/press-releases/story/Bank_ABCs_4th_MEA_Fintech_Forum_highlights_the_trust_of_Financial_Services_Leaders_in_Digital_as_the_recovery_path_for_future_banking-ZAWYA20201125140927/"
-    ampWebUrl: "https://www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20201125140927/"
-    cdnAmpWebUrl: "https://www-zawya-com.cdn.ampproject.org/c/s/www.zawya.com/saudi-arabia/en/story/amp/ZAWYA20201125140927/"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 7
-
 secured: "YcztNGyCPE/GrhaMqn0Mxvk1Gva3MokIsm0qZxxHRE40lmNNAhBKF2m9BHfW/mLJIVY345D7wXaMz71aTS23UxgavJA7akn5I4qmkldUsteg12+fAPe/Lv6TxREHA4OQUty5taVXH9Z564ipRK7UQh9G5j4ZZapniBqoiFPIM/weXOyfYfc5KdlBlQz2AdwXuqqxxp/2yPuN/3jHJSqH6bi51osaIuQOQfh4G3wtmShZL5SRfa9PsP3fAxazxTDY4wMVhu/1sGV4qwMwdHShz459XiqjMb5jFfbiG9+zhHJsA+jQa62TYzYX2VCpzsvnkHwM/ey8xIBIeROm2YfQdwxi02AaKT5ooztDJvuhFUsfxd9U3TiKyr3sRPyxpSF9QUnF5td3s/eaGIkCBNGlCndbpE2O+x65jYMnDtMRoBJd2H3955cGo5BDU6It/I39QMLPBn9LY3t0vFV0dDS++cxw31RtwzbT8Q4lsQK5zZsfwvMlVmdioQEBwIP2Ii6tB+/SNAU28x6UDPFHO64NuA==;VYcCK9XgJRkc6swiSBkvrg=="
 ---
 

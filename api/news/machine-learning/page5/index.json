@@ -2,6 +2,164 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-30-global-deep-learning-software-market-dynamic-business-environment2021-2030-artelnics-bright-computing-bair.md",
+      "title": "Global Deep Learning Software Market Dynamic Business Environment(2021-2030)|| Artelnics, Bright Computing, BAIR",
+      "excerpt": "Oct 30, 2020 (WiredRelease via Comtex) -- The latest research report provides a complete assessment of the Global Deep Learning Software market for the forecast year 2021-2030, which is beneficial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-dynamic-business-environment2021-2030-artelnics-bright-computing-bair-2020-10-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-deep-learning-software-market-dynamic-business-environment2021-2030-artelnics-bright-computing-bair-2020-10-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-an-automated-trading-firm-turns-its-machine-learning-expertise-to-venture-capital-investing.md",
+      "title": "An automated trading firm turns its machine learning expertise to venture capital investing",
+      "excerpt": "XTX executives say their trading edge is in machine learning—algorithms that automatically learn and improve from data without being re-programmed. XTX is heavy on computing, but light on ...",
+      "sourceUrl": null,
+      "webUrl": "https://qz.com/1923323/xtx-makes-venture-capital-investments-in-machine-learning-firms/",
+      "originalUrl": "https://qz.com/1923323/xtx-makes-venture-capital-investments-in-machine-learning-firms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cms.qz.com/wp-content/uploads/2018/02/xtx_0001.jpg?quality=75&strip=all&w=410&h=273",
+          "width": 410,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Quartz",
+        "domain": "qz.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023.md",
+      "title": "Deep Learning Market Analysis Reports Revenue Growth Globally During The Forecast Period 2020-2023",
+      "excerpt": "Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End User (Security, Manufacturing, BFSI, Healthcare,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-analysis-reports-revenue-growth-globally-during-the-forecast-period-2020-2023-2020-10-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-30-want-to-infuse-ai-into-your-apps-with-minimal-effort-try-microsoft-lobe.md",
       "title": "Want To Infuse AI Into Your Apps With Minimal Effort? Try Microsoft Lobe",
       "excerpt": "From acquiring the data to labeling it and training the model to optimizing it, deep learning and AI demand niche skills that combine mathematics with data science.",
@@ -1318,147 +1476,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-2021-is-the-time-for-ai-to-shine.md",
-      "title": "2021 is the time for AI to shine",
-      "excerpt": "Companies and C-level leaders will tackle kinks in AI head on in 2021, not because they want to but because they have to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
-      "originalUrl": "https://www.zdnet.com/article/2021-is-the-time-for-ai-to-shine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/2021-is-the-time-for-ai-to-shine/",
-      "publishedDateTime": "2020-10-26T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning.md",
-      "title": "Commentary: How Japan’s ABEJA helps large companies operationalize AI, machine learning",
-      "excerpt": "ABEJA has developed proprietary tools to ensure that its AI Consulting engagements do not metastasize into endless ordeals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/10/Aoaeh_commentary_102120_1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-how-japans-abeja-helps-large-companies-operationalize-ai-machine-learning/amp",
-      "publishedDateTime": "2020-10-26T07:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-from-beekeepers-to-ocean-mappers-lobe-aims-to-make-it-easy-for-anyone-to-train-machine-learning-models.md",
-      "title": "From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models",
-      "excerpt": "The post From beekeepers to ocean mappers, Lobe aims to make it easy for anyone to train machine learning models appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "originalUrl": "https://blogs.microsoft.com/ai/lobe-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2020/10/lobe-machine-learning-toyon_1200x630-5f96ba640f2e5-1024x538.jpg",
-          "width": 1024,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-26T05:59:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI",
-        "Machine Learning"
       ]
     }
   ],

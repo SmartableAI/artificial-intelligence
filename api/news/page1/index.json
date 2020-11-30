@@ -2,29 +2,38 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-11-30-billionaire-siebels-c3ai-looks-to-raise-527-mln-in-us-ipo.md",
-      "title": "Billionaire Siebel's C3.ai looks to raise $527 mln in U.S. IPO",
-      "excerpt": "Billionaire tech entrepreneur Tom Siebel founded C3.ai said on Monday the software company was looking to raise up to $527 million in its initial public offering.",
+      "path": "_news/2020-11-30-servicenow-acquires-artificial-intelligence-startup-element-ai.md",
+      "title": "ServiceNow acquires artificial intelligence startup Element AI",
+      "excerpt": "Element AI is an AI software provider founded by machine learning pioneers including Yoshua Bengio and funded by the likes of Microsoft, Nvidia, Intel and Tencent.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/c3ai-ipo-idUSL4N2IG31W",
-      "originalUrl": "https://www.reuters.com/article/c3ai-ipo-idUSL4N2IG31W",
+      "webUrl": "https://www.zdnet.com/article/servicenow-acquires-artificial-intelligence-startup-element-ai/",
+      "originalUrl": "https://www.zdnet.com/article/servicenow-acquires-artificial-intelligence-startup-element-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 142,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/a044cd00-e584-4deb-b182-01083d9868dd/edge-acquisition-cloud7.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL4N2IG31W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL4N2IG31W",
-      "publishedDateTime": "2020-11-30T04:55:00-08:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/servicenow-acquires-artificial-intelligence-startup-element-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-acquires-artificial-intelligence-startup-element-ai/",
+      "publishedDateTime": "2020-11-30T06:56:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -40,6 +49,239 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-c3ai-sets-ipo-size-above-half-a-billion-dollars.md",
+      "title": "C3.ai sets IPO size above half-a-billion dollars",
+      "excerpt": "The cloud software operator that uses AI to do industry-specific data analysis would see an initial value of $3 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "originalUrl": "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/e4d858ff-3bd7-4aed-ae90-7676eda0116c/c3ai-boilerplate-nov-30-2020.png",
+          "width": 1410,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "publishedDateTime": "2020-11-30T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
+      "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
+      "excerpt": "New innovation enables organizations to significantly accelerate actionable insight from video, audio and text-based data sources Veritone, Inc., (NASDAQ:VERI), the creator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201130005027/en/841782/4/Veritone_Nividia_BusinessWire_1200x640_copy.jpg",
+          "width": 480,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18572236",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236",
+      "publishedDateTime": "2020-11-30T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors.md",
+      "title": "Artificial Intelligence Will Revolutionize Energy, Earning Billions For Investors",
+      "excerpt": "The energy transformation will see an explosion of growth in Artificial Intelligence (AI) applications across the energy industry as electric grids, energy storage, and transmission systems become increasingly complex.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/",
+      "originalUrl": "https://www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4f618476f7cf8927bfd96%2F0x0.jpg",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arielcohen/2020/11/30/artificial-intelligence-will-revolutionize-energy-earning-billions-for-investors/amp/",
+      "publishedDateTime": "2020-11-30T06:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-artificial-intelligence-and-machine-learning-a-new-blueprint-for-the-fintech-industry.md",
+      "title": "Artificial intelligence and machine learning: A new blueprint for the fintech industry",
+      "excerpt": "AI and ML have transformed the fintech landscape and going forward will have a more prominent role as products developed with new-age tech are more efficient, accurate and fulfil a customer’s needs better.",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
+      "originalUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/f02aced0d86311e98e0865c1f0fe59a2/fintech-ai-1605701292471.png?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp",
+      "publishedDateTime": "2020-11-30T05:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-scanuppa-you-face-exadel-open-sources-compreface-facial-recognition-tool.md",
+      "title": "Scanuppa you face: Exadel open sources CompreFace facial recognition tool",
+      "excerpt": "California headquartered Exadel agrees with the above statement. The company has this month released of CompreFace, an open-source facial recognition application. CompreFace (comprehending faces, get it?",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool",
+      "originalUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itknowledgeexchange.techtarget.com/open-source-insider/files/2020/11/Joe_Dolce_-_SYF.jpg",
+          "width": 580,
+          "height": 580,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Open-Source-Insider/Scanuppa-you-face-Exadel-open-sources-CompreFace-facial-recognition-tool?amp=1",
+      "publishedDateTime": "2020-11-30T05:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -560,7 +802,7 @@
       "originalUrl": "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -1014,250 +1256,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-health-startup-qureai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19.md",
-      "title": "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19",
-      "excerpt": "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
-      "originalUrl": "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202011/YT_13-647x363.jpeg?d6xhJjgAzR1d9I7MbWR4fHOcvTsCdaq9",
-          "width": 647,
-          "height": 363,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27",
-      "publishedDateTime": "2020-11-27T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-artificial-intelligence-in-healthcare-global-market-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Healthcare Global Market - Forecast to 2027",
-      "excerpt": "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to 2027\" - https:/",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944",
-      "publishedDateTime": "2020-11-27T05:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-2021-will-see-the-spread-of-ai-and-automation-in-the-workplace.md",
-      "title": "2021 will see the spread of AI and automation in the workplace",
-      "excerpt": "Andy Watson, senior vice president for Asia, Pacific, Japan, and Greater China at SAP Concur, says many organizations will turn to automation and AI in 2021 as a way to address key business pain points and simplify cumbersome processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
-      "originalUrl": "https://www.techrepublic.com/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr2.cbsistatic.com/hub/i/r/2020/11/06/540c3182-e4b1-44c2-af38-c8091a4facbf/resize/1200x/150cde9b43159f6cdf2dbe7fcd0158e1/istock-1205428317.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/",
-      "publishedDateTime": "2020-11-27T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-another-city-is-using-crime-control-as-an-excuse-for-facial-recognition-surveillance.md",
-      "title": "Another City Is Using Crime Control as an Excuse for Facial Recognition Surveillance",
-      "excerpt": "Varanasi in India is installing 3,000 CCTV cameras with automated facial recognition tech at the city’s crossings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
-      "originalUrl": "https://www.vice.com/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://video-images.vice.com//articles/5fc0e27700c96d009c4c6322/lede/1606476537293-an-indian-city-is-using-crime-control-to-amp-up-its-facial-recognition-surveillance.jpeg?crop=1xw:0.8428xh;0xw,0.1572xh",
-          "width": 6201,
-          "height": 3484,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
-      "cdnAmpWebUrl": "https://www-vice-com.cdn.ampproject.org/c/s/www.vice.com/amp/en/article/n7ve4q/varanasi-india-using-facial-recognition-surveillance-technology",
-      "publishedDateTime": "2020-11-27T04:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VICE",
-        "domain": "vice.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/vice.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-tensorflow-turns-5-five-reasons-why-it-is-the-most-popular-ml-framework.md",
-      "title": "TensorFlow Turns 5 - Five Reasons Why It Is The Most Popular ML Framework",
-      "excerpt": "TensorFlow played a crucial role in the growth of machine learning and artificial intelligence. Thank you TensorFlow for enabling and empowering developers, and wish you a happy anniversary!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc09cf1950179a3f5f74874%2F0x0.jpg",
-          "width": 813,
-          "height": 454,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/",
-      "publishedDateTime": "2020-11-26T22:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "Google AI",
-        "TensorFlow"
       ]
     }
   ],
