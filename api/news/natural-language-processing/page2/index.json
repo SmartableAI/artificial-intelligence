@@ -2,6 +2,51 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
+      "title": "People Suffering Depression and Anxiety Want to Reveal Their Pain — to a Robot",
+      "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/",
+      "originalUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcnewyork.com/2020/11/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/?amp",
+      "cdnAmpWebUrl": "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot/2717702/?amp",
+      "publishedDateTime": "2020-11-11T12:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC New York",
+        "domain": "nbcnewyork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-people-suffering-depression-and-anxiety-want-to-reveal-their-pain-to-a-robot.md",
       "title": "People suffering depression and anxiety want to reveal their pain — to a robot",
       "excerpt": "A majority of workers are more comfortable sharing their mental health struggles with a robot than a boss. Experts are divided on whether AI is up to the task.",
@@ -1369,58 +1414,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2020-10-28T21:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market Trends, Top Key Players, Regions and Industry Size and Forecast to 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T18:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

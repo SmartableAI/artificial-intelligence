@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-13-infosys-delivers-cloud-powered-cognitive-first-managed-services-for-it-operations.md",
+      "title": "Infosys delivers cloud-powered, cognitive-first managed services for IT operations",
+      "excerpt": "The open, end-to-end managed services platform for IT operations ... seamless experience journeys Applying conversational AI and cognitive automation to enable self-service, improve efficiency ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.helpnetsecurity.com/2020/11/13/infosys-live-enterprise-application-management-platform/",
+      "originalUrl": "https://www.helpnetsecurity.com/2020/11/13/infosys-live-enterprise-application-management-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-12T19:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Help Net Security",
+        "domain": "helpnetsecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-13-ai-in-fintech-market-may-see-a-big-move-emerging-players-microsoft-google-salesforce.md",
       "title": "AI in Fintech Market May See a Big Move | Emerging Players Microsoft, Google, Salesforce",
       "excerpt": "Global AI in Fintech Market Status (2015-2019) and Forecast (2020-2025) by Region, Product Type & End-Use is latest research study released by HTF MI evaluating the market, highlighting opportunities,",
@@ -1328,50 +1371,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-31-microsoft-lobe-to-train-ai-machine-learning-models-without-writing-code.md",
-      "title": "Microsoft Lobe to train AI, machine learning models without writing code",
-      "excerpt": "Microsoft has announced the availability of Lobe, a desktop app to train artificial intelligence (AI) and machine learning (ML) models.",
-      "sourceUrl": null,
-      "webUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "originalUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.thewindowsclub.com/wp-content/uploads/2020/10/Microsoft-Lobe.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "cdnAmpWebUrl": "https://news-thewindowsclub-com.cdn.ampproject.org/c/s/news.thewindowsclub.com/microsoft-lobe-to-train-ai-machine-learning-models-103899/amp/",
-      "publishedDateTime": "2020-10-30T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -32,6 +32,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum"
+    excerpt: "The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic"
+    publishedDateTime: 2020-11-30T18:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020--2027---ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-301181740.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
 
 secured: "HgPZB57VE9GBbsoyjprrxLRwC3uCJunjXUMm50KMtdJFUNmuw4RQhzRw3mOBKvXvz4YTojaabRnBcCx7Lltvyix+H2jOtbEbAeq5SH/ug6Kx06P7fKeZmcn087KINARrw9YKYqUerzpldgER0GrNQbmycjCsvFXX4w6Qit9bLZvk1/zwBGzCraD+Kjvxp9TZKB+RWQWC0d8AGIJthzCx+otT+giTRELlIGiYv6imlkJVdOPEybfNCWuSgRTDduupY4F+MmCWH2livmX9vjcd9IaFTP98007yiq3N2BQJpf+kXCc3Adnqv0EElRqbhy89qlStqAkdMwSzD8RMnjTE+lVtBz/a27Tpmp9z6/cL6j8=;HJWnpNUNPiD/2NWSkrj0rg=="
 ---

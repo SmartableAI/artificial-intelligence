@@ -7,7 +7,7 @@ originalUrl: "https://news.mit.edu/2020/computer-aided-robot-design-1130"
 webUrl: "https://news.mit.edu/2020/computer-aided-robot-design-1130"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Computer-aided creativity in robot design"
+    excerpt: "\"Robot design is still a very manual process,\" says Allan Zhao, the paper's lead author and a PhD student in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). He describes RoboGrammar as \"a way to come up with new, more inventive ..."
+    publishedDateTime: 2020-11-30T18:52:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201130131406.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
   - title: "RoboGrammar: Automated & Optimized Robot Design for Traversing Various Terrain Types"
     excerpt: "MIT researchers’ new system optimizes the shape of robots for traversing various terrain types. So, you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person?"
     publishedDateTime: 2020-11-30T11:57:00Z

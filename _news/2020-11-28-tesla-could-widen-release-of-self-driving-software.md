@@ -91,6 +91,17 @@ related:
         width: 3584
         height: 1598
         isCached: true
+  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
+    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
+    publishedDateTime: 2020-11-30T17:54:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
   - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
     excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
     publishedDateTime: 2020-11-28T13:32:00Z
@@ -116,6 +127,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
+    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
+    publishedDateTime: 2020-11-30T18:10:00Z
+    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 15
 
 secured: "Uwesiszx5MNIqdabTzSQC+ZkQz6d+Mpy8h2bBKcBUQ6R1XX0oj3srJgC/bNWreWITErM2GH9ylRrriByqcBwsYqQjlJ+IHtad3uDIM1GbLlM68bkWtRoefL4CYfcuPt56QUzMs1clOIYf7q4lH0Ph0qPEqH85MinxgehQap++vVSTcUHxQTCJXP024aQt++zubc4Nhnh/coWccJwdL0h1/TS2OLvY0l+NE+uZTf/x75nPVgZx/byTkDUA2eRBo8wZEbb0MZb5P/7PxQ8JX6X5O0D/RZMDBZgl0NjWfyVeXru5jUY022rPY+9pFlUmxbg/8xXpumFRI/qTvnhWpXXFQ53XRDPkIEIS9BwO+NI5T0=;jfi+L3cMR/YvODVY2ojKAg=="
 ---

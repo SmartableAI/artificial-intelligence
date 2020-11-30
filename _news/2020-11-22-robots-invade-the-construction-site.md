@@ -3,8 +3,10 @@ category: news
 title: "Robots invade the construction site"
 excerpt: "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco."
 publishedDateTime: 2020-11-22T11:45:00Z
-originalUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80"
-webUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80"
+originalUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
+webUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
+ampWebUrl: "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
+cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/"
 type: article
 
 provider:
@@ -25,6 +27,6 @@ images:
     height: 380
     isCached: true
 
-secured: "LuJq7SXnATAw0F0pOXvhHS2GGdiuDrQWyyCzv8Kia8eptydFsEVq9sP+kmMB4mpOCGFO7URzYirX1+2Cs1ILbAAKy6g9u07oG39CVIHJMRdW1wv++h2zN6zzE7lSewwQY6WjjTyScnr3GEtMntbGOJQYQ1Rua3ssajl3I7nwQI7PHPMYsAPn+0JS3UY/6rjOFvR9pn43z0V927fxr0KkQ44AWTCF0F+BW3kVdfb3sPnQEIDaXDZMMf7pLCFNCPnyUd3bDcA8JA3Z++E5t9MHr5gPeITH8HtVU0U51qqoPC+I7hcy5T43aMFniq9tTNYONg6l71ssaR6jq/3yZ7IB3mOCoHoqSJGnI4/XVhzPINaJJ4zORP6VKfVtvN5evavlaDuo+tN1BpsQRwTwSWdpJ7JfdHm0Y54oDBgRgj+6N4eBtmrObueexgg7/jY4lRY1e2pWyJRCxMm4Nvt2Ctd6+GWdk6EAhElDqu9qWfQNAS4ZaIhCbgIHnZkaori7vvNBishLKf/lhR6Bfuz+qN3sUw==;Dg+AA+GwI1C5eH27FOZhNQ=="
+secured: "ai895yPqdjjuko4B8anCBHLOMT0/7MwOZ8U0iMsp7aSzSSqtvSnz1bwM0m/K9zKD3Fq2pBB8Z84hs6aSPSCwxA7nYiPVrX+WsUiPHqk3JECqGhxqHGpQBJTPvXtDyDOi5Hig5xLNSjRd1hIDShzPyhxVuP70HldF+pBbADkMDPjXAjzRX16kia92iRPsIp+IYxOJbPNEgX4BmoU6c3Y7s7gAFQsOeZVlUn477GjbQEKOIcyZJQikQgbxZ1C/t9SHxYFb77CwZXPWXFqDXyhbu1UFd/q+t42REZRrJgJ9gDruqHozi7rS5rHcfL3NPNgdLON2/TQKEdpmbS16E4WPlOJHX8Y1lSjkVsl0s7n/dto=;ow265mFFI6Mezvqi8EQowQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Next Generation Of Networks Is Driven By AI"
+    excerpt: "It's IT leaders' responsibility to ensure business continuity, employee productivity, and innovation by evolving the network operations to power and keep up with our fundamentally changed lives."
+    publishedDateTime: 2020-11-30T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence Will Revolutionize Energy, Earning Billions For Investors"
     excerpt: "The energy transformation will see an explosion of growth in Artificial Intelligence (AI) applications across the energy industry as electric grids, energy storage, and transmission systems become increasingly complex."
     publishedDateTime: 2020-11-30T14:03:00Z
@@ -77,6 +93,6 @@ related:
         height: 313
         isCached: true
 
-secured: "FTgC+JG9NwIav2EVz5Pbmgux72muDWZEKgM0Bge659pIHn05z+WzZaVHquXo+zaO61C0oQ9H59aD7emQIaABR5/Wz7zllrzfTUyROG3fFo3OmjSf9bce9RNS/NeP1YnxSoeS6fRA3TEhodpkmrbQyd9anshvnZE7nAlH5l1vMUSCKxuqxPCGWXEhs+hYJIaxhPeSIbZ9Kpq6gSozTGR2viqx5p+FVf0drpi2zyw+iXNq1Qyphq9DNw5r/xbnYEwX/RZ1pFlnWeFyYE8lAvECiS+hU3RCkWMPLs5KGT0QXeoA8V7P+XfG16UzMtviwNglMEI5O7pYvWPT2zKNn1VcpEHRSNCyS0v0yZJ4Yl6hA7s=;vdjQGYtgXYP1bs9MCqMT4w=="
+secured: "nrvDbky1nYWlQ5Gg4RCIeMaw520LYDXHWju2rabnHs0OMHpbKupYbD5aRkIodIvYHv3SArikQ85FeJKfAaT5HTLmfTMDX7uT6KzOQWLXb555LbnuZhaNSojpN7bjLqqUMuZ3CoMGDD8a2AsFg8m3aEuhoh57QcHOP9bS8+9Y5byzrPYMl3rNQ2vYQeqcT7gXej+cBjPV3dnkH6TF6koOHZl+4x+HqT/IOchqgEi9r3O/nPV1DxLZs2wk23W8YdKiUnQKUO/ID8HlbSiuOFToUkwQKLBb0ZUW++a8jdaBz31522/931ICm7BKPtKctrJZ1Mvng+1cWHq3sGdQyuu6i5ic8IJcPqaUABgcthmBI/vLw6kGbfL91XYvli0UVeWJDuz3ZLElyF3sd8IJjTBN3so4mTxRRRJJfxV7DFtFPVNowInM6MU3Q/l0MThXSnJGIX9r4o6N8HGG0lKmb0bmO/EGmgd06saosnIofdtBuLAs82R+q6bDjp4jRGSAAiLEhyHgHiNNKLmE8h/sWsVHwQ==;0grWBxppXUsQ+dlMljk+vw=="
 ---
 

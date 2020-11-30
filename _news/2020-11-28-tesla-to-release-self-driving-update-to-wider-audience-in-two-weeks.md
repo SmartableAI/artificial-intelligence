@@ -91,6 +91,17 @@ related:
         width: 3584
         height: 1598
         isCached: true
+  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
+    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
+    publishedDateTime: 2020-11-30T17:54:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
   - title: "Tesla could widen release of 'self-driving' software"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
     publishedDateTime: 2020-11-28T12:34:00Z
@@ -116,6 +127,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
+    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
+    publishedDateTime: 2020-11-30T18:10:00Z
+    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 15
 
 secured: "mNar9CjBVQJd+FU2Uhy7DqBSdajWGpEimTjA3Nm6uLfZiQixoIy2pgqYb5pluXRMDcVesD9lqfIgOo6qxynPsDDMEDztidbTxgIXD+nEzTe2Usf4G7jqyoHEFWFT1yMrRZD83lJ/cCDgrUio271jfgM+rcKkjXh2jhwqo7eUCZO5WdaYlLVSem5lyP5x2pnr3P8ZhLixok+UBbl9C5KuJN2pHSwLVbpwXp8pFF7YCRPrzuC1vl0EswYewroh37kNy0ky1hmyjxkLVqPi38nSugU88g9tlbSMP/bJ5vVAf6qonusCDJ8nPpkhPoK2E6uIaz+OY3aCyCoIX7W/1qT8OdVhcjMPuTK3u93aRZf6iG0=;4WIr/i4uSz5kNJ0vQy8ETw=="
 ---

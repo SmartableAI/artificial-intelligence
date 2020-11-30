@@ -53,11 +53,27 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 99
+    quality: 101
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/04/DeepMind-logo.png?w=1200&strip=all"
         width: 1063
         height: 400
+        isCached: true
+  - title: "DeepMind's latest AI breakthrough can accurately predict the way proteins fold"
+    excerpt: "Alphabet-owned DeepMind may be best known for building the AI that beat a world-class Go player, but the company announced another, perhaps more vital breakthrough this morning. As part of its work for the 14th Critical Assessment of Protein Structure Prediction,"
+    publishedDateTime: 2020-11-30T19:52:00Z
+    webUrl: "https://www.engadget.com/deepmind-alphafold-2-protein-folding-prediction-ai-194911146.html"
+    ampWebUrl: "https://www.engadget.com/amp/deepmind-alphafold-2-protein-folding-prediction-ai-194911146.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/deepmind-alphafold-2-protein-folding-prediction-ai-194911146.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 100
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F1e19eba0-3344-11eb-af9b-7865f1c45388&client=amp-blogside-v2&signature=aa34a46ce47370dd592a90d8f36f566c2c8d6975"
+        width: 600
+        height: 350
         isCached: true
   - title: "Alphabet’s DeepMind achieves historic new milestone in AI-based protein structure prediction"
     excerpt: "DeepMind, the AI technology company that’s part of Google parent Alphabet, has achieved a significant breakthrough in AI-based protein structure prediction. The company announced today that its ..."
@@ -94,7 +110,7 @@ related:
   - title: "DeepMind artificial intelligence cracks 50-year-old scientific riddle"
     excerpt: "A problem dating back five decades may have been cracked by artificial intelligence created in the UK, paving the way for faster development of treatments and drug discoveries. The so-called ‘protein folding problem’ has long been one of biology’s biggest challenges because there are so many of them and their 3D shapes are difficult to map out."
     publishedDateTime: 2020-11-30T15:33:00Z
-    webUrl: "https://metro.co.uk/2020/11/30/deepmind-artificial-intelligence-cracks-50-year-old-scientific-riddle-13677164/"
+    webUrl: "https://metro.co.uk/2020/11/30/deepmind-artificial-intelligence-cracks-50-year-old-scientific-riddle-13677164/?ico=related-posts"
     ampWebUrl: "https://metro.co.uk/2020/11/30/deepmind-artificial-intelligence-cracks-50-year-old-scientific-riddle-13677164/amp/"
     cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2020/11/30/deepmind-artificial-intelligence-cracks-50-year-old-scientific-riddle-13677164/amp/"
     type: article
@@ -122,6 +138,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/509cd5c3d7e66829a6cf90a7ef1f11cb3d06203a/0_78_1760_1056/master/1760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc1d5923b1628c37cb78376e40a2ca6"
         width: 600
         height: 360
+        isCached: true
+  - title: "DeepMind Solves 50-Year-Old ‘Grand Challenge' With Protein Folding A.I."
+    excerpt: "DeepMind has developed a piece of AI software called “AlphaFold” that can accurately predict the structure that proteins will fold into in a matter of days."
+    publishedDateTime: 2020-11-30T18:59:00Z
+    webUrl: "https://www.nbcnewyork.com/news/business/money-report/deepmind-solves-50-year-old-grand-challenge-with-protein-folding-a-i/2751696/?amp"
+    ampWebUrl: "https://www.nbcnewyork.com/news/business/money-report/deepmind-solves-50-year-old-grand-challenge-with-protein-folding-a-i/2751696/?amp"
+    cdnAmpWebUrl: "https://www-nbcnewyork-com.cdn.ampproject.org/c/s/www.nbcnewyork.com/news/business/money-report/deepmind-solves-50-year-old-grand-challenge-with-protein-folding-a-i/2751696/?amp"
+    type: article
+    provider:
+      name: NBC New York
+      domain: nbcnewyork.com
+    quality: 59
+    images:
+      - url: "https://media.nbcnewyork.com/2020/11/104565791-Google_DeepMind_Hassabis_Future_of_Go_2017_day1.jpg?resize=1200%2C675"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Optimizing AI and Deep Learning Performance"
     excerpt: "As AI and deep learning uses skyrocket, organizations are finding they are running these systems on similar resource as they do with high-performance"
@@ -165,7 +197,80 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DeepMind AI breaks through decades-old protein folding puzzle"
+    excerpt: "Researchers at DeepMind, Google’s artificial intelligence-focused sibling, believe they’ve now cracked the code, with a computer model that can translate a chain of amino acids into a 3D structure."
+    publishedDateTime: 2020-11-30T19:22:00Z
+    webUrl: "https://www.fiercebiotech.com/medtech/deepmind-ai-breaks-through-decades-old-protein-folding-puzzle"
+    type: article
+    provider:
+      name: FierceBiotech
+      domain: fiercebiotech.com
+    quality: 54
+    images:
+      - url: "https://qtxasset.com/fiercebiotech/1606766677/GettyImages-1138925640.jpg/GettyImages-1138925640.jpg?_fHMOTu_Uo0RK68ZSUefJ8t7oc1riBP8"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "DeepMind claims major breakthrough in understanding proteins"
+    excerpt: "DeepMind, the UK-based artificial intelligence company owned by Alphabet, has said it can predict the structure of proteins, a breakthrough that could dramatically speed up the discovery of new drugs."
+    publishedDateTime: 2020-11-30T17:09:00Z
+    webUrl: "https://www.ft.com/content/9dccac7c-6f63-4fdd-b605-526c81caae3c"
+    ampWebUrl: "https://amp.ft.com/content/9dccac7c-6f63-4fdd-b605-526c81caae3c"
+    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/9dccac7c-6f63-4fdd-b605-526c81caae3c"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+  - title: "DeepMind’s protein-folding AI stuns with a solution to one of biology’s biggest challenges"
+    excerpt: "DeepMind showed its system could quickly and accurately predict the 3-D structure of a protein from its amino acid sequence."
+    publishedDateTime: 2020-11-30T20:09:00Z
+    webUrl: "https://www.statnews.com/2020/11/30/deepmind-protein-folding-artificial-intelligence/"
+    type: article
+    provider:
+      name: STAT
+      domain: statnews.com
+    quality: 44
+    images:
+      - url: "https://www.statnews.com/wp-content/uploads/2020/11/GettyImages-1281329514-1024x576.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Genius Google DeepMind AI cracks 50-year-old riddle to treating deadly viruses and bacteria"
+    excerpt: "ARTIFICIAL intelligence has helped to solve a 50-year-old riddle that could lead to faster virus treatments and medicinal discoveries. The ‘protein folding problem’ has baffled scientists for"
+    publishedDateTime: 2020-11-30T16:45:00Z
+    webUrl: "https://www.thesun.co.uk/tech/13340453/google-deepmind-artificial-intelligence-protein/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/13340453/google-deepmind-artificial-intelligence-protein/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/13340453/google-deepmind-artificial-intelligence-protein/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 44
+  - title: "Google's DeepMind solved a mystery about protein behavior that's puzzled scientists for 50 years, and it could revolutionize drug discovery"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DeepMind, an artificial-intelligence company owned by Google, has announced a scientific breakthrough which could have a major influence on drug discovery ..."
+    publishedDateTime: 2020-11-30T18:25:00Z
+    webUrl: "https://www.businessinsider.com/google-deepmind-ai-science-protein-folding-drugs-2020-11"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 35
+    images:
+      - url: "https://i.insider.com/5fc4c61f50e71a0011557e39?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Deepmind finds biology’s ‘holy grail’ with answer to protein problem"
+    excerpt: "One of the greatest challenges in modern biology has been “largely solved” by British researchers who have developed a method to visualise the proteins that power the biological processes in our"
+    publishedDateTime: 2020-11-30T17:04:00Z
+    webUrl: "https://www.thetimes.co.uk/article/deepmind-finds-biology-s-holy-grail-with-answer-to-protein-problem-htg6s7qlq"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 34
 
-secured: "pLj0IMQZxUjm6EWckZq4FV/Cauj4Wo7SLxNQWrpuNBPr/QlEuF5c7t76pnXPhSXYw57eFln6CU3lnw/rl1eTjlc9Xbpx9xiU1P5IQ1khiAD2grwxpQuh0HKHE7JYIUO5W+z5at2n9BxR2YKyBCzYjk2hhwCjNepJw16jxVS/NK7GJf4I7tjFnmy5KlD6bZNWRrZvuaR2laNO3gXtmFfGGqCA7sCX9XTf9bFOu4IRMFKZZlIkTzb78G6rJimsfn2lnt0tmsdyGQVh1Tvr3ReD4KCDqGs9MqDz6Iarm6VbzD/45IUzUONFOLQGaUpuLs2ldZXcwDkFQNAFUQqoVc/xd4+/9tKYSa2nxchaO/b7zyo=;9PYJDd5Ob7lO23O1qkwCeg=="
+secured: "XvBv2jlx+wudRIP/B0GqRFW6JfXh7uk9Q+iZGfKaGGpi5IYvhkVkn+mR/PIDRckUOIWmZnckpSEK+imXKrGiAts6oAzcNdYaOA7ASsXIRndYhS+yny0OSj/2Qeauxu9jkh8iCpHnc/XakywVTu4Sv+1cJr5JraMFpjnSjhdV/HEC4VCBSSvVpWBXx6KiYQh3RXGxbWelBqzdiqUvBOdByYuqZD+iqJvLp9m6SGyY5l+BBxuPyoU5BwiCTzt9YMQYzq0sXFQWK8zsmpmRJ5YrG/QfgqDKTr+LrTIr6xymp566poBvbEHwsXI1lPxrI2sz778fVOAIKoirzVpHWIWz68Y2E10VwAXtC6Cxlv4NrP8Wq7nt7OyWjZKtpD8MAerIxYPdS2sSSOMD7JkhzCXksW7EvkBhTBxGJls4aEGvgWVFHwGdwiW8RA9drqnfC4vh2yjlfO5OquemoFby7DIIevRpOXQCUWUHF+aPGx+W1vtOlRYAcwFvnZbxZ0wWI0w1ObZ9xp3GOD5cD+zkWTcKUQ==;0pXna54TwxZUaU0xGYkdVQ=="
 ---
 

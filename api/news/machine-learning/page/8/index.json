@@ -2,6 +2,41 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-10-15-experian-partners-with-standard-chartered-to-drive-financial-inclusion-with-machine-learning-powering-the-next-generation-of-decisioning.md",
+      "title": "Experian partners with Standard Chartered to drive Financial Inclusion with Machine Learning, powering the next generation of Decisioning",
+      "excerpt": "Leveraging innovation in technology to provide access to credit during uncertain times to populations underserved by formal financial services. This social impact was made possible by the Bank's digit",
+      "sourceUrl": null,
+      "webUrl": "https://www.ryt9.com/en/anpi/244869",
+      "originalUrl": "https://www.ryt9.com/en/anpi/244869",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-14T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RYT9",
+        "domain": "ryt9.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-deep-neural-networks-show-promise-for-predicting-future-self-harm-based-on-clinical-notes.md",
       "title": "Deep neural networks show promise for predicting future self-harm based on clinical notes",
       "excerpt": "The team used complex artificial neural networks, a form of artificial intelligence also known as deep learning, to analyze unstructured, textual data in the electronic health record. Deep ...",

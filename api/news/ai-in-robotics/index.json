@@ -96,7 +96,7 @@
       "originalUrl": "https://news.mit.edu/2020/computer-aided-robot-design-1130",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -615,8 +615,8 @@
       "title": "Robots invade the construction site",
       "excerpt": "The robot has been deployed, under Arevalo’s supervision, at several construction sites in recent months, including the new Harvey Milk Terminal at San Francisco International Airport and an office building connected to the Chase Center arena in San Francisco.",
       "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80",
-      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/?comments=1&start=80",
+      "webUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "originalUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -633,8 +633,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2020/11/robots-invade-the-construction-site/",
       "publishedDateTime": "2020-11-22T03:45:00-08:00",
       "updatedDateTime": null,
       "provider": {

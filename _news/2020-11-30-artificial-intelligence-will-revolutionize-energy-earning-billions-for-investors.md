@@ -46,6 +46,22 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "The Next Generation Of Networks Is Driven By AI"
+    excerpt: "It's IT leaders' responsibility to ensure business continuity, employee productivity, and innovation by evolving the network operations to power and keep up with our fundamentally changed lives."
+    publishedDateTime: 2020-11-30T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New AI solution that can determine the shape of proteins could 'revolutionize' medical research"
     excerpt: "DeepMind’s AI solution, AlphaFold, has succeeded in determining the shape of proteins with a level of accuracy similar to that of laboratory experiments."
     publishedDateTime: 2020-11-30T15:35:00Z

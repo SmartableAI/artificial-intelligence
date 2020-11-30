@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveil
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "SK Telecom Unveils its Own AI Chip and New Plans for AI Semiconductor Business"
-    excerpt: "SK Telecom on Wednesday unveiled its self-developed artificial intelligence (AI) chip named ‘SAPEON X220’ and shared its AI semiconductor business vision"
-    publishedDateTime: 2020-11-26T01:26:00Z
-    webUrl: "https://www.thefastmode.com/technology-solutions/18579-sk-telecom-unveils-its-own-ai-chip-and-new-plans-for-ai-semiconductor-business"
-    type: article
-    provider:
-      name: Deep
-      domain: thefastmode.com
-    quality: 50
-    images:
-      - url: "https://www.thefastmode.com/media/k2/items/src/4cfce36fc7e35f8c2190d159032de5e6.jpg?t=20201126_012312"
-        width: 752
-        height: 408
-        isCached: true
 
 secured: "R50ivgmC17iqJ6drcjcPNSdAVkWXOLvCsCKCPboE1L+f+xRwsYdo/6R5ajAQiRq36B9UVfI3SCkZ4vGjPf1h0TQ9UuJ1b6u6KIS6vLNIli3PIGPGMC/N8CBj1LhK7NeDOWOJ1sidBwWKwecjDQGVBs93BZ/AN2uSe/voATNWI22JHIwPGjaPXl3OigoXteckCDcSG7VYmOfG/L/P+jdDuD1QX60Yx449gRbxb+1XQwazrslfA69cnWEdzt81CDLj3UAKnGhTahZMdaEXdir4CG+E5IY4Fn9+jlCmRciZFrzV+RGAl77TgrTmp8JLMweHqxlKXVensRwKqXd+bz83P8kITio1zXWLoZIz5yfgduc=;yugYDA6KCpSo+nKs23jDlg=="
 ---

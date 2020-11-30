@@ -10,7 +10,7 @@
       "originalUrl": "https://www.slashgear.com/deepmind-ai-makes-a-science-shaking-protein-breakthrough-30649203/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 194,
+      "heat": 274,
       "tags": null,
       "images": [
         {
@@ -103,6 +103,58 @@
       "topics": [
         "Google AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology.md",
+      "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
+      "excerpt": "In a major scientific advance, the latest version of our AI systemAlphaFoldhas been recognised as a solution to the protein folding problem by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP).",
+      "sourceUrl": null,
+      "webUrl": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
+      "originalUrl": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/NxvP8uqle7ps9_pc42gx-EmqzbcN_cZKu82VuX2XdXdl0toT77YccuxQROhdygQXSElcCy2RRHHzvOOf9pXviEffJ-768DxepKPsZgw",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -698,10 +750,10 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "TensorFlow"
       ]
     },
     {
@@ -1477,49 +1529,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-04-google-acquires-deepmind-an-ai-development-company-for-400-million.md",
-      "title": "Google acquires Deepmind, an AI development company for $400 million",
-      "excerpt": "Google has reportedly purchased Deepmind, a company specializing in Artificial Intelligence based out of London, England. The purchase is worth a reported $400 million USD, although that figure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/3/5/35093_1_google_acquires_deepmind_an_ai_development_company_for_400_million_full.jpg",
-          "width": 800,
-          "height": 590,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
-      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
-      "publishedDateTime": "2020-11-03T10:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

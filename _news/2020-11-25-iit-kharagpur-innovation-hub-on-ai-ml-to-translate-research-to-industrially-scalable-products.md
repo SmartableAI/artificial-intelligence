@@ -6,9 +6,6 @@ publishedDateTime: 2020-11-25T10:40:00Z
 originalUrl: "https://www.ndtv.com/education/iit-kharagpur-innovation-hub-on-ai-ml-translate-research-industrially-scalable-products"
 webUrl: "https://www.ndtv.com/education/iit-kharagpur-innovation-hub-on-ai-ml-translate-research-industrially-scalable-products"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
   name: NDTV
@@ -19,31 +16,12 @@ topics:
   - AI
   - Machine Learning
 
-related:
-  - title: "AI & ML Hub set up by IIT Kharagpur under National Mission on Interdisciplinary Cyber-Physical Systems"
-    excerpt: "IIT Kharagpur, India’s premier institute of learning, recently announced that it is all set to transform the nation’s industrial sector with scalable application of Artificial Intelligence (AI) and Machine Learning (ML) in Cyber-Physical Systems (CPS) under the National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)."
-    publishedDateTime: 2020-11-26T09:23:00Z
-    webUrl: "https://www.indiablooms.com/finance-details/12975/ai-ml-hub-set-up-by-iit-kharagpur-under-national-mission-on-interdisciplinary-cyber-physical-systems.html"
-    type: article
-    provider:
-      name: India Blooms
-      domain: indiablooms.com
-    quality: 40
-    images:
-      - url: "https://www.indiablooms.com/finance_pic/2020/cfa41593299988f3c48c60a645490f0a.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "IIT Kharagpur Sets Up AI & ML Hub To Transform Industrial Sector With Scalable Application"
-    excerpt: "IIT Kharagpur has announced setting up an innovation hub on AI and ML to translate academic researches to industrially scalable products."
-    publishedDateTime: 2020-11-25T12:25:00Z
-    webUrl: "https://analyticsindiamag.com/iit-kharagpur-sets-up-ai-ml-hub-to-transform-industrial-sector-with-scalable-application/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 26
+images:
+  - url: "https://cache.careers360.mobi/media/article_images/2020/11/25/i46idagg_education_625x300_06_March_20.jpg"
+    width: 625
+    height: 400
+    isCached: true
 
-secured: "XhAplcNzA8FY5RdrGQG9X7ocUEbOPH9xp7ITcXZ5og1fo0YJ50soP885UIBiL6GG8axiGejdC29sjgNfOj9NEde7mf/e3NkHVYpp6GbiuZlt+J+ho4i/uS727NKq3s79z2XOFpvOow/5M2mWXg/zOjAOyfelIuhhuSRq8VeM2SMq3iApNkhJuiH2sSH1R169iHz8WGUYIq9DAy0VJC4BiHa8+q4w5MFfyzc69EeWQf2zdIRa9YCdFGqrjwSB0QcUBWfPsKY90kRmDF0+7n/T87DpoIVJL2t9PT9c1K7S2k1dIfuyL+Wuf8V4N+lqUz8CSLfQDjOn/nM1vZGPaVHvmM/bMLM3xVDi7ZbBvfkDZC7GZl/Te6f4wxtBK3Z/DPRyQu0hwSYlu0tqrckja4PfP2MIZf/rYSXxb8Z/xb8mzBvGOKz3bp8mKBhHegQ5kQozgMG1sG/axlzf5tK3oMI3Ooy9f+HNX8MOq7xfXQnxTfiQpuPaXaLoZQIFYZMur8UlewDjVCIt6EE2WxCIsUM9+w==;j5W/lK27uPWnf0Mv0d0Reg=="
+secured: "uUgMcvhoalXVe9UIwGfdMyUfpRfa56C/8CudaC/h/acm09Ks7Mh0m5XBSrVZrExd0IGE1/QrJ9SMCsHWGZ7HlGQmuPdsZ81Q8NQz7T+P4VH3r/d5k8Scc4DqGfITpCVcvU4wE87SH/KwY2HijML5BHO6UZKjz/IrGg+u3njY4FON2778C9CBl6HFDaavSM6KAF6creJR7Q/mCKpF8VaOnJla6YunD4HaCQForA44NolBWO4+tAWse3toH3z0Ihjth5mBRQu+YU2+bjZrrN/3o2DC6eBeXbeTx/7JBikJN7zjpfafALazdttbYHwmCtU5ri5WkMeYFLGpeDbFo9DnX94K4DjIEQ1qpR+5M8ko1SM=;JAVZzbqh0VSscQS6e9YLeQ=="
 ---
 

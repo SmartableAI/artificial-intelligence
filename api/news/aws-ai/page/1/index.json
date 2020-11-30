@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-11-30-real-time-anomaly-detection-for-amazon-connect-call-quality-using-amazon-es.md",
+      "title": "Real-time anomaly detection for Amazon Connect call quality using Amazon ES",
+      "excerpt": "If your contact center is serving calls over the internet, network metrics like packet loss, jitter, and round-trip time are key to understanding call quality. In the post Easily monitor call quality with Amazon Connect, we introduced a solution that captures real-time metrics from the Amazon Connect",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-anomaly-detection-for-amazon-connect-call-quality-using-amazon-es/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/real-time-anomaly-detection-for-amazon-connect-call-quality-using-amazon-es/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/1-AnomalyhistoryChart.jpg",
+          "width": 800,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T12:49:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker.md",
+      "title": "Analyzing data stored in Amazon DocumentDB (with MongoDB compatibility) using Amazon Sagemaker",
+      "excerpt": "One of the challenges in data science is getting access to operational or real-time data, which is often stored in operational database systems. Being able to connect data science tools to operational data easily and efficiently unleashes enormous potential for gaining insights from real-time data. In",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/21/Analyzing-data-stored-in-Amazon-1.jpg",
+          "width": 681,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T09:48:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation.md",
       "title": "Creating Amazon SageMaker Studio domains and user profiles using AWS CloudFormation",
       "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, tune, debug, deploy, and monitor models. In this post, we demonstrate",
@@ -318,19 +422,19 @@
     {
       "path": "_news/2020-11-25-aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow.md",
       "title": "AWS Announces General Availability of Amazon Managed Workflows for Apache Airflow",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Managed Workflows for Apache Airflow (MWAA), a new managed service that makes it easy for data engineers to execute data processing workflows in the cloud.",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced the general availability of Amazon Managed Workflows for",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-e083a5835d6c40839b92ae0dd2a473c6",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-products-and-services-e083a5835d6c40839b92ae0dd2a473c6",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-amazon-managed-workflows-for-apache-airflow-2020-11-24",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -340,12 +444,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T12:53:00-08:00",
+      "publishedDateTime": "2020-11-24T13:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1324,110 +1437,6 @@
       "ampWebUrl": "https://www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
       "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
       "publishedDateTime": "2020-11-14T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix.md",
-      "title": "Predicting qualification ranking based on practice session performance for Formula 1 Grand Prix",
-      "excerpt": "If you’re a Formula 1 (F1) fan, have you ever wondered why F1 teams have very different performances between qualifying and practice sessions? Why do they have multiple practice sessions in the first place? Can practice session results actually tell something about the upcoming qualifying race? In this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predicting-qualification-ranking-based-on-practice-session-performance-for-formula-1-grand-prix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/13/F1-WHITE.png",
-          "width": 800,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T18:10:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features.md",
-      "title": "Alexa now runs on more powerful cloud instances, opening the door for complex new features",
-      "excerpt": "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "originalUrl": "https://www.techradar.com/au/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/au/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "publishedDateTime": "2020-11-13T15:07:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",

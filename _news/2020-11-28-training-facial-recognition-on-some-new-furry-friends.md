@@ -7,8 +7,8 @@ originalUrl: "https://www.thetimes-tribune.com/news/health-science/training-faci
 webUrl: "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Scranton Times-Tribune
@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Madison Common Council to consider banning facial recognition software in most cases"
+    excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
+    publishedDateTime: 2020-11-30T16:17:00Z
+    webUrl: "https://wkow.com/2020/11/30/madison-common-council-to-consider-banning-facial-recognition-software-in-most-cases/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 12
 
 secured: "hGWo1A5d/PobsK7G9C25/ho+5BkXfAl1dzcPk/0GiNX+VYlXbRsTfs5BWnbd4LjJcEVFy3m6r+zbYOniTZS0Hwnx9c+1Jb2kfvh2pHZ/E/wmqGZoO0418SFf+EWK9bpyjNjxkbf3OXot5o8WQG9OkGOPz54cxH8uDm2J+ro7z/7iPZG2vbX92UPHtUg8eqtElAjCmVSy7dppiZCkCjMhx5qsfUXKM2ucgUEh8bki1NocuMq4bu5XTtsoi6Bpv6ZJ5vXU8GmP1uzxNuavZ8dSnJ9udtDS6e82lfb1RKOsWGHNwcuZV0YD+fUq+tayR9XZY3aIcc5pi63KGa7W8PupefkoZ6h5k6UI73pdzHXtYHs=;pwoGiaEhaINxhoAcbLs/Yw=="
 ---

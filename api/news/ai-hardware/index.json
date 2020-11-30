@@ -98,7 +98,7 @@
       "originalUrl": "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -215,8 +215,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1194,6 +1194,40 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-take-the-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputing-fast-track.md",
+      "title": "Take the A100 Train: HPC Centers Worldwide Jump Aboard NVIDIA AI Supercomputing Fast Track",
+      "excerpt": "Supercomputing centers worldwide are onboarding NVIDIA Ampere GPU architecture to serve the growing demands of heftier AI models for everything from drug discovery to energy research. Joining this movement,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/take-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputi",
+      "originalUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/take-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputi",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T04:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cadalyst",
+        "domain": "cadalyst.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
       "title": "SimpleMachines unveils high performance chip for AI and ML applications",
       "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
@@ -1375,58 +1409,6 @@
         "name": "Geekzone",
         "domain": "geekzone.co.nz",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus.md",
-      "title": "NVIDIA built an epic AI supercomputer from four new A100 80GB GPUs",
-      "excerpt": "NVIDIA has revealed its newest workstation, and if you’ve always wanted a gleaming gold obelisk capable of putting petascale power on your desktop, the DGX Station A100 should do the trick.",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
-      "originalUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/nvidia-dgx-station-a100.jpg",
-          "width": 1680,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/nvidia-built-an-epic-ai-supercomputer-from-four-new-a100-80gb-gpus-16647405/amp/",
-      "publishedDateTime": "2020-11-16T08:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

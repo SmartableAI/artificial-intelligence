@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-m
 webUrl: "https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,30 @@ images:
     width: 1200
     height: 1600
     isCached: true
+
+related:
+  - title: "Facebook acquires marketing messaging automation startup Kustomer"
+    excerpt: "On the AI side of the equation ... The Wall Street Journal reported that the deal announced today could value the startup at more than $1 billion. Birnbaum, Suriel, and the rest of the Kustomer ..."
+    publishedDateTime: 2020-11-30T17:29:00Z
+    webUrl: "https://venturebeat.com/2020/11/30/facebook-acquires-marketing-messaging-automation-startup-kustomer/"
+    ampWebUrl: "https://venturebeat.com/2020/11/30/facebook-acquires-marketing-messaging-automation-startup-kustomer/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/facebook-acquires-marketing-messaging-automation-startup-kustomer/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 69
+  - title: "Facebook acquires messaging marketing automation startup Kustomer – Jaweb"
+    excerpt: "Facebook today announced it will acquire Kustomer, a New York-based customer relationship management startup, for an undisclosed amount. When the deal closes, Facebook says it’ll natively integrate Kustomer’s tools with its messaging platforms,"
+    publishedDateTime: 2020-11-30T17:43:00Z
+    webUrl: "https://elmoudjaweb.com/facebook-acquires-messaging-marketing-automation-startup-kustomer-jaweb/"
+    ampWebUrl: "https://elmoudjaweb.com/facebook-acquires-messaging-marketing-automation-startup-kustomer-jaweb/?amp"
+    cdnAmpWebUrl: "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/facebook-acquires-messaging-marketing-automation-startup-kustomer-jaweb/?amp"
+    type: article
+    provider:
+      name: Elmoudjaweb
+      domain: elmoudjaweb.com
+    quality: 38
 
 secured: "YP4yB53eD2KgWWZG9FOb7hyB5afcvIDj1KGVvaCFJHK0bTri532uK6pfLVaOg71nApxofmh7VSm1YknZdf0WfYTt7BZ1LnBnvKSgSzGl09SZE2SXB69fWF497nCO2t3PjYwAhL9LgXis4JN9iNMdYYc+eewMy06pq1DWxFqaQ0goxoD/FRV3wcfqRq+lxtPH+yHY7FEieUf+A0io4qQQBUkWVNCXHUMaDkROiYfY2nowiajMr8YAVfSZLE6ks5w+/cPbJtnskS2cg/jhsuYamkcUp/5pUoAuOp8c5axtgrTnvbumPrxE8TVcs9k9RgS0IzEzdvqWJBdXPhdkw/GPK11wvgKZG6XZSFHJgLIYsJ6MQpuMvajuLHfRaN3LYbFZJnG0+2U9khT4zm+y7iKg7nanQ0fJuq9ke4BNt90DMzU5mju3r5vo8fKza/mBGr/kd+46dohj9hmKFJLOF1HqwqiEA19VJr0z9Asgv96LGaWIxjRsPeZf/1US/YhkII3Vj6A4NkSj4WLe9aUPO+Ibmw==;UpUrt9vIX2xPtwPLWfS8ug=="
 ---

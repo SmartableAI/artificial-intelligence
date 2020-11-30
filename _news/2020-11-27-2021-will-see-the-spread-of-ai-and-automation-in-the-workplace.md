@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/2021-will-see-the-sp
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/2021-will-see-the-spread-of-ai-and-automation-in-the-workplace/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -46,6 +46,15 @@ related:
         width: 763
         height: 509
         isCached: true
+  - title: "Artificial Intelligence and the Search for Life in the Universe"
+    excerpt: "Join the John W. Kluge Center at the Library of Congress for a discussion of the latest thinking on the search for life and intelligence outside of Earth on December 3, 2020."
+    publishedDateTime: 2020-11-30T18:00:00Z
+    webUrl: "https://astrobiology.nasa.gov/news/artificial-intelligence-and-the-search-for-life-in-the-universe/"
+    type: article
+    provider:
+      name: NASA
+      domain: nasa.gov
+    quality: 17
 
 secured: "xNRiRea+lGBd/fK37CAz6lgfS0poOz4tvRQxqpa49PCGbL8NQzSJ4cIfTvOkeXo1hnTHaAmj+iFgusExjIDafyBYc4U/qFw21cx0sXz9byVX7ryDWQVdvP54H+5MGRpcvko2wLFb675BdWZKfrDuxR68RvDfaO4oOtvLAerytGHbhjNmWvH6aMidpwBIM2w+wx/QXCeXgvvVfgV4G+YDUBiN2URdMBa644/lLAVqY4+wUDT45s8zJApjlQ6NGycBaH4JMBub+aeKzBZ14nxJ+G+3a8na7YK1jjbl3yAMLN+LVTHftNuJg3HzciZEiTen8h/F245cKmOF7twNSYcIPPAKqjJlNmTOTsFOeGG/AK7qiUmjU8paz6vRcfTK80e8d8JCnUgQJNSS8hGc4H1F6jvDSuIKLdPcauJfRxTEbOuNnduJBNgAbopr3BKNTM1wa+6/FhKQ1c07f04SzrgWdFaKGidCcNNb0PCue2b/ioz6MseBAxwNVunenD1RPUHOYSKPRGsu0zOqh/dNBeUK5g==;CD1ofZj2nDMyYFmvSoNvnQ=="
 ---

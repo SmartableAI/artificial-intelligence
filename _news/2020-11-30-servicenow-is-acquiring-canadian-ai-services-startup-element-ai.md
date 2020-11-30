@@ -88,6 +88,17 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "ServiceNow to Buy Element AI to Strengthen Workflow Platform"
+    excerpt: "ServiceNow said it agreed to buy Element AI to strengthen its effort to build the 'world’s most intelligent workflow platform.'"
+    publishedDateTime: 2020-11-30T18:14:00Z
+    webUrl: "https://www.thestreet.com/investing/servicenow-buys-element-ai"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/servicenow-buys-element-ai"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/servicenow-buys-element-ai"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
   - title: "ServiceNow to acquire AI pioneer Element AI"
     excerpt: "(NYSE:NOW) has signed an agreement to acquire Element AI, an artificial intelligence company. NOW to establish an AI innovation Hub in Canada. Element AI was founded in"
     publishedDateTime: 2020-11-30T14:16:00Z

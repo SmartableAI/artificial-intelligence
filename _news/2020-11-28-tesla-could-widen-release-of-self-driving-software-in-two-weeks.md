@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN288053"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053"
 type: article
 quality: 89
-heat: 149
+heat: 169
 published: true
 
 provider:
@@ -79,6 +79,17 @@ related:
         width: 3584
         height: 1598
         isCached: true
+  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
+    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
+    publishedDateTime: 2020-11-30T17:54:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 69
   - title: "Tesla could widen release of 'self-driving' software"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
     publishedDateTime: 2020-11-28T12:34:00Z
@@ -120,6 +131,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
+    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
+    publishedDateTime: 2020-11-30T18:10:00Z
+    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 15
 
 secured: "hbWQ1XY5hs45F7remobNJOds5r9QU5jdl/s2Q+kAgV5jDPrKjzVyK2tluypVoEU6F3iLBMZn3idsnBrUGAGplTN08Ajp73PrsJbiB8g+Gl3ZdTzSWwq2ZXCtEBVDLcm8/ZcVZxO7HAhN8ebY+6UoeQ1xuuTFGEBIjaxudewVfw8kDjWKDRzFKFf9iYkF3sJWQHYSxePwXg9ioA1RYl65DppeEjeJ1S7ZsapOiv0dxjnX8zqov4x315VR9o1rh8wtGE7qoVw0KpyjzLSf2xxC18OwfOLGRzXxexMYWj6bYbpXTGUCl74/bMzzZiOW963dk/x9S7u6715HdkW+dKJNhNECdulNAF/96EZf4G7z97kDeJhujHip7oh9QiOF92DkO38gTbnFthii+mfdl4512Rcij5DmqlqpD4NdUmKS+MmlkbgpvWr0st3HJ9lnzphchyfWf1Vimbj504pPxA78TV0sYSt+mHunbtEI+uvi3H52JXPNPdyZte+Hbo4aTZqb8fpgtdmupe6gNhVVpltbfQ==;aaIO0MlLvx5ESFxCuwCqSQ=="
 ---

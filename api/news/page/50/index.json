@@ -2,6 +2,601 @@
   "page": 50,
   "value": [
     {
+      "path": "_news/2020-10-22-leave-positive-tracks-wayves-self-driving-solution-seeks-to-protect-people-and-the-planet.md",
+      "title": "‘Leave positive tracks’: Wayve’s self-driving solution seeks to protect people and the planet",
+      "excerpt": "Anyway, back to our mental trek.) Picture the world’s cities by the end of this decade: Streets, intersections and roundabouts are a safer, cleaner, quieter and vastly more organized stream of connected, self-driving electric vehicles. Block by block ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/transform/leave-positive-tracks-wayve-self-driving-solution-seeks-protect-people-planet/",
+      "originalUrl": "https://news.microsoft.com/transform/leave-positive-tracks-wayve-self-driving-solution-seeks-protect-people-planet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/382/2020/10/alex_kendall_2-1024x768.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-swarm-when-artificial-intelligence-decodes-end-time-prophecies-ebook-morris-guy-amazoncouk-kindle-store.md",
+      "title": "SWARM: When Artificial Intelligence Decodes End Time Prophecies eBook: Morris, Guy: Amazon.co.uk: Kindle Store",
+      "excerpt": "Swarm is an action-packed thriller with advanced artificial intelligence weapons set in a divided, post-pandemic country struggling to maintain social and national security. China has unleashed a devastating AI internet virus forcing antihero hacker Derek Taylor into a deadly conspiracy of digital identity control and end-time prophecy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.amazon.co.uk/SWARM-Artificial-Intelligence-Decodes-Prophecies-ebook/dp/B08LCN41YV",
+      "originalUrl": "https://www.amazon.co.uk/SWARM-Artificial-Intelligence-Decodes-Prophecies-ebook/dp/B08LCN41YV",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-reorg._CB407363181_.png",
+          "width": 350,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Amazon Associates UK",
+        "domain": "amazon.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-tesla-full-self-driving-vehicles-cant-drive-themselves.md",
+      "title": "Tesla ‘full self-driving’ vehicles can’t drive themselves",
+      "excerpt": "DETROIT >> Earlier this week, Tesla sent out its “full self-driving” software to a small group of owners who will test it on public roads. But buried on its website is a disclaimer that the $8 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
+      "originalUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.staradvertiser.com/wp-content/uploads/2020/10/web1_10562289-135a11bded104a2cbee932740c5733a6.jpg",
+          "width": 760,
+          "height": 427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
+      "cdnAmpWebUrl": "https://www-staradvertiser-com.cdn.ampproject.org/c/s/www.staradvertiser.com/2020/10/22/news/tesla-full-self-driving-vehicles-cant-drive-themselves/amp/",
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Honolulu Star-Advertiser",
+        "domain": "staradvertiser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-tesla-is-increasing-price-of-full-self-driving-package-to-a-whopping-10000.md",
+      "title": "Tesla is increasing price of Full Self-Driving package to a whopping $10,000",
+      "excerpt": "Tesla indicates that it is about to increase the price of its Full Self-Driving package to a whopping $10,000 and yet, that’s a good deal according to Elon Musk. The decision to pre-sell a ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/",
+      "originalUrl": "https://electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/10/Tesla-Full-self-driving-Beta.jpg?quality=82&strip=all",
+          "width": 2794,
+          "height": 1172,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/10/22/tesla-increasing-price-full-self-driving-package/amp/",
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-why-most-organizations-investments-in-ai-fall-flat.md",
+      "title": "Why Most Organizations’ Investments in AI Fall Flat",
+      "excerpt": "With how pervasive artificial intelligence (AI) is these days, executives—up to 85% of executives, in fact—know AI can fundamentally change their businesses. Organizations can look to use AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/sponsored/2020/10/why-most-organizations-investments-in-ai-fall-flat",
+      "originalUrl": "https://hbr.org/sponsored/2020/10/why-most-organizations-investments-in-ai-fall-flat",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/GettyImages-1169108704.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-cruise-gm-to-seek-us-approval-for-vehicle-with-no-pedal-or-steering-wheel.md",
+      "title": "Cruise, GM to seek U.S. approval for vehicle with no pedal or steering wheel",
+      "excerpt": "Self-driving car maker Cruise said on Wednesday it and majority shareholder General Motors Co would seek U.S. regulatory approval in coming months to deploy a limited number of Cruise Origin vehicles without steering wheels or pedals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/cruise-gm-seek-us-approval-vehicle-no-pedal-or-steering-wheel",
+      "originalUrl": "https://www.reuters.com/article/us-autonomous-cruise-nhtsa-idCAKBN2762SP",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Cruise-Origin-in-SF%27s-Castro-District-%28002%29.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T16:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-conversational-ai-based-on-nonverbal-cues-can-be-more-effective.md",
+      "title": "Conversational AI Based On Nonverbal Cues Can Be More Effective",
+      "excerpt": "Cogito, a Boston-based AI company conceived from technology and research out of the MIT Media Lab, uses voice-based AI to analyze behavioral cues as well as the content of the conversation to provide in-the-moment feedback during conversations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/",
+      "originalUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90bf68ebc59509cf797df0%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/10/21/conversational-ai-based-on-nonverbal-cues-can-be-more-effective/amp/",
+      "publishedDateTime": "2020-10-21T16:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-the-2020-data-and-ai-landscape.md",
+      "title": "The 2020 data and AI landscape",
+      "excerpt": "Datarobot acquired Paxata, which enables it to cover the data prep phase of the data lifecycle, expanding from its core autoML roots. A few years into the resurgence of ML/AI as a major enterprise ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "originalUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/data_AI_landscape.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/the-2020-data-and-ai-landscape/amp/",
+      "publishedDateTime": "2020-10-21T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials.md",
+      "title": "Ben-Gurion University Researchers Develop Machine Learning Platform to Streamline Clinical Trials",
+      "excerpt": "Gurion University of the Negev (BGU) have developed a novel platform to streamline clinical trials, lower costs, and increase the efficiency and success rate of the drug or medical device development process.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ben-gurion-university-researchers-develop-machine-learning-platform-to-streamline-clinical-trials-1029704317",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1317229/BGN_Technologies_Boaz_Lerner.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T15:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-21-using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints.md",
+      "title": "Using Amazon SageMaker inference pipelines with multi-model endpoints",
+      "excerpt": "Businesses are increasingly deploying multiple machine learning (ML) models to serve precise and accurate predictions to their consumers. Consider a media company that wants to provide recommendations to its subscribers. The company may want to employ different custom models for recommending different",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/using-amazon-sagemaker-inference-pipelines-with-multi-model-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/10/20/1-Diagram-1.jpg",
+          "width": 900,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-21T15:36:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-mit-seeks-to-resurrect-dead-languages-with-machine-learning.md",
+      "title": "MIT seeks to resurrect 'dead' languages with machine learning",
+      "excerpt": "By implementing a new translation system and a bit of detective work, researchers hope to give old indecipherable languages a new voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "originalUrl": "https://www.cnet.com/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet4.cbsistatic.com/img/oIgSdZTaU-UxA48WUT70KtAh2ZM=/1200x630/2020/10/21/bbfec165-3dcb-4d55-b8aa-493c200f8cb2/gettyimages-1131558568.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/mit-seeks-to-resurrect-dead-languages-with-machine-learning/",
+      "publishedDateTime": "2020-10-21T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-22-new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads.md",
+      "title": "New MLPerf Data Shows Competition Increases In AI, But NVIDIA Still Leads",
+      "excerpt": "Like the latest training results, which were announced in July, the new inference numbers show an increase in the number of companies submitting and an increased number of platforms and workloads supported.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a348132e6eddbd3811cb%2F0x0.jpg",
+          "width": 1200,
+          "height": 974,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/10/21/new-mlperf-data-shows-competition-increases-in-ai-but-nvidia-still-leads/amp/",
+      "publishedDateTime": "2020-10-21T15:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2020-10-22-new-ai-powered-sensor-measures-starlight-distortion-to-help-discover-new-planets.md",
       "title": "New AI-powered sensor measures starlight distortion to help discover new planets",
       "excerpt": "The \"photonic wavefront sensor\" helps correct the distortion of starlight caused by observing planets through optical telescopes.",
@@ -615,589 +1210,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-wrike-launches-new-ai-tools-to-keep-your-projects-on-track.md",
-      "title": "Wrike launches new AI tools to keep your projects on track",
-      "excerpt": "The way Wrike is now using AI falls into three categories ... To do this, it uses basic information like start and end dates, but more importantly, it looks at the prior outcomes of similar ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/10/21/wrike-launches-new-ai-tools-to-keep-your-projects-on-track/",
-      "originalUrl": "https://techcrunch.com/2020/10/21/wrike-launches-new-ai-tools-to-keep-your-projects-on-track/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/10/Project-Risk-Prediction.png?w=387",
-          "width": 387,
-          "height": 679,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/10/21/wrike-launches-new-ai-tools-to-keep-your-projects-on-track/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/10/21/wrike-launches-new-ai-tools-to-keep-your-projects-on-track/amp/",
-      "publishedDateTime": "2020-10-21T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-constant-claims-2020-ai-techaward-for-loss-mitigation-tool.md",
-      "title": "Constant claims 2020 AI TechAward for loss mitigation tool",
-      "excerpt": "Constant has a reason to cheer this week. The fintech and automated loss mitigation provider received a 2020 AI TechAward, which celebrates technical innovation, adoption and reception in the artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoremarketing.com/autofinjournal/constant-claims-2020-ai-techaward-loss-mitigation-tool",
-      "originalUrl": "https://www.autoremarketing.com/autofinjournal/constant-claims-2020-ai-techaward-loss-mitigation-tool",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.autoremarketing.com/sites/default/files/AI%20Tech%20Awards%20for%20web.png",
-          "width": 880,
-          "height": 495,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto Remarketing",
-        "domain": "autoremarketing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-google-fintech-group-unifiedpost-team-up-on-ai-data-capture.md",
-      "title": "Google, FinTech group Unifiedpost team up on AI data capture",
-      "excerpt": "a FinTech organization with a presence in 15 countries. The company handles procurement documents for over 400,000 small and medium-sized businesses and more than 250 enterprise players, a time-consuming and complicated task -- but it is thought that AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "originalUrl": "https://www.zdnet.com/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet3.cbsistatic.com/hub/i/r/2020/10/19/571138b0-7f46-499a-8e83-fda88fa825cb/thumbnail/1200x675/28adbdcfd037c2e23dea5f7022ad6a15/what-google-cloud-platform-is-and-why-yo-5f8850a547719e19b06f12fd-1-oct-19-2020-18-24-43-poster.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-fintech-group-unifiedpost-team-up-on-ai-data-capture/",
-      "publishedDateTime": "2020-10-21T09:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time.md",
-      "title": "Acer claims SigridWave AI can translate gaming voice comms in real time",
-      "excerpt": "The AI has been trained with 1 000 hours of game-centric ... We’re going to keep a close eye on this service as it looks rather promising, provided it can translate more than two languages of course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/",
-      "originalUrl": "https://www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2020/10/SigridWave_960x720.jpg",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/10/21/acer-claims-sigridwave-ai-can-translate-gaming-voice-comms-in-real-time/amp/",
-      "publishedDateTime": "2020-10-21T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-how-ai-can-help-boost-alternative-and-renewable-energy-use.md",
-      "title": "How AI can help boost alternative and renewable energy use",
-      "excerpt": "The challenge of inconsistent flow of wind and solar energy is getting help from artificial intelligence, helping companies predict and adapt, saving them money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "originalUrl": "https://www.techrepublic.com/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr3.cbsistatic.com/hub/i/r/2020/10/21/88c374fe-8fa8-49a9-9b4c-fc2a7a881400/resize/1200x/2bedb66f52c7d89171a70fedf5977a96/istock-1268370995.jpg",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-can-help-boost-alternative-and-renewable-energy-use/",
-      "publishedDateTime": "2020-10-21T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-global-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-region-researchandmarketscom.md",
-      "title": "Global Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Region - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Global Computer Vision Market by Product Type, Component, Application, Vertical and Region: Industry Analysis and Forecast 2020-2026\" report has been added to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201021005593/en/",
-      "originalUrl": "https://www.businesswire.com/news/home/20201021005593/en/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201021005593/en/371054/23/ResearchAndMarkets_800px.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-21T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-landing-ai-launches-product-inspection-platform-for-manufacturers.md",
-      "title": "Landing AI launches product inspection platform for manufacturers",
-      "excerpt": "and created the AI Startup fund to invest $175 million in AI startups. “I feel like this is where the field of AI needs to go: Rather than highly-skilled engineers at Landing AI or Google or ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/landinglens.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/landing-ai-launches-product-inspection-platform-for-manufacturers/amp/",
-      "publishedDateTime": "2020-10-21T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-kite-expands-its-ai-code-completions-from-2-to-13-programming-languages.md",
-      "title": "Kite expands its AI code completions from 2 to 13 programming languages",
-      "excerpt": "Kite's AI code completion supports programming languages Python, JavaScript, TypeScript, Java, HTML, CSS, Go, C, C#, C++, Objective C, Kotlin, and Scala.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
-      "originalUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/kite-11-more-programming-languages.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/21/kite-ai-code-completion-python-javascript-typescript-java-html-css-go-c-kotlin-scala/amp/",
-      "publishedDateTime": "2020-10-21T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-activists-turn-facial-recognition-tools-against-the-police.md",
-      "title": "Activists Turn Facial Recognition Tools Against the Police",
-      "excerpt": "met virtually to consider sweeping legislation outlawing the use of facial recognition technology. The bills would not only bar the police from using it to unmask protesters and individuals captured in surveillance imagery; they would also prevent ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
-      "originalUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 194,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/10/21/business/21coprecognition-01/21coprecognition-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/10/21/technology/facial-recognition-police.amp.html",
-      "publishedDateTime": "2020-10-21T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
-      "title": "Neural pathway crucial to successful rapid object recognition in primates",
-      "excerpt": "The findings enrich existing models of the neural circuitry involved in visual perception and help to further unravel the computational code for solving object recognition in the primate brain.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2020/neuralpathwa.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-10-neural-pathway-crucial-successful-rapid.amp",
-      "publishedDateTime": "2020-10-21T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-if-the-future-of-skincare-is-ai-generated-serums-ill-pass.md",
-      "title": "If the Future of Skincare Is AI-Generated Serums I'll Pass",
-      "excerpt": "The beauty industry is hoping AI can fuel a new revolution. But so far its just watery gels I'm not sure actually work.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481",
-      "originalUrl": "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/v7tmbtskzdbvvtqzzrxa.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/if-the-future-of-skincare-is-ai-generated-serums-ill-pa-1845427481/amp",
-      "publishedDateTime": "2020-10-21T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-21-update-1-saudis-launch-national-artificial-intelligence-strategy.md",
-      "title": "UPDATE 1-Saudis launch national artificial intelligence strategy",
-      "excerpt": "Saudi Arabia on Wednesday launched a national artificial intelligence strategy aimed at making it a global leader in the field as it seeks to diversify its oil-based economy.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUKL8N2HC4WS",
-      "originalUrl": "https://uk.reuters.com/article/saudi-economy-ai/update-1-saudis-launch-national-artificial-intelligence-strategy-idUKL8N2HC4WS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201021&t=2&i=1538316610&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEG9K17M",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://uk.mobile.reuters.com/article/amp/idUKKBN2761LZ",
-      "cdnAmpWebUrl": "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKKBN2761LZ",
-      "publishedDateTime": "2020-10-21T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

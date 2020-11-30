@@ -56,6 +56,60 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 67
+  - title: "C3.ai’s initial IPO pricing guidance spotlights the public market’s tech appetite"
+    excerpt: "On the heels of news that DoorDash is targeting an initial IPO valuation up to $27 billion, C3.ai also dropped a new S-1 filing detailing a first-draft guess of what the richly valued company might be worth after its debut."
+    publishedDateTime: 2020-11-30T18:04:00Z
+    webUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/"
+    ampWebUrl: "https://techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/c3-ais-initial-ipo-pricing-guidance-spotlights-the-public-markets-tech-appetite/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 62
+  - title: "Peninsula AI Startup Files For IPO"
+    excerpt: "The company would be valued between $3.08 to $3.37 billion using the company's share count, according to the report, but C3.ai's IPO could take a hit in the $70-to $80-million range should underwriters decline their option."
+    publishedDateTime: 2020-11-30T20:55:00Z
+    webUrl: "https://patch.com/california/sanmateo/peninsula-ai-startup-files-ipo"
+    ampWebUrl: "https://patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/sanmateo/amp/29112696/peninsula-ai-startup-files-for-ipo"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
+        width: 816
+        height: 612
+        isCached: true
+  - title: "Silicon Valley AI Startup Files For IPO"
+    excerpt: "A Redwood City startup announced plans to go public Monday, and all indications are that the artificial intelligence software provider is poised to make some real money. When the dust clears, C3.ai could be worth north of $3 billion according to a published report."
+    publishedDateTime: 2020-11-30T20:46:00Z
+    webUrl: "https://patch.com/california/losgatos/silicon-valley-ai-startup-files-ipo"
+    ampWebUrl: "https://patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
+    cdnAmpWebUrl: "https://patch-com.cdn.ampproject.org/c/s/patch.com/california/losgatos/amp/29112695/silicon-valley-ai-startup-files-for-ipo"
+    type: article
+    provider:
+      name: Patch
+      domain: patch.com
+    quality: 57
+    images:
+      - url: "https://patch.com/img/cdn20/users/22137850/20201130/032416/styles/patch_image/public/screen-shot-2020-11-30-at-122324-pm___30152339121.png?width=984"
+        width: 816
+        height: 612
+        isCached: true
+  - title: "Tom Siebel's C3.ai seeks to raise $527 million in IPO"
+    excerpt: "C3.ai is seeking to raise up to $527 million in capital with its IPO, the company said Monday in its filing with the Securities and Exchange Commission. The 11-year-old Redwood City based company that helps customers with such AI-based applications as CRM,"
+    publishedDateTime: 2020-11-30T16:15:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.html"
+    ampWebUrl: "https://www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/sanfrancisco/news/2020/11/30/c3ai-seeks-to-raise-527-million-in-ipo.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 39
 
 secured: "wiagyXA1Ke2Gda2u0xFHg/5QsjRNOwArguwq/PK5iWpl2Gk+AIX0f4AL1G99EyGnTLcjlxQI07IP719QV7KO59cDrEbyepAYFHm7aZzeFMZIhD2AqR5ZH0ctoLz5DMOOFHnIVcXaEb8eZSF7ky2HNx3eidGHiZYvPfh2KLTrYu2+OiHFGpQZSXFUmJ1XShPlgCLOJv8SEfzlxY4VjYVW+4oKlovN3vlXQ/i3VPYPPqp8jJwJVOSdmYVFCrngE+riDAbjFnbgp+3boYshTYaCFxOAuc1xZHQIcwvVOPjJ2PMm013GS9uoyecoM/dnV8jI/zUu1PQmNB8T45ke/OX6N4wSZTImrrv7D6H9u6Qgbug=;MDMhKt5BkAuwNDgKPH/h3A=="
 ---

@@ -12,8 +12,8 @@ provider:
   domain: businesswire.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg"
@@ -21,6 +21,6 @@ images:
     height: 627
     isCached: true
 
-secured: "2O8LS4F12JHBfUtAafUBwgJHA+5eSVHKHz7uFY1bhQ0jhXMHUM+IfG6aQWRVGzVYuWmSHsGyRFWetz1J/Al+/sAIpblqMHPoxWw/bXTo0trfZRf2eGI5JcF74IGPTivddGHPLxT7ICKSi8igwZpGXLJKE4zuwehDQaN670/dV6nRGCqBv4pQR2LBYq/eWOxumgXYEaDp/EEU4phhWcl63JMSfj94e2cmkTJDAWqoLes38LxS7whVGiNHWTLN16Wf0I6tcypXXKMH8IR35ds81seMVNNGk3baLX3dUfcWtg+9RQ4jGS9auQi6BEeofVlzMbu+znVKKVH+JoMZ21EcCMYbmRf4CNvftcDUfaXWOVcjDQ0wsHM+j6Hpvasd8LR26NFBBoNMw07Xrr26qylsFpzNatxEzhKfyJREWWTt+777QonPnRqHR59KIPMTDqhn0au9nCdGs69UCH0PwX9gyR54Gp2sWYzDm2rFlUOXphTCaqU90x5IU3OtEPbY09BZlFlyO+sDBRvNJezm1BV5dw==;OAwNsrBn4Fg3BsO72Gnd8g=="
+secured: "Msmc/fA++P18KBUYOYZu/2fQBm10V5o0LU+dRkh954zBe1O1FLssdoteQhGeojC9YeWH+Hoy3mO/wuPMOzspvZBAQLsDIlCgNlDerT5WT001wG+ZYTJrVJbXdWtJ479y7xidlqBr5RPm8M/zQBQ7ii4JTKhHi+XjGJaTb7mDDyQixyUfCdEUuCwkmc0w1HWLZNoeGw7kB0s2sLbMLK45SiJOir7HjotfsFZ5bTnmgmIk4kW5PVNR1wbi8VbmiQz7X5j5hoLZCzFwt0qIrRO9fu1mNmVP1JJnalTL/yo88ORZCT0PP0hwC7FecocJQ0IdYINu/e/PewHNZtX74JKXIk7INx2leP9IwyGbOjLk5p0=;2NzdvuJTWA0VYCOFoY2cVA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/Europe-Computer-Vision-
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: Business Insider
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum"
+    excerpt: "The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic"
+    publishedDateTime: 2020-11-30T18:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020--2027---ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-301181740.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
+        isCached: true
   - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
     excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and"
     publishedDateTime: 2020-11-27T16:40:00Z

@@ -40,6 +40,15 @@ related:
         width: 1080
         height: 1080
         isCached: true
+  - title: "Madison Common Council to consider banning facial recognition software in most cases"
+    excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
+    publishedDateTime: 2020-11-30T16:17:00Z
+    webUrl: "https://wkow.com/2020/11/30/madison-common-council-to-consider-banning-facial-recognition-software-in-most-cases/"
+    type: article
+    provider:
+      name: WKOW
+      domain: wkow.com
+    quality: 12
 
 secured: "AS0g7V9TGAHKbCQVi7HTWZdGl9wnKCdG9YSpv5kuVX4BIzG0LHl0sXbB1JMZvQ025AsHJW+Q97Da6GlFk+0yeCpmtRxmM/hoT/h29SRh44I1JqBcrZdof+0AGIZM/QwEGDs0Hl3lWAk3MXzHB8yUW0q941ixYRSUeyfJ0kI9hSQ13aO1A2QhNMoWymCXZs9y4eQWZKgobKjHVe+SFfvNoJH2hkDqZdcNomuA4yD2vNrGsBDg3m7pjacJrynlNAbHkoDBJ1puTUK85tEzjjbQStoTGUu6HaldSM1Br5w/Z9J0h/DbIkOarX1saLY2j6RUtP8ji0wlzWCKOiwyys29FEco9JuVkbJGtC+k4NM8m0Y=;AFS93a+mj0sL+qhgzvoIyg=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.jpost.com/international/from-the-golem-of-prague-to-artific
 ampWebUrl: "https://m.jpost.com/international/from-the-golem-of-prague-to-artificial-intelligence-650713/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/international/from-the-golem-of-prague-to-artificial-intelligence-650713/amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/467217"
@@ -26,6 +27,6 @@ images:
     height: 428
     isCached: true
 
-secured: "nzzh25Nc1GwSvMKMgW0aaoXRW22pxTywvJnkV/NCT1zjWOEdGZYd0mdJa7g12havZpvHlVHfiJKKaNvwxkYr8YyMhzjvdg7m9WqLaYUUpFaAxO/dBVOL+WVnolzSXmN9HCHTZK+IgBzyFQABfbqlp7uD9dY1MfjF42fgvOYAlldiUiPdo3z05oXhxblYpJw9nBjEP0DC6Soe074zkJ4ePahZBuhTM2S16gieASDs7wFyFCFiaY02wx+YAxXAL0UHgv//uEY9wWfYxP8zJwBuX4U7eQS1lYmFVeBOltyQzbzBRun6kdr/+vVnzJbgJBiN9wLpN/QYreaAalk6vbP9ygyjUiZXuzTyC1KM4Tba22A=;UX7nods/HxyWfkEdMHvn2w=="
+secured: "IixQfR5t70iqbfcN+QUhXk7Tj+RvEiFfTe+YNQTEG5jwN2VW1Epkm5KXRrJmtDB2xJFUuotyx4yBzstmeT3TTLYT8Lp4sCM3aE9rIGMibzZ7sjQBzRthoL99G00PJufcp6F7Vl4xspWbPcgYiSplHeZ7/p902CMgsOUhRLfOVLNE8vWkcZx7WSQ7K6slfg0NzI0nAgfdcJX+p3tL2yBnDgLfG91i3Pmdjkgb0uvNxTY+AamrBdOEZaI88yDkvFv5RZZfCFaPklQ4AbesDifyHLQLwmyUqbtfgziD7h9Cfz8WVSQBNIRbbWQ1YFoIQ8CC+H5/zyIFD6F2GbFyRGhk4odn3ILpyWgoPSB3eTF7es6s8tRPC30MQcKaaIlnXFkxPMpiiIlqh9sToEJ74St04RRfnyCTb4oG1xxzdGPktuf8uP346rcNyjM8Cp3DOGuBn1qnLL2kAgz6id0IiMjf6YKGbgnnhWH0AUU5iUlVrI7oQ85oynSAuOKTz32O5DtchSoxYfYw7U1kOIio59tmhQ==;9U0STNZ9CptM52zOi6l6bQ=="
 ---
 

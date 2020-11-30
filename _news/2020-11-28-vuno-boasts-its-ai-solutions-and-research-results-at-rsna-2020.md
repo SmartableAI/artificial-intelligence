@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "BasisAI included in Responsible AI Solutions New Tech report by Independent Research Firm"
-    excerpt: "BasisAI, a provider of scalable and responsible artificial intelligence (AI) software, today announced that it has been recognised in Forrester’s New Tech: Responsible AI Solutions, Q4 2020, report. As the use of AI becomes more pervasive within enterprise organisations,"
-    publishedDateTime: 2020-11-26T02:26:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-new-products-and-services-7fffc416fc23aff7e59f17f0620af35d"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 28
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "iCAD Highlights Expanded Suite of Leading Breast Health AI Solutions at Virtual RSNA 2020"
     excerpt: "(GLOBE NEWSWIRE) -- iCAD, Inc. (NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced that the Company  is showcasing its leading Breast Health Solutions,"
     publishedDateTime: 2020-11-30T12:00:00Z

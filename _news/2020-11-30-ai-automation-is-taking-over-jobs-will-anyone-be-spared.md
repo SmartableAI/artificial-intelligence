@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial Intelligence and the Search for Life in the Universe"
+    excerpt: "Join the John W. Kluge Center at the Library of Congress for a discussion of the latest thinking on the search for life and intelligence outside of Earth on December 3, 2020."
+    publishedDateTime: 2020-11-30T18:00:00Z
+    webUrl: "https://astrobiology.nasa.gov/news/artificial-intelligence-and-the-search-for-life-in-the-universe/"
+    type: article
+    provider:
+      name: NASA
+      domain: nasa.gov
+    quality: 17
 
 secured: "l9NaQOtPgJqsjmIPrU3XbTDJwDrnypl2EwCTeYhJCcqUNvUx+mUihKC0RbUahZoxU8j6RSVhwdPHr7rT5hPTVihp++j59es2WJiSYaQq5Mf6wNGv59UaODUn2japnhqdbqVYNonK21gYUJ+rXuTFrW2+JSxZuGkVwe/PGroV4x6/BI+LOHZjSovmGZoBjPrqCi8G9nrnRHWZCdbpsM+xQpEwWg8X2Lh5rhSuJdMyeXizuGQITx9o7tjrQLrc5dCT31FyuhdfBYVNhl9Zq8Pw/u7qrnyMH1E2834cQ6z92FrOc67GKXc0WWksYUJTsaaXkf3dP4cgrfxhJKxTGq2JL3qawAntcxHdO1iPRDtGRzejx2cFrYCXucWsV7+OVXRg1DEBSYf8S1AIWrOV6Zvvhjlx5zLwI1gZQ+Wqz3/xWKbTEkUsnuP0UPfV1eoIfwmw5MMyMp+0udgItQa2579QY0SXcjiCaxz5hX5E4+OP7VEOXh8KkVzzwId79URV8y6wMihkeS7QCzJkLkCusV6Uiw==;I/obc5PRtSH6QGcSE0zXyA=="
 ---

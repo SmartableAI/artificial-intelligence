@@ -41,6 +41,22 @@ related:
         width: 1199
         height: 800
         isCached: true
+  - title: "The Next Generation Of Networks Is Driven By AI"
+    excerpt: "It's IT leaders' responsibility to ensure business continuity, employee productivity, and innovation by evolving the network operations to power and keep up with our fundamentally changed lives."
+    publishedDateTime: 2020-11-30T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/30/the-next-generation-of-networks-is-driven-by-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5eecae7c8c418e0007bd5959%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Artificial Intelligence Will Revolutionize Energy, Earning Billions For Investors"
     excerpt: "The energy transformation will see an explosion of growth in Artificial Intelligence (AI) applications across the energy industry as electric grids, energy storage, and transmission systems become increasingly complex."
     publishedDateTime: 2020-11-30T14:03:00Z
@@ -74,6 +90,6 @@ related:
         height: 562
         isCached: true
 
-secured: "afCpLHntYIV5i9ZeZZq6imjQf9zfj8LFhXEAYW7y7GRNlWmAnihaYeC59U90+iiSWDDLqWRzfioFzPOFEMHW7m7VXUe7f6nWdq0LSlKXrnXUgTiZ5RdipcRwbCwTq2e8jcQ79vLElVDW8feB9TpaJNyzOxPdUr8vbOUrpfwY1MkMFa+CW7EW66GEP8rAL7oXQipaCIMkg0F7RHKNNHiqYq43Lrw0QHV1ICBg0Xd6cja960MssOwtGq77Bi+WkytWl0gkJLiUjwf7XC2/a8aPjnA8EkqxKM0VURYZEH0cC2TEbYPu074hAbm+MaAhNt8GoW2JmTiKm/bAcm3TZYpfNcPStgCrd2xmI6Wb/nFEqLQ=;EkOmqnEJXXSdSPGXeIvQmQ=="
+secured: "32QDMxC8kGmMUpE5Q/7k3lIpO8YXdDBhTkYUnTNSppidk598LSTBEbwWWyYNi6tgPp8yopSPoTFO3W2vO/keuxTDrN5F744jMP0kI7Cc4hQa2aFbRRel1H6IR3vqF+Le1NzyYxkxkWRzdqm/NJdgvPRwSnBBm9bSJWjGeeo7XhwQXbyfSRaG5P/arbwu2lDoOaazhHgOfjtRxiC02L6qJqB0D7MJbdr/1xzid1AsVKlLQweI83BowG7Cio2xoRIeClboiyb/6C6yDa3ePOhqtbYy4oXcqe4qDjsFRtp79GgnM3KCw2+0RAqGm/9l8DzB0kgaObIFpv5CVn/WlgyAfFGEUtV3VpzjlNoHyl3Qkzfe3m2eH8I+28QwX2YZ75wZHL9X+fDudOhaKNVUL56nP+g5mv+VmdkO20YNt1CXkT5p3yU31h/X35N6PrEFGPYt+QrBT3rktcO/XHVizDSgYioEfhVESDfztfVU3NeWyW+5Z1+Ek3CTXiS9YxVWqMtUdMAQMwVy3S3IbWga/QFqAQ==;NiuLIeCr5xkdr/el4aNDCA=="
 ---
 

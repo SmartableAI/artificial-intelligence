@@ -39,6 +39,15 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Computer-aided creativity in robot design"
+    excerpt: "\"Robot design is still a very manual process,\" says Allan Zhao, the paper's lead author and a PhD student in the MIT Computer Science and Artificial Intelligence Laboratory (CSAIL). He describes RoboGrammar as \"a way to come up with new, more inventive ..."
+    publishedDateTime: 2020-11-30T18:52:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/11/201130131406.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 64
 
 secured: "ju4WUWaS+MZvns4dwW1viyHh5LVUw+e59uxP+VYeDlZ5VJNGtDI3sk6V5iKiCAVIAJny9OQjHijGixLOr2RaDv+aXfDKxVGUAA3GT1yox5eYSw3GVc7zsaK5neL9Tbsa7NyAnpNOQwnqfvlYYVuoOyKS7XvheLFrCFn1AmjBoUVPPUwJ0S9cKnNp3OjrLWj/b3wAJJGNXTEM7Yy8dUzZNaJmnXs95znXOtj03EBGe+aRuScXndDvpzldMqQmGskje0xE8DmUjMFd5qhIF77N7cP8P4tAYyiKc6FvNCR7XknP3Hfic5l2vgOxzy35jx715o9bA8mC+wmif/gLMTjuLDgLm9n1L1+ebbEbNkHP62nX6HyHXFOXzLTBZsSUiLTYLfYHzI6ZtUHelijJdOWp+7+Ynr1ywW8PWAovsbX6hyeux7bQfRl+cirkMZ0dU61SO+LLbY4aiMq09LisWGLUkf2jpMwil96ZJGQaflgML2nqSsJpN18qzXqxr8+g9UVR/XoI+vsLET6pEW7di2V9Mg==;IwCe/jJMHx39tSJOeeRYLw=="
 ---
