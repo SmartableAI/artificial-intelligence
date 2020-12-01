@@ -73,22 +73,6 @@ related:
         width: 2564
         height: 1236
         isCached: true
-  - title: "Watch Tesla Full Self-Driving Beta yield for pedestrian in intersection that would give some humans pause"
-    excerpt: "Driving Beta software with new updates and we are catching glimpses of what it can do in the early access program. Now we see a quick new video of the Tesla FSD Beta yielding for a pedestrian in an intersection that would give some humans pause."
-    publishedDateTime: 2020-11-26T17:57:00Z
-    webUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/"
-    ampWebUrl: "https://electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/26/tesla-full-self-driving-beta-yield-pedestrian-intersection/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 72
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2020/11/Tesla-FSd-beta-pedestrian-yeilding.jpg?quality=82&strip=all"
-        width: 3584
-        height: 1598
-        isCached: true
   - title: "Tesla could widen release of 'self-driving' software"
     excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
     publishedDateTime: 2020-11-28T12:34:00Z

@@ -1,27 +1,23 @@
 ---
 category: news
 title: "ServiceNow to acquire Canadian startup Element AI"
-excerpt: "Leading digital workflow company ServiceNow has signed an agreement to acquire Element AI, a Canadian startup focused on building Artificial Intelligence services. While the financial terms of the deal were not disclosed,"
-publishedDateTime: 2020-12-01T08:17:00Z
-originalUrl: "https://www.siliconindia.com/news/general/servicenow-to-acquire-canadian-startup-element-ai-nid-214748-cid-1.html"
-webUrl: "https://www.siliconindia.com/news/general/servicenow-to-acquire-canadian-startup-element-ai-nid-214748-cid-1.html"
+excerpt: "Leading digital workflow company ServiceNow has signed an agreement to acquire Element AI, a Canadian startup focused on building Artificial Intelligence services."
+publishedDateTime: 2020-12-01T09:26:00Z
+originalUrl: "https://www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
+webUrl: "https://www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
+ampWebUrl: "https://www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
+cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
 type: article
 quality: 37
 heat: -1
 published: false
 
 provider:
-  name: SiliconIndia
-  domain: siliconindia.com
+  name: Sify.com
+  domain: sify.com
 
 topics:
   - AI
-
-images:
-  - url: "https://www.siliconindia.com/news/newsimages/b5ny6FrO.jpg"
-    width: 570
-    height: 367
-    isCached: true
 
 related:
   - title: "ServiceNow acquires artificial intelligence startup Element AI"
@@ -146,6 +142,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "QkKn5ZMof1rROV+Z1hYk9zl19oCmdoUhgo7uDyB+mnVRZzeVzdw7Ywnzu2u6RTnuN4/xM5HJKcW3cynFLH5qWfX4NChwxtqn21ZX2P29HpY0D5WBD66Jgpk098EBjsYIMSMEvESp6XvYfZ+EMA189hm6C0URvRGrhq3a4e5PHAzdSLjLy8VoP4o8aJ4G65s8vcmvkDNzQ+51XNWKk/H4PKmmkfPpxOJ6a1mF0Cfm90T5KzLgITo9ozWdG11KIVMuRWn9KlMS+u0AM2HolxiB94bExKnM5esqkw5vgy/qXbFcKnmIb3AcmL5Y+kdfzALFiX2x7P2PTI738RjV4fXwzwyzDcCepT8JXHlhFPCJiZs=;uW73BJPc9A+G9d9N4gwfdg=="
+secured: "ZayzjKurVJZMts4Lme/12DdXVsy57WqNvZavd/TM3uyQrPlWsL2/vugtQYUnXRT6z7LxbnbVcdiwzG8IDGAudSc74IuK30LK4YPzMVFZQlUpGH5J1Jqk6SXY5Fwk3rbgzT325fwbDGdnmBXWeHMNyOVbKAmevhHXqx1TC/HYoGXjLVJV2tA/0WJKbRXYqhXZ3YuWenjnTjcEA/a7jbCTmuIFhUoTml+XO75cs7BfT1GycOPtTh495QQMgokS0k1wYFlonSqnr8kjIX9dZOzXxR/S/KvlR56PDp1QAL9fwbLfmPGHXOpl4TA6p+tjVtcy0RHdPq2+Ek68Licxo3AqAUWdmuERTinKlrN5fo35hSE=;bRcFCbUOlkI9VizAvIPccQ=="
 ---
 

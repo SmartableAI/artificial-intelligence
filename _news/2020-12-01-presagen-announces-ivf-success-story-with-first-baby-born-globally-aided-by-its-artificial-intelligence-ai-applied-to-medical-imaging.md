@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Presagen announces IVF success story with first baby born globally aided by its artificial intelligence (AI) applied to medical imaging"
-excerpt: "PRNewswire/ -- Baby Ebenezer is a happy, healthy 8-week-old - and an IVF success story of a new kind. His entry into the world was aided by"
-publishedDateTime: 2020-12-01T07:41:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-301182262.html"
-webUrl: "https://www.prnewswire.com/news-releases/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-301182262.html"
+excerpt: "PRNewswire/ -- Baby Ebenezer is a happy, healthy 8-week-old - and an IVF success story of a new kind. His entry into"
+publishedDateTime: 2020-12-01T09:01:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852046"
+webUrl: "https://markets.businessinsider.com/news/stocks/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852046"
+ampWebUrl: "https://markets.businessinsider.com/amp/news/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852046"
+cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852046"
 type: article
-quality: 20
-heat: 20
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "61LRUFIzHfHQDhZfmFJBg6jTAJz563hk6oaKMSUrSQ3PRXmLPGaxiJR7YxoG4VStSa+rikeVkZLTh1nwN5B56+EufjD44Qs0ux7+QRxLBSQ9fOVFd6mPf2G0ohc38tTOXtcQVx1i3UYJWp+CoekxYpoV59/MHMsNVlgRtyVzGdOGov4ZzDYvyut66RznMefiYBFbsuajD6f9ZiMvF/nzpejMaQ5Bhk5QIM9E0KEJuKe/TSxxVKlPzN7UPshG9nFpmoBS/UtUbK0BF5pT74e57PNCjIl+0RP4gD4ajbHGAB68TtQs1TL2XhTHfRHZtKqZM7oiDYuIIehN2LTuEQg9rG48ThlwfTgAuaF2i6XSlFA=;KPXr+fZVpEV6U7DZDYjNHQ=="
+secured: "vHLKSFeO4Ej9WONHvJA+XA7w29FKHvt5CJI/fG+KkG1Lp+jzoRX4hkja/SlX6+ZSsD4Sga244LmSo82cVGRAWkOa5LWy0iAu4FDApyxzjnlV+s18fCdO7P4yvYS4Po3deKZySBGv6m/Znv7LOvuFHq7ahZwRAwy7VNIvIrEt/hdSyzzAV46AFrBSk5lJduHHfNhvRAdwvGtlMHZ9xOATkHLL5mblpwGif5a7ozOQO0k5GSPL7Ub5D71VoGvbeqMSBdKjRpGMjZ9XgU/Tu93K3VnBiZ99R2CgaGur3RVx1CpffHEZLQXnpxgRRZdlQfcofHtmLgXYwF6BegrzwJ0wVRkBiQcsiNb7UH3dnk8Jt3Q=;A8EHABFrzzLQg5vFQuPfBw=="
 ---
 

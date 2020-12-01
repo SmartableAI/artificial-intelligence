@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-d
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2015/6-breastcancer.jpg"
         width: 1280
         height: 1024
+        isCached: true
+  - title: "Deep Learning Model Predicts the Risk of Developing Breast Cancer"
+    excerpt: "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer."
+    publishedDateTime: 2020-12-01T09:06:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430.jpg?v=11002122"
+        width: 640
+        height: 360
         isCached: true
   - title: "Combining cell engineering with machine learning to design living medicines for cancer"
     excerpt: "Finding medicines that can kill cancer cells while leaving normal tissue unscathed is a Holy Grail of oncology research."

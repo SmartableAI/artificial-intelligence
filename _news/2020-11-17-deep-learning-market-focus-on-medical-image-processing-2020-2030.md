@@ -1,46 +1,22 @@
 ---
 category: news
 title: "Deep Learning Market: Focus on Medical Image Processing, 2020-2030"
-excerpt: "Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" -  This technology is gradually being incorporated in a variety of applications across the healthcare sector,"
-publishedDateTime: 2020-11-17T09:47:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-webUrl: "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618"
+excerpt: "New York, Nov. 17, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" - https://www.reportlinker.com ..."
+publishedDateTime: 2020-11-17T09:55:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18400413/deep-learning-market-focus-on-medical-image-processing-2020-2030"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18400413/deep-learning-market-focus-on-medical-image-processing-2020-2030"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18400413"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18400413"
 type: article
-quality: 71
-heat: 81
-published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
-  - AI in Finance
 
-related:
-  - title: "Artificial Intelligence as a Service Market: Global Analysis with Focus on Development Strategy, Opportunity Assessments"
-    excerpt: "The global market report on artificial intelligence (AI) as a service market is suggesting the promotion of the market beyond a valuation of USD 6.7 billion by 2023. During the forecast period of 2018 to 2023,"
-    publishedDateTime: 2020-11-19T22:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-global-analysis-with-focus-on-development-strategy-opportunity-assessments-2020-11-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-
-secured: "pDjZyj9+IHbCR2OUt255oCdl2un54xqZQVgI2lgk3K3rCIVSpiEzKfl1PxgGuAjiwm77Ldwo2DhjECe4RZYf1zbzWRhMsxJLqTAErD3b+IUAnSSNLtekhWLEv60GNEuAtjgcRe5y9VYXYm1IG2XvT3xMIKEZdEr/a3hhnE8lmsT06xBgobRi0YZe6c2muPjENtXsB6O9jrLJPfgJYL4JBVzf43boI3e90Fo0bKxHX9B/wgPQcyJbYpdvnLNTAVgal0ZCKdob52oagdY879jo7gIvcPRumE1ld/Zk103SmT8LZ/qZ9ORyqydzaNaFuJ/+UmLEfH8AQ6pHYg4KulMe3XQ3JYeKdaxyD75Kz3zmSOw=;SnJ5RBcvGxPwKYzhsg6dGA=="
+secured: "asfQir1UXY5/yk0EuMcXXr1i4CKMvJWihDCE2zKJ9O3eIzOc/y8urvtint2v4vLK8XOO9ZIRQ8Xpz6FeFzX4Wp87ZBkaa5bsxmzQfSSIVROuqbNghwKmyOdFUC5nVRpXs8FMWO4M0Tu8wX0Fp9Qr4eBqIxznu7di9L7VqRZXO+6FVsdyzIWfTT9FE+ghtIbngGWplU31VlBiQ5SxaJt6kMkY43E6yCurm4LI7ledIh2MU5wHCWKqd53U7CtrA9XGqTo3oZdt9ZV5u7QWCntyxvBmHYNRKZ/azxGSDmtFrxF/G2+EI4GWasmt/MYzZ+blf3307C3POXsmTQtyh+aOwny/OEOtZvBIiYl+qAv2USM=;/DMTc9K9gQf5WM4IIporZg=="
 ---
 

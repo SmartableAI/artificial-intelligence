@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4f618476f7cf8927bfd96%2F0x0.jpg"
         width: 1200
         height: 750
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market Forecast 2020-2029 : Strategic Industry Evolutionary Analysis | IBM Corporation, Intel Corporation"
+    excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Healthcare market 2020 by Manufacturers, Type, and Application, Forecast to 2029 by MarketResearch."
+    publishedDateTime: 2020-12-01T09:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-forecast-2020-2029-strategic-industry-evolutionary-analysis-ibm-corporation-intel-corporation-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "New AI solution that can determine the shape of proteins could 'revolutionize' medical research"
     excerpt: "DeepMind’s AI solution, AlphaFold, has succeeded in determining the shape of proteins with a level of accuracy similar to that of laboratory experiments."

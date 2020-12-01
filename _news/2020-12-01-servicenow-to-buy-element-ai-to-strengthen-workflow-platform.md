@@ -113,19 +113,16 @@ related:
         height: 450
         isCached: true
   - title: "ServiceNow to acquire Canadian startup Element AI"
-    excerpt: "Leading digital workflow company ServiceNow has signed an agreement to acquire Element AI, a Canadian startup focused on building Artificial Intelligence services. While the financial terms of the deal were not disclosed,"
-    publishedDateTime: 2020-12-01T08:17:00Z
-    webUrl: "https://www.siliconindia.com/news/general/servicenow-to-acquire-canadian-startup-element-ai-nid-214748-cid-1.html"
+    excerpt: "Leading digital workflow company ServiceNow has signed an agreement to acquire Element AI, a Canadian startup focused on building Artificial Intelligence services."
+    publishedDateTime: 2020-12-01T09:26:00Z
+    webUrl: "https://www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
+    ampWebUrl: "https://www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/servicenow-to-acquire-canadian-startup-element-ai-news-education-umbilDcaiajge.html"
     type: article
     provider:
-      name: SiliconIndia
-      domain: siliconindia.com
+      name: Sify.com
+      domain: sify.com
     quality: 37
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/b5ny6FrO.jpg"
-        width: 570
-        height: 367
-        isCached: true
   - title: "ServiceNow Acquires Element AI; Gains Artificial Intelligence for Workflow Automation"
     excerpt: "ServiceNow acquires Element AI to meld artificial intelligence (AI) with automated workflows, the IT service management (ITSM) software company says."
     publishedDateTime: 2020-12-01T02:25:00Z

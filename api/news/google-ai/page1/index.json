@@ -10,7 +10,7 @@
       "originalUrl": "https://www.slashgear.com/deepmind-ai-makes-a-science-shaking-protein-breakthrough-30649203/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 334,
+      "heat": 344,
       "tags": null,
       "images": [
         {
@@ -217,8 +217,8 @@
       "title": "Apple's ML Compute Framework Accelerates TensorFlow Training",
       "excerpt": "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
-      "originalUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
+      "webUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
+      "originalUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,

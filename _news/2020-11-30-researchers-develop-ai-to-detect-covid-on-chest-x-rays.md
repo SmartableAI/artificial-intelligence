@@ -42,6 +42,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
+    excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
+    publishedDateTime: 2020-12-01T10:41:00Z
+    webUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability"
+    ampWebUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 51
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-09/8254EF84-240C-4E08-A875-407C5341B341.jpeg"
+        width: 640
+        height: 384
+        isCached: true
 
 secured: "ewXfOQHOGM1y9ZGwoj8UqCR7/Hoo2seP5SfqCX08BowEjyH0wQihhAFXfUTFlZYiPeU8SrAb/r0szKN6t2lRsn1xm0iM+TBDuhLkPc280haoAWKoLGKNuaH1oQ07EKmLK6YWkcjWNwE3NgjLgGwKzo+KbLTJrbVmZMpVD3ks58CtKF8ZtVdrV5jD/YaoLkg6JV4v/GIKksEmnFE8Ax88vKXHO7ue1ATozn7GfCaaomQpFdqjvNYq4d/NtcWQG2yfj4G0P+7jRjqF6tUYWb7hHrzg5Rqq1agKHRYvtgmk3IY7UX7MqH19aMvMzp0lxvoTlg7FFKj8MVfFdBPKdcNha0OY9lnIPoSdV1ZC0YVW/8g=;0P4/pfI3b1CR7ImWMu1DPQ=="
 ---

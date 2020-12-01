@@ -27,6 +27,22 @@ images:
 related:
   - title: "We Might Finally Be Getting Global Self-Driving Standards"
     excerpt: "There’s been something of multiple discovery-esque situation in the self-driving car world: Tons of different manufacturers are all competing to refine autonomous technology, often in wildly different ways."
+    publishedDateTime: 2020-11-29T13:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/11/we-might-finally-be-getting-global-self-driving-standards/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/11/we-might-finally-be-getting-global-self-driving-standards/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/we-might-finally-be-getting-global-self-driving-standards/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 44
+    images:
+      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/30/r3kr2pkjdlc8ki9puqy8-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "We Might Finally Be Getting Global Self-Driving Standards"
+    excerpt: "There’s been something of multiple discovery-esque situation in the self-driving car world: Tons of different manufacturers are all competing to refine autonomous technology, often in wildly different ways."
     publishedDateTime: 2020-11-29T20:02:00Z
     webUrl: "https://jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028"
     ampWebUrl: "https://jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028/amp"

@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Big Opportunities at the Junction of AI and Analytics: Interview with Tom Davenport"
-    excerpt: "Tom Davenport has been one of the most influential advisors globally on the business impact and application of information technology. He made the topic of big data and analytics a boardroom issue with his groundbreaking 2006 Harvard Business Review article (“Competing on Analytics” 1) and a 2007 book 2 of the same name."
-    publishedDateTime: 2020-11-26T17:11:00Z
-    webUrl: "https://www.tcs.com/perspectives/articles/the-big-opportunites-at-the-junction-of-ai-and-analytics"
-    type: article
-    provider:
-      name: Tata Consultancy Services
-      domain: tcs.com
-    quality: 11
 
 secured: "uRof3Z6vnS6xIiGzlU+SPa91S16pRNNoWpfu6b8aAb5tLbj5nj9+tHLRYr1H/zQVJfJs+TIEmVh39RDqgIPEtQ3q4zZccMsAGa8qCMVebc3jH8DAKUb8rqGSS3MMcqocTviIxyFzX2zSVDt/WDHyWvL2o4ST9bgvQAitkeMHn8F1UKi94Le/IDrBLdzfReZghTaE2VK+CxiHGrno+KfRRbMQZEJrIyRTfbLQFxa1qM6suNfZx2rm2XYEfRDYD6Lkl/Hnh9CP6m/22l8EMDT0YX32XbBWV068OshVmbZr17uZQ3xncDHyhqlBDxhdsPCEW+gxGi6qnhdjp55HLLSp5SkZufPgwgSaTQOH/rxjRyM=;MT/2dkhk4ZBnTUxK+lRQZg=="
 ---

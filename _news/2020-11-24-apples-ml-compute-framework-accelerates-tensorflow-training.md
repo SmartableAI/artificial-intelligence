@@ -3,8 +3,8 @@ category: news
 title: "Apple's ML Compute Framework Accelerates TensorFlow Training"
 excerpt: "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,"
 publishedDateTime: 2020-11-24T14:28:00Z
-originalUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page"
-webUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page"
+originalUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
+webUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "2q5QdPV4/mFailvYcsTiC1q6uHVoWRGD2sO3HVm4dc1RkrDqw3uYK7ZxExbWz3kLScKqnLfe50IPpAdYAKQszqpf472m+G7oeYJS0+nPSANZO/tMkvQDcilR17b5nHrKd724vbS1eO5s69v7kVwft59DbrLVvOtgOABG/frBlwYiJ9SL/DelqNHDsR55O+ECDIchC7+UjiRTNy33GrZr30/fpS8Bi0fgwOxinR8C4iUOQopGc4/szKJaBlgjFCS00JNYRH0AEdsNNjNeeXfRIo8ORnOH0kFn2lworDQ4kXpzo806QHOGfHSe2kCZ71uYaFDTQbMUWQUGjWaMgYYBFF4VTs/xZBQYviC2N2NFBNE=;tqG7kD+xVmtdWmVC9X6peg=="
+secured: "xXJQpbGe1m+ZDDkSgdHf3i9tG5ZGHfqhP1bpyf/NfX6blkmaOPmwqSsedXraXQ4MhK/Nd016apuLVe82pJRbcHjqAZbkB2+HJp5cjT1kHYr9aY/K0KhxcJAj0yw91DTHle3ewdROLLwdIkTiDFUbB5lrB18+MI9AvwmcmvPHv0wIdnxi93cUpRGwZfc9nP6gsZxePq2uD1cqdmQwYczW1mmiqpubzBj6eCpDN2xCBM6wovmw18tjPJx61HljA70PzRhDIwEbZE2XYkT2D8cT59kqD2++XRSOCyo46Q9BuN60jrwM1z9cYj0YQKFTTpgOzGkAqvy/0IJGbzM9gDFWsFclFwlnv/SPdjEO7I/H9AQ=;6BhryUPp4ziyfD7qDXw14Q=="
 ---
 

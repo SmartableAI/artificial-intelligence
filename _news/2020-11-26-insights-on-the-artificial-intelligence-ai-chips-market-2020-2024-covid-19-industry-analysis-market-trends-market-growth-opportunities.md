@@ -15,6 +15,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "LDuEEQ3g3sGov9JAyDhPgPzrbxi5i+lABIdcr88gbaFvGIlXu3H0plmRR6lWRJEqdk+QkeoTlguXxpLEntj/ZlyZwpVEHdmAZ/YlDtf/8IeZL1M5XEmGFcVlN9hrBbH21tqadnHLTKc4Dd3GiyRHI5NQ25nmgmMMxbemIcXrOaeW3dw9kUUE72P/Pkas7Hu7kWMdwBmnP+voRHdZ51WtQOB/QnqRgRZcVRKevFzOLdosu1ZFHQRTMNe9Psnx+m8O6LaTllJOIuSYviR1tzApafAVAgLMUbr4xbQpu2GXq/Xu0GSlWxZtH9SO7s5lwpJd2/uIBm/ogIpNwjtu0+8wfoYu/ZGr8eSywMe1SOQzjhg=;EJiIr3SRpz+rU9dY6ht/fg=="
+images:
+  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+    width: 580
+    height: 339
+    isCached: true
+
+secured: "46OF01QNTdU7oPgVEWpVc8YMITRvfz3yHO89TPRSBA7VRNUMg8+AhH9M6psl5mjdMoJq0D8izh6OVbZT7uI9yuc/XkZycMoO1OEyAR6hqF3B/v5KYDmpmPJt4JbkF5SOuptMP0emuaiynAyPzWlZwGA3HqibXzPcAiKkWEZQ3d6/31qGPlLdxefjMtPavsqQmmHeVAeIKbwUwCnrRI3LKhd0mQ7bZmmMaQ7BaKohU0ce37JJG77zbl4vNfvQB1497lC6JP/G+Z0fuzkgmHyLUk4RYG5JM4K/7fzPaY/A4VsuI6g/3mNAnIJTU1xpwzt8/u0EbBmUMI57z2/h2PvH/IQfMlO6uUOlRIw1sM5Awjg=;hGxAcJIkjhV7Q+0X+3M7KA=="
 ---
 

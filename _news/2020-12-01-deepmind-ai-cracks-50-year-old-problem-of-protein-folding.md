@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind AI cracks 50-year-old problem of protein folding"
 excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-publishedDateTime: 2020-11-30T16:23:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
-webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+publishedDateTime: 2020-11-30T17:41:00Z
+originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
+webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 type: article
@@ -299,6 +299,20 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 44
+  - title: "Google’s Deepmind has key breakthrough"
+    excerpt: "Solves the problem of protein folding and confirms the existance of rice pudding A 50-year-old science problem has been solved and could allow for dramatic changes in the fight against diseases, researchers say."
+    publishedDateTime: 2020-12-01T09:37:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51975-google-s-deepmind-has-key-breakthrough"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/76d9092e1573cdd08981aae589827add_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "The Times view on DeepMind and the protein-folding problem: Acid Test"
     excerpt: "Scientific research is painstaking and it typically involves travelling down many blind allies. Not even once in a generation, on average, is there a revolutionary insight that transforms the body of"
     publishedDateTime: 2020-12-01T00:17:00Z
@@ -365,6 +379,6 @@ related:
         height: 720
         isCached: true
 
-secured: "gHkEfLvT+2maKRkO0XcvtR/jttkLKjlpp21nXxvUllUxeJ01JYbKPTCRtw8csTYE+7wQ3Ym0ZZoJSvD1KUOecixzCnkf1j5HFWKNoppWRTZRLbnKN9X2vOKj3hS+e96zMpU/04E3A/Q+KXJWYKmTgkZztLwA44SBViglUPG1MTNscp0/iOH3LJrEq1GsHKDnhnZlyGiC+qrM7UovQFzYIICN1WNOqrpequ9QxVjtX/yinD8Z8LWHDjEb63aEWJVT18sWxboXBm7upSLKrKuYl26Oh4VYt+bxZtYKDY9m847lCsb5Sk/mJuf/FCs6selkPQQSXPG+kyMJyeRBpGat8h5qmKd42DEWdmDFQaTXFnU=;V3lEauGrWUbvfDvX1lWmJg=="
+secured: "jzR/dXnsUI9as/TIoQI8czYFzgnw75fjZQ2zxGq2jJSjzA3r7OgOA4xWqXv9GLZ8GXoP1Sn96yqUmBwvXVJwVQ7tB1kj8N4F6yJKCspuOXm1VcWRYnTlRB2XRJb8eV19IIbFc7sDj/Ze+JIlud0jLGdHBSSQD5jG6C+NucO9Uwk9ZhibpuYk8treQTiB6GNKhiwdrczVtSBRjg/rrNlx/TVEyDcQXqNAECU0I2kYPLlBDGM8p4ZdVnr0fBYQUDK4ulai3VsPH0AQTJ7KFan3TAKwDUTAd8Fd8MCiVqj6iMa4RQeIQu7q7Y9zkBftyX7Umz+ZzGQLe1q3H8wa7z0lqTBXlred5xY5oMyWtU+1PnM=;1cPie6A/lFIdnO0nT8kxfA=="
 ---
 

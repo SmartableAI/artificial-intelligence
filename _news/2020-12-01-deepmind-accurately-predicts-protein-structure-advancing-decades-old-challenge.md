@@ -153,8 +153,8 @@ related:
         isCached: true
   - title: "DeepMind AI cracks 50-year-old problem of protein folding"
     excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-    publishedDateTime: 2020-11-30T16:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+    publishedDateTime: 2020-11-30T17:41:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     type: article
@@ -309,6 +309,20 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 44
+  - title: "Google’s Deepmind has key breakthrough"
+    excerpt: "Solves the problem of protein folding and confirms the existance of rice pudding A 50-year-old science problem has been solved and could allow for dramatic changes in the fight against diseases, researchers say."
+    publishedDateTime: 2020-12-01T09:37:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/51975-google-s-deepmind-has-key-breakthrough"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/76d9092e1573cdd08981aae589827add_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "The Times view on DeepMind and the protein-folding problem: Acid Test"
     excerpt: "Scientific research is painstaking and it typically involves travelling down many blind allies. Not even once in a generation, on average, is there a revolutionary insight that transforms the body of"
     publishedDateTime: 2020-12-01T00:17:00Z

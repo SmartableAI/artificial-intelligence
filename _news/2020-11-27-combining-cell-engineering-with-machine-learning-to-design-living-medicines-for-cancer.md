@@ -59,6 +59,22 @@ related:
         width: 1280
         height: 1024
         isCached: true
+  - title: "Deep Learning Model Predicts the Risk of Developing Breast Cancer"
+    excerpt: "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer."
+    publishedDateTime: 2020-12-01T09:06:00Z
+    webUrl: "https://www.technologynetworks.com/cancer-research/news/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    ampWebUrl: "https://www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    cdnAmpWebUrl: "https://www-technologynetworks-com.cdn.ampproject.org/c/s/www.technologynetworks.com/cancer-research/news/amp/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430"
+    type: article
+    provider:
+      name: technologynetworks.com
+      domain: technologynetworks.com
+    quality: 59
+    images:
+      - url: "https://cdn.technologynetworks.com/tn/images/thumbs/jpeg/640_360/deep-learning-model-predicts-the-risk-of-developing-breast-cancer-343430.jpg?v=11002122"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Deep learning model identifies imaging biomarkers to predict breast cancer risk in women"
     excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
     publishedDateTime: 2020-11-30T13:07:00Z
