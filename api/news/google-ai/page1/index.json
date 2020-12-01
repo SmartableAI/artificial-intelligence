@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-01-deepmind-ai-makes-a-science-shaking-protein-breakthrough.md",
-      "title": "DeepMind AI makes a science-shaking protein breakthrough",
-      "excerpt": "Alphabet’s DeepMind has used its AI system to figure out a five decade old mystery in biology, the company has announced today, using AlphaFold to help understand protein behaviors. The",
+      "path": "_news/2020-12-01-alphabets-deepmind-ai-has-solved-the-protein-folding-problem.md",
+      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\"",
+      "excerpt": "Computer scientists at DeepMind, a lab owned by Alphabet, Google’s parent company, have developed an AI that has made a monumental leap in solving “the protein",
       "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/deepmind-ai-makes-a-science-shaking-protein-breakthrough-30649203/",
-      "originalUrl": "https://www.slashgear.com/deepmind-ai-makes-a-science-shaking-protein-breakthrough-30649203/",
+      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 344,
+      "heat": 374,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/pexels-matheus-bertelli-1830252.jpg",
-          "width": 1680,
-          "height": 1050,
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/deepmind-ai-makes-a-science-shaking-protein-breakthrough-30649203/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/deepmind-ai-makes-a-science-shaking-protein-breakthrough-30649203/amp/",
-      "publishedDateTime": "2020-11-30T08:28:00-08:00",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "publishedDateTime": "2020-12-01T03:53:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
+        "name": "TechSpot",
+        "domain": "techspot.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -936,10 +936,10 @@
         "news"
       ],
       "topics": [
-        "TensorFlow",
         "Google AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "TensorFlow"
       ]
     },
     {

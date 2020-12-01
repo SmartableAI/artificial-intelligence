@@ -1,49 +1,45 @@
 ---
 category: news
 title: "AWS and Zoom Extend Strategic Relationship"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Zoom Video Communications, Inc. (NASDAQ: ZM) has"
-publishedDateTime: 2020-12-01T06:06:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-and-zoom-extend-strategic-relationship-2020-11-30"
-webUrl: "https://www.marketwatch.com/press-release/aws-and-zoom-extend-strategic-relationship-2020-11-30"
+excerpt: "(NASDAQ: AMZN), announced that Zoom Video Communications, Inc. (NASDAQ: ZM) has selected AWS as its preferred cloud provider. The multi-year agreement extends the longstanding relationship between the two companies,"
+publishedDateTime: 2020-12-01T12:09:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-diseases-and-conditions-58b52907847f4ce987426348ee00ddb3"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-corporate-news-diseases-and-conditions-58b52907847f4ce987426348ee00ddb3"
 type: article
-quality: 69
-heat: 79
-published: true
+quality: 39
+heat: 39
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
-  - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
-    publishedDateTime: 2020-12-01T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-mac-instances-for-amazon-ec2-2020-11-30"
+  - title: "Itaú Unibanco Selects AWS as Its Long-Term Strategic Cloud Provider to Accelerate Digital Transformation"
+    excerpt: "(NASDAQ: AMZN), announced that Itaú Unibanco Holding (NYSE: ITUB), Latin America’s largest bank, has selected AWS as its long-term strategic cloud provider. Itaú Unibanco will leverage the world’s leading cloud to accelerate its digital transformation and enhance the banking experience for its 56 million customers around the world."
+    publishedDateTime: 2020-12-01T06:40:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-brazil-corporate-news-3d6492670baa42528d7ee2774ebc0b39"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
-secured: "f6+zltl0pZwqBUWW/pdxWkscPsd2M+lDZs95eS45l3xE2VMJyfzhtNLfilcS0y5vK479oElZm0XRscLocaHfoYaLdvoXrTvpVL3M4LTmrY7GB6H032Ego81D8IOmVDqPdhW+zQ/eL0XLmqtaZZV6ewrKryHUc27lj+uvdpEKcpDzRmrdImEVrpT1DVg1xFj4csmltr9MUzCG3mUItbaTrEN5xYkynC3z0WvhxWqepxo+Fl8aQVp5ub/OGLOmG5UcY3FKrUCj371VPwudUjGaZmiebh1/4MO/1ZGzRrAJrEq6zVwX1Fg7v4i69SWvddSS7YdMef7NaVbnJSEpokMN1rKn9BFkgb1vpM3yzIgN5nc=;agT7VgDJaW+1J98h17zpQQ=="
+secured: "TGDlYJhVdf7PzPgnclNGacikar64026x0FhWhTudR3H6R9fdREiNelFLpD7djIsq+Pmj+oVuTNI9mIAjgYF6ajTvT0XVjq4PtaFtr7mlEiw60ExpNxNJGzhI5lzeiqRXVpABoajEmj9bC7AoK09Phppjrl2d7Y/5hdEaCe6upJoQikF7+cVB8hPCDjX0RrSBR48cu7lWNZ8xPM0bgMiI7e3cZuseiahbGcfkDLltmZiMsgnij+FjREvXAq9LPTuVsyaYmShZtnTC638zQEfr8vlD5ox8s/+4iTEDMRrF/3+MT/Vmi3pdHMXuHGohxZQLfRfyEomkBWP2TBCDZS3whtUzCiVlxYeFtNXsAcjNmlg=;qddbPDtvSKKHon85YtYJ/Q=="
 ---
 

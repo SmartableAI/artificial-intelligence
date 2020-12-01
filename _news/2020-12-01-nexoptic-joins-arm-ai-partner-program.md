@@ -1,23 +1,29 @@
 ---
 category: news
 title: "NexOptic Joins Arm AI Partner Program"
-excerpt: "A shared vision bringing NexOptic’s differentiated, scalable, and highly optimized imaging AI solutions to multiple global markets and verticals Complements the Arm ecosystem for on-chip AI deployment for intelligent endpoint devices VANCOUVER,"
-publishedDateTime: 2020-12-01T04:50:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2020/11/30/nexoptic-joins-arm-ai-partner-program"
-webUrl: "https://stockhouse.com/news/press-releases/2020/11/30/nexoptic-joins-arm-ai-partner-program"
+excerpt: "A shared vision bringing NexOptic’s differentiated, scalable, and highly optimized imaging AI solutions to multiple global markets and verticals Immediate expansion opportunities for ALIIS within the vast Arm IoT network Complements the Arm ecosystem for on-chip AI deployment for intelligent endpoint devices VANCOUVER,"
+publishedDateTime: 2020-12-01T11:25:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-2917f01a3eaa9fcb7d56cd56b9cccebf"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-2917f01a3eaa9fcb7d56cd56b9cccebf"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "LiEKXi/6C0HQrOSKslPp1IfrGlGDp/qW3nLqjBGH4uMla25AW4n/cUlOdwGdyBoHMYHSb/7sXdKKy+vC4fNFHgW8J5ROmMSpA5bO+6Vt5JjUn/j47hncwaOujJKGP21rC4hLML/Eykt12zafYno7Odkzvlp9hjR5flIFHq/RHVsN5NkXRzyp5celnSYJY2LapxKAz8ZR3FZdIXlAD1vFYQ81rLBN7L1Sl16yj2qbved7PE/Hu1tWH7iaPLBE3ibzbuZP397LT8+3NVq3WT+qhLni4RjYdjoi4wNSjdDB6DxKiFY9QB/co35qW42mcrNsRdIhD5Y0oGRanF1ur2MUX0y2NANYO4Ih9mq6kKBIDb86AoYaj31HhWwgWP1LEHK2XC7WI7ozZDeAVzsZ58y9QeP+bYd94TssDqw9XfyyoBFyxMQblnxeQx09rkOEYYDjAYSnco6JZdEOhVK1xzcrljdcCH96CchAXTVQ+ch1tUpxu1J6WKnf4/dOfSmdAhTQUb6JhwZaMBP0Uxw3b6Onbg==;a7Y+PmZWsyaonO2mlyMyDA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "yDb2L0H+LU3L6Xm60VpBSDWRHG/L7e7Ij7KnkjqCaAGG3wjcnfKo2GGmQPDC6fZXw6sROclke2Lz2BJIafLXQ+KDQPu0Gd9e/Vewm1i760LpWPJrDvMn4aEEAbv3dyDIpUEghrqSEAyXKJ4cWJKXIL5dZ71QGkHUJ4INSkGxRI4ycR9RnT6KhfaDegtbWv+SOxFKOEWzP1ytfFc1i7ody9n18TxNzzxEiOadWR13/MrNJAPwRZXSNyd+PzylXCcGsk061C9o6Fk25yUOgMgNMnvjVXMHp5iOg2xiiQAWrW3L7KxBWjqo0kMO4XAYUwoY6OCPIMoUYWQOPIMksA/B69etCH5fU3iJ2I1cnnhWlEk=;nwEOLlB8xZo0eNADGuHWOw=="
 ---
 

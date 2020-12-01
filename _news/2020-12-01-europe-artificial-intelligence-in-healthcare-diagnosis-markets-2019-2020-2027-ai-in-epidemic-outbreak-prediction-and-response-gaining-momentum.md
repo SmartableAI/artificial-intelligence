@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023"
+    excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
+    publishedDateTime: 2020-12-01T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
     excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2020-11-27T14:20:00Z
@@ -36,17 +50,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
-  - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
-    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and"
-    publishedDateTime: 2020-11-27T16:40:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18553922/europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-coun"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18553922"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18553922"
+  - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
+    excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
+    publishedDateTime: 2020-11-30T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-enabled-medical-imaging-solutions-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2020-11-29"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Diagnostics Market Worth $3.0 Billion By 2027: Grand View Research, Inc."
+    excerpt: "The global artificial intelligence in diagnostics market size was valued at USD 288.1 million in 2019 and is projected to grow at a compound annual growth rate (CAGR) of 32.3% from 2020 to 2027. <p>The global  size is expected to reach USD 3."
+    publishedDateTime: 2020-11-29T13:30:00Z
+    webUrl: "https://menafn.com/1101201948/Artificial-Intelligence-In-Diagnostics-Market-Worth-30-Billion-By-2027-Grand-View-Research-Inc"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 25
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/28/G_009d144b-0_Image_In_Body.png"
+        width: 600
+        height: 300
+        isCached: true
 
 secured: "K4HQ7jr5caC/dB3wyU0T7Yhaq/cpQ845OBK5xMwJfz8uBQsYmA6afI4vSfslHMR0DsgUPNKW7LwsDPYEg7tWGuWUL1F4TtsCOhRU6E4bDO53bBD7hH8Hw+R/oKnXgumWaN8wKc+hruFxIuEVVKHQWlnfPt/WwVxSfSOEBf+fgDiBYedzgt4NBoxtUFTPJcyqLU6T4XqVD1REg1q2OQLrp9Fw2PYKdxh7EduwULX+ZA+fCeDkvxovYmZ63vSQSXmQOWd1h2EZXkUmrg7skHJUoilwPMrSXTSIpe/ymPCTQHkiN/TVjIARt6YNK8Ltvdt3SCHab4L4LyENTClRpGK/dfziHhjBe5bb7DffzMX3tjE=;BYflbQryb3AFRo+JhFvT3Q=="
 ---

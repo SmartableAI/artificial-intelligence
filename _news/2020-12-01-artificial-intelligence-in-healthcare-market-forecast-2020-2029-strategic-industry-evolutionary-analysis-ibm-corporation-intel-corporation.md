@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "How Artificial Intelligence Is Changing The Landscape Of Digital Marketing"
+    excerpt: "AI for marketing strategy, predict a 37 percent reduction in costs along with a 39 percent increase in revenue"
+    publishedDateTime: 2020-12-01T12:27:00Z
+    webUrl: "https://www.linkedin.com/posts/helderfigueiredo_how-artificial-intelligence-is-changing-the-activity-6590726202707755008-nHBz"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEyEA5-6f_PTA/ugc-proxy-shrink_1280_800/0/1604886096043?e=1606917600&v=beta&t=BZU_G_PS3vBpsBARjLeju6qodMM0Zh8N3_rP4EtL1sw"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "New AI solution that can determine the shape of proteins could 'revolutionize' medical research"
     excerpt: "DeepMind’s AI solution, AlphaFold, has succeeded in determining the shape of proteins with a level of accuracy similar to that of laboratory experiments."
     publishedDateTime: 2020-11-30T15:35:00Z

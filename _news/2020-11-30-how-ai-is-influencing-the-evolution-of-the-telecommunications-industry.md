@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4f618476f7cf8927bfd96%2F0x0.jpg"
         width: 1200
         height: 750
+        isCached: true
+  - title: "How Artificial Intelligence Is Changing The Landscape Of Digital Marketing"
+    excerpt: "AI for marketing strategy, predict a 37 percent reduction in costs along with a 39 percent increase in revenue"
+    publishedDateTime: 2020-12-01T12:27:00Z
+    webUrl: "https://www.linkedin.com/posts/helderfigueiredo_how-artificial-intelligence-is-changing-the-activity-6590726202707755008-nHBz"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 52
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEyEA5-6f_PTA/ugc-proxy-shrink_1280_800/0/1604886096043?e=1606917600&v=beta&t=BZU_G_PS3vBpsBARjLeju6qodMM0Zh8N3_rP4EtL1sw"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Artificial Intelligence in Healthcare Market Forecast 2020-2029 : Strategic Industry Evolutionary Analysis | IBM Corporation, Intel Corporation"
     excerpt: "A consciously conceived and designed business intelligence report titled Global Artificial Intelligence in Healthcare market 2020 by Manufacturers, Type, and Application, Forecast to 2029 by MarketResearch."

@@ -31,7 +31,7 @@ related:
   - title: "'Startup Supercup' to Unite Angel Investors, Investment Funds and Startup Founders in French Tech Ecosystem"
     excerpt: "To be held in Sarlat, the capital of France's idyllic Périgord noir, the Startup Supercup aims to bring together the entire startup ecosystem: investment-worthy startups and their founders, angel investors and business angels,"
     publishedDateTime: 2020-11-30T18:46:00Z
-    webUrl: "https://www.law.com/legalnewswire/news.php?id=2771247"
+    webUrl: "https://www.law.com/legalnewswire/news.php?news=Q1c5eTRjanlmZ3R6T3dpcGsxV2FsZz09"
     type: article
     provider:
       name: Law

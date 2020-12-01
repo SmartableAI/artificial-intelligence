@@ -47,6 +47,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden administration seen aiding digital identities, closing fintech loopholes"
+    excerpt: "The president-elect will take office during a rapidly evolving fintech landscape that will see advancements in artificial intelligence in finance."
+    publishedDateTime: 2020-12-01T12:25:00Z
+    webUrl: "https://www.rollcall.com/2020/12/01/biden-administration-seen-aiding-digital-identities-closing-fintech-loopholes/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 35
+    images:
+      - url: "https://content.rollcall.com/wp-content/uploads/2020/11/foster_BC_111617_248-1.jpg?resize=1200,600"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "om2K386Yhy+LTI9dNXq85l2lTkC1Al3Oz3ZPA8HMVXohe3kfTP1pFSTioTHwWEOH2jh9CW0rLw/xVhwKjE+Uy4uv5EMd+AbEAxOqqV2y1OJSFJNCin7mBk573680bvbLZQIYwnX8yn0sb7h+mLCvL96uVfBShNDSDcDcFYxWwaa47UbJOAFZPrIdWMCqPJjeu+nOysIVMoYcB9S5yu7uO4vhji0fww/kSlKb+vHbuIDGabs0WAK0Hho3k7Vza3QAQbSRUW/i5qYJVOKCEQuc2HH+qbe6JRAuvw3qBF6B+1v3rhq07GbtTJgK8Eo6geGol/If1XbuAygKMJEeJGpvZzZRsKzE/Z+9H6AlYlTcNG3Wi7BD5Tl1sz9HjsinPK5w0T2G5uT2MGmaL3LMyN0SreVO7aTeZVnZKC88n02jTJKNL5v4tlxGi2Rj3drbeh2VgMtG6A0EJ7m9CaFqAG6txW/7uQf7J/x8lJb3Tpb+kmBugkjG7xhaNACA1lWs6sTylBsKhx0Rb/NgYeo9/zKVog==;hFzvxdd7K/eNApU4inb6VQ=="
 ---

@@ -25,33 +25,58 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Market is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2020 to 2024"
-    excerpt: "Global Artificial Intelligence is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2016 to 2024. Artificial intelligence (AI) is the concept and development of computer-systems able to perform tasks usually requiring human intelligence,"
-    publishedDateTime: 2020-11-28T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-estimated-to-reach-432-billion-by-2024-growing-at-a-cagr-of-598-from-2020-to-2024-2020-11-28"
+  - title: "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023"
+    excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
+    publishedDateTime: 2020-12-01T12:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2020-research-key-players-industry-overview-supply-and-consumption-analysis-2023-2020-12-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2020 to 2025"
-    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2017 to 2025. Artificial intelligence is the capability of a computer system to perform tasks that generally require human intelligence,"
-    publishedDateTime: 2020-11-28T22:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-is-estimated-to-reach-188-billion-by-2025-growing-at-a-cagr-of-149-from-2020-to-2025-2020-11-28"
+  - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
+    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2020-11-27T14:20:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-country-1029844954"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 50
+  - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
+    excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
+    publishedDateTime: 2020-11-30T10:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-enabled-medical-imaging-solutions-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2020-11-29"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum"
+    excerpt: "The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic"
+    publishedDateTime: 2020-11-30T18:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/europe-artificial-intelligence-in-healthcare-diagnosis-markets-2019-2020--2027---ai-in-epidemic-outbreak-prediction-and-response-gaining-momentum-301181740.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 31
+    images:
+      - url: "https://mma.prnewswire.com/media/539438/Research_and_Markets_Logo.jpg?p=facebook"
+        width: 800
+        height: 419
         isCached: true
 
 secured: "8Av5XWHYIDoGUBTOZYSqp7CckhjmgogL0c8r7hrERDVn60pN0/+mYGAzd+6aE5Rwp1L8uiWPQodjdVI5A23erYcE1p0Ap/bn03+pT8jzv6uiyVmZ9caKUoZrBn0Vl05liELYY/HTLSjfC52lCWZC3HUt2uyyCpfbulp2AOmZew6qmY01De3C0uxRuOJVloJ7xP1rwVNS007juLnJ9K/0KNZOwHa5GFEAqACY4sox2vmuWlFJu9qZ6nxwbkqoLdJ5r+ISpfdRCmXUfB/dCNM+fzTdZToDM43AjpdN+cpxlSXKoPBqIPskWL5r7AHLGGjGyo/zRNq5OcPK15Oa/S8HdEaDDDIeBuz6QDcsTAw0FjQ=;NU3qy+9G3n5Qhdk1ss5Qvg=="
