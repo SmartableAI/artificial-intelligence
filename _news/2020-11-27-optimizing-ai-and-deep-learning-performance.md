@@ -154,8 +154,8 @@ related:
         isCached: true
   - title: "DeepMind AI cracks 50-year-old problem of protein folding"
     excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-    publishedDateTime: 2020-11-30T17:41:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
+    publishedDateTime: 2020-11-30T16:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     type: article
@@ -231,20 +231,6 @@ related:
       - url: "https://media.nbcnewyork.com/2020/11/104565791-Google_DeepMind_Hassabis_Future_of_Go_2017_day1.jpg?resize=1200%2C675"
         width: 1200
         height: 675
-        isCached: true
-  - title: "DeepMind Just Gave Away This AI Environment Simulator For Free"
-    excerpt: "In this article, we take a deeper look into what DeepMind Lab2D is all about and how it can help AI researchers."
-    publishedDateTime: 2020-11-26T11:40:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-just-gave-away-this-ai-environment-simulator-for-free/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
         isCached: true
   - title: "DeepMind's AI biologist can decipher secrets of the machinery of life"
     excerpt: "AI firm DeepMind's latest creation, AlphaFold, can predict the shape of proteins from their sequence alone. This fiendish problem normally requires time-consuming experiments, but is key to understand"

@@ -7,7 +7,7 @@ originalUrl: "https://www.unite.ai/ai-algorithms-help-support-tree-farming-plant
 webUrl: "https://www.unite.ai/ai-algorithms-help-support-tree-farming-planting-and-mapping-operations-around-the-globe/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -22,36 +22,6 @@ images:
     width: 1000
     height: 600
     isCached: true
-
-related:
-  - title: "Doubling down on debt – AI and Machine Learning in action"
-    excerpt: "How could a powerful combination of artificial intelligence and Machine Learning help utilities overcome mounting challenges in debt provision, prevention and forecasting? Download this new report from Utility Week and Inawisdom to find out."
-    publishedDateTime: 2020-11-30T14:02:00Z
-    webUrl: "https://utilityweek.co.uk/doubling-down-on-debt-ai-and-machine-learning-in-action/"
-    type: article
-    provider:
-      name: Utility Week
-      domain: utilityweek.co.uk
-    quality: 54
-    images:
-      - url: "https://static.utilityweek.co.uk/app/uploads/2020/11/30135022/Inawisdom.png"
-        width: 1800
-        height: 1143
-        isCached: true
-  - title: "Accurate and efficient 3D motion tracking using deep learning"
-    excerpt: "A new sensing method has made tracking movement easier and more efficient. A research group from Tohoku University has captured dexterous 3D motion data from a flexible magnetic flux sensor array, using deep learning and a structure-aware temporal bilateral filter."
-    publishedDateTime: 2020-11-27T05:00:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/tu-aae112720.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://eurekalert.org/multimedia/pub/web/250031_web.jpg"
-        width: 600
-        height: 280
-        isCached: true
 
 secured: "56mqJrClx3sjuFaz4evuA/WlGY39ytt/Q3dmtjM24SlZTACqgZlPwSh8U5w3+gLtwSFFFHX+tHXY5tyckpe7cvA6T79aY44HD7znPIZiQ7gpx0vG8wvXumHueLlLtCe8cI7J7vSYfOWkTdSKsMeG470NZ+hUko5ztrw0EHPLT9tVSGHZC+hFCOAzziAnALvIWIaK/4vZjrWWvtWzgno2J61KTW72N0CeNL6H387RQqAESYn2Z8UAJ7VhUhhO20WpbvNI7xD3iSX23gvEuIYTMn21weOlFBgq00ksfj+4b74Db6Nd4UW5XC1U5RqlTKlHsC4nejP32ybgT5mLjcGTJqkJb+WgZqhUlgkGxraBh04=;udAHg+vGXCPd9NfqPWrwHA=="
 ---

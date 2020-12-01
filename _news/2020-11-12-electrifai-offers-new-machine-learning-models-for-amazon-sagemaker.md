@@ -1,28 +1,21 @@
 ---
 category: news
 title: "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker"
-excerpt: "JERSEY CITY, N.J., Nov. 11, 2020 /PRNewswire/ -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today ..."
-publishedDateTime: 2020-11-11T19:48:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
-webUrl: "https://www.prnewswire.com/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-301170639.html"
+excerpt: "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly. Delivering fast and reliable results, ElectrifAi is pleased to ..."
+publishedDateTime: 2020-11-12T01:04:00Z
+originalUrl: "https://www.thaipr.net/it/1033083"
+webUrl: "https://www.thaipr.net/it/1033083"
 type: article
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: thaipr.net
+  domain: thaipr.net
 
 topics:
-  - AI in Finance
+  - AWS AI
   - AI
   - Machine Learning
-  - AWS AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook"
-    width: 2700
-    height: 1414
-    isCached: true
-
-secured: "TCpr4IiRcWsuoS1anfsuhre2mWn7DFLtwpXyu4IipHelXyZcO/7mtX8Rf5YuJAjsVvlDhFHKi2rF57Pjdy/k/F2FB8Z1YspHjFWWjzvsjwirYPp9xVExGOGaOQg2uasebd41xcTH94bhYI9OAECbmZ4Z61dcezDwN0UwbUtXfGIZ1cBWasEqlAKkoNZmelJrCayRbR2gDO/kfqB3QfhhYfN2oU5TE1R/l2Bnf3YlQhXCJoBwIS4wn+m0So/BRRg3lVFWK6sFibidv8QsJjXXmd6f0gEKytW9yAWw6l+mVoRLjxdwhcXQjtc2mM627k0hw5XZYTdangP7LDEDDu0AI8bNb7OGv7kQGJGKm7mJEnI=;+iJXMevzuEt3keDIltT4CA=="
+secured: "UaVOr6IkJpnsgzROFaApr6BZEVGF+3QwQutSdbicZFNyeBfLBV8fnKWU/GOryJE3vxJ47LI/FnoxPOjaEy/O5q19c7+/nwLMwJGf8spcFo1PoRBLVE+R1dwqCEsrXevfZjA43+LSUanr60w+sifBMSKn0Yh9R1fHdaE6gIMYiWNkvT/DmIpnourYZoEYMSmxQKofEj9SkhWaFQfkMQ/atks49L9NffaN/rzXhDVmq5g66CZ4C3DnwvT2855/y497psyNobK6xxKM4QAJ2FZnNtlNP2/qQ9K8Ul6vD30Fyn4a51dOoWOT12p+U/5dHQlFhHJA77dEXvqNO0vS1xvNTJc1earvC1TBnAdI8e21RNg=;DtyUO3Z+VokRu6uEHAfEmQ=="
 ---
 

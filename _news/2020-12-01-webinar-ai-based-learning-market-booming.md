@@ -31,6 +31,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 39
+  - title: "UPDATE — Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
+    excerpt: "(GLOBE NEWSWIRE) -- Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as the final installment of the company’s Solve Strategy Series."
+    publishedDateTime: 2020-12-01T03:21:00Z
+    webUrl: "https://www.morningstar.com/news/globe-newswire/8094260/update-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 5
 
 secured: "6+i3he/G7TV/AGZRNt6MAQDZmgtbR6mgPqUTofiaZt5gnnpc7NtLDeIqV2H2eJmP2jgNUjhCLzt02df2BiX3/Bg2hQpdX9NpTV8iBuIPyK4s2g+CzVY3dtXaMH2cesMREqmL7DYgN6GPBmX0bot9nMvLo8VgEBq/TbtBYoZWy/4Ij4lipmVAWjc9pzO7xpf6CGluIO+HSGcOjdj814LKDe+eI9uvamAY79T9JGwp6QqMQSLKgdmuCwb3KpZ28ZRB3p8+Y/+w58VOgJT67tZO6hEo5k0yDSafh691BfioPHCz7UWfuH34sX7r497lr4h2oKwWnDAZ5/BtqP310H7Et6Yfm2Y1mkkHBfS2aDh9jzc=;nnal/qqZ3THDkLUNSzZAdg=="
 ---

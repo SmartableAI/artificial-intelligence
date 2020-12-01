@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Exploring the use of artificial intelligence in architecture"
-    excerpt: "Over the past few decades, artificial intelligence (AI) tools have been used to analyze data or complete basic tasks in an increasing number of fields, ranging from computer science to manufacturing,"
-    publishedDateTime: 2020-11-27T00:00:00Z
-    webUrl: "https://techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.html"
-    ampWebUrl: "https://techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.amp"
+  - title: "How The Department Of Defense Approaches Ethical AI"
+    excerpt: "Military and defense organizations using AI and machine learning can realize tremendous advantages over increasingly capable adversaries and competitors. But there is also a risk of unintended consequences."
+    publishedDateTime: 2020-11-29T06:00:00Z
+    webUrl: "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/?sh=417168f13236"
+    ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/29/how-the-department-of-defense-approaches-ethical-ai/amp/"
     type: article
     provider:
-      name: techxplore.com
-      domain: techxplore.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 104
     images:
-      - url: "https://scx1.b-cdn.net/csz/news/800/2020/20-exploringthe.jpg"
-        width: 800
-        height: 480
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc2fb4596d24545cccb633c%2F0x0.jpg"
+        width: 500
+        height: 500
         isCached: true
 
 secured: "Viz9+ixvrz4+BSv6GS9RfwZMJdFtL1+rDRcqUuHzg5XFJ0NT5YcAoyO/o+3ORFsyFvWD0cZefjJEkK5rF/BZf5ZAfciLuqTN/JKKIs5StpHX7wif+hUw4vMCsRqXjslZlN8Sb7orG8sIXWKjgIujc8DZAOvU9yA1SUOjFWMy1jXloz/B+eD2/2l5DxdMPDthxHm8htDGuKNSMD6lSF2ZSMnj8CpgiTTY+jTfV/1cA/SaaPjibgqYq6qPf9cz6xthy6CKuv0CkLd7dv2/4PelnhYvoyx4AcXwV9eEvicq/oN5h1ar2YKDWaJunNzmsjqO6tLd9fngLwUYI+WfezoHZheX5bBw7H5FjF1qDfy6f3s=;viQPfg/6eQHLGyBMWOh5aA=="

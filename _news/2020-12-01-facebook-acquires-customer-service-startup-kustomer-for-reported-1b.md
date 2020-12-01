@@ -27,7 +27,7 @@ related:
   - title: "Daily Crunch: Facebook acquires Kustomer for $1B"
     excerpt: "Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for."
     publishedDateTime: 2020-12-01T00:35:00Z
-    webUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/?tpcc=ECTW2020"
+    webUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/"
     ampWebUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
     type: article

@@ -1,26 +1,22 @@
 ---
 category: news
 title: "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM"
-excerpt: "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by the manufacturers."
-publishedDateTime: 2020-11-25T17:19:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491"
-webUrl: "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491"
+excerpt: "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of"
+publishedDateTime: 2020-11-25T21:29:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18534360"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18534360"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "besBa/r4Lc8XuZop1I4eJSnVauI9d8njBPbIT6OuoGRhtJ+ucsll0DoJKH6aot0pyCOcd16BvXL3JTaloj8M8DQbwchicvAutjUcS4JvbwBnWylONYSbm1olbLkcQeWhZ0y0wtw1nK4it9Z5dQ7PwXk8uPsdf0c9y7PLECD1rtSS5tg9y4gfCcBEtZGmbrTHcRPFNTbtH7Pj/LrSDb7ssz+ALnUPt+F1QN1c6YZSRxTUxh+YHw6RBH0G5wPs2N03vn8JqcbDXecU3VcWKmPd0KKnM85JIi6nzA5J126GdCg8+Suyql0f5VqHtNdmTAnf9CljCjN5gmqi1G7scJxsS5JB4QnI5pfnwTMH+9EyoOo=;PPJ+Lvq0tTIb34l031QHug=="
+secured: "+XwDIXkYSErbwfkQzDLRNy6wQxi+Sggh+iX3jqsxg3BxvzAUevc4Yb8sA05ijiOd7iNbMQMLtZ1omz0KIWazeRccVEoLyGhgxRpWj19QzijDPC6bXXHbXsODi2NIwdL5k6a/6V7gpkOipX3aZ5+dSNmi9/5+a0cs9Fx7CFOXX7sAorEfjtpLvh+gpDTYZG7kz5sSXG7NDmwM7m+Xj1GMFJNn31UORa98/Kd1fR+rMixzdE/LzNbpaR6mSw7M9zhIhjwRsGIbPLe7IfQQqb9ARQtu9w2Chhf58mEYD9gNKzGEtkH/oc7nKz1OVpgQIhk303m1tg05rY8hGrykJoJfIICgjRyqn6uxWtoAItoujjk=;qdM/XnfXkKTDElhSl1ykDw=="
 ---
 

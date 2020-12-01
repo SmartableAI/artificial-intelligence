@@ -7,8 +7,8 @@ originalUrl: "https://www.thetimes-tribune.com/news/health-science/training-faci
 webUrl: "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: The Scranton Times-Tribune
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automatic Facial Recognition: authentication, identification and ethical use"
-    excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
-    publishedDateTime: 2020-11-26T12:16:00Z
-    webUrl: "https://www.ifsecglobal.com/critical-conversations/automatic-facial-recognition-authentication-identification-and-ethical-use/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 53
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Madison Common Council to consider banning facial recognition software in most cases"
     excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
     publishedDateTime: 2020-11-30T16:17:00Z

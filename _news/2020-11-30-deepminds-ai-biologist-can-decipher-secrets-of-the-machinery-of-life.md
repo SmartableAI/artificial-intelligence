@@ -153,8 +153,8 @@ related:
         isCached: true
   - title: "DeepMind AI cracks 50-year-old problem of protein folding"
     excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-    publishedDateTime: 2020-11-30T17:41:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
+    publishedDateTime: 2020-11-30T16:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     type: article
@@ -244,20 +244,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg"
         width: 1000
         height: 556
-        isCached: true
-  - title: "DeepMind Just Gave Away This AI Environment Simulator For Free"
-    excerpt: "In this article, we take a deeper look into what DeepMind Lab2D is all about and how it can help AI researchers."
-    publishedDateTime: 2020-11-26T11:40:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-just-gave-away-this-ai-environment-simulator-for-free/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
         isCached: true
   - title: "DeepMind AI breaks through decades-old protein folding puzzle"
     excerpt: "Researchers at DeepMind, Google’s artificial intelligence-focused sibling, believe they’ve now cracked the code, with a computer model that can translate a chain of amino acids into a 3D structure."

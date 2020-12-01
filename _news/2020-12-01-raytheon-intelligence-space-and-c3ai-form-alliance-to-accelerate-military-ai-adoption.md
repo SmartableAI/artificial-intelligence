@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Raytheon Intelligence & Space and C3.ai Form Alliance to Accelerate Military AI Adoption"
-excerpt: "C3.ai, a leading enterprise AI software provider, and Raytheon Intelligence & Space, a Raytheon Technologies (NYSE: RTX) business, today announced"
-publishedDateTime: 2020-12-01T01:58:00Z
-originalUrl: "https://www.marketwatch.com/press-release/raytheon-intelligence-space-and-c3ai-form-alliance-to-accelerate-military-ai-adoption-2020-11-30"
-webUrl: "https://www.marketwatch.com/press-release/raytheon-intelligence-space-and-c3ai-form-alliance-to-accelerate-military-ai-adoption-2020-11-30"
+excerpt: "Faster availability of AI will improve military readiness Business Wire REDWOOD CITY, Cali"
+publishedDateTime: 2020-11-30T19:07:00Z
+originalUrl: "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intelligence-space-and-c3-ai-form-alliance-to-accelerate-military-ai-adoption"
+webUrl: "https://www.bloomberg.com/press-releases/2020-11-30/raytheon-intelligence-space-and-c3-ai-form-alliance-to-accelerate-military-ai-adoption"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,7 +22,7 @@ topics:
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
     width: 1200
     height: 630
     isCached: true
@@ -42,7 +42,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "NVIDIA Launches Inception Alliance with GE Healthcare and Nuance to Accelerate Medical Imaging AI Startups"
+    excerpt: "Over the decades, an entire ecosystem of medical imaging hardware and software came to be, with AI startups now playing a key role within it. Today we’re announcing the NVIDIA Inception Alliance for Healthcare,"
+    publishedDateTime: 2020-12-01T03:58:00Z
+    webUrl: "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/nvidia-launches-inception-alliance-ge-healthcare-and-nuance-accelerate-m"
+    type: article
+    provider:
+      name: Cadalyst
+      domain: cadalyst.com
+    quality: 16
 
-secured: "AObfCRqO+gzUARyT/Q3CyJULwSEypPcsgKwZHhfQGPTipn1Tva6EA8K+Z4wV9bPnGfZKGfLUB0TgphyqsfP9aMJVEqUymBr10nFDZtij3dWGqsBywQu8vJUxyPjLw/TMiUmALh0v9WPwkyVCm4xHHwgthWS8Pxy67QgcpwOFfetMzlCsmDyF9WpFm3ryowkSKvvIQ25eezO4s8UoX4h2VbIW7g98KDJ4ERFIh6cEkErv7or6OznI14aUgP6EY7pGwFCwR7jmJMPCG00WQLWty26YWPgW4SYq5bg12TuiU787z/vn5mg7WIOOQdR6sj4CuQ3yRp5sUtKSwIxmM+8QkqoaXS9T41OHvyfAFQS/kdg=;s9zgb0F1HqoXKj8xomoQrg=="
+secured: "WOObQFPKa93bORpSpsi92N/TbyxUH6QmUVKSoTt8g6wshm6py4STzAW+r8V1/ivtc54/1Fzh3bEustRQKhBY3cbIIAJSal8UrYQr0MBqRfbREr/2x0AkwqH6Hb+tqiVYqU5bPYc0zz4LoyflkrE8idjZehXCmBML+zp76MLqHMTRSk7Btc01XQQtULeiuKmB6Onqh3cC2uPRBMez6nk6tG8V0ye67e3TjClbz5h2m7M0n263IbTKU1BYc4RuSgGq3zZvnMz+B66X8oQrDmKeNS0S5eKEH1y8loT1XxCAsRanHzpfCq+GDxGAvd8Tw2Ohlu0W10epfjWbXEvGTz86YoaAIyjoE+qcW47DOy2CgWQ=;NPeubYakGn5zr0cKAHsx2A=="
 ---
 

@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "The impact of machine learning & AI on advertising in a privacy compliant age"
-    excerpt: "Sian Williams, Audience Strategy and Planning Director at MediaCom North, explains how AI offers a future of increased automation, faster decision-making and ‘hyper-personalisation’ that will make marketing comms more effective and businesses more efficient."
-    publishedDateTime: 2020-11-26T12:53:00Z
-    webUrl: "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age"
-    ampWebUrl: "https://www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp"
-    cdnAmpWebUrl: "https://www-prolificnorth-co-uk.cdn.ampproject.org/c/s/www.prolificnorth.co.uk/features/tech-news/2020/11/impact-machine-learning-ai-advertising-privacy-compliant-age?amp"
+  - title: "AI can run your work meetings now"
+    excerpt: "Meetings have become the necessary evil of the modern workplace, spanning an elaborate taxonomy: daily stand-ups, sit-downs, all-hands, one-on-ones, brown-bags, status checks, brainstorms, debriefs, design reviews."
+    publishedDateTime: 2020-11-27T13:00:00Z
+    webUrl: "https://arstechnica.com/information-technology/2020/11/ai-can-run-your-work-meetings-now/"
     type: article
     provider:
-      name: prolificnorth.co.uk
-      domain: prolificnorth.co.uk
-    quality: 73
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 69
     images:
-      - url: "https://www.prolificnorth.co.uk/sites/default/files/styles/hero/public/images/features/sianwilliamsmediacom.jpg?itok=sF0_8wva"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Dodging AI Biases in Machine Translation"
-    excerpt: "Machine translation company Intento uses metadata to add context to any text to be translated and automates post-editing to dodge AI biases."
-    publishedDateTime: 2020-11-30T09:01:00Z
-    webUrl: "https://slator.com/sponsored-content/dodging-ai-biases-in-machine-translation/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 54
-    images:
-      - url: "https://slator.com/assets/2020/11/Intento-main-image_6x4.png"
-        width: 600
-        height: 400
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/Screen-Shot-2020-11-25-at-10.50.31-AM-760x380.png"
+        width: 760
+        height: 380
         isCached: true
 
 secured: "yRg9MmVQ7fP5in7x70t+kvmkf7vN09YXTTzNODVQwZ5xxgt2b7yDo/GUyC0s6O1x4r/5pkGGY6USQZXDyefkV1UATarML7NfgVxO6aSGUhLDq4ZJAEnN8OfKXEvt//WiNL/J2o1wKw2RxfwtT+ArUhBAloTQh5+JQ9yQp3TzsLY2kwueSvVLDHytlJ+6BZ8bWRQ5XqZZrBKAxt8X/VJtf2UlCeeX5uKoSi+04r92sjZAsGka1WzkwCRZDQqmgLuwDSJE0me746NIwa7V7A4YfpPWNdfoA8HansrXa1xIlsAIPH1fclTaj32R52gpLA0Su3hq6/6w5VXn5qYijEH1AD4ixrygciH8Y4z5jLXy2Y5lDDIPl0MDHtnoWim/jMPuB/howsRiLHt4B6vkXWl559SffljVz43f5wu/EjjsjGD2Ty6u/Vp8ZQQ3BoBXi3G/kiqpfA3sej6TaQPFUctMmX28aFGcBehXYImEVCMWHC5CQseqkSMD3LAR9pA6CLAgolA7HImQllAH76M0NxhDdw==;ndKz5A5TFB7B5xsSkJVqoQ=="

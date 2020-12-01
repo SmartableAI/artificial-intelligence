@@ -1,23 +1,23 @@
 ---
 category: news
 title: "NexOptic Joins Arm AI Partner Program"
-excerpt: "(GLOBE NEWSWIRE) -- NexOptic Technology Corp. (“NexOptic” or the “Company”) (TSX VENTURE: NXO) (OTCQB: NXOPF) (FSE: E3O1), an innovator in optics and Artificial Intelligence (AI), announced today that it has joined the Arm AI Partner Program,"
-publishedDateTime: 2020-11-30T16:33:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8093293/nexoptic-joins-arm-ai-partner-program"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8093293/nexoptic-joins-arm-ai-partner-program"
+excerpt: "A shared vision bringing NexOptic’s differentiated, scalable, and highly optimized imaging AI solutions to multiple global markets and verticals Complements the Arm ecosystem for on-chip AI deployment for intelligent endpoint devices VANCOUVER,"
+publishedDateTime: 2020-12-01T04:50:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2020/11/30/nexoptic-joins-arm-ai-partner-program"
+webUrl: "https://stockhouse.com/news/press-releases/2020/11/30/nexoptic-joins-arm-ai-partner-program"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "wJ/wefF5CcuIcfesgVJw4lG2PIBnHHoOqQQ1PM0KzKYFHTs4wna4mXk9e59u5iYZw001vV8+rzyrrvLlpGszMKSj5WLPG906hkDfy6OnI0FnUuRLgRMJXfQIYC2B4x7BP53cxNfy6BQVf5z5nZgxj++B8P7nSkKzHSkcOnN//OSwkXmbWYFyr8sm9Bu7O0RMIA6rcsyjLBKUpIP8cc949LuRNc7iUr7zootNvXmg0n0IN4pEOUUucYTRpqiAjzxLE10K9h9rOS99kCXzrrSgkRaX1AyWu8gep1CME9AT4aMMDmSPgOCnBCWXwgPqk3VSaBk/DxqgHFfPxyZV7R60iP1faV3OFEj0gISC1bSe91Q=;g5OSXpoVcO3P3mcii0kSlg=="
+secured: "LiEKXi/6C0HQrOSKslPp1IfrGlGDp/qW3nLqjBGH4uMla25AW4n/cUlOdwGdyBoHMYHSb/7sXdKKy+vC4fNFHgW8J5ROmMSpA5bO+6Vt5JjUn/j47hncwaOujJKGP21rC4hLML/Eykt12zafYno7Odkzvlp9hjR5flIFHq/RHVsN5NkXRzyp5celnSYJY2LapxKAz8ZR3FZdIXlAD1vFYQ81rLBN7L1Sl16yj2qbved7PE/Hu1tWH7iaPLBE3ibzbuZP397LT8+3NVq3WT+qhLni4RjYdjoi4wNSjdDB6DxKiFY9QB/co35qW42mcrNsRdIhD5Y0oGRanF1ur2MUX0y2NANYO4Ih9mq6kKBIDb86AoYaj31HhWwgWP1LEHK2XC7WI7ozZDeAVzsZ58y9QeP+bYd94TssDqw9XfyyoBFyxMQblnxeQx09rkOEYYDjAYSnco6JZdEOhVK1xzcrljdcCH96CchAXTVQ+ch1tUpxu1J6WKnf4/dOfSmdAhTQUb6JhwZaMBP0Uxw3b6Onbg==;a7Y+PmZWsyaonO2mlyMyDA=="
 ---
 

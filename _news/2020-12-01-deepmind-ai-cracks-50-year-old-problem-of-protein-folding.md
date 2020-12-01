@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind AI cracks 50-year-old problem of protein folding"
 excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-publishedDateTime: 2020-11-30T17:41:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
-webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
+publishedDateTime: 2020-11-30T16:23:00Z
+originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/509cd5c3d7e66829a6cf90a7ef1f11cb3d06203a/0_78_1760_1056/master/1760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc1d5923b1628c37cb78376e40a2ca6"
@@ -235,20 +235,6 @@ related:
         width: 1000
         height: 556
         isCached: true
-  - title: "DeepMind Just Gave Away This AI Environment Simulator For Free"
-    excerpt: "In this article, we take a deeper look into what DeepMind Lab2D is all about and how it can help AI researchers."
-    publishedDateTime: 2020-11-26T11:40:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-just-gave-away-this-ai-environment-simulator-for-free/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "DeepMind's AI biologist can decipher secrets of the machinery of life"
     excerpt: "AI firm DeepMind's latest creation, AlphaFold, can predict the shape of proteins from their sequence alone. This fiendish problem normally requires time-consuming experiments, but is key to understand"
     publishedDateTime: 2020-11-30T15:37:00Z
@@ -379,6 +365,6 @@ related:
         height: 720
         isCached: true
 
-secured: "34jdfuTRbRGoKGRz1oprtO0yX8aTTe37teYUsmAPDlBnNeVu0rJrzDMRI2DVJP+W/ipsoR4L7HN6RA6k/xbXv46pihcy1JQvuff4CiQ7gW5k20aIMfIaU0L2NdW7/5qhTFJ0V3iCf/KvDmzkyMuowPcasaXR1rXSKVcVURZM9UPQ1dwJ6aMcifRMhWfLmT37Eo4ZaVPm5dUuYdjKQCk+YdJ9nAUSoCGmwhQnWMTYyYxAfMrhXb3SVlS3Kq7nLUA8VsdXJ45Z4afxk7u2oDZjV0UpBqJy5p5bnp7yA7J+FLjfIa5H1PIRHEbOyGTO8SFlVbtee+k3k1mvXAIw3CZNLYjASBpp0z8CArLIDlyx+3o=;dv2GLA8T9mrmhVZ9hsDL8w=="
+secured: "9IyxQ8Xp/arFfebz0poTSBqzN02EKQXlSdiVXcEWB7l/g5hmT4FGgHQMCH/HE64iL6ILQiflatvWXRhomCwF/YWMhRieU0ztg+E78vrPYCQq9Qq/iZnydtw27kgHE/qPAZ7HwsfYkAGRUrtuXUdktJ0gxtJNAmRZZcvDuFyxuebiOWaVWQL2vW9TvMTio/tgd6YgCUCRs8tqYCzcYiSqWAomKyMRpqqzz2hZNhEPRV3SRxMi8Z6AlXoaMQhuGSGl2202jnKINqFV2ThVlf7+DV3+Cenm2GjfKWWZwg5gDqKzdqX9o1OvAh1bOU+wyuIbTSadmfUljFG7hGqFFTVav6ss/zq/2+Er3G1kcGCgAJE=;iUIV73HcrfDxYVudqmQYJw=="
 ---
 

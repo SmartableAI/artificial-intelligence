@@ -43,20 +43,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Federated Learning: A Therapeutic for what Ails Digital Health"
-    excerpt: "Researchers show the promise of Federated Learning to protect patient privacy and improve healthcare outcomes across the world."
-    publishedDateTime: 2020-11-26T13:00:00Z
-    webUrl: "https://threatpost.com/federated-learning-a-ails-digital-health/161633/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/25141653/Healthcare-Digital-Symbols.jpg"
-        width: 750
-        height: 519
-        isCached: true
 
 secured: "+tF8DH7IuQcUHiHttOFfj1UHlmPTHOZP87Gt5eIlHywoPssaV7V2M5EKaxryIxkcqFsDJ1VXtq9NefsyrrHgzM8PRIR1oRq6Cp+yv7bG/gSKZqFDdvFf/uuK9jJzvsVIRi9qoP8JW5LYxdiEBXYqyFRra8UbFH81EUtOIiWljKAOLLEts+D9RmrBoglBG1Pbw1tZP3vhsI0RoGaeK/PGZsh0G9kgiekrHlrtpxmnuA4gJRAZbTf7M+KghGd+ANkIyr4U2V7a26tQYtwXGIduTSdMJ/Y+Fz4LoS5XGN81ZiRmgJy1M+aG0HOQxjIJ4rukgDw0KQE+NOdkaBeJpsVlje/YE6L/u4mQZX+mQcKQzMsu9jKBzHrYumTBz4TSxHNO9Ie2sENGNT+5P/VvgpRNCbze0BLphpteCtJyEpclzX6XNXvL4UkM1JKegmFOoX/kqwm4vpvDVWMLyqhCh5UegvUDQofQzhuvngABRuh+WNqGeoDgpNz2R2FsaP5pGvd0/IiU+4Uk0l7xFge6ZVlyXg==;MxRXOT5B1mHt7xkBKwMrAQ=="
 ---

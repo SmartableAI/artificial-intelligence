@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Etihad trials facial biometric check-in for cabin crew"
-    excerpt: "Etihad is trialling SITA's facial biometrics for cabin members, allowing them to complete check-in procedures digitally via their own mobile devices."
-    publishedDateTime: 2020-11-26T11:51:00Z
-    webUrl: "https://www.futuretravelexperience.com/2020/11/etihad-trials-facial-biometric-check-in-for-cabin-crew/"
-    type: article
-    provider:
-      name: Future Travel Experience
-      domain: futuretravelexperience.com
-    quality: 24
-    images:
-      - url: "https://www.futuretravelexperience.com/wp-content/uploads/2020/11/Etihad-cabin-crew-facial-biometrics.jpg"
-        width: 768
-        height: 403
-        isCached: true
   - title: "Genesis GV70 Will Let Drivers Start Car with Biometric Fingerprint Recognition"
     excerpt: "The newest version of the Genesis GV70 will reportedly use fingerprint recognition to deliver a slew of smart driving features"
     publishedDateTime: 2020-11-27T21:22:00Z

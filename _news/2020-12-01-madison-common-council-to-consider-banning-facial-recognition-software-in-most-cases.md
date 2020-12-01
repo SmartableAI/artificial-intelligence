@@ -33,20 +33,6 @@ related:
         width: 1080
         height: 1080
         isCached: true
-  - title: "Automatic Facial Recognition: authentication, identification and ethical use"
-    excerpt: "Legal, ethical and privacy considerations should be at the heart of deploying automatic facial recognition (AFR) technology, say experts."
-    publishedDateTime: 2020-11-26T12:16:00Z
-    webUrl: "https://www.ifsecglobal.com/critical-conversations/automatic-facial-recognition-authentication-identification-and-ethical-use/"
-    type: article
-    provider:
-      name: ifsecglobal.com
-      domain: ifsecglobal.com
-    quality: 53
-    images:
-      - url: "https://s33644.pcdn.co/wp-content/uploads/2017/09/facial-recognition-biometrics-1.jpeg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "hxZleRqVTFdzFOQLwhUO3I/2WmZycDyQ0yXyq/dwc+6d/75jLbGk+gsvSLXwdBL+ASvMsdsFVpKLhBqKItHcPeldhQGLv5EqBZ6/ZiktHTQ2ikIgF/m24P3A3JIFFyVCCjQY2kGmOixbTZZlmUVXCHCII26PEHMwI6JJb91oukb7vbOo15cfZvkoZJStHH6pCY40SbmNhpgbLDoM9zQYBwMZvlZbOnWHPMvRveFRUKnzr5qQSxPT8WiDIf2Bkcs2HtitTPEigisbQGSPC48v+4TnuL2zUVubIXvO+DLyhFoJ7UAnWjoqlfMcGmdhmLi2VVynwbO7n5ZKdXD6O01Yv2RLC9yL54QnAuduvrmyNq3ZW0PdIq7RX4J+7TnZyO3/EA9G5TnvsFFp9+/Flm+IU45G7iIPYSR9Ks66YaVZADHU//4pfeR6HVtnKFUOhwWXlXqtTR7CUrGvSG/BSriFiLPB+L97gtelnJrt6OWY8k0VE47T6GtoT8vPD967gFeqSat0RWkEzxow5TM0WOK3IQ==;LfyTIgZC8YM8vEmSzQo4LQ=="
 ---

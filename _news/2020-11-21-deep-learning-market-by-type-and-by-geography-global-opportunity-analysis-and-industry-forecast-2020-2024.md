@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024"
-excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) Click & Get Free Sample Report in Minutes. The grow"
-publishedDateTime: 2020-11-21T15:35:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae"
-webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae"
+excerpt: "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The deep learning market is expected to grow by $ 7."
+publishedDateTime: 2020-11-20T17:45:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201120005431/en/Deep-Learning-Market-by-Type-and-by-Geography--Global-Opportunity-Analysis-and-Industry-Forecast-2020-2024"
+webUrl: "https://www.businesswire.com/news/home/20201120005431/en/Deep-Learning-Market-by-Type-and-by-Geography--Global-Opportunity-Analysis-and-Industry-Forecast-2020-2024"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mms.businesswire.com/media/20201120005431/en/840838/23/IRTNTR41147.jpg"
+    width: 1200
+    height: 627
     isCached: true
 
-secured: "/War4ezQojhmOE8l+XBSL3jdkJNSugmska3G3Zm9I9q6gympIcfl9kitU/SdUaqG4LGreQhp76zDUAqYH1U1WawqiOErS44vrsW3nsIctx4LlleI+Ld7Ngf7j9lkTzh+2PZ4wvnwOk/cE7NIcOfyjvyDo+W2U6Dezp2FRNPOzeGliFI7jyNXqbm2qktgGp8iMREx0g9XXSnYyB7WFCh5uteuJ0B9RIHZwjILFLf0FBLKjPJ4rDgDaK0I4UkWe29vNzxX12MF7Tht+mzGEtqb2ipriJRfxZx2RFqJATbPa+nteX7W+yNHJE3fBAyPaPUkDgqHWppEeEOhhK2XPzdHJq33N7z0F/zjUd8JuKnJkck=;Ma8mmeGX+QZBbDAsQKREpQ=="
+secured: "GZ8lHMY3htt8er1Z9sEkvQ4Z162isDx2kN0i2P9cO3I9HeCczZVWSPLtxuSZfTm1zM09QfDBeb41cw3SeAArjE8QFTy5kCERmgmKr5RoclXTb24EirT6Hx7zJIepMXsxJbsa3aO3mZclow9gEQE6hgkUpzpf4bmSm0pJ/XNDGqg/CCxESpojcaY2GWg1RlY3KKl+g7x/6u+RCGxjTHfmyInWU/UEvo3x8Fnt5uAUAl5L5uPcysdywOevRUFR4b2qBDokdw51S5bqP1RCBSGYCNzA0yvpBxtSgd9OQVU3HVacqlk5Me2Z7PMjxsRu25wX2Fy2XHQcdoU2T3OY1HJF/s2621DnilLEDRKNhY4lpUo=;x7EWCPGm3uInTbLwA7b2Ug=="
 ---
 

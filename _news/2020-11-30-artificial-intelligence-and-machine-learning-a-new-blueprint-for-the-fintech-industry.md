@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learni
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://s32659.pcdn.co/wp-content/uploads/2020/11/bic_Malta_blockchain.jpg.optimal.jpg"
         width: 1140
         height: 570
-        isCached: true
-  - title: "Federated Learning: A Therapeutic for what Ails Digital Health"
-    excerpt: "Researchers show the promise of Federated Learning to protect patient privacy and improve healthcare outcomes across the world."
-    publishedDateTime: 2020-11-26T13:00:00Z
-    webUrl: "https://threatpost.com/federated-learning-a-ails-digital-health/161633/"
-    type: article
-    provider:
-      name: Threat Post
-      domain: threatpost.com
-    quality: 39
-    images:
-      - url: "https://media.threatpost.com/wp-content/uploads/sites/103/2020/11/25141653/Healthcare-Digital-Symbols.jpg"
-        width: 750
-        height: 519
         isCached: true
 
 secured: "F1DGl3z1cICnaxTU6GzY4phYb+XKZrb5eT2d/fzfei67orlJp0P1dfRXdLaOifo81RUTBhLsXByq4BSqvs9jrFBKVNayOHGM7Y+UL9EHehkjP2KXbCqMFJY21qyL65S5U4T/pMAPp6DvknJQXamnRGXhUnfmqrCFZ0oqaCIodBpVEBhzv2gMi7shw74X4FcLes5XEDlhzuamZ3pBl3ZmFfkxzlDNmCFzI7US8tzHj+peR99ua9HalfCkuu88BvQYVz0YeAJLSLZl321bU7ccBKaYKCanbKPULTo2vf+dFKbO3Osm1gVw4lHTjjzkwmywpEHQVLlWs23TqkeJsL82cUv+4BwGqpQ48Vs2J4N3klzrEz73Mf/x76RohiQa1G7SVgHBzCbYhQY7J0hW+hfsy5fsviapjNhe4Vc32i/Ia5aBsOwz86fzxvqh9eSUdFe+7HoqzK9KUYkqO60qJVQ8E/8tPHzoBUP1w+W7OycjkVpS8eAr4/bzdYeh989EyWwBwpSiRmx2YOwoKaVTWYuTEA==;8bhyIuXfeA4uvOl/MLpGtQ=="

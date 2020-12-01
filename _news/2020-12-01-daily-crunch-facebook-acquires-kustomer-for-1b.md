@@ -3,8 +3,8 @@ category: news
 title: "Daily Crunch: Facebook acquires Kustomer for $1B"
 excerpt: "Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for."
 publishedDateTime: 2020-12-01T00:35:00Z
-originalUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/?tpcc=ECTW2020"
-webUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/?tpcc=ECTW2020"
+originalUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/"
+webUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/"
 ampWebUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
 type: article
@@ -82,6 +82,6 @@ related:
         height: 640
         isCached: true
 
-secured: "sRRl8jAWQOFma7ozIG2Bmn//w1ttP6yZXSW9MopwaT/6/5S1bdPsoYR91Sbgicww2Yena5LqcH+2Z4IPzt9MdXgOskbdYkqCKxBMw9QA0BLw6REErQBlG1bICbWGsZa9mVzYrutE7kdo5O1ss2XsTMxGCc4IDQwss03tP2JhaJw16Hgbf5DIfMJXa71FC5ehn8i34Hl0vU9dc7bJi8+P+JYcdd+FDKJXpBzGs5RIsW+AqJ0uHO73zL0FhsxdUyw2wz1eGD9IXWDLvDZYtXOskWLanJKNIy2m0JD2aSs2L1kDSbKgqbYWjsyb52YWZxpdIzYw/4OXGIqAlJzXG19xAutJnWdeWw6OzqK+2Z2W3kBWSVrz1hBwSpvd79Lq546of+fWauFaLzX/5hoc+kj5Fo/dS0W6yi5UWqYwzSYaCGaYEFf7RSItV7FFlmTVrfPGgHRuvtFDZFjmMdSO/R2f+r+6XIe29DphS34bOYHKQbapmRwAp1KmKRtfMPoIMlDGFPqJc5B4IoTuZUJP69ygqQ==;g5noDh0f0mfVg7wdh5JWNg=="
+secured: "ptdG8ctwkKgIw+x8sYoX9qm9GPfOTzxxp8vn7fFYdZ8E/O2JS15UxzfqQXfArNdvecQ/jKM0psUB8eKY02DsJJJFJhUEfrz6Pj2wgAHl9IdSwvg1m5RKHxVKuvN8mFoCAjNkVBg7ZPSkHGfcOvBMAeao9Vbg6QSqK3f8CrcUx1SjKcpWa2WJnfwTNzHWdo7mPQaSlc8tVX4jfWNSnGvMVLr8vPHnj45KBeNm6OFazr8QbtZpSDyWJ3DNX2g2r/ExjiY2c+BgUFMWaIo4yc/+JxIW/JYHGMUOj4FAjceP/Y8snyrcTSattgFmKTHnOUISFvI7LiQC9rBWHNdtijx7hshz8YFwwA/Q5iuqPPM1f30=;PwvKq4xHm03oHwGMeydAcw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2020-11-exploring-artificial-intelligenc
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-exploring-artificial-intelligence-architecture.amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: techxplore.com
@@ -26,22 +26,6 @@ images:
     width: 800
     height: 480
     isCached: true
-
-related:
-  - title: "Is AI Making People Lose A Sense Of Achievement"
-    excerpt: "What about the jobs that lose their meaning due to automation leading to a diminishing sense of achievement among workers?"
-    publishedDateTime: 2020-11-27T05:33:00Z
-    webUrl: "https://analyticsindiamag.com/is-ai-making-people-lose-a-sense-of-achievement/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/11/razvan-chisu-Ua-agENjmI4-unsplash-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "VThznEX7NVB1HzkQvghMS916zrNFMIFFO2RUmcYOFDYCIY4f1ZkWjExX45f44qTaw2xJU3nUELEdQ++sDaPeD+vvbZIs0fw85b59d4BFHRPGun1GXPwcUbI/RRR37DA2s2SjY/ytWjiVKVHNv3qkl7P83woVtNX0vUzuTD5R2KJxOJGID3R1IhGIkVUOYmJSAbo7b90bBEHcatvB7WtfnRfqZGzd+Yg87HRla7/vN/+IOGTllUUQf35PGsoVe5nFkhWm1U+49HYTHwAsSQgCwiuk0xrYJK6hn1RZPDXSOVfv8B+JHstRjy7ZxgO4DpCq6HM9bkq2Cx+DINETB7oKSBgpyog+yw3Oj4fxQhY05/TvGM7z3ngNO2vIvFkp+5yJnf7g9Jxvnpt9HHvg2iUy/1PQnWFtmC6opWB4jB4AvOXQqCpZ9W4Z3oME5JJHgR/lOgl18M9TzBMp3Rn2OiS5BDgiNeLdjUwqrT+jJ6T6Mo4XyAIzNuwLZIGjklwo+fIP6f5fkByOEhbDrgQtelv3XQ==;eVFwv7pTt58cVXL5zNvN5Q=="
 ---

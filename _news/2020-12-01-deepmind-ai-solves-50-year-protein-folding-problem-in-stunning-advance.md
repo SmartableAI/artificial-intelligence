@@ -143,8 +143,8 @@ related:
         isCached: true
   - title: "DeepMind AI cracks 50-year-old problem of protein folding"
     excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-    publishedDateTime: 2020-11-30T17:41:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
+    publishedDateTime: 2020-11-30T16:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     type: article
@@ -234,20 +234,6 @@ related:
       - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/brain_chip_shutterstock_DesignRage.jpg"
         width: 1000
         height: 556
-        isCached: true
-  - title: "DeepMind Just Gave Away This AI Environment Simulator For Free"
-    excerpt: "In this article, we take a deeper look into what DeepMind Lab2D is all about and how it can help AI researchers."
-    publishedDateTime: 2020-11-26T11:40:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-just-gave-away-this-ai-environment-simulator-for-free/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 54
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2020/07/aim_rl-min.png"
-        width: 1366
-        height: 768
         isCached: true
   - title: "DeepMind's AI biologist can decipher secrets of the machinery of life"
     excerpt: "AI firm DeepMind's latest creation, AlphaFold, can predict the shape of proteins from their sequence alone. This fiendish problem normally requires time-consuming experiments, but is key to understand"
@@ -379,6 +365,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yRx89sFhscpH+b1cU95tM+ky6dKqnKwgxJharHi3Bsexs+FTx0BQrxGig+NR2fc49YxbHuS6t255zGKogGwes8sHlisKg3e94x47bU4RyC8giWqEKuZzQTtKsb9j3aFn7or0vqv4T91wO2PQ94mwZt0W7j1xBqrOfTzcZjoMjFgFVqcW7G36xYwb4VzEehQQyvsGWZ56zITyIsb8CYxfAzQuGJJ4cCL+fDizZy6ETbNSa2EPIUaYbrVtkirQsF+t1kiMLne8E3hOdNm5MTDVGrezWyzruj8ATeCHqWokC3khzyDBDJoeRx3eR7nHKLyHtE0HBtA0vdaNDPvvmHimQRSbwD9cFs/8OKbuBzxxqzw=;EegKq/i873dZKvaP3fgv/A=="
+secured: "jgF1O23OxCtVkpDgruvirvNVfhVJ7y8CYMHjWZ5rVNG2Y13StpCCkKu7cibrMR/glKhxgLp09ayd7oCE1QpeGoy8ulBLGEPFA0gt/3Doi5uE3q0twlde6XWRFM+5TsM4gxuO4/H3Suf5nPbPuebsq1ok5ZU7pn/rgGzPpn+FeeDz1fuE+FwmeyBnwxB2PYlWtnNSTDUbb0YnAC1wFqjgKpvCaRlAGBuZQQh0O9MziPIjEOQCE7JTgMvo3XoG3+ToW1lkZ7dMJmyKEolklrMajmTv80g8PSYblHCLnwtgFmDlLbsyQgzUgmqMMrzEzeK0De1Yc8+K5DgnqDn5yl0jzGnUftqBRhLjF3rc3sL195eDSEgm6nxsxGq1DE3E4E2hNCbiKwSdZYx1WKKoaKaEQ9XViWwKM/B6wvjeMhkIi1rcvKPLhtKLnciE0Up4L1m4Bnd+FTuMCvWeQ5U4i49yYqTfujcDCJE7nHkym5r6g0m/mVQefxPyjoO/HtP68ZCxnfYnB4NgCcWo7sC3YVdtLA==;31VXK4bjuDD5LGdZHPIvjg=="
 ---
 
