@@ -69,6 +69,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Elton John delivers powerful speech as he accepts British LGBT award"
+    excerpt: "Sir Elton John declared “I’m gay and I’m proud” as he accepted the global impact award at the British LGBT Awards. The singer-songwriter, 73, and his husband David Furnish, 58, were honoured at the annual event for their efforts to raise awareness of HIV through the Elton John Aids Foundation."
+    publishedDateTime: 2020-12-01T02:54:00Z
+    webUrl: "https://www.thetelegraphandargus.co.uk/leisure/showbiz/18905205.elton-john-delivers-powerful-speech-accepts-british-lgbt-award/"
+    type: article
+    provider:
+      name: Telegraph & Argus
+      domain: thetelegraphandargus.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetelegraphandargus.co.uk/resources/images/12081762/"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Elton John Shines A Light On How Pandemic Has Affected LGBTQ+ People In LGBT Awards Speech"
     excerpt: "Sir Elton John used his acceptance speech at the British LGBT Awards to shine a light ... “Thank you so much for tonight’s recognition and honour. And we promise that we won’t stop,” Sir Elton added. “Say it loud: I’m gay and I’m proud."
     publishedDateTime: 2020-11-27T20:07:00Z

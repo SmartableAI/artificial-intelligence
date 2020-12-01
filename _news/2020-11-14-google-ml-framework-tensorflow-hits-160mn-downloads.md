@@ -12,11 +12,11 @@ provider:
   domain: webindia123.com
 
 topics:
-  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
+  - TensorFlow
 
-secured: "Rstom154oJHWvx7hs1N0Jpz+9LeXPaLMmGqTOzRrk9IQrn0MPo49Dh0MH3Zhr6ThNF45719eKz58ei9AGe268SpYQ6TSw56joZuCAoVwTHFvS7FrFRhN2ZzxMDifuWg1F1gGUr+rtcm2oLovquZGfVahY2dcP4yWrwy1FdtSO4ZYeoY65PnmKhRuzDTvzOVYz5N9dgTg1EANjWK3lqdIX72/Q4UZ4V+i8Wo49XbyfqvHbBrQoMp+Mh82AAslyL3yhIAiYzge/HlOc4oAgjswIfY3djT7eiekXMLZ9CuB2lzkepRhxyAvE/UwsHr3rmm9vEl+FZG0Pm0N+pdm9sYGspw1lF9t33MIlqMBM5Q7Vfs=;116WKVHUr0/0ejhCfQk6Bg=="
+secured: "23g5vCJtsqMlvnJn4gWx7R7HSi2/L/RXU8p7kSsd6q4FpqP/m+/9E7/npXeku1WoWA+4N5d31LEljNCq+L4hFNWqkJclm6noPB8AaTG3otbhHS87U+u8XXZxKImwNNeAr850MWbhzSJKKtMvF1sqarTnliuSfHKMctIaJ5smnt+dCdugb8KhyfVX+00deWb6cnqYtWoYzZhR1BezwAAhOZ22qMvGLwTxzjPZuvWWcWeA/9GLyzJEi2IRfXD49WbqaDF7wV8kbl4qROMMQYGVpl27XQCdE/PgCwbA+rfKkxgUwm2Jo6cZdrBfq/g6BfiWI725b72GFkmP7xOQ4Y15WQhR/yvItpkg5CcglklzucM=;lGEJtPUex/IDsmwLMnPkEw=="
 ---
 

@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "iCAD Highlights Expanded Suite of Leading Breast Health AI Solutions at Virtual RSNA 2020 Nasdaq:ICAD"
+    excerpt: "NASHUA, N.H., Nov. 30, 2020 (GLOBE NEWSWIRE) --  iCAD, Inc. (NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced that the Com"
+    publishedDateTime: 2020-12-01T02:55:00Z
+    webUrl: "https://menafn.com/1101209588/iCAD-Highlights-Expanded-Suite-of-Leading-Breast-Health-AI-Solutions-at-Virtual-RSNA-2020-NasdaqICAD"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 24
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?580012"
+        width: 374
+        height: 250
+        isCached: true
   - title: "iCAD Highlights Expanded Suite of Leading Breast Health AI Solutions at Virtual RSNA 2020"
     excerpt: "(GLOBE NEWSWIRE) -- iCAD, Inc. (NASDAQ: ICAD), a global medical technology leader providing innovative cancer detection and therapy solutions, today announced that the Company  is showcasing its leading Breast Health Solutions,"
     publishedDateTime: 2020-11-30T12:00:00Z

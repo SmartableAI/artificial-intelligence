@@ -7,7 +7,7 @@ originalUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/11/30/r
 webUrl: "https://www.airforcetimes.com/artificial-intelligence/2020/11/30/raytheon-and-c3ai-announce-alliance-on-artificial-intelligence-solutions/"
 type: article
 quality: 51
-heat: 51
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Raytheon Intelligence & Space and C3.ai Form Alliance to Accelerate Military AI Adoption"
+    excerpt: "C3.ai, a leading enterprise AI software provider, and Raytheon Intelligence & Space, a Raytheon Technologies (NYSE: RTX) business, today announced"
+    publishedDateTime: 2020-12-01T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/raytheon-intelligence-space-and-c3ai-form-alliance-to-accelerate-military-ai-adoption-2020-11-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "SC0QBfl4MSKu9ySHX25lFy6tO1iJeuE4s2J7oLpgBcJOLMpxloC5OImPwAMvW39km9SsxxaaXoI4ccq56UhDkzFL2mmJElQWIV+9uURADyErTYcSruHu0CsTvuFuNahNHajcK5BAB/CNcl6DYwVmbnKVg+CyQzk3ZD7T4ytXrQxy6i0N5AF9qaGf7MJN5ikTyo9LCwzwoGN8Os51ot9liYFx+wgCR3G7FEl1icxSgVSR7RMRv7ow8lYF+yvm8vZsImh8JSHoNrh87GE9EkRQmsWZLS9sp2fOhP5V7vQ6EmbNkLIWYL2+kcoGWiquZNFDBrEVwfULz4cqu8o+sMbUk2JRp9ukJ7IFsCffENR+jsb6UsfJks8pSgcgnTmXgDdTTxGZIvENIJMQQRojNY4u0V+G8oXzNljsM3eTjAOQPtXtvh9+8xICwLeTN+ggUfvhzLJRZOzabc0H74U3PAKqRYNZPpamR6syNLF7HVhKnC7fsANyFZ5L++2JDj2ecuLYroJAMpspfiPKXuwFS6Uzyw==;3QUzURyP3TqNg6ju+sv0Iw=="
 ---

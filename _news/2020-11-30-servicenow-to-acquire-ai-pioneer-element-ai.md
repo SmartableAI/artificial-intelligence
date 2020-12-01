@@ -107,6 +107,15 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 37
+  - title: "ServiceNow Acquires Element AI; Gains Artificial Intelligence for Workflow Automation"
+    excerpt: "ServiceNow acquires Element AI to meld artificial intelligence (AI) with automated workflows, the IT service management (ITSM) software company says."
+    publishedDateTime: 2020-12-01T02:25:00Z
+    webUrl: "https://www.channele2e.com/investors/mergers-acquisitions/servicenow-buys-element-ai/"
+    type: article
+    provider:
+      name: ChannelE2E
+      domain: channele2e.com
+    quality: 25
 
 secured: "frZySLNmNahu5ZqhdLGWYf+f+WUxR7/XmVnz5nlSn8G7ds4WC3S2Uqj0cgdrGUzABdO48a4qV++4oMRakWmqjinDE3XdW+D0KS5asJ7KAoy5zKR1Nn0eyPqZc3H2mg4pLYpm2Z0TUjfTZdb8bXpFQ3lKIbQ0R6So2Wqa05JHaeI9HSWJn0LJviB8S7CLsctmP4F6fi1/ckyPQcZ68Z5FAD3vqOO+Vdp7QuIFwwnZAGaluEL8kTU8t8/IwqIV4NSZNgd2c86PZEGIMPdAtTKZeQEaT9BRMMeEeXoprk+VHuuO3sMhe4vV+7Ab9F9VqXvaQCNSamNF7Dx7ZbZxPGZIJzjXWxcLut722xpUZAsmx9c=;fKmVjwpZfpgaP3VFKqxz+w=="
 ---

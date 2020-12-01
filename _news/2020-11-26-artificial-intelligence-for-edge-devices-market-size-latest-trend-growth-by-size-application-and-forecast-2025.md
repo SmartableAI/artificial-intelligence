@@ -127,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
-    excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
-    publishedDateTime: 2020-11-26T09:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-greater-china-products-and-services-3702ab7e071e81263d367b7872d72b2a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "eQ0egVWq2NGBg2jq8NrBaQj0Xxdn/0jkNG7p+zyj0KaUQYE1jKOZ4z8NsvfwU3JZSINDAuj9IlECU1i/4j30NfBxfO/BQN1+Y6zpiznmEIRRjsgGRK2Xb6s1/brsCTTQuAv4bbgy1VQL7u7sM4YfPYkWcV+RbU38PDYdpqnP3Kf7Lry2XCpTkrQ+hx/mBJZz96lUR6STu5eZX6uJzeOPfIfrQMn96w7mxYgNCCPlgrbbmwvvgct7VMUdWfHDGTGLj0A7tvt2rlv7/SOC7SYLDUkytK2ib2p53FBltwIodfeyn0kZEAWjLfCHJU2OUZ3WmuswBWJIEE538xSa7zJ62WJmYiYhRKRrcsp9Le7tBI0=;AwTgoRalM4rUcglQUMPLBw=="
 ---

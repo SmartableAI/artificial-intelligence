@@ -127,20 +127,6 @@ related:
       name: galusaustralis.com
       domain: galusaustralis.com
     quality: 36
-  - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
-    excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
-    publishedDateTime: 2020-11-26T09:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-greater-china-products-and-services-3702ab7e071e81263d367b7872d72b2a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "m2YaRHELJ0FE2ehV5PWivGqUWZqeMamB2PDoBOYytKF2uZ+UojpJ4Vxc4+HWg6OrKBmqXSWBVH5cVWGglDcLlN7exDin7xjs8JyfX2OWnfmIE8CXiG7wubKfJjmgBwkj627Je5IfowWQDIqm68HyXE7oGqoPmhq8UhJDNWoO14olpNH+gBBjLx4x4+VoVV3Jsb7gFmhNrXaSjLYmc8cFO3VK956rhMTX7yzcg0VnKRe5j6v6AineRWMXsPmiHs1dqCNC5F09jyOX83ckFVbaokOq6vjbL3Nq75dgf+FVO52E02YQLpUEfog25CsZHVZR7W2Tony+EU94y+pruspYwW5mKbHA/5QwDyejIyFfVTM=;RHX3yrMeU3fMtuBtxEZ6LA=="
 ---

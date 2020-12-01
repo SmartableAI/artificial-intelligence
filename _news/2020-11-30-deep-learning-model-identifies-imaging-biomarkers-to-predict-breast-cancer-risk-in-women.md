@@ -70,6 +70,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "Deep learning can predict breast cancer risk"
+    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-12-01T02:42:00Z
+    webUrl: "https://menafn.com/1101209786/Deep-learning-can-predict-breast-cancer-risk"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/30/I_21c1d344-1image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "ko31ehC8bEFrV3up3W4RxEwu5MoISppbxnUeUC1Dz4t1BlpuXeOkTZLozYtekmPfzKiKkW1bq3iYWW2wv//ySQYytHu3AUeIHpgwxTTpXZNBBVB1iC/BnJvnYpcKfPdAHHtQTq75m9rkpp24GwFjos3JogRx2TYtTjV/yFCY2FKrR1VN3Jk7YK3JPrimw+DvgsuMV0vUdVlj/9Cy/tJZokrgzQ/C+0283ecua2FNEZS0VJPdneI3g2ZHUKexRE66pTkeXp6Qc2Bs/hCaEcmqs0WApagc2A12vxBk4a9nrFI7iAherob7dMN8pUy5g1NXWZbrfa5IaNyn4g9AvN3U6WKaWWrzTFCSlaOY9A9mX8k=;TimFF3Tj8FJM+GAcOJatdw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-mark
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
 type: article
 quality: 79
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -124,20 +124,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Image Recognition Market 2020 Research With Product Overview, Demand and Trends, Forecast Till 2029 | NEC Corporation and Attrasoft Inc"
-    excerpt: "MarketResearch.Biz :Image Recognition Market Overview: The report provides quantitative and qualitative information on the global Image Recognition market for the period of 2020 to 2029. Given the debilitating effect of COVID-19 (Coronavirus) on the Image Recognition market,"
-    publishedDateTime: 2020-11-26T09:43:00Z
-    webUrl: "https://apnews.com/press-release/wired-release/technology-business-corporate-news-greater-china-products-and-services-3702ab7e071e81263d367b7872d72b2a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "7P1LubhUyvwwJ8vocGUIJq1Nt/NAObR24DNc9BvwIx0cGmt712CLWvySJztf+XM46c/qxBKF+138OuOJj/uC3OnqwAmXCPMvRsSOssk47gRTYEPI/ETJ41L6zWIM1ukJLv65bW1FK0D4HVFVVwp1SlTUQpjxiYgiKtZ4QDQ1kfNxaU96HUTpIFBX9sRH4avLyGFlMDwGTQx3su75L5qK+CMIGMogkVYJ+XOExiJmtpKaCMkBrehh5/z2ttq61Nrz6KjHnVZZsaLvvGiKWJ2bf0chmdB4qwaLRd1wtSr7uXUfPirwiefSKaTnFxl7uhO63gM/B9V0mKQuvrDbII+p8gXdpDMtS/U7fvkzPFL2wY5u/eBzEpGGD2aduaF3gExMaUqqIBNvBMaHVyQHoxjq2BoxtORjKpKxs90pt+VcZ17KXO5nOJQ/8OfZDvqE2St3eBV3VvQZh0rcDZNup/aWuATKrx9Z6IPtgQthICpYDWNLZzAlZI19V6ZmcqGPcEfNNuh+pDjx6+Oy2OLYhDuvMw==;s57Qc2nccdgbuY6jOjRbIg=="

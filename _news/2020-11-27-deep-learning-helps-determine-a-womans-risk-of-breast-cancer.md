@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-d
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "Deep learning can predict breast cancer risk"
+    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-12-01T02:42:00Z
+    webUrl: "https://menafn.com/1101209786/Deep-learning-can-predict-breast-cancer-risk"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/30/I_21c1d344-1image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "oA9fKj7PgcwhauTbGxBdVh0JJDlaFPUZOGyy/f3k0tXiKAl5zFyvClPPTIu/BxLA2uVx7jFQmQQuqOqQQqGN4TYYwtniQhlPCBYxZZ2kZEmZGs26SE5kabb507DXUxBUzu4ElPgvm95s3V7N4KNpjzXdQqPOA8DZeBLSXY0IyTDaIshE7uUTOTGr/X6gkcVTP94+HEN38nL+NYUhXwcguTQI4UiR0twD2URHj9GOde55SQGRiu6nvS5BVzSiO+NXMnSpEa3QaGgBxNNaT0T2/2lfvoTz1lQG1IaCMv78C8t9mi0siyrWEmoYAxGfn+7TXif9pLPkapOys0iRqWVwcgMD7UODT9upvj+ZBcTCu7Blvvf8i/am9Ahlu4hsl1nQ30LTOIV9Sy7pnAYTz07HB3cN5MKV1dcioYBCOlP9R67LehdE+f8+xwZjvzbawKhiOVGiAXAA9IWW0E8vDGDne46msuzXPCT7HmQYyUixsO7qxbC6VCj0bCgve3EBp57+VTelVhDPCqt58vpS8eooGg==;wnOGvajP/9oTzHyc0bRwSA=="
 ---

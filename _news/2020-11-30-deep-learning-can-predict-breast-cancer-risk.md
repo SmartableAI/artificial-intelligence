@@ -69,6 +69,20 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Deep learning can predict breast cancer risk"
+    excerpt: "Researchers have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-12-01T02:42:00Z
+    webUrl: "https://menafn.com/1101209786/Deep-learning-can-predict-breast-cancer-risk"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2020-11/30/I_21c1d344-1image_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "7NLafmnaNqEMMmJUN1Wd3RUyfex8BHdV7zGoHthCoV7jp5/HvWOJdubkYG/8wVAac7y6i0Tptt6dP+umG5ci/T7+eK554EpyITxEaE3M2U7loIuovsfBa+VEQc8BGpau/z0bEwO4+KLe8VBzvFUfCN9sgFkPDiulyXgtlrZXPcwrHxifED5wkF49wfVMC97EGvao+LI2ncOU7MQSO7iPE+4faqoYxNUB5R+LV4eBwdlwPLls6zGoqCWvpxdEmqFwiSZP7JSNBCEjUa4V67/nx1zfke6BlaIM0ZaTeke2v2HsdzeumQckm+WfpQnQCs/xfiqsnYIyuZ3XQ78nXXFQvxEv33WyZL5+orYpASwP99U=;HQ2RSq7EnnEaAsVdZ/W/lg=="
 ---
