@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Meet the Microsoft AI project that will transform corporate data into knowledge"
+    excerpt: "We take a look inside Microsoft's new collaborative development process for SharePoint and machine learning-based knowledge management systems."
+    publishedDateTime: 2020-12-01T12:03:00Z
+    webUrl: "https://www.techrepublic.com/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 100
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/149a9e40-051d-40d4-b56e-8ebf048d6bea/resize/1200x/bee4d761c5f23809d0189d5233798872/microsoft-project-cortex-diagram.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI in Social Media Market to Witness Positive Growth Owing to COVID-19| Google, Facebook, Microsoft"
     excerpt: "The rising technology in AI in Social Media is also depicted in this research report. Factors that are boosting the growth of the market, and giving a positive push to thrive in the global market is explained in detail."
     publishedDateTime: 2020-12-01T01:50:00Z
@@ -44,6 +60,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Power of AI With Cloud Computing is “Stunning” to Microsoft’s Nadella"
+    excerpt: "Asked what in the march of technology he is most impressed with, Microsoft CEO Satya Nadella said at MIT’s AI and the Work of the Future Congress 2020 held virtually last week that he is struck by the ability of cloud computing to provision massive computing power."
+    publishedDateTime: 2020-11-30T06:05:00Z
+    webUrl: "https://www.bio-itworld.com/news/2020/11/30/power-of-ai-with-cloud-computing-is-stunning-to-microsoft-s-nadella"
+    type: article
+    provider:
+      name: Bio IT World
+      domain: bio-itworld.com
+    quality: 36
 
 secured: "6E6bitaWFcpJAsiYF+Ef+LSt8DgQwoMScPyiW2Ot2IKMJqIr8mLqCgbXcN8GyVyLgcGzJCuE4uhSqCSmetqEk+6bSOV9F5twijDWmTnPFMHnRn7OiozVQQDaNDzKHX7f4PbIIfOf0b+aYFwhteztOKGbw8LloWf2pvp+9bx9UX7JjbrYQXbuLliKFcQadBXH/8+LErlXq0WMoH67KwDxhknf++7Qmmyr7hIyiILtyqVdODbOJtCAvr76nyYnGusb9elXmztfezpAeytDfN1egR1f1tekPX1iqnKyL+T2a/1gw0VVZoSk9jfAGeiR3ijFATGZHlU3+ei/e3aGw9Ng4SU27qZkjAkFPpW6YbVFDSU=;oW+KKDA+DFDtQqFoNXKOvQ=="
 ---

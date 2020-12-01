@@ -2,6 +2,503 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2020-10-23-teslas-full-self-driving-beta-is-here.md",
+      "title": "Tesla's Full Self-Driving Beta Is Here",
+      "excerpt": "While Tesla's (NASDAQ:TSLA) third-quarter earnings report may be the primary focus when it comes to the electric-car maker's stock this week, the company also quietly rolled out a beta release of its full self-driving mode to a small group of drivers -- a technology that could eventually morph into an incredibly valuable asset for Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "originalUrl": "https://www.fool.com/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 459,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596184%2Ftesla-full-self-driving-mode.png&w=1200&op=resize",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/23/teslas-full-self-driving-beta-is-here/",
+      "publishedDateTime": "2020-10-23T03:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-cloud-natural-language-processing-market-to-witness-astonishing-growth-with.md",
+      "title": "Cloud Natural Language Processing Market to Witness Astonishing Growth with",
+      "excerpt": "Keep yourself up-to-date with latest market trends and maintain a competitive edge by sizing up with available business opportunity in Cloud Natural Language Processing Market various segments and emerging territory. The research report presents a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2169596/cloud-natural-language-processing-market-to-witness",
+      "originalUrl": "https://www.openpr.com/news/2169596/cloud-natural-language-processing-market-to-witness",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta23403446_g.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2169596/cloud-natural-language-processing-market-to-witness",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2169596/cloud-natural-language-processing-market-to-witness",
+      "publishedDateTime": "2020-10-23T02:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-predictions-2021-the-time-is-now-for-ai-to-shine.md",
+      "title": "Predictions 2021: The Time Is Now For AI To Shine",
+      "excerpt": "AI is transformational. AI is exciting. AI is mysterious. AI is scary. AI is omnipresent. We’ve heard this oscillating narrative over the last few years (and will continue to in the future), but in this unprecedented year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/",
+      "originalUrl": "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f9297ba041a7872ff9ba2a3%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D311%26cropY2%3D3686",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forrester/2020/10/23/predictions-2021-the-time-is-now-for-ai-to-shine/amp/",
+      "publishedDateTime": "2020-10-23T02:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-adobe-tries-using-ai-to-fix-blurry-video-footage.md",
+      "title": "Adobe tries using AI to fix blurry video footage",
+      "excerpt": "The company showed off Sharp Shot at its Adobe Max conference. One thing to keep in mind is we may not see Sharp Shots ever make its way to an Adobe product. It’s also worth pointing out we’ve seen other companies promise a lot with AI and then not deliver.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/adobe-sharp-shot-213047501.html",
+      "originalUrl": "https://www.engadget.com/adobe-sharp-shot-213047501.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?resize=1200%2C630&crop=1200%2C630%2C0%2C0&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F6ee2e6c0-13e3-11eb-bfef-01b418c39580&client=amp-blogside-v2&signature=1bcc9afc40bdcaa8d84d63f01f0b999ca0fa0254",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-23T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-researchers-create-ai-system-that-matches-tumors-to-best-drug-combinations.md",
+      "title": "Researchers create AI system that matches tumors to best drug combinations",
+      "excerpt": "Only 4 percent of all cancer therapeutic drugs under development earn final approval by the U.S. Food and Drug Administration (FDA).",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.news-medical.net/image.axd?picture=2015%2f3%2fTumor_3b927f3db0dd47538f7791b7e005ae6a-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201023/Researchers-create-AI-system-that-matches-tumors-to-best-drug-combinations.aspx",
+      "publishedDateTime": "2020-10-22T23:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-how-ai-will-supercharge-spear-phishing.md",
+      "title": "How AI Will Supercharge Spear-Phishing",
+      "excerpt": "This example is hypothetical, but it's far from impossible. With the emergence of offensive artificial intelligence (AI), we are at the precipice of a new era of email attacks that move away from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/edge/theedge/how-ai-will-supercharge-spear-phishing-/b/d-id/1339210",
+      "originalUrl": "https://www.darkreading.com/edge/theedge/how-ai-will-supercharge-spear-phishing-/b/d-id/1339210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.deusm.com/darkreading/theedge/602x250_good_bad_robot.jpg",
+          "width": 602,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems.md",
+      "title": "Australian and Korean researchers warn of loopholes in AI security systems",
+      "excerpt": "Topic: Security Research from Commonwealth Scientific and Industrial Research Organisation's (CSIRO) Data61, the Australian Cyber Security Cooperative Research Centre (CSCRC), and South Korea's Sungkyunkwan University have highlighted how certain triggers could be loopholes in smart security cameras.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "originalUrl": "https://www.zdnet.com/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2019/11/01/eb254cf0-d63d-44bd-ac1e-6a56df4123b8/istock-1160977168.jpg",
+          "width": 1254,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australian-and-korean-researchers-warn-of-loopholes-in-ai-security-systems/",
+      "publishedDateTime": "2020-10-22T18:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.md",
+      "title": "Dell Technologies World: Weaving Together Human And Machine Interaction For AI And Robotics",
+      "excerpt": "We are prematurely comparing robots and AI to humans and human intelligence. We are decades away from that. This false bridge between robotics and people creates vast problems with robots' deployment because people aren't looking at what robots are.",
+      "sourceUrl": null,
+      "webUrl": "https://www.datamation.com/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "originalUrl": "https://www.datamation.com/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.datamation.com/amp/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "cdnAmpWebUrl": "https://www-datamation-com.cdn.ampproject.org/c/s/www.datamation.com/amp/artificial-intelligence/dell-technologies-world-weaving-together-human-and-machine-interaction-for-ai-and-robotics.html",
+      "publishedDateTime": "2020-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Datamation",
+        "domain": "datamation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-how-smart-are-ai-chips-really.md",
+      "title": "How Smart Are AI Chips, Really?",
+      "excerpt": "The best part about the term “Artificial Intelligence” is that nobody can really tell you what it exactly means. The main reason for this stems from the term “intelligence”, with ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "originalUrl": "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/02/rifroheader.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
+      "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
+      "excerpt": "PRNewswire/ -- Clark County and IBM Watson Health (NYSE: IBM) today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make vital social services,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-1029710585",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance-1029710585",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-23-uk-plans-for-self-driving-cars-threaten-safety-insurance-group.md",
+      "title": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group",
+      "excerpt": "UK Plans for Self-Driving Cars Threaten Safety: Insurance Group LONDON (Reuters) - British government plans that could allow self-driving cars on motorways as soon as 2021 would put lives at risk ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-10-22/uk-plans-for-self-driving-cars-threaten-safety-insurance-group",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-10-22/uk-plans-for-self-driving-cars-threaten-safety-insurance-group",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-22T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-flex-logix-announces-working-silicon-of-ai-edge-inference-chip.md",
       "title": "Flex Logix Announces Working Silicon of AI Edge Inference Chip",
       "excerpt": "InferX X1 offers ideal performance of neural network models such as object detection and recognition, and other neural network models, for robotics, industrial automation, medical imaging, and more.",
@@ -662,477 +1159,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy.md",
-      "title": "IBM and Pfizer claim AI can predict Alzheimer’s onset with 71% accuracy",
-      "excerpt": "IBM and Pfizer claim to have developed a model that can predict the onset of Alzheimer's disease years before clear symptoms develop.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/ibm-keyboard-logo.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/ibm-and-pfizer-claim-ai-can-predict-alzheimers-onset-with-71-accuracy/amp/",
-      "publishedDateTime": "2020-10-22T08:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tesla-begins-deploying-full-self-driving-beta-to-select-customers-but-it-is-in-no-way-full-self-driving.md",
-      "title": "Tesla Begins Deploying Full Self-Driving Beta To Select Customers But It Is In No Way 'Full Self-Driving'",
-      "excerpt": "The text reads: “Full Self-Driving is in early limited access Beta and must be used with additional caution.It may do the wrong thing at the worst time, so you must always keep your hands on the ...",
-      "sourceUrl": null,
-      "webUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
-      "originalUrl": "https://jalopnik.com/tesla-begins-deploying-full-self-driving-beta-to-select-1845452979",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jalopnik",
-        "domain": "jalopnik.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing-assistance.md",
-      "title": "Clark County Utilizes AI-enabled Solution to Help Residents Secure Critical Housing Assistance",
-      "excerpt": "Clark County and IBM Watson Health today announced the deployment of the AI-enabled IBM Watson Health Citizen Engagement platform designed to help make vital social services, including housing assistance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
-      "originalUrl": "https://www.nasdaq.com/press-release/clark-county-utilizes-ai-enabled-solution-to-help-residents-secure-critical-housing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-deep-learning-system-software-market.md",
-      "title": "Deep Learning System Software Market",
-      "excerpt": "The Global Deep Learning System Software market was worth USD +2.28 Billion in 2020 and is expected to reach USD +18.16 Billion by 2027, at a CAGR of +40% from 2020 to 2027. Deep Learning System ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
-      "originalUrl": "https://www.openpr.com/news/2168694/deep-learning-system-software-market-2020-predictable",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "openpr.com",
-        "domain": "openpr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-ironside-achieves-aws-advanced-consulting-partner-status.md",
-      "title": "Ironside Achieves AWS Advanced Consulting Partner Status",
-      "excerpt": "The journey to AWS Advanced Consulting Partner status pushed us to gain valuable understanding of AWS and services like Amazon QuickSight, Amazon SageMaker, Amazon Redshift, and more, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/10/b18014673/ironside-achieves-aws-advanced-consulting-partner-status",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18014673",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18014673",
-      "publishedDateTime": "2020-10-22T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-meet-the-ai-thats-really-not-stealing-jobs.md",
-      "title": "Meet The AI That’s (Really) Not Stealing Jobs",
-      "excerpt": "Rather than worrying about AI as a generic, uniform risk to jobs, procurement and supply-chain leaders should explore its potential to supercharge jobs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90a3d131056d8a67471899%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/22/meet-the-ai-thats-really-not-stealing-jobs/amp/",
-      "publishedDateTime": "2020-10-22T06:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-tesla-full-self-driving-beta-lands-but-its-about-to-get-more-expensive.md",
-      "title": "Tesla Full-Self Driving beta lands, but it's about to get more expensive",
-      "excerpt": "The FSD beta will roll out to more Tesla owners as early as this weekend, according to CEO Elon Musk, and a price bump's coming.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 493,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/nMvuev24_7LHftSxIEiOh_ZvANo=/2020/10/22/5c6fc05c-509c-4f29-a9bd-4cad1b4aded2/ogi-autopilot.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-full-self-driving-beta-elon-musk-price-availability/",
-      "publishedDateTime": "2020-10-22T06:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-the-robot-artist-thats-challenging-humanitys-concept-of-creativity.md",
-      "title": "The robot ‘artist’ that’s challenging humanity’s concept of creativity",
-      "excerpt": "I picked up his robot, and I thought ... But it does highlight one of the problematic aspects of creativity as a benchmark of artificial intelligence (not that this is necessarily what the endeavor is designed to prove.) Simply put, art is too subjective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "originalUrl": "https://www.digitaltrends.com/features/aida-robot-artist/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://icdn4.digitaltrends.com/image/digitaltrends/ai-da-in-a-seat-photographer-victor-frankowski-1200x630-c-ar1.91-n.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/features/aida-robot-artist/?amp",
-      "publishedDateTime": "2020-10-22T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition.md",
-      "title": "Amazon embraces end-to-end models to improve Alexa’s speech recognition",
-      "excerpt": "That’s according to Shezhad Mevawalla, head of automatic speech recognition for Alexa, who spoke with VentureBeat ahead of a keynote address at this year’s Interspeech conference. Alexa is now ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/",
-      "originalUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/09/alexa.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/22/amazon-embraces-end-to-end-models-to-improve-alexas-speech-recognition/amp/",
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-congruity360-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Congruity360 Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Congruity360, data governance and storage leader, today announced the availability of Classify360 in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-computing-and-information-technology-web-services-internet-technology-217bea6f181fa4a1a075f5aa3e59252f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-22-deque-releases-axe-accessibility-testing-tool-for-microsofts-new-edge-browser.md",
-      "title": "Deque Releases Axe Accessibility Testing Tool for Microsoft’s New Edge Browser",
-      "excerpt": "Deque Systems, the trusted leader in digital accessibility, today announced the release of the axe accessibility testing tool for Microsoft’s new Edge web browser. Like its Chrome and Firefox counterparts,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-communication-technology-media-mobile-media-application-software-7df5a93e21384e02818f60908ae616ab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-22T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

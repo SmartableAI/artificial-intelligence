@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow buys artificial intelligence pioneer Element AI"
+    excerpt: "ServiceNow Inc. is beefing up its artificial intelligence development capabilities with the acquisition today of a company called Element AI Inc. that’s widely known as one of the pioneers in the field."
+    publishedDateTime: 2020-11-30T14:11:00Z
+    webUrl: "https://yoshuabengio.org/profile/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 152
+    images:
+      - url: "https://yoshuabengio.org/wp-content/uploads/2020/01/Photo-of-Yoshua-Bengio_Fall-2018-web-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "ServiceNow acquires artificial intelligence startup Element AI"
     excerpt: "Element AI is an AI software provider founded by machine learning pioneers including Yoshua Bengio and funded by the likes of Microsoft, Nvidia, Intel and Tencent."
     publishedDateTime: 2020-11-30T14:56:00Z
@@ -77,20 +91,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1150419849-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "ServiceNow buys artificial intelligence pioneer Element AI"
-    excerpt: "ServiceNow Inc. is beefing up its artificial intelligence development capabilities with the acquisition today of a company called Element AI Inc. that’s widely known as one of the pioneers in the field."
-    publishedDateTime: 2020-11-30T14:11:00Z
-    webUrl: "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-intelligence-pioneer-element-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/servicenow-1.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "ServiceNow to Acquire AI Pioneer Element AI"
     excerpt: "ServiceNow (NYSE: NOW) today announced it has signed an agreement to acquire Element AI, a leading artificial intelligence (AI) company with deep AI capabilities and some of the world’s brightest AI minds."

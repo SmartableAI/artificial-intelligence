@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls"
+    excerpt: "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns."
+    publishedDateTime: 2020-12-01T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Northwestern University Has Developed An AI System That Helps Detect Covid-19 On Chest X-Rays"
+    excerpt: "Northwestern University researchers announced that they successfully created a new Artificial Intelligence (AI) radiology tool that can detect Covid-19 in chest x-rays. The study has since been published in the journal Radiology,"
+    publishedDateTime: 2020-11-29T21:45:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc3d7e77159da32978948e1%2F0x0.jpg%3FcropX1%3D644%26cropX2%3D4904%26cropY1%3D0%26cropY2%3D2396"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19"
     excerpt: "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients."
     publishedDateTime: 2020-11-27T14:15:00Z
@@ -41,6 +73,38 @@ related:
         width: 647
         height: 363
         isCached: true
+  - title: "Researchers Develop AI to Detect COVID on Chest X-rays"
+    excerpt: "According to the study, published in the journal Radiology, the research team believe physicians could use the AI system to rapidly screen patients who are admitted to hospitals for reasons other than Covid-19."
+    publishedDateTime: 2020-11-29T16:47:00Z
+    webUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/"
+    ampWebUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 57
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/11/5c9572d44bc20c59d7e2da8fdff0a0d9.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
+    excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
+    publishedDateTime: 2020-12-01T10:41:00Z
+    webUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability"
+    ampWebUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 51
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-09/8254EF84-240C-4E08-A875-407C5341B341.jpeg"
+        width: 640
+        height: 384
+        isCached: true
   - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
     excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"
     publishedDateTime: 2020-11-27T16:25:00Z
@@ -55,47 +119,33 @@ related:
         width: 740
         height: 400
         isCached: true
-  - title: "GE Healthcare Expands AI, Digital and Imaging Solutions at #RSNA2020, Helping Shape Future of Healthcare in the COVID Era"
-    excerpt: "GE Healthcare today unveiled a slate of new intelligently efficient solutions to help clinicians solve today’s two-part challenge of delivering high quality care while managing greater capacity and workflow issues,"
-    publishedDateTime: 2020-11-29T12:13:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/business-technology-pandemics-public-health-products-and-services-c496776bdbfc4baa8f04f86c65a80df8"
+  - title: "Caltech’s AI-Driven COVID-19 Model Dramatically Outperforms Other Models"
+    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19's impact using artificial intelligence (AI) dramatically outperforms other models,"
+    publishedDateTime: 2020-11-30T21:27:00Z
+    webUrl: "https://scitechdaily.com/caltechs-ai-driven-covid-19-model-dramatically-outperforms-other-models/"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 36
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://scitechdaily.com/images/COVID-19-Computer-Science-AI-Concept.jpg"
+        width: 2000
+        height: 1333
         isCached: true
-  - title: "AI-Based Startup DNSFilter Protects WFH Employees During COVID-19 with Innovative Software"
-    excerpt: "AI startup company DNSFilter provides a DNS security threat and content filtering solution for enterprises. Their industry-leading"
-    publishedDateTime: 2020-11-30T13:33:00Z
-    webUrl: "https://www.prnewswire.com/news-releases/ai-based-startup-dnsfilter-protects-wfh-employees-during-covid-19-with-innovative-software-301181604.html"
+  - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
+    excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
+    publishedDateTime: 2020-11-29T12:43:00Z
+    webUrl: "https://www.analyticsinsight.net/artificial-intelligence-and-virtual-reality-can-accelerate-covid-vaccine-development/"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.com
-    quality: 27
+      name: Analytics Insight
+      domain: analyticsinsight.net
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/1344641/DNSFilter.jpg?p=facebook"
-        width: 1632
-        height: 854
-        isCached: true
-  - title: "Innovation in healthtech: How emerging Europe’s start-ups are turning Covid-19 challenges into opportunities"
-    excerpt: "Healthtech start-ups in emerging Europe have responded to the Covid-19 pandemic with a wealth of innovation. The ongoing Covid-19 pandemic has brought forth many challenges for most branches of industry,"
-    publishedDateTime: 2020-11-27T12:30:00Z
-    webUrl: "https://emerging-europe.com/business/innovation-in-healthtech-how-emerging-europes-start-ups-are-turning-covid-19-challenges-into-opportunities/"
-    type: article
-    provider:
-      name: emerging-europe.com
-      domain: emerging-europe.com
-    quality: 3
-    images:
-      - url: "https://emerging-europe.com/wp-content/uploads/2020/11/bigstock-telehealth-telemedicine-medic-385095428-1024x683.jpg"
-        width: 1024
-        height: 683
+      - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-7-e1606637006803.jpg"
+        width: 900
+        height: 601
         isCached: true
 
 secured: "gUlptmuixo0XeeDPRb22TXfIvJCtN6WdgSjPbXcQZcxkLtL7M5SdiPBLTv6SvaGoSS9EQ5PQ3gkCbVX/qAJiyBAaV5fMafrwCR+8MEcXwDC9+09XVdPcTYVajAYcWhn6rKIEY8xw+5tU5m1hWlikuppX5tkzRLENOo/SHG4WI9rCoBrqh0nAgO646CuvvMzOJZ21NsaJxCtDReYfKhxYxtyWqMN9ahCVDOW+zDZAAhjg2uKLBY62yKSqK1jJp6kNNX8fwgUm7XkpG15qermTtf+M0DvqvQ5Y4b4ZhjEZDwfQoO1/4oeO+l7h8p9yhFHNe0UHacAw8WfobjEa3N4qM4bwA34s8ym5tSI4oEMswkk=;FdJ3orUp78ZrBVMbpoQ5DQ=="

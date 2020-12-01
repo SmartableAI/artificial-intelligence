@@ -25,35 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "AlphaFold: a solution to a 50-year-old grand challenge in biology"
-    excerpt: "In a major scientific advance, the latest version of our AI systemAlphaFoldhas been recognised as a solution to the protein folding problem by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP)."
-    publishedDateTime: 2020-11-30T00:00:00Z
-    webUrl: "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology"
+  - title: "Is the Pandemic Spurring a Robot Revolution?"
+    excerpt: "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic."
+    publishedDateTime: 2020-11-30T14:00:00Z
+    webUrl: "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/"
+    ampWebUrl: "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 59
     images:
-      - url: "https://lh3.googleusercontent.com/NxvP8uqle7ps9_pc42gx-EmqzbcN_cZKu82VuX2XdXdl0toT77YccuxQROhdygQXSElcCy2RRHHzvOOf9pXviEffJ-768DxepKPsZgw"
-        width: 512
-        height: 288
-        isCached: true
-  - title: "Developing an AI solution to 50-year-old protein challenge"
-    excerpt: "In a major scientific advance, the latest version of DeepMind's AI system AlphaFold has been recognized as a solution to the 50-year-old grand challenge of protein structure prediction, often referred to as the 'protein folding problem',"
-    publishedDateTime: 2020-11-30T19:34:00Z
-    webUrl: "https://phys.org/news/2020-11-ai-solution-year-old-protein.html"
-    ampWebUrl: "https://phys.org/news/2020-11-ai-solution-year-old-protein.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-ai-solution-year-old-protein.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2020/deepminddeve.gif"
-        width: 1280
-        height: 720
+      - url: "https://singularityhub.com/wp-content/uploads/2019/07/automation-retro-robot-toys-shutterstock-175821860.jpg"
+        width: 1408
+        height: 792
         isCached: true
 
 secured: "QG3EGy5gWuHl1uqD8XPndm0g1zVnxMQZY5t8XllaNgyQCfOwIzKOmFIj4kWv5B05QHWshkkDAaNawJJ85xqKUfIcrBc+nwGVofae579mXFL4R1p09DNI7QMrKwPvlCDi4tB9e8kAh0wTx6igo4g529tpyX/Auyd63cFtePFEGelNbqWIvxi/VdwE3xoEHVY40A3NfHZhdGFEmuw7IfeNuS3qu5PqejUi8rWX8N1scDfzwFTOnWZ0+XHaQw9B1stvB0+orrVDHKhZZ0qH3nr6rvMnn2YPQyhiTc7NuDTn430tfnr0lkUR4S75GDD24ZtwDDjTf7GSJcyJxUijT+YDxssJF+oaPlBG4wcOw0npJSo=;SEMedNcEJVsHvcuUbKj5tA=="

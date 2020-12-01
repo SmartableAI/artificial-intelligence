@@ -2,6 +2,513 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-16-deep-learning-global-markets.md",
+      "title": "Deep Learning: Global Markets",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Nov. 16, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
+      "publishedDateTime": "2020-11-16T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform.md",
+      "title": "Ataccama announces new AI-driven release of data governance/management platform",
+      "excerpt": "Ataccama ONE Gen2, featuring new \"Core AI\" module, seeks to automate large swaths of organizations' increasingly complex data governance and data management burdens. Other main pillars of Gen2's self-driving capability include metadata-centricity and policy management with automated enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2184/index.php/article/ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet2.cbsistatic.com/hub/i/2020/11/16/d1a70b48-5917-4bf2-a25f-4f0e5800124c/ataccama-one-gen2-screenshot-4by3.png",
+          "width": 1436,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform/",
+      "publishedDateTime": "2020-11-16T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-ey-india-acquires-ai-based-startup-spotmentor-technologies.md",
+      "title": "EY India acquires AI-based startup Spotmentor Technologies",
+      "excerpt": "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, upskilling and reskilling talent at scale",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai",
+      "originalUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/1/2745082002f511eaaae56760054455e0/Imageyqxh-1595863630136.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai/amp",
+      "publishedDateTime": "2020-11-16T01:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Your Story",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-onevinn-ab-joins-the-microsoft-intelligent-security-association.md",
+      "title": "Onevinn AB Joins the Microsoft Intelligent Security Association",
+      "excerpt": "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
+      "publishedDateTime": "2020-11-16T00:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark.md",
+      "title": "FPGA-based inference accelerator outscores GPUs and ASICs in MLPerf benchmark",
+      "excerpt": "Mispology's FPGA-based Zebra AI inference accelerator outperformed Nvidia A100, V100, Tesla T4, AWS Inferencia, Google TPUv3, and others, on the ResNet 50 architecture in ML inference efficiency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark",
+      "originalUrl": "https://www.neowin.net/news/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/11/1605334517_pexels-pixabay-326461_story.jpg",
+          "width": 760,
+          "height": 503,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark/",
+      "publishedDateTime": "2020-11-16T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-dissecting-c3ais-secret-sauce-less-about-ai-more-about-fixing-hadoop.md",
+      "title": "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop",
+      "excerpt": "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "originalUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/16/4fc135c9-1fd6-4648-8ecb-c0a496c0dcd8/c3ai-2020-model-driven-architecture-system.png",
+          "width": 1724,
+          "height": 1276,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
+      "publishedDateTime": "2020-11-15T23:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects.md",
+      "title": "This open-source AI tool can make your video spectacular with sky replacement effects",
+      "excerpt": "Sky replacement tools are extremely popular in the current crop of photp-editing apps. Mobile apps such as Lighttricks’ Lightleap help you put up a new sky on your picture quickly. While for a more refined option,",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Sky-replacement-video-796x418.jpg",
+          "width": 796,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/16/this-open-source-ai-tool-can-make-your-video-spectacular-with-sky-replacement-effects/amp/",
+      "publishedDateTime": "2020-11-15T23:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-nvidia-unveils-new-dgx-station-ai-workstation-joining-market-for-ai-appliances.md",
+      "title": "Nvidia unveils new DGX Station AI workstation, joining market for AI appliances",
+      "excerpt": "The GPU maker uses the annual SC20 supercomputing event to unveil a desktop model of AI computer with a new GPU.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "originalUrl": "https://www.zdnet.com/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet3.cbsistatic.com/hub/i/2020/11/16/e7399d9e-93ce-4f95-b2e3-7582476cb725/nvidia-200-dgx-station-reduced-size-graphic.jpg",
+          "width": 3983,
+          "height": 2555,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-unveils-new-dgx-station-ai-workstation-in-a-desktop-form/",
+      "publishedDateTime": "2020-11-15T22:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-nvidia-launches-a100-80gb-gpu-for-supercomputers.md",
+      "title": "Nvidia launches A100 80GB GPU for supercomputers",
+      "excerpt": "Nvidia has launched its 80GB version of the A100 graphics processing unit (GPU), targeting the graphics and AI chip at supercomputing applications. The chip is based on the company’s Ampere ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "originalUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/nvidia-a100.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/16/nvidia-launches-a100-gpu-for-supercomputers/amp/",
+      "publishedDateTime": "2020-11-15T22:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service from Amazon Web Services (AWS) that provides every developer and data scientist with the ability to build, train, and deploy ML models quickly.",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1168961&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1168961&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-15T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-16-infosys-launches-live-enterprise-application-management-platform-to-deliver-cloud-powered-cognitive-first-managed-services-for-it-operations.md",
+      "title": "Infosys Launches Live Enterprise Application Management Platform to Deliver Cloud-Powered, Cognitive-First Managed Services for IT Operations",
+      "excerpt": "BENGALURU, India, Nov. 11, 2020 /PRNewswire/ -- Infosys (NYSE: INFY), a global leader in next-generation digital services and consulting ... conversational AI and cognitive automation to ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1168957&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1168957&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-15T21:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-16-fujitsu-to-develop-supercomputer-for-ai-research-in-japan.md",
       "title": "Fujitsu to develop supercomputer for AI research in Japan",
       "excerpt": "The 'AI bridging green cloud infrastructure supercomputer' will feature 120 nodes, 11.2 petabytes of storage, and is expected to reach peak performance of 19.3 petaflops.",
@@ -655,539 +1162,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-where-are-self-driving-cars-heres-why-theyre-farther-down-the-road.md",
-      "title": "Where are self-driving cars? Here's why they're farther down the road",
-      "excerpt": "Tesla made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your ...",
-      "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/1/f1/1f14a678-15c3-577f-87e7-8883e8dd216b/5fab0a50e4993.image.jpg?resize=1024%2C630",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html",
-      "cdnAmpWebUrl": "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html",
-      "publishedDateTime": "2020-11-14T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features.md",
-      "title": "Alexa now runs on more powerful cloud instances, opening the door for complex new features",
-      "excerpt": "In addition to the Alexa team, Amazon Rekognition is also adopting the new chip as running models such as object classification on Inf1 instances resulted in eight times lower latency and doubled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "originalUrl": "https://www.techradar.com/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/cm2hxBobQuAFb4Bj3YRJQU-1200-80.jpg",
-          "width": 970,
-          "height": 546,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/alexa-now-runs-on-more-powerful-cloud-instances-opening-the-door-for-complex-new-features",
-      "publishedDateTime": "2020-11-14T09:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
-      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
-      "excerpt": "Newly drafted antitrust rules could make it tougher for the BAT triumvirate to continue expanding their ecosystems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F600734%2Fgettyimages-956056544.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 825,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/14/china-gets-ready-rein-in-baidu-alibaba-tencent/",
-      "publishedDateTime": "2020-11-14T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias.md",
-      "title": "You can’t eliminate bias from machine learning, but you can pick your bias",
-      "excerpt": "But while an absence of bias makes sense on a human level, in the world of machine learning, it’s a bit different. In machine learning theory, if you can mathematically prove you don’t have ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
-      "originalUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/mobile-devices-emitting-data-in-a-crowd-of-people-picture-id522636128-1.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/14/you-cant-eliminate-bias-from-machine-learning-but-you-can-pick-your-bias/amp/",
-      "publishedDateTime": "2020-11-14T08:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-how-the-department-of-the-air-force-is-driving-forward-with-ai.md",
-      "title": "How The Department Of The Air Force Is Driving Forward With AI",
-      "excerpt": "Leaders such as Ms. Eileen Vidrine, who is the Chief Data Officer at the Department of the Air Force understand the importance of adopting tools such as advanced data analytics, AI, and ML to help in the increasingly disruptive battlefield.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb006cb2a83bcf1dfaaf465%2F0x0.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/14/how-the-department-of-the-air-force-is-driving-forward-with-ai/amp/",
-      "publishedDateTime": "2020-11-14T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-geekwire-podcast-ai-that-writes-your-emails-a-seattle-tech-visionary-and-our-trivia-challenge-returns.md",
-      "title": "GeekWire Podcast: AI that writes your emails; a Seattle tech visionary; and our trivia challenge returns",
-      "excerpt": "OthersideAI thinks it can help you be more productive by using artificial intelligence to write your emails for you. But is that really a good idea? The months-old firm received a $2.6 million seed round this week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2020/geekwire-podcast-ai-writes-emails-seattle-tech-visionary-trivia-challenge-returns/",
-      "originalUrl": "https://www.geekwire.com/2020/geekwire-podcast-ai-writes-emails-seattle-tech-visionary-trivia-challenge-returns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2019/11/geekwirelogo121518-1260x1260.png",
-          "width": 1260,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.geekwire.com/2020/geekwire-podcast-ai-writes-emails-seattle-tech-visionary-trivia-challenge-returns/amp/",
-      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2020/geekwire-podcast-ai-writes-emails-seattle-tech-visionary-trivia-challenge-returns/amp/",
-      "publishedDateTime": "2020-11-14T07:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-reportedly-may-sell-its-self-driving-car-division-to-rival-aurora.md",
-      "title": "Uber reportedly may sell its self-driving car division to rival Aurora",
-      "excerpt": "Uber is in talks to sell its autonomous vehicle unit to startup competitor Aurora Innovation, TechCrunch reported. If it comes to pass, the sale of Uber Advanced Technologies Group (UberATG), would mark the end of a bumpy road for a division of Uber that was valued at $7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "originalUrl": "https://www.theverge.com/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/1XMcOjiwPbJUbvLh6RtxKtpxphM=/0x0:2376x1782/1400x933/filters:focal(1101x896:1481x1276):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/67789235/UberSF_TA_1.0.jpg",
-          "width": 1400,
-          "height": 933,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "cdnAmpWebUrl": "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/11/14/21565017/uber-reportedly-selling-autonomous-vehicle-division-aurora-self-driving",
-      "publishedDateTime": "2020-11-14T07:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-could-soon-pawn-off-its-scandal-ridden-self-driving-vehicle-branch-to-startup-aurora.md",
-      "title": "Uber Could Soon Pawn Off Its Scandal-Ridden Self-Driving Vehicle Branch to Startup Aurora",
-      "excerpt": "Uber is in talks to sell its scandal-ridden self-driving vehicle branch, Advanced Technologies Group, according to a Friday TechCrunch report. And it looks like Aurora Innovation, a startup ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
-      "originalUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/aiykpavyd9qjfrbutksn.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uber-could-soon-pawn-off-its-scandal-ridden-self-drivin-1845672633/amp",
-      "publishedDateTime": "2020-11-14T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-uber-is-reportedly-in-talks-to-sell-its-self-driving-unit.md",
-      "title": "Uber is reportedly in talks to sell its self-driving unit",
-      "excerpt": "After years of development and some shocking incidents, the next step for Uber’s self-driving unit could be a sale. As first reported by TechCrunch and later Reuters, anonymous sources say Uber ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
-      "originalUrl": "https://www.engadget.com/uber-atg-sale-rumor-124814503.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-images%2F2020-02%2F5430acb0-4849-11ea-bbd7-fbd5befa7a93&client=amp-blogside-v2&signature=2cfe9b6f341db4e0e9a10ae572671c025ad82408",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/uber-atg-sale-rumor-124814503.html",
-      "publishedDateTime": "2020-11-14T06:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-china-gets-ready-to-rein-in-baidu-alibaba-and-tencent.md",
-      "title": "China Gets Ready to Rein in Baidu, Alibaba, and Tencent",
-      "excerpt": "Baidu controls 76% of China's online search market, according to StatCounter, and it's the top player in artificial intelligence and driverless cars. Alibaba controls 56% of China's e-commerce ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
-      "originalUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?time=1605359341",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-gets-ready-to-rein-in-baidu-alibaba-and-tencent-2020-11-14?amp",
-      "publishedDateTime": "2020-11-14T05:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-14-ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies.md",
-      "title": "EY India acquires IIT alumni backed AI startup Spotmentor Technologies",
-      "excerpt": "EY India has acquired an artificial intelligence backed human resource technology startup Spotmentor Technologies. The company, however, did not disclose the financial transaction involved in the deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html",
-      "originalUrl": "https://www.businesstoday.in/current/corporate/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/story/421986.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/btmt/images/stories/india_startup_505_141120045507.jpg?size=1200:675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html",
-      "cdnAmpWebUrl": "https://m-businesstoday-in.cdn.ampproject.org/c/s/m.businesstoday.in/lite/story/ey-india-acquires-iit-alumni-backed-ai-startup-spotmentor-technologies/1/421986.html",
-      "publishedDateTime": "2020-11-14T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Today",
-        "domain": "businesstoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

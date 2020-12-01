@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-01-alphabets-deepmind-ai-has-solved-the-protein-folding-problem.md",
-      "title": "Alphabet's DeepMind AI has solved \"the protein folding problem\"",
-      "excerpt": "Computer scientists at DeepMind, a lab owned by Alphabet, Google’s parent company, have developed an AI that has made a monumental leap in solving “the protein",
+      "path": "_news/2020-11-30-deepmind-solves-50-year-old-grand-challenge-with-protein-folding-ai.md",
+      "title": "DeepMind solves 50-year-old ‘grand challenge’ with protein folding A.I.",
+      "excerpt": "DeepMind has developed a piece of AI software called \"AlphaFold\" that can accurately predict the structure that proteins will fold into in a matter of days.",
       "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "originalUrl": "https://www.techspot.com/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
+      "webUrl": "https://www.cnbc.com/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 374,
+      "heat": 449,
       "tags": null,
       "images": [
         {
-          "url": "https://static.techspot.com/images2/news/bigimage/2020/12/2020-12-01-image.jpg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://image.cnbcfm.com/api/v1/image/104565791-Google_DeepMind_Hassabis_Future_of_Go_2017_day1.jpg?v=1499109367",
+          "width": 4898,
+          "height": 3265,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87793-alphabet-deepmind-ai-has-solved-protein-folding-problem.html",
-      "publishedDateTime": "2020-12-01T03:53:00-08:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/30/deepmind-solves-protein-folding-grand-challenge-with-alphafold-ai.html",
+      "publishedDateTime": "2020-11-30T07:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -106,21 +106,21 @@
       ]
     },
     {
-      "path": "_news/2020-11-30-alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology.md",
-      "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
-      "excerpt": "In a major scientific advance, the latest version of our AI systemAlphaFoldhas been recognised as a solution to the protein folding problem by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP).",
+      "path": "_news/2020-11-30-alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction.md",
+      "title": "Alphabet’s DeepMind achieves historic new milestone in AI-based protein structure prediction",
+      "excerpt": "DeepMind, the AI technology company that’s part of Google parent Alphabet, has achieved a significant breakthrough in AI-based protein structure prediction. The company announced today that its ...",
       "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-      "originalUrl": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
+      "webUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/",
+      "originalUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 113,
       "tags": null,
       "images": [
         {
-          "url": "https://lh3.googleusercontent.com/NxvP8uqle7ps9_pc42gx-EmqzbcN_cZKu82VuX2XdXdl0toT77YccuxQROhdygQXSElcCy2RRHHzvOOf9pXviEffJ-768DxepKPsZgw",
-          "width": 512,
-          "height": 288,
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1279331936.jpg?w=1024",
+          "width": 1024,
+          "height": 561,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -128,16 +128,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T16:00:00-08:00",
+      "ampWebUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/",
+      "publishedDateTime": "2020-11-30T07:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -153,8 +153,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
+        "Google AI",
+        "AI"
       ]
     },
     {

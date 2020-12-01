@@ -53,6 +53,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 50
+  - title: "Conversational Artificial Intelligence Market Research, Growth Opportunities, Analysis and Forecasts Report 2020-2024"
+    excerpt: "Kenneth Research has recently added a market research study on Conversational Artificial Intelligence Market 2024"
+    publishedDateTime: 2020-12-01T13:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/conversational-artificial-intelligence-market-research-growth-opportunities-analysis-and-forecasts-report-2020-2024-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Artificial Intelligence in Healthcare Diagnosis Markets, 2019-2020 & 2027 - AI in Epidemic Outbreak Prediction and Response Gaining Momentum"
     excerpt: "The \"Europe Artificial Intelligence in Healthcare Diagnosis Market Forecast to 2027 - COVID-19 Impact and Regional Analysis by Diagnostic"
     publishedDateTime: 2020-11-30T18:30:00Z

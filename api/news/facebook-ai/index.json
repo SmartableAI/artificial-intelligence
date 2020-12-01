@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-01-ai-in-social-media-market-to-witness-positive-growth-owing-to-covid-19-google-facebook-microsoft.md",
-      "title": "AI in Social Media Market to Witness Positive Growth Owing to COVID-19| Google, Facebook, Microsoft",
-      "excerpt": "The rising technology in AI in Social Media is also depicted in this research report. Factors that are boosting the growth of the market, and giving a positive push to thrive in the global market is explained in detail.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-positive-growth-owing-to-covid-19-google-facebook-microsoft-2020-11-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-social-media-market-to-witness-positive-growth-owing-to-covid-19-google-facebook-microsoft-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T17:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-daily-crunch-facebook-acquires-kustomer-for-1b.md",
       "title": "Daily Crunch: Facebook acquires Kustomer for $1B",
       "excerpt": "Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for.",
@@ -1475,6 +1422,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-30-alphabet-amazon-apple-facebook-release-quarterly-2020-earnings.md",
+      "title": "Alphabet, Amazon, Apple, Facebook release quarterly 2020 earnings",
+      "excerpt": "As Alphabet, Apple, Amazon and Facebook release their latest earnings for 2020 ... “It’s also a testament to the deep investments we’ve made in AI and other technologies, to deliver services that people turn to for help, in moments big and small.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/alphabet-apple-amazon-facebook-release-quarterly-2020-earnings-123492474/",
+      "originalUrl": "https://www.information-age.com/alphabet-apple-amazon-facebook-release-quarterly-2020-earnings-123492474/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2020/10/alphabet-apple-amazon-facebook-release-quarterly-2020-earnings.jpeg",
+          "width": 1080,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-30T04:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

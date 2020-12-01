@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201130/Machine-learning-mode
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201130/Machine-learning-model-uses-retinal-scans-to-detect-Alzheimere28099s-disease.aspx"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "Machine Learning Scans Retinal Images to Predict Alzheimer’s Disease"
+    excerpt: "The machine learning model analyzes retinal images that have been correlated to the development of Alzheimer's disease."
+    publishedDateTime: 2020-12-01T14:32:00Z
+    webUrl: "https://healthitanalytics.com/news/machine-learning-scans-retinal-images-to-predict-alzheimers-disease"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 39
+    images:
+      - url: "https://healthitanalytics.com/images/site/article_headers/_normal/ThinkstockPhotos-604333980.jpg"
+        width: 690
+        height: 400
+        isCached: true
 
 secured: "v897hPA3wQ9Tys/xHh6bhNWEXTaozZuvN8mRpMo8e8O8kJIopWjD5Cf+BuLL+u9R18+Orr8smfPxO+C25C5sFyDAEjrOJn1jFESFdNPoqWXOZH5Mm/wjgszyYfgwUHWLYejA6ZGlU+LPMn64E6UITMi7qIOTch4qZqYI2rgrnN9aB3bv77uQM53YZXM/TLgHRRMg3qa8g6D6fzwolTQnYl9HJJSY9AEDzQqSIBF43X1AiSqvzWW5juZgxQgXt82V39tGIheL1A+4hcKike1rNjqDgNk6Tge4CzXDgZrTVz5I0C/jo9ezS0lcKy9kaeveq76v0YzatvdGUYWFnV7LGyWPPhiBoeyx/0KPbIJ09sc=;HE7QSN9JwtzMr5MLFCcBiw=="
 ---

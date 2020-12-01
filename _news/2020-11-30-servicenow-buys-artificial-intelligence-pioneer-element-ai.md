@@ -4,11 +4,11 @@ title: "ServiceNow buys artificial intelligence pioneer Element AI"
 excerpt: "ServiceNow Inc. is beefing up its artificial intelligence development capabilities with the acquisition today of a company called Element AI Inc. that’s widely known as one of the pioneers in the field."
 publishedDateTime: 2020-11-30T14:11:00Z
 originalUrl: "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-intelligence-pioneer-element-ai/"
-webUrl: "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-intelligence-pioneer-element-ai/"
+webUrl: "https://yoshuabengio.org/profile/"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 152
+heat: 242
+published: true
 
 provider:
   name: SiliconANGLE
@@ -18,9 +18,9 @@ topics:
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/servicenow-1.png"
-    width: 718
-    height: 400
+  - url: "https://yoshuabengio.org/wp-content/uploads/2020/01/Photo-of-Yoshua-Bengio_Fall-2018-web-1024x684.jpg"
+    width: 1024
+    height: 684
     isCached: true
 
 related:
@@ -143,6 +143,6 @@ related:
       domain: seekingalpha.com
     quality: 17
 
-secured: "ZPkmMA9Tis+U64RQVJntlj5POr8otfdv6OnRfjjOezzB+0OgC+6dKXsNj11mVgAl7NG1FJyqDa2go8YjKR9s6XLfsM6y9BX7gOgyN6I1pG/6EcvexpCB+TrRrJISSUbzR64OjuNKRiW9U9Q8d3q4DSpIn5vbK10kCdSt9K4Zoh3pqTXZ4JUZnihywsIxOvRFfn3FJ5A4qc/Qjl7nm9+qTzrbHeQX7uN9cRQ8og05S2jZa2ijxxJczKAlV6wlK7RasDEheNdt0+E4dv0MP19+fy6We7qPhfwrhZgmOs42WwaG/5gHtAXeEUz8tC+MDMsB61RMG++hQA9raNDcu/P8fUQeUJ6hFyVG6S6pbik0XLA462Z66Q2/4yKAqA/dyLRydlopp1K4AORuiEVD7x/H20McyB3jYOenIDEvRdDBOj2hZ19JFxF8L65x9LVZsgwQzylYz9QBAWvsPeE4x/omlSssG7nVB5sD8RGQZWzajuh20L9QR3NJ/XNlGJ5b5BfnG/pbKI8+uD1HqQliYj0cvg==;Q80p6Q5FyUSOSdrpjIVlPg=="
+secured: "5Qv9b5vRc9ORrvKf3s6aAeAuyHK70p8Fa4slGNyLkeUguBwrWLjLPnTJSzjmgKlxteGIgbAGhioT20hr3ESEYLgpH/9lcIUTDRLRdchjUEvFGmRBDZHFx+LPR+S2UpGelrW+4eJHZoLTor/vOYUp22jbO/Y25V7GSzPm1+oaiHbVKKgVhNnKOdOVNu5/fSkzqGKQmgPnlNg8JYSvB3VOzJ04b7lwj1N3HD1jEKvxXHPOH1toOar73adyumJxzGqE1j1yDEZAlz3JPJHQ0jbHUbeE4THr0aPcgC/yeIebHSulF0P64rA7dmmaVEc0rMa3PWskMY7Nmu5shjNGO8E8GQz4zzOa6wE8585zMo423hY=;kDYohhf6lIe3GwjS301fhw=="
 ---
 

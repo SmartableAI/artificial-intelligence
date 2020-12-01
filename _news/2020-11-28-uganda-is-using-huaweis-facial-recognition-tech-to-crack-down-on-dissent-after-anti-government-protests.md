@@ -4,30 +4,28 @@ title: "Uganda is using Huawei’s facial recognition tech to crack down on diss
 excerpt: "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni"
 publishedDateTime: 2020-11-27T18:36:00Z
 originalUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/"
-webUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/"
-ampWebUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/"
-cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/"
+webUrl: "https://www.wsj.com/articles/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017"
 type: article
-quality: 72
-heat: 82
+quality: 152
+heat: 162
 published: true
 
 provider:
   name: Quartz
   domain: qz.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg"
+    - url: "/assets/images/organizations/qz.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - Computer Vision
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://cms.qz.com/wp-content/uploads/2020/11/EKevaMuWsAECukC-e1606499646300.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-    width: 680
-    height: 370
+  - url: "https://images.wsj.net/im-96392/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -46,6 +44,6 @@ related:
         height: 533
         isCached: true
 
-secured: "HipghID+/b+lI6giBxrkIkaT4R9US69Z3Tr17J+/edZzMewFRxUOcwhBpi0VXclIJxMIQz0NJca9rOw2g7uOXH1OwsIeySJS5aAclpUb50IzEiEvl9r9cSoBXY71iSfyfiFz+hVkrLNgebNvE4Q/1Az2iEGtvXb8m3jxJnk1IIhJ/x47LfHh1EuH8lbU+N89Ndwh3bELCCuMltrWD0Y1zchV6upAgQUSfR5pgGUMlNfTB4f/65wkzMSEq+wlSWWzdkvuEA0a5ob+G9fPuM2K8+khUUXeo/clM1QbLxcD5XtyNRvgT/4SoyJ8RJp80zyjvM28YDf19k0E/VG5QeoetCqMN6sjsbRQdemsvI2w4szEE0PqpnkJGZnqMkgLbFkJNyxWyY0t7MOFLRzy6pO8ysEouEFAuZywcKBVWxgQOmgg0/b7n30uH1zvEOAPgLnXP3XR6jsHqBIm42dRLxbY4feujQyr5QpbiZhS6hwcSaOesRDTvpUpVEl2RAagDGEvhjmxDIGA21in+XlNZB/uQA==;BC1RMhTi5lqKY9KpFmH6cA=="
+secured: "y66ou0gpjtdd5yiDdWwV9WcHsvwxaGJA+FlLkM+5v9qblmZlNMf4PIt6zeWxzpaHd3oQNZwyTq21xqjj7LE1TVqZ75W6CIVuvGzxZ8FAUXmB0GyhqBed9TRQJ0CgnowaTL1TRwBNTmQB6uiXnHatbOEWxtTOwcnvIe9OUjVOTyiZo1+yuGFbB+MaBP3aJbiuCuCWvf/U+2fRJufFuIcV/MHXiV+EiTihBnw6cH6qeUN27MdJ3P6r7kecm45s4HJcKtZ+O8iGvt6EM+9UiWZh/Ksu1TsxUFVPMPqC6sDuyNtqnNJ72oihmS/SrdpfSfTNweNQWi693YviT4EvLGXyyM4M9d/Cqm4Onj6UIWWmlbM=;hLoWhTm7lIGMSCrg/w1CqA=="
 ---
 

@@ -25,21 +25,127 @@ images:
     isCached: true
 
 related:
-  - title: "Bank of Canada says recent COVID-19 vaccine news is promising, recovery to be tough"
-    excerpt: "Recent news about coronavirus vaccines is promising even as cases continue to increase, Bank of Canada Governor Tiff Macklem said on Thursday, reiterating that the recovery would be tough."
-    publishedDateTime: 2020-11-27T02:12:00Z
-    webUrl: "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2862DA"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA"
+  - title: "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls"
+    excerpt: "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns."
+    publishedDateTime: 2020-12-01T13:00:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1BR"
-        width: 886
-        height: 545
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7dc2f7c8bf2f7f3422009c%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Northwestern University Has Developed An AI System That Helps Detect Covid-19 On Chest X-Rays"
+    excerpt: "Northwestern University researchers announced that they successfully created a new Artificial Intelligence (AI) radiology tool that can detect Covid-19 in chest x-rays. The study has since been published in the journal Radiology,"
+    publishedDateTime: 2020-11-29T21:45:00Z
+    webUrl: "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/"
+    ampWebUrl: "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 76
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc3d7e77159da32978948e1%2F0x0.jpg%3FcropX1%3D644%26cropX2%3D4904%26cropY1%3D0%26cropY2%3D2396"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19"
+    excerpt: "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients."
+    publishedDateTime: 2020-11-27T14:15:00Z
+    webUrl: "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
+    ampWebUrl: "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 60
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202011/YT_13-647x363.jpeg?d6xhJjgAzR1d9I7MbWR4fHOcvTsCdaq9"
+        width: 647
+        height: 363
+        isCached: true
+  - title: "Researchers Develop AI to Detect COVID on Chest X-rays"
+    excerpt: "According to the study, published in the journal Radiology, the research team believe physicians could use the AI system to rapidly screen patients who are admitted to hospitals for reasons other than Covid-19."
+    publishedDateTime: 2020-11-29T16:47:00Z
+    webUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/"
+    ampWebUrl: "https://www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
+    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/researchers-develop-ai-to-detect-covid-on-chest-x-rays-2-4232095/amp/"
+    type: article
+    provider:
+      name: India.com
+      domain: india.com
+    quality: 57
+    images:
+      - url: "https://s3.india.com/wp-content/uploads/2020/11/5c9572d44bc20c59d7e2da8fdff0a0d9.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "How University College Dublin uses SAS Viya and AI to drive better COVID manageability"
+    excerpt: "This is a use case of how the exploitation of one piece of research can, through astute application of AI technology combined with medical experience, produce a potentially huge jump in the way senior managers - in this case clinicians - plan the management of resources in order to contain and resolve a wide range of previously intractable problems."
+    publishedDateTime: 2020-12-01T10:41:00Z
+    webUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability"
+    ampWebUrl: "https://diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/how-university-college-dublin-uses-sas-viya-and-ai-drive-better-covid-manageability?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 51
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2020-09/8254EF84-240C-4E08-A875-407C5341B341.jpeg"
+        width: 640
+        height: 384
+        isCached: true
+  - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
+    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"
+    publishedDateTime: 2020-11-27T16:25:00Z
+    webUrl: "https://www.pasadenanow.com/main/caltechs-ai-driven-covid-19-model-routinely-outperforms-competitors/"
+    type: article
+    provider:
+      name: Pasadena Now
+      domain: pasadenanow.com
+    quality: 37
+    images:
+      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/Screenshot_9-7-740x400.jpg"
+        width: 740
+        height: 400
+        isCached: true
+  - title: "Sorting Out Viruses With Machine Learning: AI-Powered Nanotechnology May Lead to New Rapid COVID-19 Tests"
+    excerpt: "Scientists at Osaka University develop a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
+    publishedDateTime: 2020-11-28T06:56:00Z
+    webUrl: "https://scitechdaily.com/sorting-out-viruses-with-machine-learning-ai-powered-nanotechnology-may-lead-to-new-rapid-covid-19-tests/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Single-Virus-Particle-Detection.jpg"
+        width: 777
+        height: 500
+        isCached: true
+  - title: "Caltech’s AI-Driven COVID-19 Model Dramatically Outperforms Other Models"
+    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19's impact using artificial intelligence (AI) dramatically outperforms other models,"
+    publishedDateTime: 2020-11-30T21:27:00Z
+    webUrl: "https://scitechdaily.com/caltechs-ai-driven-covid-19-model-dramatically-outperforms-other-models/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 36
+    images:
+      - url: "https://scitechdaily.com/images/COVID-19-Computer-Science-AI-Concept.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "iFLNF+q/2J3oq/F8jBushzkojfjAflIv6bdbTqr73sZkiZN5Ypne9XgDes4PLsiXr7fYiZyfzcT4YkhN2bATaHXrEDfEEt7Zo5zCiUFXfAezW0a2KjWzDTKyVPNkilc6gajUEV649eIYhuObIDz3wGtBdzBBZPsQfyYFpaE6FMC2A5zOPaaXL5GsQin4d6QeLoDR3GELsP7i/9rzsxY2qhRazigZL20lFOehl7bvPf1TTrEZ7SIxFvi6gVcZNOH43MR4gYWFnhdZSWNk6sCdTAkBj3NiYUmlGY8GAg4kZAJ7M3nON8CDbwCydgGxAP2dAuAZMWGo/71cBBH/gEYs3l2sXsajcCb+Z4X5+8woAmA=;Tt+pH2lguf2LVps70FjeEQ=="

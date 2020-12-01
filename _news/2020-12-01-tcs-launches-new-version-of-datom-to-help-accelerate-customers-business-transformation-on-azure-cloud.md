@@ -1,24 +1,28 @@
 ---
 category: news
-title: "TCS Launches New Version of DATOM to Help Accelerate Customers’ Business Transformation on Azure Cloud"
-excerpt: "Tata Consultancy Services (TCS) has launched a curated version of its popular Data and Analytics Target Operating Model (TCS DATOM) consulting framework, to hel"
-publishedDateTime: 2020-12-01T07:31:00Z
-originalUrl: "https://technuter.com/tech/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud.html"
-webUrl: "https://technuter.com/tech/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud.html"
-ampWebUrl: "https://technuter.com/tech/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud.html/amp"
-cdnAmpWebUrl: "https://technuter-com.cdn.ampproject.org/c/s/technuter.com/tech/tcs-launches-new-version-of-datom-to-help-accelerate-customers-business-transformation-on-azure-cloud.html/amp"
+title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers’ Business Transformation on Azure Cloud"
+excerpt: "Tata Consultancy Services (TCS), (BSE: 532540, NSE: TCS), a leading global IT services, consulting and business solutions organization, has launched a curated version of its popular Data and Analytics Target Operating Model ( TCS DATOM™ ) consulting framework,"
+publishedDateTime: 2020-12-01T06:45:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-1ceeba322a3f0778fd6dcf6477902fb3"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-environment-and-nature-products-and-services-1ceeba322a3f0778fd6dcf6477902fb3"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: technuter.com
-  domain: technuter.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "TCS Launches New Version of DATOM™ to Help Accelerate Customers' Business Transformation on Azure Cloud"
@@ -40,6 +44,6 @@ related:
       domain: stockhouse.com
     quality: 1
 
-secured: "cgMTR3de0Or0TyjHnLzMPviIN7/A/gKWtEHQT257E/L8zwyRptzhcbQ0pQrpk07DfpMvzcFdffDkblRijQ4tvOwo6xJCXLbOH332dBSi8ih0+5G9WaLRltOoct8ccvKZ5S9giFGyOmtTXuWTu+665p3fJAO1EReID2Ej2Vd6krrrQQxH1gebKHWdMTPtuqoueG+6r8qr/YDJ+SAZEpjusW3PcCfQa2aOrXRlt4Sj1gYSqszN3yOpNmKN2jXiWadKPCRmJAxJdtS0yMfPRcH2WO9spSIA7MKcrIpZWn+gQpDHJNKfwPNtuOEKJROqHi5IyDuNaSbIBtwlxLU9w2GZQ/8YCGlTz9duLyQdr+WOf6JLHVUfyOSbN65JzuZyQyVNH56Sg7guuTyvYdveNydhn+v+ifUNkDaG7f7zoWCVSwjm9jofnfd8ym8Uz6x4dPY2fRKvuBf/IzvQJQjupevob+/VLZl4Tx0mYoGLRKP2fBlwGNWi8otiBiDTwsnCxskGDL3WgE4KzBKUvOk1HiErAQ==;Q8QCH20GjdCGbKPSHEesLg=="
+secured: "j3bTLpzrqhXklRXX9bwpK/TJ727GxlMzRcuoZWYfd7P83Vd/fB6XtN/pucioCOUm6GcO7ROg76Yn3gbjGMS+p/+9JXIa5cHIzW2WPrVshBWhqtW5Ks7hM6j/RldSptEITDixx1FcWyQqJFazlDuPM3yOsS3teTmMGyajB9wMd2BakEGv34Wzt/ZqLbovJ6gf0xkteSrxU7iJ4Vkj39j7ZCyk3saOM2cEhbwmLzVfzKajQl0FfRLdWWYXJ4v3yby40vxWUIWPzY8q3UfuWx+fp9UeaY69cYMoMeq/ZsQb+1hkFhIEssmRs7FTK5GPbh9MJzL1BA/PYSQeT9nW6y1476oOQA6JKaTKyr1RP9chHow=;ztVFXAzMpHToDHCilOSQzQ=="
 ---
 

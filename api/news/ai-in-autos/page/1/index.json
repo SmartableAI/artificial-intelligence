@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026.md",
+      "title": "APAC Artificial Intelligence Chipsets Market to hit US$40 billion by 2026",
+      "excerpt": "According to the given report, APAC Artificial Intelligence chipsets market registered a remuneration of USD 4 billion in 2019 and is expected to surpass a mammoth of USD 40 billion by the end of 2026,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026-2020-12-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026-2020-12-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
       "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
       "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
@@ -1233,6 +1286,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-17-blackberry-qnx-to-power-plus-self-driving-trucks.md",
+      "title": "BlackBerry QNX to power Plus self-driving trucks",
+      "excerpt": "Plus have now announced they will be the first automated truck developer to make use of BlackBerry QNX for their next-generation self-driving systems. Plus will license the BlackBerry QNX OS for Safety software for their Class 8 trucks which are expected ...",
+      "sourceUrl": null,
+      "webUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
+      "originalUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://crackberry.com/sites/crackberry.com/files/styles/large/public/article_images/2020/11/plus_automated_trucks_blackberry_safety_security-16.jpg",
+          "width": 903,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
+      "cdnAmpWebUrl": "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
+      "publishedDateTime": "2020-11-17T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CrackBerry.com",
+        "domain": "crackberry.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-baidu-to-buy-chinese-livestreaming-giant-in-big-social-foray.md",
       "title": "Baidu to Buy Chinese Livestreaming Giant in Big Social Foray",
       "excerpt": "Baidu Inc. agreed to buy Joyy Inc.’s livestreaming business ... intelligence technology and betting on commercializing AI through smart speakers and self-driving cars. In September, its smart speaker unit received its first independent financing round ...",
@@ -1376,92 +1472,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-the-pessimists-guide-to-the-future-from-virtual-reality-to-driverless-cars.md",
-      "title": "The pessimist’s guide to the future, from virtual reality to driverless cars",
-      "excerpt": "artificial intelligence and even driverless cars. Virtual reality headsets have long been the next big thing, but that’s not based on anything approaching reality. At the beginning of 2017 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
-      "originalUrl": "https://www.alphr.com/technology/1009462/pessimist-VR-AI-driverless-cars-bitcoin-blockchain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/www.alphr.com/wp-content/uploads/2018/05/pessimists_guide_to_the_future.jpg?fit=569%2C320&ssl=1",
-          "width": 569,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Alphr",
-        "domain": "alphr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-where-are-self-driving-cars-heres-why-theyre-farther-down-the-road.md",
-      "title": "Where are self-driving cars? Here's why they're farther down the road",
-      "excerpt": "Tesla made headlines with the beta launch of its Full Self-Driving system. That system comes with a disclaimer saying, “It may do the wrong thing at the worst time, so you must always keep your ...",
-      "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/1/f1/1f14a678-15c3-577f-87e7-8883e8dd216b/5fab0a50e4993.image.jpg?resize=1024%2C630",
-          "width": 1024,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html",
-      "cdnAmpWebUrl": "https://napavalleyregister-com.cdn.ampproject.org/c/s/napavalleyregister.com/lifestyles/autos/where-are-self-driving-cars-heres-why-theyre-farther-down-the-road/article_e646c009-79f3-5c04-830f-8a084f6ce539.amp.html",
-      "publishedDateTime": "2020-11-14T13:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

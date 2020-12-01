@@ -2,6 +2,333 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-23-the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today.md",
+      "title": "The 5 Biggest Healthcare Trends In 2021 Everyone Should Be Ready For Today",
+      "excerpt": "Healthcare has not only been affected by the global coronavirus pandemic, but has simultaneously experienced an accelerated digital transformation. Here we look at the key healthcare trends for 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbb52f70db22d77b12a69f1%2F0x0.jpg",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2020/11/23/the-5-biggest-healthcare-trends-in-2021-everyone-should-be-ready-for-today/amp/",
+      "publishedDateTime": "2020-11-22T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-face-recognition-attendance-system-for-bmc-staffers-soon.md",
+      "title": "Face recognition attendance system for BMC staffers soon",
+      "excerpt": "The Brihanmumbai Municipal Corporation (BMC) will soon introduce face recognition/reading attendance system in all civic buildings very soon. After starting the new attendance system at BYL Nair Hospital in Mumbai Central as a pilot project,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon",
+      "originalUrl": "https://www.freepressjournal.in/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnt.trvdp.com/truvid_default/640X480.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/mumbai/face-recognition-attendance-system-for-bmc-staffers-soon/29b6db26-2f0f-4c98-90cd-a70508a233cf",
+      "publishedDateTime": "2020-11-22T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-does-the-future-of-robotics-lie-in-the-imagination.md",
+      "title": "Does The Future Of Robotics Lie In The Imagination?",
+      "excerpt": "But a mind-controlled robotic arm that doesn't require a brain implant could have been a stretch of the imagination even for Dr. Seuss. Don't miss the MD&M West conference and expo, February 7-9, 2017, in Anaheim, CA. Eight study participants at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "originalUrl": "https://www.mddionline.com/rd/does-future-robotics-lie-imagination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-google-deepmind-wants-to-save-eyesight-with-artificial-intelligence.md",
+      "title": "Google DeepMind Wants to Save Eyesight with Artificial Intelligence",
+      "excerpt": "Now, Google DeepMind, a subsidiary of Google parent company Alphabet Inc., hopes to speed up the process by applying artificial intelligence. Optical coherence tomography, a noninvasive imaging technique that can produce 3-D scans of the eye, as well as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "originalUrl": "https://www.mddionline.com/implants/google-deepmind-wants-save-eyesight-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/all/themes/penton_subtheme_mddionline/images/logos/share-logo.png",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-22T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-this-fintech-and-blockchain-training-bundle-features-8-courses-for-40.md",
+      "title": "This fintech and blockchain training bundle features 8 courses for $40",
+      "excerpt": "With investments in blockchain tech growing, so will the job opportunities. This 8-course bundle can help. By ZDNet Academy | November 22, 2020 -- 13:00 GMT (05:00 PST) | Topic: Blockchain Blockchain could very well be the technology of the future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
+      "originalUrl": "https://www.zdnet.com/index.php/category/2381/index.php/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2381/index.php/google-amp/article/this-fintech-and-blockchain-training-bundle-features-8-courses-for-40/",
+      "publishedDateTime": "2020-11-22T14:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-the-mckinsey-state-of-ai-in-2020-report-finds-ai-drives-revenue.md",
+      "title": "The McKinsey State Of AI In 2020 Report Finds AI Drives Revenue",
+      "excerpt": "AI drives the most significant revenue gains in Marketing & Sales, Strategy & Corporate Finance, and Supply Chain Management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/22/the-mckinsey-state-of-ai-in-2020-report-finds-ai-drives-revenue/",
+      "originalUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/22/the-mckinsey-state-of-ai-in-2020-report-finds-ai-drives-revenue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f1cd8680d707a6f84e96b81%2F0x0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/louiscolumbus/2020/11/22/the-mckinsey-state-of-ai-in-2020-report-finds-ai-drives-revenue/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/louiscolumbus/2020/11/22/the-mckinsey-state-of-ai-in-2020-report-finds-ai-drives-revenue/amp/",
+      "publishedDateTime": "2020-11-22T11:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-23-vision-ai-will-be-the-next-worldwide-web.md",
+      "title": "Vision AI will be the next worldwide web",
+      "excerpt": "Combine this with emerging computer vision technology powered by AI, and together you have Vision AI. Vision AI has the power to unlock the future of automation in a way not seen since the Web ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/",
+      "originalUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/computer_vision.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/22/vision-ai-will-be-the-next-worldwide-web/amp/",
+      "publishedDateTime": "2020-11-22T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-self-driving-cars-could-become-your-neighborhood-ice-cream-truck.md",
       "title": "Self-Driving Cars Could Become Your Neighborhood Ice Cream Truck",
       "excerpt": "Anticipating the advent of self-driving ice cream trucks. getty. As a freezing cold winter begins to descend upon us, your thoughts undoubtedly turn toward a summertime pastime th",
@@ -879,343 +1206,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-natural-language-processing-nlp-market-is-booming-worldwide-3m-amazon-aws-averbis-health-fidelity.md",
-      "title": "Natural Language Processing (NLP) Market Is Booming Worldwide | 3M, Amazon AWS, Averbis, Health Fidelity",
-      "excerpt": "NLP in healthcare are mainly classified into the following types: machine translation, information extraction, automatic summarization, text and voice processing and other. Machine translation is the most widely used type which takes up about 45.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-is-booming-worldwide-3m-amazon-aws-averbis-health-fidelity-2020-11-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-is-booming-worldwide-3m-amazon-aws-averbis-health-fidelity-2020-11-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T12:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-run-ibm-openpages-with-watson-anywhere.md",
-      "title": "Run IBM OpenPages with Watson Anywhere",
-      "excerpt": "At IBM, we understand that clients are looking for an AI-infused modern governance, risk management, and compliance (GRC) solution to confidently meet their business objectives in a dynamic world of risks and threats. In this spirit, our engineers have been hard at work updating our cloud technologies",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-watson-anywhere/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/run-ibm-openpages-with-watson-anywhere/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/RegTech_Watson_blog_surprise_leadspace-990x498.png",
-          "width": 990,
-          "height": 498,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-20T12:29:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-12-million-raised.md",
-      "title": "Update: Twin Science & Robotics to Close Seedrs Campaign With Nearly £1.2 Million Raised",
-      "excerpt": "Twin Science & Robotics, a new educational experience that up skills children with physical and digital products, is set to close its equity crowdfunding campaign on Seedrs with nearly £1.2 million raised.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/twin-science-robotics-1-600x426.jpg",
-          "width": 600,
-          "height": 426,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/169373-update-twin-science-robotics-to-close-seedrs-campaign-with-nearly-1-2-million-raised/amp/",
-      "publishedDateTime": "2020-11-20T11:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-luminar-to-supply-lidar-sensors-for-mobileyes-self-driving-fleet.md",
-      "title": "Luminar to supply lidar sensors for Mobileye's self-driving fleet",
-      "excerpt": "Luminar Technologies, the self-driving sensor startup that is about to go public, said on Friday that it will supply laser-based lidar sensors to Intel Corp's <INTC.O> Mobileye subsidiary for its test fleet of self-driving vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
-      "originalUrl": "https://www.reuters.com/article/self-driving-luminar-mobileye-int-idUSKBN2801R3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201120&t=2&i=1541903564&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAJ0WV",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2801R3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2801R3",
-      "publishedDateTime": "2020-11-20T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-us-takes-first-step-toward-future-self-driving-car-regulations.md",
-      "title": "US takes first step toward future self-driving car regulations",
-      "excerpt": "We are long, long time away from widespread use of self-driving cars, though governments around the world are trying to get ahead of the game with regulations. In the US, any steps have been minimal at best,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/pzhP7bYITyBs9nMo0gCIMXCaohg=/2020/05/08/dbd312c6-315f-43d5-833e-c52d325f7c05/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/us-takes-first-step-toward-future-self-driving-car-regulations/",
-      "publishedDateTime": "2020-11-20T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-music-from-the-heart-with-an-ai-assist.md",
-      "title": "Music from the heart, with an AI assist",
-      "excerpt": "The next time you hear a popular song on the radio, listen to the beat behind the lyrics. Usually, a high-powered production team came up with it—but in the future, that beat could be created with help from artificial intelligence. That’s what Googler MJ Jacob predicts, as he combines his job as an engineer",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
-      "originalUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/mj-jacob.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/inside-google/googlers/hip-hop-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-20T09:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-fintech-and-their-etfs-ready-to-decimate-the-finance-industry.md",
-      "title": "Fintech and Their ETFs Ready to Decimate the Finance Industry",
-      "excerpt": "I n the lexicon of disruptive technologies, fintech is just getting started, indicating there's still attractive long-term growth prospects with the ARK Fintech Innovation ETF (NYSEARCA: ARKF). ARKF member firms are companies that are powered by innovations and are working to disintermediate or bypass the current financial markets and challenge traditional institutions by offering new solutions that are better,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20",
-      "originalUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/fintech-and-their-etfs-ready-to-decimate-the-finance-industry-2020-11-20?amp",
-      "publishedDateTime": "2020-11-20T08:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

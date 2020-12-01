@@ -2,6 +2,290 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-30-new-system-optimizes-the-shape-of-robots-for-traversing-various-terrain-types.md",
+      "title": "New system optimizes the shape of robots for traversing various terrain types",
+      "excerpt": "So you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person? Or six, like an ant?",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2020/newsystemopt.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-optimizes-robots-traversing-terrain.amp",
+      "publishedDateTime": "2020-11-30T07:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction.md",
+      "title": "Alphabet’s DeepMind achieves historic new milestone in AI-based protein structure prediction",
+      "excerpt": "DeepMind, the AI technology company that’s part of Google parent Alphabet, has achieved a significant breakthrough in AI-based protein structure prediction. The company announced today that its ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/",
+      "originalUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1279331936.jpg?w=1024",
+          "width": 1024,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/",
+      "publishedDateTime": "2020-11-30T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-c3ai-sets-ipo-size-above-half-a-billion-dollars.md",
+      "title": "C3.ai sets IPO size above half-a-billion dollars",
+      "excerpt": "The cloud software operator that uses AI to do industry-specific data analysis would see an initial value of $3 billion.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "originalUrl": "https://www.zdnet.com/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/30/e4d858ff-3bd7-4aed-ae90-7676eda0116c/c3ai-boilerplate-nov-30-2020.png",
+          "width": 1410,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/c3-ai-sets-ipo-size-above-half-a-billion-dollars/",
+      "publishedDateTime": "2020-11-30T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
+      "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
+      "excerpt": "New innovation enables organizations to significantly accelerate actionable insight from video, audio and text-based data sources Veritone, Inc., (NASDAQ:VERI), the creator",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/b18572236/veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201130005027/en/841782/4/Veritone_Nividia_BusinessWire_1200x640_copy.jpg",
+          "width": 480,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18572236",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18572236",
+      "publishedDateTime": "2020-11-30T06:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-servicenow-buys-artificial-intelligence-pioneer-element-ai.md",
+      "title": "ServiceNow buys artificial intelligence pioneer Element AI",
+      "excerpt": "ServiceNow Inc. is beefing up its artificial intelligence development capabilities with the acquisition today of a company called Element AI Inc. that’s widely known as one of the pioneers in the field.",
+      "sourceUrl": null,
+      "webUrl": "https://yoshuabengio.org/profile/",
+      "originalUrl": "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-intelligence-pioneer-element-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 242,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://yoshuabengio.org/wp-content/uploads/2020/01/Photo-of-Yoshua-Bengio_Fall-2018-web-1024x684.jpg",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T06:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-how-ai-is-influencing-the-evolution-of-the-telecommunications-industry.md",
+      "title": "How AI Is Influencing The Evolution Of The Telecommunications Industry",
+      "excerpt": "AI has helped the telecom sector redefine customer experience, bringing forth new opportunities but also complicating business models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5efb432b0c5dac00077006bd%2F0x0.jpg",
+          "width": 1199,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/",
+      "publishedDateTime": "2020-11-30T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-ten-workforce-skills-for-finance-employees-to-complement-ai.md",
       "title": "Ten Workforce Skills For Finance Employees To Complement AI",
       "excerpt": "After delivering a number of talks on embracing servant leadership as a CFO, audience members commented positively on how future workforce skills, such as servant leadership, would complement artificial intelligence (AI).",
@@ -137,6 +421,57 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-ai-approach-could-solve-the-problem-of-roi-for-content.md",
+      "title": "AI approach could solve the problem of ROI for content",
+      "excerpt": "Every company has to be a media company, too. But figuring out what content marketing to produce - and measuring its impact - is a constant problem. An AI service from InPowered could offer an answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "originalUrl": "https://www.zdnet.com/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/28/3abcb41d-e908-4445-b0c3-81f96343775b/uncertainfuture.jpg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-approach-could-solve-the-problem-of-roi-for-content/",
+      "publishedDateTime": "2020-11-30T04:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -372,58 +707,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-30-alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology.md",
-      "title": "AlphaFold: a solution to a 50-year-old grand challenge in biology",
-      "excerpt": "In a major scientific advance, the latest version of our AI systemAlphaFoldhas been recognised as a solution to the protein folding problem by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP).",
-      "sourceUrl": null,
-      "webUrl": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-      "originalUrl": "https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/NxvP8uqle7ps9_pc42gx-EmqzbcN_cZKu82VuX2XdXdl0toT77YccuxQROhdygQXSElcCy2RRHHzvOOf9pXviEffJ-768DxepKPsZgw",
-          "width": 512,
-          "height": 288,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-29T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-artificial-intelligence-machine-learning-what-do-they-mean.md",
       "title": "Artificial Intelligence & Machine Learning – What Do They Mean?",
       "excerpt": "There was a time when we heard terms like Artificial Intelligence and Machine Learning only in sci-fi movies. But",
@@ -466,57 +749,6 @@
         "Machine Learning",
         "AI in Autos",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays.md",
-      "title": "Northwestern University Has Developed An AI System That Helps Detect Covid-19 On Chest X-Rays",
-      "excerpt": "Northwestern University researchers announced that they successfully created a new Artificial Intelligence (AI) radiology tool that can detect Covid-19 in chest x-rays. The study has since been published in the journal Radiology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc3d7e77159da32978948e1%2F0x0.jpg%3FcropX1%3D644%26cropX2%3D4904%26cropY1%3D0%26cropY2%3D2396",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2020/11/29/northwestern-university-has-developed-an-ai-system-that-helps-detect-covid-19-on-chest-x-rays/amp/",
-      "publishedDateTime": "2020-11-29T13:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -959,256 +1191,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-restoring-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments-through-blockchain-data.md",
-      "title": "Restoring Credibility Of Machine Learning Pipeline Output Challenged In Study Of Real World Deployments Through Blockchain Data",
-      "excerpt": "Challenges to the credibility of Machine Learning pipeline output. How the performance of such ML models are inherently compromised due to current practices. How such problems can be cured by using the quality,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
-      "originalUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc1b29874a9b53e956d3b8c%2F0x0.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/vipinbharathan/2020/11/27/how-to-restore-credibility-of-machine-learning-pipeline-output-challenged-in-study-of-real-world-deployments/amp/",
-      "publishedDateTime": "2020-11-27T18:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-t-tops-in-use-of-facial-recognition-technology.md",
-      "title": "T tops in use of facial recognition technology",
-      "excerpt": "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-79454171/79454171.jpg",
-          "width": 800,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms",
-      "publishedDateTime": "2020-11-27T15:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-27-creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation.md",
-      "title": "Creating Amazon SageMaker Studio domains and user profiles using AWS CloudFormation",
-      "excerpt": "Amazon SageMaker Studio is the first fully integrated development environment (IDE) for machine learning (ML). It provides a single, web-based visual interface where you can perform all ML development steps required to build, train, tune, debug, deploy, and monitor models. In this post, we demonstrate",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-27T13:41:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-uganda-is-using-huaweis-facial-recognition-tech-to-crack-down-on-dissent-after-anti-government-protests.md",
-      "title": "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests",
-      "excerpt": "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni",
-      "sourceUrl": null,
-      "webUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
-      "originalUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.qz.com/wp-content/uploads/2020/11/EKevaMuWsAECukC-e1606499646300.jpg?quality=75&strip=all&w=1200&h=630&crop=1",
-          "width": 680,
-          "height": 370,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/",
-      "cdnAmpWebUrl": "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/",
-      "publishedDateTime": "2020-11-27T10:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Quartz",
-        "domain": "qz.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-turing-test-at-70-still-relevant-for-ai-artificial-intelligence.md",
-      "title": "Turing Test At 70: Still Relevant For AI (Artificial Intelligence)?",
-      "excerpt": "Yet Turing was already thinking about the implications of this category. In his paper, he described a framework to determine if a machine had intelligence. This essentially involved a thought experiment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc13a7e83db52b0eb53bf56%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D3500%26cropY1%3D518%26cropY2%3D2487",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/27/turing-test-at-70-still-relevant-for-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2020-11-27T09:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

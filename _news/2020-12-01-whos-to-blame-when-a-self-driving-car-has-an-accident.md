@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Who's to blame when a self-driving car has an accident?"
-excerpt: "With self-driving cars gaining traction in todays automobile landscape, the issue of legal liability in the case of an accident has become more relevant. Research in human-vehicle interaction has shown time and"
-publishedDateTime: 2020-12-01T09:04:00Z
-originalUrl: "https://www.econotimes.com/Whos-to-blame-when-a-self-driving-car-has-an-accident-1597500"
-webUrl: "https://www.econotimes.com/Whos-to-blame-when-a-self-driving-car-has-an-accident-1597500"
+excerpt: "With self-driving cars gaining traction in today's automobile landscape, the issue of legal liability in the case of an accident has become more relevant."
+publishedDateTime: 2020-12-01T14:54:00Z
+originalUrl: "https://techxplore.com/news/2020-12-blame-self-driving-car-accident.html"
+webUrl: "https://techxplore.com/news/2020-12-blame-self-driving-car-accident.html"
+ampWebUrl: "https://techxplore.com/news/2020-12-blame-self-driving-car-accident.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-blame-self-driving-car-accident.amp"
 type: article
-quality: 24
-heat: 24
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: EconoTimes
-  domain: econotimes.com
+  name: techxplore.com
+  domain: techxplore.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://s1.econotimes.com/assets/uploads/2020120111b8b91f65f04723f_th_1024x0.jpg"
-    width: 1024
-    height: 586
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/whostoblamew.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "Ip6yyX5SuniCE/jBaSQ8dHkzEYOHw99m4Ixi1zLtb5vOC55x3xOTLbyG4fEBn4MAnQ/HfybazqbPODca9IX+Ra4VTFWQgtzkqX5kest8IcvuFa9ZaQB8H7SmSptdLyuHSKChprqWnXrXFU7kX0JlBZ0GZ1cAztERwExtCmqniAIEI3J24JZSOZpX2MnERX9pc8/1PD5bFp3KoErLyGF8+0ByNUAdlQNZHA0mEDdLIwCE3sn4yqmVucUFYIc+jwAepnyKiFlcWBD5qZYQK+Q6vAmfE4MJL7WZmNYlgWn1lPOAwFFwuSRNIG/Pfv7eWDYgcMkcFTWQzget20MeQMEn2tvzkPx5YCOQmXW2qTwfuFU=;Qo4+CZM3JiTuAtqLh9OBEg=="
+secured: "XoaVqgBe9gP/9+5sYVamwWGBOBDN+8VahPFA9ovuwi3Hh1q96sYVuOb6kfVt0SORjuKuUDekJgJwFnpfEAxFsxqAE05uZS+Y4WNOSXfct/O/KMGh2olmy4oNiB15WDMXCycejOSnPO/u+tRi6UAQCY2WUnSQNO0+kPzlpml13zkyxTB7iiX7wQMjh529gpMOqECsp/MC/h7LiQGCjT/Q88dL4Mhnhggb7NBlyk9sgo7Z7R+TCqVYz8S1dEs8i+wduKkoxD+IhGOL9cZHhecgFDzrbKMJczDBVogUGU683TeVhqLd6QAqCk14hxfOCHSee/s02Ks9dOx49GgDtqZfZV+8FYTOKvjj0tEi/kNRNPY=;Z9tOF4rwIQJIVpI7aKJbQg=="
 ---
 

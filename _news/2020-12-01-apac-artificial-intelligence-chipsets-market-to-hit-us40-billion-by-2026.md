@@ -6,9 +6,9 @@ publishedDateTime: 2020-12-01T12:35:00Z
 originalUrl: "https://www.marketwatch.com/press-release/apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026-2020-12-01"
 webUrl: "https://www.marketwatch.com/press-release/apac-artificial-intelligence-chipsets-market-to-hit-us40-billion-by-2026-2020-12-01"
 type: article
-quality: 68
-heat: 68
-published: false
+quality: 70
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

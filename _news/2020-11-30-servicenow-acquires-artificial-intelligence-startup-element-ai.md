@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/servicenow-acquires-artific
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/servicenow-acquires-artificial-intelligence-startup-element-ai/"
 type: article
 quality: 104
-heat: 194
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "ServiceNow buys artificial intelligence pioneer Element AI"
+    excerpt: "ServiceNow Inc. is beefing up its artificial intelligence development capabilities with the acquisition today of a company called Element AI Inc. that’s widely known as one of the pioneers in the field."
+    publishedDateTime: 2020-11-30T14:11:00Z
+    webUrl: "https://yoshuabengio.org/profile/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 152
+    images:
+      - url: "https://yoshuabengio.org/wp-content/uploads/2020/01/Photo-of-Yoshua-Bengio_Fall-2018-web-1024x684.jpg"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "ServiceNow to Buy Element AI in Artificial Intelligence Push"
     excerpt: "ServiceNow Inc. will buy Canadian startup Element AI Inc. as the software maker embarks on its fourth acquisition this year to boost the artificial intelligence capabilities of its applications. The transaction is expected to close in early 2021 ..."
     publishedDateTime: 2020-11-30T16:22:00Z
@@ -78,20 +92,6 @@ related:
       - url: "https://i.itworldcanada.com/wp-content/uploads/2020/06/GettyImages-1150419849-620x250.jpg"
         width: 620
         height: 250
-        isCached: true
-  - title: "ServiceNow buys artificial intelligence pioneer Element AI"
-    excerpt: "ServiceNow Inc. is beefing up its artificial intelligence development capabilities with the acquisition today of a company called Element AI Inc. that’s widely known as one of the pioneers in the field."
-    publishedDateTime: 2020-11-30T14:11:00Z
-    webUrl: "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-intelligence-pioneer-element-ai/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 52
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/servicenow-1.png"
-        width: 718
-        height: 400
         isCached: true
   - title: "ServiceNow to Acquire AI Pioneer Element AI"
     excerpt: "ServiceNow (NYSE: NOW) today announced it has signed an agreement to acquire Element AI, a leading artificial intelligence (AI) company with deep AI capabilities and some of the world’s brightest AI minds."

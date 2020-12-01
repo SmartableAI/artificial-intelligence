@@ -39,6 +39,34 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 84
+  - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
+    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
+    publishedDateTime: 2020-12-01T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029"
+    excerpt: "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current"
+    publishedDateTime: 2020-11-30T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
     publishedDateTime: 2020-11-27T17:21:00Z

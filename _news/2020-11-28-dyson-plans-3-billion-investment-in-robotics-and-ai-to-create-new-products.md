@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dyson pledges new investment into AI, robotics and batteries"
-    excerpt: "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage."
-    publishedDateTime: 2020-11-26T23:06:00Z
-    webUrl: "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
-    ampWebUrl: "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
-    cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 89
-    images:
-      - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500"
-        width: 500
-        height: 281
-        isCached: true
-  - title: "Dyson to invest £2.75bn in robotics, AI and batteries"
-    excerpt: "Dyson is investing £2.75bn into new technology over the next five years in a push to expand its range of products beyond home appliances for the first time. The company, headed by billionaire Sir James Dyson,"
-    publishedDateTime: 2020-11-26T23:01:00Z
-    webUrl: "https://www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/"
-    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/amp/"
-    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/11/26/dyson-invest-275bn-robotics-ai-batteries/amp/"
-    type: article
-    provider:
-      name: The Daily Telegraph
-      domain: telegraph.co.uk
-    quality: 89
-    images:
-      - url: "https://www.telegraph.co.uk/content/dam/technology/2018/02/22/TELEMMGLPICT000110519485_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQfy2dmClwgbjjulYfPTELibA.jpeg"
-        width: 2501
-        height: 1563
-        isCached: true
   - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
     excerpt: "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched."
     publishedDateTime: 2020-11-27T07:29:00Z

@@ -2,6 +2,484 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-10-27-stock-price-prediction-using-artificial-neural-network.md",
+      "title": "Stock Price Prediction Using Artificial Neural Network",
+      "excerpt": "A stock market is a public market for the trading of company stock. It is an organized set-up with a regulatory body and the members who trade in shares are registered with the stock market and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "originalUrl": "https://www.techrepublic.com/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/resource-library/whitepapers/stock-price-prediction-using-artificial-neural-network/",
+      "publishedDateTime": "2020-10-26T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-ai-art-artificial-intelligence-creates-logos-from-scratch-in-world-first.md",
+      "title": "AI art: Artificial Intelligence creates logos 'from scratch' in world first",
+      "excerpt": "Artificial intelligence has until now only been considered as a tool able to augment human creativity. However, as the cutting-edge tech continues its inexorable rise, experts now recognise machine learning as capable of making an impact of its own in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg",
+      "originalUrl": "https://www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/ai-art-artificial-Intelligence-creative-logo-from-scratch-1352533.jpg?r=1603743319354",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1352533/ai-art-artificial-Intelligence-logo-from-scratch-tinder-spotify-evg/amp",
+      "publishedDateTime": "2020-10-26T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-dubai-introduces-facial-recognition-on-public-transport.md",
+      "title": "Dubai Introduces Facial Recognition on Public Transport",
+      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition.",
+      "sourceUrl": null,
+      "webUrl": "https://www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
+      "originalUrl": "https://www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.courthousenews.com/wp-content/uploads/2020/04/AP20097250765995-scaled.jpg?fit=1200%2C801&ssl=1",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
+      "cdnAmpWebUrl": "https://www-courthousenews-com.cdn.ampproject.org/c/s/www.courthousenews.com/dubai-introduces-facial-recognition-on-public-transport/",
+      "publishedDateTime": "2020-10-26T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Courthouse News Service",
+        "domain": "courthousenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates.md",
+      "title": "Neural pathway crucial to successful rapid object recognition in primates.",
+      "excerpt": "Led by Kohitij Kar, a postdoc at the McGovern Institute for Brain Research and Department of Brain and Cognitive Sciences, the study looked at an area called",
+      "sourceUrl": null,
+      "webUrl": "https://infosurhoy.com/news-summary/neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates/",
+      "originalUrl": "https://infosurhoy.com/news-summary/neural-pathway-crucial-to-successful-rapid-object-recognition-in-primates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T12:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoSur Hoy",
+        "domain": "infosurhoy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-microsoft-upgrades-password-spray-attack-detection-capabilities.md",
+      "title": "Microsoft upgrades password spray attack detection capabilities",
+      "excerpt": "Microsoft has improved password spray detection in Azure Active Directory (Azure AD) by doubling the number of compromised accounts it detects using a new machine learning (ML) system. \"This new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/",
+      "originalUrl": "https://www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-bleepingcomputer-com.cdn.ampproject.org/c/s/www.bleepingcomputer.com/news/security/microsoft-upgrades-password-spray-attack-detection-capabilities/amp/",
+      "publishedDateTime": "2020-10-26T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bleeping Computer",
+        "domain": "bleepingcomputer.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-mit-csail-upgrades-its-self-driving-boats-to-actually-transport-passengers.md",
+      "title": "MIT CSAIL upgrades its self-driving boats to actually transport passengers",
+      "excerpt": "Meet the \"Roboat II,\" the second iteration of an autonomous boat developed by researchers at MIT's Computer Science and Artificial Intelligence ... Like a self-driving car would on land, it ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/boston/inno/stories/news/2020/10/26/mit-csails-self-driving-boats-can-now-transport-p.html",
+      "originalUrl": "https://www.bizjournals.com/boston/inno/stories/news/2020/10/26/mit-csails-self-driving-boats-can-now-transport-p.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T12:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-27-great-promise-but-potential-for-peril.md",
+      "title": "Great promise but potential for peril",
+      "excerpt": "For decades, artificial intelligence, or AI, was the engine of high-level STEM research. Most consumers became aware of the technology’s power and potential through internet platforms like Google and Facebook, and retailer Amazon. Today, AI is essential ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
+      "originalUrl": "https://news.harvard.edu/gazette/story/2020/10/ethical-concerns-mount-as-ai-takes-bigger-decision-making-role/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.harvard.edu/wp-content/uploads/2020/09/story_2_shot_2500-945x630.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-26T11:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Medical School",
+        "domain": "harvard.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets.md",
+      "title": "New AI tool that detects star flares could help us find habitable planets",
+      "excerpt": "Scientists have developed an AI system that detects stellar flares, which could help astronomers search for habitable planets.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
+      "originalUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/10/Untitled-design-2020-10-26T155118.919-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/10/26/new-ai-tool-that-detects-star-flares-could-help-us-find-habitable-planets/amp/",
+      "publishedDateTime": "2020-10-26T09:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful.md",
+      "title": "With Robotaxis Still a Distant Dream, Lidar Makes Itself Useful",
+      "excerpt": "The promise of self-driving cars and robotaxi fleets once seemed just around the corner, but reality is setting in. Makers of the underlying technology are pivoting to more realistic ways of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iv4bzJModhs0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-10-26/with-robotaxis-still-a-distant-dream-lidar-makes-itself-useful",
+      "publishedDateTime": "2020-10-26T09:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories.md",
+      "title": "Leap And Learn: The Common Thread Of Artificial Intelligence Success Stories",
+      "excerpt": "Enterprises seeing real success with artificial intelligence have something in common: they are capable of learning quickly from their successes or failures and re-applying those lessons into their mainstream of their businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1154231467%2F0x0.jpg",
+          "width": 1200,
+          "height": 663,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2020/10/26/leap-and-learn-the-common-thread-of-artificial-intelligence-success-stories/amp/",
+      "publishedDateTime": "2020-10-26T09:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-techsee-raises-30-million-to-streamline-field-service-work-with-ar-and-computer-vision.md",
+      "title": "TechSee raises $30 million to streamline field service work with AR and computer vision",
+      "excerpt": "TechSee’s cross-platform, AWS-hosted apps employ computer vision to recognize products and issues and streamline warranty registration . For instance, TechSee Live, the company’s call center ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
+      "originalUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/10/7e1ce4cc-8904-40cd-80e7-f3717fd0d695-e1603126551920.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/26/techsee-raises-30-million-to-automate-field-service-work-with-ar-and-computer-vision/amp/",
+      "publishedDateTime": "2020-10-26T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-what-will-the-next-ai-killer-app-be-given-covid-19-impacts.md",
       "title": "What Will The Next AI Killer App Be Given Covid-19 Impacts?",
       "excerpt": "This blog explores the increasing mental health risks, rise of loneliness and the introduces the value of affective computing where voice and emotion will make invaluable contributions.",
@@ -645,535 +1123,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-network-testing-in-the-5g-era.md",
-      "title": "Network testing in the 5G era",
-      "excerpt": "A widely used application is object recognition, in which the presence and position of a particular object in an image (e.g. “A cat is/is not present in the picture”) is determined through multi-stage interpretation of patterns (edges, coloured areas ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/image-library/93/figure_03_szenario_5410cbec.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T17:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ai-at-the-edge-hack-chat.md",
-      "title": "AI At The Edge Hack Chat",
-      "excerpt": "Join us Wednesday at noon Pacific time for the AI at the Edge Hack Chat with John Welsh from NVIDIA! Machine learning was once the business of big iron like IBM’s Watson or the nearly limitless ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/04/29/ai-at-the-edge-hack-chat/",
-      "originalUrl": "https://hackaday.com/2019/04/29/ai-at-the-edge-hack-chat/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/04/1_Jetson_nano-PressGraphic_2000x1200-1.png",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-why-do-governments-need-cognitive-services.md",
-      "title": "Why do governments need cognitive services?",
-      "excerpt": "Mykhaylo Shmyelov, Director for National Technology Strategies and Policies for 24 Countries in Central and Eastern Europe at Microsoft, talked with Kazakhstani media Kursiv.kz about cognitive services and how they help governments become genuinely digital.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
-      "originalUrl": "https://news.microsoft.com/en-cee/2020/10/26/why-do-governments-need-cognitive-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/566/2020/10/web-3963945_1920-1600x843.jpg",
-          "width": 1600,
-          "height": 843,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-android-studio-improves-machine-learning-support.md",
-      "title": "Android Studio improves machine learning support",
-      "excerpt": "With the 4.1 release, Android Studio improves on-device machine learning support via backing for TensorFlow Lite models in Android projects. Android Studio generates classes so models can be run ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html",
-      "originalUrl": "https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/01/cw_android_intelligence_jr_android_tuneup_abstract_gears_wireframe_by_igor_korchak_gettyimages-100784978-large.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3584465/android-studio-improves-machine-learning-support.amp.html",
-      "publishedDateTime": "2020-10-25T16:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-30000-grant-to-support-uhv-math-robotics-programs.md",
-      "title": "$30,000 grant to support UHV math, robotics programs",
-      "excerpt": "A $30,000 grant from Alcoa Foundation will allow the University of Houston-Victoria to continue to host public events focused on math, computer science and robotics for middle and high school",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
-      "originalUrl": "https://www.victoriaadvocate.com/news/30-000-grant-to-support-uhv-math-robotics-programs/article_bd86a028-13de-11eb-94c0-5fb7be856e28.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/0/b4/0b42eab4-f34e-11e8-aa1f-f32a7a8d25be/5bfefdbc06708.image.jpg?resize=500%2C625",
-          "width": 500,
-          "height": 625,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-ford-mustang-mach-e-electric-car-sees-first-firm-dates-tesla-model-y-rival-revs-up-production.md",
-      "title": "Ford Mustang Mach-E Electric Car Sees First Firm Dates: Tesla Model Y Rival Revs Up Production",
-      "excerpt": "E electric are seeing hard production dates. Several people who placed orders for the Ford Electric crossover are receiving notifications of production dates of December 7, 2020, according to posts on the Mustang Mach E Reddit forum and the Mach E Club.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "originalUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f93de099eb2528efb937002%2F0x0.jpg%3FcropX1%3D193%26cropX2%3D1526%26cropY1%3D0%26cropY2%3D750",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brookecrothers/2020/10/24/ford-mustang-mach-e-electric-car-sees-first-firm-production-dates-tesla-model-y-rival-revs-up-production/amp/",
-      "publishedDateTime": "2020-10-25T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-26-coming-soon-facial-recognition-system-for-dubai-metro-stations.md",
-      "title": "Coming soon: Facial recognition system for Dubai Metro stations",
-      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said on Sunday as a new simulation and training facility was launched for the Transport Security Department in the emirate. The Hamdan Smart Station for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "originalUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.khaleejtimes.com/storyimage/KT/20201025/ARTICLE/201029285/AR/0/AR-201029285.jpg&NCS_modified=20201025182405&exif=.jpg",
-          "width": 1194,
-          "height": 776,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/news/transport/coming-soon-facial-recognition-system-for-dubai-metro-stations",
-      "publishedDateTime": "2020-10-25T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-determining-the-likelihood-that-an-ai-patent-application-will-be-allowed-at-the-uspto.md",
-      "title": "Determining the Likelihood that an AI Patent Application Will Be Allowed at the USPTO",
-      "excerpt": "As computing power and large datasets become more available, the use of artificial intelligence (AI) in technology is exploding around the world. The USPTO has taken steps to adapt to AI inventions, asking in August of 2019 for public comment on questions ranging from AI inventorship to how to best consider AI elements of inventions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ipwatchdog.com/2020/10/25/determining-likelihood-ai-patent-application-will-allowed-uspto/id=126687/",
-      "originalUrl": "https://www.ipwatchdog.com/2020/10/25/determining-likelihood-ai-patent-application-will-allowed-uspto/id=126687/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ipwatchdog.com/wp-content/uploads/2020/10/546_MTcwMjIyX0xpa2VfUm9ib3QwMDEtMDE-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-25T09:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IPWatchdog",
-        "domain": "ipwatchdog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-researchers-suggest-ai-can-learn-common-sense-from-animals.md",
-      "title": "Researchers suggest AI can learn common sense from animals",
-      "excerpt": "AI practitioners can draw lessons from scientists working with animals to train reinforcement learning agents, a recent paper found.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/",
-      "originalUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/10/andre-noboa-xrQZadbxPc0-unsplash.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/25/researchers-suggest-ai-can-learn-common-sense-from-animals/amp/",
-      "publishedDateTime": "2020-10-25T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules.md",
-      "title": "Trying To Prevent Narco Self-Driving Cars That Act As Drug Mules",
-      "excerpt": "A recent news story described a narco mini-submarine that was scuttled in shallow waters after three men operating the vessel opted to evacuate and escape as authorities were closing in on them. Reportedly containing an estimated $100 million in cocaine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f90c97b4f7c7f4774a83f34%2F0x0.jpg%3FcropX1%3D233%26cropX2%3D4337%26cropY1%3D93%26cropY2%3D2284",
-          "width": 1200,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/10/25/trying-to-prevent-narco-self-driving-cars-that-act-as-drug-mules/amp/",
-      "publishedDateTime": "2020-10-25T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-25-want-to-invest-in-self-driving-cars-these-are-the-2-stocks-youll-want-to-own.md",
-      "title": "Want to Invest in Self-Driving Cars? These Are the 2 Stocks You'll Want to Own",
-      "excerpt": "While many companies are working on autonomous vehicles, only a couple are ready to let theirs hit the road in the real world without human backup drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.ycharts.com/charts/fc490c290584e81b2214cc869c7d78ba.png",
-          "width": 720,
-          "height": 531,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/25/2-stocks-to-buy-for-self-driving-cars/",
-      "publishedDateTime": "2020-10-25T06:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

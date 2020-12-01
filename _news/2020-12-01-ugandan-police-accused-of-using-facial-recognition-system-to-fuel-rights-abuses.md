@@ -29,18 +29,16 @@ related:
   - title: "Uganda is using Huawei’s facial recognition tech to crack down on dissent after anti-government protests"
     excerpt: "Uganda's national CCTV system installed by Huawei has 83 monitoring centers, 522 operators and 50 commanders according to president Museveni"
     publishedDateTime: 2020-11-27T18:36:00Z
-    webUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/"
-    ampWebUrl: "https://qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/"
-    cdnAmpWebUrl: "https://qz-com.cdn.ampproject.org/c/s/qz.com/africa/1938976/uganda-uses-chinas-huawei-facial-recognition-to-snare-protesters/amp/"
+    webUrl: "https://www.wsj.com/articles/huawei-technicians-helped-african-governments-spy-on-political-opponents-11565793017"
     type: article
     provider:
       name: Quartz
       domain: qz.com
-    quality: 72
+    quality: 152
     images:
-      - url: "https://cms.qz.com/wp-content/uploads/2020/11/EKevaMuWsAECukC-e1606499646300.jpg?quality=75&strip=all&w=1200&h=630&crop=1"
-        width: 680
-        height: 370
+      - url: "https://images.wsj.net/im-96392/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "/pBGNnZzFxBzofh148pBSY+Z/nZK+8H+FF8agN8apF2tX70mOpLOPKISvw0W1WRdBOfQTkfbVFCgQTvWBmTWFVVrZBiSeCNvU8NnRkc0Y5dnULOLgGB89LWdRyf0Bw/qF47vNdxYZIDdZJhqReehIN5O1nSedz9pAM0cIidUGKHtBa3zWC9zVlzZ76pynykc7aBteMpiZBuggmayx0XsRcXW7Eizy0E3A/VR1Zb1mC/FWJowBiepAfcMKe9iSg0weQSMWZUzwHitWbO6ssxgHYZ6yMT4lpRHk5HFcEEte/s5lu+Ei6W8mIH5vOjSgh9DtobxdanxqbrZ4WFn4YwFWTMXCyjxWbHJ2NtjDfO9VDGt7eQGFmZleqmH4IOYz0Aq/UpJ1rCfCrJBFlfPnqeHZgn3g5ZVRc+hUIkB1aYAQ2g362oBzB0tjXzRG9KaP0TKqeqjtFXhb/QGBhZyvKwdawlqCJ43HOJso2MKG9N37ahl1IXI1epG1UNn4Ok1k1o9/42K+tZe4cqEs25yaXIgGw==;KFFlliqx9habzVHhXa1z/g=="

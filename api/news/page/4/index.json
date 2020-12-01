@@ -2,6 +2,258 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-26-privacy-in-china-the-growth-of-facial-recognition-technology-in-the-private-sector-raises-concerns-about-security-and-identity.md",
+      "title": "Privacy in China: the growth of facial recognition technology in the private sector raises concerns about security and identity",
+      "excerpt": "Facial recognition is used by Chinese authorities to pick people out of crowds and identify them. Now the technology is moving into the private sector, leading to calls for laws to regulate companies that use it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "originalUrl": "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/26/7c41750e-2eee-11eb-be20-200ca6256645_image_hires_183447.jpg?itok=rHFj5_nA&v=1606386899",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises",
+      "publishedDateTime": "2020-11-26T07:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-the-10-coolest-ai-chip-startups-of-2020.md",
+      "title": "The 10 Coolest AI Chip Startups Of 2020",
+      "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg",
+          "width": 399,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-26T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition.md",
+      "title": "This AI tool generates your creepy lookalikes to trick facial recognition",
+      "excerpt": "If you’re worried about facial recognition firms or stalkers mining your online photos, a new tool called Anonymizer could help you escape their clutches. The app was created by Generated Media, a startup that provides AI-generated pictures to customers ranging from video game developers creating new characters to journalists protecting the identities of sources.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-26T115747.122-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/",
+      "publishedDateTime": "2020-11-26T07:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-playing-psychotherapist-to-a-troubled-ai-in-syntherapy.md",
+      "title": "Playing psychotherapist to a troubled AI in 'Syntherapy'",
+      "excerpt": "Set about 20 years in the future, the game’s narrative is told from the vantage point of Melissa Park, a psychotherapist. The AI, named Willow, feels overwhelmed. The team is torn over whether the illness is a technical issue or an emotional one.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/syntherapy-ai-psychotherapist-game-150014882.html",
+      "originalUrl": "https://www.engadget.com/syntherapy-ai-psychotherapist-game-150014882.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F21aafc61-2f38-11eb-90ff-49962f288178&client=amp-blogside-v2&signature=5bbd40eaa8ec0bbcaf908da5f10a3a85bb67c993",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/syntherapy-ai-psychotherapist-game-150014882.html",
+      "publishedDateTime": "2020-11-26T07:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-robotics-researchers-propose-ai-that-locates-and-safely-moves-items-on-shelves.md",
+      "title": "Robotics researchers propose AI that locates and safely moves items on shelves",
+      "excerpt": "Robotics researchers at Google and the University of California, Berkeley propose methods that help robots to more accurately move objects.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "originalUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/39049f7f-901d-4bf1-8a64-af2737f6b89f-e1606343440372.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 895,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/26/robotics-researchers-propose-ai-that-locates-items-on-shelves-and-moves-objects-without-tipping-them/amp/",
+      "publishedDateTime": "2020-11-26T06:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-security-startup-helia-raises-3m-from-silicon-valley-investors.md",
       "title": "Security Startup Helia Raises $3M From Silicon Valley Investors",
       "excerpt": "Helia is headquartered in San Francisco and founded by Indian origin entrepreneur Ashwin Sreenivas along with Russell Kaplan and Daniel Berrios",
@@ -426,40 +678,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm.md",
-      "title": "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM",
-      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18534360",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18534360",
-      "publishedDateTime": "2020-11-25T13:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-26-researchers-taught-ai-how-to-judge-a-video-game-by-its-cover.md",
       "title": "Researchers taught AI how to judge a video game by its cover",
       "excerpt": "Have you ever seen the promo art or box cover for a video game and thought “what the hell is this even about?” Well, wonder no more. A pair of researchers have combined cutting-edge image recognition and natural language processing to create an AI system for video game genre classification.",
@@ -635,6 +853,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-26-global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm.md",
+      "title": "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM",
+      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by the manufacturers.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491",
+      "publishedDateTime": "2020-11-25T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -928,249 +1189,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-chatbot-startup-kataai-raises-series-b-funding-from-mdi-tptf.md",
-      "title": "Chatbot startup Kata.ai raises series B funding from MDI, TPTF",
-      "excerpt": "The startup plans to use the fresh funds to extend its business and services to the commerce, healthcare, and insurtech industries.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-663946",
-      "originalUrl": "https://www.techinasia.com/chatbot-startup-kata-ai-raises-series-b-funding?ref=recommender-663946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techinasia",
-        "domain": "techinasia.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techinasia.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-iit-kharagpur-innovation-hub-on-ai-ml-to-translate-research-to-industrially-scalable-products.md",
-      "title": "IIT Kharagpur Innovation Hub On AI, ML To Translate Research To Industrially Scalable Products",
-      "excerpt": "IIT Kharagpur has set up a technology innovation hub on artificial intelligence (AI) and machine learning (ML) to translate academic research to industrially scalable products and processes, a spokesperson said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/education/iit-kharagpur-innovation-hub-on-ai-ml-translate-research-industrially-scalable-products",
-      "originalUrl": "https://www.ndtv.com/education/iit-kharagpur-innovation-hub-on-ai-ml-translate-research-industrially-scalable-products",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cache.careers360.mobi/media/article_images/2020/11/25/i46idagg_education_625x300_06_March_20.jpg",
-          "width": 625,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T02:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-weride-robotaxis-gain-loyal-passengers-but-fixed-pick-up-drop-off-spots-irk-some-survey-shows.md",
-      "title": "WeRide robotaxis gain loyal passengers but fixed pick-up, drop-off spots irk some, survey shows",
-      "excerpt": "Nearly 60 per cent of about 650 passengers WeRide surveyed say they use the company’s robotaxi service for regular commutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "originalUrl": "https://www.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/25/fe2fa526-2ee0-11eb-be20-200ca6256645_image_hires_161521.jpg?itok=wVzItpX0&v=1606292129",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/start-ups/article/3111277/weride-robotaxis-gain-loyal-passengers-fixed-pick-drop-spots-irk",
-      "publishedDateTime": "2020-11-25T00:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership.md",
-      "title": "South Korea Unveils AI Chip to Maintain Semiconductor Leadership",
-      "excerpt": "South Korea is adding a new artificial intelligence chip to its arsenal of semiconductors as the nation seeks a bigger slice of the global tech market and an upgrade of its industrial capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i91wAuLvp3JY/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-25/south-korea-unveils-ai-chip-to-maintain-semiconductor-leadership",
-      "publishedDateTime": "2020-11-24T22:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020.md",
-      "title": "Your guide to artificial intelligence and machine learning at re:Invent 2020",
-      "excerpt": "With less than a week to re:Invent 2020, we are feeling the excitement and thrill, and looking forward to seeing you all at the world’s premier cloud learning event. As always, artificial intelligence (AI) and machine learning (ML) continue to be on the list of top topics with our customers and partners.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/your-guide-to-artificial-intelligence-and-machine-learning-at-reinvent-2020/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/827bfc458708f0b442009c9c9836f7e4b65557fb/2020/06/03/Blog-Post_thumbnail.png",
-          "width": 768,
-          "height": 385,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-24T18:32:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
