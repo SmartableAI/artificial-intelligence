@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -55,101 +55,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.md",
-      "title": "Machine learning model identifies which drug combinations kill tumor cells",
-      "excerpt": "When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies. In addition to cancer surgery, the patients are often treated with radiation therapy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
-      "publishedDateTime": "2020-12-01T06:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-update-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today.md",
-      "title": "UPDATE -- Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today",
-      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as the final installment of the company's Solve Strategy Series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-shrinking-massive-neural-networks-used-to-model-language.md",
       "title": "Shrinking massive neural networks used to model language",
       "excerpt": "Deep learning neural networks can be massive, demanding major computing power. In a test of the “lottery ticket hypothesis,” MIT researchers have found leaner, more efficient subnetworks hidden within BERT models.",
@@ -158,7 +63,7 @@
       "originalUrl": "https://news.mit.edu/2020/neural-model-language-1201",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -243,6 +148,58 @@
       "topics": [
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today.md",
+      "title": "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today",
+      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as part of the company's Solve Strategy Series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1423,6 +1380,58 @@
         "name": "freightwaves.com",
         "domain": "freightwaves.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
+      "title": "Using Machine Learning To Predict And Detect Fraud",
+      "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "publishedDateTime": "2020-11-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

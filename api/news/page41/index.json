@@ -2,6 +2,101 @@
   "page": 41,
   "value": [
     {
+      "path": "_news/2020-10-29-intel-acquires-ai-software-optimization-platform-sigopt.md",
+      "title": "Intel acquires AI software optimization platform SigOpt",
+      "excerpt": "Intel today announced it will acquire SigOpt, a San Francisco-based startup developing a platform to optimize AI software models ... at BlackBerry developer Research in Motion, FourSquare ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/",
+      "originalUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/03/Intel-AI-e1588950898320.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/10/29/intel-acquires-ai-software-optimization-platform-sigopt/amp/",
+      "publishedDateTime": "2020-10-29T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
+      "title": "If a Robot Is Conscious, Is It OK to Turn It Off? The Moral Implications of Building True AIs",
+      "excerpt": "Philosophers say now is the time to mull over what qualities should grant an artificially intelligent machine moral standing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "originalUrl": "https://www.discovermagazine.com/technology/if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.ctfassets.net/cnu0m8re1exe/6ohFLYheDXySc0pdYKJcrL/43ee6a352bbfc134a12bb1a8cd95cf07/times-arrow-part-i-hd-0301.jpg?w=650&h=433&fit=fill",
+          "width": 650,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-29T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-the-next-generation-of-artificial-intelligence-part-2.md",
       "title": "The Next Generation Of Artificial Intelligence (Part 2)",
       "excerpt": "Like artificial intelligence more broadly ... albeit with further innovations to today’s neural networks. “Some people think we need to invent something completely new to face these challenges, and maybe go back to classical AI to deal with things ...",
@@ -1132,101 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027.md",
-      "title": "Natural Language Processing (NLP) Market Trends, Top Key Players, Regions and Industry Size and Forecast to 2027",
-      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T18:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-artificial-intelligence-helps-improve-treatment-for-brain-tumor.md",
-      "title": "Artificial Intelligence Helps Improve Treatment for Brain Tumor",
-      "excerpt": "In patients with glioblastoma (brain tumor) artificial intelligence measures the amount of muscle to help improve prognosis and treatment, said researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
-      "publishedDateTime": "2020-10-28T17:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

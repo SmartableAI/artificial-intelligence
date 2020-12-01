@@ -2,6 +2,101 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2020-10-29-natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027.md",
+      "title": "Natural Language Processing (NLP) Market Trends, Top Key Players, Regions and Industry Size and Forecast to 2027",
+      "excerpt": "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-trends-top-key-players-regions-and-industry-size-and-forecast-to-2027-2020-10-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-artificial-intelligence-helps-improve-treatment-for-brain-tumor.md",
+      "title": "Artificial Intelligence Helps Improve Treatment for Brain Tumor",
+      "excerpt": "In patients with glioblastoma (brain tumor) artificial intelligence measures the amount of muscle to help improve prognosis and treatment, said researchers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
+      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/healthcare-directory/images/find-a-doctor-300x250.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-improve-treatment-for-brain-tumor-198219-1.htm",
+      "publishedDateTime": "2020-10-28T17:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-q3-2020-tech-growth-earnings-review-pinterest-snap-microsoft-and-more.md",
       "title": "Q3 2020: Tech Growth Earnings Review - Pinterest, Snap, Microsoft And More.",
       "excerpt": "Azure Machine Learning, Azure Space and Microsoft Cloud for Healthcare. Azure saw a slight acceleration of 1% this quarter. Gross margins on Commercial Cloud are an impressive 71% when including ...",
@@ -1050,101 +1145,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-new-unbabel-portal-unveiled-to-manage-customer-service-language-operations.md",
-      "title": "New Unbabel Portal Unveiled to Manage Customer Service Language Operations",
-      "excerpt": "The Unbabel Portal offers customers the most dynamic visualization and increased control over language operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
-      "originalUrl": "https://www.businesswire.com/news/home/20201028005068/en/New-Unbabel-Portal-Unveiled-to-Manage-Customer-Service-Language-Operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201028005068/en/833874/23/Unbabel-Portal-Usage-Reporting-Analysis.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-deep-learning-market-industry-insights-by-growth-emerging-trends-and-forecast-by-2023.md",
-      "title": "Deep Learning Market- Industry Insights By Growth, Emerging Trends And Forecast By 2023",
-      "excerpt": "Oct 28, 2020 (AmericaNewsHour) -- Global Deep Learning Market Research Report: by Component (Hardware, Software, Services), Application (Image Recognition, Data Mining, Signal Recognition), End ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market--industry-insights-by-growth-emerging-trends-and-forecast-by-2023-2020-10-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market--industry-insights-by-growth-emerging-trends-and-forecast-by-2023-2020-10-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-28T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -22,21 +22,21 @@ topics:
   - AI
 
 related:
-  - title: "Machine learning model identifies which drug combinations kill tumor cells"
-    excerpt: "When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies. In addition to cancer surgery, the patients are often treated with radiation therapy,"
-    publishedDateTime: 2020-12-01T14:19:00Z
-    webUrl: "https://www.news-medical.net/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx"
+  - title: "Finnish researchers say AI tool can help optimize cancer combination therapy"
+    excerpt: "Researchers in Finland have developed a machine-learning tool that accurately predicts how different cancer drugs kill disease cells, according to a paper published Tuesday by Nature Communications."
+    publishedDateTime: 2020-12-01T18:05:00Z
+    webUrl: "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/"
+    ampWebUrl: "https://www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 57
+      name: UPI.com
+      domain: upi.com
+    quality: 71
     images:
-      - url: "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://cdnph.upi.com/sv/ph/og/upi_com/4601606838101/2020/1/9cfb143b32837f2bd66aa13fc75ac5b8/v1.5/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Artificial Intelligence Predicts Drug Combinations That Kill Cancer Cells More Effectively"
     excerpt: "A machine learning model developed in Finland can help us treat cancer more effectively. When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies."

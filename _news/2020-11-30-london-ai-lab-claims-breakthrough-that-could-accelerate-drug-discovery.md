@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-fo
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.amp.html"
 type: article
 quality: 88
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1050
     height: 549
     isCached: true
+
+related:
+  - title: "London AI lab claims breakthrough that could accelerate drug discovery"
+    excerpt: "Proteins are the microscopic mechanisms that drive the behavior of viruses, bacteria, the human body and all living things. They begin as strings of chemical compounds before twisting and folding into three-dimensional shapes that define what they can do — and what they cannot."
+    publishedDateTime: 2020-12-01T17:54:00Z
+    webUrl: "https://www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
+    ampWebUrl: "https://www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Hartford Courant
+      domain: courant.com
+    quality: 57
+    images:
+      - url: "https://www.courant.com/resizer/IeQjlK8BOBiwRvsBVckXk44BvqU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G6SIPGSVPZE2JBXFJD7DZ5TIII.jpg"
+        width: 1200
+        height: 826
+        isCached: true
 
 secured: "x2o5cpYD641fyKPO1StfutMdC1fLeIjTNfBVL3PhtGnOn9LAQ1J8IevQxwKL9XlFbKxyd7OQfAa/LG9wVImb1H7O+YZYUKN6MLLwv1hI0XA0Razf8fjA1uiLrnInK6QmimjnIiNGGGZVld+CLaS7c8HWw+42TkIr8ZBJ5DTe9Hjm04LzjmsYo8XBawKJi3+SGCP017C1xywMn53EXCr2FBUHAmtZT/WievW1QLkLWQ/mpDCkKSeuJnWY6hjpBVQQpwu4A+QmwhrE/et61h6z6KYIcnPjZdPncBT5fpksRtz6b27NlF/w3sPEO3kfbaX+nzQOrGww7k8lhzgFX7lPPyafNWAb51F2/fpDJsGriao=;xIx6OdBuUJMUiNDaf3QvIg=="
 ---

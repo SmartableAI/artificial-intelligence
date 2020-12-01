@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-18-rdna-2-deep-dive-whats-inside-amds-radeon-rx-6000-graphics-cards.md",
+      "title": "RDNA 2 deep-dive: What's inside AMD's Radeon RX 6000 graphics cards",
+      "excerpt": "AMD's new RDNA 2 architecture brings ray tracing, an innovative Infinity Cache, and more to Radeon RX 6000-series GPUs. Here's everything you need to know.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "originalUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg",
+          "width": 500,
+          "height": 429,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
+      "publishedDateTime": "2020-11-18T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-are-your-model-governance-practices-ai-ready.md",
       "title": "Are Your Model Governance Practices ‘AI Ready’?",
       "excerpt": "AI/ML models have unique technical and operational characteristics that compound current governance challenges.",
@@ -50,50 +102,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations.md",
-      "title": "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations",
-      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
-      "publishedDateTime": "2020-11-18T05:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -430,6 +438,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations.md",
+      "title": "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations",
+      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions,",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1306557/RigNet_Logo.jpg?p=facebook",
+          "width": 967,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -1141,57 +1193,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-ai-tool-maker-seldon-raises-71m-series-a-from-albionvc-and-cambridge-innovation-capital.md",
-      "title": "AI-tool maker Seldon raises £7.1M Series A from AlbionVC and Cambridge Innovation Capital",
-      "excerpt": "Seldon is a U.K. startup that specializes in the rarified world of development tools to optimize machine learning. What does this mean? Well, dear reader, it means that the “AI” that companies are so fond of trumpeting does actually end up working.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/",
-      "originalUrl": "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/10/tools.jpg?w=960",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/17/ai-tool-maker-seldon-raises-7-1m-series-a-from-albionvc-and-cambridge-innovation-capital/amp/",
-      "publishedDateTime": "2020-11-17T16:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

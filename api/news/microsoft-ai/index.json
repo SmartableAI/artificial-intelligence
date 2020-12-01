@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-01-meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge.md",
-      "title": "Meet the Microsoft AI project that will transform corporate data into knowledge",
-      "excerpt": "We take a look inside Microsoft's new collaborative development process for SharePoint and machine learning-based knowledge management systems.",
+      "path": "_news/2020-12-01-microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works.md",
+      "title": "Microsoft teams up with Code.org to teach students how AI works",
+      "excerpt": "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
-      "originalUrl": "https://www.techrepublic.com/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
+      "webUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
+      "originalUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/149a9e40-051d-40d4-b56e-8ebf048d6bea/resize/1200x/bee4d761c5f23809d0189d5233798872/microsoft-project-cortex-diagram.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1606841662_untitled_design_(3)_story.jpg",
+          "width": 760,
+          "height": 428,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
-      "publishedDateTime": "2020-12-01T04:03:00-08:00",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
+      "publishedDateTime": "2020-12-01T04:48:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
+        "name": "Neowin",
+        "domain": "neowin.net",
         "images": [
           {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,6 +49,7 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI",
         "Microsoft AI"
       ]

@@ -9,8 +9,8 @@ ampWebUrl: "https://m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades
 cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php"
 type: article
 quality: 70
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: GSM Arena
@@ -26,38 +26,6 @@ images:
     height: 526
     isCached: true
 
-related:
-  - title: "Qualcomm introduces Snapdragon 888 chip with next-gen AI, 5G, and graphics"
-    excerpt: "Qualcomm’s next flagship processor will be the Snapdragon 888 system-on-a-chip (SoC), a processor featuring Qualcomm’s 6th-gen AI engine, next-gen Adreno graphics, and a Snapdragon X60 5G modem. This time the modem is integrated into the SoC,"
-    publishedDateTime: 2020-12-01T14:13:00Z
-    webUrl: "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html"
-    ampWebUrl: "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp"
-    cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp"
-    type: article
-    provider:
-      name: Liliputing
-      domain: liliputing.com
-    quality: 72
-    images:
-      - url: "https://liliputing.com/wp-content/uploads/2020/12/sd888_01.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Snapdragon 888 Will be Qualcomm's Next Premium Chip"
-    excerpt: "At Qualcomm's Snapdragon Tech Summit event, the company announced its next top-end Snapdragon chip, the Snapdragon 888. The 888 is expected to power most flagship Android phones in 2021. Although Qualcomm is saving many details for tomorrow's keynote,"
-    publishedDateTime: 2020-12-01T15:34:00Z
-    webUrl: "https://www.phonescoop.com/articles/article.php?a=22384"
-    type: article
-    provider:
-      name: Phone Scoop
-      domain: phonescoop.com
-    quality: 39
-    images:
-      - url: "https://www.phonescoop.com/img/a/s/o20.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "WSYhlpUo2N/+QGB7xo0YX8OVsbDmOjWVjcNx996IriNOkO9vcAbCYlhNS1t+JvF5xCMUjhB1WxSdOpqyyqDzO35UlF75tp1RNuqDjqYNQPpfUh1VcS3lEQXRFRJsFlV49NwgLhLfpadK9dOaUyAvO5x4uFtrTcbJmOMI7OIsEoI06cHYDESgJ3BZ7RG8V/x1cD3iN8hUSBOV6mbdbcLYFP/sj9RtjRgVBkxJdH2fyUGZswkbDFTbqxrj6FBt8ZY5Ph+zcu7FTT8bR49Wdb0HGWMh2XdJC2uhWrqM93/c3osErNXQWd8ztyzREzLpvWNT3n5h9K9WVuv/InTX7ReBJdnzKZ4OOZk1LP90dUKS9oI=;d/yeWgNOHzNoeXA6lGkO7w=="
+secured: "tBF403LSQIglSCywd79vrMunla6HghEHatsmDdpEXzHHmmOqOoC9aW38TYdv/kQC9YMWiXeh4zHvK6zX9mFGBMyGu2F7ynjnCNj4JhPjDCQLCavinNi2iAALvdoFpJD2AcQM3WavcGVxPQtdE7TCs6DgXrFvsluAupX8ri1hxpaKCM6S7WPcGKfUGAId/5t9JctsGjua81W8FpSlOnsZJdLDvsc6DvZfIw+ZYiF1WeTFcmmBPWyylzIKdJ1l+qkydWgZ62XmuWSeAA5GXiwxE32MNg4XQMczY1RnIBAA8Mw5VAalBudqR9MyzNcWbA4Vn+XS5BPBhNuQ3U0C2lyTqfsPlmRxVAwvR4+uZgB7YFg8G544cD0UfMaZop9B+/74zGa0619TbmQn+MSsaN+BH2wbWYherrkKGfyCouRdNWKWRyF9XepLWwbiwcpE0TLyTZR7JpveSbeUrga8RywrB5jq1NJFrN+42BuVpCo23io5pUiF1BPCXmfyufAbu5L5PFA9UubMc+Dv3KFfcLQX+Q==;AUNEIEhwiTbMZ23nADb3/Q=="
 ---
 

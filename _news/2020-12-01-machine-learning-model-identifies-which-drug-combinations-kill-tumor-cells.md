@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201201/Machine-learning-mode
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 58
+published: false
 
 provider:
   name: News Medical
@@ -25,31 +25,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "AI predicts which drug combinations kill cancer cells"
-    excerpt: "A machine learning model can help us treat cancer more effectively. When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies."
-    publishedDateTime: 2020-12-01T16:50:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2020/12/201201084800.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
-  - title: "Artificial Intelligence Predicts Drug Combinations That Kill Cancer Cells More Effectively"
-    excerpt: "A machine learning model developed in Finland can help us treat cancer more effectively. When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies."
-    publishedDateTime: 2020-12-01T10:11:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-predicts-drug-combinations-that-kill-cancer-cells-more-effectively/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 29
-    images:
-      - url: "https://scitechdaily.com/images/AI-Perfects-Drug-Combinations.jpg"
-        width: 2100
-        height: 1500
-        isCached: true
 
 secured: "p76bUsgiCIjxJWJkTgE7Sju9Gy7EJPR1y8hIzej7aWB14vQguEuk9Rmi0Z48pB9OsyUeyHuvZivmp7FxWhtvtf9LzXihKtp5lL6t/VHOMM656jB2/64N5GwVwy0Se3d41RrAkagmDMVd3GtzXL6NTu/VqxZquZfVudpOKramwLNn7krDfurkb14LMvQeLjmUURC35MaOoYb2SyUCShyuqPhXIN1LsId+fYMND8N7GrfLUgAS4Y9L/VSc9q/CeJYqv5U0D6JhsacJfhA0r0RLqCjHgxgk+Oa8Dm+adkQSK7SdZxFssLQJr0fp28c1Nx0OeA+fuvw1WEHYLvD9EAmrPTVUGvZT6gAAjBiT9l5TdIk=;dQDb9BQ/7bAq02LOWasw5g=="
 ---

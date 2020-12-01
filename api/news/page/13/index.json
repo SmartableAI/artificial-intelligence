@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-19-lapd-bans-use-of-third-party-facial-recognition-software-for-law-enforcement-work.md",
+      "title": "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work",
+      "excerpt": "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
+      "originalUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg",
+          "width": 708,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/lapd-facial-recognition-ban",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban",
+      "publishedDateTime": "2020-11-18T11:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-4-ai-trends-set-to-accelerate-in-2020.md",
       "title": "4 AI Trends Set To Accelerate In 2020",
       "excerpt": "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021.",
@@ -1180,58 +1223,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rdna-2-deep-dive-whats-inside-amds-radeon-rx-6000-graphics-cards.md",
-      "title": "RDNA 2 deep-dive: What's inside AMD's Radeon RX 6000 graphics cards",
-      "excerpt": "AMD's new RDNA 2 architecture brings ray tracing, an innovative Infinity Cache, and more to Radeon RX 6000-series GPUs. Here's everything you need to know.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
-      "originalUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.media-amazon.com/images/I/41rLUI4FOAL.jpg",
-          "width": 500,
-          "height": 429,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/3597292/rdna-2-deep-dive-inside-amd-radeon-rx-6000-graphics-cards.amp.html",
-      "publishedDateTime": "2020-11-18T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

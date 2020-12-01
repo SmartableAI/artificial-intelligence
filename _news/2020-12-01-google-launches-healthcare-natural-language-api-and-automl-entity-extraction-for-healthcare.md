@@ -6,8 +6,8 @@ publishedDateTime: 2020-12-01T15:20:00Z
 originalUrl: "https://www.infoq.com/news/2020/12/google-healthcare-ai-ml/"
 webUrl: "https://www.infoq.com/news/2020/12/google-healthcare-ai-ml/"
 type: article
-quality: 31
-heat: 31
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/news/2020/12/google-healthcare-ai-ml/en/headerimage/croppted-Healthcare_Natural_Language_API.max-800x800-1606679585045.jpg"
@@ -25,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "oTCn6unUGQ0E/z7ltVeIeqY5q5cN67AZPxuvLt1TbAYEY0wMDxj253nmzUBkx6wYP2AsVg8NTW13rM0QsZxLGvfOCh/XSzqvKayLKpux35h3owTHusxcMyK2YatbaRuNqJTWK/M75dgjnII+zCIkskDDDlHH4HvxNwZgi/qphIQNFlFrJmjRo4bqnurZK0c8ULXXPTRq4rkL1egkg77Za+dcXKE/pfVN6cVFECOIC3r+GDMsm6Mb0PY0ZdaG1d9xm8ihFb+Y7IeVokyCloj1Dvfy8Z7IE8/XNIpHQHOo/bY8EvXOSCDfUWmyPEofoRRcIP3SczhUHDVSwMgNgzLhECKj0ap+SkwXri+Qiv2S4RQ=;1xSvTsHacqGfJFhDKJEOkw=="
+secured: "keRYHTiX9NOlN3v8RcDCbpUZh4CgOupWxBYHyKdfsgVqblSL/EhEaI1w/GUX+oyjngimdMIeyhWt4CG/EXOSHYcxXET5odSf3af+Xn1rPg6MarqqchaAskwqOIp/9Kdt5i6wPoXVpTuQ21OkL+zNJNAhW5tIswnO0Y4C0MLAllGUDKSY4ExwiM7Lk+N8YK3VjAoHwgHJqtL4vp04pbaxWwPhAVShi5220pAs5+SRuzvwn1UUrHp9RECpM7SKJbwzwk94bqKRQh5ivw5FZaCqIJpmjgQKZqQGGjfF3rDjHAHMEQ5+KFHm3czAeaIlKmdqUB8V2W8QUDK271wedfDpHby1/XVfidsReKUDUykHCx48tph4ruOyHs8ZW5v88BQZ4d/b9CHROjr44CfbF9IZcGR6Ru9Qy/UqoeXLcLD9Z3rUc0kZFq9mnwACA8N2nGS+wz+UW2TD83ZoSY/xoBN1EoQzo82wZy81qkEGExC6HWl8g5cYjs/LlIa8ZU8Weh+/p9OYcM7Xw6R0ZA7yZO5s1Q==;nSF4+MlJ9WkQnMWAFJAZGw=="
 ---
 

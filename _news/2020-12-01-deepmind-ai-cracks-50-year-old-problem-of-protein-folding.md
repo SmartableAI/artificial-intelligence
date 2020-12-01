@@ -3,8 +3,8 @@ category: news
 title: "DeepMind AI cracks 50-year-old problem of protein folding"
 excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
 publishedDateTime: 2020-11-30T17:41:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
-webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
+originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?hss_channel=tw-4337144594"
+webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?hss_channel=tw-4337144594"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 type: article
@@ -126,6 +126,38 @@ related:
       - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F1e19eba0-3344-11eb-af9b-7865f1c45388&client=amp-blogside-v2&signature=aa34a46ce47370dd592a90d8f36f566c2c8d6975"
         width: 600
         height: 350
+        isCached: true
+  - title: "DeepMind AI breakthrough in protein folding will accelerate medical discoveries"
+    excerpt: "Machine learning enables AlphaFold system to determine protein structures in days -- as accurate as experimental results that take months or years."
+    publishedDateTime: 2020-12-01T17:19:00Z
+    webUrl: "https://www.zdnet.com/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/deepmind-breakthrough-in-protein-folding-will-accelerate-medical-discoveries/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 100
+    images:
+      - url: "https://zdnet2.cbsistatic.com/hub/i/2020/03/06/4e3a6121-5f6c-42e5-a44e-01592172263b/deepmind-coronavirus-protein-image.png"
+        width: 1668
+        height: 1403
+        isCached: true
+  - title: "How DeepMind’s protein-folding breakthrough could transform drug development"
+    excerpt: "A DeepMind AI system that accurately predicted how proteins fold into shapes could drive a range of new scientific discoveries."
+    publishedDateTime: 2020-12-01T18:20:00Z
+    webUrl: "https://thenextweb.com/neural/2020/12/01/how-deepminds-protein-folding-breakthrough-could-transform-drug-development/"
+    ampWebUrl: "https://thenextweb.com/neural/2020/12/01/how-deepminds-protein-folding-breakthrough-could-transform-drug-development/amp/"
+    cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/01/how-deepminds-protein-folding-breakthrough-could-transform-drug-development/amp/"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/Untitled-design-2020-12-01T170224.552-796x417.png"
+        width: 796
+        height: 417
         isCached: true
   - title: "DeepMind AI handles protein folding, which humbled previous software"
     excerpt: "DeepMind announced that it had seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
@@ -443,6 +475,6 @@ related:
         height: 720
         isCached: true
 
-secured: "kT4zHV6GDadCnTblL1LGFRMljkk6HdLuSSeoFi8LVAXVojNK2stj6x6fFGjthORMgPneR0RYZIVJZZ+rNmcPslyDnYkW5ZJ+v4ie++FutmsNhM1jvY8pumBJiL5gDQWrzIH38zYIor6A6I5454qCjwgGa5t1TW5dMFa+p19U00RJ+sheVPpJtTjsH/za57l2soRVGWxEaTWQ3ewH9/oAjwKj+nqDHHIulG3F8C6ifZ2n8Sj4xoEyX++2bDntmBRpkuuSlxRjKZF8SyFs3fR4LSd4CU0fJalFEBcs/FcILnHMihojq8vfkdLFknUYcNlKy7i2aOpDjiwNJz2fTmPubVnpOJj6m4VSqu7eK2eVukc=;PXA2b1wmoLw2B355WRcWzQ=="
+secured: "LjnME3cQ0bUI+YEXxe+A5d8QC0fJZJcOhY920SFm8vBdoybN/7VxIGDXVZAe+pehgysGAdxlDzVIS2zw33uNoZ7K8V8d1pXuL/ldSlsJ9+Ij5/TO+ydPimX+6PDjKP9aU7B7LTOTe3BJP5u7jTfGmGtqn9hRSnOR69bJvKdDj0Jj3n+l6raooIrT/p23YzIvO7Hy317TrGN3a+K8FtwqHDq17doRaaH4JpprNtGi1rkalszTaT8MdQGBP9wGikLybzzX4cJeq66e4sdhaOqaHETbkjuu4Zcb+nbYRoCOeCZuHXHa8EZS4UeuMMLpjNBmB7Kn9gUB/Rf2/aI36+o+m6uEZQuAIuUIte5hHjS+m8w=;4txTawBWJreSWR0LzXJjug=="
 ---
 

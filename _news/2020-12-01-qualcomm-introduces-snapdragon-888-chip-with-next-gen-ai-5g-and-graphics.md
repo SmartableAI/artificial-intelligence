@@ -9,8 +9,8 @@ ampWebUrl: "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-ch
 cdnAmpWebUrl: "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp"
 type: article
 quality: 72
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: Liliputing
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Snapdragon 888 unveiled with massive upgrades to GPU, AI hardware and 5G modem"
-    excerpt: "Qualcomm teases \"most significant upgrade\" to the Adreno GPU, holds back details for now. The CPU is kept under wraps too."
-    publishedDateTime: 2020-12-01T16:20:00Z
-    webUrl: "https://www.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-news-46535.php"
-    ampWebUrl: "https://m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php"
-    cdnAmpWebUrl: "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php"
+  - title: "Qualcomm: Android phones to get 'lucky number' Snapdragon 888 chip"
+    excerpt: "Qualcomm has branded its next flagship chip for Android smartphones with a number lucky in Chinese tradition. It says the Snapdragon 888 will let handsets take high-resolution photos faster than before and perform AI-related tasks more efficiently."
+    publishedDateTime: 2020-12-01T18:40:00Z
+    webUrl: "https://www.bbc.com/news/technology-55150532"
+    ampWebUrl: "https://www.bbc.com/news/amp/technology-55150532"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55150532"
     type: article
     provider:
-      name: GSM Arena
-      domain: gsmarena.com
-    quality: 70
+      name: BBC
+      domain: bbc.com
+    quality: 89
     images:
-      - url: "https://fdn.gsmarena.com/imgroot/news/20/12/snapdragon-888-announced/-1220x526/gsmarena_000.jpg"
-        width: 1220
-        height: 526
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/153C9/production/_115758968_888.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Snapdragon 888 Will be Qualcomm's Next Premium Chip"
     excerpt: "At Qualcomm's Snapdragon Tech Summit event, the company announced its next top-end Snapdragon chip, the Snapdragon 888. The 888 is expected to power most flagship Android phones in 2021. Although Qualcomm is saving many details for tomorrow's keynote,"

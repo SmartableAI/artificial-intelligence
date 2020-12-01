@@ -2,6 +2,195 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-qualcomm-android-phones-to-get-lucky-number-snapdragon-888-chip.md",
+      "title": "Qualcomm: Android phones to get 'lucky number' Snapdragon 888 chip",
+      "excerpt": "Qualcomm has branded its next flagship chip for Android smartphones with a number lucky in Chinese tradition. It says the Snapdragon 888 will let handsets take high-resolution photos faster than before and perform AI-related tasks more efficiently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-55150532",
+      "originalUrl": "https://www.bbc.com/news/technology-55150532",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/153C9/production/_115758968_888.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/technology-55150532",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55150532",
+      "publishedDateTime": "2020-12-01T10:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-aws-leverages-habana-gaudi-ai-processors.md",
+      "title": "AWS Leverages Habana Gaudi AI Processors",
+      "excerpt": "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver up to",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/12/b18601019/aws-leverages-habana-gaudi-ai-processors",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/12/b18601019/aws-leverages-habana-gaudi-ai-processors",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201201006008/en/843296/4/Habana-Labs-HL-205+%281%29.jpg",
+          "width": 480,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18601019",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18601019",
+      "publishedDateTime": "2020-12-01T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-finnish-researchers-say-ai-tool-can-help-optimize-cancer-combination-therapy.md",
+      "title": "Finnish researchers say AI tool can help optimize cancer combination therapy",
+      "excerpt": "Researchers in Finland have developed a machine-learning tool that accurately predicts how different cancer drugs kill disease cells, according to a paper published Tuesday by Nature Communications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
+      "originalUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4601606838101/2020/1/9cfb143b32837f2bd66aa13fc75ac5b8/v1.5/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
+      "publishedDateTime": "2020-12-01T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
+      "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
+      "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
+          "width": 876,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
+      "publishedDateTime": "2020-12-01T09:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training.md",
       "title": "Amazon debuts Trainium, a custom chip for machine learning training",
       "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
@@ -10,7 +199,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 141,
       "tags": null,
       "images": [
         {
@@ -55,21 +244,21 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.md",
-      "title": "Machine learning model identifies which drug combinations kill tumor cells",
-      "excerpt": "When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies. In addition to cancer surgery, the patients are often treated with radiation therapy,",
+      "path": "_news/2020-12-02-snapdragon-888-unveiled-with-massive-upgrades-to-gpu-ai-hardware-and-5g-modem.md",
+      "title": "Snapdragon 888 unveiled with massive upgrades to GPU, AI hardware and 5G modem",
+      "excerpt": "Qualcomm teases \"most significant upgrade\" to the Adreno GPU, holds back details for now. The CPU is kept under wraps too.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
+      "webUrl": "https://www.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-news-46535.php",
+      "originalUrl": "https://www.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-news-46535.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.news-medical.net/image.axd?picture=2014%2f7%2f174318220-620x480.jpg",
-          "width": 620,
-          "height": 480,
+          "url": "https://fdn.gsmarena.com/imgroot/news/20/12/snapdragon-888-announced/-1220x526/gsmarena_000.jpg",
+          "width": 1220,
+          "height": 526,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -77,13 +266,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx",
-      "publishedDateTime": "2020-12-01T06:19:00-08:00",
+      "ampWebUrl": "https://m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php",
+      "cdnAmpWebUrl": "https://m-gsmarena-com.cdn.ampproject.org/c/s/m.gsmarena.com/snapdragon_888_unveiled_with_massive_upgrades_to_gpu_ai_hardware_and_5g_modem-amp-46535.php",
+      "publishedDateTime": "2020-12-01T08:20:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "GSM Arena",
+        "domain": "gsmarena.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,7 +282,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI Hardware",
         "AI"
       ]
     },
@@ -201,92 +390,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.md",
-      "title": "Qualcomm introduces Snapdragon 888 chip with next-gen AI, 5G, and graphics",
-      "excerpt": "Qualcomm’s next flagship processor will be the Snapdragon 888 system-on-a-chip (SoC), a processor featuring Qualcomm’s 6th-gen AI engine, next-gen Adreno graphics, and a Snapdragon X60 5G modem. This time the modem is integrated into the SoC,",
-      "sourceUrl": null,
-      "webUrl": "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html",
-      "originalUrl": "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://liliputing.com/wp-content/uploads/2020/12/sd888_01.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp",
-      "cdnAmpWebUrl": "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp",
-      "publishedDateTime": "2020-12-01T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Liliputing",
-        "domain": "liliputing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation.md",
-      "title": "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation",
-      "excerpt": "PRNewswire/ -- Baidu, Inc (NASDAQ: BIDU) holds the most AI-related patents and has filed the most AI-related patent",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "publishedDateTime": "2020-12-01T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls.md",
       "title": "How AI Equips Lenders To Avoid Covid-19-Era Pitfalls",
       "excerpt": "In monitoring loan performance, AI can generate early warning notifications for when, for instance, a borrower changes payment patterns.",
@@ -335,6 +438,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works.md",
+      "title": "Microsoft teams up with Code.org to teach students how AI works",
+      "excerpt": "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
+      "originalUrl": "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/12/1606841662_untitled_design_(3)_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/",
+      "publishedDateTime": "2020-12-01T04:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -443,58 +599,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge.md",
-      "title": "Meet the Microsoft AI project that will transform corporate data into knowledge",
-      "excerpt": "We take a look inside Microsoft's new collaborative development process for SharePoint and machine learning-based knowledge management systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
-      "originalUrl": "https://www.techrepublic.com/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/149a9e40-051d-40d4-b56e-8ebf048d6bea/resize/1200x/bee4d761c5f23809d0189d5233798872/microsoft-project-cortex-diagram.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/meet-the-microsoft-ai-project-that-will-transform-corporate-data-into-knowledge/",
-      "publishedDateTime": "2020-12-01T04:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-supernormal-brings-ai-powered-asynchronous-video-messaging-to-remote-teams.md",
       "title": "Supernormal brings AI-powered asynchronous video messaging to remote teams",
       "excerpt": "Supernormal meshes video messaging with some nifty AI smarts to bring more engagement and utility to \"async\" interactions in remote teams.",
@@ -554,7 +658,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-mac-instances-for-amazon-ec2-2020-11-30",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -598,58 +702,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-update-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today.md",
-      "title": "UPDATE -- Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today",
-      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as the final installment of the company's Solve Strategy Series.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T22:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-shrinking-massive-neural-networks-used-to-model-language.md",
       "title": "Shrinking massive neural networks used to model language",
       "excerpt": "Deep learning neural networks can be massive, demanding major computing power. In a test of the “lottery ticket hypothesis,” MIT researchers have found leaner, more efficient subnetworks hidden within BERT models.",
@@ -658,7 +710,7 @@
       "originalUrl": "https://news.mit.edu/2020/neural-model-language-1201",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -1101,6 +1153,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today.md",
+      "title": "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today",
+      "excerpt": "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as part of the company's Solve Strategy Series.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T10:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-ai-reveals-vast-racial-inequities-in-nyc-homeownership.md",
       "title": "AI reveals vast racial inequities in NYC homeownership",
       "excerpt": "SAS and the Center for NYC Neighborhoods analyzed housing data to uncover insights that could help design programs that increase Black homeownership.",
@@ -1149,93 +1253,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker.md",
-      "title": "Analyzing data stored in Amazon DocumentDB (with MongoDB compatibility) using Amazon Sagemaker",
-      "excerpt": "One of the challenges in data science is getting access to operational or real-time data, which is often stored in operational database systems. Being able to connect data science tools to operational data easily and efficiently unleashes enormous potential for gaining insights from real-time data. In",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/21/Analyzing-data-stored-in-Amazon-1.jpg",
-          "width": 681,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T09:48:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
-      "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
-      "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "originalUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day-2020-11-30?amp",
-      "publishedDateTime": "2020-11-30T09:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

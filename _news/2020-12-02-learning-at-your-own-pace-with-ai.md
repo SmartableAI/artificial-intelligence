@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-12-pace-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-pace-ai.amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     height: 1280
     isCached: true
 
-related:
-  - title: "How secure are your AI and machine learning projects?"
-    excerpt: "Artificial intelligence and machine learning bring new vulnerabilities along with their benefits. Here's how several companies have minimized their risk."
-    publishedDateTime: 2020-11-27T02:06:00Z
-    webUrl: "https://www.arnnet.com.au/article/684768/how-secure-your-ai-machine-learning-projects/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 54
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/m.jpg"
-        width: 700
-        height: 500
-        isCached: true
-
-secured: "vWfvpUH1vfHQq/MpWv8qxCNVJxMX7Wi2MBazvWNszgXt98gQJWNqomvpSruHMYK/yB5GsLJpFM3JMdYZ8C1MSQQUUOmWMwCpZSd4yU3J1lt9OrGOoWApSCLmEifRDK4l4xiIAIS0+IZIDmiL8qbVhdW43oS48CE39pS/Ye1+u1RP+OMof1nkYxpdUQCo0jOf4KtjUpeWZyFhSp5pfgBmIXViIlVDoljVlMzCk+hO8D5HI+R/g8Wr+xP3N/bYZDdKTlC0Arp6hQbogvesnbVjr6DDRaveV7eFLzZTsrON+NxNva867HJX6dm1meB8Y4M4O56Vu68Bv1VC1OAx3FMDDyZ6PKx9EYtAQB6C54yGkM8=;1gFvPGqUXRBIN9mk1hdUVg=="
+secured: "+51yCKH2QhP/dahUCGmKWKLvY0wf6uwz4GlL62wVYTPtqjxQ1AxO82N8sJeQUFwJeoQL6aG4Dm9LpC+Be42VTEonU12g0B/iOEQsgjVJ6N+3Nc78wy64VYBOP8Z/th51kFTI6AxYsed72zSf6Y7sntNeOU5CSLdkAgwsRQpMK2euj1blvdEVEiJ70S7pftqsGuhMWduJX5HT4X10mWbwzUzEygo0A0ZeF0GtKYgCkViWkITbhvko2ofasRrFBGcoyOTjoO0oNOaQaf8Y0d2U+Nv6f4smG8BOCOAllhS/j3QE9tgCgLKrYCAu0OqPCv/Aahjsac22zTrG4pL+sappjpbUnyJG32XSbxJvFjg9Xsu5G3WV4pLNK8RV1ekIOcTZTrZFxkIajnEVF6IkhB2sec7U2WparsSnSyVfD1fpOQyDw3K1uyDfL42I/KCxs+JJnQwXrLoff9ZAl0adN9CEQ4uWf8Su6g6C37ILqePk1u9XnVIvb1oApLaTL4VcVbGjTJ1Wqk2ZBYqEwljVSYvMTQ==;UGltzkds1aVVJtnc13fjXQ=="
 ---
 

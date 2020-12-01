@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft teams up with Code.org to teach students how AI works"
+    excerpt: "Microsoft and Code.org have formed an alliance with the goal of providing AI-related educational resources to elementary and high school students, courtesy of Microsoft's $7.5 million donation."
+    publishedDateTime: 2020-12-01T12:48:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 106
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2020/12/1606841662_untitled_design_(3)_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Meet the Microsoft AI project that will transform corporate data into knowledge"
     excerpt: "We take a look inside Microsoft's new collaborative development process for SharePoint and machine learning-based knowledge management systems."
     publishedDateTime: 2020-12-01T12:03:00Z
@@ -59,6 +75,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "9 recent big tech partnerships in healthcare: Amazon, Google, Microsoft"
+    excerpt: "Here are nine recent partnerships between healthcare organizations and big tech companies including Amazon, Google and Microsoft. 1. The Colorado Department of Public Health and Environment on Oct. 25 launched its statewide COVID-19 exposure notification system in partnership with Google and Apple."
+    publishedDateTime: 2020-11-30T22:12:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-transformation/9-recent-big-tech-partnerships-in-healthcare-amazon-google-microsoft.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 56
+    images:
+      - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/8.jpg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Power of AI With Cloud Computing is “Stunning” to Microsoft’s Nadella"
     excerpt: "Asked what in the march of technology he is most impressed with, Microsoft CEO Satya Nadella said at MIT’s AI and the Work of the Future Congress 2020 held virtually last week that he is struck by the ability of cloud computing to provision massive computing power."

@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trueface computer vision wins for biometric travel innovation, public safety"
-    excerpt: "The National Institute of Standards and Technology (NIST) has announced Trueface, CalAster and several academic teams as Phase 1 winners in a computer vision challenge it is hosting in partnership"
-    publishedDateTime: 2020-11-30T21:08:00Z
-    webUrl: "https://www.biometricupdate.com/202011/trueface-computer-vision-wins-for-biometric-travel-innovation-public-safety"
+  - title: "Gartner to biometrics firms: Do better with facial recognition. Somehow"
+    excerpt: "The facial recognition community continues to speak in circles when ethics is the topic. Notable business-to-business tech analyst Gartner is the latest with indistinct advice that amounts to"
+    publishedDateTime: 2020-12-01T18:50:00Z
+    webUrl: "https://www.biometricupdate.com/202012/gartner-to-biometrics-firms-do-better-with-facial-recognition-somehow"
     type: article
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 36
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/01/08120232/future-of-AI.jpeg"
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/04/10124235/facial-recognition-crowds.jpg"
         width: 1920
-        height: 1080
+        height: 1005
         isCached: true
   - title: "Report says lack of diversity in face biometrics datasets extends to expression, emotion"
     excerpt: "A pair of new studies on algorithmic bias in face biometrics both suggest that the lack of diversity in datasets needs to be addressed. Research on expression imbalance suggests a way to make the"

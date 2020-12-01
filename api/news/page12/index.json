@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-19-uk-announces-biggest-military-investment-in-30-years.md",
+      "title": "UK announces biggest military investment in 30 years",
+      "excerpt": "The U.K. has announced the biggest program of investment in British defense in 30 years. Prime Minister Boris Johnson told the House of Commons that the government will spend £16.5 billion ($21.8 billion) more on defense over the next four years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+      "originalUrl": "https://www.msn.com/en-us/news/world/uk-announces-biggest-military-investment-in-30-years/ar-BB1b9UJ9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/default_news_organisation_image_data/file/2/s960_number10.jpg",
+          "width": 960,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T01:09:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "domain": "gov.uk/government/news/pm-to-announce-largest-military-investment-in-30-years",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-3-rising-aiml-startups-from-south-korea.md",
       "title": "3 rising AI/ML startups from South Korea",
       "excerpt": "AI is already a key part of South Korea’s national strategy, but the nation wants to be one of the region’s top AI powerhouses by 2030. That might be a good idea, as AI and machine learning (ML) could address many of the challenges faced by Korean society,",
@@ -1176,49 +1218,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-lapd-bans-use-of-third-party-facial-recognition-software-for-law-enforcement-work.md",
-      "title": "LAPD Bans Use Of Third Party Facial Recognition Software For Law Enforcement Work",
-      "excerpt": "Law enforcement having facial recognition access to nearly anyone who posts anything online could be a concern",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
-      "originalUrl": "https://hothardware.com/news/lapd-facial-recognition-ban",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/53457/content/securitycameras.jpg",
-          "width": 708,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/lapd-facial-recognition-ban",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/lapd-facial-recognition-ban",
-      "publishedDateTime": "2020-11-18T11:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

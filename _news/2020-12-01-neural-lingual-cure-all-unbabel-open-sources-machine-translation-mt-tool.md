@@ -9,7 +9,7 @@ ampWebUrl: "https://www.computerweekly.com/blog/Open-Source-Insider/Neural-lingu
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/Open-Source-Insider/Neural-lingual-cure-all-Unbabel-open-sources-Machine-Translation-MT-tool?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 580
     height: 333
     isCached: true
+
+related:
+  - title: "Unbabel Launches COMET, Blazing New Trail for Ultra-Accurate Machine Translation"
+    excerpt: "Driven Machine Translation Evaluation for Customer Service Organizations is Unbabel’s Latest Groundbreaking Innovation San Francisco-based Unbabel Masters the Translation Blend of AI and Human Reviewers San Francisco,"
+    publishedDateTime: 2020-12-01T16:00:00Z
+    webUrl: "https://customerthink.com/unbabel-launches-comet-blazing-new-trail-for-ultra-accurate-machine-translation/"
+    type: article
+    provider:
+      name: CustomerThink
+      domain: customerthink.com
+    quality: 49
+    images:
+      - url: "https://customerthink.com/wp-content/uploads/newspaper-154444_1280-pixabay-news.png"
+        width: 1280
+        height: 1280
+        isCached: true
 
 secured: "qKYXnExf00yr3dXvylORjQst5thIthlaR2Iuo14ljEJHeumwOt6QO3VPAQHQRqINvXzzAZiOCqO0oNl6Ld5P0Bak97ar7lpznazn0NrW5QXyUbXWsq0ixvLc/Js1F/IRXlgibBUE7NaVc0c+ybiAYVkJBusI0H0CBnqWZt/Ju73xk5cq3PTpkELnTB6sa4LSx93Itw6tztRbZXAMZ0t3/QkT8iJj/lfKdhileSeQ8PyvAovEAkivPKVozvtSfzxHhG//GrkThf6MLbBZyKgk4fhqA8Rtc3F81Z0BGByA+pDpe643JEwzf8NjNAaON3ZWD/t9SFnujsZiRqA+AUwiyMR8QH3P4b44xfpFlGo/5CFXIh6jGM4+MTODtAV39xd9wzy+5M081QIyTz0fzPLhts8Z0u6pxqZxn/biGLqYyy1DPSjm0MH0OzCuEGjr3rWMHv7PExzsBu3Qjxx6YfVn5nKq+jLeHFFwpzPc+sYlQV5w37f7872mfXbZxlnWzFOtRVQQuhfZrBZEzAAgpqAn5A==;QdalQbXyGdI+j7N/oVkdmg=="
 ---

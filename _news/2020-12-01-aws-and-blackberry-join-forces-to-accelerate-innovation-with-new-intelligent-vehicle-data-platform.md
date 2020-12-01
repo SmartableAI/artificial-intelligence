@@ -43,6 +43,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Boom Supersonic Goes All-In on AWS"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Boom Technology, Inc. (Boom Supersonic), a"
+    publishedDateTime: 2020-12-01T17:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/boom-supersonic-goes-all-in-on-aws-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS Announces Mac Instances for Amazon EC2"
+    excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
+    publishedDateTime: 2020-12-01T18:18:00Z
+    webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswire.com
+    quality: 39
+    images:
+      - url: "https://mms.businesswire.com/media/20201130006036/en/843024/4/mac-mini_top-down-isometric_10302018.jpg"
+        width: 480
+        height: 271
+        isCached: true
 
 secured: "0EbqePu12Drqdq6t+IHIDfkQvAA4EdexdeS2o8i2Y96TWs7WHLtae8NSJaMpN5uuuiXU1kT3rWfPop+MyUiqDwcpL1YtYs08QHOV+LQK853IirzobJArmLwtWi3OeJaCD52R4biY8y/EHMfRn8sKD9q3WeBtf1bhSlCw8E0SbiTnthGzRHyw5WXBq1wZ4GghqmZJk6NMAryYTvIV86HUQLYIqZeRyXfIk+7te/gASYo7BQF3/aviQ5Rcl5uV4dib8pYsvFabzJ2zSdeOYvCqmyFHA/WENHefovUYGMZI1MjpSqXgO3AXCauFR0uwijsK2E0rBMXQCgR6iFCt0YZVH2WZv367nbebYr8Q+1dy7fo=;OKidDZvTwHGtXqEwzSuEEA=="
 ---

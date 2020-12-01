@@ -26,6 +26,19 @@ images:
     height: 668
     isCached: true
 
+related:
+  - title: "Who's to blame when a self-driving car has an accident?"
+    excerpt: "Francesco Biondi, Assistant Professor, Human Kinetics, University of Windsor With self-driving cars gaining traction in today’s automobile landscape, the issue of legal liability in the case of an accident has become more relevant."
+    publishedDateTime: 2020-12-01T18:26:00Z
+    webUrl: "https://nationalpost.com/pmn/news-pmn/whos-to-blame-when-a-self-driving-car-has-an-accident"
+    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/whos-to-blame-when-a-self-driving-car-has-an-accident/wcm/8a9d45e5-00d8-4038-b946-38a60a93ef2f/amp/"
+    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/whos-to-blame-when-a-self-driving-car-has-an-accident/wcm/8a9d45e5-00d8-4038-b946-38a60a93ef2f/amp/"
+    type: article
+    provider:
+      name: National Post
+      domain: nationalpost.com
+    quality: 24
+
 secured: "/elIKtJcDYzaNAJNbhIfZz/NPAK+4yiMqgdh2OA4Z0w4KjsHMSak/PU/6EhcCE/kk5mhO6c4DtSkkJXy8vyvc4L+B1Hz5o5LPBNFmwRdS+Sxww6VhihbUTLXU65n0iVLOu3L1VQpkXzakNrgHULetr4EOxPnhRG342chxS0iFT3o5WRLMPT/TXUrOSt6fVPY/0DZrLEhjuv+EgPtKpZS8B59jqwwg6Jm/rSnWjqrseO9LhzTZ4/VhrDgJoWyIM+PgEUcBgG4Rg6mfAhPsDPgFOWzcWzvu1ZpG12KzYyMhI4a1O7zRPm5TjdQROMdpALTX78YmpAjVIh2aCKL1DfnBeDHGQN8A63S2C2R4oO7IZI/roLA8Ox/y6d2SgTYiHXj3vEALcqljyftmRZlmCZYKGri/lvs9wOA4vx1yWb4tb7dK7Dp7zWoeGS8OSgcAQqC6UzOLoB3wzuzmFH3FPQj/szIILgth2r3XtD7x2CfkSC+nzyUI7qHriboXTfETrzQdxt8mrI2LpxePs73+Nx6dQ==;6nuwrXk1KMeyuv0OWh60Vw=="
 ---
 

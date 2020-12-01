@@ -2,36 +2,36 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-01-baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation.md",
-      "title": "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation",
-      "excerpt": "PRNewswire/ -- Baidu, Inc (NASDAQ: BIDU) holds the most AI-related patents and has filed the most AI-related patent",
+      "path": "_news/2020-12-02-finnish-researchers-say-ai-tool-can-help-optimize-cancer-combination-therapy.md",
+      "title": "Finnish researchers say AI tool can help optimize cancer combination therapy",
+      "excerpt": "Researchers in Finland have developed a machine-learning tool that accurately predicts how different cancer drugs kill disease cells, according to a paper published Tuesday by Nature Communications.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
+      "webUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
+      "originalUrl": "https://www.upi.com/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 91,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi_com/4601606838101/2020/1/9cfb143b32837f2bd66aa13fc75ac5b8/v1.5/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "publishedDateTime": "2020-12-01T05:42:00-08:00",
+      "ampWebUrl": "https://www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Health_News/2020/12/01/Finnish-researchers-say-AI-tool-can-help-optimize-cancer-combination-therapy/4601606838101/",
+      "publishedDateTime": "2020-12-01T10:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -40,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
