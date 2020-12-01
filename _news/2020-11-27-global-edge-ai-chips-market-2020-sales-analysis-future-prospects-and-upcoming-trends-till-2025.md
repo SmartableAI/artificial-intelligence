@@ -9,7 +9,7 @@ ampWebUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-mark
 cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
 type: article
 quality: 79
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -81,20 +81,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Size, Latest Trend, Growth by Size, Application and Forecast 2025"
-    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7%% in the forecast period of 2020 to 2025 and will expected to reach USD 6131."
-    publishedDateTime: 2020-11-26T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-latest-trend-growth-by-size-application-and-forecast-2025-2020-11-26?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

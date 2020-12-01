@@ -99,6 +99,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Deep Learning Predicts Woman’s Risk for Breast Cancer"
+    excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient’s risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-12-01T06:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/cancer-health-diagnosis-and-treatment-diagnostic-imaging-breast-cancer-1c8047f0e9739c41f1bcbe79536a9870"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "7NLafmnaNqEMMmJUN1Wd3RUyfex8BHdV7zGoHthCoV7jp5/HvWOJdubkYG/8wVAac7y6i0Tptt6dP+umG5ci/T7+eK554EpyITxEaE3M2U7loIuovsfBa+VEQc8BGpau/z0bEwO4+KLe8VBzvFUfCN9sgFkPDiulyXgtlrZXPcwrHxifED5wkF49wfVMC97EGvao+LI2ncOU7MQSO7iPE+4faqoYxNUB5R+LV4eBwdlwPLls6zGoqCWvpxdEmqFwiSZP7JSNBCEjUa4V67/nx1zfke6BlaIM0ZaTeke2v2HsdzeumQckm+WfpQnQCs/xfiqsnYIyuZ3XQ78nXXFQvxEv33WyZL5+orYpASwP99U=;HQ2RSq7EnnEaAsVdZ/W/lg=="
 ---

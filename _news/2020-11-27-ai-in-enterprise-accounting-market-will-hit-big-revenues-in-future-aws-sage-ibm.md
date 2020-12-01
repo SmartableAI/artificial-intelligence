@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Size, Latest Trend, Growth by Size, Application and Forecast 2025"
-    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7%% in the forecast period of 2020 to 2025 and will expected to reach USD 6131."
-    publishedDateTime: 2020-11-26T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-latest-trend-growth-by-size-application-and-forecast-2025-2020-11-26?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
     excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
     publishedDateTime: 2020-11-27T14:18:00Z

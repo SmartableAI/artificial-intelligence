@@ -1,31 +1,49 @@
 ---
 category: news
 title: "AWS and Zoom Extend Strategic Relationship"
-excerpt: "AWS continues to be Zoom's preferred cloud provider to seamlessly grow its core video meeting platform and innovate new customer experiences using AWS's unmatched portfolio of services SEATT"
-publishedDateTime: 2020-12-01T00:38:00Z
-originalUrl: "https://digitalproducer.com/aws-and-zoom-extend-strategic-relationship/"
-webUrl: "https://digitalproducer.com/aws-and-zoom-extend-strategic-relationship/"
-ampWebUrl: "https://digitalproducer.com/aws-and-zoom-extend-strategic-relationship/amp/"
-cdnAmpWebUrl: "https://digitalproducer-com.cdn.ampproject.org/c/s/digitalproducer.com/aws-and-zoom-extend-strategic-relationship/amp/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Zoom Video Communications, Inc. (NASDAQ: ZM) has"
+publishedDateTime: 2020-12-01T06:06:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-and-zoom-extend-strategic-relationship-2020-11-30"
+webUrl: "https://www.marketwatch.com/press-release/aws-and-zoom-extend-strategic-relationship-2020-11-30"
 type: article
-quality: 59
-heat: 59
-published: false
+quality: 69
+heat: 79
+published: true
 
 provider:
-  name: digitalproducer.com
-  domain: digitalproducer.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://sitemap.digitalproducer.com/wp-content/uploads/2019/07/dp_fb2.jpg"
-    width: 428
-    height: 428
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "ChWDEAoELqlsFj3kOL16v2MoYJv2YYwMLLC6SWl+KKWKJxTdS7zKURkW+8IYbPNi1MTL7o7+QoIXKiP8VdF6CZeHbPfLJKzMX2zCc4aLWRdmrW4WCkoCc8qReHlqbrELnNbjLwZtjiVyS4OH5NaZOmKJ0xipV10+y6yasjqw+D45a3wYQMELX28oZ1aTAiq/jvDhBKNhl6EgtyWQYo7wUIlkweqG+CND/QzYp0V8mPg7pjdO5UEf8OvNtr4768rpq2MTVA6t4GaFGY67RuHMCbZw8D+ZNkJbozWP4rSbTyNdbkTxgU6GW8nN/W4ppNznXnU0U5XS/QUrxgGRYrrqNv1pZgxmf3LWiI1VZjFzYqg=;f0xvqkS0g7Web/Y7/J7IOw=="
+related:
+  - title: "AWS Announces Mac Instances for Amazon EC2"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
+    publishedDateTime: 2020-12-01T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-mac-instances-for-amazon-ec2-2020-11-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "0DiTr63gX6sSbYfUpiP8mgDCocq+Iuk12LfMl+6Q4IghwcPxe9Lx6Kvy/n6PwlELvqpoKEhsmWm7tO1hTWTWv/kPxAVVh8c2VNe1g9jpiG+QeSpHpNNtUK2DZAc9+Vaq6BWJAj0bVhFMyvQqKdFJnETaesbj6Y80z0vQY0cMfcIrgGjxsqUKkacFfdUyNVjrRilu7A5Es02D2OjOWLBFTW8Fr4j3gk3tFjRntDHT/aw4cy0mxiHnAkN2J9El4N7IT56/CI1fuEr3oLAcRgUC8OZrBaQqMiE+JyYl8bXMtpBZcsv8krk46N+QiSVGAOl5keQJ4SKrl4HMTEDkfZiR/oT7AfVhDl/skb/oLm/IOE8=;HWpwkMjVyk/J7g+watY9+Q=="
 ---
 

@@ -1,22 +1,32 @@
 ---
 category: news
-title: "UPDATE — Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
-excerpt: "(GLOBE NEWSWIRE) -- Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as the final installment of the company’s Solve Strategy Series."
-publishedDateTime: 2020-12-01T03:21:00Z
-originalUrl: "https://www.morningstar.com/news/globe-newswire/8094260/update-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today"
-webUrl: "https://www.morningstar.com/news/globe-newswire/8094260/update-rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today"
+title: "UPDATE -- Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
+excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as the final installment of the company's Solve Strategy Series."
+publishedDateTime: 2020-12-01T06:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
+webUrl: "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
 type: article
-quality: 5
-heat: -1
-published: false
+quality: 54
+heat: 74
+published: true
 
 provider:
-  name: Morningstar, Inc.
-  domain: morningstar.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Webinar: AI-based Learning Market Booming"
@@ -31,15 +41,17 @@ related:
       domain: benzinga.com
     quality: 41
   - title: "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
-    excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as part of the company's Solve Strategy Series."
-    publishedDateTime: 2020-11-30T18:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
+    excerpt: "Rackspace Technology™ (NASDAQ:RXT), a leading end-to-end multicloud technology solutions company, will hold the"
+    publishedDateTime: 2020-12-01T05:08:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18577825/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-m"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18577825"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18577825"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 29
 
-secured: "H2SHZ1TNxB4BdVY1u85L/9tQwl5uaSM7OkTo5zA6I8CWmQqsumXewrYaKTz/mlCdPTspM2EujH8ZefxzflK+gt0pCw53+hlKR0/D2OfrncpKhtf2YiUdZGASNYS755684NpPsdNWRYB28UINxdvE5/7ijp7sS0g0yWEDMwi51PO5xaL4u2JpTb4UTIk9a3q/K5jE+W5ZPEG8RoELHTmD6OJDDUvjYk2WHGFPnVt7imV9BfQT6BEhCoj2fMuofX/S8qMTb3MZXtOc1l8c7q2RWMuElEwRG+jDZ75FU1oqiELn/RRdjqKMGqoAu9pBgPD9d2528dW5sUjjPfNbIIbg2cvoTu7Cb4w7+nuhPUtny+s=;jzWxlBPwRUFr/5KJSbihow=="
+secured: "YUxDzOFq31byl+ZuCajBJWNHwK904z0RxoOtbBpOa8CKEV5zkSH8lH5K9Mj7KtkTwctDgj3V2bOF21K63rJHGFSh7uzieutJ+c9jfbxGyrGSWj4PYvTshNIEL4xYIYh8NCNAINqiC7ZcvKmwmYkNSZ/MoJNyFCDBD7PsQhu/Tdwo5s/kiWCzSVPNRmSJeofc6K9JCp1tbtjEL5KUw5Scwpm6afzvQgx0qayRMaYdvPMOOlMA46n1hUo3BjvfwVI1P07vtMlNc73hxXgq4ixxpZ2PH+ifUNkyd0rVrEohMF4MGqM3rMAAjKnHsah1yc0rW5dXCOc880sSrs9a6lgIMm0hQxp9SL6oxTpRJg6gMTU=;5wkV4TR7sZ+J2L8jGxtYPw=="
 ---
 

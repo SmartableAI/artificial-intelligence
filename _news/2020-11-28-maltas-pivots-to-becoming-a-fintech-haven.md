@@ -43,6 +43,20 @@ related:
         width: 800
         height: 400
         isCached: true
+  - title: "Even with machine learning, human judgment still required in fintech sector"
+    excerpt: "A COMBINATION of recent events has seen a rapid acceleration in the adoption and incorporation of technologies by a wide range of firms and institutions in the global financial sector."
+    publishedDateTime: 2020-12-01T05:55:00Z
+    webUrl: "https://www.irishnews.com/business/2020/12/01/news/even-with-machine-learning-human-judgment-still-required-in-fintech-sector-2144560/"
+    type: article
+    provider:
+      name: The Irish News
+      domain: irishnews.com
+    quality: 39
+    images:
+      - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2020/11/27/185724098-663df9ae-a6bc-4750-8a26-cb2926bf19e4.jpg"
+        width: 900
+        height: 472
+        isCached: true
 
 secured: "+tF8DH7IuQcUHiHttOFfj1UHlmPTHOZP87Gt5eIlHywoPssaV7V2M5EKaxryIxkcqFsDJ1VXtq9NefsyrrHgzM8PRIR1oRq6Cp+yv7bG/gSKZqFDdvFf/uuK9jJzvsVIRi9qoP8JW5LYxdiEBXYqyFRra8UbFH81EUtOIiWljKAOLLEts+D9RmrBoglBG1Pbw1tZP3vhsI0RoGaeK/PGZsh0G9kgiekrHlrtpxmnuA4gJRAZbTf7M+KghGd+ANkIyr4U2V7a26tQYtwXGIduTSdMJ/Y+Fz4LoS5XGN81ZiRmgJy1M+aG0HOQxjIJ4rukgDw0KQE+NOdkaBeJpsVlje/YE6L/u4mQZX+mQcKQzMsu9jKBzHrYumTBz4TSxHNO9Ie2sENGNT+5P/VvgpRNCbze0BLphpteCtJyEpclzX6XNXvL4UkM1JKegmFOoX/kqwm4vpvDVWMLyqhCh5UegvUDQofQzhuvngABRuh+WNqGeoDgpNz2R2FsaP5pGvd0/IiU+4Uk0l7xFge6ZVlyXg==;MxRXOT5B1mHt7xkBKwMrAQ=="
 ---

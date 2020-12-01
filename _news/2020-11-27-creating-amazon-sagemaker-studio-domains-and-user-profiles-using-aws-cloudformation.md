@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/"
 type: article
 quality: 113
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Private package installation in Amazon SageMaker running in internet-free mode"
+    excerpt: "Amazon SageMaker Studio notebooks and Amazon SageMaker notebook instances are internet-enabled by default. However, many regulated industries, such as financial industries, healthcare, telecommunications, and others, require that network traffic traverses their own Amazon Virtual Private Cloud (Amazon"
+    publishedDateTime: 2020-12-01T05:01:58Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/private-package-installation-in-amazon-sagemaker-running-in-internet-free-mode/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 85
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/Private-package-installation-8.jpg"
+        width: 800
+        height: 453
+        isCached: true
   - title: "Securing data analytics with an Amazon SageMaker notebook instance and Kerberized Amazon EMR cluster"
     excerpt: "Ever since Amazon SageMaker was introduced at AWS re:Invent 2017, customers have used the service to quickly and easily build and train machine learning (ML) models and directly deploy them into a production-ready hosted environment. SageMaker notebook instances provide a powerful, integrated Jupyter"
     publishedDateTime: 2020-12-01T00:59:17Z

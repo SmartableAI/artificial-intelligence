@@ -95,20 +95,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Edge Devices Market Size, Latest Trend, Growth by Size, Application and Forecast 2025"
-    excerpt: "The global Artificial Intelligence for Edge Devices market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 25.7%% in the forecast period of 2020 to 2025 and will expected to reach USD 6131."
-    publishedDateTime: 2020-11-26T14:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-size-latest-trend-growth-by-size-application-and-forecast-2025-2020-11-26?tesla=y"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
     publishedDateTime: 2020-11-30T10:56:00Z

@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s air suspension work for Full Self-Driving will be a killer Cybertruck feature"
-    excerpt: "In a recent comment on Twitter, Elon Musk remarked that a lot of work is being done for Tesla’s air suspension height and damping algorithm. These systems, according to Musk, will be linked to the Full Self-Driving suite,"
-    publishedDateTime: 2020-11-26T13:10:00Z
-    webUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/"
-    ampWebUrl: "https://www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
-    cdnAmpWebUrl: "https://www-teslarati-com.cdn.ampproject.org/c/s/www.teslarati.com/tesla-cybertruck-most-comfortable-pickup/amp/"
+  - title: "We Might Finally Be Getting Global Self-Driving Standards"
+    excerpt: "There’s been something of multiple discovery-esque situation in the self-driving car world: Tons of different manufacturers are all competing to refine autonomous technology, often in wildly different ways."
+    publishedDateTime: 2020-11-29T20:02:00Z
+    webUrl: "https://jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028"
+    ampWebUrl: "https://jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028/amp"
     type: article
     provider:
-      name: Tesla News
-      domain: teslarati.com
-    quality: 67
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 44
     images:
-      - url: "https://www.teslarati.com/wp-content/uploads/2020/11/tesla-cybertruck-5.jpg"
-        width: 769
-        height: 432
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/r3kr2pkjdlc8ki9puqy8.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "MrRWUK0SOolNGeGQqo95iHSjjLcCK1UHQs7S6IjiuAL7ZDfYiBCATJlBf8h5nnuyMm/XCLGBDK7Clf06r4S0nmAAJrMcEof+RPljNRZ5PxJUxdKEtHXmKU49px10lQ9RDx5rkN2e3zOuH7jnnOSLBOJmod0PlqmghxE6e7mCarLD0/PosYwywD4kDmBqluJk8dS9uGypM4U6V4iUaSLr8NCnMbikHwWrkCTcX5nBcytSBUjyQtofhVwUvZbVFCakoszrBzhXQlhIU6pMwpthZvJf01wPC3b6kKsKPMDQh6qPqvwNlODYETWYeSFDvVIFmqlgroK7DmHnskrcS90FCwyz10zcai15oUAv3gvjF3fuseAKaJNIZ10uVHDZfFg43mkUuKrrGRRslA4dHTIasqu+jHWpRg3IYpxZ8OOFBlND0DL3F+u1yF5tcqaU1w/dI2jbnUJgUCvtt/o1AI1ipoqz5ImEGw/lkJGTKQDPqGvcY5EuZd1/IC9wNNMQ9BD5AEG08WXHfxY56vrwmcI2UQ==;n5NC9Rk10PVTD6AZ2Agd8A=="

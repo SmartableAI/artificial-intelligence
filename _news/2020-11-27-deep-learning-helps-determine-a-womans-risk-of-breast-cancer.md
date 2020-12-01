@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-d
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -99,6 +99,20 @@ related:
       - url: "https://menafn.com/updates/pr/2020-11/30/I_21c1d344-1image_story.jpg"
         width: 400
         height: 267
+        isCached: true
+  - title: "Deep Learning Predicts Woman’s Risk for Breast Cancer"
+    excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient’s risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
+    publishedDateTime: 2020-12-01T06:45:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/cancer-health-diagnosis-and-treatment-diagnostic-imaging-breast-cancer-1c8047f0e9739c41f1bcbe79536a9870"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "oA9fKj7PgcwhauTbGxBdVh0JJDlaFPUZOGyy/f3k0tXiKAl5zFyvClPPTIu/BxLA2uVx7jFQmQQuqOqQQqGN4TYYwtniQhlPCBYxZZ2kZEmZGs26SE5kabb507DXUxBUzu4ElPgvm95s3V7N4KNpjzXdQqPOA8DZeBLSXY0IyTDaIshE7uUTOTGr/X6gkcVTP94+HEN38nL+NYUhXwcguTQI4UiR0twD2URHj9GOde55SQGRiu6nvS5BVzSiO+NXMnSpEa3QaGgBxNNaT0T2/2lfvoTz1lQG1IaCMv78C8t9mi0siyrWEmoYAxGfn+7TXif9pLPkapOys0iRqWVwcgMD7UODT9upvj+ZBcTCu7Blvvf8i/am9Ahlu4hsl1nQ30LTOIV9Sy7pnAYTz07HB3cN5MKV1dcioYBCOlP9R67LehdE+f8+xwZjvzbawKhiOVGiAXAA9IWW0E8vDGDne46msuzXPCT7HmQYyUixsO7qxbC6VCj0bCgve3EBp57+VTelVhDPCqt58vpS8eooGg==;wnOGvajP/9oTzHyc0bRwSA=="

@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Itaú Unibanco Selects AWS as Its Long-Term Strategic Cloud Provider to Accelerate Digital Transformation"
-excerpt: "Amazon Web Services (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Itaú Unibanco Holding (NYSE: ITUB), Latin America’s"
-publishedDateTime: 2020-11-30T19:55:00Z
-originalUrl: "https://www.marketwatch.com/press-release/itau-unibanco-selects-aws-as-its-long-term-strategic-cloud-provider-to-accelerate-digital-transformation-2020-11-30"
-webUrl: "https://www.marketwatch.com/press-release/itau-unibanco-selects-aws-as-its-long-term-strategic-cloud-provider-to-accelerate-digital-transformation-2020-11-30"
+excerpt: "(NASDAQ: AMZN), announced that Itaú Unibanco Holding (NYSE: ITUB), Latin America’s largest bank, has selected AWS as its long-term strategic cloud provider. Itaú Unibanco will leverage the world’s leading cloud to accelerate its digital transformation and enhance the banking experience for its 56 million customers around the world."
+publishedDateTime: 2020-12-01T06:40:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-brazil-corporate-news-3d6492670baa42528d7ee2774ebc0b39"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-amazoncom-inc-brazil-corporate-news-3d6492670baa42528d7ee2774ebc0b39"
 type: article
-quality: 52
-heat: 62
+quality: 22
+heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -41,6 +37,6 @@ related:
       domain: benzinga.com
     quality: 22
 
-secured: "Y0RW7VnxLJWJZ0mfuSR6XYoOSft/Koo7D5gJIhrcl25I30ttzK+OaKx7uWZhJlbe9gFY+TmE+YgyN6wIBQGC37zufj0DkSo1RDxDBEsgs7WXPsCQnAT2tf/MgjTXp58yDkbHv06EzmrgNt4j0eXyMRhI9POfBjsZMKOAilxMJo9hhGYc9EK2DOxuymaGMYZ/d4AcQ+qbesyS/bUQs1JJxr7aJRADosgd2b3gC3IIbDKrn5V78QuPFUf0bOyaSfsmNgYNq9hRRyXklFsugH+Vx5KRzryCx2U8g0DyO/iNAXmzZaK1ds0hwfDGUmTKQoyKQcaJXQErfTnXSBbFQbTg9aaGqPHNzUypDw/2GHDNmSw=;JPU4xIEiJ6wfHk30/zMS2Q=="
+secured: "HyZLKc4e1e8D3JNaki3hHGGx1icpqs0YMJWbaF56QwnyQCcYo1IIMXPMShbUkCMlHZe9Ayv/7/M+6u6TadbyJmhKY4h7WIa1z9km/CpBLy3zImo7lhRIiVqBusz99iVbs8+/nS2+Y411SmAmVEsdLjEqLQa+BN5S44oIFO2R4rmPIm3NFAd3ePhD4GWCSvDsY9tR5uOurIJJgLyxblQtx/yexhd753DL6utlQL8IfUF97T2nwUASDvE3Dvza6ViMyNaxCXcIEvUHmHyUbuVaP/wATI+O9wj6mBXPjdeFUaFO92nBDALjXNDkZ2y4uvYMHQQT6BuhzLztn7h1nLnPjsK9Th0svaiS6OgKlNCFgLc=;4gNAErsZ8ngT4lyjCjrIUA=="
 ---
 
