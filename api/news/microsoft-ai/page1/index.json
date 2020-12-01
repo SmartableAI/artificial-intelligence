@@ -55,6 +55,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-01-cognitive-analytics-market-taking-to-witness-high-growth-in-near-future.md",
+      "title": "Cognitive Analytics Market taking to witness high growth in near future",
+      "excerpt": "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-taking-to-witness-high-growth-in-near-future-2020-11-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-taking-to-witness-high-growth-in-near-future-2020-11-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-30T12:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
       "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
       "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
@@ -98,7 +150,7 @@
       "originalUrl": "https://www.zdnet.com/article/servicenow-acquires-artificial-intelligence-startup-element-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 194,
       "tags": null,
       "images": [
         {
@@ -1378,58 +1430,6 @@
         "Microsoft AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-15-microsoft-announces-azure-databricks-visual-studio-app-center-and-azure-devops-projects-at-microsoft-connect.md",
-      "title": "Microsoft announces Azure Databricks, Visual Studio App Center and Azure DevOps projects at Microsoft Connect",
-      "excerpt": "Azure IoT Edge is designed to deploy cloud intelligence to IoT devices and provide advanced AI analytics and machine learning at the IoT edge. “Azure IoT Edge enables developers to build and ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/microsoft-announces-azure-databricks-visual-studio-app-center-azure-devops-projects-microsoft-connect/",
-      "originalUrl": "https://sdtimes.com/ai/microsoft-announces-azure-databricks-visual-studio-app-center-azure-devops-projects-microsoft-connect/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/11/microsoft-connect-2017.jpg",
-          "width": 1000,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-14T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

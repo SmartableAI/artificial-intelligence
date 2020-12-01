@@ -3,12 +3,9 @@ category: news
 title: "The 10 Coolest AI Chip Startups Of 2020"
 excerpt: "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads."
 publishedDateTime: 2020-11-26T15:08:00Z
-originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
-webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
+originalUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
+webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020"
 type: article
-quality: 54
-heat: 64
-published: false
 
 provider:
   name: CRN
@@ -24,22 +21,6 @@ images:
     height: 399
     isCached: true
 
-related:
-  - title: "Investor To AI Startup: I Took The Leap"
-    excerpt: "Silicon Valley has been arguably the most exciting place to be in finance over the last 10 years. I’ve been an investor and advisor for many years and brought other advisors and investors into deals."
-    publishedDateTime: 2020-11-27T10:13:00Z
-    webUrl: "https://www.linkedin.com/pulse/investor-ai-startup-i-took-leap-michael-liou/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C5612AQE2Qx4ciL_2Ng/article-cover_image-shrink_720_1280/0?e=1611792000&v=beta&t=nm2hBMDkks8EnbR-TPY-NZozG8KoS0nf32NFq0a0Wb0"
-        width: 1200
-        height: 628
-        isCached: true
-
-secured: "lscuOOHoGKr9EgBoE/o5mXeZD46qer3fs/kM1pEQRKoEinVHXYL3j07EENwxcnDyZbdHRgZzVKaVnJPAXLzewHDnEJ4GltTaoDYt305zrQytxFCU+YtbAXNc40Zk5Pwc4SuENTCm0ToQb7BVWHHfrFEYKt74hhmNfg9MdhTGr1fUdRSV4mJTk1uDTkzotFaxO58cRt8yhwe6hWM5nycR9UCm+dL93D9np40gMPO2iGXdo1dB8tVutYJPR4zwUWixtgrKNwEpRHd9hriCCTkC5yDOyFBgF0859MJuy4tfeXGXOqrJOMCd6kU3EE9YTPxku6GXC77IpXB31iJ3UzPMm3TiOJRomh+U5LH6lqaTyPg=;R6qVUK1loNlJQsFTGcuaow=="
+secured: "QzsfIui2tTWEZyS8cGYUqkblvEqxu0Uyr6RpxaXf3xS2x1ro8vg74QTfpxS5Q8sXgILGRsAcgdP6Rh82qrdqXhtluRNqDBUIsMSIbQvLDjhICQhkd9ghtpEVYH1Cm4dEjLVFxHr7fDDxmyWwCAEItBf7oDh4qh7w7Z1F4+p/X4Wwis2VGZyTa6RaWNaDy1K2mvoaCOdDYTNDBTmNroMl0cAiD6ntro2zyMykn5Il/3Jv378sZapqhsU1K1CNixOqP0VOlo5ls2XPWm0psdoGZfPnZhgOUQhodFmcbl1t+JQQsykaO6oEQUwYCcqlzmHeDc6aHluwjMDvDiDv3Zv7TjgSKrN8MW+DxLEG7fCRuWI=;aUg3m4JXSqcATPP6yZUyVQ=="
 ---
 

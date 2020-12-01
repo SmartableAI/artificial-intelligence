@@ -92,6 +92,34 @@ related:
         width: 718
         height: 400
         isCached: true
+  - title: "ServiceNow to Acquire AI Pioneer Element AI"
+    excerpt: "ServiceNow (NYSE: NOW) today announced it has signed an agreement to acquire Element AI, a leading artificial intelligence (AI) company with deep AI capabilities and some of the world’s brightest AI minds."
+    publishedDateTime: 2020-12-01T07:50:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-north-america-artificial-intelligence-canada-computing-and-information-technology-59e822d7b6274e08929acdd116f8f0b8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "ServiceNow to acquire Canadian startup Element AI"
+    excerpt: "Leading digital workflow company ServiceNow has signed an agreement to acquire Element AI, a Canadian startup focused on building Artificial Intelligence services. While the financial terms of the deal were not disclosed,"
+    publishedDateTime: 2020-12-01T08:17:00Z
+    webUrl: "https://www.siliconindia.com/news/general/servicenow-to-acquire-canadian-startup-element-ai-nid-214748-cid-1.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 37
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/b5ny6FrO.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "ServiceNow to Buy Element AI to Strengthen Workflow Platform"
     excerpt: "ServiceNow said it agreed to buy Element AI to strengthen its effort to build the 'world’s most intelligent workflow platform.'"
     publishedDateTime: 2020-11-30T18:14:00Z

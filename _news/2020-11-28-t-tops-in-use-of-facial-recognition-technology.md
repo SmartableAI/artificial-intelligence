@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-re
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: India Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Privacy in China: the growth of facial recognition technology in the private sector raises concerns about security and identity"
-    excerpt: "Facial recognition is used by Chinese authorities to pick people out of crowds and identify them. Now the technology is moving into the private sector, leading to calls for laws to regulate companies that use it."
-    publishedDateTime: 2020-11-26T15:50:00Z
-    webUrl: "https://www.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises"
-    ampWebUrl: "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises"
-    cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises"
-    type: article
-    provider:
-      name: South China Morning Post
-      domain: scmp.com
-    quality: 93
-    images:
-      - url: "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/26/7c41750e-2eee-11eb-be20-200ca6256645_image_hires_183447.jpg?itok=rHFj5_nA&v=1606386899"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "The two faces of automatic facial recognition technology"
     excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
     publishedDateTime: 2020-11-27T18:48:00Z
@@ -59,32 +43,76 @@ related:
         width: 940
         height: 529
         isCached: true
-  - title: "Why facial recognition thermometers are raising privacy concerns during the pandemic"
-    excerpt: "Some of these devices sell for around $1,000 on Amazon. Features include no-contact temperature detection, facial recognition (even with masks on), and storage for face identification memory. So, business owners or apartment landlords who place these ..."
-    publishedDateTime: 2020-11-29T19:00:00Z
-    webUrl: "https://www.dailydot.com/debug/facial-recognition-thermometers/"
+  - title: "Training Facial Recognition on Some New Furry Friends"
+    excerpt: "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem."
+    publishedDateTime: 2020-11-28T06:43:00Z
+    webUrl: "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html"
     type: article
     provider:
-      name: The Daily Dot
-      domain: dailydot.com
-    quality: 47
+      name: The Scranton Times-Tribune
+      domain: thetimes-tribune.com
+    quality: 54
     images:
-      - url: "https://uploads.dailydot.com/2020/10/thermal-camera-facial-recognition.jpg?fm=pjpg&ixlib=php-3.3.0"
-        width: 2000
-        height: 1000
+      - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/custom/image/590573fe-bcc2-11ea-a70c-9fc5e1d62811.jpg"
+        width: 1080
+        height: 1080
         isCached: true
-  - title: "Behind the Rise of China's Facial-Recognition Giants"
-    excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
-    publishedDateTime: 2020-12-01T00:06:00Z
-    webUrl: "https://www.linkedin.com/posts/omerwilson_behind-the-rise-of-chinas-facial-recognition-activity-6575262230235975680-vxgl"
+  - title: "Beating Facial Recognition: Japanese Store Wants to Purchase 'Face' to Turn It into Super-Realistic Mask"
+    excerpt: "As part of the 'That Face' project, Tokyo-based Kamenya Omote is paying to collect face data and turn them into 3D-printed masks with an incredible level of details"
+    publishedDateTime: 2020-11-30T11:31:00Z
+    webUrl: "https://www.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
+    ampWebUrl: "https://amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
+    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
+    type: article
+    provider:
+      name: Ellen
+      domain: ibtimes.sg
+    quality: 42
+    images:
+      - url: "https://data.ibtimes.sg/en/full/44600/mask.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
+  - title: "San Diego’s massive, 7-year experiment with facial recognition technology…"
+    excerpt: "U.S. Supreme Court on First Amendment rights and social mediaNicole Black on LinkedIn• 3y Florida Court on judges and Facebook friendsNicole Black on LinkedIn• 3y"
+    publishedDateTime: 2020-12-01T01:28:00Z
+    webUrl: "https://www.linkedin.com/posts/nikiblack_san-diegos-massive-7-year-experiment-with-activity-6621079374517030917-ukMF"
     type: article
     provider:
       name: LinkedIn
       domain: linkedin.com
-    quality: 24
+    quality: 37
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEGxe2rzFBNZQ/ugc-proxy-shrink_800/0?e=1606874400&v=beta&t=HPZRI68RHfLCMSppuIvef5D0-Ddpu3zMrf_pSqx-DOM"
+      - url: "https://media-exp1.licdn.com/dms/image/C4E34AQHgxJJEy9zZvA/ugc-proxy-shrink_800/0?e=1606881600&v=beta&t=ebB1Z_9dvFoVV3CCh5uuhR4j0vbFdvrOJX4Y3XrGiEE"
         width: 800
+        height: 450
+        isCached: true
+  - title: "Blotter: Man allegedly screams obscenities at police, uses brown bag to thwart 'facial recognition'"
+    excerpt: "A 43-year-old man was arrested Friday evening after allegedly drinking an alcoholic beverage and screaming obscenities while alone at a pavilion, cursing at officers when they arrived and covering his"
+    publishedDateTime: 2020-11-28T23:28:00Z
+    webUrl: "https://dentonrc.com/news/crime/blotter/blotter-man-allegedly-screams-obscenities-at-police-uses-brown-bag-to-thwart-facial-recognition/article_b8e28beb-8b1a-5c3b-bc5e-dcf45d2b8d2f.html"
+    type: article
+    provider:
+      name: Denton Record-Chronicle
+      domain: dentonrc.com
+    quality: 25
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/7/50/7502fdbd-5a82-53de-94d1-d58d71142468/5fc2d67b43b72.image.jpg?resize=1000%2C400"
+        width: 1000
+        height: 400
+        isCached: true
+  - title: "ROHM Announces New VCSEL Module Technology, Increasing the Output of Spatial Recognition and ..."
+    excerpt: "ROHM ’s newly developed VCSEL technology achieves greater accuracy in spatial recognition and distance measuring systems by using Time Of Flight (TOF) systems. VCSEL has become popular in recent years with the adoption of laser light sources for spatial recognition in tablets and facial recognition in smartphones."
+    publishedDateTime: 2020-12-01T06:48:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-2ca3408a314ca258c90563f2abb5d817"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 11
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
         height: 450
         isCached: true
 

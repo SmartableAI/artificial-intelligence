@@ -15,12 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-    width: 580
-    height: 339
-    isCached: true
-
-secured: "tMJlxKKMTwN6eyRZ/gJbCavFLZRPLeSeQEWKBNvLKI0J9T6LnzJjECsuP668V2anfJoGnyes2W5w6XZ8ODH1Bm0NVmLAEJ+3f94nNofZVVuxmnwCU2/37grhyNs/nassnyRuFYo56Js6bVovT0HJ6S7IYxWPb3GlAPfUpxBdhvaKYiaTHag8NV6/d7B4z+Q0pWiFPJS85I1nCccZGuxM+rUuJh8VdL0dZ3sUtTxSaBsxmNN9NNuX80pNhxC+z4E89HtW2upYkcC1GrOauAR4MEy/EXWHE7n/dAF6/ky0XGvxZE1u9owp9ZC71GkJzqH2OhJEjq/LpDxaDFkXDkZ96cSDU6qqIwq1iA71smHD0+A=;BQcqNhkg/QpUtHq6AEKdjQ=="
+secured: "LDuEEQ3g3sGov9JAyDhPgPzrbxi5i+lABIdcr88gbaFvGIlXu3H0plmRR6lWRJEqdk+QkeoTlguXxpLEntj/ZlyZwpVEHdmAZ/YlDtf/8IeZL1M5XEmGFcVlN9hrBbH21tqadnHLTKc4Dd3GiyRHI5NQ25nmgmMMxbemIcXrOaeW3dw9kUUE72P/Pkas7Hu7kWMdwBmnP+voRHdZ51WtQOB/QnqRgRZcVRKevFzOLdosu1ZFHQRTMNe9Psnx+m8O6LaTllJOIuSYviR1tzApafAVAgLMUbr4xbQpu2GXq/Xu0GSlWxZtH9SO7s5lwpJd2/uIBm/ogIpNwjtu0+8wfoYu/ZGr8eSywMe1SOQzjhg=;EJiIr3SRpz+rU9dY6ht/fg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-car-market-growth-overview-development-size-and-revenue-forecast-to-2024-2020-11-27"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research"
+    excerpt: "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT"
+    publishedDateTime: 2020-11-27T00:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ympu+MdWf0p8vyPRV4X01wqhFEwPt7LxidG3KyTIcJzGG7j26vGegqyhWHQMah2TCrnM2+Nno9EfLcl2o13locWtBs607eQG06R5bRunIMKc6WcXA3s1gg5Wp2ziupCwQ8dagCZNBuBNSeHkh/lEuL8w0q5ksIFS2d7CrfX2HMpjXEUC1oEMtWLxBL+RYYT69os3w1H2JPiz1scY0XPvVjh7i4KZ3+/L42+JPeuOsbsN4Bg2G8YZV8KY1fy2AsF8RJmcbYcfoypVytJsWJ32YQHs13lgUSu9trweT+u/zQXYCfqAXpsK7x7/33Bhzktb1Xdvm+6BVZGPJnQc1OkxrLrJgHmRP3xKOj8pY1nJi7M=;A2XU/c45R7iTtvia57xQ2w=="
 ---

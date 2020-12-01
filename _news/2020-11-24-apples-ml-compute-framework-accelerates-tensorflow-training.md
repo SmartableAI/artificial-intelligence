@@ -3,22 +3,19 @@ category: news
 title: "Apple's ML Compute Framework Accelerates TensorFlow Training"
 excerpt: "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,"
 publishedDateTime: 2020-11-24T14:28:00Z
-originalUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
-webUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/"
+originalUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page"
+webUrl: "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page"
 type: article
-quality: 88
-heat: -1
-published: false
 
 provider:
   name: InfoQ
   domain: infoq.com
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
-  - TensorFlow
 
 images:
   - url: "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg"
@@ -26,38 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "TensorFlow Turns 5 - Five Reasons Why It Is The Most Popular ML Framework"
-    excerpt: "TensorFlow played a crucial role in the growth of machine learning and artificial intelligence. Thank you TensorFlow for enabling and empowering developers, and wish you a happy anniversary!"
-    publishedDateTime: 2020-11-27T06:37:00Z
-    webUrl: "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/"
-    ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2020/11/27/tensorflow-turns-5five-reasons-why-it-is-the-most-popular-ml-framework/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 124
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc09cf1950179a3f5f74874%2F0x0.jpg"
-        width: 813
-        height: 454
-        isCached: true
-  - title: "Can TensorFlow’s New Face Landmarks Model Improve Iris Tracking In Mobile Devices?"
-    excerpt: "Open-source machine learning platform Tensorflow has announced that it would be adding iris tracking to its face mesh package."
-    publishedDateTime: 2020-11-25T10:32:00Z
-    webUrl: "https://analyticsindiamag.com/can-tensorflows-new-face-landmarks-model-improve-iris-tracking-in-mobile-devices/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 50
-    images:
-      - url: "https://analyticsindiamag.com/wp-content/uploads/2016/12/NNdyVORO_400x400.jpg"
-        width: 400
-        height: 400
-        isCached: true
-
-secured: "qDhpbgGk0kyVeWKPPADM//vpH74Qi4QmJTLtD9YYITgDFRfTwHbx0Ja9YdUuQu6evMQEV6oiy9BNdpqUp5jsi0lmlgUjXvSkNoySh2gcebse/KJSVPBH27AQcBL19Ef9GdjQ8TWM52A9h3MtbcJQSerzgywhQaJe0PEimiJ9ay5FX+cqn28+qOQqODdoZ5fT3osRtaxwYLOe17SKQj/o2Q/I1Askk4OPitqpMQsTUsIRzVtuJVJ8fetJZIwUkxsGjRULmp+hkr1xk8wIWo1+fdwTbqV7AhjRUAUr6lgWn91B75ouof0jAseoZYPYs2thfpexolsVrUgc+t7KsQI46//VqQMRvRgP1WTo1Pxw3qtXaScdFSpQ7V9ipSXCVSpDNFKQ+z/9Y6xlLoTSH2ODM8AUvS6CR+OTUkAnD4TJgjcBvaJrfb9KeNC/ETXzX+Kb5+FAQ9rIXITnaOoq4awAicJux67mKSa1BhqJal/zS7lt6Qa7I4fxTzHNRhMvDCNiA0EwAj/Ni+oN4iEnB8G2rw==;CgNH5Fe/3IwfcluWUcKm6A=="
+secured: "2q5QdPV4/mFailvYcsTiC1q6uHVoWRGD2sO3HVm4dc1RkrDqw3uYK7ZxExbWz3kLScKqnLfe50IPpAdYAKQszqpf472m+G7oeYJS0+nPSANZO/tMkvQDcilR17b5nHrKd724vbS1eO5s69v7kVwft59DbrLVvOtgOABG/frBlwYiJ9SL/DelqNHDsR55O+ECDIchC7+UjiRTNy33GrZr30/fpS8Bi0fgwOxinR8C4iUOQopGc4/szKJaBlgjFCS00JNYRH0AEdsNNjNeeXfRIo8ORnOH0kFn2lworDQ4kXpzo806QHOGfHSe2kCZ71uYaFDTQbMUWQUGjWaMgYYBFF4VTs/xZBQYviC2N2NFBNE=;tqG7kD+xVmtdWmVC9X6peg=="
 ---
 

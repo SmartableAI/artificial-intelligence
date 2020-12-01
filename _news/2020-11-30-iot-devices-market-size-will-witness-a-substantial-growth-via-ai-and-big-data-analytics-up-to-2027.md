@@ -28,91 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025"
-    excerpt: "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025."
-    publishedDateTime: 2020-11-26T16:27:00Z
-    webUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/"
-    ampWebUrl: "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 79
-    images:
-      - url: "https://cdn.openpr.com/T/3/T303620719_g.jpg"
-        width: 687
-        height: 400
-        isCached: true
-  - title: "AI in Enterprise Accounting Market Will Hit Big Revenues In Future | AWS, Sage, IBM"
-    excerpt: "Global AI in Enterprise Accounting Market Report from AMA Research highlights deep analysis on market characteristics sizing estimates and growth by segmentation regional breakdowns country along with competitive landscape players market shares and strategies that are key in the market"
-    publishedDateTime: 2020-11-26T19:03:00Z
-    webUrl: "https://www.openpr.com/news/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
-    ampWebUrl: "https://www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
-    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2196972/ai-in-enterprise-accounting-market-will-hit-big-revenues"
-    type: article
-    provider:
-      name: openpr.com
-      domain: openpr.com
-    quality: 68
-    images:
-      - url: "https://cdn.openpr.com/T/b/Tb26514807_g.jpg"
-        width: 450
-        height: 300
-        isCached: true
-  - title: "Cloud Natural Language Processing (NLP) Market Trade Analysis, Current Trends, Competitive Landscape and Forecasts till 2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level."
-    publishedDateTime: 2020-11-29T18:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
+  - title: "Cognitive Analytics Market taking to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2020-11-30T20:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-taking-to-witness-high-growth-in-near-future-2020-11-30"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Deep Learning Chipset Market 2024: Size, Key Companies, Trends, Growth and Regional Forecasts Research"
-    excerpt: "The report outlines the competitive framework of the “Deep Learning Chipset Market” industry detailing the SWOT"
-    publishedDateTime: 2020-11-27T00:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-deep-learning-chipset-market-2024-size-key-companies-trends-growth-and-regional-forecasts-research-2020-11-26"
+  - title: "The Big Opportunities at the Junction of AI and Analytics: Interview with Tom Davenport"
+    excerpt: "Tom Davenport has been one of the most influential advisors globally on the business impact and application of information technology. He made the topic of big data and analytics a boardroom issue with his groundbreaking 2006 Harvard Business Review article (“Competing on Analytics” 1) and a 2007 book 2 of the same name."
+    publishedDateTime: 2020-11-26T17:11:00Z
+    webUrl: "https://www.tcs.com/perspectives/articles/the-big-opportunites-at-the-junction-of-ai-and-analytics"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
-    excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
-    publishedDateTime: 2020-11-27T14:18:00Z
-    webUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/"
-    ampWebUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 36
-  - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
-    excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
-    publishedDateTime: 2020-11-30T10:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-enabled-medical-imaging-solutions-market-2020-overview-key-players-segmentation-analysis-development-status-and-forecast-by-2025-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Tata Consultancy Services
+      domain: tcs.com
+    quality: 11
 
 secured: "uRof3Z6vnS6xIiGzlU+SPa91S16pRNNoWpfu6b8aAb5tLbj5nj9+tHLRYr1H/zQVJfJs+TIEmVh39RDqgIPEtQ3q4zZccMsAGa8qCMVebc3jH8DAKUb8rqGSS3MMcqocTviIxyFzX2zSVDt/WDHyWvL2o4ST9bgvQAitkeMHn8F1UKi94Le/IDrBLdzfReZghTaE2VK+CxiHGrno+KfRRbMQZEJrIyRTfbLQFxa1qM6suNfZx2rm2XYEfRDYD6Lkl/Hnh9CP6m/22l8EMDT0YX32XbBWV068OshVmbZr17uZQ3xncDHyhqlBDxhdsPCEW+gxGi6qnhdjp55HLLSp5SkZufPgwgSaTQOH/rxjRyM=;MT/2dkhk4ZBnTUxK+lRQZg=="
 ---

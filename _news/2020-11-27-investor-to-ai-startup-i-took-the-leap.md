@@ -7,7 +7,7 @@ originalUrl: "https://www.linkedin.com/pulse/investor-ai-startup-i-took-leap-mic
 webUrl: "https://www.linkedin.com/pulse/investor-ai-startup-i-took-leap-michael-liou/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "The 10 Coolest AI Chip Startups Of 2020"
-    excerpt: "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads."
-    publishedDateTime: 2020-11-26T15:08:00Z
-    webUrl: "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3"
+  - title: "'Startup Supercup' to Unite Angel Investors, Investment Funds and Startup Founders in French Tech Ecosystem"
+    excerpt: "To be held in Sarlat, the capital of France's idyllic Périgord noir, the Startup Supercup aims to bring together the entire startup ecosystem: investment-worthy startups and their founders, angel investors and business angels,"
+    publishedDateTime: 2020-11-30T18:46:00Z
+    webUrl: "https://www.law.com/legalnewswire/news.php?id=2771247"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 54
+      name: Law
+      domain: law.com
+    quality: 6
     images:
-      - url: "https://www.crn.com/resources/0262-10ae6f85c9c0-ea4cc5ac5ea6-1000/ai-400.jpg"
-        width: 399
-        height: 399
+      - url: "https://www.law.com/assets/master-template/images/close-btn.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "Jdx+D1XXqmXG0H5p15q8FSP2gQTymlkZBCuidCT7wrXxdCYm0pHfIM5cZSYxdZM2EBtn1p3CQk3/BEfMnjj72otEufKCELB5H/cA9MAuGAyEftSdiTvPnPEP9yph0+LSz8gFj33Q5qx7pLaUOY8NgffeK8o8Y1lnbVSEnYIOE1WxA1uDebd2VxByKMizvXXnVEHV0zvGyEs+1+X1jYUZyX/L4dHnBBXOCNN6S678qODVrjxvxoDFJGha9QhAILCyhNIn8Lipjn8gGV7PymDSnobwYowIlDX5x81Csw47CNevULhvGv9LeCWvbwP9ygcgTM8bT7gbRT+li0zpZhjQQlDSxHCPC/Z+x0DWFsGGMJI=;vBQIF0Nz0KHr6BD9J4c/yA=="
