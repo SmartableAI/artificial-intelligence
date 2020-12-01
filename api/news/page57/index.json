@@ -2,6 +2,230 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2020-10-17-how-home-depot-is-enhancing-the-ecommerce-experience-with-ai.md",
+      "title": "How Home Depot Is Enhancing The Ecommerce Experience With AI",
+      "excerpt": "Online retail is changing in profound ways as consumers change their buying patterns. With the shift to work-from-home and school-at-home changing the way people live, work, and socialize. Retailers are rethinking their sales,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f8b07adb6fa632e14647138%2F0x0.jpg",
+          "width": 1200,
+          "height": 1296,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/10/17/how-home-depot-is-enhancing-the-ecommerce-experience-with-ai/amp/",
+      "publishedDateTime": "2020-10-17T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-udacity-and-microsoft-launch-ml-engineer-on-azure-course.md",
+      "title": "Udacity and Microsoft Launch ML Engineer on Azure Course",
+      "excerpt": "Events offer a Goldilocks-style approach in which real-time APIs can be used as the foundation for applications which is flexible yet performant; loosely-coupled yet efficient. Apache Kafka offers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
+      "originalUrl": "https://www.infoq.com/news/2020/10/azure-udacity-ml-engineer/?itm_source=infoq&itm_campaign=footer_links&itm_medium=footer_links_category_page",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-17T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-nvidia-will-build-the-worlds-fastest-ai-supercomputer.md",
+      "title": "Nvidia will build the 'world's fastest AI supercomputer'",
+      "excerpt": "Nvidia and Cineca, an Italian inter-university consortium and major supercomputing center, have announced plans to build ‘the world’s fastest AI.’ The upcoming",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/in/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
+      "originalUrl": "https://www.techradar.com/in/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/EAfqRtmmM6R8WamHJLcRtN-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
+      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/in/amp/news/nvidia-will-build-the-worlds-fastest-ai-supercomputer",
+      "publishedDateTime": "2020-10-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-artificial-intelligence-advanced-machine-learning-market.md",
+      "title": "Artificial Intelligence & Advanced Machine Learning Market",
+      "excerpt": "The latest 91 page survey report on Global Artificial Intelligence Advanced Machine Learning Market is released by HTF MI covering various players of the industry selected from global geographies like North America Europe Asia Pacific etc A perfect mix of",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "originalUrl": "https://www.openpr.com/news/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/a/Ta17492562_g.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2162808/artificial-intelligence-advanced-machine-learning-market",
+      "publishedDateTime": "2020-10-17T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-17-looper-column-artificial-intelligence-humanity-and-the-future.md",
+      "title": "Looper column: Artificial intelligence, humanity and the future",
+      "excerpt": "Columns share an author’s personal perspective.***** In September, the British news website The Guardian published a story written entirely by an",
+      "sourceUrl": null,
+      "webUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "originalUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.butlercountytimesgazette.com/apps/pbcsi.dll/bilde?Site=KS&Date=20201016&Category=LIFESTYLE&ArtNo=201019186&Ref=AR",
+          "width": 387,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "cdnAmpWebUrl": "https://www-butlercountytimesgazette-com.cdn.ampproject.org/c/s/www.butlercountytimesgazette.com/lifestyle/20201016/looper-column-artificial-intelligence-humanity-and-future?template=ampart",
+      "publishedDateTime": "2020-10-16T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Butler County Times Gazette",
+        "domain": "butlercountytimesgazette.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-17-us-government-agencies-to-use-ai-to-cull-and-cut-outdated-regulations.md",
       "title": "U.S. government agencies to use AI to cull and cut outdated regulations",
       "excerpt": "The White House Office of Management and Budget (OMB) said Friday that federal agencies will use artificial intelligence to eliminate outdated, obsolete, and inconsistent requirements across tens of pages of government regulations.",
@@ -929,237 +1153,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-weaponized-tweets-ai-could-help-defend-against-adversary-attacks-in-social-media.md",
-      "title": "Weaponized Tweets: AI Could Help Defend Against Adversary Attacks in Social Media",
-      "excerpt": "This article was submitted to War on the Rocks in response to the call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Eric Schmidt and Robert Work. It addresses the first question, which asks authors to a ...",
-      "sourceUrl": null,
-      "webUrl": "https://warontherocks.com/2020/10/weaponized-tweets-artificial-intelligence-could-help-defend-against-adversary-attacks-in-social-media/",
-      "originalUrl": "https://warontherocks.com/2020/10/weaponized-tweets-artificial-intelligence-could-help-defend-against-adversary-attacks-in-social-media/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://warontherocks.com/wp-content/uploads/2020/10/cazaresbanner.jpg",
-          "width": 1330,
-          "height": 874,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-16T00:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "War on the Rocks",
-        "domain": "warontherocks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-914-in-september.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Down 91.4% in September",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant drop in short interest during the month of September. As of September 30th, there was short interest totalling 3,",
-      "sourceUrl": null,
-      "webUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
-      "originalUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
-      "cdnAmpWebUrl": "https://theenterpriseleader-com.cdn.ampproject.org/c/s/theenterpriseleader.com/2020/10/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-down-91-4-in-september.html/amp",
-      "publishedDateTime": "2020-10-15T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theenterpriseleader.com",
-        "domain": "theenterpriseleader.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-3-ways-small-businesses-can-quickly-embrace-ai-without-big-data-or-programmers.md",
-      "title": "3 Ways Small Businesses Can Quickly Embrace AI Without Big Data or Programmers",
-      "excerpt": "When AI was first launched, it was perceived as a technology that could revolutionize business models by creating a full understanding of a clients’ profile and their needs. It would be a must-have technology for large businesses to boost their balances ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/357286",
-      "originalUrl": "https://www.entrepreneur.com/article/357286",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1602691077-GettyImages-1206801125.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/357286",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/357286",
-      "publishedDateTime": "2020-10-15T20:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-the-2nd-china-hangzhou-international-smart-products-expo-and-2020-global-artificial-intelligence-conference-opened-at-hangzhou.md",
-      "title": "The 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou",
-      "excerpt": "HANGZHOU, CHINA / ACCESSWIRE / October 15, 2020 / On October 16, the 2nd China (Hangzhou) International Smart Products Expo and 2020 Global Artificial Intelligence Conference opened at Hangzhou International Expo Center.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65",
-      "originalUrl": "https://apnews.com/press-release/accesswire/technology-greater-china-asia-hangzhou-china-2d727c3c9de31e4184159672760bec65",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-15T20:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-16-ubers-self-driving-car-business-has-fallen-behind-waymo-and-cruise-heres-why-the-ride-hail-giant-might-give-up-on-atg.md",
-      "title": "Uber's self-driving-car business has fallen behind Waymo and Cruise — here's why the ride-hail giant might give up on ATG",
-      "excerpt": "After the indictment of a former executive and a fatal crash, insiders, investors, and experts question whether Uber ATG can turn things around.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10",
-      "originalUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f886decd260780019341961?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/uber-self-driving-car-busienss-uber-atg-waymo-cruise-2020-10?amp",
-      "publishedDateTime": "2020-10-15T18:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

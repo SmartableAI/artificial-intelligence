@@ -2,25 +2,25 @@
 category: news
 title: "Can Bay Area startup’s firefighting drones save us from catastrophe?"
 excerpt: "With flame-ravaged Bay Area communities still mired in a tough recovery after California’s worst fire season destroyed more than 1,000 Bay Area homes, a Silicon Valley startup says its artificially intelligent firefighting drones could help stop future catastrophes."
-publishedDateTime: 2020-11-30T21:46:00Z
-originalUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
-webUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
-ampWebUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
-cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
+publishedDateTime: 2020-11-30T23:01:00Z
+originalUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
+webUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
+ampWebUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
+cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
 type: article
 quality: 42
 heat: -1
 published: false
 
 provider:
-  name: East Bay Times
-  domain: eastbaytimes.com
+  name: Vallejo Times Herald
+  domain: timesheraldonline.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/SJM-L-FIRESUN-0824-1-1.jpg?w=1024&h=683"
+  - url: "https://www.timesheraldonline.com/wp-content/uploads/2020/11/SJM-L-FIRESUN-0824-1.jpg?w=1024&h=683"
     width: 1024
     height: 683
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 683
         isCached: true
 
-secured: "cIVnB4mPpSBfTk+um33E/Hsw/FwTqGxCtqkbj+J8SZaXiaLGE2heJdtkpddUzK4jrsUaALEp59TfrGjeoXacGNloitnXZ+l84E71Kd1ZiwNUS+dQ1j3b8GsfTPkP6AqjRFtKuaMMKl8doUg/1jx+/FTSjGo5eKGuVfjh26VwKhXDn2LJXhb0yf/4Hl7u+9ke4ebSIJsodvpOHGkqfA0jqqJ5+LwJ3MDn1yk66tczVebJ8T9ty7zbwXx/yC4vn8Sg2SjOQMa6v7b/D29Ec+Xc7og8R9SPdXJ89zp/wtvW6/tMw7/LjtFnaTjlles0LWUxFuWQOyVcIde6h1Olje8HwU3pCfnw1yseSM61PwDOlSQ=;0hvEduyig/hiKlvw1x88dA=="
+secured: "18UsoRG4BN5fqR5jQfcAeVtIDxQB1UuI/ocWQSYazIUIDqzpDEbT0K7Ci9tERyxl4vb8Xgdj3eAWAm0L3/CdGdeawx7JORnjlqQZ1r5zJMiKSNKWVBcDcoz1sQcSC0TaRXxEziiLK3Eg6N2mL7iJagEy+2G/YtTxIAx6JOvImdtTqgtnvodkxjgQbhYNq2sqpJEtF4rVmaH77ucr+TqgnOdpBGhrY7A48SzEc5OqwaBLighpzJYCLBBrG8oTf3Fqh7aQXon4nmy4ogpeikvQjsOFYlnueKE8uy+WZ1g5cnwEEHjHP03vYjsQP43tM3wRW4ogB1nin4fHYtm/7rDLy3Qeq1jrQDvasJbuzqLyz50=;O39ASQyA6yxOlziFLIRB9w=="
 ---
 

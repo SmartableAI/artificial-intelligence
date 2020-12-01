@@ -134,6 +134,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-30-artificial-intelligence-machine-learning-what-do-they-mean.md",
+      "title": "Artificial Intelligence & Machine Learning – What Do They Mean?",
+      "excerpt": "There was a time when we heard terms like Artificial Intelligence and Machine Learning only in sci-fi movies. But",
+      "sourceUrl": null,
+      "webUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
+      "originalUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.business2community.com/wp-content/uploads/2020/11/AI-recommendation-engine.png",
+          "width": 767,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
+      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/business-intelligence/artificial-intelligence-machine-learning-what-do-they-mean-02366102/amp",
+      "publishedDateTime": "2020-11-29T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business 2 Community",
+        "domain": "business2community.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-29-geek-of-the-week-vulcans-w-andre-perkins-uses-machine-learning-to-help-predict-climate-change.md",
       "title": "Geek of the Week: Vulcan’s W. Andre Perkins uses machine learning to help predict climate change",
       "excerpt": "Perkins, GeekWire’s latest Geek of the Week, is now among the well versed, as a machine learning scientist for Vulcan Inc.’s Climate Modeling team. He started the job with the late Paul Allen’s company just over a year ago, after receiving his PhD in ...",
@@ -1388,59 +1431,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-zapata-raises-38-million-for-quantum-machine-learning.md",
-      "title": "Zapata raises $38 million for quantum machine learning",
-      "excerpt": "Zapata Computing has raised $38 million for its quantum computing enterprise software platform. The figure, which brings its total funding to over $64 million, will be put toward Zapata’s core ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2.wp.com/i.ytimg.com/vi/5h_i4Po9Wds/hqdefault.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/19/zapata-raises-38-million-for-quantum-machine-learning/amp/",
-      "publishedDateTime": "2020-11-19T06:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

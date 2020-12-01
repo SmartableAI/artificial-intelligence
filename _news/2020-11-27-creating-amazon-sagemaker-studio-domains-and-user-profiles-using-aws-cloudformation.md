@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/"
 type: article
 quality: 113
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 768
     height: 385
     isCached: true
+
+related:
+  - title: "Securing data analytics with an Amazon SageMaker notebook instance and Kerberized Amazon EMR cluster"
+    excerpt: "Ever since Amazon SageMaker was introduced at AWS re:Invent 2017, customers have used the service to quickly and easily build and train machine learning (ML) models and directly deploy them into a production-ready hosted environment. SageMaker notebook instances provide a powerful, integrated Jupyter"
+    publishedDateTime: 2020-12-01T00:59:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/securing-data-analytics-with-an-amazon-sagemaker-notebook-instance-and-kerberized-amazon-emr-cluster/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 74
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/28/ML-1222-1.jpg"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "JMm5rdJe/s7EP5QhJIfxe8jr31d2ThHjenu1hDWCTa7JkEYzSWy7QlWhoXO+pNTJq9cIIUoZ7UzbheooOOVIdHGG5RpNTGIb1vB5D6w/eTJ3Gh77XemWcPvYgtJ3xLbRxPYmyrIxE1RRgzecHt3CmdeeDHTbzyEltD6eeW+D1By8N8vcQxCo2jhH62XrPCJDPMzt/TGQJy/zHVgbm3/boMzKJGeGya33HxwxTr2+0beS7mmZKSPyf7FCA8HvXIFmXLF6VMxcYPGd2IJInO1KTGRPNHmPlIKStBnXhu4hIgnOq2t6j6NCB+b1pFAWj2hslzGKv+CjSdQTYMS37l+zUxweRsbs8MEnm7Z5dHUixhM=;VyDMb7ytp67ZXd6qgGk/5A=="
 ---

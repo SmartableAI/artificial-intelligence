@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-01-daily-crunch-facebook-acquires-kustomer-for-1b.md",
+      "title": "Daily Crunch: Facebook acquires Kustomer for $1B",
+      "excerpt": "Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/?tpcc=ECTW2020",
+      "originalUrl": "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/?tpcc=ECTW2020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1026686014.jpg?w=1024",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/",
+      "publishedDateTime": "2020-11-30T16:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-01-how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat.md",
       "title": "How Mark Kelly used conversational AI to help win a Senate seat",
       "excerpt": "Mark Kelly's campaign has engaged with hundreds of thousands of constituents, replicating in-person conversations with AI chatbot exchanges.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -49,7 +101,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -356,49 +409,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-facebook-acquires-marketing-messaging-automation-startup-kustomer.md",
-      "title": "Facebook acquires marketing messaging automation startup Kustomer",
-      "excerpt": "On the AI side of the equation ... The Wall Street Journal reported that the deal announced today could value the startup at more than $1 billion. Birnbaum, Suriel, and the rest of the Kustomer ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/30/facebook-acquires-marketing-messaging-automation-startup-kustomer/",
-      "originalUrl": "https://venturebeat.com/2020/11/30/facebook-acquires-marketing-messaging-automation-startup-kustomer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/30/facebook-acquires-marketing-messaging-automation-startup-kustomer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/facebook-acquires-marketing-messaging-automation-startup-kustomer/amp/",
-      "publishedDateTime": "2020-11-30T09:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
       "path": "_news/2020-12-01-baidu-cyberark-sony-microsoft-and-nintendo-as-zacks-bull-and-bear-of-the-day.md",
       "title": "Baidu, CyberArk, Sony, Microsoft and Nintendo as Zacks Bull and Bear of the Day",
       "excerpt": "Zacks Equity Research highlights Baidu BIDU as the Bull of the Day and CyberArk Software CYBR as the Bear of the Day. In addition, Zacks Equity Research provides analysis on Sony Corp. SNE, Microsoft MSFT and Nintendo Co.",
@@ -485,7 +495,7 @@
       "originalUrl": "https://www.slashgear.com/deepmind-ai-makes-a-science-shaking-protein-breakthrough-30649203/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 304,
+      "heat": 314,
       "tags": null,
       "images": [
         {
@@ -585,8 +595,8 @@
       "title": "One of biology's biggest mysteries 'largely solved' by AI",
       "excerpt": "One of biology's biggest mysteries has been solved using artificial intelligence, experts have announced. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century.",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/science-environment-55133972",
-      "originalUrl": "https://www.bbc.com/news/science-environment-55133972",
+      "webUrl": "https://www.bbc.com/news/science-environment-55133972?fbclid=IwAR1EjdN1QUhm1pxJBtLFMSohNLrI7WbmK-TJ3B4NXjbGWeGG7Nufq4ml1GA",
+      "originalUrl": "https://www.bbc.com/news/science-environment-55133972?fbclid=IwAR1EjdN1QUhm1pxJBtLFMSohNLrI7WbmK-TJ3B4NXjbGWeGG7Nufq4ml1GA",
       "featuredContent": null,
       "highlight": null,
       "heat": 87,

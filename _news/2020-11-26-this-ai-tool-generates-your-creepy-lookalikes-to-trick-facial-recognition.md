@@ -9,7 +9,7 @@ ampWebUrl: "https://thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/26/this-ai-tool-generates-your-creepy-lookalikes-to-trick-facial-recognition/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 796
     height: 417
     isCached: true
-
-related:
-  - title: "BBC Launches Artificial Intelligence Tool To Read Its Articles To Listeners"
-    excerpt: "The BBC is launching a new audio tool that uses artificial intelligence to read articles from its website aloud with a voice that speaks in a friendly, easy to understand northern British accent."
-    publishedDateTime: 2020-11-26T09:03:00Z
-    webUrl: "https://www.npr.org/2020/11/26/939286983/bbc-launches-artificial-intelligence-tool-to-read-its-articles-to-listeners"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 35
-    images:
-      - url: "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
 
 secured: "tswDmoJPl/4G1MSYAd1vxMTd6sfpn0kjkDfFWcKXGdG1LWRt0EbclDHblXYGpOpiwsEvSaOvsMBt0cdtRVHwmkDG2xkO+n5He3Jbmt8oPeCfTPPI0GB0JmysAXVYzjht7/b+5tSg1NNfvF2zl+ijFH9LG4HvL6jbDDS93l7jyASgqEd75HO9da/Kc7UkPOxF7At/Mj+pRfQB3UzhccWgO40ntlKVJ4dqY6WbaYRAuICFym+cYuory2lLMw/f0l0KOcdx1Kdfujd/vdoHXMKuy3LSQvya132fydr5DOqgLJidN063KlLLSblhflfwwxqnQfYhUlc+xK3Ui2ijoD2umKEA/RPvVhHnVCgTKCU94XyBISV+JRhkKaPhpI4IjcXupmGzjABIdoyw6pLKGD+Z8ZwIyTHPzZ52WpojWnuvXIhaMHX1df2/NfQWty2rni32n5iMOK9zxKzPkVOIHFjnHCels62nKw4kmJLWP4cjZSEs1mzAWpz4uH421Qqtw2ZNqiDxuoKiFd1w6/xQptAEvQ==;qBtQm/h5wmcJVEtLDlejtQ=="
 ---

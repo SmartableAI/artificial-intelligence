@@ -133,8 +133,8 @@ related:
         isCached: true
   - title: "DeepMind AI cracks 50-year-old problem of protein folding"
     excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-    publishedDateTime: 2020-11-30T16:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+    publishedDateTime: 2020-11-30T17:41:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?source=techstories.org"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     type: article
@@ -292,6 +292,20 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 44
+  - title: "The Times view on DeepMind and the protein-folding problem: Acid Test"
+    excerpt: "Scientific research is painstaking and it typically involves travelling down many blind allies. Not even once in a generation, on average, is there a revolutionary insight that transforms the body of"
+    publishedDateTime: 2020-12-01T00:17:00Z
+    webUrl: "https://www.thetimes.co.uk/article/the-times-view-on-deepmind-and-the-protein-folding-problem-acid-test-jbmmkvw86"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F970833ec-3352-11eb-8874-74fdd66018b3.jpg?crop=6250%2C3516%2C0%2C326&resize=685"
+        width: 685
+        height: 385
+        isCached: true
   - title: "Google's DeepMind solved a mystery about protein behavior that's puzzled scientists for 50 years, and it could revolutionize drug discovery"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DeepMind, an artificial-intelligence company owned by Google, has announced a scientific breakthrough which could have a major influence on drug discovery ..."
     publishedDateTime: 2020-11-30T18:25:00Z

@@ -73,6 +73,20 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "Behind the Rise of China's Facial-Recognition Giants"
+    excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
+    publishedDateTime: 2020-12-01T00:06:00Z
+    webUrl: "https://www.linkedin.com/posts/omerwilson_behind-the-rise-of-chinas-facial-recognition-activity-6575262230235975680-vxgl"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEGxe2rzFBNZQ/ugc-proxy-shrink_800/0?e=1606874400&v=beta&t=HPZRI68RHfLCMSppuIvef5D0-Ddpu3zMrf_pSqx-DOM"
+        width: 800
+        height: 450
+        isCached: true
 
 secured: "VP70M/vUuMnUrhnf7iOQWHf9I+giZTg5cAnMWHakNqNZ5cYEl1uFCR93KErinnmIk6RvtvXSEeFiqC8xLXkypC2kSSWvaoYAbGCd3ZAvbJRNy8UpDa7nZKyFkVj3ibE1wQUdVekMv7GPX4iUQ6Gwl0Xutej5ftPwC/QGMGpiuLqs7wJN1NVLCA7ZuruyDOlNSmDoCUKkejYVrM2839cxLWbMxFsnTnejqO3ERwAoMS5KW4z8WgANK3hWWe8VECpSxtJM2EqtwF3yYot9HlJoiChzit384NqRBfcvRcGF3/9qShOQpP72E2PEySSr2drNxc4CBtbxsxCXvXxiLAjB/u0ifcZqCq5AAb3lwP7D42fC6K4Wqnj0Bx1RdU5iqu2Uy5lbujIGmt4M976blRd4ziTNiIJlyWKwhaH80IK0WrQ96/uYx+1PRQlfBBeZNDx4vOVtmdFvurOODbSLGFRGkmK1o5/Xmg/YmhQbA2ZMqz4kuftVVOxSMakim84GAv45SEJx2azJaoksT8rQAdcizg==;zjKQT4CR/A5uAG6LivyVdA=="
 ---

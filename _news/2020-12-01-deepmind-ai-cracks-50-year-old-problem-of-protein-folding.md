@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind AI cracks 50-year-old problem of protein folding"
 excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-publishedDateTime: 2020-11-30T16:23:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
-webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+publishedDateTime: 2020-11-30T17:41:00Z
+originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?source=techstories.org"
+webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?source=techstories.org"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/509cd5c3d7e66829a6cf90a7ef1f11cb3d06203a/0_78_1760_1056/master/1760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc1d5923b1628c37cb78376e40a2ca6"
@@ -297,6 +297,20 @@ related:
       name: The Sun
       domain: thesun.co.uk
     quality: 44
+  - title: "The Times view on DeepMind and the protein-folding problem: Acid Test"
+    excerpt: "Scientific research is painstaking and it typically involves travelling down many blind allies. Not even once in a generation, on average, is there a revolutionary insight that transforms the body of"
+    publishedDateTime: 2020-12-01T00:17:00Z
+    webUrl: "https://www.thetimes.co.uk/article/the-times-view-on-deepmind-and-the-protein-folding-problem-acid-test-jbmmkvw86"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F970833ec-3352-11eb-8874-74fdd66018b3.jpg?crop=6250%2C3516%2C0%2C326&resize=685"
+        width: 685
+        height: 385
+        isCached: true
   - title: "Google's DeepMind solved a mystery about protein behavior that's puzzled scientists for 50 years, and it could revolutionize drug discovery"
     excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since DeepMind, an artificial-intelligence company owned by Google, has announced a scientific breakthrough which could have a major influence on drug discovery ..."
     publishedDateTime: 2020-11-30T18:25:00Z
@@ -321,6 +335,6 @@ related:
       domain: thetimes.co.uk
     quality: 34
 
-secured: "rIGxjLfJj1fShG60+qoscj5Ju4o7V2zAI2MU+gH7eq+IM/gLXTlJm7XR/0oEtJB5oeTsxcos8qXaSZKFx0vfGOB7v3IJB4qmcnMLywZg/V2TxdO6+CeWSvU9j2Y2zh05eO8POumVaMel9EflE5H2xSlk9d9Ow8RmvUki0R35xBfIXPrtSFTZckvJbwF7Tlla94U1jnwccWjZ0s0LmfDNCExEAf5m67SCGamoTKzKYhVShxGeAbpkrOW8YfKqsiNaQ5800P0VDYxTe+zqDWg+qG7re3d8hDMEjnItJKx8oMHdzDqVpCuWmU+OjuIsFBHYXZI9QPfKmD6h7ca/yO4XrHV3xbaKlidBpGNwHsgNr5w=;lmx9JtnuxvNacHcN3vMEcg=="
+secured: "EluUhl8tEIdY2S2XW3yXPtJwfgcsTh3MuTvF4AvWujSa4I4j6YE6mbhvbRxNVS6kjYZAcuZlrNCTxrmoFTu8llu5TUMeSZNINGn4NE7THW01solj82TmNfBRCfkFq8HPTpAuuOKoWWMc0xTb7yGmLoE9/2R7KwE0L5miEOKRbyQ8Q4U+zpn4h0MQS3JhbTQnaHOl13HfSctTzS/vK8cur1icoGH/Vg/Z2rnfuwpHCVRruf0SDAf2XOfhe+BfuzcuStOH1zxKYtQuLvn226oHI/UGVAARF/XBKnlS7c2n16yeyeOLHEzDj39Azs2JiN9UbfYDNbMjcDcV83jY90IzMG86DpZJM1aOrwVgp9ZjxbQ=;2NlQDtmiYDGVX8dxnJuCDQ=="
 ---
 

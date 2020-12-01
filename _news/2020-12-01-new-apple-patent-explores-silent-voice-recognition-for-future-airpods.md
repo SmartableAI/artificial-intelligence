@@ -6,8 +6,8 @@ publishedDateTime: 2020-11-30T21:43:00Z
 originalUrl: "https://mobileidworld.com/new-apple-patent-explores-silent-voice-recognition-for-future-airpods-111301/"
 webUrl: "https://mobileidworld.com/new-apple-patent-explores-silent-voice-recognition-for-future-airpods-111301/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://mobileidworld.com/wp-content/uploads/kal-visuals-rvBPaAwHMS8-unsplash-1.jpg"
@@ -24,6 +25,6 @@ images:
     height: 427
     isCached: true
 
-secured: "pzq2nTtByRBxGnqIiCOUx5Ti4wKMp8EYQ1uYAGrvJh29z/TV3Ly+C9Mn37sL5521WvPoLZ0f/J4OCS4xFFnaXaWB9JWhyesXV98/nbDRA4DaB3YDsmImvySOS6s4PtNQT6kofec+gk+FP+W/AfZ5TczZPCv1SrUcb2dE3bhwI7m3fS6IAvND453bDlQv3JraX5x9U0XoWK6xmu0Pf2go+EBAlQOt/Xj8Dha4QkDUGqSzR1EdvJ9izCNNwyOj1jFaFlQssUeFTG+VPS2tpbJqd86IZbwOaBrVoTTMkBFvrfrB9VTGi9yaPsEP9skMYxTybgQhcPQ7dfBDnyMXFIsw5KiczL4JHDzbnE0APb1Qt5A=;ybe5jkdTmNXbUJglvvlYgQ=="
+secured: "O2Z7j/qysKfrbCVjnvC/cF2Xoo649YB2Y2DBXT6uQ7nYLRFywwGItLVlGLJUa/qrQYq9AdPx4fhAjUGnKpt4WPrHOxtL2Bwq/y7J4mCj+O05tvqEOruS/XPdPK0uOuSwrSes4NWzJQ/TwZh/7Lm9cV8e1fFVlIYWnTmaix5E2/ODe+5DtJIvUJYbCP9zI/YRpXAypBMW2AcnQyg0q055J8hMk2bBW3i3P2nocMuDTi4uKsNV32pLg0GYSTjQeFLHGf7xV+mjA53eJtP7ITTxB5ImRqVG0r/hxbMw76eSJU2KY4PeK1prZkLYzoi7wQ4Gzo4y0yR33daEmz8PBKsT+1gUt1j8X1Ei7cEQrbDRgVi4KFpwnbGwh4llCZhC8X4hfiehpJVlSJJOESUQgOD1HZPk1L2NViB5yL6PrkPJHqeX7z5tLHj+rT2kzi0WCx8nQTuwBCw4HBTLHIr8/kg3BuB7i+x9mIJJ4qd5tj2nxcD/P3ZfG5RZ/OSlUoNmPXyEmT8o9A65T5l5df2LjuZwRA==;Q9os/78vCnm+/3AY+lC1oQ=="
 ---
 

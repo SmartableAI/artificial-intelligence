@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/800x800/promoted_content/promo/google_cloud_1_2.jpg"

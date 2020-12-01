@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-
 cdnAmpWebUrl: "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/lifestyle/article/3111428/privacy-china-growth-facial-recognition-technology-private-sector-raises"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -77,6 +77,20 @@ related:
       - url: "https://uploads.dailydot.com/2020/10/thermal-camera-facial-recognition.jpg?fm=pjpg&ixlib=php-3.3.0"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Behind the Rise of China's Facial-Recognition Giants"
+    excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
+    publishedDateTime: 2020-12-01T00:06:00Z
+    webUrl: "https://www.linkedin.com/posts/omerwilson_behind-the-rise-of-chinas-facial-recognition-activity-6575262230235975680-vxgl"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 24
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D34AQEGxe2rzFBNZQ/ugc-proxy-shrink_800/0?e=1606874400&v=beta&t=HPZRI68RHfLCMSppuIvef5D0-Ddpu3zMrf_pSqx-DOM"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "S6CAdvAwC1PRH1XqLo1RIpgj55U7Nxhfjjy4oNSGs7VXFlqpdSnSz8/HbLEWYbLpKYCtiRw9X/rX+Fe0TvEo9cR5XEgef9PFNX8gMavu5UtWPbP6U80RJnYAgI2zWbLkpQsZI7fmP0CxaxuYPCWSuu0iFeCYvuIGQQaCfeu2135xWYjPTFKrr5WK5tqwB39JmqcVA0P7E9rZlNM/gfrEfUOIO2PpbszDRmuH/9ngYa47bQUV/RH6NaS4yqSi/E5rUduxoK5ZxmSsEnfBbinB33yB3x5sfIZfnPZ6JXa650Agljud97iPwxdCHwHl55GRp7Wo7lEZ5Ur+VLhcz2+HuDoiIc+PFLvdAow/2t39DwwfG11nZRfs24JX4GXJ6wP77+/yBZfoxapGq/RaqlPtdowma1IR1H0efEDZVUJ2fpD2snWqYjLKspYgXm6sEH6fTJfjONNId8ycyDjMnS16GAJuVH0eKJmZ/hKkC/ilU+BlwlpC9EcwMWr+JvP/BexVpLDCwEMeWHyUV1kyvtV2sA==;t4y6dpLVWq3Lt2NmhQa0uQ=="

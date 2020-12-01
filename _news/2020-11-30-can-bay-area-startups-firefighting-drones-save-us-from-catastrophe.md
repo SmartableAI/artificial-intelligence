@@ -28,17 +28,17 @@ images:
 related:
   - title: "Can Bay Area startup’s firefighting drones save us from catastrophe?"
     excerpt: "With flame-ravaged Bay Area communities still mired in a tough recovery after California’s worst fire season destroyed more than 1,000 Bay Area homes, a Silicon Valley startup says its artificially intelligent firefighting drones could help stop future catastrophes."
-    publishedDateTime: 2020-11-30T21:46:00Z
-    webUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
-    ampWebUrl: "https://www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
+    publishedDateTime: 2020-11-30T23:01:00Z
+    webUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/"
+    ampWebUrl: "https://www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
+    cdnAmpWebUrl: "https://www-timesheraldonline-com.cdn.ampproject.org/c/s/www.timesheraldonline.com/2020/11/30/can-bay-area-startups-firefighting-drones-save-us-from-catastrophe/amp/"
     type: article
     provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
+      name: Vallejo Times Herald
+      domain: timesheraldonline.com
     quality: 42
     images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2020/11/SJM-L-FIRESUN-0824-1-1.jpg?w=1024&h=683"
+      - url: "https://www.timesheraldonline.com/wp-content/uploads/2020/11/SJM-L-FIRESUN-0824-1.jpg?w=1024&h=683"
         width: 1024
         height: 683
         isCached: true

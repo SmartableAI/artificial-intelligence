@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/recommended-reading-using-ai-to-create-
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/recommended-reading-using-ai-to-create-alarmingly-realistic-fake-people-150028227.html"
 type: article
 quality: 88
-heat: 92
+heat: 91
 published: true
 
 provider:
