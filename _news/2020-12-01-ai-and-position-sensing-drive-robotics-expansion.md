@@ -63,6 +63,6 @@ related:
       domain: roboticstomorrow.com
     quality: 0
 
-secured: "LSot6HP8PVzRI+mIFGVi8U7fQE2triudkwkLGB7Gk6nDgTd48ZXfOYQrIAm2Mn0dJfv0+/u2truJbFxrhYtESc+QfSLtjDfksjTuim2U2lR/bjFzDjkwoVUlnbZIL8IP7uCtZC1/9GDna2zvIHKtUGXIUCxuIaDfSCZod4VczdhNA9rLo9ebUDbcwMaU6wVZW78Kcm+z/cRf4Os5xZSgh7CiHnl7JhBYIJomi4qJe5PDb8n8JpkiFe4Cpg5OXQUOlu1U4BwVWc1+/i5QdjkIlQX/Vo+JmeKssDlfxlJOvvMrlB4L8FVCrxLvSvBTtuDovZTf6lsTRURHE3lgo6V09Gy0SJDrVVIPt9wlaPw4r+Q=;ZydMqFusX/UOKz8iOwzNVg=="
+secured: "W7j1JLyOehCfEzs+H0pg2ZHg+gs7EjMgN8hBoA6ArEvbWsVndKYPvXm2cImW0ifVckcdUOr2tbAY+uXPxK8yFul/Wq9d4DdvK5x+vtEy+b+p85WUYlfsLTJEqNhzkNPjlIs3+MjwoSVJJhf2vC1k206/YNDMaExMVczMIQY3inOb2FVWLQMGSsZNzGm0xahpWkUh7vU/pXo1SdIRs6k90VLlPYATfQzHrRCY/7nh9JGdyTC/XQDPyRSbJ+YaIyC76qH2aTQ1ljzBrghFJsRQr3Qv7C3DvbWZAiQU+rejoZ82ePqRvd1fEX0Mk/0Z2Pog7+eFg63NR4+lqDzRt0w38TcjOmWwZMAI45UE/coZLBM=;IWk+y9jdmFM+7qSn1sGCIQ=="
 ---
 
