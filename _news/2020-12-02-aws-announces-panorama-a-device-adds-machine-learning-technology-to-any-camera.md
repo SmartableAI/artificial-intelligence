@@ -61,20 +61,22 @@ related:
         height: 630
         isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
-    publishedDateTime: 2020-12-01T18:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
+    excerpt: "Amazon EC2 Mac instances enable Apple developers to natively run macOS within AWS—extending the flexibility and scalability of the cloud with pay-as-you-go pricing to all"
+    publishedDateTime: 2020-12-01T22:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/b18587855/aws-announces-mac-instances-for-amazon-ec2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18587855"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18587855"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
       - url: "https://mms.businesswire.com/media/20201130006036/en/843024/4/mac-mini_top-down-isometric_10302018.jpg"
         width: 480
         height: 271
         isCached: true
 
-secured: "0BjgVuHuy92lf307LHev4+TqlGWu2RdJPlgCKV0UZv9nKN4ljzDUIFzgnglEs2ZRyBu0BiGXrIWOKYuZR0LTac04KWsKye9azW6+hpnkaU4wE/l0s0QFGG3+7qPYbuOpjzwDIoJTzbwNPstA9uw+3/5yDjn94f6dkaftoxfaAWDSZQWjVufDF/doSyRVUOPmCPhB3J0uzzVsoi1ckEMMOLl3vn4TUzpqJayNHwvkuNyMXab4gLwJqVtK+l2QtD6KP0tdie2DKakgoT84t0ykpgiHT261AF67yKKVXlRZaOwfBw+47aIy5/I4NwS0A6qkKo469lDxlbSW5RUI5WtDDQWXqk1tXF7s6AxgP8jHTZE=;4MBD86eXInjVKl91e2h2Vg=="
+secured: "WfgvHrbZRF8zvCI2wo9s/+3Q8fWIUE7WxWwWItsrZDMuxi/CfKWhetUUIIrxNqKrXq+pRu886/a5VRLmVRTCLkxA1KstbVqcc8i98WAYqrqpWMuSq1rfXRlrMXhRna0z7WktS4uwlWOZStBKeLggmbS0l246Y6sn1XtE6yO1PxTqjN+790Z5NFqXFr+I031EOak1/MNLugD8cx8C9qAWdbhz+CTXwgW1v2LKFroIZRhJQ7l85eMu4arUq3LuoNAJgX9H87f6B5zcukPFZ3JOdOhLYCquew3DjSIA4PSiZZpW1Jtg8XOn25KIdY1fa8pf92LhZoLrxq/OV5sAkxOo3wHImfHYguS3id6LYPL320u9nRJGh9Slp5PppwqdJfumDphpSfBZdZb9X8USE0hOFdYwPsflIdVPGk1ClZ91/LhPbeGyRDdnMokStST/D/HDy8Ry11jteXHJAA2Q5M3gSdkfQ2p+aNKHfEiiy+HQZLiQgcJezi5sMx/AP0tNq6inHhM2QqcW+hl95RmoBtG60A==;LqPuvnNeEwYFh+apw4Y48w=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/aws-announces-three-new-
 webUrl: "https://www.marketwatch.com/press-release/aws-announces-three-new-analytics-capabilities-2020-12-01"
 type: article
 quality: 69
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,86 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Boom Supersonic Goes All-In on AWS"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Boom Technology, Inc. (Boom Supersonic), a"
-    publishedDateTime: 2020-12-01T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/boom-supersonic-goes-all-in-on-aws-2020-12-01"
+  - title: "AWS re:Invent Day 1: Top 5 announcements include machine learning, storage innovations, and container capabilities"
+    excerpt: "CEO Andy Jessy covered 24 new product announcements in his three-hour keynote on the first day of the virtual Amazon Web Services event."
+    publishedDateTime: 2020-12-01T21:49:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/12/01/ca41b574-2710-4c6b-a5bf-0d96bd8aef70/crop/924x541+0+35/resize/1200x/e8ebb2fdcd8f14e77e335f6234a8b731/serverless.jpg"
         width: 1200
-        height: 630
+        height: 703
         isCached: true
-  - title: "Can Analytics Save Healthcare?"
-    excerpt: "Of even greater significance is the recent move of firms to move past predictive analytics – important though that is – to give a sense of optimal outcomes predictability. Here, the analytics moves beyond “what am I doing?"
-    publishedDateTime: 2020-12-01T20:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
+  - title: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent"
+    excerpt: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent - SiliconANGLE"
+    publishedDateTime: 2020-11-30T23:19:00Z
+    webUrl: "https://siliconangle.com/2020/11/30/cloud-first-initiative-and-embracing-change-lead-agenda-for-accenture-executive-summit-at-aws-reinvent-reinvent/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader"
-    publishedDateTime: 2020-12-01T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cognitive Analytics Market taking to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2020-11-30T20:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-taking-to-witness-high-growth-in-near-future-2020-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
-    excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-11-29T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iot-devices-market-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2027-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."
-    publishedDateTime: 2020-12-01T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=385307"
-    type: article
-    provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Accenture-Executive-Summit-2020.png"
+        width: 898
+        height: 492
         isCached: true
 
 secured: "xo4aKwAdqVV2PE2aMoybYVF8Q18jpz4ft1tQmYGwlhOQ6blw0K2BLIRtA68hUnbJCVJTCfK/GY7x4voK0Qnm2DXzHHyk6PK5PdNGP7Yd/Rqz+PBK6cPTuS9SSovsQ/hxOcNq3XsqUZqn9eVNVtJvcLgwPSDg3ctoXpWMI96syTKKmQLPHmyRqZfKFKE/K90BJSNxkNJ1KL35Be4O1vfHTLwwdecmT9Dg98yh+zSKM+IQ5Z+7mw9sNlLV0cqtVGSUepwvtaTUS1MfH3B2W34BtVuMBMi2alFhyqf8Vs5ZAPuRnKkgNlBTPSU+tkWiesefNoB1tVkp4UtePWi3ftzLeR6cvcQMPXSYh5sBz3YlTpc=;4DoO29kGcBwfts2pYB7m+Q=="

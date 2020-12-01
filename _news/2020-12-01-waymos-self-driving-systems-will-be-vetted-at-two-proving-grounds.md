@@ -25,51 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "We Might Finally Be Getting Global Self-Driving Standards"
-    excerpt: "There’s been something of multiple discovery-esque situation in the self-driving car world: Tons of different manufacturers are all competing to refine autonomous technology, often in wildly different ways."
-    publishedDateTime: 2020-11-29T13:00:00Z
-    webUrl: "https://www.gizmodo.com.au/2020/11/we-might-finally-be-getting-global-self-driving-standards/"
-    ampWebUrl: "https://www.gizmodo.com.au/2020/11/we-might-finally-be-getting-global-self-driving-standards/amp/"
-    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/we-might-finally-be-getting-global-self-driving-standards/amp/"
+  - title: "Waymo self-driving cars set out for Ohio snow at new testing facility"
+    excerpt: "Alphabet's Waymo division is ready to take on the Buckeye State as it announced on Tuesday a new facility in East Liberty, Ohio, to house its self-driving car prototypes. There, Waymo plans to put its Waymo Driver system to work on driving a car entirely by itself,"
+    publishedDateTime: 2020-12-01T22:03:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
     type: article
     provider:
-      name: Gizmodo Australia
-      domain: gizmodo.com.au
-    quality: 44
+      name: CNET
+      domain: cnet.com
+    quality: 89
     images:
-      - url: "https://imgix.gizmodo.com.au/content/uploads/sites/2/2020/11/30/r3kr2pkjdlc8ki9puqy8-scaled.jpg?ar=16%3A9&auto=format&fit=crop&q=65&w=1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "We Might Finally Be Getting Global Self-Driving Standards"
-    excerpt: "There’s been something of multiple discovery-esque situation in the self-driving car world: Tons of different manufacturers are all competing to refine autonomous technology, often in wildly different ways."
-    publishedDateTime: 2020-11-29T20:02:00Z
-    webUrl: "https://jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028"
-    ampWebUrl: "https://jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/we-might-finally-be-getting-global-self-driving-standar-1845771028/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 44
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/r3kr2pkjdlc8ki9puqy8.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Self-driving semitrailer trucks are getting ready to roll more often"
-    excerpt: "The age of self-driving 18-wheelers traveling on U.S. highways may be much closer than many people realize, and North Texas is emerging as the likely location of a major hub for the trucks. One company that is aggressively working to build a nationwide freight network of driverless trucks is TuSimple,"
-    publishedDateTime: 2020-11-27T22:48:00Z
-    webUrl: "https://www.startribune.com/self-driving-semitrailer-trucks-are-getting-ready-to-roll-more-often/573201331/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://stmedia.stimg.co/ows_3696b333-c550-4906-b015-552beaae2016.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
+      - url: "https://cnet2.cbsistatic.com/img/Sy2VeNw5UQrGG1C43PGSDFmjVNk=/2020/12/01/90826b96-460e-4aab-b8bc-35016493224a/ogi-waymo.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Waymo self-driving cars set out for Ohio snow at new testing facility - Roadshow"
+    excerpt: "Through a partnership with TRC, the new facility will provide more weather scenarios and complex situations. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."
+    publishedDateTime: 2020-12-01T13:54:00Z
+    webUrl: "https://www.newsoneplace.com/39458891911/waymo-ohio-roadshow"
+    type: article
+    provider:
+      name: newsoneplace.com
+      domain: newsoneplace.com
+    quality: 34
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/KYvl3VMQtRh4kd4gmZSX8NWuzvU=/300x0/2020/12/01/4564bc67-4908-404b-b45f-61494d577633/trc-waymo-photo.jpg&h=250"
+        width: 375
+        height: 250
         isCached: true
 
 secured: "7XYwcMQAh5NRdyDyibx4eBTqPnlPAKEGGJ7oK/AlFGYauZuMBokrb57Z3ifioGDFdL2qifhoz0e8B7tfp536gbSCiEFmXgjVFqfE+52EtFo6D6VK6/LwaJfSSZego1qzjXqr444CSSZ+65DQdJuLnSsMW9ql8SPkARLfDO8hTmmsILzpO+hmJFkjsaHNvXgkn6AWWKovuJaIU81phyklL80tCura1+Ooh4NeSy7L1PYSA5p2Ot5AYcBl1UuLycxkztdNjofIAXl3OkGssOkJhmpMpf93Wkl/2k9A6R8emI/QEQNBmx+Pahh57mjffUW6xFBCDqOXQ5h8EUKYNBaci4/GWIof0YSx/y2pnLYoSzgHj+o35bnSiy/w08e0OJdX+e2l965169k0YslaVaVcGsQv5NOd2s3NIDxVdKyp7lWsGViSPU+2jfxJSrf4wuiDS+WTaJED5OH+YjxcyWiKyPUUcyYH67cT2m3p2fFCBPkG310McA0KpVTQygQhcig/sX47kkAw08S1afnqpwtCYA==;n8N6g9rc+ubeha23r66RHg=="

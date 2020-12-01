@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/news/amp/science-environment-55099620"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/amp/science-environment-55099620"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 1024
     height: 576
     isCached: true
-
-related:
-  - title: "Artificial intelligence research projects get £20m boost"
-    excerpt: "The Turing AI Acceleration Fellowships have been awarded to 15 researchers using AI on innovative and diverse projects."
-    publishedDateTime: 2020-11-27T05:23:00Z
-    webUrl: "https://www.thisismoney.co.uk/wires/pa/article-8991911/Artificial-intelligence-research-projects-20m-boost.html"
-    type: article
-    provider:
-      name: This is Money
-      domain: thisismoney.co.uk
-    quality: 37
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2020/11/27/00/wire-36158244-1606435598-52_636x382.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "Y8ie0KUbt7cTSUCFy4n77rDFpoiaSHdqSDFNTOfhAVl6H6SESdGqLYmZ0EhpdrgVJkoRYX0P+/FsBLYG9xVt/bkeSmnD+yGEHQ5LECiBo/1cgipfkdZibOjhS84z5mmnAmQO8Y9Z4xZA2aey42WNMJWxjAiShg6juKD4yEVdo6EimaDJFUPPOjf0C4qC5a+ScOy4NPaIXgYLjwl/oDKnPdCWc0JImQ95nO/XZ6lcS1DwdZA5u3/FODot69l+yT0qLbBOVn2TdHCupqzw6hGCmNZ7zNogfyV0JluuJGWnUXJYieJ5XBCSYzyRk71aJH5s90qgjs7cPTb3geSW082Nd824ofOf0SG3r2am0tFeHCXLlSi6XPSmTRayID0WFOLQtBC4Vy030Pc7NMVUxifVhxIrJWvyDOljYHV0/StzLWJ5svxBkEECUhshES9HoQngkIZyj0C2fFCa/m4suAGYjvU1z1gLUGiDFC1+lDnfCrf20CeXhA2jK+9LvlYFJFgUO4hzvPcYVaqmTRaJwD3w1w==;d6OgpbF7YfS8d3pBgNWkCg=="
 ---

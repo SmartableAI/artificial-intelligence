@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-
 ampWebUrl: "https://techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/waveone-aims-to-make-video-ai-native-and-turn-streaming-upside-down/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2020/11/waveone-header.jpg?w=1024"
@@ -30,6 +31,6 @@ images:
     height: 580
     isCached: true
 
-secured: "Tz5FOPn/GZKGJ8I7PfJt7KZzbjxH7C5znYzMl3b692PpDfTH7n0iNCWVy3MqTJhj/9hxvWM0UnPGot1UaH3DAa7vwFCx8hfXPP8AWFLlDUTRrEBOpsp97HG/WVF3Q2ax53mAGgca73QYOtb4aEmX547LJZsGnecwLQSnZft1kxfhaAb5KVfQYnNF6fE/jnlfCDfqaRfxMGvWhEiP5P4DQcSjmeBe76sF8JDIuIk6AG9LpBbqdbAJFchvt7GW1rowvKTDXa/xq3m+BOqd4uITZ442wQ2IbG1x6jvUJCFeEH4L8HsIBVbONpVJ2AvNSYTjzA9AWOBxhgDaqOkQxNPAqXq32ub63iC3VJrZNjQgXM8=;jkqsud+NWu3/GwJf3iTttw=="
+secured: "kS1hBthm0QyAZclVCMqqEU9ikx5nl/CBQ72T6RCfz5M5hGngu95AKJhJFQVXYs2+o0sI8DC0SfKqCh0GSjOR4o8VuO8t2JHcggkg8Ry+/qNReVG3JKZP0G6NwFlZmojpUPhgpQHd35MpgpU0H2zQ6oZZZqKJlYBwhlx3AacPA2OI0G0oQQHvOSqhWiiuO6MLTCBRCT+BxbaKtdil2lMvnAqcs7/ueRQ9e++uttsvN3i8mlSrlFZhUk37R7rXMM5zWX7foQrbvE11/RgcVQdNoukgg+c+puk13bEhbCltCFLCQX+CnvtZcT+J/D+wolqv/wBgt7Ac9+i0c4KDrZd/uLB4UBnuURjeBRbs/5Fy78Y8ThFWuVQYvrqh4JAuIAl3k3EKxJkcORww2KMiB/CLjCkKNTtDBxzQntlyN+3o0fmZhfxUx4gVCzCdXaW7d0Eo0ZlRGiJo0Kt+HErR3pskI3m+rXizHr1e5namvzLTswC+k++zjplqSqCr16U947GGzXI0/gGphADXEtJKYaVQ0w==;rdUydjKZyY2SKuLeh3G+zQ=="
 ---
 

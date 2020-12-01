@@ -57,20 +57,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Waymo's self-driving systems will be vetted at two proving grounds"
-    excerpt: "As it readies its self-driving technology for operations across a wide swath of environments, Waymo will soon begin testing at two new dedicated proving grounds. The company said Tuesday it has partnered with the Transportation Research Center in East Liberty,"
-    publishedDateTime: 2020-12-01T15:57:00Z
-    webUrl: "https://www.autonews.com/mobility-report/waymos-self-driving-systems-will-be-vetted-two-proving-grounds"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 39
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_0.png"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "MrRWUK0SOolNGeGQqo95iHSjjLcCK1UHQs7S6IjiuAL7ZDfYiBCATJlBf8h5nnuyMm/XCLGBDK7Clf06r4S0nmAAJrMcEof+RPljNRZ5PxJUxdKEtHXmKU49px10lQ9RDx5rkN2e3zOuH7jnnOSLBOJmod0PlqmghxE6e7mCarLD0/PosYwywD4kDmBqluJk8dS9uGypM4U6V4iUaSLr8NCnMbikHwWrkCTcX5nBcytSBUjyQtofhVwUvZbVFCakoszrBzhXQlhIU6pMwpthZvJf01wPC3b6kKsKPMDQh6qPqvwNlODYETWYeSFDvVIFmqlgroK7DmHnskrcS90FCwyz10zcai15oUAv3gvjF3fuseAKaJNIZ10uVHDZfFg43mkUuKrrGRRslA4dHTIasqu+jHWpRg3IYpxZ8OOFBlND0DL3F+u1yF5tcqaU1w/dI2jbnUJgUCvtt/o1AI1ipoqz5ImEGw/lkJGTKQDPqGvcY5EuZd1/IC9wNNMQ9BD5AEG08WXHfxY56vrwmcI2UQ==;n5NC9Rk10PVTD6AZ2Agd8A=="
 ---

@@ -60,14 +60,16 @@ related:
         height: 630
         isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
-    publishedDateTime: 2020-12-01T18:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
+    excerpt: "Amazon EC2 Mac instances enable Apple developers to natively run macOS within AWS—extending the flexibility and scalability of the cloud with pay-as-you-go pricing to all"
+    publishedDateTime: 2020-12-01T22:57:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/b18587855/aws-announces-mac-instances-for-amazon-ec2"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18587855"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18587855"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
       - url: "https://mms.businesswire.com/media/20201130006036/en/843024/4/mac-mini_top-down-isometric_10302018.jpg"
         width: 480

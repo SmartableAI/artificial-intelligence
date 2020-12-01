@@ -9,7 +9,7 @@ ampWebUrl: "https://yourstory.com/2020/11/artificial-intelligence-machine-learni
 cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/artificial-intelligence-machine-learning-fintech-industry/amp"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "http://www.irishnews.com/picturesarchive/irishnews/irishnews/2020/11/27/185724098-663df9ae-a6bc-4750-8a26-cb2926bf19e4.jpg"
         width: 900
         height: 472
+        isCached: true
+  - title: "17 Largest Fintech Companies in the World"
+    excerpt: "In this article we are going to list the 17 largest fintech companies in the world. Click to skip ahead and jump to the 5 largest fintech companies"
+    publishedDateTime: 2020-12-01T18:34:00Z
+    webUrl: "https://www.insidermonkey.com/blog/17-largest-fintech-companies-in-the-world-894514/?singlepage=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 24
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2017/04/25064748/shutterstock_360426941.jpg"
+        width: 1000
+        height: 667
         isCached: true
 
 secured: "F1DGl3z1cICnaxTU6GzY4phYb+XKZrb5eT2d/fzfei67orlJp0P1dfRXdLaOifo81RUTBhLsXByq4BSqvs9jrFBKVNayOHGM7Y+UL9EHehkjP2KXbCqMFJY21qyL65S5U4T/pMAPp6DvknJQXamnRGXhUnfmqrCFZ0oqaCIodBpVEBhzv2gMi7shw74X4FcLes5XEDlhzuamZ3pBl3ZmFfkxzlDNmCFzI7US8tzHj+peR99ua9HalfCkuu88BvQYVz0YeAJLSLZl321bU7ccBKaYKCanbKPULTo2vf+dFKbO3Osm1gVw4lHTjjzkwmywpEHQVLlWs23TqkeJsL82cUv+4BwGqpQ48Vs2J4N3klzrEz73Mf/x76RohiQa1G7SVgHBzCbYhQY7J0hW+hfsy5fsviapjNhe4Vc32i/Ia5aBsOwz86fzxvqh9eSUdFe+7HoqzK9KUYkqO60qJVQ8E/8tPHzoBUP1w+W7OycjkVpS8eAr4/bzdYeh989EyWwBwpSiRmx2YOwoKaVTWYuTEA==;8bhyIuXfeA4uvOl/MLpGtQ=="

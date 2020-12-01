@@ -1,29 +1,31 @@
 ---
 category: news
 title: "AWS Leverages Habana Gaudi AI Processors"
-excerpt: "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver up to"
-publishedDateTime: 2020-12-01T18:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18601019/aws-leverages-habana-gaudi-ai-processors"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18601019/aws-leverages-habana-gaudi-ai-processors"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18601019"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18601019"
+excerpt: "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver"
+publishedDateTime: 2020-12-01T22:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
+webUrl: "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
 type: article
-quality: 74
-heat: 84
+quality: 84
+heat: 94
 published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201201006008/en/843296/4/Habana-Labs-HL-205+%281%29.jpg"
-    width: 480
-    height: 320
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,6 +44,6 @@ related:
         height: 267
         isCached: true
 
-secured: "nHJcmRdtjClOT0YdVQVulFaSiQpmvWf+T/A3xmAw6g7KHKISRiLQZv5ahlvYuuhz8du21chBQAgckkRXk0sN0L5JEIr1Y4RjYPOhqV7KCcNBcsTs8+NFQ58lG2i6PWwmIbswRJzBi5wDGISgZ6ZD1pm+dphO9fjwP3v4rv1OmJmUqkM+Ufq66UKY280vvrjpHh2TPbyUmHKwfsPQ95xLeqBxT3izM9YhbIQ18YKoobOD/MpK3KFGeHA7XhTRjlxnDtonypG0nMwadYHsccyJ42moPVSHxGgAGcR8sbLfeajOUKrcVCBgJnjQwywFcfAbVIWlGpg06CF9UEKOp3enngAlnHH12i98RUql21JhZAM=;2hbjUF5gKyJumXeLmbBY8w=="
+secured: "zxQfcpot3GEJXUJGpAhzBPc1KacJURj6EiqysBW27kKCUFTtmyjKZrYrZ6j3JciYeDKRC1I6reHfu7wKBHZAmjnlLVWasCZoOQJUvOdnN8rzhoPcW9lq6zGZBVgGZNTG0e5pth7CmSa+wI8tosVDSwqi9EhMWilbm3l1R3NazIU+GKjaio3md6nHBU0qQxPH7fxS7mLl1/DZQdWganZHPOM8fYGsyFva7vX5zQlvJhSp63/P+4vbtIcOxXgdOn2kmiC5Mm01MYZpywwdTfWJJNaFq/AAIefQ3Gp7QmUFuiOSAQovxuZYPht596BzL/kmjWGLhAsWZZk51IEPyUNsGXNdsjbHGo7h+14qUZlC8XY=;WTcxoeDxqyMgWEG/c0IHsw=="
 ---
 

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "AWS Announces Mac Instances for Amazon EC2"
-excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
-publishedDateTime: 2020-12-01T18:18:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
-webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
+excerpt: "Amazon EC2 Mac instances enable Apple developers to natively run macOS within AWS—extending the flexibility and scalability of the cloud with pay-as-you-go pricing to all"
+publishedDateTime: 2020-12-01T22:57:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/b18587855/aws-announces-mac-instances-for-amazon-ec2"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/b18587855/aws-announces-mac-instances-for-amazon-ec2"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18587855"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18587855"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
@@ -70,6 +72,6 @@ related:
         height: 630
         isCached: true
 
-secured: "fxkyBjeT53X12W/t7dktL/UFXUOZMIAJJgs7DRuSEGoDmb6dr6rnpY5ohDGrDrqQakqRl9yf2gJ8vicfpyRH6GxkVh8XrbE8t5wBf7TBM9XfpUyk10tSf3zNlB7WJMIihp/8F+b8f/fsf46a7XJnE7q3frf9RO0iUJyQ3RbF+ozihUOJ48n34l2Jj1oxMzvFSVwXEoCRE5PqNMhosSrGqQwRxdZaWU+5DHoYa+2ElwnewHY9JFk5gFZIDczLHo2iLsDve0f+/1P1K2+4itvVmrVsS3c9djbKu2HiwZkf2EfUt29jp7KCiVdQVY5g6FZNwOm19+m0bX4x5XnLJUPHZwHr/fr93HGw7U5t2wXORF4uWKRkMHtWdTfPX8ALO1L7ZwpVZZBZdpVYyAy0DjRZzL3VZ6odO+LehoiDifTez4mfHw/AbD6T41N3vw7WUJQt7EZPNpuxZcEm8W8bJ5WSGjFENRvXhDOS1gz1kMmqQ/Nbz/nYzFLJ1gTDQ98WR3ZCXIvVWs18nNhocrUY+birnQ==;H2SaqXZXPqTNDBWsZaQOUQ=="
+secured: "tNW6TOsz+ITpNvORUpSQm76m7tf/BCgAblETd3J5WWm/rlZUXwYOoG2mH08gD/4luuRzQ91I09dKT74X38s/SjOkgPb0qrffoLSPbVBM6b5pelCbbU1lIppM4P89UJel2lpZ3mOcTGecqzDHrYoLtEMe7LmDrSG4favWp/Y+RfwHOtdMb9DRyf/ADlqTlYLLIbUxZ7sHlkSPXI0Y+9c8x/97qw2YelksZZe+eYjaD42DnfHiF4/aD8kZ9BqO13bvXBQJf+toaaqbcRjTbtPJd2g0UOXTFDNqUimfyYxjfMftsYi2YajtWWJD6G2q7tFALoB5QlV7gNgL0ALgY4avpKVRsutEHKpUlPgqS87craw=;IP5yVNd7wdHlUXj/ytbmJQ=="
 ---
 
