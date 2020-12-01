@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zendrive"
   url: "https://twitter.com/zendrive"
-  followers: 2090
+  followers: 2091
 
 size: 51-200 employees
 yearFounded: 2013
@@ -42,6 +42,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "uTf6pmW5JH5bszs4xiBIIEy5zBcZcb8m+yF3SB4iDe5BqBFVlDxt+RlBHVss/H6xV9BCLetj+sbDH91oWbB3ackvMTrrSqE7Cv5nJ0vMFRkHYVuv21RDGpyq73HmPmYWVONkxi7xCOGgbe5xi7itLe8VaXfqjKEfhi5/i2OjwS4cHviC2plB/VPge4fxXO476rK5IjM6K6Ur8R+GrJDxFlJtzWF9FjPZ8i7Px+87UvhAf7iyaD6GQ690bqgvJ5ne3bVLr36rXnseP3WdFDIIYHSpLQiBnEaS3KY+48BUWNkhxuY3dSc1TyNOzBUXNlm/P7a+sRwQEHQu6U8vYZou04aTStX85Ccned09gP4bNL3BfMQ1M19RELLbK8ZKUzSAqOoixIFmFBljpTh7ry3X+cKkP0wcFTxOlSgJGtF59DI=;Y8LSt1zHfvLbLyCsSWOA2w=="
+secured: "7UG1TIkgAW+DVCQzfFR+x0FQWKGQ2DnHfpd7zx5qwCxDz/VDkrSw36ZKUq8R9EABrtYaGiO8QGC3cDhyDIHqacs+Gggsz8xJ0CFEnMaF54YlqCYYXJdP+3ygQ5YG8ZvAL5OtJ4TxZ0I2bh8+tKw1Mzb9zvvYAfZdsTuvJaCOzFR9Wffp7m6z7LanYdnrKCqscVSCQlN+sLeXfvq2BtVLSUYgkn68n9jSHknNkoIfgsn/OfV60ORl7bIBtoexxUmSrb+3ycKlH2zyFUz2blO6ZBkod1iEgZzw752SKCgNsI18JDaWQBH5FhaxR1HIvn3aSJ4fo4gFdU28K6YbLm6QN5I7OeOwCoDncVkBeZHHhgwNMy8VbwYBjaqd+qXRDFoqocKlAeWRihALAqsloQpBHp2tXSLa6rF2F7LGNBFT0Xs=;3bruJbXF9fS/jQa80iKOzQ=="
 ---
 
