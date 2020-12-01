@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-int
 webUrl: "https://yoshuabengio.org/profile/"
 type: article
 quality: 152
-heat: 242
+heat: 252
 published: true
 
 provider:
@@ -72,6 +72,17 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI"
+    excerpt: "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,"
+    publishedDateTime: 2020-12-01T14:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "ServiceNow is acquiring Canadian AI services startup Element AI"
     excerpt: "After launching in 2016, raising US$102 million in Seris A funding and opening offices across five cities in North America, Europe, and Asia, one of Canada’s superstar startups has been scooped up by American software giant ServiceNow."
     publishedDateTime: 2020-11-30T14:32:00Z

@@ -14,7 +14,7 @@ provider:
   name: Quartz
   domain: qz.com
   images:
-    - url: "/assets/images/organizations/qz.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/qz.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -44,6 +44,6 @@ related:
         height: 533
         isCached: true
 
-secured: "y66ou0gpjtdd5yiDdWwV9WcHsvwxaGJA+FlLkM+5v9qblmZlNMf4PIt6zeWxzpaHd3oQNZwyTq21xqjj7LE1TVqZ75W6CIVuvGzxZ8FAUXmB0GyhqBed9TRQJ0CgnowaTL1TRwBNTmQB6uiXnHatbOEWxtTOwcnvIe9OUjVOTyiZo1+yuGFbB+MaBP3aJbiuCuCWvf/U+2fRJufFuIcV/MHXiV+EiTihBnw6cH6qeUN27MdJ3P6r7kecm45s4HJcKtZ+O8iGvt6EM+9UiWZh/Ksu1TsxUFVPMPqC6sDuyNtqnNJ72oihmS/SrdpfSfTNweNQWi693YviT4EvLGXyyM4M9d/Cqm4Onj6UIWWmlbM=;hLoWhTm7lIGMSCrg/w1CqA=="
+secured: "gJmsg3lRfU3dVGF89Js9H0/xzCrYi8+XUa+fPoFjIzRwb8KMoPZD2NlZsx4rWMnuJQd6qXRtcJzMrpHfn5wMHX9xvRPnUZqFNi26aBLBcIcfnYPi7PlYUC/GrC7Xwzhb/lTFDtXzwC7LhQ4dR1YDSk9n6gg5Ke+nCkVdAJigHdM8+cIprfw3BW0fWoXc/miUTJ8io/CCWYbBzGoGwFhOdFV2sd54Xo8bk7qBmZF/skp3zKuyWIRE23yX9Jji86GHvoiN7JbDWqIuMmOKAtsMbXBW1QAxMJTphevwDtW5A39oh0cR33CarumSTAfaFI554kpw5wu1oPJkr+MMw4vEYXFcGp6Dnn8tp3DJIGdktrKMr62L7Pz+DSaFpNZPOj0ukBC+raFCy2GVSlBUhJV8wfmiIojWPisP5zSYr3k6CtVkz7HhTw+pJLZdbwUWeUROSKccQzEdtnynLtrhgTCd4k0vBE8qTOcPSP6F36nBp/M/avtTn0Ud4RSnIHuy1lvTETHaVl8leyo8hleXxgxGdSjRw6osM+sGaDLWV5gmaoE=;T2zTsLeN2cQbW2IZXy3/CA=="
 ---
 

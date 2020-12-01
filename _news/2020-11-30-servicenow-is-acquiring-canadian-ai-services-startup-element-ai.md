@@ -88,6 +88,17 @@ related:
         width: 1024
         height: 563
         isCached: true
+  - title: "ServiceNow (NOW) Set to Acquire AI-Focused Startup Element AI"
+    excerpt: "ServiceNow, Inc NOW recently announced that it will be acquiring Canada-based Artificial Intelligence (AI) focused start up, Element AI. Element AI acquisition will assist ServiceNow to create an intelligent workflow platform to streamline decision-making for businesses and bolster employee productivity,"
+    publishedDateTime: 2020-12-01T14:14:00Z
+    webUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/servicenow-now-set-to-acquire-ai-focused-startup-element-ai-2020-12-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "ServiceNow to Acquire AI Pioneer Element AI"
     excerpt: "ServiceNow (NYSE: NOW) today announced it has signed an agreement to acquire Element AI, a leading artificial intelligence (AI) company with deep AI capabilities and some of the world’s brightest AI minds."
     publishedDateTime: 2020-12-01T07:50:00Z

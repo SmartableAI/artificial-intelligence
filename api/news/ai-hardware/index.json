@@ -2,6 +2,102 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-amazon-debuts-trainium-a-custom-chip-for-machine-learning-training.md",
+      "title": "Amazon debuts Trainium, a custom chip for machine learning training",
+      "excerpt": "Amazon unveiled Trainium, a custom chip for machine learning training workloads. It'll be available to AWS customers in H2 2021.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
+      "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/",
+      "publishedDateTime": "2020-12-01T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-01-qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.md",
+      "title": "Qualcomm introduces Snapdragon 888 chip with next-gen AI, 5G, and graphics",
+      "excerpt": "Qualcomm’s next flagship processor will be the Snapdragon 888 system-on-a-chip (SoC), a processor featuring Qualcomm’s 6th-gen AI engine, next-gen Adreno graphics, and a Snapdragon X60 5G modem. This time the modem is integrated into the SoC,",
+      "sourceUrl": null,
+      "webUrl": "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html",
+      "originalUrl": "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://liliputing.com/wp-content/uploads/2020/12/sd888_01.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp",
+      "cdnAmpWebUrl": "https://liliputing-com.cdn.ampproject.org/c/s/liliputing.com/2020/12/qualcomm-introduces-snapdragon-888-chip-with-next-gen-ai-5g-and-graphics.html?amp",
+      "publishedDateTime": "2020-12-01T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Liliputing",
+        "domain": "liliputing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-veritone-aiware-now-supports-nvidia-cuda-for-gpu-based-ai-and-machine-learning.md",
       "title": "Veritone aiWARE Now Supports NVIDIA CUDA for GPU-based AI and Machine Learning",
       "excerpt": "New innovation enables organizations to significantly accelerate actionable insight from video, audio and text-based data sources Veritone, Inc., (NASDAQ:VERI), the creator",
@@ -1302,104 +1398,6 @@
         "name": "Cadalyst",
         "domain": "cadalyst.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
-      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
-      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nvidias-ai-supercomputers-get-a-massive-upgrade.md",
-      "title": "NVIDIA's AI Supercomputers Get a Massive Upgrade",
-      "excerpt": "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "publishedDateTime": "2020-11-16T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
 type: article
 quality: 87
-heat: 167
+heat: 177
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc3d7e77159da32978948e1%2F0x0.jpg%3FcropX1%3D644%26cropX2%3D4904%26cropY1%3D0%26cropY2%3D2396"
         width: 1200
         height: 675
+        isCached: true
+  - title: "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients"
+    excerpt: "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-12-01T17:00:57Z
+    webUrl: "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg"
+        width: 1024
+        height: 538
         isCached: true
   - title: "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19"
     excerpt: "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients."
@@ -151,6 +165,6 @@ related:
         height: 601
         isCached: true
 
-secured: "4DEdP2zI4VY9FH7WgSeD2qV8Xmm0lHlIl4Nl31qjPVlE/2wDm7X7WWhtlyaAT0gFm+jwN3VYbLH1ZKGBfR2DKcg+uGvMHiWoDQfcC+cmnXySMLuYnP/9wL6kXs4Y4CfMwyeknAaDHyqD8q6lMv9qENtORreCCuep2c3axfC+gH4GGHACtKJDXLVk2XrxhPoNXFYN+uWlnrPew9wLJaA6XFuw74j5Lm1KqxNoWpZvS2gJUodv6ONs41SMC1sBHx6LuZrHqXkWuPKqwhTsXPgCMHKKodJ/PVK3Hqz+PtysxC4wXioa2TFgjbQFAsfY4Iwlzzp1rENAIhdpKYurn44Ku7V8zQ3Bk1/fr8AOkWAhhj0=;lRp/Ku+dj4F8VmVT9TdhYQ=="
+secured: "rlVV11fK6cKm5tzmTbLrANcVCr1AWxA2uJFjpWqzeUt0h8xr3wyi69yZH8hhtTnzcMW2p12/1Hp0YoRtlGhVbxtXVQ3O0Rjc2gShczpyB+0Nx1QFrVVjITfCg0z4KYEUA7b/i6pTgcVBPKCWyyxVr6JTqb7lK4h3y8C0UFsX8cL41TBZ69tImQ2vnMp7K2g0eUNNoinSakYNcJn08g3l5RI/Fakev4DgaF9kfMGT/SAMtlwv656j9NEJIdyCspuBMnWYhs/Kp6AnPna1UIK8kBNGPj9Zmg02BvTAGR7gnHrhBDI+aDxG4N9p/1lzVfyNCrtPxqrJkDDgRuQDg07CL0ArZils+yVRsqZA54A3CmRdcYckl1vk2k/7yvL4WMbgaZrCDVng1y+TY3CnvAU1Ppmxk3YwEJn3iMIrreQ0txG6hiOTNd6ER+8fft2ht2mzjID9YN55qNiJIO+KDBSPewuXI8jQi1sJX3C+AXkBumBkezfsPSIkRTK1TdJxY3jXtRJYsiOVz8BwTsaJpa3EHQ==;4GLgxc5hlFE/Z2qSMsu2qw=="
 ---
 

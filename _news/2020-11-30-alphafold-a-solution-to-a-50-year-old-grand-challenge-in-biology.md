@@ -157,8 +157,8 @@ related:
         isCached: true
   - title: "DeepMind AI cracks 50-year-old problem of protein folding"
     excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-    publishedDateTime: 2020-11-30T16:23:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+    publishedDateTime: 2020-11-30T17:41:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?from=samsung_news_daily_card"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     type: article
@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 738
         isCached: true
+  - title: "DeepMind's New AI May Have Just Solved \"The Greatest Challenge In Biology\""
+    excerpt: "When it comes to life, proteins are everything. The production of proteins from genes underpins every cellular process, every difference in how a person lo"
+    publishedDateTime: 2020-12-01T15:35:00Z
+    webUrl: "https://www.iflscience.com/technology/deepminds-new-ai-may-have-just-solved-the-greatest-challenge-in-biology/"
+    ampWebUrl: "https://amp.iflscience.com/technology/deepminds-new-ai-may-have-just-solved-the-greatest-challenge-in-biology/"
+    cdnAmpWebUrl: "https://amp-iflscience-com.cdn.ampproject.org/c/s/amp.iflscience.com/technology/deepminds-new-ai-may-have-just-solved-the-greatest-challenge-in-biology/"
+    type: article
+    provider:
+      name: IFLScience
+      domain: iflscience.com
+    quality: 72
+    images:
+      - url: "https://cdn.iflscience.com/images/8fe3a91f-839f-5873-8e76-4e0bbd8ee237/default-1606835124-cover-image.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "DeepMind’s protein-folding AI has solved a 50-year-old grand challenge of biology"
     excerpt: "For years DeepMind has notched up a streak of wins, showcasing AIs that have learned to play a variety of complex games with superhuman skill, from Go and StarCraft to Atari’s entire back catalogue. But Demis Hassabis,"
     publishedDateTime: 2020-11-30T15:41:00Z
@@ -202,6 +218,22 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2020/11/protein.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "DeepMind AI solves decades old medical science problem of mapping protein structure"
+    excerpt: "Figuring out a protein’s structure or what is commonly referred to as protein folding, used to take years of laborious experimentation, and even so, they were not accurate. However, AlphaFold – the AI system created by Google’s DeepMind,"
+    publishedDateTime: 2020-12-01T16:35:00Z
+    webUrl: "https://www.moneycontrol.com/news/science/deepmind-ai-solves-decades-old-medical-science-problem-of-mapping-protein-structure-6176601.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/science/deepmind-ai-solves-decades-old-medical-science-problem-of-mapping-protein-structure-6176601.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/science/deepmind-ai-solves-decades-old-medical-science-problem-of-mapping-protein-structure-6176601.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 68
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2020/01/RTSRMD6-652x435.jpg?impolicy=website&width=770&height=431"
+        width: 770
+        height: 431
         isCached: true
   - title: "DeepMind Solves 50-Year-Old ‘Grand Challenge' With Protein Folding A.I."
     excerpt: "DeepMind has developed a piece of AI software called “AlphaFold” that can accurately predict the structure that proteins will fold into in a matter of days."

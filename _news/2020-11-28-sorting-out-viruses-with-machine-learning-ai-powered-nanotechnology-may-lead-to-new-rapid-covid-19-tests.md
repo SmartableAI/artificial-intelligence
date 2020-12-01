@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients"
+    excerpt: "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-12-01T17:00:57Z
+    webUrl: "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19"
     excerpt: "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients."
     publishedDateTime: 2020-11-27T14:15:00Z

@@ -2,6 +2,196 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-11-27-how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance.md",
+      "title": "How AI and big data helped China’s tech giants dominate consumer finance",
+      "excerpt": "The aim is to build a much more accurate picture of a user’s credit profile by using a range of online data as opposed to traditional credit scoring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/27/afc48a3e-2fce-11eb-be20-200ca6256645_image_hires_073856.jpg?itok=jW1cEXEG&v=1606433950",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "publishedDateTime": "2020-11-26T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-dyson-pledges-new-investment-into-ai-robotics-and-batteries.md",
+      "title": "Dyson pledges new investment into AI, robotics and batteries",
+      "excerpt": "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "originalUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "publishedDateTime": "2020-11-26T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup.md",
+      "title": "FIFA Trials AI-Powered Automated VAR Calls Ahead Of 2022 World Cup",
+      "excerpt": "VAR has amplified offside controversies rather than eliminate them. AI could make accurate calls instantly at the 2022 FIFA World Cup in Qatar",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbff60f626112e54bbd3f35%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
+      "publishedDateTime": "2020-11-26T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025.md",
+      "title": "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025",
+      "excerpt": "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025.",
+      "sourceUrl": null,
+      "webUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
+      "originalUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/3/T303620719_g.jpg",
+          "width": 687,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
+      "cdnAmpWebUrl": "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043175/global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025/amp/",
+      "publishedDateTime": "2020-11-26T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "galusaustralis.com",
+        "domain": "galusaustralis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-privacy-in-china-the-growth-of-facial-recognition-technology-in-the-private-sector-raises-concerns-about-security-and-identity.md",
       "title": "Privacy in China: the growth of facial recognition technology in the private sector raises concerns about security and identity",
       "excerpt": "Facial recognition is used by Chinese authorities to pick people out of crowds and identify them. Now the technology is moving into the private sector, leading to calls for laws to regulate companies that use it.",
@@ -678,6 +868,40 @@
       ]
     },
     {
+      "path": "_news/2020-11-26-global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm.md",
+      "title": "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM",
+      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18534360/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-st",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18534360",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18534360",
+      "publishedDateTime": "2020-11-25T13:29:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-26-researchers-taught-ai-how-to-judge-a-video-game-by-its-cover.md",
       "title": "Researchers taught AI how to judge a video game by its cover",
       "excerpt": "Have you ever seen the promo art or box cover for a video game and thought “what the hell is this even about?” Well, wonder no more. A pair of researchers have combined cutting-edge image recognition and natural language processing to create an AI system for video game genre classification.",
@@ -857,49 +1081,6 @@
       ]
     },
     {
-      "path": "_news/2020-11-26-global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm.md",
-      "title": "Global Facial Recognition Market: Increasing Focus on Infrastructural Growth in North America to Stimulate Growth, says Fortune Business InsightsTM",
-      "excerpt": "The global facial recognition market size is expected to hit USD 12.92 billion by 2027, while exhibiting a promising CAGR of 14.8% between 2020 and 2027. This is ascribable to factors such as increasing demand for advanced video surveillance systems and increasing adoption of modern technologies such as artificial intelligence (AI) and machine learning by the manufacturers.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-facial-recognition-market-increasing-focus-on-infrastructural-growth-in-north-america-to-stimulate-growth-says-fortune-business-insightstm-1029839491",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Global-Facial-Recognition-Market-Increasing-Focus-on-Infrastructural-Growth-in-North-America-to-Stimulate-Growth-says-Fortune-Business-InsightsTM-1029839491",
-      "publishedDateTime": "2020-11-25T09:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-25-beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant.md",
       "title": "Beeb, how do you build the world’s first public service voice assistant?",
       "excerpt": "The post Beeb, how do you build the world’s first public service voice assistant? appeared first on The AI Blog.\n",
@@ -984,195 +1165,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted.md",
-      "title": "AI Neural Networks Are Now Smart Enough To Know When They Shouldn’t Be Trusted",
-      "excerpt": "The idea of all-knowing, uncontrollable artificial intelligence (AI) is scary, but if we’re lucky, it looks like AI might just be able to save us from itself. A team of computer scientists from Massachusetts Institute of Technology (MIT) say they have created AI neural networks that are able to determine whether they can be trusted,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
-      "originalUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/sophia_neural_networks.jpg&quality=70&width=808",
-          "width": 808,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
-      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
-      "publishedDateTime": "2020-11-25T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNILAD",
-        "domain": "unilad.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-aisera-releases-ai-service-desk-for-microsoft-teams.md",
-      "title": "Aisera releases AI Service Desk for Microsoft Teams",
-      "excerpt": "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
-      "title": "SK Telecom designs own AI data centre chip for 5G applications",
-      "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "originalUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "publishedDateTime": "2020-11-25T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-based-hr-tech-startup-pulsifi-bags-18-mn-in-angel-funding.md",
-      "title": "AI-Based HR Tech Startup Pulsifi Bags $1.8 Mn In Angel Funding",
-      "excerpt": "AI-driven HR tech startup Pulsifi on Wednesday announced that it has raised $1.8 million in angel funding. Apart from the existing investors, new investors such as Aaron Chen, founder of KVC group of companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/360395",
-      "originalUrl": "https://www.entrepreneur.com/article/360395",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1606310468-CEO-Jay.jpg?width=600&crop=16:9",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/amphtml/360395",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/360395",
-      "publishedDateTime": "2020-11-25T05:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

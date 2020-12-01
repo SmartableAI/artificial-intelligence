@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-inv
 cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
 type: article
 quality: 87
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -72,6 +72,20 @@ related:
       - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
         width: 840
         height: 500
+        isCached: true
+  - title: "How to drive effective AI adoption in investment management firms"
+    excerpt: "By Chandini Jain, CEO of Auquan Artificial intelligence (AI) has the potential to augment the work of investment management firms to unprecedented levels, powering decision-making, driving efficiencies,"
+    publishedDateTime: 2020-12-01T16:16:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-to-drive-effective-ai-adoption-in-investment-management-firms/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-17.jpg"
+        width: 750
+        height: 422
         isCached: true
 
 secured: "8QxZR+U2Op1obNJ767ptlQyJKwUyT+aQNe45qHRCePbgvUXxK1NJpiAw6lWRYh1fpgxQGnA0nOgz7K9hIlmNhXsclUgjyiWuLhaFLLl5YXzy1ApfZwdZv9w1XnAPyFNv9nv5wI/ju7liiZ+r8IuZaBbGuzOZIdVmcC0XtsGer1pZe/sHTdQadGxVWTGaFeddrO0WUX7jJ1MYhrWKXRmgtiYPEdrARMb76SGe+D+jZREBMfBTaLVK6/Yj4/vPmSeqRVvS48VfB4VeOqdukAarMtotqwoGDt+VjK7o2XnOckG3P/+L5ZdSFLXWOs7REnrsHWjZY+VXg0ZL9+LNaVgeg7Pr0eou7NSKNCVvZaW6WR5vBWqgY+JEWNST34fFGwhNI4JdhEY57dSIb7UmYKJCwbS1MfUTrqddQMRfqugPTWWc10KF2B+E1BkSLi5tmfTx+LRbxENeSbL1p5hjvSU8fhe6cbQp9oNB/hfjgg8bIo9e7iVhudiivmITb9HXuByydBDaJ+U4kGiFBiiVq7F/4A==;RI6N/4FsWV3mY7UhkTzg6g=="

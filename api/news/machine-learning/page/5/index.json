@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-03-amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available.md",
+      "title": "Amazon EC2 P4d instances for pushing machine learning boundaries now available",
+      "excerpt": "Amazon Web Services (AWS) has announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) P4d instances with EC2 UltraClusters capability. The cloud giant has touted the offering as the next generation of GPU-powered instances for providing the best performance in machine learning training and high-performance computing (HPC) in the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "originalUrl": "https://www.zdnet.com/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-ec2-p4d-instances-for-pushing-machine-learning-boundaries-now-available/",
+      "publishedDateTime": "2020-11-02T16:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-03-intel-has-acquired-cnvrgio-a-platform-to-manage-build-and-automate-machine-learning.md",
+      "title": "Intel has acquired Cnvrg.io, a platform to manage, build and automate machine learning",
+      "excerpt": "It competes with the likes of Databricks, Sagemaker and Dataiku, as well as smaller operations like H2O.ai that are built on open-source frameworks. Cnvrg’s premise is that it provides a user ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
+      "originalUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/03/GettyImages-1173239906.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/03/intel-has-acquired-cnvrg-io-a-platform-to-manage-build-and-automate-machine-learning/amp/",
+      "publishedDateTime": "2020-11-02T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-03-upgrad-sees-demand-in-digital-marketing-artificial-intelligence-machine-learning-courses.md",
       "title": "upGrad sees demand in digital marketing, artificial intelligence, machine learning courses",
       "excerpt": "Online career education company upGrad has seen rising demand for courses in the areas of Digital Marketing, Data Science, Machine Learning and Artifi",
@@ -1392,93 +1489,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-google-partners-with-noaa-on-using-ai-ml-to-improve-extreme-weather-predictions.md",
-      "title": "Google partners with NOAA on using AI, ML to improve extreme weather predictions",
-      "excerpt": "Google already has a number of weather efforts, and this month launched an AI partnership with the National Oceanic and Atmospheric Administration (NOAA) Satellite and Information Service (NESDIS ...",
-      "sourceUrl": null,
-      "webUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/",
-      "originalUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://9to5google.com/wp-content/uploads/sites/4/2019/04/google_cloud_logo_1.jpg?quality=82&strip=all",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://9to5google.com/2020/10/27/google-ai-noaa-weather/amp/",
-      "cdnAmpWebUrl": "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/10/27/google-ai-noaa-weather/amp/",
-      "publishedDateTime": "2020-10-27T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "9to5Google",
-        "domain": "9to5google.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-7-ways-machine-learning-can-solve-supply-chain-challenges.md",
-      "title": "7 Ways Machine Learning Can Solve Supply Chain Challenges",
-      "excerpt": "This is where Machine Learning in Supply Chain can help breathe a sigh of relief! Integrating machine learning in supply chain management can help automate a number of mundane tasks and allow the enterprises to focus on more strategic and impactful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
-      "originalUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/wp-content/uploads/2020/10/eca083cd-ml-in-supply-chain-cover-e1591361678184-900x479.jpg",
-          "width": 900,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063/amp",
-      "cdnAmpWebUrl": "https://www-business2community-com.cdn.ampproject.org/c/s/www.business2community.com/strategy/7-ways-machine-learning-can-solve-supply-chain-challenges-02357063/amp",
-      "publishedDateTime": "2020-10-27T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201201/Machine-learning-mode
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: News Medical
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "AI predicts which drug combinations kill cancer cells"
+    excerpt: "A machine learning model can help us treat cancer more effectively. When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies."
+    publishedDateTime: 2020-12-01T16:50:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2020/12/201201084800.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 47
   - title: "Artificial Intelligence Predicts Drug Combinations That Kill Cancer Cells More Effectively"
     excerpt: "A machine learning model developed in Finland can help us treat cancer more effectively. When healthcare professionals treat patients suffering from advanced cancers, they usually need to use a combination of different therapies."
     publishedDateTime: 2020-12-01T10:11:00Z

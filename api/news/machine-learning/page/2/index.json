@@ -2,6 +2,103 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
+      "title": "Using Machine Learning To Predict And Detect Fraud",
+      "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
+      "publishedDateTime": "2020-11-20T04:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-startup-circle-how-is-doceree-using-ai-and-machine-learning-to-revolutionize-the-pharma-industry.md",
+      "title": "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?",
+      "excerpt": "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
+      "originalUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciol.com/wp-content/uploads/2020/11/docree.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
+      "publishedDateTime": "2020-11-19T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-artificial-intelligence-and-machine-learning-course.md",
       "title": "Artificial intelligence and machine learning course",
       "excerpt": "Global higher-level educational platform Careerera.com, has announced the launch of a new certification programme — Post Graduate Program in Artificial Intelligence & Machine Learning.",
@@ -757,34 +854,34 @@
     {
       "path": "_news/2020-11-18-rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations.md",
       "title": "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations",
-      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions,",
+      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1306557/RigNet_Logo.jpg?p=facebook",
-          "width": 967,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T04:05:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
+      "publishedDateTime": "2020-11-18T05:27:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1124,10 +1221,10 @@
     {
       "path": "_news/2020-11-17-deep-learning-market-focus-on-medical-image-processing-2020-2030.md",
       "title": "Deep Learning Market: Focus on Medical Image Processing, 2020-2030",
-      "excerpt": "New York, Nov. 17, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning Market: Focus on Medical Image Processing, 2020-2030\" - https://www.reportlinker.com ...",
+      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Nov. 17, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning Market ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/g18400413/deep-learning-market-focus-on-medical-image-processing-2020-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/g18400413/deep-learning-market-focus-on-medical-image-processing-2020-2030",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-market-focus-on-medical-image-processing-2020-2030-1029809618",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1135,14 +1232,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18400413",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18400413",
-      "publishedDateTime": "2020-11-17T01:55:00-08:00",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Market-Focus-on-Medical-Image-Processing-2020-2030-1029809618",
+      "publishedDateTime": "2020-11-17T01:36:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1296,101 +1402,6 @@
       "ampWebUrl": "https://markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870",
       "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/STMicroelectronics-and-Schneider-Electric-Reveal-Advanced-People-Counting-Solution-using-Artificial-Intelligence-on-STM32-Microcontroller-1029806870",
       "publishedDateTime": "2020-11-16T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-the-eyes-have-it-the-future-of-human-machine-relations.md",
-      "title": "The Eyes Have It: The Future Of Human-Machine Relations",
-      "excerpt": "This kind of eye contact is all about making the daily work of employees more convenient, ergonomically-friendly, and even fun by controlling applications based on user intention – via eye tracking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/",
-      "originalUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fad41a2529cdb75bc46e53e%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2020/11/16/the-eyes-have-it-the-future-of-human-machine-relations/amp/",
-      "publishedDateTime": "2020-11-16T06:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-deep-learning-global-markets.md",
-      "title": "Deep Learning: Global Markets",
-      "excerpt": "Disclaimer | Commerce Policy | Made In NYC | Stock quotes by finanzen.net New York, Nov. 16, 2020 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Deep Learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/deep-learning-global-markets-1029805190",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Deep-Learning-Global-Markets-1029805190",
-      "publishedDateTime": "2020-11-16T03:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",

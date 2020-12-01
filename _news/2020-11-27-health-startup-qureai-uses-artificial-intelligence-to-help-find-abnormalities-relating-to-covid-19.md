@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients"
+    excerpt: "The post ‘All hands on deck’: How Duke University and AI for Health raced to create a COVID-19 solution for patients appeared first on The AI Blog.\n"
+    publishedDateTime: 2020-12-01T17:00:57Z
+    webUrl: "https://blogs.microsoft.com/ai/all-hands-on-deck-how-duke-university-and-ai-for-health-raced-to-create-a-covid-19-solution-for-patients/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 71
+    images:
+      - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg"
+        width: 1024
+        height: 538
+        isCached: true
   - title: "Researchers Develop AI to Detect COVID on Chest X-rays"
     excerpt: "According to the study, published in the journal Radiology, the research team believe physicians could use the AI system to rapidly screen patients who are admitted to hospitals for reasons other than Covid-19."
     publishedDateTime: 2020-11-29T16:47:00Z

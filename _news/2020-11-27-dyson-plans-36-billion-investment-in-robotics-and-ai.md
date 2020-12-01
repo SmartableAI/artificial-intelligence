@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "How to drive effective AI adoption in investment management firms"
+    excerpt: "By Chandini Jain, CEO of Auquan Artificial intelligence (AI) has the potential to augment the work of investment management firms to unprecedented levels, powering decision-making, driving efficiencies,"
+    publishedDateTime: 2020-12-01T16:16:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-to-drive-effective-ai-adoption-in-investment-management-firms/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 39
+    images:
+      - url: "https://mk0globalbankin3xg02.kinstacdn.com/wp-content/uploads/2020/12/Untitled-design-17.jpg"
+        width: 750
+        height: 422
+        isCached: true
 
 secured: "cgYJt823R2ikZYTVo8DAGlaR/5SFKwAkpLsBHn7+7PmFIeQOaWP+Yg4y95mhLVP1Gg9z1EWMjqIArTTdU0gXP/rj2zRV4swdxyzwkFY90P3Q7d5b5UIeT668q3zGesIwaNzYuESV7ktjnwCm45G/4vtO6UaHnE4Tj4H8wPwqvMB54UIHaEwwlmB6gOcyU75T0oobeQLw9s+mc+mSTrLdbMDYhDdHGUIBzg7aZBdyi5Piw9zGxgp4+BsgN/ffDdYtBGwq365DfIcO2N26zbL2sGw/B6cjVVtCO3n5i3IJeRotQEOvFsU7C8itchizGby6/Yvhwc53PBCj38nw9i5qpAUHq6F588BWfPa93rr8TbK9UXMqw0yE03vJiQQgUYrsTQJcAP3DTUJFfV3UbFiGkyUeuKJ6Q+0ziPFQevtz7SY17GbLP65N2w8xylfAv76EV/haCcSWEODWNMdeiBLTSGoI7zhZw9pkoFQXFpU1mPTwr049T2b9v5+uU4MMSVYXrLjGByd24KTR/Tig9sC/Qw==;e5Uv+ZugcillSN4qykpZRQ=="
 ---
