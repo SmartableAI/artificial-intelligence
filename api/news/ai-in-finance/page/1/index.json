@@ -841,6 +841,50 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations.md",
+      "title": "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations",
+      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/rignet-signs-multi-year-agreement-to-provide-intelie-s-machine-learning-platform-for-frac-ing-and-drilling-operations-1029815715",
+      "publishedDateTime": "2020-11-18T05:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-fintech-company-obligo-raises-155m-in-series-a-to-roll-out-new-standard-for-deposit-free-renting.md",
       "title": "Fintech Company Obligo Raises $15.5M in Series A to Roll Out New Standard for Deposit-Free Renting",
       "excerpt": "Fintech company Obligo today announced a $15.5 million Series A funding round from investors including 83North, 10D, Entrée Capital,",
@@ -881,50 +925,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations.md",
-      "title": "RigNet Signs Multi-Year Agreement to Provide Intelie's Machine Learning Platform for Frac'ing and Drilling Operations",
-      "excerpt": "PRNewswire/ -- RigNet, Inc. (NASDAQ: RNET), the leading provider of ultra-secure satellite communications and intelligent networking solutions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html",
-      "originalUrl": "https://www.prnewswire.com/news-releases/rignet-signs-multi-year-agreement-to-provide-intelies-machine-learning-platform-for-fracing-and-drilling-operations-301175122.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1306557/RigNet_Logo.jpg?p=facebook",
-          "width": 967,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T04:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1295,35 +1295,35 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-korean-payment-giants-danal-fintech-joins-icon-blockchain-ecosystem.md",
-      "title": "Korean Payment Giant’s Danal Fintech Joins ICON Blockchain Ecosystem",
-      "excerpt": "Danal Fintech, a subsidiary of Danal ( one of the largest payment companies in South Korea, today announced that they are joining the ICON blockchain ecosystem, the largest decentralized network in Korea by market capitalization.",
+      "path": "_news/2020-11-12-accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards.md",
+      "title": "Accern Wins The Best AI Platform Award at the 6th Annual Benzinga Global Fintech Awards",
+      "excerpt": "NEW YORK, Nov. 10, 2020 /PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company is honored to announce that its No-Code AI platform has been named the winner ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa",
-      "originalUrl": "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-south-korea-70b7109710ee3702e80c6d7e450260aa",
+      "webUrl": "https://www.prnewswire.com/news-releases/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-301170180.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/accern-wins-the-best-ai-platform-award-at-the-6th-annual-benzinga-global-fintech-awards-301170180.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
+          "url": "https://mma.prnewswire.com/media/1276354/Accern_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-11T04:02:00-08:00",
+      "publishedDateTime": "2020-11-11T08:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1338,35 +1338,35 @@
       ]
     },
     {
-      "path": "_news/2020-11-11-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app.md",
-      "title": "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App",
-      "excerpt": "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app.",
+      "path": "_news/2020-11-11-electrifai-offers-new-machine-learning-models-for-amazon-sagemaker.md",
+      "title": "ElectrifAi Offers New Machine Learning Models for Amazon SageMaker",
+      "excerpt": "JERSEY CITY, N.J., Nov. 11, 2020 /CNW/ -- ElectrifAi, one of the global leading companies in practical artificial intelligence (AI) and pre-built machine learning (ML) models, today announced ...",
       "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
-      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
+      "webUrl": "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html",
+      "originalUrl": "https://www.newswire.ca/news-releases/electrifai-offers-new-machine-learning-models-for-amazon-sagemaker-828565824.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg",
-          "width": 300,
-          "height": 232,
+          "url": "https://mma.prnewswire.com/media/1331976/ElectrifAi_Logo.jpg?p=facebook",
+          "width": 2700,
+          "height": 1414,
           "title": null,
           "attribution": null,
           "isCached": true
         }
       ],
-      "content": "",
+      "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
-      "publishedDateTime": "2020-11-10T18:11:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-11T05:22:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
+        "name": "Newswire",
+        "domain": "newswire.ca",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1377,7 +1377,9 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "AWS AI"
       ]
     }
   ],

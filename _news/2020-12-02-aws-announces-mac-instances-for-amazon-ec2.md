@@ -25,6 +25,36 @@ images:
     isCached: true
 
 related:
+  - title: "AWS announces Panorama a device adds machine learning technology to any camera"
+    excerpt: "AWS has launched a new hardware device, the AWS Panorama Appliance, which, alongside the AWS Panorama SDK, will transform existing on-premises cameras into computer vision enabled super-powered surveillance devices."
+    publishedDateTime: 2020-12-01T19:33:00Z
+    webUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/"
+    ampWebUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 102
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/AWS-Panorama-Appliance.jpg?w=1024"
+        width: 1024
+        height: 535
+        isCached: true
+  - title: "AWS Announces Five Industrial Machine Learning Services"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced Amazon Monitron, Amazon Lookout for Equipment,"
+    publishedDateTime: 2020-12-01T20:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-five-industrial-machine-learning-services-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
     publishedDateTime: 2020-12-01T06:30:00Z
@@ -39,35 +69,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boom Supersonic Goes All-In on AWS"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Boom Technology, Inc. (Boom Supersonic), a"
-    publishedDateTime: 2020-12-01T17:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/boom-supersonic-goes-all-in-on-aws-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader"
-    publishedDateTime: 2020-12-01T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "WjoZbQYlm1Eh3FX3N2S9HwAJ2s0Fmqfi/kyRkbEQo2StsCTpEB5qkBHBTgkUi13OAqi5+hufPPUVzOYQmTZgHPqhXMd1LYSqesh+SPzLRFJjR28uSHSaPsBNdgeh49PVuSAHohb6EjynXQBGZ8nbPRXCJf2hbBvqeKgIb36wPg/o8i2+gKyOkoTOSfbNLNAsxp4elf07H6GuthMPRzKKYDC+fuwi0KO+Ozuj3b0M5IXwq/j0AoTWOxPHfJ6FjpL+UwpElcGMwPjS0F1ISPMq3QWMfeJekXpo7fZ/CcNvMmL9yUztyv7bg0grUMb5pYA7er8XhANzeBL8aPQ18Erv6baWEnqUZGmtF7uG1RWwQsE=;XWrnEfm5JqdInU4ImKU3Ug=="
+secured: "fxkyBjeT53X12W/t7dktL/UFXUOZMIAJJgs7DRuSEGoDmb6dr6rnpY5ohDGrDrqQakqRl9yf2gJ8vicfpyRH6GxkVh8XrbE8t5wBf7TBM9XfpUyk10tSf3zNlB7WJMIihp/8F+b8f/fsf46a7XJnE7q3frf9RO0iUJyQ3RbF+ozihUOJ48n34l2Jj1oxMzvFSVwXEoCRE5PqNMhosSrGqQwRxdZaWU+5DHoYa+2ElwnewHY9JFk5gFZIDczLHo2iLsDve0f+/1P1K2+4itvVmrVsS3c9djbKu2HiwZkf2EfUt29jp7KCiVdQVY5g6FZNwOm19+m0bX4x5XnLJUPHZwHr/fr93HGw7U5t2wXORF4uWKRkMHtWdTfPX8ALO1L7ZwpVZZBZdpVYyAy0DjRZzL3VZ6odO+LehoiDifTez4mfHw/AbD6T41N3vw7WUJQt7EZPNpuxZcEm8W8bJ5WSGjFENRvXhDOS1gz1kMmqQ/Nbz/nYzFLJ1gTDQ98WR3ZCXIvVWs18nNhocrUY+birnQ==;H2SaqXZXPqTNDBWsZaQOUQ=="
 ---
 

@@ -1,0 +1,77 @@
+---
+category: news
+title: "Deepmind’s AlphaFold Program Demonstrates Value of AI Tools in Biology"
+excerpt: "Deepmind has just demonstrated that Artificial Intelligence is invaluable in understanding how life works and will play a key role in the"
+publishedDateTime: 2020-12-01T19:11:00Z
+originalUrl: "https://www.hpcwire.com/off-the-wire/deepminds-alphafold-program-demonstrates-value-of-ai-tools-in-biology/"
+webUrl: "https://www.hpcwire.com/off-the-wire/deepminds-alphafold-program-demonstrates-value-of-ai-tools-in-biology/"
+type: article
+quality: 54
+heat: -1
+published: false
+
+provider:
+  name: HPCwire
+  domain: hpcwire.com
+
+topics:
+  - Google AI
+  - AI
+
+images:
+  - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/career_shutterstock-461317267_700x-405x228.jpg"
+    width: 405
+    height: 228
+    isCached: true
+
+related:
+  - title: "Alphabet’s DeepMind achieves historic new milestone in AI-based protein structure prediction"
+    excerpt: "DeepMind, the AI technology company that’s part of Google parent Alphabet, has achieved a significant breakthrough in AI-based protein structure prediction. The company announced today that its ..."
+    publishedDateTime: 2020-11-30T15:30:00Z
+    webUrl: "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/"
+    ampWebUrl: "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 93
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1279331936.jpg?w=1024"
+        width: 1024
+        height: 561
+        isCached: true
+  - title: "Alphabet’s DeepMind makes AI breakthrough with AlphaFold that could aid drug research"
+    excerpt: "Alphabet's DeepMind AI lab today announced that its AlphaFold system has made a \"major scientific advance\" in biology that could help the drug"
+    publishedDateTime: 2020-11-30T21:38:00Z
+    webUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/"
+    ampWebUrl: "https://9to5google.com/2020/11/30/deepmind-alphafold/amp/"
+    cdnAmpWebUrl: "https://9to5google-com.cdn.ampproject.org/c/s/9to5google.com/2020/11/30/deepmind-alphafold/amp/"
+    type: article
+    provider:
+      name: 9to5Google
+      domain: 9to5google.com
+    quality: 67
+    images:
+      - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/11/deepmind-alphafold-cover.png"
+        width: 2400
+        height: 1350
+        isCached: true
+  - title: "DeepMind's AI biologist can decipher secrets of the machinery of life"
+    excerpt: "AI firm DeepMind's latest creation, AlphaFold, can predict the shape of proteins from their sequence alone. This fiendish problem normally requires time-consuming experiments, but is key to understand"
+    publishedDateTime: 2020-11-30T15:37:00Z
+    webUrl: "https://www.newscientist.com/article/2261156-deepminds-ai-biologist-can-decipher-secrets-of-the-machinery-of-life/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/11/30113155/30-nov_deepmind.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "iXWYTzhg20emjZ8vBFpgNWHiYYkYI6AzQzU4wQygWHQmSZkYwbHt4kiyeSZmIeELpZTfLyU++k8N0rFLDide5aN+DivABWR/9KsVQ5sSzslmy4Foa7J8gLEiwetP2H4cCCI0DW1q0pxK4a3k+zfUINJHgKElLQmvEvu8Uzd4TAKnfxtOCgVik4O4WNrg12a5zufaZhwq3ALo1HCdBbFCER+QWGXh+63WmOYH0jJW+8bZHJxsugu0CdiguyHt199Q/aySkPUmuFRPe2BQ4FaYf8nLEZq/RwZTt3/uw9Oul26UhjSlNZuQBRHnG0TMYeQwpCBrkyIGQEWItw2jlcLOsN9AFKLyR4lEh6r1yRGAsCU=;qV6c33VdT+j7sRkKi0v/sQ=="
+---
+

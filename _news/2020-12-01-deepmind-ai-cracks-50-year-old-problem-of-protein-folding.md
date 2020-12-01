@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind AI cracks 50-year-old problem of protein folding"
 excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-publishedDateTime: 2020-11-30T17:41:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?hss_channel=tw-4337144594"
-webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?hss_channel=tw-4337144594"
+publishedDateTime: 2020-11-30T16:23:00Z
+originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Google AI
   - AI
+  - Google AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/509cd5c3d7e66829a6cf90a7ef1f11cb3d06203a/0_78_1760_1056/master/1760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc1d5923b1628c37cb78376e40a2ca6"
@@ -475,6 +475,6 @@ related:
         height: 720
         isCached: true
 
-secured: "LjnME3cQ0bUI+YEXxe+A5d8QC0fJZJcOhY920SFm8vBdoybN/7VxIGDXVZAe+pehgysGAdxlDzVIS2zw33uNoZ7K8V8d1pXuL/ldSlsJ9+Ij5/TO+ydPimX+6PDjKP9aU7B7LTOTe3BJP5u7jTfGmGtqn9hRSnOR69bJvKdDj0Jj3n+l6raooIrT/p23YzIvO7Hy317TrGN3a+K8FtwqHDq17doRaaH4JpprNtGi1rkalszTaT8MdQGBP9wGikLybzzX4cJeq66e4sdhaOqaHETbkjuu4Zcb+nbYRoCOeCZuHXHa8EZS4UeuMMLpjNBmB7Kn9gUB/Rf2/aI36+o+m6uEZQuAIuUIte5hHjS+m8w=;4txTawBWJreSWR0LzXJjug=="
+secured: "Yli7S4Qqn2ddVKf/dU3ljRxoDEbe5XfqSScUJbVkBcg1/1oXz8cuhyxP7vd8nqgqWgc7GYuDHMkR5SWmfytF9OXEgnqwkC3OPx5J3LPxHXqXw1GIXqaZCT3B5Y2VFiisGp1WLzMKcqb5gnlGlOnXUvN0I886HCuEE0LIyP0EerOPw7akBG2qKfPftaFAXs+mpV7hJIOkzhj2cIJOxEl3Fo9BPDv9MUpDMMEd/zlVSFc+ZfoKxoki4cSaIJBPYmJSCowYzwcwnbGFcNo7yJySlUJgXUTkME9wxo3ca82DWifrzRbzLnx8D3JWS9wUyAZfbYYbTEdI/gx0fir2Q4FAZHpiS4CojUgsZ4l5Wm7MLWo=;IG+vHCiM06x4UhV5gVFTHA=="
 ---
 

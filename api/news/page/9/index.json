@@ -2,6 +2,386 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2020-11-22-an-introduction-to-tensorflow-lite-development-on-android.md",
+      "title": "An introduction to TensorFlow Lite development on Android",
+      "excerpt": "Learning TensorFlow Lite for Android lets developers implement advanced machine learning into their creations. This greatly extends an app’s capabilities and introduces countless new potential use-cases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
+      "originalUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn57.androidauthority.net/wp-content/uploads/2019/08/AI-Programming-Machine-Learning-920x470.jpg",
+          "width": 920,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
+      "cdnAmpWebUrl": "https://www-androidauthority-com.cdn.ampproject.org/c/s/www.androidauthority.com/tensor-flow-lite-android-1178584/amp/",
+      "publishedDateTime": "2020-11-21T23:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-mumbai-bmc-introduces-face-recognition-in-hospital-to-prevent-covid-19-spread.md",
+      "title": "Mumbai: BMC introduces face recognition in hospital to prevent COVID-19 spread",
+      "excerpt": "The COVID-19 safety protocols have led to a need for changes in the attendance system at the Brihanmumbai Municipal Corporation offices. After strong opposition to the fingerprint identification system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "originalUrl": "https://www.mid-day.com/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mid-day.com/images/2020/nov/covid-nov-twenty-two-a_d.jpg",
+          "width": 670,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "cdnAmpWebUrl": "https://m-mid--day-com.cdn.ampproject.org/c/s/m.mid-day.com/amp/articles/mumbai-bmc-introduces-face-recognition-in-nair-hospital-to-prevent-covid-19-spread/23100249",
+      "publishedDateTime": "2020-11-21T17:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mid Day",
+        "domain": "mid-day.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high.md",
+      "title": "Artificial Intelligence and Robotics ETF (ROBT) at a 52-Week High",
+      "excerpt": "For investors looking for momentum, First Trust Nasdaq Artificial Intelligence and Robotics ETF ROBT is probably a suitable pick. The fund just hit a 52-week high and is up 96.8% from its 52-week low price of $22.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21",
+      "originalUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/artificial-intelligence-and-robotics-etf-robt-at-a-52-week-high-2020-11-21?amp",
+      "publishedDateTime": "2020-11-21T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-affirm-airbnb-c3ai-roblox-wish-file-for-tech-ipo-finale-of-2020.md",
+      "title": "Affirm, Airbnb, C3.ai, Roblox, Wish file for tech IPO finale of 2020",
+      "excerpt": "For some of the most awaited Silicon Valley tech companies of the decade, this week looked good enough to file for IPOs",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/",
+      "originalUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-974037824.jpg?w=1024",
+          "width": 1024,
+          "height": 693,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/21/affirm-airbnb-c3-ai-roblox-wish-file-for-tech-ipo-finale-of-2020/amp/",
+      "publishedDateTime": "2020-11-21T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-22-practical-strategies-to-minimize-bias-in-machine-learning.md",
+      "title": "Practical strategies to minimize bias in machine learning",
+      "excerpt": "But the question isn’t if a machine learning model will systematically discriminate against people, it’s who, when, and how. There are several practical strategies that you can adopt to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
+      "originalUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/mitigate-ml-bias-parkey.jpg?resize=512%2C454&strip=all",
+          "width": 512,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/21/practical-strategies-to-minimize-bias-in-machine-learning/amp/",
+      "publishedDateTime": "2020-11-21T09:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-deep-learning-market-by-type-and-by-geography-global-opportunity-analysis-and-industry-forecast-2020-2024.md",
+      "title": "Deep Learning Market by Type and by Geography- Global Opportunity Analysis and Industry Forecast, 2020-2024",
+      "excerpt": "Technavio has announced its latest market research report titled Global Deep Learning Market 2020-2024 (Graphic: Business Wire) Click & Get Free Sample Report in Minutes. The grow",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-north-america-industrial-technology-computing-and-information-technology-software-d4f59a66e27c423aab4adaaf8d1bcaae",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-21T07:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis.md",
+      "title": "Neural Network Software Market Forecast to 2027 – COVID-19 Impact and Regional Analysis",
+      "excerpt": "The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229",
+      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-forecast-to-2027-covid-19-impact-and-regional-analysis-2020-11-20-191754229",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-20T22:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-21-c3ai-ipo-what-it-means-for-enterprise-ai.md",
+      "title": "C3.ai IPO: What It Means For Enterprise AI",
+      "excerpt": "The CEO and founder of C3.ai is Tom Siebel, who is a legend in Silicon Valley. He got his start in the mid-1980s with Oracle and helped lead the growth of the relational database market. Then in 1993 he founded Siebel,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/",
+      "originalUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb867fd910632f442f29d6d%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D6000%26cropY1%3D205%26cropY2%3D3580",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomtaulli/2020/11/20/c3ai-ipo-what-it-means-for-enterprise-ai/amp/",
+      "publishedDateTime": "2020-11-20T17:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-ai-predicts-highest-risk-us-counties-during-covid-19-surge.md",
       "title": "AI Predicts Highest Risk U.S. Counties During Covid-19 Surge",
       "excerpt": "Yesterday, the daily Covid-19 case count in the United States soared to more than 185,000, a record, and a total of more than 253,000 people have died since the pandemic began, according to data",
@@ -826,403 +1206,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-21-can-artificial-intelligence-give-elephants-a-winning-edge.md",
-      "title": "Can artificial intelligence give elephants a winning edge?",
-      "excerpt": "With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/",
-      "originalUrl": "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/phone_test_cnn_xtY8Ns0DJl.jpg",
-          "width": 740,
-          "height": 416,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/20/can-artificial-intelligence-give-elephants-a-winning-edge/amp/",
-      "publishedDateTime": "2020-11-20T08:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows.md",
-      "title": "Onit acquires legal startup McCarthyFinch to inject AI into legal workflows",
-      "excerpt": "Onit, a workflow software company based in Houston with a legal component, announced this week that it has acquired 2018 TechCrunch Disrupt Battlefield alum McCarthyFinch.  Onit intends to use the startup’s AI skills to beef up its legal workflow software offerings.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/",
-      "originalUrl": "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/disruptsf18_battlefield_mccarthy_finch-0370.jpg?w=1024",
-          "width": 1024,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/20/onit-acquires-legal-startup-mccarthyfinch-to-inject-ai-into-legal-workflows/amp/",
-      "publishedDateTime": "2020-11-20T07:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-commentary-pathmind-applies-ai-machine-learning-to-industrial-operations.md",
-      "title": "Commentary: Pathmind applies AI, machine learning to industrial operations",
-      "excerpt": "In this installment of the AI in Supply Chain series (#AIinSupplyChain), we explore how Pathmind, an early-stage startup based in San Francisco, Bringing simulation and reinforcement learning to industrial operations I asked Chris Nicholson,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations",
-      "originalUrl": "https://www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2020/11/Aoaeh_112020_2.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/commentary-pathmind-applies-ai-machine-learning-to-industrial-operations/amp",
-      "publishedDateTime": "2020-11-20T07:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-as-festive-season-approaches-remember-these-cybersecurity-tips.md",
-      "title": "As festive season approaches, remember these cybersecurity tips",
-      "excerpt": "Next week is Black Friday and while it is expected to be rather muted compared to previous years, it is the day that has come to mark the start of the festive shopping season. As such, it’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/",
-      "originalUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.htxt.co.za/wp-content/uploads/2019/07/cyber-security-1805246.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/amp/",
-      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/20/as-festive-season-approaches-remember-these-cybersecurity-tips/amp/",
-      "publishedDateTime": "2020-11-20T06:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Htxt.Africa",
-        "domain": "htxt.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts.md",
-      "title": "Artificial intelligence could be used to hack connected cars, drones warn security experts",
-      "excerpt": "Cyberattacks on vulnerabilities in connected vehicles could have very real physical consequences if security isn't managed properly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
-      "originalUrl": "https://www.zdnet.com/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2020/10/02/7d823c87-e76e-493d-b656-1a90aa737182/thumbnail/1200x675/eb1c7cb1954746c9aa0ad732a26af89b/20200930-boulton-danny.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/artificial-intelligence-could-be-used-to-hack-connected-cars-drones-warn-security-experts/",
-      "publishedDateTime": "2020-11-20T04:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-using-machine-learning-to-predict-and-detect-fraud.md",
-      "title": "Using Machine Learning To Predict And Detect Fraud",
-      "excerpt": "No matter the type of fraud, machine learning is a powerful tool to keep it from becoming a serious problem — regardless of how our circumstances may change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f7376dc40469ab26495a8e5%2F0x0.jpg",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/20/using-machine-learning-to-predict-and-detect-fraud/amp/",
-      "publishedDateTime": "2020-11-20T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live.md",
-      "title": "Rethinking your tech stack to stay relevant in an AI-powered world (VB Live)",
-      "excerpt": "To stay on top of cutting-edge AI innovation, it’s time to upgrade ... Putting many of those together on a chip just increases that inefficiency. And then putting many of those inefficient ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
-      "originalUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/globe.world_.GettyImages-1183741336.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/20/rethinking-your-tech-stack-to-stay-relevant-in-an-ai-powered-world-vb-live/amp/",
-      "publishedDateTime": "2020-11-20T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo.md",
-      "title": "Why Data, Software And AI Are Key To Growth: A Q&A With Blue Yonder’s CFO",
-      "excerpt": "Blue Yonder's AI-enabled supply chain solutions are mitigating disruptions in today's digital world. Learn more about how companies can face these challenges and grow their workforce in my interview with Blue Yonder's CFO,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
-      "originalUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb6c0d24def72c0e10baee1%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5760%26cropY1%3D293%26cropY2%3D3533",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jeffthomson/2020/11/20/why-data-software-and-ai-are-key-to-growth-a-qa-with-blue-yonders-cfo/amp/",
-      "publishedDateTime": "2020-11-20T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

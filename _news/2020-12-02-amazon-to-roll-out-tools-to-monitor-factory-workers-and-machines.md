@@ -2,30 +2,32 @@
 category: news
 title: "Amazon to roll out tools to monitor factory workers and machines"
 excerpt: "Amazon is rolling out cheap new tools that will allow factories everywhere to monitor their workers and machines, as the tech giant looks to boost its presence in the industrial sector. Launched by Amazon’s cloud arm AWS,"
-publishedDateTime: 2020-12-01T18:56:00Z
-originalUrl: "https://www.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8"
-webUrl: "https://www.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8"
-ampWebUrl: "https://amp.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8"
-cdnAmpWebUrl: "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/58bdc9cd-18cc-44f6-bc9b-8ca4ac598fc8"
+publishedDateTime: 2020-12-01T19:55:00Z
+originalUrl: "https://arstechnica.com/information-technology/2020/12/amazon-to-roll-out-tools-to-monitor-factory-workers-and-machines/"
+webUrl: "https://arstechnica.com/information-technology/2020/12/amazon-to-roll-out-tools-to-monitor-factory-workers-and-machines/"
 type: article
-quality: 44
-heat: 44
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: The Financial Times
-  domain: ft.com
+  name: Ars Technica
+  domain: arstechnica.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe3d1cec8-c83e-4b7e-a68e-97344c539764.jpg?source=google-amp&fit=scale-down&width=500"
-    width: 500
-    height: 281
+  - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/12/amazon-fulfillment-packages-760x380.jpg"
+    width: 760
+    height: 380
     isCached: true
 
-secured: "I/SD3s8YTnsO2W9E0GPbK3wTL4eihzz4YKIs93V2d5qIROrYKlrwFur1bY1NpwARGDHMAKqxl+I651lC4E0dXcOs4653ArPuYkOMnURzJjgVe3IboicjaYvHsNOZPkzRdW9+PAMB1oGQK5wisv0mhYI9NVxK2iBnmRgnCRO2INR2birwfaUoQVEoHHHHDbA01uULaEeks1ZJVq7Ev6R/y3ZUEA1/CJz/ON1EO77Era1GVRsv8VA1wZH5gbFxVxk4SOcHSERfrhkkWyUrDHBCKsFd3btxuzbbeWIzBgiu487ue5csxqBQfj3EhAL9OUgFSJY+k/hX4B4L33HLesDxMbBDlKv+EPBIQzvetjdgRKg=;OkcTQJ/uQR5ygWP3iAZUjA=="
+secured: "eCuXuI7w0ui6sDo4TERo5Dye7d4qImCl+5JYOHJLwj4WTiANKlsJHof2z8/x7l/BHMKFtgbzf1FFEMe8MBz2xTmMExllzpWyMblORJryuwcQ+RjjlQ7Tz90jl7fmk6LEBoRa8pjrUNVdbKQ3ym9Qkh6S/XrWc7jYBrvjbCHyUfNTL9tZcHpF0wt5CwkRhilQG3aGuiY/NvBgeipPtA5eKkfY2ANJmzVuz/Ljzw8wB1kG7koK35fKpAsPSjOvccWnbrUVCJv0AVgNEw6+fIX5wlERnc7QM4mdKbrt0uUdM4JlJi44T51zYDi8AEvNApyT+VWndiUjU1h7CTDVnKArgHq9GZASXKUBj/O4bfVq5x8=;TeaMXAZBQGv2+GWiTt1ohQ=="
 ---
 

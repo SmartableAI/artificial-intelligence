@@ -2,11 +2,11 @@
 category: news
 title: "Tesla could widen release of 'self-driving' software in two weeks"
 excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
-publishedDateTime: 2020-11-28T08:21:00Z
-originalUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
-webUrl: "https://www.reuters.com/article/us-tesla-selfdriving-idUSKBN288053"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN288053"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN288053"
+publishedDateTime: 2020-11-28T08:44:00Z
+originalUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
+webUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28806A"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A"
 type: article
 quality: 89
 heat: 169
@@ -141,6 +141,6 @@ related:
       domain: newsoneplace.com
     quality: 15
 
-secured: "hbWQ1XY5hs45F7remobNJOds5r9QU5jdl/s2Q+kAgV5jDPrKjzVyK2tluypVoEU6F3iLBMZn3idsnBrUGAGplTN08Ajp73PrsJbiB8g+Gl3ZdTzSWwq2ZXCtEBVDLcm8/ZcVZxO7HAhN8ebY+6UoeQ1xuuTFGEBIjaxudewVfw8kDjWKDRzFKFf9iYkF3sJWQHYSxePwXg9ioA1RYl65DppeEjeJ1S7ZsapOiv0dxjnX8zqov4x315VR9o1rh8wtGE7qoVw0KpyjzLSf2xxC18OwfOLGRzXxexMYWj6bYbpXTGUCl74/bMzzZiOW963dk/x9S7u6715HdkW+dKJNhNECdulNAF/96EZf4G7z97kDeJhujHip7oh9QiOF92DkO38gTbnFthii+mfdl4512Rcij5DmqlqpD4NdUmKS+MmlkbgpvWr0st3HJ9lnzphchyfWf1Vimbj504pPxA78TV0sYSt+mHunbtEI+uvi3H52JXPNPdyZte+Hbo4aTZqb8fpgtdmupe6gNhVVpltbfQ==;aaIO0MlLvx5ESFxCuwCqSQ=="
+secured: "oBqIN7gXXTNh/j/qnFbPXvbxrSx11xB6pKwfipkns54FCGLmFDVfACWdbeOc0cLDFVfjWcE7Y9bBO0FM3Ltl7k0nTIS8DmnWAu+fg9IReoBf3+VJVUZQHVg+euUheeEiNPOwRhNd8kijBf40cy/PQB4sWGVrNPoRSgd325x7Q8pFSxqhaXEWQBLcbhPIq9+Gz8rnHtF4B2/4yMcTnD924tFB52DVV9Z4Gu8A57HsIKh5VEr+jCUnLtq0BaTvwo8saAcW5Fh5m2lL3HpL/PtMBu3/Lm0JzIL8I0B5iaHB4wtgLUlm8SzRbJF0DJWXqB2yFFZtQEs+aRTT2n0/X508J9UWmdGATR4v+/SO6Qx5+zE=;mCHfhzb4C5Ao8H7/KbtrSg=="
 ---
 

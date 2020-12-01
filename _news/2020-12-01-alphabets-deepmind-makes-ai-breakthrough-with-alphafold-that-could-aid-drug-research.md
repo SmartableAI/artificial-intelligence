@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Deepmind’s AlphaFold Program Demonstrates Value of AI Tools in Biology"
+    excerpt: "Deepmind has just demonstrated that Artificial Intelligence is invaluable in understanding how life works and will play a key role in the"
+    publishedDateTime: 2020-12-01T19:11:00Z
+    webUrl: "https://www.hpcwire.com/off-the-wire/deepminds-alphafold-program-demonstrates-value-of-ai-tools-in-biology/"
+    type: article
+    provider:
+      name: HPCwire
+      domain: hpcwire.com
+    quality: 54
+    images:
+      - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/career_shutterstock-461317267_700x-405x228.jpg"
+        width: 405
+        height: 228
+        isCached: true
 
 secured: "upPHSH5v0MHG0zVNymuNTJQHghxLrBc0i4c76zAjQsH/6K/O8tuYyuN62WM1UN/xQ5yotzgN7bY09KQtPAYOui8PP8l2ZrMJbToVTACFdybI4ySMx/RX4YBv0Qy8Wuygt3Jne9PkCEx1Rxjf9gnxpdv6s6IJZpxiXS1E77hfvPkXIWR92v+F1MHfear7CtXHIpKW1XPHNLhTjEucQCVexGczXRDj0VKGzeM2cm61Bjq/bv9HRQ+A2IWK45wDFmdkCLgz2BI5n3KX+oBRc9Sj8AgVsS3Fls/y+j3sIZ6ROYN2Ev+FyGfm6ESzbyapC4bpoiw4qcBmBvV/IH0qtgQssbSrN657axvlBWycsU5qC6vasRbHdczeTMo5dRT9xMbwwB1QRdi2CRSOfhAYT2r1EsY9U2ZyEy9klVtE8Y7SkuJLawnc+F2/rlxDI2BAQu7ndX6RYIFW/2+qazLd36HeaorrACjbKjOrb7r3s5kWCr7+NS7Gg8TX/DHKxbPl/Tc65105XBBpDQqyI34M7zL3Vg==;q3j34RkJwB83G3Dkc6UTmQ=="
 ---

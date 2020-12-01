@@ -189,8 +189,8 @@ related:
         isCached: true
   - title: "DeepMind AI cracks 50-year-old problem of protein folding"
     excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-    publishedDateTime: 2020-11-30T17:41:00Z
-    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?hss_channel=tw-4337144594"
+    publishedDateTime: 2020-11-30T16:23:00Z
+    webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
     type: article
@@ -475,6 +475,6 @@ related:
         height: 720
         isCached: true
 
-secured: "BHoW2dTjHz50CdP8quf2YZnv7oqUDIB/C6CkFtgj6PeRVgvrn2DokZ1Y/DmjbhuG7tPcsb3SA0lsTxEhaGbtDhhUPTIlesyNwKmLtkYJTFCbBnVmFURjNBhwUi7UdH5FpV6x2VwajCvTqJqTuDvAvNBl2akrJZyZ84R+zgYwTE0dd2bkx1jOMJL2DNNWRbRKL1ezpxHpn3cbrGEtNsnzSwiyVSGqmLPZ+jmFnpFGU79cX4XbkcxlMsFBdT6N0MtbwZVIJ5B9CMBpfM2IjF/gN+/djCP0OYc/lqef3sLGYuT2ikDMeKzzLkXE2k1cxsLZf+qieSu/yYkeRe9tbehXZGl96cDVuVmnei0OFAtyhNU=;+IZWG7fY5ybPg9GfYebD6Q=="
+secured: "OfjpGvhdsq2R5aBSWqGJgebnMRXZsMQrXHr2IqryZJrXoYHLwsdDPSRo/TKJ2qOgBWbRHTHqExSJ8ylqt8LiO7ePnEDWqu3dtjeCYr2NtBjlwcVVTBMDczmEvK8x1Qid1eLzMUPStYVydsImkfpXGuJ3kIoSKs6VhIlC/kXixmjbYBtQFqmNPp8iKNSdhkQkKLiKC9EZbjd2HJIMFzYLmUVhjGtIgv9lZc01bibFMijrfH/BkcoN+bwxTgEzmwkJ4xapdbSQI+C8xyQUcBPIkhlJlGFlyrocHRXb8+r8nudrszd5aKnI6xQZBU0+JpKisOlUNRHqtKLfPjKRko7ttBafCSynv22vHkKvdMqsdnt8+FKlLBdB8Cgl5Cn5E0fuNgWQpBLO5MfMAdKQs2h1B8LFhwo2FFm9fPqvouI2jHMczrN7nup1YNKyYY4M35z/ddq5/0GMOgM7a6DNz8k9ZmH/O3XVk/qmRRiH2dOY2glAc9puGD4qgTlNsKR/Kkk9an99QXhMwR2yvijwkdKBKQ==;YPWa5BhTW6gIlowhLzazKA=="
 ---
 

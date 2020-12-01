@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-3/"
 type: article
 quality: 119
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 990
     height: 498
     isCached: true
+
+related:
+  - title: "2020-The year of Artificial Intelligence « SAP Experts Podcast"
+    excerpt: "Technologies as AI, Machine learning and Robotic Process Automation will change the way we work and impact how enterprises do their business. Listen"
+    publishedDateTime: 2020-12-01T01:48:00Z
+    webUrl: "https://www.linkedin.com/posts/sdenecken_2020-the-year-of-artificial-intelligence-activity-6647103239248457729-0a-r"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5634AQH6rldQcJ7Wlg/ugc-proxy-shrink_1280_800/0?e=1606946400&v=beta&t=ooRMkr3yYLL1eQnuUhomJzNs5TaPd3B2vO98Erb3pTo"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "fZ+Ay2d8+X2L91XCq4sITi2JnvzurHcUXqO49RB/8AUNmGPqtFJ06TOc2Pj+nZBwM1OrEa/lreiHMxPRXO3GPuP6I1c9cpdZ/Uo1eVE8a8i8IYTqUeJY1oc8t5bhM2p0/OMeHU8EbigD2yDkAG9r9HUQFhhHSlxqOtqFKuac/3/nP2OadtThe4wI/QVW5eZGZObXf0g89KqpOVXfErTEFdidrVyHyZgIZ5vj/20Y9c4M39EXQYEbMpbGygcWmlJxlyDi96+4vMPgSveMh34Nhtz0vHK3VDGHRHtA5mbPhuAnB4V4Td9X/XKuguTIaWHvPmQR1W/yLVp+WZG4diuX3G7r0t4wUOvgswyHyM79vjk=;ewYPBu0NWy2kkounO8aLRw=="
 ---

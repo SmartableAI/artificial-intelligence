@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
-    publishedDateTime: 2020-12-01T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-mac-instances-for-amazon-ec2-2020-11-30"
+  - title: "AWS Announces Three New Analytics Capabilities"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new analytics capabilities"
+    publishedDateTime: 2020-12-01T20:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-three-new-analytics-capabilities-2020-12-01"
     type: article
     provider:
       name: MarketWatch
@@ -57,19 +57,58 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces Mac Instances for Amazon EC2"
-    excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
-    publishedDateTime: 2020-12-01T18:18:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
+  - title: "Can Analytics Save Healthcare?"
+    excerpt: "Of even greater significance is the recent move of firms to move past predictive analytics – important though that is – to give a sense of optimal outcomes predictability. Here, the analytics moves beyond “what am I doing?"
+    publishedDateTime: 2020-12-01T20:02:00Z
+    webUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 39
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "Cognitive Analytics Market taking to witness high growth in near future"
+    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
+    publishedDateTime: 2020-11-30T20:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-taking-to-witness-high-growth-in-near-future-2020-11-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://mms.businesswire.com/media/20201130006036/en/843024/4/mac-mini_top-down-isometric_10302018.jpg"
-        width: 480
-        height: 271
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
+    excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
+    publishedDateTime: 2020-11-29T20:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/iot-devices-market-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2027-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
+    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."
+    publishedDateTime: 2020-12-01T19:00:00Z
+    webUrl: "https://us.acrofan.com/detail.php?number=385307"
+    type: article
+    provider:
+      name: 아크로팬
+      domain: acrofan.com
+    quality: 0
+    images:
+      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
+        width: 580
+        height: 339
         isCached: true
 
 secured: "0EbqePu12Drqdq6t+IHIDfkQvAA4EdexdeS2o8i2Y96TWs7WHLtae8NSJaMpN5uuuiXU1kT3rWfPop+MyUiqDwcpL1YtYs08QHOV+LQK853IirzobJArmLwtWi3OeJaCD52R4biY8y/EHMfRn8sKD9q3WeBtf1bhSlCw8E0SbiTnthGzRHyw5WXBq1wZ4GghqmZJk6NMAryYTvIV86HUQLYIqZeRyXfIk+7te/gASYo7BQF3/aviQ5Rcl5uV4dib8pYsvFabzJ2zSdeOYvCqmyFHA/WENHefovUYGMZI1MjpSqXgO3AXCauFR0uwijsK2E0rBMXQCgR6iFCt0YZVH2WZv367nbebYr8Q+1dy7fo=;OKidDZvTwHGtXqEwzSuEEA=="

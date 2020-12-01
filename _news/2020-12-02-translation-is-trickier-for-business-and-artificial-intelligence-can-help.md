@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trick
 ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
 type: article
-quality: 85
-heat: 115
+quality: 89
+heat: 119
 published: true
 
 provider:
@@ -22,6 +22,8 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
+  - Machine Learning
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg"
@@ -77,6 +79,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+WU4yPDt1JhJX6uHUemguJw1GEtPd/U8sXqZN1OSjSEqNNBXKgAkUQ+jAsphdv9DB025Jeh+w6c/88WglUiKCcjlX2mnogXh3XU36C9K5SDfeRr3SZ1su8NQsJuksYM+ugJFMcbrGJm1JDhiOsKPvwVmh8bHD0LxQrMzga0kPLKpTChK+7j/sbIbn0cwUw2S733KC50ExjkifGvJdxF/DKRS/Q54NmVjgZB0ZEbzp3spaRntGRXXhdZP7lgHJrdWthDsJTDAOI5auiTyJ7tsUJW2UBNoZcoh8ucXCXv1BaJol8rcU3xhaSiBnwZEuNWHl4CbTusDjVK1hNa+oRsZMcbFzkzGtLJVNL51iLJtDJE=;vpF64Yg20vC4TNzPQIJTdA=="
+secured: "nSTRhjaJV33K41gla3OEZgkLJr9eKStAFhmwn/jcJM44bE2Lc6Vx6jxC8i3OoXOlw4ZS0oXMh9WAP912jlLwGaYBhr2jBJbkE6jgyYwFUVFN8dqJCBrIgbtI6U1JJyIUNdqFHZ0LPh41aOXlaBwhekxz5FV6Eug/5nFMWPcL/dAQvZebsXUrz36fiMVU4Q5C2bLd2a+8sU3fJna2UZTg4MwxSxHd00W4+rlK0n46bzOc1H/Q+Ph6y2LrD5MEXFK4WIK9MVgpOcM/W1nJQq5sp28mSowA5wUg0WIr29ZAvsCGF6wcxB4Oghqs2uCCVSM3SElezE0exBwGc1WV1sw4g13KLeiFzYT8U3UOSag0Xkr5hvxoD36QmzV2wRLMxyHksHOTiMaL7BP3E8oZlhvUfPoT+P/bZ+5Y8ZzUpWNGgaaVrz5jqBl0nUZ2WxLdBwHg+Of4JdOz7g7XpYkcEv7YFM7yXHn1seDZXjwcBjm03y6VgEJIsgs/vqabuxEe278xKE6QS8P5ulEsCfd5Kwn1kg==;xRV6RLcPhrmkV4iJMNME/g=="
 ---
 

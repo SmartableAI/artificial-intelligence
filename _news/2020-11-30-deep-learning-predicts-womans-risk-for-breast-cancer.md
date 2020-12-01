@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-deep-woman-breast-cancer.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps determine a woman’s risk of breast cancer"
-    excerpt: "Using deep learning to recognize imaging biomarkers in mammograms presents an opportunity to detect the early warning signs of breast cancer in women who may not be considered at-risk, allowing intervention strategies to begin early, potentially improving ..."
-    publishedDateTime: 2020-11-27T03:58:00Z
-    webUrl: "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1494638654.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Deep Learning Model Predicts the Risk of Developing Breast Cancer"
     excerpt: "Researchers have designed and developed a deep learning model that identifies imaging biomarkers to predict a patient’s risk of developing breast cancer."
     publishedDateTime: 2020-12-01T09:06:00Z

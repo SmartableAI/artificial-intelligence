@@ -33,17 +33,17 @@ images:
 related:
   - title: "London AI lab claims breakthrough that could accelerate drug discovery"
     excerpt: "Proteins are the microscopic mechanisms that drive the behavior of viruses, bacteria, the human body and all living things. They begin as strings of chemical compounds before twisting and folding into three-dimensional shapes that define what they can do — and what they cannot."
-    publishedDateTime: 2020-12-01T17:54:00Z
-    webUrl: "https://www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
-    ampWebUrl: "https://www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
+    publishedDateTime: 2020-12-01T20:22:00Z
+    webUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
     type: article
     provider:
-      name: Hartford Courant
-      domain: courant.com
+      name: Chicago Tribune
+      domain: chicagotribune.com
     quality: 57
     images:
-      - url: "https://www.courant.com/resizer/IeQjlK8BOBiwRvsBVckXk44BvqU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G6SIPGSVPZE2JBXFJD7DZ5TIII.jpg"
+      - url: "https://www.chicagotribune.com/resizer/IeQjlK8BOBiwRvsBVckXk44BvqU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G6SIPGSVPZE2JBXFJD7DZ5TIII.jpg"
         width: 1200
         height: 826
         isCached: true

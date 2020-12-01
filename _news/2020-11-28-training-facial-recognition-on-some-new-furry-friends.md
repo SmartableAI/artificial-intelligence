@@ -57,6 +57,22 @@ related:
         width: 940
         height: 529
         isCached: true
+  - title: "We Soon May Be Able to Tell Bears Apart by Using Facial Recognition Software"
+    excerpt: "Bear biologist, Melanie Clapham, who studies bears in Canada, said it can be hard for people to tell bears apart as they track them over the years because their appearances change drastically."
+    publishedDateTime: 2020-12-01T11:57:00Z
+    webUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426"
+    ampWebUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
+    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
+    type: article
+    provider:
+      name: Inside Edition
+      domain: insideedition.com
+    quality: 56
+    images:
+      - url: "https://www.insideedition.com/sites/default/files/images/2020-09/093020-bear-1280x720.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Beating Facial Recognition: Japanese Store Wants to Purchase 'Face' to Turn It into Super-Realistic Mask"
     excerpt: "As part of the 'That Face' project, Tokyo-based Kamenya Omote is paying to collect face data and turn them into 3D-printed masks with an incredible level of details"
     publishedDateTime: 2020-11-30T11:31:00Z

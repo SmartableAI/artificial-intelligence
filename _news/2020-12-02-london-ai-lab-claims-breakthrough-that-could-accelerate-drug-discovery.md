@@ -2,25 +2,25 @@
 category: news
 title: "London AI lab claims breakthrough that could accelerate drug discovery"
 excerpt: "Proteins are the microscopic mechanisms that drive the behavior of viruses, bacteria, the human body and all living things. They begin as strings of chemical compounds before twisting and folding into three-dimensional shapes that define what they can do — and what they cannot."
-publishedDateTime: 2020-12-01T17:54:00Z
-originalUrl: "https://www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
-webUrl: "https://www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
-ampWebUrl: "https://www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-courant-com.cdn.ampproject.org/c/s/www.courant.com/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
+publishedDateTime: 2020-12-01T20:22:00Z
+originalUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
+webUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html"
+ampWebUrl: "https://www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/lifestyles/health/health-fitness/sns-nyt-deepmind-ai-protein-folding-20201201-tcexupehjjdsdkx4uazx7pfoxq-story.html?outputType=amp"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Hartford Courant
-  domain: courant.com
+  name: Chicago Tribune
+  domain: chicagotribune.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.courant.com/resizer/IeQjlK8BOBiwRvsBVckXk44BvqU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G6SIPGSVPZE2JBXFJD7DZ5TIII.jpg"
+  - url: "https://www.chicagotribune.com/resizer/IeQjlK8BOBiwRvsBVckXk44BvqU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/G6SIPGSVPZE2JBXFJD7DZ5TIII.jpg"
     width: 1200
     height: 826
     isCached: true
@@ -43,6 +43,6 @@ related:
         height: 549
         isCached: true
 
-secured: "nc0TOUzetkekAkKx3YK8+xbAlz89DigMaBcv6AdxIg/XGIZws2A/K/c1NNpFyTEUltWdZsUXZ5MiVvRCxVaoz6auYAxl0iO7jdArsmMtvZT9VBBUHDOXUZspIlnd981YNqpxOK0wzVAkW1lNZ/As1F3arHG5i8zNaUVbzmeULGrzzPmUwJbmRX6kbPAxjb9y9DeUbDew8ujw6AzLLMCTK1xgIzT6320kY2d93FDDvVzgYb4Axxt1kOOTZZg/Y254apfH65Rsb/JEqiXfIf8msTHmcCP7Zgg32wnDvylnUt5Q0Klul2duE22afq+xG+JTTi6k+G67CoITje3Q7zp2mKcyYl0WKL4CIZUnAEnoNWI=;VnrHTd9MacdlCvg/Qfk4WQ=="
+secured: "0pRA2Z+/bIe7++uYykUwpQNiuSkSgK2bRat3wZefkNVnhFKr6GLXFkmRvrs8SSfQa/NgVGvm2lJod3jZvOXIhRS5AarwMrBFvrwmG1XEcJP0ubHFx8s8P1AAtNWP4UQWehsrpqFcB3TIcD3jl12Ru4hyFH6/bOiP4UegoLkCKJA6tGBKCtxS8PLNtSMDChhVcmtGGUvyUfEg+JCejZpIcx5mRBiGkAZgygLGyx/6ihRHD0U/Brk6nYVcZvlV0BJ8Zv1NS9F7IAh5ZqsVDDsTrCNqZlMlEietjsuXlW1OXIEbj/HcssuqUjXTbtHmhcPP5j6QnQIDkS6KDcMpLz/7x5U6TgTwu2kmvjlxNkSPsMI=;aJ7Sp5SL0yc+gNUriwIH3g=="
 ---
 

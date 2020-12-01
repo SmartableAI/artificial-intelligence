@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning helps determine a woman’s risk of breast cancer"
-    excerpt: "Using deep learning to recognize imaging biomarkers in mammograms presents an opportunity to detect the early warning signs of breast cancer in women who may not be considered at-risk, allowing intervention strategies to begin early, potentially improving ..."
-    publishedDateTime: 2020-11-27T03:58:00Z
-    webUrl: "https://www.news-medical.net/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
-    ampWebUrl: "https://www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
-    cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201127/Deep-learning-helps-determine-a-womane28099s-risk-of-breast-cancer.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 59
-    images:
-      - url: "https://www.news-medical.net/image.axd?picture=2020%2f11%2fshutterstock_1494638654.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Deep learning predicts woman's risk for breast cancer"
     excerpt: "Researchers at Massachusetts General Hospital (MGH) have developed a deep learning model that identifies imaging biomarkers on screening mammograms to predict a patient's risk for developing breast cancer with greater accuracy than traditional risk assessment tools."
     publishedDateTime: 2020-11-30T10:02:00Z
