@@ -28,7 +28,7 @@ linkedin:
 
 googleScholar:
   url: https://scholar.google.com/citations?user=W8yZCNsAAAAJ
-  citations: 33215
+  citations: 33268
 
 topics:
   - AI
@@ -43,6 +43,6 @@ images:
     isCached: true
     title: "Rajat Monga"
 
-secured: "krQdiz/cIV/qzy/qSbcn56lMVZoiD34JlTKewPFj6sMO1AwiW1T0kJu9O9XOLvKMrxeoZlz9NgiHoT5JIl4cLYiY8c31iOUPc50NKdU8SannUEjHwSSVFvfAwGsegtOwTQSCGPKfS0ZPg3duOmZcifRCzKgcspotfO+tQ7UH50UXpMiSB6xqBTtutl9XlNtTfSUj0o2r4+GIFTBOUl4Nel9LBOjGQISg5N67hDNpOeT4UQ1p+KTG2paUCKago7kx0F8miuazfWo3l+y4qqA8hE0nCzxQVPcE8wq3ooSow82JQR2TqhtG+nktLHOhFwnxh9Gu15P2sNKz8aQ5Cedq0ftqy85B7H7Djm6gevQy9pADdvnLUzjutlZC5Qx9KbEc1pcy7pLFQf5ieWR0IWoDZ2L5j+hJuMvbc+1jAu+sIM0=;/HWr0N4KIhWlfN6Mf7gRzw=="
+secured: "Hd7NHI1ewY3bcydwozorX9O4uMBRb3HbhG20k9TXpzYXdrTUYMWvWO3eD9maZ5Klrf/0DF5Ih0CRKebU2kiKEmW21BZTT6i5+unUn6xM/pYdiixyQ4hebrrN/tRbSVLnf9QD2XbJF9BN09dIWGuVD/mSXhwzfn6W/2M/Cjv/+AWeSDsQZt8CsrC6xST5pRMUJTQpeo2UcBvHgZw0COqmJpbPd8Qx4pK2SV6E1aAtapryIiEpAWutLTgPtf70nLf09LeUHP8q6RF8tRO7ZP8D/o+bPcMFH46/zwAFm3W3rsshfl8A8hOXcaex0nRvuMeZbPTqd1nQQT5A38UWjQVsCn+7VRlar3dJrr69ujry7x1dYQwTz8eafLfILqVSno6TCrAZNwS6TI/+uxovAd9S8uxmLxSYbsRxt6tA4oZAW5g=;HtUf2Xu3Ga/bYQNGACQp/A=="
 ---
 

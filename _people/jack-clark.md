@@ -3,7 +3,7 @@ name: "Jack Clark"
 bio: "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter."
 location: San Francisco, CA
 type: "profile"
-heat: 31
+heat: 124
 
 website: https://jack-clark.net/
 
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Jack Clark"
 
-secured: "Y1LNS6RmUyfVG8kcfuytYH8tFULne/+X12kUsxFf9XnWJXMWbJY6BjRL7SD0tSpgiyNSLYepnSPalRRgRfz4xo88AEhcE4JVp9F/WlJ5fWmwCRJuy4OOXt+lE5J3CU4ja7DgzuTVX0PSsAA2pnYunwq32b1TkNo3N9PVQhuwVL1zaPXQGc94YR7k5P7WL8I/dSnt7ZwmNDgKdYUaY3I1syzKbaufYbgX1V91PkKYC9pSZrf40JSceJ+rwV8RsWIrYbXxZNAcO0NpiiYp3fIHWm+4PK+seJ3gZeFJfln7VNaG9r9o8R/CU0OQRWgwJXgzkYF2y+DAHUrKD0ToPW+eJv5gobW+TjXscSG7vI7mx7XTatfFyvFc1pr90ZnmVEgWkEzHhEjWs09fehkuZawzaMzfKeNv9RqYVdGbnsKtHkw=;qFF/FDJO08INr9u7Lji3Dw=="
+secured: "bqShtPbcBC2OtkFLtDzULFCIb4oO3Zxz3s0fVczDZ5AJKI5bElQBzDIoOLPLnIQkUa75l75u//B8EWuIoJqGGmQkNVkPnFvQmDnOgQS6/7mGvvWkn1Kr+LruEiHuLt1TF3o/TBYxoeqHS7RXenxHHAff//CrCUgt3ZybQu0xv2n/hxnpw9a2SFCbai1tdRf7Xpg8LdIuFaKQK6ZrGxVa026qdkLgjRn4pETlivzFZ0Vumu875pgfSYYbRuZulNUWac9ggf+jNw2mFt5xADy1Xm92dt24icR6rkyKT04A7QvmMNOr3XkyvR3OSsBc+3quRghx2PWO8bqcqOd5xnJMeX4BvCrhy3TITziENYlIaYpVjH1OHt0STVUd8oFvVNCpdaM7fWM1KgyIyuillJ3bQhN6jFIFDhLu7GFRSZfMvKE=;LsStzoqGTnFKoTFUz8sZrg=="
 ---
 
