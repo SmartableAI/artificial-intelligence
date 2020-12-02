@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows.md",
+      "title": "US parents now more accepting of robots in children's healthcare, study shows",
+      "excerpt": "The COVID-19 pandemic has forced everyone to be more trusting of robots and AI in healthcare. Tufts professor discusses changes in attitudes toward technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "originalUrl": "https://www.techrepublic.com/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/02/b0b14d54-ced1-4968-a198-84015744bb49/resize/1200x/98f2f39d9b8b7d497b578adc563e2d6b/istock-1060861828.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/us-parents-now-more-accepting-of-robots-in-childrens-healthcare-study-shows/",
+      "publishedDateTime": "2020-12-02T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout.md",
       "title": "AI’s Next Big Coup: Augmenting Intelligence To Combat Customer Service Burnout",
       "excerpt": "Knowledge management with embedded AI can connect workers at scale to share best practices, crowdsource answers and close knowledge gaps in real time.",
@@ -62,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -360,6 +413,49 @@
       "provider": {
         "name": "techxplore.com",
         "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-is-the-pandemic-spurring-a-robot-revolution.md",
+      "title": "Is the Pandemic Spurring a Robot Revolution?",
+      "excerpt": "different kinds of “social” robots have been piloted in hospitals, health centers, airports, and other spaces in response to the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
+      "originalUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2019/07/automation-retro-robot-toys-shutterstock-175821860.jpg",
+          "width": 1408,
+          "height": 792,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/",
+      "publishedDateTime": "2020-11-30T06:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1312,101 +1408,6 @@
         "AI",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-this-robot-makes-you-boba-tea-at-a-fully-automated-bar-because-of-course-thats-a-thing.md",
-      "title": "This Robot Makes You Boba Tea at a Fully Automated Bar Because Of Course That's a Thing",
-      "excerpt": "I’ll admit that I wasn’t the biggest fan of boba tea even before the pandemic brought my social life to a grinding halt. Tapioca pearls just taste gross to me, as does bacon, avocado, and a slew of other oft-hyped food that the internet goes crazy over,",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "originalUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/obl0feili4mg3ytimcml.jpg",
-          "width": 800,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/this-robot-makes-you-boba-tea-at-a-fully-automated-bar-1845721388/amp",
-      "publishedDateTime": "2020-11-19T19:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-let-your-robots-off-the-leash-or-lose-ai-experts.md",
-      "title": "Let Your Robots Off The Leash – Or Lose: AI Experts",
-      "excerpt": "Army experiments, soldiers tried to micromanage their drones and ground robots, slowing their reaction times and restricting their tactics. Can AIs earn troops’ trust?",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/",
-      "originalUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2020/11/Secu3t_wiring_inj_hi-z_stepper1-300x218.png",
-          "width": 300,
-          "height": 218,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2020/11/let-your-robots-off-the-leash-or-lose-ai-experts/amp/",
-      "publishedDateTime": "2020-11-19T15:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

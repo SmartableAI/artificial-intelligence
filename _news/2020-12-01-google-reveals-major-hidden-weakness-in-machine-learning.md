@@ -3,11 +3,11 @@ category: news
 title: "Google Reveals Major Hidden Weakness In Machine Learning"
 excerpt: "Deep learning algorithms are prone to a previously unknown problem, say a team of computer scientists at Google."
 publishedDateTime: 2020-11-30T18:37:00Z
-originalUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning"
-webUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning"
+originalUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning?source=techstories.org"
+webUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning?source=techstories.org"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "1RKDi0l+hKiPlZzxc6gyxA1kKa/6SLhYYTp2VR1PgG/U5MRjKRhhv+NLs7ygy+ELK+96e079wBdayNP/54mOJMP0aP2ZavxyBaxI8lkafk85L/8A1IgI3RY6DYYbCnPK05TF0hpF7g3+FOnCeyv3zJDbpf5mhGqiZ6O+04vHMp3Z/vlE0EE9IqNfcTRbZWLgRNVjUe5EaC+lH1NaRZ+7SjROYTsmJAFek8gM+E26i6rn7ervDtWC0/H/xMoKnpE5vO3bEZ3uzuLBdW+Kn7QSlCmTkNQ0BTD62aUCW5452jjJUmooR0xntLcgtK1qUm2ukB06RAN9tehMqwSqvOEgkf+w/yXszfyATIFEe+DP2ySZS3vqzXfjpZHare87OshtwsWRuSdDXbKPkC4g1qn99pRSEAwNcsI+CAIUN0FwpPd3bT92lNw1mt/NXVh+OslFyGgANdYMohRgxguFoxSIIEjSX3JlnrafMvyabZrMzvpwCE4CyoLS0pNtW9kExFX/8h97QoMsxRFq945IKD8bAA==;zYBmrfRJEuIYewc50N4gbw=="
+images:
+  - url: "https://images.ctfassets.net/cnu0m8re1exe/6UfqSOiZtRVhgZWP9BGLso/12a200885e0913624a6a3b6e89535fc7/shutterstock_671158525.jpg?w=650&h=433&fit=fill"
+    width: 650
+    height: 433
+    isCached: true
+
+secured: "VY6ijTtuiSSEQL5z+1GFB8ZU2eJKHPwm2itN/+YzhX6AjpF/1xEPAPA53IUOVpA3J1ukr6LOaR9xc3xleDQX7VX0P1mp+I4Yv+FX6ndue/cxrMiy+9tPW6IpE24o7drOZwzBtjmzoPfKRo6P0aYVFiXFekERnXRgsQyiDYJEqtEV0lBe93RpUXOzZn/jHrLGmM2cY8cp4F+5c7tLDjiyEWakrrw3XVrOzhsuKqvvTvYMqObJfdaAhyUX3D8qmI2Byy4Oa74+EVZk3XPy0HRU1kLBIii1MCBS6hAe0Z45HSr+MKVZgRftSdiLCAHfdbYB62lebZYREmCxdEfBhJpNyP/DBm9aWTDsMy22Dsm3JGM=;ZIzhdh6yYCxo6ccMLOfK/A=="
 ---
 

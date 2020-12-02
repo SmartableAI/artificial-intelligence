@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-rob
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2020/11/30/is-the-pandemic-spurring-a-robot-revolution/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Singularity Hub
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "How the pandemic enabled a robot revolution"
+    excerpt: "At several Texas health networks, a friendly-looking robot with a mechanical arm and blinking lights for eyes can be seen whirring around the hospital floor, ferrying lab samples and protective gear for nursing staff."
+    publishedDateTime: 2020-12-02T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/future-pulse/2020/12/02/how-the-pandemic-enabled-a-robot-revolution-791984"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 39
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "AI solution to a 50-year-old science challenge could 'revolutionise' medical research"
     excerpt: "Proteins form the machinery that keep all animals, plants and bacteria alive and well. Understanding the complex shapes of proteins is key to the study of life on earth as well as to tackling almost all human diseases."
     publishedDateTime: 2020-11-30T15:34:00Z

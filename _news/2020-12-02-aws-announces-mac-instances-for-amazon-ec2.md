@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Introducing the AWS Panorama Device SDK: Scaling computer vision at the edge with AWS Panorama-enabled devices"
+    excerpt: "Yesterday, at AWS re:Invent, we announced AWS Panorama, a new Appliance and Device SDK that allows organizations to bring computer vision to their on-premises cameras to make automated predictions with high accuracy and low latency. With AWS Panorama, companies can use compute power at the edge (without"
+    publishedDateTime: 2020-12-02T16:02:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-aws-panorama-device-sdk-scaling-computer-vision-at-the-edge-with-aws-panorama-enabled-devices/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/1862.jpg"
+        width: 900
+        height: 376
+        isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
     publishedDateTime: 2020-12-01T06:30:00Z

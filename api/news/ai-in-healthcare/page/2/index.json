@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-12-whats-next-for-ai-gary-marcus-talks-about-the-journey-toward-robust-artificial-intelligence.md",
+      "title": "What's next for AI: Gary Marcus talks about the journey toward robust artificial intelligence",
+      "excerpt": "Gary Marcus is one of the more prominent, and controversial, figures in AI. Going beyond his critique on Deep Learning, which is what many people know him for, Marcus puts forward a well-rounded propo",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/11/12/931ab7f6-3ca4-4467-82c1-c76b3311cbcb/gary-marcus.jpg",
+          "width": 392,
+          "height": 392,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-next-decade-in-ai-gary-marcus-four-steps-towards-robust-artificial-intelligence/",
+      "publishedDateTime": "2020-11-11T23:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2020-11-12-apps-are-now-putting-the-parole-agent-in-your-pocket.md",
       "title": "Apps Are Now Putting the Parole Agent in Your Pocket",
       "excerpt": "Instead, he suggests states provide people with social workers, therapy, and access to housing ... calls a “game of life app,” that combines remote monitoring, artificial intelligence, and biometric data from users. “One of the really critical ...",
@@ -1346,49 +1401,6 @@
         "AI in Healthcare",
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-29-google-teams-up-with-mayo-clinic-to-explore-ai-use-in-delivering-radiotherapy.md",
-      "title": "Google Teams Up With Mayo Clinic To Explore AI Use In Delivering Radiotherapy",
-      "excerpt": "subsidiary Google said Wednesday that it is collaborating with Mayo Clinic to develop an artificial intelligence tool that could help deliver radiation therapy to cancer patients. What Happened ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/general/biotech/20/10/18110028/google-teams-up-with-mayo-clinic-to-explore-ai-use-in-delivering-radiotherapy",
-      "originalUrl": "https://www.benzinga.com/general/biotech/20/10/18110028/google-teams-up-with-mayo-clinic-to-explore-ai-use-in-delivering-radiotherapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/files/images/story/2012/national-cancer-institute-ukuz15rzkic-unsplash.jpg",
-          "width": 12000,
-          "height": 8000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18110028",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18110028",
-      "publishedDateTime": "2020-10-28T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

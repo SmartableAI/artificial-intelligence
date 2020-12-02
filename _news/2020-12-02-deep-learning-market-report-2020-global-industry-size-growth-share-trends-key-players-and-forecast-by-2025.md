@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2021 Global Industry Size, Demand, Growth Analysis, Share, Revenue and Forecast 2029"
+    excerpt: "The research study on Global Artificial Intelligence in Healthcare market 2019 presents an extensive analysis of"
+    publishedDateTime: 2020-12-02T14:42:53Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2021-global-industry-size-demand-growth-analysis-share-revenue-and-forecast-2029-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global AI-Based Fever Detection Camera Market 2020 Top Key Players, Revenue, Market Share, Size, Market Dynamics and Forecast to 2027"
     excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI-based"
     publishedDateTime: 2020-12-02T13:07:00Z

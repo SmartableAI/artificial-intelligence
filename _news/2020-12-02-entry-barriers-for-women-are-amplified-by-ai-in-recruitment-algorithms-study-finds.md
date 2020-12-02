@@ -1,29 +1,31 @@
 ---
 category: news
 title: "Entry barriers for women are amplified by AI in recruitment algorithms, study finds"
-excerpt: "Research showed even basic algorithms could mimic human gender bias without accounting for the merits of a candidate. Human gender biases that"
-publishedDateTime: 2020-12-02T04:51:00Z
-originalUrl: "https://www.miragenews.com/entry-barriers-for-women-are-amplified-by-ai-in-recruitment-algorithms-study-finds/"
-webUrl: "https://www.miragenews.com/entry-barriers-for-women-are-amplified-by-ai-in-recruitment-algorithms-study-finds/"
+excerpt: "Human gender biases that limit recruitment opportunities for women are mimicked and exacerbated by artificial intelligence (AI) used for sorting resumés, according to new research."
+publishedDateTime: 2020-12-02T15:01:00Z
+originalUrl: "https://phys.org/news/2020-12-entry-barriers-women-amplified-ai.html"
+webUrl: "https://phys.org/news/2020-12-entry-barriers-women-amplified-ai.html"
+ampWebUrl: "https://phys.org/news/2020-12-entry-barriers-women-amplified-ai.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-entry-barriers-women-amplified-ai.amp"
 type: article
-quality: 33
-heat: 33
+quality: 53
+heat: 53
 published: false
 
 provider:
-  name: Armed robbery in Revesby
-  domain: miragenews.com
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://about.unimelb.edu.au/__data/assets/image/0023/186242/business-meeting.jpg"
-    width: 5472
-    height: 3648
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-businesswoman.jpg"
+    width: 1920
+    height: 1271
     isCached: true
 
-secured: "OdSfWOnn6BPP1xWpvrKuZEDv0AAeSp55Eg7oCGqvND9uIO9fzPM5tYI60EMgAK70xa2gpVwKJgVpNUc+D5BhEeK46P9agPECxsxTwm5Xbuhu5ITJfNue0SGADn8UT0P6M+RpyiRfz/Xu3l6liiBOQCA3PuUxYzuo5mYIr6GO3z46e/uFZ9NoLjTwMRjOE61tXlpWcfmTv+hVwkWJllnsdmWDkIUjPE757x8phuxPS1r9+d/OizaoiESM+t/p1FLmVwmoIFZDUG98sApRXULfe4cGrlS3acgoJ4+YI08A/rEGYcvMlGBMVHtsDtBUr8mJU7chGDIcbNravXGu4mhts3xR9HKE/Z1oeikQUIDTSk/XedhV6c0iwxrBCzOPioaHta5Qkjp1PPEN9QoIUTuASmzEC2ztHk79BsPEPrlK/c1ArRbGNiY8zjUzriQ6t6NlUUI0s9jZC92arR85j/ysm9WuYMk8JCT1j8LdInfU7O6SPfeIf6QmV6v60qQszxTcbKwr9XaqQ0IC67ZidFpvWA==;KNQIFcCjMDE0aNWumuQZhw=="
+secured: "TGWKuFz9PyLcgoq8Gj1W2/MWEAH+rzjVuO9CVK0nO6oWktJgbFdD07tgNTS/jroAZ0x9o4z6G1QDVGFqMo6FPPq2LSZPPJ2NnoEjG7BF8qkJBigd/DSqMe6yCOvKtsbzvKd8PFZgjWZAsHRNdED9K/Nrexb2LmZm6vN0C2R0i264C1XZlDZNbzuSAGmrq+8SoYqUE3rdZqmJZpbY/l4XQ7msR8eYkaZkSbdkGWSIs8H+1FbU9GwjNraH+BBENbeqyu9dqjxup8EQdaXIj5AmiRYCPheM8SK3UWips7LZhwvREoURnppdqZqPZhyaSZf0KDwhK0kWDY0Env1hDOlQAZITfSWd/goghg7vV8zQ9eM=;d5XuENIpKQ5IsbLj6JOf5w=="
 ---
 

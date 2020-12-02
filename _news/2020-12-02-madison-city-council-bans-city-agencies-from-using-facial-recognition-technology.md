@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
+    excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
+    publishedDateTime: 2020-12-02T16:11:00Z
+    webUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html"
+    ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
+        width: 939
+        height: 630
+        isCached: true
+  - title: "Facial recognition software getting better with mask wearers, says study"
+    excerpt: "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces."
+    publishedDateTime: 2020-12-02T15:01:00Z
+    webUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/"
+    ampWebUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
+    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 58
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Amazon Expands Call Center Business Technology With Voice Recognition"
     excerpt: "As Amazon sees new demand for cloud services, the company has announced voice recognition as part of its new services suite for call center businesses."
     publishedDateTime: 2020-12-01T22:32:00Z

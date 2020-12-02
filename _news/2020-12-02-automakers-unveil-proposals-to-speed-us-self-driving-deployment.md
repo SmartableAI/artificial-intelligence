@@ -2,11 +2,11 @@
 category: news
 title: "Automakers unveil proposals to speed U.S. self-driving deployment"
 excerpt: "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters."
-publishedDateTime: 2020-12-02T14:30:00Z
-originalUrl: "https://uk.reuters.com/article/autos-selfdriving/automakers-unveil-proposals-to-speed-u-s-self-driving-deployment-idUKL1N2II1C8"
-webUrl: "https://uk.reuters.com/article/autos-selfdriving/automakers-unveil-proposals-to-speed-u-s-self-driving-deployment-idUKL1N2II1C8"
-ampWebUrl: "https://uk.mobile.reuters.com/article/amp/idUKL1N2II1C8"
-cdnAmpWebUrl: "https://uk-mobile-reuters-com.cdn.ampproject.org/c/s/uk.mobile.reuters.com/article/amp/idUKL1N2II1C8"
+publishedDateTime: 2020-12-02T15:22:00Z
+originalUrl: "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8"
+webUrl: "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2II1C8"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ topics:
   - AI in Autos
   - AI
 
-secured: "AcFNhH+zH637BESm7ImEAqHbn1NH7eYaIxdkvVyBtMoYrgv2x4zW8otLEZ+9Z/mQIcIVQc1WsPyuKlKJQQr/NeFvAcjXdbuQ4qw1GRMtnEKOCzm3qGkTGkIp9IbHhrzcDmsL1NUlri9D70jq1ZCyKfydPfqZBHHgvdFoxZfyZ1bJY4Q1sGa6ab5EpM4ztKNoPNKqX7oUqgxOICZqr58GXM4MPI+Mg50oJ8CmT1Y5/WjwxYJQ5ilcTilkTaanDU91P+SfYbRhBa9syo3Xl/tslDLiZ0wr4cAQq+YGCsrPUR87jpONxn1vVDMC5VV4fHOObU+7IozGrieJV3prxjQJF95xhsvDf2C9P0xnit3q7PE=;eDcWlpz7Ueh2LNPXsaAsRQ=="
+secured: "hiZSoto7A5R4AGvbGkM4aY7Y1GQRzmYPQsNBY86IfRcrc6lDNd1NAC2GpoVTZiSMbt7adJ+KcWgW8aasJladBOJxOm/phpE3Zcvu8awaYs7GVAD9lKWufQWjdKaki7hndWLkHWLiY3BhCsZHNMLE5wzzDGqh1zTR9YPqn6fgC9au4i8mE6ApjlFspDuvDLc3gUC+5rAKjjPo7WcvSXaHGrzrpWYv0t7is+SVooIn+P7B1i3L5VkfCRdlNxKQKDR3W1VcQjyZX4ZVVFdi5+epO1aibfxd0KBOpZyRzFxQ0Ja+lWNh6nyFE+U4cTtAwsrWtF3lEB6wFjNFMmLJodEOIjE0+y/qZLK50dQiLSPAlsw=;hxZr6KgZlgq8vnSWK/v1SQ=="
 ---
 

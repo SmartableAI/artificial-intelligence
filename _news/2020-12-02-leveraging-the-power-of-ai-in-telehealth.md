@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/levera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,19 @@ images:
     height: 675
     isCached: true
 
-secured: "kA4qtGWbc4s87d7y701vNzSWTqOb8f8FwhgvQIHLPXgHA4id3hxLD42jrHhSnzaKLgTL/tmlrv+cRrRHMeMgk7dLvmPoZdhs7oUc8HYKGJu/nGnPMFnSIPBUx86nbfPDK+2e/XnDJuNq/mVMjffkdWN8gQFNOoiNqFSQ32B/PGWoQxqSD37Ws1LPsSbG22/qBSg0bo13hhAwMBJ+p9JIT2EsiKs7H1ZIFg6uvRRWx+oxOj4q3fA53WD7r4nY24GSyFVXuBG6/lPUUP1NWghXTFW8/XOJRSTVJ2JveGKr8TX1gUIW0XUQw6X2VUGNHhZH/eH/dQfVaW4X02mumqOJqM2azsoJK4s77ZI3TMzoHQc=;2sqekBAvysZJyYABKV2GPg=="
+related:
+  - title: "New Study Highlights State of Artificial Intelligence in the Healthcare Industry"
+    excerpt: "Multi-national research finds healthcare AI maturing, despite staffing and data challenges Healthcare organizations seeking to implement and extend their"
+    publishedDateTime: 2020-12-02T15:12:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18614442/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18614442"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18614442"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 49
+
+secured: "12SZAfNXlQScRz7jMXBRaCo4ye3XYznmYSFIZ3HPf9Ts8w7tloyLxjJOGnCFnHALwnJ/7ly9sEUbwsT15VrH8cE/8sG7TjCGvJY8npeqqTSOS+L8jth4QOgYleRfPUMEiyTg+07EEntO7pXZGvLwNoOeSIDyv7IbM5Z2NY00rntTZHAhq/rNVANEP9b60dRq1fukiscP/TmSbuWRNUHCHtJXULB+lOFgMF/UkH1/0GW3TXFmqWvCn8OTHkX4dNFqgLHqgGoxt0Jj2smxJrBnZHJCfFCxAA4Yi2sUJ6aqJ4MMq/QML2F1T59lskTBbkSkTcVZPoAKp1H40y3wmk+6/8g+trfvO5keMFOe+A+BEXr7SEXiTI60btPdWbNmhfnmH+61DVXrYp4S0fUy/25XCwKpha7SAqeMFGMEUmgbWetnHoFcXBeAjbNUMGAmzgbmmIKZ2S1CAfIJXmtJshdLZOolUh745Ma9KBIzmhWL+avTTz4X1DtQ5eNzKjpllu8GcK+HB+PcFqnvAoZE87dTnQ==;sFxZcvDibLsPPpPXnG2kYQ=="
 ---
 

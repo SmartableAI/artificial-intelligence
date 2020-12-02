@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2020-11-30/labor-unions-wo
 webUrl: "https://www.bloomberg.com/news/articles/2020-11-30/labor-unions-work-to-find-ways-to-bargain-with-ai-s-black-box"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Bloomberg
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "How Not To Destroy The World With AI"
+    excerpt: "While some developments in AI are enormously positive, others, such as autonomous weapons and the replacement of humans in many real-world, decision-making scenarios, may be negative. Should this be a cause for concern,"
+    publishedDateTime: 2020-11-30T08:41:00Z
+    webUrl: "https://www.kpbs.org/events/2020/dec/03/how-not-to-destroy-the-world-with-a/"
+    type: article
+    provider:
+      name: KPBS
+      domain: kpbs.org
+    quality: 39
+    images:
+      - url: "https://kpbs.media.clients.ellingtoncms.com/img/events/2020/stuartrussell.jpg"
+        width: 400
+        height: 581
+        isCached: true
 
 secured: "kRgAptgr7Ig/9Cnk2HlzlddFospCvziFKPsRQhkFQZKWXebFGvzOpFlqDagSis3eqpfBhGM4fTsHwswFDIG5HIGJ7kgDGl4GUBPRXdQGaZBq8/G4tZujjd16b5Dv29k3lV+m+1Z7tEPe52J44Dns20n2UVOqreZ2eAWB9t78Ok0WjBxOrK+IGW+HnPaXHVcg7osN08ar6Kqj45HH79vFgzLtk19SXuzZH9raQ+EBe80YC2En5/e/f72wkGRtFFoeNpBIunO+ffcoi/syrS3OOnRzUQCx6bITdnycdXKeH8hF7/fJMPh5/81pFZQtCbZ6K8xt1sX9tZ9XSiYQJKC+l1t/Slak7Kj3qLUoQB+7af0=;lCjNqLSMe9dcvpybyzn4vQ=="
 ---

@@ -19,9 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -45,6 +45,20 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/AWS-Panorama-Appliance.jpg?w=1024"
         width: 1024
         height: 535
+        isCached: true
+  - title: "Introducing the AWS Panorama Device SDK: Scaling computer vision at the edge with AWS Panorama-enabled devices"
+    excerpt: "Yesterday, at AWS re:Invent, we announced AWS Panorama, a new Appliance and Device SDK that allows organizations to bring computer vision to their on-premises cameras to make automated predictions with high accuracy and low latency. With AWS Panorama, companies can use compute power at the edge (without"
+    publishedDateTime: 2020-12-02T16:02:52Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-aws-panorama-device-sdk-scaling-computer-vision-at-the-edge-with-aws-panorama-enabled-devices/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 86
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/02/1862.jpg"
+        width: 900
+        height: 376
         isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
@@ -75,6 +89,6 @@ related:
         height: 271
         isCached: true
 
-secured: "niixTXbfn3l8APnpNVFkDu1LzOtd1OB+HRRTt973XpNV8A4fBmCkb3MUS6IRF2jCEomJZDaYkE1YfYUOztZ2rR0loB8SLLJyvf2zbxHx6SLpPlkuVo/PAiHNavHtamaQhmFinfUPV/7ENOOrxNVjmMkIIQJvLEHJwFGtlDubbVaNdB7KBrA0o5BibozgpwsG3lFIEs1F3eGFcs3VyOVAj1Wtbd/VzGeM00fd+3PbrWE6B3bupFBzBL6F96v2FkTJ/YCJsnPmL+IFtDBKOIjL2PAfsmtz9qJ2hxQH1H17HBYNjg+uwEPhGPRXnG8q4Nk+Zgpd5DUPosYa4RdRRnI6ACh+eYRhv6t9trYt2iuv000=;ccdZhtjqU8nyVY71kYVT4w=="
+secured: "0uSSJqrWPbwLb3ICt2EoUjd6eaQbJlEu9a7m0IZsMC5pUlHc2uHpLmTHguaRrBeQlhEX3OpjOpwaQjqu0YJbrF6iWd2ZG0k0reNYO43HBYT8MM169UfuXJZAf5tuciy0+HzqzELB8S5FrVVDKktKqJ996K39tEw/nmSbJjN4n7jB88cGnKCCpoekqg3sHSTyNspSSGyln2jhrmKOveXMYYNsq6GmHv9ceUh0X58At82d3N3fbQXaZWuGb9PBitt38vUpu5oXi91uvWH/OWIOxozEfBFQuQ7T/KpaH1N7rpmUAl2ueX23D4ogfIuKXWrIppSP/N94UhEgUcqWRz3JQ42kCiVcImjMyvdGJ8aq6aI=;PsjokrkZ1Twc2hmt/jSEmQ=="
 ---
 

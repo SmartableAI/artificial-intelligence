@@ -2,6 +2,462 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2020-11-08-this-ai-makes-movies-from-hundreds-of-phones-automatically.md",
+      "title": "This AI Makes Movies From Hundreds Of Phones Automatically",
+      "excerpt": "AI.” Video processing algorithms can find the region of interest in videos, IMINT says, and in the future, they’ll automatically zoom in and intelligently focus on what they’re seeing: a goal being scored at a soccer game,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa78ea1652a1b5372c5aa4f%2F0x0.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2020/11/08/this-ai-makes-movies-from-hundreds-of-phones-automatically/amp/",
+      "publishedDateTime": "2020-11-07T23:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-why-face-recognition-technologies-are-getting-thumbs-down.md",
+      "title": "Why face recognition technologies are getting thumbs down?",
+      "excerpt": "Just a few months back, IBM CEO announced that it was taking the focus off the facial recognition services. Arvind Krishnan in a letter to the US Congress wrote that 'IBM no longer offers general ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/analysis/why-face-recognition-technologies-are-getting-thumbs-down",
+      "originalUrl": "https://www.freepressjournal.in/analysis/why-face-recognition-technologies-are-getting-thumbs-down",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mc.webpcache.epapr.in/mcms.php?size=large&in=https://mcmscache.epapr.in/post_images/website_13/post_19070983/thumb.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://m.freepressjournal.in/article/analysis/why-face-recognition-technologies-are-getting-thumbs-down/013aad50-88ab-43eb-a4c9-ac33d558ae59",
+      "cdnAmpWebUrl": "https://m-freepressjournal-in.cdn.ampproject.org/c/s/m.freepressjournal.in/article/analysis/why-face-recognition-technologies-are-getting-thumbs-down/013aad50-88ab-43eb-a4c9-ac33d558ae59",
+      "publishedDateTime": "2020-11-07T16:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-hold-your-horsepower-for-mobility-industry-reality-is-sinking-in.md",
+      "title": "Hold Your Horsepower: For Mobility Industry, “Reality Is Sinking In”",
+      "excerpt": "It sounded like pretty big news, but to understand company announcements about the commercial viability of driverless cars ... But as the artificial intelligence technology underpinning them ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/detroit-ann-arbor/2018/11/08/hold-your-horsepower-for-mobility-industry-reality-is-sinking-in/",
+      "originalUrl": "https://xconomy.com/detroit-ann-arbor/2018/11/08/hold-your-horsepower-for-mobility-industry-reality-is-sinking-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2018/11/08104330/emil-jarfelt-131276-unsplash-e1541691976295.jpg",
+          "width": 1480,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-microsofts-strategy-for-finding-whats-next-in-healthcare-ai.md",
+      "title": "Microsoft’s Strategy for Finding What’s Next in Healthcare A.I.",
+      "excerpt": "Chatbots: Microsoft’s Bot Framework, including its suite of machine learning models covering speech and language processing, entity extraction, and other cognitive services, is finding ...",
+      "sourceUrl": null,
+      "webUrl": "https://xconomy.com/seattle/2017/11/08/microsofts-strategy-for-finding-whats-next-in-healthcare-a-i/",
+      "originalUrl": "https://xconomy.com/seattle/2017/11/08/microsofts-strategy-for-finding-whats-next-in-healthcare-a-i/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.xconomy.com/wordpress/wp-content/images/2017/11/06153240/peter_lee-2.jpg",
+          "width": 1241,
+          "height": 827,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Xconomy",
+        "domain": "xconomy.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech.md",
+      "title": "Nine Inch Nails at Rock Hall 2020: Watch Trent Reznor’s Induction Speech",
+      "excerpt": "Nine Inch Nails were honored tonight during the Rock & Roll Hall of Fame 2020 Induction Ceremony on HBO. After an induction speech from Iggy Pop and a video package that included words from St. Vincent,",
+      "sourceUrl": null,
+      "webUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
+      "originalUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.pitchfork.com/photos/5fa7288e043ba2867b8ec85a/2:1/w_648/trent-reznor.jpg",
+          "width": 648,
+          "height": 324,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
+      "cdnAmpWebUrl": "https://pitchfork-com.cdn.ampproject.org/c/s/pitchfork.com/news/nine-inch-nails-at-rock-hall-2020-watch-trent-reznors-induction-speech/amp/",
+      "publishedDateTime": "2020-11-07T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pitchfork",
+        "domain": "pitchfork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-08-how-the-department-of-veterans-affairs-uses-ai-to-help-vets.md",
+      "title": "How The Department Of Veterans Affairs Uses AI To Help Vets",
+      "excerpt": "With the largest integrated health care system in the country and a strong mission, the VA had tremendous potential to use AI for its mission. Dr. Gil Alterovitz shares the AI experience at the VA and how it's impacting the agency.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa6da8d7d7e38d5bf5f0e92%2F0x0.jpg",
+          "width": 586,
+          "height": 584,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2020/11/07/how-the-department-of-veterans-affairs-uses-ai-to-help-vets/amp/",
+      "publishedDateTime": "2020-11-07T10:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-estimating-the-carbon-footprint-of-deep-learning-algorithms.md",
+      "title": "Estimating the carbon footprint of deep learning algorithms",
+      "excerpt": "According to their estimates, hardware used to train a deep learning algorithm can use worrying amounts of energy from an environmental standpoint. Whether browsing movies suggested by Netflix ...",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms",
+      "originalUrl": "https://technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technology.inquirer.net/files/2020/11/istock_507378942.23add102050.w768-470x313.jpg",
+          "width": 470,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/105438/estimating-the-carbon-footprint-of-deep-learning-algorithms/amp",
+      "publishedDateTime": "2020-11-07T06:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-remote-testing-monitored-by-ai-is-failing-the-students-forced-to-undergo-it.md",
+      "title": "Remote testing monitored by AI is failing the students forced to undergo it",
+      "excerpt": "While automated proctoring might seem like a panacea in this age of virtual schooling, it’s a terrible solution for millions of students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+      "originalUrl": "https://www.nbcnews.com/think/opinion/remote-testing-monitored-ai-failing-students-forced-undergo-it-ncna1246769",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2020_45/3426603/201106-standardized-test-bubbles-jm-1744_c97a4fdf84e74f6c398cbb518f464821.jpg",
+          "width": 1483,
+          "height": 989,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/think/amp/ncna1246769",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/think/amp/ncna1246769",
+      "publishedDateTime": "2020-11-07T01:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-millennial-indian-parents-consider-adoption-of-robot-nanny-survey.md",
+      "title": "Millennial Indian Parents Consider Adoption Of Robot Nanny: Survey",
+      "excerpt": "More than three-quarters of parents in India agree that having a robot nanny to help their children do their homework would alleviate a significant amount of their COVID-19-related stress",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/article/359227",
+      "originalUrl": "https://www.entrepreneur.com/article/359227",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1604739640-pexels-alex-knight-2599244.jpg?width=600&crop=16:9",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.entrepreneur.com/amphtml/359227",
+      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/amphtml/359227",
+      "publishedDateTime": "2020-11-07T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-07-the-ethics-behind-driverless-cars.md",
+      "title": "The Ethics Behind Driverless Cars",
+      "excerpt": "Despite the optimism behind driverless cars ... that's exactly what we're doing when we're creating robots and artificial intelligence. They're taking over human roles, from being our chauffeur ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2015/11/07/455120110/the-ethics-behind-driverless-cars",
+      "originalUrl": "https://www.npr.org/2015/11/07/455120110/the-ethics-behind-driverless-cars",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/include/images/facebook-default-wide.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-07T00:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2020-11-07-our-platform-is-siri-for-employees-leena-ai-ceo.md",
       "title": "'Our Platform Is Siri For Employees': Leena AI CEO",
       "excerpt": "The startup earlier this week raised $8 million in Series A round led by Greycroft to expand the startup’s go-to-market programmes and accelerate product development",
@@ -729,480 +1185,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-driverless-car-startup-ponyai-valued-at-53b-with-series-c-round.md",
-      "title": "Driverless Car Startup Pony.ai Valued At $5.3B With Series C Round",
-      "excerpt": "Driverless car developer Pony.ai is now valued around $5.3 billion, thanks to a recent Series C funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "originalUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/pony.ai-funding-round-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/news/investment-tracker/2020/driverless-car-startup-pony-ai-series-c-round/amp/",
-      "publishedDateTime": "2020-11-06T10:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal.md",
-      "title": "Canada's Telus to acquire Lionbridge AI in $919 million deal",
-      "excerpt": "Canadian telecoms company Telus Corp <T.TO> said on Friday its unit Telus International would buy data services provider Lionbridge AI in a C$1.2 billion ($918.55 million) deal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
-      "originalUrl": "https://www.reuters.com/article/us-lionbridge-ai-m-a-telus/canadas-telus-to-acquire-lionbridge-ai-in-919-million-deal-idUSKBN27M1LU",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27M1LU",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27M1LU",
-      "publishedDateTime": "2020-11-06T09:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-ai-accurately-detects-radiographic-sacroiliitis-in-axial-spondyloarthritis.md",
-      "title": "AI accurately detects radiographic sacroiliitis in axial spondyloarthritis",
-      "excerpt": "called an artificial neural network, enables accurate detection of definite radiographic sacroiliitis in people with axial spondyloarthritis, an advance that could be useful for both diagnosis in ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.html",
-      "originalUrl": "https://medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/spinalxray.jpg",
-          "width": 1440,
-          "height": 1920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-11-ai-accurately-radiographic-sacroiliitis-axial.amp",
-      "publishedDateTime": "2020-11-06T08:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic.md",
-      "title": "MIT AI analysis of Reddit shows anxiety levels are sky-high since pandemic",
-      "excerpt": "The first wave of COVID-19 increased discussions about anxiety and suicide on Reddit, according to a new study by MIT and Harvard University researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-06T114952.180-796x417.png",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/06/mit-ai-analysis-of-reddit-shows-anxiety-levels-are-sky-high-since-pandemic/amp/",
-      "publishedDateTime": "2020-11-06T08:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human.md",
-      "title": "Pope's November prayer intention is for progress in robotics, AI to \"be human\"",
-      "excerpt": "Francis emphasizes that such progress needs to be oriented towards respecting the dignity of the person and of Creation",
-      "sourceUrl": null,
-      "webUrl": "https://international.la-croix.com/news/religion/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human/13302",
-      "originalUrl": "https://international.la-croix.com/news/religion/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human/13302",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://international.la-croix.com/uploads/news/2020/11/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human-13302-99.jpeg",
-          "width": 550,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://international.la-croix.com/amp/religion/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human/13302",
-      "cdnAmpWebUrl": "https://international-la--croix-com.cdn.ampproject.org/c/s/international.la-croix.com/amp/religion/popes-november-prayer-intention-is-for-progress-in-robotics-ai-to-be-human/13302",
-      "publishedDateTime": "2020-11-06T08:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "globalpulsemagazine.com",
-        "domain": "la-croix.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-07-how-can-we-balance-progress-and-privacy-with-machine-learning.md",
-      "title": "How Can We Balance Progress And Privacy With Machine Learning?",
-      "excerpt": "It’s helpful to shift this conversation from AI as a whole to the more specific domain of machine learning (ML), and how we can harness its advantages and minimize its drawbacks. Machine Learning is a subset of AI that describes how computer algorithms get better at solving their domain specific problems by leveraging large data sets with which to train themselves.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f89f505db3eef289c346955%2F0x0.jpg%3FcropX1%3D580%26cropX2%3D6399%26cropY1%3D0%26cropY2%3D3600",
-          "width": 1199,
-          "height": 742,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/06/how-can-we-balance-progress-and-privacy-with-machine-learning/amp/",
-      "publishedDateTime": "2020-11-06T08:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-an-ai-robot-wrote-my-term-paper.md",
-      "title": "An AI Robot Wrote My Term Paper",
-      "excerpt": "As personal computers and search engines have become ubiquitous, and AI and ML have risen in prominence, the idea of having a computer find the excerpts and actually write an essay, is no longer science fiction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
-      "originalUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa46a48a9ca8d255a37c8bd%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/timbajarin/2020/11/06/an-ai-robot-wrote-my-term-paper/amp/",
-      "publishedDateTime": "2020-11-06T07:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-most-health-execs-expect-widespread-implementation-of-ai-in-the-next-5-years.md",
-      "title": "Most health execs expect widespread implementation of AI in the next 5 years",
-      "excerpt": "Ninety-percent of US health IT execs expect AI solutions to be well integrated into the US healthcare system in the next five years",
-      "sourceUrl": null,
-      "webUrl": "https://www.beckershospitalreview.com/artificial-intelligence/90-of-health-it-execs-expect-widespread-ai-implementation-in-next-5-years.html?utm_source=Triggermail&utm_medium=email&utm_campaign=Post Blast bii-digital-health: Health IT leaders are bullish on AI | Microsoft rolls out Cloud for Healthcare | Unite Us%2C Nebraska HIE tackle social determinants&utm_term=BII List Digital Health ALL",
-      "originalUrl": "https://www.businessinsider.com/health-it-leaders-bullish-on-ai-implementation-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.beckershospitalreview.com/images/channels/artificial-intelligence/2.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T07:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-america-enters-the-era-of-technopolitik.md",
-      "title": "America Enters the Era of Technopolitik",
-      "excerpt": "The U.S. has long relied on a geographic network of friends, but the future of multilateralism looks very different.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "originalUrl": "https://www.bloomberg.com/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iExXFozC.O3o/v1/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/opinion/articles/2020-11-06/u-s-needs-australia-sweden-south-korea-to-beat-china-in-ai-battle",
-      "publishedDateTime": "2020-11-06T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-06-ai-accurately-detects-radiographic-sacroiliitis-in-axial-spondyloarthritis.md",
-      "title": "AI accurately detects radiographic sacroiliitis in axial spondyloarthritis",
-      "excerpt": "This study set out to develop and validate an artificial neural network model that uses AI technology to detect definite radiographic sacroiliitis as a manifestation of AxSpA. \"Conventional X-ray ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/acor-aad110520.php",
-      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/acor-aad110520.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-06T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

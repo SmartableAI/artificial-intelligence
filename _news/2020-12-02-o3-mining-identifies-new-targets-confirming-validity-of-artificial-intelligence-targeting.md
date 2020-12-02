@@ -1,28 +1,32 @@
 ---
 category: news
 title: "O3 Mining Identifies New Targets Confirming Validity of Artificial Intelligence Targeting"
-excerpt: "PRNewswire/ - O3 Mining Inc. (TSXV: OIII) (\"O3 Mining\" or the \"Corporation\") is pleased to provide results from its completed summer channel sampling"
+excerpt: "O3 Mining Inc. (TSXV: OIII) (\"O3 Mining\" or the \"Corporation\") is pleased to provide results from its completed summer channe"
 publishedDateTime: 2020-12-02T10:00:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-301183420.html"
-webUrl: "https://www.prnewswire.com/news-releases/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-301183420.html"
+originalUrl: "https://markets.businessinsider.com/news/stocks/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-1029856763"
+webUrl: "https://markets.businessinsider.com/news/stocks/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-1029856763"
 type: article
-quality: 28
-heat: 28
+quality: 58
+heat: 58
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1346615/O3_Mining_Inc__O3_Mining_Identifies_New_Targets_Confirming_Valid.jpg?p=publish&w=950"
-    width: 800
-    height: 518
+  - url: "https://mma.prnewswire.com/media/1346615/O3_Mining_Inc__O3_Mining_Identifies_New_Targets_Confirming_Valid.jpg"
+    width: 400
+    height: 259
     isCached: true
 
-secured: "N3swwU9selFUFaDSyrrQBSa8ls0IKYLJISSxh5Eo5eyQxGOjO7jeh7KwfMQgGtF6KexP699wXJHvmvgLGllxqkIiUUgoIW5w+ZIhVjy87I1rrKnGN7g+9v8WwIpf8kA3NaHVOEKDBdgQdAUk9TRZNpZyFBHQDlBCu3J/Fns25pfwU2nH8FU0jKnn7XeHpyi6VJzSDz5w0bhMqUP+mENVnzBIchzWyDlJb/8j6KFiOF8TUlPyEd/e6hQQ/Wc4FluTiK3ICivF86O/GQOSPEp7eRX/Pzo2lmT44CzvvfrWePugxQVAz5+dlhW9pThRoU3aWWmDtesBGXIh7D9kvfwk5NF3I/ruf7xDmccgaKH691QD/qVLwZiviKQeWt2jWX3U4WijiNKd7dJqHr7TCAHa4KcHpIZhADNH9cfAI9UGPb5BT+0rYwQzZGAY7WiahETXk7L9Mz8mI90b0CDwxTa8TnH8PgCOgodA1yLY0PvPiUnyXi9/P3iAkQziem+lFpzgN8TqnGgl7Eb3mYx++Y9Xow==;v5nXNgJ5Tb1+Xzt1sRsHqw=="
+secured: "IEQ8VQuVNlSPuUm1QGUET+NFtelwNBaBPyNTAD+nMvjjiVpiIr6+C3Cb3kvoGjkp5TnkL5SL9N5k2pXHLHY7653Pq1vrQ9hJ/Rk+foLPhmglOC/5oim8jaOMSyvnj2BYFcPSyZ3QDkSYaodduUb/m4wFcCO5kgmsOPP5dSoDV19var2lEt2kD/wGbqgBiXB1IGlUFsgoDYjXatKEPz+Dtkh5xTY9OsZISjxXbOiPYZxhz8mzkLDJIopJ+AiclWI29JkNvtEu56TcBVWza+bVAaIB2csVkl7M+aXIPMgahnb/u6nsZudqoIreTFM4mK4RC+i9ogg25v7Kdsup6R3yHC5BQtmAgIZ2XdkfIVrIXb8=;qJzupGrkowpDCTnSDdM1QA=="
 ---
 

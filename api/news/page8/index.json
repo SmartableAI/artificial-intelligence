@@ -2,6 +2,322 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-25-coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative.md",
+      "title": "Coding Dojo Chosen by Microsoft as a Microsoft Azure Training Partner for Global Digital Skills Initiative",
+      "excerpt": "Coding Dojo, a leading technology education company, announces today it is working with Microsoft to proliferate Microsoft Azure certifications in the workforce. The collaboration will increase the amount of job-ready Azure developers by integrating Microsoft Learn tracks into the Coding Dojo curriculum,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/coding-dojo-chosen-by-microsoft-as-a-microsoft-azure-training-partner-for-global-digital-skills-initiative-1029834412",
+      "publishedDateTime": "2020-11-24T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-25-googles-ai-powered-poetry-generator-has-some-cryptic-wisdom-maybe.md",
+      "title": "Google's AI-Powered Poetry Generator Has Some Cryptic Wisdom, Maybe",
+      "excerpt": "I know nothing about poetry, but I’m pretty sure Verse by Verse—Google’s new AI-powered poetry generator—is phoning it in.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/googles-ai-powered-poetry-generator-has-some-cryptic-wi-1845748445",
+      "originalUrl": "https://gizmodo.com/googles-ai-powered-poetry-generator-has-some-cryptic-wi-1845748445",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/zigmmy4jmb4obhbt7t0a.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/googles-ai-powered-poetry-generator-has-some-cryptic-wi-1845748445/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/googles-ai-powered-poetry-generator-has-some-cryptic-wi-1845748445/amp",
+      "publishedDateTime": "2020-11-24T10:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-admed-unlocks-answers-to-health-questions-with-watson-assistant.md",
+      "title": "AdMed unlocks answers to health questions with Watson Assistant",
+      "excerpt": "It can be challenging to communicate accurate scientific information, especially in times where the COVID-19 pandemic is by far the most searched topic on Google, impacting everything from our news to the economy. Having so much information available also leads to the rapid spread of all sorts of misinformation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/admed-unlocks-answers-to-health-questions-with-watson-assistant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/Watson_Blog_Healthcare_Leadspace-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T10:20:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market.md",
+      "title": "Resgreen Group Brings Affordable and Effective Disinfecting Robot to Market",
+      "excerpt": "PRNewswire/ -- Resgreen Group (RGGI) today launched sales of its industry-changing Wanda SD, a cost-effective robot that uses Ultraviolet-C (UVC) lights to sanitize everything from schools and offices to hotels and airplanes.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/resgreen-group-brings-affordable-and-effective-disinfecting-robot-to-market-1029835247",
+      "publishedDateTime": "2020-11-24T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers.md",
+      "title": "The ethical use of AI will help businesses when engaging with customers",
+      "excerpt": "Dries Cronje, CEO if Deep Learning Café, says that ethics will play a critical role as more businesses leverage AI in order to tap into customer trends.",
+      "sourceUrl": null,
+      "webUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
+      "originalUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.htxt.co.za/wp-content/uploads/2020/11/alexander-sinn-KgLtFCgfC28-unsplash.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
+      "cdnAmpWebUrl": "https://www-htxt-co-za.cdn.ampproject.org/c/s/www.htxt.co.za/2020/11/24/the-ethical-use-of-ai-will-help-businesses-when-engaging-with-customers/amp/",
+      "publishedDateTime": "2020-11-24T06:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Htxt.Africa",
+        "domain": "htxt.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company.md",
+      "title": "Mercado Libre Selects AWS as Its Primary Cloud Provider to Accelerate Growth and Transformation into a Data-Driven Company",
+      "excerpt": "Tax Planning Personal Finance Save for College Save for Retirement Invest in Retirement Research Mutual Funds Stocks ETFs Bonds Best Investments",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20201124005282/mercado-libre-selects-aws-as-its-primary-cloud-provider-to-accelerate-growth-and-transformation-into-a-data-driven-company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs.md",
+      "title": "AI that directs drones to film ‘exciting’ shots could lower video production costs",
+      "excerpt": "Researchers at Facebook, Carnegie Mellon, and the University of Sao Paulo propose an AI framework for drone videography.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "originalUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/24f6fcb9-2778-4c44-a265-cff1d99931e7-e1606169815359.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/24/ai-that-directs-drones-to-film-exciting-shots-could-lower-video-production-costs/amp/",
+      "publishedDateTime": "2020-11-24T06:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-apples-ml-compute-framework-accelerates-tensorflow-training.md",
       "title": "Apple's ML Compute Framework Accelerates TensorFlow Training",
       "excerpt": "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,",
@@ -816,349 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-recent-trends-in-global-mobile-speech-recognition-software-market-to-expand-with-covid-19-impact-2020-2026.md",
-      "title": "Recent Trends In Global Mobile Speech Recognition Software Market - To Expand With Covid-19 Impact [2020-2026]",
-      "excerpt": "Global Mobile Speech Recognition Software Market report provides a crucial document of Technology and Media for the industry players to understand competitive Mobile Speech Recognition Software market scenario.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/recent-trends-in-global-mobile-speech-recognition-software-market---to-expand-with-covid-19-impact-2020-2026-2020-11-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T21:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-softbank-led-round-values-uber-like-truck-startup-at-12-billion.md",
-      "title": "SoftBank-Led Round Values Uber-Like Truck Startup at $12 Billion",
-      "excerpt": "known as Manbang in Chinese, said Tuesday it broke even this year and currently handles transactions for some 10 million truckers and 5 million shippers. It’s also expanding into automotive technology and backs autonomous trucking startup Plus.AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "originalUrl": "https://www.bloomberg.com/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZmQLXcawPmM/v0/360x-1.jpg",
-          "width": 360,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-11-24/softbank-led-round-values-uber-like-truck-startup-at-12-billion",
-      "publishedDateTime": "2020-11-23T20:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge.md",
-      "title": "GrAI Matter Labs Raises $14M to Bring Fastest AI per Watt to Every Device on the Edge",
-      "excerpt": "Press Release GrAI Matter Labs, a pioneer of brain inspired ultra-low latency computing, today announced its latest financing round of $14 million. The round was led by iBionext, joined by all existing investors and newly welcomed Bpifrance through the Future",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/",
-      "originalUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/23/grai-matter-labs-raises-14m-to-bring-fastest-ai-per-watt-to-every-device-on-the-edge/amp/",
-      "publishedDateTime": "2020-11-23T19:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-houston-airports-add-facial-recognition-tech-to-arrival-process.md",
-      "title": "Houston Airports Add Facial Recognition Tech to Arrival Process",
-      "excerpt": "The new process requires international passengers to pause for a photo at the primary inspection point when they first arrive. The goal is to create a completely touchless experience amid the ongoing COVID-19 pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "originalUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.govtech.com/images/shutterstock_530657836.jpg",
-          "width": 940,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Houston-Airports-Add-Facial-Recognition-Tech-to-Arrival-Process.html?AMP",
-      "publishedDateTime": "2020-11-23T15:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help.md",
-      "title": "We should hold animals accountable for their crimes. Here’s how AI can help",
-      "excerpt": "Two park rangers hiding behind a tree pointing a camera at a bear in the distance so they can use facial recognition software to determine if they’ve actually found the infamous picnic-basket-snatching ursus known as Yogi.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/",
-      "originalUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/wantedposter_animals-796x417.jpg",
-          "width": 796,
-          "height": 417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/amp/",
-      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/23/we-should-hold-animals-accountable-for-their-crimes-heres-how-ai-can-help/amp/",
-      "publishedDateTime": "2020-11-23T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-a-company-called-pactum-shows-the-power-of-artificial-intelligences-impact-on-walmart-and-all-retail.md",
-      "title": "A Company Called Pactum Shows The Power Of Artificial Intelligence’s Impact On Walmart And All Retail",
-      "excerpt": "Retail is big and that makes it an ideal testing ground for artificial intelligence. What's being deployed in Walmart now from Pactum is a window into where artificial intelligence is going.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/a-company-called-pactum-shows-the-power-of-artificial-intelligences-impact-on-walmart-and-all-retail/",
-      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/a-company-called-pactum-shows-the-power-of-artificial-intelligences-impact-on-walmart-and-all-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9d5d18abba8a5b0f2b474%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/a-company-called-pactum-shows-the-power-of-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2020/11/23/a-company-called-pactum-shows-the-power-of-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
-      "publishedDateTime": "2020-11-23T14:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-do-you-have-a-conflict-of-interest-this-robotic-assistant-may-find-it-first.md",
-      "title": "Do You Have a Conflict of Interest? This Robotic Assistant May Find It First",
-      "excerpt": "They can’t detect all conflicts, but new computer programs serve as guard rails when scientists and publishers fail to self-police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/24/science/24SCI-CONFLICTSCOLOR/24SCI-CONFLICTSCOLOR-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/23/science/conflict-of-interest-ai.amp.html",
-      "publishedDateTime": "2020-11-23T13:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

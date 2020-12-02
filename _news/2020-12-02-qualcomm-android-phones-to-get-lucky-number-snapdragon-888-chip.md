@@ -9,8 +9,8 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-55150532"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55150532"
 type: article
 quality: 89
-heat: 139
-published: true
+heat: -1
+published: false
 
 provider:
   name: BBC
@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse"
+    excerpt: "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging."
+    publishedDateTime: 2020-12-02T15:04:00Z
+    webUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/"
+    ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Snapdragon 888: A Rundown of Qualcomm's Next Big Mobile Chip"
+    excerpt: "While the chip won't be available in retail devices until early next year, here's an overview of what Qualcomm has upgraded on the Snapdragon 888 SoC."
+    publishedDateTime: 2020-12-02T15:12:00Z
+    webUrl: "https://gizmodo.com/snapdragon-888-a-rundown-of-qualcomms-next-big-mobile-1845786158"
+    ampWebUrl: "https://gizmodo.com/snapdragon-888-a-rundown-of-qualcomms-next-big-mobile-1845786158/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/snapdragon-888-a-rundown-of-qualcomms-next-big-mobile-1845786158/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 89
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qofioxuanmoiejqttvxa.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Qualcomm’s new Snapdragon 888 promises faster speeds, better cameras, and more powerful AI"
+    excerpt: "Qualcomm teased the Snapdragon 888, its latest 5G-equipped flagship smartphone processor, on the first day of its Snapdragon Tech Summit. But at the day two keynote, the company provided all of the details on the new chipset,"
+    publishedDateTime: 2020-12-02T15:00:00Z
+    webUrl: "https://www.theverge.com/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
+    ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
+    cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 77
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/TpWLQ0WfVJpHxIpJvUY7XXRR4MU=/0x0:9504x6336/1400x933/filters:focal(3992x2408:5512x3928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg"
+        width: 1400
+        height: 933
+        isCached: true
   - title: "Qualcomm introduces Snapdragon 888 chip with next-gen AI, 5G, and graphics"
     excerpt: "Qualcomm’s next flagship processor will be the Snapdragon 888 system-on-a-chip (SoC), a processor featuring Qualcomm’s 6th-gen AI engine, next-gen Adreno graphics, and a Snapdragon X60 5G modem. This time the modem is integrated into the SoC,"
     publishedDateTime: 2020-12-01T14:13:00Z
@@ -93,19 +141,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Chinese Phonemakers Rush to Feature Qualcomm’s Newest 5G Chip in Next Releases"
-    excerpt: "Qualcomm’s latest high-end chip for Android handsets, the Snapdragon 888 with an integrated fifth-generation wireless modem, will power devices made by China's Xiaomi, OnePlus Technology, ZTE, and Vivo Communication Technology."
-    publishedDateTime: 2020-12-02T05:56:00Z
-    webUrl: "https://www.yicaiglobal.com/news/chinese-phonemakers-rush-to-feature-qualcomm-newest-5g-chip-in-next-releases-"
+  - title: "Qualcomm’s Snapdragon 888 Provides Huge Leap to Smartphone Photography Capabilities"
+    excerpt: "Qualcomm today announced the Snapdragon 888, what the company says is the biggest architectural leap forward in AI. The Snapdragon 888 promises a plethora"
+    publishedDateTime: 2020-12-02T15:31:00Z
+    webUrl: "https://petapixel.com/2020/12/02/qualcomms-snapdragon-888-provides-huge-leap-to-smartphone-photography-capabilities/"
     type: article
     provider:
-      name: Yicai Global
-      domain: yicaiglobal.com
-    quality: 35
+      name: PetaPixel
+      domain: petapixel.com
+    quality: 18
     images:
-      - url: "http://img.yicaiglobal.com/cdn/news/chinese-phonemakers-rush-to-feature-qualcomm-newest-5g-chip-in-next-releases-/9699404388499456.jpg"
-        width: 720
-        height: 480
+      - url: "https://petapixel.com/assets/uploads/2020/12/Qualcomms-Snapdragon-888-Promises-Huge-Leap-in-Photography-Capabilities.jpg"
+        width: 1600
+        height: 840
         isCached: true
 
 secured: "Li2GqeOMnJjjXVnI39uBLwHIMGxTGpqFy5HP9bzJQq+B8w3d45moZhQKThsWV4DArN7nIaBrRo2LisCwn/zy0JdtJkF6l1NBD39fAkyYR3TI8iUB0iOzrQeYfM+z29VJrcjsnhoxXkMZOnBEjVPmfLnFUqz+p/uB1NKkys5Rz2C7V4LsDNv+j0S6s5oNBuW+/ErAkXFqIpVyaERFI1XQVRxdgq9XLBSJJ1sFknJbHoCA0LXrthYqwQtfkHutw1UHO9mV5Bz4QaIA769tIRAPiLBzSscW1lJX4Uut2A0iPnGTkewGmKUCbBX7CEQS2xRtb/nk9oS118hJ0T9D9VNCTAcEFB7NIbPMmMdwPiKh7LY=;fKLKkl2uoQIMt7FeM3sU3g=="

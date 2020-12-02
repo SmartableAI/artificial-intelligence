@@ -2,9 +2,9 @@
 category: news
 title: "DeepMind AI cracks 50-year-old problem of protein folding"
 excerpt: "Program solves scientific problem in ‘stunning advance’ for understanding machinery of life"
-publishedDateTime: 2020-11-30T16:23:00Z
-originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
-webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
+publishedDateTime: 2020-11-30T17:41:00Z
+originalUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?dm_i=53XH,ANSZ,9XUJ3,17JR6,1"
+webUrl: "https://www.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research?dm_i=53XH,ANSZ,9XUJ3,17JR6,1"
 ampWebUrl: "https://amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2020/nov/30/deepmind-ai-cracks-50-year-old-problem-of-biology-research"
 type: article
@@ -21,8 +21,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/509cd5c3d7e66829a6cf90a7ef1f11cb3d06203a/0_78_1760_1056/master/1760.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0dc1d5923b1628c37cb78376e40a2ca6"
@@ -475,6 +475,6 @@ related:
         height: 720
         isCached: true
 
-secured: "nRVPZPG1lsGyAkqDJKby4mibSDDV51YjnAGo44rF1xKck4dKi0YidcHa4Vt4vactc+TsuqR3deX4bG/913bmZAp6kqTO6IGaeQSZKV7jhXdEyZWNoMYgtEu7I19oXnDwhyolXLoJOTGPq1BRT3YXqOQci6UGu3m02KrHgMGUp/Jx/Fhrsi0xY7z6Z45Z8WrbSGDF49Y6VSQmiP4sAWkhymHqfsifK6hqiMdDkREbqKozbFiT4u1XnSo7H+vhSzCbrpIuo8OMiWIJQFzLAEsypxFzjCZKGyqJ1a4M4NsEE8BJyc56pSgpDR6QtYkLoAvIkTuo55Gorw3ITE8tupCnFMWKMTcZv5xNq6Tnhl97XSRiPcJ+agECr54wXm5jqh5xhcvHhWtFhjyDKLB//kRXzJvraGXHLGvODtwpBD45OTkXGRrT4iTkYtk/ppoXJICPgs0EPDA49lTyjDyyxwAdCIGlmcmukW/farYEF+v/4CGkPfLDXPmtgK1v2f40TaR2xDTX65sn2rx/ohWtBEe6jQ==;UKcCat66P88XLmAFZqlcyA=="
+secured: "6yqWrFqi44PjsnaJV18/SOu/BAlqLcsEISr6luhJDGZMrDyvo8xKWzMEY6guGzCmnHkzJ0n0W+PzPo66gZiiwlaVwfMFbjF1NOKQfLav+1Y0KXCpRMjguH+sizETaB2eSYWYSqInt9vo1hi6ZKImiVHwcp6Wik394C95ydqBID1R9tdKTcJicIfH9/cWqyA1+eBBJMCYXsoMP9zP40h8Qw3oyt1acMydWyDxZvdoik1OW247PkX2FH+wbBH9DHZcl7gM59hMvwVakbsJpRafpJN0XPmpvyXUwPwK66OvjCpB+hatR2hZ8zmdrtZ/Y3LI3qGVemWKr1CbSoiVnA4aza3wmChXIKpWK6cNQ/uTrAo=;sEHoEqs8J4I1m4WlBYQCFg=="
 ---
 
