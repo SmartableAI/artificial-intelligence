@@ -2,6 +2,144 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2020-11-04-nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point.md",
+      "title": "NVIDIA Jetson Nano 2GB Brings Machine Learning Power To A Raspberry Pi Price Point",
+      "excerpt": "At just $59 at retailers like Amazon, Jetson Nano brings NVIDIA’s custom hybrid Arm core CPU and Maxwell GPU technologies down to a Raspberry Pi 4 price point that will be that much more accessible to academia,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa19f6ab1b1b304006898b3%2F0x0.jpg",
+          "width": 1000,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2020/11/03/nvidia-jetson-nano-2gb-brings-machine-learning-power-to-a-raspberry-pi-price-point/amp/",
+      "publishedDateTime": "2020-11-03T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-google-wins-new-patent-that-would-sport-automatic-object-recognition-in-videos.md",
+      "title": "Google wins new patent that would sport automatic object recognition in videos",
+      "excerpt": "Google have previously taken out a patent that would see the Mountain View-based company capable of identifying faces in YouTube videos, but now they've gone a step further by securing a patent ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/2/5/25565_02_google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos.jpg",
+          "width": 600,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/25565/google_wins_new_patent_that_would_sport_automatic_object_recognition_in_videos/amp.html",
+      "publishedDateTime": "2020-11-03T10:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-04-google-acquires-deepmind-an-ai-development-company-for-400-million.md",
+      "title": "Google acquires Deepmind, an AI development company for $400 million",
+      "excerpt": "Google has reportedly purchased Deepmind, a company specializing in Artificial Intelligence based out of London, England. The purchase is worth a reported $400 million USD, although that figure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/3/5/35093_1_google_acquires_deepmind_an_ai_development_company_for_400_million_full.jpg",
+          "width": 800,
+          "height": 590,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
+      "cdnAmpWebUrl": "https://www-tweaktown-com.cdn.ampproject.org/c/s/www.tweaktown.com/news/35093/google-acquires-deepmind-an-ai-development-company-for-400-million/amp.html",
+      "publishedDateTime": "2020-11-03T10:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-04-artificial-intelligence-creates-a-bad-christmas-song.md",
       "title": "Artificial intelligence creates a (bad) Christmas song",
       "excerpt": "The \"neural karaoke\" project from the University of Toronto is a demonstration of what artificial intelligence ... day be able to drive around in her self-driving car while she schedules an ...",
@@ -1044,135 +1182,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-ai-godfather-geoff-hinton-deep-learning-is-going-to-be-able-to-do-everything.md",
-      "title": "AI godfather Geoff Hinton: “Deep learning is going to be able to do everything”",
-      "excerpt": "There’s going to have to be quite a few conceptual breakthroughs...we also need a massive increase in scale.\" On neural networks’ weaknesses: \"Neural nets are surprisingly good at dealing with a rather small amount of data,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "originalUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2020/11/AP_384463506721-e1604359379321.jpg?w=3000",
-          "width": 3000,
-          "height": 1687,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/11/03/1011616/ai-godfather-geoffrey-hinton-deep-learning-will-do-everything/amp/",
-      "publishedDateTime": "2020-11-03T02:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-walmart-drops-plans-to-use-robots-for-tracking-inventory.md",
-      "title": "Walmart drops plans to use robots for tracking inventory",
-      "excerpt": "US company Walmart Inc said on Nov 2 that it has dropped its plans to use roving robots to scan shelves and keep track of inventory, squashing the world's largest retailer's years-long efforts to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/03/walmart-drops-plans-to-use-robots-for-tracking-inventory",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2020/11/03/walmart-drops-plans-to-use-robots-for-tracking-inventory",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2020/11/03/923013.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-03T00:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-03-nvidia-geforce-rtx-3080-review-the-best-gpu-for-4k-gaming.md",
-      "title": "NVIDIA GeForce RTX 3080 review: The best GPU for 4K gaming",
-      "excerpt": "The launch of a new GPU is always an exciting time ... and third-gen Tensor cores that offer sizable gains in AI-based tasks. Ampere delivers massive gains over Turing, with NVIDIA making a lot of changes under the hood. With Turing, NVIDIA enabled ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/nvidia-geforce-rtx-3080-review",
-      "originalUrl": "https://www.windowscentral.com/nvidia-geforce-rtx-3080-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/10/nvidia-geforce-rtx-3080-20.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.windowscentral.com/nvidia-geforce-rtx-3080-review?amp",
-      "cdnAmpWebUrl": "https://www-windowscentral-com.cdn.ampproject.org/c/s/www.windowscentral.com/nvidia-geforce-rtx-3080-review?amp",
-      "publishedDateTime": "2020-11-03T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

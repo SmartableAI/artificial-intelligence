@@ -2,6 +2,153 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2020-10-15-microsoft-says-its-ai-can-describe-images-as-well-as-people-do.md",
+      "title": "Microsoft says its AI can describe images 'as well as people do'",
+      "excerpt": "In 2016, Google said its artificial intelligence could caption images almost as well as humans, with 94 percent accuracy. Now Microsoft says it’s gone even further: Its researchers have built an AI system that’s even more accurate than humans — so much so that it now sits at the top of the leaderboard for the nocaps image captioning benchmark .",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "originalUrl": "https://www.engadget.com/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-10%2F433d7370-0e2d-11eb-bbcd-ab2a0273c3f2&client=amp-blogside-v2&signature=dbd9fffaae827c8ebdd2c9403d7d67468fc636d2",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/microsoft-azure-ai-image-captions-humans-150040200.html",
+      "publishedDateTime": "2020-10-15T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-a-practical-guide-to-building-ethical-ai.md",
+      "title": "A Practical Guide to Building Ethical AI",
+      "excerpt": "In this environment, data and AI ethics are business necessities, not academic curiosities. Companies need a clear plan to deal with the ethical quandaries this new tech is introducing.",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai",
+      "originalUrl": "https://hbr.org/2020/10/a-practical-guide-to-building-ethical-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hbr.org/resources/images/article_assets/2020/10/Oct20_15_1164825388.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
+      "cdnAmpWebUrl": "https://hbr-org.cdn.ampproject.org/c/s/hbr.org/amp/2020/10/a-practical-guide-to-building-ethical-ai",
+      "publishedDateTime": "2020-10-15T08:30:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-15-machine-learning-uncovers-potential-new-tb-drugs.md",
+      "title": "Machine learning uncovers potential new TB drugs",
+      "excerpt": "Using a machine-learning approach that incorporates uncertainty, MIT researchers identified several promising compounds that target a protein required for the survival of the bacteria that cause tuberculosis.",
+      "sourceUrl": null,
+      "webUrl": "https://news.mit.edu/2020/gaussian-machine-learning-tb-drug-1015",
+      "originalUrl": "https://news.mit.edu/2020/gaussian-machine-learning-tb-drug-1015",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.mit.edu/sites/default/files/images/202010/MIT-MachineLearning-01-Press.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-15T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Massachusetts Institute of Technology",
+        "domain": "mit.edu",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-15-challenges-of-human-pose-estimation-in-ai-powered-fitness-apps.md",
       "title": "Challenges of Human Pose Estimation in AI-Powered Fitness Apps",
       "excerpt": "It is a lightweight model developed by Google, using the deep learning framework Tensorflow. Pros: can be run from a browser (JS support) or a native Android or iOS app (using Tensorflow Lite ...",
@@ -987,134 +1134,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-vxg-announces-platform-to-receive-automated-analysis-at-scale-effectively-making-any-camera-a-smart-camera.md",
-      "title": "VXG announces platform to receive automated analysis at scale, effectively making any camera a smart camera",
-      "excerpt": "For an example, one really has to look no further than Amazon Rekognition, which leverages Machine Learning (ML) to make it easy to identify things like objects, people, or text within videos and images. Outside of the technology industry, however ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/video-analytics/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://security-img.scdn6.secure.raxcdn.com/news/612/retail-security_1599042170.jpg",
-          "width": 612,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/vxg-announces-platform-receive-automated-analysis-co-14053-ga-co-1537871022-ga-co-1602744794-ga-npr.1602747032.html",
-      "publishedDateTime": "2020-10-15T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards.md",
-      "title": "Self-driving cars can be forced to brake by hijacked billboards",
-      "excerpt": "Security researchers have demonstrated how hijacked billboards could be used to confuse self-driving cars -- forcing them to slam on the brakes, or worse. Autonomous driving systems have come on leaps and bounds in recent years,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "originalUrl": "https://www.zdnet.com/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-cars-can-be-forced-to-brake-by-hijacked-billboards/",
-      "publishedDateTime": "2020-10-15T02:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-using-ai-canadian-city-predicts-who-might-become-homeless.md",
-      "title": "Using AI, Canadian city predicts who might become homeless",
-      "excerpt": "As makeshift tent cities spring up across Canada to house rough sleepers who fear using shelters due to COVID-19, one city is leveraging artificial intelligence (AI) to predict which residents risk becoming homeless.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
-      "originalUrl": "https://www.reuters.com/article/us-canada-homelessness-tech-idUSKBN27013Y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27013Y",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27013Y",
-      "publishedDateTime": "2020-10-15T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

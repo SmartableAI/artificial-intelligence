@@ -99,17 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
-    publishedDateTime: 2020-11-27T17:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18554055/artificial-intelligence-in-healthcare-global-market-forecast-to-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18554055"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18554055"
+  - title: "Deep Learning Market Report 2020: Global Industry Size, Growth, Share, Trends, Key Players and Forecast By 2025"
+    excerpt: "As per new industry analysis report by IMARC Group, titled \"Deep Learning Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2020-2025\", the global deep learning market size is projected to expand at a CAGR of around 30% during the forecast period (2020-2025)."
+    publishedDateTime: 2020-12-02T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-report-2020-global-industry-size-growth-share-trends-key-players-and-forecast-by-2025-2020-12-02"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Scope of the Report, Challenges and Trends, Key Regions and Key Players Analysis by 2025"
     excerpt: "MarketQuest.biz has recently published Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025, assuming the historical data of the market to forecasts time-period from 2020 to 2025."
     publishedDateTime: 2020-12-01T22:47:00Z

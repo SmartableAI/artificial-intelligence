@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-713.md",
+      "title": "Short Interest in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Expands By 71.3%",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) was the target of a significant increase in short interest during the month of November. As of November 15th, there was short interest totalling 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/short-interest-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-expands-by-71-3.html/amp",
+      "publishedDateTime": "2020-12-02T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-24.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) Shares Up 2.4%",
       "excerpt": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) shot up 2.4% during trading on Tuesday . The company traded as high as $32.46 and last traded at $32.40. 1,041,867 shares traded hands during mid-day trading,",
@@ -95,49 +138,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Sold by Raymond James & Associates",
-      "excerpt": "Raymond James & Associates lowered its holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) by 27.0% during the 3rd quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC).",
-      "sourceUrl": null,
-      "webUrl": "https://www.modernreaders.com/news/2020/12/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.html",
-      "originalUrl": "https://www.modernreaders.com/news/2020/12/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
-          "width": 450,
-          "height": 323,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.html/amp",
-      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/01/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-sold-by-raymond-james-associates.html/amp",
-      "publishedDateTime": "2020-12-01T01:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "modernreaders.com",
-        "domain": "modernreaders.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {

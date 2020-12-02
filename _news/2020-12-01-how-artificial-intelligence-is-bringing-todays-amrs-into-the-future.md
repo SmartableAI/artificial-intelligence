@@ -3,8 +3,8 @@ category: news
 title: "How Artificial Intelligence is Bringing Today’s AMRs into the Future"
 excerpt: "This definitely sounds smart, but some AMRs are taking those smarts to the next level with artificial i (AI) coupled with strategically placed cameras that function as extended robot sensors. Without AI,"
 publishedDateTime: 2020-11-30T16:36:00Z
-originalUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future"
-webUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future"
+originalUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future?listname=Automation & Control News & Articles"
+webUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future?listname=Automation & Control News & Articles"
 type: article
 quality: 39
 heat: -1
@@ -118,6 +118,6 @@ related:
         height: 562
         isCached: true
 
-secured: "32QDMxC8kGmMUpE5Q/7k3lIpO8YXdDBhTkYUnTNSppidk598LSTBEbwWWyYNi6tgPp8yopSPoTFO3W2vO/keuxTDrN5F744jMP0kI7Cc4hQa2aFbRRel1H6IR3vqF+Le1NzyYxkxkWRzdqm/NJdgvPRwSnBBm9bSJWjGeeo7XhwQXbyfSRaG5P/arbwu2lDoOaazhHgOfjtRxiC02L6qJqB0D7MJbdr/1xzid1AsVKlLQweI83BowG7Cio2xoRIeClboiyb/6C6yDa3ePOhqtbYy4oXcqe4qDjsFRtp79GgnM3KCw2+0RAqGm/9l8DzB0kgaObIFpv5CVn/WlgyAfFGEUtV3VpzjlNoHyl3Qkzfe3m2eH8I+28QwX2YZ75wZHL9X+fDudOhaKNVUL56nP+g5mv+VmdkO20YNt1CXkT5p3yU31h/X35N6PrEFGPYt+QrBT3rktcO/XHVizDSgYioEfhVESDfztfVU3NeWyW+5Z1+Ek3CTXiS9YxVWqMtUdMAQMwVy3S3IbWga/QFqAQ==;NiuLIeCr5xkdr/el4aNDCA=="
+secured: "wMoHLRENSZswwwhLDvtfHTjQMMmNjhRkQKHseAcLX2BADGWIRso27YUWD8iFl/rJPyo7ehZcvhMZM0DS+wCbR6fU2YNOq6XcPZDtdsHnHM0kbs5C3g7UxLX743dINcbcG30bIh9BqoABT4O6IM3zsQEbFuaOmHS+ys2OVaNIzjsKDDMOdJKCUVWcELGDnQo0eCpn8W5jzMXQcUDMt+cRA0TaejRSKn+U5oENYuJPl2k5yWx00KfFFfKtYkyImGvxTFSKmXmjh7D17La7BJb5ajtqaP7K23ERUhQ634FpdYVkrWbpv2Qe0d3PyHq5FPQm1gS7eTFdeEGIOYkuGMNoqErG+waKjr4FVeP16mywKd0=;0XzJKRRCPr/6NbJCsYeopQ=="
 ---
 

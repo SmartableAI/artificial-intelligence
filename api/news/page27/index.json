@@ -2,6 +2,136 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2020-11-11-check-out-bandais-mind-controlled-robot-prototype.md",
+      "title": "Check out Bandai’s mind-controlled robot prototype",
+      "excerpt": "Researchers at NeU, a joint venture between Tohoku University and Hitachi, have developed a prototype toy robot controlled directly by the mind, in collaboration with toy giant Bandai. This robot ...",
+      "sourceUrl": null,
+      "webUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "originalUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "cdnAmpWebUrl": "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/105500/check-out-bandais-mind-controlled-robot-prototype/amp",
+      "publishedDateTime": "2020-11-10T21:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philippine Daily Inquirer",
+        "domain": "inquirer.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience.md",
+      "title": "Microsoft is partnering with Qualcomm to enhance AI and ML developer experience",
+      "excerpt": "Microsoft and Qualcomm are partnering to improve the development and deployment experience for developers using the respective technologies offered by the two firms to build AI and ML solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
+      "originalUrl": "https://www.neowin.net/news/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2020/11/1605079273_microsoft_qualcomm_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-is-partnering-with-qualcomm-to-enhance-ai-and-ml-developer-experience/",
+      "publishedDateTime": "2020-11-10T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-11-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app.md",
+      "title": "UAE based Fintech BankOnUs Introduces AI enhanced Financial and Insurance Services Comparison App",
+      "excerpt": "UAE based Fintech firm BankOnUs has introduced an AI enhanced financial and insurance services comparison app.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
+      "originalUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/10/Mastercard-Touchless-Payments-iPhone-Wallet-Credit-Card-300x232.jpg",
+          "width": 300,
+          "height": 232,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2020/11/168829-uae-based-fintech-bankonus-introduces-ai-enhanced-financial-and-insurance-services-comparison-app/amp/",
+      "publishedDateTime": "2020-11-10T18:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-11-sentinelone-an-ai-based-endpoint-security-firm-confirms-267m-raise-on-a-31b-valuation.md",
       "title": "SentinelOne, an AI-based endpoint security firm, confirms $267M raise on a $3.1B valuation",
       "excerpt": "This year, more than ever before because of the COVID-19 pandemic, huge droves of workers and consumers have been turning to the internet to communicate, get things done and entertain themselves. That has created a huge bonanza for cybercriminals,",
@@ -1047,153 +1177,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-10-nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts.md",
-      "title": "NLP vs. NLU vs. NLG: the differences between three natural language processing concepts",
-      "excerpt": "While natural language processing (NLP), natural language understanding (NLU), and natural language generation (NLG) are all related topics, they are distinct ones. At a high level, NLU and NLG are just components of NLP. Given how they intersect, they are commonly confused within conversation, but in",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "originalUrl": "https://www.ibm.com/blogs/watson/2020/11/nlp-vs-nlu-vs-nlg-the-differences-between-three-natural-language-processing-concepts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/11/inline_diagram-1024x515.jpg",
-          "width": 1024,
-          "height": 515,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:26:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBM",
-        "domain": "ibm.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-soundhound-incs-houndify-voice-ai-powers-dynamic-voice-recognition-system-in-2021-hyundai-elantra-and-elantra-hybrid.md",
-      "title": "SoundHound Inc.’s Houndify Voice AI Powers Dynamic Voice Recognition System in 2021 Hyundai Elantra and Elantra Hybrid",
-      "excerpt": "SoundHound Inc., the leading innovator of voice AI and conversational intelligence technologies, announced the integration of its Houndify Voice AI platform into Hyundai’s all-new 2021 Elantra and Elantra Hybrid with select models now available for sale in North America.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f",
-      "originalUrl": "https://apnews.com/press-release/business-wire/business-sports-technology-asia-environment-afde5a4c1a3f47a18791dbff1dfa0f9f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-10T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-11-walmart-and-gms-cruise-partner-for-self-driving-deliveries-in-arizona.md",
-      "title": "Walmart and GM's Cruise partner for self-driving deliveries in Arizona",
-      "excerpt": "Planning a Walmart trip? Scottsdale locals will be able to have their goods delivered with zero-contact by a Cruise self-driving car prototype.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/U3I17pYWdSZXQ6Eg96KSpepx2qo=/2020/11/10/0342d75b-fa7a-470d-b271-57ef09ab9be7/download-copy.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/walmart-gm-cruise-self-driving-delivery-arizona/",
-      "publishedDateTime": "2020-11-10T10:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

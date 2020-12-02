@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Tackling ethics concerns regarding use of 'carebots' to assist older adults"
-excerpt: "A new analysis highlights the realistic pros and cons of apps and other technologies that use artificial intelligence (AI) to benefit older adults, including those facing dementia and cognitive decline."
-publishedDateTime: 2020-12-01T19:41:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/ncsu-tec120120.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/ncsu-tec120120.php"
+excerpt: "A new analysis from North Carolina State University highlights the realistic pros and cons of apps and other technologies that use artificial intelligence (AI) to benefit older adults, including those facing dementia and cognitive decline."
+publishedDateTime: 2020-12-01T20:27:00Z
+originalUrl: "https://medicalxpress.com/news/2020-12-tackling-ethics-carebots-older-adults.html"
+webUrl: "https://medicalxpress.com/news/2020-12-tackling-ethics-carebots-older-adults.html"
+ampWebUrl: "https://medicalxpress.com/news/2020-12-tackling-ethics-carebots-older-adults.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2020-12-tackling-ethics-carebots-older-adults.amp"
 type: article
-quality: 37
-heat: -1
+quality: 57
+heat: 67
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/carehome.jpg"
+    width: 2880
+    height: 1920
     isCached: true
 
 related:
@@ -40,6 +42,6 @@ related:
         height: 844
         isCached: true
 
-secured: "RUwwJ0DiceEJOnHuAPOAYinhE0PPYH2o3urYpGAgPSQs1tHdm4v0jY8MTf9L+Xx8lQJsrs8DGyF0Kz9wNELaxV0k6MG1Kbnnn8Am9nkzE9pKOuM1poDNp5UrQLALa1SQZJYsQw5CjLpNrub7X9sZKzP3px4xnEZVFA9QYyvKex56G985P0IMbo78En+GrovCdcChnrL4eNOTqOLjKiEbTQsn7bznfBeCfZiEkbP9uO4xgKD9cxtH3d43eFn2cvRXs7KQL00eeGNPTX3ODGIUqY5BcPrhjSaBxuOhsg4hnKQWCL0qCjDHffddPhfQYbSk8D6kD86cCjUv3Ky0hVsyn9j0aFojb2fLHIej4iVvXUA=;PU0rCsb4a1boj2J1htYn2w=="
+secured: "h8gMuYgdiycvhXtdEx+DyF+Puiu8FYCW/1Em6V180hQ/DsF5ut8ZlZOzjX6PSeTlgT85ZPAX0ejVMYgw9QDKl5m2h7ZGzP4d5ahRGiL3+XABx7BZJFGFHyuTDY0UtcMWLJYkfqzF8vPhZLszbNLyqMig91psxkoqg0rsSAYEsTaMGzi20xhS+LEWJO6LUuQbXur/rNwFArTBx/RnmjP7j13Xz88uMcedIPIgPnPRPV3iiyjaUjaU221DQzDxC9louSdI3FwbwiYats1bbfoSsLz+KEbqVgxGiSTY2frBBE7Fav6MfO6dYzBQLpYzD33iHuMRx9vwp9A9ijxTQghWc5x6vID7EWuOt/3JzVnarLQ=;hai2NIuY/8Y1xTSeIYRAFA=="
 ---
 

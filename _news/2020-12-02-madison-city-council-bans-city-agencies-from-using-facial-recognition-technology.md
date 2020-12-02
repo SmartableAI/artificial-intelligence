@@ -43,22 +43,6 @@ related:
         width: 800
         height: 406
         isCached: true
-  - title: "The two faces of automatic facial recognition technology"
-    excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
-    publishedDateTime: 2020-11-27T18:48:00Z
-    webUrl: "https://www.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-    ampWebUrl: "https://amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-    type: article
-    provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
-    images:
-      - url: "https://www.dw.com/image/52650409_403.jpg"
-        width: 940
-        height: 529
-        isCached: true
   - title: "No bugs in facial recognition technology, says state agency"
     excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
     publishedDateTime: 2020-12-01T23:10:00Z
@@ -165,6 +149,34 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Ugandan police accused of using facial recognition system to fuel rights abuses"
+    excerpt: "The police in the east African nation of Uganda have been faulted for using a facial recognition system deployed in the country by Chinese technology giant Huawei to track, arrest and torture"
+    publishedDateTime: 2020-11-30T20:39:00Z
+    webUrl: "https://www.biometricupdate.com/202011/ugandan-police-accused-of-using-facial-recognition-system-to-fuel-rights-abuses"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 37
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2017/05/25183040/cctv-security-systems.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "RTI: Kolkata, Delhi police refuse to give information on facial recognition systems"
+    excerpt: "Delhi and Kolkata's police departments refused to furnish details about their respective facial recognition systems, in responses to RTI queries filed by the Internet Freedom Foundation (IFF)"
+    publishedDateTime: 2020-12-02T09:15:00Z
+    webUrl: "https://www.medianama.com/2020/12/223-rti-replies-delhi-kolkata-police-telangana-facial-recognition-iff/"
+    type: article
+    provider:
+      name: MediaNama
+      domain: medianama.com
+    quality: 33
+    images:
+      - url: "https://i1.wp.com/www.medianama.com/wp-content/uploads/flat-3252983_1280.png?fit=1280%2C1066&#038;ssl=1"
+        width: 1280
+        height: 1066
+        isCached: true
   - title: "Blotter: Man allegedly screams obscenities at police, uses brown bag to thwart 'facial recognition'"
     excerpt: "A 43-year-old man was arrested Friday evening after allegedly drinking an alcoholic beverage and screaming obscenities while alone at a pavilion, cursing at officers when they arrived and covering his"
     publishedDateTime: 2020-11-28T23:28:00Z
@@ -208,6 +220,6 @@ related:
         height: 450
         isCached: true
 
-secured: "j0h5wfotKTzBn5kc74A1YCXkw7bLyeNGHmR2gTYt3Bv3MzrVIrfkDxsXW1aEHZpANmtIjJwLDdp3Rt/R32g0t+DKTW+z43o1pGvkbwdhMH0JHE3P67Xw8ff2SWn1BEVotEhgRw93CO1qGNj9ixJa8acTVwt+G/dR9iNgT8nCwr0KkA33mML95irOdbOKmImjPnGpTW+lxYgnxeD6A9/Cmm98/rCv6v5OS7D2qnrd5Q7lL6MsEjQAxfBKXXb4sNAd3gH13n7CslmggPCmB7LSqHVt/5318Urt08RoqOoi3ae0GOMTRKLXCJoz+2XC1KH7wMTmIokBpvcdVSdlbjxidUjKwpstQKbOWSzJJfajfMI=;2DauFlZHt/5UKE7xqHYSIA=="
+secured: "F1TxwVKEeo4CIciliY8PoCaC8DvjIvyQhq80H5sIwVR8CNzWWc9Nqy0xVw0W+5HhOS8SG7FFiPIHyciVrja86yzeAWeO8Fn/gaQprQnGG5DSy75jyfACwx3Z7ZVj5ELoUjtjmIueVg6ncJ5MGdraO0psfAe05S7hk77iMYQsHxnamdxRTHkDTrl0pGezrHWuZpIpNaVjb0texZmezwNVQh4GbcnG5X3ELjGMDwDqRq1NJY63PmzeVm4IuBi7deAuY/KvLCs08vGnTwzp4lek83i2Kaba7+Zp4/tfBmsuE/FhEYUtHw/1eg8z9jXZU0VWAfI6wXbpG1u3PsOPVlj9WOCpBIUumfF6df9X8gjmSYjaKDSC2MqM74A+BYBslDuZ4KbZVANKYdqmZP1wvhXX7ARv/8ElGoq5udlD9FdxaORVBQhWmIE7oVGdzb9PTyFVtEnsbTYPC/GY9YvJpwmY1FakjTMFfVAI6bCyq+wXBzil1ba/JUnDAK8tFk0dB3iEWRR7C7xjq5jCQgvuPeztNw==;KHOQG6Xb7FO3NxEbgeHwrw=="
 ---
 

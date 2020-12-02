@@ -160,7 +160,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/7-machine-learning-stocks-for-a-smarter-future-1029854817",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 83,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1209,6 +1209,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-18-cognitive-systems-market-key-players-ibm-accenture-microsoft-intel-hp.md",
+      "title": "Cognitive Systems Market Key Players - IBM, Accenture, Microsoft, Intel, HP",
+      "excerpt": "The Cognitive Systems market report is segmented into following categories; By Type Hardware Software Services By Application Banking Education Government Healthcare Insurance Manufacturing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2189666/cognitive-systems-market-key-players-ibm-accenture",
+      "originalUrl": "https://www.openpr.com/news/2189666/cognitive-systems-market-key-players-ibm-accenture",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb18422120_g.jpg",
+          "width": 400,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2189666/cognitive-systems-market-key-players-ibm-accenture",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2189666/cognitive-systems-market-key-players-ibm-accenture",
+      "publishedDateTime": "2020-11-18T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-nsw-transport-and-microsoft-use-machine-learning-and-data-to-reduce-road-accidents.md",
       "title": "NSW Transport and Microsoft use machine learning and data to reduce road accidents",
       "excerpt": "Transport for New South Wales and Microsoft have partnered to develop a proof of concept that uses data and machine learning to flag potentially dangerous intersections and reduce road accidents. As part of the proof of concept,",
@@ -1379,52 +1422,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
-      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
-      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T16:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Electronics",
-        "domain": "newelectronics.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Hardware",
-        "Microsoft AI"
       ]
     }
   ],

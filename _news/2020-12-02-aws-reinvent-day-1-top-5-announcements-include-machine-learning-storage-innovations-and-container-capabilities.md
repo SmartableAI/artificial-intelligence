@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-reinvent-day-1-t
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
 type: article
 quality: 101
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -33,20 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Announces Three New Analytics Capabilities"
-    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced three new analytics capabilities"
-    publishedDateTime: 2020-12-01T20:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-announces-three-new-analytics-capabilities-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent"
     excerpt: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent - SiliconANGLE"
     publishedDateTime: 2020-11-30T23:19:00Z

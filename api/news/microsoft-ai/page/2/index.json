@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-11-17-simplemachines-unveils-high-performance-chip-for-ai-and-ml-applications.md",
+      "title": "SimpleMachines unveils high performance chip for AI and ML applications",
+      "excerpt": "SimpleMachines has announced that it has created a first-of-its-kind easily programmable, high-performance chip that will help accelerate a wide variety of AI and machine-learning applications. The San Jose start-up said that the chip,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-news/simplemachines-unveils-high-performance-chip-for-ai-and-ml-application/232209/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/232209/simple.jpg?width=375&height=250&scale=canvas",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T16:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Hardware",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-c3ai-files-s-1-for-ipo-to-list-on-nyse-under-ticker-symbol-ai.md",
       "title": "C3.ai files S-1 for IPO, to list on NYSE under ticker symbol 'AI'",
       "excerpt": "Enterprise AI software company C3.ai filed its S-1 prospectus for an IPO with the SEC. The company will list its shares on the NYSE under the symbol AI.",
@@ -1308,58 +1354,6 @@
         "name": "eTurboNews",
         "domain": "eturbonews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-05-microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses.md",
-      "title": "Microsoft adds Hindi to its Text Analytics service to strengthen Sentiment Analysis support for businesses",
-      "excerpt": "Text Analytics is part of the Microsoft Azure Cognitive Services. Using this service, organizations can find out what people think of their brand or topic as this enables analyzing Hindi text for clues about positive, neutral, or negative sentiment.",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
-      "originalUrl": "https://news.microsoft.com/en-in/microsoft-adds-hindi-to-its-text-analytics-service-to-strengthen-sentiment-analysis-support-for-businesses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/45/2020/11/microsoft-text-analytics-hindi-768x362.jpg",
-          "width": 768,
-          "height": 362,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-04T21:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

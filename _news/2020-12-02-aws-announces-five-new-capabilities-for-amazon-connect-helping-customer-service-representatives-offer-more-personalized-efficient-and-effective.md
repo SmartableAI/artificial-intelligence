@@ -66,6 +66,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Machine learning: The new language of data and analytics"
+    excerpt: "Machine learning is all the rage in today’s analytical market. According to Kenneth Research, the value of machine learning is growing sharply and is expected to reach over $23B by 2023 – an annual growth rate of 43 percent between 2018-2023."
+    publishedDateTime: 2020-12-02T09:00:00Z
+    webUrl: "https://www.itproportal.com/features/machine-learning-the-new-language-of-data-and-analytics/"
+    ampWebUrl: "https://www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
+    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
+    type: article
+    provider:
+      name: IT Pro Portal
+      domain: itproportal.com
+    quality: 61
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-1200-80.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Cognitive Analytics Market taking to witness high growth in near future"
     excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
     publishedDateTime: 2020-11-30T20:22:00Z
@@ -94,6 +110,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS Announces Three New Analytics Capabilities"
+    excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
+    publishedDateTime: 2020-12-02T09:33:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201201006065/aws-announces-three-new-analytics-capabilities"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
   - title: "EdisonLearning and FocalPointK12 Announce Partnership to Provide Comprehensive Learning and Analytics Solution for Grades 6-12"
     excerpt: "EdisonLearning and FocalPointK12 today announced a partnership to provide a complete solution for grades 6-12, delivering more than 170 middle and high school courses along with nearly 60 embedded"
     publishedDateTime: 2020-12-01T19:36:00Z
