@@ -57,7 +57,7 @@ related:
     provider:
       name: TechRepublic
       domain: techrepublic.com
-    quality: 87
+    quality: 89
     images:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2018/07/24/ff4feab4-11d2-48b3-8634-7b76e44fb028/resize/1200x/4f9e13af879989b3b42140ec69a0241e/ai-edit.jpg"
         width: 1200

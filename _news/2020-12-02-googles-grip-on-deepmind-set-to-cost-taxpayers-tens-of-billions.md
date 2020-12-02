@@ -87,6 +87,20 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "The predictions of DeepMind’s latest AI could revolutionise medicine"
+    excerpt: "AlphaFold, DeepMind's new artificial intelligence, could accelerate drug development through its ability to predict the shape of the proteins that make up our bodies"
+    publishedDateTime: 2020-12-02T19:11:00Z
+    webUrl: "https://www.newscientist.com/article/2261613-the-predictions-of-deepminds-latest-ai-could-revolutionise-medicine/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/12/02174920/credit_shutterstock_christoph-burgstedt.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "7bNlPfs//5NzOhWvJQjBtHzZu982H4FNyWWxI/stENkKxwraI7mpAqHx2TcdN30s7203Zi024+xDey7Wg8hNR9djjqfwaFdN+tCnHIkhFHIRwMtUDXQO1zV4haE84QQ8cYxWVV3m+c+9P/BdF5FrgqTGPq/P6DXuQVXi2sHuJfzllCnUbH21k7fdRejiEeNFWEzin98bZY43sPR9H6Hk4J3r3+V5mz7Nq07ryET6AIvAf+sGDWRrw6PQNbpkztsxjhKzIsHt2HYojNN58qKoHG8ZfRpt6m4FEEeZTVejj8XVx/nV8d+NUhbRk5/4WsCiTLBhVkVGil6FvvUOOg9gfNdcXj9N9D1HdQePxIn1L8E=;ROVpP6nVCzgNov2FogDxqA=="
 ---

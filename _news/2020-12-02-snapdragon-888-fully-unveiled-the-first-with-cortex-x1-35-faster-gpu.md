@@ -43,6 +43,20 @@ related:
         width: 1220
         height: 526
         isCached: true
+  - title: "The new Snapdragon 888 5G processor brings substantial gains in the CPU, GPU, and Camera departments"
+    excerpt: "It's the second, and last day of Qualcomm's Snapdragon Summit event that was held in the ether, with more details of the chipmaker's new Snapdragon 888"
+    publishedDateTime: 2020-12-02T18:19:00Z
+    webUrl: "https://www.talkandroid.com/360869-qualcomm-snapdragon-888-2/"
+    type: article
+    provider:
+      name: talkandroid.com
+      domain: talkandroid.com
+    quality: 39
+    images:
+      - url: "https://i0.wp.com/img.talkandroid.com/uploads/2020/12/snapdragon-888-chip-case-scaled.jpg"
+        width: 2560
+        height: 1605
+        isCached: true
 
 secured: "X+UA+Xc47lUWwTp7emNxF/oSwL+abUheJf0zbmEtcTz5ZtNW9BgbNBz3AV7DDO2U87dp1GIcgTx+ZSDjfREoijD0aZEjvS+Oji4eWmvSM1jJQuyQboqZY1TSf3bvzL16liCepKkRrVvOgbvVnKI3NXju8bHbmQcxlKuqD7yG/tBTYKERvkaD9IoBrXr70Ywmjw6Q+YaFGkVvWGA1V5TudQTc+A8C32q4FxZYMYy2p76K6CRKk5pEojHyxr9txNgkMnNPO21wVyQuSUNijItJOVbarv1CAlfEoTm1h4/6kwYLEG2BafIu1qvfJnw7ipM8PnjeoRG/eCH3vPSTS/vLK7Ud9Gsfc8hIRt8WOXsEkGMVmBWCEZpodZo8pv29QIQZGuGvou1pC6Yt8Nr96mWCCwC+j+CpkoLfvY7fb+gYQTeAJZsv8UeKndQHc43e6Tenoud553VgVqbwU2yZ+wyloYDY2/MYApSp5CDIRJqGKny4S35bZFOFKMislLZvj0Yk0SG63FZLYvsggfbYiAo0fw==;u4BaJyefXoq8m7RgwxhJfg=="
 ---

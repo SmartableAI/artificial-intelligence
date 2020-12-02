@@ -151,6 +151,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Qualcomm Unveils Top-of-the-Line Snapdragon 888 Chip for Smartphones"
+    excerpt: "Qualcomm on Wednesday unveiled its latest Snapdragon processor chip to power top-of-the-line 5G smartphones beginning in the first quarter 2021."
+    publishedDateTime: 2020-12-02T19:21:00Z
+    webUrl: "https://timesofsandiego.com/business/2020/12/02/qualcomm-unveils-top-of-the-line-snapdragon-888-chip-for-smartphones/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 39
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2020/12/Snapdragon-888.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "vuraOFeVD0Hxqjk6Gy3quGkv9wrhEGRyfTMPeEYRofIgeRbDEErpHjSGg1aU5TtwosHktKOebegluZUrQtdWa3ECbK+IDYwPZaxDda5Zeh/W0IqYrOEwxaHQe7llDv4v/0JXZx/OjbjmM0Ofcs8F6YB9hduWGdJGoVjdHb7fAuJqjDme2UHnJdvf6c3i5CQ39niS2bhuPKPsR6j008cNKFbWsS/MCZw5iCp+u+f+Q5HyYWLQD7umuPj6teX1NGFnVrBJ/w+DuDC0wYctKNHtiZKi2cY5tUxGqEYF7Ja+KNbFstI9/oRXtsbydh+5sl6XzNvCVVE4RXvsIJViyCSmwti4qk7n8CROzmwaUhZBgzullSnMZ1TNPHfru+EPn3mPviQHGkXVg4Y2hDbNslDkS5uRqxCr6OqAwN2GZLZJWKfvLqmZqVMVIVeEsKpTL3obzYFVHusEG5uCwPxmqo6+am5YRiKdSdrUm8EK3+SsTSMVN/nt5QZGSvSTfoVVow7csXtIA2L1vGPgajNBzCl7Ig==;DmmkXzLIJDUTkqCyyvRs1Q=="
 ---

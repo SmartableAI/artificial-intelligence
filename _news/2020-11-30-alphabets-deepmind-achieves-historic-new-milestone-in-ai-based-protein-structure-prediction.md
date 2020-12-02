@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-histor
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/"
 type: article
 quality: 93
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://6lli539m39y3hpkelqsm3c2fg-wpengine.netdna-ssl.com/wp-content/uploads/2018/06/career_shutterstock-461317267_700x-405x228.jpg"
         width: 405
         height: 228
+        isCached: true
+  - title: "The predictions of DeepMind’s latest AI could revolutionise medicine"
+    excerpt: "AlphaFold, DeepMind's new artificial intelligence, could accelerate drug development through its ability to predict the shape of the proteins that make up our bodies"
+    publishedDateTime: 2020-12-02T19:11:00Z
+    webUrl: "https://www.newscientist.com/article/2261613-the-predictions-of-deepminds-latest-ai-could-revolutionise-medicine/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2020/12/02174920/credit_shutterstock_christoph-burgstedt.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "5A9ykjIeyT1EY2e1hXE8FKLxATBfKu9E6laF51RaLb36zgsQZZWcQ5kl1jko3RlCyxP2RObw6CEROIQSuk9h8p6C2/4dbBgQfpldbaiw6IuAS9xiavuTimWZZbGL6O7ImF/pkaqhqYyh7sWfa9ZkTTL/2mYfUPYAOLjtOx/PJvNgPjHDzsAHrwcUqcTQr7avL2LPyOwz7Hkcjujez3c2czLEjhqOAU2nJuZg4ueOyz/qpoLsU4QgVX0lc5VisCw6S8W3xYfX328f0lfgW5MHIoWDOYv7DKm74hhTZF49SmSnKWyuaZl2wsKIGHfxRSgDqUHLaC+R3RvSVmsNPAufcVlY/Bb+A5TYTbys/uforCipyXEeh2Zzu9XaKCjC7WyJVnwBXrcm7z27CctIQPz3lAauoneT6kneZmbv7EK2OicT5CZrgvpPWgDh27LpRQRLYe8VkGa0cIFdM32zbiUM/NZlw1VZ4r660pRaU/tC+tJbkt7+5KxxUOTviwWqUk5E3OlzeiwknwVmZcvJLBJxbg==;qYmM020f2XV9YVfx4ee3Lg=="

@@ -136,6 +136,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 39
+  - title: "IPO Update: C3.ai Proposes Terms For $504 Million IPO"
+    excerpt: "C3.ai has filed to raise $504 million in an IPO. The firm provides machine learning and artificial intelligence software to organizations worldwide."
+    publishedDateTime: 2020-12-02T19:07:00Z
+    webUrl: "https://seekingalpha.com/article/4392588-ipo-update-c3-ai-proposes-terms-for-504-million-ipo"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "C3.ai Sets IPO at 15.5 Million Shares; Sees Pricing at $31-$34 Each"
     excerpt: "C3.ai Inc. on Monday said it plans to sell 15.5 million shares at between $31 and $34 apiece in its initial public offering. At the $32.50 midpoint of that range, the Redwood City, Calif., enterprise artificial-intelligence software company said it expects net proceeds of about $613."
     publishedDateTime: 2020-11-30T12:03:00Z
@@ -146,6 +155,6 @@ related:
       domain: morningstar.com
     quality: 17
 
-secured: "L7eojv739O+5SwOhY+ekvdq2CnxQlrt0ulAzFDcN0iG68y1f7FBPuupoa8w8+DK7aQ8q0nvbj3V5eRKAdDHM/RiIm3pvkTj+GevEcHUndtvsudHraIymiIkHU0HlToGJjWqiSV2XSVgqfxQ1i6VYkYG1JumIH5vikbFFuQc2ZWjTuZsZ8W0uo5HlxmacWGfMRWqVDt186GIePgSDLzQy2plHgZUMviv8lPpLXC9WJb2pJ7GpJN9OaZip93XLSZLjrcO+DK9TtYMQWNJ/G/f1mcN4YyLmVfkiAPklYpZlUOb5HkZ7eefTkYf5QIH6EEqyDeYU3RYaXQO9UcOKxdDtEsCcnFbaEyBwPApzJ8cBTLk=;8ETSgwSDx/XAV9LYyq2BKw=="
+secured: "5B4e95LWPta+Ahly9pdQMMdUJo21MgN/wFyc4cOzgfc7BdvDWBNMB3GuJecitYUdjyhl6LmuzekdRfg0NXn9DbFhCJXkh4eUMN+ReIy5mgrqunh0TX10AlPL7Ba1hXf7b+LpGLyZOMxSbubpoWA9527ajBBgPRpuOlDsePVfs9fWPgXf7+P0wmSrbK7eR0/bl4O54C4u58t9Bb2bfnjihe2b562+8P0D0dWRoFG8vCRPt3HdgOHI8VQ0azTh9rTBNxMWfrBrSjPhhmfBlwm8UE+dEYIqVyzZNsw6IjB3KyZrVr/CWVuyhFZLelvL14ysowmTfHHQLjsidlwOBsV7QQQWLZ+tViPEh19NzdDC/AI/HXajxQFxz3GJApDEhS3h9TdyRN7ScoG/IZsx36cttjMY0vV0EvaLNMaoAJqOxqg68sIy5QEuyaqsd0mw4jeTWokDC6YRGh87TYnaLEt1TvI+l5WDzJAdLbDshWw4fucEeBBqM2pvijjjStU4VJ5imrZ7m2IcyOsz4AsbtqOKmA==;Nx1THyP3TxHFG+PdyGvweg=="
 ---
 

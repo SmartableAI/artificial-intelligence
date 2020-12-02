@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recogn
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
 type: article
 quality: 69
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -55,6 +55,17 @@ related:
         width: 308
         height: 308
         isCached: true
+  - title: "Facial recognition systems improve in recognising masked faces"
+    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study."
+    publishedDateTime: 2020-12-02T19:59:00Z
+    webUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+    ampWebUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
   - title: "Behind the Rise of China's Facial-Recognition Giants"
     excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
     publishedDateTime: 2020-12-01T00:06:00Z

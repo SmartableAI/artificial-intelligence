@@ -141,6 +141,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Qualcomm Unveils Top-of-the-Line Snapdragon 888 Chip for Smartphones"
+    excerpt: "Qualcomm on Wednesday unveiled its latest Snapdragon processor chip to power top-of-the-line 5G smartphones beginning in the first quarter 2021."
+    publishedDateTime: 2020-12-02T19:21:00Z
+    webUrl: "https://timesofsandiego.com/business/2020/12/02/qualcomm-unveils-top-of-the-line-snapdragon-888-chip-for-smartphones/"
+    type: article
+    provider:
+      name: Times of San Diego
+      domain: timesofsandiego.com
+    quality: 39
+    images:
+      - url: "https://timesofsandiego.com/wp-content/uploads/2020/12/Snapdragon-888.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Qualcomm’s Snapdragon 888 Provides Huge Leap to Smartphone Photography Capabilities"
     excerpt: "Qualcomm today announced the Snapdragon 888, what the company says is the biggest architectural leap forward in AI. The Snapdragon 888 promises a plethora"
     publishedDateTime: 2020-12-02T15:31:00Z
@@ -156,6 +170,6 @@ related:
         height: 840
         isCached: true
 
-secured: "dqexQBmjjb/K9xrZsjDgGvYU4Tp4lzsf9KxrGVL27I9szNH9ZU6TO0JG/ijrr+NztPvQ8fBEkxwsU2FOedIdUennPhPmUdAPV68A5zVS4oiYRonXzdiqbK5WASqO9GWiUPbqDPnKjb7XYesYX5V/ypQwOoBB8dw3RkcUd4pTMDQG7WeBBPjOf/G6eUm2xJ27vB383hHWU1N0g8/RbhEJHzHpHLCKp3MigPtQUSBX3wiynG0zuum8OhD9toesllbKRjyGfFSlruOqu1Mqw0sy6lIDuk9th5NfQj8sHH0XH6gw+S69rb0UOqATy6E4tXjvPmcexZcVSUWwoh3gFmeDJbqbcMUEM4nEB4BwaAH668A=;qVkQOZc85ysBEaXhYJe0Pg=="
+secured: "LKR77It0Gk+tLgs+Vsf5xz6SD1fQv/8mNLWJtTGyQ6UfZUcjyOkmGWflfTH9SJ4DNVl3GdjSnWgodyUAOxkvbezWWhmEagi4azp/gw8BoBRyTUZpazSx9PT+EZSIpSzLEPl8UdKQ5QsxegQ0OXdG8cZsgHVC43x2OW0JOz7lfGFyLH7OnWHH/VrTicv+TxaGEo9r3bAZLQ7SX3vyLPTiYyDx7S/nmFQ2oCm+KHp8+VNDA3/evyXygn1NESotNeJDpmjqd8hjBqwzz1B7LjO2RE0+guLstsI7U3krqZd51zV6W7/y5tc7o474Hh4PrEizf5I6j9oJfgWKvW4qjdchhPBYYLGpH2vv2vmyZc/9oJ+D/3kPNQslQv7IrwMK7AXG/HF8cprR7VTQYJE3o3dmk075LurRCx78z63tg4BhBqKmF33BcDJmQ5e3EldjaFhO6wBIyMa9OEZwHfPqVhl4UIpNxEMSfSNZgQnwHN+ACK6e3szGzbRS+xaaSAe+T+cW0za1AG2mbqEESNusjajGkA==;C+4ZAA0WABW+Rmo8CpxHgg=="
 ---
 

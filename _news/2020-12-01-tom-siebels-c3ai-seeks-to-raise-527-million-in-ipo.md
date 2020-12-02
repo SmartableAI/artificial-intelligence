@@ -134,6 +134,15 @@ related:
         width: 816
         height: 612
         isCached: true
+  - title: "IPO Update: C3.ai Proposes Terms For $504 Million IPO"
+    excerpt: "C3.ai has filed to raise $504 million in an IPO. The firm provides machine learning and artificial intelligence software to organizations worldwide."
+    publishedDateTime: 2020-12-02T19:07:00Z
+    webUrl: "https://seekingalpha.com/article/4392588-ipo-update-c3-ai-proposes-terms-for-504-million-ipo"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "C3.ai Sets IPO at 15.5 Million Shares; Sees Pricing at $31-$34 Each"
     excerpt: "C3.ai Inc. on Monday said it plans to sell 15.5 million shares at between $31 and $34 apiece in its initial public offering. At the $32.50 midpoint of that range, the Redwood City, Calif., enterprise artificial-intelligence software company said it expects net proceeds of about $613."
     publishedDateTime: 2020-11-30T12:03:00Z

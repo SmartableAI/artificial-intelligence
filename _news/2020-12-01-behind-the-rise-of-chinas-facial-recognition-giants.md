@@ -70,6 +70,17 @@ related:
         width: 308
         height: 308
         isCached: true
+  - title: "Facial recognition systems improve in recognising masked faces"
+    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study."
+    publishedDateTime: 2020-12-02T19:59:00Z
+    webUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+    ampWebUrl: "https://www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+    cdnAmpWebUrl: "https://www-sify-com.cdn.ampproject.org/c/s/www.sify.com/news/facial-recognition-systems-improve-in-recognising-masked-faces-news-education-umcr5Dcaifigg.html"
+    type: article
+    provider:
+      name: Sify.com
+      domain: sify.com
+    quality: 39
   - title: "Brazil’s Government to Use Face Biometrics For Pensioner Identity Verification"
     excerpt: "The Brazilian government will be using biometric facial recognition to verify the identities of pensioners in the country."
     publishedDateTime: 2020-12-01T21:25:00Z

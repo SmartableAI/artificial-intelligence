@@ -8,7 +8,7 @@ webUrl: "https://www.techrepublic.com/article/how-ai-works-an-introduction-comin
 ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://tr4.cbsistatic.com/hub/i/r/2018/07/24/ff4feab4-11d2-48b3-8634-7b76e44fb028/resize/1200x/4f9e13af879989b3b42140ec69a0241e/ai-edit.jpg"
@@ -114,6 +115,6 @@ related:
       domain: bio-itworld.com
     quality: 36
 
-secured: "qlahiIFGVCQ89Ae8iauCt2NzhN658xJdCdo/i0J3GKXDb6wXPu1aJAs1wn99u1nk3DARIHohVbCwnFKTIWMEP1MpssmAhruOTM61Mz1RKW4O1OD2wJYbj4WyjwsaBO5SYRIy2RPh/XAwJ7b/FIKWmiut+FQpqVoXcl7kSj6KDwoFUqhguRvbTpNuFyhe5YiyrYLFNkAnS5/hsUxxWxA2BrTwx5rwnXk2RI+zzz93OG7mDis1VJvvO/i0o4odvzn9kSl2Zzl5HvpMBf6dT26vbIe/oW8Zqq4bpI1Ecsy5D/KqUIHMBRDUXputyip9YbicJVDjMfrJhh+ldNwuWs1nqkZsuATVnb1r8B6lvbX5K0M=;SzSAe+6kHWEFzGR1ifWFHQ=="
+secured: "kMoZXUBtYny9/uW9JdzZhpRBcaetFvHXJMlgaD37bs/3Ixp2IqkEgaik/y8hFekk4GeJOX+AlpxSZCmq1HzfmAv0zTi965l+vsQGkfw25C622crxVoDyUeCBGWistVaHKK1vha0Zc9BX1TVoLp1sOf7OxShE5cOeAasRv41nX3X1Y4bU09oP3W5eRepktM/x31DaYjlSqFncaXwH/XIMPfYygceNzQ9yb4L9q0aACLNBEKEsAxhtp5vXufZqdEofJvZgIboAA0m+zx6GkBn3XljC15AfrrAX5iE7j6eLzqQj1/IkX/aYCf/+8Md3Yta9ouGbBrRkYjI6uTO2/YyzpVwYf2bfEBvZp4zE/Dh4kzqtKsD0TChLwoCHSMQKNpVFI9287mV4cMY/IO8fdXUwY/yvRhO+fmpteWA7+LfZ56n+/YljmFaajXu7N5U4pLc2vKXW9pBJh35WgwPp33sVwaVPBpwEVCf+BHz7xtLYOOw1R68CgwzpbL6cY9zALLH1CNQNzgqUEHzcxypvTCAB+Q==;BmfB4Cp/doRVoxoCnsAxzA=="
 ---
 
