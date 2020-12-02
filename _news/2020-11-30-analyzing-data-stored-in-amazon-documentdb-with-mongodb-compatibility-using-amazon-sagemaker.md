@@ -57,6 +57,20 @@ related:
         width: 800
         height: 453
         isCached: true
+  - title: "Performing simulations at scale with Amazon SageMaker Processing and R on RStudio"
+    excerpt: "Statistical analysis and simulation are prevalent techniques employed in various fields, such as healthcare, life science, and financial services. The open-source statistical language R and its rich ecosystem with more than 16,000 packages has been a top choice for statisticians, quant analysts, data"
+    publishedDateTime: 2020-12-02T21:59:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/performing-simulations-at-scale-with-amazon-sagemaker-processing-and-r-on-rstudio/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/12/01/ML-1333-1.jpg"
+        width: 802
+        height: 462
+        isCached: true
   - title: "Securing data analytics with an Amazon SageMaker notebook instance and Kerberized Amazon EMR cluster"
     excerpt: "Ever since Amazon SageMaker was introduced at AWS re:Invent 2017, customers have used the service to quickly and easily build and train machine learning (ML) models and directly deploy them into a production-ready hosted environment. SageMaker notebook instances provide a powerful, integrated Jupyter"
     publishedDateTime: 2020-12-01T00:59:17Z

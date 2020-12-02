@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "How AI Can Help To Moderate Content"
+    excerpt: "Social Media companies such as Facebook, Twitter, Instagram, etc., have been using a combination of human content moderators and technology to try to limit the amount of harmful content."
+    publishedDateTime: 2020-12-01T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc671756a235b2d76b68eb0%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
 
 secured: "c/ZvH4TiTt0j4Eb1zFRDcP2SMNA0+djSjGFH4Kp6tyqd2AAy9F2W3AlZyD71BIfZOOsBJI2RlZxmzpRq3yZY4sZmB3q31oJ/JHI4rY8zfoqAm/Jv2lIqe3HZVTzbLwIq6lllh0sMwYGhBCUoh0XVUgND43Ik/RK6MdTmwPf3NTTXowrxOX0QYMITtRma8NhedTuLwDQnRau27sCIMcTj+765CgDSAzGJe4j7ZhfWSrZoqxHbwUcM/27hVzRjDb7FdhaQJGfmQOSStFpah9s6hw2gb+n1pAzb+jykYr5G5tEHefAa5i5ZJs07NoFYf6SBx8bVG2RST3Fieg/nz9YV1SWzn2XcHWf6UT+cNd0FlC+IdLCaXh/+ncRShB1jXPYUWDMVA82A1wkti2JWuEobSxTu8jIcGzx+wst8oka/bYbFnEGs885Z06c9NAvAQOLa7ZhH67smXhWEhos4y+isDuY17ioTCVTqA3ZluR/PK/UKfgQ8RcxeW0OWMlL6LlXe54DW1XdeYIDUzo9c6aA1GA==;OEqhhQQClKiDYjNMKqhzhQ=="
 ---

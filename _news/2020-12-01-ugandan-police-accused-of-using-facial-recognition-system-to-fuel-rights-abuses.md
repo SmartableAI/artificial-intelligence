@@ -42,20 +42,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Training Facial Recognition on Some New Furry Friends"
-    excerpt: "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem."
-    publishedDateTime: 2020-11-28T06:43:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html"
-    type: article
-    provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/custom/image/590573fe-bcc2-11ea-a70c-9fc5e1d62811.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Madison Common Council to consider banning facial recognition software in most cases"
     excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
     publishedDateTime: 2020-11-30T16:17:00Z

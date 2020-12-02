@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversationa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "How AI Can Help To Moderate Content"
+    excerpt: "Social Media companies such as Facebook, Twitter, Instagram, etc., have been using a combination of human content moderators and technology to try to limit the amount of harmful content."
+    publishedDateTime: 2020-12-01T16:40:00Z
+    webUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/"
+    ampWebUrl: "https://www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/junwu1/2020/12/01/how-ai-can-help-to-moderate-content/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc671756a235b2d76b68eb0%2F0x0.jpg"
+        width: 1200
+        height: 801
+        isCached: true
   - title: "How Mark Kelly used conversational AI to help win a Senate seat – Jaweb"
     excerpt: "Conversational artificial intelligence has rapidly smartened and scaled since chatbots first entered mainstream social media in 2016. The first few iterations of chatbots on Facebook Messenger were simple,"
     publishedDateTime: 2020-11-30T23:25:00Z

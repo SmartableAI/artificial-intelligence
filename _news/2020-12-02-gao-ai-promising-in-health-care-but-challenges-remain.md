@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "GAO Issues Report on Artificial Intelligence in Health Care"
+    excerpt: "Tennessee, chairman of the Senate Health, Education, Labor, and Pensions Committee. Greg Walden, R- Oregon, ranking member of the House Energy and Commerce Committee, Rep. S. Brett Guthrie, R- Kentucky,"
+    publishedDateTime: 2020-12-02T22:46:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/gao-issues-report-on-artificial-intelligence-in-health-care"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 37
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "GAO Highlights Policy Options to Improve AI in Health Care Delivery"
     excerpt: "In a new report, the Government Accountability Office (GAO) is highlighting policy options to improve artificial intelligence (AI) tools that in turn can improve data access, create best practices, and improve health care delivery."
     publishedDateTime: 2020-12-01T17:58:00Z

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Waymo will build a city in Ohio to test its self-driving cars"
+    excerpt: "Talk about pop-up urbanism: The Alphabet-owned Waymo will build a fake city in East Liberty, Ohio, to test its next generation of autonomous vehicles"
+    publishedDateTime: 2020-12-02T20:21:00Z
+    webUrl: "https://www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/"
+    ampWebUrl: "https://www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: The Architect's Newspaper
+      domain: archpaper.com
+    quality: 59
+    images:
+      - url: "https://assets.archpaper.com/wp-content/uploads/2020/12/Screenshot-2020-12-02-16.15.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Waymo's self-driving systems will be vetted at two proving grounds"
     excerpt: "As it readies its self-driving technology for operations across a wide swath of environments, Waymo will soon begin testing at two new dedicated proving grounds. The company said Tuesday it has partnered with the Transportation Research Center in East Liberty,"
     publishedDateTime: 2020-12-01T15:57:00Z

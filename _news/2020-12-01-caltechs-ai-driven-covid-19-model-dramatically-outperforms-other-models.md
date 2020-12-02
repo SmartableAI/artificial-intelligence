@@ -102,20 +102,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "Sorting Out Viruses With Machine Learning: AI-Powered Nanotechnology May Lead to New Rapid COVID-19 Tests"
-    excerpt: "Scientists at Osaka University develop a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
-    publishedDateTime: 2020-11-28T06:56:00Z
-    webUrl: "https://scitechdaily.com/sorting-out-viruses-with-machine-learning-ai-powered-nanotechnology-may-lead-to-new-rapid-covid-19-tests/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 37
-    images:
-      - url: "https://scitechdaily.com/images/Single-Virus-Particle-Detection.jpg"
-        width: 777
-        height: 500
-        isCached: true
   - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
     excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
     publishedDateTime: 2020-11-29T12:43:00Z

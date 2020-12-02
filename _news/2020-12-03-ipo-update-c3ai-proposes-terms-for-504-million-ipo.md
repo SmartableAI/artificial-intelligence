@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-02T19:07:00Z
 originalUrl: "https://seekingalpha.com/article/4392588-ipo-update-c3-ai-proposes-terms-for-504-million-ipo"
 webUrl: "https://seekingalpha.com/article/4392588-ipo-update-c3-ai-proposes-terms-for-504-million-ipo"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 related:
   - title: "C3.ai sets IPO size above half-a-billion dollars"

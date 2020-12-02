@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.com/news-releases/appian-connected-claims-s
 webUrl: "https://www.prnewswire.com/news-releases/appian-connected-claims-solution-available-in-aws-marketplace-301181279.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: PR Newswire
@@ -39,6 +39,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
+    excerpt: "New Offerings Give Organisations Immediate Access to Intelligent Digital Workers and AWS Machine Learning Services, Expands Blue Prism’s Relationship with AWS Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace,"
+    publishedDateTime: 2020-12-02T20:55:00Z
+    webUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 34
 
 secured: "Xl/XXciaLL1wPwd3kNFYJg2O3zbcduOHi9x2bPwWGop9BAxy2VJC/I4sBd/imPj0G9KtbHPHUgdGqyhXnGEkxNPjawQVacptDNQ7GxYbZ5k4ID+AVpsetaWB+cZTM+FV1J7Y75Cuz5dXiRonzc6GR6YbxHWZjnbig7PwubjKFiSMwjyLHZ9mF4IyDcnTPqcOM/GLo++tZHu3zsyPWncwYOycfA9ViVAr1LTZNqWPGGbbyqce24YsyqjGZbKa0KFlQXTNfmy9ucBC8LdZGrFJC5JbWVe+gPKaim41SRNe1qIC9/iBPOn8ADgwvMNLqfkxCJ885nq26y9vBauGUVGEp+OXHFDxyAHshHXzX5UgDe0=;6s6GEUbvT5aESd2HlmWavA=="
 ---

@@ -144,7 +144,7 @@ related:
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 19
+    quality: 21
   - title: "C3.ai Sets IPO at 15.5 Million Shares; Sees Pricing at $31-$34 Each"
     excerpt: "C3.ai Inc. on Monday said it plans to sell 15.5 million shares at between $31 and $34 apiece in its initial public offering. At the $32.50 midpoint of that range, the Redwood City, Calif., enterprise artificial-intelligence software company said it expects net proceeds of about $613."
     publishedDateTime: 2020-11-30T12:03:00Z

@@ -1,33 +1,23 @@
 ---
 category: news
 title: "AWS Announces Five Industrial Machine Learning Services"
-excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced Amazon Monitron, Amazon Lookout for Equipment,"
-publishedDateTime: 2020-12-01T20:45:00Z
-originalUrl: "https://www.marketwatch.com/press-release/aws-announces-five-industrial-machine-learning-services-2020-12-01"
-webUrl: "https://www.marketwatch.com/press-release/aws-announces-five-industrial-machine-learning-services-2020-12-01"
+excerpt: "Amazon Monitron provides customers an end-to-end machine monitoring solution comprised of sensors, gateway, and machine learning service to detect abnormal equipment conditions that may require mainte"
+publishedDateTime: 2020-12-02T14:04:00Z
+originalUrl: "https://www.manufacturingtomorrow.com/news/2020/12/02/aws-announces-five-industrial-machine-learning-services/16204/"
+webUrl: "https://www.manufacturingtomorrow.com/news/2020/12/02/aws-announces-five-industrial-machine-learning-services/16204/"
 type: article
-quality: 86
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Manufacturing
+  domain: manufacturingtomorrow.com
 
 topics:
-  - Machine Learning
-  - AI
   - AWS AI
-
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI
+  - Machine Learning
 
 related:
   - title: "AWS announces Panorama a device adds machine learning technology to any camera"
@@ -89,6 +79,6 @@ related:
         height: 271
         isCached: true
 
-secured: "n4S5DGslidK4wlrOCWjZBp5hlDUGCf3k0DUzzDLKOXaMOLI2dSK0oQakj1roF6iG9zMhzb+JcSbP4AiAz5/+Sak8ybK12gX7mAFTx7TD/JLgbEWunvBFqNN7es3THvH8r01ZbCHpnBAuxo61Z2tha2BPzhAjm4FSYqW4nhJ5jaUwL43Lc91KadlGZPSl6AKvHMcKZzcvg1HPd0Ng4MBEcgMLJftwtpvbSku6HpTEa2Bw2KkTJ+BX9dIepF7TBY4VKxti49Rq3u4nvs4ZQIUTKUjkbtm6MfyUkdXHbxml6dNtx+LmLNOx5YaoW+JdeAs19f/MaYemTsTJcGeDZO+JwOAvjBJSs9sN1FWYBLWdRSQ=;kDZFHiTU/5VlEWO922JKfQ=="
+secured: "yYgdbN0iBd+S6wJAZ5BhyLGqJDcEDdREM1whrEeZ99zec3i5Dl608MsE9u7NSy5QG0jpE+GXRQkrAmzVgJwhgzrE6MGYKeCcXpN4yEHaJI6Cro+q6CcepTtdyg6QVJjHym3zcpN+fBqcNMVFusk0n/FcH9/w3KAzCfBCc1aX/sBSZajMXeDKkXuenjsehcWTtYqCblWmbs08f8p8zn8yY1T6chzvX7PzxyTgAiUGdCTwWRib2yRCbA4PX3uGRpMnnKC68mff8DGm1kjHdc7JMFear6G6M2fN7hKc135WzhKnU5hpZpJ7KOoUlM/wE65adDWO7okYctRocS41ex1EdBSQDq/S6fXJxpydlTyPhjQ=;U1y7dd9rWVaq/UrmyAvw1A=="
 ---
 

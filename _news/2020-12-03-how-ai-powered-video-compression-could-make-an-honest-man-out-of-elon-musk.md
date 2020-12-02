@@ -8,8 +8,8 @@ webUrl: "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compressi
 ampWebUrl: "https://thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/amp/"
 cdnAmpWebUrl: "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/12/02/how-ai-powered-video-compression-could-make-an-honest-man-out-of-elon-musk/amp/"
 type: article
-quality: 85
-heat: 85
+quality: 87
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/12/aicodecs-796x419.jpg"
@@ -29,6 +30,6 @@ images:
     height: 419
     isCached: true
 
-secured: "9aOTjfreeS0q1c0SXqENnBAL0KeakKypJTKngz52ShBYlnE1RJ+oIKnDDxokQxhL6MmUDidEBoKuSh0uS1Kww98u8yxL/58OIqOTgsY8+9m4Oi1JL9UOu2Jm9pganXHcuq4tqeJkcGW9RXV4uGWYSoj2cNGb9bIo/Vtvzo/GaIYVJFdyntvAafalDCxPYKkUrmE72Rf5RrwRClsN01SvCJSdKCSAXN68UVVYrUbXDBMjbVDvVbHc26XGXpI14qKGa68hD6vk//idi3kkHwFVq2EtjvGpmKCIpHW4LTisRTYCeAClBHVTWBfVN2m0ZYIqO+B+qrug1DqW3k1U+qJQYjMWwAqxNwz4fRCN8okLwUs=;+TrVs9fF9BjAmw37hjo+RQ=="
+secured: "L1qQsDNMuCujjbvrIPxfykjEz0afovDSLz7Co+hBCVKzFe019YekJ3+567C7DpRcQHxHSTF6inia7uTEZ58NBlUMBqLxo8p8fu2Hj8t/zCTA7Ses4K2tOgjDeQCfFTyvlLNcoZNkZnsdSR0skAnct/rCjly5mUitAO4QCSdB7Nv0K5KwfJgViCrN+AE1lsbOmbN7Lm+/UcMbnscH7xMKMZn+gtRmyuFO01o7ChewmEKNVd1GsY5pGBOmd+lVpc644/NRwCYVUI3FMlkeon+H4rmyFRZF9gDUGJKOkuQyR+e3yCyArCXA+TsSZ6UehL4aCRdifgPewmEptNtsBVAi8omH1PqUYPgPfRcvZ1U276Nb+sqLU0nMj5Ui1N9p/Ch708J4YKKlWZWgEFXJ90gWfvlLYdleJlg+ad9HrUNddHoRsx8HXyjG5MQqz2d/p65t7GH0DwEvRooUEnnvuz4Ab8BdbEl5JuCednifhIOYJ7+3c3E1nia6rVkTtVDbsR0IAB2obdkTkNOuq8Z+VCsNvw==;IOzRHo6y1fBFgWdHd81uWg=="
 ---
 

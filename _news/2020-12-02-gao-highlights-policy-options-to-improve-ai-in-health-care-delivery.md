@@ -33,6 +33,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "GAO Issues Report on Artificial Intelligence in Health Care"
+    excerpt: "Tennessee, chairman of the Senate Health, Education, Labor, and Pensions Committee. Greg Walden, R- Oregon, ranking member of the House Energy and Commerce Committee, Rep. S. Brett Guthrie, R- Kentucky,"
+    publishedDateTime: 2020-12-02T22:46:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/gao-issues-report-on-artificial-intelligence-in-health-care"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 37
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8LHfrUW01xND3CX4s98bAPONbktAbqevVu0CPE1oa1c7FVDRB39bmSfSnaXA1c99oxjLsw/AHiPVNzRKvcESeRQVZcOOFWiWPS0WEMwGo326h+plTzGMJvhuoj3pIDliaNh+elx9pBJwfDi7esR/qvwCJsFWOt4hn6lktHu1C15tyR74pyxZ37WcdDyFgBbrlKH8lTFP+d/fG5yiDMWKD6Z+WZDLfrpi5mc0XVM8o01S4kqbQvH0IMPSlrorcnAVkS+f1xamq8ReyXJu7M3mRpsHVMzXh1pyrDQgze+yBHxiz3lNlsgs+A6YD4rWze0mvcj2pmqVHKiv9ertlaD0VgnZaw9aDP5kueWdq3JZ08s=;x7PaAmfO3V780PPLYtYeKw=="
 ---

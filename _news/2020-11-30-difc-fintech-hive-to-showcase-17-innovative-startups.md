@@ -41,6 +41,20 @@ related:
         width: 590
         height: 400
         isCached: true
+  - title: "Biden administration expected to prioritize digital ID and tighten fintech regulations"
+    excerpt: "U.S. President-elect Joe Biden will be coming into office amid a rapidly changing outlook for fintech, digital identity, and AI, and is expected to introduce stricter measures surrounding finance"
+    publishedDateTime: 2020-12-02T22:30:00Z
+    webUrl: "https://www.biometricupdate.com/202012/biden-administration-expected-to-prioritize-digital-id-and-tighten-fintech-regulations"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 16
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/05/11111722/Digital-identity-v2.jpg"
+        width: 1000
+        height: 667
+        isCached: true
 
 secured: "mP+u/jUiaWq1HXG8fAMRMT3iBgiXaS3nWcN6FQiR3Ir6rjfgYtp/qhs+f9DxGSSX99Bj2r/PLRTXJMt518bZ/MiZtTqhNAaHstQCn0yIZF9U3AtVdh9InzSh14+pgJka4K+G0/k++UCzrJs5bclL0JEehXoTqe1M2UIrOjLjGj5wKZ0drmp+l0jRaXKkNl3W6ulVWLuNhQkKFSoy6ZoOTqGLLjO01SeW6oHMbo5D88ralcITFpccfDwfcedbHtWPRCEz4dEYdd1JIerS3KUeD2QQBaXKNKPGXANWtT1tEOrRiJpD7eX59XWnautdbswnurJTvlYaIyCOeHGFHvP744LkknF+RaFWgPijTu43+uQ=;a02WBynVLv4Rowi1OTW/hg=="
 ---

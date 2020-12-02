@@ -35,20 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Training Facial Recognition on Some New Furry Friends"
-    excerpt: "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem."
-    publishedDateTime: 2020-11-28T06:43:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html"
-    type: article
-    provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/custom/image/590573fe-bcc2-11ea-a70c-9fc5e1d62811.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
   - title: "Ugandan police accused of using facial recognition system to fuel rights abuses"
     excerpt: "The police in the east African nation of Uganda have been faulted for using a facial recognition system deployed in the country by Chinese technology giant Huawei to track, arrest and torture"
     publishedDateTime: 2020-11-30T20:39:00Z
