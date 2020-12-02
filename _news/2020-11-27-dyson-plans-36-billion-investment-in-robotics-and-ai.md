@@ -26,22 +26,6 @@ images:
 
 related:
   - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
-    excerpt: "Dyson plans to spend nearly £3 billion to double its range of products by 2025, with robotics among the new areas to be researched."
-    publishedDateTime: 2020-11-27T07:29:00Z
-    webUrl: "https://www.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
-    ampWebUrl: "https://amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
-    cdnAmpWebUrl: "https://amp-belfasttelegraph-co-uk.cdn.ampproject.org/c/s/amp.belfasttelegraph.co.uk/news/uk/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-39797834.html"
-    type: article
-    provider:
-      name: Belfast Telegraph
-      domain: belfasttelegraph.co.uk
-    quality: 87
-    images:
-      - url: "https://www.belfasttelegraph.co.uk/news/uk/02227/39797835.ece/AUTOCROP/w1240h700/bpanews_a3da0697-6e0e-4619-8bfb-ca1f4080ed1a_1"
-        width: 1240
-        height: 700
-        isCached: true
-  - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
     excerpt: "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025."
     publishedDateTime: 2020-11-27T19:13:00Z
     webUrl: "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
@@ -56,22 +40,6 @@ related:
       - url: "https://www.kentonline.co.uk/_media/img/OUYIDG68WRKX6AL8QM6H.jpg"
         width: 1620
         height: 1080
-        isCached: true
-  - title: "Dyson unveils £2.75bn investment plan in battery technology, robotics and machine learning"
-    excerpt: "Dyson opened over 100 retail shops in 2019 and a further 30 in 2020 and the plan is to continue expanding its retail footprint"
-    publishedDateTime: 2020-11-27T09:08:00Z
-    webUrl: "https://www.proactiveinvestors.co.uk/companies/news/935099/dyson-unveils-275bn-investment-plan-in-battery-technology-robotics-and-machine-learning-935099.html"
-    ampWebUrl: "https://www.proactiveinvestors.co.uk/companies/amp/news/935099"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-co-uk.cdn.ampproject.org/c/s/www.proactiveinvestors.co.uk/companies/amp/news/935099"
-    type: article
-    provider:
-      name: Proactive Investors
-      domain: proactiveinvestors.co.uk
-    quality: 81
-    images:
-      - url: "https://www.proactiveinvestors.co.uk/thumbs/upload/News/Image/2020_11/1200z740_1606465403_2020-11-27-08-23-23_9d9239accd44e07031773033797315d5.jpg"
-        width: 1200
-        height: 740
         isCached: true
   - title: "How to drive effective AI adoption in investment management firms"
     excerpt: "By Chandini Jain, CEO of Auquan Artificial intelligence (AI) has the potential to augment the work of investment management firms to unprecedented levels, powering decision-making, driving efficiencies,"

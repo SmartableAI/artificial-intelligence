@@ -26,6 +26,22 @@ images:
     height: 236
     isCached: true
 
+related:
+  - title: "City of Hobart pilots AI to track litter in waterways"
+    excerpt: "But our waterways aren’t just conveyor belts transporting land waste to the oceans: they also capture and retain litter. Currently, the most common method for monitoring litter relies on humans conducting on-ground visual counts."
+    publishedDateTime: 2020-12-02T00:24:00Z
+    webUrl: "https://www.itnews.com.au/news/city-of-hobart-pilots-ai-to-track-litter-in-waterways-558464"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 39
+    images:
+      - url: "https://i.nextmedia.com.au/News/Hobart_CSIRO_waterway.png"
+        width: 754
+        height: 557
+        isCached: true
+
 secured: "XvC4shUMCR8BqGdaCmMqq6V+d+hEn0CaMzBKUAILzGZC1DC5iYXlD0rqpprSrCGFkHi3EeKJutbYtM+B8UpYmdu2ssYZELIp5TQ2BX9cVdquzMJZxPZ4AJwUYbTk7MpPvcsa/0jvpdjiuCp9Ifr60e6lwKUG9IcexUNZIqH/0vJxCJ69AtDuT21iyyc4v3SLOOyKKN/QO3sBkHmuW1w+R6q9JUoW6BVjohV0iGS8iKRDy4NBhTYKe+HDCwvWtSgt2zQ2LS5oEgUhsYqRfIGyNUS0bZPJWRxCOFOsQiiw4BYZuPsD7VoOfa4OvmrQFq+f9pEwYy5CMpHq8v5NL1SlrV5Gvgr+q7Uu06TqnZ/y8P7Eq9X5C5ytpQ5EnzDFRPjAozhoUFq0oTzbTJXG0l42OwnkC/fNZOj+HmLwCLyMHVv6DkS7iYVlyFgFDWOSQOQcTcysmm0w4yiO64Be+jvgFvJZbsfFpsy0y+ezmAVT2cguqPSd5AAqT+UYKhvkUP/Yj2roZRCBAws9tw+r508k6Q==;APzNQjEUpB+0MdMXthkJDg=="
 ---
 

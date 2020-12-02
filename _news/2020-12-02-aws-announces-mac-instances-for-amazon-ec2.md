@@ -1,20 +1,18 @@
 ---
 category: news
 title: "AWS Announces Mac Instances for Amazon EC2"
-excerpt: "Amazon EC2 Mac instances enable Apple developers to natively run macOS within AWS—extending the flexibility and scalability of the cloud with pay-as-you-go pricing to all"
-publishedDateTime: 2020-12-01T22:57:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/b18587855/aws-announces-mac-instances-for-amazon-ec2"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/b18587855/aws-announces-mac-instances-for-amazon-ec2"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18587855"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18587855"
+excerpt: "New EC2 Mac instances enable customers to run macOS workloads in the AWS cloud for the first time, extending the benefits of AWS to Apple developers."
+publishedDateTime: 2020-12-01T18:18:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
+webUrl: "https://www.businesswire.com/news/home/20201130006036/en/AWS-Announces-Mac-Instances-for-Amazon-EC2"
 type: article
-quality: 59
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
@@ -72,6 +70,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tNW6TOsz+ITpNvORUpSQm76m7tf/BCgAblETd3J5WWm/rlZUXwYOoG2mH08gD/4luuRzQ91I09dKT74X38s/SjOkgPb0qrffoLSPbVBM6b5pelCbbU1lIppM4P89UJel2lpZ3mOcTGecqzDHrYoLtEMe7LmDrSG4favWp/Y+RfwHOtdMb9DRyf/ADlqTlYLLIbUxZ7sHlkSPXI0Y+9c8x/97qw2YelksZZe+eYjaD42DnfHiF4/aD8kZ9BqO13bvXBQJf+toaaqbcRjTbtPJd2g0UOXTFDNqUimfyYxjfMftsYi2YajtWWJD6G2q7tFALoB5QlV7gNgL0ALgY4avpKVRsutEHKpUlPgqS87craw=;IP5yVNd7wdHlUXj/ytbmJQ=="
+secured: "C6SVHOaxpo+1MwypyOqVLLEAylzxAp6bJ9SAE99J+IJGAG3hW6Fj+u+MwnZWcMX1LmT1sGMTTig9YAHjhX/KoK/iQo3ODmsys4qH6/u6l3HVtWWHFekPBkpG2dICNS/IH7rMhcxLKz04a6I9KQelQgrbxNIoCCz1p/iv8IJPyIq6qLipEIFNswT6hRYRZ7QcTiLp+o6bXvElldsZEnYb4hhQjO/QG23ZS2fKfuIVlu1ErccYs2SOgzVhtJef1AE1xwHLMYTdSFZjdgz84RYV5lsWx9n4tW7eWkCznLONTC+u/JGsv5ANya0m24/yXHnDDicMP/35cU9zkwA93d/MUbiGjT9looSypfCaevmKBlo=;vWeTLIbPr7rZ+vd2VK72zQ=="
 ---
 

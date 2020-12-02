@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Shrinking massive neural networks used to model language"
-excerpt: "Deep learning neural networks can be massive, demanding major computing power. In a test of the ''lottery ticket hypothesis,'' MIT researchers have found leaner, more efficient subnetworks hidden within BERT models."
-publishedDateTime: 2020-12-01T18:34:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-12/miot-smn120120.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-12/miot-smn120120.php"
+excerpt: "Deep learning neural networks can be massive, demanding major computing power. In a test of the 'lottery ticket hypothesis,' researchers have found leaner, more efficient subnetworks hidden within BERT models."
+publishedDateTime: 2020-12-01T23:47:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/12/201201144041.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/12/201201144041.htm"
 type: article
-quality: 24
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
-
-images:
-  - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
-    width: 1200
-    height: 675
-    isCached: true
 
 related:
   - title: "Shrinking massive neural networks used to model language"
@@ -40,6 +38,6 @@ related:
         height: 1000
         isCached: true
 
-secured: "mCfAtCEjt9U2MlmWbka57oZD9WbnO9BNOvQB9g0nRlo7pcqMLBLM9fhbB+LTBVjCINTMYSQfohGucx68NIomU3n9fxlCnsx9+ypFix+iVDGFxPNPx/CfC07PaWvEyD8A6x7P41KsgmHG4/aCqrx2tIQeLNV4gRiAnPSp6Qvekh9mzIlGNVZZwkeSm6S1ey4KhFG1F+psidET/QBfoP0l1SUfzUYHJZdFnP8UGzPFkLuVowQj0bVWLceom4oaYe+nXe8ZY8F7Xt5Sfqbso+SDg4lgJuGYn8YNdIgvfF2JSWY86GElAzsq+ayDKQvKHB+RRRjEkTEzMItsKTZ0JPjcZXdcjE+5BAfRvzbcYvJqkQI=;iY9rlsHtCO5GrVWbs9MNIg=="
+secured: "jUOEwKUQiAuuhYLpVp9/SmQHuWZAbllEC6GO7sZKpDvbxt4XTHU+1hQVWU590QVsIZ4MHGdGJcnFchhceRdfQKbOR8A36+9fBQV8B8yWINox0LKPR/pUJy5gRHwcvow8nxnWYLfzHy43XJFAH8Ihi0ernd7BHgjCYKCQ2p7Edv64gu6rTsbr8pPJ/48v3A3hbDVV1R76uDFypkXu5tv6HGAzEfAsxjVHIEHmVUbBe66gVazaUQ/tehboG3OLpWB2U4ISFKmN4DcYUaCM6kVhFPp11Lc9oenzrjQ0kdDOWRL0u1jHjvRRQ1tRi7jpQbDd792gp3KY7NvT1WeVeFLuhDHD2vruLmF/VSnziAXI6cM=;Xp00uW3nUvTIFt4JsYIhyQ=="
 ---
 

@@ -3,8 +3,8 @@ category: news
 title: "China’s AI chip designer Vastai bags $50m in series A round"
 excerpt: "The new funds will go toward scaling the production of its major AI chips, talent hiring, as well as customer acquisition around the world."
 publishedDateTime: 2020-12-01T07:27:00Z
-originalUrl: "https://www.techinasia.com/chinas-ai-chip-designer-vastai-bags-50m-series-a-round?comments=true"
-webUrl: "https://www.techinasia.com/chinas-ai-chip-designer-vastai-bags-50m-series-a-round?comments=true"
+originalUrl: "https://www.techinasia.com/chinas-ai-chip-designer-vastai-bags-50m-series-a-round"
+webUrl: "https://www.techinasia.com/chinas-ai-chip-designer-vastai-bags-50m-series-a-round"
 type: article
 quality: 64
 heat: 64
@@ -22,6 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "jN+hxJEHPnO8MRKNpERmcpPicbU3ztzookbXQrqdEMyo6mAszntVMB819IRh1JPM9RVvCMHGkAIyckI4GH4owi2zV5vt7urL+BfnVE8D3bQx8Y6ucSvVfG+zbDkf+1VoRC85jJS64pUrnvfk3T8WnhXiOWt0D8C5A4s3HaGlDJyx4+9lQ8BMlZQIxVAv3ARXv791cOXomAfiK1sgnmL8hRCa6/uAYNydA+ARzTz4dBu8Ej2tqSEjr2R8odPnzBnkAXYLVxPnxcUa6ZRQXkyod6TbmauJjFIMzV9FO4iFuGsf1DYRGur/U2EC8up76OYt5ZOVxJ0m0WiPhk8xiyyskF287LGEjCPniNqpJFsJv1fRxzuScfOZqKNEVwMvKQ37ftJna/ovZJF8pxaKjON1HeUNLMa5/Ep0ctbvrvK1MwSpbVYNq59pFZXwzz8NlCAm96JzpHumPuOdNi8YBKPSwO3f/l3iejQEBoTEhLJNkFVr8bxPN/K9a+SRRWoIKh/oJTMsX/qGjVkQtSmti9d82g==;VQzqst1HrTnaozQLNO8Rsg=="
+secured: "M9HwDmcXWyPhNjy22RwprCQ4iWouR1KpVKNApoBChOqRuceLeA4b5BtKrHfh8hmMn+fSbX795ux8f0BetnSDmcOmyq8CdltotOmqjja3yBdHyFPI1A6oJRb58R653UrpFISpBMyRhTJB+9w7+8jM7hJh39TEZklev3QYjQxuGeCOu1RAk0e+r+7fU7ZioLOYTaxueKs1akbP945BC0o8KOQ65VT7D+r4oajaWv0hq8SoEjhGw5Q9PFt6s0yWOGe4/iTjjYe8IVM5j+8jEiEUW5Td8qbY1gketR2XoT5kyIxLBTxxZtMtHWvefmTyo1OGgSgrQnFsNw0d/vWBeG43DcDfH+nC0whqKutyk1sK85mHohzlmwOdkX5vqUBM8PzwTmqbQklcZlVpRDW4YI6NiBYP6ZutdMjPZoOFngb3ypT8ziTwFgfYq7HhFocNrPcJ36x9yAjtC4l67umoW41q1NK5/3XnrWXbkR7F3psAE7KjxiWRjxHrf9iEua7EWZeXjrkeWZdD/pbqNEotodIoXQ==;FwOJWbCjGJ61qqeVt2zfNA=="
 ---
 

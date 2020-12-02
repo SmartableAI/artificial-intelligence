@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/11/30/alphabets-deepmind-achieves-histor
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/alphabets-deepmind-achieves-historic-new-milestone-in-ai-based-protein-structure-prediction/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://9to5google.com/wp-content/uploads/sites/4/2020/11/deepmind-alphafold-cover.png"
         width: 2400
         height: 1350
+        isCached: true
+  - title: "Google's grip on DeepMind set to cost taxpayers tens of billions"
+    excerpt: "DeepMind was snapped up by Google in 2014 for around £400m - but one of its early investors believes it is now worth at least $30bn"
+    publishedDateTime: 2020-12-02T00:17:00Z
+    webUrl: "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/"
+    ampWebUrl: "https://www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/"
+    cdnAmpWebUrl: "https://www-telegraph-co-uk.cdn.ampproject.org/c/s/www.telegraph.co.uk/technology/2020/12/01/googles-grip-deepmind-will-cost-uk-taxpayers-tens-billions/amp/"
+    type: article
+    provider:
+      name: The Daily Telegraph
+      domain: telegraph.co.uk
+    quality: 59
+    images:
+      - url: "https://www.telegraph.co.uk/content/dam/technology/Spark/facebook/artificial-intelligence_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpg"
+        width: 1960
+        height: 1225
         isCached: true
   - title: "DeepMind's AI biologist can decipher secrets of the machinery of life"
     excerpt: "AI firm DeepMind's latest creation, AlphaFold, can predict the shape of proteins from their sequence alone. This fiendish problem normally requires time-consuming experiments, but is key to understand"

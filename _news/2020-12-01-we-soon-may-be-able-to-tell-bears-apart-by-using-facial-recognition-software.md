@@ -59,6 +59,22 @@ related:
         width: 940
         height: 529
         isCached: true
+  - title: "No bugs in facial recognition technology, says state agency"
+    excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
+    publishedDateTime: 2020-12-01T23:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Training Facial Recognition on Some New Furry Friends"
     excerpt: "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem."
     publishedDateTime: 2020-11-28T06:43:00Z
@@ -72,6 +88,22 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/custom/image/590573fe-bcc2-11ea-a70c-9fc5e1d62811.jpg"
         width: 1080
         height: 1080
+        isCached: true
+  - title: "Amazon Expands Call Center Business Technology With Voice Recognition"
+    excerpt: "As Amazon sees new demand for cloud services, the company has announced voice recognition as part of its new services suite for call center businesses."
+    publishedDateTime: 2020-12-01T22:32:00Z
+    webUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/"
+    ampWebUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
+    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
+    type: article
+    provider:
+      name: pymnts.com
+      domain: pymnts.com
+    quality: 44
+    images:
+      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_419039149-457x274.jpg"
+        width: 457
+        height: 274
         isCached: true
   - title: "Beating Facial Recognition: Japanese Store Wants to Purchase 'Face' to Turn It into Super-Realistic Mask"
     excerpt: "As part of the 'That Face' project, Tokyo-based Kamenya Omote is paying to collect face data and turn them into 3D-printed masks with an incredible level of details"
