@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/brazil-trials-facial-recogn
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/brazil-trials-facial-recognition-with-retired-public-servants/"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
         width: 400
         height: 260
         isCached: true
+  - title: "Facial recognition systems improve in recognising masked faces"
+    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at"
+    publishedDateTime: 2020-12-02T11:20:00Z
+    webUrl: "https://www.canindia.com/facial-recognition-systems-improve-in-recognising-masked-faces/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "NusFbD7gsOWU5ZKY1gqL3xTDcg1w7wevWaAhhwML73fP9mGaJ0q64Z00jDTBVG0ixHVDhtRR3t7mk/VHQfL/WLZT15Myz+r/kPuiU/1on1Y/bego3lKTdQbBL708oi3iezxcZclFFQ/h27qdtdo3WKALpMPkQCaaaeK9BUHW0b7MgLZ6dj2+/uOAj2BWALCGw0JjiQsz1Cdyp8UMG1tG4upvdvtKY/rYIwpZyifx0rlTtJr9UVUw5/k8ha8fSyMCoAPtgSAdHKvF8mhSX3hpQ+ogthyVbJhP8MUTDCi7q+H0oZly3eq8IBd4/vSoY56SGn0xUJHxPitGqeuh3i9V1hb0EY6sVLjs+n2+mYKwEyTCGoEvZPSJov81wyoZu159e0CyHBbG+8HAPyqiaR0c8LrSZEPkQGdzpUHki5k6BJLpisE1i5KeWzzRmq3+OT3hnTgxlUL+Cr0wlmV1PSdulZVgbX0874wNvxxpYU4DcIzYy++Ifs2URZzodHDd53TfJpGp97Y3/9bgF14bTyZZgQ==;9G3h8y1ciWeu29mTBaaNZg=="
 ---

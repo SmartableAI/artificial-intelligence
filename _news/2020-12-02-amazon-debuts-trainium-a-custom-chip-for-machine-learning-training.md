@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/amp/"
 type: article
 quality: 121
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2019/12/s4.reutersmedia.net_-1.jpg?w=1200&strip=all"
         width: 1200
         height: 600
+        isCached: true
+  - title: "AWS announces machine learning training chip Trainium"
+    excerpt: "Amazon Web Services plans to launch a new chip for training machine learning models. Trainium was developed in-house, and joins the company's existing Inferentia processor that focuses on inference workloads."
+    publishedDateTime: 2020-12-02T12:40:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-announces-machine-learning-training-chip-trainium/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 88
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Habana_Labs.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Amazon launches Trainium custom AI chip in latest in-house silicon move"
     excerpt: "Trainium is the second custom machine learning chip from Amazon (NASDAQ:AMZN) Web Services, following in the footsteps of AWS Inferentia.Trainium is meant to offer cost-effective training for AI models,"

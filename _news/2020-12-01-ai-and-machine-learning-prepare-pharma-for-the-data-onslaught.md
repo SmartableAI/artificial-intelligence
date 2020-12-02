@@ -7,7 +7,7 @@ originalUrl: "https://www.lifescienceleader.com/doc/ai-and-machine-learning-prep
 webUrl: "https://www.lifescienceleader.com/doc/ai-and-machine-learning-prepare-pharma-for-the-data-onslaught-0001"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,63 @@ images:
     width: 450
     height: 300
     isCached: true
+
+related:
+  - title: "Preparing Leaders For The Artificial Intelligence Age"
+    excerpt: "The power and promise of AI to augment decision-making is impressive, but there are a few things leaders need to keep in mind in order to leverage the tech successfully."
+    publishedDateTime: 2020-12-02T12:50:00Z
+    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/"
+    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc544ca97838db9b65a033f%2F0x0.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CIO Leadership: Using AI and Automation to Strengthen Enterprise Efficiency and Improve Business Models Will Drive the"
+    excerpt: "Discussion at HMG Strategy’s 2020 HMG Live! Florida CIO Ex"
+    publishedDateTime: 2020-12-01T00:50:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-11-30/cio-leadership-using-ai-and-automation-to-strengthen-enterprise-efficiency-and-improve-business-models-will-drive-the"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 43
+    images:
+      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Calls grow for more AI transparency"
+    excerpt: "The scientific community is rising up to call for more transparency in artificial intelligence research, according to MIT Technology Review."
+    publishedDateTime: 2020-11-30T06:15:00Z
+    webUrl: "https://www.linkedin.com/news/story/4271449/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D1AAQGEdSBhhDrAgA/storylineheaderimage-shrink_400_400/0?e=1606809600&v=beta&t=Ap4wBGIRnk7tg5NFfhYWHjYlVZwKFgaKRAALEjH-DSQ"
+        width: 400
+        height: 266
+        isCached: true
+  - title: "The AI coach that turns millennial into leaders in just 2 minutes a day"
+    excerpt: "Berlin New York November 27th 2020 https bunch ai New iPhone app aims to disrupt antiquated management training and make the secrets of great leaders accessible to everyone Companies spend 366 billion on training globally despite the fact that current"
+    publishedDateTime: 2020-11-30T08:17:00Z
+    webUrl: "https://www.openpr.com/news/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
+    ampWebUrl: "https://www.openpr.com/amp/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
+    cdnAmpWebUrl: "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2197981/the-ai-coach-that-turns-millennial-into-leaders-in-just-2-minutes"
+    type: article
+    provider:
+      name: openpr.com
+      domain: openpr.com
+    quality: 37
 
 secured: "Am165yxZumBxpTaroo/xcJLOwDIHy16o7hTrV979dNnvdE8oKdGyownPA/H8W1vQlH43UZT03iaoWmreEt+IE+wFwtPlehoj7nP28bI6C0uA/lzC0t0Z2Q7/6WMJB+GbIXeGk3dPVvrFwLiI7GEylLQNBMP9jKj8Wh78/kmwsUZNnTLRIxhNqpKgbvGbcBZS6PwBWH80KHZ0Da/3hO0xMGPDkc4Smi2oCDbrR3Wz/vLqURYTde44S6+QHLGZG8eEJk0ILGPoltNPWQmcjGE+NjmzuHUPTr6F6pYqqJCiFJTgyDdvGUhg/wD5ojjp2YAzc3AzjWhneecyNQ09tooVAgHnPBwFqoefd82BEPQtEUdtFssogy1X4xyxufIxqSCoQffQaq6Ks/XP8yJeMlw6rlLokAuAMO42Fl4rdKbHdFE3lfc9KU64ym3xOKdY9nF5/13SGb22+CLXFRKEDPAuXRFebgm/oAhcB9ToX8L0gXTYVm6QbUs11mkkfkhUrOLM31z5hQ+qbasFee7q0vPQbg==;0XP70U4IMV8hJkHN3feyVg=="
 ---

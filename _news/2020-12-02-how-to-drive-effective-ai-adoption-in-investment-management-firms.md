@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dyson plans £3 billion investment in robotics and AI to create new products"
-    excerpt: "The vacuum cleaner firm says it wants to double the size of its current product portfolio with new device ranges by 2025."
-    publishedDateTime: 2020-11-27T19:13:00Z
-    webUrl: "https://www.kentonline.co.uk/news/national/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
-    ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
-    cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
+  - title: "How Artificial Intelligence Can Aid Inventors To Prevent Idea Theft"
+    excerpt: "AI can be used to compare your idea against competitors' products and it can automate the patent process by decreasing cost and increasing access."
+    publishedDateTime: 2020-12-02T10:40:00Z
+    webUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948"
+    ampWebUrl: "https://www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/how-artificial-intelligence-can-aid-inventors-prevent-idea-theft-3092948?amp=1"
     type: article
     provider:
-      name: Kent Online
-      domain: kentonline.co.uk
-    quality: 87
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 72
     images:
-      - url: "https://www.kentonline.co.uk/_media/img/OUYIDG68WRKX6AL8QM6H.jpg"
-        width: 1620
-        height: 1080
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/06/10/artificial-intelligence.jpg"
+        width: 1200
+        height: 803
         isCached: true
 
 secured: "wenB8yEZDLSvkalba4QVp9KWJX3HeX9x0hHSjsk37OUcoatj8LZ/m9fJfRmPw+fdQFCH2IxBRexto0JSegE8R+IphbAEcXS3ch10YPdeNhITh/3pPg6hhu6I3fTTrsDFoM2U7+7mM1NF62sLxOwrXFpjnX9Puy8yzv6WM9YIPjbUkEtliPfWWMChsC65FGQQsLtNO2dvHJNaupz4VaFbg8yyVtaL+64D6CQBUl92gTIlpVgju2UpP8z1rZC0jjZz4iXdfGn2mTqqUBQhmSOSpWRSZrQI4gOJG138WmgBWDAvA33sznK77tyc7WTM5y4DxEIrdjZaP58iDdq4IgNmKMiN9JkEMlK5tKmDxaan48s=;WvIK4u3gbu+uqC+uYUlkMA=="

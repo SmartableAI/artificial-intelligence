@@ -21,6 +21,15 @@ topics:
   - AI
 
 related:
+  - title: "Masks are more likely to protect you from COVID-19 than facial recognition"
+    excerpt: "Facial recognition firms got more than they bargained for when COVID-19 struck. While the technology to identify faces when wearing coverings like the medical face masks we see today has certainly existed,"
+    publishedDateTime: 2020-12-02T12:06:00Z
+    webUrl: "https://www.ameinfo.com/industry/tech-and-mobility/masks-are-more-likely-to-protect-you-from-covid-19-than-facial-recognition"
+    type: article
+    provider:
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 17
   - title: "Amazon delves deeper into voice recognition, call-centre work as demand grows for cloud tools"
     excerpt: "Executive Andy Jassy said COVID-19 has accelerated businesses’ cloud adoption by several years, and more than 5,000 customers turned to the Amazon Connect service for call-centre help during the pande"
     publishedDateTime: 2020-12-01T20:17:00Z

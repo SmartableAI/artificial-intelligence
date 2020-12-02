@@ -64,6 +64,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Facial recognition systems improve in recognising masked faces"
+    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at"
+    publishedDateTime: 2020-12-02T11:20:00Z
+    webUrl: "https://www.canindia.com/facial-recognition-systems-improve-in-recognising-masked-faces/"
+    type: article
+    provider:
+      name: Canindia.com
+      domain: canindia.com
+    quality: 19
 
 secured: "eaQsMVMQA2V6gv/DHNhlT6gdJKPTnfEiiV2LJlXLKjwyaVfcwpvfZQI2Hb0IQ68pFgngwzpRlnmxahOcSYZjtP0Jga9yYihSLX7nkBK3ktDCA5Z1ohlEhJhTdDC3xepprnipSOSrCnzf8YuhKNfBeulU/7iKKpj1BYqFhAcid/7HGkquRV/2x9WG2LtBB/Z0eWSUDO7U0mTDiIEnmZueO9pAKZUxxvinKB4YX2vraem9JMOydn5T1el4CoS7VZxYAFbyCZsaQc0qf3smDsIFmmifqhngX52/syD3s4G72dRlTkjEwyyXQI1o7Bb2JjhQRpvYcO8sgWVqnQGvO2bVnOsuswkL56xdfzHmDx6rVfA=;JZZkAgn8GXoc1aKO4YVMgg=="
 ---

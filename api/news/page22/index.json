@@ -2,6 +2,509 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2020-11-14-this-company-is-allowing-the-ai-to-make-life-insurance-decisions.md",
+      "title": "This company is allowing the AI to make life insurance decisions",
+      "excerpt": "While most companies prefer to make final decisions on their own, Bestow lets the AI determine eligibility for a much faster process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "originalUrl": "https://www.techrepublic.com/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/02/05/82457267-972f-48c8-ad24-3542a0ef2f87/resize/1200x/bbccae6b5e2cb340e005046ffae1dcf0/istock-1169711450.jpg",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/this-company-is-allowing-the-ai-to-make-life-insurance-decisions/",
+      "publishedDateTime": "2020-11-13T10:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon.md",
+      "title": "Amazon begins shifting Alexa’s cloud AI to its own silicon",
+      "excerpt": "On Thursday, an Amazon AWS blog post announced that the company has moved most of the cloud processing for its Alexa personal assistant off of Nvidia GPUs and onto its own Inferentia Application Specific Integrated Circuit (ASIC).",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
+      "originalUrl": "https://arstechnica.com/gadgets/2020/11/amazon-begins-shifting-alexas-cloud-ai-to-its-own-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/InferentiaSmall-640x380.jpg",
+          "width": 640,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-a-covid-19-surge-of-depression-and-anxiety-is-being-treated-by-robots.md",
+      "title": "A Covid-19 surge of depression and anxiety is being treated by robots",
+      "excerpt": "Robots can't do that yet ... Investment in U.S.-based, AI-powered digital health start-ups it has tracked since 2011 are above $10 billion, with investment in mental/behavioral health AI reaching ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "originalUrl": "https://www.cnbc.com/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106788001-1604940603800-gettyimages-992187898-WOEBOT_APP.jpeg?v=1605027490",
+          "width": 4000,
+          "height": 2667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/11/11/people-with-depression-anxiety-want-to-reveal-pain-to-a-robot.html",
+      "publishedDateTime": "2020-11-13T09:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-speech-and-voice-recognition-market-opportunity-assessment.md",
+      "title": "Speech and Voice Recognition Market Opportunity Assessment",
+      "excerpt": "The Speech and Voice Recognition report provides CAGR values along with its fluctuations for the specific forecast period. The Speech and Voice Recognition report has been generated by taking into ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.openpr.com/news/2187632/speech-and-voice-recognition-market-opportunity-assessment",
+      "originalUrl": "https://www.openpr.com/news/2187632/speech-and-voice-recognition-market-opportunity-assessment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.openpr.com/T/b/Tb13285808_g.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.openpr.com/amp/2187632/speech-and-voice-recognition-market-opportunity-assessment",
+      "cdnAmpWebUrl": "https://www-openpr-com.cdn.ampproject.org/c/s/www.openpr.com/amp/2187632/speech-and-voice-recognition-market-opportunity-assessment",
+      "publishedDateTime": "2020-11-13T09:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "openpr.com",
+        "domain": "openpr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library.md",
+      "title": "PyTorch Developer Day brings a number updates to the machine learning library",
+      "excerpt": "The first PyTorch Developer Day was held yesterday, providing PyTorch developers with a day of technical talks, project deep dives, and networking opportunities.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
+      "originalUrl": "https://sdtimes.com/ai/pytorch-developer-day-brings-a-number-updates-to-the-machine-learning-library/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2020/11/a555c5b18b9a2aa5cead0428e08ec9d3.png",
+          "width": 498,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T09:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together.md",
+      "title": "OpenAI proposes using reciprocity to encourage AI agents to work together",
+      "excerpt": "Researchers at OpenAI propose a new technique to encourage AI agents to work together to solve complex challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/04/openai-e1591041162109.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/openai-proposes-using-reciprocity-to-encourage-ai-agents-to-work-together/amp/",
+      "publishedDateTime": "2020-11-13T09:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-13-5-ways-to-celebrate-tensorflows-5th-birthday.md",
+      "title": "5 ways to celebrate TensorFlow's 5th birthday",
+      "excerpt": "Five years ago, we open-sourced TensorFlow, our machine learning framework for research and production. Our goal was to expand access to state-of-the-art machine learning tools so anyone could use them.Since then, TensorFlow has become the most popular machine learning library in the world, with over",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
+      "originalUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TFDS19_411_1.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/5-ways-celebrate-tensorflows-5th-birthday/amp/",
+      "publishedDateTime": "2020-11-13T09:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond.md",
+      "title": "Ocado shops its way to a robotics platform for groceries and beyond",
+      "excerpt": "French robotics startup Exotec recently raised $90 million ... Earlier this year, Berkshire Grey secured a hefty $263 million for its AI-infused robotics that are designed to automate fulfillment ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "originalUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/11/Ocado-Warehouse.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/ocado-shops-its-way-to-a-robotics-platform-for-groceries-and-beyond/amp/",
+      "publishedDateTime": "2020-11-13T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-computer-vision-app-allows-easier-monitoring-of-diabetes.md",
+      "title": "Computer vision app allows easier monitoring of diabetes",
+      "excerpt": "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "originalUrl": "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-13T08:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-14-6-training-trends-to-watch-that-will-define-the-workplace-in-2021.md",
+      "title": "6 training trends to watch that \"will define the workplace in 2021\"",
+      "excerpt": "With the shift to remote work amid the coronavirus pandemic, online learning related to mindfulness, cybersecurity, and hybrid tech capabilities surged, Udemy found.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "originalUrl": "https://www.techrepublic.com/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/11/13/0b463f03-29cb-4b8b-94ea-a78eef035a6b/resize/1200x/01128683e6fc1503bc0242100f666b06/dusanpetkovic.jpg",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/6-training-trends-to-watch-that-will-define-the-workplace-in-2021/",
+      "publishedDateTime": "2020-11-13T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-14-facebook-is-using-ai-to-help-its-content-moderators.md",
       "title": "Facebook is using AI to help its content moderators",
       "excerpt": "The Verge reported that the social network is now using machine learning to prioritize posts in a queue that human moderators need to go through.",
@@ -704,457 +1207,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-weather-proof-chip-aims-to-take-self-driving-tech-wireless-communications-to-next-level.md",
-      "title": "Weather-proof chip aims to take self-driving tech, wireless communications to next level",
-      "excerpt": "A new device can overcome challenges like bad weather to deliver more secure, reliable communications. This could aid military communications in challenging areas, improve the ability of self-driving cars to see the environment around them and speed up wireless data for potential 6G networks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2020/11/201112145432.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-13T01:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-keybank-battles-push-payment-fraud-with-machine-learning-other-tactics.md",
-      "title": "KeyBank Battles Push-Payment Fraud With Machine Learning, Other Tactics",
-      "excerpt": "The Digital Fraud Tracker explores the threat of APP fraud and the use of data analytics and pattern recognition to identify and counter digital schemes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
-      "originalUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://securecdn.pymnts.com/wp-content/uploads/2020/11/Hero-1-457x274.jpg",
-          "width": 457,
-          "height": 274,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
-      "cdnAmpWebUrl": "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/fraud-prevention/2020/keybank-battles-push-payment-fraud-with-machine-learning-other-tactics/amp/",
-      "publishedDateTime": "2020-11-13T01:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pymnts.com",
-        "domain": "pymnts.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip.md",
-      "title": "Amazon shifts some Alexa and Rekognition computing to its own Inferentia chip",
-      "excerpt": "Amazon has also said that “Rekognition,” its cloud-based facial recognition service, has started to adopt its own Inferentia chips. However, the company did not say which chips the facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/",
-      "originalUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/05/alexa-on-book-e1595272380870.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/13/amazon-shifts-some-alexa-and-rekognition-computing-to-its-own-inferentia-chip/amp/",
-      "publishedDateTime": "2020-11-13T00:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery.md",
-      "title": "Australia Post using machine learning to tell you when to expect a delivery",
-      "excerpt": "It will give customers a two-hour window for when a delivery will arrive, although it has mapped it down to plus or minus 15 minutes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "originalUrl": "https://www.zdnet.com/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/australia-post-using-machine-learning-to-tell-you-when-to-expect-a-delivery/",
-      "publishedDateTime": "2020-11-13T00:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-renalytixai-to-participate-in-the-stifel-2020-healthcare-conference.md",
-      "title": "RenalytixAI to Participate in the Stifel 2020 Healthcare Conference",
-      "excerpt": "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/renalytixai-to-participate-in-the-stifel-2020-healthcare-conference-1029799869",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/renalytixai-to-participate-in-the-stifel-2020-healthcare-conference-1029799869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/RenalytixAI-to-Participate-in-the-Stifel-2020-Healthcare-Conference-1029799869",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/RenalytixAI-to-Participate-in-the-Stifel-2020-Healthcare-Conference-1029799869",
-      "publishedDateTime": "2020-11-12T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-system-brings-deep-learning-to-internet-of-things-devices.md",
-      "title": "System brings deep learning to “internet of things” devices",
-      "excerpt": "MCUNet is a new MIT system that brings machine learning to microcontrollers. The advance could enhance the function and security of devices connected to the Internet of Things (IoT).",
-      "sourceUrl": null,
-      "webUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
-      "originalUrl": "https://news.mit.edu/2020/iot-deep-learning-1113",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://news.mit.edu/sites/default/files/images/202011/MIT-Tiny-AI-01.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T21:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Massachusetts Institute of Technology",
-        "domain": "mit.edu",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/mit.edu-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-artificial-intelligence-and-the-law.md",
-      "title": "Artificial Intelligence and the Law",
-      "excerpt": "Self-driving vehicles may be safer than human drivers ... Ryan Abbott brings a unique and sometimes controversial perspective to artificial intelligence as a physician, attorney, and eminent academic, but manages to present the subject in an accessible ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "originalUrl": "https://www.cambridge.org/gb/academic/subjects/law/e-commerce-law/reasonable-robot-artificial-intelligence-and-law?format=PB&isbn=9781108459020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T19:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-infosys-delivers-cloud-powered-cognitive-first-managed-services-for-it-operations.md",
-      "title": "Infosys delivers cloud-powered, cognitive-first managed services for IT operations",
-      "excerpt": "The open, end-to-end managed services platform for IT operations ... seamless experience journeys Applying conversational AI and cognitive automation to enable self-service, improve efficiency ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.helpnetsecurity.com/2020/11/13/infosys-live-enterprise-application-management-platform/",
-      "originalUrl": "https://www.helpnetsecurity.com/2020/11/13/infosys-live-enterprise-application-management-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-12T19:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes.md",
-      "title": "NextVPU breaks the Performance Records of AI Chips on the Edge Side, and supports \"Algorithm Deployment Within 5 Minutes\"",
-      "excerpt": "In less than five years after its establishment, NextVPU has reinforced its leading position in the computer vision industry. Its \"blockbuster products\" are N1 series computer vision chips. With the high Tera operations per second (TOPS) and powerful real-time data stream processing capability,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/nextvpu-breaks-the-performance-records-of-ai-chips-on-the-edge-side-and-supports-algorithm-deployment-within-5-minutes-1029799438",
-      "publishedDateTime": "2020-11-12T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time.md",
-      "title": "This startup wants to fix your biased AI, one dataset at at time",
-      "excerpt": "A UK startup has released a new tool that could finally give coders a practical way of identifying bias in their datasets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "originalUrl": "https://www.zdnet.com/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet2.cbsistatic.com/hub/i/r/2019/06/20/76fcf7ca-73a8-42c3-9086-a1cc05b5cb06/thumbnail/1200x675/72a5ebbb8c4666c1729fbcdc200eaeb5/thumb.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-startup-wants-to-fix-your-biased-ai-one-dataset-at-at-time/",
-      "publishedDateTime": "2020-11-12T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

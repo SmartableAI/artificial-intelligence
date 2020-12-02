@@ -7,8 +7,8 @@ originalUrl: "https://www.eweek.com/enterprise-apps/amazon-brings-more-machine-l
 webUrl: "https://www.eweek.com/enterprise-apps/amazon-brings-more-machine-learning-to-the-contact-center"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: eWeek
@@ -27,22 +27,6 @@ images:
     width: 560
     height: 300
     isCached: true
-
-related:
-  - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
-    excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"
-    publishedDateTime: 2020-12-02T01:57:00Z
-    webUrl: "https://siliconangle.com/2020/12/01/amazon-brings-machine-learning-industry-devops-contact-centers/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/image_2020-12-02_083650-1.png"
-        width: 1253
-        height: 737
-        isCached: true
 
 secured: "i3rbwIrQ7I+0fM+VWMiRJBgdI2o/dcbrU3aaXJV6y0S2bawfPYXKv47Jmm8KCNryxE6Sh41MEhIpI2nMV0fQuyzBgG7vV3z+eFbRjMJayYfUIRdbpyjZxle5LVypUHU6UyLDX2XUsstCib1wGhHyNhMWX0e8K1MjgXgwnBAbwODUIm+eH35f7kYun5Hk3porx+3ueaaI7JWXZv0WJQWBqvh81xwHpfgonrW8r1iA5v1C7YvWiiqWrpzX8GDT4PEAaPbhv4upG9CIvoQvLS87pj2Taf3Ds8s4Cvyw5EE3UXSS4snEpiy7LDf4TBt5ll168PtXz5Pi0nN5Ar8sUyvWzGHPrKC/T73lUUZpqrJ5BCwRE4NpGEBB6q80a8iO3DdAzQPU6hvZpa12eT6inbSdqxe1NpbQ+7ar4ZwQLSaC5s7dexYpYJXSho9idQwBlwzHYd9VKphJbHqbitm5jE7kVk3er4aj7AKOVVo9aODDD3ft7VkWa6U9NI6TGXwh05QaVVH2ZrU0aHNUtFR5sYOSgA==;mQVFYvY+nL5ZssRCCw66Gw=="
 ---

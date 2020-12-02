@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "AWS announces machine learning training chip Trainium"
+    excerpt: "Amazon Web Services plans to launch a new chip for training machine learning models. Trainium was developed in-house, and joins the company's existing Inferentia processor that focuses on inference workloads."
+    publishedDateTime: 2020-12-02T12:40:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-announces-machine-learning-training-chip-trainium/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 88
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Habana_Labs.2e16d0ba.fill-1200x630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MmAmg9DK6yy06YZyjhKwvjoRURJyPExXP7zJDp2Y2v+ZzsARlj3cZcUWF2msBdN3258WCKC3mrPll/mtULcd84ghqZ4u8dZ7WnNl+dzBCIxjQ7RssHtX/IgSmvHQ7Czl63u4fD6I+M6pFQdBhLVby8kpws0OqFFO6RJoPrNUVU9GmPJpsZAXjwcW5ExwJ+n5eHNgDvS/N9FvaOUbKSx8XWVeISZtVr0U9hfnbNI6UptrbO9ZAB186+J/Ujv/y+H548AKtKRteVvH/98Pct5UIoVrWnfUAbEzxvWcJOROHseO+sQRjyBR4gfDs2LSoMxs5Br0UM/3sU9XzHXIBM7lq88m8VSCtmIHEUKP1tVEmgg=;a2QOes8IVqjKfBgaWGfvjw=="
 ---

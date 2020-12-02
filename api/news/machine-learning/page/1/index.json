@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-aws-devops-guru-the-mahatmas-machine-learning-mantra.md",
+      "title": "AWS DevOps Guru: the mahatma's machine learning mantra",
+      "excerpt": "Invent virtual event this week to announce Amazon DevOps Guru. He/she/they are not an actual person, there is no all-powerful mystical mahatma who delivers teachings as the ‘learned one’ for all DevOps needs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
+      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Dashboard1.df163a3387d20a23186f9f3d87755ec9218666a2.png",
+          "width": 580,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
+      "publishedDateTime": "2020-12-02T03:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools.md",
       "title": "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools",
       "excerpt": "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID.",
@@ -208,58 +252,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-amazon-brings-more-machine-learning-to-the-contact-center.md",
-      "title": "Amazon Brings More Machine Learning to the Contact Center",
-      "excerpt": "Invent, Amazon unveiled more ML-based features for Connect. It’s fair to say the contact center market was one that basically stood still for decades. There were a handful of vendors that offered on-premises solutions that met the needs of most customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/amazon-brings-more-machine-learning-to-the-contact-center",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/amazon-brings-more-machine-learning-to-the-contact-center",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/imagesvr_ez/b2bezp/2020/11/re_Invent-2020.png?alias=social_image",
-          "width": 560,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T10:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
       "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
       "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
@@ -321,7 +313,7 @@
       "originalUrl": "https://venturebeat.com/2020/12/01/amazon-debuts-trainium-a-custom-chip-for-machine-learning-training-workloads/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
