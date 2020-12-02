@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Cloud Natural Language Processing (NLP) Market Trade Analysis, Current Trends, Competitive Landscape and Forecasts till 2027"
-    excerpt: "The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level. The report covers the forecast and analysis of the cloud natural language processing (NLP) market on a global and regional level."
-    publishedDateTime: 2020-11-29T18:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
+  - title: "Global Artificial Intelligence for Edge Devices Market 2020 Industrial Chain, Regional Market Scope, Key Players Profiles and Sales Data to 2025"
+    excerpt: "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2020-12-02T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-for-edge-devices-market-2020-industrial-chain-regional-market-scope-key-players-profiles-and-sales-data-to-2025-2020-12-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

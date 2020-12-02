@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2020-11-20-artificial-intelligence-and-satellite-technologies-reveal-detailed-map-of-air-pollution-across-uk.md",
+      "title": "Artificial intelligence and satellite technologies reveal detailed map of air pollution across UK",
+      "excerpt": "A novel method that combines artificial intelligence with remote sensing satellite technologies has produced the most detailed coverage of air pollution in Britain to date.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
+      "originalUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/7-pollution.jpg",
+          "width": 1920,
+          "height": 1279,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-11-artificial-intelligence-satellite-technologies-reveal.amp",
+      "publishedDateTime": "2020-11-20T01:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-20-startup-circle-how-is-doceree-using-ai-and-machine-learning-to-revolutionize-the-pharma-industry.md",
+      "title": "Startup Circle: How is Doceree using AI and Machine Learning to revolutionize the Pharma Industry?",
+      "excerpt": "In healthcare, robotics and machine learning are already having an impact on patient care, providing basic assistance across many clinical facilities – no doubt a life-saving job. Some may",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
+      "originalUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciol.com/wp-content/uploads/2020/11/docree.jpg",
+          "width": 850,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
+      "cdnAmpWebUrl": "https://www-ciol-com.cdn.ampproject.org/c/s/www.ciol.com/startup-circle-doceree-using-ai-machine-learning-revolutionize-pharma-industry/amp/",
+      "publishedDateTime": "2020-11-19T23:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIOL",
+        "domain": "ciol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2020-11-20-education-about-ai-to-begin-in-high-schools-next-year.md",
       "title": "Education about AI to begin in high schools next year",
       "excerpt": "Artificial intelligence (AI) will be introduced as a new subject in local high schools next year before being expanded to the curriculums of kindergartens and elementary and middle schools by 2025, the education ministry said Friday,",
@@ -1140,100 +1227,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-ai-powered-learning-tools-are-on-track-to-transform-the-modern-workplace-for-good.md",
-      "title": "AI-powered learning tools are on track to transform the modern workplace for good",
-      "excerpt": "A new era of automation will help workers constantly acquire new skills on the job and at large scale through the use of AI-powered tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11",
-      "originalUrl": "https://www.businessinsider.com/sc/how-ai-powered-learning-is-transforming-the-modern-workplace-2020-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5faecfbe1c741f0019ac9b58?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-artificial-intelligence-is-reshaping-finance.md",
-      "title": "Artificial intelligence is reshaping finance",
-      "excerpt": "Instead, the German tie-up’s real significance is as a tiny, but unusually visible, sign of a feverish race under way at banks and tech companies to find ways to use big data and artificial intelligence in finance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
-      "originalUrl": "https://www.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739?source=top-articles&link=title",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F136ee239-920a-4bb8-afc5-c91ad26d1f4d.jpg?source=google-amp&fit=scale-down&width=500",
-          "width": 500,
-          "height": 281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
-      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/c7d9a81c-e6a3-4f37-bbfd-71dcefda3739",
-      "publishedDateTime": "2020-11-19T08:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

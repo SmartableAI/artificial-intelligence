@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -59,22 +59,6 @@ related:
       - url: "https://1gew6o3qn6vx9kp3s42ge0y1-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/3/2024/12/Ventilator-splitters-1200-x-630-1024x538.jpg"
         width: 1024
         height: 538
-        isCached: true
-  - title: "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19"
-    excerpt: "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients."
-    publishedDateTime: 2020-11-27T14:15:00Z
-    webUrl: "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
-    ampWebUrl: "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 60
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202011/YT_13-647x363.jpeg?d6xhJjgAzR1d9I7MbWR4fHOcvTsCdaq9"
-        width: 647
-        height: 363
         isCached: true
   - title: "Researchers Develop AI to Detect COVID on Chest X-rays"
     excerpt: "According to the study, published in the journal Radiology, the research team believe physicians could use the AI system to rapidly screen patients who are admitted to hospitals for reasons other than Covid-19."

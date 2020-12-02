@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2020-11-30-london-ai-lab-claims-breakthrough-that-could-accelerate-drug-discovery.md",
+      "title": "London A.I. Lab Claims Breakthrough That Could Accelerate Drug Discovery",
+      "excerpt": "Researchers at DeepMind say they have solved “the protein folding problem,” a task that has bedeviled scientists for more than 50 years.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.html",
+      "originalUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2020/11/30/science/30SCI-DEEPMIND1/30SCI-DEEPMIND1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/30/technology/deepmind-ai-protein-folding.amp.html",
+      "publishedDateTime": "2020-11-30T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-30-one-of-biologys-biggest-mysteries-largely-solved-by-ai.md",
+      "title": "One of biology's biggest mysteries 'largely solved' by AI",
+      "excerpt": "One of biology's biggest mysteries has been solved using artificial intelligence, experts have announced. Predicting how a protein folds into a unique three-dimensional shape has puzzled scientists for half a century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/science-environment-55133972",
+      "originalUrl": "https://www.bbc.com/news/science-environment-55133972",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/FFAA/production/_115705456_t1053onexpv02.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/science-environment-55133972",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/science-environment-55133972",
+      "publishedDateTime": "2020-11-30T07:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-30-new-system-optimizes-the-shape-of-robots-for-traversing-various-terrain-types.md",
       "title": "New system optimizes the shape of robots for traversing various terrain types",
       "excerpt": "So you need a robot that climbs stairs. What shape should that robot be? Should it have two legs, like a person? Or six, like an ant?",
@@ -1113,109 +1216,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-tesla-could-widen-release-of-self-driving-software-in-two-weeks.md",
-      "title": "Tesla could widen release of 'self-driving' software in two weeks",
-      "excerpt": "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
-      "originalUrl": "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032",
-          "width": 716,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN28806A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A",
-      "publishedDateTime": "2020-11-28T00:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-28-kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video.md",
-      "title": "Kamua’s AI-powered editor helps marketers embrace vertical video",
-      "excerpt": "Kamua is an AI-powered video editing platform that helps creators automatically transform landscape videos into a vertical format.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/",
-      "originalUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/11/AutoCrop-ScreenShot.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/27/kamuas-ai-powered-editor-helps-marketers-embrace-vertical-video/amp/",
-      "publishedDateTime": "2020-11-27T19:29:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

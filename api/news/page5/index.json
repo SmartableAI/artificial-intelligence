@@ -2,6 +2,100 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-27-dyson-pledges-new-investment-into-ai-robotics-and-batteries.md",
+      "title": "Dyson pledges new investment into AI, robotics and batteries",
+      "excerpt": "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "originalUrl": "https://www.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff04f8fbd-883b-4864-bacd-b973d50a1c48.jpg?source=google-amp&fit=scale-down&width=500",
+          "width": 500,
+          "height": 281,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "cdnAmpWebUrl": "https://amp-ft-com.cdn.ampproject.org/c/s/amp.ft.com/content/834a568d-5bd1-4fd5-a7d3-c66d2eed9265",
+      "publishedDateTime": "2020-11-26T15:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Times",
+        "domain": "ft.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup.md",
+      "title": "FIFA Trials AI-Powered Automated VAR Calls Ahead Of 2022 World Cup",
+      "excerpt": "VAR has amplified offside controversies rather than eliminate them. AI could make accurate calls instantly at the 2022 FIFA World Cup in Qatar",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
+      "originalUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fbff60f626112e54bbd3f35%2F0x0.jpg",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevemccaskill/2020/11/26/fifa-trials-ai-powered-automated-var-calls-ahead-of-2022-world-cup/amp/",
+      "publishedDateTime": "2020-11-26T10:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-global-edge-ai-chips-market-2020-sales-analysis-future-prospects-and-upcoming-trends-till-2025.md",
       "title": "Global Edge AI Chips Market 2020 Sales Analysis, Future Prospects and Upcoming Trends till 2025",
       "excerpt": "MarketandResearch.biz adds Global Edge AI Chips Market Growth 2020-2025 which comprises strong research on the industry which delivers the major factors influencing over the forecasted period from 2020 to 2025.",
@@ -103,8 +197,8 @@
       "title": "The 10 Coolest AI Chip Startups Of 2020",
       "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -808,20 +902,20 @@
     },
     {
       "path": "_news/2020-11-26-insights-on-the-artificial-intelligence-ai-chips-market-2020-2024-covid-19-industry-analysis-market-trends-market-growth-opportunities.md",
-      "title": "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forecast 2024 - Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Artificial Intelligence (AI) Chips Market 2020-2024 (Graphic: Business Wire) LONDON-- ( BUSINESS WIRE )--The artificial intelligence (AI) chips market is expected to grow by USD 54.",
+      "title": "Insights on the Artificial Intelligence (AI) Chips Market 2020-2024: COVID-19 Industry Analysis, Market Trends, Market Growth, Opportunities and Forec",
+      "excerpt": "ArtificialIntelligenceAIChipsMarket--The artificial intelligence (AI) chips market is expected to grow by USD 54.03 bn, progressing at a CAGR of over 42% during the forecast period.Click & Get Free Sample Report in MinutesThe increasing adoption of AI chips in data centers is one of the major factors propelling market growth.",
       "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio",
-      "originalUrl": "https://www.businesswire.com/news/home/20201125005643/en/Insights-on-the-Artificial-Intelligence-AI-Chips-Market-2020-2024-COVID-19-Industry-Analysis-Market-Trends-Market-Growth-Opportunities-and-Forecast-2024---Technavio",
+      "webUrl": "https://us.acrofan.com/detail.php?number=381643",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=381643",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mms.businesswire.com/media/20201125005643/en/841915/23/IRTNTR41328.jpg",
-          "width": 1200,
-          "height": 627,
+          "url": "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg",
+          "width": 580,
+          "height": 339,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -831,11 +925,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T11:33:00-08:00",
+      "publishedDateTime": "2020-11-25T12:33:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
+        "name": "아크로팬",
+        "domain": "acrofan.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1086,101 +1180,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-aisera-releases-ai-service-desk-for-microsoft-teams.md",
-      "title": "Aisera releases AI Service Desk for Microsoft Teams",
-      "excerpt": "Aisera, a leader in artificial intelligence innovation and customer service, is releasing its AI Service Desk solution for Microsoft Teams, enabling customers to speed up and simplify resolution of internal support tickets for IT with self-service resolutions through Aisera’s platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=144058",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kmworld.com/images/subscribe_magazines_km.png",
-          "width": 772,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T07:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KMWorld Magazine",
-        "domain": "kmworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications.md",
-      "title": "SK Telecom designs own AI data centre chip for 5G applications",
-      "excerpt": "South Korean mobile operator SK Telecom has detailed a new AI chip that will boost the performance of cloud-based mobile services and aid the country’s ambition of becoming a world leader in semiconductor technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "originalUrl": "https://www.techradar.com/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/CMiifeoaPiwDD5NBNkXnuE-1200-80.jpg",
-          "width": 970,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/sk-telecom-designs-own-ai-data-centre-chip-for-5g-applications",
-      "publishedDateTime": "2020-11-25T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

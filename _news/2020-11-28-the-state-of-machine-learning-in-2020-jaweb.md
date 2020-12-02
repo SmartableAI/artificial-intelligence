@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trust in the Machine: The Exponential Rise of Human AI in Banking"
+    excerpt: "And that’s exactly the same concept for machine learning (ML). AI (artificial intelligence) brains are, by and large, programmed the same way as a human brain. Advanced AI and deep learning are built to learn from human decisions, ask the same questions ..."
+    publishedDateTime: 2020-12-02T06:25:00Z
+    webUrl: "https://internationalbanker.com/technology/trust-in-the-machine-the-exponential-rise-of-human-ai-in-banking/"
+    type: article
+    provider:
+      name: International Banker
+      domain: internationalbanker.com
+    quality: 39
+    images:
+      - url: "https://internationalbanker.com/wp-content/uploads/2020/12/AI-Banking.png"
+        width: 1070
+        height: 650
+        isCached: true
 
 secured: "AGGAi3Kh1aaWX8qMXl8mrqDdctal0sH/yw8D6fhqmbVV7LGQixIbnrmkxQeqNd+boowYbEZUpHGO2ZSXfV+PY/04OLBhgZoZTw9LDD/cBA2SjuNKtTQLT/CCVFYfegn3+nk4Rez9HMFqo1PI2y8aqAOMNj+d2tksUvpecYhteXPjl7li949s49FNum3Hkm7nWj7rcRlUSJpGfklk6oorUT8ZWO2PsjPzGk8C+pNgaHJg4j176MGPjAAPhG8Y2OgMGZF4pkeWdYyWNplAjxVgBHmgwDVMIGyyPwi2SzSg912X2DJqoNegkbqYnLb6pPq5Pj81m1lzj4ues0obMYy4J6O78ertJ1yU0lQWObZkPouZiVFd/Qkbm1+uPtrvDYGxfVGXoWkI483ylzTVwqJHWraCDV32rw0S213iwdyrjcIKN1ITrCwHeDxL8NMV31DM5huJR7vxrp2byvzXGpQULB/ujfovEq4wG8gIhW1oWcL0IlBuz636wRxu93zZifONGFCgOoNMIj9fQSowyjtV2g==;9ZA0UO6fQfMi1jIR9THp8w=="
 ---

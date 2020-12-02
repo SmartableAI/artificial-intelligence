@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Global Medical Imaging Artificial Intelligence Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
-    excerpt: "The latest market study published by MarketQuest.biz entitled Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
-    publishedDateTime: 2020-11-30T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-medical-imaging-artificial-intelligence-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "HEzAeF8+ECcO7DFcmydFAWv5QQrE6TlXkOW8pKCGTC88kj+H5v0RU+88SmdK00JcbaMwrwgouzGm9n5IOO+8JrdIc5b82K3h0TSPf2+IngBkTmB6cWN9iMvGOS8tZ7kwOHzCWm6hR30P6Pk6GB91L5Ker8EW1jGOIHhjXH/1E7oxVBeg3hvVgV0DHmW8YxfPCcdekH1kePLyXvv2IgU3K94kOcV6Q2/qgfBcqdk+dURDzJo+wi2HJlxb+tR96yIDkrmOnUxQm7ujgp1FjQdwY40ZuxeY6KjN9jScorKPjcNpaE19/veQx6KH0OfH97kgaUNXqTxc1hbF+ikUkhXKa3CwLdm9EB0Lobqx26ckTE8=;CPzZHOeEy1zgD5mzEZXCbA=="
 ---

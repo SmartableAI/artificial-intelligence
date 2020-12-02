@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Global Contact Center Intelligence Market is Forecast to Reach $3.7 billion by 2026"
-    excerpt: "The Global Contact Center Intelligence Market size is expected to reach $3.7 billion by 2026, rising at a market growth of 23.4% CAGR during the forecast period. Artificial intelligence (AI) is a part of rising innovations,"
-    publishedDateTime: 2020-11-27T13:45:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 46
   - title: "Artificial Intelligence Market is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2020 to 2024"
     excerpt: "Global Artificial Intelligence is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2016 to 2024. Artificial intelligence (AI) is the concept and development of computer-systems able to perform tasks usually requiring human intelligence,"
     publishedDateTime: 2020-11-28T11:22:00Z

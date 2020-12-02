@@ -3,10 +3,10 @@ category: news
 title: "AI, 5G, and IoT top the list of the most important technologies for 2021"
 excerpt: "CIOs and CTOs say the biggest challenge next year will be dealing with recovery from COVID-19, according to a new study by the IEEE."
 publishedDateTime: 2020-12-01T18:41:00Z
-originalUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
-webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
-ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
-cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
+originalUrl: "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
+webUrl: "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
+ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
+cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
 type: article
 quality: 86
 heat: 96
@@ -45,6 +45,6 @@ related:
         height: 243
         isCached: true
 
-secured: "6ov33/PJ09kGsWs0KX8T7fwaFoP2oQygqYc8r1QD9QM21zY0UbvSIseKV02ei6GgKfIxyBhKhHAUJdTUhyLgEiKU+1y8R5yzCaR/m54ovX/RxyRx39BFVbu3tYSI6FXI3mVjZStOUF9ioMfLX6uEsOiENk8ITtkdoGpQOEF5Ro57Z+BeWb/SS8LO+/F2s02T29qEo3U1a9dw0bygrv51M7iyBQIGh1CsUprQ7ARJt2pcFr7a3JdlliIfC4E7rKBcy2M/8TlEJ31CJVHZWj0JxMEqf5lZNniACNymbC0FcfEbR0BnAzSszBkUjwi/jVU7yABrUFFwLVZejNzDbxtmz+gWEnLQp83e55broMIv83zpgo9ixE1/ULUh2O7TIO6YFSTKHpk7Nu1XD14tRsj26msuQcdGjNoa88rpWiPNx5Ki5AZLyK9D6kiR0hnP7d9flohxjlooiqOsUeNJ0DTvqw1yO5t0nFImWo/juGJ+uTESanBirxPXdeMHC8SGgK+7AkunY3/2A+4uxIw5EtjT3Q==;u4EIZiwkn8pqWIeXx3FNZg=="
+secured: "Vgo2h3r6JJKgOqDxxkBEGcVtCSWUwWvtanKIG38Zyvd1d3XshRlsMgb7ErKxgrCNEE5W9hNq+QqKE5Su+eLx+tS1CO/YtneekEGKFacId6yZlk4RzLGUuDHi7TwZSEGlxItF4i1fsR/OIqA1xn4q+UQzAuVKHyoyqWwOzBczCzyC2SttEAi9puWROpjDx7aAOWmYh8apUTOxY97HgxsLf2gTZeGM5ZetWcsPYmi3n9HvLskOGGev60Imn1vwNAm0mbQalr1qK2gP1nEUlm6D4fYmRN+OU4JV/KSIeN6EQ8+ggVqF+mKiLayz3FGPF/UwSB1+zC3X/LuXcfKu4dpEPUfniVCCvrXVVxIS2vUvsFw=;729nikDvEmRnLPW//L4RaQ=="
 ---
 

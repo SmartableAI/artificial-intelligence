@@ -2,6 +2,100 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2020-11-17-blackberry-qnx-to-power-plus-self-driving-trucks.md",
+      "title": "BlackBerry QNX to power Plus self-driving trucks",
+      "excerpt": "Plus have now announced they will be the first automated truck developer to make use of BlackBerry QNX for their next-generation self-driving systems. Plus will license the BlackBerry QNX OS for Safety software for their Class 8 trucks which are expected ...",
+      "sourceUrl": null,
+      "webUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
+      "originalUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://crackberry.com/sites/crackberry.com/files/styles/large/public/article_images/2020/11/plus_automated_trucks_blackberry_safety_security-16.jpg",
+          "width": 903,
+          "height": 564,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
+      "cdnAmpWebUrl": "https://crackberry-com.cdn.ampproject.org/c/s/crackberry.com/blackberry-qnx-power-plus-self-driving-trucks?amp",
+      "publishedDateTime": "2020-11-17T05:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CrackBerry.com",
+        "domain": "crackberry.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19.md",
+      "title": "AI discovered an old arthritis drug that can help elderly people survive COVID-19",
+      "excerpt": "A new study found a medication identified as a potential COVID-19 treatment reduced deaths by 71% in elderly patients with moderate or severe illness.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/",
+      "originalUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2020/11/Untitled-design-2020-11-17T120921.079-796x417.png",
+          "width": 796,
+          "height": 417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/",
+      "cdnAmpWebUrl": "https://thenextweb-com.cdn.ampproject.org/c/s/thenextweb.com/neural/2020/11/17/ai-discovered-an-old-arthritis-drug-that-can-help-elderly-people-survive-covid-19/amp/",
+      "publishedDateTime": "2020-11-17T05:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-automation-is-the-app-uipath-powers-up-low-code-robots.md",
       "title": "Automation Is The App, UiPath Powers Up Low-Code Robots",
       "excerpt": "As we drive RPA software robots into more roles, we do want to be able to build them using faster low-code controls that perform an increasing amount of their own DNA engineering automatically using AI.",
@@ -1051,103 +1145,6 @@
         "Google AI",
         "AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-tensorflow-robot-recognizes-objects.md",
-      "title": "TensorFlow Robot Recognizes Objects",
-      "excerpt": "Google’s open-source TensorFlow software can help. It is a machine learning system used in Google’s own speech recognition, search, and other products. It is also used in quite a few non ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "originalUrl": "https://hackaday.com/2016/10/09/tensorflow-robot-recognizes-objects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2016/10/robot.png",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-16T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Robotics",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-nvidias-ai-supercomputers-get-a-massive-upgrade.md",
-      "title": "NVIDIA's AI Supercomputers Get a Massive Upgrade",
-      "excerpt": "The latest version of the A100 now has double the memory of its predecessor, \"providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "originalUrl": "https://www.fool.com/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F601054%2Fnvidia-a100-80gb-gpu.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/11/16/nvidias-ai-supercomputers-get-a-massive-upgrade/",
-      "publishedDateTime": "2020-11-16T15:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

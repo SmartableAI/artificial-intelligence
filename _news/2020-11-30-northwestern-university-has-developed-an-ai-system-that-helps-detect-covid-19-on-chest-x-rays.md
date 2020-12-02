@@ -60,22 +60,6 @@ related:
         width: 1024
         height: 538
         isCached: true
-  - title: "Health Startup Qure.ai Uses Artificial Intelligence to Help Find Abnormalities Relating to Covid-19"
-    excerpt: "Qure.ai, a healthtech start-up, has developed an artificial intelligence (AI) which can identify people at high-risk even before they reach the hospital. It can be used for contact tracing and remote triaging of Covid-19 patients."
-    publishedDateTime: 2020-11-27T14:15:00Z
-    webUrl: "https://www.indiatoday.in/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
-    ampWebUrl: "https://www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/newsmo/video/health-startup-qure-ai-uses-artificial-intelligence-to-help-find-abnormalities-relating-to-covid-19-1744758-2020-11-27"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 60
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/video/202011/YT_13-647x363.jpeg?d6xhJjgAzR1d9I7MbWR4fHOcvTsCdaq9"
-        width: 647
-        height: 363
-        isCached: true
   - title: "Researchers Develop AI to Detect COVID on Chest X-rays"
     excerpt: "According to the study, published in the journal Radiology, the research team believe physicians could use the AI system to rapidly screen patients who are admitted to hospitals for reasons other than Covid-19."
     publishedDateTime: 2020-11-29T16:47:00Z

@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Chinese Phonemakers Rush to Feature Qualcomm’s Newest 5G Chip in Next Releases"
+    excerpt: "Qualcomm’s latest high-end chip for Android handsets, the Snapdragon 888 with an integrated fifth-generation wireless modem, will power devices made by China's Xiaomi, OnePlus Technology, ZTE, and Vivo Communication Technology."
+    publishedDateTime: 2020-12-02T05:56:00Z
+    webUrl: "https://www.yicaiglobal.com/news/chinese-phonemakers-rush-to-feature-qualcomm-newest-5g-chip-in-next-releases-"
+    type: article
+    provider:
+      name: Yicai Global
+      domain: yicaiglobal.com
+    quality: 35
+    images:
+      - url: "http://img.yicaiglobal.com/cdn/news/chinese-phonemakers-rush-to-feature-qualcomm-newest-5g-chip-in-next-releases-/9699404388499456.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "pcFewnmm+xY4fbyZTV9t5j/D7GtgyP4SQH6wxkyRCr7iZxoor69JAZePUO3Ukyv2hbReLshlAPGcgyuWq16NxweY4d/Gr8mroxUMzjOqsR8gKdv5X84brTgy2BFLXRwtggFPh55rpM1PbUO7XPzsGP9NFFXbVLlGX/x+WaA/hnyHht2HzHaTNjC18ckW+EaP/OfWttYX1pdqKWUs+pA7gykMG/dDOYrJSA6LDSi1zK/V8MdRRjgYJ7afKyC8jrHrLvvPKgVLSutP5YrqoOfVKsywlnQns9oDZQmkzgDmFIIO21D7baHJsa2UdXGvSGzzNGRkEkx/9ssWj6BzieaaDmUs/BvNJPz2/aovIhFwqzsVUj1TzfxMecwAXMhkDNGzcWziOCKqpqa9fNFTyGbSck8xRllUTm12HhWp1gFwZl0b8kAJkF1t4F0kFSpHig5/+svcpLpi8l5sy14K8DMi6tUfgT9qq4lFopqQifItfq5GLOAiJPxC5JgnSnInNUFu53A8P9MEzYVyjayVDmazFw==;S7wxcmByZk9JWq32d+HovA=="
 ---

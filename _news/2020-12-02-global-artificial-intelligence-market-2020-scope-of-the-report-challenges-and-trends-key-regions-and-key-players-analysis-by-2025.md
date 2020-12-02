@@ -70,6 +70,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Market Report, Growth Forecast, Industry statistics Till 2026"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence Market with the reasons given for variations in the growth of the industry in certain regions. The developments of a lot of human-like robots and increase within their preparation rate in the developing regions have had a considerable impact on the overall computing (AI) market."
+    publishedDateTime: 2020-12-02T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-report-growth-forecast-industry-statistics-till-2026-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Security Market 2020 Industry Size, Trends, Global Growth, Insights And Forecast Research Report 2025"
+    excerpt: "The scope of the report includes a detailed study of Artificial Intelligence in Security Market with the reasons given for variations in the growth of the industry in certain regions Browse Full Report Here:  The Artificial Intelligence in Security Market is expected to exceed more than US$ 35 Billion by 2024 at a CAGR of 31% in the given forecast period."
+    publishedDateTime: 2020-12-02T05:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-security-market-2020-industry-size-trends-global-growth-insights-and-forecast-research-report-2025-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
     excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
     publishedDateTime: 2020-11-27T17:21:00Z
@@ -95,31 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medical Diagnostics Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
-    excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-    publishedDateTime: 2020-11-27T14:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-2020-by-company-regions-type-and-application-forecast-to-2025-2020-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
-    excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
-    publishedDateTime: 2020-11-27T14:18:00Z
-    webUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/"
-    ampWebUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
-    type: article
-    provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 36
   - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
     publishedDateTime: 2020-11-30T10:56:00Z
