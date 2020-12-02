@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sage
 webUrl: "https://aws.amazon.com/blogs/machine-learning/creating-amazon-sagemaker-studio-domains-and-user-profiles-using-aws-cloudformation/"
 type: article
 quality: 113
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Configuring autoscaling inference endpoints in Amazon SageMaker"
+    excerpt: "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality"
+    publishedDateTime: 2020-12-02T01:50:31Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/26/Configuring-autoscaling-inference-1.jpg"
+        width: 800
+        height: 372
+        isCached: true
   - title: "Private package installation in Amazon SageMaker running in internet-free mode"
     excerpt: "Amazon SageMaker Studio notebooks and Amazon SageMaker notebook instances are internet-enabled by default. However, many regulated industries, such as financial industries, healthcare, telecommunications, and others, require that network traffic traverses their own Amazon Virtual Private Cloud (Amazon"
     publishedDateTime: 2020-12-01T05:01:58Z

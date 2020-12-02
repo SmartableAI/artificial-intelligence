@@ -9,8 +9,8 @@ ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-re
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
 type: article
 quality: 59
-heat: 149
-published: true
+heat: -1
+published: false
 
 provider:
   name: India Times
@@ -27,141 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "The two faces of automatic facial recognition technology"
-    excerpt: "Automatic facial recognition is being deployed more and more widely – at eGates at airports, for example, or in video surveillance by security authorities. However, criticism of facial recognition technology is also growing."
-    publishedDateTime: 2020-11-27T18:48:00Z
-    webUrl: "https://www.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-    ampWebUrl: "https://amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
-    cdnAmpWebUrl: "https://amp-dw-com.cdn.ampproject.org/c/s/amp.dw.com/en/the-two-faces-of-automatic-facial-recognition-technology/av-55747767"
+  - title: "Massachusetts Lawmakers Vote To Ban Police From Using Facial Recognition Tech"
+    excerpt: "Massachusetts lawmakers voted on Monday to pass a police reform bill that would outlaw the use of facial recognition technology by police departments and other public agencies in the state."
+    publishedDateTime: 2020-12-02T02:33:00Z
+    webUrl: "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518"
+    ampWebUrl: "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp"
     type: article
     provider:
-      name: Deutsche Welle
-      domain: dw.com
-    quality: 59
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
     images:
-      - url: "https://www.dw.com/image/52650409_403.jpg"
-        width: 940
-        height: 529
-        isCached: true
-  - title: "No bugs in facial recognition technology, says state agency"
-    excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
-    publishedDateTime: 2020-12-01T23:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "We Soon May Be Able to Tell Bears Apart by Using Facial Recognition Software"
-    excerpt: "Bear biologist, Melanie Clapham, who studies bears in Canada, said it can be hard for people to tell bears apart as they track them over the years because their appearances change drastically."
-    publishedDateTime: 2020-12-01T11:57:00Z
-    webUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426"
-    ampWebUrl: "https://www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
-    cdnAmpWebUrl: "https://www-insideedition-com.cdn.ampproject.org/c/s/www.insideedition.com/we-soon-may-be-able-to-tell-bears-apart-by-using-facial-recognition-software-63426?amp"
-    type: article
-    provider:
-      name: Inside Edition
-      domain: insideedition.com
-    quality: 56
-    images:
-      - url: "https://www.insideedition.com/sites/default/files/images/2020-09/093020-bear-1280x720.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Training Facial Recognition on Some New Furry Friends"
-    excerpt: "Ed Miller and Mary Nguyen are Silicon Valley software developers by day, but moonlight at solving an unusually fuzzy problem."
-    publishedDateTime: 2020-11-28T06:43:00Z
-    webUrl: "https://www.thetimes-tribune.com/news/health-science/training-facial-recognition-on-some-new-furry-friends/article_f5c944b8-0a00-5f31-ad9e-8abc0f74debc.html"
-    type: article
-    provider:
-      name: The Scranton Times-Tribune
-      domain: thetimes-tribune.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/thetimes-tribune.com/content/tncms/custom/image/590573fe-bcc2-11ea-a70c-9fc5e1d62811.jpg"
-        width: 1080
-        height: 1080
-        isCached: true
-  - title: "Amazon Expands Call Center Business Technology With Voice Recognition"
-    excerpt: "As Amazon sees new demand for cloud services, the company has announced voice recognition as part of its new services suite for call center businesses."
-    publishedDateTime: 2020-12-01T22:32:00Z
-    webUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/"
-    ampWebUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_419039149-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
-  - title: "Beating Facial Recognition: Japanese Store Wants to Purchase 'Face' to Turn It into Super-Realistic Mask"
-    excerpt: "As part of the 'That Face' project, Tokyo-based Kamenya Omote is paying to collect face data and turn them into 3D-printed masks with an incredible level of details"
-    publishedDateTime: 2020-11-30T11:31:00Z
-    webUrl: "https://www.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
-    ampWebUrl: "https://amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
-    cdnAmpWebUrl: "https://amp-ibtimes-sg.cdn.ampproject.org/c/s/amp.ibtimes.sg/beating-facial-recognition-japanese-store-wants-purchase-face-turn-it-into-super-realistic-mask-53780"
-    type: article
-    provider:
-      name: Ellen
-      domain: ibtimes.sg
-    quality: 42
-    images:
-      - url: "https://data.ibtimes.sg/en/full/44600/mask.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "San Diego’s massive, 7-year experiment with facial recognition technology…"
-    excerpt: "U.S. Supreme Court on First Amendment rights and social mediaNicole Black on LinkedIn• 3y Florida Court on judges and Facebook friendsNicole Black on LinkedIn• 3y"
-    publishedDateTime: 2020-12-01T01:28:00Z
-    webUrl: "https://www.linkedin.com/posts/nikiblack_san-diegos-massive-7-year-experiment-with-activity-6621079374517030917-ukMF"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E34AQHgxJJEy9zZvA/ugc-proxy-shrink_800/0?e=1606881600&v=beta&t=ebB1Z_9dvFoVV3CCh5uuhR4j0vbFdvrOJX4Y3XrGiEE"
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pcvm2anksgl4e0ay3m7q.jpg"
         width: 800
-        height: 450
+        height: 569
         isCached: true
-  - title: "Blotter: Man allegedly screams obscenities at police, uses brown bag to thwart 'facial recognition'"
-    excerpt: "A 43-year-old man was arrested Friday evening after allegedly drinking an alcoholic beverage and screaming obscenities while alone at a pavilion, cursing at officers when they arrived and covering his"
-    publishedDateTime: 2020-11-28T23:28:00Z
-    webUrl: "https://dentonrc.com/news/crime/blotter/blotter-man-allegedly-screams-obscenities-at-police-uses-brown-bag-to-thwart-facial-recognition/article_b8e28beb-8b1a-5c3b-bc5e-dcf45d2b8d2f.html"
+  - title: "Massachusetts lawmakers vote to pass a statewide police ban on facial recognition"
+    excerpt: "Massachusetts lawmakers have voted to pass a new police reform bill that will ban police departments and public agencies from using facial recognition technology across the state. The bill was passed by both the state’s House and Senate on Tuesday,"
+    publishedDateTime: 2020-12-02T00:03:00Z
+    webUrl: "https://techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/"
+    ampWebUrl: "https://techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/amp/"
     type: article
     provider:
-      name: Denton Record-Chronicle
-      domain: dentonrc.com
-    quality: 25
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 84
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/dentonrc.com/content/tncms/assets/v3/editorial/7/50/7502fdbd-5a82-53de-94d1-d58d71142468/5fc2d67b43b72.image.jpg?resize=1000%2C400"
-        width: 1000
-        height: 400
-        isCached: true
-  - title: "ROHM Announces New VCSEL Module Technology, Increasing the Output of Spatial Recognition and ..."
-    excerpt: "ROHM ’s newly developed VCSEL technology achieves greater accuracy in spatial recognition and distance measuring systems by using Time Of Flight (TOF) systems. VCSEL has become popular in recent years with the adoption of laser light sources for spatial recognition in tablets and facial recognition in smartphones."
-    publishedDateTime: 2020-12-01T06:48:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/technology-business-corporate-news-products-and-services-new-products-and-services-2ca3408a314ca258c90563f2abb5d817"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 11
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://techcrunch.com/wp-content/uploads/2020/12/surveillance-camera-blue-yellow.jpg?w=1024"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "sX9DmBKrJybftW2p+5h3l/FZYSCVeaQ83q/ja1JxaDLvKcBbmybk+o7zUcjpIXDVJ98+CxqteEJM4kkocosiCbb3bcg+L4LY32drwOWEyUfmsqlHbnjoCd/OLUoPHzdVpKEFH2EImqxXy5t+xxq4FMDfRc0/hfS2C95MMygmM7sl4qDr/Fodt0A85HYuo4MEdLtSMB/TRQIyjyMqHHwHGHryVOkFNjiFvJMxHKWtjR5pHiY2HdQo4pxC3e3qsJNeGaldK2GOg3k75GJMwXST8+xW2pyMLuUV5zcBc/CpbOX2/1ZiRYrTOLjwtT0q6SeaaMl5A7vq1erYVByZelGUz9egxoJ6em7s3i0JlciHhfu1a5Rnvul16urCy3oBtaI1PNw0KnFXRoGtpAMkUnEsc6XWlSMNEEPH6587PsW9HGqXZ3dLiI1v6xTX0drWy4gxafze3OWGqGC6QFeos7U8/0GrKjQNfsaUXw+NmYGXCGFgdr///bDezkxoRLjaI9qw1F71V4hfh3MNSB+MSFRvrw==;8ze5D0agC52EMGrcqItw5Q=="

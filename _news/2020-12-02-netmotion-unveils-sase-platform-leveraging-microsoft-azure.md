@@ -7,7 +7,7 @@ originalUrl: "https://prwire.com.au/pr/93589/netmotion-unveils-sase-platform-lev
 webUrl: "https://prwire.com.au/pr/93589/netmotion-unveils-sase-platform-leveraging-microsoft-azure"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Microsoft AI
   - AI
+
+related:
+  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
+    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 86
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "aC0aLKEHVtM3HGq8b1PSXExKNjO5ZHfXyIxFBecgIHy0IsRKmRNKjEkX9cmW+7Iq3rhQ7F78EIE/NCx1N13mOxsxw4WlcrdfWFfMinwVsHKxUqPc9PhvhPnsk6f3Zthg4tcCmdYlFGw+qoJ0FmMFNsGykd7egzrzqYxXlcFU5Yys0b1cMmNAUm24PWlyX8+Zl70MIv8bYzUOqSaA+I7Z/VLmwYZk5cy/Tmg1ScwfhQLrE5uQFY/mM73UqmvhG8LR2QSEXxW3sQ2nc5ghDQhfEmeWvxghrw+WZekQO2jr/1EDD+ZDcb8Rk9shTOv/PFPVLvMmK0LWDhJS8pN6il8EYY8qpkkrSBW0Tf+5213/XJk=;ZfKn0/HZNIN/UQGD6aaySg=="
 ---

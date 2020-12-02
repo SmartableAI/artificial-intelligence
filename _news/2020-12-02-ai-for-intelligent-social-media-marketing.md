@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-02T00:04:00Z
 originalUrl: "https://www.linkedin.com/pulse/ai-intelligent-social-media-marketing-aneesha-singh"
 webUrl: "https://www.linkedin.com/pulse/ai-intelligent-social-media-marketing-aneesha-singh"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Marketing
+  - Facebook AI
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0zWrm6IOtmg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=o4HzxarOlP7xhdb6rfvHIaopOIZFTI5NaVi6B8P2pYk"
@@ -58,6 +59,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3xLCMML3gyOrogOKULs8EIfMGqwXvr0REnCUDQF5igPaXxLIjWjUwmu3tyZsptbGV8SDn2V8lkAiqDcWdNMjCGiUblO3/E4ynY3ymPSC1+1nn6QtW+VAjTNkqQLtB7mjoiNjEEyYNgu3PpULhmCZYfjujaUsZhkAPhP3euhWjlhI957W5rLV4TR6YNYICVJAkYJKWh4YePUbdSAgOxSaVrILoJjYjqAfapTRzRhM2HrwuSwGLyJZtWxhzy+tsHLdGFqyZ/SulqbVXzR/HS87A0YZGLXWVr7kWXDIGOXk6CT3WllhGnjNIQl2ZE4DqN+JT52aOAWhLSdtbVYpIVOFY11GLl97/m4TcEGaE7RJO9I=;nfHArO2cATj/MK0o2h4vFQ=="
+secured: "WDvE+OVM1twFpKtHUPk7G5+F6FGahR/e5XRQJAQVysU/v1FHFa2lShNIQLqtlF9Q8iptgTXd8MjgLvNx7JqiO+NEj4mgpfcbeRgG2KfhKs3QMH4xEIxfCmvRa86mpHXEpOxpTAoff9ETjS19YuzY79XLvNpJ+oF6omAAfz755S6/aMQb+8rWWr5/OUuxyqlBznSwBhxYJVtvr8KpHPoW38ZyeqUZcq0ZQO3kLj3Q28frYnamSK/2YK8ZK2ry73Ott2VnFr3ksUo48pOzoM0VfT8+Ibrxjdr8Fe/WFaepoW0nVM1aVOHIdvvw8rQpKzC4uJMmeqVml+G6kyTKgcZ1hW81IitJLftjdaUIEp5/9BHhfU31a1Nq5h35hQkpaW3Bhzl138jhznQGoK8kpF1+gg4MqL9vTVRxAjxh7KJfczIu5EmcTLA1YzvElfdoHEA7pJ7f91qjbCaMdMVbScYVIWfDQvPatIWcuRFg7c1rWvN89Q55tBg0nzFasYcxZXoEd1wK951i+ciSzudN6KJjAg==;4MaJii43NMdUYIvWiIa7TQ=="
 ---
 

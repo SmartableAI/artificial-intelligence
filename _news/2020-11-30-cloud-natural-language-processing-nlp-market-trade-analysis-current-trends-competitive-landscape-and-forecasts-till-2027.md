@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-p
 webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-nlp-market-trade-analysis-current-trends-competitive-landscape-and-forecasts-till-2027-2020-11-29"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market Key Findings, Latest Technology, Industry Expansion Strategies till 2027"
-    excerpt: "The report covers the forecast and analysis of the natural language processing (NLP) market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 The key players included in this market are [[24]7."
-    publishedDateTime: 2020-11-27T09:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-key-findings-latest-technology-industry-expansion-strategies-till-2027-2020-11-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
     excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
     publishedDateTime: 2020-11-27T14:18:00Z

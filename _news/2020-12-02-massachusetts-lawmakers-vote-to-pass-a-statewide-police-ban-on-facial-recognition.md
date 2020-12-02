@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statew
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/massachusetts-votes-to-pass-statewide-police-ban-on-facial-recognition/amp/"
 type: article
 quality: 84
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,40 @@ images:
     height: 576
     isCached: true
 
-secured: "voFx9dA50cbKT61Nj3uSkMHjyfuTXNqWG6vnCg39TCml6tTqQIK5/as8gr8SQFuIJo+rn0O0t/CSEMP2xbLenP+3xTkUKvM07vdKxvhlT9S06bdSSPpqTA6Bhpgz/T1Dp3+mNPC3PmiUWe3zFxVTs8whgtyllw2wfgGEe5zfzqKyoWMD0luRy5qDeQDlo+4uittH7f+9pqseDD3/qOTLJovP6JcdtwCIelhFLf/hVZ8xCmpYQ98cWLc/YGIs2ODIAFsbDQa7UCZW+aGbyI8t2zgsoS4QwDRdDEJ+WkUQP0Sarj1tlsOG9pcP3Qa6fT5e1IPsLIey5qsR52oK5Jxf1B5bUz5yR3cFtQuC+kQOjg4=;L1BH0c0kvwzjFJh5rtUXuA=="
+related:
+  - title: "Massachusetts Lawmakers Vote To Ban Police From Using Facial Recognition Tech"
+    excerpt: "Massachusetts lawmakers voted on Monday to pass a police reform bill that would outlaw the use of facial recognition technology by police departments and other public agencies in the state."
+    publishedDateTime: 2020-12-02T02:33:00Z
+    webUrl: "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518"
+    ampWebUrl: "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 86
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pcvm2anksgl4e0ay3m7q.jpg"
+        width: 800
+        height: 569
+        isCached: true
+  - title: "T tops in use of facial recognition technology"
+    excerpt: "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in."
+    publishedDateTime: 2020-11-27T23:08:00Z
+    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms"
+    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/photo/msid-79454171/79454171.jpg"
+        width: 800
+        height: 406
+        isCached: true
+
+secured: "icHnLmipxyRuKv0XGNPDm936KGZsEHtpOJVQwHoAUrU+2tSzpyNXIERKIHxGSLBoQdnPG4brZaPrPWwuH5zC8wE6/IBj4qz8VdTrZ1x2gdCOUrWjih6FEjzmM++tfFZWPRf7BB9b1O5Sfy7m5bGkGamErqIJ4MH4n0hz8VVOvRBQC2oPTZ0KHcDIUVeyCCs+yspfrEZeyHgA1Z/DE1o9bCXWE8CVvbeodI64txHDA6TtCp2LgAHs3YHjc4+SLygBuAXOzo5QICXT9ADvDtFWCw96tGRw6l+CN/kZRLX4LBOpguDSnC1bDGhxc3Fnmm62dZuxq1eLrw/uyhCwF8Jr7zcnJ+BuTAjSxMwbV7Afc0qMrdv/LKc0ZIEh4te0CJvqFphRX2qC3gYwOrFXrs2GtSVuHL7JzNdWS1krV9J9dsPazO5JDSxtnU/4bq1F1Oet0dXo1H5+dzhwqpjooPxumZYdMX34ZxTBEPOBK+99bMd1ubufp16Wv7s5TbmcgBEYuFiD+C7OzkNvol/leAC5wQ==;qPDCFL81hPLtdCQrS41shQ=="
 ---
 

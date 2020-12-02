@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2020-10-24-microsoft-showcases-sustainable-digital-transformation-solutions-at-wetex-2017.md",
+      "title": "Microsoft Showcases Sustainable Digital Transformation Solutions at WETEX 2017",
+      "excerpt": "Built on the Azure cloud with the latest technologies, such as artificial intelligence (AI), immersive human-machine interaction, cognitive services and bot frameworks, Microsoft marked its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
+      "originalUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/IMG-20171023-WA0010.jpg?itok=2CtfW3w2",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
+      "publishedDateTime": "2020-10-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-23-panasonic-expands-cloud-capabilities-for-public-safety-professionals-with-microsoft-azure-government-cloud.md",
       "title": "Panasonic Expands Cloud Capabilities for Public Safety Professionals with Microsoft Azure Government Cloud",
       "excerpt": "With IDguard, public safety professionals are able to automate and reduce manual efforts associated with editing sensitive files by up to 90 percent. Panasonic IDguard’s AI and machine learning capabilities build on the Azure Government cloud solution functions,",
@@ -1282,49 +1325,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-15-full-session-cognitive-risk-and-the-nature-of-threat.md",
-      "title": "Full Session: Cognitive Risk and the Nature of Threat",
-      "excerpt": "This CDW Tech Talk session explores why IT leaders should think consider the cognitive risk tied to the digital transformation brought on by the pandemic and how they can address it. Find full coverage of the CDW Tech Talk here. IT leaders today play a ...",
-      "sourceUrl": null,
-      "webUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat",
-      "originalUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://biztechmagazine.com/sites/biztechmagazine.com/files/styles/cdw_hero/public/video/BenHammersley_FullSession.jpg?itok=yiiC9Bau",
-          "width": 1440,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat?amp",
-      "cdnAmpWebUrl": "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/media/video/full-session-cognitive-risk-and-nature-threat?amp",
-      "publishedDateTime": "2020-10-14T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BizTech",
-        "domain": "biztechmagazine.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

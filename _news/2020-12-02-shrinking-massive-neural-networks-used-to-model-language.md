@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-01T23:47:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2020/12/201201144041.htm"
 webUrl: "https://www.sciencedaily.com/releases/2020/12/201201144041.htm"
 type: article
-quality: 34
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 related:
   - title: "Shrinking massive neural networks used to model language"
