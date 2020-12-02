@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "gong_io"
   url: "https://twitter.com/gong_io"
-  followers: 5588
+  followers: 5587
 
 size: 201-500 employees
 yearFounded: 2015
