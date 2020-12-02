@@ -58,6 +58,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI works: An introduction coming to a school near you"
+    excerpt: "Students from elementary to high school can take a course in AI and its societal and ethical implications offered within the year by the Microsoft and Code.org partnership."
+    publishedDateTime: 2020-12-02T17:42:00Z
+    webUrl: "https://www.techrepublic.com/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/how-ai-works-an-introduction-coming-to-a-school-near-you/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 87
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2018/07/24/ff4feab4-11d2-48b3-8634-7b76e44fb028/resize/1200x/4f9e13af879989b3b42140ec69a0241e/ai-edit.jpg"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "AI in Social Media Market to Witness Positive Growth Owing to COVID-19| Google, Facebook, Microsoft"
     excerpt: "The rising technology in AI in Social Media is also depicted in this research report. Factors that are boosting the growth of the market, and giving a positive push to thrive in the global market is explained in detail."
     publishedDateTime: 2020-12-01T01:50:00Z

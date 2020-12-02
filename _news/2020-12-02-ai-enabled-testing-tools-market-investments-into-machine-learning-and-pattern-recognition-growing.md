@@ -7,7 +7,7 @@ originalUrl: "https://www.automation.com/en-us/articles/december-2020/ai-enabled
 webUrl: "https://www.automation.com/en-us/articles/december-2020/ai-enabled-testing-tools-machine-learning-pattern"
 type: article
 quality: 40
-heat: -1
+heat: 40
 published: false
 
 provider:
@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Facial Recognition Market worth $8.5 billion by 2025 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Exclusive Report by MarketsandMarkets™ PR Newswire CHICAGO, Dec. 2, 2020 CHICAGO, Dec. 2, 2020 /PRNewswire/ -- According t"
-    publishedDateTime: 2020-12-02T15:35:00Z
-    webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/facial-recognition-market-worth-8-5-billion-by-2025-exclusive-report-by-marketsandmarkets"
+    excerpt: "According to the new market research report \"Facial Recognition Market by Component (Software Tools (3D Facial Recognition) and"
+    publishedDateTime: 2020-12-02T14:30:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-worth-8-5-billion-by-2025--exclusive-report-by-marketsandmarkets-301183416.html"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 58
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 28
     images:
-      - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
         isCached: true
 
 secured: "VMCbNVhtfmI2h0VG4UvSBbS+WG1g4awf8Yl3zOukJW96GW3YpE3rIVgWVHTPX8bzmQ1MkMLlV1L2JonChQSUoV3+OZ3F5n8DErDBq+0caprOCc08iQf8Z2mX+2aGfLo2F1UeDprfPCihPk8R6fLySebGS9YX7H+zzhsfIeEyA/ssbRetK2ox7HEPvif0woAJ0xJNg/gS2VvdleY3ko1diw4RtR/Ewu55lYCDUMFzBCOuMO7Lf1HbLruA/5LRsaLJCQAY6c9IK9px0WgJWEFIBQJdyTSrFwyku4YG/7TGJ/NcMVOVhh+poCYvwukiVbhVVNak0h1n6qqb/U8pQzCCe16Ee5YBrEC8KqgfGmhaGfxJIh/Bl4j7ToOZu8gyyWRKYQNFBNktvqr01EsNbccY3XFZW0kcX0OWHAEIjNdYa6YXoULK7tZ3urWodKJJTva6Cws9Qm9E7KpZjNmUlVlTBDOg+BdaTY4n51InMAtWdtX0v/tO/gZpCUxlCllvSVvuAGTIqjeJuGsb3oqbUkNv+A==;DmvbM+6c08pjyikKD6X7zQ=="

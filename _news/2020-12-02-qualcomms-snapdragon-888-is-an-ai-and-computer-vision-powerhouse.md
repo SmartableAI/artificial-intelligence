@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-an
 ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
 type: article
-quality: 104
-heat: 184
+quality: 106
+heat: 186
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all"
@@ -73,7 +74,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/TpWLQ0WfVJpHxIpJvUY7XXRR4MU=/0x0:9504x6336/1400x933/filters:focal(3992x2408:5512x3928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg"
         width: 1400
@@ -156,6 +157,6 @@ related:
         height: 840
         isCached: true
 
-secured: "6uny960I6RkZ8hhFPUd7KThh+Q85Lh01DNWDdyu6bFWVXM0fuBW7FNbnUeuIlKbs/9Q7BYld4yBp7LRFhmzPaARdoIik50zY+zZbHBbxKCAi3kXV6bTMY0uHrW6Xfwio1YzkbAH+MER1lol65FnkqtuoURJ2AXzqV+R8CYPPYDh/tQ0yGQ7RcU2xh2E0FH7pg5r9PjUw9oDbQn8onbWHqzaMYNLzTu5QxDJbISwsVNDiJ0Qkg9uW5CGqqkbcrFMs8uvllRtTfzXRdItBRxrJBfKwtsdwDfkgC2FZLSYfn6DqY6It8icj6AP0IBRP+2tBVf/h6kARJdIm6UjCguaKH68tRbtq6LpfUm3Zl5djsZ4=;CP3Nq5zjZv4+s+DRChjeiA=="
+secured: "4wHhTj0TtUI3u4qtot2vjgEp+hlLg0RWfT7CJ83TnvpGAcY+WFEghk4uVhipRSIjCeTs397wtxI9GRhIg1vckQv4VY1Xe1bOSSjLyNtqug9P88cpWTtXNgUw59FUSGaUjZ3O6QN+K+BQexIfBoFPGu43w8GbE4jWJl2RvIKs5OMZDSQEXrvMCIr7Z/mPNKs27+olMu+QGzaeXs9xIgQAY7ynP9jk4+3fTtiqLt8PMvrTBy7G4x67pvN7w6EsBGU0lywcPo6Kdm0wwooPpnSlbMOU63f6kevqzDmbFqQ6wqibf2rZ/x0l7wS6RzTRNr/HkQ4Hw3D8HZW7A+TEc4QR/EFlYsPJZpfJlctSFuhRwsoWVA2gqDuP9w6tFEbzfOd3XUGC0DY595IjSF8x045K07QIGWHkPW1UMrzSB4L/EksfczUTAfQ+JXlk8s+VjWG/s3Nq7Pa2oe8hhrHWIeFISwhpvn/5AWkGAVHcF2CB6JpB6JwiIsZif5SJCmZW7v6XSD4EhDlfVasT4400G8iyYg==;6R39ih1xJyzasQLliRh+EA=="
 ---
 

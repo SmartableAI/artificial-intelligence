@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI is now piloting Loon's internet-beaming balloons"
+    excerpt: "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years."
+    publishedDateTime: 2020-12-02T17:58:00Z
+    webUrl: "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9"
+        width: 600
+        height: 350
+        isCached: true
   - title: "New AI-Based Navigation Helps Loon’s Balloons Hover in Place"
     excerpt: "Reinforcement learning might be the next step in keeping broadband-carrying balloons afloat above remote areas. Could Venus be next?"
     publishedDateTime: 2020-12-02T16:04:00Z
@@ -52,6 +68,6 @@ related:
       domain: zdnet.com
     quality: 66
 
-secured: "vv1Pf0gDDzEQ76wes6Jx58EoBl2MiQx0LjHuV5Mkawz5bX3qoZgSkB0zXNUL944aF20VtqfR3D87O8pIRezUAYkda7lJ2YF21Hhr8Bf+ubo7Mp/dxk7TSpA6OLkYbhHogTxv6I0W6dsmoAQQpTml4R1OIbPSpElfW7E+vJnWveOJhvKSm+p1+1x713rJ6la9CxQFpbMyprOOas4KgeGzEhXUuOmHKZRnsQcg0TotAKa54c1nspK5h19wDgOmG05YMHqMEVw0BTge3VL9pylduvzkxoV2w3EImr9jOLcrKTOt5rxO/dTJHSgEnBhgWISUxPfO3qgn8xcJ7IVhkuV8mvrPAdl5dlc67LI1P+2ULu0=;6+WpWvBIExJO02UxBCyhKw=="
+secured: "esMAWHlqixhIcvoFkV2ABpZeW/3qoYWfKydqL9xZH9zROMyFP2uiMdyRzFYdsCpI2rHIEztdk3uJyb3OE7436k/6QoPAUFLziTA5hZLUBOxe4T9/1YD5cU0Suy54MZmLkT9wmCCRDU0pgFnGZZ4BrTzDaQ3F4f23WV7pPEfn2XcLApmXhz0Qgnj/ndCPRnX4BGJKsVrDit/nPF9fgmlXFcy7/tUOkty/YSUw98wKd/d7eWfxfozQJC6RwuAOK/zaEZxVDw8mB4g29t1HQLSYtHrix6r0FN/dA6IsG+Xk1B9qbvkMmBTaqMVigIxfgjxROZMYXB3EQ5XMwJ01GpEMz22et/a0o/cIIp0AsOOhU9vwcYlkrhno7Qbt4DzYuyOkSZz3x1JNf6Kb68ddzfTIjO1ZBsWh+2UryKy+f8Wa98jI8+kXyKr/qQ/akp0jYNSCuu3ggdchguhcOUe/DmoZClTL7IurdK7Oo9zoLh+3QKOs5dlJx2sOARRdCi8ZQ+bo0Jw+kZqPEerysayCu/EcPg==;QGvgsx93lik38DKC8nPc4w=="
 ---
 

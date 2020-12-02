@@ -1,10 +1,10 @@
 ---
 category: news
 title: "O3 Mining Identifies New Targets Confirming Validity of Artificial Intelligence Targeting"
-excerpt: "O3 Mining Inc. (TSXV: OIII) (\"O3 Mining\" or the \"Corporation\") is pleased to provide results from its completed summer channe"
+excerpt: "O3 Mining Inc. (TSXV: OIII) (\"O3 Mining\" or the \"Corporation\") is pleased to provide results from its completed summer"
 publishedDateTime: 2020-12-02T10:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-1029856763"
-webUrl: "https://markets.businessinsider.com/news/stocks/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-1029856763"
+originalUrl: "https://markets.businessinsider.com/news/stocks/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-1029856722"
+webUrl: "https://markets.businessinsider.com/news/stocks/o3-mining-identifies-new-targets-confirming-validity-of-artificial-intelligence-targeting-1029856722"
 type: article
 quality: 58
 heat: 58
@@ -27,6 +27,6 @@ images:
     height: 259
     isCached: true
 
-secured: "IEQ8VQuVNlSPuUm1QGUET+NFtelwNBaBPyNTAD+nMvjjiVpiIr6+C3Cb3kvoGjkp5TnkL5SL9N5k2pXHLHY7653Pq1vrQ9hJ/Rk+foLPhmglOC/5oim8jaOMSyvnj2BYFcPSyZ3QDkSYaodduUb/m4wFcCO5kgmsOPP5dSoDV19var2lEt2kD/wGbqgBiXB1IGlUFsgoDYjXatKEPz+Dtkh5xTY9OsZISjxXbOiPYZxhz8mzkLDJIopJ+AiclWI29JkNvtEu56TcBVWza+bVAaIB2csVkl7M+aXIPMgahnb/u6nsZudqoIreTFM4mK4RC+i9ogg25v7Kdsup6R3yHC5BQtmAgIZ2XdkfIVrIXb8=;qJzupGrkowpDCTnSDdM1QA=="
+secured: "44pJjvFE/NoC7vFfYLUvO3DBYJNXk6PPLgCbfn1JZlIAvn7rXeqc7e3g8DkD7XGusi+GDOefUbi/rw6MSzrHBRQIFT4lK3th/8g7yrPDiAANTWylt4UyLmpL+dL85Wezvn0a/4ZCMZdDpJ6k33u5b0CmTs5EUunIDxSCT7SS3Nkpy5yLCHBZ0OyUU6m6riGcVQPOQl8McIfH172H+rInwoL1tnTdf+yh+xLy7r3hzpV1WquyXBiDlHWJ95Um/XV621FWKfUg0WD2oYY/E6vlAkdH2OloddNfKWhykBEGiUd4RCLIN4i8/zpMZUauKfiqn30mrrd//CyLzfEv2nK2voywIMJtJhtG/lAH9gSuxy0=;l4lF3Jcf9nONlxsyokLQDQ=="
 ---
 

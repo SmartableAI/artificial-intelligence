@@ -142,6 +142,22 @@ related:
         width: 600
         height: 338
         isCached: true
+  - title: "Musk: Tesla Full Self-Driving Will Be Ready In 2021"
+    excerpt: "CEO Elon Musk said he believes Tesla will have fully autonomous, level five vehicles on the road in 2021. This would mean that a driver and steering wheel are optional, as the vehicles would be fully capable of driving themselves in all scenarios."
+    publishedDateTime: 2020-12-02T17:00:00Z
+    webUrl: "https://www.benzinga.com/tech/20/12/18617609/musk-tesla-full-self-driving-will-be-ready-in-2021"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18617609"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18617609"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_0.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
     excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
     publishedDateTime: 2020-11-30T18:10:00Z

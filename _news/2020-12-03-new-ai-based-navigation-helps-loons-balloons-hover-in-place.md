@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wired.com/story/new-ai-based-navigation-helps-loons-ball
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/new-ai-based-navigation-helps-loons-balloons-hover-in-place/amp"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wired
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google AI is now piloting Loon's internet-beaming balloons"
+    excerpt: "Alphabet’s Loon has shifted to a different type of navigation system for its internet-beaming balloons. Rather than relying on algorithms designed by humans, the balloons are using an artificial intelligence system Loon developed with Google AI over the last few years."
+    publishedDateTime: 2020-12-02T17:58:00Z
+    webUrl: "https://www.engadget.com/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html"
+    ampWebUrl: "https://www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/google-ai-alphabet-loon-balloons-navication-artificial-intelligence-175408123.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 87
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2F8fe95500-34c4-11eb-8bdd-b873bb76cc4b&client=amp-blogside-v2&signature=b8942deb9363daaa01eca9e5ce5527ae2732f7f9"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Alphabet's Loon deploys new AI-powered navigation system to balloon fleet"
     excerpt: "The new navigation system leverages reinforcement learning to steer balloons more accurately and efficiently through the stratosphere."
     publishedDateTime: 2020-12-02T16:12:00Z
@@ -56,6 +72,6 @@ related:
         height: 800
         isCached: true
 
-secured: "kZRmXZyejb+vgOEGYW+gW1T3ynGRiP9BksccpSqnqmS703hT5xJNEe9d15yecSBtSOX2sfXk+SDDfuE3UZnOw+2CE0zHeaM6c1ur+2WR/Nm8Sx5Z0hFnx3Havb7bJUnyhHxmEItRk4mHOQoGEE7VS9nviDf/LVHEGQ1V+eNnTo4OxSr+daf44oXm5pb0JNeAaPT7p/fnBhjcoKSM/Sys64RHEbkR63lDOTr//c3t6S6NMRh7GE9kourX/f++k4gcBGRcCmP0bEkEXrESwOXsTq4x0nEsly6Dk4mZYnb5tQMBahe5Zdn/zF8FyaQAxV00J/qkR/5fD8dvvjOhCvonjtriiG2a4gqUdSKwlnCiU+s=;/ubK2K/7gZBzqsbV5akvGQ=="
+secured: "cXQRBFtclu7LUyxmphSIbxcIRr4AMB9TDsNPdmdS0GyVfDjbs/lU+bTr56SP3WUq2/yiCS/FRaPpcjVU9rVnXR6pHAtvEONXTlSRl7k5I92orvM7B1VdNRb+iM+aBRlcZ+FjmMSSFszWzJMRQCdkLjbtkWhmsiJw2Gc/yLfdp8KFdTKN+caKm1LhO5MsrSOUawHYputaXfuoWaRpoVxU9UfKj66ULvdzOJvbgJLIFNuw4KlCG2bJIa2t7cp8z1PMUg08Jzg9m7HtATpt6oNbow6tjVDrT+DQuvFP1DL/rwwM7L2nINK2daJ+9o84FEZqB93s+F/U4ujecG13BtJ7TZDkiVJB/75uTlXKlsQCzVbS0rbRur3HLjvCLhBGIdCraCzJAkaZ/Rwv56rLdIU7n5oQykN2BXmNaAVFyed2iD3zV4GuME8rXPJP3jhIlpo4BZekXWAtL9X+tdGeo9umIFjqdR/RuM1yK9J3dAkkyzHXRbj40xs2p4bWJAnQZaVby1mjx/SzXsAmWE5OBJLWIw==;9XVYk7G0/KkWdrdolasgGQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://newscenter.lbl.gov/2020/12/02/a-machine-learning-solution-
 webUrl: "https://newscenter.lbl.gov/2020/12/02/a-machine-learning-solution-for-designing-materials-with-desired-optical-properties/"
 type: article
 quality: 33
-heat: 33
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1024
     height: 576
     isCached: true
+
+related:
+  - title: "A machine learning solution for designing materials with desired optical properties"
+    excerpt: "Understanding how matter interacts with light—its optical properties—is critical in a myriad of energy and biomedical technologies, such as targeted drug delivery, quantum dots, fuel combustion, and cracking of biomass."
+    publishedDateTime: 2020-12-02T17:25:00Z
+    webUrl: "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.html"
+    ampWebUrl: "https://phys.org/news/2020-12-machine-solution-materials-desired-optical.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-machine-solution-materials-desired-optical.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 53
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2020/3-amachinelear.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "2IwsPyIa3DKP6CScvf/KJOJj4M9yiyZqEx6ffjGNnaliWqkcn/ATmwz5QlZs5RwePlY4ioYxIDkj+ACuRuCw+BEB7WOuGj9IRBhHAP77iE6ajqJqDZJQGxWpBo0JOd6HDqWgZ8Y9pyrv8AwqC6QoYhS5QowBWbzORrTlNINKWy+ux2pVl3wuCPPysbN/peM1bTTjfuxnPtOZtBZAABQT8mcxyFh/D6CxtSibAmpSLKSjWLf/UYVdEbA6E97K2IZTjbDJSPsd4ZmFuVFnj2YOLvQ6836HjN1gpZ3VHOGkdObM+vBvKRPdvd4muUBoRZ1WGtv0KMIYP5/12BfQykk5O/4oHrA5BbiZq0tIxNovtQ0=;CZMAiAbS67cnfwxfc9oG3g=="
 ---

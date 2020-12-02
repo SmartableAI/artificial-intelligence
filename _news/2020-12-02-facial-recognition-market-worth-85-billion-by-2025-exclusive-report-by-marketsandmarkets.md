@@ -1,31 +1,27 @@
 ---
 category: news
 title: "Facial Recognition Market worth $8.5 billion by 2025 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Exclusive Report by MarketsandMarkets™ PR Newswire CHICAGO, Dec. 2, 2020 CHICAGO, Dec. 2, 2020 /PRNewswire/ -- According t"
-publishedDateTime: 2020-12-02T15:35:00Z
-originalUrl: "https://www.bloomberg.com/press-releases/2020-12-02/facial-recognition-market-worth-8-5-billion-by-2025-exclusive-report-by-marketsandmarkets"
-webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/facial-recognition-market-worth-8-5-billion-by-2025-exclusive-report-by-marketsandmarkets"
+excerpt: "According to the new market research report \"Facial Recognition Market by Component (Software Tools (3D Facial Recognition) and"
+publishedDateTime: 2020-12-02T14:30:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-worth-8-5-billion-by-2025--exclusive-report-by-marketsandmarkets-301183416.html"
+webUrl: "https://www.prnewswire.com/news-releases/facial-recognition-market-worth-8-5-billion-by-2025--exclusive-report-by-marketsandmarkets-301183416.html"
 type: article
-quality: 58
-heat: 68
+quality: 28
+heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+    width: 666
+    height: 350
     isCached: true
 
 related:
@@ -44,6 +40,6 @@ related:
         height: 313
         isCached: true
 
-secured: "i6ekbWdNVKx1vo48qIiMoHCAfcdrMjUPi8trhQ0yPI1fq+MeI4QkL10t4ZrA3k4RuEg96QkRdlel9uKpAlJjeOm691KL5ub5ePhNrLdpUf0YshYkGBWcNqYH1ZqUT9vu6YyYI1O+j0OJy+Tb7IhajLupLJKP5DVpkPoRumUn5Bql2TnOjJGSPOjUV3bPPLgeJO+hU9aampLxQcTS5CofSxxReyAhnb6DN59pnS9XLUifl/xSQjbqunF9JjQKGf4wFsPQmd7AdBiiYt3rQh5+GsfR2W7UIzAnJo2Y7UOT4wVzTvlTEJOJszSdI2IVm2Y83Fms7pg2XLIOrg5EpdKnGrUrcUhKhBEHzYU6+mWX4dU=;WT+CHOaQlNfPbP22gLPVMQ=="
+secured: "z+w5evCh9dUeqIgD+oGxHfK0oniBTnH/lEnQ57YhidmgARkhM1mVqTnQmDgpwjeumqIYHncI9/7M1LDBGjm778rtZjvK+6qTHXd7VpDsxScDBUcKYmRVl/xBogi72xtTX0sIZXhabQl+XXVZ0drLDka+VyWBkIG1oEjStCtMPHv4ekXZ6g4B5+MQpsyQ7ZMOY9c8AKA5tpUuc9CsQ9yWn/DlZyo3bpb9ce6eMnC2F28o/2LGMNPYZs4MY7sLNgfCm/IQN6Y2+94l/maxM7FUB61nY3IuxoYiuuP0IHjf1WXmix6OtTk8p1U1z3g0lAb9xxLCJAxYR62vnCAcuUQtl6TmbBF3DMKG1mka0xLVDw0=;69HOIsO6yla5qSy6FKOWyw=="
 ---
 

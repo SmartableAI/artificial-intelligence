@@ -8,7 +8,7 @@ webUrl: "https://www.theverge.com/2020/12/2/21672519/qualcomm-snapdragon-888-cpu
 ampWebUrl: "https://www.theverge.com/platform/amp/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
 cdnAmpWebUrl: "https://www-theverge-com.cdn.ampproject.org/c/s/www.theverge.com/platform/amp/2020/12/2/21672519/qualcomm-snapdragon-888-cpu-gpu-details-performance-ai-isp-photography-specs-release-date"
 type: article
-quality: 77
+quality: 79
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://cdn.vox-cdn.com/thumbor/TpWLQ0WfVJpHxIpJvUY7XXRR4MU=/0x0:9504x6336/1400x933/filters:focal(3992x2408:5512x3928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg"
@@ -40,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all"
         width: 1200
@@ -155,6 +156,6 @@ related:
         height: 840
         isCached: true
 
-secured: "/5/LLWjCt2ffmlc2mH6/9/Zoq2TxaB1DPyGrwTGrjMBbfY7bQRrvp0a9cDksKA/2/5t+AwXDlf2xJCKoV/ZW1ZIcwNbO3lp+zAkkkUJ8MKw2NVCc3eSMZBYNLru0s0bJzoQL1KPgIZu+fSwfQTjgsnse2IDW4phkJj7fBSzENTFBYLM6LEINkZ4KW8oOLw+EMe2xAoGXPHU4YYy8U0qCnF5g1v2W4XZYGEHhwele3n0ES+9k/ICbw3MNO+MEyHRuCshZPr0THEYd1uXJm9iS7edgjNe4HUzG8mJsC4S9ddBpDYBXaI+mt8yYKOIAUrhZ5wLNE1+A+6yLf4BlvH52mT0dgLRr4QfpJ5AoPwuu8nk=;Oool8ykMEIAUWpbvtl7Pjg=="
+secured: "4ZfPGvW2sht08uwrmAQYiocm87D2zcZFbZKTcp+YSLCu1LamerGI0B8ECARUJEgzBdCh6fICK7vjJqrSjRNPATH3C5jLGljryHVHhg3Uo6dKy1IBG2wzVy0Hun6RsQPeQXfvhGxxZUySJ1DTo+9tRObTqDcWISVod+JisGLl4TiQfsGKgcUMPytiNsI2F6B1A/vE8MOL8Dici5+y+5b+rX7x1bfiJWCOLzavJPNN/VeaVk6UFHG74Y/WR8NTg9wryWFqg1vS4WUVCvdvOMRstLncBCd7dY3QRRcVc6QB5Whjsq0oM4sO/SksIHWftFShRugWSfEhZ5ouGyycpehxqkhGVo4TduAt2PCH77RqPLBOT4slwZfmAK1jVi2rAxo+CkaSPtYfHMX/ZJQ4VIa1qJk+7Gy9rVlINTlLL5iiFp9OswriVegoPLBb/RyyKbaWbWU3in+7dHdsl1KYvEXCL3iFrBfsCEVZLRB8ZT+WpI+2PmOWPQabxNNLSvZTs06Iq9jNX6xY/K51v7Hqnt5QZA==;Ic7O3x5Tto/5maNSD1fgKw=="
 ---
 

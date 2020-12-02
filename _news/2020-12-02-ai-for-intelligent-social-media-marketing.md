@@ -30,19 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Marketing Market – Major Technology Giants in Buzz Again | NVIDIA, Intel, Google, Albert Technologies"
-    excerpt: "Latest launched research document on Global Artificial Intelligence for Marketing Market study of 150 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,"
-    publishedDateTime: 2020-12-01T23:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies-2020-12-01"
+  - title: "Why Intel believes confidential computing will boost AI and machine learning"
+    excerpt: "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning."
+    publishedDateTime: 2020-12-02T17:08:00Z
+    webUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/intelcc-1-e1606747265903.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
 
 secured: "WDvE+OVM1twFpKtHUPk7G5+F6FGahR/e5XRQJAQVysU/v1FHFa2lShNIQLqtlF9Q8iptgTXd8MjgLvNx7JqiO+NEj4mgpfcbeRgG2KfhKs3QMH4xEIxfCmvRa86mpHXEpOxpTAoff9ETjS19YuzY79XLvNpJ+oF6omAAfz755S6/aMQb+8rWWr5/OUuxyqlBznSwBhxYJVtvr8KpHPoW38ZyeqUZcq0ZQO3kLj3Q28frYnamSK/2YK8ZK2ry73Ott2VnFr3ksUo48pOzoM0VfT8+Ibrxjdr8Fe/WFaepoW0nVM1aVOHIdvvw8rQpKzC4uJMmeqVml+G6kyTKgcZ1hW81IitJLftjdaUIEp5/9BHhfU31a1Nq5h35hQkpaW3Bhzl138jhznQGoK8kpF1+gg4MqL9vTVRxAjxh7KJfczIu5EmcTLA1YzvElfdoHEA7pJ7f91qjbCaMdMVbScYVIWfDQvPatIWcuRFg7c1rWvN89Q55tBg0nzFasYcxZXoEd1wK951i+ciSzudN6KJjAg==;4MaJii43NMdUYIvWiIa7TQ=="

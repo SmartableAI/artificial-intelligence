@@ -3,8 +3,8 @@ category: news
 title: "Google Reveals Major Hidden Weakness In Machine Learning"
 excerpt: "Deep learning algorithms are prone to a previously unknown problem, say a team of computer scientists at Google."
 publishedDateTime: 2020-11-30T18:37:00Z
-originalUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning?source=techstories.org"
-webUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning?source=techstories.org"
+originalUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning"
+webUrl: "https://www.discovermagazine.com/technology/google-reveals-major-hidden-weakness-in-machine-learning"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 433
     isCached: true
 
-secured: "VY6ijTtuiSSEQL5z+1GFB8ZU2eJKHPwm2itN/+YzhX6AjpF/1xEPAPA53IUOVpA3J1ukr6LOaR9xc3xleDQX7VX0P1mp+I4Yv+FX6ndue/cxrMiy+9tPW6IpE24o7drOZwzBtjmzoPfKRo6P0aYVFiXFekERnXRgsQyiDYJEqtEV0lBe93RpUXOzZn/jHrLGmM2cY8cp4F+5c7tLDjiyEWakrrw3XVrOzhsuKqvvTvYMqObJfdaAhyUX3D8qmI2Byy4Oa74+EVZk3XPy0HRU1kLBIii1MCBS6hAe0Z45HSr+MKVZgRftSdiLCAHfdbYB62lebZYREmCxdEfBhJpNyP/DBm9aWTDsMy22Dsm3JGM=;ZIzhdh6yYCxo6ccMLOfK/A=="
+secured: "QVNLnPvuOLXomdQA13CUfdZ3e3ujd6MEREm2LNCxY+hH33JE4YY9ncZTP7gECZ9rwWOCJn1N+ueuYD86hMqTGTGfPjHmmWHt5tjeCcCnvTfN3wjZ3Twes6VO/2n1USK3VBMv8O1HO9NcQ4ozr0Q7CXE+ATv/b54wi0/lgv2WpMdGTXGz7zyFg9gjQL4acmEXhwAqUkvC9rXowu9FYSJ9wkT7IlUWpsZq+xiGxH8hdV8wsTbC1LggjSwQnlcUgI92x+r7QiPnw40/AdNyEzPDi+MdRDwH9qrDUzaicnSfVJ06ZdHpi0SxqBN+zLCLyOU5RIA9wVSNeJpD/JmPx1Z14ckflrLoMgGwv2Gd34ODIwU=;tHUWuzGu2KtGofQQGo8Mnw=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies-2020-12-01"
 type: article
 quality: 70
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI for Intelligent Social Media Marketing"
-    excerpt: "Remember a scene in the flick Titanic, where while that mammoth structure sank, all the people tried to float on the surface of the water, jostling and flapping their limbs, to stay on the surface and not sink."
-    publishedDateTime: 2020-12-02T00:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-intelligent-social-media-marketing-aneesha-singh"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0zWrm6IOtmg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=o4HzxarOlP7xhdb6rfvHIaopOIZFTI5NaVi6B8P2pYk"
-        width: 1024
-        height: 430
-        isCached: true
 
 secured: "2VxmgfBESW98AQOyKdxG1BwsTntzY0Q1tntXhGLl2Q1gEpllvBXY8H+jzM/FslRLz2eTuPanD/nHIbDlKHSbjt0Q/SHO5zfhuyKI0+xgHqvxqAIM876BgjpZYwPZdTe96+Z9CLsar9xkHEWYSoVjYOwAnanuvL+wQcABfJuKDSxOt/OzIlPRGRWTH5WJWo5jUbVcnrYny+lTgNQAsOyGm9RfmInxyf87ZFD9jLSrbcQe94m51VOI43x8gCo5u5EwKPTtLy08/E5L8j03ucD54/T1RS1OxQuIZYLEVvcSs9gpbjdvUClv+UidxciNIZ/wNKx6u8mj1S+nqUOXdG1DOvz7oXvYxedQQfqNFDO4FPE=;TJxVr3RXFMmTk7BuXEWtJg=="
 ---

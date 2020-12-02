@@ -106,7 +106,7 @@ related:
   - title: "How Artificial Intelligence is Bringing Today’s AMRs into the Future"
     excerpt: "This definitely sounds smart, but some AMRs are taking those smarts to the next level with artificial i (AI) coupled with strategically placed cameras that function as extended robot sensors. Without AI,"
     publishedDateTime: 2020-11-30T16:36:00Z
-    webUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future?listname=Automation & Control News & Articles"
+    webUrl: "https://www.automation.com/en-us/articles/november-2020/how-artificial-intelligence-amrs-into-future"
     type: article
     provider:
       name: Automation

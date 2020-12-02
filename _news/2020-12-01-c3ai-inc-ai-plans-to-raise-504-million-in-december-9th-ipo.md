@@ -76,6 +76,22 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 62
+  - title: "IPO Launch: C3.ai Proposes Terms For $504 Million IPO"
+    excerpt: "Redwood City, California-based C3 was founded to develop a suite of machine learning software capabilities to help businesses make better decisions and optimize their operations and strategic activities."
+    publishedDateTime: 2020-12-02T17:42:00Z
+    webUrl: "https://www.thestreet.com/ipo/news/c3ai-ipo-launch"
+    ampWebUrl: "https://www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/c3ai-ipo-launch"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 61
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc3MDQ4ODU5NTk0MjA0MzAz/c3logo.png"
+        width: 619
+        height: 369
+        isCached: true
   - title: "Peninsula AI Startup Files For IPO"
     excerpt: "The company would be valued between $3.08 to $3.37 billion using the company's share count, according to the report, but C3.ai's IPO could take a hit in the $70-to $80-million range should underwriters decline their option."
     publishedDateTime: 2020-11-30T20:55:00Z

@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all"
         width: 1200
@@ -73,7 +73,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/TpWLQ0WfVJpHxIpJvUY7XXRR4MU=/0x0:9504x6336/1400x933/filters:focal(3992x2408:5512x3928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg"
         width: 1400

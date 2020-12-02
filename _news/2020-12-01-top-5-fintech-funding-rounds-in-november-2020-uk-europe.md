@@ -69,6 +69,20 @@ related:
         width: 672
         height: 759
         isCached: true
+  - title: "AI-based noise suppression, polls in Teams meetings, and more. Here’s what’s new in Teams for November 2020"
+    excerpt: "Microsoft has just published a monthly recap of tons of new features announced for Microsoft Teams in the month of November. From the AI-based noise suppression capability, polls in Teams"
+    publishedDateTime: 2020-12-02T18:00:00Z
+    webUrl: "https://www.onmsft.com/news/ai-based-noise-suppression-polls-in-teams-meetings-and-more-heres-whats-new-in-teams-for-november-2020"
+    type: article
+    provider:
+      name: On MSFT
+      domain: onmsft.com
+    quality: 19
+    images:
+      - url: "https://www.onmsft.com/wp-content/uploads/2020/08/Microsoft-Teams-Multiple-Channels-PWA-Custom.jpg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "cThZPZk88qJM5VG6LQkUJrEK019CfHy2c3xtohvov8GZOAm6YBIsxbJRR/1znZeCAv6ePer3iXUyyOswdCTHZ2Ky/ptN4KgjPDP5GSpw1fcP183k3Ppiy03186TXZ67RnqqXxIdQyoRF+XKLOYDlVj0gNV3qF1P5kBYhx5wdJGnzRtRVewBISAvNtH12H5s3GSbC0ASQt+geTMloGKqfmiohnrHnoVAKvZO3TfbmWNdy2RhxNuZWR/qR0zql2n/p/3YtUA6V75mpK3Xl2/By3+jJEUAQZZVFZehYvsVIy3HJRY4KD4MGA8xB4j7j+1cpE0f5Qj6eD0h1mjEBBhcYkjtYltAaKXgau/1g0NRXqB5glq3cMT8nrPPqJjVi/8XJgE9lOdAUjIYLU4H5VU1DNs3eXPqboVFffEKoVYxl0k0jLbwWuNkw6ohOPKBVCEYT4NDVBY1Wc+JNkY1Lx7qjm4y0nElq3xzD6yygZK8xXSxTvN0SSSBL0HYPgsEy8QdnX3nmUvzjipWBxgb00rai5w==;YZVyhGzDsddyI/P3ctlY7g=="
 ---

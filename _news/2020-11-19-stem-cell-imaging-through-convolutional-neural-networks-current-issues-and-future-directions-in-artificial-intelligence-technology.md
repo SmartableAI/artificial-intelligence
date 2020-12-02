@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://dfzljdn9uc3pi.cloudfront.net/2020/10346/1/fig-4-1x.jpg"

@@ -35,7 +35,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all"
         width: 1200
@@ -83,7 +83,7 @@ related:
     provider:
       name: The Verge
       domain: theverge.com
-    quality: 77
+    quality: 79
     images:
       - url: "https://cdn.vox-cdn.com/thumbor/TpWLQ0WfVJpHxIpJvUY7XXRR4MU=/0x0:9504x6336/1400x933/filters:focal(3992x2408:5512x3928):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/68344588/Snapdragon_888_Reference_Design.0.jpg"
         width: 1400
@@ -152,6 +152,6 @@ related:
         height: 800
         isCached: true
 
-secured: "5BgF44/inu2GEm5aKIu7aSE+01bLlEScImtHFqhLi47TJh50jAAFN51vg0gjBcvpuVtKeDmhtxXpphrHnt+459ysxgeUMO+uX/sOqt17DvohHxpn75erl1IMTYcjGh3cB6y18q4DRoQfNbLSryXJ07ElQlYA1WpcGMh6k458w3Uvi7h3N8xap6rb8d7h8Hz2RmBdyjQha7BOJtk/jy12HNQ+HCeptaQbyG+OPkl7SOukEyJzcnoRwxdxNNK4+mROktd3M20MxU5Jy/jfMPf1T+UgkSUMPAurH0qh+Vdvgv1KlP3ATTwODAABMp//lmxf6qhwR8omcCkak+9tNvs1/PqfA3I1l9kgned36bkLmBo=;Wfrk49PO4dJ48iHzTzHG9Q=="
+secured: "vuraOFeVD0Hxqjk6Gy3quGkv9wrhEGRyfTMPeEYRofIgeRbDEErpHjSGg1aU5TtwosHktKOebegluZUrQtdWa3ECbK+IDYwPZaxDda5Zeh/W0IqYrOEwxaHQe7llDv4v/0JXZx/OjbjmM0Ofcs8F6YB9hduWGdJGoVjdHb7fAuJqjDme2UHnJdvf6c3i5CQ39niS2bhuPKPsR6j008cNKFbWsS/MCZw5iCp+u+f+Q5HyYWLQD7umuPj6teX1NGFnVrBJ/w+DuDC0wYctKNHtiZKi2cY5tUxGqEYF7Ja+KNbFstI9/oRXtsbydh+5sl6XzNvCVVE4RXvsIJViyCSmwti4qk7n8CROzmwaUhZBgzullSnMZ1TNPHfru+EPn3mPviQHGkXVg4Y2hDbNslDkS5uRqxCr6OqAwN2GZLZJWKfvLqmZqVMVIVeEsKpTL3obzYFVHusEG5uCwPxmqo6+am5YRiKdSdrUm8EK3+SsTSMVN/nt5QZGSvSTfoVVow7csXtIA2L1vGPgajNBzCl7Ig==;DmmkXzLIJDUTkqCyyvRs1Q=="
 ---
 
