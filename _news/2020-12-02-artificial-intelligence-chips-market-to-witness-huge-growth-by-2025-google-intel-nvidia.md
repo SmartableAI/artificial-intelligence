@@ -28,33 +28,30 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Marketing Market – Major Technology Giants in Buzz Again | NVIDIA, Intel, Google, Albert Technologies"
-    excerpt: "Latest launched research document on Global Artificial Intelligence for Marketing Market study of 150 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,"
-    publishedDateTime: 2020-12-01T23:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies-2020-12-01"
+  - title: "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal"
+    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+    publishedDateTime: 2020-12-02T14:30:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI for Intelligent Social Media Marketing"
-    excerpt: "Remember a scene in the flick Titanic, where while that mammoth structure sank, all the people tried to float on the surface of the water, jostling and flapping their limbs, to stay on the surface and not sink."
-    publishedDateTime: 2020-12-02T00:04:00Z
-    webUrl: "https://www.linkedin.com/pulse/ai-intelligent-social-media-marketing-aneesha-singh"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 86
+  - title: "AWS and Intel Announce Gaudi (Habana)-based EC2 Instances for AI Training"
+    excerpt: "As customer validations go, it’s safe to say AWS is at the – *cough* – high end of any vendor’s wish list. So it’s understandable Intel is today crowing about a notable win for Gaudi AI accelerators from Habana Labs,"
+    publishedDateTime: 2020-12-01T18:31:00Z
+    webUrl: "https://insidehpc.com/2020/12/aws-and-intel-announce-gaudi-habana-based-ec2-instances-for-ai-training/"
     type: article
     provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 56
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 55
     images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0zWrm6IOtmg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=o4HzxarOlP7xhdb6rfvHIaopOIZFTI5NaVi6B8P2pYk"
-        width: 1024
-        height: 430
+      - url: "https://insidehpc.com/wp-content/uploads/2020/12/Intel-Habana-Gaudi-AI-accelerator-1220.png"
+        width: 437
+        height: 267
         isCached: true
 
 secured: "pp7f/rO/zJWld7oStRFT/4GLVFsnLikNysfz7G4I90WxOQgLs5bSn0a2q+LVeWW5MDAQxyckfcO9IwMd1IxW99oNPb/jW9z+aZH4u14m4b7bArWgOaXSu5uevmUquHfGyDmeOVR29u4O4hdKicyV0vvzzmxEJEoOTy1beMF5fKtZFCV+y3LhzsGdtcoe3wVWliWlVEasopS+CTrBTfRYWfXOoQnvxr5J20naVzZwF147iVvpk0qcY7b/4/Y1aZ1/5Pj4XMelUrDrdyVSu/lvLUmg4wSRVZkyvCCRLUE0sNnBQKAeYYwGtMMd394G9ev4yLtNd1WZd1Dhb2cOH1TaD0r3POQfZZ2DW4RhmzK9EGo=;Bmp9s53+eXRDHeCUmuO6SQ=="

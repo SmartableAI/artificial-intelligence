@@ -25,21 +25,21 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Daily Crunch: Facebook acquires Kustomer for $1B"
-    excerpt: "Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for."
-    publishedDateTime: 2020-12-01T00:35:00Z
-    webUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/"
-    ampWebUrl: "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/"
+  - title: "Facebook Nears Purchase of Startup in Deal That Values It at $1 Billion"
+    excerpt: "Facebook is nearing a deal to buy Kustomer, which specializes in customer-service platforms and chatbots, according to people familiar with the matter."
+    publishedDateTime: 2020-11-30T21:07:00Z
+    webUrl: "https://www.wsj.com/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196"
+    ampWebUrl: "https://www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/facebook-nears-purchase-of-startup-in-deal-that-values-it-at-1-billion-11606750196"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 172
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1026686014.jpg?w=1024"
-        width: 1024
-        height: 684
+      - url: "https://images.wsj.net/im-265924/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Facebook acquires messaging marketing automation startup Kustomer – Jaweb"
     excerpt: "Facebook today announced it will acquire Kustomer, a New York-based customer relationship management startup, for an undisclosed amount. When the deal closes, Facebook says it’ll natively integrate Kustomer’s tools with its messaging platforms,"

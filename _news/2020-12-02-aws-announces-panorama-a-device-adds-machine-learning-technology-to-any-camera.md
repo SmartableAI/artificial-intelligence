@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-ad
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
 type: article
 quality: 102
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -74,15 +74,6 @@ related:
         width: 480
         height: 271
         isCached: true
-  - title: "AWS Announces Amazon DevOps Guru"
-    excerpt: "Atlassian, PagerDuty, and SmugMug among the customers and partners using Amazon DevOps Guru Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru,"
-    publishedDateTime: 2020-12-02T09:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201201006063/aws-announces-amazon-devops-guru"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "WfgvHrbZRF8zvCI2wo9s/+3Q8fWIUE7WxWwWItsrZDMuxi/CfKWhetUUIIrxNqKrXq+pRu886/a5VRLmVRTCLkxA1KstbVqcc8i98WAYqrqpWMuSq1rfXRlrMXhRna0z7WktS4uwlWOZStBKeLggmbS0l246Y6sn1XtE6yO1PxTqjN+790Z5NFqXFr+I031EOak1/MNLugD8cx8C9qAWdbhz+CTXwgW1v2LKFroIZRhJQ7l85eMu4arUq3LuoNAJgX9H87f6B5zcukPFZ3JOdOhLYCquew3DjSIA4PSiZZpW1Jtg8XOn25KIdY1fa8pf92LhZoLrxq/OV5sAkxOo3wHImfHYguS3id6LYPL320u9nRJGh9Slp5PppwqdJfumDphpSfBZdZb9X8USE0hOFdYwPsflIdVPGk1ClZ91/LhPbeGyRDdnMokStST/D/HDy8Ry11jteXHJAA2Q5M3gSdkfQ2p+aNKHfEiiy+HQZLiQgcJezi5sMx/AP0tNq6inHhM2QqcW+hl95RmoBtG60A==;LqPuvnNeEwYFh+apw4Y48w=="
 ---

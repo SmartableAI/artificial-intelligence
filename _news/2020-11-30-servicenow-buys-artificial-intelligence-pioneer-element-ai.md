@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/11/30/servicenow-buys-artificial-int
 webUrl: "https://yoshuabengio.org/profile/"
 type: article
 quality: 152
-heat: 252
+heat: 262
 published: true
 
 provider:
@@ -134,6 +134,17 @@ related:
     provider:
       name: TheStreet.com
       domain: thestreet.com
+    quality: 37
+  - title: "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI"
+    excerpt: "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise."
+    publishedDateTime: 2020-12-02T14:08:00Z
+    webUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0"
+    ampWebUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
     quality: 37
   - title: "ServiceNow Acquires Element AI; Gains Artificial Intelligence for Workflow Automation"
     excerpt: "ServiceNow acquires Element AI to meld artificial intelligence (AI) with automated workflows, the IT service management (ITSM) software company says."

@@ -38,6 +38,15 @@ related:
       name: National Post
       domain: nationalpost.com
     quality: 24
+  - title: "Keep your eyes on the road — even in a self-driving car"
+    excerpt: "The appeal of self-driving vehicles is the promise that drivers will be able to do other tasks on the road or simply enjoy the ride as automation technology takes the task of driving out of human hands."
+    publishedDateTime: 2020-12-02T14:38:00Z
+    webUrl: "https://electronics360.globalspec.com/article/16036/keep-your-eyes-on-the-road-even-in-a-self-driving-car"
+    type: article
+    provider:
+      name: Engineering360 News
+      domain: globalspec.com
+    quality: 4
 
 secured: "/elIKtJcDYzaNAJNbhIfZz/NPAK+4yiMqgdh2OA4Z0w4KjsHMSak/PU/6EhcCE/kk5mhO6c4DtSkkJXy8vyvc4L+B1Hz5o5LPBNFmwRdS+Sxww6VhihbUTLXU65n0iVLOu3L1VQpkXzakNrgHULetr4EOxPnhRG342chxS0iFT3o5WRLMPT/TXUrOSt6fVPY/0DZrLEhjuv+EgPtKpZS8B59jqwwg6Jm/rSnWjqrseO9LhzTZ4/VhrDgJoWyIM+PgEUcBgG4Rg6mfAhPsDPgFOWzcWzvu1ZpG12KzYyMhI4a1O7zRPm5TjdQROMdpALTX78YmpAjVIh2aCKL1DfnBeDHGQN8A63S2C2R4oO7IZI/roLA8Ox/y6d2SgTYiHXj3vEALcqljyftmRZlmCZYKGri/lvs9wOA4vx1yWb4tb7dK7Dp7zWoeGS8OSgcAQqC6UzOLoB3wzuzmFH3FPQj/szIILgth2r3XtD7x2CfkSC+nzyUI7qHriboXTfETrzQdxt8mrI2LpxePs73+Nx6dQ==;6nuwrXk1KMeyuv0OWh60Vw=="
 ---

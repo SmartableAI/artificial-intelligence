@@ -36,6 +36,22 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 69
+  - title: "Facial recognition systems improve in recognising masked faces"
+    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at recognizing masked faces, says a study. The findings by the National Institute of Standards and Technology (NIST),"
+    publishedDateTime: 2020-12-02T12:00:00Z
+    webUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/"
+    ampWebUrl: "https://newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
+    cdnAmpWebUrl: "https://newsd-in.cdn.ampproject.org/c/s/newsd.in/facial-recognition-systems-improve-in-recognising-masked-faces/amp/"
+    type: article
+    provider:
+      name: Newsd
+      domain: newsd.in
+    quality: 59
+    images:
+      - url: "https://newsd.in/wp-content/uploads/2020/09/newsd-amp.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Translation: Must We Be Slaves to Facial Recognition?"
     excerpt: "On WeChat earlier this month, user @与归随笔 described their reaction to learning how greatly inconvenienced elderly people can be by facial feature data requirements for activating social security benefits."
     publishedDateTime: 2020-11-30T20:54:00Z
@@ -64,15 +80,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Facial recognition systems improve in recognising masked faces"
-    excerpt: "Facial recognition technology created after the onset of the Covid-19 pandemic shows that some software developers have made demonstrable progress at"
-    publishedDateTime: 2020-12-02T11:20:00Z
-    webUrl: "https://www.canindia.com/facial-recognition-systems-improve-in-recognising-masked-faces/"
-    type: article
-    provider:
-      name: Canindia.com
-      domain: canindia.com
-    quality: 19
 
 secured: "eaQsMVMQA2V6gv/DHNhlT6gdJKPTnfEiiV2LJlXLKjwyaVfcwpvfZQI2Hb0IQ68pFgngwzpRlnmxahOcSYZjtP0Jga9yYihSLX7nkBK3ktDCA5Z1ohlEhJhTdDC3xepprnipSOSrCnzf8YuhKNfBeulU/7iKKpj1BYqFhAcid/7HGkquRV/2x9WG2LtBB/Z0eWSUDO7U0mTDiIEnmZueO9pAKZUxxvinKB4YX2vraem9JMOydn5T1el4CoS7VZxYAFbyCZsaQc0qf3smDsIFmmifqhngX52/syD3s4G72dRlTkjEwyyXQI1o7Bb2JjhQRpvYcO8sgWVqnQGvO2bVnOsuswkL56xdfzHmDx6rVfA=;JZZkAgn8GXoc1aKO4YVMgg=="
 ---

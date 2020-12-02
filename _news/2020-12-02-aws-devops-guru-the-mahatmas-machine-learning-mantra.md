@@ -9,8 +9,8 @@ ampWebUrl: "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1"
 type: article
 quality: 76
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: Computer Weekly
@@ -28,6 +28,38 @@ images:
     isCached: true
 
 related:
+  - title: "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru"
+    excerpt: "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services."
+    publishedDateTime: 2020-12-02T13:14:00Z
+    webUrl: "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 104
+    images:
+      - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/eca284db-40a8-41e0-a604-f1e0413b800c/resize/1200x/f745556c13a6c51b9da4d21d99e674f0/reinvent.jpg"
+        width: 1200
+        height: 881
+        isCached: true
+  - title: "AWS re:Invent Day 1: Top 5 announcements include machine learning, storage innovations, and container capabilities"
+    excerpt: "CEO Andy Jessy covered 24 new product announcements in his three-hour keynote on the first day of the virtual Amazon Web Services event."
+    publishedDateTime: 2020-12-01T21:49:00Z
+    webUrl: "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
+    ampWebUrl: "https://www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/"
+    type: article
+    provider:
+      name: TechRepublic
+      domain: techrepublic.com
+    quality: 101
+    images:
+      - url: "https://tr1.cbsistatic.com/hub/i/r/2020/12/01/ca41b574-2710-4c6b-a5bf-0d96bd8aef70/crop/924x541+0+35/resize/1200x/e8ebb2fdcd8f14e77e335f6234a8b731/serverless.jpg"
+        width: 1200
+        height: 703
+        isCached: true
   - title: "Amazon brings machine learning to Industry, DevOps and Contact Centers"
     excerpt: "Amazon Web Services Inc. said today it’s trying to embed more intelligence into the industrial sector with a number of new machine learning tools and services that aim to help customers monitor their workers,"
     publishedDateTime: 2020-12-02T01:57:00Z
@@ -42,6 +74,29 @@ related:
         width: 1253
         height: 737
         isCached: true
+  - title: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent"
+    excerpt: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent - SiliconANGLE"
+    publishedDateTime: 2020-11-30T23:19:00Z
+    webUrl: "https://siliconangle.com/2020/11/30/cloud-first-initiative-and-embracing-change-lead-agenda-for-accenture-executive-summit-at-aws-reinvent-reinvent/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 23
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/11/Accenture-Executive-Summit-2020.png"
+        width: 898
+        height: 492
+        isCached: true
+  - title: "AWS Announces Amazon DevOps Guru"
+    excerpt: "Atlassian, PagerDuty, and SmugMug among the customers and partners using Amazon DevOps Guru Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru,"
+    publishedDateTime: 2020-12-02T09:33:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20201201006063/aws-announces-amazon-devops-guru"
+    type: article
+    provider:
+      name: Morningstar, Inc.
+      domain: morningstar.com
+    quality: 19
 
 secured: "f2rna1pB5AW0huJFL5Jwcn5QQqJ+33yDz/uKtunvkqpojX5YNHV/3QQgfUuQ2Kr9EvpDwHKgD8b1Y7KjelD3NPBz+0IbOkAAboFnsTm0qucZ1e6/Lb3pwd+qk2l9eOije+BVPrDwt7fK0J4feMbSJES7aFng6kUBUHkxyH5W0Vhu8co+7x5TcayZgxFlbFntoIkh1x6c9TGDpt38zyRheV+nUz794r3y+5/Pg/3j8xXKpfYlwXM7/Qw61dY7P7O1tF0ZPOripzMl9XieGgx/vwGAoaHaHeK8fgh9+QJi0WM8rswMYOugMofxtaCbOjJ8c01FBAt7JCQXyc3iIOLp4QNRnc2DCq/aVwVhvI873Zc=;XWXvtzqp8FAW9axyCyRBuQ=="
 ---

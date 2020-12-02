@@ -2,6 +2,155 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
+      "title": "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal",
+      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp",
+      "publishedDateTime": "2020-12-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
+      "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
+      "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "originalUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/eca284db-40a8-41e0-a604-f1e0413b800c/resize/1200x/f745556c13a6c51b9da4d21d99e674f0/reinvent.jpg",
+          "width": 1200,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "publishedDateTime": "2020-12-02T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-leveraging-the-power-of-ai-in-telehealth.md",
+      "title": "Leveraging The Power Of AI In Telehealth",
+      "excerpt": "The main AI use cases in telehealth include information analysis and collaboration, remote patient monitoring, and intelligent diagnostics and assistance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc68504a15370bf1f829b19%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/amp/",
+      "publishedDateTime": "2020-12-02T05:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-preparing-leaders-for-the-artificial-intelligence-age.md",
       "title": "Preparing Leaders For The Artificial Intelligence Age",
       "excerpt": "The power and promise of AI to augment decision-making is impressive, but there are a few things leaders need to keep in mind in order to leverage the tech successfully.",
@@ -10,7 +159,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -49,6 +198,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout.md",
+      "title": "AI’s Next Big Coup: Augmenting Intelligence To Combat Customer Service Burnout",
+      "excerpt": "Knowledge management with embedded AI can connect workers at scale to share best practices, crowdsource answers and close knowledge gaps in real time.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6a59cf84eb695c2af4c15%2F0x0.jpg",
+          "width": 1200,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2020/12/02/ais-next-big-coup-augmenting-intelligence-to-combat-customer-service-burnout/amp/",
+      "publishedDateTime": "2020-12-02T04:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -215,7 +416,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -256,50 +457,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-devops-guru-the-mahatmas-machine-learning-mantra.md",
-      "title": "AWS DevOps Guru: the mahatma's machine learning mantra",
-      "excerpt": "Invent virtual event this week to announce Amazon DevOps Guru. He/she/they are not an actual person, there is no all-powerful mystical mahatma who delivers teachings as the ‘learned one’ for all DevOps needs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
-      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Dashboard1.df163a3387d20a23186f9f3d87755ec9218666a2.png",
-          "width": 580,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
-      "publishedDateTime": "2020-12-02T03:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
       ]
     },
     {
@@ -490,6 +647,49 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-facebook-agrees-to-acquire-crm-platform-kustomer.md",
+      "title": "Facebook Agrees to Acquire CRM Platform Kustomer",
+      "excerpt": "Facebook agreed to acquire customer-relationship-management platform Kustomer, which was named Adweek’s best customer experience platform in 2020. The Kustomer team—including co-founders Brad Birnbaum and Jeremy Suriel—will join Facebook,",
+      "sourceUrl": null,
+      "webUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/",
+      "originalUrl": "https://www.adweek.com/media/facebook-acquires-crm-platform-kustomer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://about.fb.com/wp-content/uploads/2020/11/NRP-11-2020.jpg?fit=1920%2C1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "publishedDateTime": "2020-12-02T02:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -744,6 +944,58 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-configuring-autoscaling-inference-endpoints-in-amazon-sagemaker.md",
+      "title": "Configuring autoscaling inference endpoints in Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/26/Configuring-autoscaling-inference-1.jpg",
+          "width": 800,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T17:50:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-cyber-security-cloud-wafcharm-now-available-on-microsoft-azure.md",
       "title": "Cyber Security Cloud WafCharm now available on Microsoft Azure",
       "excerpt": "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules.",
@@ -841,6 +1093,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-no-bugs-in-facial-recognition-technology-says-state-agency.md",
+      "title": "No bugs in facial recognition technology, says state agency",
+      "excerpt": "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the .",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms",
+      "publishedDateTime": "2020-12-01T15:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies.md",
       "title": "Artificial Intelligence for Marketing Market – Major Technology Giants in Buzz Again | NVIDIA, Intel, Google, Albert Technologies",
       "excerpt": "Latest launched research document on Global Artificial Intelligence for Marketing Market study of 150 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,",
@@ -849,7 +1144,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies-2020-12-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -942,312 +1237,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility.md",
-      "title": "Waymo self-driving cars set out for Ohio snow at new testing facility",
-      "excerpt": "Alphabet's Waymo division is ready to take on the Buckeye State as it announced on Tuesday a new facility in East Liberty, Ohio, to house its self-driving car prototypes. There, Waymo plans to put its Waymo Driver system to work on driving a car entirely by itself,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet2.cbsistatic.com/img/Sy2VeNw5UQrGG1C43PGSDFmjVNk=/2020/12/01/90826b96-460e-4aab-b8bc-35016493224a/ogi-waymo.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
-      "publishedDateTime": "2020-12-01T14:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-leverages-habana-gaudi-ai-processors.md",
-      "title": "AWS Leverages Habana Gaudi AI Processors",
-      "excerpt": "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T14:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images.md",
-      "title": "Nvidia introduces AI for generating video conference talking heads from 2D images",
-      "excerpt": "Nvidia researchers created AI for recreating and manipulating talking heads in video conferences from a singe 2D image.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "originalUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/nividia-2.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/01/nvidia-introduces-ai-for-generating-video-conference-talking-heads-from-2d-images/amp/",
-      "publishedDateTime": "2020-12-01T13:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities.md",
-      "title": "AWS re:Invent Day 1: Top 5 announcements include machine learning, storage innovations, and container capabilities",
-      "excerpt": "CEO Andy Jessy covered 24 new product announcements in his three-hour keynote on the first day of the virtual Amazon Web Services event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/01/ca41b574-2710-4c6b-a5bf-0d96bd8aef70/crop/924x541+0+35/resize/1200x/e8ebb2fdcd8f14e77e335f6234a8b731/serverless.jpg",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "publishedDateTime": "2020-12-01T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-scale-ai-hits-35b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza.md",
-      "title": "Scale AI hits $3.5B valuation as its turns the AI boom into a venture bonanza",
-      "excerpt": "Scale AI, the four-year-old data labeling startup, has discovered that selling the picks and shovels needed to develop and apply artificial intelligence is big business. The company, which created a visual data labeling platform that uses software and people to label image,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
-      "originalUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/05/PandaSet-flyover-GIF-credit_-Scale-AI.gif?w=720",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/scale-ai-hits-3-5b-valuation-as-its-turns-the-ai-boom-into-a-venture-bonanza/amp/",
-      "publishedDateTime": "2020-12-01T13:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-previews-ultra-efficient-ai-instances-for-neural-network-training.md",
-      "title": "AWS previews ultra-efficient AI instances for neural network training",
-      "excerpt": "Invent event today alongside several other new compute offerings optimized for use cases such as running databases and rendering video content. AWS’ planned AI instances will be based on Intel Corp.’s Gaudi chips (pictured),",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2020/12/01/aws-previews-ultra-efficient-ai-instances-neural-network-training/",
-      "originalUrl": "https://siliconangle.com/2020/12/01/aws-previews-ultra-efficient-ai-instances-neural-network-training/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/1-800x533.jpg",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T13:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

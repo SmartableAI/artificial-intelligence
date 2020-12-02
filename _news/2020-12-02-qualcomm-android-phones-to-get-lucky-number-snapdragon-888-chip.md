@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/amp/technology-55150532"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/technology-55150532"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://liliputing.com/wp-content/uploads/2020/12/sd888_01.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Qualcomm unveils latest premium chip"
+    excerpt: "Qualcomm unveiled its latest flagship smartphone chipset, the Snapdragon 888, focusing on enhanced AI capabilities,"
+    publishedDateTime: 2020-12-02T13:01:00Z
+    webUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-unveils-latest-premium-chip"
+    ampWebUrl: "https://www.mobileworldlive.com/featured-content/top-three/qualcomm-unveils-latest-premium-chip/amp"
+    cdnAmpWebUrl: "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/qualcomm-unveils-latest-premium-chip/amp"
+    type: article
+    provider:
+      name: Mobile World Live
+      domain: mobileworldlive.com
+    quality: 59
+    images:
+      - url: "https://i2.wp.com/www.mobileworldlive.com/wp-content/uploads/2020/02/Qualcomm-signage-650.jpg?fit=650%2C400&#038;ssl=1"
+        width: 650
+        height: 400
         isCached: true
   - title: "Qualcomm Snapdragon 888 mobile SoC announced, focuses on AI, gaming and photography"
     excerpt: "Qualcomm today announced the Snapdragon 888, its next-generation flagship system-on-chip (SoC) for smartphones, at the 2020 Qualcomm Snapdragon Tech Summit. The Snapdragon 888 is Qualcomm’s first flagship SoC with an integrated 5G modem."

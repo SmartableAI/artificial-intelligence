@@ -2,21 +2,65 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-02-aws-devops-guru-the-mahatmas-machine-learning-mantra.md",
-      "title": "AWS DevOps Guru: the mahatma's machine learning mantra",
-      "excerpt": "Invent virtual event this week to announce Amazon DevOps Guru. He/she/they are not an actual person, there is no all-powerful mystical mahatma who delivers teachings as the ‘learned one’ for all DevOps needs.",
+      "path": "_news/2020-12-02-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
+      "title": "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal",
+      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
       "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
-      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
+      "webUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 106,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp",
+      "publishedDateTime": "2020-12-02T06:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
+      "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
+      "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "originalUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Dashboard1.df163a3387d20a23186f9f3d87755ec9218666a2.png",
-          "width": 580,
-          "height": 551,
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/eca284db-40a8-41e0-a604-f1e0413b800c/resize/1200x/f745556c13a6c51b9da4d21d99e674f0/reinvent.jpg",
+          "width": 1200,
+          "height": 881,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +68,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
-      "publishedDateTime": "2020-12-02T03:55:00-08:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "publishedDateTime": "2020-12-02T05:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -42,7 +95,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -94,6 +148,58 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-configuring-autoscaling-inference-endpoints-in-amazon-sagemaker.md",
+      "title": "Configuring autoscaling inference endpoints in Amazon SageMaker",
+      "excerpt": "Amazon SageMaker is a fully managed service that provides every developer and data scientist with the ability to quickly build, train, and deploy machine learning (ML) models at scale. Amazon SageMaker removes the heavy lifting from each step of the ML process to make it easier to develop high-quality",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/configuring-autoscaling-inference-endpoints-in-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/26/Configuring-autoscaling-inference-1.jpg",
+          "width": 800,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T17:50:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI",
         "AWS AI"
       ]
@@ -160,7 +266,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -201,60 +307,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities.md",
-      "title": "AWS re:Invent Day 1: Top 5 announcements include machine learning, storage innovations, and container capabilities",
-      "excerpt": "CEO Andy Jessy covered 24 new product announcements in his three-hour keynote on the first day of the virtual Amazon Web Services event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/01/ca41b574-2710-4c6b-a5bf-0d96bd8aef70/crop/924x541+0+35/resize/1200x/e8ebb2fdcd8f14e77e335f6234a8b731/serverless.jpg",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "publishedDateTime": "2020-12-01T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     },
     {
@@ -365,7 +417,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -512,58 +564,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-30-analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker.md",
-      "title": "Analyzing data stored in Amazon DocumentDB (with MongoDB compatibility) using Amazon Sagemaker",
-      "excerpt": "One of the challenges in data science is getting access to operational or real-time data, which is often stored in operational database systems. Being able to connect data science tools to operational data easily and efficiently unleashes enormous potential for gaining insights from real-time data. In",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyzing-data-stored-in-amazon-documentdb-with-mongodb-compatibility-using-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/21/Analyzing-data-stored-in-Amazon-1.jpg",
-          "width": 681,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-30T09:48:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {

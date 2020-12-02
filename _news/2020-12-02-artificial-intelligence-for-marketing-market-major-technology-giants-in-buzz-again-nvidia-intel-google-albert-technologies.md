@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies-2020-12-01"
 type: article
 quality: 70
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chips Market to Witness Huge Growth by 2025 | Google, Intel, NVIDIA"
-    excerpt: "This report presents the worldwide Artificial Intelligence Chips market size (value, production and consumption), splits the breakdown (data status 2014-2019 and forecast to 2025), by manufacturers, region,"
-    publishedDateTime: 2020-12-01T17:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-witness-huge-growth-by-2025-google-intel-nvidia-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI for Intelligent Social Media Marketing"
     excerpt: "Remember a scene in the flick Titanic, where while that mammoth structure sank, all the people tried to float on the surface of the water, jostling and flapping their limbs, to stay on the surface and not sink."
     publishedDateTime: 2020-12-02T00:04:00Z

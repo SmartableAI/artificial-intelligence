@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-28-startup-robust-ai-raises-15-million-in-new-funding.md",
+      "title": "Startup Robust AI Raises $15 Million in New Funding",
+      "excerpt": "Robust AI Inc., a startup developing an artificial intelligence system intended to allow robots to work autonomously in open-ended environments, on Wednesday raised $15 million in venture-capital funding,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
+      "originalUrl": "https://www.wsj.com/articles/startup-robust-ai-raises-15-million-in-new-funding-11603897500",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-250518/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-7-ai-stocks-to-buy-as-automation-advances.md",
       "title": "7 AI Stocks to Buy as Automation Advances",
       "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We ...",
@@ -1334,42 +1386,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2020-10-20-robotics-machine-learning-daily-news-service-researchandmarketscom.md",
-      "title": "Robotics & Machine Learning Daily News Service – ResearchAndMarkets.com",
-      "excerpt": "The \"Robotics & Machine Learning Daily News\" newsletter has been added to ResearchAndMarkets.com's offering. Robotics",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
-      "originalUrl": "https://www.financialbuzz.com/robotics-machine-learning-daily-news-service-researchandmarkets-com/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-20T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Buzz",
-        "domain": "financialbuzz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
         "AI in Robotics"
       ]
     }

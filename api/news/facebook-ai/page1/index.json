@@ -160,58 +160,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-01-daily-crunch-facebook-acquires-kustomer-for-1b.md",
-      "title": "Daily Crunch: Facebook acquires Kustomer for $1B",
-      "excerpt": "Facebook makes a billion-dollar acquisition, we learn more about Twitter’s Clubhouse-style feature and Moderna applies for emergency authorization for its COVID-19 vaccine. This is your Daily Crunch for.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/",
-      "originalUrl": "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1026686014.jpg?w=1024",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/30/daily-crunch-facebook-acquires-kustomer-for-1b/amp/",
-      "publishedDateTime": "2020-11-30T16:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2020-11-30-artificial-intelligence-machine-learning-what-do-they-mean.md",
       "title": "Artificial Intelligence & Machine Learning – What Do They Mean?",
       "excerpt": "There was a time when we heard terms like Artificial Intelligence and Machine Learning only in sci-fi movies. But",
@@ -1494,6 +1442,49 @@
         "AI",
         "AI in Robotics",
         "AI in Autos",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-02-otterai-adds-live-captions-to-its-zoom-integration.md",
+      "title": "Otter.ai adds live captions to its Zoom integration",
+      "excerpt": "Video conferencing platform Zoom has unveiled an Otter.ai integration, providing users with access to live transcriptions and meeting notes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
+      "originalUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/04/meeting6-100837792-large.jpg",
+          "width": 1200,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3539910/otterai-adds-live-captions-to-its-zoom-integration.amp.html",
+      "publishedDateTime": "2020-11-02T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
         "Facebook AI"
       ]
     }

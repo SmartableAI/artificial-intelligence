@@ -78,6 +78,15 @@ related:
         width: 400
         height: 266
         isCached: true
+  - title: "How AI is transforming the agricultural sector"
+    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
+    publishedDateTime: 2020-12-02T14:33:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
+    type: article
+    provider:
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 17
 
 secured: "qdIA/RRayI1G4UszJlBpksjB78TrfJUB8M7gVFwn0YRWS+fPfn3mJSId8TtFIl7hPivbIfcDrGZJc1AWle2aPMepF1HbRm9HMQbfcU+ktEEC0b3P5gbyqRb3AsnCFqAWeCamc41IeAi6Vy8SbKnvaTppphsulQrKJGaj3KkFQVQeM7AReN+HWmdEMpk0vDawtmAeBr0m/6Do72A2D/C5cglH0yjEqOwUP+U1TpoM6AoUP3T9E3xHFhO0hxpAHZnKLKXr+Ero2bJ+U0ieFj5SkKH0252agsaPoJLM75lwRkRtGKWqXY+eW60iCeFgyLy7UGahX+jzXRsUgaqU6qkv1Gpq1uQpu+NUfK7ozcxWpMQ=;33QEwz1Z7yiV2c6WmF4h1w=="
 ---

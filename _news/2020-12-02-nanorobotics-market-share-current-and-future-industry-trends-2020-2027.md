@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-shar
 webUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global AI-Based Fever Detection Camera Market 2020 Top Key Players, Revenue, Market Share, Size, Market Dynamics and Forecast to 2027"
+    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI-based"
+    publishedDateTime: 2020-12-02T13:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-detection-camera-market-2020-top-key-players-revenue-market-share-size-market-dynamics-and-forecast-to-2027-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -74,15 +74,6 @@ related:
         width: 480
         height: 271
         isCached: true
-  - title: "AWS Announces Amazon DevOps Guru"
-    excerpt: "Atlassian, PagerDuty, and SmugMug among the customers and partners using Amazon DevOps Guru Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru,"
-    publishedDateTime: 2020-12-02T09:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201201006063/aws-announces-amazon-devops-guru"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
 
 secured: "niixTXbfn3l8APnpNVFkDu1LzOtd1OB+HRRTt973XpNV8A4fBmCkb3MUS6IRF2jCEomJZDaYkE1YfYUOztZ2rR0loB8SLLJyvf2zbxHx6SLpPlkuVo/PAiHNavHtamaQhmFinfUPV/7ENOOrxNVjmMkIIQJvLEHJwFGtlDubbVaNdB7KBrA0o5BibozgpwsG3lFIEs1F3eGFcs3VyOVAj1Wtbd/VzGeM00fd+3PbrWE6B3bupFBzBL6F96v2FkTJ/YCJsnPmL+IFtDBKOIjL2PAfsmtz9qJ2hxQH1H17HBYNjg+uwEPhGPRXnG8q4Nk+Zgpd5DUPosYa4RdRRnI6ACh+eYRhv6t9trYt2iuv000=;ccdZhtjqU8nyVY71kYVT4w=="
 ---

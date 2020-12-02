@@ -43,20 +43,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Self-driving semitrailer trucks are getting ready to roll more often"
-    excerpt: "The age of self-driving 18-wheelers traveling on U.S. highways may be much closer than many people realize, and North Texas is emerging as the likely location of a major hub for the trucks. One company that is aggressively working to build a nationwide freight network of driverless trucks is TuSimple,"
-    publishedDateTime: 2020-11-27T22:48:00Z
-    webUrl: "https://www.startribune.com/self-driving-semitrailer-trucks-are-getting-ready-to-roll-more-often/573201331/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 39
-    images:
-      - url: "https://stmedia.stimg.co/ows_3696b333-c550-4906-b015-552beaae2016.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "IK81paIWsVVrLIIjuntGZsFPoV/vdhsosNO/WQBzqjL1MJxPzSoYu6EUL5EV0SdRcuKsr10E2QOBXQYyF+NGrZQLgUWBZUC0IasUR5psu/IhqxhMJVrLAyqP4yycKJNMfHiGAKDa4Wu4mk9tqh9spQAtlBHy41LCi0gpeZvwEAC7zFLOS6BfLTtSkCzzB09wip3tROp7TkQA9XbTBzaTfzhtDVY0l6jj1cQF6HdOku2HGEVoAPh06IMUmBvQe3y2Gm+N/yWgeRv9W8xDF150qReMVd8FVXiGLlL8bKN0WbjGm5o/LRtgazuRI6M+co8ogsjDhPfO/bnkE/jfS1WjRnYJRE8HL4pNnAd73Ay8L5tM+2jltdHE/XlqkrtjaqFwpiuSWToBS/rX5ug+WpxANRdUVgSm87kNGcWEHIRJMbvKdAXfCi+KGZeQO74GAnpVdg4Gs6amOskv/Mj4w//WTih+aLURQSxlH0v94rJtzf9o9CEYVIdd6m9sstFRoo9oQVMjGovFDty3Wf4+CiF7Wg==;dKu8UH6d5PAzrWS+dZ78og=="
 ---

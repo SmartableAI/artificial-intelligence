@@ -26,15 +26,26 @@ images:
     isCached: true
 
 related:
-  - title: "AWS Leverages Habana Gaudi AI Processors"
-    excerpt: "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver"
-    publishedDateTime: 2020-12-01T22:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
+  - title: "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal"
+    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+    publishedDateTime: 2020-12-02T14:30:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 86
+  - title: "Artificial Intelligence Chips Market to Witness Huge Growth by 2025 | Google, Intel, NVIDIA"
+    excerpt: "This report presents the worldwide Artificial Intelligence Chips market size (value, production and consumption), splits the breakdown (data status 2014-2019 and forecast to 2025), by manufacturers, region,"
+    publishedDateTime: 2020-12-01T17:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-witness-huge-growth-by-2025-google-intel-nvidia-2020-12-01"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 84
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

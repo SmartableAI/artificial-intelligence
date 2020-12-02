@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/prepar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -83,7 +83,16 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "How AI is transforming the agricultural sector"
+    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
+    publishedDateTime: 2020-12-02T14:33:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
+    type: article
+    provider:
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 17
 
-secured: "78ikcWgfIvHMRWeTkpktqIpMmvXTUqB9aQLf6z6DzUkTgZBBBl/qc57OADUyMY1aOTZa0L1cJ7AvucAApm5eL10GzRgwzQQ4HV0TpXkUrboW/H49opWXi2L5SB1cW8yZ/WkMBVy+ywFMZBA5BJ4ZVySvTN5DzS9KJt0+8om0xOTWX6WoMYWS/f3asHwhFXSaJYepGfNJYOu9rtSwF31MIxzHXNlq+8lNGHBNhUpMkhStib5QVkSJoCPfQf/tenC9EnQRYcUAY8HH9WmNJblJJYnCT09xygW3WvnzxNnb2ssM7p+Ir+87hKP/mfR9m3YMLwoEsQFJ6lfiet6UcO/IzruvpOVkwWc3dVmdtrF+vfg=;B2VVWn0CYKwbzFSmJoUB0g=="
+secured: "Q0Wxc3OtPrAnpOsSKc09H2FkEuucjjtVPnkdodiqqadTwI0Fv6+By/u9KSle4hsQiWfXAtNntHCqaK5AZRwuPqtvwr8Em4RRhMJ6X8ejOIrUjd/G8RiVMTsyARnIvoUsyU/py0WQNR54DX1CdnzxjuXBO+CmxeoEj7iXP7VHjsuv8k5YG+vPI3kzxiXYSCtPZcZRBjJDdb5pJ5N43qCWhGXy/ituKB1KrNm/j0GvYcM3prRFY47GPLu4+CxgAPzdEiKquMDTc+e8fHNPdIqbLXBVZObTB6Um8qoSVPThRusCvzIK0lTKu2F4EPmBrrDkw65Tj1Nu4AMKEIP/ap7TcMErOka90Mqax3x7VKIJ9NjwCSx58IuRZj3amKms94C6xLq+31PiuLYSap0qIBP4qbmcpuR3lgDFlidqyPco9fotIP32LyxCvj/wb7R52fF3WQaX82TbkMdWcvQLToqVR08pxT7Nkeae01DCFAgS+TPnKDcKYXjEvIV9oXnaIxjVQgPDO6gfXNAu5key1bsylw==;tUyWcNHycs0FehfD1pp63Q=="
 ---
 

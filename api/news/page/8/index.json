@@ -2,6 +2,222 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2020-11-24-apples-ml-compute-framework-accelerates-tensorflow-training.md",
+      "title": "Apple's ML Compute Framework Accelerates TensorFlow Training",
+      "excerpt": "As part of the recent macOS Big Sur release, Apple has included the ML Compute framework. ML Compute provides optimized mathematical libraries to improve training on CPU and GPU on both Intel and M1-based Macs,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
+      "originalUrl": "https://www.infoq.com/news/2020/11/apple-tensorflow-acceleration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2020/11/apple-tensorflow-acceleration/en/headerimage/apple-tensorflow-acceleration-header-1606058017134.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T06:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world.md",
+      "title": "Artificial Intelligence Technology Solutions Receives Wally HSO Order From Top 20 Largest Medical Devices Company in the World",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc. (OTCPK:AITX) today announced that its wholly-owned subsidiary Robotic Assistance Devices",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/artificial-intelligence-technology-solutions-receives-wally-hso-order-from-top-20-largest-medical-devices-company-in-the-world-1029834289",
+      "publishedDateTime": "2020-11-24T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data.md",
+      "title": "GSTS Awarded Contribution for Artificial Intelligence Fusion of Satellite Data",
+      "excerpt": "GSTS to augment real-time AI-based data fusion capabilitiesHALIFAX, NS, Nov. 24, 2020 /CNW/ - Global Spatial Technology Solutions ('GSTS' or 'the",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/gsts-awarded-contribution-for-artificial-intelligence-fusion-of-satellite-data-1029834662",
+      "publishedDateTime": "2020-11-24T05:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
+      "title": "Binarized neural networks show promise for fast, accurate machine learning",
+      "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/november2320.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "publishedDateTime": "2020-11-24T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices.md",
+      "title": "Syxsense Announces New Support for Amazon Web Service (AWS) Linux Devices",
+      "excerpt": "Syxsense, a global leader in SaaS IT and security management solutions, extends support of its cloud-native, real-time architecture to Amazon Web Service",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/syxsense-announces-new-support-for-amazon-web-service-aws-linux-devices/article_62a863fb-eee3-5fca-8415-b70ffe3a9d92.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T05:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-garuda-capital-acquires-minority-stake-in-hong-kong-fintech-startup-finlink.md",
       "title": "Garuda Capital acquires minority stake in Hong Kong fintech startup FinLink",
       "excerpt": "This acquisition comes after FinLink raised US$2.5 million in a seed round led by PF Ventures and Garuda Capital in 2019.",
@@ -943,248 +1159,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-customizing-your-machine-translation-using-amazon-translate-active-custom-translation.md",
-      "title": "Customizing your machine translation using Amazon Translate Active Custom Translation",
-      "excerpt": "When translating the English phrase “How are you?” to Spanish, would you prefer to use “&iquest;C&oacute;mo est&aacute;s?” or “&iquest;C&oacute;mo est&aacute; usted?” instead? Amazon Translate is a neural machine translation service that delivers fast, high-quality, and affordable language translation.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customizing-your-machine-translation-using-amazon-translate-active-custom-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/23/Customizing-your-machine-7.jpg",
-          "width": 800,
-          "height": 407,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-23T13:43:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-googles-verse-by-verse-ai-can-help-you-write-in-the-style-of-famous-poets.md",
-      "title": "Google's 'Verse by Verse' AI can help you write in the style of famous poets",
-      "excerpt": "The company's latest experiment with AI-driven poetry offers suggestions in the style of America’s most renowned wordsmiths. You can select up to three poets for inspiration, including the likes of Emily Dickinson, Walt Whitman and Edgar Allen Poe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/googles-ai-poetry-verse-by-verse-202105834.html",
-      "originalUrl": "https://www.engadget.com/googles-ai-poetry-verse-by-verse-202105834.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-11%2F99965be0-2dc4-11eb-9eec-b51c7ac58cd4&client=amp-blogside-v2&signature=c9f481abeee641fa535eae379bef772611fc3585",
-          "width": 600,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/googles-ai-poetry-verse-by-verse-202105834.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/googles-ai-poetry-verse-by-verse-202105834.html",
-      "publishedDateTime": "2020-11-23T13:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-kfc-rolls-out-self-driving-food-trucks-in-china-and-its-sort-of-wild.md",
-      "title": "KFC rolls out self-driving food trucks in China and it's sort of wild",
-      "excerpt": "Some experts believe the self-driving cars are in for a boom, thanks to how the coronavirus pandemic has started to reshape how we purchase goods. When a top priority is to slow the spread of a contagious virus, having things delivered can help some people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/kfc-food-trucks-self-driving-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cnet4.cbsistatic.com/img/vVVJc_UXS8zKfNCqn1-Zu_LkhS4=/2020/11/23/194f0a35-6f2b-4fe6-a886-776ba77b6ef3/ogi-kfc.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/kfc-food-trucks-self-driving-china/",
-      "publishedDateTime": "2020-11-23T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-can-we-make-our-robots-less-biased-than-we-are.md",
-      "title": "Can We Make Our Robots Less Biased Than We Are?",
-      "excerpt": "Bomb squad” robots are marketed as tools for safely disposing of bombs, not for delivering them to targets. (In 2018, police officers in Dixmont, Maine, ended a shootout in a similar manner.). Their profession had supplied the police with a new form of lethal weapon,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
-      "originalUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/11/22/world/22SCI-AI-JUSTICEpromo/merlin_180258276_3647e397-78ba-4cfd-b279-fadf05246243-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/22/science/artificial-intelligence-robots-racism-police.amp.html",
-      "publishedDateTime": "2020-11-23T11:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-24-global-ai-based-learning-market-in-a-boom-phase-free-webinar.md",
-      "title": "Global AI-based Learning Market in a Boom Phase: Free Webinar",
-      "excerpt": "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18494506",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494506",
-      "publishedDateTime": "2020-11-23T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

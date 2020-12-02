@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Chips Market to Witness Huge Growth by 2025 | Google, Intel, NVIDIA"
-    excerpt: "This report presents the worldwide Artificial Intelligence Chips market size (value, production and consumption), splits the breakdown (data status 2014-2019 and forecast to 2025), by manufacturers, region,"
-    publishedDateTime: 2020-12-01T17:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-witness-huge-growth-by-2025-google-intel-nvidia-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "WDvE+OVM1twFpKtHUPk7G5+F6FGahR/e5XRQJAQVysU/v1FHFa2lShNIQLqtlF9Q8iptgTXd8MjgLvNx7JqiO+NEj4mgpfcbeRgG2KfhKs3QMH4xEIxfCmvRa86mpHXEpOxpTAoff9ETjS19YuzY79XLvNpJ+oF6omAAfz755S6/aMQb+8rWWr5/OUuxyqlBznSwBhxYJVtvr8KpHPoW38ZyeqUZcq0ZQO3kLj3Q28frYnamSK/2YK8ZK2ry73Ott2VnFr3ksUo48pOzoM0VfT8+Ibrxjdr8Fe/WFaepoW0nVM1aVOHIdvvw8rQpKzC4uJMmeqVml+G6kyTKgcZ1hW81IitJLftjdaUIEp5/9BHhfU31a1Nq5h35hQkpaW3Bhzl138jhznQGoK8kpF1+gg4MqL9vTVRxAjxh7KJfczIu5EmcTLA1YzvElfdoHEA7pJ7f91qjbCaMdMVbScYVIWfDQvPatIWcuRFg7c1rWvN89Q55tBg0nzFasYcxZXoEd1wK951i+ciSzudN6KJjAg==;4MaJii43NMdUYIvWiIa7TQ=="
 ---

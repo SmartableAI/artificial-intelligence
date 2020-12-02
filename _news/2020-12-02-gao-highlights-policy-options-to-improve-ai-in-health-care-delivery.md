@@ -7,7 +7,7 @@ originalUrl: "https://www.meritalk.com/articles/gao-highlights-policy-options-to
 webUrl: "https://www.meritalk.com/articles/gao-highlights-policy-options-to-improve-ai-in-health-care-delivery/"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "GAO: AI Promising in Health Care, but Challenges Remain"
+    excerpt: "The nascent technology is leading to positive health care outcomes, but issues may impede widespread adoption."
+    publishedDateTime: 2020-12-02T13:23:00Z
+    webUrl: "https://www.nextgov.com/emerging-tech/2020/12/gao-ai-promising-health-care-challenges-remain/170397/"
+    type: article
+    provider:
+      name: Nextgov
+      domain: nextgov.com
+    quality: 39
+    images:
+      - url: "https://cdn.nextgov.com/media/img/upload/2020/12/01/NGbrain20201201/open-graph.jpg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "8LHfrUW01xND3CX4s98bAPONbktAbqevVu0CPE1oa1c7FVDRB39bmSfSnaXA1c99oxjLsw/AHiPVNzRKvcESeRQVZcOOFWiWPS0WEMwGo326h+plTzGMJvhuoj3pIDliaNh+elx9pBJwfDi7esR/qvwCJsFWOt4hn6lktHu1C15tyR74pyxZ37WcdDyFgBbrlKH8lTFP+d/fG5yiDMWKD6Z+WZDLfrpi5mc0XVM8o01S4kqbQvH0IMPSlrorcnAVkS+f1xamq8ReyXJu7M3mRpsHVMzXh1pyrDQgze+yBHxiz3lNlsgs+A6YD4rWze0mvcj2pmqVHKiv9ertlaD0VgnZaw9aDP5kueWdq3JZ08s=;x7PaAmfO3V780PPLYtYeKw=="
 ---

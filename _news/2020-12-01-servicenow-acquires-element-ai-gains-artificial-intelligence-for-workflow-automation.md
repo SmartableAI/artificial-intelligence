@@ -143,6 +143,17 @@ related:
       name: TheStreet.com
       domain: thestreet.com
     quality: 37
+  - title: "ServiceNow’s AI chief on solving the ‘last mile problem’ for enterprise AI"
+    excerpt: "Vijay Narayanan, ServiceNow’s Chief AI Officer, explains how the workflow vendor is making AI scalable in the enterprise."
+    publishedDateTime: 2020-12-02T14:08:00Z
+    webUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0"
+    ampWebUrl: "https://diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/servicenows-ai-chief-solving-last-mile-problem-enterprise-ai-0?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 37
   - title: "ServiceNow to acquire AI pioneer Element AI"
     excerpt: "(NYSE:NOW) has signed an agreement to acquire Element AI, an artificial intelligence company. NOW to establish an AI innovation Hub in Canada. Element AI was founded in"
     publishedDateTime: 2020-11-30T14:16:00Z

@@ -80,6 +80,15 @@ related:
       name: openpr.com
       domain: openpr.com
     quality: 37
+  - title: "How AI is transforming the agricultural sector"
+    excerpt: "There are many executives, experts, and analysts that fully believe that artificial intelligence (AI) will forever change that human beings interact with each other, and how businesses operate. Agriculture is extremely important to the global economy."
+    publishedDateTime: 2020-12-02T14:33:00Z
+    webUrl: "https://exclusive.multibriefs.com/content/how-ai-is-transforming-the-agricultural-sector/"
+    type: article
+    provider:
+      name: MultiBriefs
+      domain: multibriefs.com
+    quality: 17
 
 secured: "Am165yxZumBxpTaroo/xcJLOwDIHy16o7hTrV979dNnvdE8oKdGyownPA/H8W1vQlH43UZT03iaoWmreEt+IE+wFwtPlehoj7nP28bI6C0uA/lzC0t0Z2Q7/6WMJB+GbIXeGk3dPVvrFwLiI7GEylLQNBMP9jKj8Wh78/kmwsUZNnTLRIxhNqpKgbvGbcBZS6PwBWH80KHZ0Da/3hO0xMGPDkc4Smi2oCDbrR3Wz/vLqURYTde44S6+QHLGZG8eEJk0ILGPoltNPWQmcjGE+NjmzuHUPTr6F6pYqqJCiFJTgyDdvGUhg/wD5ojjp2YAzc3AzjWhneecyNQ09tooVAgHnPBwFqoefd82BEPQtEUdtFssogy1X4xyxufIxqSCoQffQaq6Ks/XP8yJeMlw6rlLokAuAMO42Fl4rdKbHdFE3lfc9KU64ym3xOKdY9nF5/13SGb22+CLXFRKEDPAuXRFebgm/oAhcB9ToX8L0gXTYVm6QbUs11mkkfkhUrOLM31z5hQ+qbasFee7q0vPQbg==;0XP70U4IMV8hJkHN3feyVg=="
 ---

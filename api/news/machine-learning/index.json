@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2020-12-02-aws-devops-guru-the-mahatmas-machine-learning-mantra.md",
-      "title": "AWS DevOps Guru: the mahatma's machine learning mantra",
-      "excerpt": "Invent virtual event this week to announce Amazon DevOps Guru. He/she/they are not an actual person, there is no all-powerful mystical mahatma who delivers teachings as the ‘learned one’ for all DevOps needs.",
+      "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
+      "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
+      "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
       "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
-      "originalUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra",
+      "webUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "originalUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://itknowledgeexchange.techtarget.com/cwdn/files/2020/12/Dashboard1.df163a3387d20a23186f9f3d87755ec9218666a2.png",
-          "width": 580,
-          "height": 551,
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/eca284db-40a8-41e0-a604-f1e0413b800c/resize/1200x/f745556c13a6c51b9da4d21d99e674f0/reinvent.jpg",
+          "width": 1200,
+          "height": 881,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/blog/CW-Developer-Network/AWS-DevOps-Guru-the-mahatmas-machine-learning-mantra?amp=1",
-      "publishedDateTime": "2020-12-02T03:55:00-08:00",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "publishedDateTime": "2020-12-02T05:14:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -42,7 +51,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AWS AI"
+        "AWS AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -95,60 +105,6 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities.md",
-      "title": "AWS re:Invent Day 1: Top 5 announcements include machine learning, storage innovations, and container capabilities",
-      "excerpt": "CEO Andy Jessy covered 24 new product announcements in his three-hour keynote on the first day of the virtual Amazon Web Services event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "originalUrl": "https://www.techrepublic.com/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr1.cbsistatic.com/hub/i/r/2020/12/01/ca41b574-2710-4c6b-a5bf-0d96bd8aef70/crop/924x541+0+35/resize/1200x/e8ebb2fdcd8f14e77e335f6234a8b731/serverless.jpg",
-          "width": 1200,
-          "height": 703,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/aws-reinvent-day-1-top-5-announcements-include-machine-learning-storage-innovations-and-container-capabilities/",
-      "publishedDateTime": "2020-12-01T13:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
         "AWS AI"
       ]
     },
@@ -207,7 +163,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1443,6 +1399,49 @@
         "Google AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-binarized-neural-networks-show-promise-for-fast-accurate-machine-learning.md",
+      "title": "Binarized neural networks show promise for fast, accurate machine learning",
+      "excerpt": "As anyone with a green thumb knows, pruning can promote thriving vegetation. A snip here, a snip there, and growth can be controlled and directed for a more vigorous plant.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "originalUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/november2320.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-11-binarized-neural-networks-fast-accurate.amp",
+      "publishedDateTime": "2020-11-24T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore.com",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

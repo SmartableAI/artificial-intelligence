@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global AI-Based Fever Detection Camera Market 2020 Top Key Players, Revenue, Market Share, Size, Market Dynamics and Forecast to 2027"
+    excerpt: "Fortune Business Insights offers a detailed overview of the global market in a report, titledThe globalAI-based"
+    publishedDateTime: 2020-12-02T13:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-based-fever-detection-camera-market-2020-top-key-players-revenue-market-share-size-market-dynamics-and-forecast-to-2027-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "bDmUAL2G7paNwsOPMd+uFmiJwbJGA5XpbWqRV9mJ0kKvYOvpN4mthnth0ad9nunglZavtPmqiabEcwdUiHwnFwC04dgabjcvfspy6uwoYnGTyBoOfHkFRkYa3qG8Zj2g3rh0bo+yavu0AipyB5T4byW0tfbqfdIVOvYDHEitEYOJNWos9Kun+dX8DGtrEhw4M3TDOc/ct2VTuSkJ/55O6TL56c/Gk5jsD0CwzH7npaxyO/A44lrAMeowmFHE+D+7tcuSPxfDr7Tfw8QHVaCx91AprYpvou/snKbqoVd6K4AnqucoUefdUqWasCSD/CXYdc3OKWvJy8MeBLQYqqYLv2a2Mfjcgz+rSUzMLY49bY8=;BXkYOWmGkX61nFgT4rBaTQ=="
 ---

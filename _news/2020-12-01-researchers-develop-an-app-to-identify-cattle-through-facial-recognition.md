@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Is Not Just For Your Phone. It Could Be Used To Prevent Livestock Disease."
-    excerpt: "To the human eye, each cow in a herd can look nearly identical. But new technology is being developed to identify cattle through facial recognition."
-    publishedDateTime: 2020-11-27T21:55:00Z
-    webUrl: "https://indianapublicmedia.org/eartheats/facial-recognition-is-not-just-for-your-phone.-it-could-be-used-to-prevent-livestock-disease..php"
-    type: article
-    provider:
-      name: WFIU
-      domain: indianapublicmedia.org
-    quality: 28
-    images:
-      - url: "https://indianapublicmedia.org/images/eartheats-images/cattletracs.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "9Vietnamese firm to launch facial-recognition payment app next year"
     excerpt: "Buyers experience the FacePay app at a GS25 convenient store in Ho Chi Minh City. Photo: Ngoc Phuong / Tuoi Tre Facial recognition will become a form of payment in Vietnam next year thanks to a brand new app developed by a local technology firm."
     publishedDateTime: 2020-11-30T02:58:00Z
