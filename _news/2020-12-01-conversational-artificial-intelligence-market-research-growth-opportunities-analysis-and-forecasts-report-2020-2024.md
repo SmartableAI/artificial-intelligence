@@ -29,6 +29,34 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
+    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
+    publishedDateTime: 2020-12-01T13:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029"
+    excerpt: "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current"
+    publishedDateTime: 2020-11-30T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023"
     excerpt: "The AI In Computer Vision Market is estimated to record a significant growth throughout the forecast period. The ICT sector constitutes 4.8% of the European economy. Europe's organization ERDF i.e. European Regional Development Fund has allotted approximately USD 23 billion for investments related to ICT during the funding period 2014-2020."
     publishedDateTime: 2020-12-01T12:33:00Z
@@ -43,17 +71,31 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Computer Vision Market (2020 to 2026) - by Product Type, Component, Application, Vertical and Country"
-    excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2020-11-27T14:20:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/europe-computer-vision-market-2020-to-2026-by-product-type-component-application-vertical-and-country-1029844954"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Europe-Computer-Vision-Market-2020-to-2026-by-Product-Type-Component-Application-Vertical-and-Country-1029844954"
+  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
+    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
+    publishedDateTime: 2020-11-27T17:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18554055/artificial-intelligence-in-healthcare-global-market-forecast-to-2027"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18554055"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18554055"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 50
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
+  - title: "Artificial Intelligence in Medical Diagnostics Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
+    excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
+    publishedDateTime: 2020-11-27T14:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-2020-by-company-regions-type-and-application-forecast-to-2025-2020-11-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Artificial Intelligence Market 2020 Scope of the Report, Challenges and Trends, Key Regions and Key Players Analysis by 2025"
     excerpt: "MarketQuest.biz has recently published Global Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025, assuming the historical data of the market to forecasts time-period from 2020 to 2025."
     publishedDateTime: 2020-12-01T22:47:00Z
@@ -68,6 +110,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
+    excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
+    publishedDateTime: 2020-11-27T14:18:00Z
+    webUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/"
+    ampWebUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
+    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
+    type: article
+    provider:
+      name: galusaustralis.com
+      domain: galusaustralis.com
+    quality: 36
   - title: "Global AI-Enabled Medical Imaging Solutions Market 2020 Overview, Key Players, Segmentation Analysis, Development Status and Forecast by 2025"
     excerpt: "Enabled Medical Imaging Solutions Market 2020 by Company, Regions, Type and Application, Forecast to 2025 contains point by point data which enlarge understanding, scope, and application of this market."
     publishedDateTime: 2020-11-30T10:56:00Z
@@ -109,6 +162,20 @@ related:
       - url: "https://menafn.com/updates/pr/2020-11/28/G_009d144b-0_Image_In_Body.png"
         width: 600
         height: 300
+        isCached: true
+  - title: "Global Passenger Vehicle Voice Recognition Market 2020 Regional Markets, Subcomponent Manufacturers, Business Standards and Forecast to 2026"
+    excerpt: "Global Passenger Vehicle Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2026 introduced by MarketsandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
+    publishedDateTime: 2020-11-30T05:38:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-passenger-vehicle-voice-recognition-market-2020-regional-markets-subcomponent-manufacturers-business-standards-and-forecast-to-2026-2020-11-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "dHHwxg9zwoJFty49fqMkOi0My7pKDqwBzFKeOjHgr+6fW/HVN1P/L336pfqDuCy8FVuIhbiEePvL12bzzme1DhwqvU3TaVUBkeXXXGvdEEqLh9ElPWpwWZPU/eS2+LXx9DsQ0fxYcTXax5eGhKfDRu7INHy6UuVtog9ERDrpG5u02mZeC1hCGB2OvUs72NpdOKRCr18+VURKYVf1fTnhjNBheQdvRNwRMd3Ml3k2A+4y2FkfShWPRqbL2mzHs6uQQtwdGUkbNy+hxdGVFxBrqn6GcTVDAmQp58I37Vb8YgiH5VLgW8C2Nk847E1nyWe1Q0cE2/y6g1fp3ma/C8lK5hlpiX+468921rjq0xXsMxk=;58ZxIALVwttpEB24Og4SKw=="

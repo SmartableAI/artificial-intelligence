@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "NEC facial recognition adopted by \"Star Alliance Biometrics\" platform"
+    excerpt: "TOKYO, Dec 2, 2020 - (J) - NEC Corporation (TSE: 6701) announced today that Lufthansa Airlines and Swiss International Airlines (SWISS), Lufthansa Group airline members of Star Alliance, launched the \"Star Alliance Biometrics\" identity verification platform utilizing NEC's facial recognition technologies at Frankfurt Airport and Munich Airport."
+    publishedDateTime: 2020-12-02T03:21:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/a18608227/nec-facial-recognition-adopted-by-star-alliance-biometrics-platform"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18608227"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18608227"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 39
   - title: "Genesis GV70 Will Let Drivers Start Car with Biometric Fingerprint Recognition"
     excerpt: "The newest version of the Genesis GV70 will reportedly use fingerprint recognition to deliver a slew of smart driving features"
     publishedDateTime: 2020-11-27T21:22:00Z

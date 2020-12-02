@@ -29,17 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Global Natural Language Processing (NLP) Market 2020 Expected To Feasible Growth , Recent Trends Over 2027"
-    excerpt: "Market 2020 Research Report and Forecast 2027 is an information bank that contains comprehensive information about the market ranging from the establishment to the predictable growth trend. The report showcases the market’s comprehensive study and reliable market statistics."
-    publishedDateTime: 2020-11-27T14:18:00Z
-    webUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/"
-    ampWebUrl: "https://galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
-    cdnAmpWebUrl: "https://galusaustralis-com.cdn.ampproject.org/c/s/galusaustralis.com/2020/11/1043360/global-natural-language-processing-nlp-market-2020-expected-to-feasible-growth-recent-trends-over-2027/amp/"
+  - title: "Global Medical Imaging Artificial Intelligence Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
+    excerpt: "The latest market study published by MarketQuest.biz entitled Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
+    publishedDateTime: 2020-11-30T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-medical-imaging-artificial-intelligence-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-11-29"
     type: article
     provider:
-      name: galusaustralis.com
-      domain: galusaustralis.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "HEzAeF8+ECcO7DFcmydFAWv5QQrE6TlXkOW8pKCGTC88kj+H5v0RU+88SmdK00JcbaMwrwgouzGm9n5IOO+8JrdIc5b82K3h0TSPf2+IngBkTmB6cWN9iMvGOS8tZ7kwOHzCWm6hR30P6Pk6GB91L5Ker8EW1jGOIHhjXH/1E7oxVBeg3hvVgV0DHmW8YxfPCcdekH1kePLyXvv2IgU3K94kOcV6Q2/qgfBcqdk+dURDzJo+wi2HJlxb+tR96yIDkrmOnUxQm7ujgp1FjQdwY40ZuxeY6KjN9jScorKPjcNpaE19/veQx6KH0OfH97kgaUNXqTxc1hbF+ikUkhXKa3CwLdm9EB0Lobqx26ckTE8=;CPzZHOeEy1zgD5mzEZXCbA=="
 ---

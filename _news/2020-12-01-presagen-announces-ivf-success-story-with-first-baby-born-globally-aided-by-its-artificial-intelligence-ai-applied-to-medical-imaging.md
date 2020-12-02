@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Presagen announces IVF success story with first baby born globally aided by its artificial intelligence (AI) applied to medical imaging"
-excerpt: "CNW/ -- Baby Ebenezer is a happy, healthy 8-week-old - and an IVF success story of a new kind. His entry into the"
-publishedDateTime: 2020-12-01T09:01:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852032"
-webUrl: "https://markets.businessinsider.com/news/stocks/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852032"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852032"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-1029852032"
+excerpt: "PRNewswire/ -- Baby Ebenezer is a happy, healthy 8-week-old - and an IVF success story of a new kind. His entry into the world was aided by"
+publishedDateTime: 2020-12-01T07:41:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-301182262.html"
+webUrl: "https://www.prnewswire.com/news-releases/presagen-announces-ivf-success-story-with-first-baby-born-globally-aided-by-its-artificial-intelligence-ai-applied-to-medical-imaging-301182262.html"
 type: article
-quality: 52
-heat: 52
+quality: 20
+heat: 20
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "mj3vX1q5ZimDHecReevZko1Q2RKZZlFK+sIuPW0zcsg5P4V6vmIXFh3qAUG6UqWPc3I5duEZI+Qe14XyNGZfXSNtKMdZzfDCQizQmkjB1RvyaqEQTjbElybhsiDpB67gsQkrzImaHhjlznSfcYqF28d0t5Zgrra0eE6J9iyajNnh8ylrouCgiUdYP496dKfbVQDSU/+6dJKkkgqeZCdis+I4ItZvWjcg+7idDuKMErGcwYCB3r1omx7jSvQZ+ylYTOpPcNPNiraC31V6cmND9dh39UexfKqhFY0duVfdb4v9kSIpmUXPZ9BlPQkI64s7QYPhV3hImTMn78kiX27eF2j/is4vaFlFXfC7ECC8s5o=;fe48DLou3I+Lrn1LIGIbhw=="
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "ZU0lVoVEmaYb/XvNxSxJQwfh/CPW2X/gkt2R72xK9o77/VhEb8Pei6HpHpRJDxNW+b4uwBcxbGNxBrfuhk618vC9VLE+7YjM+7+hleLZ1P7u86Eqt+OAmnSZ6mJe+jYuG8TnxDtkcLT7kxQNg/opHNxd4awkeyC1VIj4o01XdV50P/V+Ugpq0XF6s+cj/TxJBJtVPCvSrMdcfMTSVO5tAk5oRXEz+fsLCK4k4XqOd7advZujj1bvCjxLSlta1uuh6hSUXOvcfA6FkGUCOxBfgSOGlYeuV2UUWODtRCytqx2zZBbzs502eXkHe4BBCSrQfQU/eCn5rPjANoCasbgMVsTZie+Jx8A0eutYAspk7j8=;Rz5dBlhRCWxtYJODp5YhTA=="
 ---
 

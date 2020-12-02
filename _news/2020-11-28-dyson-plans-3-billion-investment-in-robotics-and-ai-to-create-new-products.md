@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion
 cdnAmpWebUrl: "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/dyson-plans-3-billion-investment-in-robotics-and-ai-to-create-new-products-17778/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Dyson Plans $3.6 Billion Investment in Robotics and AI"
-    excerpt: "Dyson will invest over US$3.67 billion in research and development of products outside the \"home environment.\""
-    publishedDateTime: 2020-11-27T13:01:00Z
-    webUrl: "https://www.industryleadersmagazine.com/dyson-plans-3-6-billion-investment-in-robotics-and-ai/"
-    type: article
-    provider:
-      name: Leadership
-      domain: industryleadersmagazine.com
-    quality: 69
-    images:
-      - url: "https://www.industryleadersmagazine.com/wp-content/uploads/2020/11/Dyson-Investment-Artificial-Intelligence.jpg"
-        width: 840
-        height: 500
-        isCached: true
   - title: "How to drive effective AI adoption in investment management firms"
     excerpt: "By Chandini Jain, CEO of Auquan Artificial intelligence (AI) has the potential to augment the work of investment management firms to unprecedented levels, powering decision-making, driving efficiencies,"
     publishedDateTime: 2020-12-01T16:16:00Z

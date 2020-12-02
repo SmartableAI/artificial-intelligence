@@ -41,20 +41,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Facebook’s AI Mistakenly Bans Ads for Struggling Businesses"
-    excerpt: "New York-based businesswoman Ruth Harrigan usually sells her honey and beeswax products in souvenir shops. But with Covid-19 pausing tourism, she’s been almost entirely dependent on Facebook ads to drive online sales."
-    publishedDateTime: 2020-11-27T12:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHV2ufJuP0y8/v0/1200x1600.jpg"
-        width: 1200
-        height: 1600
-        isCached: true
   - title: "Facebook acquires messaging marketing automation startup Kustomer – Jaweb"
     excerpt: "Facebook today announced it will acquire Kustomer, a New York-based customer relationship management startup, for an undisclosed amount. When the deal closes, Facebook says it’ll natively integrate Kustomer’s tools with its messaging platforms,"
     publishedDateTime: 2020-11-30T17:43:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-estimated-to-reach-432-billion-by-2024-growing-at-a-cagr-of-598-from-2020-to-2024-2020-11-28"
 type: article
 quality: 46
-heat: 46
+heat: -1
 published: false
 
 provider:
@@ -30,6 +30,17 @@ images:
     isCached: true
 
 related:
+  - title: "The Global Contact Center Intelligence Market is Forecast to Reach $3.7 billion by 2026"
+    excerpt: "The Global Contact Center Intelligence Market size is expected to reach $3.7 billion by 2026, rising at a market growth of 23.4% CAGR during the forecast period. Artificial intelligence (AI) is a part of rising innovations,"
+    publishedDateTime: 2020-11-27T13:45:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
+    ampWebUrl: "https://markets.businessinsider.com/amp/news/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
+    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 46
   - title: "Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2020 to 2025"
     excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2017 to 2025. Artificial intelligence is the capability of a computer system to perform tasks that generally require human intelligence,"
     publishedDateTime: 2020-11-28T22:28:00Z

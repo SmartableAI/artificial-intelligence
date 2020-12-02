@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/the-global-contact-cent
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/the-global-contact-center-intelligence-market-is-forecast-to-reach-3-7-billion-by-2026-1029845093"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -25,93 +25,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to 2027\" - https:/"
-    publishedDateTime: 2020-11-27T13:04:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/artificial-intelligence-in-healthcare-global-market-forecast-to-2027-1029844944"
-    ampWebUrl: "https://markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944"
-    cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Artificial-Intelligence-in-Healthcare-Global-Market-Forecast-to-2027-1029844944"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 84
-  - title: "Artificial Intelligence (AI) in Healthcare Market 2020 Analysis, Overview, Growth, Demand and Forecast Research Report to 2023"
-    excerpt: "The adoption of artificial intelligence (AI) is reshaping the Indian healthcare market significantly. AI-enabled"
-    publishedDateTime: 2020-12-01T13:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-01"
+  - title: "Artificial Intelligence Market is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2020 to 2024"
+    excerpt: "Global Artificial Intelligence is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2016 to 2024. Artificial intelligence (AI) is the concept and development of computer-systems able to perform tasks usually requiring human intelligence,"
+    publishedDateTime: 2020-11-28T11:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-estimated-to-reach-432-billion-by-2024-growing-at-a-cagr-of-598-from-2020-to-2024-2020-11-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing Market 2020 provides an in-depth insight of Sales and Trends Forecast to 2029"
-    excerpt: "The research study on Global Natural Language Processing market 2019 presents an extensive analysis of current"
-    publishedDateTime: 2020-11-30T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-2020-provides-an-in-depth-insight-of-sales-and-trends-forecast-to-2029-2020-11-30"
+  - title: "Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2020 to 2025"
+    excerpt: "Global Artificial Intelligence in Military Market is estimated to reach $18.8 billion by 2025; growing at a CAGR of 14.9% from 2017 to 2025. Artificial intelligence is the capability of a computer system to perform tasks that generally require human intelligence,"
+    publishedDateTime: 2020-11-28T22:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-is-estimated-to-reach-188-billion-by-2025-growing-at-a-cagr-of-149-from-2020-to-2025-2020-11-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Global Market - Forecast to 2027"
-    excerpt: "Reportlinker.com announces the release of the report \"Artificial Intelligence in Healthcare Global Market - Forecast to"
-    publishedDateTime: 2020-11-27T17:21:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18554055/artificial-intelligence-in-healthcare-global-market-forecast-to-2027"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18554055"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18554055"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 54
-  - title: "Artificial Intelligence in Medical Diagnostics Market 2020 by Company, Regions, Type and Application, Forecast to 2025"
-    excerpt: "The Artificial Intelligence in Medical Diagnostics market report provides a detailed analysis of global market size, regional and country-level market size, segmentation market growth, market share, competitive Landscape,"
-    publishedDateTime: 2020-11-27T14:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-2020-by-company-regions-type-and-application-forecast-to-2025-2020-11-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Medical Imaging Artificial Intelligence Market 2020 Opportunities, Challenges, Key Players, Trend and Forecast by 2025"
-    excerpt: "The latest market study published by MarketQuest.biz entitled Global Medical Imaging Artificial Intelligence Market 2020 by Company, Regions, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
-    publishedDateTime: 2020-11-30T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-medical-imaging-artificial-intelligence-market-2020-opportunities-challenges-key-players-trend-and-forecast-by-2025-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Passenger Vehicle Voice Recognition Market 2020 Regional Markets, Subcomponent Manufacturers, Business Standards and Forecast to 2026"
-    excerpt: "Global Passenger Vehicle Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2026 introduced by MarketsandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"
-    publishedDateTime: 2020-11-30T05:38:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-passenger-vehicle-voice-recognition-market-2020-regional-markets-subcomponent-manufacturers-business-standards-and-forecast-to-2026-2020-11-29"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

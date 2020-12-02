@@ -48,20 +48,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 69
-  - title: "Facebook’s AI Mistakenly Bans Ads for Struggling Businesses"
-    excerpt: "New York-based businesswoman Ruth Harrigan usually sells her honey and beeswax products in souvenir shops. But with Covid-19 pausing tourism, she’s been almost entirely dependent on Facebook ads to drive online sales."
-    publishedDateTime: 2020-11-27T12:06:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2020-11-27/facebook-s-ai-mistakenly-bans-ads-for-struggling-businesses"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 67
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHV2ufJuP0y8/v0/1200x1600.jpg"
-        width: 1200
-        height: 1600
-        isCached: true
   - title: "Facebook acquires customer service startup Kustomer for reported $1B+"
     excerpt: "Facebook Inc. has acquired Kustomer Inc., a heavily-funded startup with a cloud service that companies use to field customer inquiries. The financial terms of the deal were not disclosed. However, CNBC and other publications reported that the transaction values Kustomer at just over $1 billion."
     publishedDateTime: 2020-11-30T22:00:00Z

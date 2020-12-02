@@ -53,11 +53,43 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 84
+    quality: 86
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&strip=all"
         width: 1200
         height: 797
+        isCached: true
+  - title: "Using Cameras And AI To Build an Automatic Litter Detection System"
+    excerpt: "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built."
+    publishedDateTime: 2020-12-02T03:49:00Z
+    webUrl: "https://www.thequint.com/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
+    ampWebUrl: "https://www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/news/world/from-hobart-to-london-to-dhaka-using-cameras-and-ai-to-build-an-automatic-litter-detection-system"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 59
+    images:
+      - url: "https://images.thequint.com/thequint%2F2019-10%2F38396726-f256-40bc-a791-0609c92c6fb4%2F28101_pti10_28_2019_000100b.jpg?rect=0%2C0%2C3990%2C2244&auto=format%2Ccompress&w=1200&enlarge=true"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How Cameras and AI Can Be Used to Build an Automatic Litter Detection System"
+    excerpt: "It’s estimated about two million tonnes of plastics enter the oceans from rivers each year. But our waterways aren’t just conveyor belts transporting land waste to the oceans: they also capture and retain litter."
+    publishedDateTime: 2020-12-01T17:00:00Z
+    webUrl: "https://www.gizmodo.com.au/2020/12/how-cameras-and-ai-can-be-used-to-build-an-automatic-litter-detection-system/"
+    ampWebUrl: "https://www.gizmodo.com.au/2020/12/how-cameras-and-ai-can-be-used-to-build-an-automatic-litter-detection-system/amp/"
+    cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/12/how-cameras-and-ai-can-be-used-to-build-an-automatic-litter-detection-system/amp/"
+    type: article
+    provider:
+      name: Gizmodo Australia
+      domain: gizmodo.com.au
+    quality: 56
+    images:
+      - url: "https://images.theconversation.com/files/371507/original/file-20201126-15-figm04.png?ixlib=rb-1.1.0&q=45&auto=format&w=754&fit=clip"
+        width: 754
+        height: 557
         isCached: true
   - title: "Dodging AI Biases in Machine Translation"
     excerpt: "Machine translation company Intento uses metadata to add context to any text to be translated and automates post-editing to dodge AI biases."
