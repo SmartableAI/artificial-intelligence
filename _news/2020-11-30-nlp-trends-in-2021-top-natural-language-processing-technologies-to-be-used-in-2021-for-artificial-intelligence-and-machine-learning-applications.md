@@ -30,9 +30,9 @@ related:
   - title: "AI, 5G, and IoT top the list of the most important technologies for 2021"
     excerpt: "CIOs and CTOs say the biggest challenge next year will be dealing with recovery from COVID-19, according to a new study by the IEEE."
     publishedDateTime: 2020-12-01T18:41:00Z
-    webUrl: "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
-    ampWebUrl: "https://www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
-    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
+    webUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
+    ampWebUrl: "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
+    cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/"
     type: article
     provider:
       name: TechRepublic

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
-excerpt: "Rackspace Technology™ (NASDAQ:RXT), a leading end-to-end multicloud technology solutions company, will hold the"
-publishedDateTime: 2020-12-01T05:08:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18577825/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-m"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/g18577825/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-m"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18577825"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18577825"
+excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as part of the company's Solve Strategy Series."
+publishedDateTime: 2020-11-30T18:51:00Z
+originalUrl: "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
+webUrl: "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
 type: article
-quality: 29
-heat: -1
-published: false
+quality: 59
+heat: 89
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "UPDATE -- Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
@@ -61,6 +69,6 @@ related:
         height: 250
         isCached: true
 
-secured: "QavkmBcPVWCGm99JtjU1gxLtofKC5bVDGIrEGGyNOxAaQ0lShWZgY08aOorxtTveZh9v87yg0Z41d5Qj0FnIAdFKC3ln12TEByxs8JQZ2i2PJBxfVhAinpLLFKiAhQlse5UT/JaTcAILCAYKTil32hnncY4sv+YNP/a0OeNg9ow2CJWieqcB1EjSlV2GiJZ3IoJAgPtdA0z9jxFNYIXGHg/8QcuuaQ8EvNEvPzHPyD43ZLXXIHKdN0qu0qop7Y9MrwjunYR039Y7fMGV9SgWKeLYgYksgrxGgtFhDH9l3bbdm72mmwXzO/IKZ5cpLj+EOZHCIr8vVW34Og2NC/Bx2iQaldCddRsluB7UGH+pXjY=;RqjOepcH/SkCW7llWFhWxg=="
+secured: "6EmI8rX5wn8O5YowMyZjMOyAK6cpAEdqWLESGToWu3IGLywWIWHjgShYnCIo21zSqW/17ZpKoFnrV/7nAesJ5DJjskL/wMqdaaMq5zBFAv14h8BB5VUzQcSuZ1ukJqsvfbrX6BFQ2Et++gf0BPhcIWUraZli1e03dMBJoriNdEO+pSprif0EEur94remF6HoAP85qQtCOPILPWNqWJEbrSdr2B/JcMqsXEWRA8T8RjVpbqo9Pp8vpalUaPUJSIo7JbpPoJ9wiKGTQ5kWh4KnFAvk4sImHpKF8FoFSl9JbqtL7/p/rCslvVBDXrG80jf/441QEKuFiW1wCdXXjvqeVeDkAbEnBdmHSmZXxxglDlY=;hCWO/H+TrsN0SM5xW9A5LQ=="
 ---
 

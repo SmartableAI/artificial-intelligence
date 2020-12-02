@@ -32,22 +32,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 46
-  - title: "Amazon Expands Call Center Business Technology With Voice Recognition"
-    excerpt: "As Amazon sees new demand for cloud services, the company has announced voice recognition as part of its new services suite for call center businesses."
-    publishedDateTime: 2020-12-01T22:32:00Z
-    webUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/"
-    ampWebUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_419039149-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
 
 secured: "0yWYb4lveiC3+7neO1OvZFiL675gTNkwj0Yg55jrg1NXiut6drfc5WWmu+yr1SbpKO/71c3glKM8S+GqepXR4vQdt0r8Tz0zR+KQZo1Wqr37GpSpG/kZ1Y8WZ/DCug2eC5SfsQdu234w637MKR0X8kcd+Ugn7jDZ9nX4cAtMAI5SkjNNVhNhF0uk1e/tEoBjfleMr7AS1mzEIj2ykm+kZDccvDMeOf+s+qqMmdGtuSHB73dGu0QgIKJozqpRkZ/JLUfVXOOjkcpd3pyj2ofjaQK5XKu6kX6K0yRlha882Jpx5WkDP4l5NEVOfU3cqwwM9TKShsR4hgTYabumzoQfBXTWLh4ZQWRpcRgSPC43vPWbs9VhXtRfUDabzVOKNgKsWCSHC+yHH/vPKbZJ8cQle738u0i9KaLMlX91c4bn3JFvFThFFO5pdC4FOoxvLoKv2tuEO2pkkbGRBROxqcT8BOw/n378qOHs9QiDVpp3QQu6wXAYRZJkf28wSsJIeaVQ4w/RatvQr5fVSig9D5hHQA==;apL5DgCHcJh0y8w9roi5nQ=="
 ---

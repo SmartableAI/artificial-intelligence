@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/update----rackspace-tech
 webUrl: "https://www.marketwatch.com/press-release/update----rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
 type: article
 quality: 54
-heat: 84
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
+    excerpt: "SAN ANTONIO, (GLOBE NEWSWIRE) -- Rackspace Technology (TM) (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event How Businesses are using AI and Machine Learning Today on December 9th at 10:00 am CT as part of the company's Solve Strategy Series."
+    publishedDateTime: 2020-11-30T18:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-machine-learning-today-2020-11-30"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Webinar: AI-based Learning Market Booming"
     excerpt: "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market\". According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32."
     publishedDateTime: 2020-11-30T20:06:00Z
@@ -40,17 +54,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
-  - title: "Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today"
-    excerpt: "Rackspace Technology™ (NASDAQ:RXT), a leading end-to-end multicloud technology solutions company, will hold the"
-    publishedDateTime: 2020-12-01T05:08:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/11/g18577825/rackspace-technology-announces-new-solve-strategy-series-webinar-how-businesses-are-using-ai-and-m"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18577825"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18577825"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "UPDATE -- Rackspace Technology Announces New Solve Strategy Series Webinar: How Businesses are using AI and Machine Learning Today Nasdaq:RXT"
     excerpt: "Rackspace Technology™ (NASDAQ: RXT), a leading end-to-end multicloud technology solutions company, will hold the virtual event <b>[To enable links contact <a href="
     publishedDateTime: 2020-12-01T19:39:00Z

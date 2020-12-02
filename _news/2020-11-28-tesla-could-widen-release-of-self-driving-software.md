@@ -102,6 +102,22 @@ related:
       name: CNET
       domain: cnet.com
     quality: 69
+  - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
+    excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
+    publishedDateTime: 2020-12-02T08:00:00Z
+    webUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html"
+    ampWebUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
+    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
+    type: article
+    provider:
+      name: NextBigFuture
+      domain: nextbigfuture.com
+    quality: 68
+    images:
+      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-01-at-11.38.32-PM-1024x682.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
     excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
     publishedDateTime: 2020-11-28T13:32:00Z

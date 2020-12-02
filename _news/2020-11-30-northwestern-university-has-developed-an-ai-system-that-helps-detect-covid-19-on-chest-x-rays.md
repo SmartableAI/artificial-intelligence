@@ -92,20 +92,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "Caltech’s AI-Driven COVID-19 Model Routinely Outperforms Competitors"
-    excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19’s impact using artificial intelligence (AI) dramatical"
-    publishedDateTime: 2020-11-27T16:25:00Z
-    webUrl: "https://www.pasadenanow.com/main/caltechs-ai-driven-covid-19-model-routinely-outperforms-competitors/"
-    type: article
-    provider:
-      name: Pasadena Now
-      domain: pasadenanow.com
-    quality: 37
-    images:
-      - url: "https://www.pasadenanow.com/main/wp-content/uploads/2020/11/Screenshot_9-7-740x400.jpg"
-        width: 740
-        height: 400
-        isCached: true
   - title: "Sorting Out Viruses With Machine Learning: AI-Powered Nanotechnology May Lead to New Rapid COVID-19 Tests"
     excerpt: "Scientists at Osaka University develop a label-free method for identifying respiratory viruses based on changes in electrical current when they pass through silicon nanopores, which may lead to new rapid COVID-19 tests."
     publishedDateTime: 2020-11-28T06:56:00Z

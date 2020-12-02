@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon Expands Call Center Business Technology With Voice Recognition"
-    excerpt: "As Amazon sees new demand for cloud services, the company has announced voice recognition as part of its new services suite for call center businesses."
-    publishedDateTime: 2020-12-01T22:32:00Z
-    webUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/"
-    ampWebUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_419039149-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "Amazon delves deeper into voice recognition, call-centre work as demand grows for cloud tools"
     excerpt: "Executive Andy Jassy said COVID-19 has accelerated businesses’ cloud adoption by several years, and more than 5,000 customers turned to the Amazon Connect service for call-centre help during the pande"
     publishedDateTime: 2020-12-01T20:17:00Z

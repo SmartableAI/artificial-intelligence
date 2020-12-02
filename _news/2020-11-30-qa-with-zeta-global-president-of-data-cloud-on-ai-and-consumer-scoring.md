@@ -7,8 +7,8 @@ originalUrl: "https://www.businessinsider.com/interview-with-zeta-global-evp-and
 webUrl: "https://www.businessinsider.com/interview-with-zeta-global-evp-and-president-of-data-cloud-2020-11"
 type: article
 quality: 67
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: Business Insider
@@ -26,6 +26,22 @@ images:
     width: 931
     height: 465
     isCached: true
+
+related:
+  - title: "Banking of Tomorrow with Human and Artificial Intelligence"
+    excerpt: "By Anant Maheshwari The new normal has accelerated Data and AI adoption manifold, and this has clearly shown the benefits of investing in a tech enabled fut"
+    publishedDateTime: 2020-12-02T08:18:00Z
+    webUrl: "https://www.cxotoday.com/corner-office/banking-of-tomorrow-with-human-and-artificial-intelligence/"
+    type: article
+    provider:
+      name: CXO Today
+      domain: cxotoday.com
+    quality: 37
+    images:
+      - url: "https://www.cxotoday.com/wp-content/uploads/2020/12/AI-human.jpg"
+        width: 600
+        height: 450
+        isCached: true
 
 secured: "sTzRkYjVOCpEekeRgczQzPJo3t18jtkEIZ7HRhVRKOZB8RDwMY1E6MLYFgRSfqDMWMRDkm3GdWiaqgqjKD40pcCF2oUPIlpCHIJHxztaR6wAaru7qIa2tOhfA/UTGR3enIbbd4LmCDB2QRHv7wWuRq97tdvtUfO4bS3PlDcVAQmJ192Ee8FTVMTOW2CuIEJk7qUV0lUQVDAmXYZP6k8baL9PYklFr/4gPmCEFE7LPHDt0t7gzT+iXZLazl6AfbiNnydcyjS2FKSdGiwhxnuJuwN90m8bO6l8HnB06BULL2Cp2t5H9z6mSvhQtQRp6BSj8t1Bl26FT78l6W0gSLuZSHao9caxEwJp5g6uap9GhTFDW5zrG/YKRJ3jsb1JZytxMcBNiEdM+mKXffMMXlSfdRHeWQ+ihbUgyIh1zffHCpgcQBReMdwt/tvqW0XA7QqNdzITWgeKZd/R5Q5HWoCzVBSTN3PT2zU5FIOUBdey6LCH9qVqk1xZuhr927T/bXxQYb0NADNJZXSeEAxxcnGqtQ==;xfbP1CNZO3bz3QTjxtdeNg=="
 ---

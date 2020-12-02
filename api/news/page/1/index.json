@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-02-global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-24.md",
+      "title": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) Shares Up 2.4%",
+      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NYSEARCA:BOTZ) shot up 2.4% during trading on Tuesday . The company traded as high as $32.46 and last traded at $32.40. 1,041,867 shares traded hands during mid-day trading,",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 450,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp",
+      "publishedDateTime": "2020-12-02T00:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-massachusetts-lawmakers-pass-state-wide-police-ban-on-facial-recognition.md",
+      "title": "Massachusetts lawmakers pass state-wide police ban on facial recognition",
+      "excerpt": "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement.",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "originalUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d",
+          "width": 600,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
+      "publishedDateTime": "2020-12-01T22:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-global-artificial-intelligence-for-edge-devices-market-2020-industrial-chain-regional-market-scope-key-players-profiles-and-sales-data-to-2025.md",
       "title": "Global Artificial Intelligence for Edge Devices Market 2020 Industrial Chain, Regional Market Scope, Key Players Profiles and Sales Data to 2025",
       "excerpt": "Global Artificial Intelligence for Edge Devices Market 2020 by Company, Regions, Type and Application, Forecast",
@@ -155,58 +250,6 @@
         "Machine Learning",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-massachusetts-lawmakers-vote-to-ban-police-from-using-facial-recognition-tech.md",
-      "title": "Massachusetts Lawmakers Vote To Ban Police From Using Facial Recognition Tech",
-      "excerpt": "Massachusetts lawmakers voted on Monday to pass a police reform bill that would outlaw the use of facial recognition technology by police departments and other public agencies in the state.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518",
-      "originalUrl": "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pcvm2anksgl4e0ay3m7q.jpg",
-          "width": 800,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/massachusetts-lawmakers-vote-to-ban-police-from-using-f-1845788518/amp",
-      "publishedDateTime": "2020-12-01T18:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -1035,8 +1078,8 @@
       "title": "AI, 5G, and IoT top the list of the most important technologies for 2021",
       "excerpt": "CIOs and CTOs say the biggest challenge next year will be dealing with recovery from COVID-19, according to a new study by the IEEE.",
       "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
-      "originalUrl": "https://www.techrepublic.com/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "webUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "originalUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
       "featuredContent": null,
       "highlight": null,
       "heat": 96,
@@ -1053,8 +1096,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "ampWebUrl": "https://www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/index.php/publisher/6290336/index.php/google-amp/article/ai-5g-and-iot-top-the-list-of-the-most-important-technologies-for-2021/",
       "publishedDateTime": "2020-12-01T10:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -1227,58 +1270,6 @@
         "AI",
         "Natural Language Processing",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-boom-supersonic-goes-all-in-on-aws.md",
-      "title": "Boom Supersonic Goes All-In on AWS",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced that Boom Technology, Inc. (Boom Supersonic), a",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/boom-supersonic-goes-all-in-on-aws-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/boom-supersonic-goes-all-in-on-aws-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T09:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

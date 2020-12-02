@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-2020-analysis-overview-growth-demand-and-forecast-research-report-to-2023-2020-12-01"
 type: article
 quality: 71
-heat: 181
+heat: 191
 published: true
 
 provider:
@@ -165,6 +165,20 @@ related:
       - url: "https://menafn.com/updates/pr/2020-11/28/G_009d144b-0_Image_In_Body.png"
         width: 600
         height: 300
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size 2020 Segmentation, Future Demands, Top Countries Data, Business Growth Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Speech and Voice Recognition"
+    publishedDateTime: 2020-12-02T08:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-2020-segmentation-future-demands-top-countries-data-business-growth-forecast-to-2026-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Global Passenger Vehicle Voice Recognition Market 2020 Regional Markets, Subcomponent Manufacturers, Business Standards and Forecast to 2026"
     excerpt: "Global Passenger Vehicle Voice Recognition Market 2020 by Company, Regions, Type and Application, Forecast to 2026 introduced by MarketsandResearch.biz offers exclusive research & analysis on the market that gives analysis on market conditions,"

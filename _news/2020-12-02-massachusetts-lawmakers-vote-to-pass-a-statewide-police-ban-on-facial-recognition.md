@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Massachusetts lawmakers pass state-wide police ban on facial recognition"
+    excerpt: "Massachusetts could make history as the first state to issue a ban on the use of facial recognition by law enforcement."
+    publishedDateTime: 2020-12-02T06:59:00Z
+    webUrl: "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+    ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 88
+    images:
+      - url: "https://o.aolcdn.com/images/dims?thumbnail=600%2C350&quality=95&image_uri=https%3A%2F%2Fs.yimg.com%2Fos%2Fcreatr-uploaded-images%2F2020-12%2Fb8767d90-3460-11eb-8f3b-9303a9ba17f3&client=amp-blogside-v2&signature=5c6911cf1593fa6742a2d44c90706e2c0ae6794d"
+        width: 600
+        height: 350
+        isCached: true
   - title: "Massachusetts Lawmakers Vote To Ban Police From Using Facial Recognition Tech"
     excerpt: "Massachusetts lawmakers voted on Monday to pass a police reform bill that would outlaw the use of facial recognition technology by police departments and other public agencies in the state."
     publishedDateTime: 2020-12-02T02:33:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/pcvm2anksgl4e0ay3m7q.jpg"
         width: 800
         height: 569
-        isCached: true
-  - title: "T tops in use of facial recognition technology"
-    excerpt: "Hyderabad: The Internet Freedom Foundation (IFF) on Friday said that Telangana has been using the highest number of facial recognition technologies in."
-    publishedDateTime: 2020-11-27T23:08:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/articleshow/79454173.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/t-tops-in-use-of-facial-recognition-technology/amp_articleshow/79454173.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/photo/msid-79454171/79454171.jpg"
-        width: 800
-        height: 406
         isCached: true
 
 secured: "icHnLmipxyRuKv0XGNPDm936KGZsEHtpOJVQwHoAUrU+2tSzpyNXIERKIHxGSLBoQdnPG4brZaPrPWwuH5zC8wE6/IBj4qz8VdTrZ1x2gdCOUrWjih6FEjzmM++tfFZWPRf7BB9b1O5Sfy7m5bGkGamErqIJ4MH4n0hz8VVOvRBQC2oPTZ0KHcDIUVeyCCs+yspfrEZeyHgA1Z/DE1o9bCXWE8CVvbeodI64txHDA6TtCp2LgAHs3YHjc4+SLygBuAXOzo5QICXT9ADvDtFWCw96tGRw6l+CN/kZRLX4LBOpguDSnC1bDGhxc3Fnmm62dZuxq1eLrw/uyhCwF8Jr7zcnJ+BuTAjSxMwbV7Afc0qMrdv/LKc0ZIEh4te0CJvqFphRX2qC3gYwOrFXrs2GtSVuHL7JzNdWS1krV9J9dsPazO5JDSxtnU/4bq1F1Oet0dXo1H5+dzhwqpjooPxumZYdMX34ZxTBEPOBK+99bMd1ubufp16Wv7s5TbmcgBEYuFiD+C7OzkNvol/leAC5wQ==;qPDCFL81hPLtdCQrS41shQ=="

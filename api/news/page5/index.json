@@ -2,6 +2,161 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-11-27-bank-of-canada-says-recent-covid-19-vaccine-news-is-promising-recovery-to-be-tough.md",
+      "title": "Bank of Canada says recent COVID-19 vaccine news is promising, recovery to be tough",
+      "excerpt": "Recent news about coronavirus vaccines is promising even as cases continue to increase, Bank of Canada Governor Tiff Macklem said on Thursday, reiterating that the recovery would be tough.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
+      "originalUrl": "https://www.reuters.com/article/us-canada-cenbank-idCAKBN2862DA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201126&t=2&i=1542599144&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAP1BR",
+          "width": 886,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idCAKBN2862DA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2862DA",
+      "publishedDateTime": "2020-11-26T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-brazils-bolsonaro-says-he-will-not-take-coronavirus-vaccine.md",
+      "title": "Brazil's Bolsonaro says he will not take coronavirus vaccine",
+      "excerpt": "Brazilian President Jair Bolsonaro said on Thursday evening that he will not take a coronavirus vaccine, the latest in a series of statements he has made expressing skepticism toward coronavirus vaccination programs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
+      "originalUrl": "https://www.reuters.com/article/us-brazil-bolsonaro-vaccine-idUSKBN28704L",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20201127&t=2&i=1542607147&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAQ01T",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28704L",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28704L",
+      "publishedDateTime": "2020-11-26T18:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-27-how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance.md",
+      "title": "How AI and big data helped China’s tech giants dominate consumer finance",
+      "excerpt": "The aim is to build a much more accurate picture of a user’s credit profile by using a range of online data as opposed to traditional credit scoring.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "originalUrl": "https://www.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/methode/2020/11/27/afc48a3e-2fce-11eb-be20-200ca6256645_image_hires_073856.jpg?itok=jW1cEXEG&v=1606433950",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/policy/article/3111505/how-ai-and-big-data-helped-chinas-tech-giants-dominate-consumer-finance",
+      "publishedDateTime": "2020-11-26T15:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-27-dyson-pledges-new-investment-into-ai-robotics-and-batteries.md",
       "title": "Dyson pledges new investment into AI, robotics and batteries",
       "excerpt": "Dyson will invest an additional £2.75bn on developing technologies and products over the next five years, as the appliances brand pushes deeper into areas such as artificial intelligence, robotics and energy storage.",
@@ -197,8 +352,8 @@
       "title": "The 10 Coolest AI Chip Startups Of 2020",
       "excerpt": "CRN looks at the 10 coolest AI chip startups of 2020 that are offering a variety of approaches for artificial intelligence, deep learning and machine learning workloads.",
       "sourceUrl": null,
-      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
-      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020/3",
+      "webUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
+      "originalUrl": "https://www.crn.com/slide-shows/components-peripherals/the-10-coolest-ai-chip-startups-of-2020",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1034,152 +1189,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant.md",
-      "title": "Beeb, how do you build the world’s first public service voice assistant?",
-      "excerpt": "The post Beeb, how do you build the world’s first public service voice assistant? appeared first on The AI Blog.\n",
-      "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
-      "originalUrl": "https://news.microsoft.com/en-gb/2020/11/25/beeb-how-do-you-build-the-worlds-first-public-service-voice-assistant/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/68/2020/11/BBC.png",
-          "width": 640,
-          "height": 352,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-25T08:27:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-castai-nabs-77m-seed-to-remove-barriers-between-public-clouds.md",
-      "title": "Cast.ai nabs $7.7M seed to remove barriers between public clouds",
-      "excerpt": "When you launch an application in the public cloud, you usually put everything on one provider, but what if you could choose the components based on cost and technology and have your database one place and your storage another?",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/?tpcc=ECTW2020",
-      "originalUrl": "https://techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/?tpcc=ECTW2020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1280133461.jpg?w=1024",
-          "width": 1024,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/25/cast-ai-nabs-7-7m-seed-to-remove-barriers-between-public-clouds/amp/",
-      "publishedDateTime": "2020-11-25T07:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-25-ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted.md",
-      "title": "AI Neural Networks Are Now Smart Enough To Know When They Shouldn’t Be Trusted",
-      "excerpt": "The idea of all-knowing, uncontrollable artificial intelligence (AI) is scary, but if we’re lucky, it looks like AI might just be able to save us from itself. A team of computer scientists from Massachusetts Institute of Technology (MIT) say they have created AI neural networks that are able to determine whether they can be trusted,",
-      "sourceUrl": null,
-      "webUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
-      "originalUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.ladbible.com/thumbnail?type=jpeg&url=https://www.unilad.co.uk/wp-content/uploads/2020/11/sophia_neural_networks.jpg&quality=70&width=808",
-          "width": 808,
-          "height": 424,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
-      "cdnAmpWebUrl": "https://www-unilad-co-uk.cdn.ampproject.org/c/s/www.unilad.co.uk/technology/ai-neural-networks-are-now-smart-enough-to-know-when-they-shouldnt-be-trusted/amp/",
-      "publishedDateTime": "2020-11-25T07:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UNILAD",
-        "domain": "unilad.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -55,6 +55,20 @@ related:
         width: 300
         height: 300
         isCached: true
+  - title: "Startup Funding: November 2020"
+    excerpt: "Numerous chipmakers pulled in funding in November 2020, with investors putting money into interconnects, memories, AI hardware, and quantum computing. Launching from stealth was a startup aiming to combine AI and 5G."
+    publishedDateTime: 2020-12-02T08:22:00Z
+    webUrl: "https://semiengineering.com/startup-funding-november-2020/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 22
+    images:
+      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-11-Nov-table1.png?fit=672%2C759&#038;ssl=1"
+        width: 672
+        height: 759
+        isCached: true
 
 secured: "cThZPZk88qJM5VG6LQkUJrEK019CfHy2c3xtohvov8GZOAm6YBIsxbJRR/1znZeCAv6ePer3iXUyyOswdCTHZ2Ky/ptN4KgjPDP5GSpw1fcP183k3Ppiy03186TXZ67RnqqXxIdQyoRF+XKLOYDlVj0gNV3qF1P5kBYhx5wdJGnzRtRVewBISAvNtH12H5s3GSbC0ASQt+geTMloGKqfmiohnrHnoVAKvZO3TfbmWNdy2RhxNuZWR/qR0zql2n/p/3YtUA6V75mpK3Xl2/By3+jJEUAQZZVFZehYvsVIy3HJRY4KD4MGA8xB4j7j+1cpE0f5Qj6eD0h1mjEBBhcYkjtYltAaKXgau/1g0NRXqB5glq3cMT8nrPPqJjVi/8XJgE9lOdAUjIYLU4H5VU1DNs3eXPqboVFffEKoVYxl0k0jLbwWuNkw6ohOPKBVCEYT4NDVBY1Wc+JNkY1Lx7qjm4y0nElq3xzD6yygZK8xXSxTvN0SSSBL0HYPgsEy8QdnX3nmUvzjipWBxgb00rai5w==;YZVyhGzDsddyI/P3ctlY7g=="
 ---
