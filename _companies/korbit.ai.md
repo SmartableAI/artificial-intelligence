@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "korbit_ai"
   url: "https://twitter.com/korbit_ai"
-  followers: 246
+  followers: 247
 
 locations:
   - Montréal, Québec
