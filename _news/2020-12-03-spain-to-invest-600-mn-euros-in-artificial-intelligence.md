@@ -30,7 +30,7 @@ related:
     provider:
       name: Turkish Press
       domain: turkishpress.com
-    quality: 72
+    quality: 74
     images:
       - url: "https://cdn.turkishpress.com/2020/12/02142539/thumbs_b_c_d964d85c0b58d7f3b08c1b17631787d9.jpg"
         width: 864

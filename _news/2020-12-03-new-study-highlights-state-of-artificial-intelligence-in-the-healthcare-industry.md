@@ -62,6 +62,20 @@ related:
         width: 1397
         height: 733
         isCached: true
+  - title: "Olive Acquires Verata Health to Accelerate Artificial Intelligence Technology For Healthcare Providers and Payers"
+    excerpt: "Verata is a leading healthcare AI company, enabling Frictionless Prior Authorization® for providers and payers. Seamlessly connected to the nation’s top electronic health record (EHR) systems, Verata’s AI technology automatically initiates prior authorizations,"
+    publishedDateTime: 2020-12-03T14:28:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-products-and-services-medical-technology-b71e415b83f61a440ed3d69ef57a5c02"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "MID4o/phi5qT08tvXqG5aM9kSBo5X574TEtiyI0VWQ+D8tb9ZuJKAzQam48pRcDghzNEdbR1/8OH2BD11aFT7wYzhXHT0uy7rnYjKNsawVHjqb7ChH5gSlNSEuDz6v/pEDSUhkEtwtsiGAioWElB4AJ+5c+MZmtCcyruFLZP3+o9t6UhQ1gZUmVhbXVtA32pMAst8WY/eR9EyjIx44V2GCBTpRd/AtmANxU4d8CrNRDng0bjJhsoJ0R/hFNzLbOtZi5FvI/mFfaFA8Tk0jOtFh33oW8yTyWxCv738m2pDjyWemMcmeDwT9KJZv7cW1KaWFF4jQ5hAEGVULXVXVDiPoBDIPrfqhq5ZL9pYowdaoI=;GG7ix7C+pU0Bu4u1SXVtKg=="
 ---

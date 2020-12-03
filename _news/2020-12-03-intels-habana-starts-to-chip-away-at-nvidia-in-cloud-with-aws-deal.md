@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-publishedDateTime: 2020-12-02T19:07:00Z
-originalUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUSKBN28C22F"
-webUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUSKBN28C22F"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C22F"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C22F"
+excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+publishedDateTime: 2020-12-02T19:21:00Z
+originalUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
+webUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28C22F"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28C22F"
 type: article
 quality: 106
 heat: 156
@@ -21,9 +21,9 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
-  - AI
   - AWS AI
+  - AI
+  - AI Hardware
 
 images:
   - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R"
@@ -102,6 +102,6 @@ related:
         height: 640
         isCached: true
 
-secured: "QCLLKkgJaX//9KPxM4FuZhZW16vg8W0k2lqXnVJ9Dl5Lo2F/ZddMuTESfsmr/qIeTaUqwVmBrpap6UOGLgEy7F/9HTXymewwDkEhl7jSHjeyjmtiAMst6ylEplaGNckl1C880/UwIwx5wBqHzWf8MStnkKol10dY4mIVWUeNE2BnQ/Sz/zSB96wrE9l2VkIMpoOrljCV5GHprCUaxg/P/TPKhoozKTN7kbqJX5eIGecjbE42bBrVh/6f7CG5HtvfxZ2ySK0uOScu6uxHQQG033blvjht37VV9KIbr28idzpVzMzOpG6Wqj8ZM2nGTGt0mZ+kbf27ib+AT4N8ZAXQ37EIu5bpmegSE/uJqCuqnpk=;xpwx8MgE+fDSy89TXAymbw=="
+secured: "ttYwbkSCahqSgf0K2nV2pDwonxkHNbhvCSYNKiMVbeVO1trcLwtY+ldsPUapAsaw7Hau/1U4DBK6LkntROMYqfdq/yfs8vUJDUz+N8NXAUOnXFmyKiWnDlA47+ut6XinEg14MTUSS2Eh5b7pzueRBHQGHRv/vYbPtHK+aHxULJjDyukA7d8lMrRXcgqeZCexre2nCNeZ+ddeKXSmH+jjTgNV+1NZq6vciBSOleXGLxTCqVt5t5+03ZPhmVzcaK7A/egCTP3DtCUIbtzze3/YDrSpi+M3K0Iz8x/XYWWAhMNzdlVJ94nIFy3rX2eHs8qnYZAVLnxlqY/jy/6iT5jKTuzNjdArSK6xD/gaDfXLqFw=;xPUpEqqiE+o4izxuYVYzLA=="
 ---
 

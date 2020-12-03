@@ -4,10 +4,10 @@
     {
       "path": "_news/2020-12-03-intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal.md",
       "title": "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal",
-      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
+      "excerpt": "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUSKBN28C22F",
-      "originalUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUSKBN28C22F",
+      "webUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F",
+      "originalUrl": "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F",
       "featuredContent": null,
       "highlight": null,
       "heat": 156,
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28C22F",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C22F",
-      "publishedDateTime": "2020-12-02T11:07:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28C22F",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28C22F",
+      "publishedDateTime": "2020-12-02T11:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -49,9 +49,9 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "AWS AI",
         "AI",
-        "AWS AI"
+        "AI Hardware"
       ]
     },
     {

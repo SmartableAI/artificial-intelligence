@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars Being Tailgated By Obnoxious Human Drivers"
+    excerpt: "Human drivers tailgate self-driving cars, but this bodes for big trouble. getty. Let’s talk about those obnoxious people that insist on driving their car as though it is an exte"
+    publishedDateTime: 2020-12-03T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/03/self-driving-cars-being-tailgated-by-obnoxious-human-drivers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc85171be22ff9f9a86dc61%2F0x0.jpg%3FcropX1%3D93%26cropX2%3D5250%26cropY1%3D441%26cropY2%3D2859"
+        width: 1200
+        height: 563
+        isCached: true
   - title: "Self-Driving Cars Need Those ‘How Am I Driving’ Bumper Stickers"
     excerpt: "Those ubiquitous \"How Am I Driving?\" bumper stickers are needed for self-driving cars too. getty. Sometimes bumper stickers are notably helpful. While out driving, you are bound t"
     publishedDateTime: 2020-12-01T16:37:00Z

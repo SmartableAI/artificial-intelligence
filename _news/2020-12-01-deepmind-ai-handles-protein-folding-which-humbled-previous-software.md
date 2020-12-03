@@ -1,10 +1,10 @@
 ---
 category: news
 title: "DeepMind AI handles protein folding, which humbled previous software"
-excerpt: "DeepMind announced that it had seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
+excerpt: "DeepMind announced that it has seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
 publishedDateTime: 2020-11-30T22:10:00Z
-originalUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/?comments=1"
-webUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/?comments=1"
+originalUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/"
+webUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/"
 type: article
 quality: 84
 heat: -1
@@ -19,8 +19,8 @@ provider:
       height: 50
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2020/11/ArgonneNationalLaboratory_Flickr_Bacillus_anthracis-CROPPED-760x380.jpg"
@@ -475,6 +475,6 @@ related:
         height: 720
         isCached: true
 
-secured: "Ftoaf0irknJFjHNoLBz84gA/MkLOCPPbCTmebV359aEZkqvYEUyAXdIrbRA6jlF0RkiXIZxe5GAlFDWCdVFB+xEeLMppPw/n1/HoleJq6Ba3bOrwH1cCLkP6tfhuKSwpBg0uWFBuHacB7liNbGoLrhfv3FaFvN1pTmYUQ6ahx3FEhI9i6Rl4VlEQNg1al67/I8gNfpRnK6XNI/QjCn1b2+zntDtrVe6mCHspp/OXEWDZKydiy5lYVdYz8eSLLqwFjm7An2zxUh/ZoPg9hNyNMiZw6jJ0MhgBKuG/5oQ2/gtstboY9EEdtsFe5E9Ppb3PXWWkXesC5b+zFCSYR9UKmYkH0GV/Lx+uh5WkWx2XxVbHOIWeRliR8+xXfNUpOYWkd6rqTrpPo1pB/n61Uj9z/5fC6OvtAKRQB+N254cLzy00X8Ye/xueHcXADXzeOpVBTTaz9WMa1zEbt3KETc9Xx/qjicxMWRgrnCT0pciHJ4X1usY9tjtnr3oI0KKP9r3jkJjtCIOK9sPkAcbMkm/NCQ==;l47biVpd7I8ynQF5lYVFcw=="
+secured: "etsh+3pfLpD1rEm3fboKC5DyspTXXqg5yt89vyxmJwCvlDLm6VMMXip2cSS4lEP5+5gT/Qnru6IzILuhOppgmQ7E6fOf8g15SsJGnkBNtTyetWD/zQEwfP/9WpA6Jz+N16aLR1brxGPIa46xuyh6OeEDZAAeaE2EM2Aw0hIYCle5tArF/6es9tr3xl14KCrAK0PtxBnVr6OR+GdTpqRRrkBt5ozynARaxnXoJkpDHKOGQyUgjjxBF9nlFr4RXi0xozwS4aV5isrgok4aGEsGD3FCsgVuOHFiAMQUAAX8IOv56NImAuRcTShMsndKGOjOhWPxaEFu/MhNGZs6gxU0WTwpfKsbIDhk786s+1R51Iw=;epxjY7xaHmHM8z+pZDGSsQ=="
 ---
 

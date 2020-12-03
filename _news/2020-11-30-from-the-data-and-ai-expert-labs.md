@@ -7,7 +7,7 @@ originalUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expe
 webUrl: "https://www.ibm.com/blogs/watson/2020/11/from-the-data-and-ai-expert-labs-3/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The Connection Between Artificial Intelligence and Data Center Cooling"
+    excerpt: "A new white paper from Siemens aims to look into the details for dynamically match data center cooling to IT load in real time."
+    publishedDateTime: 2020-12-03T13:42:00Z
+    webUrl: "https://datacenterfrontier.com/connection-ai-data-center-cooling/"
+    type: article
+    provider:
+      name: datacenterfrontier.com
+      domain: datacenterfrontier.com
+    quality: 39
+    images:
+      - url: "https://datacenterfrontier.com/wp-content/uploads/2019/03/dcf-datacenter-cooling-ironmountain-va.jpg"
+        width: 740
+        height: 409
+        isCached: true
   - title: "2020-The year of Artificial Intelligence « SAP Experts Podcast"
     excerpt: "Technologies as AI, Machine learning and Robotic Process Automation will change the way we work and impact how enterprises do their business. Listen"
     publishedDateTime: 2020-12-01T01:48:00Z

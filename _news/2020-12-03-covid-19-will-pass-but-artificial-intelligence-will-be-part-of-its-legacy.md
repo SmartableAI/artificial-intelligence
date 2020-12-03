@@ -102,20 +102,6 @@ related:
         width: 640
         height: 384
         isCached: true
-  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
-    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-        width: 720
-        height: 490
-        isCached: true
   - title: "Caltech’s AI-Driven COVID-19 Model Dramatically Outperforms Other Models"
     excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19's impact using artificial intelligence (AI) dramatically outperforms other models,"
     publishedDateTime: 2020-11-30T21:27:00Z
@@ -129,6 +115,20 @@ related:
       - url: "https://scitechdaily.com/images/COVID-19-Computer-Science-AI-Concept.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
+    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
+    publishedDateTime: 2020-12-03T14:23:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
+    type: article
+    provider:
+      name: Purdue University
+      domain: purdue.edu
+    quality: 36
+    images:
+      - url: "https://www.purdue.edu/uns/images/2020/hospital-mpcLO.jpg"
+        width: 800
+        height: 545
         isCached: true
   - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
     excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
@@ -145,6 +145,6 @@ related:
         height: 601
         isCached: true
 
-secured: "vatfF2aOUeFtdaovcv9hGKW4gJaibjfhAEB8zlsN+IvoqG6g7Hv4vXQ7dJNESfGNK2bK/Mbx011B+za+4C8t4zW44pwkWobLOPkIUwta1Q+K+VAdg5K+ctaN1qz/fit4XuJMH2kSKjxgiIhll4Fq8w40CWgQcAfTSzvx+yl03PRrZVq3nFFsuoDh1Tls1iziMq6VA1r2Xh1smor1lRXkuZs369vCCdhbON0E7NZZ/1yw2a1TjtrE9s5ybuTeQSgyrQ7RlPpbAZaJvG6LS0PL2sE8W8yxFvcO40z/dXaflEM329U/fY1chATMj+loFz5F1AizIXH9BYIelfkSMHndKa5fwdnitQbsH8m/eO0XilM=;aol2GBpGQax+Y++Dn8D5SQ=="
+secured: "bEllFLLDschxapaN2MMkGwkEKPrxVAL5yPcdrKCRlJYGWOkEM5SBufSlxqjQpw9U9xbYsTHIjxIVMKjmmE/KxmeAfNjh6tddwH7eGRuktR6NY5eDJmLDx8tZnmNACUPO1TbpVSGu7D8jlysb0rYZ9M2Zk5oNlPfl50cFXzmnMPecwfoz0WZxozGSKcrH8j74inWmIr9z/16SPn50TOf+iVDR5OiK8lxt6FHVmIVbFYcqBmj8UQPBtLOvxCtioTzuDYXWRWfgh9KOoxS8hU88/sk/cc+8b0qmxXXVSt8Kmr3Y5YnfoJSQzolgxo1F0ulAhPpCXEK7jYlrXqYrfp88ozcpnsDAIL+cRielhYPiFWWG+C0lm3ZP9WwFxYOeivSx9+rjG62EgASTSSEn7Qg1OLrHu8XzuXZiGp/1SCeRSUc86Qj0klLt3ZotyQ/xHJYq7hwtnp6efGInspBMcbZNf5AZTpQmoGgeYXZBkpUC+GkDbQ15LjtFsHz1MIMXYZb0MkTKSTcyqZJ3gOZxCQdPnQ==;9J0NFJW4wFxfQXrjqOU9Ww=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1666
         height: 937
         isCached: true
+  - title: "Machine Learning Is Changing the Future of Software Testing"
+    excerpt: "The majority of software development teams believe they don't test well. They understand that the effect of quality defects is substantial, and they invest heavily in quality assurance, but they still aren't getting the results they want."
+    publishedDateTime: 2020-12-03T13:37:00Z
+    webUrl: "https://www.technewsworld.com/story/86939.html"
+    type: article
+    provider:
+      name: TechNewsWorld
+      domain: technewsworld.com
+    quality: 39
+    images:
+      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-software-testing-1.jpg"
+        width: 620
+        height: 360
+        isCached: true
 
 secured: "4iQapylD7/DLP56W8HC1WyRmSNPl8yJRwkYPZzJ65f9dPl8Fln+xSNqdN+B/jRAy+fgg4WEgeCF/uWlIqFK7texUVyzwLgyiVxXYtrp4eLW8cutKVydqcKYxNBOIxFhWw3MW4bbt8tU0bDBVdSm4iBjpabpJSDhIZ8rQRSot/Me+Pv7yRg328i7D17O2UEo9PceKSdSEsMV5jX+P7pfZRThTlBJ9TZ4LNgybR9ywEuiBxPTl60GwD2hzIGsiHt/iNrSFVg/ClRlZFcjUhU3rFTrWZNd1W5U3yuVM8GqzFw6LBpZCx1WSc4QxHc9WB4Q1vMxihGr1oU6dOXCgsWviFR3NN3MJfLDKyt8TyuQBZWdZT+/zMuiQV1XPRwOeYIw9UhnHkgziIlMDDM2zB0SckgPKTEGI/DhzUCVTWOJCvEfvnI+megZrujanEtxThqlu6xxP87i2NtPT4nLok7HrHbUSdUl8FB7Mh4qya8zFRijJSJQybOTWPAZk6TJq4Zy1eap6JM1KxObf3WINQjW4ng==;6WaNHGlbR/8P9AmWwEmtNw=="
 ---

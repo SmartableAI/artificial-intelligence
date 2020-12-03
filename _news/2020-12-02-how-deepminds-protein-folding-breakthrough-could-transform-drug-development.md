@@ -144,9 +144,9 @@ related:
         height: 1403
         isCached: true
   - title: "DeepMind AI handles protein folding, which humbled previous software"
-    excerpt: "DeepMind announced that it had seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
+    excerpt: "DeepMind announced that it has seemingly solved one of biology's outstanding problems: how the string of amino acids in a protein folds up into a three-dimensional shape that enables their complex functions."
     publishedDateTime: 2020-11-30T22:10:00Z
-    webUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/?comments=1"
+    webUrl: "https://arstechnica.com/science/2020/11/deepmind-ai-handles-protein-folding-which-humbled-previous-software/"
     type: article
     provider:
       name: Ars Technica

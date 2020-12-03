@@ -2,6 +2,136 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2020-10-29-7-ai-stocks-to-buy-as-automation-advances.md",
+      "title": "7 AI Stocks to Buy as Automation Advances",
+      "excerpt": "However, Waymo is actually rolling out the self ... In any regard, Trimble has multiple end markets that can be disrupted via artificial intelligence and machine learning. Trimble says, We have ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-ai-stocks-to-buy-as-automation-advances-1029736496",
+      "publishedDateTime": "2020-10-28T12:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-microsoft-improves-password-spray-attack-detection-using-machine-learning.md",
+      "title": "Microsoft Improves Password Spray Attack Detection Using Machine Learning",
+      "excerpt": "Microsoft on Monday announced that it has developed a new algorithm based on machine learning that improves password spray detection in Azure Active Directory (Azure AD).",
+      "sourceUrl": null,
+      "webUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html",
+      "originalUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.techworm.net/wp-content/uploads/2020/10/passwords.jpeg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp",
+      "cdnAmpWebUrl": "https://www-techworm-net.cdn.ampproject.org/c/s/www.techworm.net/2020/10/microsoft-password-spray-attack-detection.html/amp",
+      "publishedDateTime": "2020-10-28T12:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techworm.net",
+        "domain": "techworm.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-29-evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively.md",
+      "title": "Evergreen unveils AI solution that enables municipalities to better evaluate infrastructure projects, mitigate climate risks and invest effectively",
+      "excerpt": "(GLOBE NEWSWIRE) -- Evergreen, a national not-for profit, has developed AI for the Resilient City, a scalable planning and prediction data visualization tool to help municipalities better evaluate infrastructure projects,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively-1029736464",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/evergreen-unveils-ai-solution-that-enables-municipalities-to-better-evaluate-infrastructure-projects-mitigate-climate-risks-and-invest-effectively-1029736464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-28T12:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-29-salesforces-paula-goldman-on-navigating-the-ethical-issues-in-ai.md",
       "title": "Salesforce's Paula Goldman on Navigating the Ethical Issues in AI",
       "excerpt": "The ethics of AI have become an important business and reputation issue in light of the Covid-19 pandemic and public protests. Paula Goldman shares how companies can address the ethical perils of biased algorithms,",
@@ -971,160 +1101,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-four-ways-artificial-intelligence-is-hidden-in-our-daily-lives.md",
-      "title": "Four Ways Artificial Intelligence Is Hidden In Our Daily Lives",
-      "excerpt": "People used to associate the term “artificial intelligence” with images of science fiction ... determining how the muscles involved in physical activity could be used for therapy and sports. Furthermore, simulation technology could be applied to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F1192287243%2F0x0.jpg",
-          "width": 1200,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/10/28/four-ways-artificial-intelligence-is-hidden-in-our-daily-lives/amp/",
-      "publishedDateTime": "2020-10-28T04:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-the-ai-company-helping-the-pentagon-assess-disinfo-campaigns.md",
-      "title": "The AI Company Helping the Pentagon Assess Disinfo Campaigns",
-      "excerpt": "Primer can quickly sort through hundreds of sources to identify, say, Russian interference in Azerbaijan. It sells its tech to Walmart too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/",
-      "originalUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/5f98b1c3e4fe02a20082e855/master/pass/business-ai-intelligence.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-helping-pentagon-assess-disinfo-campaigns/amp",
-      "publishedDateTime": "2020-10-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-28-heres-why-apple-paid-50-million-for-an-ai-video-startup.md",
-      "title": "Here's Why Apple Paid $50 Million for an AI Video Startup",
-      "excerpt": "Apple (NASDAQ:AAPL) has acquired Vilynx, a company focused on using computer vision and artificial intelligence to analyze a video's audio, visual, and related text elements to un",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
-      "originalUrl": "https://www.fool.com/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/image/?url=https%3A%2F%2Fg.foolcdn.com%2Feditorial%2Fimages%2F596947%2Fa-circuit-board-with-a-chip-labeled-ai-at-the-center.jpg&w=1200&op=resize",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
-      "cdnAmpWebUrl": "https://www-fool-com.cdn.ampproject.org/c/s/www.fool.com/amp/investing/2020/10/28/heres-why-apple-paid-50-million-for-an-ai-video-st/",
-      "publishedDateTime": "2020-10-28T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

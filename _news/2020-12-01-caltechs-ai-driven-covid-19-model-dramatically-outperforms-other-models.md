@@ -104,17 +104,17 @@ related:
         isCached: true
   - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
     excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+    publishedDateTime: 2020-12-03T14:23:00Z
+    webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
     type: article
     provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
+      name: Purdue University
+      domain: purdue.edu
+    quality: 36
     images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-        width: 720
-        height: 490
+      - url: "https://www.purdue.edu/uns/images/2020/hospital-mpcLO.jpg"
+        width: 800
+        height: 545
         isCached: true
   - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
     excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."

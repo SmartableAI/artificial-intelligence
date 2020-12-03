@@ -3,12 +3,12 @@ category: news
 title: "7 Machine Learning Stocks for a Smarter Future"
 excerpt: "Machine learning stocks represent a promising long-term opportunity for investors. And they are not just about red-hot startups. There are also a myriad of mature operators that should benefit investors."
 publishedDateTime: 2020-12-01T16:55:00Z
-originalUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
-webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
+originalUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?time=1606971661"
+webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?time=1606971661"
 ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
 type: article
-quality: 71
+quality: 69
 heat: -1
 published: false
 
@@ -17,9 +17,8 @@ provider:
   domain: nasdaq.com
 
 topics:
-  - Microsoft AI
-  - AI
   - Machine Learning
+  - AI
 
 related:
   - title: "7 Machine Learning Stocks for a Smarter Future"
@@ -57,6 +56,6 @@ related:
         height: 343
         isCached: true
 
-secured: "ogfsnoITBf3jXjkjhrez1R4SpbIh9GQXzD8P9kSr6wZbmFAJXAW0VJzKvIhO4MADlFLSO8p1yqCb1EGXaUlvbYlmzR/+rk34ItRRAndyQaM67B7mmtcDQslu745iwao5IAyN8dcixqU4Eb6YUiU3xSARlkl3JoJrfN28/ThMWpGdzk6elGNWxwJCtdgsSSK8VlT+jb7dG183tEmIiZwP3HFR3mBgga0qJ+XWYEkkdQ5xLFgFhtrgNEowYFOtSqrwXA/kGhx9eOseHbv8RG04Td7aJfpIPmhiVESy8JEJAhHvKC6TGPYXvupstzHLPq2KFzCW+xgYpr1vNhuOwHw9pFR1Bt+mYYKlwF132a16PAI=;HDD9+CSi1HHIUgHDtd5Z7A=="
+secured: "eRU6NOwJNH5MvslXDri21UsJFX6jZkuzdMa4NSvLNpjJ6AmtLG+B5OBd9/o8bBFylU9qtyPcsvSzCfRV9CtnBTfJBdMaHEqeb6DGFrIJBYK/q6sFBUs2kOTTk5lIFcxpdGrEAiGWiMHTivpbm5M4LS9gMc4MQ/7b3IsB2zmiBf9uIuEqwKKa68uAdhqVb5DLQeBpYzPGe6wX+YqALPwOArppgiGLAosukxvhGyQChhZYHwPSKIiPjMxrvKJpN2lHJkEKjovPG74EQzWLTH2xu72LR7IEANi/SSHqd3/l8vXiwUQOGEXq+T/BwHYo2f8XRWwXQ+22OXBJs9jlycUpPXoD0LZcO6Gbs9ItgY9CxEI=;KC+/kslVTEdpl/7q/6rhgQ=="
 ---
 

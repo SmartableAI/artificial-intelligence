@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2020-12-03-spain-to-invest-720m-in-artificial-intelligence.md",
+      "title": "Spain to invest $720M in artificial intelligence",
+      "excerpt": "OVIEDO, Spain Spanish Prime Minister Pedro Sanchez unveiled Spain’s national artificial intelligence strategy Wednesday, which will see €600 million ($720",
+      "sourceUrl": null,
+      "webUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/",
+      "originalUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.turkishpress.com/2020/12/02142539/thumbs_b_c_d964d85c0b58d7f3b08c1b17631787d9.jpg",
+          "width": 864,
+          "height": 486,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp",
+      "publishedDateTime": "2020-12-02T17:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Turkish Press",
+        "domain": "turkishpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-virtual-care-platform-andor-health-raises-series-a-from-microsoft.md",
       "title": "Virtual care platform Andor Health raises Series A from Microsoft",
       "excerpt": "The company, which provides an AI virtual assistant that delivers data from electronic health record (EHR) in virtual health sessions, announced earlier this week that it raised an undisclosed amount of Series A funding from M12,",
@@ -1297,49 +1340,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-11-13-renalytixai-to-participate-in-the-stifel-2020-healthcare-conference.md",
-      "title": "RenalytixAI to Participate in the Stifel 2020 Healthcare Conference",
-      "excerpt": "(GLOBE NEWSWIRE) -- Renalytix AI plc (LSE: RENX) (NASDAQ: RNLX), an artificial intelligence-enabled in vitro diagnostics company, focused on optimizing clinical management of kidney disease to drive improved patient outcomes and advance value-based care,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/renalytixai-to-participate-in-the-stifel-2020-healthcare-conference-1029799869",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/renalytixai-to-participate-in-the-stifel-2020-healthcare-conference-1029799869",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/RenalytixAI-to-Participate-in-the-Stifel-2020-Healthcare-Conference-1029799869",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/RenalytixAI-to-Participate-in-the-Stifel-2020-Healthcare-Conference-1029799869",
-      "publishedDateTime": "2020-11-12T23:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

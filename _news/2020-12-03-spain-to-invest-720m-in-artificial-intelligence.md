@@ -8,8 +8,8 @@ webUrl: "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligenc
 ampWebUrl: "https://turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp"
 cdnAmpWebUrl: "https://turkishpress-com.cdn.ampproject.org/c/s/turkishpress.com/spain-to-invest-720m-in-artificial-intelligence/?amp"
 type: article
-quality: 72
-heat: 82
+quality: 74
+heat: 84
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://cdn.turkishpress.com/2020/12/02142539/thumbs_b_c_d964d85c0b58d7f3b08c1b17631787d9.jpg"
