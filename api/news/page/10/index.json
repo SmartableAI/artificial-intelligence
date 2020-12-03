@@ -2,6 +2,135 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-24-global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-2223.md",
+      "title": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) Stock Price Crosses Above 200 Day Moving Average of $22.23",
+      "excerpt": "Global X Artificial Intelligence & Technology ETF (NASDAQ:AIQ) passed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $22.23 and traded as high as $25.",
+      "sourceUrl": null,
+      "webUrl": "https://www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html",
+      "originalUrl": "https://www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html/amp",
+      "cdnAmpWebUrl": "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/11/24/global-x-artificial-intelligence-technology-etf-nasdaqaiq-stock-price-crosses-above-200-day-moving-average-of-22-23.html/amp",
+      "publishedDateTime": "2020-11-24T00:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "modernreaders.com",
+        "domain": "modernreaders.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-zalando-selects-aws-as-its-preferred-cloud-provider.md",
+      "title": "Zalando Selects AWS as Its Preferred Cloud Provider",
+      "excerpt": "(NASDAQ: AMZN), announced that Zalando has selected AWS as its preferred cloud provider and is going all-in on AWS for machine learning, running all of its machine learning workloads on the world’s leading cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-lifestyle-business-amazoncom-inc-corporate-news-65f8432751064455865e7f67077cf940",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-24-spotcam-brings-ai-to-cloud-cameras-for-painless-home-security.md",
+      "title": "SpotCam brings AI to cloud cameras for painless home security",
+      "excerpt": "Home security cameras utilizing the cloud to store video footage is a clear trend. Taiwanese company, SpotCam, has made cloud home monitoring cameras its focus for many years. SpotCam is best known for being the only company to offer free full time,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
+      "originalUrl": "https://techcrunch.com/sponsor/spotcam/spotcam-brings-ai-to-cloud-cameras-for-painless-home-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/article-pic-FHD-2.jpg?w=605",
+          "width": 605,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-24T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2020-11-24-csiro-wants-to-use-ai-to-end-australias-plastic-waste.md",
       "title": "CSIRO wants to use AI to end Australia's plastic waste",
       "excerpt": "Microsoft and Hobart City Council are working with the government agency to develop these technology solutions.",
@@ -658,10 +787,10 @@
     {
       "path": "_news/2020-11-24-global-ai-based-learning-market-in-a-boom-phase-free-webinar.md",
       "title": "Global AI-based Learning Market in a Boom Phase: Free Webinar",
-      "excerpt": "Sam S. Adkins, Chief Researcher at Metaari, Will Present Key Findings from Metaari's New Worldwide AI-based Learning Report. MONROE, Wash.",
+      "excerpt": "Sam will present key findings from Metaari's new report called, \"The 2021-2026 Worldwide AI-based Learning Market\". According to the report, the five-year compound annual growth rate (CAGR) for the global AI-based Learning market is a robust 32.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
-      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/p18494506/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
+      "webUrl": "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
+      "originalUrl": "https://www.benzinga.com/pressreleases/20/11/n18494470/global-ai-based-learning-market-in-a-boom-phase-free-webinar",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -669,8 +798,8 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.benzinga.com/amp/content/18494506",
-      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494506",
+      "ampWebUrl": "https://amp.benzinga.com/amp/content/18494470",
+      "cdnAmpWebUrl": "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18494470",
       "publishedDateTime": "2020-11-23T10:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
@@ -685,7 +814,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "IBM AI",
         "AI"
       ]
     },
@@ -1065,161 +1194,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-ibm-takes-the-next-step-with-cloud-pak-for-data.md",
-      "title": "IBM takes the next step with Cloud Pak for Data",
-      "excerpt": "IBM is in the midst of rolling out Cloud Pak for Data as a managed service on the IBM Cloud. It finally makes this end-to-end environment into the self-service offering that it was designed to be.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/21/7fd6f1d6-f2f9-4102-9b3d-5c4225480509/ibm-cloud-pak.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ibm-takes-the-next-step-with-cloud-pak-for-data/",
-      "publishedDateTime": "2020-11-23T05:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail.md",
-      "title": "Two Companies, Everseen And Pactum, Show Artificial Intelligence's Impact On Walmart And All Retail",
-      "excerpt": "Retail is big and that makes it an ideal testing ground for artificial intelligence. What's being deployed in Walmart now from Everseen and Pactum is a window into where artificial intelligence is going now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
-      "originalUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fa9d5d18abba8a5b0f2b474%2F0x0.jpg",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/richardkestenbaum/2020/11/23/two-companies-everseen-and-pactum-show-artificial-intelligences-impact-on-walmart-and-all-retail/amp/",
-      "publishedDateTime": "2020-11-23T05:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-23-mit-neural-network-knows-when-it-can-be-trusted.md",
-      "title": "MIT neural network knows when it can be trusted",
-      "excerpt": "Deep learning neural networks are artificial intelligence systems that are being used for increasingly important decisions. Deep learning neural networks are used for tasks as varied as autonomous",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
-      "originalUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.slashgear.com/wp-content/uploads/2020/11/ai-certainty.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
-      "cdnAmpWebUrl": "https://www-slashgear-com.cdn.ampproject.org/c/s/www.slashgear.com/mit-neural-network-knows-when-it-can-be-trusted-23648501/amp/",
-      "publishedDateTime": "2020-11-23T04:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

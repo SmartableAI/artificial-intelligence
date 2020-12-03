@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-teams-up-with-codeorg-to-teach-students-how-ai-works/"
 type: article
 quality: 106
-heat: 166
+heat: 176
 published: true
 
 provider:
@@ -64,6 +64,17 @@ related:
         width: 1200
         height: 899
         isCached: true
+  - title: "Microsoft: Here's how your smartphone camera plus AI can keep an eye on your health"
+    excerpt: "While wearables are at the forefront of medical applications for mobile technology, COVID-19 has sent researchers looking at older technologies like the humble smartphone for remote diagnosis. Microsoft Research has been working on telehealth ..."
+    publishedDateTime: 2020-12-03T15:21:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-heres-how-your-smartphone-camera-plus-ai-can-keep-an-eye-on-your-health/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 78
   - title: "AI in Social Media Market to Witness Positive Growth Owing to COVID-19| Google, Facebook, Microsoft"
     excerpt: "The rising technology in AI in Social Media is also depicted in this research report. Factors that are boosting the growth of the market, and giving a positive push to thrive in the global market is explained in detail."
     publishedDateTime: 2020-12-01T01:50:00Z

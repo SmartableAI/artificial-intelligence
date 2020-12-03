@@ -2,6 +2,40 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2020-10-25-how-to-win-with-machine-learning.md",
+      "title": "How to win with machine learning",
+      "excerpt": "A prediction, in the context of machine learning, is an information output that comes from entering some data and running an algorithm. For example, when your mobile navigation app serves up a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/business/harvard-business-review/how-to-win-with-machine-learning/news-story/6356345f5bed72c0c0e4a56d813542ba",
+      "originalUrl": "https://www.theaustralian.com.au/business/harvard-business-review/how-to-win-with-machine-learning/news-story/6356345f5bed72c0c0e4a56d813542ba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-24T23:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-25-developers-can-tap-into-deep-learning-with-the-open-source-beta-of-the-microsoft-cognitive-toolkit.md",
       "title": "Developers can tap into deep learning with the open-source beta of the Microsoft Cognitive Toolkit",
       "excerpt": "Developers and researchers can start using the power of deep learning with the updated beta release of the open-source Microsoft Cognitive Toolkit. The toolkit, previously known as CNTK ...",
@@ -1368,50 +1402,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2020-10-19-deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy.md",
-      "title": "Deep Learning Model Developed to Identify Appropriate Lung Cancer Therapy",
-      "excerpt": "Researchers are developing a noninvasive, method to analyze a non-small cell lung cancer mutations and biomarkers to determine the best course of treatment.",
-      "sourceUrl": null,
-      "webUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "originalUrl": "https://www.genengnews.com/news/deep-learning-model-developed-to-identify-appropriate-lung-cancer-therapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.genengnews.com/wp-content/uploads/2018/11/Apr6_2018_Getty_490025288_LungCancer.jpg",
-          "width": 2000,
-          "height": 1547,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-19T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GEN",
-        "domain": "genengnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

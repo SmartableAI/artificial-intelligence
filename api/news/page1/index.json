@@ -2,6 +2,264 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-04-microsoft-unveils-azure-purview-for-data-governance-azure-synapse-analytics-hits-general-availability.md",
+      "title": "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability",
+      "excerpt": "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/",
+      "originalUrl": "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/",
+      "publishedDateTime": "2020-12-03T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-googles-co-head-of-ethical-ai-says-she-was-fired-for-email.md",
+      "title": "Google’s Co-Head of Ethical AI Says She Was Fired for Email",
+      "excerpt": "Timnit Gebru, a co-leader of the Ethical Artificial Intelligence team at Google, said she was fired for sending an email that management deemed “inconsistent with the expectations of a Google manager.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imC_aAMzSyd0/v0/360x-1.jpg",
+          "width": 360,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "cdnAmpWebUrl": "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2020-12-03/google-s-co-head-of-ethical-ai-says-she-was-fired-over-email",
+      "publishedDateTime": "2020-12-03T07:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing.md",
+      "title": "AI’s next act: Genius chips, programmable silicon and the future of computing",
+      "excerpt": "Much of the hype around AI — all the disruption it was supposed to bring and the leaps it was supposed to fuel — will begin in earnest in the next few years.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
+      "originalUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/GettyImages-1161024057.jpg?w=1024",
+          "width": 1024,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ais-next-act-genius-chips-programmable-silicon-and-the-future-of-computing/amp/",
+      "publishedDateTime": "2020-12-03T07:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires.md",
+      "title": "Luminar IPO makes 25-year old Austin Russell one of world's first, and youngest, self-driving billionaires",
+      "excerpt": "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105223671-821265836.jpg?v=1607007200",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "publishedDateTime": "2020-12-03T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-03-vsco-acquires-mobile-app-trash-to-expand-into-ai-powered-video-editing.md",
+      "title": "VSCO acquires mobile app Trash to expand into AI-powered video editing",
+      "excerpt": "VSCO, the popular photo and video editing app, today announced it has acquired AI-powered video editing app Trash, as the company pushes further into the video market. The deal will see Trash’s technology integrated into the VSCO app in the months ahead,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/",
+      "originalUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/12/Product-01-1.png?w=369",
+          "width": 369,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/vsco-acquires-mobile-app-trash-to-expand-into-a-i-powered-video-editing/amp/",
+      "publishedDateTime": "2020-12-03T07:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver.md",
       "title": "AutoX’s robo-taxi service in Shenzhen leaves out the human driver",
       "excerpt": "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen.",
@@ -398,50 +656,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-03-virtual-care-platform-andor-health-raises-series-a-from-microsoft.md",
-      "title": "Virtual care platform Andor Health raises Series A from Microsoft",
-      "excerpt": "The company, which provides an AI virtual assistant that delivers data from electronic health record (EHR) in virtual health sessions, announced earlier this week that it raised an undisclosed amount of Series A funding from M12,",
-      "sourceUrl": null,
-      "webUrl": "https://vator.tv/news/2020-12-02-virtual-care-platform-andor-health-raises-series-a-from-microsoft",
-      "originalUrl": "https://vator.tv/news/2020-12-02-virtual-care-platform-andor-health-raises-series-a-from-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1343866/Andor_watch.jpg?p=publish&amp;w=950",
-          "width": 1920,
-          "height": 1201,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T11:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vator",
-        "domain": "vator.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
       ]
     },
     {
@@ -1049,207 +1263,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-automakers-unveil-proposals-to-speed-us-self-driving-deployment.md",
-      "title": "Automakers unveil proposals to speed U.S. self-driving deployment",
-      "excerpt": "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8",
-      "publishedDateTime": "2020-12-02T07:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse.md",
-      "title": "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse",
-      "excerpt": "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
-      "originalUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
-      "publishedDateTime": "2020-12-02T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-artificial-intelligence-leaderships-friend-or-foe.md",
-      "title": "Artificial Intelligence: Leadership’s Friend Or Foe?",
-      "excerpt": "Leaders should not see artificial intelligence as a threat to organizational purpose, but rather a support for leaders to have the time and space to engage with aspects of their higher purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
-      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc514c1c71993c70975025b%2F0x0.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
-      "publishedDateTime": "2020-12-02T05:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
-      "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
-      "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
-      "originalUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/eca284db-40a8-41e0-a604-f1e0413b800c/resize/1200x/f745556c13a6c51b9da4d21d99e674f0/reinvent.jpg",
-          "width": 1200,
-          "height": 881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
-      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
-      "publishedDateTime": "2020-12-02T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRepublic",
-        "domain": "techrepublic.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI",
-        "Microsoft AI"
       ]
     }
   ],

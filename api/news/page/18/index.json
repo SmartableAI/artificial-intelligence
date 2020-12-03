@@ -2,6 +2,208 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2020-11-18-apple-releases-forked-version-of-tensorflow-optimized-for-macos-big-sur.md",
+      "title": "Apple releases forked version of TensorFlow optimized for macOS Big Sur",
+      "excerpt": "Apple today released a forked version of TensorFlow, Google’s AI and machine learning development environment, optimized for Intel Macs and Macs powered by Apple’s new M1 chip. By taking ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
+      "originalUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/04/TensorFlow-logo-Google.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/18/google-releases-new-version-of-tensorflow-optimized-for-macos/amp/",
+      "publishedDateTime": "2020-11-18T03:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-ai-startup-abacusai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models.md",
+      "title": "AI startup Abacus.ai nabs $22 million in Series B funding to automate creation of deep learning models",
+      "excerpt": "Abacus.ai, the year-and-a-half-old San Francisco startup that seeks to automate deep learning models for customers, said Wednesday it has received $22 million in financing in a Series B round led by venture capital firm Coatue,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://zdnet4.cbsistatic.com/hub/i/2020/07/15/b05a1865-d2bd-44e2-9dba-d69065a6df0b/2020-07-15-at-1-27-40-am.jpg",
+          "width": 1600,
+          "height": 1068,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-abacus-ai-nabs-22-million-in-series-b-funding-to-automate-creation-of-deep-learning-models/",
+      "publishedDateTime": "2020-11-18T03:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-todays-data-science-roles-wont-exist-in-10-years.md",
+      "title": "Today’s data science roles won’t exist in 10 years",
+      "excerpt": "AutoML is poised to turn developers into data scientists — and vice versa. Here’s how AutoML will radically change data science for the better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
+      "originalUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/10/ai_machine-learning_analytics_data-scientist-100777422-large.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3596894/todays-data-science-roles-wont-exist-in-10-years.amp.html",
+      "publishedDateTime": "2020-11-18T03:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-4paradigm-named-as-leader-in-the-forrester-wave-paml-report.md",
+      "title": "4Paradigm named as leader in the Forrester Wave PAML report",
+      "excerpt": "Forrester, a leading international market analysis firm, released The Forrester Wave™: Predictive Analytics And Machine Learning In China, Q4 2020 report. 4 Paradigm received the top score in the Current Offering category,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
+      "originalUrl": "https://apnews.com/press-release/marketers-media/technology-science-greater-china-asia-data-management-fcfefafd2d8bb75ff929e5360d3c3f04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T03:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-did-a-university-use-facial-recognition-to-id-student-protesters.md",
       "title": "Did a University Use Facial Recognition to ID Student Protesters?",
       "excerpt": "University of Miami students accuse the campus police of using the software. Administrators deny it, but they had previously touted the capability.",
@@ -997,178 +1199,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-graphene-based-memristor-for-artificial-neural-networks.md",
-      "title": "Graphene-Based Memristor for Artificial Neural Networks",
-      "excerpt": "A graphene-based memory resistor (memristor) that can exist in many different states has been designed and demonstrated by Thomas Schranghamer, Aaryan Oberoi and Saptarshi Das at Pennsylvania State University in the US. Using simulations and experiments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearscience.com/2020/11/17/graphene-based_memristor_for_artificial_neural_networks_649961.html",
-      "originalUrl": "https://www.realclearscience.com/2020/11/17/graphene-based_memristor_for_artificial_neural_networks_649961.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/52/527293_6_.png",
-          "width": 1440,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearScience",
-        "domain": "realclearscience.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
-      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
-      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
-      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
-          "width": 620,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
-      "publishedDateTime": "2020-11-17T10:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-artificial-intelligence-technology-solutions-receives-rosa-order-from-large-construction-company.md",
-      "title": "Artificial Intelligence Technology Solutions Receives ROSA Order from Large Construction Company",
-      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) ha",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201117005699/en/Artificial-Intelligence-Technology-Solutions-Receives-ROSA-Order-from-Large-Construction-Company",
-      "originalUrl": "https://www.businesswire.com/news/home/20201117005699/en/Artificial-Intelligence-Technology-Solutions-Receives-ROSA-Order-from-Large-Construction-Company",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201117005699/en/790367/23/RAD_Logo_New_Landscape.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-medrhythms-roux-institute-partner-in-the-fields-of-neuroscience-artificial-intelligence.md",
-      "title": "MedRhythms, Roux Institute Partner in the Fields of Neuroscience, Artificial Intelligence",
-      "excerpt": "Partnership between MedRhythms and Northeastern University's Roux Institute generates research and co-op opportunities in Portland.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswire.com/news/home/20201117005199/en/MedRhythms-Roux-Institute-Partner-in-the-Fields-of-Neuroscience-Artificial-Intelligence",
-      "originalUrl": "https://www.businesswire.com/news/home/20201117005199/en/MedRhythms-Roux-Institute-Partner-in-the-Fields-of-Neuroscience-Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mms.businesswire.com/media/20201117005199/en/839141/23/MR_Logo_Official.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T10:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

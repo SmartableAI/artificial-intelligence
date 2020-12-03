@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2020/12/01/vmware-aws-joint-engineering-s
 webUrl: "https://siliconangle.com/2020/12/01/vmware-aws-joint-engineering-speeds-cloud-computing-transition-reinvent/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,36 +23,6 @@ images:
     width: 1666
     height: 937
     isCached: true
-
-related:
-  - title: "How AWS is computing the future of the cloud"
-    excerpt: "As he always has, the longtime leader of Amazon.com Inc.’s cloud computing company will debut a dizzying array of new and upgraded services, which AWS is keeping close to the vest until Jassy’s keynote starts at 8 a."
-    publishedDateTime: 2020-12-01T14:36:00Z
-    webUrl: "https://siliconangle.com/2020/12/01/aws-computing-future-cloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2017/12/jassy-aws-2017-3.jpg"
-        width: 827
-        height: 508
-        isCached: true
-  - title: "Machine Learning Is Changing the Future of Software Testing"
-    excerpt: "The majority of software development teams believe they don't test well. They understand that the effect of quality defects is substantial, and they invest heavily in quality assurance, but they still aren't getting the results they want."
-    publishedDateTime: 2020-12-03T13:37:00Z
-    webUrl: "https://www.technewsworld.com/story/86939.html"
-    type: article
-    provider:
-      name: TechNewsWorld
-      domain: technewsworld.com
-    quality: 39
-    images:
-      - url: "https://www.technewsworld.com/article_images/story_graphics_xlarge/xl-2020-software-testing-1.jpg"
-        width: 620
-        height: 360
-        isCached: true
 
 secured: "zmQ9VwpTqIS4y02WEx2dBhPU9aqNG3pCpTMt9gTv2XiAh3ChsdowgNn6y9Qb7ntOKpovjUevSAfFa8oz3Ugy5yjURAb0QmRwBudefZJgAWQo4h+/7l1Hru8sssSiyc7719sdnNfUzuo6UaPYn0bdDl7ftXsh72Ug/IXfFDAoiV4Rfh8ZrBbnWQShTSFwaD3vbXonnc3U9uaFhmlZda1ncBUTaWYhUvuOOEppkaK4mnBB2EhITd+BRj2C3y34eu++CsEOez5q/8Ao1RmZbuiHF5WiZ9yxm+VZoxYJnWbhNPsyxux/E2dxjSZb4Uxocpv1sWywXEzyc/lBbbN+FIIVsMCukF+BU0gCZK8lOm6J8nLTMEZoTnJAyAIVGFvRRK009G9sCxOP39+K8Ls9xW7nJRmNNJyG0O4N1XWV+ugALLoRLkxDxIgSu5Jl+ePJH6b83EHEDrrg36Z30miFLtrdH11Hy47hSzwcfPteqsAVIu7BX/V0uxK1+CD+Gz8lFMbtXv2MLQbo5G4C66coDXsVmQ==;JMFHyYQQCOdUsG+frd3mBw=="
 ---

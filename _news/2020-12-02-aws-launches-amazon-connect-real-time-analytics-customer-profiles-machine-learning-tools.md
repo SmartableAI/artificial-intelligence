@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
 type: article
 quality: 96
-heat: 176
+heat: 156
 published: true
 
 provider:
@@ -73,20 +73,6 @@ related:
         width: 800
         height: 450
         isCached: true
-  - title: "Cognitive Analytics Market taking to witness high growth in near future"
-    excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
-    publishedDateTime: 2020-11-30T20:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-analytics-market-taking-to-witness-high-growth-in-near-future-2020-11-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
     excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
     publishedDateTime: 2020-11-29T20:06:00Z
@@ -101,15 +87,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AWS Announces Three New Analytics Capabilities"
-    excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
-    publishedDateTime: 2020-12-02T09:33:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20201201006065/aws-announces-three-new-analytics-capabilities"
-    type: article
-    provider:
-      name: Morningstar, Inc.
-      domain: morningstar.com
-    quality: 19
   - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
     excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."
     publishedDateTime: 2020-12-01T19:00:00Z

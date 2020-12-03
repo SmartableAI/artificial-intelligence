@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-faci
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
 type: article
 quality: 88
-heat: 128
+heat: 138
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg"
         width: 800
         height: 435
+        isCached: true
+  - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
+    excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
+    publishedDateTime: 2020-12-03T16:24:00Z
+    webUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html"
+    ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_349338683.jpg"
+        width: 983
+        height: 630
         isCached: true
 
 secured: "xGUPbq7AcKVaTDSso/rXqou1WeBk54ZYDyb1uyecMxiC3WfzlXA78fgZLVAO9OfPxCVEIXf8Xdcjf0Sa1oG6Yh9GPtVjipaH5ONxKzXxaFWn2ooSn6ePo79ayvtMj2znMUbcSjkYxCl2V9VbaG5MWxm3YOp2fqZLYOIorGYMKzJw9h9N4wXnoq8gCL2mfjdqA7lh8ZQeVhuWhEojOdIagSz/mVdlUSjGMpiJeR/OXzlQdetXxZgK3NuH8fiEgcEHwD9ikuSx77vI9BXJTeGryh6U23aulwzlNYx6lfQ98uxTDk2GmOjNg4NizeoJo7gjCmzraRn6eHvq6qVu22ty6tmArVtuNBAAOXJBW5P9yWE=;/cMgwo2FUuOOWpnWAX+PWQ=="

@@ -81,6 +81,20 @@ related:
       name: Sify.com
       domain: sify.com
     quality: 39
+  - title: "Police facial recognition: new study calls for greater oversight in NZ"
+    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Brazil’s Government to Use Face Biometrics For Pensioner Identity Verification"
     excerpt: "The Brazilian government will be using biometric facial recognition to verify the identities of pensioners in the country."
     publishedDateTime: 2020-12-01T21:25:00Z

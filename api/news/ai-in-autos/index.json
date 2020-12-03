@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2020-12-03-luminar-ipo-makes-25-year-old-austin-russell-one-of-worlds-first-and-youngest-self-driving-billionaires.md",
+      "title": "Luminar IPO makes 25-year old Austin Russell one of world's first, and youngest, self-driving billionaires",
+      "excerpt": "Luminar CEO and co-founder Austin Russell poised to become a billionaire as his autonomous driving company goes public through a SPAC deal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "originalUrl": "https://www.cnbc.com/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/105223671-821265836.jpg?v=1607007200",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/03/luminar-ipo-mints-a-25-year-old-autonomous-driving-billionaire.html",
+      "publishedDateTime": "2020-12-03T07:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-03-autoxs-robo-taxi-service-in-shenzhen-leaves-out-the-human-driver.md",
       "title": "AutoX’s robo-taxi service in Shenzhen leaves out the human driver",
       "excerpt": "AutoX, a China-based startup developing self-driving cars, has launched a fully driverless taxi service in Shenzhen.",
@@ -1389,58 +1441,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-us-regulators-open-process-to-ensure-self-driving-car-safety.md",
-      "title": "U.S. regulators open process to ensure self-driving car safety",
-      "excerpt": "U.S. auto safety regulators on Thursday said they were opening a formal regulatory proceeding that could eventually result in the adoption of new safety standards for autonomous vehicles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
-      "originalUrl": "https://www.reuters.com/article/autos-self-driving/update-1-us-regulators-open-process-to-ensure-self-driving-car-safety-idUSL1N2I51RE",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20201119&t=2&i=1541788378&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAI1EJ",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN27Z2FM",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN27Z2FM",
-      "publishedDateTime": "2020-11-19T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

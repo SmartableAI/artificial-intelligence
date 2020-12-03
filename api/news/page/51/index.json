@@ -2,6 +2,178 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2020-10-26-how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms.md",
+      "title": "How artificial intelligence and machine learning power content-first newsrooms",
+      "excerpt": "By Chris Nguyen, executive vice president, marketing at Naviga Digital is no longer just a nice addition to a newspaper’s success, but an imperative. While print remains a key source of revenue — capturing both subscriptions and advertising — spending too much time on designing and managing printed editions has become an obstacle to digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "originalUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i1.wp.com/digiday.com/wp-content/uploads/2020/10/Digiday_Naviga_Banner_1440X600-1.jpg?fit=682%2C284&ssl=1",
+          "width": 681,
+          "height": 284,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "cdnAmpWebUrl": "https://digiday-com.cdn.ampproject.org/c/s/digiday.com/sponsored/how-artificial-intelligence-and-machine-learning-power-content-first-newsrooms/amp/",
+      "publishedDateTime": "2020-10-25T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digiday",
+        "domain": "digiday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-dubai-introduces-facial-recognition-on-public-transport.md",
+      "title": "Dubai introduces facial recognition on public transport",
+      "excerpt": "Dubai is introducing a facial recognition system on public transport to beef up security, officials said Sunday, as the emirate prepares to host the global Expo exhibition. \"This technology has proven its effectiveness to identify suspicious and wanted people,",
+      "sourceUrl": null,
+      "webUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html",
+      "originalUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.al-monitor.com/pulse/files/live/sites/almonitor/files/images/afppics/2020/10/2e7286d029b84b12b8cb3cc625d7c0ccaa1135c5.jpg",
+          "width": 962,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1",
+      "cdnAmpWebUrl": "https://www-al--monitor-com.cdn.ampproject.org/c/s/www.al-monitor.com/pulse/afp/2020/10/uae-dubai-security-technology-transport.amp.html?skipWem=1",
+      "publishedDateTime": "2020-10-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al-Monitor",
+        "domain": "al-monitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-network-testing-in-the-5g-era.md",
+      "title": "Network testing in the 5G era",
+      "excerpt": "A widely used application is object recognition, in which the presence and position of a particular object in an image (e.g. “A cat is/is not present in the picture”) is determined through multi-stage interpretation of patterns (edges, coloured areas ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
+      "originalUrl": "https://www.newelectronics.co.uk/electronics-technology/network-testing-in-the-5g-era/231554/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newelectronics.co.uk/article-images/image-library/93/figure_03_szenario_5410cbec.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Electronics",
+        "domain": "newelectronics.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-10-26-ai-at-the-edge-hack-chat.md",
+      "title": "AI At The Edge Hack Chat",
+      "excerpt": "Join us Wednesday at noon Pacific time for the AI at the Edge Hack Chat with John Welsh from NVIDIA! Machine learning was once the business of big iron like IBM’s Watson or the nearly limitless ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/04/29/ai-at-the-edge-hack-chat/",
+      "originalUrl": "https://hackaday.com/2019/04/29/ai-at-the-edge-hack-chat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2019/04/1_Jetson_nano-PressGraphic_2000x1200-1.png",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-26-why-do-governments-need-cognitive-services.md",
       "title": "Why do governments need cognitive services?",
       "excerpt": "Mykhaylo Shmyelov, Director for National Technology Strategies and Policies for 24 Countries in Central and Eastern Europe at Microsoft, talked with Kazakhstani media Kursiv.kz about cognitive services and how they help governments become genuinely digital.",
@@ -1000,178 +1172,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-facial-recognition-market-increasing-instances-of-identity-theft-to-boost-the-market-growth-technavio.md",
-      "title": "Facial Recognition Market | Increasing Instances of Identity Theft to Boost the Market Growth | Technavio",
-      "excerpt": "Technavio has announced its latest market research report titled Global Facial Recognition Market 2020-2024 (Graphic: Business Wire) The facial recognition market research analysis identifies the increasing instances of identity threats as one of the primary growth factors for this market.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-virus-outbreak-biometrics-lung-disease-crime-9929454d476f4533b12c36217c36675e",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T19:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-can-ai-fix-the-broken-us-presidential-debates.md",
-      "title": "Can AI Fix The Broken U.S. Presidential Debates?",
-      "excerpt": "By contrast, IBM’s Watson analysed 3,500 questions submitted online using a new capability called Key Point Analysis. It’s an AI-based summary developed by the IBM Research Project Debater team.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
-      "originalUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pedestrian.tv/content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/10/can-ai-fix-our-broken-debates/amp/",
-      "publishedDateTime": "2020-10-23T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-microsoft-showcases-sustainable-digital-transformation-solutions-at-wetex-2017.md",
-      "title": "Microsoft Showcases Sustainable Digital Transformation Solutions at WETEX 2017",
-      "excerpt": "Built on the Azure cloud with the latest technologies, such as artificial intelligence (AI), immersive human-machine interaction, cognitive services and bot frameworks, Microsoft marked its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
-      "originalUrl": "https://www.albawaba.com/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa’s-strategic-partne",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/im/IMG-20171023-WA0010.jpg?itok=2CtfW3w2",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/microsoft-showcases-sustainable-digital-transformation-solutions-dewa%E2%80%99s-strategic-partne",
-      "publishedDateTime": "2020-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-24-stethoscopes-electronics-and-artificial-intelligence.md",
-      "title": "Stethoscopes, Electronics, And Artificial Intelligence",
-      "excerpt": "What’s more, since the Hopkins smart stethoscope is a digital instrument, it can serve as input for an artificial intelligence application that automatically analyzes the data for signs of ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "originalUrl": "https://hackaday.com/2019/02/25/stethoscopes-electronics-and-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2019/02/smart-stethoscopes-featured.jpg",
-          "width": 4350,
-          "height": 2900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -2,6 +2,207 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2020-12-02-automakers-unveil-proposals-to-speed-us-self-driving-deployment.md",
+      "title": "Automakers unveil proposals to speed U.S. self-driving deployment",
+      "excerpt": "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in the coming years, according to a document seen by Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
+      "originalUrl": "https://www.reuters.com/article/autos-selfdriving-idUSL1N2II1C8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSL1N2II1C8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2II1C8",
+      "publishedDateTime": "2020-12-02T07:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse.md",
+      "title": "Qualcomm’s Snapdragon 888 is an AI and computer vision powerhouse",
+      "excerpt": "The next-generation flagship mobile chip leans heavily on AI chip advancements to fuel systemic performance gains, especially in imaging.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
+      "originalUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/12/qsd888x.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/",
+      "publishedDateTime": "2020-12-02T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-artificial-intelligence-leaderships-friend-or-foe.md",
+      "title": "Artificial Intelligence: Leadership’s Friend Or Foe?",
+      "excerpt": "Leaders should not see artificial intelligence as a threat to organizational purpose, but rather a support for leaders to have the time and space to engage with aspects of their higher purpose.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
+      "originalUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc514c1c71993c70975025b%2F0x0.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescoachescouncil/2020/12/02/artificial-intelligence-leaderships-friend-or-foe/amp/",
+      "publishedDateTime": "2020-12-02T05:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-12-02-unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru.md",
+      "title": "Unveiled at AWS re:Invent, the new machine learning-powered Amazon DevOps Guru",
+      "excerpt": "Customized recommendations allow developers to detect application issues and improve functionality, according to Amazon Web Services.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "originalUrl": "https://www.techrepublic.com/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/eca284db-40a8-41e0-a604-f1e0413b800c/resize/1200x/f745556c13a6c51b9da4d21d99e674f0/reinvent.jpg",
+          "width": 1200,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "cdnAmpWebUrl": "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/",
+      "publishedDateTime": "2020-12-02T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRepublic",
+        "domain": "techrepublic.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techrepublic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-leveraging-the-power-of-ai-in-telehealth.md",
       "title": "Leveraging The Power Of AI In Telehealth",
       "excerpt": "The main AI use cases in telehealth include information analysis and collaboration, remote patient monitoring, and intelligent diagnostics and assistance.",
@@ -61,7 +262,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -690,7 +891,7 @@
       "originalUrl": "https://www.engadget.com/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 128,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -844,7 +1045,7 @@
       "originalUrl": "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 176,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -992,50 +1193,6 @@
       ]
     },
     {
-      "path": "_news/2020-12-02-cyber-security-cloud-wafcharm-now-available-on-microsoft-azure.md",
-      "title": "Cyber Security Cloud WafCharm now available on Microsoft Azure",
-      "excerpt": "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules.",
-      "sourceUrl": null,
-      "webUrl": "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/",
-      "originalUrl": "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T17:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Help Net Security",
-        "domain": "helpnetsecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2020-12-02-amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud.md",
       "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
       "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
@@ -1085,154 +1242,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues.md",
-      "title": "What’s around the turn in 2021? AWS DeepRacer League announces new divisions, rewards, and community leagues",
-      "excerpt": "AWS DeepRacer allows you to get hands on with machine learning (ML) through a fully autonomous 1/18th scale race car driven by reinforcement learning, a 3D racing simulator on the AWS DeepRacer console, a global racing league, and hundreds of customer-initiated community races. The action is already",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/30/ML-1878-1-1-752x630.jpg",
-          "width": 752,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T16:02:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-no-bugs-in-facial-recognition-technology-says-state-agency.md",
-      "title": "No bugs in facial recognition technology, says state agency",
-      "excerpt": "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the .",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/msid-47529300/47529300.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms",
-      "publishedDateTime": "2020-12-01T15:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies.md",
-      "title": "Artificial Intelligence for Marketing Market – Major Technology Giants in Buzz Again | NVIDIA, Intel, Google, Albert Technologies",
-      "excerpt": "Latest launched research document on Global Artificial Intelligence for Marketing Market study of 150 Pages provides detailed analysis with presentable graphs, charts and tables. The Research Study presents a complete assessment of the Market and highlights future trend,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies-2020-12-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-marketing-market-major-technology-giants-in-buzz-again-nvidia-intel-google-albert-technologies-2020-12-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-01T15:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

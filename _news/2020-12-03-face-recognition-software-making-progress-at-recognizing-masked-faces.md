@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Leverage the Latest in Speech Recognition Software to Stay Competitive"
+    excerpt: "A new generation of technology lets you spend less time on reports and more time on what matters: your clients."
+    publishedDateTime: 2020-12-03T16:52:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/leverage-latest-speech-recognition-software-stay-competitive"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 39
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/Voice-Recognition.png"
+        width: 735
+        height: 389
+        isCached: true
   - title: "Ugandan police accused of using facial recognition system to fuel rights abuses"
     excerpt: "The police in the east African nation of Uganda have been faulted for using a facial recognition system deployed in the country by Chinese technology giant Huawei to track, arrest and torture"
     publishedDateTime: 2020-11-30T20:39:00Z

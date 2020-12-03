@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why robots freak us out, and what it means for the future of AI"
+    excerpt: "Robots and humans have a long way to go before the social divide disappears, but research is giving us insight on how cross the uncanny valley."
+    publishedDateTime: 2020-12-03T16:47:00Z
+    webUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/"
+    ampWebUrl: "https://theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
+    cdnAmpWebUrl: "https://theamericangenius-com.cdn.ampproject.org/c/s/theamericangenius.com/editorials/why-robots-freak-us-out-and-what-it-means-for-the-future-of-ai/amp/"
+    type: article
+    provider:
+      name: The American Genius
+      domain: theamericangenius.com
+    quality: 74
+    images:
+      - url: "https://149369349.v2.pressablecdn.com/wp-content/uploads/2020/11/R2D2.jpg"
+        width: 1000
+        height: 500
+        isCached: true
   - title: "CIO Leadership: Using AI and Automation to Strengthen Enterprise Efficiency and Improve Business Models Will Drive the"
     excerpt: "Discussion at HMG Strategy’s 2020 HMG Live! Florida CIO Ex"
     publishedDateTime: 2020-12-01T00:50:00Z

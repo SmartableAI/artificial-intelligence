@@ -62,6 +62,20 @@ related:
         width: 308
         height: 308
         isCached: true
+  - title: "Police facial recognition: new study calls for greater oversight in NZ"
+    excerpt: "The study calls for a moratorium on automatic live facial recognition tracking of people in public places in New Zealand."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://www.stuff.co.nz/national/crime/300174609/police-facial-recognition-new-study-calls-for-greater-oversight-in-nz"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 39
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/y/p/k/4/6/image.related.StuffLandscapeSixteenByNine.1420x800.4yps7l.png/1606975315437.jpg"
+        width: 1420
+        height: 798
+        isCached: true
   - title: "Behind the Rise of China's Facial-Recognition Giants"
     excerpt: "\"Megvii, one of four highly valued Chinese facial-recognition startups, has filed for an IPO. Most of its revenue comes from surveillance and security"
     publishedDateTime: 2020-12-01T00:06:00Z

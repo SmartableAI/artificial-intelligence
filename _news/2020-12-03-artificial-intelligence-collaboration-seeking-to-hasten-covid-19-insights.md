@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-03T14:23:00Z
 originalUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
 webUrl: "https://www.purdue.edu/newsroom/releases/2020/Q4/artificial-intelligence-collaboration-seeking-to-hasten-covid-19-insights.html"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.purdue.edu/uns/images/2020/hospital-mpcLO.jpg"
@@ -145,6 +146,6 @@ related:
         height: 372
         isCached: true
 
-secured: "XtvGbX32QO1QGPLDiLopd0NFj6vghracLQaDDtNgWVsFBwgPaBfwgT8eUqF7X7dp46qnJm1P3AdWUSQ1K9VBwVv0XQ+K+FD52Kx4x9eqLTozqx6vI4Gn1nxVZy5E5H1ckfWrelcRmGtznIf6FTb9tpsEgJq0Ey3ss/zgEgUr9Mse5s/fNzR9L/gfskgjXD8kX/u+hJ7AOmHK6kNiVeWO3+WEuxYPjNGpoiSIyOt/TcfxGFVsDZK4yLdXYII0+9FYpi0wFGrCkXS03OGsMzAyVu0VDtrtR/7qAsJE3dsHvrVONZ3w5y6UnJxi7zaZoaCireJ8cJC0FngWPPZGz5KE21AB6oOuKQVaM1atxuBDXO8=;FM6BFq/HpJLtTOVHVB56ng=="
+secured: "cPnh9jyNGCMYkXOkk/+2oRzN+IpYqFT3yboKtz6uJCfr/v3p3flu/+iNeyw+Emd7amQsxK9omKKtqOg4rpRm98WGJjuNwtF/9hJBUJlg2Lm5q/T8lE9K+ohozwOjnYRB91/RxyhUmUrNLtfLqZnt1We7pu9EhAVDa2WAEMpkQ5ugknJd7rT2e9QHWcyf8r20v9g1IE1uu0zninzf/BXepHvu+26kdZ7/bDblLbeTp+mJVQl1MlkEL0YQ7vhzQVrvE3TopwmZ1zUH95gXlg+19/CzYuq4o8aY7SELSou5JiHS1HBMe7RfsBV+3w/7UVs1MSfG5Gctgopja6X+mvFkS13Q6Dtuu9EZmq3i+sPKf3cJB8rSbDPXf0tmDU03qlRg9Oemcb97vKiGG72IRjLrii3WqDoDmaRFG2GiIFq+Sa3FC2P+ZIHS4wRG2UB8O4mZeygsIMoaNe2hIsK5X+2SivIQIAy9E1qsNmhNFKfB9CH9idG6iI6LYkAxBXOlipKkIoZfgtbIq+9Qq9DpD6gJqg==;XaQNhM6Pb1ixsNZuPoxJog=="
 ---
 

@@ -2,6 +2,178 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2020-11-18-graphene-based-memristor-for-artificial-neural-networks.md",
+      "title": "Graphene-Based Memristor for Artificial Neural Networks",
+      "excerpt": "A graphene-based memory resistor (memristor) that can exist in many different states has been designed and demonstrated by Thomas Schranghamer, Aaryan Oberoi and Saptarshi Das at Pennsylvania State University in the US. Using simulations and experiments ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/2020/11/17/graphene-based_memristor_for_artificial_neural_networks_649961.html?_escaped_fragment_&_escaped_fragment_#!",
+      "originalUrl": "https://www.realclearscience.com/2020/11/17/graphene-based_memristor_for_artificial_neural_networks_649961.html?_escaped_fragment_&_escaped_fragment_#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/52/527293_6_.png",
+          "width": 1440,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-canaan-rises-along-with-bitcoin-as-ai-chip-development-continues.md",
+      "title": "Canaan Rises Along With Bitcoin As AI Chip Development Continues",
+      "excerpt": "Huangzhou, China-based Canaan was founded in 2013 with an initial focus on developing ASIC applications for Bitcoin mining under the brand Avalon Miner and has since expanded its portfolio with the Kendryte K210 chip.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "originalUrl": "https://www.thestreet.com/ipo/news/canaan-bitcoin-mining-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cq_auto:good%2Cw_620/MTc2ODg1OTUyODI2ODQ1MTI2/canrev.png",
+          "width": 620,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp-ipo/ipo/news/canaan-bitcoin-mining-ai",
+      "publishedDateTime": "2020-11-17T10:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-artificial-intelligence-technology-solutions-receives-rosa-order-from-large-construction-company.md",
+      "title": "Artificial Intelligence Technology Solutions Receives ROSA Order from Large Construction Company",
+      "excerpt": "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly-owned subsidiary Robotic Assistance Devices (RAD) ha",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201117005699/en/Artificial-Intelligence-Technology-Solutions-Receives-ROSA-Order-from-Large-Construction-Company",
+      "originalUrl": "https://www.businesswire.com/news/home/20201117005699/en/Artificial-Intelligence-Technology-Solutions-Receives-ROSA-Order-from-Large-Construction-Company",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201117005699/en/790367/23/RAD_Logo_New_Landscape.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-18-medrhythms-roux-institute-partner-in-the-fields-of-neuroscience-artificial-intelligence.md",
+      "title": "MedRhythms, Roux Institute Partner in the Fields of Neuroscience, Artificial Intelligence",
+      "excerpt": "Partnership between MedRhythms and Northeastern University's Roux Institute generates research and co-op opportunities in Portland.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201117005199/en/MedRhythms-Roux-Institute-Partner-in-the-Fields-of-Neuroscience-Artificial-Intelligence",
+      "originalUrl": "https://www.businesswire.com/news/home/20201117005199/en/MedRhythms-Roux-Institute-Partner-in-the-Fields-of-Neuroscience-Artificial-Intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201117005199/en/839141/23/MR_Logo_Official.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-17T10:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-artificial-intelligence-ai-market-overall-study-report-with-top-key-players.md",
       "title": "Artificial Intelligence (AI) Market Overall Study Report with Top Key Players",
       "excerpt": "Global Artificial Intelligence (AI) Market valued approximately USD 16 billion in 2016 is anticipated to grow with",
@@ -976,176 +1148,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-take-the-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputing-fast-track.md",
-      "title": "Take the A100 Train: HPC Centers Worldwide Jump Aboard NVIDIA AI Supercomputing Fast Track",
-      "excerpt": "Supercomputing centers worldwide are onboarding NVIDIA Ampere GPU architecture to serve the growing demands of heftier AI models for everything from drug discovery to energy research. Joining this movement,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/take-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputi",
-      "originalUrl": "https://www.cadalyst.com/%5Blevel-1-with-primary-path%5D/take-a100-train-hpc-centers-worldwide-jump-aboard-nvidia-ai-supercomputi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cadalyst",
-        "domain": "cadalyst.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-the-ai-invasion-breaking-in-from-the-customer-contact-beachhead.md",
-      "title": "The AI Invasion: Breaking In From The Customer Contact Beachhead",
-      "excerpt": "The Covid-19 pandemic has accelerated many of the digital CX and engagement trends that were already in motion, highlighting why operational agility is vital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb29fb70f114e9e30f73339%2F0x0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/17/the-ai-invasion-breaking-in-from-the-customer-contact-beachhead/amp/",
-      "publishedDateTime": "2020-11-17T04:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-hopsworks-feature-store-now-available-for-microsoft-azure.md",
-      "title": "Hopsworks Feature Store Now Available for Microsoft Azure",
-      "excerpt": "Logical Clocks, the data company behind the world’s first Enterprise Feature Store for Machine Learning, today announced full support for Microsoft Azure on its cloud managed data platform, Hopsworks.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/hopsworks-feature-store-now-available-for-microsoft-azure-1029810276",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/Hopsworks-Feature-Store-Now-Available-for-Microsoft-Azure-1029810276",
-      "publishedDateTime": "2020-11-17T04:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-17-global-artificial-intelligence-in-medicine-market-to-reach-1500000-million-by-2026-facts-factors.md",
-      "title": "Global Artificial Intelligence In Medicine Market to Reach 15,000.00 Million by 2026 – Facts & Factors",
-      "excerpt": "According to the research study, the global Artificial Intelligence in Medicine Market was estimated at USD 800 million in 2019 and is expected to reach USD 15,000 million by 2026. The global ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-in-medicine-market-to-reach-15-000-00-million-by-2026-facts-factors-1029810253",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/global-artificial-intelligence-in-medicine-market-to-reach-15-000-00-million-by-2026-facts-factors-1029810253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-17T04:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

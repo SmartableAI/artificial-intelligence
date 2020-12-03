@@ -19,62 +19,60 @@ topics:
   - AI
 
 related:
-  - title: "AWS launches Amazon Connect real-time analytics, customer profiles, machine learning tools"
-    excerpt: "Amazon is stepping up its contact center services with Amazon Connect Wisdom, Customer Profiles, Real-Time Contact Lens, Tasks and Voice ID."
-    publishedDateTime: 2020-12-02T02:42:00Z
-    webUrl: "https://www.zdnet.com/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-launches-amazon-connect-real-time-analytics-customer-profiles-machine-learning-tools/"
+  - title: "Microsoft unveils Azure Purview for data governance, Azure Synapse Analytics hits general availability"
+    excerpt: "Microsoft's Azure Purview, a new data governance solution, is in public preview. Azure Synapse Analytics is generally available."
+    publishedDateTime: 2020-12-03T16:03:00Z
+    webUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/"
+    ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Cyber Security Cloud WafCharm now available on Microsoft Azure"
+    excerpt: "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules."
+    publishedDateTime: 2020-12-02T01:18:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/02/cyber-security-cloud-wafcharm/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 86
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/11/02114007/help_net_security.jpg"
+        width: 1200
+        height: 627
+        isCached: true
+  - title: "Microsoft introduces Azure Purview data catalog; announces GA of Synapse Analytics"
+    excerpt: "The long-awaited follow-up to Azure Data Catalog is here, featuring integration with both Power BI and Azure Synapse Analytics. And with the GA of Synapse's data lake features also being announced, data governance on the Azure cloud comes just in time."
+    publishedDateTime: 2020-12-03T16:04:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-introduces-azure-purview-data-catalog-announces-ga-of-synapse-analytics/"
     type: article
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 96
-    images:
-      - url: "https://zdnet3.cbsistatic.com/hub/i/2020/12/01/11848fe0-d6e3-4c8c-a521-fc0a5822f08e/aws-connect-wisdom.png"
-        width: 797
-        height: 435
-        isCached: true
-  - title: "Real-time anomaly detection for Amazon Connect call quality using Amazon ES"
-    excerpt: "If your contact center is serving calls over the internet, network metrics like packet loss, jitter, and round-trip time are key to understanding call quality. In the post Easily monitor call quality with Amazon Connect, we introduced a solution that captures real-time metrics from the Amazon Connect"
-    publishedDateTime: 2020-11-30T20:49:53Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/real-time-anomaly-detection-for-amazon-connect-call-quality-using-amazon-es/"
+    quality: 78
+  - title: "Virtual care platform Andor Health raises Series A from Microsoft"
+    excerpt: "The company, which provides an AI virtual assistant that delivers data from electronic health record (EHR) in virtual health sessions, announced earlier this week that it raised an undisclosed amount of Series A funding from M12,"
+    publishedDateTime: 2020-12-02T19:56:00Z
+    webUrl: "https://vator.tv/news/2020-12-02-virtual-care-platform-andor-health-raises-series-a-from-microsoft"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 72
+      name: Vator
+      domain: vator.tv
+    quality: 56
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2020/11/25/1-AnomalyhistoryChart.jpg"
-        width: 800
-        height: 302
-        isCached: true
-  - title: "Can Analytics Save Healthcare?"
-    excerpt: "Of even greater significance is the recent move of firms to move past predictive analytics – important though that is – to give a sense of optimal outcomes predictability. Here, the analytics moves beyond “what am I doing?"
-    publishedDateTime: 2020-12-01T20:02:00Z
-    webUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01"
-    ampWebUrl: "https://www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/can-analytics-save-healthcare-2020-12-01?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Machine learning: The new language of data and analytics"
-    excerpt: "Machine learning is all the rage in today’s analytical market. According to Kenneth Research, the value of machine learning is growing sharply and is expected to reach over $23B by 2023 – an annual growth rate of 43 percent between 2018-2023."
-    publishedDateTime: 2020-12-02T09:00:00Z
-    webUrl: "https://www.itproportal.com/features/machine-learning-the-new-language-of-data-and-analytics/"
-    ampWebUrl: "https://www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
-    cdnAmpWebUrl: "https://www-itproportal-com.cdn.ampproject.org/c/s/www.itproportal.com/amp/features/machine-learning-the-new-language-of-data-and-analytics/"
-    type: article
-    provider:
-      name: IT Pro Portal
-      domain: itproportal.com
-    quality: 61
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/jgXYNK8U4o4itGBBMRtCKa-1200-80.jpg"
-        width: 800
-        height: 450
+      - url: "https://mma.prnewswire.com/media/1343866/Andor_watch.jpg?p=publish&amp;w=950"
+        width: 1920
+        height: 1201
         isCached: true
   - title: "Cognitive Analytics Market taking to witness high growth in near future"
     excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
@@ -90,48 +88,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "IoT Devices Market Size Will Witness A Substantial Growth Via AI and Big Data Analytics Up To 2027"
-    excerpt: "The report covers the forecast and analysis of the IoT Devices market on a global and regional level. The study provides historical data from 2015 to 2018 along with a forecast from 2019 to 2027 based on revenue (USD Million)."
-    publishedDateTime: 2020-11-29T20:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/iot-devices-market-size-will-witness-a-substantial-growth-via-ai-and-big-data-analytics-up-to-2027-2020-11-29"
+  - title: "Microsoft launches Azure analytics and data services"
+    excerpt: "Microsoft has officially launched its Azure Synapse Analytics service, as well as its data governance offering Azure Purview, in a move designed to break down and move past silos in businesses.​"
+    publishedDateTime: 2020-12-03T16:08:00Z
+    webUrl: "https://www.arnnet.com.au/article/684941/microsoft-launches-azure-analytics-data-services/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
+      name: ARN
+      domain: arnnet.com.au
+    quality: 54
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/800x800/dimg/microsoft_azure_dreamstime.jpg"
+        width: 800
+        height: 500
         isCached: true
-  - title: "AWS Announces Five New Capabilities for Amazon Connect, Helping Customer Service Representatives Offer More Personalized, Efficient, and Effective Exp"
-    excerpt: "(AWS), an Amazon.com company (NASDAQ: AMZN), announced five new capabilities for AWS’s rapidly-growing contact center service, Amazon Connect, that significantly improve contact center agent productivity and end-user customer experiences."
-    publishedDateTime: 2020-12-01T19:00:00Z
-    webUrl: "https://us.acrofan.com/detail.php?number=385307"
+  - title: "NetMotion Unveils SASE Platform Leveraging Microsoft Azure"
+    excerpt: "NetMotion’s SASE solution is built with a cloud-native philosophy leveraging Microsoft Azure, offering integrated transport and web proxies, distributed firewalls, network access control (NAC), zero trust network access (ZTNA) or software-defined perimeters (SDP),"
+    publishedDateTime: 2020-12-02T00:37:00Z
+    webUrl: "https://prwire.com.au/pr/93589/netmotion-unveils-sase-platform-leveraging-microsoft-azure"
     type: article
     provider:
-      name: 아크로팬
-      domain: acrofan.com
-    quality: 0
-    images:
-      - url: "https://us.acrofan.com/news_images/2020/02/20/mark/20200220712307.jpg"
-        width: 580
-        height: 339
-        isCached: true
-  - title: "EdisonLearning and FocalPointK12 Announce Partnership to Provide Comprehensive Learning and Analytics Solution for Grades 6-12"
-    excerpt: "EdisonLearning and FocalPointK12 today announced a partnership to provide a complete solution for grades 6-12, delivering more than 170 middle and high school courses along with nearly 60 embedded"
-    publishedDateTime: 2020-12-01T19:36:00Z
-    webUrl: "https://www.eschoolnews.com/2020/12/01/edisonlearning-and-focalpointk12-announce-partnership-to-provide-comprehensive-learning-and-analytics-solution-for-grades-6-12/"
-    type: article
-    provider:
-      name: eSchool News
-      domain: eschoolnews.com
-    quality: 0
-    images:
-      - url: "https://www.eschoolnews.com/files/2020/11/online-stem-education-covid-slide.jpg"
-        width: 500
-        height: 400
-        isCached: true
+      name: PRWire
+      domain: prwire.com.au
+    quality: 34
 
 secured: "oZcX7vkWyB5KGZMIIG/E7NsqaB3aXphoNIrLnpxr2aAFy2rZoGgyK1dvacGrHVGxPbabadH545+eO6KTsXo8kDJfAycj6orR32AB74c5zfeG7Qp2NTetGpxswtT9QHiWqCCCAKyDP9Ox/TMDuwLvoHJsR42qcBOGH0Gxc+edRGtwiS+rp/m/4fDsTD7hdhkGocqzXTWo9fxtSwRZRetMjvcsTy44pik6gble+nBaCk013GI9sP1Jw33dlz1F79ZGlDDCAV31LYok/vxQyWu3odBuhWAgJAoHVc7gF9IvlBOhgXPLsbtankRQg2dzlDmvKC55ggfFS+bQFCHwkMN/unrroPsrIjTEtskd+9gGXoo=;l4GNBAbFdMXMOFuLFvQUhw=="
 ---

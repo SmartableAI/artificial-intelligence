@@ -110,7 +110,7 @@ related:
     provider:
       name: Purdue University
       domain: purdue.edu
-    quality: 36
+    quality: 38
     images:
       - url: "https://www.purdue.edu/uns/images/2020/hospital-mpcLO.jpg"
         width: 800

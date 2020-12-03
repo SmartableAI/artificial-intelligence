@@ -56,6 +56,20 @@ related:
         width: 1000
         height: 707
         isCached: true
+  - title: "Leverage the Latest in Speech Recognition Software to Stay Competitive"
+    excerpt: "A new generation of technology lets you spend less time on reports and more time on what matters: your clients."
+    publishedDateTime: 2020-12-03T16:52:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/leverage-latest-speech-recognition-software-stay-competitive"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 39
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/Voice-Recognition.png"
+        width: 735
+        height: 389
+        isCached: true
   - title: "Madison Common Council to consider banning facial recognition software in most cases"
     excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
     publishedDateTime: 2020-11-30T16:17:00Z

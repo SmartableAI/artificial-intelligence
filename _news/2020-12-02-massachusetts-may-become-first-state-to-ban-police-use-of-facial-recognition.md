@@ -95,6 +95,22 @@ related:
         width: 800
         height: 435
         isCached: true
+  - title: "Massachusetts Bill Puts Limit on Facial Scan Technology"
+    excerpt: "Police agencies will be sharply limited in using facial recognition technology to solve crimes, detect threats or find suspects under a sweeping police reform proposal approved by the state Legislature."
+    publishedDateTime: 2020-12-03T16:24:00Z
+    webUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html"
+    ampWebUrl: "https://www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/Massachusetts-Bill-Puts-Limit-On-Facial-Scan-Technology.html?AMP"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://media2.govtech.com/images/shutterstock_349338683.jpg"
+        width: 983
+        height: 630
+        isCached: true
 
 secured: "lfMaGQUnTZz7/dF83mf+/S/WT60X3LTVYI+1YqGHcdd/2de8NMkwhb9gd/znsMkcSzwGcpXS2twl3e7bwbb3OvKyNkRWRt7pAH9ZgAcRb1EIn6Q8oOhvF0xCRV+crJOWQGOIW3U2uKnHVxECOOrXbBahtHg/scGvIY/F2ofV7JUVG1oxE/9v0bIzPv5W4yOGKDMG+gTcJjXvC56XhL3bsk2D/a1fHbbG9PRGkRxKqq/UnLTl2vdT8Iq3Dv3l7qLUYQeHgAMc2gLz0iPwF59Aa0AudQvPDS9U+QGbmEVDszw+on0C/FKDwMx+d7G+63J8DQiZG7ABSZVACfgevvrfM3+s17yFBH0E2FDtXdvrzt8rX7Bqj6JRmUQAK3OCqAsnifaVuXhCMs24dAsoJ6KKiV9Lbqq68znDpbrz4JY1SqxSPBjErMPfggxK/7JNRBLXiHz7ePnqEYPnD5PlWk1pGy/3YsYNKYb1TwSE07ahwW16fexBqL0J86yU7s8zBkYrSMUMMOhbUMMaTcmnlNtgnQ==;z6Xbv3bPzNjyJLa2JALdYA=="
 ---
