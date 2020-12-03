@@ -38,6 +38,6 @@ related:
       domain: barrons.com
     quality: 52
 
-secured: "aN2Fobkp3aDuawnKAivZtE+uqVikiFZ1gzylnbQQrSbeakCXY0QTMslmMUgEwGfqYW/EkMZT5Xa3zDuyPHhLEZdmVF6nTXd+9cFbFg1Muv/1Q/p7AfsyGmRwYvX2oefmJH8rKIatmF/Ncge/Pofa2hp9yLtEaSlL235I1vMc2SAGEIfGzUvvZvsAAwN2wVWp3R4lmxN1yfvmwanAnMRF9Vhh/vDdnkqJxIspGtrZu2XrZcWhAd0uxVGAWoBQRaITBwiOim698oczu5R48/oVYHaGU8Z402ICEvbjV1MCBaBApu+RzBkKVkN3V+wAkU+F/2UJKiAC78Po1O0y/0nK0gygcGX/aHBCxiQHP31rjSs=;ecMgvQd7KtjHaZueGiOO6A=="
+secured: "FPG0hHRo7I2R7+sdEQ6JU6o/UKyAeKKSVwp2YlyiIf9v90u5MYwpFPfK1zPEyjViNNsmlEjQ9Avp0WSZvKhkdr24UdVja4a75/RPTHAzzb4P0RQN6zgcqlJeDh9thXWajUTYxukkQN0UN8RionkHegYEo/+BuFzL1MebmdBq+2RO8Z/BJ3gjE+MsLRlUAd8dY4YRhTRkGHyjNMRd/GruKnZMfjtr6VO8+igQGg+5+qJ/I9773bZyZy4tkipD/su0xxJ7ugDbBvWsp8/Lwn3WCeUjYnlePLtDK7Muql24VXlfJXvWtc2dq4g0sMp7D8D0LjTJGwO5k/im55szkU4QSapP5n4SZV3qFvFlyFIAblM=;7rS2OTdo8U2aA1/RALKVfQ=="
 ---
 
