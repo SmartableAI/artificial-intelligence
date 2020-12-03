@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Watch Tesla’s Full Self-Driving Beta detect and avoid a deer crossing the road at night"
+    excerpt: "Driving Beta system was caught on video detecting and avoiding a deer crossing the road at night. What the video below."
+    publishedDateTime: 2020-12-03T22:33:00Z
+    webUrl: "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/"
+    ampWebUrl: "https://electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/12/03/tesla-full-self-driving-beta-detect-avoid-deer-video/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 81
+    images:
+      - url: "https://i1.wp.com/electrek.co/wp-content/uploads/sites/3/2020/12/Tesla-Full-Self-driving-beta-avoid-deer.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
     excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
     publishedDateTime: 2020-11-30T17:54:00Z
@@ -89,6 +105,22 @@ related:
       - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_0.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Tesla's Full Self-Driving Beta Dodges Deer On Dark Dirt Road"
+    excerpt: "A video from a Tesla owner shows Tesla's FSD Beta software detecting a deer on a dark dirt road. The car applies the brakes and plans a path to drive around the deer. Later in the video, two more deer are detected,"
+    publishedDateTime: 2020-12-03T21:38:00Z
+    webUrl: "https://www.benzinga.com/tech/20/12/18640317/teslas-full-self-driving-beta-dodges-deer-on-dark-dirt-road"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18640317"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18640317"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
+    images:
+      - url: "https://www.benzinga.com/files/images/story/2012/autopilot_1.jpg"
+        width: 2880
+        height: 1400
         isCached: true
   - title: "Tesla expands full self driving trial"
     excerpt: "Tesla will expand trials of its full self driving (FSD) software allowing autonomous driving in about two, according to CEO Elon Musk. Tesla on its home page says all new Tesla cars “come standard with advanced hardware capable of providing Autopilot features today,"

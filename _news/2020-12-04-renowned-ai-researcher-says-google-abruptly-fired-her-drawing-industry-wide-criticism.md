@@ -107,6 +107,38 @@ related:
         width: 5760
         height: 3235
         isCached: true
+  - title: "A leading AI ethics researcher says she’s been fired from Google"
+    excerpt: "On December 2, the AI research community was shocked to learn that Timnit Gebru had been fired from her post at Google. Gebru, one of the leading voices in responsible AI research"
+    publishedDateTime: 2020-12-03T22:45:00Z
+    webUrl: "https://www.technologyreview.com/2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/"
+    ampWebUrl: "https://www.technologyreview.com/2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2020/12/03/1013065/google-ai-ethics-lead-timnit-gebru-fired/amp/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 74
+    images:
+      - url: "https://wp.technologyreview.com/wp-content/uploads/2020/12/GettyImages-1028811892-e1607033595352.jpg?w=3000"
+        width: 3000
+        height: 1687
+        isCached: true
+  - title: "Renowned AI researcher says Google abruptly fired her, spurring industrywide criticism of the company"
+    excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
+    publishedDateTime: 2020-12-03T22:49:00Z
+    webUrl: "https://www.cnbc.com/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2020/12/03/ai-researcher-timnit-guru-says-shes-been-fired-from-google.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106805909-1607018476968-timnit-gebru.jpg?v=1607019660"
+        width: 5760
+        height: 3840
+        isCached: true
   - title: "Google’s star AI ethics researcher, a Black woman, says she was fired for a critical email"
     excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
     publishedDateTime: 2020-12-03T20:38:00Z
@@ -138,6 +170,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/080966e/2147483647/strip/true/crop/2304x1505+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F72%2F53b243554314ab301dc53a0b90dc%2F3064066-fi-google-walkout02-jlc.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Google’s star AI ethics researcher, one of a few Black women in the field, says she was fired for a critical email"
+    excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
+    publishedDateTime: 2020-12-03T21:18:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OA5YUVRVUYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "One of Google's leading AI researchers says she's been fired in retaliation for an email to other employees"
     excerpt: "Gebru, a technical co-lead of Google's ethical AI team, says she was fired by the company on Wednesday."

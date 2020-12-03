@@ -1,48 +1,30 @@
 ---
 category: news
 title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
-excerpt: "PRNewswire/ --Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace, giving Amazon Web Services (AWS) and Blue Prism customers another avenue for automation in the cloud."
-publishedDateTime: 2020-12-02T09:11:00Z
-originalUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111"
-webUrl: "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111"
+excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism's cloud-first ..."
+publishedDateTime: 2020-12-02T14:03:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51401797-blue-prism-intelligent-automation-now-available-in-aws-marketplace-008.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2020-12/51401797-blue-prism-intelligent-automation-now-available-in-aws-marketplace-008.htm"
 type: article
-quality: 84
-heat: 124
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1346299/Blue_Prism_scaleatspeed_aws.jpg"
+    width: 400
+    height: 209
     isCached: true
 
 related:
-  - title: "AWS and BlackBerry Join Forces to Accelerate Innovation with New Intelligent Vehicle Data Platform"
-    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), and BlackBerry Limited (NYSE: BB, TSX: BB), a worldwide leader"
-    publishedDateTime: 2020-12-01T15:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aws-and-blackberry-join-forces-to-accelerate-innovation-with-new-intelligent-vehicle-data-platform-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Appian Connected Claims Solution Available in AWS Marketplace"
     excerpt: "PRNewswire/ -- Appian (NASDAQ: APPN) announced that Appian Connected Claims is now available in AWS Marketplace. Appian Connected Claims is designed to"
     publishedDateTime: 2020-11-30T13:00:00Z
@@ -72,15 +54,15 @@ related:
         height: 450
         isCached: true
   - title: "Blue Prism Intelligent Automation Now Available in AWS Marketplace"
-    excerpt: "New Offerings Give Organisations Immediate Access to Intelligent Digital Workers and AWS Machine Learning Services, Expands Blue Prism’s Relationship with AWS Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace,"
-    publishedDateTime: 2020-12-02T20:55:00Z
-    webUrl: "https://www.arnnet.com.au/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
+    excerpt: "Amazon Rekognition, and Amazon Comprehend machine learning capabilities. This expanded collaboration builds on our existing relationship with AWS and underscores Blue Prism’s cloud-first intelligent automation strategy. “This AWS Marketplace offering ..."
+    publishedDateTime: 2020-12-02T20:58:00Z
+    webUrl: "https://www.reseller.co.nz/mediareleases/136491/blue-prism-intelligent-automation-now-available/"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
+      name: Reseller News
+      domain: reseller.co.nz
     quality: 34
 
-secured: "PMUMGWEJhxk230gnwPPbEJ4mkW22Btgg49dcLi13nEy+azAkIyNLosPzSgKAHq24C7WkYpzg7rVOn3RldJOB+a/tjyqyQT53pe5mlRy15Ku6z0Zq6XD8AFfDsiJffzqfXsKFrz+O8R0cnX8MczYxGW752Y7Jspa3GyCEg8vyCFP41hBDOovZ84sVuHDlqTQq1OLNYeWjnoy3c/yqnSfyphvj6qFQGuWQHgSQ7PEsIC7SXArTF3UQk9jkJfohcgy8YFHyAyjYObtwbLbTnFlY+HfQizkOoiif8eBTSWpT0cA1e++WRMAvWlQ+79rT/HdEttwYwGtHJjAGOnMBUsRCgb6M0ns5+f4Cy6OxqaoJR5g=;b8ADCVBzaOT28ihGtkWfOw=="
+secured: "R57vkbx69HnwaLt9DnXYtkLeggAd+15Evg8T3fsKCde6Tv2voVc/c7xnzc4BYC1H/paHb6swsSEV5z9Ge85DWLOvr3DEKdbTkfmYrEOOk21NlPADo4Nk1ceBc1ZbgeiOFd2KZ80Gl6WHo4339ZZvtUEHPIjHhs8S1HOq3hBZUsGDFkUVXsfYz6UIAQsaN/He6xhagru6FAmaLXxjAC+IBtpBnS1N71eFWlLCEKgo5Knj7JY1RCTVQ434wDeV+kaNQxk/nHhcxyCYBeOm+xjJg3ud6wVkSc6YMbOk2RqEBq/QJivO9Z052ajsqN6qD4EDRPXR1XM9FRrvoM3Tzr8piMAb/Ej3G8Cl0b7af7NM2BU=;XSZC5cdqm/EwHHHEXI0M5Q=="
 ---
 

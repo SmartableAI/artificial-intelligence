@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-th
 ampWebUrl: "https://www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2020/12/03/nvidia-offers-the-ultimate-ai-learning-tool-with-jetson-nano-2gb/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc931ef64014f197dce3649%2F0x0.jpg"
@@ -45,6 +46,6 @@ related:
         height: 800
         isCached: true
 
-secured: "jJoPXz1O1MXsrRCw7Hht95zxDCk4jRs/X/ztLbKWnUVh+YgB1ThYbO6CzoYXwah7HAJbOTRe7c6/3utWN0jpgHrPlnD8ReiUp3WjO+s+EcsHyeEJW3WvvMKmf0YdpzillwAG9556CK8riDwuvflOobXCoCxZBwS7r/+XBfZQLOa5GI9E+vTvP+0TB4TjW0tdi31wVDpqcmk1oZO1/+KoUwaXmZliTSywswUa56dK5nv8gHI7a4RzF7JhBh/ywANvhBG+1iC745Id3xYH2mbf9fNj4q/Z52pF5NaEyaqO2RFXsA/65e+IKiD0xlhJq8vuPow3q7sJppgWr5W4pIwgIApnhjH+EcSNPgtfAUiAG9I=;b6cC2+qS03OmebWK3MLIAQ=="
+secured: "6xsk0hmI1tv5dz6ey7jS8okqCqkM4PPY3Eh8P8JY/T9w7osOrc3fpR4pFk1IIKxJ6LSYe3Q2ioFHHLdhMto7HEv5sEdLT9UYz5TlreCHZ0nIv1d5n2dfuxYJ2nT3qlh57VeHLRoZFdCBPkdotf1qgNDDhDPmcLBMhD1rBM0MzARMok8qZ9C3j/6p9Qh+ZoOTISmSE21+S08+FQ0NUvO3jFBZd2hfJ2CnoU/yDkpJ+5oEC2xHwjKW3YdqpA3xGZ8mNfkxdgdwpCvy25TJYFN57aLtcXWqP9BzVMMm7uGbtcOIZdT+4d7Nn7oAvK/DoKdKbTsMTgQ66Bmi+wTdRHTBr07rkpPR8ZuA9RuMVOAJUsTQir/IrS9E6d2wGWCG0ooLXbxSMSBUcbMnC6I2GhgP+4UZG3Dqt67P9XwXBm/+LvMMTyJ+1+tuaVJp1PZ6PAfJpKRuaHHMwXJWUl1M8R4EKS8Hk+MP6V05pmdqVYs9fLk/QzQC7eyTCeWlQSUCLWzayBBME3MMNsnPxcDkl1EqVg==;71af6DWopzOehXBXfVoqog=="
 ---
 

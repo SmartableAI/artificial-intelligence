@@ -67,6 +67,17 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 78
+  - title: "Alinta Energy uses Azure Synapse Analytics to power data-driven decisions"
+    excerpt: "It's using Microsoft Azure Synapse Analytics to bring together enterprise data warehousing and big data analytics."
+    publishedDateTime: 2020-12-03T21:13:00Z
+    webUrl: "https://www.zdnet.com/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/alinta-energy-uses-azure-synapse-analytics-to-power-data-driven-decisions/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 68
   - title: "Cognitive Analytics Market taking to witness high growth in near future"
     excerpt: "In its latest report on 'Cognitive Analytics Market', Market Study Report, LLC, provides a concise analysis on"
     publishedDateTime: 2020-11-30T20:22:00Z

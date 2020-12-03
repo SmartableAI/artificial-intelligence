@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Trump Signing Order on Principles for U.S. Government AI Use"
+title: "Trump signing order on principles for U.S. government AI use"
 excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
-publishedDateTime: 2020-12-03T20:30:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use"
-webUrl: "https://www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use"
-ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use?context=amp"
+publishedDateTime: 2020-12-03T21:10:00Z
+originalUrl: "https://www.reuters.com/article/us-trump-ai/trump-signing-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+webUrl: "https://www.reuters.com/article/us-trump-ai/trump-signing-order-on-principles-for-us-government-ai-use-idUSKBN28D357"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28D357"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28D357"
 type: article
-quality: 67
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20201203&t=2&i=1543376545&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB21RH"
+    width: 818
+    height: 545
+    isCached: true
 
 related:
   - title: "Preparing Leaders For The Artificial Intelligence Age"
@@ -119,6 +125,6 @@ related:
       domain: multibriefs.com
     quality: 17
 
-secured: "iMeLPSw2sMSP2zj+VmAWF60QqncOr0bXf29A16G0g+4T8GC1ISvuVVyUr3D8HIoCSlUXGffYkXYq+iZLKW0adH4kXxMQqdZam3dgycTgi8OU1YSQKX5CJ+tvtA/aCe+7j6Str+TNzPdjq0lJ2bBHS73XVNyfZEYJk+K2PX28vfSi3XkHpR30QCHGae08o6NXclEbyh5/8GuCwGbZLsfbAr4KlkDFyDbZOqzTAdK5qjwYexg2C3im/bjqy1OR2p+7z2I6Syc0H1J2xih1j6mR8u3MJ11EBiPSuAAAs2TXhCLMSTxvG6oi+d8QY2MYCD3wYe+K1m6NUrtsvRI1cBIurU/rWQKOcuY52SxWo23Hk62BPpkuLUxHa0z/kLaCiiFnV2b/kn2pcZrtXcP+bnsut4PhEC+hZiXl8A2qsjjqOLgQg4BQHkZj1oh18/stzP6YnmAyDNF6pVSQ8NzW0JX5ZTAAZvk4xGOmZJc07v51BdnGOdl3CBHxqgXMjLOVUDyHrzqYLYsQUITkMX6yVlMREg==;Xk6Zg+eCPLiz0M8Npi24NQ=="
+secured: "n14uU2GFbt3TU/FLDwof/avayzsXDgMv18vWFhaGuJ4rrUivDpv4sJtaGiUlU/ImHA8VF7zhheQnpB3g4oo2lt+IICiucCD2aLpZ0+22MBBiEjxZkx/Zf5uWmx/Qp9uWFIk/DzKQppxVL8el7KTxm6kGWsJJBLDBVpPhSemmV0jPsJxFw8YBST2mXaQpt9BtfBv40dbPMsBHi9hg78Cp9B5h5sO/B5vXdvO73SSvt7toOzI43qoIYVuJPnzccvni1iCO9stLjM/ZSikQndxx1e0yrss9ymPEj1WLamMOGulDPlDDvaa2ZSZFO4Esg8NRuV/4bBeH7RWCGIpsa03L1ZCkjgK1PTTiHauFPsl4Gkg=;Cqq2/G36ntZN1xfEx3WVYQ=="
 ---
 

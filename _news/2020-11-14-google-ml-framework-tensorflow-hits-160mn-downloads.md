@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Google ML framework TensorFlow hits 160mn downloads"
-excerpt: "The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads. Five years ago, Google open ..."
-publishedDateTime: 2020-11-14T10:26:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20201114/3658142.html"
+excerpt: "New Delhi, Nov 14 (IANS) The popular machine learning framework from Google called TensorFlow has become the most popular machine learning library in the world, with over 160 million downloads."
+publishedDateTime: 2020-11-14T10:08:00Z
+originalUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms"
+webUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/articleshow/79219678.cms"
+ampWebUrl: "https://www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms"
+cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/google-ml-framework-tensorflow-hits-160mn-downloads/amp_articleshow/79219678.cms"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Business Insider India
+  domain: businessinsider.in
 
 topics:
+  - TensorFlow
   - Google AI
   - AI
   - Machine Learning
-  - TensorFlow
 
-secured: "/5cC1e1xiIB2px/A9NWnmpJx0F0KOLhBHh8o43Pf0ol2LttTuVUo3ZRcOVdctaTkSO8VFV+htkrYSGu9Q/5fiDRJfbQCBHGrhxZCXQ7Fn9QaVNphB13IVebMZ2fVl0dhFjVXGGqiudO7ebq0PwpcXRPBPLDeGtZDxPk4vj85NP+65SFjBqEc2Thn0OKXkxJFhNAbfc7SBgDs3AcqjCwz4KhjEzKGkAU6SIH1RIvkzE1/dA276h46JueVm/1c+KOjbHvsmy48CJq1AL0fj+TwIbGSz/8ARDEHMM06h0G6RUg7L2DF/01kMHAQMkT2NBtr8GwJntaOUg3Tf9pS9WzPRMs0akPX0YULRJq3DWRkWI8=;cn/+7ou/QNdFf90mqHausg=="
+images:
+  - url: "https://www.businessinsider.in/thumb/72107402.cms?height=275&width=412"
+    width: 412
+    height: 275
+    isCached: true
+
+secured: "vca5uhpACR0Oj3xKLHPV3LOFL2/Du6JqVlUpdSO0gsdcKMdazrJMvI/DXk/1QtehCkFPSa7Fw+ASy0akXhdjG2GNV5wP74mmQHTeRIDqmidmkSa3E9Ef54b+Xg2bf3nESzgRFnvtK7JzSPpq6F2oCrRwZiKn8nUj2hx13oRdqMfNir0k/XBawE3BoT5SWy1opO4Z8tnXDgArz2dYFOi/U6CZeIT8+uV+yGU0gNaGtPzCV+9UcgCxAcReDWV0cEg6Wz8XDSLNcn2yz7etRU/VDMRgfuwHQJzigLofIe/tzawgYeiQc2LSsC6fPGN3xIXS4KYIrlzYTW4epHnbTqx0aE75nW2Sr8GyPXS3ObZM0BA=;O0Xqm1AWXQhxSOHR9rrd0w=="
 ---
 

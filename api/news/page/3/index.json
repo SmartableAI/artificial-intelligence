@@ -2,21 +2,21 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2020-12-02-blue-prism-intelligent-automation-now-available-in-aws-marketplace.md",
-      "title": "Blue Prism Intelligent Automation Now Available in AWS Marketplace",
-      "excerpt": "PRNewswire/ --Blue Prism (AIM: PRSM) today announced the availability of Blue Prism intelligent automation software in AWS Marketplace, giving Amazon Web Services (AWS) and Blue Prism customers another avenue for automation in the cloud.",
+      "path": "_news/2020-12-02-facebook-agrees-to-acquire-crm-platform-kustomer.md",
+      "title": "Facebook Agrees to Acquire CRM Platform Kustomer",
+      "excerpt": "Facebook agreed to acquire customer-relationship-management platform Kustomer, which was named Adweek’s best customer experience platform in 2020. The Kustomer team—including co-founders Brad Birnbaum and Jeremy Suriel—will join Facebook,",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111",
-      "originalUrl": "https://www.marketwatch.com/press-release/blue-prism-intelligent-automation-now-available-in-aws-marketplace-2020-12-02-92031111",
+      "webUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/",
+      "originalUrl": "https://www.adweek.com/media/facebook-acquires-crm-platform-kustomer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 180,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://about.fb.com/wp-content/uploads/2020/11/NRP-11-2020.jpg?fit=1920%2C1080",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,23 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-12-02T01:11:00-08:00",
+      "ampWebUrl": "https://about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "cdnAmpWebUrl": "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2020/11/kustomer-to-join-facebook/amp/",
+      "publishedDateTime": "2020-12-02T02:35:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Adweek",
+        "domain": "adweek.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -49,8 +40,8 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -360,8 +351,8 @@
       "title": "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud",
       "excerpt": "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ",
-      "originalUrl": "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ",
+      "webUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ",
+      "originalUrl": "https://www.reuters.com/article/technologyNews/idUSKBN28B5MQ",
       "featuredContent": null,
       "highlight": null,
       "heat": 106,

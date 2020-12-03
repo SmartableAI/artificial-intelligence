@@ -70,20 +70,6 @@ related:
         width: 620
         height: 387
         isCached: true
-  - title: "Startup Funding: November 2020"
-    excerpt: "Numerous chipmakers pulled in funding in November 2020, with investors putting money into interconnects, memories, AI hardware, and quantum computing. Launching from stealth was a startup aiming to combine AI and 5G."
-    publishedDateTime: 2020-12-02T08:22:00Z
-    webUrl: "https://semiengineering.com/startup-funding-november-2020/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 22
-    images:
-      - url: "https://i2.wp.com/semiengineering.com/wp-content/uploads/startup-funding-2020-11-Nov-table1.png?fit=672%2C759&#038;ssl=1"
-        width: 672
-        height: 759
-        isCached: true
   - title: "AI-based noise suppression, polls in Teams meetings, and more. Here’s what’s new in Teams for November 2020"
     excerpt: "Microsoft has just published a monthly recap of tons of new features announced for Microsoft Teams in the month of November. From the AI-based noise suppression capability, polls in Teams"
     publishedDateTime: 2020-12-02T18:00:00Z
