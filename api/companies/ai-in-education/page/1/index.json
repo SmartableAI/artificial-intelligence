@@ -95,7 +95,7 @@
       "twitter": {
         "username": "Knewton",
         "url": "https://twitter.com/Knewton",
-        "followers": 14739
+        "followers": 14738
       },
       "yearFounded": 0,
       "locations": [
@@ -113,6 +113,36 @@
           "height": 400,
           "title": "Knewton",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/yuanfudao.md",
+      "title": "Yuanfudao",
+      "excerpt": "Yuanfudao provides live courses and tutoring through an online platform.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yuanfudao/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/yuanfudao/",
+      "type": "profile",
+      "name": "Yuanfudao",
+      "overview": "Yuanfudao provides live courses and tutoring through an online platform.",
+      "website": "https://www.yuanfudao.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/yuanfudao"
+      },
+      "yearFounded": 0,
+      "topics": [
+        "AI",
+        "AI in Education"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/xoxhum1birnuyzqlrovp",
+          "width": 400,
+          "height": 400,
+          "title": "Yuanfudao",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -154,7 +184,7 @@
           "url": "https://www.youtube.com/watch?v=GF8KvuIJUvg"
         }
       ],
-      "heat": 50,
+      "heat": 41,
       "tags": [
         "Speech Recognition"
       ],
@@ -171,36 +201,6 @@
           "width": 400,
           "height": 400,
           "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/yuanfudao.md",
-      "title": "Yuanfudao",
-      "excerpt": "Yuanfudao provides live courses and tutoring through an online platform.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/yuanfudao/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/yuanfudao/",
-      "type": "profile",
-      "name": "Yuanfudao",
-      "overview": "Yuanfudao provides live courses and tutoring through an online platform.",
-      "website": "https://www.yuanfudao.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/yuanfudao"
-      },
-      "yearFounded": 0,
-      "topics": [
-        "AI",
-        "AI in Education"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/xoxhum1birnuyzqlrovp",
-          "width": 400,
-          "height": 400,
-          "title": "Yuanfudao",
           "isCached": false
         }
       ],

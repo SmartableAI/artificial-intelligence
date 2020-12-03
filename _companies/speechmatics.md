@@ -2,7 +2,7 @@
 name: "Speechmatics"
 overview: "With the voice revolution here, Speechmatics has used its decades of machine learning and research expertise to develop Automatic Speech Recognition (ASR), available in private or public clouds and securely on-premises. The technology can be used for real-time or pre-recorded audio and video files, pushing the boundaries of speech recognition innovation and supporting an industry-leading number of languages and dialects."
 type: "profile"
-heat: 50
+heat: 58
 
 website: https://www.speechmatics.com/
 
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Speechmatics"
 
-secured: "GEk8pnBQnhFQFuYzP5ZV0oqK+rqmzL//YAwANKioeFCJYprfJ+i9tJ68wJuNhdoY0zhUM9CuruOC1ilzQYvcR/906KE2j4ukgXDP8Qtmtn2SlSsLvKkUXdDOGprLhV0eBOGULikwmvznUR76QW6ohUQKYAmZYV8Lb/szBUEMNg4vSsTHfRtsxpev09IXDEgrMzcIwIVs9NXmZ0gnubWo2z6+bDQEfPr2wMOEaiG59C+xPankvqxdsTG+3Xtvr8w/K9+jjzxvoWsGZuqdJgr8/TgpB1vhtCn/rMU4VO3hS5pXRh7pKwyKqi1mt6+aNSCRWDZpsQM0ian6xfEzT3Qkxn5bLjrF6okNG9bMlWuxP6TU/EaX2kGyLqpByKr8HI1q//rT4DPaXGQlDo7qwlZb/jofOR1CRjmeMIiSb8XlQ6w=;Gu62qxvwN8Ecz5UWkY0qUQ=="
+secured: "2l5A+EttLxKv3Yam0yUeroEQO7vXAEJOxNt4EYHIqdtx8p5TiA1eTlisa+tik3YaHWeekalda7+qc0+a55BM29sDfiuctIQvZBFmKRijpHkUcnpHGrTUUOuhQNqyJVmjsvgoK6MIIhuTAGkhskuYADqNIjld2V+EroENjy4dhHXqhtc0EgmhgyiyyAtkICkqgKvGCm1ZCVqO2dIoOkkPczR3j3HvO2Kyqw0duV9VKO1zWgf+1R6gINP82uAA9xnyqB+6YTbwu8w4XwnOcbekEwhhwN0IH9UZNRyT59uASSyCpOvTQW0YzlL2KBG0rNNDxcpKrrGqJd/pRSFPWV3XuLGTc1LSGUsqA4oRdsm7PxXB0es8YlfNNrcQmq499fo9kOK1ru2zTg7HsqrvfdoN1DCO0WjsyZQll4XiId/pLMU=;mOi+Xd7DoL12QcpsFJqUCQ=="
 ---
 

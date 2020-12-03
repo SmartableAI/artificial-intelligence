@@ -4,147 +4,30 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/deeplens.ai.md",
-      "title": "Deep Lens",
-      "excerpt": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deeplens.ai/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/deeplens.ai/",
+      "path": "_companies/sightdx.md",
+      "title": "Sight Diagnostics",
+      "excerpt": "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sightdx/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sightdx/",
       "type": "profile",
-      "name": "Deep Lens",
-      "overview": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
-      "website": "https://www.deeplens.ai/",
+      "name": "Sight Diagnostics",
+      "overview": "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing.",
+      "website": "https://www.sightdx.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-lens/",
-        "followers": 853
+        "url": "https://www.linkedin.com/company/sight-diagnostics",
+        "followers": 2028
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-lens"
-      },
-      "twitter": {
-        "username": "deeplens_ai",
-        "url": "https://twitter.com/deeplens_ai",
-        "followers": 510
+        "url": "https://www.crunchbase.com/organization/sight-diagnostics"
       },
       "size": "11-50 employees",
-      "yearFounded": 2017,
+      "yearFounded": 2011,
       "locations": [
-        "Columbus, OH",
-        "Columbus, Ohio"
+        "Tel Aviv-Yafo, Israel",
+        "Tel Aviv, Israel"
       ],
       "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 41,
-      "tags": [
-        "Cancer"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep Lens",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_200_200/0?e=1594857600&v=beta&t=b8v2Fneb0bMouSAv-SuBaRm-zVivHKqHZbOmORGfNks",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/foodvisor.io.md",
-      "title": "Foodvisor",
-      "excerpt": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/foodvisor.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/foodvisor.io/",
-      "type": "profile",
-      "name": "Foodvisor",
-      "overview": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
-      "website": "http://www.foodvisor.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/foodvisor/",
-        "followers": 1553
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/foodvisor"
-      },
-      "twitter": {
-        "username": "foodvisor_app",
-        "url": "https://twitter.com/foodvisor_app",
-        "followers": 1199
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Paris, Ile de France"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=H77GQBirQkM"
-        }
-      ],
-      "heat": 41,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Foodvisor",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/healx.io.md",
-      "title": "Healx",
-      "excerpt": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/healx.io/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/healx.io/",
-      "type": "profile",
-      "name": "Healx",
-      "overview": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "website": "https://healx.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/healx/",
-        "followers": 2126
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/healx"
-      },
-      "twitter": {
-        "username": "healx",
-        "url": "https://twitter.com/healx",
-        "followers": 2114
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Cambridge, UK",
-        "Cambridge, Cambridgeshire"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
@@ -152,20 +35,13 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=6ZsujFTH3-A"
+          "url": "https://www.youtube.com/watch?v=IWwwJ8L7Veo"
         }
       ],
-      "heat": 41,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1184097198574841857/shcf1yyH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Healx",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQG0esuBlAtlug/company-logo_200_200/0?e=1594857600&v=beta&t=LzoS4YMgBRQIcMCcpRl36HcAeKuFcxLOY75SpyFkMIM",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -175,31 +51,207 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/infermedica.md",
-      "title": "Infermedica",
-      "excerpt": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/infermedica/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/infermedica/",
+      "path": "_companies/sophiagenetics.md",
+      "title": "Sophia Genetics",
+      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sophiagenetics/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/sophiagenetics/",
       "type": "profile",
-      "name": "Infermedica",
-      "overview": "Founded in 2012 by a team of engineers, data scientists, and physicians, Infermedica develops its own AI engine to collect intake, check symptoms, and guide patients to the right care.",
-      "website": "https://infermedica.com/",
+      "name": "Sophia Genetics",
+      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "website": "https://www.sophiagenetics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/infermedica",
-        "followers": 1399
+        "url": "https://www.linkedin.com/company/sophiagenetics/",
+        "followers": 25618
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/infermedica"
+        "url": "https://www.crunchbase.com/organization/sophia-genetics"
       },
       "twitter": {
-        "username": "infermedica",
-        "url": "https://twitter.com/infermedica",
-        "followers": 2644
+        "username": "sophiagenetics",
+        "url": "https://twitter.com/sophiagenetics",
+        "followers": 21414
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Switzerland",
+        "Saint Sulpice"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Sophia Genetics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/synyi.md",
+      "title": "Synyi",
+      "excerpt": "Founded in April 2016, located in Zhangjiang high-tech park, Shanghai, Synyi AI is the leading medical artificial intelligence company focusing on medical data governance, mining and application. Our mission is to accelerate the establishment of futuristic learning healthcare system based on data-driven artificial intelligence to build up applications for medical management, patient service, clinical research, and so.  In 2016, Synyi AI received nearly ten million RMB angel investment from ZhenFund. In 2017, Synyi AI received fifty-five million RMB series  A fund from Sequoia Capital , and China Electronic Health Fund. Our team consisted of multi discipline talents from the fields of artificial intelligence and clinical medicine from top institutions and enterprises world-wide. Our products have been subscribed by multiple medical centers in china.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/synyi/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/synyi/",
+      "type": "profile",
+      "name": "Synyi",
+      "overview": "Founded in April 2016, located in Zhangjiang high-tech park, Shanghai, Synyi AI is the leading medical artificial intelligence company focusing on medical data governance, mining and application. Our mission is to accelerate the establishment of futuristic learning healthcare system based on data-driven artificial intelligence to build up applications for medical management, patient service, clinical research, and so.  In 2016, Synyi AI received nearly ten million RMB angel investment from ZhenFund. In 2017, Synyi AI received fifty-five million RMB series  A fund from Sequoia Capital , and China Electronic Health Fund. Our team consisted of multi discipline talents from the fields of artificial intelligence and clinical medicine from top institutions and enterprises world-wide. Our products have been subscribed by multiple medical centers in china.",
+      "website": "https://www.synyi.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/synyi/",
+        "followers": 86
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/synyi"
       },
       "size": "51-200 employees",
-      "yearFounded": 2012,
+      "yearFounded": 0,
       "locations": [
-        "Wrocław, Lower Silesia"
+        "上海市, 上海市"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGbos2p5p4c6A/company-logo_200_200/0?e=1594857600&v=beta&t=d5iabLL_hzIMkoXeAHu3KHKpr7XZczVYMl739NzOXeE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/tnh.health.md",
+      "title": "TNH Health",
+      "excerpt": "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/tnh.health/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/tnh.health/",
+      "type": "profile",
+      "name": "TNH Health",
+      "overview": "TNH Health creates AI-powered chatbots to help healthcare organizations engage and monitor large patient populations.",
+      "website": "https://tnh.health/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/tnh-digital-health/",
+        "followers": 1263
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/tnh-health"
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Rio Negrinho, Sc"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=jT8f0JOdEu0"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/959546558932049920/WqoYdYdH_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "TNH Health",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdPzVaJWQMKQ/company-logo_200_200/0?e=1594857600&v=beta&t=yG7oyEeE3jwVztdO67qY21-DVWPyDIifkT1jpTZvq6g",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/ucare.ai.md",
+      "title": "Ucare.ai",
+      "excerpt": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/ucare.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/ucare.ai/",
+      "type": "profile",
+      "name": "Ucare.ai",
+      "overview": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
+      "website": "http://www.ucare.ai/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ucare-io"
+      },
+      "yearFounded": 0,
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=9A5bFTeS1uw"
+        }
+      ],
+      "heat": 50,
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/xbird.io.md",
+      "title": "Xbird",
+      "excerpt": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/xbird.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/xbird.io/",
+      "type": "profile",
+      "name": "Xbird",
+      "overview": "xbird is a medical AI company dedicated to saving lives by disrupting the way we think about prevention and early detection of diseases. We are developing sophisticated machine learning algorithms that analyze sensor data from smartphones and wearables to predict and prevent critical health risks. We are a team of medical doctors, data scientists, machine learning engineers and serial entrepreneurs from Berlin and Silicon Valley. xbirds provides a service to medical device and pharma companies to achieve higher patient engagement, reduce patient burden and work towards improving patient outcomes.",
+      "website": "http://www.xbird.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/xbird/",
+        "followers": 982
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/xbird-gmbh"
+      },
+      "twitter": {
+        "username": "xbirdhealth",
+        "url": "https://twitter.com/xbirdhealth",
+        "followers": 562
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Berlin, Germany",
+        "Berlin, Berlin"
       ],
       "funding": {
         "status": "Seed"
@@ -210,20 +262,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=p8YcZnbiB2U"
+          "url": "https://www.youtube.com/watch?v=VQhmAIFKOyU"
         }
       ],
-      "heat": 41,
+      "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1143811617425186816/xjFXIamj_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1254728072546463745/58TGGOtt_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Infermedica",
+          "title": "Xbird",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFSZao-2Qp3Qg/company-logo_200_200/0?e=1594857600&v=beta&t=mAsp0thYED-zbD9zjMYxf7v7J24YGU9PTIh4UQ6dVno",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE5uBAedW_F2A/company-logo_200_200/0?e=1594857600&v=beta&t=p9pfx8LRmoaNPMwjLOzlVSEx2_b5bHKTfeTaODjF_cU",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -233,32 +285,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/lumiata.md",
-      "title": "Lumiata",
-      "excerpt": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/lumiata/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/lumiata/",
+      "path": "_companies/labgeni.us.md",
+      "title": "LabGenius",
+      "excerpt": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/labgeni.us/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/labgeni.us/",
       "type": "profile",
-      "name": "Lumiata",
-      "overview": "Lumiata is the industry's first AI Platform purpose-built for healthcare. Lumiata is powered by 75 million-member data, proprietary clinical, risk and financial algorithms, and industry leading data science and machine learning talent. We help Business, Benefits and Care Management teams at health plans, providers and employers make better decisions–– from identifying and managing individual's risk to retaining customers in competitive insurance markets–– using easy-to-use, fast-to-deploy AI applications. The Lumiata AI Platform also arms internal data science teams in healthcare organizations rapidly develop and deploy predictive models and applications. Silicon Valley-based Lumiata is backed by tier 1 investors Khosla Ventures, BlueCross BlueShield Venture Partners, Sandbox Industries and Intel Capital.",
-      "website": "http://www.lumiata.com/",
+      "name": "LabGenius",
+      "overview": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "website": "http://www.labgeni.us/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/lumiata",
-        "followers": 2608
+        "url": "https://www.linkedin.com/company/labgenius/",
+        "followers": 2073
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/lumiata"
+        "url": "https://www.crunchbase.com/organization/labgenius"
       },
       "twitter": {
-        "username": "Lumiata",
-        "url": "https://twitter.com/Lumiata",
-        "followers": 1078
+        "username": "labgeni_us",
+        "url": "https://twitter.com/labgeni_us",
+        "followers": 2231
       },
       "size": "11-50 employees",
-      "yearFounded": 2013,
+      "yearFounded": 2012,
       "locations": [
-        "San Mateo, CA",
-        "San Mateo, California"
+        "London, UK"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -269,20 +320,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=1uxjtyJdxbU"
+          "url": "https://www.youtube.com/watch?v=wy1AobL6x44"
         }
       ],
       "heat": 41,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1258149706590334977/SYwr_9wT_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/847433339883499528/nc0fcnVR_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Lumiata",
+          "title": "LabGenius",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGVE82mwAXfog/company-logo_200_200/0?e=1594857600&v=beta&t=3cC6ya_XrTzzMu6c2KHPZQ-VKjYq5e-NlrtFpPd-9nA",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGBR3Rh4HTaeg/company-logo_200_200/0?e=1594857600&v=beta&t=80aKsG_ar1rvSb5D4EEZlyzv_D4upOEsVzHI170r7T4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -384,80 +435,32 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gnshealthcare.md",
-      "title": "GNS Healthcare",
-      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/gnshealthcare/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/gnshealthcare/",
+      "path": "_companies/deeplens.ai.md",
+      "title": "Deep Lens",
+      "excerpt": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/deeplens.ai/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/deeplens.ai/",
       "type": "profile",
-      "name": "GNS Healthcare",
-      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "website": "http://www.gnshealthcare.com/",
+      "name": "Deep Lens",
+      "overview": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+      "website": "https://www.deeplens.ai/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/gns-healthcare/",
-        "followers": 3017
+        "url": "https://www.linkedin.com/company/deep-lens/",
+        "followers": 853
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gns-healthcare"
+        "url": "https://www.crunchbase.com/organization/deep-lens"
       },
       "twitter": {
-        "username": "gnshealthcare",
-        "url": "https://twitter.com/gnshealthcare",
-        "followers": 2623
+        "username": "deeplens_ai",
+        "url": "https://twitter.com/deeplens_ai",
+        "followers": 510
       },
-      "size": "51-200 employees",
-      "yearFounded": 2000,
+      "size": "11-50 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Cambridge, MA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
-        }
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "GNS Healthcare",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/affectiva.md",
-      "title": "Affectiva",
-      "excerpt": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/affectiva/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/affectiva/",
-      "type": "profile",
-      "name": "Affectiva",
-      "overview": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
-      "website": "https://www.affectiva.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/722122",
-        "followers": 17739
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/affectiva"
-      },
-      "twitter": {
-        "username": "affectiva",
-        "url": "https://twitter.com/affectiva",
-        "followers": 11181
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Boston, MA",
-        "Boston, Massachusetts"
+        "Columbus, OH",
+        "Columbus, Ohio"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -466,17 +469,20 @@
         "AI",
         "AI in Healthcare"
       ],
-      "heat": 18,
+      "heat": 31,
+      "tags": [
+        "Cancer"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1280148929808646144/rFMnY8_q_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Affectiva",
+          "title": "Deep Lens",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_200_200/0?e=1594857600&v=beta&t=ltljFWKLor6yxVPpeeyIWSkDtHiamTxXwAvV9QrJYFE",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_200_200/0?e=1594857600&v=beta&t=b8v2Fneb0bMouSAv-SuBaRm-zVivHKqHZbOmORGfNks",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -486,47 +492,56 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/doxper.md",
-      "title": "Doxper",
-      "excerpt": "📱App-based car rentals 📍#Dubai & #AbuDhabi 📍@ekar_ksa 🚙 Pay by the min/hr/day/month 📞800-MYEKAR ➕Tag #myekar",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/doxper/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/doxper/",
+      "path": "_companies/foodvisor.io.md",
+      "title": "Foodvisor",
+      "excerpt": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/foodvisor.io/index.json",
+      "webUrl": "https://smartable.ai/apps/ai/company/foodvisor.io/",
       "type": "profile",
-      "name": "Doxper",
-      "overview": "📱App-based car rentals 📍#Dubai & #AbuDhabi 📍@ekar_ksa 🚙 Pay by the min/hr/day/month 📞800-MYEKAR ➕Tag #myekar",
-      "website": "https://doxper.com",
+      "name": "Foodvisor",
+      "overview": "At Foodvisor we believe that healthy eating leads to a healthier lifestyle.",
+      "website": "http://www.foodvisor.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/foodvisor/",
+        "followers": 1553
+      },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/doxper"
+        "url": "https://www.crunchbase.com/organization/foodvisor"
       },
       "twitter": {
-        "username": "solvemit",
-        "url": "https://www.twitter.com/solvemit",
-        "followers": 14697
+        "username": "foodvisor_app",
+        "url": "https://twitter.com/foodvisor_app",
+        "followers": 1199
       },
-      "yearFounded": 0,
+      "size": "11-50 employees",
+      "yearFounded": 2015,
       "locations": [
-        "Dubai, United Arab Emirates"
+        "Paris, Ile de France"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Healthcare"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=OQlpH3-X7yg"
+          "url": "https://www.youtube.com/watch?v=H77GQBirQkM"
         }
       ],
-      "heat": 18,
+      "heat": 31,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1063542158882496512/Z0JQ9JNk_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/805813676926205953/s_f8nCWI_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Doxper",
+          "title": "Foodvisor",
           "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -585,58 +600,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sophiagenetics.md",
-      "title": "Sophia Genetics",
-      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "sourceUrl": "https://smartableai.github.io/artificial-intelligence/api/companies/sophiagenetics/index.json",
-      "webUrl": "https://smartable.ai/apps/ai/company/sophiagenetics/",
-      "type": "profile",
-      "name": "Sophia Genetics",
-      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "website": "https://www.sophiagenetics.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sophiagenetics/",
-        "followers": 25618
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sophia-genetics"
-      },
-      "twitter": {
-        "username": "sophiagenetics",
-        "url": "https://twitter.com/sophiagenetics",
-        "followers": 21416
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Switzerland",
-        "Saint Sulpice"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
-        }
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1085164407766822913/xe_-YSO2_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Sophia Genetics",
-          "isCached": true
         }
       ],
       "content": "\r\n"

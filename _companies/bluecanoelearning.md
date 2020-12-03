@@ -2,7 +2,7 @@
 name: "Blue Canoe Learning"
 overview: "Blue Canoe is an artificial intelligence (AI) B2B company that increases business productivity by improving the pronunciation and business communication of non-native English speaking employees. Blue Canoe uses a proven brain-science methodology, and scales it with speech recognition and machine learning, to create engaging mobile games that effectively help employees communicate clearly with colleagues and customers. Employees track their progress over time with an objective pronunciation score for continuous improvement."
 type: "profile"
-heat: 50
+heat: 41
 
 website: http://bluecanoelearning.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "bluecanoelearn"
   url: "https://twitter.com/bluecanoelearn"
-  followers: 160
+  followers: 159
 
 size: 2-10 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=xGsl-hTLi_g"
 
-secured: "+MNl/W/qz5ELurX8jjFHe42tfIp6tlv88L74P5tX+/sCWz2UIgTSKRo2SSdgCRLovNsHub1qStImpPcpqnEIhcWTZOhXCkfQJDVi6cjIVRd5XJy7yRwJdbfYg6LK8tdE3UP9avj7NgzidaRd4CbDF9dsWJ9keEGFsBPbM8qsTVtMlZyOanL7/PxwuHzBxg3yepaBdUmJym7acFpYv/1Kf5VXVLMAPrcFFRq/va0svGxy78yn/GuNQ8jAC7/d76idNMFeKhgumLyU9pK6vMR511Xlo70x+0t997aN4SArSDyrijAhICCDl+coDYZyLtGkNfHppmGPXgTUy1mbo0YIfkzBgg5zcWgOeXFy7VU6rlXJ/OfEfQmy/wnkoLB8EHlmbhv8LgrzFpoxb5OO+mV7IQ==;iYVm4OJa16P+lVo0/NAzCQ=="
+secured: "sxdrRmUwU4eq59yUgzmvVY7HrQqLMXgIcQs/3sm5mvEoT0G2ceEfYxgV1ZyGwKA5+3DjCsCixger2ySYhMetJ5JCLh8jH9/MnpLO4zGEbOUfM1fPIz6FcSNmWGN0bDYdLLv68+vSf3dzI296IWiJktmPx8gWf9WOOjDqQHEQgWw45RkEOnvp6m0jL1YKzj8r4xEVXprKh5csjfgIeOEaUp18c1200pxbb6oZS0sDAccCiELzZ2jvK5xk5UwuIct43xuR0UOCoRYw0ce82In0hUs+0fZLuKHJoLt78XRcMfWO8X5pOt0ot5Gp9ku5nnbWOfMV4/TH7tVr4lREu7Ixe+qI3kNnBejnsJH73cAjdS9tjensPG5ChMQ8TsEHSVk1zMfKdel/RjHnM1EsbkzLjA==;ZQuvQB7cV3ovHekpqEvFxA=="
 ---
 
