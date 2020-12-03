@@ -81,7 +81,7 @@ related:
     provider:
       name: Barron's
       domain: barrons.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://images.barrons.com/im-267539/social"
         width: 1280

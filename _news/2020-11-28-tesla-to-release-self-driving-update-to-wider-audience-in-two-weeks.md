@@ -86,22 +86,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Tesla could widen release of 'self-driving' software"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
-    publishedDateTime: 2020-11-28T12:34:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/575487-Tesla-could-widen-release-self-driving-software"
-    ampWebUrl: "https://dunyanews.tv/amp/english/575487.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/575487.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2020/November/11-28-20/news_big_images/575487_78460199.jpg1"
-        width: 556
-        height: 370
-        isCached: true
   - title: "Musk: Tesla Full Self-Driving Will Be Ready In 2021"
     excerpt: "CEO Elon Musk said he believes Tesla will have fully autonomous, level five vehicles on the road in 2021. This would mean that a driver and steering wheel are optional, as the vehicles would be fully capable of driving themselves in all scenarios."
     publishedDateTime: 2020-12-02T17:00:00Z

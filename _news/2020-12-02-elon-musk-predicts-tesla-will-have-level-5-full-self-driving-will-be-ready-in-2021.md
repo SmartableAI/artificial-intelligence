@@ -70,22 +70,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 69
-  - title: "Tesla could widen release of 'self-driving' software"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
-    publishedDateTime: 2020-11-28T12:34:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/575487-Tesla-could-widen-release-self-driving-software"
-    ampWebUrl: "https://dunyanews.tv/amp/english/575487.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/575487.php"
-    type: article
-    provider:
-      name: Dunya News
-      domain: dunyanews.tv
-    quality: 59
-    images:
-      - url: "https://img.dunyanews.tv/news/2020/November/11-28-20/news_big_images/575487_78460199.jpg1"
-        width: 556
-        height: 370
-        isCached: true
   - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
     excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
     publishedDateTime: 2020-11-28T13:32:00Z

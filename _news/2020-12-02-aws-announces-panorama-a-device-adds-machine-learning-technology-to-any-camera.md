@@ -98,16 +98,19 @@ related:
       domain: bloomberg.com
     quality: 38
   - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
-    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
-    publishedDateTime: 2020-12-03T00:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18627184/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-a"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18627184"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18627184"
+    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
+    publishedDateTime: 2020-12-03T04:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "WfgvHrbZRF8zvCI2wo9s/+3Q8fWIUE7WxWwWItsrZDMuxi/CfKWhetUUIIrxNqKrXq+pRu886/a5VRLmVRTCLkxA1KstbVqcc8i98WAYqrqpWMuSq1rfXRlrMXhRna0z7WktS4uwlWOZStBKeLggmbS0l246Y6sn1XtE6yO1PxTqjN+790Z5NFqXFr+I031EOak1/MNLugD8cx8C9qAWdbhz+CTXwgW1v2LKFroIZRhJQ7l85eMu4arUq3LuoNAJgX9H87f6B5zcukPFZ3JOdOhLYCquew3DjSIA4PSiZZpW1Jtg8XOn25KIdY1fa8pf92LhZoLrxq/OV5sAkxOo3wHImfHYguS3id6LYPL320u9nRJGh9Slp5PppwqdJfumDphpSfBZdZb9X8USE0hOFdYwPsflIdVPGk1ClZ91/LhPbeGyRDdnMokStST/D/HDy8Ry11jteXHJAA2Q5M3gSdkfQ2p+aNKHfEiiy+HQZLiQgcJezi5sMx/AP0tNq6inHhM2QqcW+hl95RmoBtG60A==;LqPuvnNeEwYFh+apw4Y48w=="
 ---

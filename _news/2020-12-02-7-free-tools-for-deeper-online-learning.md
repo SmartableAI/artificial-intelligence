@@ -35,7 +35,7 @@ related:
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 73
+    quality: 75
   - title: "4 AI Stocks That Are Helping the World Make Smarter Decisions"
     excerpt: "Stock Market News, Stock Advice & Trading Tips In today’s uncertain economic environment tech stocks (specifically AI"
     publishedDateTime: 2020-12-02T17:34:00Z

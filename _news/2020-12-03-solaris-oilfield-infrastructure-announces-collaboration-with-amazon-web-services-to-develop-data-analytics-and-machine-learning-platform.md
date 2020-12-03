@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
-excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
-publishedDateTime: 2020-12-03T00:05:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/12/b18627184/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-a"
-webUrl: "https://www.benzinga.com/pressreleases/20/12/b18627184/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-a"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18627184"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18627184"
+excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
+publishedDateTime: 2020-12-03T04:52:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
+webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
 type: article
 quality: 23
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
   - AWS AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS announces Panorama a device adds machine learning technology to any camera"
@@ -104,6 +108,6 @@ related:
       domain: bloomberg.com
     quality: 38
 
-secured: "5TDEibdldX4FvMLhGXGFXVNlKHJiLQYaKI3gOgn1haqi56hZrueGLEbvnMk5mlo+kvOtXwXA7Jl+bvh7mzvrPGxrcsLySxpghyM/xbravAml5N8lLzfVcwFMda4VnWFXtPvHek6LE9mwP0fE8aNAX/lsTtGmmkra+rhLmP847wC9M+W5l5mL1/aoTWokv9BbmAYz/sqntZgwytCEmVS/Pd+UIaPQ2M/7GIggD1iLLqBIB+25fIgPeB0FAUWWIN1SKXuepYbONGehT4VdFfzLdhEJpYamaGF6bX7X6te184rAfx+9XWWQdhcUMM7KmosWMfjvEOWydKinQ83qelWFxlGIx4ueUIJNGhdNv5BB2SE=;6mqMFJ3kFvGG1b23hGNNmg=="
+secured: "ItbmsPRIB2u2e3fWuc4T8ep8ysjnLiTqtGPkRXDgGf03RBaMTqcWfR0A+1K/nctxhX4K68uONWvZTnbsohZMNpf+23r3B4Z8HsaJRU9XnaZnZiHMWvMb04Qe6pO3A+XdN1VHIEzUirjFmT/JO7VPD7GHMW3woQ3LQ75CF1TDsqyFC+0xpIJgRW2w6C9SLnBoUkV3IMHqEtok5z5hoXENHthxeAZ8PVc49uZO26cblEfamn0GLg3xuQEnRGUcLUm1frZXwGWs7bVVEgl3W4uHnvcNV5aei4MClnWDPJpEwGRXJ6jvaeN1z+lWIrb5T34eJcJFcPpJIcRyNpEx1plOQ2wBiSb1FNqMuNdzZx6vY/8=;n8sAvMplfYwYhCf5HHt5xw=="
 ---
 

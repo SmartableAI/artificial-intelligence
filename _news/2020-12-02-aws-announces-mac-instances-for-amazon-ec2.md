@@ -93,16 +93,19 @@ related:
       domain: bloomberg.com
     quality: 38
   - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
-    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
-    publishedDateTime: 2020-12-03T00:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18627184/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-a"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18627184"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18627184"
+    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
+    publishedDateTime: 2020-12-03T04:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "SiwBFxgIJOCS1pVrOcA24j41jY8wbrdaxHyDdMN8exz9gWDTbvAFA2tc2E9ZkEGsP/T8cjzt1VHO1uz0JWQOFn9g58CPS8pDehgZJTMt7TfZSQtDE7JC2K985ecXJXcynyoK3tdd7kDeJGb7zTjXHayYS44ZkqIjIqIRv1O+/hGCs0TySddCAxm/PrvrAk5R0GdvCYadYZYM80Gey2GN6QdX96AlyS6A9vzXiBdSkU/k9Hok+p8/CaNyXI1hXD2YaA3AEY7XJlLuD4UeRttIoG34dYjeBsQmaWGUqfGUMXPD/BcyYAIfZ51bp23rqfzC5efuoE8jCjfZuoQLP7eMd1O8iQX41DNGrRG8sq3mSwftnR+kalAyKTWzi5+H22LYgkRtYo2BZRqxds/RE8YMD0Oq/NaC+BqwP00SJ89cVrWoRJm7P5WdRECBBUdhig+sOj+r2uXvb2ZZvQotz3Y1oBA4blxiqYWNS3xfzYd8iqoizq5kP6GD1m1GK7l0MNdms/md0j6pKf1PxxVst/C6OA==;GVAHnGvP2UVJqpTH2nKu6Q=="
 ---

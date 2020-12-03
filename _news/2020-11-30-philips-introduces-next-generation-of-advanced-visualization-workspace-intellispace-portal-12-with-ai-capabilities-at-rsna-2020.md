@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Philips introduces next generation of Advanced Visualization Workspace – IntelliSpace Portal 12 – with AI capabilities at RSNA 2020"
-excerpt: "November 30, 2020 Next generation of Philips’ advanced radiology visualization platform leverages image post-processing and artificial intelligence (AI) to deliver quantitative clinical insights, drive increased diagnostic confidence, simplify workflows ..."
-publishedDateTime: 2020-11-30T13:01:00Z
-originalUrl: "https://www.efe.com/efe/usa/comunicados/philips-introduces-next-generation-of-advanced-visualization-workspace-intellispace-portal-12-with-ai-capabilities-at-rsna-2020/50000209-MULTIMEDIAE_4407418"
-webUrl: "https://www.efe.com/efe/usa/comunicados/philips-introduces-next-generation-of-advanced-visualization-workspace-intellispace-portal-12-with-ai-capabilities-at-rsna-2020/50000209-MULTIMEDIAE_4407418"
+excerpt: "Next generation of Philips' advanced radiology visualization platform leverages image post-processing and artificial intelligence (AI ... company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health informatics, as ..."
+publishedDateTime: 2020-11-30T09:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18574262/philips-introduces-next-generation-of-advanced-visualization-workspace-intellispace-portal-12-with"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18574262/philips-introduces-next-generation-of-advanced-visualization-workspace-intellispace-portal-12-with"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18574262"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18574262"
 type: article
-quality: 0
-heat: 0
+quality: 9
+heat: 9
 published: false
 
 provider:
-  name: EFE
-  domain: efe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "WIozl6aOKNihJ8BxwUsH5xgkNjgOHEdcS1xgf1LKoLxGDtfQcJMnG0msRwA+KL/tMX27wh6etMs48Us3CQF1I8VVpg/tmmsv1N7H6rZ7qQbZP1VVUisdxqzRAMYtcnHT6mRJTiG+4Q6oqo69025z76kvOmKBzL+gwpVpEyMT3s0bObXup82Ct0/lW9EBC9EZgL1KDQveVg7z/2JTzrH7Lq6sZ+/dyRIg1mhKfpvJCLKR3EjLsmWuA6mV0oLZcYAGm0LEo+XoY6GGYc1R2wqMOC4EgNqjzdPub8060AeOgWHw//h/AgKbHb3C/pS9qGt2sbW1Md+gBzrRS+Apuy0MQznHT1MK3m47AJhuw/Y4sAk=;ltFMwgrE1hnBagaVJCAzrA=="
+secured: "ynJThS3/wpFOfIP1qlnME57irCHbhfrA4dzB7W2pWTHx0rVnbpbuiSAKI0GFzMVkMZYbivJkjVNtPaRRuS7ifVLQWorXX9JIpWt4Q8WK0s2VPcsrDPgRyAogjR3fN1iMdCIaft+X5eyXGoFFTbKSNFTsNKOyeOLeJ51zXpspX9qIb3En+Znis8702xfLXrd5HQKg9LVK/7L95L4lAJEluY1cevV0Sy75OnwoT28sdK40TpvvGV2qxTmvnCKgFtJFnNotY/MGRbeAwP1+zxuwjYJXogYWzmXoRiKHWDcOgn9ui0v4iUQ8eyzuVneZZYaIDSEqf3Lno+bryrkNvbPf0oJPgcmQA5Q8nQUmYbWkNTA=;yR287vrPUyMymRueNQCI9g=="
 ---
 

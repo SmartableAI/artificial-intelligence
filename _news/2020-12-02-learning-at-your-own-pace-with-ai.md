@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2020-12-pace-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2020-12-pace-ai.amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1920
     height: 1280
     isCached: true
+
+related:
+  - title: "Checking in on pandemic supply chains with Noodle.ai"
+    excerpt: "Nine months into the COVID-19 pandemic offers us an opportunity to examine what has happened in industries like food, beauty, and chemicals. Here is Noodle.ai's unique perspective."
+    publishedDateTime: 2020-12-03T04:55:00Z
+    webUrl: "https://diginomica.com/checking-pandemic-supply-chains-noodleai"
+    ampWebUrl: "https://diginomica.com/checking-pandemic-supply-chains-noodleai?amp"
+    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/checking-pandemic-supply-chains-noodleai?amp"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 57
+    images:
+      - url: "https://diginomica.com/sites/default/files/images/2016-01/builder-planning.jpg"
+        width: 1277
+        height: 838
+        isCached: true
 
 secured: "+51yCKH2QhP/dahUCGmKWKLvY0wf6uwz4GlL62wVYTPtqjxQ1AxO82N8sJeQUFwJeoQL6aG4Dm9LpC+Be42VTEonU12g0B/iOEQsgjVJ6N+3Nc78wy64VYBOP8Z/th51kFTI6AxYsed72zSf6Y7sntNeOU5CSLdkAgwsRQpMK2euj1blvdEVEiJ70S7pftqsGuhMWduJX5HT4X10mWbwzUzEygo0A0ZeF0GtKYgCkViWkITbhvko2ofasRrFBGcoyOTjoO0oNOaQaf8Y0d2U+Nv6f4smG8BOCOAllhS/j3QE9tgCgLKrYCAu0OqPCv/Aahjsac22zTrG4pL+sappjpbUnyJG32XSbxJvFjg9Xsu5G3WV4pLNK8RV1ekIOcTZTrZFxkIajnEVF6IkhB2sec7U2WparsSnSyVfD1fpOQyDw3K1uyDfL42I/KCxs+JJnQwXrLoff9ZAl0adN9CEQ4uWf8Su6g6C37ILqePk1u9XnVIvb1oApLaTL4VcVbGjTJ1Wqk2ZBYqEwljVSYvMTQ==;UGltzkds1aVVJtnc13fjXQ=="
 ---

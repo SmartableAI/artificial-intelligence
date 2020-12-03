@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-military-market-is-estimated-to-reach-188-billion-by-2025-growing-at-a-cagr-of-149-from-2020-to-2025-2020-11-28"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Artificial Intelligence Market is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2020 to 2024"
-    excerpt: "Global Artificial Intelligence is estimated to reach $43.2 Billion by 2024; growing at a CAGR of 59.8% from 2016 to 2024. Artificial intelligence (AI) is the concept and development of computer-systems able to perform tasks usually requiring human intelligence,"
-    publishedDateTime: 2020-11-28T11:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-is-estimated-to-reach-432-billion-by-2024-growing-at-a-cagr-of-598-from-2020-to-2024-2020-11-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "PCGD/AZXojRioZwd/t0y4YVnhmj8Sshsk+ZOCD5mqVKsBkjD6jv28tTwjrG3X/yh8Sy/b3AnSeIt905rqPkYc8Ceq5FshPoUziWAZ/BGSuvHpx0UstWQ71ksKNg0Ej1KZCQdd13TYLVKXosMOuFriuc1xP44vqet1NkWvsEhHivs5M4hRA5AoYw62zI478EoW//boF1UgrRXVS54k6IEMB3t5mLQq8C+AMZ6MzaJFktbRHAIbsOW/ri3cvx8YyfGO6j8QP9AsS8ZYZmvJorUQMyABiRo4HSDOxPyMueGW6p2ZYnwtAFZ7ApIUfRT9hX0avlnEwqMU4kue87PjVKJ5/sszmmae1gXH7+t0GD9+7g=;b/i5GlceP3zp7UnpY239vg=="
 ---

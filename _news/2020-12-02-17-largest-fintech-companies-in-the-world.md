@@ -41,22 +41,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Malta’s Pivots to Becoming a Fintech Haven"
-    excerpt: "Crypto enthusiasts and industry observers alike are asking what happened after the joyous announcements and parties. A better question would be to ask what happened before all that. In short, there is an essential mismatch between the original vision in 2017 and the original actions taken in 2018."
-    publishedDateTime: 2020-11-28T12:28:00Z
-    webUrl: "https://beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
-    ampWebUrl: "https://beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
-    cdnAmpWebUrl: "https://beincrypto-com.cdn.ampproject.org/c/s/beincrypto.com/maltas-pivots-to-becoming-a-fintech-haven/"
-    type: article
-    provider:
-      name: https//beincrypto.com
-      domain: beincrypto.com
-    quality: 44
-    images:
-      - url: "https://s32659.pcdn.co/wp-content/uploads/2020/11/bic_Malta_blockchain.jpg.optimal.jpg"
-        width: 1140
-        height: 570
-        isCached: true
   - title: "Even with machine learning, human judgment still required in fintech sector"
     excerpt: "A COMBINATION of recent events has seen a rapid acceleration in the adoption and incorporation of technologies by a wide range of firms and institutions in the global financial sector."
     publishedDateTime: 2020-12-01T05:55:00Z

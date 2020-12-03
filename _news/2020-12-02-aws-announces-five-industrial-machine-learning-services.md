@@ -98,16 +98,19 @@ related:
       domain: bloomberg.com
     quality: 38
   - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
-    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
-    publishedDateTime: 2020-12-03T00:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18627184/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-a"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18627184"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18627184"
+    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (“Solaris” or the ”Company”) announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers greater insights into oilfield data,"
+    publishedDateTime: 2020-12-03T04:52:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-business-corporate-news-products-and-services-energy-industry-8b5969e568fb4c5e9099d8da9cdf30be"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: Associated Press
+      domain: apnews.com
     quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "+N/XbdkFhxgw9Qa2tOVhFHtZzkpDrh1jL5yS7YRAMCgQHf7MKJlMM7L/LLqnh6VhOrgHMp+sI9Pt8gl6uIkXnsJhk+2g3PlL8vSsKaujvEZDHZP4DEwmOrSPXjqc26ja/xOhUnVhB9Cr5qWhn/8yQFL6QztjMVJFIJNr4U1gx3lH3Rgf6g0l53FvrLH6dRl339wB0k/TcFdVuvUylDn8AuHKEhC5M5nwSyMl6R9te0+1jwqf0cry+zlGn0RDxgymBApEPS9IbJelt0HjylgUQL9kPY6c3kZIHtJOz2p0iYooRrk0sDOWgv27j/i1IyPHMewrQSDE7h0gIO57n4BoKygr/xiz0dKs+RVaaIPUw0M=;Qd/jnBAcdaf/fjuDg1F3XA=="
 ---

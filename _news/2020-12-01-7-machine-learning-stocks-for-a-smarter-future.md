@@ -8,8 +8,8 @@ webUrl: "https://markets.businessinsider.com/news/stocks/7-machine-learning-stoc
 ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 type: article
-quality: 73
-heat: 93
+quality: 75
+heat: 95
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - AI
   - Machine Learning
   - AI in Finance
+  - AI in Autos
 
 related:
   - title: "4 AI Stocks That Are Helping the World Make Smarter Decisions"

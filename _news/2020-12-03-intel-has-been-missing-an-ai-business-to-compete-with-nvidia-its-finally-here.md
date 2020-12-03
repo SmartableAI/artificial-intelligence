@@ -8,7 +8,7 @@ webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-
 ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
 type: article
-quality: 52
+quality: 54
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.barrons.com/im-267539/social"
@@ -82,6 +83,6 @@ related:
         height: 267
         isCached: true
 
-secured: "1zsxDS2gZDqw8+vX8U3ofD7PiRRLRbjlO42WonqZyBHMMkz6S3YkeibXPSfJyYLC7rhvWTjRZmMqB1nWAiIykhPe+K162clcm8za48DPpWItrcLsO19DM2iTkb0/AUeGRKbdQVCeUgem2U3V8Sj96R3VPYNZ8bCf4Hz7QCOkxodYYLqjdwp0BSFjiWeuj8mK6VFicCcSzcnW5vDRAlgeL5efISXA2wGtsOBSJpA4pzr3v9a8nRrKB5nH5QTuMYXmXNXXvtZq66/jRIdfEgEHs7fE9gT3MmAOBVtqhS46Tx0eyW23aRR6Earqx+AU1cvbz9/jwv9/Am1MUCa71sTUVvYs0MuVO+4XJRn9MYk5VKk=;UtGL0ei6q8cWuinoKYdkgw=="
+secured: "TsKjBMMCm25FalohShPNRgoghM9MkLoATltO/FBXy6yvQ6CG/TkQQqZ/Ia5EwKQ8x7HX2YLCJAarwesIFfoadFMH4JfQam9dpxFQULJUrvByfiSi4KFAkW2mnVgAbp3L0B44hb0/nSXaeEYT9FPgdPGR2+yfU+tmRTjyLkSbJkiHgdSYeyklCtB40SMYFwIBPXhN4hxcJ8B/T4ShMBqBBnSDJMWaXWT5Hw5Sdt0FbG7/Tf8W3tZ51CYHELE2HdpaiERmnWpOVHh6ig2RNsApIpSM3mUFYoHreRWI4dqLdvka+urFxYsOGPr2QYL/kiOgZHMrqjm4yDefP+tpJn0IVX+TqfQu8JR+FKHpGfQzKgNL1nsgwPxhf9VcbKdyz+HRwJYbpuieUsBiheEKuk50ovpCZoQ+9e43kct8uWummidItt7J3Hj+wKZ2GDm4MXGr5xBKyAEC4s3PXdqS9T14E71bWn2e95D86XAm3SQy60D1JMjxtGPYJcBBL4qqnR+OlIQInxPZyi43omnJt1HsTg==;Ag82dKFNJKLotIc0VVEQrQ=="
 ---
 
