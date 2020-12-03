@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-suppo
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ultimate-ai-scores-20m-for-a-supportive-approach-to-customer-service-automation/amp/"
 type: article
 quality: 82
-heat: 92
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,21 +30,32 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare process automation startup Olive AI lands $1.5B valuation"
-    excerpt: "Olive AI, a startup automating routine administrative tasks for health systems, raised another $225 million in funding, bringing the total raised this year to $385 million."
-    publishedDateTime: 2020-12-02T02:06:00Z
-    webUrl: "https://medcitynews.com/2020/12/healthcare-process-automation-startup-olive-ai-lands-1-5b-valuation/"
+  - title: "AI construction startup Versatile raises a $20M Series A"
+    excerpt: "San Francisco-based construction startup Versatile is announcing today that it has raised a $20 million Series A. The round was led by Insight Partners and Entree Capital, along with existing investors Robert Bosch Venture Capital GmbH,"
+    publishedDateTime: 2020-12-03T12:03:00Z
+    webUrl: "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/"
+    ampWebUrl: "https://techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/03/ai-construction-startup-versatile-raises-a-20m-series-a/amp/"
     type: article
     provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 54
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://medcitynews.com/uploads/2018/07/GettyImages-896076386.jpg"
-        width: 725
-        height: 482
+      - url: "https://techcrunch.com/wp-content/uploads/2020/11/C130761.jpg?w=1024"
+        width: 1024
+        height: 768
         isCached: true
+  - title: "HR startup Eightfold enters unicorn status after $125m series D round"
+    excerpt: "HR tech startup Eightfold AI said it has raised US$125 million in a series D round led by General Catalyst, pushing its valuation to US$1 billion. Existing investors such as Capital One Ventures, Foundation Capital,"
+    publishedDateTime: 2020-12-01T05:05:00Z
+    webUrl: "https://www.techinasia.com/hr-startup-eightfold-enters-unicorn-status-125m-series-d-round"
+    type: article
+    provider:
+      name: Techinasia
+      domain: techinasia.com
+    quality: 32
 
-secured: "aC5N9HZJ44ozUsaVfWOWFqCbk7EVqFBc51mAoKfGq5RbuHleYYoqLBFvitl+lnP+X9gjxgJE2itAcuZZdcgteFerM3FdWyRfHHOPaxpYPp04BUgmlm5+uIYue41jLmBY0uqCzcxGhc/j2rPpZDYSHumU2KIWK9SYD+qgudkEkGeLOxN+2ZfSdWu323e42Oh25zcIGAnrVgVamN87kmbASA1MduNV2ZIPn9gtaEw0YGLEZvMhVqmL3tK5DH7if7UWFtNymOBBhipD6k7JhXlkTlLL5EUbblHtEc97V8TOWrCCTvRx4tQ2QQM8xUEe5HLaWy24qabx21kHoQbdG/lz5wm0yG/IrqmzVx5u5HF6XxA=;OXNIw6Shrodvx9Sx1nGkaQ=="
+secured: "PUFR8grt7mksuuGzb0OO4MIW6DtC03FZoN7xu6rb9yXJ8sg5OY0j6oieV3MOY0V5LmgmaFUvC3t/Obf4QFEgL+KIypIKvSQpv4X4EUZMIbvauyfSB0R74jJv6spa2n1y1sTfu7vxQyKuFharGQ2NP/V2+3eXw2tyiQ9tgtXL2eV+AmU93cvaOB+Od6+lwIgkoKl5UoLofYgy3lc3LRsQ3XunqTIshuR4PEvg3MQtgXNFzowCsD6E2bBlStxg7TgRfyjdgw4Sm9Aegn35WpdqxR/J5V7NT+myVVycq4YH+e2iDd4dLKEFQwtpv4btVxLzWeMMd63zkSRYs7iKz/T0nT7IOuCcO8tVhGrdeCYlurjIur3yHce9RWJec1aTY/A33guWTyI3ESgFMDDi/7s5XGDoMCf/N9AnfKrf6IKNUmltnHMaVgkab64JLPgmMgeqrLHz0L3Nu1i5qUen8wD/w2fUvugoS6CguhQBopVS6uhdUZEwrfTgTiRMEehU/Y5nMITaPRFO+zhC2vpTnkfEQA==;hiap1PqhH8gIP8NkvohBxQ=="
 ---
 

@@ -1,30 +1,28 @@
 ---
 category: news
 title: "AI-Based Startup DNSFilter Protects WFH Employees During COVID-19 with Innovative Software"
-excerpt: "AI startup company DNSFilter provides a DNS security threat and content filtering solution for enterprises. Their"
-publishedDateTime: 2020-11-30T09:33:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/20/11/n18575341/ai-based-startup-dnsfilter-protects-wfh-employees-during-covid-19-with-innovative-software"
-webUrl: "https://www.benzinga.com/pressreleases/20/11/n18575341/ai-based-startup-dnsfilter-protects-wfh-employees-during-covid-19-with-innovative-software"
-ampWebUrl: "https://amp.benzinga.com/amp/content/18575341"
-cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18575341"
+excerpt: "AI startup company DNSFilter provides a DNS security threat and content filtering solution for enterprises. Their industry-leading"
+publishedDateTime: 2020-11-30T13:33:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/ai-based-startup-dnsfilter-protects-wfh-employees-during-covid-19-with-innovative-software-301181604.html"
+webUrl: "https://www.prnewswire.com/news-releases/ai-based-startup-dnsfilter-protects-wfh-employees-during-covid-19-with-innovative-software-301181604.html"
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1344641/DNSFilter.jpg"
-    width: 400
-    height: 224
+  - url: "https://mma.prnewswire.com/media/1344641/DNSFilter.jpg?p=facebook"
+    width: 1632
+    height: 854
     isCached: true
 
-secured: "QAw8otO8YJD4isqDtmHaGfzwezrNSShyXUDNAsxfLQPFJ/QxZrqOYFL1HnhdztwLvXyakf4rCKa7qbTF//BR22fDDzmw31ZtGsHruGwfJ0HqZP5kJtITqbD+Mky3pouYVepnb//X161kPte5D2u/aUE84GDPbwQwOyDdGDaxwcJ+NhTVN8cNfUataOMGEGJA+z0pyRYixLGor1mGQmKjSkiNYd/6Y7S5al5IJFTyDSykJwe8xUeBolV+ZgzHWLGbkqsljCkZakaHuTxx57xvKMRmfo7BkjkotDxmyqjatTpHrzoD9vt8nT8AxijGQX9XLQPSgjxDu0GOrJ9D3fqVky842iFbu4RkoMvWc9kJ1uI=;idRRwSmVA1VQGH/gKdOPpw=="
+secured: "+1b1qOfeZ73kloU532WVa8hYkc8eVOQmHFxB9gRR3GoZ0HM/vMEipozAWSs5NmA98Gfa/dCmJ39cl7X/QZGERu9GkkVN2w+xEeROSSVMo4GKzUxU5RQtiIE7xaHq/JTT5Z1I3V0dVgefSQ9Gzu55MigkQbTFKInUqlVT76J31Pd7hA0N/pG6MJkg4p/R9ACYltfHVqPP8pK8wFZXG5Cd1HgKUgnJoz1bBUm6+Sm0S/QiZ0jRl2R+etweIdzwSaZdicd/L1oj16wgQBiqYZoK99qKfsoAtklosVPGyA/rR+fkWt4KMK8cwnVOg1/H1w5Gv1z94wLfej0VaXTEVYAYXUXG+3pInRNMA5YPzbmd6h4=;Ue3J1mA28AYfMy1YDjTSpQ=="
 ---
 

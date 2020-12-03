@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equ
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/12/01/how-ai-equips-lenders-to-avoid-covid-19-era-pitfalls/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -133,6 +133,20 @@ related:
       - url: "https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/11/AI-7-e1606637006803.jpg"
         width: 900
         height: 601
+        isCached: true
+  - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
+    excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
+    publishedDateTime: 2020-12-03T12:04:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/12/03/covid-19-will-pass-but-artificial-intelligence-will-be-part-of-its-legacy/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 35
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/12/Big-Head-Article-202012021404.jpg"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "rlVV11fK6cKm5tzmTbLrANcVCr1AWxA2uJFjpWqzeUt0h8xr3wyi69yZH8hhtTnzcMW2p12/1Hp0YoRtlGhVbxtXVQ3O0Rjc2gShczpyB+0Nx1QFrVVjITfCg0z4KYEUA7b/i6pTgcVBPKCWyyxVr6JTqb7lK4h3y8C0UFsX8cL41TBZ69tImQ2vnMp7K2g0eUNNoinSakYNcJn08g3l5RI/Fakev4DgaF9kfMGT/SAMtlwv656j9NEJIdyCspuBMnWYhs/Kp6AnPna1UIK8kBNGPj9Zmg02BvTAGR7gnHrhBDI+aDxG4N9p/1lzVfyNCrtPxqrJkDDgRuQDg07CL0ArZils+yVRsqZA54A3CmRdcYckl1vk2k/7yvL4WMbgaZrCDVng1y+TY3CnvAU1Ppmxk3YwEJn3iMIrreQ0txG6hiOTNd6ER+8fft2ht2mzjID9YN55qNiJIO+KDBSPewuXI8jQi1sJX3C+AXkBumBkezfsPSIkRTK1TdJxY3jXtRJYsiOVz8BwTsaJpa3EHQ==;4GLgxc5hlFE/Z2qSMsu2qw=="

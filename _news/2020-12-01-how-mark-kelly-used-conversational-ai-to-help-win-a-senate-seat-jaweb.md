@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Eight considerations for conversational AI in banking"
+    excerpt: "The growth of Fintech, changes in customer needs and behavior. Here is a list of 8 considerations for conversational AI in banking"
+    publishedDateTime: 2020-12-03T11:29:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-conversational-ai-in-banking/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 54
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
+        width: 300
+        height: 300
+        isCached: true
 
 secured: "c/ZvH4TiTt0j4Eb1zFRDcP2SMNA0+djSjGFH4Kp6tyqd2AAy9F2W3AlZyD71BIfZOOsBJI2RlZxmzpRq3yZY4sZmB3q31oJ/JHI4rY8zfoqAm/Jv2lIqe3HZVTzbLwIq6lllh0sMwYGhBCUoh0XVUgND43Ik/RK6MdTmwPf3NTTXowrxOX0QYMITtRma8NhedTuLwDQnRau27sCIMcTj+765CgDSAzGJe4j7ZhfWSrZoqxHbwUcM/27hVzRjDb7FdhaQJGfmQOSStFpah9s6hw2gb+n1pAzb+jykYr5G5tEHefAa5i5ZJs07NoFYf6SBx8bVG2RST3Fieg/nz9YV1SWzn2XcHWf6UT+cNd0FlC+IdLCaXh/+ncRShB1jXPYUWDMVA82A1wkti2JWuEobSxTu8jIcGzx+wst8oka/bYbFnEGs885Z06c9NAvAQOLa7ZhH67smXhWEhos4y+isDuY17ioTCVTqA3ZluR/PK/UKfgQ8RcxeW0OWMlL6LlXe54DW1XdeYIDUzo9c6aA1GA==;OEqhhQQClKiDYjNMKqhzhQ=="
 ---

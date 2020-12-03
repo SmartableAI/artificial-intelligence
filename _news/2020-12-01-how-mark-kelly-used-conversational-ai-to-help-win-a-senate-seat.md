@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/11/30/how-mark-kelly-used-conversationa
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/11/30/how-mark-kelly-used-conversational-ai-to-help-win-a-senate-seat/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://elmoudjaweb.com/wp-content/uploads/2020/11/How-Mark-Kelly-used-conversational-AI-to-help-win-a.png"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Eight considerations for conversational AI in banking"
+    excerpt: "The growth of Fintech, changes in customer needs and behavior. Here is a list of 8 considerations for conversational AI in banking"
+    publishedDateTime: 2020-12-03T11:29:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/eight-considerations-for-conversational-ai-in-banking/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 54
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2020/10/FinTech-Singapore-financial-technology.jpg"
+        width: 300
+        height: 300
         isCached: true
 
 secured: "wN5Z1INyfAJaLFLC4YtO5O/+BXcncl0ZepWCX0sd7tX1w3/zQ+88I/wJENJSLrBk9I5PzLwwEwxDJSOUq4z5E7X7LH4IlAkxhXiwwqn0q8WaaqVzeF4YTwqorz1ZoOkxZaWQ4bHPfyMAFc1Lc16hIiWEwrubONp0gczbKHNdnohxpucptSoRKWV6gzU6bJTqVxjOJRrmDHHUb0FLuZ3Uac7Rtk3xrK0Y7hMr7WTKhqs7MjWmChB/IQF8S7jS1JWuUM2frad4W/xWTTJ3JxtpiuxAOIIbwdyEDh+ho2V4dsFSmp9Cb2tlXWefukb+OiD5JmMEPClVB29R8rV7R4zsbxvlo2EJ/zWGJqhsqkKNDos07axYbOAKulh1V2UT9CXXvz/M8eM31G35RUGjB1O16FHgKMdGcAjOmTs2x8SDoHh4tP5sXKx6s5ex+0jBidClgQxTDUPP+KGxeQnp6zLiqU0f6YM3xs0VSjKydY+MYntHFh51VAiByf2QSbOOzL7AkDyF5eJDwEespxODWISCvQ==;v8NgLihvJDIi3Lm+UHYHyw=="

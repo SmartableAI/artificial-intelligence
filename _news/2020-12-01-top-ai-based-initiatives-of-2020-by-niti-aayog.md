@@ -33,7 +33,7 @@ related:
     provider:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://analyticsindiamag.com/wp-content/uploads/2020/12/ai-chips.jpg"
         width: 1600

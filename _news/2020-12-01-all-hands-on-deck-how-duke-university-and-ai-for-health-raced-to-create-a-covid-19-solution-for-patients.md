@@ -135,6 +135,20 @@ related:
         width: 900
         height: 601
         isCached: true
+  - title: "COVID-19 Will Pass, But Artificial Intelligence Will Be Part of its Legacy"
+    excerpt: "While COVID-19 will pass, the fundamental shift in working practices and technology adoption will have lasting effects. Lawyers have realized that you don’t always need to be sitting in the same office as someone to work effectively."
+    publishedDateTime: 2020-12-03T12:04:00Z
+    webUrl: "https://www.law.com/legaltechnews/2020/12/03/covid-19-will-pass-but-artificial-intelligence-will-be-part-of-its-legacy/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 35
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/397/2020/12/Big-Head-Article-202012021404.jpg"
+        width: 620
+        height: 372
+        isCached: true
 
 secured: "qheK1EGOYFTUo8iz/pzfFgLuSF3JhtFDvZR96kBeEBQIJQJ3NMqO15ts/EI+4WHeVkGaQg3qYlZYnssQtM8hWppXf6aML9PYW3R+kld4hvQz+xirygkezBDN28agRvYnVWYiO/nvve1ZFiVvV90iax4+b3toNOd7pmMaIA1K8BknxwZFszidgwBPYMITN96ELqSbFIEof3EyiRXjUDH8LX5OcyLMb0dDGU/2aS01M8WjRH5RUeQZ0AJbe2yMph8aCwsPXbGJP/XLeK9AUFts0Q1KhtUNeVuDnx4S1021K3H7AVSr7OH2YbzUqP88HleSrQsIEbf7snO8oqVoGOJHHyxhkJbSnebpjhazIa4BikI=;gW5xPdskzyeHWvfwH/OJXQ=="
 ---

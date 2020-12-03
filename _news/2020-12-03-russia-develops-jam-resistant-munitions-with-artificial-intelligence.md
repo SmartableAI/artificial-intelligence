@@ -9,7 +9,7 @@ ampWebUrl: "https://tass.com/defense/1230677/amp"
 cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1230677/amp"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -18,19 +18,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Russia’s top brass to train naval pilots using artificial intelligence"
-    excerpt: "The latest simulator facility with artificial intelligence elements has come into operation in Yeisk in southern Russia, the Defense Ministry informed"
-    publishedDateTime: 2020-12-02T09:19:00Z
-    webUrl: "https://tass.com/defense/1230385"
-    ampWebUrl: "https://tass.com/defense/1230385/amp"
-    cdnAmpWebUrl: "https://tass-com.cdn.ampproject.org/c/s/tass.com/defense/1230385/amp"
-    type: article
-    provider:
-      name: TASS
-      domain: tass.com
-    quality: 52
 
 secured: "zhYavz/2PKJlsE1briPeWytM62rXViUpkiSoWI7F+odQGFS84aaFK0jnZ13jZ0v0dss5JWb5BPGxQ4otyvn9UdSJdKyiTjrv0uyu8N5iiNJ517uqNmiK37E/qCUxDm21R78t5xhrDmi05p+qOMiGPGL/WZB41kJXQKgHm9mrntv0XPj7Qt5tRHH3+zVbv3PnYfPbw/vqWWURMPL7xgjOW6QGUWFizI0Jjd4St9L+euqNyahuBdOUqt6uWyTRqT4DoC1CaXIM/4xJKtbNZl/l0UeKj5uErFLNAMmugNkXOI8VnQHhlFfvyvpsVn537ccXWA/lhX4BZnhDTKVg18lMFHRQJ/I7KqrKvjkAfKbaEXQ=;VRoOubJ7C7ZK2RuPugbnUg=="
 ---
