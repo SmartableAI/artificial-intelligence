@@ -27,98 +27,42 @@ images:
     isCached: true
 
 related:
-  - title: "No bugs in facial recognition technology, says state agency"
-    excerpt: "Hyderabad: The Telangana State Technology Services (TSTS) on Tuesday said that the facial recognition technology system for voter verification by the ."
-    publishedDateTime: 2020-12-01T23:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/articleshow/79518828.cms"
-    ampWebUrl: "https://m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/hyderabad/no-bugs-in-facial-recognition-technology-says-state-agency/amp_articleshow/79518828.cms"
+  - title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
+    excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
+    publishedDateTime: 2020-12-02T00:45:00Z
+    webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 66
     images:
-      - url: "https://static.toiimg.com/photo/msid-47529300/47529300.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201201&t=2&i=1543091445&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB03DZ"
+        width: 818
+        height: 545
         isCached: true
-  - title: "Madison, Wis., Bans City Agency Use of Facial Recognition"
-    excerpt: "The Madison City Council has now banned all internal city agencies, including the Madison Police Department, from using new facial recognition technology for any functional reasons or purposes."
-    publishedDateTime: 2020-12-02T16:11:00Z
-    webUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html"
-    ampWebUrl: "https://www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/Madison-Wis-Bans-City-Agency-Use-of-Facial-Recognition.html?AMP"
+  - title: "Masks are more likely to protect you from COVID-19 than facial recognition"
+    excerpt: "Facial recognition firms got more than they bargained for when COVID-19 struck. While the technology to identify faces when wearing coverings like the medical face masks we see today has certainly existed,"
+    publishedDateTime: 2020-12-02T12:06:00Z
+    webUrl: "https://www.ameinfo.com/industry/tech-and-mobility/masks-are-more-likely-to-protect-you-from-covid-19-than-facial-recognition"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 59
-    images:
-      - url: "https://media2.govtech.com/images/shutterstock_1392652700.jpg"
-        width: 939
-        height: 630
-        isCached: true
-  - title: "Facial recognition software getting better with mask wearers, says study"
-    excerpt: "A new study shows facial recognition software developed after the start of the COVID-19 pandemic is doing a better job at recognizing masked faces."
-    publishedDateTime: 2020-12-02T15:01:00Z
-    webUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/"
-    ampWebUrl: "https://wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
-    cdnAmpWebUrl: "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/tech/2020/12/facial-recognition-software-getting-better-with-mask-wearers-says-study/amp/"
+      name: AMEinfo.com
+      domain: ameinfo.com
+    quality: 17
+  - title: "Amazon delves deeper into voice recognition, call-centre work as demand grows for cloud tools"
+    excerpt: "Executive Andy Jassy said COVID-19 has accelerated businesses’ cloud adoption by several years, and more than 5,000 customers turned to the Amazon Connect service for call-centre help during the pande"
+    publishedDateTime: 2020-12-01T20:17:00Z
+    webUrl: "https://www.theglobeandmail.com/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
+    ampWebUrl: "https://www.theglobeandmail.com/amp/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
+    cdnAmpWebUrl: "https://www-theglobeandmail-com.cdn.ampproject.org/c/s/www.theglobeandmail.com/amp/business/technology/article-amazon-delves-deeper-into-voice-recognition-call-centre-work-as/"
     type: article
     provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 58
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2020/12/1202_masks-1024x683.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Madison City Council bans city agencies from using facial recognition technology"
-    excerpt: "The ban includes an exemption to allow the Madison Police Department to continue its limited use of the technology in cases involving human trafficking, child exploitation and missing children."
-    publishedDateTime: 2020-12-02T05:55:00Z
-    webUrl: "https://madison.com/wsj/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.html"
-    ampWebUrl: "https://madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    cdnAmpWebUrl: "https://madison-com.cdn.ampproject.org/c/s/madison.com/news/local/govt-and-politics/madison-city-council-bans-city-agencies-from-using-facial-recognition-technology/article_5e1b743d-17d0-573c-925c-00790b462f4b.amp.html"
-    type: article
-    provider:
-      name: Madison.com
-      domain: madison.com
-    quality: 54
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/madison.com/content/tncms/assets/v3/editorial/0/f2/0f2e861d-0159-586f-8b36-51224ddd6f9a/5fc73b36d5cad.image.jpg?resize=1024%2C700"
-        width: 1024
-        height: 700
-        isCached: true
-  - title: "Stanford likely helped develop facial recognition tech now used against ethnic minorities in China"
-    excerpt: "U.S. government calls universities’ facial recognition technology development partnerships with China a security risk."
-    publishedDateTime: 2020-12-02T05:14:00Z
-    webUrl: "https://www.thecollegefix.com/stanford-likely-helped-develop-facial-recognition-tech-now-used-against-ethnic-minorities-in-china/"
-    type: article
-    provider:
-      name: The College Fix
-      domain: thecollegefix.com
-    quality: 40
-    images:
-      - url: "https://www.thecollegefix.com/wp-content/uploads/2020/05/ChinaSpy.Bee_Bright.Shutterstock.jpg"
-        width: 580
-        height: 380
-        isCached: true
-  - title: "San Diego’s massive, 7-year experiment with facial recognition technology…"
-    excerpt: "U.S. Supreme Court on First Amendment rights and social mediaNicole Black on LinkedIn• 3y Florida Court on judges and Facebook friendsNicole Black on LinkedIn• 3y"
-    publishedDateTime: 2020-12-01T01:28:00Z
-    webUrl: "https://www.linkedin.com/posts/nikiblack_san-diegos-massive-7-year-experiment-with-activity-6621079374517030917-ukMF"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 37
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4E34AQHgxJJEy9zZvA/ugc-proxy-shrink_800/0?e=1606881600&v=beta&t=ebB1Z_9dvFoVV3CCh5uuhR4j0vbFdvrOJX4Y3XrGiEE"
-        width: 800
-        height: 450
-        isCached: true
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 13
 
 secured: "XSAfokG86FwCjgYNBrcxqmTLB4e7QXitBxro/XsDf4TigXNKc+8cH0ga3BMhHoektnOsvh9yIMoyko/ToSUT44uaCpMaGcOAGmSD9wkmMI++hlvO6WM/709Gh+SOmo7Y8O0DUycAZ0D5uTopIgbSInt50bhXfD+Us8x8RFZPqCGIF3nKGpFV6flOPT9YXwiFBLVZC4iVxJHNoG8okQFsTl9TmOOdun4NXwqoVBTZrGZ3xypBTWPwGwSYk+QmQYNyQUQkmUqyXlid1NnB9/eX/ZA3/OACepMcVY1yP4vS+1Uzpy5+h1iab4C5M0pN/XTIg0EJfUhvw2Szn7IZfcehudFX0ZW9ykPpLNNidozkg6Mo2MnzwMsUjuNTxyP8jLBG+gvk0nLe4l9CT+dFV/Bn8zzZd1+PW7Vp4uqlz2ZRLoypwvDfuusfP6xUUnmFN5XamjVcWBNUtf2C8DPwhQ/XNTknuxUX9EQ0gpWBAeE9dcWw23/0e3tXMQHYFc2CvtMZ/9q32orJiUueXYq9sIc83g==;05fUAR7eFvOQgnekZM19ow=="
 ---

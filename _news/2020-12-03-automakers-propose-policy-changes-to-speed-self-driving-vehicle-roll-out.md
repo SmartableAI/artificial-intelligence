@@ -38,6 +38,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 54
+  - title: "Automakers Unveil Plan for U.S. to Speed Up Self-Driving Vehicle Deployment"
+    excerpt: "A group representing major automakers is unveiling a detailed proposal Wednesday aimed at making it easier to deploy thousands of self-driving vehicles in"
+    publishedDateTime: 2020-12-03T06:07:00Z
+    webUrl: "https://www.insurancejournal.com/news/national/2020/12/03/592510.htm"
+    type: article
+    provider:
+      name: Insurance Journal
+      domain: insurancejournal.com
+    quality: 22
+    images:
+      - url: "https://www.insurancejournal.com/app/uploads/2015/07/Autonomous-Vehicles-the-words.jpg"
+        width: 900
+        height: 900
+        isCached: true
 
 secured: "QrjRovaTKjcYFkxkU8qi5+BzBMeCu9NiRpGe7xWPKLZMhgsyxqBOMQXREzwMS9At++LX5L/P9feZ1CJY+pSUtewlD2t+kQc8sX4QGNnIM3XIUHvdd8sDfc/6ZuGXgM/bYdKhCpVELc9r8jI+ovTJNew7gAjMP7qk0fYjvXIoyKAXhHXpMeT4eRhqPtr2VsFLk8+QgTO5UAKSYxfbQihvzQI2NhVz1ZYwVrgtLQMzLvJn+A6eaQEhVRv12Gcbrhf547VbAWnyFxyJqI8QnGWnvSaomEh6UqRHi1xD30xuo5iG/Cn+ZMT7LVuiRQXigstxBsu0htRZNGXX2nCIT1E7RLQpksEgJ0DHK0ugt9mBDJg=;uNwfIEHsIp/PB8gitDDruA=="
 ---

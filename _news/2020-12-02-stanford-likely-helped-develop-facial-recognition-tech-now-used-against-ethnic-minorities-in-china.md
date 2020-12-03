@@ -89,22 +89,6 @@ related:
         width: 1024
         height: 700
         isCached: true
-  - title: "Amazon Expands Call Center Business Technology With Voice Recognition"
-    excerpt: "As Amazon sees new demand for cloud services, the company has announced voice recognition as part of its new services suite for call center businesses."
-    publishedDateTime: 2020-12-01T22:32:00Z
-    webUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/"
-    ampWebUrl: "https://www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    cdnAmpWebUrl: "https://www-pymnts-com.cdn.ampproject.org/c/s/www.pymnts.com/amazon-technology/2020/amazon-expands-call-center-business-technology-with-voice-recognition/amp/"
-    type: article
-    provider:
-      name: pymnts.com
-      domain: pymnts.com
-    quality: 44
-    images:
-      - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_419039149-457x274.jpg"
-        width: 457
-        height: 274
-        isCached: true
   - title: "San Diego’s massive, 7-year experiment with facial recognition technology…"
     excerpt: "U.S. Supreme Court on First Amendment rights and social mediaNicole Black on LinkedIn• 3y Florida Court on judges and Facebook friendsNicole Black on LinkedIn• 3y"
     publishedDateTime: 2020-12-01T01:28:00Z

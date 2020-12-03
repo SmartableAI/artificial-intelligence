@@ -63,6 +63,22 @@ related:
         width: 800
         height: 569
         isCached: true
+  - title: "Massachusetts May Become First State To Ban Police Use Of Facial Recognition"
+    excerpt: "Law enforcement will only be able to make facial recognition searches against the state’s driver’s license database with a warrant."
+    publishedDateTime: 2020-12-02T01:31:00Z
+    webUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/01/massachusetts-may-become-first-state-to-ban-police-use-of-facial-recognition/"
+    ampWebUrl: "https://www.forbes.com/sites/rachelsandler/2020/12/01/massachusetts-may-become-first-state-to-ban-police-use-of-facial-recognition/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rachelsandler/2020/12/01/massachusetts-may-become-first-state-to-ban-police-use-of-facial-recognition/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc6eb04bae0598b6dfc6143%2F0x0.jpg%3FcropX1%3D0%26cropX2%3D5472%26cropY1%3D277%26cropY2%3D3355"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology"
     excerpt: "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology."
     publishedDateTime: 2020-12-03T01:04:00Z

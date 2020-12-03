@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Face recognition software making progress at recognizing masked faces"
+    excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
+    publishedDateTime: 2020-12-03T06:46:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/03/face-recognition-software-recognizing-masked-faces/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/28114110/nist-facemask-research.jpg"
+        width: 1000
+        height: 707
+        isCached: true
   - title: "Ugandan police accused of using facial recognition system to fuel rights abuses"
     excerpt: "The police in the east African nation of Uganda have been faulted for using a facial recognition system deployed in the country by Chinese technology giant Huawei to track, arrest and torture"
     publishedDateTime: 2020-11-30T20:39:00Z

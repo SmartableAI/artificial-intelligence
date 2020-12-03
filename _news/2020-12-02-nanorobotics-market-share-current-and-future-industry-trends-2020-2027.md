@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-shar
 webUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market Forecasts to 2025: Global Industry Growth, Share, Size, Trends and Segmentation Report"
+    excerpt: "Deep Learning is a subfield of machine learning concerned with algorithms inspired by the structure and function of the"
+    publishedDateTime: 2020-12-03T05:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-forecasts-to-2025-global-industry-growth-share-size-trends-and-segmentation-report-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

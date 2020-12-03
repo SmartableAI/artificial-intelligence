@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/7-machine-learning-stoc
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/7-machine-learning-stocks-for-a-smarter-future-1029854817"
 type: article
 quality: 75
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -28,6 +28,17 @@ topics:
   - AI in Autos
 
 related:
+  - title: "7 Machine Learning Stocks for a Smarter Future"
+    excerpt: "Machine learning stocks represent a promising long-term opportunity for investors. And they are not just about red-hot startups. There are also a myriad of mature operators that should benefit investors."
+    publishedDateTime: 2020-12-01T16:55:00Z
+    webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
+    ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
   - title: "4 AI Stocks That Are Helping the World Make Smarter Decisions"
     excerpt: "Stock Market News, Stock Advice & Trading Tips In today’s uncertain economic environment tech stocks (specifically AI"
     publishedDateTime: 2020-12-02T17:34:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmodo.com.au/2020/11/we-might-finally-be-getting-globa
 cdnAmpWebUrl: "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2020/11/we-might-finally-be-getting-global-self-driving-standards/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving robotaxis are taking off in China"
+    excerpt: "The world has been inching toward fully autonomous cars for years. In China, one company just got even closer to making it a reality."
+    publishedDateTime: 2020-12-03T05:47:00Z
+    webUrl: "https://www.cnn.com/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/03/tech/autox-robotaxi-china-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 74
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201202134709-autox-driverless-fleet-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "We Might Finally Be Getting Global Self-Driving Standards"
     excerpt: "There’s been something of multiple discovery-esque situation in the self-driving car world: Tons of different manufacturers are all competing to refine autonomous technology, often in wildly different ways."
     publishedDateTime: 2020-11-29T20:02:00Z

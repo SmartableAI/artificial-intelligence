@@ -1,29 +1,29 @@
 ---
 category: news
 title: "QuickLogic and SensiML Launch Hackster.io Climate Change Challenge Contest"
-excerpt: "PRNewswire/ -- QuickLogic Corporation (NASDAQ: QUIK), a developer of ultra-low power multi-core voice-enabled SoCs, embedded FPGA IP, and Endpoint"
-publishedDateTime: 2020-12-01T11:30:00Z
-originalUrl: "https://www.prnewswire.com/news-releases/quicklogic-and-sensiml-launch-hacksterio-climate-change-challenge-contest-301182257.html"
-webUrl: "https://www.prnewswire.com/news-releases/quicklogic-and-sensiml-launch-hacksterio-climate-change-challenge-contest-301182257.html"
+excerpt: "The SensiML Analytics Toolkit is integrated with the QuickFeather Development Kit and adds the capability for designers to create \"smart\" IoT applications using AI and AutoML technology."
+publishedDateTime: 2020-12-01T12:39:00Z
+originalUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quicklogic-and-sensiml-launch-hackster-io-climate-change-challenge-contest/article_c26ffc7a-ea58-56b2-a17d-11642a78801a.html"
+webUrl: "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/quicklogic-and-sensiml-launch-hackster-io-climate-change-challenge-contest/article_c26ffc7a-ea58-56b2-a17d-11642a78801a.html"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.com
+  name: WFMZ-TV
+  domain: wfmz.com
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/643697/QuickLogic_Logo.jpg?p=facebook"
-    width: 1807
-    height: 949
+  - url: "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
-secured: "0uuC666ROEMrCooeeEC+5EFc9CqQae0cujAduwCsU0nW3G/fKhdBxmc32+hNa3B4rQOtlqGVwd/sidqwseZcNnz0nOkepYFFLHvEUT4qkf+RwfFgfHVTXRxEqQL2Od7iaYEtkp4ntPyAN78JtXG89sYfJqAczQm0ulEkSieQHslsao27pQrepkb9nct89/+PYLXheQohoUW6tvy5qg+E1AH8YUsAfUJMHWGzp0O7hEG5gYHnGmHTtqukUGBypzJ8xuVTYJ1Fr0zWCar771eGNhsIul25zt/akTxsc1Wwbjrf7JsAz6ewWWwd6RpqdCfJlakLxpEUG5UsDsN7OEvWxQbJGkjwAKRur1iUoW42RxA=;RYCDWvhT3ain+ov48XKnSQ=="
+secured: "asn5Lf3aFMkiRTOUDkn6TgBT1iHQmnIO59kGc9iXrKrKjtG9ruf5E4CHAs0PKuIGEXEjl/wMHtYAAks1x687l/UzoLbbDQEGpxwhKxTc0v4+ZIxAAGAHRSY9j8v7RbmWGDMYkZPoy6IrOMwJwVGM1UfgWiEq2r3ag4UEyiRz4Wr7Au33wSP301BYXxD975S4xZZ0XWlgBaTI0ZIx6/XhWyO9XssKhrBvTM43Z0+qTDhJhmVFcAh0/awZIyDy0ZUO0sAnIH/RX/++dtrURj+PD9ahYTWy9BIqv6eIAPlaVAtquP2/uHP8tJK/OEsurpQlTTD4NCZ3bn+1HuFwm7mUX2byTWldO1f1OEWjlvWfRkE=;MxWIPante9czwEA60/lwKg=="
 ---
 

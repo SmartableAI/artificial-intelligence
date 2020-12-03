@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Spain to invest $720M in artificial intelligence"
-excerpt: "Spanish Prime Minister Pedro Sanchez unveiled Spain’s national artificial intelligence strategy Wednesday, which will see €600 million ($720 million) of public investment in the sector between 2021 and 2023."
-publishedDateTime: 2020-12-02T19:17:00Z
-originalUrl: "https://www.aa.com.tr/en/europe/spain-to-invest-720m-in-artificial-intelligence/2063555"
-webUrl: "https://www.aa.com.tr/en/europe/spain-to-invest-720m-in-artificial-intelligence/2063555"
+excerpt: "Spanish Prime Minister Pedro Sanchez unveiled Spain’s national artificial intelligence strategy Wednesday, which will see $720 million of public investment in the sector between 2021 and 2023. \"Over the next years,"
+publishedDateTime: 2020-12-03T06:45:00Z
+originalUrl: "https://tribune.com.pk/story/2274445/spain-to-invest-720m-in-artificial-intelligence"
+webUrl: "https://tribune.com.pk/story/2274445/spain-to-invest-720m-in-artificial-intelligence"
+ampWebUrl: "https://tribune.com.pk/story/2274445/spain-to-invest-720m-in-artificial-intelligence"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2274445/spain-to-invest-720m-in-artificial-intelligence"
 type: article
-quality: 54
-heat: 64
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: aa.com.tr
-  domain: aa.com.tr
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://cdnuploads.aa.com.tr/uploads/Contents/2020/12/02/thumbs_b_c_d964d85c0b58d7f3b08c1b17631787d9.jpg?v=220851"
-    width: 864
-    height: 486
+  - url: " https://i.tribune.com.pk/media/images/1195986-ai-1475986624/1195986-ai-1475986624.jpg  "
+    width: 940
+    height: 528
     isCached: true
 
 related:
@@ -37,6 +39,6 @@ related:
       domain: barrons.com
     quality: 52
 
-secured: "RYc2ltMFq2sAfkEPc1TSB7wY4XNss22fWQJhfCVK33qW324VrvL2y7yT/gL58e2IxDpPpUPXAGMvig5/nh/Mi0Hm5Z2A05CCE8Ti3dEzv5gR+fIIqMXQ3QwsIThppK6N6zlW/qfjSV5q1IxgHbZ0xmMLKTNP6lb6brXZP6Xa2Lu6Lr9OmHxdgfO5l4DMJOQ+28XXt0dBjbK7f0JCUt/lddczWbJEm1oXliKh3BOgT/4rY/qK9sohl2aFWHd3b8jCbUT0/HPw3YF2hnLYge8SS3pLtlewSKzaTO9jQ6ectIYq2uJS6ax7jloECMIYY6twoCj3iGde0Mkd0BVx/Ja31WPyzS0acHMhDIV/ysc61p5nwGL027geQSm7a7OX74O9Gtei8Q+bRY/ozPmhS5bMl0vR2G/7iV2L5U9bADYvMycbpeMn7QXzETfw5m7Qz6Xr1bvJzvzr4UaorLyJAOqAtx2g6T/QeOAlj/ZmVubOQtFQwxO7UHeXbqse8xrGOqtN4A7aVGrGtMi5tEpGBg7w/w==;UoQgd1z1Yzuy9WQbc7LWhA=="
+secured: "/sP2rhwECSKh/RVAs37XzIT8y0EzJkgdYcoRzUv34ceNIpsSCuR9VM6w8g8w50wGw0GwORDrCJrIMBhnTnvKNmFotlx1c8ebRB8esdN7S25gRU1/6UXXeosDzC7UBygZEVSs3Se2066izDFkketDo5kb8luMarIjjlq6p4rn78CdimrfNOE1bXON2Z7SND/+I4AjtnBvWCa/rnRl4wf0MAhFLNV8MoshpECc4Br0TtbLObUU5g2x04vsmyMtxrLNuse40tezANh3g3+VI8nm4LXC1QmeS4GIZRRL6cBhsD4MeV0mepuN1bwkr9/gqCY1HNv9rvpK3J0LW2ndSdDzXjFvX+jq1HcS4RzQ1Z/VagA=;P9EwyTVU5K++ZdFxvrBU9Q=="
 ---
 

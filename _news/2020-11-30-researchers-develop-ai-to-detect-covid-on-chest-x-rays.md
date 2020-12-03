@@ -102,6 +102,20 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
+    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 36
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+        width: 720
+        height: 490
+        isCached: true
   - title: "AI is one of such innovations that can control the spread of COVID-19 pandemic"
     excerpt: "Internet of Things (IoT), Big Data and Machine Learning help to fight Covid-19 and look ahead against the new diseases, However, artificial intelligence and virtual reality can help in accelerating covid vaccines."
     publishedDateTime: 2020-11-29T12:43:00Z

@@ -42,6 +42,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Face recognition software making progress at recognizing masked faces"
+    excerpt: "A study of face recognition technology shows that some software developers have made demonstrable progress at recognizing masked faces."
+    publishedDateTime: 2020-12-03T06:46:00Z
+    webUrl: "https://www.helpnetsecurity.com/2020/12/03/face-recognition-software-recognizing-masked-faces/"
+    type: article
+    provider:
+      name: Help Net Security
+      domain: helpnetsecurity.com
+    quality: 39
+    images:
+      - url: "https://img.helpnetsecurity.com/wp-content/uploads/2020/07/28114110/nist-facemask-research.jpg"
+        width: 1000
+        height: 707
+        isCached: true
   - title: "Madison Common Council to consider banning facial recognition software in most cases"
     excerpt: "At its meeting on Tuesday, the Madison Common Council will consider whether to ban city departments, including police, from using facial recognition software with a few exceptions."
     publishedDateTime: 2020-11-30T16:17:00Z
