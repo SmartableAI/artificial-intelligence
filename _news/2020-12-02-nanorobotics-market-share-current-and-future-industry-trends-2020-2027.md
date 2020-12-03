@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-shar
 webUrl: "https://www.marketwatch.com/press-release/nanorobotics-market-share-current-and-future-industry-trends-2020-2027-2020-12-02"
 type: article
 quality: 84
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing Market Size 2020 Future Analysis by Growth Segments, Opportunities and Challenges, Forecast to 2026"
+    excerpt: "Final Report will add the analysis of the impact of COVID-19 on this industry.\" This “Natural Language Processing"
+    publishedDateTime: 2020-12-03T07:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-size-2020-future-analysis-by-growth-segments-opportunities-and-challenges-forecast-to-2026-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

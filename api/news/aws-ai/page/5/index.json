@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2020-10-14-aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb.md",
+      "title": "AWS, Cohesity Announce Partnership Aimed at Tackling Data Silos – Jaweb",
+      "excerpt": "Cohesity Inc. announced a data management partnership Wednesday with Amazon Web Services aimed at helping companies secure, govern and analyze their ever-increasing amounts of data. “A typical [business] customer has all these different vendors in their data centers and in the clouds that they’re using,",
+      "sourceUrl": null,
+      "webUrl": "https://elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/",
+      "originalUrl": "https://elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://elmoudjaweb.com/wp-content/uploads/2020/10/AWS-Cohesity-Announce-Partnership-Aimed-at-Tackling-Data-Silos-–.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/?amp",
+      "cdnAmpWebUrl": "https://elmoudjaweb-com.cdn.ampproject.org/c/s/elmoudjaweb.com/aws-cohesity-announce-partnership-aimed-at-tackling-data-silos-jaweb/?amp",
+      "publishedDateTime": "2020-10-14T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Elmoudjaweb",
+        "domain": "elmoudjaweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-aws-free-tier-what-is-it-and-who-qualifies.md",
       "title": "AWS Free Tier: what is it and who qualifies?",
       "excerpt": "With AWS Free Tier, even the smallest businesses and developers can benefit from powerful cloud infrastructure. Amazon Web Services (AWS) is a cloud platform that provides businesses with a wide ...",

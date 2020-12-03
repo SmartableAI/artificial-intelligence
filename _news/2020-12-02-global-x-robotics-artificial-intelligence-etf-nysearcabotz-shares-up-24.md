@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-arti
 cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp"
 type: article
 quality: 85
-heat: 105
+heat: 106
 published: true
 
 provider:

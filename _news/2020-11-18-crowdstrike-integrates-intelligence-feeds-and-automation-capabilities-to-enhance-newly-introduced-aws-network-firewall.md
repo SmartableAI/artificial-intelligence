@@ -1,34 +1,20 @@
 ---
 category: news
 title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-excerpt: "CrowdStrike Holdings, Inc., a leader in cloud-delivered endpoint and workload protection, today announced it is a Launch Partner for AWS Network Firewall, a managed service that makes it easy to deploy essential network protections for all of a customer’ s Amazon Virtual Private Clouds."
-publishedDateTime: 2020-11-18T13:00:00Z
-originalUrl: "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance"
-webUrl: "https://www.nasdaq.com/press-release/crowdstrike-integrates-intelligence-feeds-and-automation-capabilities-to-enhance"
+excerpt: "Capabilities for AWS Network Firewall ... s single lightweight-agent architecture leverages cloud-scale artificial intelligence (AI) and offers real-time protection and visibility across ..."
+publishedDateTime: 2020-11-18T13:04:00Z
+originalUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
+webUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: Business Wire
+  domain: businesswire.com
 
 topics:
   - AWS AI
   - AI
 
-related:
-  - title: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-    excerpt: "CrowdStrike Integrates Intelligence Feeds and Automation Capabilities to Enhance Newly Introduced AWS Network Firewall"
-    publishedDateTime: 2020-11-18T17:00:00Z
-    webUrl: "https://www.businesswire.com/news/home/20201118005404/en/CrowdStrike-Integrates-Intelligence-Feeds-and-Automation-Capabilities-to-Enhance-Newly-Introduced-AWS-Network-Firewall"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswire.com
-    quality: 0
-
-secured: "uFeVm5NaVrY6+xQNSR9P+jbt3JhXZz9D2VUCKRCypdOudR9MN8YOy9RF9IA7uad8t6EPMrouaYUrja9Ldd7XxRHVNxbsqE0j4hjMH4399F9hHGZ1wmG7nZwP/vPff3CpVkRv90RMmV6sh1cp05pU/PTEzCxAwH+3CpBED7t6bOAGJpWm5vhRfoEHYExOJYxVT6zUe7TBVIBtHoNfzsLCoS+GYgtIxmkVorF+Lpd4o1Q2kizT8t4i+loLP5OxnoRCsJ4AuHQIP86GV1xMT3UocBH803XKbGBPoBGK07AEyyTI1FUZ34ngGxz88bug2+FRN4fMHhoaZrZZvxjeluOSPHu2Rj1GrKsdaCN/BwXmipA=;Fy0vjQylClbLwK58BP82VA=="
+secured: "roff1lJOpnxIdDgTQMQrW9Ou8WMZ69GxVyVQ2mKpM6spvH5SSR3fseEnOW9RFQHVAvddjquC5Vzf0x7d7t/LFkzfpkCFBxPnJJWXwv/mpVok9FWOuLPhfKECUIMlC+9APvVV8YnNadicbZc70sl+m5ljQYgQrhfH4i1QXjh61yPA1XpOod6Jd+cfpdBSTeGGGekomBDFDKc+nt16HVkItTGXHWzUswq8xEJTun2i9amN1Rp5mQwsjdX3aFLPTcyK65qVYBXAKwjnowT1r2XIc+0bD5mkPfRc2Ucnojh3XbXvsaH657kO14woN0jirPNSPODb/nided3o+GMWUNOi3A9RNirCP2cK5x8trdnkTkw=;eo+gy0cRw8/gpK9n/zWA3g=="
 ---
 

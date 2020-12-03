@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.ht
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: New York Times
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Aides’ Ties to Firms Present Biden With Early Ethics Test"
-    excerpt: "Some of the president-elect’s choices for top posts have done work for undisclosed corporate clients and aided a fund that invests in government contractors."
-    publishedDateTime: 2020-11-28T16:04:00Z
-    webUrl: "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.html"
-    ampWebUrl: "https://www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2020/11/28/us/politics/biden-westexec.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 104
-    images:
-      - url: "https://static01.nyt.com/images/2020/11/28/us/politics/28dc-biden-westexec/merlin_180453024_afacfb19-71d8-4125-b7a2-fd592224b286-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Biden administration seen aiding digital identities, closing fintech loopholes"
     excerpt: "The president-elect will take office during a rapidly evolving fintech landscape that will see advancements in artificial intelligence in finance."
     publishedDateTime: 2020-12-01T12:25:00Z

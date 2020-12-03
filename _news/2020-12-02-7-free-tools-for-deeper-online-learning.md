@@ -39,7 +39,7 @@ related:
   - title: "7 Machine Learning Stocks for a Smarter Future"
     excerpt: "Machine learning stocks represent a promising long-term opportunity for investors. And they are not just about red-hot startups. There are also a myriad of mature operators that should benefit investors."
     publishedDateTime: 2020-12-01T16:55:00Z
-    webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01"
+    webUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?time=1606971661"
     ampWebUrl: "https://www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
     cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/7-machine-learning-stocks-for-a-smarter-future-2020-12-01?amp"
     type: article

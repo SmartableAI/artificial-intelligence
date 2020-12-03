@@ -103,6 +103,20 @@ related:
         width: 640
         height: 384
         isCached: true
+  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
+    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
+    images:
+      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
+        width: 720
+        height: 490
+        isCached: true
   - title: "Caltech’s AI-Driven COVID-19 Model Dramatically Outperforms Other Models"
     excerpt: "Researchers hope the model can inform public health decision-making amid the pandemic. A new model for predicting COVID-19's impact using artificial intelligence (AI) dramatically outperforms other models,"
     publishedDateTime: 2020-11-30T21:27:00Z
@@ -116,20 +130,6 @@ related:
       - url: "https://scitechdaily.com/images/COVID-19-Computer-Science-AI-Concept.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "Artificial intelligence collaboration seeking to hasten COVID-19 insights"
-    excerpt: "Purdue University is joining with other organizations for an initiative to accelerate global collaborative research on COVID-19 through access to high-quality, real-time multi-center patient datasets."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.eurekalert.org/pub_releases/2020-12/pu-aic120220.php"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 36
-    images:
-      - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
-        width: 720
-        height: 490
         isCached: true
 
 secured: "iFLNF+q/2J3oq/F8jBushzkojfjAflIv6bdbTqr73sZkiZN5Ypne9XgDes4PLsiXr7fYiZyfzcT4YkhN2bATaHXrEDfEEt7Zo5zCiUFXfAezW0a2KjWzDTKyVPNkilc6gajUEV649eIYhuObIDz3wGtBdzBBZPsQfyYFpaE6FMC2A5zOPaaXL5GsQin4d6QeLoDR3GELsP7i/9rzsxY2qhRazigZL20lFOehl7bvPf1TTrEZ7SIxFvi6gVcZNOH43MR4gYWFnhdZSWNk6sCdTAkBj3NiYUmlGY8GAg4kZAJ7M3nON8CDbwCydgGxAP2dAuAZMWGo/71cBBH/gEYs3l2sXsajcCb+Z4X5+8woAmA=;Tt+pH2lguf2LVps70FjeEQ=="

@@ -110,7 +110,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 36
+    quality: 38
     images:
       - url: "https://www.eurekalert.org/multimedia/pub/web/250491_web.jpg"
         width: 720

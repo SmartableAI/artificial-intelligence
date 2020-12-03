@@ -2,9 +2,9 @@
 category: news
 title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
 excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
-publishedDateTime: 2020-12-03T01:21:00Z
-originalUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+publishedDateTime: 2020-12-03T05:08:00Z
+originalUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology"
+webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology"
 ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
 type: article
@@ -17,8 +17,8 @@ provider:
   domain: barrons.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://images.barrons.com/im-267539/social"
@@ -83,6 +83,6 @@ related:
         height: 267
         isCached: true
 
-secured: "TsKjBMMCm25FalohShPNRgoghM9MkLoATltO/FBXy6yvQ6CG/TkQQqZ/Ia5EwKQ8x7HX2YLCJAarwesIFfoadFMH4JfQam9dpxFQULJUrvByfiSi4KFAkW2mnVgAbp3L0B44hb0/nSXaeEYT9FPgdPGR2+yfU+tmRTjyLkSbJkiHgdSYeyklCtB40SMYFwIBPXhN4hxcJ8B/T4ShMBqBBnSDJMWaXWT5Hw5Sdt0FbG7/Tf8W3tZ51CYHELE2HdpaiERmnWpOVHh6ig2RNsApIpSM3mUFYoHreRWI4dqLdvka+urFxYsOGPr2QYL/kiOgZHMrqjm4yDefP+tpJn0IVX+TqfQu8JR+FKHpGfQzKgNL1nsgwPxhf9VcbKdyz+HRwJYbpuieUsBiheEKuk50ovpCZoQ+9e43kct8uWummidItt7J3Hj+wKZ2GDm4MXGr5xBKyAEC4s3PXdqS9T14E71bWn2e95D86XAm3SQy60D1JMjxtGPYJcBBL4qqnR+OlIQInxPZyi43omnJt1HsTg==;Ag82dKFNJKLotIc0VVEQrQ=="
+secured: "Xlkz+zCJgDHb1nfDLv0HvSLRkf86b06Whrd+xhTRnHrQ+mWkdmR+z7v4YEjAYP6750mvsdlir7LQzmZpr5XxPxNohEdhgXbuiMnvwKk9amhpTSByc12n5zvgEbNgc23DOP23R27YEu4ynh92v4jlD8/LZlYgj7WYPqtkj7xZHyCntvZY67eLhSh/SFFkPJ8i9tHwVkUDx/mFAMcoj+N0XfTMpU7b618UxBl1+gNQH+sfGi+AYPMreT8FMImj9tS9vgzEKE3VJUlLpOy/LyUuWw2u4cEX6T1mVBdIMbAELVTsNQP93mK2+4nVlmTsiJsOxaFFfpURrmQjSa+K6XFMUXJfIt0u95YJt3pqT2aq5jw=;YKXP6Vt4vcZSxL7m5jJOWQ=="
 ---
 
