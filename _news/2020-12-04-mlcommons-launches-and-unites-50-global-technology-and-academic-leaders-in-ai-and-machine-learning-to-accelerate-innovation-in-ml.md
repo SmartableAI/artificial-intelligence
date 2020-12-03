@@ -36,6 +36,15 @@ related:
         width: 405
         height: 228
         isCached: true
+  - title: "Creators of MLPerf Launch MLCommons Consortium for Machine Learning Benchmarks, Metrics, Datasets, Models and Best Practices"
+    excerpt: "Today, open engineering consortium MLCommons launched an industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. MLCommons will focus on: Benchmarks and Metrics – that deliver transparency and a level playing field for comparing ML systems,"
+    publishedDateTime: 2020-12-03T20:17:00Z
+    webUrl: "https://insidehpc.com/2020/12/creators-of-mlperf-launch-mlcommons-consortium-for-machine-learning-benchmarks-metrics-datasets-models-and-best-practices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 7
 
 secured: "2bT1U8LfsSDDAu+pztLk/+hyhUpXUzAwUJXe63X04sMRsxvArY6HT9rzFpZZC/PS38wd0ahJTFrKTtle9BuZK+fl63yZB4nfPOuw8jkd/UHPfy0UbOYNfbVWLFz37pZuCEP86GUdPJLQOeOu8Mu0kojevazCF5romogjgfUJe5MBZ/cDlfRqYLfrSG5SyjDrvIh3zub878Z4oOqOfs1C82gwbbFevpHw5MScMPB50QG3uiSKXMBuM2E1bdAbm7s5pAeHclMO5U9mLRFPVXAYjRFC8xBynCTVURIdBwBrIRSPVUhSox2lFLKN3kqh1SzC3BD9MhZEUX074uMpySPjKYY3TEJXKbtJmF+gdTOq1uM=;g0rdqyCNFrDhCToVK1zfNA=="
 ---

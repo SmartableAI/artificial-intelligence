@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/qualcomms-snapdragon-888-is-an-ai-and-computer-vision-powerhouse/amp/"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/qofioxuanmoiejqttvxa.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Qualcomm’s Snapdragon 888 Builds On Leadership In 5G, AI And Gaming Performance"
+    excerpt: "Qualcomm’s new Snapdragon 888 replaces last year’s Snapdragon 865 as the new flagship chip for the brand. The Snapdragon 888 brings many big improvements across the board to help elevate the mobile experience."
+    publishedDateTime: 2020-12-03T20:38:00Z
+    webUrl: "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/"
+    ampWebUrl: "https://www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2020/12/03/qualcomms-snapdragon-888-builds-on-leadership-in-5g-ai-and-gaming-performance/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 85
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc94c118b96313babd53b26%2F0x0.jpg"
+        width: 1200
+        height: 738
         isCached: true
   - title: "Qualcomm’s new Snapdragon 888 promises faster speeds, better cameras, and more powerful AI"
     excerpt: "Qualcomm teased the Snapdragon 888, its latest 5G-equipped flagship smartphone processor, on the first day of its Snapdragon Tech Summit. But at the day two keynote, the company provided all of the details on the new chipset,"

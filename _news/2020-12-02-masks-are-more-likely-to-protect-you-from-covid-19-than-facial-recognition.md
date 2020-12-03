@@ -22,7 +22,7 @@ related:
   - title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
     excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
     publishedDateTime: 2020-12-02T00:45:00Z
-    webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+    webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
     type: article
@@ -59,7 +59,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
         width: 810

@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-03T17:23:00Z
 originalUrl: "https://www.biometricupdate.com/202012/amazon-introduces-voice-biometrics-for-call-centers-edge-computer-vision"
 webUrl: "https://www.biometricupdate.com/202012/amazon-introduces-voice-biometrics-for-call-centers-edge-computer-vision"
 type: article
-quality: 38
+quality: 40
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
@@ -28,7 +29,7 @@ related:
   - title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
     excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
     publishedDateTime: 2020-12-02T00:45:00Z
-    webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+    webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
     type: article
@@ -78,6 +79,6 @@ related:
       domain: theglobeandmail.com
     quality: 13
 
-secured: "RBaAvh0ShPnvgjlR7jvVY3T5TI/nLs1AfSYkeU5lKK8FJwWKKeRtW/8ZAHThat2sNMsm4kLBH/jyi0Gws4D4Ui80ygT7vdFH/ZCKVizfPP52Nwfy8tOhJEFA9kUtO7BhIyMY94q505S4oxG6K/qz1kZfwWZELJlm49v5boy/achMAQG1EDPmHZYi2EDbwIxcBfPW3MNZSKAY6RSs2IvL9MY0nPnxoulvt0+xjVhTvAt0evpt+2AgzJAHloqlRyXmcn7rWPeh+0KgSLLtWKj2nVKnt57DiiBHGVtwAmWTssxZLQuQfLHJXGkG8Rx5DJiluMsXvOBG+hztMOIqXg0HfeYOcWNFY+o/ZK4yd7Ov/Qc=;NFN4tPEb0frH4mdzzink8A=="
+secured: "mz7BEwNgzzaQfuK4ejZBeDydQQQmsc8oFYYTflzZkZ84WymsuQntHBHwoev/4caiitmY+4wWo63i5Ie7Db9KDxeiea0IZUdlxLc3ezxzAVxR+jMUOIt8i2fWOzw9q8yZwIqFPkx7ZuQodhVFtk4M3hKr60ViesBIOnauRNbfSYqb07hWA2SM3sqIK3BxHzXdZ9hzz0jyfAQheF6DgwCCqZbcBFKpVwf2kl7ZBqiFkURdQocjpfpny3Hh7KqRUedMU3pitLtRn/TFlvDqSiRWcYkwJufpQG3KV32L5ZH9YD45Kp9ukgI8DZVYi+C87T+1AeKQLwYTYCKkZsH+vYEjkgsNGm8aogVpr2iGvZ2jCj1u2oGrm1JZbZF3RyKyjwic3ZVlGyFItsC6SXZiSCv8IESWLPDYN5uWz2oKFc8fswS9aEuI1GGxSX+CLQLOqkkZPRNmbdFMC/eZSeixlt22t1dMS+gGgnSZcYJcuPk41+3/dsH7d8zk/CvynoJ7Jb7zN430XhnXTQ400MiWhw3idQ==;zjX8o1UNb17XPsgbleR5Cw=="
 ---
 

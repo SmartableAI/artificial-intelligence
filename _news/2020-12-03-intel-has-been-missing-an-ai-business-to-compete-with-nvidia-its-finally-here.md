@@ -57,6 +57,36 @@ related:
         width: 1024
         height: 430
         isCached: true
+  - title: "Intel Machine Programming Tool Detects Bugs in Code"
+    excerpt: "Intel unveiled ControlFlag – a machine programming research system that can autonomously detect errors in code. Even in its infancy, this novel,"
+    publishedDateTime: 2020-12-03T20:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18642224/intel-machine-programming-tool-detects-bugs-in-code"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18642224"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642224"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://mms.businesswire.com/media/20201203005346/en/843821/4/Intel-Labs-Justin-Gottschlich-1.jpg"
+        width: 320
+        height: 480
+        isCached: true
+  - title: "Avast and Borsetta Join Intel in Launching the Private AI Collaborative Research Institute"
+    excerpt: "The Private AI Institute was originally established by Intel’s University Research & Collaboration Office (URC), which then expanded the collaborative potential of the Institute by inviting Avast and Borsetta to join forces."
+    publishedDateTime: 2020-12-03T20:20:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-computer-and-data-security-products-and-services-06cd739978dc7d450704ddd2ab99d644"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "3u78F6eu13ZKqrHfjmK/nbgnFvdtnBYPZrrvB69NPZjzFcpAZcJC1cGXXZehlWsvVbOdaJ5/CpS+dAqh1cqWfX24MX/DAMHMxTeJvrAoZi8g5bmj3t4Kkw5h4IpSzfiY8u9XOByw+xOZN6V+k0YHD/nmV6o7ZCPjq/bgVOJ3oGFA/8kHdjhQfm+oHVOzgEEiUU5cqw+6B18dYL+wUZvWS0MFX8HqxVD1lDB62JUEc50kvb5l5M+doYO3Y/GPKK47/QAz5Rdlki1ipiIFzuKroeuyrb2wSEwnJteBim6eafiXG7WY+HMLyKI2/BTbkEeXiHRqqIpHhENMAmxGWyl+JEmX3UQpOTJpGknh95B8Gb69gwL/DtYtBroVKwGVHC4eh4WceS0hKtfiyYMxwrugd1iaObEU4uVFXKnKyiPcLhwmwSYCRhQSULgKlfzr5RVsOmZ63ZGYTniFXtS69EcsFD9NmipyaLZr8QrjQIuxe+Hpe31p0zEbRfp2BYvsCCEk8Uc93W2n8I3q0VKjGfq6fw==;h4mvTHUFaczwA+OOSOACog=="
 ---

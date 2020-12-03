@@ -62,6 +62,36 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel Machine Programming Tool Detects Bugs in Code"
+    excerpt: "Intel unveiled ControlFlag – a machine programming research system that can autonomously detect errors in code. Even in its infancy, this novel,"
+    publishedDateTime: 2020-12-03T20:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18642224/intel-machine-programming-tool-detects-bugs-in-code"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18642224"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18642224"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
+    images:
+      - url: "https://mms.businesswire.com/media/20201203005346/en/843821/4/Intel-Labs-Justin-Gottschlich-1.jpg"
+        width: 320
+        height: 480
+        isCached: true
+  - title: "Avast and Borsetta Join Intel in Launching the Private AI Collaborative Research Institute"
+    excerpt: "The Private AI Institute was originally established by Intel’s University Research & Collaboration Office (URC), which then expanded the collaborative potential of the Institute by inviting Avast and Borsetta to join forces."
+    publishedDateTime: 2020-12-03T20:20:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-business-corporate-news-computer-and-data-security-products-and-services-06cd739978dc7d450704ddd2ab99d644"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 27
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "WDvE+OVM1twFpKtHUPk7G5+F6FGahR/e5XRQJAQVysU/v1FHFa2lShNIQLqtlF9Q8iptgTXd8MjgLvNx7JqiO+NEj4mgpfcbeRgG2KfhKs3QMH4xEIxfCmvRa86mpHXEpOxpTAoff9ETjS19YuzY79XLvNpJ+oF6omAAfz755S6/aMQb+8rWWr5/OUuxyqlBznSwBhxYJVtvr8KpHPoW38ZyeqUZcq0ZQO3kLj3Q28frYnamSK/2YK8ZK2ry73Ott2VnFr3ksUo48pOzoM0VfT8+Ibrxjdr8Fe/WFaepoW0nVM1aVOHIdvvw8rQpKzC4uJMmeqVml+G6kyTKgcZ1hW81IitJLftjdaUIEp5/9BHhfU31a1Nq5h35hQkpaW3Bhzl138jhznQGoK8kpF1+gg4MqL9vTVRxAjxh7KJfczIu5EmcTLA1YzvElfdoHEA7pJ7f91qjbCaMdMVbScYVIWfDQvPatIWcuRFg7c1rWvN89Q55tBg0nzFasYcxZXoEd1wK951i+ciSzudN6KJjAg==;4MaJii43NMdUYIvWiIa7TQ=="
 ---

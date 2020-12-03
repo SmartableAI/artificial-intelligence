@@ -57,6 +57,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Trump Signing Order on Principles for U.S. Government AI Use"
+    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
+    publishedDateTime: 2020-12-03T20:30:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "CIO Leadership: Using AI and Automation to Strengthen Enterprise Efficiency and Improve Business Models Will Drive the"
     excerpt: "Discussion at HMG Strategy’s 2020 HMG Live! Florida CIO Ex"
     publishedDateTime: 2020-12-01T00:50:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://www.hpcwire.com/off-the-wire/mlcommons-launches-and-unites
 webUrl: "https://www.hpcwire.com/off-the-wire/mlcommons-launches-and-unites-50-tech-and-academic-leaders-in-ai-ml/"
 type: article
 quality: 56
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: HPCwire
@@ -37,7 +37,16 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 41
+  - title: "Creators of MLPerf Launch MLCommons Consortium for Machine Learning Benchmarks, Metrics, Datasets, Models and Best Practices"
+    excerpt: "Today, open engineering consortium MLCommons launched an industry-academic partnership to accelerate machine learning innovation and broaden access to this critical technology for the public good. MLCommons will focus on: Benchmarks and Metrics – that deliver transparency and a level playing field for comparing ML systems,"
+    publishedDateTime: 2020-12-03T20:17:00Z
+    webUrl: "https://insidehpc.com/2020/12/creators-of-mlperf-launch-mlcommons-consortium-for-machine-learning-benchmarks-metrics-datasets-models-and-best-practices/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 7
 
-secured: "gIeoPv/XT8RO1cqB4Bk0JwvYnwB+P/IPER1RK5gj19uCX4xHhi3Plo1hdsZ05CQFeJItvpgGXEyvuOBt+K7LMSmH3IcrE44mlfiILoCFl060MpEfOAFYjVXH0h8Ys9lh1ybLdIAewW3sg4EahfEbn9FzuMeP8HjFzSlAN3s/g2+tkNuD8pEyaryxz3NLjIBUt5IdVhWftOx8ICDE6+zEtxIuQi0MY9t0AouAipWBOBh/zeDoqSJu9oXUWygcodMbiixgetR0yhd+/cMFK4qamTPzZIG+9ORopxid9j97JAYNQQrx7+elvW4JkQchIKOZRQHAopIMV3NaXLM/ECOjyHnDu7zVG4EGizKYkgwEhHY=;ELBCbD2XC1cDDvb6rLhUlQ=="
+secured: "Xddq23T6QqkkQiNz9SjisXOnrVM/sxPJ/harm9D/liIfExBse+qaoaTh/g2HFUma4RFJP8ryFXpExx1cVhtqtDO06S37YOGOvkGtzz5INoXDmrmYY16gUd3iFNqGDFGYWO4zu7US6TIiAWdMdKpXinVkFCNBH6YjE71QrmAdPodxAPpU77PlAcEZZK++k5IzX1Mcrk6WjWB5EBUGVfnycG7LlifmF1Um628jvNu9BnprpxmBhhVzpt4eXc/hSz5meu0dIflZbmA3Xsm34h152I4cZOdgq3KWRdPkz8rt7SYADYEStZyr6fxDiGY7GzTMjkcjJCzEddnFgk5a8ba4CDMROK1kBWKxQWfuEz9yr0KH7ClR7xI7PZyHtlWJpn+sgp4aZWHOCZbWxpCJ/ktACfzb/X6iwyup9YYzQUWu6n5iB9/gMnrwk0Uqd6OfZBmVzWwhwoL1WABL/BCcsVijwQKlEtpZm09BMlkLPkSQ/exSvE0neCREv83BGZ51MqEpchFex+YtHlyY4giART+gwQ==;qb7jrSuzojS2ssRSJ8o5Qg=="
 ---
 

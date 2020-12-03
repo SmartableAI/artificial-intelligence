@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/prepar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/preparing-leaders-for-the-artificial-intelligence-age/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -46,6 +46,17 @@ related:
         width: 1000
         height: 500
         isCached: true
+  - title: "Trump Signing Order on Principles for U.S. Government AI Use"
+    excerpt: "The White House said President Donald Trump is signing an executive order on Thursday setting guidance for federal agency use of artificial intelligence that aims to foster public acceptance of the technology in government decision making."
+    publishedDateTime: 2020-12-03T20:30:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-03/trump-signing-order-on-principles-for-us-government-ai-use?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "AI And Machine Learning Prepare Pharma For The Data Onslaught"
     excerpt: "When I reached out to several clinical executives in my network for their thoughts on trends that will impact clinical trials in the coming year, the two mentioned most frequently were artificial intelligence (AI) and decentralized trials. The COVID pandemic of 2020 has most sponsor companies scrambling for new technologies that will increase the efficiency of trials and make the experience easier on patients."
     publishedDateTime: 2020-12-01T12:51:00Z

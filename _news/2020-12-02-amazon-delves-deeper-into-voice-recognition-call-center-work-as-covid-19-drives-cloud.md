@@ -3,8 +3,8 @@ category: news
 title: "Amazon delves deeper into voice recognition, call-center work as COVID-19 drives cloud"
 excerpt: "Amazon.com Inc on Tuesday announced voice recognition as part of a suite of call-center services for businesses, as the company sees growing demand for its cloud tools during the coronavirus pandemic."
 publishedDateTime: 2020-12-02T00:45:00Z
-originalUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
-webUrl: "https://www.reuters.com/article/us-amazon-com-aws/amazons-aws-boss-says-covid-19-brings-cloud-adoption-forward-by-years-idUSKBN28B5MQ"
+originalUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
+webUrl: "https://www.reuters.com/article/businessNews/idUSKBN28B5MQ"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
@@ -55,7 +55,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
         width: 810
@@ -82,6 +82,6 @@ related:
       domain: theglobeandmail.com
     quality: 13
 
-secured: "9mUPwYxNnqPsNTWOr02vAJ5npRNmddYCI8OrjOsSqB5XNF0I2UGXNZSq2Y/CHlt+tVu2qtBnSAZIjjqeCaShtl8yLLDBr8nPlTj0TU+Lj7mAwYv/DHZDPPblbBO4EsV/VqjdxKgjv8FcY3RFuWyTTcugOK+CXZ+FsH2ZEauB1ACS2pAQuk3wcLqCyouzh12crbQO+GZkPk9S5gaY7RAMy6jgASbfIYbgX4E3lQ+Pti80EgaV9bCBa62FfVbVuEzp1TuYkaig6qo3R74FzYemIrKX8ojESUicEs8ugO4djejwECskas0wgFXZT7s2XAVanX9+m4GVAGotjYLSe90S5+qrfm5pidtVeFVIuYS8U8q8XfFQnqM4kaMbj0Ui2CfNipxR/P8r8yOW+MIDk9U10SMZFFKex6jTPYBjYlkt8znfzfEJrlT15W9JiVQoM7SUXnBpyOqM+AJfBtg+A2/3ZzCtVbWYM4SKzzKJjYRz7OR85wIDa1Vcxh9e5TTvDiI2vB0tUykKC+yQotDX+tpIhg==;34wHMoU7mNXAVkWPWpjIRA=="
+secured: "15GXzDzldygh8F6BStia08gEjKgxRJLAaPBCX4DjJfFdtRAfT5dUAwyoH82PlpdyYAn74DoDvJ/zlE4d9RA1sM5EFscFsm161u+6a4cJMxKlgEsVZ0+zaXv8GCIv461Gl7Sp/nY3fRsEIHqd4TCAvxo3HqTfSoshycCjNdlZiMk+Ii7H41LHF7Rl3XA7dtXW1b7QjfSosExeV+obflBuhHSJ/yKGPi8B9q1PY3Z746KId4Qq3eF7tKMGXJfzaW48n1LWPiXIHiOmjyk4lYISGYo3tRWuolsVVkpxhO5cTwfEyNdHApssDNHWK6J5nlqJ0rxcw2t0P7OYzaRITK22Fs5e8a6NIjHx5hopWAybBMo=;UIZwy7hPK+P4dPfcEqFqZQ=="
 ---
 

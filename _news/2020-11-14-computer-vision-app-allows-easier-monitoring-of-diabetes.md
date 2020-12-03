@@ -1,26 +1,24 @@
 ---
 category: news
 title: "Computer vision app allows easier monitoring of diabetes"
-excerpt: "A computer vision technology developed by University of Cambridge engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes."
-publishedDateTime: 2020-11-13T16:46:00Z
-originalUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
-webUrl: "https://www.eurekalert.org/pub_releases/2020-11/uoc-cva111320.php"
+excerpt: "A computer vision technology developed by engineers has now been developed into a free mobile phone app for regular monitoring of glucose levels in people with diabetes. The app uses computer ..."
+publishedDateTime: 2020-11-13T18:10:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
+webUrl: "https://www.sciencedaily.com/releases/2020/11/201113124045.htm"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.eurekalert.org/multimedia/pub/web/248789_web.jpg"
-    width: 1440
-    height: 960
-    isCached: true
-
-secured: "npaS11Qu+ozihS5mIFQr7gMa3SbFB4wldpa5N6hq7VPmvuFNkDp4iuUPEg/FGR/endbDGaHvyqPoB/9tEwBLG8KnZIHTEjsG3asKgVB4HvR2XiD4AEsgOxGiMa/3HTIJqYVvSrSzaJ+6wOmuHaOKRPv+sas/Pu6eWYfoW5uv7RIQpczhefevsCXvDe6PSWoQIUsvpja7jMyAIE4fQ3wyIoXxxwexLT8pRQ/JgfPX1MatUWtjgb9MJ2h/mDdS/BQwrMqoMtPS9mjQTdNadwOIV6LMQ6bboa6BQVp7iaODA89NWzAHEEy8ENpeqo75zK7TBre7/u5X+fAdF5QpCzOFf4LhIRhn18473sL1/ovxhcA=;tfZFf5FEbbVsJC16vjp5CQ=="
+secured: "XGBUCLEU0as/kMKOY5Sw0Vvf//X8n66jddNa9BdQaDOGdpFot2V54+VqZYHaniN95igUcGLVrcAbC45gyODD3RBOopLiywtUeLX0Qn+M3HCrXBLvoiB1gUeBzozHzP5a9+te5mOhw4cUsrRqUYXc43Qtmi3hvQHbh3Cnb7N1Aq1C5QGclJ4YcfMeFzdytReQo4qPS3r6aKuvixoWl3rF8iHacywuoKF/KQH6ORVHnjjZKXjTZPmvJ/iRskVjr3OhL4JQkDNvWdbqxoTGT2BBTREgwBZIRK9iKeQ8McPLHghBLff/RRuwAS8Ps89sb532ERqdwMEkhC+wbkjScasZtiRYs0WQjcQCY67Ltjfrlgc=;Hd0E/uvGAIKI8K+YxELtPw=="
 ---
 

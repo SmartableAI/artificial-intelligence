@@ -95,6 +95,38 @@ related:
         width: 1400
         height: 933
         isCached: true
+  - title: "Google’s star AI ethics researcher, a Black woman, says she was fired for a critical email"
+    excerpt: "Timnit Gebru, a star researcher who has criticized the company’s lack of diversity, emailed co-workers that she felt “constantly dehumanized.\" Her managers, she said, abruptly fired her shortly after."
+    publishedDateTime: 2020-12-03T20:38:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2020/12/03/timnit-gebru-google-fired/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 66
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OA5YUVRVUYI6XFUZADJRD4J5FU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Google AI ethicist says she was fired after challenging company on diversity"
+    excerpt: "The co-leader of Google's Ethical Artificial Intelligence team is leaving. Timnit Gebru had criticized Google over its treatment of Black workers."
+    publishedDateTime: 2020-12-03T20:15:00Z
+    webUrl: "https://www.latimes.com/business/technology/story/2020-12-03/google-ai-ethicist-says-she-was-fired-after-challenging-company-on-diversity"
+    ampWebUrl: "https://www.latimes.com/business/technology/story/2020-12-03/google-ai-ethicist-says-she-was-fired-after-challenging-company-on-diversity?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/technology/story/2020-12-03/google-ai-ethicist-says-she-was-fired-after-challenging-company-on-diversity?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 58
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/080966e/2147483647/strip/true/crop/2304x1505+0+16/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F76%2F72%2F53b243554314ab301dc53a0b90dc%2F3064066-fi-google-walkout02-jlc.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Renowned AI Researcher Says Google Abruptly Fired Her, Drawing Industry-Wide Criticism"
     excerpt: "Timnit Gebru, the technical co-lead of the Ethical AI Team at Google, tweeted on Wednesday that the company fired her after refusing to accede to two demands."
     publishedDateTime: 2020-12-03T18:14:00Z
@@ -126,6 +158,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nWHhA0xBwzc1nOoivWPjL++GS3LwzqprqwwFqSJcfcSKirWhjGgwSNRYHUSVoBELPChwCzhHPlCal8+4zimXpfF3g+pY54iVN+1sm73xp8CRV+YpTzUc5eSUspFzjl2ZxwTXNG3GQQHC2U8s3oPgrPctOhdFhXIr+jCQAuSWn98DHzMwk2S3R3MWadyku4MS2XADogaE1VhWpM/8eMvyBKFGhjDZ8iBIQOLOonhh9Fqd1RizPKm8hk26gu6dj+8iTVcZ+TMINQyYH27Z44O7mHjoXaukXdxN6x9MVU3OqSsPoaOv9FMPD4y8rrbGOEIKMeljqh8xaGkgMPYsVc9BlzAT+V69AOb/q3aRNdPBm98=;etbPgBdTmhoMkrPQzNA/Ig=="
+secured: "2+ROeP98BRq0u6Y39JtyyEF3NHo9uq2/THhUW/0FVby5z18kdoP9GYglb3TaDcJmOVK0pK4cYlgwEFC0YR9VPtAY/iJEtqx1msEBQssSjr0vNpXox/qR+steaQ2QciERVGG31Q4ytduN9oJk2VdGqv6KhAmL9I70IsYfBOdaV+RKiWXQWQqNL7ZQwZ92i8lyNwUr6P/Gdm7FW2Ypt05a3iiNAe5ErcZ/KzoxEhFgVVn6LfimymhR+uJdDjzpMvDW9IpJHvhqAvLfM09Fpsh/ZhS2PryLaekhHTEYlpJiAcNuMAkYheApBQBu6cz6rw2md+x/GTAG3IgZ57U5v05XaMgIOM95yKCbkHu0eldNQcX+wcotl6T6TX2Ii0Zok7MmMLLET6cyOx2GTdXJGyYZFA6uN2/FvKlrqjTm9MQw5SMcqyhu19+IN/8ouK+GRW2/cCMX2warJzRgcGX7z0Z53AbaZ8jNbuI23z8t7NAbNBWiQ6K1Ojmiigop6+AJJiHBo3rNY+E/QkP6YxNUEKeULQ==;8Rayhu16/OqesFUQhLrk0A=="
 ---
 

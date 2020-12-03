@@ -1,29 +1,33 @@
 ---
 category: news
 title: "Veritone Achieves AWS Public Safety & Disaster Response Competency"
-excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has ach"
-publishedDateTime: 2020-12-03T16:05:00Z
-originalUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
-webUrl: "https://www.businesswire.com/news/home/20201203005343/en/Veritone-Achieves-AWS-Public-Safety-Disaster-Response-Competency"
+excerpt: "Veritone, Inc. (Nasdaq: VERI), the creator of the world’s first operating system for artificial intelligence, aiWARE™, today announced that it has"
+publishedDateTime: 2020-12-03T19:50:00Z
+originalUrl: "https://www.marketwatch.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
+webUrl: "https://www.marketwatch.com/press-release/veritone-achieves-aws-public-safety-disaster-response-competency-2020-12-03"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswire.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://mms.businesswire.com/media/20201203005343/en/843739/23/AWS_PR_businessWire_1200x640.jpg"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
-    height: 627
+    height: 630
     isCached: true
 
-secured: "bFZklGBMdl390z6UkUaHb2CqNXHRzGW14NdfaXdqmvjr/S0BryjTNWHPLScZcm7phTqHzVuDgJ18LprjRpIB1x39Ypd1Ejx8YDvsaD3/++SlpNRlv5M4KxudisXsL1Jk3vz2L8h57t2dwAT4KbDn6jK7pCERr7VwzI7WIMVB6JD+ajMIYxJU6IvcZCX4K5ain6EDDHCAzPImlnHByy/Vam4PfYs/SVzEctHM1K0TQJK9H7prdTFv8jFNWU6EqOTejm55aU3uYfhCVIpK86n1KmNpUu0D0htJSPvXL/yoteqPOnqnB3rLR0k1jfpmD1ovgo8XcZUmSRYj27y6fciftg9vaZr/3PSljeMe+Qe/hfo=;tEmail+LM40bBSGK6kcA7Q=="
+secured: "TXOheOa4R3AWyaHhQTRZ8srTOScE1eIwbbahc/mUC57kiF7fO43+LtvLB/Z6HEuVUQu4EycRDHPC41LQOOMSUw8ERUJvJawftmmGLbisYrQrM69cZTsoaw8Btw/gJnztPkFB3dNwTeK2xdMqK1/bjXWj9/D6FtRx8+HaaC00ycJhaAkvvimQFzuRvpl0FI9TnjEuEtG+vDbZvB6fCqS+15tdgcwY+MbAKVwKWYFiHFQEj/l92ieHZ+yFoWir9qc5yF7I0QZ5u96YM4Z87NAjJ7Z/x7nbD7ttBAl4du5viItEUBOdvhQaR+yM6jKfgmI4FhXgWoYYdLLTLJ8MImmw5OMdGYRJlRVxBHPxPHmaJvU=;J4NoVI0JZDyUEDmMG4kt8g=="
 ---
 

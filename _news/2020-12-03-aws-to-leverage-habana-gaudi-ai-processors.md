@@ -48,6 +48,22 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 86
+  - title: "Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
+    excerpt: "In today technology news, we covered about the Intel’s Habana starts to chip away at Nvidia in cloud with AWS deal"
+    publishedDateTime: 2020-12-03T20:18:00Z
+    webUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/"
+    ampWebUrl: "https://www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
+    cdnAmpWebUrl: "https://www-compsmag-com.cdn.ampproject.org/c/s/www.compsmag.com/news/technology/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal/amp/"
+    type: article
+    provider:
+      name: Windows
+      domain: compsmag.com
+    quality: 76
+    images:
+      - url: "https://cdn-stack.compsmag.com/news/wp-content/uploads/sites/27/2020/10/default123.png"
+        width: 960
+        height: 675
+        isCached: true
   - title: "Artificial Intelligence Chips Market to Witness Huge Growth by 2025 | Google, Intel, NVIDIA"
     excerpt: "This report presents the worldwide Artificial Intelligence Chips market size (value, production and consumption), splits the breakdown (data status 2014-2019 and forecast to 2025), by manufacturers, region,"
     publishedDateTime: 2020-12-01T17:04:00Z

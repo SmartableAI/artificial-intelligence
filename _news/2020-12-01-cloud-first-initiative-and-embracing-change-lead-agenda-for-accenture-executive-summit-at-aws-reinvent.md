@@ -101,6 +101,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "AWS re:Invent: Voice Recognition For Call Centres And Voice Print Among Others"
+    excerpt: "Amazon Web Services unveils voice recognition software service. The tool will help call centres respond to customers more efficiently"
+    publishedDateTime: 2020-12-02T16:15:00Z
+    webUrl: "https://www.techbooky.com/aws-voice-recognition-announcement/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 37
+    images:
+      - url: "https://www.techbooky.com/wp-content/uploads/2020/12/aws-reinvent.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AWS Announces Amazon DevOps Guru"
     excerpt: "Atlassian, PagerDuty, and SmugMug among the customers and partners using Amazon DevOps Guru Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), announced Amazon DevOps Guru,"
     publishedDateTime: 2020-12-02T09:33:00Z

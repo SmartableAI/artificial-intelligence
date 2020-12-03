@@ -46,6 +46,22 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Microsoft unveils Azure Purview, a new data governance platform"
+    excerpt: "Aside from the introduction of the new data governance platform termed Azure Purview, Microsoft has also announced that its Azure Synapse Analytics service has reached general availability."
+    publishedDateTime: 2020-12-03T13:58:00Z
+    webUrl: "https://www.neowin.net/news/microsoft-unveils-azure-purview-a-new-data-governance-platform"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-unveils-azure-purview-a-new-data-governance-platform/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 104
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2019/09/1567329614_azure-3_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Meet the Microsoft AI project that will transform corporate data into knowledge"
     excerpt: "We take a look inside Microsoft's new collaborative development process for SharePoint and machine learning-based knowledge management systems."
     publishedDateTime: 2020-12-01T12:03:00Z
@@ -61,6 +77,22 @@ related:
       - url: "https://tr4.cbsistatic.com/hub/i/r/2020/12/01/149a9e40-051d-40d4-b56e-8ebf048d6bea/resize/1200x/bee4d761c5f23809d0189d5233798872/microsoft-project-cortex-diagram.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft’s Nudge service leverages AI to speed up completion of pull requests"
+    excerpt: "Microsoft says it's using an AI service -- Nudge -- to accelerate pull requests in software development projects."
+    publishedDateTime: 2020-12-03T20:13:00Z
+    webUrl: "https://venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/"
+    ampWebUrl: "https://venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsofts-nudge-service-leverages-ai-to-speed-up-completion-of-pull-requests/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 100
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/12/microsoft-azure.png?w=1200&strip=all"
+        width: 1200
+        height: 600
         isCached: true
   - title: "How AI works: An introduction coming to a school near you"
     excerpt: "Students from elementary to high school can take a course in AI and its societal and ethical implications offered within the year by the Microsoft and Code.org partnership."
@@ -116,6 +148,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/channels/digital-transformation/8.jpg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Microsoft launches Azure governance tool to map data"
+    excerpt: "Microsoft on Thursday announced a new cloud-based tool designed to help corporate customers understand where data is scattered throughout their operations and whether they are in compliance with data privacy regulations."
+    publishedDateTime: 2020-12-03T19:47:00Z
+    webUrl: "https://www.itnews.com.au/news/microsoft-launches-azure-governance-tool-to-map-data-558568"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/2020-12-03T160900Z_1_LYNXMPEGB21EC_RTROPTP_4_MICROSOFT-CLOUD.JPG"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Power of AI With Cloud Computing is “Stunning” to Microsoft’s Nadella"
     excerpt: "Asked what in the march of technology he is most impressed with, Microsoft CEO Satya Nadella said at MIT’s AI and the Work of the Future Congress 2020 held virtually last week that he is struck by the ability of cloud computing to provision massive computing power."

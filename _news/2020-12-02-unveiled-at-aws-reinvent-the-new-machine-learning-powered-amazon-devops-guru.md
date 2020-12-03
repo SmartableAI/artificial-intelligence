@@ -9,7 +9,7 @@ ampWebUrl: "https://www.techrepublic.com/google-amp/article/unveiled-at-aws-rein
 cdnAmpWebUrl: "https://www-techrepublic-com.cdn.ampproject.org/c/s/www.techrepublic.com/google-amp/article/unveiled-at-aws-reinvent-the-new-machine-learning-powered-amazon-devops-guru/"
 type: article
 quality: 104
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -92,6 +92,20 @@ related:
       - url: "https://www.hostreview.com/themes/hostreview/images/hr-social-logo-400x400.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "AWS re:Invent: Voice Recognition For Call Centres And Voice Print Among Others"
+    excerpt: "Amazon Web Services unveils voice recognition software service. The tool will help call centres respond to customers more efficiently"
+    publishedDateTime: 2020-12-02T16:15:00Z
+    webUrl: "https://www.techbooky.com/aws-voice-recognition-announcement/"
+    type: article
+    provider:
+      name: techbooky.com
+      domain: techbooky.com
+    quality: 37
+    images:
+      - url: "https://www.techbooky.com/wp-content/uploads/2020/12/aws-reinvent.png"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent"
     excerpt: "Cloud First initiative and embracing change lead agenda for Accenture Executive Summit at AWS re:Invent - SiliconANGLE"
