@@ -103,6 +103,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Elon Musk's Self-Driving Promises May Drive Tesla Off A Cliff"
+    excerpt: "Tesla has successfully positioned itself in the mind of the general public and investing community alike as a key leader in autonomous vehicles."
+    publishedDateTime: 2020-12-03T18:03:00Z
+    webUrl: "https://seekingalpha.com/article/4392823-elon-musks-self-driving-promises-may-drive-tesla-off-cliff"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "j6PdShQm47J/IhXIBQckPd2/6hkwplkbCHogr1KCnayWnoKRJc1qpBcwRhnMzGxJOkDWvrArLjRMNTnO38HjGEPOsWJjju+B/r84g2+grjdWQk0ZuteJqDg4HKxP2R8M6K+3I/7vtVz9ruLJXm8V994bjaNCoo1jVzc4dXRLT5nlZdjo5Y3cv4Df5HF4ZT1L0R8QqNykbU/lko17S5VWODM4uqWt5lfyVbfoVGGFaBmvcFG43LgFIf0zT/hhJXgQEKtjICuD2NRoMgHCA9UUl1BnN+CtSoHUg04cKsyyTC9jDoyEJCoXekNoAlmZGO0sogQOoy+GjkXmfr5fFtIW3WBscNHKyqAxbHZsBooeqjAqeqm0wn0QBWc5/Yrq05vjHC39qkz1qrdAYWsfffldWvHuVn1hBfZ7iKHqEz4cnfMJONWielGnL3+Fxalb7kY/DGDhT4hSL+UKl+lVhACczHs7udu50LEwFg5Ilme25TTruHBgzwuafL7Z/gOpWMmwmp3g+s+D1hsJagZeF7E3Qw==;AMBkpLlXcn/xQRcwvIP0UA=="
 ---

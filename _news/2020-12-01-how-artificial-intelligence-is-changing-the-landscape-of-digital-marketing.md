@@ -121,20 +121,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Driving The Next Generation of AI"
-    excerpt: "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a"
-    publishedDateTime: 2020-12-02T23:10:00Z
-    webUrl: "https://www.linkedin.com/content-guest/article/driving-next-generation-ai-imtiaz-adam/"
-    type: article
-    provider:
-      name: LinkedIn
-      domain: linkedin.com
-    quality: 39
-    images:
-      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1612396800&v=beta&t=09tY6FCCQx8vYEL1LcqOCkEzOuB9itPQM-W9zzS-Dag"
-        width: 1080
-        height: 720
-        isCached: true
 
 secured: "lv0LZFGGsHyXw8OIWpEYb285CzSuMjs2Fn4Lc8v4A986yTwT2jqO1L9HGl4i+94s3opy9gjOw7yiYiOfIAwBPV5p135urXXs0CEyKzDDfCzHpuxhtfeRfgpVHjAOq3DoWvqKIaSbSv3N4uWuGI9fgXP7zgvROUPb5l8m4lMWuV4HvUiMW+JuqzKaH063VndZyLuKb/8YpGyQBOUy8Q26DRc+V6idx5CqnTifWSqFfyIsy6eSCRnYfcykRqb7KkEcgzt/xtdeKxRPHzJQ3J4KmYv6uumRnnwpGTCojeSvo5k5O/LouWQWVoYBvKhpa9KkW5qzb1LHCtoUzZM7eZ+MFwWRIBC/iPM0KyFRGpyn4/g=;qDTA75mq3/IAj9PaEuPO4w=="
 ---

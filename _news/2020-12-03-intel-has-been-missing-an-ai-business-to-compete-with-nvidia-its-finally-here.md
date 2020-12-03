@@ -27,74 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-    publishedDateTime: 2020-12-02T19:21:00Z
-    webUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28C22F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28C22F"
+  - title: "Why Intel believes confidential computing will boost AI and machine learning"
+    excerpt: "Intel believes confidential computing will allow enterprises to explore new ways to share the data needed to fuel AI and machine learning."
+    publishedDateTime: 2020-12-02T17:08:00Z
+    webUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/"
+    ampWebUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 106
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 103
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal"
-    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-    publishedDateTime: 2020-12-02T14:30:00Z
-    webUrl: "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal"
-    ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 86
-  - title: "Artificial Intelligence Chips Market to Witness Huge Growth by 2025 | Google, Intel, NVIDIA"
-    excerpt: "This report presents the worldwide Artificial Intelligence Chips market size (value, production and consumption), splits the breakdown (data status 2014-2019 and forecast to 2025), by manufacturers, region,"
-    publishedDateTime: 2020-12-01T17:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chips-market-to-witness-huge-growth-by-2025-google-intel-nvidia-2020-12-01"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/11/intelcc-1-e1606747265903.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 600
         isCached: true
-  - title: "AWS to leverage Habana Gaudi AI processors"
-    excerpt: "Invent 2020 conference AWS CEO Andy Jassy announced EC2 instances will leverage up to eight Habana Gaudi accelerators and"
-    publishedDateTime: 2020-12-03T10:17:00Z
-    webUrl: "https://www.geeky-gadgets.com/habana-gaudi-ai-processors-03-12-2020/"
+  - title: "AI for Intelligent Social Media Marketing"
+    excerpt: "Remember a scene in the flick Titanic, where while that mammoth structure sank, all the people tried to float on the surface of the water, jostling and flapping their limbs, to stay on the surface and not sink."
+    publishedDateTime: 2020-12-02T00:04:00Z
+    webUrl: "https://www.linkedin.com/pulse/ai-intelligent-social-media-marketing-aneesha-singh"
     type: article
     provider:
-      name: Geeky Gadgets
-      domain: geeky-gadgets.com
+      name: LinkedIn
+      domain: linkedin.com
     quality: 56
     images:
-      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/12/Habana-Gaudi-AI-Processors.jpg"
-        width: 700
-        height: 500
-        isCached: true
-  - title: "AWS and Intel Announce Gaudi (Habana)-based EC2 Instances for AI Training"
-    excerpt: "As customer validations go, it’s safe to say AWS is at the – *cough* – high end of any vendor’s wish list. So it’s understandable Intel is today crowing about a notable win for Gaudi AI accelerators from Habana Labs,"
-    publishedDateTime: 2020-12-01T18:31:00Z
-    webUrl: "https://insidehpc.com/2020/12/aws-and-intel-announce-gaudi-habana-based-ec2-instances-for-ai-training/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 55
-    images:
-      - url: "https://insidehpc.com/wp-content/uploads/2020/12/Intel-Habana-Gaudi-AI-accelerator-1220.png"
-        width: 437
-        height: 267
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0zWrm6IOtmg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=o4HzxarOlP7xhdb6rfvHIaopOIZFTI5NaVi6B8P2pYk"
+        width: 1024
+        height: 430
         isCached: true
 
 secured: "3u78F6eu13ZKqrHfjmK/nbgnFvdtnBYPZrrvB69NPZjzFcpAZcJC1cGXXZehlWsvVbOdaJ5/CpS+dAqh1cqWfX24MX/DAMHMxTeJvrAoZi8g5bmj3t4Kkw5h4IpSzfiY8u9XOByw+xOZN6V+k0YHD/nmV6o7ZCPjq/bgVOJ3oGFA/8kHdjhQfm+oHVOzgEEiUU5cqw+6B18dYL+wUZvWS0MFX8HqxVD1lDB62JUEc50kvb5l5M+doYO3Y/GPKK47/QAz5Rdlki1ipiIFzuKroeuyrb2wSEwnJteBim6eafiXG7WY+HMLyKI2/BTbkEeXiHRqqIpHhENMAmxGWyl+JEmX3UQpOTJpGknh95B8Gb69gwL/DtYtBroVKwGVHC4eh4WceS0hKtfiyYMxwrugd1iaObEU4uVFXKnKyiPcLhwmwSYCRhQSULgKlfzr5RVsOmZ63ZGYTniFXtS69EcsFD9NmipyaLZr8QrjQIuxe+Hpe31p0zEbRfp2BYvsCCEk8Uc93W2n8I3q0VKjGfq6fw==;h4mvTHUFaczwA+OOSOACog=="

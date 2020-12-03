@@ -111,6 +111,20 @@ related:
       name: PRWire
       domain: prwire.com.au
     quality: 34
+  - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
+    excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
+    publishedDateTime: 2020-12-03T18:27:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/cash-converters-controls-costs-accelerates-access-to-insights-with-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/1008-3-0626-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "oZcX7vkWyB5KGZMIIG/E7NsqaB3aXphoNIrLnpxr2aAFy2rZoGgyK1dvacGrHVGxPbabadH545+eO6KTsXo8kDJfAycj6orR32AB74c5zfeG7Qp2NTetGpxswtT9QHiWqCCCAKyDP9Ox/TMDuwLvoHJsR42qcBOGH0Gxc+edRGtwiS+rp/m/4fDsTD7hdhkGocqzXTWo9fxtSwRZRetMjvcsTy44pik6gble+nBaCk013GI9sP1Jw33dlz1F79ZGlDDCAV31LYok/vxQyWu3odBuhWAgJAoHVc7gF9IvlBOhgXPLsbtankRQg2dzlDmvKC55ggfFS+bQFCHwkMN/unrroPsrIjTEtskd+9gGXoo=;l4GNBAbFdMXMOFuLFvQUhw=="
 ---

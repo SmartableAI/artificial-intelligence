@@ -2,21 +2,27 @@
 category: news
 title: "European Computer Vision Industry to 2026 - Featuring Intel, Sony and Texas Instruments - ResearchAndMarkets.com"
 excerpt: "The \"Europe Computer Vision Market by Product Type, Component, Application, Vertical and Country: Industry Analysis and Forecast 2020-2026\" report has been added to ResearchAndMarkets.com's offering."
-publishedDateTime: 2020-12-02T19:08:00Z
-originalUrl: "https://www.wfmj.com/story/42995296/european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom"
-webUrl: "https://www.wfmj.com/story/42995296/european-computer-vision-industry-to-2026-featuring-intel-sony-and-texas-instruments-researchandmarketscom"
+publishedDateTime: 2020-12-02T16:36:00Z
+originalUrl: "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html"
+webUrl: "https://www.oaoa.com/news/business/european-computer-vision-industry-to-2026---featuring-intel-sony-and-texas-instruments-/article_7b4a11be-eb4e-519e-b00a-b2742b090513.html"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: WFMJ
-  domain: wfmj.com
+  name: Odessa American
+  domain: oaoa.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://www.valleymorningstar.com/wp-content/uploads/sites/63/2020/07/GET-IT-NOW-BUTTON.png"
+    width: 576
+    height: 288
+    isCached: true
 
 related:
   - title: "AI In Computer Vision Market 2020 Research, Key Players, Industry Overview, Supply and Consumption Analysis 2023"
@@ -104,6 +110,6 @@ related:
         height: 300
         isCached: true
 
-secured: "yY3eUvdc0aJbJIWAxpwD7Fb9LOLo1dAb7JKekgWrK9XXN76UhkZNqFQN+8MjjbK9Ra/RmPIEQx0y3t0Ttx2QzApoUgBvM98YUIr4b2E7rcXG3vOrdBQA5tyCb3YEMA5pENLtokhV//HnuLGfdscKTNYQIQyKAVHfJ9T/AaX1mqcZBJ+a9c0NVJwBDJL06HD/25hcmfOVRUaiNjLqwQUZwyYm5ePFpKAk+nc/pebfl5wjPPbYukIq7FhpLmHofHKbs6ES5zvDdJzHedrJwU/ID0H8ghDbaX9mcRFoIzd0/KSn/odjOoTwodcnEyCs5Wyw9SsDOSKjnww2dk6DTJ8vIAjxdfr+WQcsjEmnQ3XhfE4=;1VO7Ftamv9wnpVR0SIIHLA=="
+secured: "hIVfc3i0m5g66YR/oq8sp2Z3V3L9Ow2Z1bGP6g6WbkZd6DsR4VHCmxIETxCr44JgTQ3t8Q+/ba3BLxpbsvi8MwPqjWZqt+EYiXeaJEmQ81xfoBNPnHz36sTceI5q7iAlqd9uX279p2UVAnvAVGvJjrakLJY7PtHFPxFd/CLlG+hzvc81/zdh2j9PxAxMzmSUyvwHn1B6lhSH4EGKOS1t1uD7vBkB9lqhnWB7JWwJJQH1x7IKoK4ZLxOK/HWUZoqSbYSbvEdb79nbGtcMibHq5/R4FPJyRjzNlCCv4sUJUjLv93tZFdeUh5os+y+F5ln3ky/7Z3oBHa+db/BJudDPI7nelxCTumofYnlZX9g2Ph8=;s8XI8n03/UC+E/+/CeupMQ=="
 ---
 

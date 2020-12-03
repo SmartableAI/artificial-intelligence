@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28B621"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28B621"
 type: article
 quality: 66
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://securecdn.pymnts.com/wp-content/uploads/2020/12/shutterstock_419039149-457x274.jpg"
         width: 457
         height: 274
+        isCached: true
+  - title: "Amazon introduces voice biometrics for call centers, edge computer vision"
+    excerpt: "Amazon has revealed a new voice recognition tool built into its suite of call-center services for businesses to shorten call times, Reuters reports. The announcement was made by Amazon Web"
+    publishedDateTime: 2020-12-03T17:23:00Z
+    webUrl: "https://www.biometricupdate.com/202012/amazon-introduces-voice-biometrics-for-call-centers-edge-computer-vision"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 38
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2020/06/11110622/amazon-biometric-facial-recognition.jpg"
+        width: 810
+        height: 405
         isCached: true
   - title: "Masks are more likely to protect you from COVID-19 than facial recognition"
     excerpt: "Facial recognition firms got more than they bargained for when COVID-19 struck. While the technology to identify faces when wearing coverings like the medical face masks we see today has certainly existed,"

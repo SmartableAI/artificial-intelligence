@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
-    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
-    publishedDateTime: 2020-12-02T19:21:00Z
-    webUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUKKBN28C22F"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN28C22F"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28C22F"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 106
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R"
-        width: 817
-        height: 545
-        isCached: true
   - title: "Intel's Habana Starts to Chip Away at Nvidia in Cloud With AWS Deal"
     excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
     publishedDateTime: 2020-12-02T14:30:00Z
@@ -54,6 +38,17 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 86
+  - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
+    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvidia in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+    publishedDateTime: 2020-12-02T20:16:00Z
+    webUrl: "https://www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12"
+    ampWebUrl: "https://www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal-2020-12?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
     quality: 86
   - title: "AWS to leverage Habana Gaudi AI processors"
     excerpt: "Invent 2020 conference AWS CEO Andy Jassy announced EC2 instances will leverage up to eight Habana Gaudi accelerators and"
@@ -82,22 +77,6 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/12/Intel-Habana-Gaudi-AI-accelerator-1220.png"
         width: 437
         height: 267
-        isCached: true
-  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
-    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
-    publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 54
-    images:
-      - url: "https://images.barrons.com/im-267539/social"
-        width: 1280
-        height: 640
         isCached: true
 
 secured: "pp7f/rO/zJWld7oStRFT/4GLVFsnLikNysfz7G4I90WxOQgLs5bSn0a2q+LVeWW5MDAQxyckfcO9IwMd1IxW99oNPb/jW9z+aZH4u14m4b7bArWgOaXSu5uevmUquHfGyDmeOVR29u4O4hdKicyV0vvzzmxEJEoOTy1beMF5fKtZFCV+y3LhzsGdtcoe3wVWliWlVEasopS+CTrBTfRYWfXOoQnvxr5J20naVzZwF147iVvpk0qcY7b/4/Y1aZ1/5Pj4XMelUrDrdyVSu/lvLUmg4wSRVZkyvCCRLUE0sNnBQKAeYYwGtMMd394G9ev4yLtNd1WZd1Dhb2cOH1TaD0r3POQfZZ2DW4RhmzK9EGo=;Bmp9s53+eXRDHeCUmuO6SQ=="

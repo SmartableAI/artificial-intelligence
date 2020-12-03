@@ -54,6 +54,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AI startup Olive raises $225M, acquires Verata Health to address prior authorization"
+    excerpt: "It's been a big week for health tech startup Olive. First, officials at the 'AI as a service' healthcare platform announced it raised a $225.5 million funding round led by Tiger Global and General Catalyst,"
+    publishedDateTime: 2020-12-03T14:09:00Z
+    webUrl: "https://www.fiercehealthcare.com/tech/ai-startup-olive-raises-225m-acquires-verata-health-to-address-prior-authorization"
+    type: article
+    provider:
+      name: Fierce Healthcare
+      domain: fiercehealthcare.com
+    quality: 30
+    images:
+      - url: "https://qtxasset.com/fiercehealthcare/1607009278/Screen%20Shot%202020-12-03%20at%2010.27.06%20AM.png?sVGEk5xq5KWc9E2VN9jADk3mqSa4gn7D"
+        width: 1924
+        height: 1008
+        isCached: true
 
 secured: "6fQGG/9x3q/+L4brpEr0M9S003QRO4JZyPJr8UUNtxmkJJmxCbDtpFuXp67ve5w0lp9boNkP2k8azZk0qRv6wz9qFd0kZbdFB3mUNSbSl/LCi4iqsxyBL3gZw1C9dZozFb1NwokiKdynDl9KR0eGl2uITP2le3HJ+fIn0Xhz+yadCWFyl4WzzDr0nEbvYgCViZtHLjsVPfIwG0m8VDgVL4ZzIEPV+B8TnuqsQLl3gCBUMFhF3HfcFE3e1Olw0ulFZ3fpjC8hxzfjJ01z1FicVOI7dHPLUl42xpYGyav2wDEsTFwHLApVvICe3vvheIHouRuk3KQUFVh7HgB4QtIx1jzn+M0QxsERZXZA6luXam9sOe7JBHmZV54KfxF6H6a1ipq1jAwLdED33MvHmHHZik7Nr17DcsBZS/2dyZb0NgQM6xl/V2JsDuX96naHq/xPcCNAjjK9tMdNtip+l2xevXDNVyS3oiBbeSmm1/CsxLh6c/7lMOJPJnWcPx0e3P5QkBcurMZqfyZLuvJmJZ+h7g==;gaxHy+4gQTjxQ00oET5vPA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/03/microsoft-azure-purview-azure-syn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/03/microsoft-azure-purview-azure-synapse-analytics/amp/"
 type: article
 quality: 103
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -107,6 +107,20 @@ related:
       name: PRWire
       domain: prwire.com.au
     quality: 34
+  - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
+    excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
+    publishedDateTime: 2020-12-03T18:27:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/cash-converters-controls-costs-accelerates-access-to-insights-with-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/1008-3-0626-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AWS Announces Three New Analytics Capabilities"
     excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
     publishedDateTime: 2020-12-02T09:33:00Z
@@ -117,6 +131,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "p4qI0mFX0WVcSmPuGGbLgXt1qjpdai7QBnxaVdHUkspUmgBKaA5jMd3cT4BA9fVgxwzCYTAzsdkC9ul4Nwv47BH4CSBwIjp3aIO+uIzCXOmftVyJ4BHfMA3ckjj3V7qdJk7EDHoIHwwCZSl61QIgGmaSh/NE2PPtZbT4mRn+GMasuytvP9/NlFDXQOc5SACh4L7HAQ3E9v87QsCNcSmY15zVKxib6vOv0PD+TpATTfbwCdTrP3EZRhv88sjQU1HVTXN2QSXjgClnwS76BMqD5u6Fad1isK5UHDF8zu2n+XYCqU76NzjrWkFTCWUgI/hFq+mYgM0ysM1qVj15hmQl27o+PPzp+AN3E0xK2yMUXqc=;Ps/t7fm7RGj5CfTeDhukJA=="
+secured: "uq73hbOdYsqVQ/IxiLcbnWjQzuflT+L9Qgezmo7qwvjQRzS62ZoM5CcWswRS57+jTxFuaTe5RSZoLt/u472TF9C7rmkYIBjAZbt0ujFwLcPkJXOFPQybJ+vohtJQ5CBZwLBfEYlM6UraCal0c2LykFcPUMAYoQFwRCEX7kFUKI3STyE5WkOTAbAxz7se2H7zJ48+VnkOQznO5hlHCiw/jmnF5g7yDqXQ0a3d1OzenxbFVINXMd1IFkP03yyyqOxmjOsFeu7A98jQXrSIBGUOchZFFcOQkdUHJmOM+11MkGPIZLG1r+93ydq/Ddo0AVAc3qNABnT5iz+WO/OOgBVGD+1RuEsroxpiPOOVA5BrD4NaEgs3iE64TFPEubffaMFjDKH7RO0NaU+TwyDO9Gc99inCgeWhaZYPZHiQFzUy07RMnkJ7r67Bz2UhiK+8jfxOofc1se9NW/zffBr3qDhh0Q/jnPik+YJKRs2KglIC+gYjGKegBpTfk1FIqylN3r/u2uVXXH2jDeM6ISW0nsAkEA==;32ltTyAifL/4ho0a3UUfbA=="
 ---
 

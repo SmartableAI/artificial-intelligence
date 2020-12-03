@@ -336,6 +336,20 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 54
+  - title: "DeepMind develops AI solution to 50-year-old protein challenge"
+    excerpt: "By developing a solution to one of biology's grand challenges, DeepMind shows the impact AI can have on scientific discovery. This breakthrough could accelerate research involving drug design, disease understanding,"
+    publishedDateTime: 2020-11-30T16:49:00Z
+    webUrl: "https://www.eurekalert.org/pub_releases/2020-11/d-dda113020.php"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
+    images:
+      - url: "https://www.eurekalert.org/socialshare/EurekAlert-bluebg_Twitter_1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Artificial intelligence solves 50-year-old science problem - 'It’s a game changer'"
     excerpt: "A 50-year-old science problem has been solved remarkably early with artificial intelligence, researchers have announced. The news could now fast-track how diseases are both treated and cured. Scientists have long been hampered by an issue known as “protein folding”."
     publishedDateTime: 2020-11-30T17:44:00Z

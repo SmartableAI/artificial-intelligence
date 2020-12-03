@@ -103,6 +103,20 @@ related:
       name: PRWire
       domain: prwire.com.au
     quality: 34
+  - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
+    excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
+    publishedDateTime: 2020-12-03T18:27:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/cash-converters-controls-costs-accelerates-access-to-insights-with-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/1008-3-0626-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AWS Announces Three New Analytics Capabilities"
     excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
     publishedDateTime: 2020-12-02T09:33:00Z
@@ -113,6 +127,6 @@ related:
       domain: morningstar.com
     quality: 19
 
-secured: "1sweFhIYYvamOwoKafZROFjuxqAV5sEaWxYiiXuM+Io9u4iiVIjdvg063TD3ePjkpUybrGTauVvdam0g6Ne7ut+SIr7RnurCSQOR0Nkk7VzVsE4PyOIqnoENm26wK7jbiC+GpKybHPKCAY8gvjCqmlODwJ8wZfSvigcEn8mUMGE+9HMP8tk4DoBEczoG5DOvBtWFXo0UzeP9JEplgyfb4qd3l6vExoVNG/P6FfJWTxJ2YwLG7T5s3kYoP06oIIIN84Pc7cH3Xom4rk4GyoFH5PjlaaVgOHRcsP1wg6K6/Os0EWhOJIcfy32t07tyrKmIXWWvMJLczOn+ZmRcWM6Gm4/MgvoxpZT2QG0gPZro3yE=;9WCoVeTqTEpIvG3SIgJI2w=="
+secured: "WOjTB3ye1CK5Hj2Z6426GzwDG2NwmsduxNZJ2vHJVvQdInRwtP3SLygbC3lYvkGxWQp73EsBJKHE7oXoOxMlxfOEUacbmecpAEO9L8QVK0BId/sERhkkjryGRNBLWAfAHGzYaV0562hpPbncF8HRT270EKa6YZQHCbWlfjfLCJG5zJBo3ypg5u24mQsNSM5P1bSAfB2PRo13fbKlUXQmeqUeGAdZz8fk6Gw3LPYQvZsWYamwxhgj7thf+QTRa7PwcWuk+o1O45u3GVpHS7KS6JIb+dbNH0c8l8Su0fhaJnQ5eNHVzhR3xoed2Qh8+EMhRUWqQyJbK/pPsyAHex5wBfAChxNIlBK1XuWteS+o9J1kJ+PCkZNBvpF4iZpenhcKhav8K6hbCPRLkzz6hPS7EWfvIKfSi9Ebi0yV6YnSsT0SVnHN52IEdxlIa2qxRS61uyi7kmZJWKKLssHgEgTdEoBVh8eX4+N9MgMvXOlb7P3TAwtHoBhCbiO0Zn8cx1LjUJZvCV1+umhY30QH8CWo8w==;7MJ/sK8eCUK+mqe8a7XMnA=="
 ---
 

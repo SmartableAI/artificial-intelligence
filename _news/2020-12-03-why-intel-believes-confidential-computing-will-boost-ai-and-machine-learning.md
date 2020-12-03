@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/2020/12/02/why-intel-believes-confidential-c
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2020/12/02/why-intel-believes-confidential-computing-will-boost-ai-and-machine-learning/amp/"
 type: article
 quality: 103
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://media-exp1.licdn.com/dms/image/C4D12AQG0zWrm6IOtmg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=o4HzxarOlP7xhdb6rfvHIaopOIZFTI5NaVi6B8P2pYk"
         width: 1024
         height: 430
+        isCached: true
+  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
+    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-267539/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "u1Zyr+naBrgK7hqP8ACJXoZzZR6dr0UElCa60hugmhXYEJ2cCD+7mM45xFuvOBCqh+hW2IblwAd2+gai/XviU7POmm1F99pMfEdvhdJjx/1qSltWGbZrLemqdE71vH/QCVoUo9d5OMw+l628zyety6nha1xnuSL3SXibeTjfZb/dBeM6MsZMmyfzhTPpxVd6AVimYuWvqkphEszb9CAE6t+M0dQVYo4+/P3EQVSjWTcZZaj1N5RkbX9Ta/YZK9fu0ZvN2zzrNDdzksEZ9cC7cz+yLcX51Dj0+65X+GtVjxTqDyDGgu68BqVVFIWjC5/x22AQSxb2Tow+sDY4j65ak1uFsDiAsNjflXeQP9+CQJNFiCepsqW1mDNIr6Tyc17if3mQvS6R8GBdVbvZ3UsKplUaP0z9lyWdpvpNyOyUshE2fVzZ3sJuBFaOWjvVOqX1B4lVtuet72oTOpNGuu+kRrNRxSp1fwFwSWrbK4QXcTS2nbQkQYfV++xy7d3WEvJEB1VASKgfKc1nUgiWNPXi8g==;v9K2/S/p1LNJzP5A/budVw=="

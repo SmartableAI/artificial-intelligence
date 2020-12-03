@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-d
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -99,6 +99,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 34
+  - title: "Elon Musk's Self-Driving Promises May Drive Tesla Off A Cliff"
+    excerpt: "Tesla has successfully positioned itself in the mind of the general public and investing community alike as a key leader in autonomous vehicles."
+    publishedDateTime: 2020-12-03T18:03:00Z
+    webUrl: "https://seekingalpha.com/article/4392823-elon-musks-self-driving-promises-may-drive-tesla-off-cliff"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
     excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
     publishedDateTime: 2020-11-30T18:10:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.npr.org/2020/11/30/940197035/researchers-develop-an-ap
 webUrl: "https://www.npr.org/2020/11/30/940197035/researchers-develop-an-app-to-identify-cattle-through-facial-recognition"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "9Vietnamese firm to launch facial-recognition payment app next year"
-    excerpt: "Buyers experience the FacePay app at a GS25 convenient store in Ho Chi Minh City. Photo: Ngoc Phuong / Tuoi Tre Facial recognition will become a form of payment in Vietnam next year thanks to a brand new app developed by a local technology firm."
-    publishedDateTime: 2020-11-30T02:58:00Z
-    webUrl: "https://tuoitrenews.vn/news/business/20201130/9vietnamese-firm-to-launch-facialrecognition-payment-app-next-year/58025.html"
+  - title: "Seattle officials push back against facial recognition claims"
+    excerpt: "The City of Seattle and police department say they have no agreement with a company that provides facial recognition software for law enforcement."
+    publishedDateTime: 2020-12-03T18:20:00Z
+    webUrl: "https://www.king5.com/video/news/local/seattle/seattle-clearview-statement/281-44b77106-1fe0-4484-aedb-6cd92c75d3ee"
     type: article
     provider:
-      name: Tuoi Tre news
-      domain: tuoitrenews.vn
-    quality: 24
+      name: KING5
+      domain: king5.com
+    quality: 54
     images:
-      - url: "https://secure3.vncdn.vn/ttnew/r/2020/11/29/npgs2512-16065404411481935486640-1606643543.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://media.king5.com/assets/KING/images/97e2e354-81cb-4828-ae86-fe96f7f98111/97e2e354-81cb-4828-ae86-fe96f7f98111_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
 
 secured: "DFD/QBcqp3nxNYHhh4ZJ9xjaq5rsuzxcQRlGjIgEFAZqnapj3LIiIH+2t6e/8LMhRV6CmSILp0opS4s9HUFjuiiTxD8lI+5dCgbegMXOyghYzu7ZA1NE1EEVc0AOFzvGYbdgrhm2VhrQb2n5VFXkJ7d8vCI8NTU7aUV342FgWCR9n3gkhabrr2YNJ12wT6olpDncCLO7GXHDbLgfa5Ai9BQqHjQxOauU2dfixsLdOXm3JNR/O+DGfrPg9wU6rQ5q3ta+a5cY0vAlL/F0J9kjAe21975x6Y3aXwbZdrQMwciAqXVeNj9WSL1NdYLVXvnUQwmO9E+FQkhcWg98YBboHJ3T4cC/503RvwteRDN5vKE=;SvDusNZGSltq1j8wIyA5ig=="

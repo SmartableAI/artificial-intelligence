@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2020-12-soft-skills-power-robot-leaders.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2020-12-soft-skills-power-robot-leaders.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: techxplore.com
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Rise of the retail robots"
+    excerpt: "The robots are coming! On our sidewalks, in our skies, in our every store… Over the next decade, robots will enter the mainstream of retail. And the numbers back it up: in a mere 8 years, the global retail robotics market is projected to grow by an order of magnitude,"
+    publishedDateTime: 2020-12-03T18:41:00Z
+    webUrl: "https://www.linkedin.com/pulse/rise-retail-robots-peter-h-diamandis"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 54
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C5612AQFZvNXhGbliyg/article-cover_image-shrink_600_2000/0?e=1612396800&v=beta&t=_aUT2bo_itBC-QXPF9CE8oPMMQYPvOAPxm6esMGikLA"
+        width: 1800
+        height: 600
+        isCached: true
   - title: "Why soft skills could power rise of robot leaders"
     excerpt: "If robots can master humour, they could step into roles that require exemplary soft skills, like leadership roles,' says Dr Gloor"
     publishedDateTime: 2020-12-02T14:24:00Z

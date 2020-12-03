@@ -106,6 +106,20 @@ related:
       name: PRWire
       domain: prwire.com.au
     quality: 34
+  - title: "Cash Converters controls costs, accelerates access to insights with Azure Synapse Analytics"
+    excerpt: "That focus on continuous improvement led Dr Ryan Behdad, the company’s data science lead, to champion the deployment of Azure Synapse Analytics. Previously Cash Converters used Azure SQL to build and manage its data warehouse,"
+    publishedDateTime: 2020-12-03T18:27:00Z
+    webUrl: "https://news.microsoft.com/en-au/features/cash-converters-controls-costs-accelerates-access-to-insights-with-azure-synapse-analytics/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 29
+    images:
+      - url: "https://3er1viui9wo30pkxh1v2nh4w-wpengine.netdna-ssl.com/wp-content/uploads/prod/sites/66/2020/11/1008-3-0626-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "AWS Announces Three New Analytics Capabilities"
     excerpt: "AQUA (Advanced Query Accelerator) for Amazon Redshift provides an innovative new hardware-accelerated cache that delivers up to 10x better query performance than any other cloud data warehouse AWS Glue Elastic Views lets developers easily build materialized views that automatically combine and replicate data across multiple data stores Amazon QuickSight Q is a machine learning-powered capability for Amazon QuickSight that lets users type questions about their business data in natural language and receive highly accurate answers in seconds Capital One,"
     publishedDateTime: 2020-12-02T09:33:00Z

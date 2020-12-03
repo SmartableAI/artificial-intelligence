@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
+    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
+    publishedDateTime: 2020-12-03T05:08:00Z
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
+    images:
+      - url: "https://images.barrons.com/im-267539/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "WDvE+OVM1twFpKtHUPk7G5+F6FGahR/e5XRQJAQVysU/v1FHFa2lShNIQLqtlF9Q8iptgTXd8MjgLvNx7JqiO+NEj4mgpfcbeRgG2KfhKs3QMH4xEIxfCmvRa86mpHXEpOxpTAoff9ETjS19YuzY79XLvNpJ+oF6omAAfz755S6/aMQb+8rWWr5/OUuxyqlBznSwBhxYJVtvr8KpHPoW38ZyeqUZcq0ZQO3kLj3Q28frYnamSK/2YK8ZK2ry73Ott2VnFr3ksUo48pOzoM0VfT8+Ibrxjdr8Fe/WFaepoW0nVM1aVOHIdvvw8rQpKzC4uJMmeqVml+G6kyTKgcZ1hW81IitJLftjdaUIEp5/9BHhfU31a1Nq5h35hQkpaW3Bhzl138jhznQGoK8kpF1+gg4MqL9vTVRxAjxh7KJfczIu5EmcTLA1YzvElfdoHEA7pJ7f91qjbCaMdMVbScYVIWfDQvPatIWcuRFg7c1rWvN89Q55tBg0nzFasYcxZXoEd1wK951i+ciSzudN6KJjAg==;4MaJii43NMdUYIvWiIa7TQ=="
 ---

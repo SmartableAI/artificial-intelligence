@@ -1,28 +1,23 @@
 ---
 category: news
-title: "IDS Makes Artificial Intelligence Available to Factory Automation Via OPC UA and Provides Maximum Flexibility with Vision Apps"
+title: "IDS makes artificial intelligence available to factory automation via OPC UA and provides maximum flexibility with vision apps"
 excerpt: "The recently released software update for the IDS NXT platform provides users of the all-in-one AI solution IDS NXT ocean with many new features."
-publishedDateTime: 2020-12-02T22:01:00Z
-originalUrl: "https://www.automationworld.com/supplier-news/news/21205287/ids-imaging-development-systems-gmbh-ids-makes-artificial-intelligence-available-to-factory-automation-via-opc-ua-and-provides-maximum-flexibility-with-vision-apps"
-webUrl: "https://www.automationworld.com/supplier-news/news/21205287/ids-imaging-development-systems-gmbh-ids-makes-artificial-intelligence-available-to-factory-automation-via-opc-ua-and-provides-maximum-flexibility-with-vision-apps"
+publishedDateTime: 2020-12-02T20:53:00Z
+originalUrl: "https://www.roboticstomorrow.com/news/2020/12/02/ids-makes-artificial-intelligence-available-to-factory-automation-via-opc-ua-and-provides-maximum-flexibility-with-vision-apps/15983/"
+webUrl: "https://www.roboticstomorrow.com/news/2020/12/02/ids-makes-artificial-intelligence-available-to-factory-automation-via-opc-ua-and-provides-maximum-flexibility-with-vision-apps/15983/"
 type: article
-quality: 24
-heat: 24
+quality: 6
+heat: 6
 published: false
 
 provider:
-  name: Automation World
-  domain: automationworld.com
+  name: Robotics Tomorrow
+  domain: roboticstomorrow.com
 
 topics:
+  - AI in Robotics
   - AI
 
-images:
-  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/12/34160_ids_nxt_ocean_inference_industrial_camera_ai_3000x2000_06.5fc7fff547cef.png?auto=format&fit=max&w=1200"
-    width: 1200
-    height: 800
-    isCached: true
-
-secured: "osqyGvGh3NeEU/1PjSIvfWfyv8bnsxHP6VyMu0OVMwVV7xzxbLnBkNSGCNTqTwVyFvD2wTK5iyTfFzBJrygsPkCTVzpk/ZSnh2/XMLBnzAxMq2PGIQF9m8Xeec84unV08e9I7YJHHmt425bGe2aJDh2VLRpMHstQErOQlakG8iJ43vk7RZSEQt0DIQ5RfTVY+i6vfCeEg1Mm+PLzvdGK06cxi/BdyxA4WjRrCz5dMVnz7UXPIZf1ehKVLhG45zMCA7FSPl1Kd9MZqkpnGkfEbVJkDS6BH9BUQEuvaB112So4WPVcCYnEhfNKjWGYCdJO8UGkYt8aMUdT2YWI6Xgb840ATOL2q3xOZsj5f6GrJ08=;Iq4RUhNM1otmoPSRwSwqqA=="
+secured: "1MQnykbSnCI7o8TmsSAJaWDDurDRfyM8ioqQBu4OMeWrzy9IpXiFS122uvZzk3kxWCCNnJlZdcQ7tjI3Wbvgqy7U7dzXhIYkK2Hj74YH8ULqM5dAmojGLePz71cmG3kiB5wfTZYcNHi7W36koQK8wLHw0cLuprJPXi5pXbGhn/mqfc35qO0O8uzpEoeQDga2fn8wdwEil9TNz0M7Vb+NErOE6Kk+96nINXZ6obkCqTAjyrqj2tRWNZXGODpAb4EsHSoXRKbyfPfZ/zdanWhSZ7J0Phryq3caqyS6mgPuRKXPQDgDGLT49IS2JXFJvzwgiNAEcotYyKo3LtTNh/WNx98sFgSViSxCeL/XBj7IOEs=;tPuQTeX8ORV98tn67sy69Q=="
 ---
 

@@ -1,24 +1,22 @@
 ---
 category: news
 title: "Atrium Expands Its Relationship With AWS to Boost Enterprise Analytics Capabilities"
-excerpt: "Atrium’s service offerings, powered by AWS, can help Atrium prospects and customers to further evolve their investments in business intelligence by improving access to AWS. “When enterprise ..."
-publishedDateTime: 2020-11-18T12:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
-webUrl: "https://markets.businessinsider.com/news/stocks/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities-1029815429"
+excerpt: "INDIANAPOLIS , Nov. 18, 2020 (GLOBE NEWSWIRE) -- Atrium, a next-generation consulting company that leads enterprises through a business transformation with artificial intelligence (AI) and ..."
+publishedDateTime: 2020-11-18T12:42:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+webUrl: "https://www.benzinga.com/pressreleases/20/11/g18424642/atrium-expands-its-relationship-with-aws-to-boost-enterprise-analytics-capabilities"
+ampWebUrl: "https://amp.benzinga.com/amp/content/18424642"
+cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18424642"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "7dyuYsVd080eQPbG4iEDaQuOrIT5CRqnkDMndl6EjLOyTra26p6goPM3StG8rv+5CnXWQ8YRhJcDsyLz1Gu1ixDLt+GBi4i5pvbr6ulSEji4rMlwWBs1ZVSXffAgQ7/Fd94ZDAFsv/3MgPwtUZZyxM65TEdrp/dvFeQPorqciRrHs8TXkoHlxS+vjDyYtyi7yiwAKQBw4t9HH62lj+MNci0GexbjErKDqP0bIpZ/OqR87kf/Yw/pFfUPFVwdkw8R3xs1Ekp5MfthzedaYby2ax8h8o/pi6CCLYY5TgDG/0Ogm676tuKhtt8OPTNVdcEhxE5y2sh8XD+pvuLc8oSwqZU/3vtlBv0XUseTn+KQmuM=;1UI9iPyoibkTUux3ET6WQQ=="
+secured: "dkGWw8lEshKGBfmKbkTOwGz+qsfBZSWMdYB5O3H5arx58g8CDehzTtBrQKpEUt5ybrVVzjlfbQlXdMH/fd1zQndtZbH4xbrVDCAGriKMOD0LuP1TydkJf8VbZphEXz3TZx7WvJVWRGJ/B9aBUAwG9Ds7cmZPm2BVBA420I6yakSucfjGIGvtlP0fgd4TtSE4EcvDge+UakTtCrVr+74JpaTPw/DvDxrnoz2Dc++X6ntdxiadkAZzBVqe07Gd0m+/5flx+R8pl3Ba0iqsm8Rp3ifPYWMpgjz6YcbyFW2tDy1PO+j1rT94yoNjKFHP2jeIgmchchiRl354P+WLcLQuW/rxW4zU8Kp7Hk+25zBHF64=;AXa4F3XKo+G3HRUIk/1UuQ=="
 ---
 
