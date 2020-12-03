@@ -43,6 +43,17 @@ related:
         width: 450
         height: 323
         isCached: true
+  - title: "Global Robotics & Automation ETF (ROBO) Hits a 52-Week High"
+    excerpt: "For investors looking for momentum, ROBO Global Robotics & Automation ETF ROBO is probably a suitable pick. The fund just hit a 52-week high and is up 102.4% from its 52-week low price of $28.27/share."
+    publishedDateTime: 2020-12-02T21:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
 
 secured: "YKVpHwQWjsOJPYg2wYgQ9bUKYEVxbfwmuWoqb+5moTKo1JWYDu4XI85LW51Upu3So9+A4pwPhmpvQvenLDJr4mxH6n6uY+qLZcm8lR0y+fufr/ihZmdgMLUR3Zy3GugRFIblpXUkiYRq9GTuY71vSENYd2MruT9AQVUGUIqEbjhUMl8e+mpcf52jRNybPxALBmD15s6wITxWGfxZ7bI+jAEkJPkgvXYHD3D3wYquoLAYbbUxenDoD4Q6jNNc94Mc+a2SNurJ58vp8aJFjh23LOMTrdOyX/021SxOOCJ4XZOQqYiFcbdgROd46lcQ93//oedV6mNBJSGLnVw82tLQLv2+qeYhz9lo3iuIPxQytpM=;7BaI+QalctawnDkKJ2yqAw=="
 ---

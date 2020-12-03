@@ -1,23 +1,33 @@
 ---
 category: news
 title: "AWS Announces Five Industrial Machine Learning Services"
-excerpt: "Amazon Monitron provides customers an end-to-end machine monitoring solution comprised of sensors, gateway, and machine learning service to detect abnormal equipment conditions that may require mainte"
-publishedDateTime: 2020-12-02T14:04:00Z
-originalUrl: "https://www.manufacturingtomorrow.com/news/2020/12/02/aws-announces-five-industrial-machine-learning-services/16204/"
-webUrl: "https://www.manufacturingtomorrow.com/news/2020/12/02/aws-announces-five-industrial-machine-learning-services/16204/"
+excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced Amazon Monitron, Amazon Lookout for Equipment,"
+publishedDateTime: 2020-12-01T20:45:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-five-industrial-machine-learning-services-2020-12-01"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-five-industrial-machine-learning-services-2020-12-01"
 type: article
-quality: 36
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Manufacturing
-  domain: manufacturingtomorrow.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AWS AI
-  - AI
   - Machine Learning
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AWS announces Panorama a device adds machine learning technology to any camera"
@@ -78,7 +88,18 @@ related:
         width: 480
         height: 271
         isCached: true
+  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
+    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
+    publishedDateTime: 2020-12-03T00:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18627184/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18627184"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18627184"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
-secured: "yYgdbN0iBd+S6wJAZ5BhyLGqJDcEDdREM1whrEeZ99zec3i5Dl608MsE9u7NSy5QG0jpE+GXRQkrAmzVgJwhgzrE6MGYKeCcXpN4yEHaJI6Cro+q6CcepTtdyg6QVJjHym3zcpN+fBqcNMVFusk0n/FcH9/w3KAzCfBCc1aX/sBSZajMXeDKkXuenjsehcWTtYqCblWmbs08f8p8zn8yY1T6chzvX7PzxyTgAiUGdCTwWRib2yRCbA4PX3uGRpMnnKC68mff8DGm1kjHdc7JMFear6G6M2fN7hKc135WzhKnU5hpZpJ7KOoUlM/wE65adDWO7okYctRocS41ex1EdBSQDq/S6fXJxpydlTyPhjQ=;U1y7dd9rWVaq/UrmyAvw1A=="
+secured: "+N/XbdkFhxgw9Qa2tOVhFHtZzkpDrh1jL5yS7YRAMCgQHf7MKJlMM7L/LLqnh6VhOrgHMp+sI9Pt8gl6uIkXnsJhk+2g3PlL8vSsKaujvEZDHZP4DEwmOrSPXjqc26ja/xOhUnVhB9Cr5qWhn/8yQFL6QztjMVJFIJNr4U1gx3lH3Rgf6g0l53FvrLH6dRl339wB0k/TcFdVuvUylDn8AuHKEhC5M5nwSyMl6R9te0+1jwqf0cry+zlGn0RDxgymBApEPS9IbJelt0HjylgUQL9kPY6c3kZIHtJOz2p0iYooRrk0sDOWgv27j/i1IyPHMewrQSDE7h0gIO57n4BoKygr/xiz0dKs+RVaaIPUw0M=;Qd/jnBAcdaf/fjuDg1F3XA=="
 ---
 

@@ -31,147 +31,66 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla could widen release of 'self-driving' software in two weeks"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
-    publishedDateTime: 2020-11-28T08:44:00Z
-    webUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28806A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
-        width: 716
-        height: 545
-        isCached: true
-  - title: "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks"
-    excerpt: "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets."
-    publishedDateTime: 2020-11-30T14:10:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-tesla-full-self-driving-beta-to-expand-in-two-weeks/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://zdnet2.cbsistatic.com/hub/i/r/2020/04/29/b0b2b069-530f-4f03-ab3c-f41207823389/thumbnail/1200x675/7dab00fbe159192ec9acc7344002b423/teslas-big-new-feature-autopilot-now-hal-5ea855af1c719e4526590320-1-apr-29-2020-13-36-03-poster.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Tesla Full Self-Driving Beta wider release coming in just a few weeks, it’s both scary and exciting"
-    excerpt: "According to the latest timeline, Tesla could be just 2 weeks away from its wider release of its Full Self-Driving Beta. The prospect of the software update going to more people is both scary and exciting at the same time."
-    publishedDateTime: 2020-11-29T22:33:00Z
-    webUrl: "https://electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/"
-    ampWebUrl: "https://electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/29/tesla-full-self-driving-beta-wider-release-coming-scary-exciting/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 75
-    images:
-      - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
-        width: 2564
-        height: 1236
-        isCached: true
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
-    excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."
-    publishedDateTime: 2020-11-30T17:54:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/teslas-full-self-driving-beta-may-expand-quite-soon-elon-musk-says/"
+  - title: "Waymo self-driving cars set out for Ohio snow at new testing facility"
+    excerpt: "Alphabet's Waymo division is ready to take on the Buckeye State as it announced on Tuesday a new facility in East Liberty, Ohio, to house its self-driving car prototypes. There, Waymo plans to put its Waymo Driver system to work on driving a car entirely by itself,"
+    publishedDateTime: 2020-12-01T22:03:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 69
-  - title: "Elon Musk Predicts Tesla Will Have Level 5 Full Self Driving Will Be Ready in 2021"
-    excerpt: "Elon Musk is highly confident Tesla will have level 5 full self-driving ready in 2021 and will release it to Tesla customers in 2021. Some jurisdictions will allow full self-driving in 2021. By 2030,"
-    publishedDateTime: 2020-12-02T08:00:00Z
-    webUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html"
-    ampWebUrl: "https://www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
-    cdnAmpWebUrl: "https://www-nextbigfuture-com.cdn.ampproject.org/c/s/www.nextbigfuture.com/2020/12/elon-musk-predicts-tesla-will-have-level-5-full-self-driving-will-be-ready-in-2021.html?amp"
-    type: article
-    provider:
-      name: NextBigFuture
-      domain: nextbigfuture.com
-    quality: 68
+    quality: 89
     images:
-      - url: "https://www.nextbigfuture.com/wp-content/uploads/2020/12/Screen-Shot-2020-12-01-at-11.38.32-PM-1024x682.jpg"
-        width: 1024
-        height: 682
+      - url: "https://cnet2.cbsistatic.com/img/Sy2VeNw5UQrGG1C43PGSDFmjVNk=/2020/12/01/90826b96-460e-4aab-b8bc-35016493224a/ogi-waymo.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Tesla could widen release of 'self-driving' software"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new “Full Self Driving” software update in two weeks. In October, Tesla released a beta, or test version,"
-    publishedDateTime: 2020-11-28T12:34:00Z
-    webUrl: "https://dunyanews.tv/en/Technology/575487-Tesla-could-widen-release-self-driving-software"
-    ampWebUrl: "https://dunyanews.tv/amp/english/575487.php"
-    cdnAmpWebUrl: "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/575487.php"
+  - title: "Waymo will build a city in Ohio to test its self-driving cars"
+    excerpt: "Talk about pop-up urbanism: The Alphabet-owned Waymo will build a fake city in East Liberty, Ohio, to test its next generation of autonomous vehicles"
+    publishedDateTime: 2020-12-02T20:21:00Z
+    webUrl: "https://www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/"
+    ampWebUrl: "https://www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2020/12/waymo-will-build-fake-city-in-ohio-to-test-self-driving-cars/amp/"
     type: article
     provider:
-      name: Dunya News
-      domain: dunyanews.tv
+      name: The Architect's Newspaper
+      domain: archpaper.com
     quality: 59
     images:
-      - url: "https://img.dunyanews.tv/news/2020/November/11-28-20/news_big_images/575487_78460199.jpg1"
-        width: 556
-        height: 370
+      - url: "https://assets.archpaper.com/wp-content/uploads/2020/12/Screenshot-2020-12-02-16.15.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Tesla to release 'self-driving' update to wider audience in two weeks"
-    excerpt: "Tesla might start rolling out a new self driving update for a wider range of its cars. The company chief Elon Musk stated that Tesla Inc will soon provide a \"Full Self Driving\" software update to more of its cars."
-    publishedDateTime: 2020-11-28T13:32:00Z
-    webUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks-11606565160988.html"
-    ampWebUrl: "https://www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/auto-news/tesla-to-release-self-driving-update-to-wider-audience-in-two-weeks/amp-11606565160988.html"
+  - title: "Waymo's self-driving systems will be vetted at two proving grounds"
+    excerpt: "As it readies its self-driving technology for operations across a wide swath of environments, Waymo will soon begin testing at two new dedicated proving grounds. The company said Tuesday it has partnered with the Transportation Research Center in East Liberty,"
+    publishedDateTime: 2020-12-01T15:57:00Z
+    webUrl: "https://www.autonews.com/mobility-report/waymos-self-driving-systems-will-be-vetted-two-proving-grounds"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
+      name: Automotive News
+      domain: autonews.com
+    quality: 39
     images:
-      - url: "https://images.livemint.com/img/2020/11/28/600x338/2020-11-27T122837Z_1_LYNXMPEGAQ0PG_RTROPTP_3_USA-STOCKS-TESLA_1606570085041_1606570100788.JPG"
-        width: 600
-        height: 338
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/800x600/public/Waymo-MAIN_i_0.png"
+        width: 800
+        height: 600
         isCached: true
-  - title: "Musk: Tesla Full Self-Driving Will Be Ready In 2021"
-    excerpt: "CEO Elon Musk said he believes Tesla will have fully autonomous, level five vehicles on the road in 2021. This would mean that a driver and steering wheel are optional, as the vehicles would be fully capable of driving themselves in all scenarios."
-    publishedDateTime: 2020-12-02T17:00:00Z
-    webUrl: "https://www.benzinga.com/tech/20/12/18617609/musk-tesla-full-self-driving-will-be-ready-in-2021"
-    ampWebUrl: "https://amp.benzinga.com/amp/content/18617609"
-    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18617609"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://www.benzinga.com/files/images/story/2012/190422083359-01-tesla-autopilot-grey-super-tease_0.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Tesla expands full self driving trial"
-    excerpt: "Tesla will expand trials of its full self driving (FSD) software allowing autonomous driving in about two, according to CEO Elon Musk. Tesla on its home page says all new Tesla cars “come standard with advanced hardware capable of providing Autopilot features today,"
-    publishedDateTime: 2020-11-29T21:58:00Z
-    webUrl: "https://www.theaustralian.com.au/business/technology/tesla-to-expand-full-self-driving-trial/news-story/e82948a24df3253d560581102477a537"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 34
-  - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says - Roadshow"
-    excerpt: "\"Soon\" as in just two weeks, according to the company's CEO."
-    publishedDateTime: 2020-11-30T18:10:00Z
-    webUrl: "https://www.newsoneplace.com/39276371911/tesla-full-elon"
+  - title: "Waymo self-driving cars set out for Ohio snow at new testing facility - Roadshow"
+    excerpt: "Through a partnership with TRC, the new facility will provide more weather scenarios and complex situations. The Room Where It Happened : A White House Memoir Hardcover – 23 Jun. 2020 by John Bolton (Author)."
+    publishedDateTime: 2020-12-01T13:54:00Z
+    webUrl: "https://www.newsoneplace.com/39458891911/waymo-ohio-roadshow"
     type: article
     provider:
       name: newsoneplace.com
       domain: newsoneplace.com
-    quality: 15
+    quality: 34
+    images:
+      - url: "https://images.weserv.nl/?url=https://cnet2.cbsistatic.com/img/KYvl3VMQtRh4kd4gmZSX8NWuzvU=/300x0/2020/12/01/4564bc67-4908-404b-b45f-61494d577633/trc-waymo-photo.jpg&h=250"
+        width: 375
+        height: 250
+        isCached: true
 
 secured: "vEDVewLrwmMLEusUgoN4uzNdDo4dTPH1qoAA29hWpEA6jOiADvk0xy35Iyx0DRrqe2kiS1LHOgXLmCSZynexVJ4W9bfgIJDXVpPbvzfu8I7T82Af7wqDMXuaBuwTcx+Z0YWgBvmAHeof9gwQBQ6QFhUFlrqFfohHvf1VpdHJZ8QgDvqwydYTelU71Bx0BijvvSphADi51SrxFGqaPP6fGduNM8T1yO1eB4F8FSVSFqflirYXUzTs89eWc3CbPi8Ubi0T8X4WxmRibELQ6LYTRwrrk5gWMsBPvbIJaOpv9DadWkGmXmOfnCs40KNgli8oWIz+cMKRaN//iilRMEu37+S8IapeQBeiyII34AmlCdup3dHhpfWVBZkEYV0kt5bnqxTMnrbLhf+gwuyBngCST960ErxHZSUcV//J0XwNf1J4edMWTxuvE2OtcO5pEAziy4v3MxXINEspx5rCDv0vUhZ0pbbTsCbwDBH77vq5MtngKtPG9eoT3xA7Ibtkoc8b+MQfiGKyu0AtTztC0JIiCw==;6BFFdf3Q6ij9R2+R+hEoIA=="
 ---

@@ -55,6 +55,51 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-7-tremendous-changes-artificial-intelligence-brings-to-the-education-sector.md",
+      "title": "7 Tremendous Changes Artificial Intelligence Brings to the Education Sector",
+      "excerpt": "Have you considered the role of AI in education as more academic institutes discover its virtues in the coming years?",
+      "sourceUrl": null,
+      "webUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
+      "originalUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.smartdatacollective.com/wp-content/uploads/2020/12/AI-in-education.jpg",
+          "width": 1000,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
+      "cdnAmpWebUrl": "https://www-smartdatacollective-com.cdn.ampproject.org/c/s/www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/amp/",
+      "publishedDateTime": "2020-12-01T13:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SmartData Collective",
+        "domain": "smartdatacollective.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Education",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-finnish-researchers-say-ai-tool-can-help-optimize-cancer-combination-therapy.md",
       "title": "Finnish researchers say AI tool can help optimize cancer combination therapy",
       "excerpt": "Researchers in Finland have developed a machine-learning tool that accurately predicts how different cancer drugs kill disease cells, according to a paper published Tuesday by Nature Communications.",
@@ -95,49 +140,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-01-baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation.md",
-      "title": "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation",
-      "excerpt": "PRNewswire/ -- Baidu, Inc (NASDAQ: BIDU) holds the most AI-related patents and has filed the most AI-related patent",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250",
-      "publishedDateTime": "2020-12-01T05:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {

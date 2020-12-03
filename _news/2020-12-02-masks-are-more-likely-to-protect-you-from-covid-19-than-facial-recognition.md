@@ -29,7 +29,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 46
+    quality: 48
   - title: "Amazon delves deeper into voice recognition, call-centre work as demand grows for cloud tools"
     excerpt: "Executive Andy Jassy said COVID-19 has accelerated businesses’ cloud adoption by several years, and more than 5,000 customers turned to the Amazon Connect service for call-centre help during the pande"
     publishedDateTime: 2020-12-01T20:17:00Z

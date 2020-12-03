@@ -8,8 +8,8 @@ webUrl: "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recogni
 ampWebUrl: "https://www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-delves-deeper-into-voice-recognition-call-center-work-as-covid-19-drives-cloud-2020?amp"
 type: article
-quality: 46
-heat: 46
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Masks are more likely to protect you from COVID-19 than facial recognition"

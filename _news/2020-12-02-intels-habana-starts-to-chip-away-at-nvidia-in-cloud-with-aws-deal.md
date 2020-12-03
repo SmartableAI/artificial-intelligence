@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2020-12-02/intels-ha
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2020-12-02/intels-habana-starts-to-chip-away-at-nvidia-in-cloud-with-aws-deal?context=amp"
 type: article
 quality: 86
-heat: 106
-published: true
+heat: -1
+published: false
 
 provider:
   name: U.S. News & World Report
@@ -26,6 +26,22 @@ topics:
   - AI Hardware
 
 related:
+  - title: "Intel's Habana starts to chip away at Nvidia in cloud with AWS deal"
+    excerpt: "Intel Corp's Habana Labs business said on Wednesday it would take time to gain market share from Nvida in cloud and data centre computing but its deal this week with Amazon Web Services (AWS) was a solid first step."
+    publishedDateTime: 2020-12-02T19:07:00Z
+    webUrl: "https://www.reuters.com/article/us-intel-habana-aws-idUSKBN28C22F"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C22F"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C22F"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 106
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20201202&t=2&i=1543204037&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGB115R"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Artificial Intelligence Chips Market to Witness Huge Growth by 2025 | Google, Intel, NVIDIA"
     excerpt: "This report presents the worldwide Artificial Intelligence Chips market size (value, production and consumption), splits the breakdown (data status 2014-2019 and forecast to 2025), by manufacturers, region,"
     publishedDateTime: 2020-12-01T17:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-arti
 cdnAmpWebUrl: "https://www-modernreaders-com.cdn.ampproject.org/c/s/www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html/amp"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Global Robotics & Automation ETF (ROBO) Hits a 52-Week High"
+    excerpt: "For investors looking for momentum, ROBO Global Robotics & Automation ETF ROBO is probably a suitable pick. The fund just hit a 52-week high and is up 102.4% from its 52-week low price of $28.27/share."
+    publishedDateTime: 2020-12-02T21:58:00Z
+    webUrl: "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02"
+    ampWebUrl: "https://www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/global-robotics-automation-etf-robo-hits-a-52-week-high-2020-12-02?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 84
   - title: "Janney Montgomery Scott LLC Acquires 957 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)"
     excerpt: "Janney Montgomery Scott LLC lifted its holdings in shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) by 7.6% during the 3rd quarter, according to its most recent disclosure with the SEC."
     publishedDateTime: 2020-11-30T10:30:00Z

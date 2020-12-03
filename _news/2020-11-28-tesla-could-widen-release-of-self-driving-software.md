@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla could widen release of 'self-driving' software in two weeks"
-    excerpt: "Tesla Inc Chief Executive Officer Elon Musk said on Friday there will probably be a wider roll out of a new \"Full Self Driving\" software update in two weeks."
-    publishedDateTime: 2020-11-28T08:44:00Z
-    webUrl: "https://www.reuters.com/article/tesla-selfdriving-idINKBN28806A"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN28806A"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN28806A"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 89
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20201128&t=2&i=1542725623&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGAR032"
-        width: 716
-        height: 545
-        isCached: true
   - title: "Elon Musk: Tesla Full Self-Driving beta to expand in two weeks"
     excerpt: "More Tesla drivers could soon be sharing warts-and-all videos of Full-Self Driving in action on public streets."
     publishedDateTime: 2020-11-30T14:10:00Z
@@ -74,22 +58,6 @@ related:
       - url: "https://electrek.co/wp-content/uploads/sites/3/2019/12/Tesla-Self-driving-visualization.jpg?quality=82&strip=all"
         width: 2564
         height: 1236
-        isCached: true
-  - title: "Self-Driving Cars Need Those ‘How Am I Driving’ Bumper Stickers"
-    excerpt: "Those ubiquitous \"How Am I Driving?\" bumper stickers are needed for self-driving cars too. getty. Sometimes bumper stickers are notably helpful. While out driving, you are bound t"
-    publishedDateTime: 2020-12-01T16:37:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4715574e6fb2cd0b8b531%2F0x0.jpg%3FcropX1%3D365%26cropX2%3D4717%26cropY1%3D60%26cropY2%3D3333"
-        width: 1199
-        height: 902
         isCached: true
   - title: "Tesla's Full Self-Driving beta may expand quite soon, Elon Musk says"
     excerpt: "Driving system beta may have their chance in the next two weeks, according to comments from CEO Elon Musk. The outspoken executive, who often makes the company's news via Twitter, said in a tweet the next couple of weeks could see an expanded rollout of the beta software."

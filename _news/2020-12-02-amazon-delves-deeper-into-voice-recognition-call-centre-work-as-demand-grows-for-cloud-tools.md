@@ -31,7 +31,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 46
+    quality: 48
   - title: "Masks are more likely to protect you from COVID-19 than facial recognition"
     excerpt: "Facial recognition firms got more than they bargained for when COVID-19 struck. While the technology to identify faces when wearing coverings like the medical face masks we see today has certainly existed,"
     publishedDateTime: 2020-12-02T12:06:00Z

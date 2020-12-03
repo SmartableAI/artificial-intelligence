@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation"
-excerpt: "PRNewswire/ -- Baidu, Inc (NASDAQ: BIDU) holds the most AI-related patents and has filed the most AI-related patent"
-publishedDateTime: 2020-12-01T13:42:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250"
-webUrl: "https://markets.businessinsider.com/news/stocks/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250"
-ampWebUrl: "https://markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250"
-cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-1029853250"
+excerpt: "PRNewswire/ -- Baidu, Inc (NASDAQ: BIDU) holds the most AI-related patents and has filed the most AI-related patent applications of any company"
+publishedDateTime: 2020-12-01T12:28:00Z
+originalUrl: "https://www.prnewswire.com/news-releases/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-301182591.html"
+webUrl: "https://www.prnewswire.com/news-releases/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation-301182591.html"
 type: article
-quality: 67
-heat: 77
-published: true
+quality: 37
+heat: -1
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: PR Newswire
+  domain: prnewswire.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation"
@@ -40,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "1af6lVM+wRILSzKYnQoblCwSMAT+EXbE92B1uYrZEbFYbq6G3imArlNdExe/z0XdzI2ZTl6yIYMlR3cspsLpKKuhMrle4lk/dlLkgyL+tQH7cCTgtEm9F0tS5FV8lZl1DvSGF8HNEoUtOw80F0Jjupead2nYhBaCg4lo91ZFYALMbSAK7wQCMXfrAaWtflT7fg3l/HGVpgpxm9VDQO+HL2Bg2aY27hR8pFaatNVY8Zlsj6+9QwgVfbJ3RdT7it4R7aemHDheZ3rVeaz03u1RqtG48DLIE+A57Lxm1m2yaM2+CTc0gnp/XBSooUAvnSIg8eYHwtbdJ8DQeE7ViABlU5d/em3ATCd5BpotYYuSmmg=;y4+HzrNPv7FhT6+tFQoL1A=="
+secured: "q9vB7VpwgjLWf69Z5dCWg2GtcyX8x3cu1FO5V6pH+XwzZIRd0tbCT5a/iKcjMutOahTJAmiouj2pJsl62YxYFNPzZ6LqAJfIhBw8o+Bapb+6mBCqwN7NDS3nzwvW+MOcit6KAh0QyMSR47yCpnf/d/AJ7ypaH9DKeMgRN8WaSvJkm2a7aoNBxjM9rVAdLo/1drYC+SgnbMJFZQ0KnjkOG6rJU+IlFohrMLrbJR1yvMH6rIeOKOXCruo90TGmwnoZYgDvSUyG2+OJwcDJDzEO1we9LXlDGeDYyBgSJWR0xBl34ZstltQDqeWJATShPDb5CIS2O3mLq9C0PMmH0Ns8K+SPMvi/xvbFujb5nlHopBU=;IshWn34szmS8QwNuMWlQ/g=="
 ---
 

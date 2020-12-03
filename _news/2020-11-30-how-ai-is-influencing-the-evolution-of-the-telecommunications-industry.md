@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/11/30/how-ai-is-influencing-the-evolution-of-the-telecommunications-industry/amp/"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://www.automation.com/getmedia/9a412ec1-25d3-4007-819a-acc71fd757c0/AMR-Nov30-2020-web.png?width=500&height=313&ext=.png"
         width: 500
         height: 313
+        isCached: true
+  - title: "Driving The Next Generation of AI"
+    excerpt: "This article is a response to an article arguing that an AI Winter maybe inevitable. However, I believe that there are fundamental differences between what happened in the 1970s (the fist AI winter) a"
+    publishedDateTime: 2020-12-02T23:10:00Z
+    webUrl: "https://www.linkedin.com/content-guest/article/driving-next-generation-ai-imtiaz-adam/"
+    type: article
+    provider:
+      name: LinkedIn
+      domain: linkedin.com
+    quality: 37
+    images:
+      - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1612396800&v=beta&t=09tY6FCCQx8vYEL1LcqOCkEzOuB9itPQM-W9zzS-Dag"
+        width: 1080
+        height: 720
         isCached: true
 
 secured: "nrvDbky1nYWlQ5Gg4RCIeMaw520LYDXHWju2rabnHs0OMHpbKupYbD5aRkIodIvYHv3SArikQ85FeJKfAaT5HTLmfTMDX7uT6KzOQWLXb555LbnuZhaNSojpN7bjLqqUMuZ3CoMGDD8a2AsFg8m3aEuhoh57QcHOP9bS8+9Y5byzrPYMl3rNQ2vYQeqcT7gXej+cBjPV3dnkH6TF6koOHZl+4x+HqT/IOchqgEi9r3O/nPV1DxLZs2wk23W8YdKiUnQKUO/ID8HlbSiuOFToUkwQKLBb0ZUW++a8jdaBz31522/931ICm7BKPtKctrJZ1Mvng+1cWHq3sGdQyuu6i5ic8IJcPqaUABgcthmBI/vLw6kGbfL91XYvli0UVeWJDuz3ZLElyF3sd8IJjTBN3so4mTxRRRJJfxV7DFtFPVNowInM6MU3Q/l0MThXSnJGIX9r4o6N8HGG0lKmb0bmO/EGmgd06saosnIofdtBuLAs82R+q6bDjp4jRGSAAiLEhyHgHiNNKLmE8h/sWsVHwQ==;0grWBxppXUsQ+dlMljk+vw=="

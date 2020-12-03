@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-02T22:46:00Z
 originalUrl: "https://insurancenewsnet.com/oarticle/gao-issues-report-on-artificial-intelligence-in-health-care"
 webUrl: "https://insurancenewsnet.com/oarticle/gao-issues-report-on-artificial-intelligence-in-health-care"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/uploads/2018/04/inn-og-default.jpg"

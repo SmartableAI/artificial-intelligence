@@ -2,6 +2,154 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2020-11-17-it-is-going-to-be-a-race-with-tesla-says-vw-about-new-investments-in-electric-cars-and-self-driving.md",
+      "title": "‘It is going to be a race with Tesla’ says VW about new investments in electric cars and self-driving",
+      "excerpt": "The Volkswagen Group just announced that it is accelerating its investments in software, electric vehicles, and self-driving technology and it is not shying away from the fact that its goal is to catch up to Tesla.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
+      "originalUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://electrek.co/wp-content/uploads/sites/3/2020/01/vw-ev-lineup.jpg?quality=82&strip=all",
+          "width": 1600,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2020/11/16/vw-race-tesla-investments-electric-cars-self-driving/amp/",
+      "publishedDateTime": "2020-11-16T12:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-deep-vision-announces-its-low-latency-ai-processor-for-the-edge.md",
+      "title": "Deep Vision announces its low-latency AI processor for the edge",
+      "excerpt": "Deep Vision, a new AI startup that is building an AI inferencing chip for edge computing solutions, is coming out of stealth today. The six-year-old company’s new ARA-1 processors promise to strike the right balance between low latency,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
+      "originalUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/11/GettyImages-1150039017.jpg?w=1024",
+          "width": 1024,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/11/16/deep-vision-announces-its-low-latency-ai-processor-for-the-edge/amp/",
+      "publishedDateTime": "2020-11-16T12:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-wovenware-named-a-strong-performer-among-computer-vision-consultancies-by-independent-research-firm.md",
+      "title": "Wovenware Named a Strong Performer Among Computer Vision Consultancies by Independent Research Firm",
+      "excerpt": "Wovenware, a nearshore provider of AI and digital transformation solutions, today announced that it has been named a Strong Performer in The Forrester New Wave™: Computer Vision Consultancies, Q4 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://www.businesswire.com/news/home/20201116005822/en/Wovenware-Named-a-Strong-Performer-Among-Computer-Vision-Consultancies-by-Independent-Research-Firm",
+      "originalUrl": "https://www.businesswire.com/news/home/20201116005822/en/Wovenware-Named-a-Strong-Performer-Among-Computer-Vision-Consultancies-by-Independent-Research-Firm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mms.businesswire.com/media/20201116005822/en/839085/23/ww_logo_final_high_res.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-16T11:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Wire",
+        "domain": "businesswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-17-nvidia-announces-a100-80gb-gpu-for-ai-supercomputing.md",
       "title": "NVIDIA announces A100 80GB GPU for AI supercomputing",
       "excerpt": "The latest innovation powering the NVIDIA HGX AI supercomputing platform comes with twice the memory of its predecessor, providing researchers and engineers unprecedented speed and performance to unlock the next wave of AI and scientific breakthroughs.",
@@ -77,6 +225,58 @@
         "AWS AI",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2020-11-17-amazon-is-ditching-nvidia-gpus-in-favor-of-their-own-silicon.md",
+      "title": "Amazon is ditching Nvidia GPUs in favor of their own silicon",
+      "excerpt": "What just happened? Amazon has announced that they're migrating their artificial intelligence processing to custom AWS Inferentia chips. This means that Amazon's biggest inferencing services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/87603-amazon-ditching-nvidia-gpus-favor-their-own-silicon.html",
+      "originalUrl": "https://www.techspot.com/news/87603-amazon-ditching-nvidia-gpus-favor-their-own-silicon.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2020/11/2020-11-15-image.jpg",
+          "width": 2560,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.techspot.com/amp/news/87603-amazon-ditching-nvidia-gpus-favor-their-own-silicon.html",
+      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/87603-amazon-ditching-nvidia-gpus-favor-their-own-silicon.html",
+      "publishedDateTime": "2020-11-16T09:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1011,195 +1211,6 @@
       "ampWebUrl": "https://www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform/",
       "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/index.php/category/2184/index.php/google-amp/article/ataccama-announces-new-ai-driven-release-of-data-governancemanagement-platform/",
       "publishedDateTime": "2020-11-16T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-ey-india-acquires-ai-based-startup-spotmentor-technologies.md",
-      "title": "EY India acquires AI-based startup Spotmentor Technologies",
-      "excerpt": "Spotmentor is an end-to-end skilling platform to help businesses identify skills required for the future of work, upskilling and reskilling talent at scale",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai",
-      "originalUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/1/2745082002f511eaaae56760054455e0/Imageyqxh-1595863630136.jpg?fm=png&auto=format&ar=2:1&mode=crop&crop=face",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2020/11/ey-india-spotmentor-technologies-upskilling-reskilling-ai/amp",
-      "publishedDateTime": "2020-11-16T01:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-onevinn-ab-joins-the-microsoft-intelligent-security-association.md",
-      "title": "Onevinn AB Joins the Microsoft Intelligent Security Association",
-      "excerpt": "Onevinn offers Managed Detection and Response (MDR) services on the Microsoft Azure Marketplace and deepens collaboration with Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": null,
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/onevinn-ab-joins-the-microsoft-intelligent-security-association-1029804729",
-      "publishedDateTime": "2020-11-16T00:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark.md",
-      "title": "FPGA-based inference accelerator outscores GPUs and ASICs in MLPerf benchmark",
-      "excerpt": "Mispology's FPGA-based Zebra AI inference accelerator outperformed Nvidia A100, V100, Tesla T4, AWS Inferencia, Google TPUv3, and others, on the ResNet 50 architecture in ML inference efficiency.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark",
-      "originalUrl": "https://www.neowin.net/news/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2020/11/1605334517_pexels-pixabay-326461_story.jpg",
-          "width": 760,
-          "height": 503,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/fpga-based-inference-accelerator-outscores-gpus-and-asics-in-mlperf-benchmark/",
-      "publishedDateTime": "2020-11-16T00:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-16-dissecting-c3ais-secret-sauce-less-about-ai-more-about-fixing-hadoop.md",
-      "title": "Dissecting C3.ai’s secret sauce: less about AI, more about fixing Hadoop",
-      "excerpt": "While C3.ai claims to be an AI company, its patented technology is really a platform-as-a-service for the Internet of Things with some fairly standard AI mixed in.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "originalUrl": "https://www.zdnet.com/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://zdnet1.cbsistatic.com/hub/i/2020/11/16/4fc135c9-1fd6-4648-8ecb-c0a496c0dcd8/c3ai-2020-model-driven-architecture-system.png",
-          "width": 1724,
-          "height": 1276,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/dissecting-c3-ais-secret-sauce-less-about-ai-more-about-fixing-hadoop/",
-      "publishedDateTime": "2020-11-15T23:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",

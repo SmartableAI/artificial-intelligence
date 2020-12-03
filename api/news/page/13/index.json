@@ -2,6 +2,57 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2020-11-20-facebooks-ai-is-flagging-more-hate-speech-before-you-report-it.md",
+      "title": "Facebook's AI is flagging more hate speech before you report it",
+      "excerpt": "The social network says its automated tools are improving, but it's still under pressure to do more to tackle harmful content.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "originalUrl": "https://www.cnet.com/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cnet3.cbsistatic.com/img/nJG0qfV5rH_EZwuAYPpcwqBRSsU=/1200x630/2019/05/01/3024034b-a20c-4651-8db1-daa65b6af6c1/facebook-f8-2019-mike-schreopfer-0032.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebooks-ai-is-flagging-more-hate-speech-before-you-report-it/",
+      "publishedDateTime": "2020-11-19T12:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-watson-assistant-innovations-are-moving-fast-to-meet-the-needs-of-a-rapidly-changing-world.md",
       "title": "Watson Assistant innovations are moving fast to meet the needs of a rapidly changing world",
       "excerpt": "The world has changed in unimaginable ways in recent months, forcing businesses to adapt to radically different consumer needs with a speed and scale never seen before. To help our clients keep up, Watson Assistant has been evolving rapidly as well. New features make it easier for organizations to deploy",
@@ -1146,49 +1197,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
-      "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
-      "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/booklyn-co-launches-new-ai-powered-e-reader-site/article_8fa4c1ec-eab4-5a50-a4fd-902169652b7e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/9/2f/92fb1ceb-8231-5c75-b876-a09a347d4d02/5fb67ae62891a.image.jpg?resize=400%2C267",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-19T04:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

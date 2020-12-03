@@ -1104,6 +1104,49 @@
       ]
     },
     {
+      "path": "_news/2020-11-19-using-personal-digital-assistants-to-document-pharmacist-cognitive-services-and-estimate-potential-reimbursement.md",
+      "title": "Using Personal Digital Assistants to Document Pharmacist Cognitive Services and Estimate Potential Reimbursement",
+      "excerpt": "Pharmacists documented cognitive services on Palm-based devices with ... Data were exported into Microsoft Excel 2000 for graphing. CliniTrend for Windows NT, version 2.02 (ASHP, Bethesda, MD ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/453038_2",
+      "originalUrl": "https://www.medscape.com/viewarticle/453038_2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/Social_Facebook_806x806.jpg",
+          "width": 806,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T16:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-4-ai-trends-set-to-accelerate-in-2020.md",
       "title": "4 AI Trends Set To Accelerate In 2020",
       "excerpt": "The coming year is going to see the continued impact of artificial intelligence. Here are four applications that we will see strong continued investment and adoption in 2021.",
@@ -1400,49 +1443,6 @@
         "Machine Learning",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure.md",
-      "title": "Stradigi AI Launches the Kepler™ AI Platform Powered by Microsoft Azure",
-      "excerpt": "Kepler Empowers Users Across All Departments to Quickly Deploy Projects with Same-Day Azure Marketplace ActivationMONTREAL, Nov. 17, 2020",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504",
-      "cdnAmpWebUrl": "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/stradigi-ai-launches-the-kepler-ai-platform-powered-by-microsoft-azure-1029811504",
-      "publishedDateTime": "2020-11-17T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

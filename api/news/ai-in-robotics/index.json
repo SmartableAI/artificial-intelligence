@@ -244,7 +244,7 @@
       "originalUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -287,7 +287,7 @@
       "originalUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -319,7 +319,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Education"
+        "AI in Education",
+        "AI in Healthcare"
       ]
     },
     {

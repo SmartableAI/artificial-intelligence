@@ -53,7 +53,7 @@
       "originalUrl": "https://www.modernreaders.com/news/2020/12/02/global-x-robotics-artificial-intelligence-etf-nysearcabotz-shares-up-2-4.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -348,6 +348,57 @@
       ]
     },
     {
+      "path": "_news/2020-12-02-baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation.md",
+      "title": "Baidu Leads China in Artificial Intelligence Patents, is Poised to Bring About Intelligent Transformation",
+      "excerpt": "PR Newswire BEIJING, Dec. 1, 2020 BEIJING, Dec. 1, 2020 /PRNewswire/ -- B",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/press-releases/2020-12-01/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation",
+      "originalUrl": "https://www.bloomberg.com/press-releases/2020-12-01/baidu-leads-china-in-artificial-intelligence-patents-is-poised-to-bring-about-intelligent-transformation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/s3/javelin/public/javelin/images/social-default-a4f15fa7ee.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-12-01T17:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-12-02-cyber-security-cloud-wafcharm-now-available-on-microsoft-azure.md",
       "title": "Cyber Security Cloud WafCharm now available on Microsoft Azure",
       "excerpt": "Cyber Security Cloud announces the availability of WafCharm on Microsoft Azure, providing AI operation of WAF rules.",
@@ -400,7 +451,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/whats-around-the-turn-in-2021-aws-deepracer-league-announces-new-divisions-rewards-and-community-leagues/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -600,7 +651,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -800,7 +851,7 @@
       "originalUrl": "https://www.smartdatacollective.com/7-changes-artificial-intelligence-brings-to-the-education-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -832,7 +883,8 @@
       "topics": [
         "AI in Robotics",
         "AI",
-        "AI in Education"
+        "AI in Education",
+        "AI in Healthcare"
       ]
     },
     {
@@ -948,7 +1000,7 @@
       "originalUrl": "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -1189,59 +1241,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2020-12-02-translation-is-trickier-for-business-and-artificial-intelligence-can-help.md",
-      "title": "Translation Is Trickier For Business, And Artificial Intelligence Can Help",
-      "excerpt": "Translation is still a much larger and complex issue than many people realize. The business community has many complex and unique needs that add to the challenge of accurate and reliable translation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f282315f48daeb3a6621465%2F0x0.jpg",
-          "width": 876,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/",
-      "publishedDateTime": "2020-12-01T09:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Machine Learning"
       ]
     }
   ],

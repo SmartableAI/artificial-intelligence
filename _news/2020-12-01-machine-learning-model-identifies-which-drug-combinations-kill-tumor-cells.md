@@ -9,7 +9,7 @@ ampWebUrl: "https://www.news-medical.net/amp/news/20201201/Machine-learning-mode
 cdnAmpWebUrl: "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20201201/Machine-learning-model-identifies-which-drug-combinations-kill-tumor-cells.aspx"
 type: article
 quality: 57
-heat: 58
+heat: 57
 published: false
 
 provider:

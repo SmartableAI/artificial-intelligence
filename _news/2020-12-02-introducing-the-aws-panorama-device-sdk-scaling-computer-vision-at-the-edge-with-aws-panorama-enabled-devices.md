@@ -46,6 +46,20 @@ related:
         width: 1024
         height: 535
         isCached: true
+  - title: "AWS Announces Five Industrial Machine Learning Services"
+    excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced Amazon Monitron, Amazon Lookout for Equipment,"
+    publishedDateTime: 2020-12-01T20:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/aws-announces-five-industrial-machine-learning-services-2020-12-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 86
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Announces Mac Instances for Amazon EC2"
     excerpt: "Today at AWS re:Invent, Amazon Web Services, Inc. (AWS), an Amazon.com company (NASDAQ: AMZN), announced new Mac instances (EC2 Mac instances) for"
     publishedDateTime: 2020-12-01T06:30:00Z
@@ -74,15 +88,17 @@ related:
         width: 480
         height: 271
         isCached: true
-  - title: "AWS Announces Five Industrial Machine Learning Services"
-    excerpt: "Amazon Monitron provides customers an end-to-end machine monitoring solution comprised of sensors, gateway, and machine learning service to detect abnormal equipment conditions that may require mainte"
-    publishedDateTime: 2020-12-02T14:04:00Z
-    webUrl: "https://www.manufacturingtomorrow.com/news/2020/12/02/aws-announces-five-industrial-machine-learning-services/16204/"
+  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
+    excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
+    publishedDateTime: 2020-12-03T00:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/20/12/b18627184/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-a"
+    ampWebUrl: "https://amp.benzinga.com/amp/content/18627184"
+    cdnAmpWebUrl: "https://amp-benzinga-com.cdn.ampproject.org/c/s/amp.benzinga.com/amp/content/18627184"
     type: article
     provider:
-      name: Manufacturing
-      domain: manufacturingtomorrow.com
-    quality: 36
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "7GTml4eMrjm0STltvy0TZw1s7wt5K+O5u0KuX4Kpz4smSBdNev9khJ5pIXQ9vtGnHzWzUNrvOJ2Uds61qzsYeOfcFEpiIeXdNGFS3GoxsjVW5jTAA66g6pg05fBA9MSXfUATzJ0dCXmdGs7bzeFvnHd5j5lUe8ntaw6tOY6l9xa70tb0t0xH6/RIroPItnLHDF+VEVQb9mumwiUq+I76qRuwob4aE+9/tUSbWpDP3h3mosI4NNw4pe7gLkgqomecZ0ext2YqfCx+BDX4pagy9NiVhcciTgrAOv7gR2gGzy90NNXpzMm7Fd6LkGW/wVtIY4aqEktAcey1Kyh1Z9SjzF6206wL0z0je1VjHDyXhGs=;GnlbAztrzxjbHfXqgUZqBg=="
 ---

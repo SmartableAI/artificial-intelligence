@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-self-driving-cars-set-out-for-ohio-snow-at-new-testing-facility/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-Driving Cars Need Those ‘How Am I Driving’ Bumper Stickers"
+    excerpt: "Those ubiquitous \"How Am I Driving?\" bumper stickers are needed for self-driving cars too. getty. Sometimes bumper stickers are notably helpful. While out driving, you are bound t"
+    publishedDateTime: 2020-12-01T16:37:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2020/12/01/self-driving-cars-need-those-how-am-i-driving-bumper-stickers/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 74
+    images:
+      - url: "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fc4715574e6fb2cd0b8b531%2F0x0.jpg%3FcropX1%3D365%26cropX2%3D4717%26cropY1%3D60%26cropY2%3D3333"
+        width: 1199
+        height: 902
+        isCached: true
   - title: "Waymo will build a city in Ohio to test its self-driving cars"
     excerpt: "Talk about pop-up urbanism: The Alphabet-owned Waymo will build a fake city in East Liberty, Ohio, to test its next generation of autonomous vehicles"
     publishedDateTime: 2020-12-02T20:21:00Z
