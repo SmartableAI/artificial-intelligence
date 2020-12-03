@@ -1,23 +1,28 @@
 ---
 category: news
-title: "IDS makes artificial intelligence available to factory automation via OPC UA and provides maximum flexibility with vision apps"
+title: "IDS Makes Artificial Intelligence Available to Factory Automation Via OPC UA and Provides Maximum Flexibility with Vision Apps"
 excerpt: "The recently released software update for the IDS NXT platform provides users of the all-in-one AI solution IDS NXT ocean with many new features."
-publishedDateTime: 2020-12-02T20:53:00Z
-originalUrl: "https://www.roboticstomorrow.com/content.php?post=15983"
-webUrl: "https://www.roboticstomorrow.com/content.php?post=15983"
+publishedDateTime: 2020-12-02T22:01:00Z
+originalUrl: "https://www.automationworld.com/supplier-news/news/21205287/ids-imaging-development-systems-gmbh-ids-makes-artificial-intelligence-available-to-factory-automation-via-opc-ua-and-provides-maximum-flexibility-with-vision-apps"
+webUrl: "https://www.automationworld.com/supplier-news/news/21205287/ids-imaging-development-systems-gmbh-ids-makes-artificial-intelligence-available-to-factory-automation-via-opc-ua-and-provides-maximum-flexibility-with-vision-apps"
 type: article
-quality: 6
-heat: 6
+quality: 24
+heat: 24
 published: false
 
 provider:
-  name: Robotics Tomorrow
-  domain: roboticstomorrow.com
+  name: Automation World
+  domain: automationworld.com
 
 topics:
-  - AI in Robotics
   - AI
 
-secured: "Wc9tE86g0krxVyIHyPURQs14J8nwpqGsSt9oY8YK2DOTdQv/h3mWrLzgrP4tLLD+NgGlg1c+8P1wyrJw19vk/WYHuPuprRS/x7s5iiGjXYX1lQtWVvDbThZb6VMfelC2x7zEnQ7uTSclQ7n2z+Dy0DW1Su9mIkjJ1ED8HBAHuSU/8Bt1HFLNl6DqyldWubCgBn89J6tVSAij5+NCLE6nGnRrkkfeqZ2DsSt5BBO+RCveQctk9xa3boR2r1bHHO0XyIVVASXvKvrbtRBLjOY1/dQ8p8X/J/i32Ym/g3SLbop8hzchdUzWdg4j1IKVhq7sMTEl5vM6DW+k0vCNh007BMAoYgmoHOPNDuzOJYxa4no=;kXUknMlQYajifLX6Q20ZVA=="
+images:
+  - url: "https://img.automationworld.com/files/base/pmmi/all/image/2020/12/34160_ids_nxt_ocean_inference_industrial_camera_ai_3000x2000_06.5fc7fff547cef.png?auto=format&fit=max&w=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "5B3F75VxHYJz5nyGwdy3mLTmL4j0R+u45vyGelul82VErhx32xrUFluI/0HDvQH3mKkOyzgp/UPe7+iCkQ9zNqhV702jDA5yAWxLApyf0ZL6L1gatwrTD46bfpduoO0q8oMeeMZfAsOOd38kJdICotoCGZUEnm4i8cIz4taigGzs692/enfMGlNNOm0slGQ2EVWzd8ldouuzktlLtu8Dfg0F5Ff36yapOVcpkiDiVal2wWO7G0ZbfW3o4zpnrdh0U09bCpVkMnNZ6Fx4XezJhmEHD7FYWY6D1ywgvhFoJ7gxyn7zDK0zTd22WWC6b/5ewpkkf3qEDrTwJLX/x+ohHF9n/TFpvAo2ZWyD7dyDBdc=;4vJXdiu7VNczBl7g8ju54g=="
 ---
 

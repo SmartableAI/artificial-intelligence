@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Siemens Smart Infrastructure Chooses AWS as Its Preferred Cloud Provider for SAP Environments"
+    excerpt: "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), announced that Siemens Smart Infrastructure, a business of the Siemens AG"
+    publishedDateTime: 2020-12-03T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/siemens-smart-infrastructure-chooses-aws-as-its-preferred-cloud-provider-for-sap-environments-2020-12-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0EbqePu12Drqdq6t+IHIDfkQvAA4EdexdeS2o8i2Y96TWs7WHLtae8NSJaMpN5uuuiXU1kT3rWfPop+MyUiqDwcpL1YtYs08QHOV+LQK853IirzobJArmLwtWi3OeJaCD52R4biY8y/EHMfRn8sKD9q3WeBtf1bhSlCw8E0SbiTnthGzRHyw5WXBq1wZ4GghqmZJk6NMAryYTvIV86HUQLYIqZeRyXfIk+7te/gASYo7BQF3/aviQ5Rcl5uV4dib8pYsvFabzJ2zSdeOYvCqmyFHA/WENHefovUYGMZI1MjpSqXgO3AXCauFR0uwijsK2E0rBMXQCgR6iFCt0YZVH2WZv367nbebYr8Q+1dy7fo=;OKidDZvTwHGtXqEwzSuEEA=="
 ---

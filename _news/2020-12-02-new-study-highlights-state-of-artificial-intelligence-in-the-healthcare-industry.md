@@ -48,6 +48,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 49
+  - title: "FelixHealthcare.AI Scales Engineering Team to Support Strong Growth"
+    excerpt: "FelixHealthcare.AI announced strong overall results for 2020 despite the global pandemic, positioning itself for breakthrough performance"
+    publishedDateTime: 2020-12-03T09:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/felixhealthcareai-scales-engineering-team-to-support-strong-growth-301185224.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1169119/FelixHealthcare_dot_ai_Logo.jpg?p=facebook"
+        width: 1397
+        height: 733
+        isCached: true
 
 secured: "m0k1Skuu7omTuS5R8DlqrsQKcoOF+IVmjRh/V8FDJW6x2YaNe9PlUNI3AL/XR7sIcPKDwJppwunZCUXROoOZOi3EjXAJpar1BW1lrqc4dAJx6LXqLzJQTd2+dacb0tXF9vAoRq6GgyxYQq2fP5HqfLcx6rHA41LbEhJOqMM7voOPUkMcoJtV6KFVOyOtK0B6pkDVjVVHL4tQYsS+aUgU+zqlyFRhCNEr45AKFdW8TDDSVanJ5K+6uXoQKdgeS9W3dcOxjeF6MRDK8AQAA1HraGS7CkHkpb+KeXzOo1yDzicDFz0dBGwYZxBG59iHLlBg9eT5Vh6fHiIfU5aka4qcEyb2UmDLM9YHtv6PMuFDyao=;I55VCRxMVGyXoPcSvbZz6g=="
 ---

@@ -46,7 +46,7 @@ related:
     provider:
       name: Nasdaq
       domain: nasdaq.com
-    quality: 69
+    quality: 71
   - title: "4 AI Stocks That Are Helping the World Make Smarter Decisions"
     excerpt: "Stock Market News, Stock Advice & Trading Tips In today’s uncertain economic environment tech stocks (specifically AI"
     publishedDateTime: 2020-12-02T17:34:00Z

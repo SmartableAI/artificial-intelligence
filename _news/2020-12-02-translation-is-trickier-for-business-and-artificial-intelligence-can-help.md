@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2020/12/01/translation-is-tr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2020/12/01/translation-is-trickier-for-business-and-artificial-intelligence-can-help/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2017/11/andy-jassy-aws-reinvent-2017-e1575310104477.jpg?w=1200&strip=all"
         width: 1200
         height: 797
-        isCached: true
-  - title: "SKT unveils its AI chip and new plans for AI semiconductor business"
-    excerpt: "SAPEON X220 chip is designed to process artificial intelligence tasks faster, using less power by processing large amounts of data in parallel."
-    publishedDateTime: 2020-11-28T17:24:00Z
-    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/"
-    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 74
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Using Cameras And AI To Build an Automatic Litter Detection System"
     excerpt: "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built."

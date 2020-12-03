@@ -3,8 +3,8 @@ category: news
 title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
 excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
 publishedDateTime: 2020-12-03T05:08:00Z
-originalUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology"
-webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology"
+originalUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
 ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
 cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
 type: article
@@ -68,6 +68,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS to leverage Habana Gaudi AI processors"
+    excerpt: "Invent 2020 conference AWS CEO Andy Jassy announced EC2 instances will leverage up to eight Habana Gaudi accelerators and"
+    publishedDateTime: 2020-12-03T10:17:00Z
+    webUrl: "https://www.geeky-gadgets.com/habana-gaudi-ai-processors-03-12-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/12/Habana-Gaudi-AI-Processors.jpg"
+        width: 700
+        height: 500
+        isCached: true
   - title: "AWS and Intel Announce Gaudi (Habana)-based EC2 Instances for AI Training"
     excerpt: "As customer validations go, it’s safe to say AWS is at the – *cough* – high end of any vendor’s wish list. So it’s understandable Intel is today crowing about a notable win for Gaudi AI accelerators from Habana Labs,"
     publishedDateTime: 2020-12-01T18:31:00Z
@@ -83,6 +97,6 @@ related:
         height: 267
         isCached: true
 
-secured: "Xlkz+zCJgDHb1nfDLv0HvSLRkf86b06Whrd+xhTRnHrQ+mWkdmR+z7v4YEjAYP6750mvsdlir7LQzmZpr5XxPxNohEdhgXbuiMnvwKk9amhpTSByc12n5zvgEbNgc23DOP23R27YEu4ynh92v4jlD8/LZlYgj7WYPqtkj7xZHyCntvZY67eLhSh/SFFkPJ8i9tHwVkUDx/mFAMcoj+N0XfTMpU7b618UxBl1+gNQH+sfGi+AYPMreT8FMImj9tS9vgzEKE3VJUlLpOy/LyUuWw2u4cEX6T1mVBdIMbAELVTsNQP93mK2+4nVlmTsiJsOxaFFfpURrmQjSa+K6XFMUXJfIt0u95YJt3pqT2aq5jw=;YKXP6Vt4vcZSxL7m5jJOWQ=="
+secured: "IgKKXnOtZ+PfUUN9f3SLjPuip0+hnIQY7GS5Fw3Hm4kGFJHJGQphmIsMVnfnw6N90M0iUw54xhSGmwYziBcEAqzEvHPZWYiDekxF4qPg0bE5zTVJlzO2ljG85SdZUaVVhfCujHXb5ganROVHeZrODfN72hws3hwpQVNY22iEKiZNn8K5jSQxRWmVV2/Xsg0hzX7/m+RKga8/LUecJlbFwbTB+Ph6BqStdN+5IBw/kdeNvGxxz1OnBZdIHV1U/FVl/eEZeR9vTxRXIC1K1gZTIa2sv1Qk++o50RuFzWvj/1+81y9n5Ibsrww7N/2qSSdArYfRXWGw2Yl8LJk/Z7y5I+jpv6ypJv4wl/xiMp06xn0=;6pL4v9us4hzJGCMQwTY+xA=="
 ---
 

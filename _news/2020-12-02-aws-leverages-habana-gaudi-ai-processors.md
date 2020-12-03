@@ -1,23 +1,33 @@
 ---
 category: news
 title: "AWS Leverages Habana Gaudi AI Processors"
-excerpt: "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana ® Gaudi ® accelerators and deliver up to 40% better price performance than current graphics processing unit-based EC2 instances for machine learning workloads 1."
-publishedDateTime: 2020-12-01T17:49:00Z
-originalUrl: "https://www.nasdaq.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
-webUrl: "https://www.nasdaq.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
+excerpt: "Invent 2020, AWS CEO Andy Jassy announced EC2 instances that will leverage up to eight Habana® Gaudi® accelerators and deliver"
+publishedDateTime: 2020-12-01T22:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
+webUrl: "https://www.marketwatch.com/press-release/aws-leverages-habana-gaudi-ai-processors-2020-12-01"
 type: article
-quality: 64
-heat: 64
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "BihD2ZamFYxHU+6DIsS6kVewVFhMW5VskXsuhnho1WYT68j7ew1hO6oArU/lz1v7cqIYC2GsDIZR/eJb//Fd89/ICzhCSl0XybGD2USjghQqbK6aiHxBWssd4lQjiwDQzA4o6aGw6FWKMQkRqWap+SbAfT59KIDBQpsxgDxcU2mpMhjTmN7Z5HlYOY2yPZnkvJbZrD/JMytj8fXoyorlzzKq4HAP7S+Sw8PHsSNYrvmJ+b6rJcJAUv72IgxsXgrIPt3fbt3zyeN5UvQ8Bikj1l9NC5oUYOjb045kuaHUs0F9r97HufHiqXlQNRgP15SCdYZPM3so8swC0259PUUYa4ZH0VrUZ1zNAYKk9T+6wSo=;tsFGcj5UI3q8f9QnQg5K6w=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "meqDsrvFbBvgBpNP+pEov6XNki6PvE71NX3z3adAwxbttkNG72dWQJxn5+qGFQDUaB1c2xeJofQHxNPrUIXe44u8NAnJm6ZiInpBhxLW6w+CwJODQiYVFSMUqgU+NV2LhRdF6veLP+cvXsRc8m2zchXSz9vhy+bAzprxNNO6M5qvT0fl1pGjvtW4yAXlETZbYaukdQAkxxxbcB7Gt7z27GPSJVUweiELsOTBfm/DzKHUPEi80U/pRafdfPg8y6FY1uwVmjCgyJNskiYkrz3ECXvEAezPildYxFLbP4P1ltadeys0oqqvS3FYQFtGoDWv06C0uvVhTE2B76jAcPbGVYu4ulakiPwQd+hLQ7c0+50=;WBqNUZ+vCUrmh1o12m50PQ=="
 ---
 

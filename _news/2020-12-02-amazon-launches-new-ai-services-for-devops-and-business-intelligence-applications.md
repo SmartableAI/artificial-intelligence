@@ -48,22 +48,6 @@ related:
         width: 876
         height: 548
         isCached: true
-  - title: "SKT unveils its AI chip and new plans for AI semiconductor business"
-    excerpt: "SAPEON X220 chip is designed to process artificial intelligence tasks faster, using less power by processing large amounts of data in parallel."
-    publishedDateTime: 2020-11-28T17:24:00Z
-    webUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/"
-    ampWebUrl: "https://www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/ai-analytics-automation/skt-unveils-its-ai-chip-and-new-plans-for-ai-semiconductor-business-40329/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 74
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/brand/ttv-splash.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Using Cameras And AI To Build an Automatic Litter Detection System"
     excerpt: "For CSIRO’s research to end plastic waste, an efficient environmental monitoring system using AI has been built."
     publishedDateTime: 2020-12-02T03:49:00Z

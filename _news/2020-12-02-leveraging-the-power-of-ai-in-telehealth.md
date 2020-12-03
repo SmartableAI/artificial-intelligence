@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/levera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: Scoop
       domain: scoop.co.nz
     quality: 49
+  - title: "FelixHealthcare.AI Scales Engineering Team to Support Strong Growth"
+    excerpt: "FelixHealthcare.AI announced strong overall results for 2020 despite the global pandemic, positioning itself for breakthrough performance"
+    publishedDateTime: 2020-12-03T09:00:00Z
+    webUrl: "https://www.prnewswire.com/news-releases/felixhealthcareai-scales-engineering-team-to-support-strong-growth-301185224.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.com
+    quality: 37
+    images:
+      - url: "https://mma.prnewswire.com/media/1169119/FelixHealthcare_dot_ai_Logo.jpg?p=facebook"
+        width: 1397
+        height: 733
+        isCached: true
 
 secured: "12SZAfNXlQScRz7jMXBRaCo4ye3XYznmYSFIZ3HPf9Ts8w7tloyLxjJOGnCFnHALwnJ/7ly9sEUbwsT15VrH8cE/8sG7TjCGvJY8npeqqTSOS+L8jth4QOgYleRfPUMEiyTg+07EEntO7pXZGvLwNoOeSIDyv7IbM5Z2NY00rntTZHAhq/rNVANEP9b60dRq1fukiscP/TmSbuWRNUHCHtJXULB+lOFgMF/UkH1/0GW3TXFmqWvCn8OTHkX4dNFqgLHqgGoxt0Jj2smxJrBnZHJCfFCxAA4Yi2sUJ6aqJ4MMq/QML2F1T59lskTBbkSkTcVZPoAKp1H40y3wmk+6/8g+trfvO5keMFOe+A+BEXr7SEXiTI60btPdWbNmhfnmH+61DVXrYp4S0fUy/25XCwKpha7SAqeMFGMEUmgbWetnHoFcXBeAjbNUMGAmzgbmmIKZ2S1CAfIJXmtJshdLZOolUh745Ma9KBIzmhWL+avTTz4X1DtQ5eNzKjpllu8GcK+HB+PcFqnvAoZE87dTnQ==;sFxZcvDibLsPPpPXnG2kYQ=="
 ---

@@ -67,10 +67,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AWS to leverage Habana Gaudi AI processors"
+    excerpt: "Invent 2020 conference AWS CEO Andy Jassy announced EC2 instances will leverage up to eight Habana Gaudi accelerators and"
+    publishedDateTime: 2020-12-03T10:17:00Z
+    webUrl: "https://www.geeky-gadgets.com/habana-gaudi-ai-processors-03-12-2020/"
+    type: article
+    provider:
+      name: Geeky Gadgets
+      domain: geeky-gadgets.com
+    quality: 56
+    images:
+      - url: "https://www.geeky-gadgets.com/wp-content/uploads/2020/12/Habana-Gaudi-AI-Processors.jpg"
+        width: 700
+        height: 500
+        isCached: true
   - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
     excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
     publishedDateTime: 2020-12-03T05:08:00Z
-    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702?refsec=technology"
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
     ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
     cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
     type: article
