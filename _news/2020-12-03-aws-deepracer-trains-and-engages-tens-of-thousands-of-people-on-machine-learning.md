@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-02T23:42:00Z
 originalUrl: "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/"
 webUrl: "https://siliconangle.com/2020/12/02/aws-deepracer-trains-and-engages-tens-of-thousands-of-people-on-machine-learning-reinvent/"
 type: article
-quality: 98
+quality: 100
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Autos
   - AWS AI
+  - AI in Finance
 
 images:
   - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Mike-Miller.png"

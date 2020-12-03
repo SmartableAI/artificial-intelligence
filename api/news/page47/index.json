@@ -2,6 +2,58 @@
   "page": 47,
   "value": [
     {
+      "path": "_news/2020-10-27-how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster.md",
+      "title": "How the IBM Data Science and AI Elite team trains organizations to tackle data science faster",
+      "excerpt": "Today, the world looks different — from last year, last month, and even yesterday. The ever-changing status of our surroundings brings new problems, and having the right skills becomes critical to adapting and innovating in the face of these challenges. However, according to The Quant Crunch report,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
+      "originalUrl": "https://www.ibm.com/blogs/watson/2020/10/how-the-ibm-data-science-and-ai-elite-team-trains-organizations-to-tackle-data-science-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ibm.com/blogs/watson/wp-content/uploads/2020/10/1320_Watson-blog-assets_Data-Scientist_Leadspace_Final-990x498.jpg",
+          "width": 990,
+          "height": 498,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-27T14:11:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IBM",
+        "domain": "ibm.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/ibm.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-10-28-tesla-owner-videos-show-full-self-driving-beta-has-a-long-way-to-go.md",
       "title": "Tesla Owner Videos Show 'Full Self-Driving' Beta Has a Long Way to Go",
       "excerpt": "Another day, another reminder that no one actually has a self-driving car, regardless of the misleading names used for some advanced driver assistance systems. Tesla rolled out its \"Full Self ...",
@@ -1138,49 +1190,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-10-27-if-a-robot-is-conscious-is-it-ok-to-turn-it-off-the-moral-implications-of-building-true-ais.md",
-      "title": "If a robot is conscious, is it OK to turn it off? The moral implications of building true AIs",
-      "excerpt": "What gives an entity moral standing? The philosopher Peter Singer argues that creatures that can feel pain or suffer have a claim to moral standing. He argues that nonhuman animals have moral standing,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "originalUrl": "https://www.chron.com/news/article/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
-          "width": 600,
-          "height": 336,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/If-a-robot-is-conscious-is-it-OK-to-turn-it-off-15677698.php",
-      "publishedDateTime": "2020-10-27T06:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Houston Chronicle",
-        "domain": "chron.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

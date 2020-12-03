@@ -6,7 +6,7 @@ publishedDateTime: 2020-12-02T23:10:00Z
 originalUrl: "https://www.linkedin.com/content-guest/article/driving-next-generation-ai-imtiaz-adam/"
 webUrl: "https://www.linkedin.com/content-guest/article/driving-next-generation-ai-imtiaz-adam/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://media-exp1.licdn.com/dms/image/C4D12AQGdtt_w-pUR5g/article-cover_image-shrink_720_1280/0/1606922606203?e=1612396800&v=beta&t=09tY6FCCQx8vYEL1LcqOCkEzOuB9itPQM-W9zzS-Dag"

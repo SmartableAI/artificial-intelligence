@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2020-11-24-preparing-for-the-artificial-intelligence-revolution-opinion.md",
+      "title": "Preparing for the artificial intelligence revolution | Opinion",
+      "excerpt": "But manufacturing engineers and computer scientists are developing an artificial intelligence-fueled revolution in personalized smart manufacturing. Over the next decade, it will propel U.S. manufacturers to new heights of efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
+      "originalUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/EERL3NNVFRASVB4WFN25FZ74W4.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/opinion/2020/11/preparing-for-the-artificial-intelligence-revolution-opinion.html?outputType=amp",
+      "publishedDateTime": "2020-11-23T08:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NJ.com",
+        "domain": "nj.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2020-11-23-accern-upgrades-no-code-ai-platform-with-powerful-advanced-features-for-financial-services.md",
       "title": "Accern Upgrades No-Code, AI Platform with Powerful, Advanced Features for Financial Services",
       "excerpt": "PRNewswire/ -- Accern Corporation, a leading no-code, Artificial Intelligence (AI) company today released the upgrade of its no-code AI platform, which provides the ultimate user-friendly experience with easy navigation,",
@@ -1167,58 +1210,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-22-congress-is-eyeing-face-recognition-and-companies-want-a-say.md",
-      "title": "Congress Is Eyeing Face Recognition, and Companies Want a Say",
-      "excerpt": "Amazon and Microsoft have hired lobbyists. So too have airlines, retailers, wireless carriers, and cruise operators.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "originalUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.vanityfair.com/photos/576c493744d93e6e4482bb21/master/pass/placeholder_the_scene.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/congress-eyeing-face-recognition-companies-want-say/amp",
-      "publishedDateTime": "2020-11-22T01:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

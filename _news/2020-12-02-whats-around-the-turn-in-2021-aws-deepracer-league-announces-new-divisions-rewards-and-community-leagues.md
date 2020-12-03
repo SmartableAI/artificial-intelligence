@@ -38,7 +38,7 @@ related:
     provider:
       name: SiliconANGLE
       domain: siliconangle.com
-    quality: 98
+    quality: 100
     images:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2020/12/Mike-Miller.png"
         width: 3762

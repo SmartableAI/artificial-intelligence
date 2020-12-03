@@ -36,6 +36,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 93
+  - title: "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025"
+    excerpt: "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
+    publishedDateTime: 2020-12-03T02:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "L8tT6tApDDpNU9wb3iYbCWlrEwTAaOMQVeD9cmkmS6a67LqzURFYjMjHwdrHv/G50wlVJUtdPYxzpwR8Y36R09mrjctgnbDhrgTnlu/wxaBRKvvTJ/6ke+r5nem7/kVYIvUd9hhALq/hagvp9Sn9ka7RbbMX1R97WzGtG4MSR4VQVWC0Gh7RBfjtjIvxvA/Q2nAQ3R/mQZ0VFgcY+sILd8snuNsguW4TZn/PL38rYKgqN0Jhx16IkOOBFRiNkhOrUbskSBhjKRAtvsiCUn6enPozGjHQB9MxnxnpRaOrjG49l1Leg5ts5YnV8vvmS64b/ASLCZbRnKehoP6NxWs+NGEuMqgjHQ4M/97uaUW1ecg=;HQTAmcmxffIuZ0nrxHhGYg=="
 ---

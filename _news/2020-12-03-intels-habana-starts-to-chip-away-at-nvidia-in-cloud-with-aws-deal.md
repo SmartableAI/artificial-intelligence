@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN28C22F"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28C22F"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -70,6 +70,22 @@ related:
       - url: "https://insidehpc.com/wp-content/uploads/2020/12/Intel-Habana-Gaudi-AI-accelerator-1220.png"
         width: 437
         height: 267
+        isCached: true
+  - title: "Intel Has Been Missing an AI Business to Compete With Nvidia. It’s Finally Here."
+    excerpt: "The chip maker has partnered with Amazon to offer Intel hardware to power the deep learning training used in applications like virtual assistants."
+    publishedDateTime: 2020-12-03T01:21:00Z
+    webUrl: "https://www.barrons.com/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    ampWebUrl: "https://www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/intel-partners-with-amazon-on-ai-deep-learning-technology-51606957702"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 52
+    images:
+      - url: "https://images.barrons.com/im-267539/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "QCLLKkgJaX//9KPxM4FuZhZW16vg8W0k2lqXnVJ9Dl5Lo2F/ZddMuTESfsmr/qIeTaUqwVmBrpap6UOGLgEy7F/9HTXymewwDkEhl7jSHjeyjmtiAMst6ylEplaGNckl1C880/UwIwx5wBqHzWf8MStnkKol10dY4mIVWUeNE2BnQ/Sz/zSB96wrE9l2VkIMpoOrljCV5GHprCUaxg/P/TPKhoozKTN7kbqJX5eIGecjbE42bBrVh/6f7CG5HtvfxZ2ySK0uOScu6uxHQQG033blvjht37VV9KIbr28idzpVzMzOpG6Wqj8ZM2nGTGt0mZ+kbf27ib+AT4N8ZAXQ37EIu5bpmegSE/uJqCuqnpk=;xpwx8MgE+fDSy89TXAymbw=="

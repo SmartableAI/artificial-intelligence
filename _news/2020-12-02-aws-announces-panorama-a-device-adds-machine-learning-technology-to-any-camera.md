@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2020/12/01/aws-announces-panorama-a-device-ad
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2020/12/01/aws-announces-panorama-a-device-adds-machine-learning-technology-to-any-camera/amp/"
 type: article
 quality: 102
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -88,6 +88,15 @@ related:
         width: 480
         height: 271
         isCached: true
+  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
+    excerpt: "December 2, 2020"
+    publishedDateTime: 2020-12-03T02:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-analytics-and-machine-learning"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 38
   - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
     excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
     publishedDateTime: 2020-12-03T00:05:00Z

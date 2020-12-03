@@ -2,6 +2,49 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2020-11-19-new-report-finds-that-criminals-leverage-ai-for-malicious-use-and-its-not-just-deep-fakes.md",
+      "title": "New Report Finds that Criminals Leverage AI for Malicious Use - And It's Not Just Deep Fakes",
+      "excerpt": "A jointly developed new report by Europol, the United Nations Interregional Crime and Justice Research Institute (UNICRI) and Trend",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.com/news-releases/new-report-finds-that-criminals-leverage-ai-for-malicious-use--and-its-not-just-deep-fakes-301176720.html",
+      "originalUrl": "https://www.prnewswire.com/news-releases/new-report-finds-that-criminals-leverage-ai-for-malicious-use--and-its-not-just-deep-fakes-301176720.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.prnewswire.com/content/dam/prnewswire/common/prn_facebook_sharing_logo.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-19T05:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-19-booklynco-launches-new-ai-powered-e-reader-site.md",
       "title": "Booklyn.co Launches New AI-Powered e-Reader Site",
       "excerpt": "Today, Booklyn.co announces the launch of its flagship e-reader site, an online book application that harnesses AI and tech to help readers read",
@@ -1144,49 +1187,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-19-fintech-exploiting-ai-and-blockchain-technology.md",
-      "title": "Fintech Exploiting AI and Blockchain Technology",
-      "excerpt": "AI Cultivating Superior Traders Some fintech startups are already encouraging the use of AI in the retail sector, and it’s suggested that combining such technology with hands-on experience will produce ‘enhanced traders.’ As financial institutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://cloudtweaks.com/2016/07/fintech-exploiting-ai-blockchain-technology/",
-      "originalUrl": "https://cloudtweaks.com/2016/07/fintech-exploiting-ai-blockchain-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudtweaks.com/wp-content/uploads/2016/01/A.I-Robot-Brain-1-e1452530668694.jpg",
-          "width": 400,
-          "height": 266,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2020-11-18T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud",
-        "domain": "cloudtweaks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

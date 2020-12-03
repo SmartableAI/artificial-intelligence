@@ -83,6 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning"
+    excerpt: "December 2, 2020"
+    publishedDateTime: 2020-12-03T02:00:00Z
+    webUrl: "https://www.bloomberg.com/press-releases/2020-12-02/solaris-oilfield-infrastructure-announces-collaboration-with-amazon-web-services-to-develop-data-analytics-and-machine-learning"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 38
   - title: "Solaris Oilfield Infrastructure Announces Collaboration with Amazon Web Services to Develop Data Analytics and Machine Learning Platform"
     excerpt: "Solaris Oilfield Infrastructure, Inc. (NYSE:SOI) (\"Solaris\" or the \"Company\") announced a collaboration with Amazon Web Services, Inc. (AWS) to provide its customers"
     publishedDateTime: 2020-12-03T00:05:00Z

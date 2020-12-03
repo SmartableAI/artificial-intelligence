@@ -2,6 +2,50 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2020-10-14-new-deep-learning-models-fewer-neurons-more-intelligence.md",
+      "title": "New deep learning models: Fewer neurons, more intelligence",
+      "excerpt": "its mode of operation can be explained in detail Artificial intelligence has arrived in our everyday lives -- from search engines to self-driving cars. This has to do with the enormous computing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2020/10/201013124054.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2020/10/201013124054.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-10-13T21:37:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2020-10-14-googles-search-on-event-will-reveal-new-ai-powered-features-on-thursday.md",
       "title": "Google's 'Search On' event will reveal new AI-powered features on Thursday",
       "excerpt": "Google has scheduled a 'Search On' event for October 15th at 3 PM ET, where it will unveil new AI-powered upgrades.",

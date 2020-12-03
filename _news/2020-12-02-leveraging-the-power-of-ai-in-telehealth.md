@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/levera
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2020/12/02/leveraging-the-power-of-ai-in-telehealth/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -40,6 +40,17 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
+    quality: 49
+  - title: "New Study Highlights State Of Artificial Intelligence In The Healthcare Industry"
+    excerpt: "Healthcare organisations seeking to implement and extend their artificial intelligence (AI) capabilities struggle with finding skilled personnel and sufficient, high quality data, according to a new IDC White Paper,"
+    publishedDateTime: 2020-12-03T02:43:00Z
+    webUrl: "https://www.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/SC2012/S00008/new-study-highlights-state-of-artificial-intelligence-in-the-healthcare-industry.htm"
+    type: article
+    provider:
+      name: Scoop
+      domain: scoop.co.nz
     quality: 49
 
 secured: "12SZAfNXlQScRz7jMXBRaCo4ye3XYznmYSFIZ3HPf9Ts8w7tloyLxjJOGnCFnHALwnJ/7ly9sEUbwsT15VrH8cE/8sG7TjCGvJY8npeqqTSOS+L8jth4QOgYleRfPUMEiyTg+07EEntO7pXZGvLwNoOeSIDyv7IbM5Z2NY00rntTZHAhq/rNVANEP9b60dRq1fukiscP/TmSbuWRNUHCHtJXULB+lOFgMF/UkH1/0GW3TXFmqWvCn8OTHkX4dNFqgLHqgGoxt0Jj2smxJrBnZHJCfFCxAA4Yi2sUJ6aqJ4MMq/QML2F1T59lskTBbkSkTcVZPoAKp1H40y3wmk+6/8g+trfvO5keMFOe+A+BEXr7SEXiTI60btPdWbNmhfnmH+61DVXrYp4S0fUy/25XCwKpha7SAqeMFGMEUmgbWetnHoFcXBeAjbNUMGAmzgbmmIKZ2S1CAfIJXmtJshdLZOolUh745Ma9KBIzmhWL+avTTz4X1DtQ5eNzKjpllu8GcK+HB+PcFqnvAoZE87dTnQ==;sFxZcvDibLsPPpPXnG2kYQ=="

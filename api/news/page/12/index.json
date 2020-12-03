@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2020-11-21-houston-implements-facial-recognition-technology-at-airports.md",
+      "title": "Houston implements facial recognition technology at airports",
+      "excerpt": "Houston is altering its check-in process for international travelers. The Bayou City is officially the only city in the U.S. to have two international airports equipped with facial comparison technology for international arrivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "originalUrl": "https://www.chron.com/life/travel/article/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ex.co/amp/mcd/logo_600x336.png",
+          "width": 600,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": "https://www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "cdnAmpWebUrl": "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/life/travel/amp/Houston-airports-facial-recognition-rules-travel-15742443.php",
+      "publishedDateTime": "2020-11-20T08:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-21-can-artificial-intelligence-give-elephants-a-winning-edge.md",
       "title": "Can artificial intelligence give elephants a winning edge?",
       "excerpt": "With great technology, collaboration and a commitment to stop the Ivory trade that leads to most elephant deaths, there’s a real chance to save these singular creatures.",
@@ -1165,58 +1208,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2020-11-20-arm-expands-access-to-endpoint-ai-for-iot-devices.md",
-      "title": "Arm expands access to endpoint AI for IoT devices",
-      "excerpt": "The rise of smartphones and the growing presence of IoT devices share one undeniable similarity, the fact that the Arm ecosystem is the driving force behind both. The chip designer is in a unique position to drive innovation and adoption of IoT due to the fact that Arm technology touches 70 percent of the world's population as 180bn Arm-based chips have been shipped since the company was founded 30 years ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
-      "originalUrl": "https://www.techradar.com/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/4FQ3cUnt4ca6dvsktEttNT-1200-80.jpg",
-          "width": 600,
-          "height": 334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
-      "cdnAmpWebUrl": "https://www-techradar-com.cdn.ampproject.org/c/s/www.techradar.com/amp/news/arm-wants-to-expand-access-to-endpoint-ai-in-iot-devices",
-      "publishedDateTime": "2020-11-19T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

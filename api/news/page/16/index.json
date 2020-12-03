@@ -2,6 +2,59 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2020-11-19-machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc.md",
+      "title": "Machine Learning Market Checkout the Unexpected Future 2027 Key Players – IBM Corporation, Microsoft Corporation, SAP SE, Dell Inc",
+      "excerpt": "The Global Machine Learning Market provides an investigative study that offers detailed information about the Machine Learning market that is beneficial to the business strategists and new players of the industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-checkout-the-unexpected-future-2027-key-players-ibm-corporation-microsoft-corporation-sap-se-dell-inc-2020-11-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2020-11-18T09:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2020-11-18-introducing-google-news-initiative-conversations.md",
       "title": "Introducing Google News Initiative Conversations",
       "excerpt": "This year, the way many of us work has changed dramatically. We’ve gone from lunch meetings and large networking conferences to meeting virtually from our makeshift home offices. The COVID-19 pandemic has certainly upended a lot of this, but that doesn’t mean sharing ideas is on hold, too. That’s especially",
@@ -1155,57 +1208,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2020-11-18-phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace-can-ai-stop-it.md",
-      "title": "Phishing Is A Gateway To Modern Fraud In Today’s Distributed Workplace — Can AI Stop It?",
-      "excerpt": "Remote work is great for business, and employees love it — but how is it impacting your organization’s digital security?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thumbor.forbes.com/thumbor/fit-in/1200x0/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5fb3d440623fec96d105b87f%2F0x0.jpg",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2020/11/18/phishing-is-a-gateway-to-modern-fraud-in-todays-distributed-workplace---can-ai-stop-it/amp/",
-      "publishedDateTime": "2020-11-18T04:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/artificial-intelligence/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

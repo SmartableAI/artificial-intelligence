@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/massachusetts-statewide-police-ban-faci
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/massachusetts-statewide-police-ban-facial-recognition-bill-064534909.html"
 type: article
 quality: 88
-heat: 108
+heat: 118
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://techcrunch.com/wp-content/uploads/2020/12/surveillance-camera-blue-yellow.jpg?w=1024"
         width: 1024
         height: 576
+        isCached: true
+  - title: "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology"
+    excerpt: "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology."
+    publishedDateTime: 2020-12-03T01:04:00Z
+    webUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457"
+    ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 52
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg"
+        width: 800
+        height: 435
         isCached: true
 
 secured: "xGUPbq7AcKVaTDSso/rXqou1WeBk54ZYDyb1uyecMxiC3WfzlXA78fgZLVAO9OfPxCVEIXf8Xdcjf0Sa1oG6Yh9GPtVjipaH5ONxKzXxaFWn2ooSn6ePo79ayvtMj2znMUbcSjkYxCl2V9VbaG5MWxm3YOp2fqZLYOIorGYMKzJw9h9N4wXnoq8gCL2mfjdqA7lh8ZQeVhuWhEojOdIagSz/mVdlUSjGMpiJeR/OXzlQdetXxZgK3NuH8fiEgcEHwD9ikuSx77vI9BXJTeGryh6U23aulwzlNYx6lfQ98uxTDk2GmOjNg4NizeoJo7gjCmzraRn6eHvq6qVu22ty6tmArVtuNBAAOXJBW5P9yWE=;/cMgwo2FUuOOWpnWAX+PWQ=="

@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Massachusetts Legislators Vote to Ban Police From Using Facial Recognition Technology"
+    excerpt: "Lawmakers in Massachusetts have taken the rare step back from our inevitable, Minority Report-lite future by voting to ban police departments from using facial recognition technology."
+    publishedDateTime: 2020-12-03T01:04:00Z
+    webUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457"
+    ampWebUrl: "https://www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+    cdnAmpWebUrl: "https://www-theroot-com.cdn.ampproject.org/c/s/www.theroot.com/massachusetts-legislators-vote-to-ban-police-from-using-1845794457/amp"
+    type: article
+    provider:
+      name: The Root
+      domain: theroot.com
+    quality: 52
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/sxl4177s9wy5eezxetfp.jpg"
+        width: 800
+        height: 435
+        isCached: true
 
 secured: "8x+XWoIF9sFqi/WW8nx5YWFqEGUROR6gS/OY/zu81VgdB8NAgVq/aQbGFsKC9rfQPTKp/MEMRXEvW86D9aiU//CiD0EpOO73F2BFtaj8ImrHO3H16Ir7Qh4hfziYEPtPzY6jDtNCQqojYXDyKdcFDgKWzfzhR76kNItVcYc+W+IxJm4YhrX2aRBbAzO3w7zi9Hlbq8sQ7Bj2/saNVz5b6neYa35HLxWPO8AnU2nz8CShUWyqGhLzLX5u1lIIolRnluyAssj4DeZYea/iTgV++fdK46WvZUgLiMZvrL8+igwOBgVKBtZDcr2HxTY+g6PLRV1xkPWJL6lQs56cS5c5Iz4wcYGlJ+vhd6JtufohrjFnoU4hAA6U7OanSjanEDB7fy+3X9a11+dID1OIkQxW2wJA13CYFE9iH07BE/5G3hu+P5WqwesapE+kSEBOwLlbNpZ4mNQe5VV3nxur4vZBGnEmiWZzhTY1YcK0X9Lp6VBToswKlEhTwsavpP4Aj0Wp09kuib9clP7Sjh+vfB/P/w==;c248rrqqvOqgLsa5reQvaQ=="
 ---

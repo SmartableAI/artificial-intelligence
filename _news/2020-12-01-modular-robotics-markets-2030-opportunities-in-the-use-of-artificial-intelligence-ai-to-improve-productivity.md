@@ -9,7 +9,7 @@ ampWebUrl: "https://markets.businessinsider.com/amp/news/modular-robotics-market
 cdnAmpWebUrl: "https://markets-businessinsider-com.cdn.ampproject.org/c/s/markets.businessinsider.com/amp/news/modular-robotics-markets-2030-opportunities-in-the-use-of-artificial-intelligence-ai-to-improve-productivity-1029849610"
 type: article
 quality: 93
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -25,6 +25,20 @@ topics:
   - AI
 
 related:
+  - title: "Global Artificial Intelligence (AI) for Security Market 2020 Key Aspects of the Industry by Segments to 2025"
+    excerpt: "The latest market study published by MarketQuest.biz entitled Global Artificial Intelligence (AI) for Security Market 2020 by Company, Type and Application, Forecast to 2025 comprises an outline of the market with crucial data in the form of tables,"
+    publishedDateTime: 2020-12-03T02:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-for-security-market-2020-key-aspects-of-the-industry-by-segments-to-2025-2020-12-02"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 80
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Modular Robotics Markets, 2030 - Opportunities in the Use of Artificial Intelligence (AI) to Improve Productivity"
     excerpt: "By Offering, Robot Type, Payload Capacity, End User - Global Industry Analysis and Growth Forecast to 2030\" report has been added to ResearchAndMarkets.com's offering. The revenue of the market will rise from $5."
     publishedDateTime: 2020-11-30T15:30:00Z
